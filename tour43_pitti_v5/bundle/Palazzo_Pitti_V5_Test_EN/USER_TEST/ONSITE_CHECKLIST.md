@@ -11,18 +11,19 @@ Bring this on the first test day, or have a staff member walk it. Each line says
 | ☐ | Caravaggio's Sleeping Cupid hangs in the Sala dell'Educazione di Giove (ministry catalogue says so; no uffizi.it page) | 007–008 | Change the room in 008 and the cue in 007 |
 | ☐ | Rubens's Consequences of War is in the Sala di Marte (only secondary sources give the room) | 024–025 | Move the cue; the track already says "usually hangs here" |
 | ☐ | The Doni portraits are in Saturn. Are their painted backs visible? | 020 | If the backs aren't visible, rephrase "look at the back" |
-| ☐ | Exit from Venus through the Sala delle Nicchie leads to the Palatine entrance atrium (Royal Apartments meeting point) | 032–033 | Fix the cue in 032 |
+| ☐ | Exit from Venus through the Sala delle Nicchie leads to the Palatine entrance atrium, with stairs/lift up to the second floor | 032–033 | Fix the cue in 032 |
 | ☐ | After 25 Oct 2026: the Iliad Room has reopened | 009 | Remove the detour line from 009 and the Iliad box in `build/route_sheet.py`; rebuild |
 
 ## Second floor
 
 | ✓ | Check | Tracks | If it's wrong |
 |---|---|---|---|
-| ☐ | Modern Art: from the landing, the corridor goes left | 034–035 | Fix the cue |
-| ☐ | Bezzuoli's portrait of Elisa Baciocchi is in the first rooms | 036 | Change the line |
-| ☐ | Fattori's Rotonda di Palmieri is on view, and in which room | 040–041 | Add the room to 041's card |
-| ☐ | Fashion museum: corridor goes right, two short flights of stairs, stair-lift working | 042–043 | Fix the cue |
-| ☐ | The Medici funeral garments are on display (official: permanently) | 044 | Hold the track if not |
+| ☐ | Modern Art: from the landing, the corridor goes left | 032–033 | Fix the cue |
+| ☐ | Bezzuoli's portrait of Elisa Baciocchi is in the first rooms | 034 | Change the line |
+| ☐ | Fattori's Rotonda di Palmieri is on view, and in which room | 038–039 | Add the room to 039's card |
+| ☐ | Fashion museum: corridor goes right, two short flights of stairs, stair-lift working | 040–041 | Fix the cue |
+| ☐ | The Medici funeral garments are on display (official: permanently) | 042 | Hold the track if not |
+| ☐ | Royal Apartments: from the Fashion museum, one floor down reaches the Palatine entrance atrium meeting point; the staff-led visit takes about 30 minutes; ticket arrangement as sold | 043–045 | Fix the cue in 043 / 045 |
 
 ## Ground floor
 

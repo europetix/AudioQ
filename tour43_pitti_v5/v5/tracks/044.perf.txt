@@ -1,28 +1,24 @@
-@id: 044 · v5.0 061 · old 058 · Medici funeral garments
-@section: Fashion and Costume
-@room: Medici garments
-@type: W
-@title: The funeral clothes of Cosimo I, Eleonora di Toledo and Don Garzia
-@where: In front of the case with the three Medici funeral garments, which are permanently on display. The museum does not use room numbers.
-@what: The sixteenth-century burial clothes of Cosimo I de' Medici, his wife Eleonora di Toledo and their son Don Garzia, recovered from their tombs in San Lorenzo and shown after long and complex restoration.
-@listen: Three Medici, one terrible winter, and why Eleonora's dress is not the one in her famous portrait, whatever the legend says.
-@brief: Speaking softly beside a case of fragile, centuries-old clothes; grave and tender, honest about the rumours and the legend, ending on quiet wonder.
-@pace: slow
-@energy: 2→3→2
-@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · https://research.aub.ac.uk/id/eprint/558 · old script 058 + findings G3 (A 058, B 058)
+@id: 044 · v5.0 047 · old 070–073 · Meeting point
+@section: Royal Apartments
+@room: Meeting point
+@type: R
+@title: Imperial and Royal Apartments — Before your visit
+@where: At the Royal Apartments meeting point in the entrance atrium of the Palatine Gallery, first floor. Play this while you wait for your group; museum staff lead the visit itself, so please keep the audio paused inside. Reservation is compulsory; be at the meeting point about five minutes before your slot.
+@what: Fourteen state rooms in the south wing of the first floor, lived in by the Medici, the Habsburg-Lorraine and the House of Savoy, shown in a staff-led group visit of about 30 minutes that starts in the Green Room.
+@listen: Who lived in these rooms, and the handful of things worth watching for while the staff lead you through.
+@brief: A friend at the door of a house they know well, giving quick, vivid pointers before the guided visit starts; warm and brisk, with a playful riddle near the end.
+@pace: medium
+@energy: 3→3, a small lift at the riddle, calm close
+@sources: https://uffizi.it/en/special-visits/tours-to-the-royal-apartments-of-the-pitti-palace · https://uffizi.it/en/royal-apartments/history · https://uffizi.it/en/news/riaprono-gli-appartamenti-reali-di-palazzo-pitti · https://www.uffizi.it/en/artworks/throne-room-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/blue-room-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/chapel-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/parrots-hall · old scripts 070–075 + findings G4, G6 §1.3
 ---
-[quietly] These clothes spent centuries in the dark, on the people who were buried in them. By rights, they shouldn't have survived at all.
+[warmly] In the rooms you're about to visit, three ruling families lived one after another. And none of them ever quite cleared out the one before.
 
-Cosimo the First was the first Medici grand duke of Tuscany. Eleonora di Toledo was his wife, the daughter of the Viceroy of Naples, mother of eleven children, and one of the most powerful women in Italy. Don Garzia was one of their younger sons, born in 1547.
+First came the Medici. In the late sixteen hundreds this wing was the apartment of Grand Prince Ferdinando, the brilliant, short-lived son of Cosimo the Third. Then the Lorraine grand dukes, who reworked the rooms from the later eighteenth century into the nineteenth. And last the House of Savoy, kings of a newly united Italy, who moved in when Florence became the capital in 1865. They kept the palace for half a century, before handing it to the state.
 
-[pause] In the late autumn of 1562, Eleonora travelled into the Maremma, the marshy coast of southern Tuscany, with Garzia and his older brother, Cardinal Giovanni. All three fell ill. Giovanni died first, in November. Garzia followed in December. And Eleonora died five days after him.
+[pause] So the visit is fourteen rooms and three layers of taste. Here's what to watch for.
 
-People talked, of course. A rumour went round, and lasted for centuries, that Cosimo had killed his own son in a rage, and that grief had killed Eleonora. It's almost certainly false. Doctors' reports from the time point to malaria, and studies of Eleonora's bones show she also had tuberculosis.
+In the Green Room, where you begin, look up at the ceiling canvas by the Neapolitan painter Luca Giordano, an allegory of peace between Florence and Fiesole. In the Throne Room, the Savoy throne waits under a canopy with their coat of arms. The Blue Room is full of faces. Ten Medici princes, cardinals and wives, painted by the Flemish court artist Justus Sustermans between about 1621 and 1645. [quietly] Then the Chapel. It began as Ferdinando's own alcove, and it's the one room where the Medici decoration survives almost intact.
 
-Cosimo, Eleonora and Garzia were all laid in the Medici vault at San Lorenzo, dressed in the clothes you see here. The tombs were opened in the nineteenth century and again in the twentieth. What came out was badly decayed, and it took long and painstaking restoration before these garments could go on show.
+[curious] In the Parrot Room, take a good look at the birds woven into the silk on the walls. Are they really parrots? [pause] Hold that thought. After that come the Queen's rooms, the King's rooms, and finally the King's Antechamber, the old entrance to the private apartment.
 
-[curious] Now, Eleonora's dress. You may have heard that it's the very dress she wears in Bronzino's famous portrait of her, in the Uffizi. It's a lovely legend. [pause] It isn't true. The portrait dress and the burial dress are two different gowns.
-
-But don't be disappointed. [warmly] The painted dress belongs to a picture. This one belonged to her, and she wore it on her last journey. Look at the cut of the bodice, the way the fabric was shaped to a real woman's body. More than four hundred and fifty years later, it still holds the outline of the person inside it.
-
-When you're ready, walk on into the galleries, where the rest of the collection is shown in rotation.
+Museum staff lead each small group through in about half an hour. Please pause this audio while you're inside, so that you can hear them, and so can everyone else. When you come back out, the story of these rooms continues under After your visit.

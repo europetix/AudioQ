@@ -6,7 +6,7 @@ WHAT'S NEW IN V5
 ================
 1. Walking order. Tracks now follow the museum's own one-way route through the
    Palatine Gallery (Rooms 1 -> 28, out through the Sala delle Nicchie), then the
-   Royal Apartments, the second floor, the ground floor and Boboli in the order
+   second floor, the Royal Apartments on the way back down, the ground floor and Boboli in the order
    you actually walk it. Every track ends by naming the next place to go.
 2. Accuracy. Placements and facts were checked against uffizi.it and
    independent sources (4-5 Oct 2026). V5.1 cuts 18 tracks whose room or content
@@ -24,14 +24,16 @@ WHAT YOU GET
 After you run the launcher, the tour is organised into one folder per section:
   00_Welcome/                              1 track
   01_Palatine_Gallery/                    31 tracks
-  02_Imperial_and_Royal_Apartments/        2 tracks  (before + after the guided visit)
-  03_Gallery_of_Modern_Art/                8 tracks
-  04_Museum_of_Fashion_and_Costume/        3 tracks
+  02_Gallery_of_Modern_Art/                8 tracks
+  03_Museum_of_Fashion_and_Costume/        3 tracks
+  04_Imperial_and_Royal_Apartments/        2 tracks  (separate ticket; on the way back down,
+                                                      before + after the guided visit)
   05_Russian_Icons_and_Palatine_Chapel/    3 tracks
   06_Boboli_Gardens/                      12 tracks
   07_Closing/                              1 track
-plus Palazzo_Pitti_Audio_Guide_Route.pdf (the traveller's route: which track to
-play where, room names as on the museum's signs; share it with the MP3s) and
+plus Palazzo_Pitti_Audio_Guide_Route.pdf (one page, the route at a glance:
+the eight stops in order, track numbers, floors and directions; share it with
+the MP3s) and
 USER_TEST/ (test plan, feedback form, on-site checklist).
 
 Track files are named  <play-order>_<room>_<title>.mp3

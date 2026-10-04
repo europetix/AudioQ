@@ -1,28 +1,24 @@
-@id: 038 · v5.0 052 · old NEW · Room 3
+@id: 038 · v5.0 055 · old 052 · Rooms 10–13
 @section: Modern Art
-@room: Room 3
-@type: W
-@title: Stefano Ussi — The Expulsion of the Duke of Athens
-@where: In Room 3 of the Gallery of Modern Art, in front of the huge history painting that fills one wall. Step back to take in the whole crowd.
-@what: Stefano Ussi, The Expulsion of the Duke of Athens, 1860, oil on canvas, 316 × 447 cm. First prize at the 1861 National Exhibition in Florence; gold medal at the 1867 Paris Exhibition.
-@listen: A tyrant thrown out of medieval Florence, painted at the very moment Tuscany was getting rid of its own ruler, with the painter hidden in the crowd.
-@brief: A friend who knows the secret in the crowd, teasing it at the start, telling the story with growing energy, and landing the reveal quietly.
+@room: Rooms 10–13
+@type: R
+@title: The Macchiaioli rooms
+@where: In Rooms 10 to 13, the heart of the Macchiaioli display; Room 6 holds their first experiments. Play this as you enter Room 10.
+@what: The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti, 1866, in Room 10; Zandomeneghi's two portraits of Diego Martelli and two Pissarro landscapes in Room 11; Silvestro Lega's Singing a Stornello, 1867, in Room 12; Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13.
+@listen: Who the Macchiaioli were, the friends and patrons around them, and what to look for in each of these four rooms.
+@brief: A friend in their favourite rooms of the building, relaxed and enthusiastic, pointing things out one room at a time.
 @pace: medium
 @energy: 3→4→3
-@sources: https://www.uffizi.it/en/artworks/expulsion-of-the-duke-of-athens · findings G3 (A 049 route, D)
+@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/artworks/singing-a-ditty · https://www.uffizi.it/en/artworks/fattori-magenta-en · old script 052 + findings G3 (A 052, B 052, D)
 ---
-[conspiratorial] Somewhere in this crowd, the painter has hidden himself. Keep an eye out for an armed man with a bandaged head. We'll come back to him.
+[lightly] Imagine being called a stain, and deciding to keep the name. Macchia is Italian for a patch, or a smudge. In the early eighteen sixties, critics used it to mock a group of painters in Florence who built their pictures from patches of colour instead of smooth, careful blending. The painters took the insult and wore it with pride.
 
-The story is from July 1343. Walter of Brienne, the Duke of Athens, ruled Florence, and Florence had had enough of him. Stefano Ussi took the scene straight from Machiavelli's Florentine Histories. We're inside the Bargello palace, and the duke is signing away his power.
+Their idea was simple and stubborn. Paint what you actually see, out of doors, in real light. Soldiers, farm workers, the coast, a quiet afternoon at home. This gallery holds one of the richest collections of their work anywhere.
 
-[pause] Look at the faces around him. Behind him stands his councillor, Cerretieri Visdomini, grim as a closed door. On the left, calm and composed, are the plotters. Archbishop Acciaioli stands with representatives of the nobles and of the people. From the right, a soldier gestures urgently. And through the window, the city is already celebrating.
+[pause] Take these rooms one at a time. Room ten centres on Cristiano Banti, painter and collector. Look for Giovanni Boldini's portrait of Alaide Banti.
 
-Now look at the size of it. More than three metres high and almost four and a half metres wide. Some of the figures were probably modelled by his friends.
+Room eleven belongs to Diego Martelli, the critic and patron who championed these painters. Federico Zandomeneghi painted him twice. [curious] And look for two landscapes by Camille Pissarro, a rare French Impressionist voice in this Tuscan company.
 
-[curious] But this isn't really a painting about 1343. Ussi painted it in 1860, and to Florentines that year, the subject was a mirror. Tuscany had just seen off its own ruler, the Lorraine grand duke Leopold the Second, the same man who was given Napoleon's marble head in the room you've just left. Ussi meant the old story as a tribute to that new one, the end of rule by foreign princes.
+In Room twelve, Silvestro Lega's Singing a Stornello, a folk song in a quiet interior. And in Room thirteen, Fattori's Italian Camp after the Battle of Magenta. Notice the title. Not the battle, with its charge and its glory. The camp, afterwards.
 
-The painting was a triumph. It won first prize at the National Exhibition in Florence, and a gold medal at the Paris Exhibition a few years later.
-
-[long pause] [quietly] Now find him. Among the armed men, there's one with his head bandaged, as if he'd been in the fight himself. That's Ussi. He didn't just paint the crowd that threw out a tyrant. He put himself in it.
-
-When you're ready, walk on through Room four to Room five, where the grand history paintings carry on.
+[warmly] One more of Fattori's best-loved pictures is in this gallery, though the museum doesn't say exactly where it hangs. Keep an eye out for a tiny panel of women under an awning by the sea. It has its own story when you find it.

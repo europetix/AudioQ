@@ -1,9 +1,9 @@
-@id: 034 · v5.0 048 · old 074–075 · After the visit
+@id: 045 · v5.0 048 · old 074–075 · After the visit
 @section: Royal Apartments
 @room: After the visit
 @type: R
 @title: Imperial and Royal Apartments — After your visit
-@where: Anywhere once your staff-led group has left the Royal Apartments, on the first floor. From here the main stairs and lifts go up to the second floor; if your visit came before the Palatine Gallery, staff can take you into it now.
+@where: Anywhere once your staff-led group has left the Royal Apartments, on the first floor. From here the main stairs and lifts go down to the courtyard and the ground-floor museums.
 @what: A look back at the apartments you have just walked through: French imperial silk, a Medici alcove turned chapel, a Savoy throne room and the rooms of Queen Margherita.
 @listen: The answer to the parrot riddle, and how three dynasties layered their lives into one set of rooms.
 @brief: Catching up with a friend just out of the guided visit; amused at the riddle's answer, then reflective, ending with clear directions.
@@ -21,4 +21,4 @@ The Medici left their mark where you'd least expect it. Ferdinando's alcove, his
 
 [quietly] Then, in 1919, King Victor Emmanuel the Third handed the whole palace to the state. Three dynasties, one set of rooms, and almost nothing thrown away.
 
-[pause] From here, take the main stairs or a lift up to the second floor. At the top, follow the corridor and turn left for the Gallery of Modern Art. If your visit came before the Palatine Gallery, the staff can take you straight into it, and its story begins in the very first room.
+[pause] From here, take the main stairs or a lift down to the courtyard. The Russian Icons and the Palatine Chapel are on the ground floor, opening off it. Follow the signs for the Palatine Chapel.

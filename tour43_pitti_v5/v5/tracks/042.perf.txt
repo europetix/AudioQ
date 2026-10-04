@@ -1,22 +1,28 @@
-@id: 042 · v5.0 058 · old 055 · Rooms 17–30
-@section: Modern Art
-@room: Rooms 17–30
-@type: R
-@title: Toward the twentieth century
-@where: In Room 17, at the start of the last stretch of the loop, which runs on to Room 30.
-@what: Later nineteenth-century portraits and sculpture, Fattori's La cugina Argia (around 1861) in Room 19, Symbolism and Divisionism, and early twentieth-century Italian painting, some of it given by private collectors.
-@listen: How Italian painting split after the Macchiaioli, and how the loop ends.
-@brief: A friend setting a brisker pace for the last stretch; clear and curious, then pointing the way on to the Fashion museum.
-@pace: medium
-@energy: 3→3→4
-@sources: https://www.uffizi.it/opere/la-cugina-argia · https://www.uffizi.it/en/online-exhibitions/en · https://pdf.uffizi.it/1779793775338-opere-trasferta-gam.pdf · old script 055 + findings G3 (A 055, B 055, C)
+@id: 042 · v5.0 061 · old 058 · Medici funeral garments
+@section: Fashion and Costume
+@room: Medici garments
+@type: W
+@title: The funeral clothes of Cosimo I, Eleonora di Toledo and Don Garzia
+@where: In front of the case with the three Medici funeral garments, which are permanently on display. The museum does not use room numbers.
+@what: The sixteenth-century burial clothes of Cosimo I de' Medici, his wife Eleonora di Toledo and their son Don Garzia, recovered from their tombs in San Lorenzo and shown after long and complex restoration.
+@listen: Three Medici, one terrible winter, and why Eleonora's dress is not the one in her famous portrait, whatever the legend says.
+@brief: Speaking softly beside a case of fragile, centuries-old clothes; grave and tender, honest about the rumours and the legend, ending on quiet wonder.
+@pace: slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · https://research.aub.ac.uk/id/eprint/558 · old script 058 + findings G3 (A 058, B 058)
 ---
-[curious] After the Macchiaioli, Italian painting stopped agreeing with itself. These last rooms show it heading off in several directions at once, and you can walk them at a brisker pace.
+[quietly] These clothes spent centuries in the dark, on the people who were buried in them. By rights, they shouldn't have survived at all.
 
-Room seventeen opens with portraits, the faces of a prosperous new middle class. In Room nineteen, look for one more Fattori, a quiet portrait known as La cugina Argia, his cousin Argia, painted around 1861. It's a nice farewell to the painter you've been following.
+Cosimo the First was the first Medici grand duke of Tuscany. Eleonora di Toledo was his wife, the daughter of the Viceroy of Naples, mother of eleven children, and one of the most powerful women in Italy. Don Garzia was one of their younger sons, born in 1547.
 
-[pause] Toward the end of the century, painters split. Some turned to Symbolism: moody, half-mystical pictures full of dreams and personifications. Others took up Divisionism, the Italian answer to French Pointillism, laying small strokes of pure colour side by side so that they shimmer when you stand back. Watch for both.
+[pause] In the late autumn of 1562, Eleonora travelled into the Maremma, the marshy coast of southern Tuscany, with Garzia and his older brother, Cardinal Giovanni. All three fell ill. Giovanni died first, in November. Garzia followed in December. And Eleonora died five days after him.
 
-Then, in the final rooms, the twentieth century arrives, some of it given to the gallery by private collectors. Take these rooms at your own pace.
+People talked, of course. A rumour went round, and lasted for centuries, that Cosimo had killed his own son in a rage, and that grief had killed Eleonora. It's almost certainly false. Doctors' reports from the time point to malaria, and studies of Eleonora's bones show she also had tuberculosis.
 
-That's the end of the Gallery of Modern Art. Follow the signs back to the landing, then go along the corridor to the right. A staircase of two short flights takes you into the Museum of Fashion and Costume, on this same floor. Play its track at the entrance.
+Cosimo, Eleonora and Garzia were all laid in the Medici vault at San Lorenzo, dressed in the clothes you see here. The tombs were opened in the nineteenth century and again in the twentieth. What came out was badly decayed, and it took long and painstaking restoration before these garments could go on show.
+
+[curious] Now, Eleonora's dress. You may have heard that it's the very dress she wears in Bronzino's famous portrait of her, in the Uffizi. It's a lovely legend. [pause] It isn't true. The portrait dress and the burial dress are two different gowns.
+
+But don't be disappointed. [warmly] The painted dress belongs to a picture. This one belonged to her, and she wore it on her last journey. Look at the cut of the bodice, the way the fabric was shaped to a real woman's body. More than four hundred and fifty years later, it still holds the outline of the person inside it.
+
+When you're ready, walk on into the galleries, where the rest of the collection is shown in rotation.

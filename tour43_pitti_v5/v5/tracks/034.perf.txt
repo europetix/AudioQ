@@ -1,24 +1,24 @@
-@id: 034 · v5.0 048 · old 074–075 · After the visit
-@section: Royal Apartments
-@room: After the visit
+@id: 034 · v5.0 050 · old 048 · Rooms 1–2
+@section: Modern Art
+@room: Rooms 1–2
 @type: R
-@title: Imperial and Royal Apartments — After your visit
-@where: Anywhere once your staff-led group has left the Royal Apartments, on the first floor. From here the main stairs and lifts go up to the second floor; if your visit came before the Palatine Gallery, staff can take you into it now.
-@what: A look back at the apartments you have just walked through: French imperial silk, a Medici alcove turned chapel, a Savoy throne room and the rooms of Queen Margherita.
-@listen: The answer to the parrot riddle, and how three dynasties layered their lives into one set of rooms.
-@brief: Catching up with a friend just out of the guided visit; amused at the riddle's answer, then reflective, ending with clear directions.
+@title: The Neoclassical rooms — marble, and Napoleon's years
+@where: In Rooms 1 and 2, the first rooms of the loop. Room 1 holds Tenerani's marble Psyche; Room 2 holds Benvenuti's large canvas of the Saxons' oath and Canova's colossal head of Napoleon.
+@what: Neoclassical sculpture and painting from the Napoleonic and early Lorraine years: Pietro Tenerani, Psyche Abandoned, c.1819; Pietro Benvenuti, The Saxons' Oath to Napoleon after the Battle of Jena, 1812; Giuseppe Bezzuoli, Portrait of Elisa Bonaparte Baciocchi, c.1814.
+@listen: What Neoclassicism wanted from art, and how Napoleon's family came to fill these first rooms.
+@brief: Strolling with a friend through two cool, calm rooms; light and clear, with a quiet nudge to remember one painter's name.
 @pace: medium
-@energy: 3→4→2→3
-@sources: https://www.uffizi.it/en/artworks/parrots-hall · https://uffizi.it/en/royal-apartments/history · https://www.uffizi.it/en/artworks/chapel-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/oval-room-royal-apartments-pitti-palace · https://uffizi.it/en/special-visits/tours-to-the-royal-apartments-of-the-pitti-palace · old scripts 070–075 + findings G4, G6 §1.3–1.4
+@energy: 2→3
+@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · https://www.uffizi.it/en/online-exhibitions/napoleon-uffizi · old script 048 + findings G3 (A 048, B 048, D)
 ---
-[amused] So. Were they parrots?
+[lightly] The first figure in this gallery is a girl who's been left behind. In Room one, Pietro Tenerani's marble Psyche has just been abandoned by Cupid, as the old myth tells it. He carved her around 1819, and she is about as calm as heartbreak gets.
 
-They were eagles. The silk in that room is French, woven around 1810, and the bird in each medallion was meant to be Napoleon's imperial eagle. When the Lorraine grand duke Ferdinand the Third came home to Florence in 1814, after Napoleon's fall, he brought the hangings with him. [pause] The Florentines took one look at the proud imperial bird and called it a parrot. The name stuck.
+That calm is the whole point. Neoclassical artists were reacting against the swirl and drama of the Baroque. They looked back to ancient Greece and Rome for something cleaner. Clear lines. Balanced compositions. Cool colour. Feeling, yes, but held in check.
 
-That one room is the whole apartment in miniature. Nobody here ever started from scratch. Each family moved into the last one's rooms and changed only what it needed.
+[pause] Then Room two, and the mood changes. Suddenly it's all about one man.
 
-The Medici left their mark where you'd least expect it. Ferdinando's alcove, his private bedchamber, became a chapel under the Lorraine. Even so, its white and gold stucco, with mottoes for Ferdinando and his wife Violante, survived almost untouched. The Lorraine brought their silks and the little Oval Cabinet, all Rococo curves. The Savoy brought a throne under their own coat of arms. And Queen Margherita made a home in rooms hung with blue and yellow brocade. [wry] She's the queen the pizza is said to be named after, though that story may be better than it is true.
+The great canvas here is by Pietro Benvenuti, painted in 1812. It shows the Saxons swearing an oath to Napoleon after the Battle of Jena. In these first rooms hangs Giuseppe Bezzuoli's portrait of Napoleon's sister, Elisa Bonaparte Baciocchi. [curious] Remember Bezzuoli's name, by the way. He turns up again a few rooms on, in a story about one of his students.
 
-[quietly] Then, in 1919, King Victor Emmanuel the Third handed the whole palace to the state. Three dynasties, one set of rooms, and almost nothing thrown away.
+These rooms are about the Napoleonic years in Tuscany, and about the people who paid for art here, before and after the emperor fell. Grand history and family portraits hang side by side.
 
-[pause] From here, take the main stairs or a lift up to the second floor. At the top, follow the corridor and turn left for the Gallery of Modern Art. If your visit came before the Palatine Gallery, the staff can take you straight into it, and its story begins in the very first room.
+And in Room two there's also a colossal marble head of Napoleon himself, far bigger than life. It has quite a story, including how it ended up in Florence at all. Stand in front of it to hear it.

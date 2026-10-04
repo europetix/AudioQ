@@ -1,24 +1,22 @@
-@id: 040 · v5.0 055 · old 052 · Rooms 10–13
+@id: 040 · v5.0 058 · old 055 · Rooms 17–30
 @section: Modern Art
-@room: Rooms 10–13
+@room: Rooms 17–30
 @type: R
-@title: The Macchiaioli rooms
-@where: In Rooms 10 to 13, the heart of the Macchiaioli display; Room 6 holds their first experiments. Play this as you enter Room 10.
-@what: The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti, 1866, in Room 10; Zandomeneghi's two portraits of Diego Martelli and two Pissarro landscapes in Room 11; Silvestro Lega's Singing a Stornello, 1867, in Room 12; Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13.
-@listen: Who the Macchiaioli were, the friends and patrons around them, and what to look for in each of these four rooms.
-@brief: A friend in their favourite rooms of the building, relaxed and enthusiastic, pointing things out one room at a time.
+@title: Toward the twentieth century
+@where: In Room 17, at the start of the last stretch of the loop, which runs on to Room 30.
+@what: Later nineteenth-century portraits and sculpture, Fattori's La cugina Argia (around 1861) in Room 19, Symbolism and Divisionism, and early twentieth-century Italian painting, some of it given by private collectors.
+@listen: How Italian painting split after the Macchiaioli, and how the loop ends.
+@brief: A friend setting a brisker pace for the last stretch; clear and curious, then pointing the way on to the Fashion museum.
 @pace: medium
-@energy: 3→4→3
-@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/artworks/singing-a-ditty · https://www.uffizi.it/en/artworks/fattori-magenta-en · old script 052 + findings G3 (A 052, B 052, D)
+@energy: 3→3→4
+@sources: https://www.uffizi.it/opere/la-cugina-argia · https://www.uffizi.it/en/online-exhibitions/en · https://pdf.uffizi.it/1779793775338-opere-trasferta-gam.pdf · old script 055 + findings G3 (A 055, B 055, C)
 ---
-[lightly] Imagine being called a stain, and deciding to keep the name. Macchia is Italian for a patch, or a smudge. In the early eighteen sixties, critics used it to mock a group of painters in Florence who built their pictures from patches of colour instead of smooth, careful blending. The painters took the insult and wore it with pride.
+[curious] After the Macchiaioli, Italian painting stopped agreeing with itself. These last rooms show it heading off in several directions at once, and you can walk them at a brisker pace.
 
-Their idea was simple and stubborn. Paint what you actually see, out of doors, in real light. Soldiers, farm workers, the coast, a quiet afternoon at home. This gallery holds one of the richest collections of their work anywhere.
+Room seventeen opens with portraits, the faces of a prosperous new middle class. In Room nineteen, look for one more Fattori, a quiet portrait known as La cugina Argia, his cousin Argia, painted around 1861. It's a nice farewell to the painter you've been following.
 
-[pause] Take these rooms one at a time. Room ten centres on Cristiano Banti, painter and collector. Look for Giovanni Boldini's portrait of Alaide Banti.
+[pause] Toward the end of the century, painters split. Some turned to Symbolism: moody, half-mystical pictures full of dreams and personifications. Others took up Divisionism, the Italian answer to French Pointillism, laying small strokes of pure colour side by side so that they shimmer when you stand back. Watch for both.
 
-Room eleven belongs to Diego Martelli, the critic and patron who championed these painters. Federico Zandomeneghi painted him twice. [curious] And look for two landscapes by Camille Pissarro, a rare French Impressionist voice in this Tuscan company.
+Then, in the final rooms, the twentieth century arrives, some of it given to the gallery by private collectors. Take these rooms at your own pace.
 
-In Room twelve, Silvestro Lega's Singing a Stornello, a folk song in a quiet interior. And in Room thirteen, Fattori's Italian Camp after the Battle of Magenta. Notice the title. Not the battle, with its charge and its glory. The camp, afterwards.
-
-[warmly] One more of Fattori's best-loved pictures is in this gallery, though the museum doesn't say exactly where it hangs. Keep an eye out for a tiny panel of women under an awning by the sea. It has its own story when you find it.
+That's the end of the Gallery of Modern Art. Follow the signs back to the landing, then go along the corridor to the right. A staircase of two short flights takes you into the Museum of Fashion and Costume, on this same floor. Play its track at the entrance.

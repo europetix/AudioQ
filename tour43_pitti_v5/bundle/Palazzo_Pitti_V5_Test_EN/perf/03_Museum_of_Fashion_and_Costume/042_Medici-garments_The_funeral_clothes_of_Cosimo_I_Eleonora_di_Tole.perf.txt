@@ -1,4 +1,4 @@
-@id: 044 · v5.0 061 · old 058 · Medici funeral garments
+@id: 042 · v5.0 061 · old 058 · Medici funeral garments
 @section: Fashion and Costume
 @room: Medici garments
 @type: W

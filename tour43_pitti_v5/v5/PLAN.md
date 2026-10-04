@@ -1,11 +1,12 @@
 # PITTI V5.1 — MASTER RUNNING ORDER (61 tracks) · 5 Oct 2026
 
-V5.1 = V5.0 (79 tracks, below) minus 18 cut tracks (held in `v5/held/cut_5oct2026/`, reasons in `v5/RENUMBER_5OCT2026.md`), renumbered.
-Generated from plan.json. The V5.0 table further down is kept for history (its NEW column = V5.0 numbers).
+V5.1 = V5.0 (79 tracks, below) minus 18 cut tracks (held in `v5/held/cut_5oct2026/`, reasons in `v5/RENUMBER_5OCT2026.md`), renumbered,
+with the Royal Apartments (separate ticket) moved after Fashion & Costume, on the way back down. Generated from plan.json.
+The V5.0 table further down is kept for history (its NEW column = V5.0 numbers).
 
 | V5.1 | V5.0 | Section | Room | Track | Words |
 |---|---|---|---|---|---|
-| 001 | 001 | Opening | Piazza Pitti | Piazza Pitti — Before you go in | 342 |
+| 001 | 001 | Opening | Piazza Pitti | Piazza Pitti — Before you go in | 353 |
 | 002 | 002 | Palatine Gallery | Rooms 1–2 | The Palatine Gallery — Antechamber and Gallery of the Statues | 251 |
 | 003 | 003 | Palatine Gallery | Room 3 | The Castagnoli Room | 223 |
 | 004 | 004 | Palatine Gallery | Room 3 | The Table of the Muses | 358 |
@@ -36,20 +37,20 @@ Generated from plan.json. The V5.0 table further down is kept for history (its N
 | 029 | 043 | Palatine Gallery | Room 28 | Canova — Venus Italica | 330 |
 | 030 | 044 | Palatine Gallery | Room 28 | Titian — The Concert | 329 |
 | 031 | 045 | Palatine Gallery | Room 28 | Titian — Portrait of Pietro Aretino | 312 |
-| 032 | 046 | Palatine Gallery | Room 28 | Titian — Portrait of a Lady (La Bella) | 327 |
-| 033 | 047 | Imperial & Royal Apartments | Meeting point | Imperial and Royal Apartments — Before your visit | 301 |
-| 034 | 048 | Imperial & Royal Apartments | After the visit | Imperial and Royal Apartments — After your visit | 278 |
-| 035 | 049 | Gallery of Modern Art | Entrance | Gallery of Modern Art — A different century | 206 |
-| 036 | 050 | Gallery of Modern Art | Rooms 1–2 | The Neoclassical rooms — marble, and Napoleon's years | 233 |
-| 037 | 051 | Gallery of Modern Art | Room 2 | Canova and workshop — Colossal Head of Napoleon | 316 |
-| 038 | 052 | Gallery of Modern Art | Room 3 | Stefano Ussi — The Expulsion of the Duke of Athens | 312 |
-| 039 | 053 | Gallery of Modern Art | Room 5 | Romanticism and history painting | 247 |
-| 040 | 055 | Gallery of Modern Art | Rooms 10–13 | The Macchiaioli rooms | 244 |
-| 041 | 057 | Gallery of Modern Art | Macchiaioli rooms | Giovanni Fattori — La Rotonda di Palmieri | 286 |
-| 042 | 058 | Gallery of Modern Art | Rooms 17–30 | Toward the twentieth century | 200 |
-| 043 | 060 | Museum of Fashion & Costume | Entrance | The Palazzina della Meridiana | 227 |
-| 044 | 061 | Museum of Fashion & Costume | Medici garments | The funeral clothes of Cosimo I, Eleonora di Toledo and Don Garzia | 339 |
-| 045 | 062 | Museum of Fashion & Costume | Galleries | Three centuries of dress — the rotating display | 292 |
+| 032 | 046 | Palatine Gallery | Room 28 | Titian — Portrait of a Lady (La Bella) | 326 |
+| 033 | 049 | Gallery of Modern Art | Entrance | Gallery of Modern Art — A different century | 206 |
+| 034 | 050 | Gallery of Modern Art | Rooms 1–2 | The Neoclassical rooms — marble, and Napoleon's years | 233 |
+| 035 | 051 | Gallery of Modern Art | Room 2 | Canova and workshop — Colossal Head of Napoleon | 316 |
+| 036 | 052 | Gallery of Modern Art | Room 3 | Stefano Ussi — The Expulsion of the Duke of Athens | 312 |
+| 037 | 053 | Gallery of Modern Art | Room 5 | Romanticism and history painting | 247 |
+| 038 | 055 | Gallery of Modern Art | Rooms 10–13 | The Macchiaioli rooms | 244 |
+| 039 | 057 | Gallery of Modern Art | Macchiaioli rooms | Giovanni Fattori — La Rotonda di Palmieri | 286 |
+| 040 | 058 | Gallery of Modern Art | Rooms 17–30 | Toward the twentieth century | 200 |
+| 041 | 060 | Museum of Fashion & Costume | Entrance | The Palazzina della Meridiana | 227 |
+| 042 | 061 | Museum of Fashion & Costume | Medici garments | The funeral clothes of Cosimo I, Eleonora di Toledo and Don Garzia | 339 |
+| 043 | 062 | Museum of Fashion & Costume | Galleries | Three centuries of dress — the rotating display | 312 |
+| 044 | 047 | Imperial & Royal Apartments | Meeting point | Imperial and Royal Apartments — Before your visit | 301 |
+| 045 | 048 | Imperial & Royal Apartments | After the visit | Imperial and Royal Apartments — After your visit | 259 |
 | 046 | 063 | Russian Icons & Palatine Chapel | Rooms 1–4 | Museum of Russian Icons — Cosimo III's summer apartment | 271 |
 | 047 | 064 | Russian Icons & Palatine Chapel | Room 1 | The two oldest icons — The Beheading of Saint John the Baptist and "All Creatures Rejoice in You" | 341 |
 | 048 | 065 | Russian Icons & Palatine Chapel | Chapel | The Palatine Chapel | 249 |
@@ -67,7 +68,7 @@ Generated from plan.json. The V5.0 table further down is kept for history (its N
 | 060 | 078 | Boboli Gardens | Ways out | Ways out of the garden | 269 |
 | 061 | 079 | Closing | Anywhere | Closing | 352 |
 
-Total: 61 tracks, 17696 words, ~142 min at 125 wpm.
+Total: 61 tracks, 17707 words, ~142 min at 125 wpm.
 
 ---
 

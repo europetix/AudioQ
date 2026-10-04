@@ -1,24 +1,26 @@
-@id: 035 · v5.0 049 · old 047 · Entrance
+@id: 035 · v5.0 051 · old 049 · Room 2
 @section: Modern Art
-@room: Entrance
-@type: R
-@title: Gallery of Modern Art — A different century
-@where: At the entrance to the Gallery of Modern Art on the second floor. From the stairs or lifts, follow the corridor and turn left; the rooms are numbered from 1 to 30 and run in a loop.
-@what: Thirty rooms of Italian painting and sculpture from the late 18th to the early 20th century, in rooms once used by the Lorraine grand dukes, with one of the richest Macchiaioli collections anywhere. The gallery opened in 1924.
-@listen: What "modern" meant when the gallery opened, and how the loop of rooms tells its story.
-@brief: A friend at the top of the stairs, gently resetting expectations with a smile, then laying out the walk ahead in plain words.
+@room: Room 2
+@type: W
+@title: Canova and workshop — Colossal Head of Napoleon
+@where: In Room 2 of the Gallery of Modern Art, in front of the colossal marble head of Napoleon.
+@what: Antonio Canova and his workshop, Colossal Head of Napoleon, marble, about 1810, after the portrait Canova modelled from life in Paris in 1802. Given to Grand Duke Leopold II by Louis Bonaparte in 1845.
+@listen: Five sittings with the First Consul, a face that became a bestseller, and the strange thank-you present that brought it to Florence.
+@brief: A friend telling a good political story in front of a big marble face; curious at first, frank about the doubt, wry at the irony of the gift.
 @pace: medium
-@energy: 3→3
-@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · old script 047 + findings G3 (A, B 047), G6 §1.4
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/online-exhibitions/napoleon-uffizi · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · old script 049 + findings G3 (A 049, B 049)
 ---
-[amused] When this gallery opened in 1924, the word modern meant something rather different. There's no Picasso up here. No Matisse. What there is, across thirty numbered rooms, is Italian painting and sculpture from the late seventeen hundreds to the early twentieth century.
+[curious] Napoleon met Antonio Canova five times in Paris, and he wasn't an emperor yet. It was 1802. He was First Consul of France, thirty-three years old, and he wanted his face fixed in marble by the most famous sculptor in Europe.
 
-And at its heart, one of the richest collections anywhere of the Macchiaioli. They were Tuscan painters who took their easels outdoors and built pictures out of patches of light and colour, in the years when Italy was becoming a single country.
+Canova, it is said, took the job reluctantly. He was Italian, and French armies had been carrying Italian art off to Paris. If you've walked through the Palatine Gallery, you've already seen the proof. Canova's Venus Italica stands there because the ancient Medici Venus had been taken to France. [pause] But he went, and he modelled the head in clay, from life.
 
-The rooms themselves belong to the story. These were family rooms of the Lorraine grand dukes.
+Now look at the scale. This isn't life-size. It's colossal. Canova idealised him, the way the ancients idealised their rulers. But not too far. The brows are heavy. The mouth is set. Whatever he felt about the sitter, he carved the face of a real man.
 
-[pause] The loop runs roughly in order of time. Neoclassicism and Napoleon's years come first. Then the grand history paintings. In the middle of the loop, the Macchiaioli, with portraits and landscapes around them. And in the final rooms, later Tuscan painting, Symbolism and the early twentieth century.
+[pause] Here's the twist. This marble probably isn't all Canova's own work. The museum gives it to Canova and his workshop, around 1810, and says it is only traditionally believed to be his. The head became a kind of bestseller. Copies were turned out in the marble workshops of Carrara, sponsored by Napoleon's sister Elisa, the woman you may have just seen in Bezzuoli's portrait.
 
-[warmly] Watch the century change as you walk. It starts with marble gods and emperors. By the middle of the loop, it's painting soldiers, woodcutters and women sitting in the shade by the sea.
+[wry] And then there's how this one reached Florence. In 1845, Napoleon's brother Louis Bonaparte gave it to Grand Duke Leopold the Second, to thank him for his hospitality during Louis's exile in Florence. Leopold's family, the Lorraine, had only been able to come home to Florence once Napoleon fell. So the conqueror's face ended up in their palace, as a thank-you present.
 
-Room one is where the loop begins. The first two rooms hold the Neoclassical work, and a very famous face waits for you in Room two.
+As for Canova, he turned down Napoleon's invitation to move to Paris as his sculptor. After Waterloo, he worked to bring Italy's looted art back home.
+
+[lightly] The enormous painting in Room three, next door, is about another ruler who outstayed his welcome.

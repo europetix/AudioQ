@@ -1,24 +1,28 @@
-@id: 036 · v5.0 050 · old 048 · Rooms 1–2
+@id: 036 · v5.0 052 · old NEW · Room 3
 @section: Modern Art
-@room: Rooms 1–2
-@type: R
-@title: The Neoclassical rooms — marble, and Napoleon's years
-@where: In Rooms 1 and 2, the first rooms of the loop. Room 1 holds Tenerani's marble Psyche; Room 2 holds Benvenuti's large canvas of the Saxons' oath and Canova's colossal head of Napoleon.
-@what: Neoclassical sculpture and painting from the Napoleonic and early Lorraine years: Pietro Tenerani, Psyche Abandoned, c.1819; Pietro Benvenuti, The Saxons' Oath to Napoleon after the Battle of Jena, 1812; Giuseppe Bezzuoli, Portrait of Elisa Bonaparte Baciocchi, c.1814.
-@listen: What Neoclassicism wanted from art, and how Napoleon's family came to fill these first rooms.
-@brief: Strolling with a friend through two cool, calm rooms; light and clear, with a quiet nudge to remember one painter's name.
+@room: Room 3
+@type: W
+@title: Stefano Ussi — The Expulsion of the Duke of Athens
+@where: In Room 3 of the Gallery of Modern Art, in front of the huge history painting that fills one wall. Step back to take in the whole crowd.
+@what: Stefano Ussi, The Expulsion of the Duke of Athens, 1860, oil on canvas, 316 × 447 cm. First prize at the 1861 National Exhibition in Florence; gold medal at the 1867 Paris Exhibition.
+@listen: A tyrant thrown out of medieval Florence, painted at the very moment Tuscany was getting rid of its own ruler, with the painter hidden in the crowd.
+@brief: A friend who knows the secret in the crowd, teasing it at the start, telling the story with growing energy, and landing the reveal quietly.
 @pace: medium
-@energy: 2→3
-@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · https://www.uffizi.it/en/online-exhibitions/napoleon-uffizi · old script 048 + findings G3 (A 048, B 048, D)
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/expulsion-of-the-duke-of-athens · findings G3 (A 049 route, D)
 ---
-[lightly] The first figure in this gallery is a girl who's been left behind. In Room one, Pietro Tenerani's marble Psyche has just been abandoned by Cupid, as the old myth tells it. He carved her around 1819, and she is about as calm as heartbreak gets.
+[conspiratorial] Somewhere in this crowd, the painter has hidden himself. Keep an eye out for an armed man with a bandaged head. We'll come back to him.
 
-That calm is the whole point. Neoclassical artists were reacting against the swirl and drama of the Baroque. They looked back to ancient Greece and Rome for something cleaner. Clear lines. Balanced compositions. Cool colour. Feeling, yes, but held in check.
+The story is from July 1343. Walter of Brienne, the Duke of Athens, ruled Florence, and Florence had had enough of him. Stefano Ussi took the scene straight from Machiavelli's Florentine Histories. We're inside the Bargello palace, and the duke is signing away his power.
 
-[pause] Then Room two, and the mood changes. Suddenly it's all about one man.
+[pause] Look at the faces around him. Behind him stands his councillor, Cerretieri Visdomini, grim as a closed door. On the left, calm and composed, are the plotters. Archbishop Acciaioli stands with representatives of the nobles and of the people. From the right, a soldier gestures urgently. And through the window, the city is already celebrating.
 
-The great canvas here is by Pietro Benvenuti, painted in 1812. It shows the Saxons swearing an oath to Napoleon after the Battle of Jena. In these first rooms hangs Giuseppe Bezzuoli's portrait of Napoleon's sister, Elisa Bonaparte Baciocchi. [curious] Remember Bezzuoli's name, by the way. He turns up again a few rooms on, in a story about one of his students.
+Now look at the size of it. More than three metres high and almost four and a half metres wide. Some of the figures were probably modelled by his friends.
 
-These rooms are about the Napoleonic years in Tuscany, and about the people who paid for art here, before and after the emperor fell. Grand history and family portraits hang side by side.
+[curious] But this isn't really a painting about 1343. Ussi painted it in 1860, and to Florentines that year, the subject was a mirror. Tuscany had just seen off its own ruler, the Lorraine grand duke Leopold the Second, the same man who was given Napoleon's marble head in the room you've just left. Ussi meant the old story as a tribute to that new one, the end of rule by foreign princes.
 
-And in Room two there's also a colossal marble head of Napoleon himself, far bigger than life. It has quite a story, including how it ended up in Florence at all. Stand in front of it to hear it.
+The painting was a triumph. It won first prize at the National Exhibition in Florence, and a gold medal at the Paris Exhibition a few years later.
+
+[long pause] [quietly] Now find him. Among the armed men, there's one with his head bandaged, as if he'd been in the fight himself. That's Ussi. He didn't just paint the crowd that threw out a tyrant. He put himself in it.
+
+When you're ready, walk on through Room four to Room five, where the grand history paintings carry on.

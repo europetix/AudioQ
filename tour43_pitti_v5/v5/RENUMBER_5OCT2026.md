@@ -84,3 +84,23 @@ Cut tracks are kept unchanged in `v5/held/cut_5oct2026/` (V5.0 numbers); to rest
 | 077 | 059 |
 | 078 | 060 |
 | 079 | 061 |
+
+## Second reorder, 5 Oct 2026 (user): Royal Apartments moved after Fashion & Costume
+
+The Royal Apartments need a separate ticket, so they are visited on the way back down from the second floor. Section folders: 02 Modern Art, 03 Fashion & Costume, 04 Royal Apartments. Tracks 001–032 and 046–061 unchanged. The table above gives the first V5.1 numbering; apply this second step after it:
+
+| V5.1 (first) | V5.1 (final) |
+|---|---|
+| 033 | 044 |
+| 034 | 045 |
+| 035 | 033 |
+| 036 | 034 |
+| 037 | 035 |
+| 038 | 036 |
+| 039 | 037 |
+| 040 | 038 |
+| 041 | 039 |
+| 042 | 040 |
+| 043 | 041 |
+| 044 | 042 |
+| 045 | 043 |

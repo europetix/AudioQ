@@ -6,9 +6,9 @@ shutil.rmtree(B, ignore_errors=True); os.makedirs(B)
 SECTIONS = [  # (@section value, display, folder)
  ("Opening", "Opening", "00_Welcome"),
  ("Palatine", "Palatine Gallery", "01_Palatine_Gallery"),
- ("Royal Apartments", "Imperial & Royal Apartments", "02_Imperial_and_Royal_Apartments"),
- ("Modern Art", "Gallery of Modern Art", "03_Gallery_of_Modern_Art"),
- ("Fashion and Costume", "Museum of Fashion & Costume", "04_Museum_of_Fashion_and_Costume"),
+ ("Modern Art", "Gallery of Modern Art", "02_Gallery_of_Modern_Art"),
+ ("Fashion and Costume", "Museum of Fashion & Costume", "03_Museum_of_Fashion_and_Costume"),
+ ("Royal Apartments", "Imperial & Royal Apartments", "04_Imperial_and_Royal_Apartments"),  # V5.1: after Fashion, on the way back down (separate ticket)
  ("Russian Icons and Chapel", "Russian Icons & Palatine Chapel", "05_Russian_Icons_and_Palatine_Chapel"),
  ("Boboli", "Boboli Gardens", "06_Boboli_Gardens"),
  ("Closing", "Closing", "07_Closing"),

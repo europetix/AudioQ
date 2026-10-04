@@ -1,28 +1,22 @@
-@id: 041 · v5.0 057 · old 054 · Macchiaioli rooms
-@section: Modern Art
-@room: Macchiaioli rooms
-@type: W
-@title: Giovanni Fattori — La Rotonda di Palmieri
-@where: In front of Fattori's Rotonda di Palmieri, if it is on view; the museum does not publish its room. It is tiny, only 12 by 35 centimetres, so look closely along the walls of the Macchiaioli rooms.
-@what: Giovanni Fattori, La Rotonda di Palmieri, 1866, oil on panel, 12 × 35 cm: seven women sitting in the shade of a long ochre awning at the Palmieri baths in Livorno.
-@listen: Why a picture the size of a long envelope is one of the best-loved in the gallery, and how much Fattori could say with a few patches of colour.
-@brief: Leaning in close with a friend to something small and lovely; light, warm and delighted, slowing down to savour the colour.
-@pace: medium-slow
-@energy: 3→4→3
-@sources: https://www.uffizi.it/en/artworks/women-garden-dress · old script 054 + findings G3 (A 054, B 054)
+@id: 041 · v5.0 060 · old 057 · Entrance
+@section: Fashion and Costume
+@room: Entrance
+@type: R
+@title: The Palazzina della Meridiana
+@where: At the entrance to the Museum of Fashion and Costume, in the Palazzina della Meridiana on the second floor, reached from the landing along the corridor to the right and a staircase of two short flights, with a stair-lift. This is a dead end: you leave the way you came.
+@what: A small palace joined to the south wing of Palazzo Pitti, begun in 1776 by Gaspare Maria Paoletti for Grand Duke Pietro Leopoldo and completed in 1830 by Pasquale Poccianti. Since 1983 it has housed Italy's first state museum of fashion history, shown in rotation.
+@listen: How a beam of noon sunlight gave this building its name, and how the museum works.
+@brief: A friend at the threshold of a quieter, more intimate building; curious and light, savouring the sunlight story, then practical.
+@pace: medium
+@energy: 3→3
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · old script 057 + findings G3 (A 057, B 057, C 057, E 056–057), G6 §1.4
 ---
-[lightly] One of the most loved paintings in this gallery is twelve centimetres high. If you've found it, well done. Plenty of people walk straight past.
+[curious] This building is named after a spot of sunlight. More exactly, after the line it travels along.
 
-Fattori painted it in 1866, at the Bagni Palmieri, a bathing establishment on the seafront at Livorno, his home town. The rotonda of the title was part of the bathing establishment, out over the sea. Over it stretches a long ochre awning for shade. And under the awning, in a row, sit seven women.
+In 1699, Vincenzo Viviani, a pupil of Galileo, made a meridian in the vestibule of Grand Prince Ferdinando de' Medici's apartment. It lies under a vault painted by Anton Domenico Gabbiani with an Allegory of Time and the Arts. In that painted vault there's a tiny hole. At noon the sun shines through it, and a small bright spot falls on a line in the floor, at a different point for every day of the year. [pause] Time painted on the ceiling. Time measured on the floor.
 
-They aren't here to swim. They've come to sit out of the sun and take the sea air, fully dressed. Nothing is happening. [pause] That's the subject.
+The little palace itself came later. It was begun for Grand Duke Pietro Leopoldo, and only finished in 1830, under Leopold the Second. The Lorraine and later the Savoy lived here.
 
-Now lean in. None of the figures is bigger than your fingernail, and yet each one is a person. One leans forward. One sits back. One turns toward the sea. You can't make out a single face. You can read every posture.
+[warmly] Today it holds Italy's first state museum devoted to the history of fashion, and to what clothes say about the people who wear them. The collection runs to more than fifteen thousand pieces, from the eighteenth century to today. Silk and lace don't like light, so only a part is shown at a time, and the displays change roughly once a year.
 
-[warmly] And look at how it's made. The ochre band of the awning, the blue of the water, the soft greys of the dresses, the strip of coast. Each one is a patch of colour, set down beside the next without blending. This is the macchia at its purest. Fattori was about forty. Monet's Impression, Sunrise was still six years away.
-
-He probably worked from quick studies, then built this up later. Either way, it doesn't feel composed. It feels glimpsed.
-
-[amused] The costume museum on this floor even keeps a woman's garden dress whose shape its curators compare to the dresses worn right here.
-
-When you're ready, follow the numbers on. Rooms fourteen and fifteen bring back the big history paintings, Room sixteen has a bust of Verdi by Gemito, and Room seventeen begins the last stretch of the loop.
+One thing never changes. The oldest and rarest garments here are always on show: the clothes three Medici were buried in, more than four hundred years ago. Look for them first.

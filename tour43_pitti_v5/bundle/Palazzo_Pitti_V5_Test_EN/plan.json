@@ -11,7 +11,7 @@
  "silent_tail_seconds": 2.0,
  "mastering": "-16 LUFS / -1.5 dBTP, 96 kbps mono",
  "total_tracks": 61,
- "total_words": 17696,
+ "total_words": 17707,
  "total_min": 142,
  "sections": [
   {
@@ -25,19 +25,19 @@
    "tracks": 31
   },
   {
-   "section": "Imperial & Royal Apartments",
-   "folder": "02_Imperial_and_Royal_Apartments",
-   "tracks": 2
-  },
-  {
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "tracks": 8
   },
   {
    "section": "Museum of Fashion & Costume",
-   "folder": "04_Museum_of_Fashion_and_Costume",
+   "folder": "03_Museum_of_Fashion_and_Costume",
    "tracks": 3
+  },
+  {
+   "section": "Imperial & Royal Apartments",
+   "folder": "04_Imperial_and_Royal_Apartments",
+   "tracks": 2
   },
   {
    "section": "Russian Icons & Palatine Chapel",
@@ -63,7 +63,7 @@
    "room": "Piazza Pitti",
    "title": "Piazza Pitti — Before you go in",
    "register": "ANCHOR",
-   "words": 342,
+   "words": 353,
    "where": "On Piazza Pitti, facing the palace. The ticket office is on the right-hand side of the façade; the way in is the central portal into the Ammannati Courtyard, where the main staircase and the lifts are on the right-hand side.",
    "what": "The long rusticated stone front of Palazzo Pitti, begun in the fifteenth century for the banker Luca Pitti, later home to the Medici, the Habsburg-Lorraine grand dukes and the kings of Italy.",
    "listen": "How a banker's house became the seat of three dynasties, and how the museums inside are laid out.",
@@ -559,7 +559,7 @@
    "room": "Room 28",
    "title": "Titian — Portrait of a Lady (La Bella)",
    "register": "W",
-   "words": 327,
+   "words": 326,
    "where": "In the Sala di Venere, in front of Titian's half-length portrait of a young woman in a blue dress with burgundy sleeves. After this, the way out is through the Sala delle Nicchie.",
    "what": "Titian, Portrait of a Lady, known as La Bella, 1536–38, oil on canvas, 89 × 75.5 cm. Acquired by Francesco Maria della Rovere, Duke of Urbino; in Florence since 1631 with Vittoria della Rovere's collection.",
    "listen": "A woman nobody can name, the dress everyone can describe, the link back to the Magdalene, and the way out of the gallery.",
@@ -570,40 +570,8 @@
   },
   {
    "seq": "033",
-   "section": "Imperial & Royal Apartments",
-   "folder": "02_Imperial_and_Royal_Apartments",
-   "room": "Meeting point",
-   "title": "Imperial and Royal Apartments — Before your visit",
-   "register": "R",
-   "words": 301,
-   "where": "At the Royal Apartments meeting point in the entrance atrium of the Palatine Gallery, first floor. Play this while you wait for your group; museum staff lead the visit itself, so please keep the audio paused inside. Reservation is compulsory; be at the meeting point about five minutes before your slot.",
-   "what": "Fourteen state rooms in the south wing of the first floor, lived in by the Medici, the Habsburg-Lorraine and the House of Savoy, shown in a staff-led group visit of about 30 minutes that starts in the Green Room.",
-   "listen": "Who lived in these rooms, and the handful of things worth watching for while the staff lead you through.",
-   "pace": "medium",
-   "script": "scripts/02_Imperial_and_Royal_Apartments/033_Meeting-point_Imperial_and_Royal_Apartments_Before_your_visit.txt",
-   "perf": "perf/02_Imperial_and_Royal_Apartments/033_Meeting-point_Imperial_and_Royal_Apartments_Before_your_visit.perf.txt",
-   "mp3": "02_Imperial_and_Royal_Apartments/033_Meeting-point_Imperial_and_Royal_Apartments_Before_your_visit.mp3"
-  },
-  {
-   "seq": "034",
-   "section": "Imperial & Royal Apartments",
-   "folder": "02_Imperial_and_Royal_Apartments",
-   "room": "After the visit",
-   "title": "Imperial and Royal Apartments — After your visit",
-   "register": "R",
-   "words": 278,
-   "where": "Anywhere once your staff-led group has left the Royal Apartments, on the first floor. From here the main stairs and lifts go up to the second floor; if your visit came before the Palatine Gallery, staff can take you into it now.",
-   "what": "A look back at the apartments you have just walked through: French imperial silk, a Medici alcove turned chapel, a Savoy throne room and the rooms of Queen Margherita.",
-   "listen": "The answer to the parrot riddle, and how three dynasties layered their lives into one set of rooms.",
-   "pace": "medium",
-   "script": "scripts/02_Imperial_and_Royal_Apartments/034_After-the-visit_Imperial_and_Royal_Apartments_After_your_visit.txt",
-   "perf": "perf/02_Imperial_and_Royal_Apartments/034_After-the-visit_Imperial_and_Royal_Apartments_After_your_visit.perf.txt",
-   "mp3": "02_Imperial_and_Royal_Apartments/034_After-the-visit_Imperial_and_Royal_Apartments_After_your_visit.mp3"
-  },
-  {
-   "seq": "035",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Entrance",
    "title": "Gallery of Modern Art — A different century",
    "register": "R",
@@ -612,14 +580,14 @@
    "what": "Thirty rooms of Italian painting and sculpture from the late 18th to the early 20th century, in rooms once used by the Lorraine grand dukes, with one of the richest Macchiaioli collections anywhere. The gallery opened in 1924.",
    "listen": "What \"modern\" meant when the gallery opened, and how the loop of rooms tells its story.",
    "pace": "medium",
-   "script": "scripts/03_Gallery_of_Modern_Art/035_Entrance_Gallery_of_Modern_Art_A_different_century.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/035_Entrance_Gallery_of_Modern_Art_A_different_century.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/035_Entrance_Gallery_of_Modern_Art_A_different_century.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/033_Entrance_Gallery_of_Modern_Art_A_different_century.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/033_Entrance_Gallery_of_Modern_Art_A_different_century.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/033_Entrance_Gallery_of_Modern_Art_A_different_century.mp3"
   },
   {
-   "seq": "036",
+   "seq": "034",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Rooms 1–2",
    "title": "The Neoclassical rooms — marble, and Napoleon's years",
    "register": "R",
@@ -628,14 +596,14 @@
    "what": "Neoclassical sculpture and painting from the Napoleonic and early Lorraine years: Pietro Tenerani, Psyche Abandoned, c.1819; Pietro Benvenuti, The Saxons' Oath to Napoleon after the Battle of Jena, 1812; Giuseppe Bezzuoli, Portrait of Elisa Bonaparte Baciocchi, c.1814.",
    "listen": "What Neoclassicism wanted from art, and how Napoleon's family came to fill these first rooms.",
    "pace": "medium",
-   "script": "scripts/03_Gallery_of_Modern_Art/036_Rooms-1-2_The_Neoclassical_rooms_marble_and_Napoleons_year.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/036_Rooms-1-2_The_Neoclassical_rooms_marble_and_Napoleons_year.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/036_Rooms-1-2_The_Neoclassical_rooms_marble_and_Napoleons_year.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/034_Rooms-1-2_The_Neoclassical_rooms_marble_and_Napoleons_year.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/034_Rooms-1-2_The_Neoclassical_rooms_marble_and_Napoleons_year.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/034_Rooms-1-2_The_Neoclassical_rooms_marble_and_Napoleons_year.mp3"
   },
   {
-   "seq": "037",
+   "seq": "035",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Room 2",
    "title": "Canova and workshop — Colossal Head of Napoleon",
    "register": "W",
@@ -644,14 +612,14 @@
    "what": "Antonio Canova and his workshop, Colossal Head of Napoleon, marble, about 1810, after the portrait Canova modelled from life in Paris in 1802. Given to Grand Duke Leopold II by Louis Bonaparte in 1845.",
    "listen": "Five sittings with the First Consul, a face that became a bestseller, and the strange thank-you present that brought it to Florence.",
    "pace": "medium",
-   "script": "scripts/03_Gallery_of_Modern_Art/037_Room-2_Canova_and_workshop_Colossal_Head_of_Napoleon.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/037_Room-2_Canova_and_workshop_Colossal_Head_of_Napoleon.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/037_Room-2_Canova_and_workshop_Colossal_Head_of_Napoleon.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/035_Room-2_Canova_and_workshop_Colossal_Head_of_Napoleon.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/035_Room-2_Canova_and_workshop_Colossal_Head_of_Napoleon.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/035_Room-2_Canova_and_workshop_Colossal_Head_of_Napoleon.mp3"
   },
   {
-   "seq": "038",
+   "seq": "036",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Room 3",
    "title": "Stefano Ussi — The Expulsion of the Duke of Athens",
    "register": "W",
@@ -660,14 +628,14 @@
    "what": "Stefano Ussi, The Expulsion of the Duke of Athens, 1860, oil on canvas, 316 × 447 cm. First prize at the 1861 National Exhibition in Florence; gold medal at the 1867 Paris Exhibition.",
    "listen": "A tyrant thrown out of medieval Florence, painted at the very moment Tuscany was getting rid of its own ruler, with the painter hidden in the crowd.",
    "pace": "medium",
-   "script": "scripts/03_Gallery_of_Modern_Art/038_Room-3_Stefano_Ussi_The_Expulsion_of_the_Duke_of_Athens.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/038_Room-3_Stefano_Ussi_The_Expulsion_of_the_Duke_of_Athens.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/038_Room-3_Stefano_Ussi_The_Expulsion_of_the_Duke_of_Athens.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/036_Room-3_Stefano_Ussi_The_Expulsion_of_the_Duke_of_Athens.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/036_Room-3_Stefano_Ussi_The_Expulsion_of_the_Duke_of_Athens.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/036_Room-3_Stefano_Ussi_The_Expulsion_of_the_Duke_of_Athens.mp3"
   },
   {
-   "seq": "039",
+   "seq": "037",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Room 5",
    "title": "Romanticism and history painting",
    "register": "R",
@@ -676,14 +644,14 @@
    "what": "Large-format history painting between Romanticism and Realism, including Giuseppe Bezzuoli's Entry of Charles VIII into Florence, 1829, and Giovanni Dupré's Dying Abel, 1846–51. Next: the first Macchiaioli experiments in Room 6, portraits in Rooms 7 and 8, landscapes in Room 9.",
    "listen": "How Italian painters used the past to talk about their present, and the turn toward painting what is in front of you.",
    "pace": "medium",
-   "script": "scripts/03_Gallery_of_Modern_Art/039_Room-5_Romanticism_and_history_painting.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/039_Room-5_Romanticism_and_history_painting.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/039_Room-5_Romanticism_and_history_painting.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/037_Room-5_Romanticism_and_history_painting.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/037_Room-5_Romanticism_and_history_painting.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/037_Room-5_Romanticism_and_history_painting.mp3"
   },
   {
-   "seq": "040",
+   "seq": "038",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Rooms 10–13",
    "title": "The Macchiaioli rooms",
    "register": "R",
@@ -692,14 +660,14 @@
    "what": "The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti, 1866, in Room 10; Zandomeneghi's two portraits of Diego Martelli and two Pissarro landscapes in Room 11; Silvestro Lega's Singing a Stornello, 1867, in Room 12; Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13.",
    "listen": "Who the Macchiaioli were, the friends and patrons around them, and what to look for in each of these four rooms.",
    "pace": "medium",
-   "script": "scripts/03_Gallery_of_Modern_Art/040_Rooms-10-13_The_Macchiaioli_rooms.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/040_Rooms-10-13_The_Macchiaioli_rooms.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/040_Rooms-10-13_The_Macchiaioli_rooms.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/038_Rooms-10-13_The_Macchiaioli_rooms.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/038_Rooms-10-13_The_Macchiaioli_rooms.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/038_Rooms-10-13_The_Macchiaioli_rooms.mp3"
   },
   {
-   "seq": "041",
+   "seq": "039",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Macchiaioli rooms",
    "title": "Giovanni Fattori — La Rotonda di Palmieri",
    "register": "W",
@@ -708,14 +676,14 @@
    "what": "Giovanni Fattori, La Rotonda di Palmieri, 1866, oil on panel, 12 × 35 cm: seven women sitting in the shade of a long ochre awning at the Palmieri baths in Livorno.",
    "listen": "Why a picture the size of a long envelope is one of the best-loved in the gallery, and how much Fattori could say with a few patches of colour.",
    "pace": "medium-slow",
-   "script": "scripts/03_Gallery_of_Modern_Art/041_Macchiaioli-rooms_Giovanni_Fattori_La_Rotonda_di_Palmieri.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/041_Macchiaioli-rooms_Giovanni_Fattori_La_Rotonda_di_Palmieri.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/041_Macchiaioli-rooms_Giovanni_Fattori_La_Rotonda_di_Palmieri.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/039_Macchiaioli-rooms_Giovanni_Fattori_La_Rotonda_di_Palmieri.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/039_Macchiaioli-rooms_Giovanni_Fattori_La_Rotonda_di_Palmieri.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/039_Macchiaioli-rooms_Giovanni_Fattori_La_Rotonda_di_Palmieri.mp3"
   },
   {
-   "seq": "042",
+   "seq": "040",
    "section": "Gallery of Modern Art",
-   "folder": "03_Gallery_of_Modern_Art",
+   "folder": "02_Gallery_of_Modern_Art",
    "room": "Rooms 17–30",
    "title": "Toward the twentieth century",
    "register": "R",
@@ -724,14 +692,14 @@
    "what": "Later nineteenth-century portraits and sculpture, Fattori's La cugina Argia (around 1861) in Room 19, Symbolism and Divisionism, and early twentieth-century Italian painting, some of it given by private collectors.",
    "listen": "How Italian painting split after the Macchiaioli, and how the loop ends.",
    "pace": "medium",
-   "script": "scripts/03_Gallery_of_Modern_Art/042_Rooms-17-30_Toward_the_twentieth_century.txt",
-   "perf": "perf/03_Gallery_of_Modern_Art/042_Rooms-17-30_Toward_the_twentieth_century.perf.txt",
-   "mp3": "03_Gallery_of_Modern_Art/042_Rooms-17-30_Toward_the_twentieth_century.mp3"
+   "script": "scripts/02_Gallery_of_Modern_Art/040_Rooms-17-30_Toward_the_twentieth_century.txt",
+   "perf": "perf/02_Gallery_of_Modern_Art/040_Rooms-17-30_Toward_the_twentieth_century.perf.txt",
+   "mp3": "02_Gallery_of_Modern_Art/040_Rooms-17-30_Toward_the_twentieth_century.mp3"
   },
   {
-   "seq": "043",
+   "seq": "041",
    "section": "Museum of Fashion & Costume",
-   "folder": "04_Museum_of_Fashion_and_Costume",
+   "folder": "03_Museum_of_Fashion_and_Costume",
    "room": "Entrance",
    "title": "The Palazzina della Meridiana",
    "register": "R",
@@ -740,14 +708,14 @@
    "what": "A small palace joined to the south wing of Palazzo Pitti, begun in 1776 by Gaspare Maria Paoletti for Grand Duke Pietro Leopoldo and completed in 1830 by Pasquale Poccianti. Since 1983 it has housed Italy's first state museum of fashion history, shown in rotation.",
    "listen": "How a beam of noon sunlight gave this building its name, and how the museum works.",
    "pace": "medium",
-   "script": "scripts/04_Museum_of_Fashion_and_Costume/043_Entrance_The_Palazzina_della_Meridiana.txt",
-   "perf": "perf/04_Museum_of_Fashion_and_Costume/043_Entrance_The_Palazzina_della_Meridiana.perf.txt",
-   "mp3": "04_Museum_of_Fashion_and_Costume/043_Entrance_The_Palazzina_della_Meridiana.mp3"
+   "script": "scripts/03_Museum_of_Fashion_and_Costume/041_Entrance_The_Palazzina_della_Meridiana.txt",
+   "perf": "perf/03_Museum_of_Fashion_and_Costume/041_Entrance_The_Palazzina_della_Meridiana.perf.txt",
+   "mp3": "03_Museum_of_Fashion_and_Costume/041_Entrance_The_Palazzina_della_Meridiana.mp3"
   },
   {
-   "seq": "044",
+   "seq": "042",
    "section": "Museum of Fashion & Costume",
-   "folder": "04_Museum_of_Fashion_and_Costume",
+   "folder": "03_Museum_of_Fashion_and_Costume",
    "room": "Medici garments",
    "title": "The funeral clothes of Cosimo I, Eleonora di Toledo and Don Garzia",
    "register": "W",
@@ -756,25 +724,57 @@
    "what": "The sixteenth-century burial clothes of Cosimo I de' Medici, his wife Eleonora di Toledo and their son Don Garzia, recovered from their tombs in San Lorenzo and shown after long and complex restoration.",
    "listen": "Three Medici, one terrible winter, and why Eleonora's dress is not the one in her famous portrait, whatever the legend says.",
    "pace": "slow",
-   "script": "scripts/04_Museum_of_Fashion_and_Costume/044_Medici-garments_The_funeral_clothes_of_Cosimo_I_Eleonora_di_Tole.txt",
-   "perf": "perf/04_Museum_of_Fashion_and_Costume/044_Medici-garments_The_funeral_clothes_of_Cosimo_I_Eleonora_di_Tole.perf.txt",
-   "mp3": "04_Museum_of_Fashion_and_Costume/044_Medici-garments_The_funeral_clothes_of_Cosimo_I_Eleonora_di_Tole.mp3"
+   "script": "scripts/03_Museum_of_Fashion_and_Costume/042_Medici-garments_The_funeral_clothes_of_Cosimo_I_Eleonora_di_Tole.txt",
+   "perf": "perf/03_Museum_of_Fashion_and_Costume/042_Medici-garments_The_funeral_clothes_of_Cosimo_I_Eleonora_di_Tole.perf.txt",
+   "mp3": "03_Museum_of_Fashion_and_Costume/042_Medici-garments_The_funeral_clothes_of_Cosimo_I_Eleonora_di_Tole.mp3"
   },
   {
-   "seq": "045",
+   "seq": "043",
    "section": "Museum of Fashion & Costume",
-   "folder": "04_Museum_of_Fashion_and_Costume",
+   "folder": "03_Museum_of_Fashion_and_Costume",
    "room": "Galleries",
    "title": "Three centuries of dress — the rotating display",
    "register": "R",
-   "words": 292,
-   "where": "Anywhere in the museum's galleries beyond the Medici garments. The displays rotate, so play this wherever you like; when you've finished, go back the way you came to the second-floor landing.",
+   "words": 312,
+   "where": "Anywhere in the museum's galleries beyond the Medici garments. The displays rotate, so play this wherever you like; when you've finished, go back the way you came to the second-floor landing, then down one floor for the Royal Apartments, or down to the courtyard.",
    "what": "Clothes, accessories, jewellery and stage costumes from the eighteenth century to today, shown in rotation for conservation; the selection on view changes from time to time.",
    "listen": "How to read whatever is on display today, and how Italian fashion was launched on the world inside this very palace.",
    "pace": "medium",
-   "script": "scripts/04_Museum_of_Fashion_and_Costume/045_Galleries_Three_centuries_of_dress_the_rotating_display.txt",
-   "perf": "perf/04_Museum_of_Fashion_and_Costume/045_Galleries_Three_centuries_of_dress_the_rotating_display.perf.txt",
-   "mp3": "04_Museum_of_Fashion_and_Costume/045_Galleries_Three_centuries_of_dress_the_rotating_display.mp3"
+   "script": "scripts/03_Museum_of_Fashion_and_Costume/043_Galleries_Three_centuries_of_dress_the_rotating_display.txt",
+   "perf": "perf/03_Museum_of_Fashion_and_Costume/043_Galleries_Three_centuries_of_dress_the_rotating_display.perf.txt",
+   "mp3": "03_Museum_of_Fashion_and_Costume/043_Galleries_Three_centuries_of_dress_the_rotating_display.mp3"
+  },
+  {
+   "seq": "044",
+   "section": "Imperial & Royal Apartments",
+   "folder": "04_Imperial_and_Royal_Apartments",
+   "room": "Meeting point",
+   "title": "Imperial and Royal Apartments — Before your visit",
+   "register": "R",
+   "words": 301,
+   "where": "At the Royal Apartments meeting point in the entrance atrium of the Palatine Gallery, first floor. Play this while you wait for your group; museum staff lead the visit itself, so please keep the audio paused inside. Reservation is compulsory; be at the meeting point about five minutes before your slot.",
+   "what": "Fourteen state rooms in the south wing of the first floor, lived in by the Medici, the Habsburg-Lorraine and the House of Savoy, shown in a staff-led group visit of about 30 minutes that starts in the Green Room.",
+   "listen": "Who lived in these rooms, and the handful of things worth watching for while the staff lead you through.",
+   "pace": "medium",
+   "script": "scripts/04_Imperial_and_Royal_Apartments/044_Meeting-point_Imperial_and_Royal_Apartments_Before_your_visit.txt",
+   "perf": "perf/04_Imperial_and_Royal_Apartments/044_Meeting-point_Imperial_and_Royal_Apartments_Before_your_visit.perf.txt",
+   "mp3": "04_Imperial_and_Royal_Apartments/044_Meeting-point_Imperial_and_Royal_Apartments_Before_your_visit.mp3"
+  },
+  {
+   "seq": "045",
+   "section": "Imperial & Royal Apartments",
+   "folder": "04_Imperial_and_Royal_Apartments",
+   "room": "After the visit",
+   "title": "Imperial and Royal Apartments — After your visit",
+   "register": "R",
+   "words": 259,
+   "where": "Anywhere once your staff-led group has left the Royal Apartments, on the first floor. From here the main stairs and lifts go down to the courtyard and the ground-floor museums.",
+   "what": "A look back at the apartments you have just walked through: French imperial silk, a Medici alcove turned chapel, a Savoy throne room and the rooms of Queen Margherita.",
+   "listen": "The answer to the parrot riddle, and how three dynasties layered their lives into one set of rooms.",
+   "pace": "medium",
+   "script": "scripts/04_Imperial_and_Royal_Apartments/045_After-the-visit_Imperial_and_Royal_Apartments_After_your_visit.txt",
+   "perf": "perf/04_Imperial_and_Royal_Apartments/045_After-the-visit_Imperial_and_Royal_Apartments_After_your_visit.perf.txt",
+   "mp3": "04_Imperial_and_Royal_Apartments/045_After-the-visit_Imperial_and_Royal_Apartments_After_your_visit.mp3"
   },
   {
    "seq": "046",

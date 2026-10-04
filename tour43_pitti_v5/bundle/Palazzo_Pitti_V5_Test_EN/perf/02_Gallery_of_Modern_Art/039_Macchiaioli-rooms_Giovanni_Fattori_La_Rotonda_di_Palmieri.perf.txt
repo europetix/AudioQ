@@ -1,4 +1,4 @@
-@id: 041 · v5.0 057 · old 054 · Macchiaioli rooms
+@id: 039 · v5.0 057 · old 054 · Macchiaioli rooms
 @section: Modern Art
 @room: Macchiaioli rooms
 @type: W
