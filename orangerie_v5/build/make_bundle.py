@@ -1,17 +1,22 @@
 import sys, os, re, json, shutil, glob, unicodedata
 sys.path.insert(0, '/home/claude/orangerie/v5/pipeline'); import v5_direction as V
 SRC = '/home/claude/orangerie/v5/tracks'
-B = '/home/claude/orangerie/bundle/Palazzo_Pitti_V5_Test_EN'
+B = '/home/claude/orangerie/bundle/Orangerie_V5_EN'
 shutil.rmtree(B, ignore_errors=True); os.makedirs(B)
 SECTIONS = [  # (@section value, display, folder)
- ("Opening", "Opening", "00_Welcome"),
- ("Palatine", "Palatine Gallery", "01_Palatine_Gallery"),
- ("Modern Art", "Gallery of Modern Art", "02_Gallery_of_Modern_Art"),
- ("Fashion and Costume", "Museum of Fashion & Costume", "03_Museum_of_Fashion_and_Costume"),
- ("Royal Apartments", "Imperial & Royal Apartments", "04_Imperial_and_Royal_Apartments"),  # V5.1: after Fashion, on the way back down (separate ticket)
- ("Russian Icons and Chapel", "Russian Icons & Palatine Chapel", "05_Russian_Icons_and_Palatine_Chapel"),
- ("Boboli", "Boboli Gardens", "06_Boboli_Gardens"),
- ("Closing", "Closing", "07_Closing"),
+ ("Opening", "Arrival", "00_Arrival"),
+ ("Water Lilies", "The Water Lilies", "01_Water_Lilies"),
+ ("Collectors", "Paul Guillaume & Domenica Walter", "02_The_Collectors"),
+ ("Renoir", "Renoir", "03_Renoir"),
+ ("Cézanne", "Cézanne", "04_Cezanne"),
+ ("Rousseau", "Henri Rousseau", "05_Rousseau"),
+ ("Matisse", "Matisse", "06_Matisse"),
+ ("Picasso", "Picasso", "07_Picasso"),
+ ("Modigliani", "Modigliani", "08_Modigliani"),
+ ("Soutine", "Soutine", "09_Soutine"),
+ ("Derain", "Derain", "10_Derain"),
+ ("Finale", "Back to the Water Lilies", "11_Finale"),
+ ("Closing", "Closing", "12_Closing"),
 ]
 SEC = {s[0]: s for s in SECTIONS}
 
@@ -47,7 +52,7 @@ for f in sorted(glob.glob(SRC + '/*.perf.txt')):
         script=f"scripts/{folder}/{base}.txt", perf=f"perf/{folder}/{base}.perf.txt",
         mp3=f"{folder}/{base}.mp3"))
 tw = sum(t['words'] for t in tracks)
-plan = dict(tour_number=43, tour_slug="Palazzo_Pitti", format="V5-test", language="EN",
+plan = dict(tour_number=0, tour_slug="Musee_de_l_Orangerie", format="V5", language="EN",
     voices={"1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
             "2": "Kokoro am_michael, base speed 0.85, directed per passage (render_kokoro.py)", "3": "en-US-AndrewMultilingualNeural (trial)", "4": "en-US-BrianMultilingualNeural (earlier test voice)"},
     wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 96 kbps mono",

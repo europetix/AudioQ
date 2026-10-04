@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# V5 TEST BUILD - Tour #43 Palazzo Pitti + Boboli - EN  (same launcher shape as V4.5)
+# V5 TEST BUILD - Musee de l'Orangerie - EN  (same launcher shape as V4.5)
 # Pick a voice at runtime: Ava (default, edge-tts), am_michael (Kokoro, via uv), Andrew or Brian (edge-tts).
 # V5: each track is performed from its direction layer (perf/), with real pauses and mastering.
 cd "$(dirname "$0")"
 
-BASE_DIR="$HOME/Desktop/Palazzo_Pitti_V5_1_EN"
+BASE_DIR="$HOME/Desktop/Orangerie_V5_EN"
 
 echo ""
 echo "================================================================"
-echo "  V5.1 - Tour #43"
-echo "  Palazzo Pitti + Boboli - English  (61 tracks, ~142 min)"
+echo "  V5 - Musee de l Orangerie"
+echo "  Musee de l Orangerie - English  (55 tracks, ~2 h)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -29,13 +29,13 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The full tour (61 tracks)"
-echo "  2) Two voice samples only: 015 Madonna della Seggiola + 053 The Amphitheatre (a few minutes)"
+echo "  1) The full tour (55 tracks)"
+echo "  2) Two voice samples only: 005 Clouds + 046 The Little Pastry Cook (a few minutes)"
 printf "Enter 1 or 2 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
-    export ONLY="015 053"
-    BASE_DIR="$HOME/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/Sample"
+    export ONLY="005 046"
+    BASE_DIR="$HOME/Desktop/Orangerie_V5_Voice_Samples/Sample"
 fi
 
 HAVE_FFMPEG=1
@@ -79,7 +79,7 @@ fi
 
 # navigation PDF + guides into the tour folder (not for voice samples)
 echo ""
-[ -n "$ONLY" ] || for f in Palazzo_Pitti_Audio_Guide_Route.pdf README.txt; do
+[ -n "$ONLY" ] || for f in Orangerie_Audio_Guide_Route.pdf README.txt; do
     cp "$f" "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] $f"
 done
 if [ -z "$ONLY" ] && [ -d USER_TEST ]; then
@@ -90,6 +90,6 @@ echo ""
 echo "================================================================"
 echo "  Done. Tour saved to: $OUTPUT_DIR"
 echo "  One folder per section, tracks numbered in walking order."
-echo "  Palazzo_Pitti_Audio_Guide_Route.pdf: the route and where to stand for every track."
+echo "  Orangerie_Audio_Guide_Route.pdf: the route and where to stand for every track."
 echo "================================================================"
 read -p "Press enter to close..."
