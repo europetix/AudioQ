@@ -163,7 +163,7 @@ text((r1x + r2x)/2, GY + 0.45*cm, f"Water Lilies {rng(sec('01_Water_Lilies'))}  
 ex, ey = (r1x + r2x)/2 - 0.6*cm, GY + GH - 0.95*cm
 flag(ex + 2.6*cm, ey + 0.05*cm, "FINISH", INK)
 c.setFillColor(INK); c.roundRect(ex - 1.3*cm, ey - 0.05*cm, 3.75*cm, 0.62*cm, 3, stroke=0, fill=1)
-text(ex + 0.57*cm, ey + 0.13*cm, f"Exit to the garden · {rng(sec('12_Closing'))}", 'Helvetica-Bold', 7, CREAM)
+text(ex + 0.57*cm, ey + 0.13*cm, f"Exit · Tuileries garden · {rng(sec('12_Closing'))}", 'Helvetica-Bold', 7, CREAM)
 text(ex + 0.6*cm, ey - 0.45*cm, f"{rng(sec('11_Finale'))}: one last look at the lilies first", 'Helvetica-Oblique', 6.6, WATER)
 
 # ── LOWER LEVEL band

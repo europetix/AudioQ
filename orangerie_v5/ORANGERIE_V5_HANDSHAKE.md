@@ -41,3 +41,12 @@ Restore: unzip the snapshot to /home/claude/orangerie (or symlink) → `bash bui
    HELD artists (Laurencin, Utrillo, Monet/Sisley/Gauguin, Modiglianis) and add official visual details to the Water Lilies tracks.
 3. On site: ONSITE_CHECKLIST (room order, loans, exit), then fix and rebuild.
 4. Then ES (Dalia) / FR (Vivienne) / DE (Katja) using the Pitti method (tour43_pitti_v5/v5/i18n/assemble.py + translation brief).
+
+## Update: official plans added (May 2024 + Oct 2021)
+- source/Plan_Guide_Mai_2024.pdf (+ map2024.txt) and source/Museum_Map.pdf (+ map.txt) added.
+- Confirmed by both plans: all eight Water Lilies wall placements in 003–013 and the route map.
+- The May 2024 plan shows the exit beside the entrance. The 2025 works notice describes a garden-side footbridge exit. The two disagree, so 053–055 no longer name a door. 055 now works anywhere outside with the Tuileries in view. The route-map badge now reads "Exit · Tuileries garden".
+- 054: no start year voiced. The 2024 plan says 1916–1926, the artwork pages say 1914–1926.
+- Lower-level cards now read "Level −2" (as signed). 014 says "marked minus two on the signs".
+- 2024 plan: level −2 is one "Les Arts à Paris" collection area with a Focus room. There are no per-artist room labels, so no room numbers are voiced. 2021 numbering (Renoir 9, Cézanne 10, Laurencin+Matisse 11, Derain 12, Utrillo+Rousseau 13) is kept for the on-site check only.
+- musee-orangerie.fr is still blocked from the cloud session (egress policy). Laurencin, Utrillo and the 3 extra Modiglianis stay held until the site is reachable or the pages are supplied as PDFs.

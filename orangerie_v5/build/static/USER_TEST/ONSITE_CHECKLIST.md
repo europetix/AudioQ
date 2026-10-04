@@ -11,5 +11,5 @@ Bring this on the first visit. Track numbers are V5 numbers.
 | ☐ | ORDER of the artist rooms downstairs (V5 assumes Renoir → Cézanne → Rousseau → Matisse → Picasso → Modigliani → Soutine → Derain) | 019–053 | Re-order tracks / cues |
 | ☐ | Works on view: the Renoirs and Cézannes after the 2024–26 tour; Cézannes lent to the Grand Palais (to 17 Jan 2027); L'Étreinte (Louvre loan, light-sensitive) | 019–030, 040 | Hold or hedge tracks |
 | ☐ | La Noce, Harlequin and Pierrot, the large Picassos: in the first hall or in their artist's room? | 031, 041, 043, 050 | Fix cards |
-| ☐ | Exit since 2025: north (garden) side, footbridge into the Tuileries | 054–055 | Fix the last cues |
+| ☐ | Which door is the exit today: garden-side footbridge (2025 works notice) or beside the entrance (May 2024 plan)? Cues name no door; 055 just needs the Tuileries in view | 053–055 | Only fix 055 if the exit does not open onto the garden |
 | ☐ | Listen: French names (Guillaume, Lefèvre, Nymphéas, Soutine, Hébuterne…) said acceptably by Ava | all | Add respellings to pronunciation.py |

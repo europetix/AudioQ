@@ -87,7 +87,7 @@ Columns: NEW | section | room label | type | title | works / content | facts | n
 053 | Derain | Derain room | R | Derain's classical turn | nudes, landscapes (NOT Le Gros Arbre) | C | → back upstairs
 
 ## L. Finale
-054 | Finale | Room 1 or 2 | R | A second look | back up to the lilies: the same paintings, different light, after the collection | C, G5 | → exit to the garden
-055 | Closing | Exit · footbridge | CLOSE | Into the Tuileries | 2025 exit on the north side by a footbridge into the garden (G5); Monet's gift to the city; goodbye; NO hours, NO exhibitions | G5 | — end
+054 | Finale | Room 1 or 2 | R | A second look | back up to the lilies: the same paintings, different light, after the collection | C, G5 | → exit (follow signs)
+055 | Closing | Exit · Tuileries garden | CLOSE | Into the Tuileries | outside, garden in view; door not named (2025 notice vs May 2024 plan); Monet's gift to the city; goodbye; NO hours, NO exhibitions | G5 | — end
 
 Targets: R 180–280 words · W 250–360 · ANCHOR/CLOSE 250–360. Total ≈ 15,000 words ≈ 2 h at 125 wpm.
