@@ -3,7 +3,7 @@
 @room: Stop 9
 @type: W
 @title: Giambologna and Pietro Tacca — Abundance
-@where: At the foot of the colossal statue of Abundance, at the top of the central axis, just below the Knight's Garden. Turn around to look back down the hill toward the palace.
+@where: At the foot of the colossal statue of Abundance, at the top of the central axis, just below the Knight's Garden. If the statue is fenced off for restoration, view it from the nearest path. Turn around to look back down the hill toward the palace.
 @what: Abundance, a colossal marble begun by Giambologna and completed after his death by his pupil Pietro Tacca, set up here in 1636. She holds a sheaf of wheat and a horn of plenty.
 @listen: How a portrait of a grand duchess may have become an allegory, and why she stands exactly here.
 @brief: A friend at the top of the hill, catching their breath and enjoying a good story; curious about her origins, warm at the view, quietly thoughtful at the end.

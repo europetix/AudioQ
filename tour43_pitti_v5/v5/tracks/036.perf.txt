@@ -4,12 +4,12 @@
 @type: R
 @title: Sala di Marte — The Room of Mars
 @where: In the Sala di Marte, the third of the five Planet Rooms on today's route, entered from the Sala di Giove. Stand near the middle and look up at the ceiling first.
-@what: A grand reception room under Pietro da Cortona's ceiling fresco of Mars, painted in the mid-1640s. The room is traditionally home to two paintings by Rubens and to Titian's portrait known as the English Gentleman.
-@listen: Why the Medici prince's education reads backwards on today's route, what Cortona does with war, and the three works to find here.
+@what: A grand reception room under Pietro da Cortona's ceiling fresco of Mars, painted in the mid-1640s. The room is traditionally home to Rubens's Consequences of War.
+@listen: Why the Medici prince's education reads backwards on today's route, what Cortona does with war, and the one work to find here.
 @brief: A warm friend pointing out that the story on the ceilings runs in reverse; easy and lightly amused at the start, amused at the flattery overhead, quieter for Rubens, practical at the end.
 @pace: medium-slow
 @energy: 2→3→2
-@sources: https://www.uffizi.it/en/artworks/mars-room (Cortona 1643–44 and 1647; naval battle, Mars's star, Hercules' trophy, prisoners toward Victory, Plenty and Peace; arms crowned with Ferdinando II's name) ; https://uffizi.it/en/palatine-gallery/history (Planet Room frescoes 1640–47); old script 011 + findings G1 (B: ceiling "mid-1640s"; A: Rubens and Titian rooms unverified, Titian also hung in Apollo; E) + G6_ROUTE (N36 wording)
+@sources: https://www.uffizi.it/en/artworks/mars-room (Cortona 1643–44 and 1647; naval battle, Mars's star, Hercules' trophy, prisoners toward Victory, Plenty and Peace; arms crowned with Ferdinando II's name) ; https://uffizi.it/en/palatine-gallery/history (Planet Room frescoes 1640–47); old script 011 + findings G1 (B: ceiling "mid-1640s"; A: Rubens room unverified; E) ; 5 Oct 2026: Four Philosophers reported at the Uffizi since Jul 2023 and Titian's Young Englishman in Apollo since 1956 (catalogo.cultura.gov.it 0900295133), both tracks cut + G6_ROUTE (N36 wording)
 ---
 [lightly] If you've been reading the ceilings, here's a small surprise. You've been reading the story backwards.
 
@@ -17,8 +17,6 @@ Under the Medici, a guest crossed these five Planet Rooms the other way. He bega
 
 Look up. Pietro da Cortona painted this ceiling in the mid-sixteen-forties, and here the prince learns to fight. Around the edges, a sea battle rages. Mars watches over it, and lights the young prince with his star to give him strength. [pause] Then comes the reward. Hercules builds a trophy out of the enemy's armour, and a line of prisoners is led toward three calm figures. They are Victory, Plenty and Peace. [wry] And in the middle, the Medici coat of arms, crowned with the name of the man who paid for it, Ferdinando the Second.
 
-[warmly] Two paintings by Peter Paul Rubens usually hang here, and neither one is a victory parade. Rubens was a Flemish painter, and a working diplomat too. Of his two pictures, one is a quiet room full of friends. [quietly] The other is war itself, with no glory left in it.
+[warmly] One of Peter Paul Rubens's greatest paintings usually hangs here, and it is no victory parade. Rubens was a Flemish painter, and a working diplomat too. [quietly] This picture is war itself, with no glory left in it.
 
-Titian's young man in black, known as the English Gentleman, usually hangs here too, though he has also been shown next door, in the Room of Apollo.
-
-Begin with the smaller Rubens, four men gathered around a table. It's called the Four Philosophers. Play its track in front of it.
+Look for the large canvas of an armoured Mars striding forward, a woman clinging to him, and figures fallen under his feet. It's called The Consequences of War. Play its track in front of it.
