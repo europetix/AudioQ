@@ -3,8 +3,8 @@
 @room: Stop 7
 @type: R
 @title: The Kaffeehaus and the view
-@where: At the Kaffeehaus, the green-and-cream pavilion with a domed, turreted roof on the eastern side of the upper garden. Stand at the terrace edge, facing the city.
-@what: The Kaffeehaus by Zanobi del Rosso, 1774–85, for Grand Duke Pietro Leopoldo; restored in 2022 as the first project of Boboli 2030. Nearby, the Garden of Ganymede, with a sixteenth-century marble Ganymede on the eagle attributed to Giovanni Battista Lorenzi.
+@where: At the Kaffeehaus, the small pavilion with a domed, turreted roof on the eastern side of the upper garden. Stand at the terrace edge, facing the city.
+@what: The Kaffeehaus by Zanobi del Rosso, 1774–85, for Grand Duke Pietro Leopoldo; restored in 2022 as part of Boboli 2030. Nearby, the Garden of Ganymede, with a sixteenth-century marble Ganymede on the eagle attributed to Giovanni Battista Lorenzi.
 @listen: The best view of Florence from the garden, and a grand duke's pavilion for drinks on a walk.
 @brief: Sharing a favourite view with a friend; warm and expansive at the panorama, lightly amused by the coffee-house that served chocolate.
 @pace: medium
@@ -15,7 +15,7 @@
 
 [pause] Now turn around. The pavilion behind you is the Kaffeehaus, begun in 1774 for Grand Duke Pietro Leopoldo by the architect Zanobi del Rosso. It was a resting place for the court on its walks through the garden. The name promises coffee. [amused] The museum's own description says they came here for hot chocolate. With its odd, turreted roof, Florentines nicknamed it the Chinese pavilion.
 
-It was restored in 2022, the first project of the garden's long restoration.
+It was restored in 2022, as part of the garden's long restoration.
 
 Close by is the small Garden of Ganymede, with its fountain of the boy carried off by Jupiter's eagle to serve as cupbearer to the gods. [lightly] A fitting neighbour for a building made for drinks.
 

@@ -3,7 +3,7 @@
 @room: Room 26
 @type: W
 @title: Rubens — The Consequences of War
-@where: Normally in the Sala di Marte (if it has moved, ask an attendant), in front of the large Rubens allegory: an armoured Mars striding forward, a woman clinging to him, figures fallen underfoot. The painting normally hangs in the Sala di Marte; if it isn't here, ask an attendant.
+@where: In the Sala di Marte, in front of the large Rubens allegory: an armoured Mars striding forward, a woman clinging to him, figures fallen underfoot. The painting normally hangs in the Sala di Marte; if it isn't here, ask an attendant.
 @what: Peter Paul Rubens, The Consequences of War, painted 1637–38 for the Medici court painter Justus Sustermans; bought by Grand Prince Ferdinando de' Medici in 1691.
 @listen: A painting that came with the painter's own explanation, read figure by figure, and how it reached the Medici.
 @brief: Reading a great anti-war picture with a friend, using the painter's own letter; steady and vivid, sober at the turn, quiet at the end.
@@ -17,7 +17,7 @@ It began with a favour between friends. Justus Sustermans was a Flemish painter 
 
 So let's read it with him. At the centre, Mars strides out in armour, sword raised. Venus, the goddess of love, clings to him and tries to hold him back. He's tearing himself away. Ahead of him, the Fury Alecto urges him on with her torch.
 
-[pause] Now look down, under their feet. There's a mother with a child at her breast, an architect with his drawings and his compass, and a musician with a broken lute. Family, building, music. Everything that peace makes possible, trampled.
+[pause] Now look down, under their feet. There's a mother with a child at her breast, an architect with his instruments, and a woman with a broken lute. Family, building, music. Everything that peace makes possible, trampled.
 
 On the far left, a woman in black raises her arms to the sky. That's Europe, in mourning. Near her stands the temple of Janus, with its doors flung open. In ancient Rome those doors were shut in peacetime, and opened for war.
 
