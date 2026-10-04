@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gallery of Modern Art — Palazzo Pitti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4efe4; --ink:#2b2620; --header:#1f2e2a; --header2:#2f4a40;
+    --gold:#c9a14a; --line:#9a8f7c;
+    --z-neo:#dfe5d4;    /* Neoclassicism 1-4 */
+    --z-rom:#e7dcc4;    /* Romanticism & History 5-7 */
+    --z-mac:#e7cfc6;    /* Macchiaioli 8-16 */
+    --z-coll:#d8e0e6;   /* Collections & Donations 17-21 */
+    --z-sym:#d9cfe6;    /* Italian Schools & Symbolism 22-26 */
+    --z-av:#cfe0d2;     /* Early 20c & Avant-Garde 27-30 */
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:#ded6c4;font-family:"EB Garamond",Georgia,serif;color:var(--ink);padding:28px;display:flex;justify-content:center}
+  .sheet{width:1180px;background:var(--paper);border:1px solid #cbbfa6;box-shadow:0 18px 50px rgba(40,30,20,.28);padding:0 0 26px}
+  header{background:linear-gradient(120deg,var(--header) 0%,var(--header2) 100%);color:#f3e7d8;padding:30px 40px 26px;display:flex;justify-content:space-between;align-items:flex-start}
+  header h1{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:44px;line-height:.96;letter-spacing:.5px}
+  header .sub{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:21px;color:#e7cda0;margin-top:6px}
+  header .loc{font-size:12.5px;letter-spacing:2px;text-transform:uppercase;color:#cbb08f;margin-top:12px}
+  .badge{text-align:right;flex-shrink:0;margin-left:24px}
+  .badge .pill{display:inline-block;background:#16201c;color:#e7cda0;font-size:12px;letter-spacing:3px;text-transform:uppercase;padding:7px 14px;font-weight:600}
+  .badge .meta{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:18px;color:#e7cda0;margin-top:12px;line-height:1.35}
+  .itin{padding:14px 40px 4px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#7a6f5b}
+  .itin b{color:var(--header2);font-weight:600}
+  .plan{padding:14px 40px 0}
+  .zone{margin-bottom:9px}
+  .zlabel{font-family:"Cormorant Garamond",serif;font-size:15px;font-weight:600;color:var(--header2);letter-spacing:.5px;margin:6px 0 5px}
+  .row{display:grid;gap:9px;grid-template-columns:repeat(9,1fr)}
+  .room{border:1px solid rgba(80,70,55,.30);border-radius:3px;padding:9px 6px 11px;min-height:92px;display:flex;flex-direction:column;align-items:center;text-align:center}
+  .room .n{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:21px;line-height:1}
+  .room .nm{font-style:italic;font-size:12px;margin-top:4px;line-height:1.14}
+  .room.star .n::after{content:" ★";color:var(--gold);font-size:13px}
+  .z-neo{background:var(--z-neo)} .z-rom{background:var(--z-rom)} .z-mac{background:var(--z-mac)}
+  .z-coll{background:var(--z-coll)} .z-sym{background:var(--z-sym)} .z-av{background:var(--z-av)}
+  .extras{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:10px 0 2px}
+  .extra{border:1px dashed rgba(80,70,55,.45);border-radius:3px;padding:11px 14px;background:rgba(207,199,180,.30);font-size:12.5px;color:#5a5142}
+  .extra b{font-family:"Cormorant Garamond",serif;font-style:normal;font-weight:600;color:var(--header2);font-size:15px;display:block;margin-bottom:3px}
+  .legend{margin:16px 40px 0;padding-top:16px;border-top:1px solid #cdbfa3;display:grid;grid-template-columns:repeat(3,1fr);gap:10px 26px;font-size:13px}
+  .legend .it{display:flex;align-items:center;gap:9px}
+  .legend .sw{width:22px;height:14px;border:1px solid rgba(80,70,55,.4);flex-shrink:0}
+  .note{margin:16px 40px 0;font-style:italic;font-size:13px;color:#6b6253;text-align:right}
+  footer{margin:16px 40px 0;padding-top:14px;border-top:2px solid var(--header2);font-style:italic;font-size:13px;color:#5a5142;text-align:center;line-height:1.5}
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <div>
+      <h1>GALLERY OF MODERN ART</h1>
+      <div class="sub">Galleria d'Arte Moderna · Second Floor</div>
+      <div class="loc">Palazzo Pitti · Firenze · Above the Palatine Gallery</div>
+    </div>
+    <div class="badge">
+      <span class="pill">Secondo Piano</span>
+      <div class="meta">30 Rooms · Tuscan art<br>1784–1924<br>Macchiaioli &amp; beyond</div>
+    </div>
+  </header>
+
+  <div class="itin">Late-eighteenth century to the early twentieth · <b>Rooms 1 → 30</b> · Neoclassicism through the Macchiaioli to the avant-garde →</div>
+
+  <div class="plan">
+    <div class="zone"><div class="zlabel">Neoclassicism &amp; the Napoleonic court — Rooms 1–4</div>
+      <div class="row">
+        <div class="room z-neo"><div class="n">1</div><div class="nm">Lorraine &amp; Empire taste</div></div>
+        <div class="room z-neo star"><div class="n">2</div><div class="nm">Canova · Bust of Napoleon</div></div>
+        <div class="room z-neo"><div class="n">3</div><div class="nm">Neoclassical portraits</div></div>
+        <div class="room z-neo"><div class="n">4</div><div class="nm">Batoni · Benvenuti</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">Romanticism &amp; History Painting — Rooms 5–7</div>
+      <div class="row">
+        <div class="room z-rom"><div class="n">5</div><div class="nm">Hayez · history scenes</div></div>
+        <div class="room z-rom"><div class="n">6</div><div class="nm">Risorgimento subjects</div></div>
+        <div class="room z-rom"><div class="n">7</div><div class="nm">grand historical canvases</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">The Macchiaioli &amp; Mid-Nineteenth Century — Rooms 8–16</div>
+      <div class="row">
+        <div class="room z-mac star"><div class="n">8</div><div class="nm">Fattori · Self-Portrait</div></div>
+        <div class="room z-mac"><div class="n">9</div><div class="nm">early Macchiaioli</div></div>
+        <div class="room z-mac"><div class="n">10</div><div class="nm">Lega · Signorini</div></div>
+        <div class="room z-mac star"><div class="n">11</div><div class="nm">Fattori · Lo Staffato · La Rotonda</div></div>
+        <div class="room z-mac"><div class="n">12</div><div class="nm">military &amp; coastal scenes</div></div>
+        <div class="room z-mac"><div class="n">13</div><div class="nm">Tuscan landscape</div></div>
+        <div class="room z-mac"><div class="n">14</div><div class="nm">portraits &amp; interiors</div></div>
+        <div class="room z-mac"><div class="n">15</div><div class="nm">Abbati · Borrani</div></div>
+        <div class="room z-mac"><div class="n">16</div><div class="nm">late Macchiaioli</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">Collections &amp; Donations — Rooms 17–21</div>
+      <div class="row">
+        <div class="room z-coll"><div class="n">17</div><div class="nm">private bequests</div></div>
+        <div class="room z-coll"><div class="n">18</div><div class="nm">the Cristiano Banti gift</div></div>
+        <div class="room z-coll"><div class="n">19</div><div class="nm">donated collections</div></div>
+        <div class="room z-coll"><div class="n">20</div><div class="nm">academic painting</div></div>
+        <div class="room z-coll"><div class="n">21</div><div class="nm">turn-of-century salon</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">Italian Schools &amp; Symbolism — Rooms 22–26</div>
+      <div class="row">
+        <div class="room z-sym"><div class="n">22</div><div class="nm">regional schools</div></div>
+        <div class="room z-sym"><div class="n">23</div><div class="nm">Naples &amp; the South</div></div>
+        <div class="room z-sym"><div class="n">24</div><div class="nm">Symbolist mood</div></div>
+        <div class="room z-sym"><div class="n">25</div><div class="nm">Previati · Nomellini</div></div>
+        <div class="room z-sym"><div class="n">26</div><div class="nm">Divisionism</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">Early Twentieth Century &amp; the Avant-Garde — Rooms 27–30</div>
+      <div class="row">
+        <div class="room z-av star"><div class="n">27</div><div class="nm">de Chirico · Metaphysical</div></div>
+        <div class="room z-av"><div class="n">28</div><div class="nm">Novecento</div></div>
+        <div class="room z-av"><div class="n">29</div><div class="nm">Soffici · Rosai</div></div>
+        <div class="room z-av"><div class="n">30</div><div class="nm">close of the collection</div></div>
+      </div>
+    </div>
+
+    <div class="extras">
+      <div class="extra"><b>Sala da Ballo — the Ballroom</b>The grand-ducal ballroom on the route, opened along the gallery circuit</div>
+      <div class="extra"><b>Andito degli Angiolini</b>Mezzanine corridor display, off the main 30-room sequence</div>
+    </div>
+  </div>
+
+  <div class="legend">
+    <div class="it"><span class="sw" style="background:var(--z-neo)"></span> Neoclassicism (1–4)</div>
+    <div class="it"><span class="sw" style="background:var(--z-rom)"></span> Romanticism &amp; History (5–7)</div>
+    <div class="it"><span class="sw" style="background:var(--z-mac)"></span> Macchiaioli &amp; mid-19c (8–16)</div>
+    <div class="it"><span class="sw" style="background:var(--z-coll)"></span> Collections &amp; Donations (17–21)</div>
+    <div class="it"><span class="sw" style="background:var(--z-sym)"></span> Italian Schools &amp; Symbolism (22–26)</div>
+    <div class="it"><span class="sw" style="background:var(--z-av)"></span> ★ Early 20c &amp; Avant-Garde (27–30)</div>
+  </div>
+
+  <div class="note">★ marks the audio-guide highlights · room contents shift with curatorial re-hangs · schematic, not to architectural scale</div>
+
+  <footer>
+    Gallery of Modern Art · Palazzo Pitti · Piazza de' Pitti 1, Florence · Included in the Palazzo Pitti ticket · Open Tue–Sun · Closed Mondays, 1 Jan, 25 Dec<br>
+    Tuscan painting and sculpture from the Lorraine restoration to the early twentieth century · the finest Macchiaioli collection anywhere
+  </footer>
+</div>
+</body>
+</html>

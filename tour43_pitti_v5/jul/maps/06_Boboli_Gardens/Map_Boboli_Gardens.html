@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Boboli Gardens — Palazzo Pitti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{--paper:#f3f1e3;--ink:#26281f;--header:#24401f;--header2:#37591f;--gold:#caa64a;}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:#d3cfb8;font-family:"EB Garamond",Georgia,serif;color:var(--ink);padding:28px;display:flex;justify-content:center}
+  .sheet{width:1160px;background:var(--paper);border:1px solid #c2bd9c;box-shadow:0 18px 50px rgba(30,40,20,.28);padding:0 0 26px}
+  header{background:linear-gradient(120deg,var(--header),var(--header2));color:#eef0df;padding:30px 40px 26px;
+    display:flex;justify-content:space-between;align-items:flex-start}
+  header h1{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:46px;line-height:.96;letter-spacing:.5px}
+  header .sub{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:21px;color:#cdd99a;margin-top:6px}
+  header .loc{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#a9bd86;margin-top:11px}
+  .badge{text-align:right;margin-left:22px;flex-shrink:0}
+  .badge .pill{display:inline-block;background:#15280f;color:#cdd99a;font-size:12px;letter-spacing:3px;text-transform:uppercase;padding:7px 13px;font-weight:600}
+  .badge .meta{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:17px;color:#cdd99a;margin-top:11px;line-height:1.35}
+  .itin{padding:14px 40px 0;font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:#5f6b4d}
+  .itin b{color:var(--header2);font-weight:600}
+  .mapwrap{padding:10px 32px 0}
+  svg{width:100%;height:auto;display:block}
+  .lbl{font-family:"EB Garamond",serif;font-size:14px;fill:#2c3320}
+  .lbl.it{font-style:italic}
+  .sub2{font-size:11px;fill:#5d6646}
+  .num{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:15px;fill:#fff}
+  .legend{margin:8px 40px 0;padding-top:15px;border-top:1px solid #c2bd9c;display:grid;grid-template-columns:repeat(3,1fr);gap:8px 22px;font-size:13px}
+  .legend .it{display:flex;align-items:flex-start;gap:8px;line-height:1.25}
+  .legend .b{font-family:"Cormorant Garamond",serif;font-weight:700;color:var(--header2);min-width:16px}
+  .note{margin:14px 40px 0;font-style:italic;font-size:12.5px;color:#5d6646;text-align:right}
+  footer{margin:16px 40px 0;padding-top:14px;border-top:2px solid var(--header2);font-style:italic;font-size:13px;color:#525a3f;text-align:center;line-height:1.5}
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <div>
+      <h1>BOBOLI GARDENS</h1>
+      <div class="sub">Giardino di Boboli · the Medici garden behind the palace</div>
+      <div class="loc">Palazzo Pitti · Firenze · ~45,000 m² · central axis rises ~60 m up the hill</div>
+    </div>
+    <div class="badge">
+      <span class="pill">Giardino</span>
+      <div class="meta">Begun 1549<br>The prototype Italian<br>garden · separate ticket</div>
+    </div>
+  </header>
+
+  <div class="itin">Schematic plan · climb the central axis, then descend the Viottolone · <b>Buontalenti Grotto interior: 11:00 · 13:00 · 15:00 · 16:00 only</b></div>
+
+  <div class="mapwrap">
+  <svg viewBox="0 0 1090 660" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#d7e2c2"/><stop offset="1" stop-color="#c6d7ac"/>
+      </linearGradient>
+      <pattern id="amph" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+        <line x1="0" y1="0" x2="0" y2="7" stroke="#9bae7e" stroke-width="2"/>
+      </pattern>
+    </defs>
+
+    <!-- field -->
+    <rect x="6" y="6" width="1078" height="648" rx="8" fill="url(#grass)" stroke="#a9bd86"/>
+
+    <!-- hill direction -->
+    <text x="1040" y="40" class="lbl it" text-anchor="end" fill="#5d6646">↑ up the hill (south)</text>
+
+    <!-- central axis line -->
+    <line x1="300" y1="585" x2="300" y2="120" stroke="#b59d6a" stroke-width="6" stroke-dasharray="2 7" stroke-linecap="round"/>
+    <text x="312" y="360" class="sub2" transform="rotate(-90 312 360)" text-anchor="middle">central axis · the principal sight-line</text>
+
+    <!-- Viottolone diagonal -->
+    <line x1="300" y1="430" x2="900" y2="600" stroke="#7f9a5e" stroke-width="16" stroke-linecap="round" opacity=".55"/>
+    <text x="600" y="500" class="lbl it" transform="rotate(16 600 500)" text-anchor="middle" fill="#3a4a26">il Viottolone · cypress avenue</text>
+
+    <!-- Palazzo Pitti -->
+    <rect x="210" y="588" width="180" height="46" rx="3" fill="#cdbfa0" stroke="#9a8a63"/>
+    <text x="300" y="616" class="lbl" text-anchor="middle" font-weight="600">PALAZZO PITTI</text>
+
+    <!-- Amphitheatre -->
+    <path d="M 240 540 A 60 42 0 0 1 360 540 Z" fill="url(#amph)" stroke="#8a9c6c"/>
+    <circle cx="300" cy="528" r="5" fill="#6d5a34"/><text x="300" y="520" class="sub2" text-anchor="middle">obelisk</text>
+
+    <!-- node helper style via groups -->
+    <!-- 1 Entry/Carciofo -->
+    <circle cx="300" cy="575" r="14" fill="#3a6b2e"/><text x="300" y="580" class="num" text-anchor="middle">1</text>
+    <text x="408" y="572" class="lbl">Entry · Cortile dell'Ammannati</text><text x="408" y="588" class="sub2">Carciofo (Artichoke) Fountain</text>
+
+    <!-- 2 Bacchino/Morgante -->
+    <circle cx="150" cy="556" r="14" fill="#3a6b2e"/><text x="150" y="561" class="num" text-anchor="middle">2</text>
+    <text x="30" y="600" class="lbl">2 · Bacchino /</text><text x="30" y="616" class="lbl">Morgante</text>
+
+    <!-- 3 Grotta di Madama -->
+    <circle cx="150" cy="500" r="14" fill="#3a6b2e"/><text x="150" y="505" class="num" text-anchor="middle">3</text>
+    <text x="30" y="478" class="lbl">3 · Grotta di Madama</text><text x="30" y="494" class="sub2">the older, smaller grotto</text>
+
+    <!-- 4 Buontalenti Grotto -->
+    <circle cx="178" cy="446" r="15" fill="#a8862f"/><text x="178" y="451" class="num" text-anchor="middle">4</text>
+    <text x="30" y="430" class="lbl" font-weight="600">4 · Grotta Grande ★</text><text x="30" y="446" class="sub2">Buontalenti · Michelangelo's</text><text x="30" y="460" class="sub2">Prisoners (casts) · timed entry</text>
+
+    <!-- 5 Amphitheatre node -->
+    <circle cx="300" cy="540" r="14" fill="#3a6b2e"/><text x="300" y="545" class="num" text-anchor="middle">5</text>
+    <text x="370" y="538" class="lbl">5 · Amphitheatre</text><text x="370" y="553" class="sub2">Medici theatre · Egyptian obelisk</text>
+
+    <!-- 6 Neptune -->
+    <circle cx="300" cy="430" r="14" fill="#3a6b2e"/><text x="300" y="435" class="num" text-anchor="middle">6</text>
+    <circle cx="300" cy="430" r="26" fill="none" stroke="#7da0c0" stroke-width="2"/>
+    <text x="338" y="425" class="lbl">6 · Neptune Fountain</text><text x="338" y="440" class="sub2">"the Fork" (il Forcone) · Stoldo Lorenzi</text>
+
+    <!-- 7 Kaffeehaus + Ganymede -->
+    <circle cx="470" cy="300" r="14" fill="#3a6b2e"/><text x="470" y="305" class="num" text-anchor="middle">7</text>
+    <text x="500" y="296" class="lbl">7 · Kaffeehaus + Ganymede Fountain</text><text x="500" y="311" class="sub2">Rococo pavilion · best view of the Duomo</text>
+
+    <!-- 8 Giardino del Cavaliere -->
+    <rect x="520" y="150" width="150" height="92" rx="4" fill="#cfe0bb" stroke="#8aa168"/>
+    <circle cx="540" cy="172" r="14" fill="#3a6b2e"/><text x="540" y="177" class="num" text-anchor="middle">8</text>
+    <text x="565" y="172" class="lbl">Giardino del Cavaliere</text>
+    <text x="565" y="188" class="sub2">Knight's Garden · roses · Monkey Fountain</text>
+    <text x="565" y="204" class="sub2">Porcelain Museum (Casino del Cavaliere)</text>
+    <text x="565" y="226" class="sub2 it">on Michelangelo's 1529 bastion</text>
+
+    <!-- 9 Abundance -->
+    <circle cx="300" cy="130" r="15" fill="#a8862f"/><text x="300" y="135" class="num" text-anchor="middle">9</text>
+    <text x="322" y="126" class="lbl" font-weight="600">9 · Abundance (Dovizia) ★</text><text x="322" y="141" class="sub2">Giambologna &amp; Tacca · top of the axis</text>
+
+    <!-- 10 Viottolone -->
+    <circle cx="560" cy="488" r="14" fill="#3a6b2e"/><text x="560" y="493" class="num" text-anchor="middle">10</text>
+    <text x="430" y="556" class="lbl">10 · il Viottolone</text><text x="430" y="571" class="sub2">400-yr cypress avenue, antique statues</text>
+
+    <!-- 11 Isolotto -->
+    <ellipse cx="880" cy="575" rx="78" ry="44" fill="#bcd2e0" stroke="#6f93b0" stroke-width="2"/>
+    <ellipse cx="880" cy="575" rx="30" ry="17" fill="#cfe0bb" stroke="#8aa168"/>
+    <circle cx="858" cy="540" r="14" fill="#a8862f"/><text x="858" y="545" class="num" text-anchor="middle">11</text>
+    <text x="880" y="578" class="sub2" text-anchor="middle" font-style="italic">Ocean Ftn</text>
+    <text x="790" y="636" class="lbl">11 · Isolotto ★ — Giambologna's Ocean</text>
+
+    <!-- 12 Limonaia -->
+    <rect x="980" y="430" width="78" height="40" rx="3" fill="#e6e0c4" stroke="#b0a570"/>
+    <circle cx="1000" cy="450" r="13" fill="#3a6b2e"/><text x="1000" y="455" class="num" text-anchor="middle">12</text>
+    <text x="1022" y="452" class="lbl" text-anchor="end" transform="translate(34,0)"> </text>
+    <text x="978" y="420" class="lbl">12 · Limonaia</text><text x="978" y="490" class="sub2">Lemon House · Medici citrus</text>
+
+    <!-- 13 exits -->
+    <circle cx="935" cy="632" r="13" fill="#6d5a34"/><text x="935" y="637" class="num" text-anchor="middle">13</text>
+    <text x="955" y="636" class="lbl">13 · Annalena / Porta Romana exits</text>
+  </svg>
+  </div>
+
+  <div class="legend">
+    <div class="it"><span class="b">★</span> Headline stops: Buontalenti Grotto (4), Abundance (9), Isolotto / Ocean (11)</div>
+    <div class="it"><span class="b">—</span> Central axis: Entry → Amphitheatre → Neptune → Abundance (1·5·6·9)</div>
+    <div class="it"><span class="b">↘</span> Viottolone descent to the Isolotto, Limonaia &amp; the southern gates (10–13)</div>
+  </div>
+
+  <div class="note">Schematic, not to scale · feature set &amp; route per the Uffizi Galleries / official Boboli itinerary · whole garden under the "Boboli 2030" restoration</div>
+
+  <footer>
+    Boboli Gardens · Palazzo Pitti · entrances at Piazza de' Pitti, Annalena (Via Romana) &amp; Porta Romana · Separate or combined Pitti+Boboli ticket · Open Tue–Sun 8:15 · Closed first &amp; last Mon, 1 Jan, 25 Dec<br>
+    Laid out from 1549 for the Medici — the model for the Italian formal garden, and through it for Versailles
+  </footer>
+</div>
+</body>
+</html>

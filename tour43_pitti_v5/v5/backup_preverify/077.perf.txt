@@ -1,0 +1,22 @@
+@id: 077 · old 090 · Stop 12
+@section: Boboli
+@room: Stop 12
+@type: R
+@title: The Limonaia
+@where: Outside the Limonaia, the long, low Lemon House on the western, Via Romana side of the garden, north of the Isolotto toward the palace. Its gates are closed for restoration; view it from outside. The Annalena gate is close by.
+@what: The Lemon House, built 1777–78 by Zanobi del Rosso for Pietro Leopoldo on the site of Cosimo III's menagerie, enlarged by Giuseppe Cacialli in 1816. About 106 metres long and facing south, it shelters some 500 potted citrus trees through the winter.
+@listen: From a grand-ducal zoo to a winter home for lemons, and the Medici passion for strange citrus.
+@brief: A friend with a soft spot for eccentric collectors; curious at the zoo, warm and amused about the citrus obsession, easy at the send-off.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/lemon-house ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, Limonaia gates closed) ; https://en.wikipedia.org/wiki/Bizzarria ; old script + findings G5, G6 §1.7
+---
+[curious] Before this building held lemon trees, the site held a zoo. Cosimo the Third kept a menagerie of exotic animals here from the late sixteen hundreds. A century later, Grand Duke Pietro Leopoldo cleared it away, and his architect Zanobi del Rosso, the man behind the Kaffeehaus, built this in its place. The Limonaia, the Lemon House.
+
+Its gates are closed for restoration at the moment, so you'll see it from outside. It's long and low, more than a hundred metres, and it faces south to catch the winter sun. [pause] Every autumn, some five hundred potted citrus trees are brought in out of the cold. Every spring, they go back out into the garden.
+
+Why all the fuss? [warmly] The Medici were obsessed with citrus. They built up one of the great collections of lemons, oranges and citrons in Europe. Citrus was a status symbol. It was exotic, hard to keep alive through a Tuscan winter, and it gave fruit, flowers and scent all at once. A ruler who could show you fruiting trees in January was showing off his mastery of nature.
+
+[amused] And they loved the strange ones best. The most famous was the Bizzarria, a single tree whose fruit mixes citron and bitter orange. Some of these old varieties still survive in the Medici collections today.
+
+From here, the Annalena gate onto Via Romana is close by. Or follow the avenue north, back toward the palace. Whichever gate you choose, play the Ways out track as you head for it.

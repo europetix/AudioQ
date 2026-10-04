@@ -1,0 +1,22 @@
+@id: 011 · old 042 · Room 11 · Sala dell'Arca
+@section: Palatine
+@room: Room 11
+@type: R
+@title: Sala dell'Arca — the Room of the Ark
+@where: In the Sala dell'Arca, the last room of the Volterrano Wing, reached through the small Sala della Fama.
+@what: Wall paintings by Luigi Ademollo, 1816, of the procession led by King David bringing the Ark of the Covenant into Jerusalem.
+@listen: A room where the story runs around the walls, and the team of painters who remade this wing.
+@brief: A friend inviting the listener to join a parade, then stepping back to show the bigger picture of the wing; curious, warm, ending with a clear send-off.
+@pace: medium
+@energy: 3→3→2
+@sources: findings G2 B 042 (Ademollo 1816, procession of David with the Ark on the WALLS, not the ceiling; palazzo-pitti.net/the-room-of-the-ark.html; cultura.gov.it press release 23 Sep 2020), G2 B 042 second row (Ademollo one of a team: Podestà, Benvenuti, Martellini, Bezzuoli, Collignon), G2 confirmed OK (Ademollo also painted the Palatine Chapel), G6 §3 N11 (exit via Music Room and Poccetti Corridor to Prometheus)
+---
+[curious] In the other rooms of this wing, the story is over your head. In this one, it walks around you.
+
+Luigi Ademollo painted these walls in 1816 as one long procession. King David is bringing the Ark of the Covenant into Jerusalem. In the Bible the Ark was the sacred chest that held the tablets of the Law, the sign that God was with his people. The book of Samuel says David danced before it as it came into the city. [pause] So walk the room slowly, the way the crowd moves along the walls. For a minute, you're part of the parade.
+
+[warmly] Ademollo was one of a team. In the years after Napoleon, the Habsburg-Lorraine grand dukes had this wing redecorated by some of the best painters in Florence. Podestà had the Fine Arts. Benvenuti had Hercules. Martellini had the dawn, Bezzuoli had Berenice, and Collignon had Psyche. Room by room, they wrapped a seventeenth-century apartment in the newest style of their day.
+
+You'll meet Ademollo again later, in the Palatine Chapel on the ground floor.
+
+To leave the wing, go on through the Sala della Musica and the long Poccetti Corridor to the Sala di Prometeo. Play its track there.

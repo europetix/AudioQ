@@ -1,0 +1,24 @@
+@id: 026 · old 020 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: R
+@title: Sala di Saturno — The Room of Raphael
+@where: In the Sala di Saturno, the first of the five Planet Rooms on the normal route. Stand in the middle of the room, where you can see the ceiling and the Raphaels on the walls.
+@what: A grand reception room under Ciro Ferri's ceiling of an aged prince led up to Saturn, god of Time, to be crowned by Fame; on the walls, the heart of the Pitti's Raphael collection.
+@listen: What this room meant in the Medici court, what the ceiling says, and how the room lets you follow Raphael from young Florentine painter to papal star.
+@brief: A friend arriving in the room they've been looking forward to; warm, a little hushed with anticipation, a wry smile at walking the story backwards.
+@pace: medium-slow
+@energy: 3→4
+@sources: https://www.uffizi.it/en/online-exhibitions/saturn-room-in-pitti-palace (ceiling by Ciro Ferri, pupil of Pietro da Cortona; subject; Medici order Venus→Saturn; one age of the prince per room; last Planet Room and first of the Grand Duke's private apartments) ; https://www.uffizi.it/en/notices/palatine-gallery-maintenance-work (Saturn closed only until 16 June 2026; open now) ; https://uffizi.it/en/artworks/madonna-del-granduca (Raphael in Florence 1504–08) ; findings G1 (closure line deleted; "many routes" for the Raphaels replacing the della Rovere claim)
+---
+[warmly] If you had time for only one room in this palace, many people would choose this one. In here, you can watch Raphael grow up.
+
+He came to Florence as a young man in his early twenties, and some of the portraits and Madonnas he made there hang on these walls. So does the work of the famous painter he became in Rome, painting a pope and his cardinals. Raphael died at thirty-seven. A great deal of that short career fits into this one room.
+
+The pictures arrived by many routes. A Medici pope's commission. A grand duke's purchase. An altarpiece bought for a chapel in a small Tuscan cathedral, and later bought again by a Medici prince.
+
+[pause] Now look up. The ceiling is the work of Ciro Ferri, a pupil of Pietro da Cortona. It finishes a story that runs through all five Planet Rooms. Each room stands for one age in the life of an ideal prince. Turning away from pleasure in Venus. Learning in Apollo. War in Mars. Good government in Jupiter. And here, at the end, old age. The prince, his earthly life nearly over, is led up into the heavens. Saturn, the god of Time, waits for him, and Fame stands ready with a crown.
+
+Under the Medici, guests began at Venus, and the sequence ended here, in Saturn, the first of the Grand Duke's private rooms, just beyond the throne room. [wry] Today the route runs the other way, so you meet old age first and finish with youth and Venus.
+
+Six of Raphael's works here have their own track. Start with the round painting of a mother hugging her child, the Madonna della Seggiola.

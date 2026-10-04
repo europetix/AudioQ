@@ -1,0 +1,22 @@
+@id: 010 · old 045 · Room 9 · Sala di Psiche
+@section: Palatine
+@room: Room 9
+@type: R
+@title: Sala di Psiche — Psyche and Salvator Rosa
+@where: In the Sala di Psiche, the next room of the Volterrano Wing after the Sala di Berenice.
+@what: Ceiling fresco by Giuseppe Collignon, early nineteenth century, of Psyche welcomed among the gods; the room has long held landscapes by Salvator Rosa.
+@listen: A love story with a happy ending overhead, and a painter of storms on the walls.
+@brief: A friend moving from a fairy tale to a favourite rebel painter; warm at the happy ending, curious and a little conspiratorial about Rosa.
+@pace: medium
+@energy: 2→3→3
+@sources: old script + findings G2 B 045 (Collignon; drop "French-born"), G2 confirmed OK (Salvator Rosa in Psiche, palazzo-pitti.net/the-psyche-room.html; Collignon painted the Prometheus ceiling, 1809–14) ; wall hang may change after the wing's re-display (notice: https://www.uffizi.it/avvisi/galleria-palatina-lavori-di-restauro-e-riallestimento)
+---
+[warmly] After Berenice, a love story that ends well.
+
+Psyche was a mortal princess so beautiful that Venus herself grew jealous. Cupid fell in love with her anyway, and Venus set her one impossible task after another. The Roman writer Apuleius told the story, and he gave it a happy ending. Jupiter allowed the marriage, and Psyche was made immortal. [pause] That last moment is the one above you, Psyche being welcomed among the gods. Giuseppe Collignon painted it in the early eighteen-hundreds. You'll meet him again soon, on the ceiling of the Sala di Prometeo.
+
+[curious] Now come down to the walls. For a long time this room has been the home of Salvator Rosa, and if his paintings are hanging when you visit, they're the reason to linger. Rosa was a seventeenth-century painter from Naples, and also a poet, a satirist and a general troublemaker. He painted wild, stormy landscapes, mountains and ruins, with tiny figures of bandits, hermits and soldiers almost lost inside them. The Medici collected him with real enthusiasm.
+
+[conspiratorial] Here's how to spot one from across the room. Look for the smallest person in the biggest storm.
+
+Next comes the small Sala della Fama, and just beyond it the Sala dell'Arca. Play the Ark Room's track there.

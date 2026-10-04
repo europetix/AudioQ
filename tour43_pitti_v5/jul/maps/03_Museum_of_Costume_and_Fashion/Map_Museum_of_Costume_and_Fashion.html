@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Museum of Costume &amp; Fashion — Palazzo Pitti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4efe4; --ink:#2b2620; --header:#2a2733; --header2:#3f3a52;
+    --gold:#c9a14a; --line:#9a8f7c;
+    --z-early:#e6d8c4;     /* 16c-18c court */
+    --z-19c:#e7cfd6;       /* 19th century */
+    --z-e20:#d9cfe6;       /* early 20th */
+    --z-mid:#cdd9e8;       /* mid 20th */
+    --z-late:#cfe0d2;      /* late 20th */
+    --z-stage:#e9dcb4;     /* stage & screen */
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:#ded6c4;font-family:"EB Garamond",Georgia,serif;color:var(--ink);padding:28px;display:flex;justify-content:center}
+  .sheet{width:1180px;background:var(--paper);border:1px solid #cbbfa6;box-shadow:0 18px 50px rgba(40,30,20,.28);padding:0 0 26px}
+  header{background:linear-gradient(120deg,var(--header) 0%,var(--header2) 100%);color:#f3e7d8;padding:30px 40px 26px;display:flex;justify-content:space-between;align-items:flex-start}
+  header h1{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:44px;line-height:.96;letter-spacing:.5px}
+  header .sub{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:21px;color:#e7cda0;margin-top:6px}
+  header .loc{font-size:12.5px;letter-spacing:2px;text-transform:uppercase;color:#cbb08f;margin-top:12px}
+  .badge{text-align:right;flex-shrink:0;margin-left:24px}
+  .badge .pill{display:inline-block;background:#1d1b25;color:#e7cda0;font-size:12px;letter-spacing:3px;text-transform:uppercase;padding:7px 14px;font-weight:600}
+  .badge .meta{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:18px;color:#e7cda0;margin-top:12px;line-height:1.35}
+  .itin{padding:14px 40px 4px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#7a6f5b}
+  .itin b{color:var(--header2);font-weight:600}
+  .plan{padding:14px 40px 0}
+  .row{display:grid;gap:10px;margin-bottom:10px;grid-template-columns:repeat(7,1fr)}
+  .room{border:1px solid rgba(80,70,55,.30);border-radius:3px;padding:13px 11px 15px;min-height:122px;display:flex;flex-direction:column;align-items:center;text-align:center;position:relative}
+  .room .n{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:24px;line-height:1}
+  .room .nm{font-style:italic;font-size:15px;margin-top:6px;line-height:1.16}
+  .room .d{font-size:11px;color:#6b6253;margin-top:7px;line-height:1.26}
+  .room.star .n::after{content:" ★";color:var(--gold);font-size:14px}
+  .room.skip{opacity:.62}
+  .room.skip .n::after{content:" ·";color:#9a8f7c}
+  .z-early{background:var(--z-early)} .z-19c{background:var(--z-19c)} .z-e20{background:var(--z-e20)}
+  .z-mid{background:var(--z-mid)} .z-late{background:var(--z-late)} .z-stage{background:var(--z-stage)}
+  .entry{background:#1d1b25;border:none;color:#e7cda0;border-radius:3px;padding:13px 12px;display:flex;flex-direction:column;justify-content:center;text-align:center;min-height:122px}
+  .entry b{color:#fff;font-family:"Cormorant Garamond",serif;font-size:16px;letter-spacing:1px}
+  .entry span{font-size:11.5px;margin-top:6px;line-height:1.3}
+  .legend{margin:18px 40px 0;padding-top:16px;border-top:1px solid #cdbfa3;display:grid;grid-template-columns:repeat(3,1fr);gap:10px 26px;font-size:13.5px}
+  .legend .it{display:flex;align-items:center;gap:9px}
+  .legend .sw{width:22px;height:14px;border:1px solid rgba(80,70,55,.4);flex-shrink:0}
+  .note{margin:16px 40px 0;font-style:italic;font-size:13px;color:#6b6253;text-align:right}
+  footer{margin:18px 40px 0;padding-top:14px;border-top:2px solid var(--header2);font-style:italic;font-size:13px;color:#5a5142;text-align:center;line-height:1.5}
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <div>
+      <h1>MUSEUM OF COSTUME &amp; FASHION</h1>
+      <div class="sub">Museo della Moda e del Costume · Palazzina della Meridiana</div>
+      <div class="loc">Palazzo Pitti · Firenze · South Wing, beyond the Boboli ticket hall</div>
+    </div>
+    <div class="badge">
+      <span class="pill">Meridiana</span>
+      <div class="meta">13 Rooms · Chronological<br>Reopened 2024<br>Italy's national costume museum</div>
+    </div>
+  </header>
+
+  <div class="itin">A walk through five centuries of dress · <b>Room 1 → Room 13</b> · the route runs strictly in time order →</div>
+
+  <div class="plan">
+    <!-- ROW 1: entry + rooms 1-6 -->
+    <div class="row">
+      <div class="entry"><b>ENTRY</b><span>Palazzina della Meridiana · the chronological route begins at Room 1</span></div>
+      <div class="room z-early star"><div class="n">1</div><div class="nm">Funeral Garments</div><div class="d">16c · Cosimo I, Eleonora di Toledo &amp; Don Garzia · the only survivors of their kind</div></div>
+      <div class="room z-early"><div class="n">2</div><div class="nm">18c Court Fashion</div><div class="d">Baroque &amp; Rococo · panniers, brocaded silks</div></div>
+      <div class="room z-19c"><div class="n">3</div><div class="nm">Neoclassical &amp; Empire</div><div class="d">c.1800 · the high waist, light muslins</div></div>
+      <div class="room z-19c"><div class="n">4</div><div class="nm">Romantic Age &amp; Courtwear</div><div class="d">the crinoline · day, wedding &amp; court dress</div></div>
+      <div class="room z-19c"><div class="n">5</div><div class="nm">The Belle Epoque</div><div class="d">S-bend silhouette · the Franca Florio gown</div></div>
+      <div class="room z-e20 star"><div class="n">6</div><div class="nm">Fortuny &amp; the Jazz Age</div><div class="d">the pleated Delphos tunic · the 1920s flapper</div></div>
+    </div>
+
+    <!-- ROW 2: rooms 7-13 -->
+    <div class="row">
+      <div class="room z-e20"><div class="n">7</div><div class="nm">1930s–40s Elegance</div><div class="d">the bias cut · Elsa Schiaparelli</div></div>
+      <div class="room z-mid star"><div class="n">8</div><div class="nm">Italian Haute Couture</div><div class="d">the Sala Bianca shows, 1951– · jewels of Ferdinand III</div></div>
+      <div class="room z-mid"><div class="n">9</div><div class="nm">Space Age &amp; RTW</div><div class="d">1960s · the mini-skirt · ready-to-wear</div></div>
+      <div class="room z-late"><div class="n">10</div><div class="nm">Black &amp; White</div><div class="d">late-20c minimalism · Valentino, Gaultier</div></div>
+      <div class="room z-late"><div class="n">11</div><div class="nm">Italian Designer Decade</div><div class="d">Versace · Armani · Prada · Gucci</div></div>
+      <div class="room z-late skip"><div class="n">12</div><div class="nm">Fashion at the Millennium</div><div class="d">rotating display · no dedicated track</div></div>
+      <div class="room z-stage star"><div class="n">13</div><div class="nm">Stage &amp; Screen Costumes</div><div class="d">the Piero Tosi donation · Tirelli · Visconti &amp; Fellini</div></div>
+    </div>
+  </div>
+
+  <div class="legend">
+    <div class="it"><span class="sw" style="background:var(--z-early)"></span> 16th–18th c. · court &amp; funeral dress (1–2)</div>
+    <div class="it"><span class="sw" style="background:var(--z-19c)"></span> 19th century (3–5)</div>
+    <div class="it"><span class="sw" style="background:var(--z-e20)"></span> Early 20th c. (6–7)</div>
+    <div class="it"><span class="sw" style="background:var(--z-mid)"></span> Mid 20th c. · birth of Italian fashion (8–9)</div>
+    <div class="it"><span class="sw" style="background:var(--z-late)"></span> Late 20th c. (10–12)</div>
+    <div class="it"><span class="sw" style="background:var(--z-stage)"></span> ★ Stage &amp; screen (13)</div>
+  </div>
+
+  <div class="note">★ marks the audio-guide highlights · Room 12 rotates and has no dedicated track · schematic, not to architectural scale</div>
+
+  <footer>
+    Museum of Costume &amp; Fashion · Palazzo Pitti · Piazza de' Pitti 1, Florence · Included in the Palazzo Pitti ticket · Open Tue–Sun · Closed Mondays, 1 Jan, 25 Dec<br>
+    Italy's national museum of fashion · housed in the eighteenth-century Palazzina della Meridiana · reopened with a chronological re-hang in 2024
+  </footer>
+</div>
+</body>
+</html>

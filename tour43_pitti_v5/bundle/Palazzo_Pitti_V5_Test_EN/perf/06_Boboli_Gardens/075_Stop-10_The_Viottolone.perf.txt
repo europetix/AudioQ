@@ -1,0 +1,22 @@
+@id: 075 · old 088 · Stop 10
+@section: Boboli
+@room: Stop 10
+@type: R
+@title: The Viottolone
+@where: On the Viottolone, the long cypress avenue running down the south-western slope from the top of the hill to the Isolotto. Part of the labyrinth of paths beside it is fenced off for restoration; the avenue itself is open.
+@what: A long, straight avenue between tall cypresses, with statues at intervals, laid out around 1612 as the garden was pushed south under Cosimo II and Ferdinando II. Fifty-three cypresses were replanted in 2019.
+@listen: How the garden grew south, and why a four-hundred-year-old avenue has young trees.
+@brief: Walking side by side down a long avenue; unhurried and reflective, letting the light and the walk do the work.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://uffizi.it/en/boboli-garden/history ; https://www.finestresullarte.info/attualita/rinascimento-di-boboli (29 Apr 2019) ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; old script + findings G5, G6 §1.7
+---
+[warmly] Here the garden changes mood. The first Medici garden stayed close to the palace. Around 1612, under Cosimo the Second, the family began pushing it south, down this slope, and this long straight avenue became the spine of the new design. His son Ferdinando the Second carried the work on.
+
+The line of cypresses on either side is centuries old. [pause] The trees themselves are not, or not all of them. They have been renewed again and again, and fifty-three were replanted as recently as 2019, to keep the seventeenth-century design alive. A garden like this is never simply finished. It is kept.
+
+Statues stand along the way. Some are ancient Roman marbles. Many more are Florentine works of the sixteen and seventeen hundreds. Don't worry about naming them. Many aren't labelled, and the point was the effect, a long walk through an open-air gallery.
+
+[quietly] What to notice is the light. The cypresses throw long shadows across the gravel, and later in the day they make dark bars you walk through. Every so often, look back over your shoulder. The view back up the hill is an easy one to miss.
+
+Part of the labyrinth of paths beside the avenue is fenced off for restoration, but the avenue is open all the way down. At the bottom you'll reach the Isolotto, an oval pool with an island at its heart and a giant figure in the middle. Play its track at the edge of the pool.

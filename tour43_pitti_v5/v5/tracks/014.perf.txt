@@ -1,0 +1,22 @@
+@id: 014 · old 046 · Room 17 · Sala di Flora
+@section: Palatine
+@room: Room 17
+@type: R
+@title: Sala di Flora and the Small Rooms
+@where: In the Sala di Flora, between the Sala della Giustizia behind you and the Sala dei Putti ahead. Stand in the centre and look up.
+@what: A small room named for Flora, goddess of flowers, with a nineteenth-century ceiling of allegorical flowers by Antonio Marini. Nearby, Titian's portrait of Vincenzo Mosti usually hangs in the Sala della Giustizia, and Rubens's Three Graces in the Sala dei Putti.
+@listen: A quieter stretch of small rooms, what their ceilings record, and two big names worth a detour of a few steps.
+@brief: A friend slowing the pace on purpose in a run of small rooms; light and relaxed, then pointing out two treasures most people stride past.
+@pace: medium
+@energy: 2→3
+@sources: findings G2 (046 rows: Flora is Room 17 in the main enfilade, not the Volterrano wing; Marini ceiling; coverage gaps D: Titian Vincenzo Mosti in Giustizia, Rubens Three Graces in Putti, per it.wikipedia); G6_ROUTE §1.2 room sequence
+---
+[lightly] Here the palace takes a breath. After Prometheus and his roomful of tondi, you've come through two small spaces, the Corridor of Columns and the Sala della Giustizia, the Room of Justice. This is the Sala di Flora. Two more rooms lie ahead before the next big story.
+
+Flora was the Roman goddess of flowers and spring. Look up, and you'll see her room's ceiling scattered with allegorical flowers, painted by Antonio Marini in the nineteenth century.
+
+[warmly] In fact, keep glancing up as you walk this stretch. Several of the ceilings on this stretch are nineteenth-century work. Prometheus was painted while Napoleon's sister ruled Tuscany. The ceiling of Ulysses, just ahead, was painted after the old grand dukes came home. Taken together, they're a quiet record of a palace changing hands, and then changing back.
+
+[pause] Small rooms can still hide big names. If you hurried through the Room of Justice, step back for a moment. Titian's portrait of a man named Vincenzo Mosti usually hangs there. And in the next room, the Sala dei Putti or Room of the Cherubs, look for Rubens's Three Graces, the three goddesses of charm and beauty.
+
+Then carry on into the Sala di Ulisse, the Room of Ulysses. Its track starts there.

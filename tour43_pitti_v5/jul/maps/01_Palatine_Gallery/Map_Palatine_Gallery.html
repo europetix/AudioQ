@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Palatine Gallery — Palazzo Pitti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4efe4; --ink:#2b2620; --header:#3a2a1c; --header2:#5a3c24;
+    --gold:#c9a14a; --line:#9a8f7c;
+    --z-entry:#e2d8c6;   /* entrance & Castagnoli */
+    --z-planet:#e7c9b6;  /* the Planet Rooms */
+    --z-iliad:#e9dcb4;   /* Iliad */
+    --z-inner:#d8cfe6;   /* inner state rooms */
+    --z-volt:#cfe0d2;    /* Volterrano Wing */
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:#ded6c4;font-family:"EB Garamond",Georgia,serif;color:var(--ink);padding:28px;display:flex;justify-content:center}
+  .sheet{width:1180px;background:var(--paper);border:1px solid #cbbfa6;box-shadow:0 18px 50px rgba(40,30,20,.28);padding:0 0 26px}
+  header{background:linear-gradient(120deg,var(--header) 0%,var(--header2) 100%);color:#f3e7d8;padding:30px 40px 26px;display:flex;justify-content:space-between;align-items:flex-start}
+  header h1{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:46px;line-height:.96;letter-spacing:.5px}
+  header .sub{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:21px;color:#e7cda0;margin-top:6px}
+  header .loc{font-size:12.5px;letter-spacing:2px;text-transform:uppercase;color:#cbb08f;margin-top:12px}
+  .badge{text-align:right;flex-shrink:0;margin-left:24px}
+  .badge .pill{display:inline-block;background:#26190f;color:#e7cda0;font-size:12px;letter-spacing:3px;text-transform:uppercase;padding:7px 14px;font-weight:600}
+  .badge .meta{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:18px;color:#e7cda0;margin-top:12px;line-height:1.35}
+  .itin{padding:14px 40px 4px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#7a6f5b}
+  .itin b{color:var(--header2);font-weight:600}
+  .plan{padding:14px 40px 0}
+  .zone{margin-bottom:10px}
+  .zlabel{font-family:"Cormorant Garamond",serif;font-size:15px;font-weight:600;color:var(--header2);letter-spacing:.5px;margin:7px 0 5px}
+  .row{display:grid;gap:10px}
+  .c3{grid-template-columns:repeat(3,1fr)} .c5{grid-template-columns:repeat(5,1fr)}
+  .c6{grid-template-columns:repeat(6,1fr)} .c1{grid-template-columns:1fr}
+  .room{border:1px solid rgba(80,70,55,.30);border-radius:3px;padding:12px 11px 14px;min-height:108px;display:flex;flex-direction:column;align-items:center;text-align:center}
+  .room .n{font-family:"Cormorant Garamond",serif;font-weight:700;font-size:23px;line-height:1}
+  .room .nm{font-style:italic;font-size:14.5px;margin-top:6px;line-height:1.16}
+  .room .d{font-size:11px;color:#6b6253;margin-top:6px;line-height:1.26}
+  .room.star .n::after{content:" ★";color:var(--gold);font-size:14px}
+  .z-entry{background:var(--z-entry)} .z-planet{background:var(--z-planet)} .z-iliad{background:var(--z-iliad)}
+  .z-inner{background:var(--z-inner)} .z-volt{background:var(--z-volt)}
+  .arrow{text-align:center;color:var(--header2);font-size:13px;letter-spacing:2px;margin:2px 0 8px}
+  .legend{margin:16px 40px 0;padding-top:16px;border-top:1px solid #cdbfa3;display:grid;grid-template-columns:repeat(3,1fr);gap:10px 26px;font-size:13px}
+  .legend .it{display:flex;align-items:center;gap:9px}
+  .legend .sw{width:22px;height:14px;border:1px solid rgba(80,70,55,.4);flex-shrink:0}
+  .note{margin:16px 40px 0;font-style:italic;font-size:13px;color:#6b6253;text-align:right}
+  footer{margin:16px 40px 0;padding-top:14px;border-top:2px solid var(--header2);font-style:italic;font-size:13px;color:#5a5142;text-align:center;line-height:1.5}
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <div>
+      <h1>PALATINE GALLERY</h1>
+      <div class="sub">Galleria Palatina · First Floor · Piano Nobile</div>
+      <div class="loc">Palazzo Pitti · Firenze · Hung floor-to-ceiling, Medici-style</div>
+    </div>
+    <div class="badge">
+      <span class="pill">Primo Piano</span>
+      <div class="meta">28 Rooms · Princely hang<br>Raphael · Titian · Rubens<br>Caravaggio · Canova</div>
+    </div>
+  </header>
+
+  <div class="itin">The visiting route runs into the Planet Rooms at <b>Venus</b> and back to <b>Saturn</b> · 28 → 27 → 26 → 25 → 24 → Iliad → inner rooms → Volterrano Wing →</div>
+
+  <div class="plan">
+    <div class="zone"><div class="zlabel">Entrance &amp; the Hub — Rooms 1–3</div>
+      <div class="row c3">
+        <div class="room z-entry"><div class="n">1–2</div><div class="nm">Staffieri &amp; Statue</div><div class="d">Footmen's antechamber &amp; the Gallery of Statues</div></div>
+        <div class="room z-entry"><div class="n">3</div><div class="nm">Sala di Castagnoli</div><div class="d">The hub · the Table of the Muses at its centre</div></div>
+        <div class="room z-entry" style="border-style:dashed"><div class="n">↓</div><div class="nm">into the Planet Rooms</div><div class="d">the route turns to Venus first</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">The Planet Rooms — visited Venus → Saturn (Rooms 28 → 24)</div>
+      <div class="row c5">
+        <div class="room z-planet star"><div class="n">28</div><div class="nm">Sala di Venere</div><div class="d">Canova · Venus Italica · Titian · The Concert</div></div>
+        <div class="room z-planet"><div class="n">27</div><div class="nm">Sala di Apollo</div><div class="d">Titian · Mary Magdalene · Pietro Aretino</div></div>
+        <div class="room z-planet"><div class="n">26</div><div class="nm">Sala di Marte</div><div class="d">Rubens · Four Philosophers &amp; Consequences of War</div></div>
+        <div class="room z-planet"><div class="n">25</div><div class="nm">Sala di Giove</div><div class="d">Raphael · La Velata · the old throne room</div></div>
+        <div class="room z-planet star"><div class="n">24</div><div class="nm">Sala di Saturno</div><div class="d">Four Raphaels · Seggiola · Granduca · Baldacchino</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">The Room of the Iliad — Room 23</div>
+      <div class="row c1">
+        <div class="room z-iliad"><div class="n">23</div><div class="nm">Sala dell'Iliade</div><div class="d">Raphael · La Gravida · Andrea del Sarto · Assumption · Artemisia Gentileschi · Judith</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">The Inner State Rooms — Rooms 21, 22, 19, 14, 20</div>
+      <div class="row c5">
+        <div class="room z-inner star"><div class="n">21</div><div class="nm">Educazione di Giove</div><div class="d">Caravaggio · Sleeping Cupid · Allori · Judith</div></div>
+        <div class="room z-inner"><div class="n">22</div><div class="nm">Sala della Stufa</div><div class="d">Pietro da Cortona's Four Ages frescoes</div></div>
+        <div class="room z-inner"><div class="n">19</div><div class="nm">Sala di Ulisse</div><div class="d">Raphael · Madonna dell'Impannata</div></div>
+        <div class="room z-inner"><div class="n">14</div><div class="nm">Sala di Prometeo</div><div class="d">Filippo Lippi · the round Tondo</div></div>
+        <div class="room z-inner"><div class="n">20</div><div class="nm">Iride &amp; Bagno</div><div class="d">Napoleon's bathroom &amp; the Iris room</div></div>
+      </div>
+    </div>
+
+    <div class="zone"><div class="zlabel">The Volterrano Wing — the grand duchesses' private rooms (Rooms 4–12, 16–18)</div>
+      <div class="row c6">
+        <div class="room z-volt"><div class="n">8</div><div class="nm">Berenice</div></div>
+        <div class="room z-volt"><div class="n">4</div><div class="nm">Allegorie</div></div>
+        <div class="room z-volt"><div class="n">5</div><div class="nm">Belle Arti</div></div>
+        <div class="room z-volt"><div class="n">11</div><div class="nm">Arca · Giordano</div></div>
+        <div class="room z-volt"><div class="n">6</div><div class="nm">Ercole</div></div>
+        <div class="room z-volt"><div class="n">7</div><div class="nm">Aurora</div></div>
+      </div>
+      <div class="row c6" style="margin-top:9px">
+        <div class="room z-volt"><div class="n">9</div><div class="nm">Psiche</div></div>
+        <div class="room z-volt"><div class="n">17</div><div class="nm">Flora</div></div>
+        <div class="room z-volt"><div class="n">10</div><div class="nm">Fama</div></div>
+        <div class="room z-volt"><div class="n">12</div><div class="nm">Musica</div></div>
+        <div class="room z-volt"><div class="n">16</div><div class="nm">Giustizia</div></div>
+        <div class="room z-volt"><div class="n">18</div><div class="nm">Putti</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="legend">
+    <div class="it"><span class="sw" style="background:var(--z-entry)"></span> Entrance &amp; Castagnoli hub (1–3)</div>
+    <div class="it"><span class="sw" style="background:var(--z-planet)"></span> ★ The Planet Rooms (24–28)</div>
+    <div class="it"><span class="sw" style="background:var(--z-iliad)"></span> Room of the Iliad (23)</div>
+    <div class="it"><span class="sw" style="background:var(--z-inner)"></span> ★ Inner state rooms (14,19–22)</div>
+    <div class="it"><span class="sw" style="background:var(--z-volt)"></span> Volterrano Wing (4–12,16–18)</div>
+    <div class="it"><span class="sw" style="background:#fff"></span> ★ = audio-guide marquee rooms</div>
+  </div>
+
+  <div class="note">Room numbers per the Galleria Palatina plan · the route enters the Planet Rooms at Venus and works back to Saturn · schematic, not to architectural scale</div>
+
+  <footer>
+    Palatine Gallery · Palazzo Pitti · Piazza de' Pitti 1, Florence · Included in the Palazzo Pitti ticket · Open Tue–Sun · Closed Mondays, 1 Jan, 25 Dec<br>
+    The Medici and Lorraine picture gallery, kept in its original floor-to-ceiling princely hang · the greatest concentration of Raphael and Titian in one place
+  </footer>
+</div>
+</body>
+</html>

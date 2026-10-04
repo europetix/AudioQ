@@ -1,0 +1,22 @@
+@id: 017 · old 038 · Room 20 · Napoleon's Bathroom
+@section: Palatine
+@room: Room 20
+@type: R
+@title: Napoleon's Bathroom
+@where: In Napoleon's Bathroom, the small room between the Sala di Ulisse and the Sala dell'Educazione di Giove.
+@what: A small neoclassical bathroom with a marble bath, designed by the court architect Giuseppe Cacialli, begun in 1813 and finished in the early 1820s.
+@listen: A bathroom begun for Napoleon's sister and finished by the family Napoleon had pushed aside.
+@brief: A friend enjoying the irony of a small, cool room; amused but never mocking, then pointing ahead to its older Medici cousin.
+@pace: medium
+@energy: 2→3
+@sources: findings G2 (038 rows: no Sala dell'Iride; Room 20 is the Bathroom alone; Cacialli, begun 1813, finished under the restored Lorraine; Elisa Grand Duchess from 1809; source palazzo-pitti.net/napoleonsbathroom.html, single source); https://www.uffizi.it/en/artworks/stove-room (for the Stufa comparison)
+---
+[amused] This little room was begun for one family and finished by its rivals.
+
+It's known as Napoleon's Bathroom, but the name is a little generous. It was really begun for his sister, Elisa Baciocchi. Napoleon had made her Grand Duchess of Tuscany in 1809. In 1813 work started here on a private bathroom, designed by the court architect, Giuseppe Cacialli.
+
+[pause] Then the empire collapsed. Napoleon fell, Elisa's rule in Florence ended with him, and the old grand dukes of the House of Lorraine came back to the palace. They could have torn the room out. Instead, they finished it, in the early 1820s. [quietly] So the Bonapartes' bathroom was completed by the family they had pushed aside. Going by the dates, Elisa can hardly have used it.
+
+Take a moment to look around. Notice how small it is, and how calm. Cool marble, the bath itself, and restrained classical ornament everywhere you look. After the crowded walls of the picture rooms, it feels almost like a held breath. This was luxury in the newest taste of its day.
+
+[warmly] Keep the idea of a royal bathroom in mind. Two rooms on, in the Sala della Stufa, you'll find the Medici version, nearly two centuries older. But first comes the Sala dell'Educazione di Giove, the next room on the route. Its track starts there.

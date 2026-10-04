@@ -1,0 +1,24 @@
+@id: 036 · old 011 · Room 26 · Sala di Marte
+@section: Palatine
+@room: Room 26
+@type: R
+@title: Sala di Marte — The Room of Mars
+@where: In the Sala di Marte, the third of the five Planet Rooms on today's route, entered from the Sala di Giove. Stand near the middle and look up at the ceiling first.
+@what: A grand reception room under Pietro da Cortona's ceiling fresco of Mars, painted in the mid-1640s. The room is traditionally home to two paintings by Rubens and to Titian's portrait known as the English Gentleman.
+@listen: Why the Medici prince's education reads backwards on today's route, what Cortona does with war, and the three works to find here.
+@brief: A warm friend pointing out that the story on the ceilings runs in reverse; easy and lightly amused at the start, sober over the battle, practical at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://uffizi.it/en/palatine-gallery/history (Planet Room frescoes 1640–47); old script 011 + findings G1 (B: ceiling "mid-1640s"; A: Rubens and Titian rooms unverified, Titian also hung in Apollo; E) + G6_ROUTE (N36 wording)
+---
+[lightly] If you've been reading the ceilings, here's a small surprise. You've been reading the story backwards.
+
+Under the Medici, a guest crossed these five Planet Rooms in the opposite direction. He began in the Room of Venus and ended in the Room of Saturn. The ceilings told the education of a young prince in that order. First pleasure, then learning, then war, then the crown. Today's route runs the other way. So you've just left the crowned prince in the throne room, and stepped back onto the battlefield.
+
+Look up. Pietro da Cortona painted this ceiling in the mid-sixteen-forties, and it is not a victory parade. Mars sits at the centre, sword raised. Around him, bodies tumble, weapons clash, and smoke rolls across the sky. [pause] Cortona doesn't make war glorious. He makes it violent and confused. The lesson for the prince was a hard one. One day he would have to fight, and fighting costs.
+
+[warmly] The walls carry the same argument. This is the room of Peter Paul Rubens, the Flemish painter who was also a diplomat, and who spent eight years in Italy as a young man. His two paintings here come from different decades of his life. One is a quiet room full of friends. The other is war itself.
+
+Look out, too, for a Titian portrait of a young man in black, known as the English Gentleman. He's usually counted among this room's treasures, though he has also hung next door, in the Room of Apollo.
+
+Begin with the smaller Rubens, four men gathered around a table, far calmer than anything else in here. It's called the Four Philosophers. Play its track in front of it.

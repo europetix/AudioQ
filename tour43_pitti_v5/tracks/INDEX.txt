@@ -1,0 +1,93 @@
+PLAY | PDF ID | ROOM/STOP | TITLE (as printed)
+001 | T00 | — | Piazza Pitti — Before You Go In On Piazza Pitti, standing in front of the long stone façade of the palace before you go in.
+002 | R05 | ROOM 1 | Palatine Gallery — Antechambers and Gallery of Statues
+003 | R06 | ROOM 3 | Castagnoli Room — The Hub of the Gallery In the Castagnoli Room, the small octagonal hub where the gallery splits in two directions. A large
+004 | W06_01 | ROOM 3 | The Table of the Muses Beside the Table of the Muses in the centre of the Castagnoli Room. The piece is a large round table of inlaid
+005 | R12 | ROOM 28 | Sala di Venere — The First Room In the Sala di Venere, the last Planet Room on your modern route — but the first room of the original Medici
+006 | W12_01 | ROOM 28 | Antonio Canova — Venus Italica In front of Canova's Venus Italica, on the low pedestal in the centre of the Sala di Venere. The marble is
+007 | W12_02 | ROOM 28 | Titian — The Concert In front of Titian's Concert in the Sala di Venere. The painting is medium-sized — about a metre wide — and
+008 | R11 | ROOM 27 | Sala di Apollo — The Room of Music and Light In the Sala di Apollo, the fourth Planet Room on your route. The ceiling shows Apollo with his lyre.
+009 | W11_01 | ROOM 27 | Titian — Mary Magdalene In front of Titian's Mary Magdalene in the Sala di Apollo. The painting is medium-sized — about a metre tall
+010 | W11_02 | ROOM 27 | Titian — Portrait of Pietro Aretino In the Sala di Apollo, in front of Titian's Portrait of Pietro Aretino, a half-length portrait of a heavy-set
+011 | R10 | ROOM 26 | Sala di Marte — The Room of War In the Sala di Marte, the third Planet Room on your route. The ceiling shows Mars in the chaos of battle.
+012 | W10_01 | ROOM 26 | Peter Paul Rubens — The Four Philosophers In front of Rubens's Four Philosophers, in the Sala di Marte. The painting is medium-sized — about a metre
+013 | W10_02 | ROOM 26 | Peter Paul Rubens — The Consequences of War In front of Rubens's Consequences of War, in the Sala di Marte. The painting is large — over two metres
+014 | W10_03 | ROOM 26 | Titian — Portrait of a Man (The English Gentleman)
+015 | W10_04 | ROOM 26 | Anthony van Dyck — Portrait of Cardinal Guido Bentivoglio
+016 | R09 | ROOM 25 | Sala di Giove — The Throne Room In the Sala di Giove, the second Planet Room on your route through the Grand Duke's apartments. The ceiling
+017 | W09_01 | ROOM 25 | Raphael — La Velata (The Veiled Lady) In front of Raphael's La Velata, in the Sala di Giove. The painting is medium-sized — about eighty by sixty
+018 | W09_02 | ROOM 25 | Andrea del Sarto — Young Saint John the Baptist In front of Andrea del Sarto's Young Saint John the Baptist, in the Sala di Giove. The painting is
+019 | W09_03 | ROOM 25 | Giusto Sustermans — Portrait of Galileo Galilei Among the portraits in the Sala di Giove — an older man with a high, domed forehead and a short grey beard,
+020 | R08 | ROOM 24 | Sala di Saturno — The Room of Raphael In the Sala di Saturno, the first Planet Room you enter on the modern visitor route. The ceiling carries an
+021 | W08_01 | ROOM 24 | Raphael — Madonna della Seggiola In front of Raphael's Madonna della Seggiola in the Sala di Saturno. The painting is a tondo — round —
+022 | W08_02 | ROOM 24 | Raphael — Pope Leo X with Two Cardinals In front of Raphael's Portrait of Pope Leo X with Cardinals Giulio de' Medici and Luigi de' Rossi, in the Sala
+023 | W08_03 | ROOM 24 | Raphael — Madonna del Granduca In front of Raphael's Madonna del Granduca, in the Sala di Saturno. The painting is small — about eighty by
+024 | W08_04 | ROOM 24 | Raphael — Madonna del Baldacchino In the Sala di Saturno, in front of Raphael's Madonna del Baldacchino, a large altarpiece of the enthroned
+025 | R07 | ROOM 23 | Sala dell'Iliade — The Room of the Iliad In the Sala dell'Iliade, the first large reception room of the Grand Duke's apartment. A sculpted female figure
+026 | W07_01 | ROOM 23 | Raphael — La Gravida (The Pregnant Woman) In front of Raphael's La Gravida, in the Sala dell'Iliade. The painting is small — about sixty-five by fifty
+027 | W07_02 | ROOM 23 | Andrea del Sarto — Assumption of the Virgin In front of Andrea del Sarto's Assumption of the Virgin (the Passerini Assumption), one of the large
+028 | W07_03 | ROOM 23 | Lorenzo Bartolini — Charity In front of Bartolini's Charity, the marble sculpture at the centre of the Sala dell'Iliade.
+029 | W07_04 | ROOM 23 | Artemisia Gentileschi — Judith and her Maidservant
+030 | R13 | ROOM 21 | Sala dell'Educazione di Giove — A Smaller Room, a Bigger Reach
+031 | W13_01 | ROOM 21 | Cristofano Allori — Judith with the Head of Holofernes
+032 | W25_01 | ROOM 21 | Caravaggio — Sleeping Cupid In front of Caravaggio's Sleeping Cupid in the Sala dell'Educazione di Giove. The painting is small, about a
+033 | R24 | ROOM 22 | Sala della Stufa — Pietro da Cortona's First Florentine Walls
+034 | R15 | ROOM 19 | Sala di Ulisse — The Room of Odysseus In the Sala di Ulisse, named for the ceiling fresco of Odysseus returning to Ithaca.
+035 | W15_01 | ROOM 19 | Raphael — Madonna dell'Impannata In front of Raphael's Madonna dell'Impannata, in the Sala di Ulisse. The painting is medium-sized — about a
+036 | R14 | ROOM 14 | Sala di Prometeo — A Hall of Tondi In the Sala di Prometeo, named for the ceiling fresco of Prometheus stealing fire from the gods.
+037 | W14_01 | ROOM 14 | Filippo Lippi — Madonna and Child with the Birth of the Virgin (Tondo Bartolini)
+038 | R16 | ROOM 20 | Sala dell'Iride and Sala del Bagno di Napoleone — Small Connecting Rooms
+039 | R17 | ROOM 8 | Sala di Berenice — The Volterrano Wing In the Sala di Berenice, the first room of the Volterrano Wing — the private apartment of the
+040 | R18 | ROOM 4 | Sala delle Allegorie — Five Painted Virtues In the Sala delle Allegorie, the second room of the Volterrano Wing — also possibly under restoration in
+041 | R19 | ROOM 5 | Sala delle Belle Arti — The Room of the Fine Arts In the Sala delle Belle Arti, a smaller room in the Volterrano Wing.
+042 | R20 | ROOM 11 | Sala dell'Arca — Luca Giordano and the Ark In the Sala dell'Arca, named for the ceiling fresco of the Ark of the Covenant.
+043 | R21 | ROOM 6 | Sala di Ercole — The Labours on the Walls In the Sala di Ercole, a small room dominated by a series of monumental painted vases telling the story of
+044 | R22 | ROOM 7 | Sala dell'Aurora — Dawn on the Ceiling In the Sala dell'Aurora, named for the early nineteenth-century ceiling fresco of Aurora.
+045 | R23 | ROOM 9 | Sala di Psiche — Cupid and Psyche In the Sala di Psiche, with a ceiling fresco of Psyche and Cupid by Giuseppe Collignon.
+046 | R25 | ROOM 17 | Sala di Flora — The Last of the Volterrano Wing In the Sala di Flora, a small room at the end of the Volterrano Wing, named for a ceiling fresco of Flora.
+047 | R32 | — | Gallery of Modern Art — Second Floor, A Different Century
+048 | R33 | ROOM 1 | Neoclassical Rooms — Batoni, Canova, and Napoleon
+049 | W33_01 | ROOM 2 | Antonio Canova — Bust of Napoleon In front of Canova's marble bust of Napoleon, in Room 2 of the Modern Art Gallery. The bust is life-sized
+050 | R34 | ROOM 5 | Rooms 5–7 — Romanticism, History, and into the Macchiaioli
+051 | W34_01 | ROOM 8 | Giovanni Fattori — Self-Portrait, 1854 In front of Giovanni Fattori's Self-Portrait of 1854, in the portraits room, Room 8, at the start of the
+052 | R35 | ROOM 8 | Macchiaioli Core — Rooms 8–16 In the Macchiaioli wing of the Modern Art Gallery, rooms 8 through 16, the core of the Macchiaioli
+053 | W35_01 | ROOM 11 | Giovanni Fattori — Lo Staffato In front of Fattori's Lo Staffato, hung among the Macchiaioli rooms, 8 to 16. The painting is medium-sized,
+054 | W35_02 | ROOM 11 | Giovanni Fattori — La Rotonda di Palmieri In front of Fattori's La Rotonda di Palmieri, in the Macchiaioli rooms, 8 to 16. The painting is tiny, twelve
+055 | R36 | ROOM 17 | Rooms 17–30 — Collections, Symbolism, and the Twentieth Century
+056 | W36_01 | ROOM 27 | Giorgio de Chirico — The Metaphysical Piazza In front of a small Giorgio de Chirico Metaphysical Piazza in the final rooms of the Modern Art Gallery. If
+057 | R37 | — | Museum of Costume and Fashion — The Palazzina della Meridiana
+058 | W37_01 | ROOM 1 | The Funeral Garments of Cosimo I, Eleonora di Toledo, and Don Garzia
+059 | R38 | ROOM 2 | 18th-Century Court Fashion — Room 2 In Room 2 of the Museum of Costume and Fashion, the room of eighteenth-century court dress.
+060 | R49 | ROOM 3 | Neoclassical & Empire Style — Room 3 In Room 3, neoclassical and Empire-style dress, roughly 1800 to 1830.
+061 | R50 | ROOM 4 | Romantic Age & Courtwear — Room 4 In Room 4, Romantic-era dress and court wear, with wedding and day gowns of the crinoline age.
+062 | R51 | ROOM 5 | The Belle Epoque — Room 5 In Room 5, the Belle Epoque, with society portraiture and the celebrated Franca Florio gown.
+063 | R52 | ROOM 6 | Fortuny & the Jazz Age — Room 6 In Room 6, Mariano Fortuny and the Jazz Age, with the famous Delphos tunic.
+064 | R53 | ROOM 7 | 1930s–40s Elegance — Room 7 In Room 7, the elegance of the nineteen-thirties and forties, with work by Elsa Schiaparelli.
+065 | R54 | ROOM 8 | Italian Haute Couture & the Sala Bianca — Room 8 In Room 8, the birth of Italian high fashion in the nineteen-fifties, tied to the Sala Bianca shows, with the
+066 | R55 | ROOM 9 | Space Age & Ready-to-Wear — Room 9 In Room 9, the Space Age and the rise of ready-to-wear, the fashion of the nineteen-sixties.
+067 | R56 | ROOM 10 | Black & White Minimalism — Room 10 In Room 10, the black-and-white minimalism of late-twentieth-century fashion.
+068 | R57 | ROOM 11 | The Italian Designer Decade — Room 11 In Room 11, the decades when Italian designers conquered world fashion, Versace, Armani, Prada, Gucci.
+069 | R58 | ROOM 13 | Stage & Screen Costumes — Room 13 In Room 13, the final room, stage and screen costumes from the Piero Tosi donation and the Tirelli house.
+070 | R26 | ENTRY | | Imperial & Royal Apartments — Entrance & Orientation
+071 | R27 | ROOMS 1-2 | Anticamera & Sala delle Nicchie — The Approach In the first two rooms of the apartment, the Anticamera (Antechamber) and the Sala delle Nicchie (Hall of
+072 | R28 | ROOMS 3-4 | Sala Verde & Sala del Trono — Green Room and Throne Room
+073 | R29 | ROOMS 5-6 | Salotto Celeste & Cappella — Blue Room and Chapel
+074 | R30 | ROOMS 7-9 | Sala dei Pappagalli & The Queen's Rooms In the Sala dei Pappagalli (Parrot Room) and the Queen's rooms, the Salotto della Regina and the Camera
+075 | R31 | ROOMS 10-14 | The Cabinets & The King's Rooms — End of the Apartment
+076 | R03 | ROOMS 1-4 | Russian Icons — Cosimo III's Summer Apartment In the first of four ground-floor rooms now housing the Museum of Russian Icons, also part of the original
+077 | W03_01 | ROOM 1 | The Two Oldest Icons — 1639 Inventory In front of either the small Beheading of Saint John the Baptist, or the Mother of God 'In You Let Every
+078 | R04 | CHAPEL | | The Palatine Chapel — Ademollo's Frescoes Inside the Palatine Chapel — the large central room of the ground-floor summer apartment, now consecrated
+079 | R39 | STOP 1 | Boboli Gardens — The Ammannati Courtyard and First View
+080 | W39_01 | STOP 2 | Valerio Cioli — The Fountain of Bacchino (Morgante on the Turtle)
+081 | R40 | STOP 3 | The Grottoes — Grotta di Madama At the Grotta di Madama, the small early grotto set into the slope below the larger Buontalenti Grotto, on the
+082 | W40_01 | STOP 4 | Bernardo Buontalenti — The Grotta Grande In front of (or, if you've timed it well, inside) the Grotta Grande — Buontalenti's great grotto. The exterior is
+083 | R41 | STOP 5 | The Amphitheatre — Where the Medici Threw Their Parties
+084 | W41_01 | STOP 6 | Stoldo Lorenzi — The Neptune Fountain (Fontana del Forcone)
+085 | R42 | STOP 7 | The Kaffeehaus, the Ganymede Fountain, and the Best View in Florence
+086 | R43 | STOP 8 | Giardino del Cavaliere — The Knight's Garden and the Roses
+087 | W43_01 | STOP 9 | Giambologna and Pietro Tacca — The Statue of Abundance
+088 | R44 | STOP 10 | The Viottolone — The Great Cypress Avenue On the Viottolone, the great cypress-lined avenue running down the southern slope toward the Isolotto and
+089 | W44_01 | STOP 11 | Giambologna — Oceanus at the Isolotto At the Isolotto, the circular island-pool at the southern end of the Viottolone. A balustrade rings the pool; at
+090 | R45 | STOP 12 | The Limonaia — The Medici Obsession with Citrus At the Limonaia, the long Lemon House on the western side of the gardens — a low building painted
+091 | R46 | STOP 13 | Leaving the Garden — The Annalena and Porta Romana Gates
+092 | TLAST | — | Closing — Three Walks from Piazza Pitti Back in the Piazza Pitti in front of the palace, where the tour began. The slope of the piazza in front of you,

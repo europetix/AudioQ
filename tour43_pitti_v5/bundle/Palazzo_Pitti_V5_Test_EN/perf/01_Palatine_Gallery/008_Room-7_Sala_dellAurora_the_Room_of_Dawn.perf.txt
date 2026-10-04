@@ -1,0 +1,24 @@
+@id: 008 · old 044 · Room 7 · Sala dell'Aurora
+@section: Palatine
+@room: Room 7
+@type: R
+@title: Sala dell'Aurora — the Room of Dawn
+@where: In the Sala dell'Aurora, the next room of the Volterrano Wing after the Sala di Ercole.
+@what: Ceiling fresco by Gaspero Martellini of Dawn among the Arts and Time, with a painted bust of Grand Duke Ferdinando the Third.
+@listen: A ceiling about morning, and the ruler the morning seems to belong to.
+@brief: A friend pointing out a not-very-subtle piece of flattery; light and amused, then candid that there's little more to say, and brief.
+@pace: medium
+@energy: 2→3→2
+@sources: findings G2 B 044 (Martellini; Dawn with the Arts and Time and a bust of Ferdinando III; palazzo-pitti.net/the-dawn-room.html), G2 confirmed OK (Martellini, Sala di Ulisse, post-1815, political reading) ; old script (restoration-as-dawn reading, not contradicted)
+---
+[lightly] There's a sunrise on this ceiling, and someone has put a grand duke in it.
+
+The painter was Gaspero Martellini, and his subject is Aurora, the goddess of the dawn. Here she shares the sky with the Arts and with Time. And among them, as the scene is usually described, is a portrait bust of Ferdinando the Third, the Habsburg-Lorraine grand duke who came back to Florence after Napoleon.
+
+[pause] You don't need a caption to read that. The long night is over, the rightful ruler is home, and the morning comes with him. Nobody walking through these rooms at the time could have missed the point.
+
+[quietly] Not much is written about this room, and I won't pad it out. So give it a minute of your own. Find the grand duke's bust first. Then find Time, and the Arts, and see how the painter has arranged them all around the new day.
+
+Martellini wasn't finished with this idea. He also painted the ceiling of the Sala di Ulisse, further along the route, where a hero's homecoming tells a very similar story.
+
+The Sala di Berenice is the next room along. Play its track there.

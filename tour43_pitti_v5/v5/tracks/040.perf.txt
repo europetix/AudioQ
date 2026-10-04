@@ -1,0 +1,22 @@
+@id: 040 · old 008 · Room 27 · Sala di Apollo
+@section: Palatine
+@room: Room 27
+@type: R
+@title: Sala di Apollo — The Room of Apollo
+@where: In the Sala di Apollo, the fourth Planet Room on today's route, entered from the Sala di Marte. The Sala di Venere, the last room, is beyond it.
+@what: A grand reception room whose ceiling of Apollo, god of poetry, music and light, was begun by Pietro da Cortona and completed by his pupil Ciro Ferri. Titian's Penitent Magdalene hangs here.
+@listen: The schoolroom stage of the prince's education, a ceiling finished by two hands about a dozen years apart, and the painting to find first.
+@brief: A friend enjoying the relief of a calmer room after the battlefield; light and curious, inviting a small game of spotting the seam.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/apollo-room (Cortona 1647; Ferri 1659–61) ; https://uffizi.it/en/palatine-gallery/history (Cortona Planet Room frescoes 1640–47); https://www.uffizi.it/en/artworks/saint-mary-magdalene (Apollo Room); old script 008 + findings G1 (A, E) + G6_ROUTE (N41)
+---
+[lightly] Walking backwards through the story has its advantages. You've just come off the battlefield. Now you step into the schoolroom.
+
+In the Medici version of the tale, this was the second stage of the young prince's education. He had met Venus and learned to resist the pleasures of the senses. Here, Apollo took him in hand. Apollo, god of poetry, music and light, was his teacher. This is where the prince learned reason, letters and the arts, before he was sent next door to learn war.
+
+Look up at the ceiling, because it hides a small drama of its own. Pietro da Cortona began it. But in sixteen forty-seven he left Florence, with the work unfinished. It was his most gifted pupil, Ciro Ferri, who came back and finished it, around sixteen-sixty. [pause] [curious] Some people say they can see the seam. Ferri's figures are a touch harder, they say, and his colours a little cooler. See if you can spot it. Either way, the ceiling reads as one.
+
+So one room, two painters, and years between the first brushstroke and the last. Teacher and pupil, finishing the lesson together. That seems about right for the room of learning.
+
+[warmly] The most famous resident on these walls is a woman wrapped in a cloak of her own copper-gold hair, her eyes raised and full of tears. She's Titian's Mary Magdalene. Find her first, and play her track in front of her.
