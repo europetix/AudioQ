@@ -55,23 +55,23 @@ plan = dict(tour_number=43, tour_slug="Palazzo_Pitti", format="V5-test", languag
     sections=[dict(section=d, folder=fo, tracks=sum(1 for t in tracks if t['folder'] == fo)) for _, d, fo in SECTIONS],
     tracks=tracks)
 json.dump(plan, open(f"{B}/plan.json", "w"), indent=1, ensure_ascii=False)
-# ES / FR / DE voice samples (translated tracks 015 + 053), rendered by voice_samples_ES_FR_DE.command
+# ES / FR / DE guides (v5/i18n/<lang>/tracks), rendered by generate_audio_ES_FR_DE.command (full) and voice_samples_ES_FR_DE.command (015 + 053)
 for f in sorted(glob.glob('/home/claude/pitti/v5/i18n/*/tracks/*.perf.txt')):
     lang = f.split('/')[-3]; meta, clean = V.validate(f); n = os.path.basename(f)[:3]
     folder = SEC[meta['section']][2]; rl = room_label(meta['section'], meta['room'])
     base = f"{n}_{rl + '_' if rl else ''}{slug(meta['title'])}"
     for d in ('scripts', 'perf'):
-        os.makedirs(f"{B}/voice_samples_i18n/{lang}/{d}/{folder}", exist_ok=True)
-    open(f"{B}/voice_samples_i18n/{lang}/scripts/{folder}/{base}.txt", "w", encoding="utf-8").write(clean + "\n")
-    shutil.copy(f, f"{B}/voice_samples_i18n/{lang}/perf/{folder}/{base}.perf.txt")
+        os.makedirs(f"{B}/languages/{lang}/{d}/{folder}", exist_ok=True)
+    open(f"{B}/languages/{lang}/scripts/{folder}/{base}.txt", "w", encoding="utf-8").write(clean + "\n")
+    shutil.copy(f, f"{B}/languages/{lang}/perf/{folder}/{base}.perf.txt")
 for p in ('v5_direction.py', 'render_kokoro.py', 'render_edge.py'):
     shutil.copy(f"/home/claude/pitti/v5/pipeline/{p}", B)
 # hand-maintained bundle files (launcher, README, extended pronunciation, user-test docs)
 ST = '/home/claude/pitti/build/static'
-for p in ('generate_audio.command', 'voice_samples_ES_FR_DE.command', 'README.txt', 'pronunciation.py'):
+for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'voice_samples_ES_FR_DE.command', 'README.txt', 'pronunciation.py'):
     shutil.copy(f'{ST}/{p}', B)
 shutil.copytree(f'{ST}/USER_TEST', f'{B}/USER_TEST')
-for p in (f'{B}/generate_audio.command', f'{B}/voice_samples_ES_FR_DE.command', f'{B}/USER_TEST/make_listening_test.command'):
+for p in (f'{B}/generate_audio.command', f'{B}/generate_audio_ES_FR_DE.command', f'{B}/voice_samples_ES_FR_DE.command', f'{B}/USER_TEST/make_listening_test.command'):
     os.chmod(p, 0o755)
 print(len(tracks), tw, round(tw/125))
 for s in plan['sections']: print(s)

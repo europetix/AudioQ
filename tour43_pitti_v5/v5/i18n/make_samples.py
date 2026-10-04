@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Writes the ES / FR / DE voice-sample translations of V5.1 tracks 015 and 053 (5 Oct 2026).
+"""SUPERSEDED on 5 Oct 2026 by the full translation (v5/i18n/assemble.py): do not re-run, it would overwrite
+the full-version 015/053. Kept for history.
+Writes the ES / FR / DE voice-sample translations of V5.1 tracks 015 and 053 (5 Oct 2026).
 Translated from the fact-checked English perf files; same paragraphs and direction tags; formal address
 (usted / vous / Sie). Facts are unchanged from the English. Output: v5/i18n/<lang>/tracks/NNN.perf.txt"""
 import os, re
