@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Brian (edge-tts) renderer — V5 edition. Called by generate_audio.command option 1.
+"""edge-tts renderer — V5 edition. Called by generate_audio.command options 1 (Brian), 3 (Andrew), 4 (Ava).
+The voice comes from EDGE_VOICE (default Brian). ONLY="015 053" renders just those track numbers (voice samples).
 V4.5 rendered each track in one edge-tts call with a fixed rate. V5 performs the direction layer:
 each passage gets its own rate/volume/pitch, real silences are inserted for pauses and paragraph
 breaks, and the result is mastered to -16 LUFS, 96 kbps mono, 2 s tail.
@@ -9,13 +10,14 @@ import edge_tts
 from pronunciation import apply_respelling
 import v5_direction as V
 
-VOICE = "en-US-BrianMultilingualNeural"
+VOICE = os.environ.get("EDGE_VOICE", "en-US-BrianMultilingualNeural")
 BASE_RATE = -8                  # percent, as in V4.5
 BITRATE = "96k"
 APPLY_RESPELLING = True
 SR = 24000
 
 OUT = sys.argv[1]
+ONLY = os.environ.get("ONLY", "").split()
 if not shutil.which("ffmpeg"):
     sys.exit("ffmpeg is required for the V5 Brian render (pauses + mastering). Run: brew install ffmpeg")
 
@@ -67,6 +69,8 @@ for sec in sorted(os.listdir("scripts")):
     os.makedirs(os.path.join(OUT, sec), exist_ok=True)
     for f in sorted(glob.glob(os.path.join(secdir, "*.txt"))):
         base = os.path.splitext(os.path.basename(f))[0]
+        if ONLY and base[:3] not in ONLY:
+            continue
         out = os.path.join(OUT, sec, base + ".mp3")
         if os.path.exists(out):
             print("  [skip]", sec + "/" + base); continue
@@ -82,4 +86,4 @@ for sec in sorted(os.listdir("scripts")):
             except Exception as e:
                 print(f"  [FAIL] {sec}/{base}: {e}"); sys.exit(1)
         print("  [gen] ", f"{sec}/{base}.mp3", "(directed)" if os.path.exists(perf) else "(plain)")
-print("Brian render complete ->", OUT)
+print(VOICE, "render complete ->", OUT)

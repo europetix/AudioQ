@@ -55,6 +55,7 @@ def perform(perf_path=None, plain_text=None):
     return np.concatenate(pieces)
 
 
+ONLY = os.environ.get("ONLY", "").split()   # e.g. ONLY="015 053" renders just those tracks (voice samples)
 for sec in sorted(os.listdir("scripts")):
     secdir = os.path.join("scripts", sec)
     if not os.path.isdir(secdir):
@@ -62,6 +63,8 @@ for sec in sorted(os.listdir("scripts")):
     os.makedirs(os.path.join(OUT, sec), exist_ok=True)
     for f in sorted(glob.glob(os.path.join(secdir, "*.txt"))):
         base = os.path.splitext(os.path.basename(f))[0]
+        if ONLY and base[:3] not in ONLY:
+            continue
         ext  = "mp3" if HAVE_FFMPEG else "wav"
         out  = os.path.join(OUT, sec, base + "." + ext)
         if os.path.exists(out):

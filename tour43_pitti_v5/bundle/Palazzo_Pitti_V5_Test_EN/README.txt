@@ -54,6 +54,11 @@ verify..."). The reliable way:
 3. Choose a voice:
      1) Brian      - Microsoft edge-tts. Needs internet while rendering.
      2) am_michael - Kokoro. First run sets itself up via "uv" (~2GB).
+     3) Andrew     - Microsoft edge-tts, en-US-AndrewMultilingualNeural (trial).
+     4) Ava        - Microsoft edge-tts, en-US-AvaMultilingualNeural (trial).
+   Then choose what to render: 1) the full tour, or 2) two voice samples only
+   (015 Madonna della Seggiola + 053 The Amphitheatre), saved in
+   ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/Sample_<voice>/ for a quick comparison.
 4. The tour appears in  ~/Desktop/Palazzo_Pitti_V5_1_EN_<voice>/
    (a different folder from the June guide and from any V5.0 test render,
    so nothing is mixed or overwritten).

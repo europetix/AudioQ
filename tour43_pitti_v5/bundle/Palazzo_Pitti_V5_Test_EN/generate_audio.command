@@ -15,10 +15,28 @@ echo ""
 echo "Choose a voice:"
 echo "  1) Brian      - Microsoft edge-tts. Needs internet, no big download."
 echo "  2) am_michael - Kokoro (warmer). First run sets up Python+model via uv (~2GB)."
+echo "  3) Andrew     - Microsoft edge-tts, warm conversational male (trial voice)."
+echo "  4) Ava        - Microsoft edge-tts, warm natural female (trial voice)."
 echo ""
-printf "Enter 1 or 2 [1]: "
+printf "Enter 1, 2, 3 or 4 [1]: "
 read CHOICE
 CHOICE="${CHOICE:-1}"
+case "$CHOICE" in
+    3) VOICE_NAME="Andrew"; export EDGE_VOICE="en-US-AndrewMultilingualNeural" ;;
+    4) VOICE_NAME="Ava";    export EDGE_VOICE="en-US-AvaMultilingualNeural" ;;
+    2) VOICE_NAME="am_michael" ;;
+    *) CHOICE=1; VOICE_NAME="Brian"; export EDGE_VOICE="en-US-BrianMultilingualNeural" ;;
+esac
+echo ""
+echo "What should be rendered?"
+echo "  1) The full tour (61 tracks)"
+echo "  2) Two voice samples only: 015 Madonna della Seggiola + 053 The Amphitheatre (a few minutes)"
+printf "Enter 1 or 2 [1]: "
+read SCOPE
+if [ "$SCOPE" = "2" ]; then
+    export ONLY="015 053"
+    BASE_DIR="$HOME/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/Sample"
+fi
 
 HAVE_FFMPEG=1
 command -v ffmpeg >/dev/null 2>&1 || { HAVE_FFMPEG=0; echo "WARNING: ffmpeg not found. Install it with: brew install ffmpeg"; }
@@ -26,7 +44,7 @@ command -v ffmpeg >/dev/null 2>&1 || { HAVE_FFMPEG=0; echo "WARNING: ffmpeg not 
 if [ "$CHOICE" = "2" ]; then
     echo ""
     echo "Voice: am_michael (Kokoro)."
-    OUTPUT_DIR="${BASE_DIR}_am_michael"; mkdir -p "$OUTPUT_DIR"
+    OUTPUT_DIR="${BASE_DIR}_${VOICE_NAME}"; mkdir -p "$OUTPUT_DIR"
     echo "Output: $OUTPUT_DIR"
     command -v uv >/dev/null 2>&1 || export PATH="$HOME/.local/bin:$HOME/.cargo/bin:$PATH"
     if ! command -v uv >/dev/null 2>&1; then
@@ -39,13 +57,13 @@ if [ "$CHOICE" = "2" ]; then
         python render_kokoro.py "$OUTPUT_DIR" || { echo "Kokoro render failed."; read -p "Press enter..."; exit 1; }
 else
     echo ""
-    echo "Voice: Brian (edge-tts)."
+    echo "Voice: $VOICE_NAME (edge-tts, $EDGE_VOICE)."
     if [ "$HAVE_FFMPEG" = "0" ]; then
-        echo "ERROR: the V5 Brian render needs ffmpeg (for the pauses and the volume levelling)."
+        echo "ERROR: the V5 edge-tts render needs ffmpeg (for the pauses and the volume levelling)."
         echo "Install it with:  brew install ffmpeg   then run this again."
         read -p "Press enter..."; exit 1
     fi
-    OUTPUT_DIR="${BASE_DIR}_Brian"; mkdir -p "$OUTPUT_DIR"
+    OUTPUT_DIR="${BASE_DIR}_${VOICE_NAME}"; mkdir -p "$OUTPUT_DIR"
     echo "Output: $OUTPUT_DIR"
     if ! command -v python3 >/dev/null 2>&1; then
         echo "ERROR: python3 not found. Install Python 3.9+ first."; read -p "Press enter..."; exit 1
@@ -56,15 +74,15 @@ else
             python3 -m pip install --user --quiet --break-system-packages edge-tts
     fi
     echo "Generating MP3s by section (each passage is voiced separately, so this takes a while)..."
-    python3 render_edge.py "$OUTPUT_DIR" || { echo "Brian render failed."; read -p "Press enter..."; exit 1; }
+    python3 render_edge.py "$OUTPUT_DIR" || { echo "$VOICE_NAME render failed."; read -p "Press enter..."; exit 1; }
 fi
 
-# navigation PDF + guides into the tour folder
+# navigation PDF + guides into the tour folder (not for voice samples)
 echo ""
-for f in Palazzo_Pitti_Audio_Guide_Route.pdf README.txt; do
+[ -n "$ONLY" ] || for f in Palazzo_Pitti_Audio_Guide_Route.pdf README.txt; do
     cp "$f" "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] $f"
 done
-if [ -d USER_TEST ]; then
+if [ -z "$ONLY" ] && [ -d USER_TEST ]; then
     mkdir -p "$OUTPUT_DIR/USER_TEST" && cp USER_TEST/* "$OUTPUT_DIR/USER_TEST/" && echo "  [copy] USER_TEST/"
 fi
 
