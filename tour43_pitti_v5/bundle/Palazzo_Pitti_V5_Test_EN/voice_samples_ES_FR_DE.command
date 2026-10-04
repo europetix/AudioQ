@@ -2,10 +2,11 @@
 # V5.1 - Tour #43 Palazzo Pitti + Boboli - female voice samples in Spanish, French and German.
 # Two translated tracks (015 Madonna della Seggiola, 053 The Amphitheatre) per voice, same direction layer,
 # pauses and mastering as the English guide. English name respellings are switched off (RESPELL=0).
-# Output: ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/<LANG>_<Voice>/
+# Output: ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/<LANG>_<Voice>/   (Spanish v2: ES_v2_<Voice>)
+# Optional: pass a language to render only that one, e.g.   bash voice_samples_ES_FR_DE.command es
 cd "$(dirname "$0")"
 OUT="$HOME/Desktop/Palazzo_Pitti_V5_1_Voice_Samples"
-VOICES="es:Ximena:es-ES-XimenaNeural es:Elvira:es-ES-ElviraNeural fr:Vivienne:fr-FR-VivienneMultilingualNeural fr:Denise:fr-FR-DeniseNeural de:Seraphina:de-DE-SeraphinaMultilingualNeural de:Katja:de-DE-KatjaNeural"
+VOICES="es:Ximena:es-ES-XimenaNeural es:Dalia:es-MX-DaliaNeural fr:Vivienne:fr-FR-VivienneMultilingualNeural fr:Denise:fr-FR-DeniseNeural de:Seraphina:de-DE-SeraphinaMultilingualNeural de:Katja:de-DE-KatjaNeural"
 
 echo ""
 echo "================================================================"
@@ -20,7 +21,8 @@ fi
 OK=""; MISSING=""
 for v in $VOICES; do
     LANG_CODE="${v%%:*}"; rest="${v#*:}"; NAME="${rest%%:*}"; VOICE="${rest#*:}"
-    TAG="$(echo "$LANG_CODE" | tr a-z A-Z)_${NAME}"
+    [ -n "$1" ] && [ "$1" != "$LANG_CODE" ] && continue
+    TAG="$(echo "$LANG_CODE" | tr a-z A-Z)_${NAME}"; [ "$LANG_CODE" = "es" ] && TAG="ES_v2_${NAME}"
     echo ""; echo "--- $TAG  ($VOICE)"
     if ( cd "voice_samples_i18n/$LANG_CODE" && EDGE_VOICE="$VOICE" RESPELL=0 python3 ../../render_edge.py "$OUT/$TAG" ); then
         OK="$OK $TAG"

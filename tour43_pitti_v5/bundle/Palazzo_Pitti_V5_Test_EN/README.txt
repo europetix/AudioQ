@@ -70,7 +70,8 @@ VOICE SAMPLES IN SPANISH, FRENCH AND GERMAN (female voices)
 Run  voice_samples_ES_FR_DE.command  the same way (bash + drag). It renders the
 two sample tracks (015 Madonna della Seggiola, 053 The Amphitheatre), translated
 with formal address, in six voices:
-  Spanish: Ximena, Elvira    French: Vivienne, Denise    German: Seraphina, Katja
+  Spanish: Ximena (Spain), Dalia (Latin America)   French: Vivienne, Denise
+  German: Seraphina, Katja.  Spanish only:  bash voice_samples_ES_FR_DE.command es
 into ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/<LANG>_<Voice>/. A voice the free
 service doesn't offer is skipped and listed at the end. Needs ffmpeg + internet.
 

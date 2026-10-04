@@ -1,42 +1,42 @@
-# Tour #43 Pitti V5.1: voice-sample translations (ES / FR / DE)
+# Tour #43 Pitti V5.1: voice-sample texts (ES / FR / DE)
 
-Tracks 015 (Madonna della Seggiola) and 053 (The Amphitheatre), translated from the fact-checked English. Same facts, same pauses and delivery. Please have a native speaker read these before we translate the full tour.
+Tracks 015 (Madonna della Seggiola) and 053 (The Amphitheatre). Same facts as the checked English. Please have a native speaker read these before we translate the full tour.
 
-## Spanish (usted)
+## Spanish v2 (usted), adapted for listening: short sentences, more pauses, neutral for Spain and Latin America
 
 ### 015 · Rafael — La Madonna della Seggiola
 
 *Where to stand:* En la Sala de Saturno, delante del cuadro redondo de la Virgen abrazando a su hijo, con el pequeño san Juan en el borde derecho.
 
-Hay una historia preciosa sobre este cuadro. Rafael pasea por Roma cuando ve, en el umbral de una puerta, a una campesina sentada en un taburete bajo con su hijo en brazos. Y pinta exactamente lo que ve. Es una leyenda encantadora, y casi con toda seguridad inventada. La silla la delata.
+Sobre este cuadro se cuenta una historia preciosa. Rafael camina por Roma. En una puerta ve a una campesina, sentada en un asiento bajo, con su hijo en brazos. Y la pinta tal como la vio. Es una leyenda encantadora. Y casi seguro, inventada. La silla la delata.
 
-De la silla solo se ve una parte, un montante decorado con pomos redondos. Y no es el taburete de una campesina. Es una silla de cámara, de las reservadas a los altos dignatarios de la corte papal, y esos pomos quizá aludan a las bolas del escudo de los Médici. Muchos creen que el cuadro se hizo para el papa Médici, León Décimo, cuyo retrato cuelga en esta misma sala. Rafael lo pintó hacia 1512, en sus años romanos.
+Fíjese en la silla. Apenas se ve: un poste con pomos redondos. No es el asiento de una campesina. Es una silla de ceremonia, reservada a los altos cargos de la corte del papa. Y esos pomos quizá recuerden las bolas del escudo de los Médici. Muchos creen que el cuadro se hizo para el papa Médici, León Décimo. Su retrato está en esta misma sala. Rafael lo pintó hacia 1512, en sus años en Roma.
 
-Así que probablemente no es una mujer en un umbral. Pero fíjese en cómo Rafael consigue que lo parezca. María levanta una rodilla para sostener a su hijo y lo estrecha contra el pecho. Su mejilla descansa junto a la sien del niño, y sin embargo sus ojos se vuelven hacia usted. A la derecha, el pequeño san Juan junta las manos en oración y los contempla. Sus brazos se entrelazan, y los tres cuerpos siguen el borde redondo con una soltura perfecta.
+Pero mire cómo Rafael logra que parezca real. María levanta una rodilla y aprieta a su hijo contra el pecho. Su mejilla toca la sien del niño. Y, sin embargo, sus ojos se vuelven hacia usted. A la derecha, el pequeño san Juan junta las manos y los contempla. Los brazos se entrelazan. Y los tres cuerpos siguen el borde del círculo con total naturalidad.
 
-Ahora, el color. Un turbante blanco tejido con hilo de oro, y un pañuelo de verdes y rojos. Una manga roja junto a la túnica amarilla del Niño, y el azul ultramar intenso del vestido. Y en las miradas, un poco de melancolía, como si ella ya supiera lo que le espera a este niño.
+Ahora, el color. Un turbante blanco con hilos de oro. Un pañuelo verde y rojo. Una manga roja junto a la túnica amarilla del Niño. Y el azul intenso del vestido. En las miradas hay un poco de melancolía, como si ella ya supiera lo que le espera a este niño.
 
-En 1589 ya colgaba en la Tribuna de los Uffizi. Más tarde, el Gran Príncipe Fernando lo trajo al Pitti y lo tuvo en su dormitorio. Los ejércitos de Napoleón se lo llevaron a París, y volvió tras su caída. Llegó a ser uno de los cuadros más copiados de Rafael.
+En 1589 ya estaba en la Tribuna de los Uffizi. Después, el Gran Príncipe Fernando lo trajo al Pitti, a su dormitorio. Los ejércitos de Napoleón se lo llevaron a París, y volvió tras su caída. Hoy es uno de los cuadros más copiados de Rafael.
 
-La leyenda acierta en una cosa. Fuera quien fuera, no parece una reina de los cielos. Parece una madre que no quiere soltar a su hijo.
+La leyenda acierta en una cosa. Fuera quien fuera, no parece una reina del cielo. Parece una madre que abraza a su hijo.
 
-A continuación, busque el retrato de una joven con amplias mangas rojas y una mano apoyada en el vientre. Es La Gravida, de Rafael.
+Ahora busque el retrato de una joven con anchas mangas rojas y una mano sobre el vientre. Es La Gravida, de Rafael.
 
 ### 053 · El Anfiteatro
 
 *Where to stand:* En el borde del anfiteatro, a ser posible en el extremo del palacio, con el palacio a su espalda y el obelisco delante. Las gradas de piedra están valladas por obras de restauración; contémplelo desde los senderos que lo rodean.
 
-Empecemos con una idea curiosa. El palacio que tiene a su espalda salió de este hoyo.
+Empecemos con una idea curiosa. El palacio que tiene a su espalda salió de este hueco.
 
-Esta hondonada en la ladera era una cantera, y su piedra acabó en los muros del Palacio Pitti. Cuando Leonor de Toledo empezó estos jardines hacia 1550, su arquitecto, Tribolo, tuvo una idea mejor que rellenarla. La convirtió en un teatro de verdor, excavado en la propia colina. Casi un siglo después, Giulio Parigi la transformó en el anfiteatro de piedra que ve ahora, y lo terminó en 1634.
+Esta hondonada era una cantera. Su piedra levantó los muros del Palacio Pitti. Hacia 1550, Leonor de Toledo empezó estos jardines. Su arquitecto, Tribolo, no quiso rellenar el hueco. Lo convirtió en un teatro verde, excavado en la colina. Casi un siglo después, Giulio Parigi lo transformó en el anfiteatro de piedra que ve ahora. Lo terminó en 1634.
 
-Y entonces los Médici celebraron aquí sus fiestas. Imagine las gradas repletas de espectadores, la familia del gran duque presidiendo con toda solemnidad y, abajo, en la arena, el tipo de espectáculo que Florencia hacía mejor que nadie. Música, danzas, vestuario, decorados pintados y maquinaria escénica rodando sobre la hierba. Para los Médici, un espectáculo así era una declaración. Le decía a cada embajador de visita lo rico, y lo civilizado, que era este pequeño Estado.
+Y aquí los Médici hacían sus fiestas. Imagine las gradas llenas de gente, la familia del gran duque en su sitio de honor, y abajo, el tipo de espectáculo que Florencia hacía como nadie. Música, danza, vestuario, decorados pintados que se movían sobre la hierba. Para los Médici, una fiesta así era un mensaje. Le decía a cada embajador lo rico, y lo culto, que era este pequeño Estado.
 
-Las fiestas no duraron para siempre. La última gran representación fue en 1739, para recibir a un nuevo soberano, Francisco Esteban de Lorena, después de que se extinguiera la dinastía de los Médici. Poco después, las gradas se cubrieron de plantas, y la música se apagó.
+Las fiestas no duraron para siempre. La última gran función fue en 1739, para recibir a un nuevo soberano, Francisco Esteban de Lorena. Los Médici ya se habían extinguido. Poco después, las gradas se cubrieron de plantas. Y la música se apagó.
 
-Ahora, la pieza central. El obelisco del centro es, con mucha diferencia, lo más antiguo de este jardín. Se talló en Egipto para el faraón Ramsés Segundo, hace más de tres mil años. El emperador Domiciano lo llevó a Roma para un templo de Isis. Un cardenal Médici lo compró para su villa en Roma, y en 1790 llegó por fin aquí. La gran pila de granito rojo que tiene a sus pies vino de la misma villa, y se le unió cincuenta años más tarde.
+Ahora, el centro. El obelisco es, de lejos, lo más antiguo de este jardín. Se talló en Egipto para el faraón Ramsés Segundo, hace más de tres mil años. El emperador Domiciano lo llevó a Roma, para un templo de Isis. Un cardenal Médici lo compró para su villa en Roma. Y en 1790 llegó por fin aquí. La gran pila de granito rojo vino de la misma villa, cincuenta años después.
 
-Así que en una sola mirada tiene usted un obelisco egipcio, una villa de los Médici, una cantera renacentista y un teatro barroco. El sendero que sube por la colina, más allá del obelisco, lleva a la Fuente de Neptuno.
+En una sola mirada tiene usted un obelisco egipcio, una villa de los Médici, una cantera del Renacimiento y un teatro barroco. El sendero que sube por la colina, detrás del obelisco, lleva a la Fuente de Neptuno.
 
 ## French (vous)
 

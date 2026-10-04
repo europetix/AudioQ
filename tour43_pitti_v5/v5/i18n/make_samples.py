@@ -98,17 +98,51 @@ Diese Mulde im Hang war ein Steinbruch, und sein Stein steckt in den Mauern des 
 },
 }
 
-def tags(body): return re.findall(r"\[[^\]]+\]", body)
+
+# Spanish v2 (5 Oct, user): adapted for LISTENING, not translated line by line: ~300 words, one idea per sentence,
+# extra pauses, neutral vocabulary for Spain and Latin America, formal usted. Same facts, same speed.
+ES_ADAPTED = {
+"015": """[curious] Sobre este cuadro se cuenta una historia preciosa. Rafael camina por Roma. En una puerta ve a una campesina, sentada en un asiento bajo, con su hijo en brazos. Y la pinta tal como la vio. [pause] Es una leyenda encantadora. Y casi seguro, inventada. [pause] La silla la delata.
+
+Fíjese en la silla. Apenas se ve: un poste con pomos redondos. No es el asiento de una campesina. Es una silla de ceremonia, reservada a los altos cargos de la corte del papa. Y esos pomos quizá recuerden las bolas del escudo de los Médici. [pause] Muchos creen que el cuadro se hizo para el papa Médici, León Décimo. Su retrato está en esta misma sala. Rafael lo pintó hacia 1512, en sus años en Roma.
+
+[warmly] Pero mire cómo Rafael logra que parezca real. María levanta una rodilla y aprieta a su hijo contra el pecho. Su mejilla toca la sien del niño. Y, sin embargo, sus ojos se vuelven hacia usted. [pause] A la derecha, el pequeño san Juan junta las manos y los contempla. Los brazos se entrelazan. Y los tres cuerpos siguen el borde del círculo con total naturalidad.
+
+Ahora, el color. Un turbante blanco con hilos de oro. Un pañuelo verde y rojo. Una manga roja junto a la túnica amarilla del Niño. Y el azul intenso del vestido. [pause] En las miradas hay un poco de melancolía, como si ella ya supiera lo que le espera a este niño.
+
+En 1589 ya estaba en la Tribuna de los Uffizi. Después, el Gran Príncipe Fernando lo trajo al Pitti, a su dormitorio. Los ejércitos de Napoleón se lo llevaron a París, y volvió tras su caída. Hoy es uno de los cuadros más copiados de Rafael.
+
+[quietly] La leyenda acierta en una cosa. [pause] Fuera quien fuera, no parece una reina del cielo. Parece una madre que abraza a su hijo.
+
+Ahora busque el retrato de una joven con anchas mangas rojas y una mano sobre el vientre. Es La Gravida, de Rafael.""",
+"053": """[lightly] Empecemos con una idea curiosa. [pause] El palacio que tiene a su espalda salió de este hueco.
+
+Esta hondonada era una cantera. Su piedra levantó los muros del Palacio Pitti. Hacia 1550, Leonor de Toledo empezó estos jardines. Su arquitecto, Tribolo, no quiso rellenar el hueco. Lo convirtió en un teatro verde, excavado en la colina. [pause] Casi un siglo después, Giulio Parigi lo transformó en el anfiteatro de piedra que ve ahora. Lo terminó en 1634.
+
+[warmly] Y aquí los Médici hacían sus fiestas. Imagine las gradas llenas de gente, la familia del gran duque en su sitio de honor, y abajo, el tipo de espectáculo que Florencia hacía como nadie. Música, danza, vestuario, decorados pintados que se movían sobre la hierba. [pause] Para los Médici, una fiesta así era un mensaje. Le decía a cada embajador lo rico, y lo culto, que era este pequeño Estado.
+
+[quietly] Las fiestas no duraron para siempre. La última gran función fue en 1739, para recibir a un nuevo soberano, Francisco Esteban de Lorena. Los Médici ya se habían extinguido. Poco después, las gradas se cubrieron de plantas. [pause] Y la música se apagó.
+
+[pause] Ahora, el centro. El obelisco es, de lejos, lo más antiguo de este jardín. Se talló en Egipto para el faraón Ramsés Segundo, hace más de tres mil años. El emperador Domiciano lo llevó a Roma, para un templo de Isis. Un cardenal Médici lo compró para su villa en Roma. Y en 1790 llegó por fin aquí. [pause] La gran pila de granito rojo vino de la misma villa, cincuenta años después.
+
+[warmly] En una sola mirada tiene usted un obelisco egipcio, una villa de los Médici, una cantera del Renacimiento y un teatro barroco. El sendero que sube por la colina, detrás del obelisco, lleva a la Fuente de Neptuno.""",
+}
+for n, body in ES_ADAPTED.items():
+    title, where, _ = T["es"][n]; T["es"][n] = (title, where, body)
+
+def tags(body): return [t for t in re.findall(r"\[([^\]]+)\]", body) if "pause" not in t]   # delivery tags must match; extra pauses allowed
+def pauses(body): return len(re.findall(r"\[(?:long )?pause\]", body))
 for lang, tracks in T.items():
     os.makedirs(os.path.join(HERE, lang, "tracks"), exist_ok=True)
     for n, (title, where, body) in tracks.items():
         en = open(os.path.join(EN, f"{n}.perf.txt"), encoding="utf-8").read()
         head, _, en_body = en.partition("\n---\n")
-        assert tags(body) == tags(en_body), (lang, n, "direction tags must match the English")
+        assert tags(body) == tags(en_body), (lang, n, "delivery tags must match the English")
+        assert pauses(body) >= pauses(en_body), (lang, n, "no fewer pauses than the English")
         assert body.count("\n\n") == en_body.strip().count("\n\n"), (lang, n, "paragraphs must match")
         head = re.sub(r"^@title: .*$", "@title: " + title, head, flags=re.M)
         head = re.sub(r"^@where: .*$", "@where: " + where, head, flags=re.M)
         head = re.sub(r"^@id: (\d+)", rf"@id: \1 · {lang.upper()} voice sample", head, flags=re.M)
-        head += f"\n@lang: {lang}\n@translation: from the fact-checked English V5.1 {n} (5 Oct 2026); facts unchanged; formal address"
+        head += f"\n@lang: {lang}\n@translation: from the fact-checked English V5.1 {n} (5 Oct 2026); facts unchanged; formal address" + ("; v2 adapted for listening (short sentences, extra pauses, neutral Spanish)" if lang == "es" else "")
         open(os.path.join(HERE, lang, "tracks", f"{n}.perf.txt"), "w", encoding="utf-8").write(head + "\n---\n" + body + "\n")
         print(lang, n, len(body.split()), "words")
