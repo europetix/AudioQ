@@ -1,0 +1,26 @@
+@id: 033 · DE · v5.0 049 · old 047 · Entrance
+@section: Modern Art
+@room: Entrance
+@type: R
+@title: Galerie für moderne Kunst – ein anderes Jahrhundert
+@where: Am Eingang der Galerie für moderne Kunst im zweiten Stock. Folgen Sie von der Treppe oder den Aufzügen aus dem Gang und biegen Sie links ab. Die Säle sind von 1 bis 30 nummeriert und bilden einen Rundgang.
+@what: Thirty rooms of Italian painting and sculpture from the late 18th to the early 20th century, in rooms once used by the Lorraine grand dukes, with one of the richest Macchiaioli collections anywhere. The gallery opened in 1924.
+@listen: What "modern" meant when the gallery opened, and how the loop of rooms tells its story.
+@brief: A friend at the top of the stairs, gently resetting expectations with a smile, then laying out the walk ahead in plain words.
+@pace: medium
+@energy: 3→3
+@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · old script 047 + findings G3 (A, B 047), G6 §1.4
+@lang: de
+@translation: from the fact-checked English V5.1 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Als diese Galerie 1924 eröffnete, bedeutete das Wort modern etwas ganz anderes. Hier oben gibt es keinen Picasso. Keinen Matisse. [pause] In dreißig nummerierten Sälen zeigt sie italienische Malerei und Skulptur. Vom späten achtzehnten bis zum frühen zwanzigsten Jahrhundert.
+
+Und im Mittelpunkt eine der reichsten Sammlungen der Macchiaioli überhaupt. Das waren toskanische Maler, die ihre Staffeleien ins Freie trugen. Sie bauten ihre Bilder aus Flecken von Licht und Farbe. In den Jahren, in denen Italien zu einem einzigen Land wurde.
+
+Auch die Räume selbst gehören zur Geschichte. Es waren Familienräume der lothringischen Großherzöge.
+
+[pause] Der Rundgang folgt ungefähr der Zeit. Zuerst kommen der Klassizismus und die Jahre Napoleons. Dann die großen Historienbilder. In der Mitte des Rundgangs die Macchiaioli, umgeben von Porträts und Landschaften. Und in den letzten Sälen spätere toskanische Malerei, der Symbolismus und das frühe zwanzigste Jahrhundert.
+
+[warmly] Achten Sie beim Gehen darauf, wie sich das Jahrhundert verändert. Es beginnt mit Göttern und Kaisern aus Marmor. In der Mitte des Rundgangs malt es Soldaten, Holzfäller und Frauen, die am Meer im Schatten sitzen.
+
+In Saal eins beginnt der Rundgang. Die ersten beiden Säle zeigen klassizistische Werke. [pause] Und in Saal zwei wartet ein sehr berühmtes Gesicht auf Sie.

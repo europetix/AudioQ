@@ -1,0 +1,24 @@
+@id: 002 · DE · old 002 · Rooms 1–2 · Antechamber and Gallery of the Statues
+@section: Palatine
+@room: Rooms 1–2
+@type: R
+@title: Die Galleria Palatina — Vorsaal und Statuengalerie
+@where: In den ersten Räumen der Galleria Palatina im ersten Stock: erst der Vorsaal, dann die lange Statuengalerie, die zum Castagnoli-Saal führt.
+@what: An antechamber and a long gallery lined with classical marble statues; beyond them, rooms whose walls are covered with paintings in heavy gilded frames.
+@listen: What kind of gallery the Palatine is, why it's hung so densely, and which way the route runs.
+@brief: A knowledgeable friend at the threshold, sharing the gallery's small paradox and setting expectations; curious at the start, light and reassuring about the crowded walls, a touch of fun at walking the Medici route backwards.
+@pace: medium
+@energy: 2→3
+@sources: https://uffizi.it/en/palatine-gallery/history ; https://www.uffizi.it/palazzo-pitti/galleria-palatina (Lorraine foundation, about 500 works, walls fully covered in the manner of 17th-century picture galleries, silks, Cortona 1640–47) ; findings G2 B 025 (Medici guests came from Venus toward Jupiter), G6 §1.2 (route 1→28, Planet Rooms last, Venus last)
+@lang: de
+@translation: from the fact-checked English V5.1 002 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Fast jedes Gemälde in den Sälen vor Ihnen gehörte einst den Medici. Aufgehängt haben sie es hier aber nicht. [pause] Das tat die Familie, die nach ihnen kam.
+
+Die Großherzöge aus dem Haus Habsburg-Lothringen schufen diese Galerie, zwischen dem Ende des achtzehnten und dem frühen neunzehnten Jahrhundert. Sie wählten rund fünfhundert Werke aus den großen Sammlungen der Medici. Und sie brachten sie in die Prunkräume des Palastes. [pause] Gehängt wurden sie bewusst altmodisch, so wie man Gemäldegalerien im siebzehnten Jahrhundert hängte. Rahmen an Rahmen, Wand an Wand. Dazwischen Skulpturen, Vasen und Tische mit Steinintarsien.
+
+[lightly] Erwarten Sie also kein modernes Museum, mit einem Bild an weißer Wand und einem langen Schild daneben. Hier gehören die Räume zur Vorstellung. Seide an den Wänden, vergoldete Rahmen, bemalte Decken über Ihnen. Sie sollen zuerst die Pracht spüren. Die Meisterwerke finden Sie danach.
+
+Sie beginnen mit diesem Vorsaal und der langen Statuengalerie, gesäumt von antikem Marmor. Dann führt der Weg weiter durch den Castagnoli-Saal und eine Reihe kleinerer Räume. Ganz zum Schluss kommen die fünf großen Planetensäle. Ihre Decken stammen von Pietro da Cortona und seinem Schüler Ciro Ferri. [pause] Unter den Medici durchschritten wichtige Gäste diese Säle in umgekehrter Richtung. Auf dem letzten Stück folgen Sie also dem Zeremonienweg des Großherzogs rückwärts.
+
+Gehen Sie die Statuengalerie entlang bis zum Castagnoli-Saal. Sie erkennen ihn am großen runden Steintisch in der Mitte. Spielen Sie dort den passenden Titel ab.

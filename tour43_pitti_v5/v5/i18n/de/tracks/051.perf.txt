@@ -1,0 +1,26 @@
+@id: 051 · DE · v5.0 068 · old 082 · Stop 3
+@section: Boboli
+@room: Stop 3
+@type: W
+@title: Buontalenti – die Grotta Grande
+@where: Neben dem Bacchino, an derselben Ostmauer nahe dem Eingang zum Vasari-Korridor. Stellen Sie sich vor die Fassade. Gehen Sie nur hinein, wenn das Tor offen ist.
+@what: The Grotta Grande, or Buontalenti Grotto: begun in the 1550s as an aqueduct reservoir, given a façade by Vasari, and transformed by Bernardo Buontalenti from 1583. Bandinelli's Apollo and Ceres in the niches; inside, replicas of Michelangelo's four Prisoners, Vincenzo de' Rossi's Theseus and Helen, and Giambologna's Venus of about 1593.
+@listen: How a water tank became the strangest building in the garden, and the question it was built to ask.
+@brief: Showing a friend a wonderfully odd building; curious, then delighted, a quiet beat for Michelangelo's lost statues, warm at the end.
+@pace: medium
+@energy: 3→4→2→3
+@sources: https://uffizi.it/en/artworks/grotta-del-buontalenti ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/hele-and-theseus-grotto ; https://www.uffizi.it/en/artworks/bathing-venus-giambologna ; old script + findings G5
+@lang: de
+@translation: from the fact-checked English V5.1 051 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Das hier begann als Wassertank. In den 1550er-Jahren brauchten die Medici einen Speicher für eine neue Wasserleitung, und bauten ihn hier. Dann gab Vasari ihm eine nüchterne Front mit Säulen. Und eine Generation später nahm sich Bernardo Buontalenti den Bau vor. [pause] Er machte daraus das seltsamste Gebäude im Garten.
+
+Sehen Sie sich die Fassade an. In zwei Nischen stehen Apollo und Ceres, von Baccio Bandinelli. Götter des Lichts und der Ernte, ganz Ordnung und Ruhe. Über und um sie herum beginnt der Stein zu schmelzen. Er tropft. Er quillt zu felsigen Krusten, als würde das Gebäude langsam wieder zur Höhle.
+
+[pause] Genau das war die Idee. Drinnen, falls das Tor heute offen ist, sieht die erste Kammer aus wie eine feuchte Höhle. Tropfsteine, Schwammstein und Muscheln, dazu Hirten und Tiere, die halb aus dem Fels treten. In ihren vier Ecken stehen vier der unvollendeten Gefangenen von Michelangelo. [quietly] Oder besser: standen. Die Medici stellten die Originale 1585 hier auf. Figuren, die sich aus rohem Marmor herauskämpfen, in einem Fels, der nur so tat, als wäre er roh. 1908 kamen sie in die Galleria dell'Accademia. Hier stehen heute Nachbildungen.
+
+Wo endet also die Natur, wo beginnt die Kunst? Die Höhle wirkt natürlich, und doch ist jeder Zentimeter gemacht. Die Florentiner jener Zeit liebten diese Frage. Hier ist ihre Antwort, in Stein und Wasser.
+
+Weiter hinten zeigt die zweite Kammer eine Marmorgruppe: Theseus entführt Helena, von Vincenzo de' Rossi. In der dritten steht die Venus von Giambologna. Eine junge Frau, die aus dem Bad steigt, mit vier Satyrn am Becken unter ihr.
+
+[warmly] Selbst von außen spüren Sie den Witz. Das ruhige Gesicht eines Gottes, und direkt darüber beginnt der Fels zu tropfen. [pause] Suchen Sie danach den schmalen Weg, der hinter der Grotte nach oben führt. Er führt zur Grotta di Madama, der ältesten Grotte im Garten. Spielen Sie dort den passenden Titel ab.

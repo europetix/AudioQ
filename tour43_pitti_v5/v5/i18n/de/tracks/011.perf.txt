@@ -1,0 +1,30 @@
+@id: 011 · DE · v5.0 023 · old 027 · Room 23 · Sala dell'Iliade
+@section: Palatine
+@room: Room 23
+@type: W
+@title: Andrea del Sarto — Die Passerini-Himmelfahrt
+@where: In der Sala dell'Iliade, vor dem hohen Altarbild der Jungfrau, die über den Aposteln an ihrem Grab aufsteigt. Treten Sie so weit zurück, dass Sie beide Hälften sehen.
+@what: Andrea del Sarto, Assumption of the Virgin, known as the Assunta Passerini, oil on panel, 1526–28, almost four metres tall.
+@listen: Why two saints who were never at the tomb kneel in the best seats, and the woman in Cortona who paid for the picture.
+@brief: Telling a friend the small human secret inside a huge religious picture; measured and clear at first, conspiratorial at the reveal, a dry smile at the end.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/assumption-of-the-virgin-assunta-passerini (date, size, Saints Nicholas and Margaret, Margherita Passerini, Santa Maria dei Servi in Cortona, father and son named Nicholas, dogma 1950, sold to Ferdinando II in 1639) ; old script + findings G1 (Vasari "senza errori") and G2 (corrections)
+@lang: de
+@translation: from the fact-checked English V5.1 011 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieses Altarbild ist fast vier Meter hoch. Und zwei der wichtigsten Figuren darauf gehören gar nicht zur Geschichte.
+
+Die Geschichte ist die Himmelfahrt. Am Ende ihres irdischen Lebens wird Maria mit Leib und Seele in den Himmel aufgenommen. Christen feierten diesen Glauben viele Jahrhunderte lang. Offizielles katholisches Dogma wurde er aber erst 1950. Andrea del Sarto malt ihn klassisch, auf zwei Ebenen. Oben schwebt Maria auf einer Wolke zwischen Engeln empor. Unten drängen sich die Apostel um ihr leeres Grab. Manche blicken hinauf, manche einander an.
+
+Lenken Sie Ihren Blick jetzt nach vorn, ganz nach unten. Zwei Figuren knien dort, Ihnen am nächsten. Die eine ist ein Bischof in prächtigem Ornat, mit drei goldenen Kugeln. Das ist der heilige Nikolaus. Die andere ist eine Frau in schlichtem Habit, gekleidet als franziskanische Laienschwester. Das ist die heilige Margareta. [pause] Keiner von beiden war am Grab.
+
+[conspiratorial] Sie sind hier wegen der Auftraggeberin. Bestellt hat das Altarbild eine Frau namens Margherita Passerini. Es war für den Hochaltar von Santa Maria dei Servi bestimmt, einer Kirche in Cortona. Ihr Vater hieß Nikolaus, ihr Sohn ebenso. Und Margareta ist einfach Margherita auf Deutsch. [pause] Mitten in einem Wunder, auf den besten Plätzen, kniet also ihre Familie.
+
+Andrea del Sarto malte das Bild Ende der 1520er-Jahre, nur wenige Jahre vor seinem Tod. Vasari schrieb das erste große Buch über Künstlerleben. Er nannte ihn den Maler ohne Fehler. Manche hören darin einen Hauch Kritik: zu glatt vielleicht, zu korrekt. [pause] Betrachten Sie die Gesichter und den fallenden Stoff. Und urteilen Sie selbst.
+
+Mehr als ein Jahrhundert später, 1639, verkaufte es einer von Margheritas Erben an Großherzog Ferdinando den Zweiten. Er ließ es hierher in den Palazzo Pitti bringen.
+
+[wry] Oben also der Himmel, und unten die Familie der Stifterin. So funktionierten Altarbilder der Renaissance. Und Andrea lässt es mühelos aussehen.
+
+Als Nächstes die Mutter mit ihren Kindern aus Marmor, in der Mitte des Saals. Das ist Lorenzo Bartolinis Caritas.

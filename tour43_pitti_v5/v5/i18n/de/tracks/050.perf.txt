@@ -1,0 +1,26 @@
+@id: 050 · DE · v5.0 067 · old 080 · Stop 2
+@section: Boboli
+@room: Stop 2
+@type: W
+@title: Der Bacchino – Morgante auf einer Schildkröte
+@where: Auf dem kleinen Platz am Bacchus-Ausgang, auf der Ostseite des Gartens, beim Palast und an der Mauer des Vasari-Korridors. Die Figur auf der Schildkröte sitzt im Brunnen.
+@what: Morgante on a Tortoise, known as the Bacchino: a modern plaster copy of Valerio Cioli's marble of 1564–68, a fountain on this spot since 1579. The original marble is kept indoors.
+@listen: The real man behind the fountain, and the joke hidden in his turtle and his raised arm.
+@brief: A friend stopping you in front of something everyone walks past; curious and humane, honest about the cruelty, amused by the joke, warm at the end.
+@pace: medium-slow
+@energy: 2→3→4→3
+@sources: https://www.uffizi.it/en/artworks/morgante-sopra-una-tartaruga ; https://www.artribune.com/?p=149560 (8 Jul 2013, original moved indoors) ; old script + findings G5
+@lang: de
+@translation: from the fact-checked English V5.1 050 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Der kleine Mann auf der Schildkröte hatte einen echten Namen. Er hieß Braccio di Bartolo und stammte vom Land bei Bologna. Er war kleinwüchsig. Seine Eltern verkauften ihn an den Hof von Cosimo dem Ersten und Eleonora. [pause] Der Hof nannte ihn Morgante, nach einem Riesen aus einem beliebten komischen Epos. Ein Witz über seine Größe. Und er trug ihn sein Leben lang.
+
+Ab 1541 diente er Cosimo als Hofnarr und Begleiter. Er wurde eines der bekanntesten Gesichter am Hof. Cosimo schenkte ihm schließlich ein eigenes Landgut bei Arezzo. Der Maler Bronzino porträtierte ihn auf einem berühmten doppelseitigen Bild. Einige Jahre später meißelte ihn der Bildhauer Valerio Cioli in Marmor, in den 1560er-Jahren.
+
+[quietly] Ehrlich betrachtet muss man hier zwei Gedanken zugleich festhalten. Ein Mann mit Behinderung wurde zur Belustigung gemacht. Nackt gemeißelt und in einen Brunnen verwandelt. Das war die beiläufige Grausamkeit der Zeit. [pause] Und doch scheint die Skulptur von jemandem zu stammen, der ihn genau angesehen hat. Als Menschen, nicht als Typus.
+
+Nun zu den Details. Die Schildkröte ist kein Zufall. Eine Schildkröte mit einem Segel auf dem Rücken war Cosimos persönliches Emblem. Dazu das Motto festina lente: Eile mit Weile. [pause] Morgante reitet also auf dem Abzeichen des Herzogs. Und der erhobene Arm ist eine Geste des Befehls. Er bittet um Ruhe, bevor er spricht. Genau wie die antike Bronze des Kaisers Mark Aurel in Rom. [amused] Ein nackter Narr auf einer Schildkröte, der die Menge zur Ordnung ruft wie ein Kaiser.
+
+Was Sie hier sehen, ist eine moderne Kopie. Das Original aus Marmor steht drinnen, geschützt vor dem Wetter.
+
+[warmly] Der Witz ist scharf, und die Skulptur ist liebevoll. Beides stimmt, und deshalb lohnt sich der Halt. Die Grotta Grande liegt nur ein paar Schritte weiter, an derselben Mauer. Spielen Sie ihren Titel vor ihrer Fassade ab.

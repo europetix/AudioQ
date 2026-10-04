@@ -1,0 +1,26 @@
+@id: 043 · DE · v5.0 062 · old 059–069 · Galleries
+@section: Fashion and Costume
+@room: Galleries
+@type: R
+@title: Drei Jahrhunderte Mode – die wechselnde Ausstellung
+@where: Überall in den Galerien hinter den Medici-Gewändern. Die Ausstellung wechselt, hören Sie dies also, wo Sie möchten. Danach gehen Sie auf demselben Weg zurück zum Treppenabsatz im zweiten Stock und dann ein Stockwerk hinunter zu den königlichen Gemächern, oder hinunter in den Hof.
+@what: Clothes, accessories, jewellery and stage costumes from the eighteenth century to today, shown in rotation for conservation; the selection on view changes from time to time.
+@listen: How to read whatever is on display today, and how Italian fashion was launched on the world inside this very palace.
+@brief: Browsing with a friend who loves clothes; light and lively, then a little proud at the Sala Bianca story, ending with clear directions downstairs.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/en/events/nuovo-allestimento-museo-moda-2025 · https://www.theflorentine.net/2024/07/16/fashion-museum-reopens-palazzo-pitti/ · old scripts 059–069 + findings G3 (A 059–069, B 059–069, B 065, C), G6 §1.4
+@lang: de
+@translation: from the fact-checked English V5.1 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Jedes Museum hat ein Problem mit Licht. Ein Modemuseum hat ein noch größeres. Seide verblasst, Futter wird mürbe. Und ein Kleid, das zu lange ausliegt, beginnt einfach zu zerfallen.
+
+Deshalb arbeitet dieses Museum im Wechsel. Die Sammlung reicht vom achtzehnten Jahrhundert bis heute. Kleidung, Schmuck und Accessoires, sogar Bühnenkostüme von Stars aus Film, Theater und Oper. Immer ist nur ein Teil zu sehen. Und von Zeit zu Zeit ersetzt ihn eine neue Auswahl.
+
+[pause] Ich kann Ihnen also nicht genau sagen, was Sie sehen werden. Aber ich kann Ihnen sagen, worauf Sie achten sollten, was es auch sei. Achten Sie auf die Form des Körpers.
+
+Im achtzehnten Jahrhundert war Hofkleidung gebaut wie Architektur. Reifen an den Hüften drückten die Röcke zur Seite. Um 1800 brach all das zusammen. Die Taille rutschte hoch unter die Brust, und die Röcke fielen gerade und leicht, wie bei einer antiken Statue. [pause] Dann brachte das neunzehnte Jahrhundert das Gerüst zurück, bis die Krinoline die Röcke wieder so breit wie Türen machte. Und das zwanzigste Jahrhundert warf das Korsett weg und erfand den Körper etwa alle zehn Jahre neu.
+
+[warmly] Ein Kapitel dieser Geschichte spielte genau hier. Im Februar 1951 zeigte ein Florentiner Geschäftsmann, Giovanni Battista Giorgini, bei sich zu Hause italienische Entwürfe einer kleinen Gruppe amerikanischer Einkäufer. Es lief gut. Ab 1952 zogen die Schauen in die Sala Bianca, den Weißen Saal dieses Palastes. [pause] Dort begann die Welt, italienische Mode ernst zu nehmen.
+
+Nach den Galerien gehen Sie auf demselben Weg zurück zum Treppenabsatz. Nehmen Sie die Treppe oder einen Aufzug ein Stockwerk hinunter, in die Eingangshalle der Galleria Palatina. Dort ist der Treffpunkt für die königlichen Gemächer, und es gibt einen Titel für die Wartezeit. Wenn Sie die Gemächer nicht besuchen, gehen Sie weiter hinunter in den Hof und folgen Sie den Schildern zur Cappella Palatina.

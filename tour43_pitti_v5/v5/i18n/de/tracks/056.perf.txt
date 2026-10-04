@@ -1,0 +1,24 @@
+@id: 056 · DE · v5.0 074 · old 087 · Stop 8
+@section: Boboli
+@room: Stop 8
+@type: W
+@title: Giambologna und Pietro Tacca – die Abbondanza
+@where: Zu Füßen der kolossalen Statue der Abbondanza, am oberen Ende der Mittelachse, knapp unterhalb des Kavaliersgartens. Ist die Statue wegen Restaurierung abgesperrt, betrachten Sie sie vom nächsten Weg aus. Drehen Sie sich um und blicken Sie den Hügel hinab zum Palast.
+@what: Abundance, a colossal marble begun by Giambologna and completed after his death by his pupil Pietro Tacca, set up here in 1637. She holds a sheaf of wheat and a horn of plenty.
+@listen: How a portrait of a grand duchess may have become an allegory, and why she stands exactly here.
+@brief: A friend at the top of the hill, catching their breath and enjoying a good story; curious about her origins, warm at the view, quietly thoughtful at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://catalogue.museogalileo.it/indepth/BoboliGarden.html (installed 1636; superseded by catalogo.beniculturali.it 0900289222: moved to the hill 12 Apr 1637) ; https://www.visittuscany.com/en/ideas/boboli-gardens-the-green-heart-of-florence/ (Joanna's face) ; https://uffizi.it/en/boboli-garden/history ; old script + findings G5, G6 §1.7
+@lang: de
+@translation: from the fact-checked English V5.1 056 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Vielleicht sollte sie gar nicht die Fülle darstellen. Man erzählt, diese kolossale Frau begann als Bildnis einer echten Frau. Johanna von Österreich, eine habsburgische Erzherzogin und Frau von Großherzog Francesco dem Ersten. Zumindest das Gesicht soll noch immer ihres sein.
+
+Der Bildhauer war Giambologna. Der gebürtige Flame beherrschte im späten sechzehnten Jahrhundert die Florentiner Bildhauerei. Er begann die Figur und starb 1608, bevor sie fertig war. [pause] Sein Schüler Pietro Tacca übernahm sie. Irgendwann auf diesem Weg wurde aus dem Bildnis eine Allegorie. Sie bekam eine Weizengarbe und ein Füllhorn. So wurde sie zur Abbondanza, der Fülle. Das Versprechen guter Ernten unter einem weisen Herrscher.
+
+1637 wurde sie hier aufgestellt, ganz oben an der Mittellinie des Gartens. [warmly] Und genau darum geht es. Drehen Sie sich um und blicken Sie den Hügel hinab. [pause] Der Garten wurde entlang dieser einen geraden Linie angelegt. Sie läuft vom Palasthof am Artischockenbrunnen vorbei, durch das Amphitheater mit seinem Obelisken, an Neptun vorbei, bis hier herauf. [pause] Die Statue ist der Punkt am Ende des Satzes.
+
+[quietly] Stellen Sie sich vor, wer hier vor Ihnen stand. Ein Großherzog, der auf seinen Palast und seine Stadt hinabblickt. Und in seinem Rücken eine riesige Figur der Fülle. Genau so wollten die Medici gesehen werden. Reich, großzügig, und fest im Besitz der Aussicht.
+
+Gehen Sie von hier nach Westen, oben am Hügel entlang, zum Anfang der großen Zypressenallee, dem Viottolone. Gehen Sie sie hinunter. Spielen Sie ihren Titel ab, sobald Sie unter den Zypressen gehen.

@@ -1,0 +1,24 @@
+@id: 059 · DE · v5.0 077 · old 090 · Stop 11
+@section: Boboli
+@room: Stop 11
+@type: R
+@title: Die Limonaia
+@where: Vor der Limonaia, dem langen, niedrigen Zitronenhaus auf der westlichen Seite des Gartens an der Via Romana, nördlich des Isolotto in Richtung Palast. Die Tore sind wegen Restaurierung geschlossen. Betrachten Sie sie von außen. Das Tor Annalena liegt ganz in der Nähe.
+@what: The Lemon House, built 1777–78 by Zanobi del Rosso for Pietro Leopoldo on the site of Cosimo III's menagerie, enlarged by Giuseppe Cacialli in 1816. About 106 metres long and facing south, it shelters some 500 potted citrus trees through the winter.
+@listen: From a grand-ducal zoo to a winter home for lemons, and the Medici passion for strange citrus.
+@brief: A friend with a soft spot for eccentric collectors; curious at the zoo, warm and amused about the citrus obsession, easy at the send-off.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/lemon-house ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, Limonaia gates closed) ; https://en.wikipedia.org/wiki/Bizzarria ; old script + findings G5, G6 §1.7
+@lang: de
+@translation: from the fact-checked English V5.1 059 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Bevor hier Zitronenbäume standen, gab es an dieser Stelle einen Zoo. Cosimo der Dritte hielt hier seit dem späten siebzehnten Jahrhundert eine Menagerie exotischer Tiere. Ein Jahrhundert später ließ Großherzog Pietro Leopoldo sie räumen. Sein Architekt Zanobi del Rosso, der auch das Kaffeehaus baute, errichtete an ihrer Stelle dieses Gebäude. [pause] Die Limonaia, das Zitronenhaus.
+
+Die Tore sind zurzeit wegen Restaurierung geschlossen, Sie sehen es also von außen. Es ist lang und niedrig, über hundert Meter, und nach Süden ausgerichtet, um die Wintersonne einzufangen. [pause] Jeden Herbst werden rund fünfhundert Zitruspflanzen in Töpfen vor der Kälte hereingeholt. Jeden Frühling kommen sie wieder hinaus in den Garten.
+
+Warum der ganze Aufwand? [warmly] Die Medici waren besessen von Zitrusfrüchten. Sie bauten eine der großen Sammlungen von Zitronen, Orangen und Zitronatzitronen in Europa auf. Zitrusfrüchte waren ein Statussymbol. Sie waren exotisch und schwer durch einen toskanischen Winter zu bringen. Und sie gaben Früchte, Blüten und Duft zugleich. [pause] Ein Herrscher, der Ihnen im Januar Bäume voller Früchte zeigen konnte, prahlte mit seiner Macht über die Natur.
+
+[amused] Und am liebsten mochten sie die seltsamen. Am berühmtesten war die Bizzarria, ein einziger Baum, dessen Früchte Zitronatzitrone und Bitterorange mischen. Einige dieser alten Sorten überleben bis heute in den Sammlungen der Medici.
+
+Von hier ist das Tor Annalena zur Via Romana ganz nah. Oder Sie folgen der Allee nach Norden, zurück zum Palast. Für welches Tor Sie sich auch entscheiden: Spielen Sie auf dem Weg dorthin den Titel „Wege aus dem Garten“ ab.

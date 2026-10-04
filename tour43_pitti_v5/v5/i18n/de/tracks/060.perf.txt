@@ -1,0 +1,28 @@
+@id: 060 · DE · v5.0 078 · old 091 · Ways out
+@section: Boboli
+@room: Ways out
+@type: R
+@title: Wege aus dem Garten
+@where: Hören Sie dies auf dem Weg zu dem Tor Ihrer Wahl: Palazzo Pitti durch den Ammannati-Hof, Annalena an der Via Romana, Porta Romana neben dem Isolotto oder Forte di Belvedere oben auf dem Hügel.
+@what: The four official entrances and exits of the Boboli Gardens, and where each one leaves you.
+@listen: Where each of the four gates comes out, the story behind the Annalena name, and an idea for a return visit.
+@brief: A friend walking you to the door at the end of a long visit; relaxed and practical, a quiet moment for Annalena's story, warm at the parting.
+@pace: medium
+@energy: 3→2→3
+@sources: https://www.uffizi.it/en/boboli-garden (four entrances/exits) ; https://www.uffizi.it/en/notices/combined-ticket-for-boboli-gardens-and-bardini-gardens ; https://www.theflorentine.net/?p=36144 (Annalena Malatesta) ; old script + findings G5, G6 §1.7 and §4.5
+@lang: de
+@translation: from the fact-checked English V5.1 060 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ein so großer Garten hat mehr als eine Haustür. Der Boboli-Garten hat vier offizielle Tore. Und jedes entlässt Sie an einen anderen Ort.
+
+Das Haupttor ist der Palast selbst. Gehen Sie zurück durch den Ammannati-Hof. Dann kommen Sie auf der Piazza Pitti heraus, wenige Minuten vom Ponte Vecchio und vom Fluss.
+
+Auf der Westseite öffnet sich das Tor Annalena zur Via Romana. Sie liegt im Oltrarno, dem alten Handwerkerviertel südlich des Arno. [quietly] Der Name hat eine Geschichte. Annalena Malatesta war eine Adlige, die in Florenz lebte. 1441 wurde ihr Mann ermordet. [pause] Nach seinem Tod gründete sie in dieser Straße ein Kloster. Ihr Name ist dem Ort seither geblieben.
+
+In der äußersten Südwestecke, direkt neben dem Isolotto, liegt das Tor Porta Romana. Es führt Sie hinaus beim alten Stadttor gleichen Namens. An der Straße, die einst nach Süden Richtung Rom führte.
+
+Und ganz oben auf dem Hügel führt das Tor Forte di Belvedere hinaus, neben die Festung auf der Kuppe. Von dort laufen alte Gassen hinab zum Fluss. Von dieser Seite erreichen Sie auch den Bardini-Garten, mit einem der schönsten Blicke auf Florenz. [pause] Er ist ein eigener Garten, mit eigenem Eingang.
+
+[pause] Eine Idee für einen anderen Tag. Manche Besucher, die wiederkommen, beginnen unten, an der Porta Romana. Sie steigen den Garten in umgekehrter Richtung hinauf. Die Zypressenallee hoch, an den Statuen vorbei, und am Ende hinunter zum Palast. Früher Morgen und später Nachmittag, wenn das Licht lang ist, sind die schönsten Zeiten dafür.
+
+Wo Sie auch hinauskommen: Hinter dem Tor wartet noch ein letzter kurzer Titel auf Sie.
