@@ -1,0 +1,35 @@
+
+## 046–055 (Soutine, Derain, second look, closing) — revision 5 Oct 2026
+- 046: "almost nobody had heard of him" → "few people outside Paris had heard of him" (V3 WEAK).
+- 046: "went from unknown to internationally known" → "became internationally known" (V3 WEAK).
+- 046: Barnes link hedged: "It seems it went to America with Barnes" (V3 WEAK, SEC1).
+- 046: "The museum suggests the pose…" → plain "The pose may come from…" (authority: one kept, the "in memory" quote).
+- 046: closing varied → "His story continues in front of him."
+- 047: "chest out" cut (V3 NOTFOUND).
+- 047: "the museum says" removed from the red-obsession line (authority, now 0).
+- 047: La Jeune Anglaise no longer dangling: "Nearby hangs … See how she compares." (traveller).
+- 047: closing varied → "…and listen to their track there."
+- 048: carcass-legend paragraph cut ("more dramatic with every telling" V3 NOTFOUND; "We can't check them" = spoken doubt); replaced by "What matters most here is colour."
+- 048: Dindon line → "Dindon et tomates, Turkey and Tomatoes, another of his still lifes" (V3 WEAK).
+- 048: @brief "honest about the legends" removed; closing → "…and start their track there."
+- 049: "the small town of Céret" → "Céret, in the south" (V3 NOTFOUND).
+- 049: route cue → "find André Derain's paintings" (no room promised, G5 13-1); closing → "The story continues in front of them."
+- 050: @where → "Among André Derain's paintings, or in the collection's opening hall…" (V3 route flag).
+- 050: authority cut from four to one (kept only on the Pierrot = Guillaume quote); "The museum gives us both facts…" → "Two men in one white costume."
+- 050: Max Jacob meeting line cut (Max Jacob owned by 015; traveller repetition).
+- 050: closing → "Listen to their track there." Owns Salvado and Pierrot = Guillaume.
+- 051: Salvado reduced to callback: "the Spanish painter you may have met in Harlequin and Pierrot, this time playing one part instead of two" (V3 repetition).
+- 051: closing → "…and start its track there."
+- 052: rebuilt to 252 words: "early twenties" → "first half of the nineteen twenties" (V3 WEAK); "side by side" → "in the same room" (V3 NOTFOUND).
+- 052: still-life catalogue replaced by one looking task (black lines round basket, grapes, glass) (traveller); "The museum says his Derains reflect…" cut, Guillaume taste moved to 053 payoff; one attribution kept ("spirited sketch" quote).
+- 052: new payoff (the calm was built, not accidental); closing = place only; @what trimmed to works voiced.
+- 053: rebuilt to 229 words (R ≤240): new hook, no longer echoing 048's "old-fashioned heroes" (traveller).
+- 053: Beau Modèle, Grand nu couché, Nu au canapé and Paysages de Provence cut; kept Blond Model (Renoir link) and one village in two weathers (traveller).
+- 053: real payoff added (the classicizing side Guillaume collected, FACTS_C Derain holdings OFF); "the museum traces/calls" removed; @where/@what/@listen/@sources updated.
+- 054: "kept reworking them until he died" cut (owned by 002/013).
+- 054: lost-sky retelling replaced by callback "Remember that upper floor? The collection you've just seen once hung on it, right above these rooms." (V3/brief, 014 owns); @listen/@sources updated.
+- 054: closing → "The last stop is waiting on the footbridge."
+- 055: 1852/Napoleon III/glass-south retelling replaced by callback "Remember the winter coat for orange trees? You're standing at its back." (traveller).
+- 055: Armistice letter, Clemenceau, panel count and Monet's death cut; replaced by "You heard at the start about two panels… This is how far that promise grew." + one attribution "monument to peace" (V3 fix).
+- 055: new garden-and-light paragraph (no new facts) and a fresh goodbye (dealer in his painting, the widow, the gift) not repeating 054's list; @what/@listen/@brief updated. 253 words.
+- Checks: all 10 validate; lengths 046 303 · 047 310 · 048 268 · 049 284 · 050 280 · 051 288 · 052 252 · 053 229 · 054 210 · 055 253; "the museum says/calls…" ≤1 per track; no ; ( or dashes in speech; no spoken doubt.

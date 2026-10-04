@@ -4,25 +4,23 @@
 @type: W
 @title: Matisse — Femme au violon and Femme à la mandoline
 @where: Among Matisse's paintings on the lower level. Look for a small canvas of a seated young woman with a violin on her knees, against a screen patterned with blue circles; the Woman with a Mandolin may hang near it.
-@what: Henri Matisse, Femme au violon (Woman with a Violin), 1921–1922, oil on canvas, 55 × 46 cm. Also Femme à la mandoline (Woman with a Mandolin), oil on canvas, early 1920s.
-@listen: A painting with a twin in Baltimore, and what music meant in Matisse's Nice.
+@what: Henri Matisse, Femme au violon (Woman with a Violin), 1921–1922, oil on canvas, 55 × 46 cm. Also Femme à la mandoline (Woman with a Mandolin), oil on canvas, sold by Matisse in January 1923.
+@listen: A paused bow, a twin in Baltimore, and what music meant in Matisse's Nice.
 @brief: A friend pointing out small, telling details in an intimate picture; light and attentive, slowing for the paused bow.
 @pace: medium
 @energy: 2→3→2
 @sources: FACTS_B Matisse — Femme au violon: https://www.musee-orangerie.fr/es/obras/femme-au-violon-196467 (OFF: 1921–1922, 55×46; violin on knees, bow in right hand, blue-circle Moorish screen, open case on table; Nice interior c.1921–23; similar slightly smaller version in Baltimore; Guillaume "owned several paintings on the music theme") ; FACTS_B Matisse — Femme à la mandoline: https://www.musee-orangerie.fr/en/artworks/femme-la-mandoline-196471 (OFF: Bernheim-Jeune bought it from Matisse 15 Jan 1923 → Paul Guillaume; window as recurrent theme; music "played an important role in the painter's daily life") ; contested item 1 (La Leçon de musique) NOT used
 ---
-[curious] Somewhere in Baltimore hangs a painting very like this one. Same title, same idea, only a little smaller. Which came first, and why paint it twice? The museum leaves that question open, and so will I.
+[quietly] The music has stopped, or it hasn't started yet. A young woman sits with a violin resting on her knees, the bow still in her right hand. Nobody is playing, and for a moment the whole room holds its breath.
 
-It's a small picture, just over half a metre tall, from nineteen twenty-one or twenty-two. And it's a typical interior of his Nice years. A young woman sits with a violin resting on her knees, the bow in her right hand. Behind her stands a Moorish screen covered in a pattern of blue circles.
+[pause] Look at the open violin case, lying on the table right by her elbow. Has she just taken the instrument out, or is she about to put it away? Matisse doesn't tell us. The bow simply waits.
 
-[pause] Look for the violin case, lying open on the table, right where her elbow rests. Has she just taken the instrument out, or is she about to put it away? Matisse doesn't tell us, and the bow is still. The music has stopped, or not yet begun.
+Behind her stands a Moorish screen covered in a pattern of blue circles. It's a small picture, just over half a metre tall, from nineteen twenty-one or twenty-two, and a typical interior of his Nice years. Matisse painted the scene more than once. A very similar version, with the same title and only a little smaller, hangs today in Baltimore.
 
-Why so many instruments in these rooms? The museum's answer is simple. In Nice, music played an important role in the painter's daily life. Instruments keep turning up in the pictures he made there.
+[curious] Why so many instruments in these rooms? In Nice, music played an important role in the painter's daily life, and instruments keep turning up in the pictures he made there.
 
-[warmly] Paul Guillaume clearly liked them, since he owned several paintings on the theme of music. The Woman with a Mandolin, Femme à la mandoline, is another, and its paper trail is unusually clear. Matisse sold it to the dealers Bernheim-Jeune in January nineteen twenty-three, and from them it made its way to Guillaume.
-
-The museum's notes on that picture are all about windows. Matisse used them again and again, to open up a space, or to set a painting inside a painting. So when you find it, look past the woman and her instrument. Notice how he handles the space around her.
+[warmly] Paul Guillaume clearly liked them, since he owned several paintings on the theme of music. The Woman with a Mandolin, Femme à la mandoline, is another. The museum's notes on that picture talk about windows, which Matisse used again and again, to open up a space, or to set a painting inside a painting.
 
 [lightly] Two women, two instruments, and in neither picture can you hear a note. Matisse makes you listen with your eyes.
 
-Now find his odalisques, the women reclining among patterned fabrics and screens. Play their track there.
+Now find his odalisques, the women reclining among patterned fabrics and screens, and listen to them there.
