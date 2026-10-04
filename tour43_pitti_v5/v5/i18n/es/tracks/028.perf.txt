@@ -1,0 +1,26 @@
+@id: 028 · ES · v5.0 042 · old 005 · Room 28 · Sala di Venere
+@section: Palatine
+@room: Room 28
+@type: R
+@title: Sala di Venere — La Sala de Venus
+@where: En la Sala di Venere, la última sala del recorrido de hoy por la Galería Palatina y la primera de la antigua secuencia de los Médici. En el centro está la Venus de mármol de Canova.
+@what: A grand reception room with a ceiling fresco by Pietro da Cortona on the theme of Venus, Canova's Venus Italica at its centre, and three Titians on the walls: The Concert, Pietro Aretino and La Bella.
+@listen: Why the last room of your visit was the first room of the Medici's, and the four works waiting here.
+@brief: A friend arriving at the end of the walk and enjoying the irony that it is the beginning; warm, unhurried, a quiet reveal, then a clear plan for the room.
+@pace: medium-slow
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/canova-venus-italica (Room of Venus); https://www.uffizi.it/en/artworks/titian-the-concert; https://uffizi.it/en/artworks/portrait-of-pietro-aretino; https://www.uffizi.it/en/artworks/portrait-of-a-lady-la-bella (all Venus Room; dates 1510–11, 1545, 1536–38); old script 005 + findings G1 (B, D, F: ceiling subject unverified) + G6_ROUTE (N44)
+@lang: es
+@translation: from the fact-checked English V5.1 028 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Esta es la última sala del recorrido de hoy. Con los Médici, aquí empezaba todo.
+
+Ha recorrido al revés la vida del príncipe. [pause] Y ahora, por fin, ha llegado al principio.
+
+En la historia de los Médici, esta era la primera lección. Antes de que Apolo lo educara, Marte lo endureciera y Júpiter lo coronara, el príncipe debía aprender a apartarse de Venus. De la comodidad y de los placeres de los sentidos. [pause] Mire hacia arriba. Pietro da Cortona construyó este techo en torno a esa idea.
+
+[amused] Así que es una sala algo traviesa para terminar. [pause] Sus paredes están llenas justo de la belleza que el príncipe debía resistir.
+
+Cuatro obras tienen aquí su propia pista. En el centro, una Venus de mármol de Antonio Canova. En las paredes, tres cuadros de Tiziano, de unos treinta y cinco años de su vida. Una obra de juventud, El concierto. Un retrato de su temible amigo, el escritor Pietro Aretino. Y una mujer de vestido azul, conocida simplemente como La Bella.
+
+Empiece por la mujer de mármol del centro de la sala. Vaya hasta la Venus de Canova y reproduzca allí su pista.

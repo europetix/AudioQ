@@ -1,0 +1,24 @@
+@id: 001 · ES · old 001 · Piazza Pitti
+@section: Opening
+@room: Piazza Pitti
+@type: ANCHOR
+@title: Piazza Pitti — Antes de entrar
+@where: En la Piazza Pitti, frente al palacio. La taquilla está en el lado derecho de la fachada. Se entra por el portal central al Patio de Ammannati, donde la escalera principal y los ascensores quedan a la derecha.
+@what: The long rusticated stone front of Palazzo Pitti, begun in the fifteenth century for the banker Luca Pitti, later home to the Medici, the Habsburg-Lorraine grand dukes and the kings of Italy.
+@listen: How a banker's house became the seat of three dynasties, and how the museums inside are laid out.
+@brief: A friend standing beside the listener in the square, letting them in on the palace's ironic beginning, then calmly laying out the day; warm, unhurried, a small smile at the Napoleonic aside.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/palazzo-pitti ; https://www.uffizi.it/palazzo-pitti/galleria-palatina (Raphael claim, Medici/Lorraine/Savoy, kings of Italy to 1919) ; old script + findings G1 (B 001, C 001), G4 (RA meeting point, staff-led visit), G6 §1.1 (ticket office right, stairs and lifts on the right of the courtyard)
+@lang: es
+@translation: from the fact-checked English V5.1 001 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta casa enorme se construyó para un hombre que no era príncipe. Luca Pitti era un banquero florentino. Hacia mediados del siglo quince empezó aquí un palacio, al pie de las colinas. Los florentinos cuentan desde hace mucho que quería eclipsar a los Médici. Algunos dicen que Brunelleschi dibujó el primer proyecto. [pause] Ninguna de las dos cosas se puede demostrar.
+
+[pause] Esto sí es seguro. En menos de un siglo, a los Pitti se les acabó el dinero. Y vendieron la casa justo a la familia que querían eclipsar. Hacia 1550, los Médici instalaron aquí su corte. Desde entonces y hasta 1919, el palacio fue de quien gobernara la Toscana. Primero los Médici. Luego los grandes duques Habsburgo-Lorena. Y por último, los reyes de la Italia unida. [wry] Con una breve pausa napoleónica en medio.
+
+Tómese un momento para mirar la fachada antes de entrar. Más de doscientos metros de piedra tosca y enorme. Y el mismo arco redondo, repetido a todo lo ancho. [pause] Se hizo para parecer inamovible.
+
+[warmly] Dentro, los museos se reparten por pisos. Un piso más arriba está la Galería Palatina, con los cuadros de los Médici en los antiguos salones de gala. El museo la llama la mayor concentración de obras de Rafael del mundo. En ese mismo piso están los Apartamentos Reales e Imperiales. Se ven en una visita corta guiada por el personal, desde el vestíbulo de la Palatina. Esta guía lo lleva allí al bajar del segundo piso, con una pista para la espera. En el segundo piso están la Galería de Arte Moderno y el Museo de la Moda y el Traje. Los iconos rusos y la Capilla Palatina se abren al patio, en la planta baja. Y los jardines, detrás del palacio, tienen su propia sección. Puede recorrerlos al principio o al final.
+
+Al cruzar la puerta central, estará en el Patio de Ammannati. La escalera principal y los ascensores están a su derecha. Suba al primer piso, hasta la entrada de la Galería Palatina. [pause] Allí seguimos, en la primera sala.

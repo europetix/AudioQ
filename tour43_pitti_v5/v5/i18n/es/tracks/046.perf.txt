@@ -1,0 +1,24 @@
+@id: 046 · ES · v5.0 063 · old 076 · Rooms 1–4
+@section: Russian Icons and Chapel
+@room: Rooms 1–4
+@type: R
+@title: Museo de Iconos Rusos: el apartamento de verano de Cosme III
+@where: Planta baja, junto al Patio de Ammannati. Siga las indicaciones hacia la Capilla Palatina y los Iconos Rusos, y escuche esto en la primera sala con frescos.
+@what: Four seventeenth-century frescoed rooms, restored and opened as the Museum of Russian Icons in 2022, hung with 78 Russian icons in gold and deep colour; captions in Italian, English and Russian.
+@listen: How a Medici summer apartment came to hold the oldest collection of Russian icons outside Russia, and what the gold is for.
+@brief: A friend sharing a little-known corner of the palace on the way out to the garden; curious at first, then quiet and respectful in front of the icons.
+@pace: medium-slow
+@energy: 2→3
+@sources: https://www.uffizi.it/en/pitti-palace/museum-of-russian-icons ; https://www.finestresullarte.info/musei/firenze-apre-museo-icone-russe-a-palazzo-pitti (2 Jan 2022) ; https://www.uffizi.it/en/news/icons-pitti ; old script + findings G4
+@lang: es
+@translation: from the fact-checked English V5.1 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Durante décadas, estas salas fueron oficinas, y casi nadie miraba el techo. En 2022 se restauraron y se abrieron como museo. [pause] Y los frescos del siglo diecisiete volvieron a la vida. Ahora, delante de ellos, cuelgan iconos rusos.
+
+Las salas nacieron de una boda. En 1661, el futuro gran duque Cosme Tercero se casó con una princesa francesa, Margarita Luisa de Orleans. Esta planta baja se decoró como el apartamento de verano de la pareja. [pause] Los iconos llegaron por un camino más lento. Algunos habían sido de los Médici. Dos estaban aquí antes de la boda. Los guardaba la madre de Cosme, la gran duquesa Vittoria della Rovere, en una capilla de reliquias. La mayoría llegó tras la extinción de los Médici, cuando los nuevos grandes duques, los Habsburgo-Lorena, siguieron coleccionando. Hoy son setenta y ocho. Se la considera la colección de su tipo más antigua fuera de las tierras de los iconos.
+
+[quietly] Al recorrer las salas, fíjese en el tamaño. Son tablas pequeñas, hechas para rezar en casa o de viaje, no retablos para una iglesia. Y el oro no es decoración. En la tradición ortodoxa, representa la luz del cielo. Las figuras en él quieren estar presentes con usted, no lejanas.
+
+Busque una Madre de Dios de Tijvin, firmada por su pintor, Vasili Griaznov, y fechada en 1728.
+
+Pero empiece por los iconos más antiguos registrados en Florencia. La pequeña Decapitación de san Juan Bautista cuelga en esta primera sala. Su pareja, una Madre de Dios rodeada de multitudes, debería estar cerca. [pause] Reproduzca su pista frente a ellos.

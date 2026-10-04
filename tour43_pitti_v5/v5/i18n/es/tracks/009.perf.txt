@@ -1,0 +1,26 @@
+@id: 009 · ES · v5.0 021 · old 033 · Room 22 · Sala della Stufa
+@section: Palatine
+@room: Room 22
+@type: R
+@title: Sala della Stufa — El baño caliente del gran duque
+@where: En la Sala della Stufa, la pequeña sala después de la Sala dell'Educazione di Giove, justo antes de la puerta al atrio de la Escalera del Moro y la Sala dell'Iliade. Colóquese en el centro para poder girarse hacia cada pared.
+@what: Pietro da Cortona's wall frescoes of the Four Ages of Man, Golden and Silver Ages 1637, Bronze and Iron Ages 1641; the ceiling is by Cinganelli, Rosselli and Vannini.
+@listen: The Grand Duke's private heated bath, the fresco cycle that brought a new style to Florence, and where to go next.
+@brief: Letting a friend in on a royal secret, then turning slowly through four walls as a golden world darkens; conspiratorial, then absorbed, plain and clear at the route note.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/stove-room ; findings G2 (033 rows) and G6_ROUTE §1.2 + N21 (Stufa → Moro atrium → Iliad; Iliad detour); https://www.uffizi.it/en/notices/palazzo-pitti-tempranea-chiusura-della-sala-delliliade
+@lang: es
+@translation: from the fact-checked English V5.1 009 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Este era el baño caliente privado del gran duque.
+
+Empezó como una galería abierta. En el siglo diecisiete se cerró y se volvió una stufa, un baño caldeado a la manera de los antiguos romanos. [pause] Estaba reservado al gran duque Fernando Segundo, junto a su dormitorio.
+
+Para decorarlo, llamó a Pietro da Cortona, el pintor de los techos planetarios. Aquí empezó su colaboración. Cortona pintó las Cuatro Edades del Hombre, de Ovidio, una por pared. Primero las de Oro y Plata, en 1637. [pause] Volvió en 1641 para las de Bronce y Hierro.
+
+[warmly] Empiece por la Edad de Oro, la más feliz de las cuatro. La gente vive en paz, la tierra da sus frutos, y nadie lleva armas. Es adulación, claro. La escena celebra el gobierno pacífico de Fernando. Y su boda, ese mismo año, con Vittoria della Rovere. Su apellido significa «del roble». Y su heráldica familiar aparece en este mundo feliz.
+
+Luego recorra las otras edades y vea cómo todo se tuerce. En las de Bronce y Hierro, ya llegó la guerra. [pause] Estas paredes trajeron a Florencia una pintura más ligera y más teatral. A Fernando le gustó lo que vio. Pronto, Cortona pintaba los techos de los salones de gala.
+
+Siga por la puerta al atrio de la Escalera del Moro, hasta la Sala dell'Iliade. Su pista empieza allí. Si la Sala de la Ilíada está cerrada, el personal le hará volver por las salas que acaba de ver, hasta la Sala de Júpiter. En ese caso, reproduzca la pista de cada sala al entrar.

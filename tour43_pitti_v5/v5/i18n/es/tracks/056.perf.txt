@@ -1,0 +1,24 @@
+@id: 056 · ES · v5.0 074 · old 087 · Stop 8
+@section: Boboli
+@room: Stop 8
+@type: W
+@title: Giambologna y Pietro Tacca: la Abundancia
+@where: A los pies de la colosal estatua de la Abundancia, en lo alto del eje central, justo debajo del Jardín del Caballero. Si la estatua está vallada por restauración, contémplela desde el sendero más cercano. Dese la vuelta para mirar colina abajo, hacia el palacio.
+@what: Abundance, a colossal marble begun by Giambologna and completed after his death by his pupil Pietro Tacca, set up here in 1637. She holds a sheaf of wheat and a horn of plenty.
+@listen: How a portrait of a grand duchess may have become an allegory, and why she stands exactly here.
+@brief: A friend at the top of the hill, catching their breath and enjoying a good story; curious about her origins, warm at the view, quietly thoughtful at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://catalogue.museogalileo.it/indepth/BoboliGarden.html (installed 1636; superseded by catalogo.beniculturali.it 0900289222: moved to the hill 12 Apr 1637) ; https://www.visittuscany.com/en/ideas/boboli-gardens-the-green-heart-of-florence/ (Joanna's face) ; https://uffizi.it/en/boboli-garden/history ; old script + findings G5, G6 §1.7
+@lang: es
+@translation: from the fact-checked English V5.1 056 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Quizá ni siquiera nació como Abundancia. Se cuenta que esta mujer colosal empezó como el retrato de una mujer real: Juana de Austria, archiduquesa de los Habsburgo y esposa del gran duque Francisco Primero. Al menos el rostro, dicen, sigue siendo el suyo.
+
+El escultor fue Giambologna, el maestro nacido en Flandes que dominó la escultura florentina a finales del siglo dieciséis. Empezó la figura, y murió en 1608 sin terminarla. [pause] Su alumno Pietro Tacca la continuó. En algún momento, el retrato se volvió alegoría. Le dieron una gavilla de trigo y un cuerno de la abundancia. Así se convirtió en la Abundancia: la promesa de buenas cosechas bajo un gobernante sabio.
+
+En 1637 la colocaron aquí, en el punto más alto de la línea central del jardín. [warmly] Y ese lugar es la clave. Dese la vuelta y mire colina abajo. El jardín se trazó a lo largo de esta única línea recta. Sale del patio del palacio, pasa por la Fuente de la Alcachofa, atraviesa el anfiteatro y su obelisco, pasa junto a Neptuno y sube hasta aquí. [pause] Ella es el punto final de la frase.
+
+[quietly] Imagine quién estuvo aquí antes que usted. Un gran duque, mirando su palacio y su ciudad, con una figura gigante de la abundancia a su espalda. [pause] Así querían ser vistos los Médici. Ricos, generosos y dueños absolutos de la vista.
+
+Desde aquí, vaya hacia el oeste por lo alto de la colina, hasta el comienzo de la gran avenida de cipreses, el Viottolone. Empiece a bajar por ella, y reproduzca su pista ya bajo los cipreses.

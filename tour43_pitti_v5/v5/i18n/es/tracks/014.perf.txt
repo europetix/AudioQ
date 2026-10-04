@@ -1,0 +1,26 @@
+@id: 014 · ES · v5.0 026 · old 020 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: R
+@title: Sala di Saturno — La sala de Rafael
+@where: En la Sala di Saturno, la primera de las cinco Salas de los Planetas en el recorrido habitual. Colóquese en el centro, donde pueda ver el techo y los Rafael de las paredes.
+@what: A grand reception room under Ciro Ferri's ceiling of an aged prince led up to Saturn, god of Time, to be crowned by Fame; on the walls, the heart of the Pitti's Raphael collection.
+@listen: What this room meant in the Medici court, what the ceiling says, and how the room lets you follow Raphael from young Florentine painter to papal star.
+@brief: A friend arriving in the room they've been looking forward to; warm, a little hushed with anticipation, a wry smile at walking the story backwards.
+@pace: medium-slow
+@energy: 3→4
+@sources: https://www.uffizi.it/en/online-exhibitions/saturn-room-in-pitti-palace (ceiling by Ciro Ferri, pupil of Pietro da Cortona; subject; Medici order Venus→Saturn; one age of the prince per room; last Planet Room and first of the Grand Duke's private apartments) ; https://www.uffizi.it/en/notices/palatine-gallery-maintenance-work (Saturn closed only until 16 June 2026; open now) ; https://uffizi.it/en/artworks/madonna-del-granduca (Raphael in Florence 1504–08) ; findings G1 (closure line deleted; "many routes" for the Raphaels replacing the della Rovere claim)
+@lang: es
+@translation: from the fact-checked English V5.1 014 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Con tiempo para una sola sala de este palacio, mucha gente elegiría esta. [pause] Aquí puede ver crecer a Rafael.
+
+Llegó a Florencia con poco más de veinte años. Algunos retratos y Madonas que pintó allí cuelgan en estas paredes. También obras posteriores, de Roma, como pintor del propio papa. Rafael murió a los treinta y siete años. Buena parte de esa corta carrera cabe en esta sala.
+
+Los cuadros llegaron por muchos caminos. El encargo de un papa Médici. La compra de un gran duque. Un retablo comprado para una capilla de una pequeña catedral toscana, y luego otra vez, por un príncipe Médici.
+
+[pause] Ahora mire hacia arriba. El techo es obra de Ciro Ferri, discípulo de Pietro da Cortona. Cierra una historia que recorre las cinco Salas de los Planetas. Cada sala es una edad en la vida de un príncipe ideal. Renunciar al placer, en Venus. Aprender, en Apolo. La guerra, en Marte. El buen gobierno, en Júpiter. Y aquí, al final, la vejez. El príncipe, con su vida terrenal casi acabada, sube a los cielos. [pause] Saturno, el dios del Tiempo, lo espera. Y la Fama está lista con una corona.
+
+Con los Médici, los invitados empezaban en Venus, y la serie terminaba aquí, en Saturno. Era la primera de las salas privadas del gran duque, justo después del salón del trono. [wry] Hoy el recorrido va al revés. Usted conoce primero la vejez y termina con la juventud y Venus.
+
+Seis pistas de esta sala son para Rafael. Empiece por el cuadro redondo de una madre que abraza a su hijo, la Madonna della Seggiola.

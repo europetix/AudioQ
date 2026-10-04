@@ -1,0 +1,24 @@
+@id: 059 · ES · v5.0 077 · old 090 · Stop 11
+@section: Boboli
+@room: Stop 11
+@type: R
+@title: La Limonaia
+@where: Frente a la Limonaia, la larga y baja casa de los limones, en el lado oeste del jardín, el de la Via Romana, al norte del Isolotto, hacia el palacio. Sus rejas están cerradas por restauración. Contémplela desde fuera. La puerta de Annalena está cerca.
+@what: The Lemon House, built 1777–78 by Zanobi del Rosso for Pietro Leopoldo on the site of Cosimo III's menagerie, enlarged by Giuseppe Cacialli in 1816. About 106 metres long and facing south, it shelters some 500 potted citrus trees through the winter.
+@listen: From a grand-ducal zoo to a winter home for lemons, and the Medici passion for strange citrus.
+@brief: A friend with a soft spot for eccentric collectors; curious at the zoo, warm and amused about the citrus obsession, easy at the send-off.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/lemon-house ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, Limonaia gates closed) ; https://en.wikipedia.org/wiki/Bizzarria ; old script + findings G5, G6 §1.7
+@lang: es
+@translation: from the fact-checked English V5.1 059 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Antes de los limoneros, aquí hubo un zoológico. Cosme Tercero tuvo aquí animales exóticos desde finales del siglo diecisiete. Un siglo después, el gran duque Pedro Leopoldo la desmanteló. Su arquitecto, Zanobi del Rosso, el mismo del Kaffeehaus, construyó esto en su lugar. [pause] La Limonaia, la casa de los limones.
+
+Ahora está cerrada por restauración, así que la verá desde fuera. Es larga y baja, de más de cien metros, y mira al sur para captar el sol de invierno. [pause] Cada otoño, unos quinientos cítricos en maceta entran aquí a resguardo del frío. Cada primavera, vuelven a salir al jardín.
+
+¿Por qué tanto esfuerzo? [warmly] Los Médici estaban obsesionados con los cítricos. Reunieron una de las grandes colecciones de limones, naranjas y cidras de Europa. Eran un símbolo de estatus. Eran exóticos, difíciles de mantener vivos en un invierno toscano, y daban fruto, flores y aroma a la vez. [pause] Un soberano con árboles cargados de fruta en enero presumía de dominar la naturaleza.
+
+[amused] Y lo que más les gustaba eran las rarezas. La más famosa era la Bizzarria, un solo árbol cuyos frutos mezclan cidra y naranja amarga. Algunas de esas viejas variedades aún sobreviven en las colecciones de los Médici.
+
+Desde aquí, la puerta de Annalena, que da a la Via Romana, está cerca. O siga la avenida hacia el norte, de vuelta al palacio. Elija la puerta que elija, reproduzca la pista Salidas del jardín mientras se dirige a ella.

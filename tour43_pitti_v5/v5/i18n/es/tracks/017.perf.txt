@@ -1,0 +1,30 @@
+@id: 017 · ES · v5.0 029 · old 022 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: W
+@title: Rafael — El papa León X con dos cardenales
+@where: En la Sala di Saturno, delante del gran retrato oscuro de un papa sentado a una mesa, con un cardenal de pie a cada lado, detrás de él. Acérquese lo suficiente para ver el pomo dorado del respaldo de su silla.
+@what: Raphael, Portrait of Pope Leo X with Cardinals Giulio de' Medici and Luigi de' Rossi, oil on panel, 1518.
+@listen: Who the pope and his two cousins were, the book and the magnifying glass on his table, and the tiny reflection that made the painting famous.
+@brief: Letting a friend in on a power portrait and its showpiece trick; amused about the pope, curious at the book, quietly impressed by the reflection, a dry final line.
+@pace: medium
+@energy: 3→4→3
+@sources: https://uffizi.it/en/events/leonex-restoration (cardinals Giulio de' Medici and Luigi de' Rossi, his cousins; Opificio restoration from autumn 2017; underdrawing by Raphael, pope revisited freehand; magnifying glass and possible short sight; Neapolitan codex, mid-14th century, Orimina, now in Berlin; to be shown in the Saturn Room) ; findings G1 (cardinal positions corrected: Giulio LEFT, Rossi RIGHT with hand on chair; Rossi's cause of death dropped; Vasari and the finial reflection confirmed) ; old script (1518; Leo's "enjoy the papacy" line, framed as report)
+@lang: es
+@translation: from the fact-checked English V5.1 017 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] El hombre de la mesa fue, probablemente, el mecenas más pródigo de Europa. Y el detalle del que todos hablan en su retrato es un reflejo en el pomo de su silla.
+
+Es Giovanni de' Medici, hijo de Lorenzo el Magnífico, florentino hasta la médula. En 1513 se convirtió en el papa León Décimo. Es el papa que excomulgó a Martín Lutero. Y gastó en arte y placeres a lo grande. Al ser elegido, habría dicho: Dios nos ha dado el papado, disfrutémoslo. O eso cuentan los cronistas. [pause] Lo dijera o no, así vivió.
+
+Rafael lo pintó en 1518, dos años antes de su propia muerte. Detrás hay dos cardenales, ambos primos suyos. A la izquierda, Giulio de' Medici, el futuro papa Clemente Séptimo. A la derecha, con la mano en la silla del papa, Luigi de' Rossi, que murió al año siguiente.
+
+[curious] Ahora, la mesa. El papa tiene delante un manuscrito iluminado abierto. Acaba de levantar de la página una lupa con montura de oro. Quizá indica que era miope. Sin duda dice que amaba los libros. Ese manuscrito es real. Se hizo en Nápoles en el siglo catorce. Y hoy se conserva en un museo de Berlín.
+
+[pause] Acérquese más, al pomo dorado del respaldo, tras su hombro. En su superficie pulida, Rafael pintó un diminuto reflejo de la ventana de la sala. Vasari escribió sobre este cuadro una generación después. Y destacó ese detalle como prueba de lo que Rafael era capaz de hacer.
+
+Durante mucho tiempo, algunos expertos creyeron que el taller de Rafael añadió después a los cardenales. Luego, el gran laboratorio de restauración de Florencia pasó más de dos años restaurándolo. Las imágenes infrarrojas mostraron todo el grupo dibujado debajo, en el dibujo preparatorio del propio Rafael. Y la figura del papa, retocada a mano alzada.
+
+[wry] Un papa, el futuro de su familia y una ventana atrapada en una bola de oro. Rafael estaba presumiendo. [pause] Y se lo había ganado.
+
+Ahora busque un cuadro pequeño y muy oscuro de la Virgen de pie, con su hijo en brazos. Es la Madonna del Granduca.

@@ -1,0 +1,26 @@
+@id: 052 · ES · v5.0 069 · old 081 · Stop 4
+@section: Boboli
+@room: Stop 4
+@type: R
+@title: La Grotta di Madama
+@where: Por encima y detrás de la Grotta Grande, en el pequeño Giardino di Madama, junto al antiguo muro del convento. Se llega por los estrechos senderos laterales. La gruta suele estar cerrada, así que se ve desde fuera.
+@what: The Grotta di Madama, the oldest grotto in Boboli, built 1553–55 under Davide Fortini, Tribolo's son-in-law: an artificial-rock front in a stone frame with a white-marble doorway; inside, animal sculptures among stalactites and a vault painted with grotesques.
+@listen: The garden's first grotto, why Renaissance gardens wanted artificial caves, and who "Madama" was.
+@brief: A short, easy aside on a quiet side path; light and conversational, a moment of curiosity about why caves, then pointing onward.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/madama-grotto-grotta-di-madama ; https://uffizi.it/en/boboli-garden/history ; https://cultura.gov.it/evento/gep-2022-apertura-con-visite-accompagnate-alla-grotticina-di-madama-nel-giardino-di-boboli ; old script + findings G5, G6 §1.7
+@lang: es
+@translation: from the fact-checked English V5.1 052 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Acaba de ver la gruta famosa. Esta es la pequeña de la que nació. La Grotta di Madama es la gruta más antigua del jardín. Se hizo entre 1553 y 1555, bajo Davide Fortini, yerno de Tribolo, el primer diseñador del jardín.
+
+Suele estar cerrada, salvo en ocasiones especiales. Lo más probable es que la vea desde fuera. Mire la fachada. Un muro de roca artificial, en un marco de piedra con frontón. En el centro, una pequeña puerta enmarcada en mármol blanco. [pause] La naturaleza salvaje, dentro de un marco clásico.
+
+[curious] Dentro, las paredes son rugosas como una esponja, con estalactitas. Animales esculpidos, como cabras y carneros, emergen de la roca alrededor de una pila. Bandinelli talló la cabra central. La bóveda se pintó con grutescos.
+
+¿Por qué un jardín renacentista necesitaba cuevas falsas? La respuesta viene de la antigua Roma. Las villas romanas tenían ninfeos: grutas frescas y umbrías, con agua, donde se imaginaba a las ninfas de fuentes y bosques. Los florentinos, que redescubrían la Antigüedad, quisieron los suyos. Una gruta era refugio en un día caluroso, teatro y debate sobre naturaleza y arte, todo a la vez.
+
+[pause] El nombre llegó después. Según el museo, probablemente viene de María Magdalena de Austria, esposa de Cosme Segundo. Su escudo de los Habsburgo estaba en la puerta de madera de la gruta.
+
+[warmly] Fortini hizo el primer intento, modesto. Treinta años después, Buontalenti tomó la misma idea y la dejó desbordarse, justo debajo de usted. Desde aquí, suba y cruce hasta el gran anfiteatro, detrás del palacio. [pause] Reproduzca su pista desde el sendero de su borde.

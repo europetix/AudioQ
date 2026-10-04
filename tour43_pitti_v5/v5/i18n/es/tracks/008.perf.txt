@@ -1,0 +1,28 @@
+@id: 008 · ES · v5.0 020 · old 032 · Room 21 · Caravaggio — Sleeping Cupid
+@section: Palatine
+@room: Room 21
+@type: W
+@title: Caravaggio — Cupido dormido
+@where: Suele estar en la Sala dell'Educazione di Giove, cerca de la Judit de Allori. Si no está en la pared, pregunte al personal de sala dónde se expone ahora. Acérquese.
+@what: Caravaggio, Sleeping Cupid, 1608, oil on canvas, about 72 × 105 cm: a small winged child asleep in the dark, his bow and arrows set aside.
+@listen: A painting that reached Florence while its painter was on the run, and why this Cupid is not as sweet as he looks.
+@brief: Telling a fugitive's story quietly to a friend at arm's length from a small dark canvas; hushed, absorbed, honest about what nobody knows.
+@pace: slow
+@energy: 2→3→2
+@sources: findings G2 (032 row: sent to Florence 1609 while Caravaggio was alive, sonnets, Medici acquisition later via Cardinal Leopoldo c. 1667, Tier 2 arte.it and Univ. of Malta OAR PDF; confirmed: 1608, Malta, dell'Antella, 72×105, Porto Ercole 1610; room per culturaitalia.it (MiC MuseiD-Italia, work 64104: Sala dell'Educazione di Giove, inv. 1912 no. 183), searched 5 Oct 2026, not re-fetched); old script
+@lang: es
+@translation: from the fact-checked English V5.1 008 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Este pequeño cuadro llegó a Florencia mientras su autor huía de la justicia.
+
+Caravaggio lo pintó en 1608, en la isla de Malta. Dos años antes había matado a un hombre en Roma. Huyó con precio sobre su cabeza. En Malta lo acogieron y lo admitieron entre los Caballeros de Malta. Uno de sus compañeros era un florentino, fray Francesco dell'Antella. Este Cupido se pintó para él.
+
+[pause] Luego todo volvió a torcerse. Caravaggio fue encarcelado allí, escapó a Sicilia y volvió a vivir como fugitivo. Mientras tanto, en el verano de 1609, dell'Antella ya había enviado el cuadro a la casa de su hermano en Florencia. Causó sensación. Los poetas le escribieron sonetos. Mientras Florencia admiraba su Cupido, Caravaggio seguía huyendo por el sur. Murió al año siguiente, en Porto Ercole, en la costa toscana. Los Médici adquirieron el cuadro más tarde, en ese mismo siglo.
+
+Mire de cerca, porque no es el cuadro dulce que promete el título. El tema es antiguo: el Amor dormido, con sus armas a un lado. Pero este niño está demasiado flaco. Se le ven las costillas. Su piel es pálida, casi gris, con un tono verdoso en las sombras. Tiene la boca abierta y la cabeza caída hacia atrás. [long pause] [quietly] Algunos se han preguntado si Caravaggio pintó a un niño enfermo, o incluso muerto. Nadie lo sabe.
+
+Mire la luz. Un solo haz duro ilumina la cara y el pecho. Lo demás se pierde en la oscuridad. [pause] Es el gran truco de Caravaggio, el que cambió la pintura europea, en una sola imagen silenciosa.
+
+[reverent] El Amor, agotado e indefenso. Desde ahí, está usted tan cerca que podría despertarlo.
+
+La siguiente sala del recorrido es la Sala della Stufa. Su pista empieza allí.
