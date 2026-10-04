@@ -1,0 +1,308 @@
+{
+  "tour": "Musée de l'Orangerie",
+  "language": "English",
+  "voice": "en-US-BrianMultilingualNeural",
+  "rate": "-8%",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Welcome — The Orangery in the Garden",
+      "script": "scripts/Track_01_Welcome_The_Orangery_in_the_Garden.txt",
+      "mp3": "Track_01_Welcome_The_Orangery_in_the_Garden.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART I — ARRIVAL & THE BUILDING",
+      "word_count": 447
+    },
+    {
+      "track": 2,
+      "title": "The Glass Wall & the Stone Wall",
+      "script": "scripts/Track_02_The_Glass_Wall_the_Stone_Wall.txt",
+      "mp3": "Track_02_The_Glass_Wall_the_Stone_Wall.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART I — ARRIVAL & THE BUILDING",
+      "word_count": 399
+    },
+    {
+      "track": 3,
+      "title": "From Citrus Trees to Monet",
+      "script": "scripts/Track_03_From_Citrus_Trees_to_Monet.txt",
+      "mp3": "Track_03_From_Citrus_Trees_to_Monet.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART I — ARRIVAL & THE BUILDING",
+      "word_count": 491
+    },
+    {
+      "track": 4,
+      "title": "Stepping Into the First Oval Room — How to Look",
+      "script": "scripts/Track_04_Stepping_Into_the_First_Oval_Room_How_to_Look.txt",
+      "mp3": "Track_04_Stepping_Into_the_First_Oval_Room_How_to_Look.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 533
+    },
+    {
+      "track": 5,
+      "title": "Morning — The Eastern Composition",
+      "script": "scripts/Track_05_Morning_The_Eastern_Composition.txt",
+      "mp3": "Track_05_Morning_The_Eastern_Composition.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 501
+    },
+    {
+      "track": 6,
+      "title": "Setting Sun — Where Light Becomes Fire",
+      "script": "scripts/Track_06_Setting_Sun_Where_Light_Becomes_Fire.txt",
+      "mp3": "Track_06_Setting_Sun_Where_Light_Becomes_Fire.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 428
+    },
+    {
+      "track": 7,
+      "title": "Clouds — Reflection as Sky",
+      "script": "scripts/Track_07_Clouds_Reflection_as_Sky.txt",
+      "mp3": "Track_07_Clouds_Reflection_as_Sky.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 337
+    },
+    {
+      "track": 8,
+      "title": "Green Reflections — The Quiet Composition",
+      "script": "scripts/Track_08_Green_Reflections_The_Quiet_Composition.txt",
+      "mp3": "Track_08_Green_Reflections_The_Quiet_Composition.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 416
+    },
+    {
+      "track": 9,
+      "title": "Passing Through to the Second Oval Room",
+      "script": "scripts/Track_09_Passing_Through_to_the_Second_Oval_Room.txt",
+      "mp3": "Track_09_Passing_Through_to_the_Second_Oval_Room.mp3",
+      "minutes": "2:30",
+      "register": "STANDARD",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 285
+    },
+    {
+      "track": 10,
+      "title": "The Two Willows & Morning with Willows",
+      "script": "scripts/Track_10_The_Two_Willows_Morning_with_Willows.txt",
+      "mp3": "Track_10_The_Two_Willows_Morning_with_Willows.mp3",
+      "minutes": "4:30",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 516
+    },
+    {
+      "track": 11,
+      "title": "Tree Reflections & Clear Morning with Willows",
+      "script": "scripts/Track_11_Tree_Reflections_Clear_Morning_with_Willows.txt",
+      "mp3": "Track_11_Tree_Reflections_Clear_Morning_with_Willows.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 523
+    },
+    {
+      "track": 12,
+      "title": "Giverny, the War, the Cataracts",
+      "script": "scripts/Track_12_Giverny_the_War_the_Cataracts.txt",
+      "mp3": "Track_12_Giverny_the_War_the_Cataracts.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART III — MONET, THE MAN",
+      "word_count": 629
+    },
+    {
+      "track": 13,
+      "title": "Going Downstairs — Paul Guillaume & Domenica Walter",
+      "script": "scripts/Track_13_Going_Downstairs_Paul_Guillaume_Domenica_Walter.txt",
+      "mp3": "Track_13_Going_Downstairs_Paul_Guillaume_Domenica_Walter.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 543
+    },
+    {
+      "track": 14,
+      "title": "Renoir — Yvonne and Christine Lerolle at the Piano",
+      "script": "scripts/Track_14_Renoir_Yvonne_and_Christine_Lerolle_at_the_Piano.txt",
+      "mp3": "Track_14_Renoir_Yvonne_and_Christine_Lerolle_at_the_Piano.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 590
+    },
+    {
+      "track": 15,
+      "title": "Cézanne — The Portraits & Still Lifes",
+      "script": "scripts/Track_15_Cezanne_The_Portraits_Still_Lifes.txt",
+      "mp3": "Track_15_Cezanne_The_Portraits_Still_Lifes.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 579
+    },
+    {
+      "track": 16,
+      "title": "Le Rocher Rouge — The Landscape That Changed Painting",
+      "script": "scripts/Track_16_Le_Rocher_Rouge_The_Landscape_That_Changed_Painting.txt",
+      "mp3": "Track_16_Le_Rocher_Rouge_The_Landscape_That_Changed_Painting.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 470
+    },
+    {
+      "track": 17,
+      "title": "Henri Rousseau — The Wedding & Father Junier's Cart",
+      "script": "scripts/Track_17_Henri_Rousseau_The_Wedding_Father_Junier_s_Cart.txt",
+      "mp3": "Track_17_Henri_Rousseau_The_Wedding_Father_Junier_s_Cart.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 630
+    },
+    {
+      "track": 18,
+      "title": "Rousseau's Jungles — The Snake Charmer & The Customs Officer",
+      "script": "scripts/Track_18_Rousseau_s_Jungles_The_Snake_Charmer_The_Customs_Officer.txt",
+      "mp3": "Track_18_Rousseau_s_Jungles_The_Snake_Charmer_The_Customs_Officer.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 559
+    },
+    {
+      "track": 19,
+      "title": "Rousseau's Ambition — What 'The Ambition of Painting' Means",
+      "script": "scripts/Track_19_Rousseau_s_Ambition_What_The_Ambition_of_Painting_Means.txt",
+      "mp3": "Track_19_Rousseau_s_Ambition_What_The_Ambition_of_Painting_Means.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 577
+    },
+    {
+      "track": 20,
+      "title": "Picasso — Twelve Works, Two Periods",
+      "script": "scripts/Track_20_Picasso_Twelve_Works_Two_Periods.txt",
+      "mp3": "Track_20_Picasso_Twelve_Works_Two_Periods.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 467
+    },
+    {
+      "track": 21,
+      "title": "The Embrace & Large Bather",
+      "script": "scripts/Track_21_The_Embrace_Large_Bather.txt",
+      "mp3": "Track_21_The_Embrace_Large_Bather.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 455
+    },
+    {
+      "track": 22,
+      "title": "Matisse — The Three Sisters Triptych",
+      "script": "scripts/Track_22_Matisse_The_Three_Sisters_Triptych.txt",
+      "mp3": "Track_22_Matisse_The_Three_Sisters_Triptych.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 588
+    },
+    {
+      "track": 23,
+      "title": "Modigliani — Five Portraits, One Long Loneliness",
+      "script": "scripts/Track_23_Modigliani_Five_Portraits_One_Long_Loneliness.txt",
+      "mp3": "Track_23_Modigliani_Five_Portraits_One_Long_Loneliness.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 669
+    },
+    {
+      "track": 24,
+      "title": "Soutine — The Pastry Cook, Page Boy, Carcass of Beef",
+      "script": "scripts/Track_24_Soutine_The_Pastry_Cook_Page_Boy_Carcass_of_Beef.txt",
+      "mp3": "Track_24_Soutine_The_Pastry_Cook_Page_Boy_Carcass_of_Beef.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 634
+    },
+    {
+      "track": 25,
+      "title": "Derain, Laurencin & Utrillo — The Quieter Voices",
+      "script": "scripts/Track_25_Derain_Laurencin_Utrillo_The_Quieter_Voices.txt",
+      "mp3": "Track_25_Derain_Laurencin_Utrillo_The_Quieter_Voices.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 532
+    },
+    {
+      "track": 26,
+      "title": "Coming Back Up — The Second Visit",
+      "script": "scripts/Track_26_Coming_Back_Up_The_Second_Visit.txt",
+      "mp3": "Track_26_Coming_Back_Up_The_Second_Visit.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART V — RETURN TO THE WATER LILIES",
+      "word_count": 406
+    },
+    {
+      "track": 27,
+      "title": "What Monet Built Here — The Oval Rooms as Architecture",
+      "script": "scripts/Track_27_What_Monet_Built_Here_The_Oval_Rooms_as_Architecture.txt",
+      "mp3": "Track_27_What_Monet_Built_Here_The_Oval_Rooms_as_Architecture.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART V — RETURN TO THE WATER LILIES",
+      "word_count": 514
+    },
+    {
+      "track": 28,
+      "title": "Sitting in the Silence — One Last Look",
+      "script": "scripts/Track_28_Sitting_in_the_Silence_One_Last_Look.txt",
+      "mp3": "Track_28_Sitting_in_the_Silence_One_Last_Look.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART V — RETURN TO THE WATER LILIES",
+      "word_count": 464
+    },
+    {
+      "track": 29,
+      "title": "Walking Out — The Tuileries, the Concorde, the Seine",
+      "script": "scripts/Track_29_Walking_Out_The_Tuileries_the_Concorde_the_Seine.txt",
+      "mp3": "Track_29_Walking_Out_The_Tuileries_the_Concorde_the_Seine.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART VI — CLOSING",
+      "word_count": 443
+    },
+    {
+      "track": 30,
+      "title": "Practical Info & Goodbye",
+      "script": "scripts/Track_30_Practical_Info_Goodbye.txt",
+      "mp3": "Track_30_Practical_Info_Goodbye.mp3",
+      "minutes": "2:30",
+      "register": "STANDARD",
+      "section": "PART VI — CLOSING",
+      "word_count": 523
+    }
+  ]
+}

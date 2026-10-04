@@ -1,0 +1,308 @@
+{
+  "tour": "Musée de l'Orangerie",
+  "language": "Español (castellano)",
+  "voice": "es-ES-AlvaroNeural",
+  "rate": "-8%",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Bienvenida — La Orangerie en el jardín",
+      "script": "scripts/Pista_01_Bienvenida_La_Orangerie_en_el_jardin.txt",
+      "mp3": "Pista_01_Bienvenida_La_Orangerie_en_el_jardin.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART I — ARRIVAL & THE BUILDING",
+      "word_count": 468
+    },
+    {
+      "track": 2,
+      "title": "El muro de cristal y el muro de piedra",
+      "script": "scripts/Pista_02_El_muro_de_cristal_y_el_muro_de_piedra.txt",
+      "mp3": "Pista_02_El_muro_de_cristal_y_el_muro_de_piedra.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART I — ARRIVAL & THE BUILDING",
+      "word_count": 424
+    },
+    {
+      "track": 3,
+      "title": "De los naranjos a Monet",
+      "script": "scripts/Pista_03_De_los_naranjos_a_Monet.txt",
+      "mp3": "Pista_03_De_los_naranjos_a_Monet.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART I — ARRIVAL & THE BUILDING",
+      "word_count": 511
+    },
+    {
+      "track": 4,
+      "title": "Entrando en la primera sala ovalada — cómo mirar",
+      "script": "scripts/Pista_04_Entrando_en_la_primera_sala_ovalada_como_mirar.txt",
+      "mp3": "Pista_04_Entrando_en_la_primera_sala_ovalada_como_mirar.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 546
+    },
+    {
+      "track": 5,
+      "title": "Matin — La composición del este",
+      "script": "scripts/Pista_05_Matin_La_composicion_del_este.txt",
+      "mp3": "Pista_05_Matin_La_composicion_del_este.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 503
+    },
+    {
+      "track": 6,
+      "title": "Soleil couchant — donde la luz se vuelve fuego",
+      "script": "scripts/Pista_06_Soleil_couchant_donde_la_luz_se_vuelve_fuego.txt",
+      "mp3": "Pista_06_Soleil_couchant_donde_la_luz_se_vuelve_fuego.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 452
+    },
+    {
+      "track": 7,
+      "title": "Les Nuages — el reflejo como cielo",
+      "script": "scripts/Pista_07_Les_Nuages_el_reflejo_como_cielo.txt",
+      "mp3": "Pista_07_Les_Nuages_el_reflejo_como_cielo.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 353
+    },
+    {
+      "track": 8,
+      "title": "Reflets verts — la composición silenciosa",
+      "script": "scripts/Pista_08_Reflets_verts_la_composicion_silenciosa.txt",
+      "mp3": "Pista_08_Reflets_verts_la_composicion_silenciosa.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 434
+    },
+    {
+      "track": 9,
+      "title": "Pasando a la segunda sala ovalada",
+      "script": "scripts/Pista_09_Pasando_a_la_segunda_sala_ovalada.txt",
+      "mp3": "Pista_09_Pasando_a_la_segunda_sala_ovalada.mp3",
+      "minutes": "2:30",
+      "register": "STANDARD",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 305
+    },
+    {
+      "track": 10,
+      "title": "Les Deux Saules y Le Matin aux saules — la pared larga",
+      "script": "scripts/Pista_10_Les_Deux_Saules_y_Le_Matin_aux_saules_la_pared_larga.txt",
+      "mp3": "Pista_10_Les_Deux_Saules_y_Le_Matin_aux_saules_la_pared_larga.mp3",
+      "minutes": "4:30",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 554
+    },
+    {
+      "track": 11,
+      "title": "Reflets d'arbres y Le Matin clair aux saules — cerrando el círculo",
+      "script": "scripts/Pista_11_Reflets_d_arbres_y_Le_Matin_clair_aux_saules_cerrando_el_circulo.txt",
+      "mp3": "Pista_11_Reflets_d_arbres_y_Le_Matin_clair_aux_saules_cerrando_el_circulo.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART II — THE WATER LILIES, FIRST PASS",
+      "word_count": 538
+    },
+    {
+      "track": 12,
+      "title": "Giverny, la guerra, las cataratas",
+      "script": "scripts/Pista_12_Giverny_la_guerra_las_cataratas.txt",
+      "mp3": "Pista_12_Giverny_la_guerra_las_cataratas.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART III — MONET, THE MAN",
+      "word_count": 656
+    },
+    {
+      "track": 13,
+      "title": "Bajando — Paul Guillaume y Domenica Walter",
+      "script": "scripts/Pista_13_Bajando_Paul_Guillaume_y_Domenica_Walter.txt",
+      "mp3": "Pista_13_Bajando_Paul_Guillaume_y_Domenica_Walter.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 566
+    },
+    {
+      "track": 14,
+      "title": "Renoir — Yvonne et Christine Lerolle au piano",
+      "script": "scripts/Pista_14_Renoir_Yvonne_et_Christine_Lerolle_au_piano.txt",
+      "mp3": "Pista_14_Renoir_Yvonne_et_Christine_Lerolle_au_piano.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 600
+    },
+    {
+      "track": 15,
+      "title": "Cézanne — los retratos y bodegones",
+      "script": "scripts/Pista_15_Cezanne_los_retratos_y_bodegones.txt",
+      "mp3": "Pista_15_Cezanne_los_retratos_y_bodegones.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 618
+    },
+    {
+      "track": 16,
+      "title": "Le Rocher Rouge — el paisaje que cambió la pintura",
+      "script": "scripts/Pista_16_Le_Rocher_Rouge_el_paisaje_que_cambio_la_pintura.txt",
+      "mp3": "Pista_16_Le_Rocher_Rouge_el_paisaje_que_cambio_la_pintura.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 507
+    },
+    {
+      "track": 17,
+      "title": "Henri Rousseau — La Noce y La Carriole du père Junier",
+      "script": "scripts/Pista_17_Henri_Rousseau_La_Noce_y_La_Carriole_du_pere_Junier.txt",
+      "mp3": "Pista_17_Henri_Rousseau_La_Noce_y_La_Carriole_du_pere_Junier.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 643
+    },
+    {
+      "track": 18,
+      "title": "Las selvas de Rousseau — el aduanero que pintaba paraísos",
+      "script": "scripts/Pista_18_Las_selvas_de_Rousseau_el_aduanero_que_pintaba_paraisos.txt",
+      "mp3": "Pista_18_Las_selvas_de_Rousseau_el_aduanero_que_pintaba_paraisos.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 606
+    },
+    {
+      "track": 19,
+      "title": "La ambición de Rousseau — qué significa « La Ambición de la Pintura »",
+      "script": "scripts/Pista_19_La_ambicion_de_Rousseau_que_significa_La_Ambicion_de_la_Pintura.txt",
+      "mp3": "Pista_19_La_ambicion_de_Rousseau_que_significa_La_Ambicion_de_la_Pintura.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 612
+    },
+    {
+      "track": 20,
+      "title": "Picasso — doce obras, dos períodos",
+      "script": "scripts/Pista_20_Picasso_doce_obras_dos_periodos.txt",
+      "mp3": "Pista_20_Picasso_doce_obras_dos_periodos.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 523
+    },
+    {
+      "track": 21,
+      "title": "L'Étreinte y Grande Baigneuse",
+      "script": "scripts/Pista_21_L_Etreinte_y_Grande_Baigneuse.txt",
+      "mp3": "Pista_21_L_Etreinte_y_Grande_Baigneuse.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 473
+    },
+    {
+      "track": 22,
+      "title": "Matisse — el tríptico de Les Trois Sœurs",
+      "script": "scripts/Pista_22_Matisse_el_triptico_de_Les_Trois_Surs.txt",
+      "mp3": "Pista_22_Matisse_el_triptico_de_Les_Trois_Surs.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 622
+    },
+    {
+      "track": 23,
+      "title": "Modigliani — cinco retratos, una larga soledad",
+      "script": "scripts/Pista_23_Modigliani_cinco_retratos_una_larga_soledad.txt",
+      "mp3": "Pista_23_Modigliani_cinco_retratos_una_larga_soledad.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 685
+    },
+    {
+      "track": 24,
+      "title": "Soutine — Le Petit Pâtissier, Le Groom, Le Bœuf écorché",
+      "script": "scripts/Pista_24_Soutine_Le_Petit_Patissier_Le_Groom_Le_Buf_ecorche.txt",
+      "mp3": "Pista_24_Soutine_Le_Petit_Patissier_Le_Groom_Le_Buf_ecorche.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 641
+    },
+    {
+      "track": 25,
+      "title": "Derain, Laurencin y Utrillo — las voces más quietas",
+      "script": "scripts/Pista_25_Derain_Laurencin_y_Utrillo_las_voces_mas_quietas.txt",
+      "mp3": "Pista_25_Derain_Laurencin_y_Utrillo_las_voces_mas_quietas.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART IV — WALTER-GUILLAUME COLLECTION",
+      "word_count": 560
+    },
+    {
+      "track": 26,
+      "title": "Volviendo arriba — la segunda visita",
+      "script": "scripts/Pista_26_Volviendo_arriba_la_segunda_visita.txt",
+      "mp3": "Pista_26_Volviendo_arriba_la_segunda_visita.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART V — RETURN TO THE WATER LILIES",
+      "word_count": 426
+    },
+    {
+      "track": 27,
+      "title": "Lo que Monet construyó aquí — las salas ovaladas como arquitectura",
+      "script": "scripts/Pista_27_Lo_que_Monet_construyo_aqui_las_salas_ovaladas_como_arquitectura.txt",
+      "mp3": "Pista_27_Lo_que_Monet_construyo_aqui_las_salas_ovaladas_como_arquitectura.mp3",
+      "minutes": "4:00",
+      "register": "ANCHOR",
+      "section": "PART V — RETURN TO THE WATER LILIES",
+      "word_count": 535
+    },
+    {
+      "track": 28,
+      "title": "Sentarse en el silencio — una última mirada",
+      "script": "scripts/Pista_28_Sentarse_en_el_silencio_una_ultima_mirada.txt",
+      "mp3": "Pista_28_Sentarse_en_el_silencio_una_ultima_mirada.mp3",
+      "minutes": "4:30",
+      "register": "HEAVY",
+      "section": "PART V — RETURN TO THE WATER LILIES",
+      "word_count": 471
+    },
+    {
+      "track": 29,
+      "title": "Saliendo — las Tullerías, la Concordia, el Sena",
+      "script": "scripts/Pista_29_Saliendo_las_Tullerias_la_Concordia_el_Sena.txt",
+      "mp3": "Pista_29_Saliendo_las_Tullerias_la_Concordia_el_Sena.mp3",
+      "minutes": "3:00",
+      "register": "STANDARD",
+      "section": "PART VI — CLOSING",
+      "word_count": 450
+    },
+    {
+      "track": 30,
+      "title": "Información práctica y despedida",
+      "script": "scripts/Pista_30_Informacion_practica_y_despedida.txt",
+      "mp3": "Pista_30_Informacion_practica_y_despedida.mp3",
+      "minutes": "2:30",
+      "register": "STANDARD",
+      "section": "PART VI — CLOSING",
+      "word_count": 560
+    }
+  ]
+}
