@@ -1,66 +1,60 @@
-# WRITER BRIEF — Pitti V5 test build (4 Oct 2026)
+# WRITER BRIEF — Orangerie V5 (5 Oct 2026)
 
-You are rewriting part of a walking audio guide to Palazzo Pitti + Boboli for a real user test.
-Visitors complained that (1) the voice is monotonous, (2) the order doesn't follow their path, and the audit
-found (3) ~210 factual/currency errors. The test uses the SAME free TTS voice, so everything that makes it
-sound human must come from YOUR writing and direction. Read, in this order:
-1. /home/claude/orangerie/v5/V5_AUDIO_STANDARD.md — the writing + direction standard (binding).
-2. /home/claude/orangerie/v5/calibration/016.perf.txt, 017.perf.txt, 083.perf.txt — the VOICE ANCHORS. Match
-   their register exactly: spoken, warm, composed; hook → story → turn → look → payoff; short varied sentences;
-   honest hedges in plain words; at most one wry aside. Not a lecture, not a stand-up act.
-3. /home/claude/orangerie/v5/PLAN.md — the new running order (NEW number, OLD source, room, next physical stop).
-4. For each of your tracks: the OLD source /home/claude/orangerie/tracks/<OLD>.txt and the audit findings in
-   /home/claude/orangerie/findings/ (G1 = old 001–024, G2 = 025–046, G3 = 047–069, G4 = 070–078,
-   G5 = 079–092, G6_ROUTE = route for everything). Apply EVERY correction and hedge the findings give for
-   your tracks. Where a finding says a claim is wrong or unverifiable, fix it or drop it.
+You are writing part of a NEW walking audio guide to the Musée de l'Orangerie, Paris (Water Lilies + Walter-Guillaume collection):
+55 tracks, about two hours. The client wants it to match or beat the museum's official audio guide on ACCURACY and to beat it on
+STORYTELLING. The old V4 guide was full of errors; it is NOT a source. The voice will be a free TTS voice (Microsoft "Ava"), so
+everything that makes it sound human comes from your writing and direction. DO NOT edit files outside your assigned tracks/notes.
+
+Read, in this order:
+1. /home/user/AudioQ/orangerie_v5/v5/V5_AUDIO_STANDARD.md — writing + direction standard (binding; ignore Pitti-specific examples).
+2. Voice anchors (match their register exactly — spoken, warm, composed; hook → story → turn → look → payoff; short varied
+   sentences; honest hedges; at most one wry aside; never a lecture):
+   /home/user/AudioQ/tour43_pitti_v5/v5/tracks/015.perf.txt, 021.perf.txt, 022.perf.txt, 053.perf.txt
+3. /home/user/AudioQ/orangerie_v5/v5/PLAN.md — running order, content per track, closing cue for each track.
+4. FACTS: /home/user/AudioQ/orangerie_v5/research/FACTS_A_renoir_cezanne_modigliani.md, FACTS_B_matisse_picasso_rousseau_laurencin.md,
+   FACTS_C_derain_soutine_utrillo_waterlilies.md and the audit /home/user/AudioQ/orangerie_v5/findings/G1–G5 (they list V4's
+   errors — never repeat them — and confirmed facts).
 
 ## Accuracy rules (non-negotiable)
-- Use only facts that are (a) in the old script AND not contradicted by the findings, or (b) stated in the
-  findings with a source, or (c) confirmed by you on an official page via WebFetch (uffizi.it etc.).
-  WebSearch is exhausted for this session — do not rely on it. Never invent a detail to make a story better.
-- Unverified-but-traditional stories are fine ONLY as clearly framed tradition ("the story goes…").
-- Placement: say where a work is only as precisely as the findings support.
-- No ticket prices, opening hours, booking instructions or temporary exhibitions in the spoken text.
-  Closures ONLY when navigation needs them, in one plain sentence (e.g. the Iliad detour line in PLAN 021).
-- No production jargon ("W-track", "track 12"). Never say "play the next track". Cues are self-contained:
-  name the next physical place ("The Sala di Giove is through the doorway ahead; play its track there.").
+- Every factual statement must come from a fact-sheet or findings line graded OFF or SEC2. WEAK, NONE, "contested" or
+  "do not use" items are forbidden. No web research is available (search quota exhausted) — do not invent, do not "remember".
+- Visual description ("look at…") only as the fact sheet describes the work. If the sheet has no description, keep looking-
+  instructions general and safe (colours/subject named in the title or official description only).
+- Legends / anecdotes only if sourced, and framed honestly ("the story goes", "he later said").
+- Placement: lower-level room order is unverified → name the artist's room ("in the room of Cézanne's paintings"), never left/right
+  downstairs. Water Lilies: use the walls PLAN gives as OFF; otherwise describe the composition so visitors recognise it.
+- Works that may be away (PLAN header): one plain hedge in @where and at most one short spoken line ("if it's away on loan…").
+- No opening hours, prices, tickets, temporary exhibitions, shop/café in speech. No "next track", no production jargon.
+  Closing cue = the physical next stop from PLAN, then "play its track there" (or a natural variant).
+- Quotes: only those a fact sheet gives verbatim with a grade; attribute exactly as the sheet says (e.g. Roger Marx 1909).
 
-## Writing rules (from the standard, highlighted)
+## Writing rules
 - Never open with a command. Open with a hook: a surprising fact, a person, a tension.
-- Length: R-INTRO 180–280 words · W-FOCUS 250–360 · ANCHOR/CLOSE 250–360 · merged overview tracks
-  (PLAN 047, 048, 062, 078) 220–320.
-- Average sentence 11–16 words; vary; max ~30. No parentheses, no semicolons, ≤2 em-dashes per track.
-- Direction tags: only the vocabulary in the standard — [pause] [long pause] [warmly] [quietly] [amused]
-  [curious] [conspiratorial] [reverent] [wry] [lightly] and *word* for stress. About one delivery tag per
-  paragraph, a pause before a reveal. Don't over-direct. Free voices perform tags as pace/volume/pitch
-  changes and real silences, so pauses carry most of the drama.
-- Numbers as spoken ("around 1512", "almost a century later"). Max ~3 dates per track.
+- Length: R 180–280 words · W 250–360 · ANCHOR/CLOSE 250–360.
+- Average sentence 11–16 words, vary, max ~30. No parentheses, no semicolons, ≤2 em-dashes per track.
+- Tags: only [pause] [long pause] [warmly] [quietly] [amused] [curious] [conspiratorial] [reverent] [wry] [lightly] and *word*.
+  About one delivery tag per paragraph; a pause before a reveal. Vary openers: do NOT start most tracks with [curious].
+- Numbers as spoken ("in nineteen fifteen" or "1915" both fine); max ~3 dates per track. Use French titles once with the English.
+- Variety across the guide: different hooks, not every track ending on an aphorism, no repeated jokes or formulas.
 
-## Output — one file per track: /home/claude/orangerie/v5/tracks/<NEW>.perf.txt (NEW = 3-digit PLAN number)
-```
-@id: <NEW> · old <OLD or NEW> · <room label>
-@section: <section name exactly as in PLAN: Opening | Palatine | Royal Apartments | Modern Art | Fashion and Costume | Russian Icons and Chapel | Boboli | Closing>
-@room: <display label, e.g. Room 24 · Stop 3 · Meeting point>
+## Output — one file per track: /home/user/AudioQ/orangerie_v5/v5/tracks/<NNN>.perf.txt
+@id: <NNN> · <room label>
+@section: <exactly: Opening | Water Lilies | Collectors | Renoir | Cézanne | Rousseau | Matisse | Picasso | Modigliani | Soutine | Derain | Finale | Closing>
+@room: <display label from PLAN, e.g. Room 1 · Renoir room · Lower level>
 @type: ANCHOR | R | W | CLOSE
-@title: <e.g. Raphael — Madonna della Seggiola>
-@where: <1–2 sentences: where to stand, written for a card — this is where spatial direction belongs>
-@what: <1–2 sentences: what the visitor sees; artist, title, date, medium if verified>
-@listen: <1 sentence: what the track is about>
-@brief: <one line: who is speaking, to whom, in what mood>
+@title: <e.g. Renoir — Jeunes filles au piano>
+@where: <1–2 sentences for a card: where to stand, how to recognise the work>
+@what: <1–2 sentences: artist, title (FR + EN), date, medium, size if sourced>
+@listen: <1 sentence>
+@brief: <one line: who speaks, to whom, mood>
 @pace: slow | medium-slow | medium | medium-fast
 @energy: e.g. 2→4
-@sources: <URLs backing the load-bearing facts, official first; or "old script + findings G#">
+@sources: <fact-sheet refs and the URLs they cite for the load-bearing facts, e.g. "FACTS_A Renoir — Jeunes filles au piano: https://www.musee-orangerie.fr/... (OFF)">
 ---
-<spoken body with direction tags, paragraphs separated by blank lines>
-```
-For the calibration tracks (PLAN 033, 034, 070) do NOT change the body — copy it verbatim from
-/home/claude/orangerie/v5/calibration/ and only add the missing header fields (@section @room @type @title
-@where @what @listen @sources). You may adjust ONLY its last route sentence if PLAN requires it.
+<spoken body with tags, paragraphs separated by blank lines>
 
-Also write /home/claude/orangerie/v5/notes/<range>_CHANGES.md: per track, one line per material change vs the old
-script (fact fixed + source, cue fixed, content cut/added, hedge added). This becomes the audit resolution log.
-
-Check yourself before finishing: run
-  python3 -c "import sys;sys.path.insert(0,'/home/claude/orangerie/v5/pipeline');import v5_direction as V,glob;[print(f,len(V.validate(f)[1].split())) for f in sorted(glob.glob('/home/claude/orangerie/v5/tracks/*.perf.txt'))]"
-and fix any error or out-of-range length in your files. Final reply: ≤8 lines (tracks written, anything you
-could not verify, anything the lead must decide).
+Also write /home/user/AudioQ/orangerie_v5/v5/notes/<range>_NOTES.md: per track, the facts used (one line each with sheet + grade) and
+anything you wanted to say but could not source.
+Self-check before finishing (fix every error / out-of-range length):
+  python3 -c "import sys,glob;sys.path.insert(0,'/home/user/AudioQ/orangerie_v5/v5/pipeline');import v5_direction as V;[print(f[-12:],len(V.validate(f)[1].split())) for f in sorted(glob.glob('/home/user/AudioQ/orangerie_v5/v5/tracks/*.perf.txt'))]"
+Final reply ≤8 lines: tracks written, word counts, anything you could not source.
