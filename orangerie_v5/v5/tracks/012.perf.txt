@@ -6,21 +6,21 @@
 @where: Room 2, the end wall at the back of the room, facing you as you come in from Room 1. It's the longest composition in the museum.
 @what: Claude Monet, Les Deux Saules (The Two Willows), from the Water Lilies cycle, 1914–1926, oil on canvas, four panels, 200 × 1700 cm.
 @listen: Why the longest painting in the museum sits at the far end of the walk, which way it faces, and how to find the two trees of the title.
-@brief: Arriving with a friend at the end of a long walk; hushed, then quietly enthusiastic, honest about what we can't know, gentle as you settle on a bench.
+@brief: Arriving with a friend at the end of a long walk; hushed, then quietly enthusiastic, gentle as you settle on a bench.
 @pace: medium-slow
 @energy: 2→3→2
-@sources: Size 200 × 1700, four panels, longest composition in the museum, 1914–1926: https://www.musee-orangerie.fr/en/artworks/les-deux-saules-196306 (OFF) + GAC https://artsandculture.google.com/asset/3AEQUJnQ8YnB_A (OFF) ; east end at the back of Room 2: 1944 archive caption https://www.hausderkunst.de/en/wandtexte-cyprien-gaillard-wassermusik (SEC1 in FACTS_C; SEC2 with RMN in G5) ; west entrance at the Concorde end: G5 (https://www.musee-orangerie.fr/en/node/24, OFF) ; vestibule marks the transition from the outside world; east–west orientation on the Louvre–Arc de Triomphe axis: https://www.musee-orangerie.fr/en/node/33 (OFF) ; Room 2 is the far end of the building (G5 SEC2) ; grief/war years: see 008 sources (SEC2)
+@sources: Size 200 × 1700, four panels, longest composition in the museum, 1914–1926: https://www.musee-orangerie.fr/en/artworks/les-deux-saules-196306 (OFF) + GAC https://artsandculture.google.com/asset/3AEQUJnQ8YnB_A (OFF) ; east end at the back of Room 2: 1944 archive caption https://www.hausderkunst.de/en/wandtexte-cyprien-gaillard-wassermusik (SEC1 in FACTS_C; SEC2 with RMN in G5) ; west entrance at the Concorde end: G5 (https://www.musee-orangerie.fr/en/node/24, OFF) ; "A vestibule … marks the transition from the outside world"; east–west orientation on the royal way from the Arc de Triomphe to the Louvre: https://www.musee-orangerie.fr/en/node/33 (OFF) ; Room 2 is the far end of the building (G5 SEC2) ; grief/war years: see 008 sources (SEC2)
 ---
-[quietly] You are now about as far from the traffic of the Place de la Concorde as this building lets you get. The entrance is back at the western end. Between you and the street lie an entrance hall, a whole oval room and a passage. The museum calls that entrance hall a transition from the outside world. By now, the outside world is a long way off.
+[quietly] You are now about as far from the traffic of the Place de la Concorde as this building lets you get. The entrance is back at the western end. Between you and the street lie an entrance hall, a whole oval room and a passage. The museum says a vestibule marks the transition from the outside world. By now, the outside world is a long way off.
 
-And at the end of the walk, Monet put this. Les Deux Saules, The Two Willows. It's the longest composition in the museum, seventeen metres of painting on four joined canvases, each two metres high. [pause] Laid out flat, it would be longer than a city bus. Wrapped around the end of the room, it hardly feels long at all. It feels as if the room simply carries on.
+And at the end of the walk, Monet put this. Les Deux Saules, The Two Willows. It's the longest composition in the museum, seventeen metres of painting on four joined canvases. [pause] Wrapped around the end of the room, it hardly feels long at all. It feels as if the room simply carries on.
 
-[curious] Keep going in your mind, straight through this wall, and you'd be travelling east along the great line of Paris, toward the Louvre. These rooms sit on that axis. So the longest painting in the building closes its eastern end, and looks back down the whole length toward the Arc de Triomphe.
+[curious] Keep going in your mind, straight through this wall, and you'd be travelling east along the great line of Paris, toward the Louvre. These rooms sit on that historic axis, the royal way that runs from the Louvre to the Arc de Triomphe. So the longest painting in the building closes its eastern end, and looks back down the whole length of the city.
 
 [warmly] Now find the trees. The title promises two willows, and nothing more. Walk the whole length, slowly, and look for them. When you think you have them, go back to the middle of the room and let the four canvases join up again into one picture.
 
-[amused] Seventeen metres of painting, and the title mentions just two trees. Finding them is your job. It may take longer than you expect.
+[amused] Seventeen metres of painting, and the title mentions just two trees. Finding them is your job.
 
-It's tempting to read weeping willows, painted in years of grief and war, as a kind of mourning. I won't claim Monet meant it that way. But standing here, it's hard not to think of it.
+It's tempting to read weeping willows, painted in years of grief and war, as a kind of mourning. That reading is ours, not his. But standing here, at the far end of everything he planned, it's hard not to feel it.
 
-[lightly] You've done a lot of walking. There's one more story in this room, and it's better heard sitting down. Find a bench in the middle of the room and play its track there.
+[lightly] You've done a lot of walking. There's one more story in this room, the one I promised at the door, and it's better heard sitting down. Find a bench in the middle of the room, and settle in.
