@@ -4,8 +4,10 @@
  "format": "V5-test",
  "language": "EN",
  "voices": {
-  "1": "en-US-BrianMultilingualNeural, base rate -8%, directed per passage (render_edge.py)",
-  "2": "Kokoro am_michael, base speed 0.85, directed per passage (render_kokoro.py)"
+  "1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
+  "2": "Kokoro am_michael, base speed 0.85, directed per passage (render_kokoro.py)",
+  "3": "en-US-AndrewMultilingualNeural (trial)",
+  "4": "en-US-BrianMultilingualNeural (earlier test voice)"
  },
  "wpm": 125,
  "silent_tail_seconds": 2.0,

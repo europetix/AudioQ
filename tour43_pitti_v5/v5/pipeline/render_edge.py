@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""edge-tts renderer — V5 edition. Called by generate_audio.command options 1 (Brian), 3 (Andrew), 4 (Ava).
-The voice comes from EDGE_VOICE (default Brian). ONLY="015 053" renders just those track numbers (voice samples).
+"""edge-tts renderer — V5 edition. Called by generate_audio.command options 1 (Ava, default), 3 (Andrew), 4 (Brian),
+and by voice_samples_ES_FR_DE.command.
+The voice comes from EDGE_VOICE (default Ava, the chosen English voice). ONLY="015 053" renders just those track numbers (voice samples).
 V4.5 rendered each track in one edge-tts call with a fixed rate. V5 performs the direction layer:
 each passage gets its own rate/volume/pitch, real silences are inserted for pauses and paragraph
 breaks, and the result is mastered to -16 LUFS, 96 kbps mono, 2 s tail.
@@ -10,7 +11,7 @@ import edge_tts
 from pronunciation import apply_respelling
 import v5_direction as V
 
-VOICE = os.environ.get("EDGE_VOICE", "en-US-BrianMultilingualNeural")
+VOICE = os.environ.get("EDGE_VOICE", "en-US-AvaMultilingualNeural")
 BASE_RATE = -8                  # percent, as in V4.5
 BITRATE = "96k"
 APPLY_RESPELLING = os.environ.get("RESPELL", "1") != "0"   # RESPELL=0 for Spanish / French / German (respellings are for English voices)
@@ -19,7 +20,7 @@ SR = 24000
 OUT = sys.argv[1]
 ONLY = os.environ.get("ONLY", "").split()
 if not shutil.which("ffmpeg"):
-    sys.exit("ffmpeg is required for the V5 Brian render (pauses + mastering). Run: brew install ffmpeg")
+    sys.exit("ffmpeg is required for the V5 edge-tts render (pauses + mastering). Run: brew install ffmpeg")
 
 
 def pct(n):

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # V5 TEST BUILD - Tour #43 Palazzo Pitti + Boboli - EN  (same launcher shape as V4.5)
-# Pick a voice at runtime: Brian (edge-tts) or am_michael (Kokoro, via uv).
+# Pick a voice at runtime: Ava (default, edge-tts), am_michael (Kokoro, via uv), Andrew or Brian (edge-tts).
 # V5: each track is performed from its direction layer (perf/), with real pauses and mastering.
 cd "$(dirname "$0")"
 
@@ -13,19 +13,19 @@ echo "  Palazzo Pitti + Boboli - English  (61 tracks, ~142 min)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
-echo "  1) Brian      - Microsoft edge-tts. Needs internet, no big download."
+echo "  1) Ava        - Microsoft edge-tts, warm natural female. THE CHOSEN VOICE. Needs internet."
 echo "  2) am_michael - Kokoro (warmer). First run sets up Python+model via uv (~2GB)."
 echo "  3) Andrew     - Microsoft edge-tts, warm conversational male (trial voice)."
-echo "  4) Ava        - Microsoft edge-tts, warm natural female (trial voice)."
+echo "  4) Brian      - Microsoft edge-tts (the earlier V5 test voice)."
 echo ""
 printf "Enter 1, 2, 3 or 4 [1]: "
 read CHOICE
 CHOICE="${CHOICE:-1}"
 case "$CHOICE" in
     3) VOICE_NAME="Andrew"; export EDGE_VOICE="en-US-AndrewMultilingualNeural" ;;
-    4) VOICE_NAME="Ava";    export EDGE_VOICE="en-US-AvaMultilingualNeural" ;;
+    4) VOICE_NAME="Brian";  export EDGE_VOICE="en-US-BrianMultilingualNeural" ;;
     2) VOICE_NAME="am_michael" ;;
-    *) CHOICE=1; VOICE_NAME="Brian"; export EDGE_VOICE="en-US-BrianMultilingualNeural" ;;
+    *) CHOICE=1; VOICE_NAME="Ava"; export EDGE_VOICE="en-US-AvaMultilingualNeural" ;;
 esac
 echo ""
 echo "What should be rendered?"

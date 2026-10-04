@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # Builds the blind desk-listening test (TEST_PLAN.md, Test 1) from the folders already on your Desktop:
 #   June guide  ~/Desktop/Palazzo_Pitti_Audio_EN_am_michael
-#   V5          ~/Desktop/Palazzo_Pitti_V5_1_EN_am_michael  and  ~/Desktop/Palazzo_Pitti_V5_1_EN_Brian
+#   V5          ~/Desktop/Palazzo_Pitti_V5_1_EN_am_michael  and  ~/Desktop/Palazzo_Pitti_V5_1_EN_Ava
 # Output: ~/Desktop/Pitti_Listening_Test/  (clips named by random code + ANSWER_KEY.txt; keep the key away from listeners)
 D="$HOME/Desktop"; OUT="$D/Pitti_Listening_Test"
-OLD="$D/Palazzo_Pitti_Audio_EN_am_michael"; V5K="$D/Palazzo_Pitti_V5_1_EN_am_michael"; V5B="$D/Palazzo_Pitti_V5_1_EN_Brian"
+OLD="$D/Palazzo_Pitti_Audio_EN_am_michael"; V5K="$D/Palazzo_Pitti_V5_1_EN_am_michael"; V5B="$D/Palazzo_Pitti_V5_1_EN_Ava"
 for d in "$OLD" "$V5K" "$V5B"; do [ -d "$d" ] || { echo "Missing folder: $d  (render it first)"; read -p "Press enter..."; exit 1; }; done
 mkdir -p "$OUT"
 python3 - "$OLD" "$V5K" "$V5B" "$OUT" <<'PY'
@@ -21,7 +21,7 @@ items = []
 for name, (o, n) in pick:
     items += [(name, "A  June guide, am_michael", find(old, o)),
               (name, "B  V5, am_michael", find(v5k, n)),
-              (name, "C  V5, Brian", find(v5b, n))]
+              (name, "C  V5, Ava", find(v5b, n))]
 random.shuffle(items)
 codes = random.sample(range(100, 1000), len(items))
 key = ["Pitti listening test - ANSWER KEY (do not show listeners)", ""]

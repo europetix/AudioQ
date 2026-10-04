@@ -6,7 +6,7 @@
 2. **Content**: are the stories interesting, clear and correct?
 3. **Route**: does the audio match where people actually are?
 
-The V5 build changes the scripts, the direction, the order and the mastering. It keeps the same free voices as the June guide. So if people still call the voice monotonous after this test, the free engines have reached their limit and paid voices are worth the cost. The ElevenLabs bake-off kit is ready for that step.
+The V5 build changes the scripts, the direction, the order and the mastering. It keeps am_michael, the June guide's free voice, and adds Ava, the free voice chosen on 5 Oct. So if people still call the voice monotonous after this test, the free engines have reached their limit and paid voices are worth the cost. The ElevenLabs bake-off kit is ready for that step.
 
 ## Test 1: Desk listening (voice only), about 15 minutes per person
 
@@ -18,7 +18,7 @@ Play the same three tracks in three versions, in shuffled order, and don't say w
 |---|---|
 | A | June guide, am_michael (old script, no direction) |
 | B | V5, am_michael |
-| C | V5, Brian |
+| C | V5, Ava (the chosen voice) |
 
 The three tracks:
 

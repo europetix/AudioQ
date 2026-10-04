@@ -52,10 +52,10 @@ verify..."). The reliable way:
      (Or: System Settings > Privacy & Security > "Open Anyway" after the first
       blocked double-click.)
 3. Choose a voice:
-     1) Brian      - Microsoft edge-tts. Needs internet while rendering.
+     1) Ava        - Microsoft edge-tts, the chosen voice. Needs internet while rendering.
      2) am_michael - Kokoro. First run sets itself up via "uv" (~2GB).
      3) Andrew     - Microsoft edge-tts, en-US-AndrewMultilingualNeural (trial).
-     4) Ava        - Microsoft edge-tts, en-US-AvaMultilingualNeural (trial).
+     4) Brian      - Microsoft edge-tts, en-US-BrianMultilingualNeural (earlier test voice).
    Then choose what to render: 1) the full tour, or 2) two voice samples only
    (015 Madonna della Seggiola + 053 The Amphitheatre), saved in
    ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/Sample_<voice>/ for a quick comparison.
@@ -78,12 +78,12 @@ service doesn't offer is skipped and listed at the end. Needs ffmpeg + internet.
 REQUIREMENTS
 ============
 - ffmpeg (needed for the pauses and loudness levelling):  brew install ffmpeg
-- Brian: Python 3.9+ (edge-tts installs itself on first run).
+- Ava / Andrew / Brian: Python 3.9+ (edge-tts installs itself on first run).
 - am_michael: internet on first run; "uv" installs itself and manages Python 3.11.
 
 SETTINGS (for whoever maintains the pipeline)
 =============================================
-- render_kokoro.py: VOICE am_michael, SPEED 0.85, 96k MP3.  render_edge.py: Brian, base rate -8%.
+- render_kokoro.py: VOICE am_michael, SPEED 0.85, 96k MP3.  render_edge.py: Ava by default (EDGE_VOICE), base rate -8%.
 - v5_direction.py: how each direction tag is performed (pace / volume / pitch, pause
   lengths, 2 s tail, -16 LUFS mastering). Shared by both voices.
 - pronunciation.py: phonetic respellings for Italian names.

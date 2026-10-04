@@ -18,7 +18,7 @@ W = A4[0] - 2.6*cm
 doc = SimpleDocTemplate(OUT, pagesize=A4, leftMargin=1.3*cm, rightMargin=1.3*cm, topMargin=1.0*cm, bottomMargin=1.0*cm,
                         title="Palazzo Pitti V5 — Tester Feedback Form")
 st = [Paragraph("Palazzo Pitti + Boboli · Tester feedback", H),
-      Paragraph("Name ______________________ &nbsp; Date ________ &nbsp; Guide: <font name='DejaVu'>&#9744;</font> June &nbsp;<font name='DejaVu'>&#9744;</font> V5 &nbsp;&nbsp; Voice: <font name='DejaVu'>&#9744;</font> am_michael &nbsp;<font name='DejaVu'>&#9744;</font> Brian &nbsp;&nbsp; Phone/earphones ______________", P),
+      Paragraph("Name ______________________ &nbsp; Date ________ &nbsp; Guide: <font name='DejaVu'>&#9744;</font> June &nbsp;<font name='DejaVu'>&#9744;</font> V5 &nbsp;&nbsp; Voice: <font name='DejaVu'>&#9744;</font> am_michael &nbsp;<font name='DejaVu'>&#9744;</font> Ava &nbsp;&nbsp; Phone/earphones ______________", P),
       Spacer(1, 4),
       Paragraph("<b>While you walk</b>, tick a box next to the track number whenever it happens. Leave it blank if all was fine. "
                 "<b>L</b> = I wasn't where the audio thought I was &nbsp; <b>W</b> = didn't match what I was looking at &nbsp; "
