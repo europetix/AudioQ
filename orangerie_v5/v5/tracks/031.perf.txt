@@ -1,0 +1,28 @@
+@id: 031 · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Lower level
+@type: W
+@title: Rousseau — La Noce (The Wedding Party)
+@where: Among Henri Rousseau's paintings on the lower level; it may instead hang in the large first hall of the collection, with the big formats. Look for a tall group portrait of a wedding party in front of trees, with a dog in the foreground.
+@what: Henri Rousseau, La Noce (The Wedding Party), around 1905, oil on canvas. From Paul Guillaume's collection, acquired by the state from Domenica Walter in 1959.
+@listen: Who "the Douanier" really was, why there are no jungles here, and how a suburban wedding came to look like a sacred image.
+@brief: Introducing an unlikely hero to a friend; warm and a little playful at first, then genuinely moved by the wedding's strange solemnity, plain and gentle about his death.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: FACTS_B La Noce: https://www.musee-orangerie.fr/es/obras/la-noce-196428 ; Joconde https://www.pop.culture.gouv.fr/notice/joconde/00000089535 (OFF: c.1905; "one of the most ambitious compositions ever undertaken by Rousseau"; individualised faces; differentiated tree species; yellow-ochre background and trees form a mandorla; Adolphe Basler's comparison with medieval frescoes and Primitive ex-votos; a dog in the foreground; trees recede sharply; Paul Guillaume → state 1959) ; octroi clerk and nickname: G3 18.2, 18.6 (SEC2) ; born 1844: G3 18.4 (SEC2) ; died 1910 of gangrene from an infected leg: G3 18.3 (SEC2) ; no jungle among the collection's works: FACTS_B "Famous Rousseaus not at the Orangerie" + G3 18.1 ; placement in first hall possible: G5 13-1, 17-1 (OFF)
+---
+[warmly] Henri Rousseau's day job gave him a nickname that has outlived almost everything else about him. He was a clerk at the octroi, the toll barrier at the gates of Paris. So people called him le Douanier, the customs officer. The name stuck.
+
+If you know one thing about him, it's probably his jungle pictures. [lightly] Don't look for those here. The Rousseaus in this collection stay much closer to home. A wedding, a neighbour's cart, a child, anglers, a factory.
+
+And this is the most ambitious of them. The museum calls La Noce, The Wedding Party, one of the most ambitious compositions Rousseau ever undertook. He painted it around 1905, when he was already in his early sixties.
+
+Look at the guests first. Every face is a particular person. Nobody is just a generic relative filling a gap. Then look behind them. The trees are painted kind by kind, each species told apart with real care, and they shrink fast as they go back. A yellow-ochre background glows through. Together with the trees, it forms a kind of frame around the whole party. The museum uses the old word mandorla, the almond-shaped glory that surrounds holy figures in religious art.
+
+[pause] That's no accident. The critic Adolphe Basler compared this painting to the idealised figures of medieval frescoes, and to the ex-votos of the old "Primitive" masters. So here is a suburban wedding, painted with the stillness of an altarpiece.
+
+And down in front, a dog, taking up its place as solemnly as anyone.
+
+[quietly] Rousseau did not have long left after this. He died in 1910, of gangrene from an infected leg. The wedding party passed later into Paul Guillaume's collection, and from Domenica's to the state.
+
+Next, find another family portrait, this one on the move: a cart, a white horse, and more than one dog. That's La Carriole du père Junier. Play its track there.

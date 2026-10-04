@@ -3,7 +3,7 @@
 @room: Lower level · first hall of the collection
 @type: ANCHOR
 @title: Paul Guillaume, the dealer
-@where: At the foot of the stairs, in the first hall of the Walter-Guillaume collection, among the large paintings that open the collection. Any spot with room to stand will do.
+@where: On the lower level, in the first hall of the Walter-Guillaume collection, among the large paintings that open the collection. Any spot with room to stand will do.
 @what: An introduction to Paul Guillaume, 1891–1934, the Paris dealer whose collection, completed by his widow Domenica, fills the lower level.
 @listen: How a young man with African sculptures in a garage window became the dealer of the Paris avant-garde, and the museum he dreamed of.
 @brief: Introducing a remarkable young man to a friend at the start of his collection; warm and brisk through the rise, quiet at his early death, open at the end.
