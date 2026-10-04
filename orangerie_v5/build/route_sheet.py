@@ -159,12 +159,14 @@ c.rect(r1x + rx - 0.05*cm, ocy - 0.45*cm, r2x - r1x - 2*rx + 0.1*cm, 0.9*cm, str
 c.line(r1x + rx, ocy + 0.45*cm, r2x - rx, ocy + 0.45*cm); c.line(r1x + rx, ocy - 0.45*cm, r2x - rx, ocy - 0.45*cm)
 text((r1x + r2x)/2, ocy - 0.12*cm, "passage", 'Helvetica-Oblique', 6.2, WATER)
 text((r1x + r2x)/2, GY + 0.45*cm, f"Water Lilies {rng(sec('01_Water_Lilies'))}  ·  {mins('01_Water_Lilies')} min  ·  back through Room 1: {num('Hidden')}", 'Helvetica-Bold', 7.2, WATER)
-# exit (north side) + finale
-ex, ey = (r1x + r2x)/2 - 0.6*cm, GY + GH - 0.95*cm
-flag(ex + 2.6*cm, ey + 0.05*cm, "FINISH", INK)
-c.setFillColor(INK); c.roundRect(ex - 1.3*cm, ey - 0.05*cm, 3.75*cm, 0.62*cm, 3, stroke=0, fill=1)
-text(ex + 0.57*cm, ey + 0.13*cm, f"Exit · Tuileries garden · {rng(sec('12_Closing'))}", 'Helvetica-Bold', 7, CREAM)
-text(ex + 0.6*cm, ey - 0.45*cm, f"{rng(sec('11_Finale'))}: one last look at the lilies first", 'Helvetica-Oblique', 6.6, WATER)
+# exit: beside the entrance at the accueil (official plan, May 2024) + finale
+ex, ey = ax + 2.2*cm, GY + 0.12*cm
+c.setFillColor(INK); c.roundRect(ex, ey, 4.3*cm, 0.8*cm, 3, stroke=0, fill=1)
+text(ex + 2.15*cm, ey + 0.45*cm, f"Exit beside the entrance · {rng(sec('12_Closing'))}", 'Helvetica-Bold', 6.6, CREAM)
+text(ex + 2.15*cm, ey + 0.14*cm, f"after {rng(sec('11_Finale'))}: one last look at the lilies", 'Helvetica-Oblique', 6.0, CREAM)
+flag(ex + 4.45*cm, ey + 0.15*cm, "FINISH", INK)
+# the small rotunda between the hall and Room 1 (official plan: "Petite rotonde")
+text((ax + 3.6*cm + r1x - rx)/2, ocy - 0.55*cm, "small\nrotunda", 'Helvetica-Oblique', 5.8, SOFT, lead=6.4)
 
 # ── LOWER LEVEL band
 LX, LY, LW, LH = 1.2*cm, 1.25*cm, W - 2.4*cm, 7.5*cm

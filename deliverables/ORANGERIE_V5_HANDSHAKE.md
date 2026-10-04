@@ -50,3 +50,4 @@ Restore: unzip the snapshot to /home/claude/orangerie (or symlink) → `bash bui
 - Lower-level cards now read "Level −2" (as signed). 014 says "marked minus two on the signs".
 - 2024 plan: level −2 is one "Les Arts à Paris" collection area with a Focus room. There are no per-artist room labels, so no room numbers are voiced. 2021 numbering (Renoir 9, Cézanne 10, Laurencin+Matisse 11, Derain 12, Utrillo+Rousseau 13) is kept for the on-site check only.
 - musee-orangerie.fr is still blocked from the cloud session (egress policy). Laurencin, Utrillo and the 3 extra Modiglianis stay held until the site is reachable or the pages are supplied as PDFs.
+- Route map checked against both official plans: the exit/FINISH badge now sits beside the entrance (as on the May 2024 plan), and the small rotunda between the hall and Room 1 is marked. The ground floor matches the plan. The order on level −2 is not confirmed by either plan (see ONSITE_CHECKLIST).
