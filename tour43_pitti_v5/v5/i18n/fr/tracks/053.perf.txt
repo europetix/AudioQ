@@ -1,0 +1,26 @@
+@id: 053 · FR voice sample · v5.0 070 · old 083 · Stop 5
+@section: Boboli
+@room: Stop 5
+@type: R
+@title: L'Amphithéâtre
+@where: Au bord de l'amphithéâtre, de préférence du côté du palais, le palais derrière vous et l'obélisque devant vous. Les gradins de pierre sont fermés pour restauration ; regardez-le depuis les allées qui en font le tour.
+@what: The amphitheatre: a stone quarry turned into a green theatre by Tribolo from about 1550 and rebuilt in stone by Giulio Parigi, finished in 1634. At its centre, an ancient Egyptian obelisk of Ramesses II, raised here in 1790, and a great red granite basin.
+@listen: How the palace's quarry became the Medici's open-air theatre, and the long journey of the obelisk.
+@brief: Standing in the open air with a friend, painting a picture of a lost party; relaxed and vivid, a little wistful when the music stops, then delighted by the obelisk's journey.
+@pace: medium
+@energy: 3→4→2→4
+@sources: https://www.uffizi.it/en/artworks/boboli-amphitheatre ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, tiers closed) ; V5 calibration (lead-verified) + findings G5
+@lang: fr
+@translation: from the fact-checked English V5.1 053 (5 Oct 2026); facts unchanged; formal address
+---
+[lightly] Commençons par une idée étonnante. Le palais derrière vous est sorti de ce trou.
+
+Ce creux dans la colline était une carrière, et sa pierre a servi à bâtir les murs du palais Pitti. Quand Éléonore de Tolède a commencé ces jardins vers 1550, son architecte, Tribolo, a eu une meilleure idée que de le combler. Il en a fait un théâtre de verdure, taillé dans la colline elle-même. Près d'un siècle plus tard, Giulio Parigi l'a transformé en l'amphithéâtre de pierre que vous voyez aujourd'hui, achevé en 1634.
+
+[warmly] Et puis les Médicis y ont donné des fêtes. Imaginez les gradins remplis de spectateurs, la famille grand-ducale qui préside en majesté et, dans l'arène en contrebas, le genre de spectacle que Florence savait faire mieux que personne. De la musique, des danses, des costumes, des décors peints et des machines de théâtre roulant sur l'herbe. Pour les Médicis, un tel spectacle était une déclaration. Il montrait à chaque ambassadeur de passage à quel point ce petit État était riche, et raffiné.
+
+[quietly] Les fêtes n'ont pas duré éternellement. La dernière grande représentation a eu lieu en 1739, pour accueillir un nouveau souverain, François-Étienne de Lorraine, après l'extinction de la lignée des Médicis. Peu après, les gradins ont été recouverts de végétation, et la musique s'est tue.
+
+[pause] Passons maintenant au centre. L'obélisque est, de très loin, la chose la plus ancienne de ce jardin. Il a été taillé en Égypte pour le pharaon Ramsès Deux, il y a plus de trois mille ans. L'empereur Domitien l'a fait venir à Rome pour un temple d'Isis. Un cardinal Médicis l'a acheté pour sa villa romaine, et en 1790, il est enfin arrivé ici. La grande vasque de granit rouge, à ses pieds, provient de la même villa, et l'a rejoint cinquante ans plus tard.
+
+[warmly] Ainsi, d'un seul regard, vous avez un obélisque égyptien, une villa des Médicis, une carrière de la Renaissance et un théâtre baroque. Le sentier qui monte la colline au-delà de l'obélisque mène à la fontaine de Neptune.

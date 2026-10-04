@@ -13,7 +13,7 @@ import v5_direction as V
 VOICE = os.environ.get("EDGE_VOICE", "en-US-BrianMultilingualNeural")
 BASE_RATE = -8                  # percent, as in V4.5
 BITRATE = "96k"
-APPLY_RESPELLING = True
+APPLY_RESPELLING = os.environ.get("RESPELL", "1") != "0"   # RESPELL=0 for Spanish / French / German (respellings are for English voices)
 SR = 24000
 
 OUT = sys.argv[1]

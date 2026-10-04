@@ -65,6 +65,15 @@ verify..."). The reliable way:
 Run it twice (1, then 2) if you want both voices for the test.
 If a render stops (network, sleep), just run it again: finished tracks are skipped.
 
+VOICE SAMPLES IN SPANISH, FRENCH AND GERMAN (female voices)
+===========================================================
+Run  voice_samples_ES_FR_DE.command  the same way (bash + drag). It renders the
+two sample tracks (015 Madonna della Seggiola, 053 The Amphitheatre), translated
+with formal address, in six voices:
+  Spanish: Ximena, Elvira    French: Vivienne, Denise    German: Seraphina, Katja
+into ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/<LANG>_<Voice>/. A voice the free
+service doesn't offer is skipped and listed at the end. Needs ffmpeg + internet.
+
 REQUIREMENTS
 ============
 - ffmpeg (needed for the pauses and loudness levelling):  brew install ffmpeg

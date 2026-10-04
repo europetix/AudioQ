@@ -1,0 +1,28 @@
+@id: 015 · ES voice sample · v5.0 027 · old 021 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: W
+@title: Rafael — La Madonna della Seggiola
+@where: En la Sala de Saturno, delante del cuadro redondo de la Virgen abrazando a su hijo, con el pequeño san Juan en el borde derecho.
+@what: Raphael, Madonna and Child with the Young Saint John, known as the Madonna della Seggiola, oil on panel, around 1512, a tondo about 71 centimetres across.
+@listen: The legend of the woman in the Roman doorway, the papal chair that undercuts it, and how three figures were fitted into a circle.
+@brief: Sharing a favourite painting and its famous legend with a friend; curious, then quietly delighted at the clue in the chair, tender at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/la-madonna-col-bambino-e-san-giovannino-detta-madonna-della-seggiola (c.1512; chamber chair of papal dignitaries; orbs may allude to Medici arms; likely commissioned by Leo X; Tribuna 1589; Grand Prince Ferdinando's bedroom at Pitti; colours, glances, melancholy) ; old script (doorway legend, framed as tradition) + findings G1 (Paris 1799–1815 confirmed; date and Leo X wording hedged)
+@lang: es
+@translation: from the fact-checked English V5.1 015 (5 Oct 2026); facts unchanged; formal address
+---
+[curious] Hay una historia preciosa sobre este cuadro. Rafael pasea por Roma cuando ve, en el umbral de una puerta, a una campesina sentada en un taburete bajo con su hijo en brazos. Y pinta exactamente lo que ve. [pause] Es una leyenda encantadora, y casi con toda seguridad inventada. La silla la delata.
+
+De la silla solo se ve una parte, un montante decorado con pomos redondos. Y no es el taburete de una campesina. Es una silla de cámara, de las reservadas a los altos dignatarios de la corte papal, y esos pomos quizá aludan a las bolas del escudo de los Médici. Muchos creen que el cuadro se hizo para el papa Médici, León Décimo, cuyo retrato cuelga en esta misma sala. Rafael lo pintó hacia 1512, en sus años romanos.
+
+Así que probablemente no es una mujer en un umbral. [warmly] Pero fíjese en cómo Rafael consigue que lo parezca. María levanta una rodilla para sostener a su hijo y lo estrecha contra el pecho. Su mejilla descansa junto a la sien del niño, y sin embargo sus ojos se vuelven hacia usted. A la derecha, el pequeño san Juan junta las manos en oración y los contempla. Sus brazos se entrelazan, y los tres cuerpos siguen el borde redondo con una soltura perfecta.
+
+Ahora, el color. Un turbante blanco tejido con hilo de oro, y un pañuelo de verdes y rojos. Una manga roja junto a la túnica amarilla del Niño, y el azul ultramar intenso del vestido. Y en las miradas, un poco de melancolía, como si ella ya supiera lo que le espera a este niño.
+
+En 1589 ya colgaba en la Tribuna de los Uffizi. Más tarde, el Gran Príncipe Fernando lo trajo al Pitti y lo tuvo en su dormitorio. Los ejércitos de Napoleón se lo llevaron a París, y volvió tras su caída. Llegó a ser uno de los cuadros más copiados de Rafael.
+
+[quietly] La leyenda acierta en una cosa. Fuera quien fuera, no parece una reina de los cielos. Parece una madre que no quiere soltar a su hijo.
+
+A continuación, busque el retrato de una joven con amplias mangas rojas y una mano apoyada en el vientre. Es La Gravida, de Rafael.

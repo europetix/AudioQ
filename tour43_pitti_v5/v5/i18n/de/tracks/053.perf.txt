@@ -1,0 +1,26 @@
+@id: 053 · DE voice sample · v5.0 070 · old 083 · Stop 5
+@section: Boboli
+@room: Stop 5
+@type: R
+@title: Das Amphitheater
+@where: Am Rand des Amphitheaters, am besten an der Palastseite, den Palast im Rücken und den Obelisken vor Ihnen. Die steinernen Ränge sind wegen Restaurierung abgesperrt; betrachten Sie es von den Wegen am Rand.
+@what: The amphitheatre: a stone quarry turned into a green theatre by Tribolo from about 1550 and rebuilt in stone by Giulio Parigi, finished in 1634. At its centre, an ancient Egyptian obelisk of Ramesses II, raised here in 1790, and a great red granite basin.
+@listen: How the palace's quarry became the Medici's open-air theatre, and the long journey of the obelisk.
+@brief: Standing in the open air with a friend, painting a picture of a lost party; relaxed and vivid, a little wistful when the music stops, then delighted by the obelisk's journey.
+@pace: medium
+@energy: 3→4→2→4
+@sources: https://www.uffizi.it/en/artworks/boboli-amphitheatre ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, tiers closed) ; V5 calibration (lead-verified) + findings G5
+@lang: de
+@translation: from the fact-checked English V5.1 053 (5 Oct 2026); facts unchanged; formal address
+---
+[lightly] Zum Anfang ein merkwürdiger Gedanke. Der Palast hinter Ihnen ist aus diesem Loch gekommen.
+
+Diese Mulde im Hang war ein Steinbruch, und sein Stein steckt in den Mauern des Palazzo Pitti. Als Eleonora von Toledo um 1550 mit diesen Gärten begann, hatte ihr Architekt Tribolo eine bessere Idee, als ihn aufzufüllen. Er machte daraus ein grünes Theater, direkt aus dem Hügel geschnitten. Fast ein Jahrhundert später baute Giulio Parigi es zu dem steinernen Amphitheater um, das Sie heute sehen, und vollendete es 1634.
+
+[warmly] Und dann feierten die Medici hier ihre Feste. Stellen Sie sich die Ränge voller Zuschauer vor, die großherzogliche Familie in vollem Staat, und unten in der Arena die Art von Spektakel, die Florenz besser beherrschte als jede andere Stadt. Musik, Tanz, Kostüme, bemalte Bühnenmaschinen, die über das Gras rollten. Für die Medici war so eine Aufführung eine Botschaft. Sie zeigte jedem Gesandten, wie reich und wie kultiviert dieser kleine Staat war.
+
+[quietly] Die Feste dauerten nicht ewig. Die letzte große Aufführung fand 1739 statt, zur Begrüßung eines neuen Herrschers, Franz Stephan von Lothringen, nachdem das Haus Medici ausgestorben war. Bald darauf wurden die Ränge bepflanzt, und die Musik verstummte.
+
+[pause] Nun zum Mittelpunkt. Der Obelisk in der Mitte ist mit großem Abstand das Älteste in diesem Garten. Er wurde in Ägypten für den Pharao Ramses den Zweiten gehauen, vor mehr als dreitausend Jahren. Kaiser Domitian brachte ihn für einen Isis-Tempel nach Rom. Ein Medici-Kardinal kaufte ihn für seine Villa in Rom, und 1790 kam er schließlich hierher. Das große Becken aus rotem Granit zu seinen Füßen stammt aus derselben Villa und kam fünfzig Jahre später dazu.
+
+[warmly] In einem einzigen Blick haben Sie also einen ägyptischen Obelisken, eine Medici-Villa, einen Steinbruch der Renaissance und ein barockes Theater. Der Weg, der hinter dem Obelisken den Hügel hinaufführt, bringt Sie zum Neptunbrunnen.
