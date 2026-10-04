@@ -31,9 +31,9 @@ After you run the launcher, the tour is organised into one folder per section:
   05_Russian_Icons_and_Palatine_Chapel/    3 tracks
   06_Boboli_Gardens/                      12 tracks
   07_Closing/                              1 track
-plus Palazzo_Pitti_Audio_Guide_Route.pdf (one page, the route at a glance:
-the eight stops in order, track numbers, floors and directions; share it with
-the MP3s) and
+plus Palazzo_Pitti_Audio_Guide_Route.pdf (one-page picture of the route:
+palace floors + garden, the path in red, track numbers at every room and stop;
+share it with the MP3s) and
 USER_TEST/ (test plan, feedback form, on-site checklist).
 
 Track files are named  <play-order>_<room>_<title>.mp3
