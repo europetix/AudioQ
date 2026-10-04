@@ -169,7 +169,7 @@ text(ex + 0.6*cm, ey - 0.45*cm, f"{rng(sec('11_Finale'))}: one last look at the 
 # ── LOWER LEVEL band
 LX, LY, LW, LH = 1.2*cm, 1.25*cm, W - 2.4*cm, 7.5*cm
 c.setFillColor(FLOOR); c.setStrokeColor(EDGE); c.setLineWidth(0.6); c.roundRect(LX, LY, LW, LH, 4, stroke=1, fill=1)
-c.saveState(); c.translate(LX - 0.38*cm, LY + LH/2); c.rotate(90); text(0, 0, "LOWER LEVEL", 'Helvetica-Bold', 7, SOFT); c.restoreState()
+c.saveState(); c.translate(LX - 0.38*cm, LY + LH/2); c.rotate(90); text(0, 0, "LEVEL -2", 'Helvetica-Bold', 7, SOFT); c.restoreState()
 text(LX + LW/2, LY + LH - 0.55*cm, "The Walter-Guillaume collection · rooms by artist: follow the names on the walls (order may vary)", 'Helvetica-Oblique', 7, SOFT)
 ROOMS = [("02_The_Collectors", "The collectors", 4), ("03_Renoir", "Renoir", 5), ("04_Cezanne", "Cézanne", 6), ("05_Rousseau", "Henri Rousseau", 7),
          ("06_Matisse", "Matisse", 8), ("07_Picasso", "Picasso", 9), ("08_Modigliani", "Modigliani", 10), ("09_Soutine", "Soutine", 11),
