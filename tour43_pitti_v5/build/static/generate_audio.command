@@ -4,12 +4,12 @@
 # V5: each track is performed from its direction layer (perf/), with real pauses and mastering.
 cd "$(dirname "$0")"
 
-BASE_DIR="$HOME/Desktop/Palazzo_Pitti_V5_Test_EN"
+BASE_DIR="$HOME/Desktop/Palazzo_Pitti_V5_1_EN"
 
 echo ""
 echo "================================================================"
-echo "  V5 TEST BUILD - Tour #43"
-echo "  Palazzo Pitti + Boboli - English  (79 tracks, ~177 min)"
+echo "  V5.1 - Tour #43"
+echo "  Palazzo Pitti + Boboli - English  (61 tracks, ~142 min)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -59,9 +59,9 @@ else
     python3 render_edge.py "$OUTPUT_DIR" || { echo "Brian render failed."; read -p "Press enter..."; exit 1; }
 fi
 
-# route sheet + guides into the tour folder
+# navigation PDF + guides into the tour folder
 echo ""
-for f in Palazzo_Pitti_V5_Route_Sheet.pdf README.txt; do
+for f in Palazzo_Pitti_Audio_Guide_Route.pdf README.txt; do
     cp "$f" "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] $f"
 done
 if [ -d USER_TEST ]; then
@@ -72,6 +72,6 @@ echo ""
 echo "================================================================"
 echo "  Done. Tour saved to: $OUTPUT_DIR"
 echo "  One folder per section, tracks numbered in walking order."
-echo "  The Route Sheet PDF shows where to stand for every track."
+echo "  Palazzo_Pitti_Audio_Guide_Route.pdf: the route and where to stand for every track."
 echo "================================================================"
 read -p "Press enter to close..."

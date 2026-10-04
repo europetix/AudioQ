@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
 # Builds the blind desk-listening test (TEST_PLAN.md, Test 1) from the folders already on your Desktop:
 #   June guide  ~/Desktop/Palazzo_Pitti_Audio_EN_am_michael
-#   V5          ~/Desktop/Palazzo_Pitti_V5_Test_EN_am_michael  and  ~/Desktop/Palazzo_Pitti_V5_Test_EN_Brian
+#   V5          ~/Desktop/Palazzo_Pitti_V5_1_EN_am_michael  and  ~/Desktop/Palazzo_Pitti_V5_1_EN_Brian
 # Output: ~/Desktop/Pitti_Listening_Test/  (clips named by random code + ANSWER_KEY.txt; keep the key away from listeners)
 D="$HOME/Desktop"; OUT="$D/Pitti_Listening_Test"
-OLD="$D/Palazzo_Pitti_Audio_EN_am_michael"; V5K="$D/Palazzo_Pitti_V5_Test_EN_am_michael"; V5B="$D/Palazzo_Pitti_V5_Test_EN_Brian"
+OLD="$D/Palazzo_Pitti_Audio_EN_am_michael"; V5K="$D/Palazzo_Pitti_V5_1_EN_am_michael"; V5B="$D/Palazzo_Pitti_V5_1_EN_Brian"
 for d in "$OLD" "$V5K" "$V5B"; do [ -d "$d" ] || { echo "Missing folder: $d  (render it first)"; read -p "Press enter..."; exit 1; }; done
 mkdir -p "$OUT"
 python3 - "$OLD" "$V5K" "$V5B" "$OUT" <<'PY'
 import sys, glob, os, random, shutil
 old, v5k, v5b, out = sys.argv[1:]
-pick = [("Throne Room",   ("015_", "033_")),
-        ("Seggiola",      ("019_", "027_")),
-        ("Amphitheatre",  ("081_", "070_"))]
+pick = [("Throne Room",   ("015_", "021_")),
+        ("Seggiola",      ("019_", "015_")),
+        ("Amphitheatre",  ("081_", "053_"))]
 def find(folder, prefix):
     m = glob.glob(os.path.join(folder, "*", prefix + "*.mp3"))
     if not m: sys.exit(f"Not found: {prefix}* in {folder}")

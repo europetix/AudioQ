@@ -1,3 +1,76 @@
+# PITTI V5.1 — MASTER RUNNING ORDER (61 tracks) · 5 Oct 2026
+
+V5.1 = V5.0 (79 tracks, below) minus 18 cut tracks (held in `v5/held/cut_5oct2026/`, reasons in `v5/RENUMBER_5OCT2026.md`), renumbered.
+Generated from plan.json. The V5.0 table further down is kept for history (its NEW column = V5.0 numbers).
+
+| V5.1 | V5.0 | Section | Room | Track | Words |
+|---|---|---|---|---|---|
+| 001 | 001 | Opening | Piazza Pitti | Piazza Pitti — Before you go in | 342 |
+| 002 | 002 | Palatine Gallery | Rooms 1–2 | The Palatine Gallery — Antechamber and Gallery of the Statues | 251 |
+| 003 | 003 | Palatine Gallery | Room 3 | The Castagnoli Room | 223 |
+| 004 | 004 | Palatine Gallery | Room 3 | The Table of the Muses | 358 |
+| 005 | 013 | Palatine Gallery | Room 14 | Filippo Lippi — The Bartolini Tondo | 341 |
+| 006 | 016 | Palatine Gallery | Room 19 | Raphael — Madonna dell'Impannata | 335 |
+| 007 | 019 | Palatine Gallery | Room 21 | Cristofano Allori — Judith with the Head of Holofernes | 309 |
+| 008 | 020 | Palatine Gallery | Room 21 | Caravaggio — Sleeping Cupid | 298 |
+| 009 | 021 | Palatine Gallery | Room 22 | Sala della Stufa — The Grand Duke's Hot Room | 273 |
+| 010 | 022 | Palatine Gallery | Room 23 | Sala dell'Iliade — The Room of the Iliad | 228 |
+| 011 | 023 | Palatine Gallery | Room 23 | Andrea del Sarto — The Passerini Assumption | 338 |
+| 012 | 024 | Palatine Gallery | Room 23 | Lorenzo Bartolini — Charity | 331 |
+| 013 | 025 | Palatine Gallery | Room 23 | Artemisia Gentileschi — Judith and her Maidservant | 316 |
+| 014 | 026 | Palatine Gallery | Room 24 | Sala di Saturno — The Room of Raphael | 275 |
+| 015 | 027 | Palatine Gallery | Room 24 | Raphael — Madonna della Seggiola | 350 |
+| 016 | 028 | Palatine Gallery | Room 24 | Raphael — La Gravida | 308 |
+| 017 | 029 | Palatine Gallery | Room 24 | Raphael — Pope Leo X with Two Cardinals | 358 |
+| 018 | 030 | Palatine Gallery | Room 24 | Raphael — Madonna del Granduca | 301 |
+| 019 | 031 | Palatine Gallery | Room 24 | Raphael — Madonna del Baldacchino | 327 |
+| 020 | 032 | Palatine Gallery | Room 24 | Raphael — Portraits of Agnolo and Maddalena Doni | 332 |
+| 021 | 033 | Palatine Gallery | Room 25 | Sala di Giove — The Throne Room | 219 |
+| 022 | 034 | Palatine Gallery | Room 25 | Raphael — La Velata (The Veiled Lady) | 337 |
+| 023 | 035 | Palatine Gallery | Room 25 | Andrea del Sarto — Young Saint John the Baptist | 303 |
+| 024 | 036 | Palatine Gallery | Room 26 | Sala di Marte — The Room of Mars | 252 |
+| 025 | 038 | Palatine Gallery | Room 26 | Rubens — The Consequences of War | 330 |
+| 026 | 040 | Palatine Gallery | Room 27 | Sala di Apollo — The Room of Apollo | 237 |
+| 027 | 041 | Palatine Gallery | Room 27 | Titian — The Penitent Magdalene | 315 |
+| 028 | 042 | Palatine Gallery | Room 28 | Sala di Venere — The Room of Venus | 200 |
+| 029 | 043 | Palatine Gallery | Room 28 | Canova — Venus Italica | 330 |
+| 030 | 044 | Palatine Gallery | Room 28 | Titian — The Concert | 329 |
+| 031 | 045 | Palatine Gallery | Room 28 | Titian — Portrait of Pietro Aretino | 312 |
+| 032 | 046 | Palatine Gallery | Room 28 | Titian — Portrait of a Lady (La Bella) | 327 |
+| 033 | 047 | Imperial & Royal Apartments | Meeting point | Imperial and Royal Apartments — Before your visit | 301 |
+| 034 | 048 | Imperial & Royal Apartments | After the visit | Imperial and Royal Apartments — After your visit | 278 |
+| 035 | 049 | Gallery of Modern Art | Entrance | Gallery of Modern Art — A different century | 206 |
+| 036 | 050 | Gallery of Modern Art | Rooms 1–2 | The Neoclassical rooms — marble, and Napoleon's years | 233 |
+| 037 | 051 | Gallery of Modern Art | Room 2 | Canova and workshop — Colossal Head of Napoleon | 316 |
+| 038 | 052 | Gallery of Modern Art | Room 3 | Stefano Ussi — The Expulsion of the Duke of Athens | 312 |
+| 039 | 053 | Gallery of Modern Art | Room 5 | Romanticism and history painting | 247 |
+| 040 | 055 | Gallery of Modern Art | Rooms 10–13 | The Macchiaioli rooms | 244 |
+| 041 | 057 | Gallery of Modern Art | Macchiaioli rooms | Giovanni Fattori — La Rotonda di Palmieri | 286 |
+| 042 | 058 | Gallery of Modern Art | Rooms 17–30 | Toward the twentieth century | 200 |
+| 043 | 060 | Museum of Fashion & Costume | Entrance | The Palazzina della Meridiana | 227 |
+| 044 | 061 | Museum of Fashion & Costume | Medici garments | The funeral clothes of Cosimo I, Eleonora di Toledo and Don Garzia | 339 |
+| 045 | 062 | Museum of Fashion & Costume | Galleries | Three centuries of dress — the rotating display | 292 |
+| 046 | 063 | Russian Icons & Palatine Chapel | Rooms 1–4 | Museum of Russian Icons — Cosimo III's summer apartment | 271 |
+| 047 | 064 | Russian Icons & Palatine Chapel | Room 1 | The two oldest icons — The Beheading of Saint John the Baptist and "All Creatures Rejoice in You" | 341 |
+| 048 | 065 | Russian Icons & Palatine Chapel | Chapel | The Palatine Chapel | 249 |
+| 049 | 066 | Boboli Gardens | Stop 1 | The Ammannati Courtyard and the first view | 255 |
+| 050 | 067 | Boboli Gardens | Stop 2 | The Bacchino — Morgante on a Tortoise | 311 |
+| 051 | 068 | Boboli Gardens | Stop 3 | Buontalenti — the Grotta Grande | 320 |
+| 052 | 069 | Boboli Gardens | Stop 4 | The Grotta di Madama | 276 |
+| 053 | 070 | Boboli Gardens | Stop 5 | The Amphitheatre | 314 |
+| 054 | 071 | Boboli Gardens | Stop 6 | Stoldo Lorenzi — the Neptune Fountain | 291 |
+| 055 | 072 | Boboli Gardens | Stop 7 | The Kaffeehaus and the view | 210 |
+| 056 | 074 | Boboli Gardens | Stop 8 | Giambologna and Pietro Tacca — Abundance | 270 |
+| 057 | 075 | Boboli Gardens | Stop 9 | The Viottolone | 240 |
+| 058 | 076 | Boboli Gardens | Stop 10 | Giambologna — the Isolotto and Oceanus | 310 |
+| 059 | 077 | Boboli Gardens | Stop 11 | The Limonaia | 251 |
+| 060 | 078 | Boboli Gardens | Ways out | Ways out of the garden | 269 |
+| 061 | 079 | Closing | Anywhere | Closing | 352 |
+
+Total: 61 tracks, 17696 words, ~142 min at 125 wpm.
+
+---
+
 # PITTI V5 TEST BUILD — MASTER RUNNING ORDER (79 tracks) · 4 Oct 2026
 Decisions (user, 4 Oct): free voices (Brian / Kokoro am_michael) for a user test; V5 story-first scripts +
 direction layer; official walking order; all audit fixes; cut Galileo; add Doni portraits, Titian La Bella,

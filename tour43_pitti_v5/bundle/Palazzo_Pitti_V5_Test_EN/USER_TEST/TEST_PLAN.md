@@ -24,9 +24,9 @@ The three tracks:
 
 | Track | Kind of track |
 |---|---|
-| 033 Sala di Giove | Room intro |
-| 027 Madonna della Seggiola | Single work |
-| 070 Amphitheatre | Garden |
+| 021 Sala di Giove | Room intro |
+| 015 Madonna della Seggiola | Single work |
+| 053 Amphitheatre | Garden |
 
 The matching June tracks are 015 Throne Room, 019 Madonna della Seggiola and 081 Where the Medici Threw Their Parties. You don't need to find them yourself: once both V5 voices are rendered, run `make_listening_test.command`. It copies the nine clips to `~/Desktop/Pitti_Listening_Test/` under shuffled codes, and writes the answer key to a separate file.
 
@@ -46,7 +46,7 @@ Use 6–12 testers with their own phones and earphones.
 
 **Split.** Half the testers use the June guide and half use V5, in the same voice (am_michael). This means any difference comes from the script, order and direction, not the voice.
 
-**Brief.** Give testers the Route Sheet for their version, and nothing else. Don't coach them.
+**Brief.** Give testers the route PDF for their version (V5: Palazzo_Pitti_Audio_Guide_Route.pdf), and nothing else. Don't coach them.
 
 **During the walk**, testers mark on the feedback form any track number where:
 - **L (lost):** "I wasn't where the audio thought I was."
@@ -71,6 +71,6 @@ Use 6–12 testers with their own phones and earphones.
 
 ## Timing notes (October 2026)
 
-- **Iliad Room:** closed until 25 Oct 2026. Testers before that date take the staff detour (see the Route Sheet box). Track 021 tells them what to do. Note any confusion there.
+- **Iliad Room:** closed until 25 Oct 2026. Testers before that date take the staff detour (see the notice box in the route PDF). Track 009 tells them what to do. Note any confusion there.
 - **Royal Apartments:** guided slots only. Book a slot for each tester, or mark that section "not tested".
-- **Boboli:** includes restoration fences. Tracks 069, 070, 071 and 077 already say so.
+- **Boboli:** includes restoration fences. Tracks 052, 053, 054, 056, 058 and 059 already say so.

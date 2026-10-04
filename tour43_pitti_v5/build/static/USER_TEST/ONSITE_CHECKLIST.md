@@ -1,45 +1,51 @@
-# On-site checklist: things no web source could confirm
+# On-site checklist (V5.1, 61 tracks): things no official web source could confirm
 
-Bring this on the first test day, or have a staff member walk it. Each line says what to check and what to do if it is wrong. Track numbers are V5 numbers.
+Bring this on the first test day, or have a staff member walk it. Each line says what to check and what to do if it is wrong. Track numbers are V5.1 numbers (mapping from V5.0: `v5/RENUMBER_5OCT2026.md`).
 
-## Palatine Gallery
+## Palatine Gallery (first floor)
 
 | ✓ | Check | Tracks | If it's wrong |
 |---|---|---|---|
-| ☐ | Volterrano Wing (Rooms 4–11) is open, and the order is Allegorie → Belle Arti → Ercole → Aurora → Berenice → Psiche → Fama → Arca, entered on the right from the Castagnoli Room | 004–011 | Re-order the tracks, or add a skip line to 004 |
-| ☐ | From the Sala dell'Arca, the way out runs through the Sala della Musica and the Poccetti Corridor to Prometeo | 011 | Fix the cue in 011 |
-| ☐ | Room for Rubens's Four Philosophers and Consequences of War (expected: Sala di Marte) | 036–038 | Move the tracks and fix the cues |
-| ☐ | Room for Titian's English Gentleman (Marte or Apollo?) | 036, 039 | Move the track |
-| ☐ | Room for Artemisia's Mary Magdalene (expected: Iliad, which is closed until 25 Oct) | 022 | Fix the mention |
-| ☐ | The Doni portraits are back in Saturn (they were in Apollo during the Saturn closure). Are their painted backs visible? | 032 | If the backs aren't visible, rephrase "look at the back" |
-| ☐ | After 25 Oct: the Iliad Room has reopened | 021 | Remove the detour line from 021 and from the Route Sheet box |
-| ☐ | Royal Apartments meeting point is in the Palatine entrance atrium, and the visit lasts about 30 minutes | 047–048 | Fix 047 |
+| ☐ | The ticket office is on the right-hand side of the façade; stairs and lifts on the right side of the courtyard | 001 | Fix the cue in 001 |
+| ☐ | From the Castagnoli Room, with the Volterrano Wing closed, the signed route leads on to the Sala di Prometeo | 004 | Fix the cue in 004 |
+| ☐ | Caravaggio's Sleeping Cupid hangs in the Sala dell'Educazione di Giove (ministry catalogue says so; no uffizi.it page) | 007–008 | Change the room in 008 and the cue in 007 |
+| ☐ | Rubens's Consequences of War is in the Sala di Marte (only secondary sources give the room) | 024–025 | Move the cue; the track already says "usually hangs here" |
+| ☐ | The Doni portraits are in Saturn. Are their painted backs visible? | 020 | If the backs aren't visible, rephrase "look at the back" |
+| ☐ | Exit from Venus through the Sala delle Nicchie leads to the Palatine entrance atrium (Royal Apartments meeting point) | 032–033 | Fix the cue in 032 |
+| ☐ | After 25 Oct 2026: the Iliad Room has reopened | 009 | Remove the detour line from 009 and the Iliad box in `build/route_sheet.py`; rebuild |
 
 ## Second floor
 
 | ✓ | Check | Tracks | If it's wrong |
 |---|---|---|---|
-| ☐ | Modern Art: from the landing, the corridor goes left | 049 | Fix the cue |
-| ☐ | Rooms for Fattori's Self-Portrait, Lo Staffato and La Rotonda di Palmieri | 054, 056, 057 | Update the room labels |
-| ☐ | De Chirico's *Metaphysical Composition* is on view, and which room it's in | 059 | Hold the track if it isn't on view |
-| ☐ | Fashion museum: corridor goes right, two short flights of stairs, stair-lift is working | 059, 060 | Fix the cue |
-| ☐ | The Medici funeral garments are on display | 061 | Hold the track if not |
+| ☐ | Modern Art: from the landing, the corridor goes left | 034–035 | Fix the cue |
+| ☐ | Bezzuoli's portrait of Elisa Baciocchi is in the first rooms | 036 | Change the line |
+| ☐ | Fattori's Rotonda di Palmieri is on view, and in which room | 040–041 | Add the room to 041's card |
+| ☐ | Fashion museum: corridor goes right, two short flights of stairs, stair-lift working | 042–043 | Fix the cue |
+| ☐ | The Medici funeral garments are on display (official: permanently) | 044 | Hold the track if not |
+
+## Ground floor
+
+| ✓ | Check | Tracks | If it's wrong |
+|---|---|---|---|
+| ☐ | Russian Icons and Palatine Chapel open off the courtyard; which room holds the "All Creatures Rejoice" icon | 046–047 | Fix the card |
 
 ## Boboli
 
 | ✓ | Check | Tracks | If it's wrong |
 |---|---|---|---|
-| ☐ | The Bacchino is reached by going LEFT (east) from the back of the courtyard | 066–067 | Fix the cue |
-| ☐ | Grotta Grande comes before the Grotta di Madama, and the path between them works | 068–069 | Re-order |
-| ☐ | The Kaffeehaus is open or visible, and the dome view is as described | 072 | Rephrase |
-| ☐ | The Knight's Garden is open | 073 | Add a "seen from the gate" line |
-| ☐ | The Limonaia lies north of the Isolotto, and the Annalena gate is close by | 076–077 | Fix the cue |
-| ☐ | Restoration fences match the tracks: Amphitheatre tiers, Neptune basin, Limonaia gates | 070, 071, 077 | Update the lines |
+| ☐ | The Bacchino is reached by going LEFT (east) from the back of the courtyard | 049–050 | Fix the cue |
+| ☐ | Grotta Grande comes before the Grotta di Madama, and the path between them works | 051–052 | Re-order |
+| ☐ | Neptune: the pose (on a rock, trident swung down) matches the statue | 054 | Fix the description |
+| ☐ | The Kaffeehaus is visible from the path up from Neptune, to the east | 054–055 | Fix the cue |
+| ☐ | Abundance can be reached, or at least seen, while it is under restoration | 055–056 | Adjust the "fence" line |
+| ☐ | The Limonaia lies north of the Isolotto, and the Annalena gate is close by | 058–059 | Fix the cue |
+| ☐ | Restoration fences match the tracks: Amphitheatre tiers, Neptune basin, Abundance, inner Isolotto, Limonaia gates | 053, 054, 056, 058, 059 | Update the lines |
 
 ## Listening checks (on site, with earphones)
 
 | ✓ | Check |
 |---|---|
-| ☐ | Pronunciation of Italian names in 5 random tracks. Note any that sound wrong; the fix goes in pronunciation.py. |
+| ☐ | Pronunciation of Italian names in 5 random tracks. 69 respellings were added on 5 Oct without listening; note any that sound wrong (fix in pronunciation.py, or set APPLY_RESPELLING = False to compare). |
 | ☐ | Loudness: no track noticeably louder or quieter than the others in a noisy room. |
 | ☐ | Length: no single track feels too long to stand through (the longest run just under 3 minutes). |
