@@ -1,0 +1,26 @@
+@id: 058 · ES · v5.0 076 · old 089 · Stop 10
+@section: Boboli
+@room: Stop 10
+@type: W
+@title: Giambologna: el Isolotto y Océano
+@where: En el borde del estanque ovalado del Isolotto, al pie del Viottolone. La zona interior de la isla está cerrada por restauración. Contemple la fuente desde el anillo exterior. La Porta Romana está justo al lado del estanque.
+@what: The Isolotto, a large oval basin of 1618 with a central island holding a copy of Giambologna's marble Oceanus, finished by 1576, with the Nile, Ganges and Euphrates below; the original is in the Bargello. Around the pool, Perseus on horseback, and groups of peasants at their games.
+@listen: A giant who isn't the original, the whole world in one fountain, and the ordinary people around the rim.
+@brief: Arriving at the bottom of the long walk with a friend; curious about the copy, a little grand about the world-fountain, warm and amused about the peasants.
+@pace: medium
+@energy: 3→4→3
+@sources: https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/saccomazzone-gioco-en ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, inner island closed) ; https://arnoldzwicky.org/2023/09/15/an-ideal-male-body/ (marble; moved 1911) ; https://www.friendsofflorence.org/projects/garden-of-the-little-island-boboli-gardens/ ; old script + findings G5, G6 §1.7
+@lang: es
+@translation: from the fact-checked English V5.1 058 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] El gigante del centro de la isla es un suplente. El verdadero Océano se fue hace más de un siglo. En 1911, el original pasó bajo techo, al Bargello, al otro lado del río. [pause] Esta copia ocupó su lugar.
+
+El original lo talló en mármol Giambologna, para los Médici, y estaba terminado en 1576. [pause] Giambologna nació en Flandes y llegó a Italia de joven. Nunca se fue. Fue el escultor de los Médici, y suyas son algunas de las esculturas públicas más famosas de Florencia. El Cosme a caballo, en bronce, de la Piazza della Signoria. El rapto de las sabinas, en la Loggia dei Lanzi. Y esta.
+
+Para los antiguos griegos, Océano era el gran río que rodeaba el mundo, origen de todas las aguas. A sus pies se recuestan otros tres ríos: el Nilo, el Ganges y el Éufrates. África, Asia y el antiguo Oriente, reunidos en una sola fuente. [pause] Es el mundo entero, con los Médici en el centro.
+
+La fuente no empezó aquí. Primero estuvo más arriba, en el eje principal. Bajó a esta isla cuando se hizo el estanque, en 1618.
+
+[warmly] Ahora mire el borde, no solo el centro. Perseo sale del agua a caballo. Más abajo, grupos más animados: campesinos con sus rudos juegos de aldea. Tras tantos dioses y emperadores, el jardín deja entrar a gente común. La isla está cerrada por restauración. Disfrútelos desde el anillo exterior. Y fíjese en los limoneros, en sus grandes macetas de terracota. [pause] Tienen casa de invierno.
+
+Desde aquí hay dos caminos. La Porta Romana está justo al lado de este estanque. Para ver esa casa de invierno, la Limonaia, vuelva al norte por el lado de la Via Romana, hacia el palacio. Reproduzca su pista cuando llegue al edificio largo y bajo.

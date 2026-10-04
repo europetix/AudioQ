@@ -1,0 +1,30 @@
+@id: 036 · FR · v5.0 052 · old NEW · Room 3
+@section: Modern Art
+@room: Room 3
+@type: W
+@title: Stefano Ussi — L'Expulsion du duc d'Athènes
+@where: Dans la salle 3 de la galerie d'Art moderne, devant l'immense tableau d'histoire qui occupe tout un mur. Reculez pour embrasser toute la foule.
+@what: Stefano Ussi, The Expulsion of the Duke of Athens, 1860, oil on canvas, 316 × 447 cm. First prize at the 1861 National Exhibition in Florence; gold medal at the 1867 Paris Exhibition.
+@listen: A tyrant thrown out of medieval Florence, painted at the very moment Tuscany was getting rid of its own ruler, with the painter hidden in the crowd.
+@brief: A friend who knows the secret in the crowd, teasing it at the start, telling the story with growing energy, and landing the reveal quietly.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/expulsion-of-the-duke-of-athens · findings G3 (A 049 route, D)
+@lang: fr
+@translation: from the fact-checked English V5.1 036 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Quelque part dans cette foule, le peintre s'est caché. Cherchez un homme armé à la tête bandée. Nous y reviendrons.
+
+L'histoire se passe en juillet 1343. Gautier de Brienne, le duc d'Athènes, gouverne Florence, et Florence n'en peut plus. Stefano Ussi a tiré la scène des Histoires florentines de Machiavel. Nous sommes dans le palais du Bargello, et le duc signe l'abandon de son pouvoir.
+
+[pause] Regardez les visages autour de lui. Derrière lui se tient son conseiller, Cerretieri Visdomini, sombre comme une porte close. À gauche, calmes et posés, les conjurés. L'archevêque Acciaioli, avec des représentants des nobles et du peuple. À droite, un soldat fait un geste pressant. Et par la fenêtre, la ville fait déjà la fête.
+
+Regardez la taille. Plus de trois mètres de haut, et près de quatre mètres et demi de large. Certaines figures ont probablement eu ses amis pour modèles.
+
+[curious] Mais ce tableau ne parle pas vraiment de 1343. Ussi l'a peint en 1860. [pause] Pour les Florentins de cette année-là, le sujet était un miroir. La Toscane venait de congédier son propre souverain, le grand-duc de Lorraine Léopold Deux. C'est l'homme qui avait reçu la tête de marbre de Napoléon, dans la salle précédente. Ussi voulait que la vieille histoire rende hommage à la nouvelle, la fin du règne des princes étrangers.
+
+Le tableau a été un triomphe. Il a remporté le premier prix à l'Exposition nationale de Florence, et une médaille d'or à l'Exposition de Paris quelques années plus tard.
+
+[long pause] [quietly] Maintenant, trouvez-le. Parmi les hommes armés, l'un a la tête bandée, comme s'il avait lui-même combattu. C'est Ussi. Il n'a pas seulement peint la foule qui a chassé un tyran. Il s'y est mis lui-même.
+
+Quand vous le souhaitez, continuez par la salle quatre jusqu'à la salle cinq, où les grands tableaux d'histoire se poursuivent.

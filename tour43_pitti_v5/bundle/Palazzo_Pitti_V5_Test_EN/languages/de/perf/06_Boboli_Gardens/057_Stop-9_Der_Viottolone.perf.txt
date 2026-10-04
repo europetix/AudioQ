@@ -1,0 +1,24 @@
+@id: 057 · DE · v5.0 075 · old 088 · Stop 9
+@section: Boboli
+@room: Stop 9
+@type: R
+@title: Der Viottolone
+@where: Auf dem Viottolone, der langen Zypressenallee, die am Südwesthang von der Hügelkuppe hinunter zum Isolotto führt. Ein Teil des Wegelabyrinths daneben ist wegen Restaurierung abgesperrt. Die Allee selbst ist offen.
+@what: A long, straight avenue between tall cypresses, with statues at intervals, laid out around 1612 as the garden was pushed south under Cosimo II and Ferdinando II. Fifty-three new cypresses were planted in recent years.
+@listen: How the garden grew south, and why a four-hundred-year-old avenue has young trees.
+@brief: Walking side by side down a long avenue; unhurried and reflective, letting the light and the walk do the work.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://uffizi.it/en/boboli-garden/history ; https://www.finestresullarte.info/attualita/rinascimento-di-boboli (29 Apr 2019) ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; old script + findings G5, G6 §1.7
+@lang: de
+@translation: from the fact-checked English V5.1 057 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Hier wechselt der Garten seine Stimmung. Der erste Medici-Garten blieb nah am Palast. Um 1612, unter Cosimo dem Zweiten, begann die Familie, ihn nach Süden auszudehnen, diesen Hang hinunter. Diese lange, gerade Allee wurde zum Rückgrat der neuen Anlage. Cosimos Sohn Ferdinando der Zweite führte die Arbeit fort.
+
+Die Zypressenreihen zu beiden Seiten sind Jahrhunderte alt. [pause] Die Bäume selbst sind es nicht, jedenfalls nicht alle. Sie wurden immer wieder erneuert. In den letzten Jahren kamen dreiundfünfzig neue dazu, damit der Entwurf aus dem siebzehnten Jahrhundert lebendig bleibt. [pause] Ein Garten wie dieser ist nie einfach fertig. Er wird gepflegt.
+
+Entlang des Weges stehen Statuen. Die meisten sind Florentiner Werke aus dem siebzehnten und achtzehnten Jahrhundert. Sie müssen sie nicht benennen können. Viele sind nicht beschriftet. Es ging um die Wirkung: ein langer Spaziergang durch eine Galerie unter freiem Himmel.
+
+[quietly] Achten Sie auf das Licht. Die Zypressen werfen lange Schatten über den Kies. Später am Tag bilden sie dunkle Streifen, durch die Sie hindurchgehen. [pause] Blicken Sie ab und zu über die Schulter zurück. Den Blick zurück den Hügel hinauf verpasst man leicht.
+
+Ein Teil des Wegelabyrinths neben der Allee ist wegen Restaurierung abgesperrt. Die Allee aber ist bis ganz unten offen. Unten erreichen Sie den Isolotto. Ein ovales Becken mit einer Insel in der Mitte, und darauf eine riesige Figur. Spielen Sie seinen Titel am Rand des Beckens ab.

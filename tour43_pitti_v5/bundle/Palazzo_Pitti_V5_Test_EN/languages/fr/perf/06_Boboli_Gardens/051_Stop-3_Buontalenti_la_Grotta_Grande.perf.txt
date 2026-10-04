@@ -1,0 +1,26 @@
+@id: 051 · FR · v5.0 068 · old 082 · Stop 3
+@section: Boboli
+@room: Stop 3
+@type: W
+@title: Buontalenti : la Grotta Grande
+@where: À côté du Bacchino, le long du même mur est, près de l'entrée du corridor de Vasari. Placez-vous devant la façade. N'entrez que si la grille est ouverte.
+@what: The Grotta Grande, or Buontalenti Grotto: begun in the 1550s as an aqueduct reservoir, given a façade by Vasari, and transformed by Bernardo Buontalenti from 1583. Bandinelli's Apollo and Ceres in the niches; inside, replicas of Michelangelo's four Prisoners, Vincenzo de' Rossi's Theseus and Helen, and Giambologna's Venus of about 1593.
+@listen: How a water tank became the strangest building in the garden, and the question it was built to ask.
+@brief: Showing a friend a wonderfully odd building; curious, then delighted, a quiet beat for Michelangelo's lost statues, warm at the end.
+@pace: medium
+@energy: 3→4→2→3
+@sources: https://uffizi.it/en/artworks/grotta-del-buontalenti ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/hele-and-theseus-grotto ; https://www.uffizi.it/en/artworks/bathing-venus-giambologna ; old script + findings G5
+@lang: fr
+@translation: from the fact-checked English V5.1 051 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Au départ, c'était un réservoir d'eau. Dans les années 1550, les Médicis l'ont bâti ici, pour un nouvel aqueduc. Puis Vasari lui a donné une sobre façade à colonnes. Et une génération plus tard, Bernardo Buontalenti s'en est emparé. Il en a fait le bâtiment le plus étrange du jardin.
+
+Regardez la façade. Deux niches abritent Apollon et Cérès, par Baccio Bandinelli. Dieux de la lumière et des moissons, tout en ordre et en calme. [pause] Au-dessus et autour d'eux, la pierre se met à fondre. Elle coule. Elle se gonfle en croûtes rocheuses, comme si le bâtiment redevenait lentement une grotte.
+
+[pause] C'était toute l'idée. À l'intérieur, si la grille est ouverte aujourd'hui, la première salle imite une grotte humide. Stalactites, pierre spongieuse et coquillages, avec des bergers et des animaux qui sortent à moitié de la roche. Aux quatre coins se dressent quatre des Prisonniers inachevés de Michel-Ange. [quietly] Ou plutôt, se dressaient. Les Médicis y ont placé les originaux en 1585. Des figures qui luttent pour sortir du marbre brut, dans une roche faussement brute. En 1908, elles sont parties pour la galerie de l'Académie. Ce sont aujourd'hui des répliques.
+
+Alors, où finit la nature, et où commence l'art ? [pause] La grotte a l'air naturelle, et chaque centimètre est fabriqué. Les Florentins de l'époque adoraient cette question. Voici leur réponse, en pierre et en eau.
+
+Plus loin, la deuxième salle abrite un marbre de Thésée enlevant Hélène, par Vincenzo de' Rossi. La troisième, la Vénus de Giambologna, une jeune femme qui sort du bain, avec quatre satyres sur le bassin en dessous.
+
+[warmly] Même de l'extérieur, on sent la plaisanterie. Le visage calme d'un dieu, et juste au-dessus, la roche qui commence à couler. Ensuite, cherchez le petit sentier qui monte derrière et au-dessus de la grotte. Il mène à la Grotta di Madama, la plus ancienne grotte du jardin. Écoutez sa piste là-bas.

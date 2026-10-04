@@ -1,0 +1,28 @@
+@id: 027 · ES · v5.0 041 · old 009 · Room 27 · Sala di Apollo
+@section: Palatine
+@room: Room 27
+@type: W
+@title: Tiziano — La Magdalena penitente
+@where: En la Sala di Apollo, delante de la Magdalena de medio cuerpo de Tiziano: una mujer cubierta por su largo cabello cobrizo y dorado, que mira hacia arriba.
+@what: Titian, The Penitent Magdalene, 1531–35, oil on canvas, probably painted for Francesco Maria della Rovere, Duke of Urbino; in Florence since Vittoria della Rovere's inheritance of 1631.
+@listen: Who the Magdalene was in legend, the painting's double life as devotion and display, and how it came from Urbino to Florence.
+@brief: Standing close to a famous painting with a friend; quiet and tender at first, a little frank at the turn, then setting up a link to the next room.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/saint-mary-magdalene (date, canvas, Apollo Room, probable Urbino patron, 1631 inheritance, tears, hair, signed jar, widely copied, Vasari at Urbino 1548); old script 009 + findings G1 (B rows 009)
+@lang: es
+@translation: from the fact-checked English V5.1 027 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Está llorando. Acérquese y verá las lágrimas en sus ojos, pintadas claras como el cristal.
+
+En los Evangelios, María Magdalena es la primera testigo de la Resurrección. Con los siglos, la leyenda añadió mucho más. La fundió con la pecadora que ungió los pies de Cristo. Contó que pasó sus últimos años como ermitaña en una cueva de Francia, haciendo penitencia, cubierta solo por su largo cabello. [pause] Casi nada de eso está en la Biblia. En tiempos de Tiziano, la imagen ya estaba fijada. La Magdalena penitente, con el cabello como única prenda y los ojos vueltos al cielo.
+
+Tiziano la pintó probablemente en Venecia, a principios de la década de 1530, para Francesco Maria della Rovere, duque de Urbino. Mire lo que hace con el cabello. Cae sobre sus hombros como un manto de cobre y oro, atrapando la luz. [pause] Y abajo a la izquierda hay un frasco, el del ungüento de la historia de la unción. Mírelo de cerca. Tiziano firmó su nombre en el borde.
+
+[wry] Ahora, lo evidente. El cabello está ahí para cubrirla, y eso la convierte en un cuadro de devoción. Pero es justo lo que nos hace mirar. Tiziano lo sabía perfectamente. Penitencia y belleza, en la misma pincelada.
+
+Fue un éxito. Cuando el escritor Giorgio Vasari la vio en la corte de Urbino, en 1548, dijo que era una cosa rara. Tiziano y su taller la copiaron una y otra vez. Esta versión se considera en general la más antigua del tipo.
+
+[warmly] Y así llegó a Florencia. En 1631 vino con la herencia de Vittoria della Rovere, parte de la gran colección de Urbino. [pause] Recuerde ese nombre. Volverá a encontrarlo en la sala siguiente.
+
+Tras la puerta de enfrente está la Sala di Venere, la última sala de hoy. Reproduzca su pista allí.

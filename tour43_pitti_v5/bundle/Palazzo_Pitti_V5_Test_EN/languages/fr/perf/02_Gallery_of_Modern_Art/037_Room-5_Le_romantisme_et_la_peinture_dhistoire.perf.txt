@@ -1,0 +1,26 @@
+@id: 037 · FR · v5.0 053 · old 050 · Room 5
+@section: Modern Art
+@room: Room 5
+@type: R
+@title: Le romantisme et la peinture d'histoire
+@where: Dans la salle 5 de la galerie d'Art moderne, parmi les grands tableaux d'histoire. Les salles 6 à 9 suivent.
+@what: Large-format history painting between Romanticism and Realism, including Giuseppe Bezzuoli's Entry of Charles VIII into Florence, 1829, and Giovanni Dupré's Dying Abel, 1846–51. Next: the first Macchiaioli experiments in Room 6, portraits in Rooms 7 and 8, landscapes in Room 9.
+@listen: How Italian painters used the past to talk about their present, and the turn toward painting what is in front of you.
+@brief: Walking a friend through a room of big, theatrical canvases; lively, then a little conspiratorial about the rebellion coming next door.
+@pace: medium
+@energy: 3→3→4
+@sources: https://www.uffizi.it/en/online-exhibitions/en · old script 050 + findings G3 (A 050, B 050, D, E 049–050)
+@lang: fr
+@translation: from the fact-checked English V5.1 037 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dans l'Italie du dix-neuvième siècle, peindre un passé lointain, c'était souvent commenter le présent. Vous venez d'en voir un exemple. [pause] Cette salle en est pleine.
+
+Les tableaux d'ici se situent entre deux mondes, le romantisme et le réalisme. Le romantisme arrive en Italie dans les années 1820. Il apporte de grands sujets, des couleurs fortes et une émotion intense. Le grand nom, c'est Francesco Hayez, formé à Venise et installé à Milan, le peintre du Baiser. La galerie possède aussi des œuvres de lui.
+
+[pause] Ici, cherchez l'Entrée de Charles Huit à Florence, de Giuseppe Bezzuoli, peinte en 1829. Un roi de France entre dans la ville, et le tableau en fait un grand spectacle. Bezzuoli enseignait à l'Académie de Florence. C'est dans cette manière que ses élèves étaient formés.
+
+Cherchez aussi la sculpture d'Abel mourant, de Giovanni Dupré. Pas de foule, pas de costume. Juste un jeune corps, et une immobilité très proche de la vie.
+
+[conspiratorial] Et à côté, une rébellion commence. Dans les salles suivantes, un groupe de peintres florentins tourne le dos à tout ce théâtre. La salle six montre leurs premiers essais, comme la vue du cloître de Santa Croce par Giuseppe Abbati. Viennent ensuite des salles de portraits et une salle de paysages.
+
+L'un des rebelles était justement un élève de Bezzuoli, Giovanni Fattori. Retenez son nom. [pause] Traversez les salles de portraits et de paysages jusqu'à la salle dix, où commencent vraiment les salles des Macchiaioli. Écoutez sa piste en entrant.

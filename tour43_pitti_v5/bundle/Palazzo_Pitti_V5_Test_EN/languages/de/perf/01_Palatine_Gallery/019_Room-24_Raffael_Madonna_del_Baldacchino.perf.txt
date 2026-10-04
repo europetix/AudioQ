@@ -1,0 +1,28 @@
+@id: 019 · DE · v5.0 031 · old 024 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: W
+@title: Raffael — Madonna del Baldacchino
+@where: In der Sala di Saturno, vor dem größten Raffael im Saal: die thronende Jungfrau unter einem großen Baldachin, mit vier Heiligen und zwei kleinen Engeln zu ihren Füßen. Treten Sie zuerst zurück, um die ganze Tafel zu sehen.
+@what: Raphael, Madonna del Baldacchino, oil on canvas, begun around 1507 and left unfinished; enlarged at the top for Grand Prince Ferdinando de' Medici after 1697.
+@listen: The altarpiece Raphael walked away from when Rome called, and the long road it took to this room.
+@brief: Standing back with a friend before a big, unfinished picture; steady and clear through the story, a lift at the call to Rome, landing on a quiet sense of a turning point.
+@pace: medium
+@energy: 3→4→3
+@sources: https://uffizi.it/en/news/the-madonna-del-baldacchino-by-raphael-is-back-to-the-palatine-gallery (in the Saturn Room since 1828; Turini bought it in Florence, unfinished when Raphael was called to Rome; Turini family chapel, Pescia cathedral) ; findings G1 (Dei chapel, Santo Spirito, Julius II 1508, saints Peter, Bernard, James and Augustine confirmed; "only altarpiece" and "last thing in Florence" hedged; Grand Prince Ferdinando bought it in 1697 and had a strip added at the top, Tier 2; angels read) ; old script (Leonardo and Fra Bartolomeo reading)
+@lang: de
+@translation: from the fact-checked English V5.1 019 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Das ist das Bild, von dem Raffael einfach wegging.
+
+Er begann es um 1507 für die Kapelle der Familie Dei in der Kirche Santo Spirito, hier in diesem Teil von Florenz. Es war sein einziges großes Altarbild für die Stadt. Die Jungfrau thront unter einem großen Baldachin, dem Baldacchino, der dem Bild seinen Namen gibt. Auf ihrem Schoß sitzt das Christuskind. Vier Heilige stehen um sie: Petrus und Bernhard, Jakobus und Augustinus. Am Fuß des Throns lesen zwei kleine Engel aus einer Schriftrolle.
+
+Sehen Sie, wie ruhig die Figuren den Raum füllen. Man spürt, wie Raffael von den Malern um ihn herum in Florenz lernt. Leonardos weiche Modellierung und seine Figurenpyramide. Fra Bartolomeos große, stille Architektur. [pause] Raffael war Mitte zwanzig und nahm alles auf, was die Stadt ihn lehren konnte.
+
+[pause] Und dann ging er. 1508 rief Papst Julius der Zweite ihn nach Rom, um die päpstlichen Gemächer auszumalen. Raffael ging. Das Altarbild blieb unvollendet zurück. Santo Spirito hat es nie erreicht.
+
+Stattdessen begann eine lange Reise. Raffaels Freund Baldassarre Turini kaufte es in Florenz, für die Kapelle seiner Familie im Dom von Pescia, einer kleinen Stadt in der Toskana. Viel später, 1697, kaufte es der Medici-Großprinz Ferdinando. Er ließ das Bild oben um einen Streifen vergrößern. [pause] Schauen Sie dort hinauf. Was Sie sehen, ist die Zutat des Prinzen, nicht Raffael.
+
+[warmly] Dieses Bild ist also ein Scharnier. Auf der einen Seite steht der junge Raffael der kleinen Florentiner Bilder, die Sie gerade gesehen haben, La Gravida und die Granduca. Auf der anderen der Raffael, der wenige Jahre später im Vatikan die Schule von Athen malen würde. Das Baldacchino gehörte zu seinen letzten Arbeiten in Florenz. Und es war sein ehrgeizigstes Florentiner Bild. [quietly] Vor diesem Bild stehen Sie genau an der Wende.
+
+Suchen Sie zuletzt in diesem Saal ein Paar zusammengehöriger Bildnisse: ein Ehemann und seine junge Frau. Das sind Agnolo und Maddalena Doni.

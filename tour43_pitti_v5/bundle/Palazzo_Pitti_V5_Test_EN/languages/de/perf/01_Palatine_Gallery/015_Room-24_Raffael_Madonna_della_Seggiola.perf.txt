@@ -1,0 +1,28 @@
+@id: 015 · DE · v5.0 027 · old 021 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: W
+@title: Raffael — Madonna della Seggiola
+@where: In der Sala di Saturno, vor dem runden Bild der Jungfrau, die ihr Kind umarmt, mit dem kleinen Johannes am rechten Rand.
+@what: Raphael, Madonna and Child with the Young Saint John, known as the Madonna della Seggiola, oil on panel, around 1512, a tondo about 71 centimetres across.
+@listen: The legend of the woman in the Roman doorway, the papal chair that undercuts it, and how three figures were fitted into a circle.
+@brief: Sharing a favourite painting and its famous legend with a friend; curious, then quietly delighted at the clue in the chair, tender at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/la-madonna-col-bambino-e-san-giovannino-detta-madonna-della-seggiola (c.1512; chamber chair of papal dignitaries; orbs may allude to Medici arms; likely commissioned by Leo X; Tribuna 1589; Grand Prince Ferdinando's bedroom at Pitti; colours, glances, melancholy) ; old script (doorway legend, framed as tradition) + findings G1 (Paris 1799–1815 confirmed; date and Leo X wording hedged)
+@lang: de
+@translation: from the fact-checked English V5.1 015 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Über dieses Bild erzählt man sich eine schöne Geschichte. Raffael geht durch Rom. In einem Hauseingang sieht er eine Bäuerin. Sie sitzt auf einem niedrigen Schemel, ihr Kind im Arm. Und er malt genau das, was er gesehen hat. [pause] Eine reizende Legende. Und ziemlich sicher erfunden. [pause] Der Stuhl verrät sie.
+
+Vom Stuhl sehen Sie nur ein Stück: einen Pfosten mit runden Knäufen. Das ist kein Schemel einer Bäuerin. Es ist ein Zeremonienstuhl, hohen Würdenträgern am päpstlichen Hof vorbehalten. Und die Knäufe spielen vielleicht auf die Kugeln im Wappen der Medici an. [pause] Viele glauben, das Bild entstand für den Medici-Papst Leo den Zehnten. Sein Bildnis hängt hier im selben Saal. Raffael malte es um 1512, in seinen römischen Jahren.
+
+Sie ist also wohl keine Frau aus einem Hauseingang. [warmly] Aber sehen Sie, wie Raffael sie trotzdem so wirken lässt. Maria hebt ein Knie, um ihren Sohn zu halten, und drückt ihn an sich. Ihre Wange ruht an seiner Schläfe. Und doch blickt sie zu Ihnen heraus. [pause] Rechts faltet der kleine Johannes die Hände zum Gebet und schaut zu den beiden. Die Arme greifen ineinander. Und die drei Körper folgen dem runden Rand mit vollkommener Leichtigkeit.
+
+Nun die Farben. Ein weißer Turban, mit Goldfäden durchwirkt. Ein Tuch in Grün und Rot. Ein roter Ärmel neben dem gelben Hemd des Kindes. Und das tiefe Ultramarin ihres Kleides. [pause] In den Blicken liegt ein wenig Wehmut. Als wüsste sie schon, was diesem Kind bevorsteht.
+
+Schon 1589 hing das Bild in der Tribuna der Uffizien. Später brachte Großprinz Ferdinando es in den Palazzo Pitti, in sein Schlafzimmer. Napoleons Armeen schafften es nach Paris. Nach seinem Sturz kehrte es zurück. Es wurde eines der meistkopierten Bilder Raffaels.
+
+[quietly] In einem Punkt hat die Legende recht. [pause] Wer sie auch war, sie sieht nicht aus wie eine Himmelskönigin. Sie sieht aus wie eine Mutter, die ihr Kind festhält.
+
+Suchen Sie als Nächstes das Bildnis einer jungen Frau mit weiten roten Ärmeln, eine Hand auf dem Bauch. Das ist Raffaels La Gravida.

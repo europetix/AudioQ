@@ -1,0 +1,28 @@
+@id: 004 · ES · old 004 · Room 3 · Table of the Muses
+@section: Palatine
+@room: Room 3
+@type: W
+@title: La Mesa de las Musas
+@where: Junto a la mesa redonda del centro de la Sala Castagnoli. Rodéela despacio, sin tocarla ni apoyarse en ella.
+@what: A large round table of Florentine stone inlay, begun in the 1830s by Aristodemo Costoli and Giovan Battista Giorgi, on a bronze base modelled by Giovanni Dupré in the 1850s and cast by Clemente Papi; in this room since 1855.
+@listen: How a picture is made out of stone, and how long one table took.
+@brief: A friend crouching beside a marvel, letting the listener in on how it was made; curious, then quiet and close for the looking, a smile at the knees line, a warm landing.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/video/the-table-of-the-muses-and-the-art-of-semiprecious-stone-inlay (Costoli and Giorgi 1830s; Dupré base 1850s; casting by Clemente Papi; in the Castagnoli Room since 1855; many craftsmen) ; old script + findings G1 B 004 (Dupré born in Siena; Apollo and the Muses hedge; base with the Seasons; Opificio founded 1588 by Ferdinando I confirmed)
+@lang: es
+@translation: from the fact-checked English V5.1 004 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En esta mesa no hay ni una gota de pintura. [pause] Cada color que ve es el color natural de una piedra.
+
+La técnica se llama commesso fiorentino, mosaico florentino. Los artesanos cortaban piedras duras en láminas finas. Daban a cada lámina la forma de un pétalo, una hoja o un pliegue de tela. Luego encajaban las piezas tan bien que las juntas casi desaparecen. Los Médici lo tomaron tan en serio que, ya en el siglo dieciséis, le dedicaron un taller de corte, el Opificio delle Pietre Dure. [pause] Esta mesa llega al final de esa larga historia.
+
+El tablero se empezó en la década de 1830, con Aristodemo Costoli y Giovan Battista Giorgi. No fue un trabajo rápido. La base de bronce llegó aún más tarde, en la década de 1850. La modeló un joven escultor de Siena, Giovanni Dupré, y la fundió Clemente Papi. En 1855, la mesa terminada se instaló en esta sala. Cuatro nombres en los documentos. Y muchas más manos que nadie anotó.
+
+[quietly] Ahora mire de cerca. El centro suele describirse como Apolo con las Musas, diosas de las artes, que dan nombre a la mesa. Siga los cambios de color dentro de una misma forma. Verá al artesano elegir la piedra como un pintor mezcla sus colores. Una veta se vuelve un pliegue. Una mancha oscura, una sombra.
+
+Luego mire hacia abajo. La base de bronce lleva las Estaciones, con niños pequeños entre ellas. [amused] Vale la pena agacharse, si sus rodillas lo permiten.
+
+[warmly] Cuando se terminó esta mesa, el último de los Médici llevaba más de un siglo muerto. Y el mosaico florentino seguía creando maravillas para la familia que vino después.
+
+A la derecha está el Ala del Volterrano, que fue el apartamento privado de una gran duquesa. Sus salas suelen estar cerradas por restauración. Si están abiertas, recórralas. En todo caso, siga las señales hasta la Sala di Prometeo, una sala con cuadros redondos. Busque el gran tondo de Filippo Lippi, con figuras diminutas en las habitaciones detrás de la Virgen. [pause] Reproduzca su pista delante de él.

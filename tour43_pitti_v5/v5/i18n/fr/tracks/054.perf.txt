@@ -1,0 +1,24 @@
+@id: 054 · FR · v5.0 071 · old 084 · Stop 6
+@section: Boboli
+@room: Stop 6
+@type: W
+@title: Stoldo Lorenzi : la fontaine de Neptune
+@where: Sur la terrasse au-dessus de l'amphithéâtre, sur le sentier qui fait le tour du bassin de Neptune. Le bassin est clôturé pendant la restauration : regardez la fontaine depuis le sentier.
+@what: The Neptune Fountain, known as the Forcone: a bronze Neptune with his trident by Stoldo Lorenzi, 1565–68, rising from a large basin set into the hillside.
+@listen: Why a sea god stands on a Tuscan hill, and how Florentines nicknamed him.
+@brief: A friend with a soft spot for Florentine irreverence; amused at the nickname, interested in the politics, then looking closely at the bronze and landing warmly.
+@pace: medium
+@energy: 3→4→3
+@sources: https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, Neptune closed) ; https://www.britannica.com/biography/Cosimo-I (Grand Duke 1569) ; old script + findings G5
+@lang: fr
+@translation: from the fact-checked English V5.1 054 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Les Florentins aiment surnommer leurs grandes statues, et pas toujours gentiment. Sur la Piazza della Signoria, le grand Neptune de marbre est devenu il Biancone, le grand blanc. Et ce n'était pas un compliment. Celui-ci s'en tire bien. Les Florentins l'appellent la Fontana del Forcone, la fontaine de la grande fourche. [pause] Regardez le trident, et vous comprendrez.
+
+Le bronze est de Stoldo Lorenzi, réalisé entre 1565 et 1568 pour Côme Premier. Côme était alors duc de Florence et de Sienne, et il voulait davantage. En 1569, il deviendra grand-duc de Toscane. Il construisait aussi une flotte, avec des ambitions en Méditerranée. [pause] Un dieu de la mer, en haut de la colline derrière son palais, était donc un message autant qu'un ornement.
+
+Le bassin est clôturé pour restauration en ce moment, mais la statue se voit bien depuis le sentier. [curious] Si vous pouvez, regardez-le sous plusieurs angles. Debout sur un rocher, il abaisse son trident vers l'eau, comme prêt à frapper. La barbe, les cheveux, les longs muscles étirés, tout relève du maniérisme. C'est le style de la fin de la Renaissance, élégant et un peu inquiet. [pause] Ce n'est pas un dieu classique et calme. Il est saisi en mouvement, presque sur scène.
+
+[warmly] Et il a été placé ici pour être vu d'en bas. Regardez en bas, vers l'amphithéâtre et le palais, et vous comprendrez ce choix. Le dieu marin d'un duc, qui monte la garde sur son jardin.
+
+Quand vous le souhaitez, prenez le sentier qui monte à gauche, vers l'est. Allez vers un petit pavillon au toit en coupole, avec des tourelles, sur la terrasse au-dessus. C'est le Kaffeehaus. Écoutez sa piste au bord de sa terrasse.

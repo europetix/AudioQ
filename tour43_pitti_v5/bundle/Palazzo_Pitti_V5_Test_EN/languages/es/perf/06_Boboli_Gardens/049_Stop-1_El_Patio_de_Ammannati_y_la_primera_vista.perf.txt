@@ -1,0 +1,24 @@
+@id: 049 · ES · v5.0 066 · old 079 · Stop 1
+@section: Boboli
+@room: Stop 1
+@type: R
+@title: El Patio de Ammannati y la primera vista
+@where: Al fondo del Patio de Ammannati, con el palacio a su espalda y el jardín subiendo delante. La Fuente de la Alcachofa está en la terraza de arriba. Al Bacchino se llega por el lado izquierdo del patio, el lado este. Un túnel accesible bajo la logia lleva a la misma placita.
+@what: The threshold of the Boboli Gardens: more than 30 hectares climbing the hill behind the palace, begun in 1549 for Eleonora di Toledo and reshaped over three centuries; now in the long Boboli 2030 restoration, with some areas fenced off but visible.
+@listen: Who began the garden, the single line it is built around, and an honest word about the restoration works.
+@brief: Standing at the garden's edge with a friend before a long walk; open and warm, a touch of candour about the works, then pointing the way with a smile.
+@pace: medium
+@energy: 3→3→4
+@sources: https://www.uffizi.it/giardino-boboli (IT, "oltre 30 ettari") ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/boboli-garden ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; findings G5, G6 §1.6–1.7
+@lang: es
+@translation: from the fact-checked English V5.1 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Detrás de la casa más grandiosa de Florencia, los Médici tenían toda una colina. Los Jardines de Bóboli ocupan más de treinta hectáreas. Terrazas, avenidas, fuentes y bosques suben desde el palacio hacia las viejas murallas.
+
+Todo empezó con una mujer. En 1549, Leonor de Toledo, esposa española de Cosme Primero, inició las obras, con Niccolò Tribolo como diseñador. [pause] Tribolo murió al año siguiente. Lo siguieron Ammannati, autor de este patio, y luego Buontalenti. Durante tres siglos, los Médici y luego los Lorena siguieron añadiendo. El resultado fue modelo de jardines de corte en toda Europa. Por cierto, la ropa fúnebre de Leonor se expone en el palacio, en el Museo de la Moda y el Traje, segundo piso.
+
+[lightly] Un aviso sincero antes de salir. El jardín vive una larga restauración llamada Bóboli 2030. Encontrará andamios y zonas valladas por el camino. Pero casi todo lo vallado se ve desde los senderos.
+
+El diseño se basa en una idea: el eje. Desde aquí, una sola línea recta sube la colina. [pause] Pasa por la Fuente de la Alcachofa, sobre usted, atraviesa el anfiteatro, pasa junto a la Fuente de Neptuno y llega a una estatua colosal en lo alto. [quietly] Casi todo el jardín central se ordena a su alrededor.
+
+Pero la primera parada está a un lado. Vaya a su izquierda, hacia el este, a la placita de la fuente del Bacchino. Allí, una figurita redonda monta una tortuga, y vale la pena conocerla. [pause] Reproduzca su pista cuando esté a su lado.

@@ -1,0 +1,32 @@
+@id: 031 · DE · v5.0 045 · old 010 · Room 28 · Sala di Venere
+@section: Palatine
+@room: Room 28
+@type: W
+@title: Tizian – Bildnis des Pietro Aretino
+@where: In der Sala di Venere, vor Tizians Halbfigurenbildnis eines massigen, bärtigen Mannes in weitem rotem Mantel mit Goldkette.
+@what: Titian, Portrait of Pietro Aretino, early 1545, oil on canvas. Commissioned by Aretino and given by him to Duke Cosimo I de' Medici in October 1545.
+@listen: The most feared writer in Italy, the friend who painted him, and a complaint about the bill that tells us how Titian worked.
+@brief: Introducing a formidable character to a friend with relish; lively and amused, then attentive to the brushwork, landing on affection.
+@pace: medium
+@energy: 3→4→3
+@sources: https://uffizi.it/en/artworks/portrait-of-pietro-aretino (early 1545, canvas, Venus Room, gift to Cosimo I Oct 1545, "more coins" letter, gold chain, red cloak, sketched style); old script 010 + findings G1 (A: MOVED to Venus Room; B rows 010; Sansovino circle confirmed)
+@lang: de
+@translation: from the fact-checked English V5.1 031 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Das ist das Gesicht des gefürchtetsten Schriftstellers im Italien des sechzehnten Jahrhunderts. Und er hatte an dem Bildnis etwas auszusetzen.
+
+Pietro Aretino war Dichter, Satiriker und Pamphletist. Er lebte teils davon, die Mächtigen zu loben. Und teils davon, ihnen mit dem Ruin ihres Rufs zu drohen, wenn sie nicht zahlten. [pause] Er war auch einer von Tizians engsten Freunden. In Venedig bildeten die beiden mit dem Bildhauer Jacopo Sansovino den inneren Kreis des Kunstlebens.
+
+Aretino bestellte dieses Bildnis selbst, Anfang 1545. Im Oktober schickte er es als Geschenk an Herzog Cosimo de' Medici, hier in Florenz. So kam es zu den Medici.
+
+Sehen Sie die Malweise. Das Gesicht ist ausgearbeitet, wach und aufmerksam. Der lange Bart, die stolz gehaltenen Schultern, die schwere Goldkette. Doch der große rote Mantel, der fast die ganze Leinwand füllt, ist erstaunlich frei gemalt. Breite Striche. Falten und Reflexe nur angedeutet.
+
+[wry] Aretino fiel das auf. In einem Brief murrte er: Hätte er Tizian mehr Münzen gezahlt, wären die Striche leuchtender, weicher und fester geworden. Mit anderen Worten: Man bekommt den Mantel, den man bezahlt.
+
+[pause] Doch nun die Wende. Was Aretino unfertig nannte, schätzen wir heute besonders. Es ist Tizians freier, skizzenhafter Stil. Die Farbe beschreibt den Stoff nicht mehr, sie wird zum Stoff. [pause] Stehen Sie nah davor, sehen Sie nur Pinselstriche. Treten Sie zurück, und ein lebendiger Mann füllt den Rahmen.
+
+Blicken Sie nun quer durch den Saal zurück auf das Konzert. Derselbe Maler, im Abstand von etwa fünfunddreißig Jahren. Dort ist alles weich und gedämpft. Hier bewegt sich der Pinsel schnell und entschuldigt sich nicht.
+
+[warmly] Die schärfste Feder Italiens, gemalt von dem Freund, der ihn am besten kannte.
+
+Ein weiterer Tizian wartet hier, das letzte Gemälde der heutigen Route. Suchen Sie eine junge Frau in blauem Kleid. Man nennt sie La Bella.

@@ -1,0 +1,24 @@
+@id: 048 · FR · v5.0 065 · old 078 · Chapel
+@section: Russian Icons and Chapel
+@room: Chapel
+@type: R
+@title: La chapelle Palatine
+@where: La grande salle centrale de l'appartement du rez-de-chaussée, à côté des salles des icônes. Placez-vous vers le milieu, puis levez les yeux vers la voûte et regardez le long des murs.
+@what: The court chapel created in 1766 for Pietro Leopoldo in the central hall of the 1661 summer apartment; painted by Luigi Ademollo in 1791–93, with the left choir loft completed in 1822–23. Altar in Florentine commesso incorporating parts made for the Chapel of the Princes at San Lorenzo; the Chigi Crucifix by Lorenz Rues and Antonio Raggi.
+@listen: How a reception hall became a court chapel, the painted New Testament scenes, and an altar made from the Medici's unfinished masterpiece.
+@brief: A calm guide in a quiet sacred room, keeping the voice low; a light smile at the painted cloth, then a gentle send-off toward the garden.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/pitti-palace/palatine-chapel ; https://www.uffizi.it/en/artworks/decoration-palatine-chapel ; https://www.uffizi.it/en/artworks/cappella-palatina ; https://www.uffizi.it/en/news/icons-pitti ; old script + findings G4
+@lang: fr
+@translation: from the fact-checked English V5.1 048 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cette salle a d'abord servi aux fêtes. Quand Côme Trois se marie, en 1661, c'est la grande salle centrale de leur appartement d'été. On y reçoit les invités. Un siècle plus tard, le palais a de nouveaux maîtres. En 1766, le grand-duc Habsbourg-Lorraine Pierre-Léopold, le réformateur devenu plus tard empereur, en fait la chapelle de la cour.
+
+Les peintures sont venues une génération après. Le Milanais Luigi Ademollo a fait toute sa carrière à Florence. Il a décoré cette chapelle au début des années 1790, pour le grand-duc Ferdinand Trois. [pause] Trente ans après, il revient achever une des tribunes du chœur. Sur la voûte, l'Assomption de la Vierge. Le long des murs, des scènes du Nouveau Testament, dont l'entrée du Christ à Jérusalem et la Crucifixion.
+
+[quietly] Trouvez maintenant l'autel. C'est du commesso florentin, des pierres dures taillées et ajustées comme une mosaïque. Certaines pièces étaient destinées à l'un des plus grands projets des Médicis. L'autel de la chapelle des Princes, à San Lorenzo, qui ne fut jamais achevé. [pause] Des pierres prévues pour le grand mausolée familial ont donc fini ici, dans une ancienne salle de réception.
+
+De l'autre côté du mur, des icônes orthodoxes. Ici, une chapelle de cour catholique. Deux traditions de dévotion chrétienne, côte à côte, sous un même toit.
+
+[pause] Quand vous le souhaitez, ressortez dans la cour d'Ammannati. Au-delà s'ouvrent les jardins, derrière le palais. Le premier arrêt est au fond de la cour, là où le jardin commence.

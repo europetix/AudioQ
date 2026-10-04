@@ -65,6 +65,16 @@ verify..."). The reliable way:
 Run it twice (1, then 2) if you want both voices for the test.
 If a render stops (network, sleep), just run it again: finished tracks are skipped.
 
+SPANISH, FRENCH AND GERMAN GUIDES
+=================================
+Run  generate_audio_ES_FR_DE.command  the same way (bash + drag), then choose:
+  1) Espanol - Dalia   2) Francais - Vivienne   3) Deutsch - Katja
+and 1) the full guide (61 tracks) or 2) two samples. The guide appears in
+~/Desktop/Palazzo_Pitti_V5_1_<ES|FR|DE>_<voice>/, same folders and numbers as the
+English, so the same route map works. Scripts are in languages/<es|fr|de>/.
+Translations adapted for listening, formal address; please have a native speaker
+check them before release.
+
 VOICE SAMPLES IN SPANISH, FRENCH AND GERMAN (female voices)
 ===========================================================
 Run  voice_samples_ES_FR_DE.command  the same way (bash + drag). It renders the

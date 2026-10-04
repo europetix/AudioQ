@@ -1,0 +1,28 @@
+@id: 035 · FR · v5.0 051 · old 049 · Room 2
+@section: Modern Art
+@room: Room 2
+@type: W
+@title: Canova et atelier — Tête colossale de Napoléon
+@where: Dans la salle 2 de la galerie d'Art moderne, devant la tête colossale de Napoléon en marbre.
+@what: Antonio Canova and his workshop, Colossal Head of Napoleon, marble, about 1810, after the portrait Canova modelled from life in Paris in 1802. Given to Grand Duke Leopold II by Louis Bonaparte in 1845.
+@listen: Five sittings with the First Consul, a face that became a bestseller, and the strange thank-you present that brought it to Florence.
+@brief: A friend telling a good political story in front of a big marble face; curious at first, frank about the doubt, wry at the irony of the gift.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/online-exhibitions/napoleon-uffizi · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · old script 049 + findings G3 (A 049, B 049)
+@lang: fr
+@translation: from the fact-checked English V5.1 035 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1802, Napoléon rencontre Antonio Canova cinq fois à Paris. Il n'est pas encore empereur. Premier consul de France, il a trente-trois ans. Il veut que le sculpteur le plus célèbre d'Europe fixe son visage dans le marbre.
+
+Canova, dit-on, a accepté à contrecœur. Il était italien, et les armées françaises emportaient l'art italien à Paris. Dans la galerie Palatine, vous en avez déjà vu la preuve. La Vénus italique de Canova y remplace la Vénus de Médicis antique, emmenée en France. [pause] Mais il est parti, et il a modelé la tête en argile, d'après nature.
+
+Regardez l'échelle. Ce n'est pas grandeur nature. C'est colossal. Canova l'a idéalisé, comme les Anciens idéalisaient leurs souverains. Mais pas trop. Les sourcils sont lourds. La bouche est ferme. Quoi qu'il ait pensé du modèle, il a sculpté le visage d'un homme réel.
+
+[pause] Voici le rebondissement. Ce marbre n'est probablement pas entièrement de la main de Canova. Le musée l'attribue à Canova et son atelier, vers 1810, et seulement selon la tradition. La tête est devenue une sorte de best-seller. Des copies sortaient des ateliers de marbre de Carrare, sous le patronage d'Élisa, la sœur de Napoléon. Vous venez peut-être de la voir dans le portrait de Bezzuoli.
+
+[wry] Et puis, voyez comment celle-ci est arrivée à Florence. En 1845, Louis Bonaparte, le frère de Napoléon, l'a offerte au grand-duc Léopold Deux. Pour le remercier de son hospitalité pendant son exil florentin. La famille de Léopold, les Lorraine, n'avait pu revenir à Florence qu'après la chute de Napoléon. [pause] Le visage du conquérant a fini dans leur palais, en remerciement.
+
+Canova, lui, a refusé de s'installer à Paris comme sculpteur de Napoléon. Après Waterloo, il a œuvré pour rapatrier en Italie les œuvres pillées.
+
+[lightly] L'immense tableau de la salle trois, à côté, parle d'un autre souverain resté trop longtemps.

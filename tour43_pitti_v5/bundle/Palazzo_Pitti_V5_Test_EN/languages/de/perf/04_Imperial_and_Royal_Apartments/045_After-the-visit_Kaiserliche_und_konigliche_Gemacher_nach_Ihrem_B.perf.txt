@@ -1,0 +1,26 @@
+@id: 045 · DE · v5.0 048 · old 074–075 · After the visit
+@section: Royal Apartments
+@room: After the visit
+@type: R
+@title: Kaiserliche und königliche Gemächer – nach Ihrem Besuch
+@where: Überall im ersten Stock, sobald Ihre Gruppe die königlichen Gemächer verlassen hat. Von hier führen die Haupttreppe und die Aufzüge hinunter in den Hof und zu den Museen im Erdgeschoss.
+@what: A look back at the apartments you have just walked through: French imperial silk, a Medici alcove turned chapel, a Savoy throne room and the rooms of Queen Margherita.
+@listen: The answer to the parrot riddle, and how three dynasties layered their lives into one set of rooms.
+@brief: Catching up with a friend just out of the guided visit; amused at the riddle's answer, then reflective, ending with clear directions.
+@pace: medium
+@energy: 3→4→2→3
+@sources: https://www.uffizi.it/en/artworks/parrots-hall · https://uffizi.it/en/royal-apartments/history · https://www.uffizi.it/en/artworks/chapel-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/oval-room-royal-apartments-pitti-palace · https://uffizi.it/en/special-visits/tours-to-the-royal-apartments-of-the-pitti-palace · old scripts 070–075 + findings G4, G6 §1.3–1.4
+@lang: de
+@translation: from the fact-checked English V5.1 045 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Nun? Waren es Papageien?
+
+Es waren Adler. Die Seide in diesem Raum ist französisch, um 1810 gewebt. Der Vogel in jedem Medaillon sollte Napoleons kaiserlicher Adler sein. 1814, nach Napoleons Sturz, kehrte der lothringische Großherzog Ferdinand der Dritte nach Florenz zurück. Die Wandbehänge brachte er mit. [pause] Die Florentiner warfen einen Blick auf den stolzen kaiserlichen Vogel und nannten ihn Papagei. Der Name blieb.
+
+Dieser eine Raum ist die ganze Wohnung im Kleinen. Niemand hat hier je bei null angefangen. Jede Familie zog in die Räume der vorigen und änderte nur, was sie brauchte.
+
+Die Medici hinterließen ihre Spuren dort, wo man es am wenigsten erwartet. Ferdinandos Alkoven, sein privates Schlafgemach, wurde unter den Lothringern zur Kapelle. Trotzdem blieb der weiß-goldene Stuck fast unberührt, mit Wahlsprüchen für Ferdinando und seine Frau Violante. Die Lothringer brachten ihre Seiden mit, und das kleine Ovale Kabinett, ganz in Rokoko-Schwüngen. Die Savoyer brachten einen Thron unter ihrem eigenen Wappen. Und Königin Margherita richtete sich ein Zuhause ein, in Räumen mit blauem und gelbem Brokat. [wry] Nach ihr soll die Pizza benannt sein. Aber vielleicht ist die Geschichte schöner als wahr.
+
+[quietly] 1919 übergab König Viktor Emanuel der Dritte dann den ganzen Palast dem Staat. [pause] Drei Dynastien, eine Folge von Räumen, und fast nichts weggeworfen.
+
+[pause] Nehmen Sie von hier die Haupttreppe oder einen Aufzug hinunter in den Hof. Die Russischen Ikonen und die Cappella Palatina liegen im Erdgeschoss, mit Zugang vom Hof. Folgen Sie den Schildern zur Cappella Palatina.

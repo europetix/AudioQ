@@ -1,0 +1,30 @@
+@id: 022 · DE · v5.0 034 · old 017 · Room 25 · Sala di Giove
+@section: Palatine
+@room: Room 25
+@type: W
+@title: Raffael – La Velata (Die Verschleierte)
+@where: In der Sala di Giove, vor Raffaels Bildnis einer Frau in weißer Seide mit einem Schleier über dem Haar.
+@what: Raphael, Portrait of a Woman, known as La Velata, oil on canvas, around 1512–15.
+@listen: Whether she was Raphael's beloved Fornarina or a married noblewoman, and how he paints white on white.
+@brief: Telling a five-hundred-year-old mystery to a friend in front of the painting; intimate, curious, honest about the doubt, lingering lovingly on the silk.
+@pace: medium-slow
+@energy: 2→3, small lift at the turn, soft landing
+@sources: https://www.uffizi.it/en/artworks/woman-with-a-veil (Jupiter Room; canvas, 1512–15; veil = married status; commissioned portrait of a young noblewoman) ; calibration track (lead-verified) ; findings G1 (Vasari/Fornarina tradition confirmed)
+@lang: de
+@translation: from the fact-checked English V5.1 022 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieses Bildnis birgt ein Rätsel. Und es beginnt mit einem Mann, der es vor fast fünfhundert Jahren sah. Giorgio Vasari war Maler und schrieb das erste große Buch über das Leben der Künstler. Er sah sie im Haus eines Florentiner Kaufmanns. Und er schrieb, sie sei die Frau, die Raffael sein Leben lang liebte. Die spätere Überlieferung gab ihr einen Namen. Margherita Luti, die Bäckerstochter. La Fornarina.
+
+[pause] Eine wunderbare Geschichte. Und vielleicht ist sie nicht wahr.
+
+Sehen Sie sich an, was sie trägt. Das ist nicht das Kleid einer Bäckerstochter. Die weißen Seidenärmel sind geschlitzt und gerafft, sodass feines Leinen hervorquillt. Am Mieder glänzt Goldfaden, am Hals liegt eine Perlenkette. [pause] Das ist eine sehr teure Garderobe. Viele Fachleute sehen darin das Auftragsbildnis einer jungen Adligen.
+
+Dann ist da der Schleier, das Detail, das dem Bild seinen Namen gibt. [lightly] In Raffaels Welt bedeutete ein Schleier über dem Haar nur eines. Sie war *verheiratet*. Das macht die Liebesgeschichte etwas komplizierter.
+
+Unstrittig ist Folgendes. Raffael malte sie in Rom, um 1512 bis 1515. Er war damals etwa dreißig und der gefeiertste Maler der Stadt. Und ein sehr ähnliches Gesicht taucht in Rom wieder auf, in seinem Bild, das als La Fornarina bekannt ist. Dort ist sie halb entkleidet und trägt ein Armband mit Raffaels eigenem Namen. Viele erkennen dieselben Augen und denselben Mund. [pause] Wer immer sie war, sie war wohl mehr als nur eine weitere Kundin.
+
+[quietly] Betrachten Sie nun die Seide. Raffael malt Weiß auf Weiß, das Kleid, den Schleier, das Leinen. Und nie wirkt es flach. Jede Falte fängt ein etwas anderes Licht. Und ihre Hand auf der Brust ist halb eine Geste der Bescheidenheit. Und halb die Geste eines Menschen, der gleich etwas sagen will.
+
+[long pause] Fünf Jahrhunderte später kennen wir ihren Namen noch immer nicht sicher. Raffael hätte das, glaube ich, gefallen.
+
+Auch Andrea del Sartos junger Johannes der Täufer hängt in diesem Saal. Spielen Sie seinen Titel vor dem Bild ab.

@@ -1,0 +1,26 @@
+@id: 033 · ES · v5.0 049 · old 047 · Entrance
+@section: Modern Art
+@room: Entrance
+@type: R
+@title: Galería de Arte Moderno — Otro siglo
+@where: En la entrada de la Galería de Arte Moderno, en el segundo piso. Desde la escalera o los ascensores, siga el pasillo y gire a la izquierda. Las salas están numeradas del 1 al 30 y forman un circuito.
+@what: Thirty rooms of Italian painting and sculpture from the late 18th to the early 20th century, in rooms once used by the Lorraine grand dukes, with one of the richest Macchiaioli collections anywhere. The gallery opened in 1924.
+@listen: What "modern" meant when the gallery opened, and how the loop of rooms tells its story.
+@brief: A friend at the top of the stairs, gently resetting expectations with a smile, then laying out the walk ahead in plain words.
+@pace: medium
+@energy: 3→3
+@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · old script 047 + findings G3 (A, B 047), G6 §1.4
+@lang: es
+@translation: from the fact-checked English V5.1 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Cuando esta galería abrió, en 1924, moderno significaba algo bastante distinto. Aquí arriba no hay Picasso. Ni Matisse. [pause] Lo que hay, en treinta salas numeradas, es pintura y escultura italianas desde finales del siglo dieciocho hasta principios del veinte.
+
+Y en su corazón, una de las colecciones más ricas del mundo de los Macchiaioli. Eran pintores toscanos que pintaban al aire libre. Construían sus cuadros con manchas de luz y color, en los años en que Italia se convertía en un solo país.
+
+Las salas también cuentan. [pause] Eran estancias familiares de los grandes duques de Lorena.
+
+[pause] El circuito sigue, más o menos, el orden del tiempo. Primero, el Neoclasicismo y los años de Napoleón. Después, los grandes cuadros de historia. En el centro, los Macchiaioli, rodeados de retratos y paisajes. Y en las últimas salas, la pintura toscana posterior, el Simbolismo y los inicios del siglo veinte.
+
+[warmly] Observe cómo cambia el siglo mientras camina. Empieza con dioses y emperadores de mármol. A mitad del circuito, ya pinta soldados, leñadores y mujeres sentadas a la sombra junto al mar.
+
+El circuito empieza en la sala uno. Las dos primeras salas son neoclásicas. Y en la sala dos le espera un rostro muy famoso.

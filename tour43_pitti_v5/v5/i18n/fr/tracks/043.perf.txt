@@ -1,0 +1,26 @@
+@id: 043 · FR · v5.0 062 · old 059–069 · Galleries
+@section: Fashion and Costume
+@room: Galleries
+@type: R
+@title: Trois siècles de mode : la présentation tournante
+@where: N'importe où dans les galeries du musée, au-delà des vêtements des Médicis. Les présentations changent, écoutez donc cette piste où vous voulez. Ensuite, revenez sur vos pas jusqu'au palier du deuxième étage, puis descendez d'un étage pour les Appartements royaux, ou jusqu'à la cour.
+@what: Clothes, accessories, jewellery and stage costumes from the eighteenth century to today, shown in rotation for conservation; the selection on view changes from time to time.
+@listen: How to read whatever is on display today, and how Italian fashion was launched on the world inside this very palace.
+@brief: Browsing with a friend who loves clothes; light and lively, then a little proud at the Sala Bianca story, ending with clear directions downstairs.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/en/events/nuovo-allestimento-museo-moda-2025 · https://www.theflorentine.net/2024/07/16/fashion-museum-reopens-palazzo-pitti/ · old scripts 059–069 + findings G3 (A 059–069, B 059–069, B 065, C), G6 §1.4
+@lang: fr
+@translation: from the fact-checked English V5.1 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Tous les musées ont un problème avec la lumière. Un musée de la mode, plus encore. La soie pâlit, les doublures s'usent. Et une robe exposée trop longtemps finit par tomber en morceaux.
+
+Ce musée fonctionne donc par roulement. Sa collection va du dix-huitième siècle à nos jours. Vêtements, bijoux, accessoires, et même des costumes de scène portés par des stars du cinéma, du théâtre et de l'opéra. Seule une partie est exposée à la fois. Puis une nouvelle sélection la remplace.
+
+[pause] Je ne peux donc pas vous dire ce que vous allez voir. Mais je peux vous dire quoi observer. [pause] Observez la forme du corps.
+
+Au dix-huitième siècle, l'habit de cour se construisait comme un édifice. Des paniers aux hanches élargissaient les jupes. Vers 1800, tout s'effondre. La taille remonte sous la poitrine. Les jupes tombent droites et légères, comme sur une statue antique. Puis le dix-neuvième siècle remet la structure en place. Avec la crinoline, les jupes redeviennent aussi larges que des portes. [pause] Et le vingtième siècle jette le corset, et réinvente le corps presque à chaque décennie.
+
+[warmly] Un chapitre de cette histoire s'est écrit ici même. En février 1951, un homme d'affaires florentin, Giovanni Battista Giorgini, présente des créations italiennes à quelques acheteurs américains, chez lui. C'est un succès. Dès 1952, les défilés s'installent dans la Sala Bianca, la Salle blanche de ce palais. [pause] C'est là que le monde a commencé à prendre la mode italienne au sérieux.
+
+Après les galeries, revenez sur vos pas jusqu'au palier. Descendez d'un étage, par l'escalier ou un ascenseur, jusqu'au hall d'entrée de la galerie Palatine. C'est le point de rendez-vous des Appartements royaux, et une piste vous y attend, pour patienter. Si vous ne les visitez pas, descendez jusqu'à la cour et suivez les panneaux de la chapelle Palatine.

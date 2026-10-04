@@ -1,0 +1,30 @@
+@id: 042 · FR · v5.0 061 · old 058 · Medici funeral garments
+@section: Fashion and Costume
+@room: Medici garments
+@type: W
+@title: Les vêtements funéraires de Côme Premier, Éléonore de Tolède et don Garzia
+@where: Devant la vitrine des trois vêtements funéraires des Médicis, exposés en permanence. Le musée n'utilise pas de numéros de salle.
+@what: The sixteenth-century burial clothes of Cosimo I de' Medici, his wife Eleonora di Toledo and their son Don Garzia, recovered from their tombs in San Lorenzo and shown after long and complex restoration.
+@listen: Three Medici, one terrible winter, and why Eleonora's dress is not the one in her famous portrait, whatever the legend says.
+@brief: Speaking softly beside a case of fragile, centuries-old clothes; grave and tender, honest about the rumours and the legend, ending on quiet wonder.
+@pace: slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · https://research.aub.ac.uk/id/eprint/558 · old script 058 + findings G3 (A 058, B 058)
+@lang: fr
+@translation: from the fact-checked English V5.1 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Ces vêtements ont passé des siècles dans le noir, sur les corps de ceux qu'on y avait enterrés. En toute logique, ils n'auraient jamais dû survivre.
+
+Côme Premier fut le premier grand-duc Médicis de Toscane. Éléonore de Tolède était son épouse. Fille du vice-roi de Naples, mère de onze enfants, elle comptait parmi les femmes les plus puissantes d'Italie. Don Garzia était l'un de leurs fils cadets, né en 1547.
+
+[pause] À la fin de l'automne 1562, Éléonore part dans la Maremme, la côte marécageuse du sud de la Toscane. Garzia l'accompagne, avec son frère aîné, le cardinal Giovanni. Tous trois tombent malades. Giovanni meurt le premier, en novembre. Garzia le suit en décembre. [pause] Et Éléonore meurt cinq jours après lui.
+
+Bien sûr, les gens ont parlé. Une rumeur a couru, des siècles durant. Côme aurait tué son propre fils dans un accès de colère, et le chagrin aurait emporté Éléonore. [pause] C'est presque certainement faux. Les rapports des médecins de l'époque évoquent le paludisme. Et l'étude des os d'Éléonore montre qu'elle avait aussi la tuberculose.
+
+Tous trois ont été déposés dans le caveau des Médicis, à San Lorenzo, vêtus des habits que vous voyez ici. Les tombes ont été ouvertes au dix-neuvième siècle, puis au vingtième. Ce qu'on en a sorti était très abîmé. Il a fallu une longue et minutieuse restauration pour pouvoir les exposer.
+
+[curious] Maintenant, la robe d'Éléonore. On dit parfois que c'est la robe de son célèbre portrait par Bronzino, aux Offices. C'est une jolie légende. [pause] Elle est fausse. La robe du portrait et la robe funéraire sont deux robes différentes.
+
+Mais rassurez-vous. [warmly] La robe peinte appartient à un tableau. Celle-ci était à elle, et elle l'a portée pour son dernier voyage. Regardez la coupe du corsage, ce tissu façonné sur le corps d'une vraie femme. [pause] Plus de quatre cent cinquante ans après, il garde la silhouette de celle qui le portait.
+
+Quand vous le souhaitez, continuez vers les galeries, où le reste de la collection est présenté par roulement.

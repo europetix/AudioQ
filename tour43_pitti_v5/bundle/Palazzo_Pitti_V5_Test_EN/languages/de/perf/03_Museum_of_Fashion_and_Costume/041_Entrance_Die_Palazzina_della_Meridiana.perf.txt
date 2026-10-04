@@ -1,0 +1,24 @@
+@id: 041 · DE · v5.0 060 · old 057 · Entrance
+@section: Fashion and Costume
+@room: Entrance
+@type: R
+@title: Die Palazzina della Meridiana
+@where: Am Eingang zum Museum für Mode und Kostüm, in der Palazzina della Meridiana im zweiten Stock. Vom Treppenabsatz aus durch den Gang nach rechts und über eine Treppe mit zwei kurzen Läufen, mit Treppenlift. Dies ist eine Sackgasse: Sie verlassen das Museum auf demselben Weg.
+@what: A small palace joined to the south wing of Palazzo Pitti, begun in 1776 by Gaspare Maria Paoletti for Grand Duke Pietro Leopoldo and completed in 1830 by Pasquale Poccianti. Since 1983 it has housed Italy's first state museum of fashion history, shown in rotation.
+@listen: How a beam of noon sunlight gave this building its name, and how the museum works.
+@brief: A friend at the threshold of a quieter, more intimate building; curious and light, savouring the sunlight story, then practical.
+@pace: medium
+@energy: 3→3
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · old script 057 + findings G3 (A 057, B 057, C 057, E 056–057), G6 §1.4
+@lang: de
+@translation: from the fact-checked English V5.1 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieses Gebäude ist nach einem Sonnenfleck benannt. Genauer gesagt: nach der Linie, auf der er wandert.
+
+1699 legte Vincenzo Viviani, ein Schüler Galileis, eine Meridianlinie an. Sie liegt im Vestibül der Wohnung von Großprinz Ferdinando de' Medici. Darüber wölbt sich eine Decke von Anton Domenico Gabbiani, mit einer Allegorie der Zeit und der Künste. In diesem gemalten Gewölbe gibt es ein winziges Loch. Mittags scheint die Sonne hindurch. Ein kleiner heller Fleck fällt auf eine Linie im Boden, an jedem Tag des Jahres an eine andere Stelle. [pause] Die Zeit, an die Decke gemalt. Die Zeit, am Boden gemessen.
+
+Der kleine Palast selbst entstand später. Begonnen wurde er für Großherzog Pietro Leopoldo. Fertig war er erst 1830, unter Leopold dem Zweiten. Hier wohnten die Lothringer und später das Haus Savoyen.
+
+[warmly] Heute beherbergt er das erste staatliche Museum Italiens für die Geschichte der Mode. Und für das, was Kleider über die Menschen sagen, die sie tragen. Die Sammlung umfasst mehr als fünfzehntausend Stücke, vom achtzehnten Jahrhundert bis heute. [pause] Seide und Spitze vertragen kein Licht. Deshalb ist immer nur ein Teil zu sehen, und die Auswahl wechselt etwa einmal im Jahr.
+
+Eines ändert sich nie. Die ältesten und seltensten Kleider sind immer ausgestellt: die Gewänder, in denen drei Medici begraben wurden, vor mehr als vierhundert Jahren. [pause] Sehen Sie sich diese zuerst an.

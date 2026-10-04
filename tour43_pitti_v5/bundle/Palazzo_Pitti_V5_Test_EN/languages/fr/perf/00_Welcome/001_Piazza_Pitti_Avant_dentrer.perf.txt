@@ -1,0 +1,24 @@
+@id: 001 · FR · old 001 · Piazza Pitti
+@section: Opening
+@room: Piazza Pitti
+@type: ANCHOR
+@title: Piazza Pitti — Avant d'entrer
+@where: Sur la Piazza Pitti, face au palais. La billetterie se trouve sur le côté droit de la façade. On entre par le portail central, qui donne sur la cour d'Ammannati, où l'escalier principal et les ascenseurs sont sur la droite.
+@what: The long rusticated stone front of Palazzo Pitti, begun in the fifteenth century for the banker Luca Pitti, later home to the Medici, the Habsburg-Lorraine grand dukes and the kings of Italy.
+@listen: How a banker's house became the seat of three dynasties, and how the museums inside are laid out.
+@brief: A friend standing beside the listener in the square, letting them in on the palace's ironic beginning, then calmly laying out the day; warm, unhurried, a small smile at the Napoleonic aside.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/palazzo-pitti ; https://www.uffizi.it/palazzo-pitti/galleria-palatina (Raphael claim, Medici/Lorraine/Savoy, kings of Italy to 1919) ; old script + findings G1 (B 001, C 001), G4 (RA meeting point, staff-led visit), G6 §1.1 (ticket office right, stairs and lifts on the right of the courtyard)
+@lang: fr
+@translation: from the fact-checked English V5.1 001 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cette immense demeure a été bâtie pour un homme qui n'était pas prince. Luca Pitti était un banquier florentin. Vers le milieu du quinzième siècle, il commence ici un palais, sur la pente au pied des collines. Depuis longtemps, les Florentins racontent qu'il voulait éclipser les Médicis. Certains disent que Brunelleschi en a dessiné le premier projet. [pause] Personne ne peut prouver ni l'un ni l'autre.
+
+[pause] Voici ce qui est certain. En moins d'un siècle, les Pitti manquent d'argent. Ils vendent la maison à la famille même qu'elle devait éclipser. Vers 1550, les Médicis y installent leur cour. Et jusqu'en 1919, le palais appartient à ceux qui règnent sur la Toscane. D'abord les Médicis, puis les grands-ducs Habsbourg-Lorraine, et enfin les rois de l'Italie unifiée. [wry] Avec une courte interruption napoléonienne au milieu.
+
+Avant d'entrer, prenez un instant pour regarder la façade. Plus de deux cents mètres de pierre brute et démesurée. Et la même arcade ronde, répétée sur toute la largeur. [pause] Tout est fait pour qu'elle semble inébranlable.
+
+[warmly] À l'intérieur, les musées s'empilent par étage. Au premier étage, voici la galerie Palatine. Ce sont les tableaux des Médicis, dans les anciens salons d'apparat. Selon le musée, c'est la plus grande concentration d'œuvres de Raphaël au monde. Les Appartements impériaux et royaux sont au même étage. On les découvre lors d'une courte visite menée par le personnel du musée, au départ du hall d'entrée de la galerie Palatine. Ce guide vous y emmène en redescendant du deuxième étage, avec une piste à écouter pendant l'attente. Au deuxième étage se trouvent la galerie d'Art moderne et le musée de la Mode et du Costume. Les icônes russes et la chapelle Palatine donnent sur la cour, au rez-de-chaussée. Quant au jardin derrière le palais, il a sa propre section. Vous pouvez le parcourir en premier ou en dernier.
+
+Une fois le portail central franchi, vous serez dans la cour d'Ammannati. L'escalier principal et les ascenseurs sont sur sa droite. Montez au premier étage, jusqu'à l'entrée de la galerie Palatine. Nous reprendrons là-bas, dans la première salle.

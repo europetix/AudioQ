@@ -1,0 +1,24 @@
+@id: 046 · FR · v5.0 063 · old 076 · Rooms 1–4
+@section: Russian Icons and Chapel
+@room: Rooms 1–4
+@type: R
+@title: Musée des Icônes russes : l'appartement d'été de Côme Trois
+@where: Au rez-de-chaussée, sur la cour d'Ammannati. Suivez les panneaux de la chapelle Palatine et des Icônes russes, et écoutez cette piste dans la première salle à fresques.
+@what: Four seventeenth-century frescoed rooms, restored and opened as the Museum of Russian Icons in 2022, hung with 78 Russian icons in gold and deep colour; captions in Italian, English and Russian.
+@listen: How a Medici summer apartment came to hold the oldest collection of Russian icons outside Russia, and what the gold is for.
+@brief: A friend sharing a little-known corner of the palace on the way out to the garden; curious at first, then quiet and respectful in front of the icons.
+@pace: medium-slow
+@energy: 2→3
+@sources: https://www.uffizi.it/en/pitti-palace/museum-of-russian-icons ; https://www.finestresullarte.info/musei/firenze-apre-museo-icone-russe-a-palazzo-pitti (2 Jan 2022) ; https://www.uffizi.it/en/news/icons-pitti ; old script + findings G4
+@lang: fr
+@translation: from the fact-checked English V5.1 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pendant des décennies, ces salles furent des bureaux, et presque personne ne regardait les plafonds. Puis elles ont été restaurées, et ouvertes en musée en 2022. Les fresques du dix-septième siècle ont repris vie. [pause] Aujourd'hui, des icônes russes sont accrochées devant elles.
+
+Les salles elles-mêmes sont liées à un mariage. En 1661, le futur grand-duc Côme Trois épouse une princesse française, Marguerite-Louise d'Orléans. Ce rez-de-chaussée est alors décoré comme l'appartement d'été du couple. [pause] Les icônes, elles, sont venues par un chemin plus lent. Quelques-unes appartenaient aux Médicis. Deux étaient au palais avant même le mariage. La mère de Côme, la grande-duchesse Vittoria della Rovere, les gardait dans une chapelle des reliques. La plupart des autres sont arrivées après l'extinction des Médicis, car les nouveaux grands-ducs Habsbourg-Lorraine ont continué à collectionner. Il y en a aujourd'hui soixante-dix-huit. On la présente comme la plus ancienne collection de ce genre hors des pays où naissaient les icônes.
+
+[quietly] En marchant, remarquez la taille. Ce sont de petits panneaux, faits pour prier chez soi ou en voyage. Pas des retables d'église. [pause] Et l'or n'est pas un décor. Dans la tradition orthodoxe, il représente la lumière du ciel. Les figures, dans cet or, sont censées être présentes avec vous, non peintes à distance.
+
+Cherchez une Mère de Dieu de Tikhvine, signée par son peintre, Vassili Griaznov, et datée de 1728.
+
+Mais commencez par les plus anciennes icônes jamais attestées à Florence. La petite Décollation de saint Jean-Baptiste est accrochée dans cette première salle. Sa compagne, une Mère de Dieu entourée de foules, devrait être tout près. [pause] Écoutez leur piste devant elles.

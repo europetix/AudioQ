@@ -1,0 +1,24 @@
+@id: 003 · FR · old 003 · Room 3 · Castagnoli Room
+@section: Palatine
+@room: Room 3
+@type: R
+@title: La salle Castagnoli
+@where: Dans la salle Castagnoli, au bout de la galerie des Statues : la salle avec la grande table ronde en pierres incrustées au centre.
+@what: Early nineteenth-century painted decoration by Giuseppe Castagnoli on the walls; at the centre, the Table of the Muses, in this room since 1855.
+@listen: Why this room sits between two worlds of the palace, and why the table in the middle is the thing to see.
+@brief: A friend pausing at a crossroads to explain the lie of the land; warm and clear, a light shrug for the painter, then a small build toward the table.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/video/the-table-of-the-muses-and-the-art-of-semiprecious-stone-inlay (Castagnoli early-19th-c. wall decoration; table here since 1855; begun 1830s, base 1850s) ; https://www.uffizi.it/avvisi/galleria-palatina-lavori-di-restauro-e-riallestimento (Volterrano Quarter = Vittoria della Rovere's 17th-c. apartment) ; https://uffizi.it/en/palatine-gallery/history (Cortona for Ferdinando II, 1640–47) ; findings G1 (B/E 003), G6 §1.2
+@lang: fr
+@translation: from the fact-checked English V5.1 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cette salle est un carrefour. Elle se trouve entre deux mondes très différents du palais.
+
+D'un côté, l'aile du Volterrano, une suite de salles plus petites. Au dix-septième siècle, c'était l'appartement privé d'une grande-duchesse, Vittoria della Rovere. Loin devant, tout au bout du parcours, se trouvent les salons d'apparat de son mari, le grand-duc Ferdinand Deux. Ce sont les salles des Planètes, que Pietro da Cortona a peintes à fresque pour lui dans les années 1640. La vie privée d'un côté, le pouvoir et l'apparat de l'autre. [pause] Et cette salle, entre les deux.
+
+Elle doit son nom au peintre Giuseppe Castagnoli, qui a décoré ces murs au début du dix-neuvième siècle. À cette époque, les grands-ducs Habsbourg-Lorraine transformaient les anciennes salles du palais en galerie de tableaux. [lightly] Mais ce n'est pas pour lui qu'on vient ici. [pause] La raison se trouve au milieu de la salle.
+
+La table des Muses est dans cette salle depuis 1855. C'est l'un des grands chefs-d'œuvre de la marqueterie de pierre florentine. Il a fallu une vingtaine d'années, et une petite armée d'artisans, pour la réaliser. [pause] Avant de vous approcher, regardez-la à quelques pas. À cette distance, on dirait une peinture. De près, vous verrez que c'est quelque chose de bien plus étrange.
+
+Approchez-vous de la table et écoutez sa piste là-bas.

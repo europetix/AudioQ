@@ -1,0 +1,24 @@
+@id: 048 · ES · v5.0 065 · old 078 · Chapel
+@section: Russian Icons and Chapel
+@room: Chapel
+@type: R
+@title: La Capilla Palatina
+@where: La gran sala central del apartamento de la planta baja, junto a las salas de los iconos. Colóquese cerca del centro y mire hacia la bóveda y a lo largo de las paredes.
+@what: The court chapel created in 1766 for Pietro Leopoldo in the central hall of the 1661 summer apartment; painted by Luigi Ademollo in 1791–93, with the left choir loft completed in 1822–23. Altar in Florentine commesso incorporating parts made for the Chapel of the Princes at San Lorenzo; the Chigi Crucifix by Lorenz Rues and Antonio Raggi.
+@listen: How a reception hall became a court chapel, the painted New Testament scenes, and an altar made from the Medici's unfinished masterpiece.
+@brief: A calm guide in a quiet sacred room, keeping the voice low; a light smile at the painted cloth, then a gentle send-off toward the garden.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/pitti-palace/palatine-chapel ; https://www.uffizi.it/en/artworks/decoration-palatine-chapel ; https://www.uffizi.it/en/artworks/cappella-palatina ; https://www.uffizi.it/en/news/icons-pitti ; old script + findings G4
+@lang: es
+@translation: from the fact-checked English V5.1 048 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Esta sala nació para las fiestas. Cuando Cosme Tercero se casó, en 1661, era el gran salón del apartamento de verano de la pareja, para recibir invitados. Un siglo después, el palacio cambió de dueños. En 1766, el gran duque Pedro Leopoldo de Habsburgo-Lorena, reformista y luego emperador, hizo del salón la capilla de la corte.
+
+Las pinturas llegaron una generación después. Luigi Ademollo, milanés, trabajó toda su vida en Florencia. Decoró esta capilla a principios de la década de 1790, para el gran duque Fernando Tercero. [pause] Treinta años más tarde volvió para terminar una de las tribunas del coro. En la bóveda está la Asunción de la Virgen. En las paredes, escenas del Nuevo Testamento, como la entrada de Cristo en Jerusalén y la Crucifixión.
+
+[quietly] Ahora busque el altar. Es commesso florentino: piedras duras cortadas y encajadas como un mosaico. Algunas piezas eran para uno de los grandes proyectos Médici, el altar de la Capilla de los Príncipes, en San Lorenzo, que nunca se terminó. [pause] Así, piedras para el gran mausoleo familiar acabaron aquí, en un antiguo salón de recepciones.
+
+Al otro lado del muro, iconos ortodoxos. Aquí, una capilla católica de corte. Dos tradiciones cristianas, una junto a otra, bajo un mismo techo.
+
+[pause] Cuando lo desee, salga de nuevo al Patio de Ammannati. Más allá se abren los jardines, detrás del palacio. La primera parada del jardín está al fondo del patio, donde empieza el jardín.

@@ -1,0 +1,30 @@
+@id: 022 · ES · v5.0 034 · old 017 · Room 25 · Sala di Giove
+@section: Palatine
+@room: Room 25
+@type: W
+@title: Rafael — La Velata, la dama del velo
+@where: En la Sala di Giove, delante del retrato de Rafael de una mujer vestida de seda blanca, con un velo sobre el cabello.
+@what: Raphael, Portrait of a Woman, known as La Velata, oil on canvas, around 1512–15.
+@listen: Whether she was Raphael's beloved Fornarina or a married noblewoman, and how he paints white on white.
+@brief: Telling a five-hundred-year-old mystery to a friend in front of the painting; intimate, curious, honest about the doubt, lingering lovingly on the silk.
+@pace: medium-slow
+@energy: 2→3, small lift at the turn, soft landing
+@sources: https://www.uffizi.it/en/artworks/woman-with-a-veil (Jupiter Room; canvas, 1512–15; veil = married status; commissioned portrait of a young noblewoman) ; calibration track (lead-verified) ; findings G1 (Vasari/Fornarina tradition confirmed)
+@lang: es
+@translation: from the fact-checked English V5.1 022 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Este retrato encierra un misterio, y empieza con un hombre que lo vio hace casi quinientos años. Giorgio Vasari, autor del primer gran libro de vidas de artistas, la vio en casa de un mercader florentino. Y escribió que era la mujer a la que Rafael amó toda su vida. [pause] Más tarde, la tradición le dio un nombre. Margherita Luti, la hija del panadero. La Fornarina.
+
+[pause] Es una historia maravillosa. Y quizá no sea cierta.
+
+Fíjese en su ropa. No es el vestido de la hija de un panadero. Las mangas de seda blanca están acuchilladas y fruncidas, y asoma el lino fino. Hay hilo de oro en el corpiño y un collar de cuentas en el cuello. Es un atuendo carísimo. Muchos expertos ven aquí el retrato encargado de una joven noble.
+
+Luego está el velo, el detalle que da nombre al cuadro. [lightly] En el mundo de Rafael, un velo sobre el cabello significaba una sola cosa. Estaba casada. Y eso complica un poco la historia de amor.
+
+Esto sí es seguro. Rafael la pintó en Roma, entre 1512 y 1515, aproximadamente. Tenía unos treinta años y era el pintor más célebre de la ciudad. Y un rostro muy parecido aparece otra vez en Roma, en su cuadro llamado La Fornarina. Allí aparece medio desnuda, con un brazalete con el nombre de Rafael. Muchos ven los mismos ojos y la misma boca. [pause] Así que, fuera quien fuera, probablemente era algo más que una clienta.
+
+[quietly] Ahora mire la seda. Rafael pinta blanco sobre blanco: el vestido, el velo, el lino. Y nunca resulta plano. Cada pliegue recibe una luz un poco distinta. Y su mano, apoyada en el pecho, es mitad gesto de modestia, mitad gesto de alguien a punto de hablar.
+
+[long pause] Cinco siglos después, seguimos sin saber su nombre. Sospecho que a Rafael le habría gustado así.
+
+El joven san Juan de Andrea del Sarto también está en esta sala. Reproduzca su pista delante de él.

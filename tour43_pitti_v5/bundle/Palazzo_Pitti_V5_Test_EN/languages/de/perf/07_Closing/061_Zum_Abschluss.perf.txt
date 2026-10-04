@@ -1,0 +1,24 @@
+@id: 061 · DE · v5.0 079 · old 092 · Anywhere
+@section: Closing
+@room: Anywhere
+@type: CLOSE
+@title: Zum Abschluss
+@where: Wo immer Sie möchten, wenn Sie fertig sind, an dem Tor oder der Tür, durch die Sie hinausgegangen sind: eine Bank, ein Cafétisch, die Straße davor.
+@what: The closing reflection on Palazzo Pitti and the Boboli Gardens.
+@listen: What the palace and garden add up to, who they belong to now, and where to go next.
+@brief: Saying goodbye to a friend after a long day together; warm, unhurried, a little reflective, a quiet pride in the final reveal, then a kind send-off.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: https://www.uffizi.it/en/pitti-palace/history (1919 cession by Victor Emmanuel III) ; old script + findings G1, G4, G5
+@lang: de
+@translation: from the fact-checked English V5.1 061 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] So, da sind wir. Vielleicht stehen Sie am Hang der Piazza Pitti, an der Via Romana, unter dem alten Stadttor oder hoch oben bei der Festung. Wo Sie auch herausgekommen sind, Ihre Füße sagen Ihnen vermutlich, wie groß dieser Ort ist.
+
+Denken Sie zurück, wie er bei Ihrer Ankunft aussah. Ein riesiger, recht strenger Steinbau, mit einem Hügel dahinter. [pause] Jetzt, je nachdem, wo Sie heute waren, ist er voller Menschen. Raffaels junge Frauen, die oben von den Wänden zu Ihnen zurückblicken. Ein kleiner Mann auf einer Schildkröte, mit einem echten Namen, Braccio, gemeißelt von jemandem, der ihn genau angesehen hat. Zwei kleine Ikonen, die schon im Palast waren, bevor Cosimo der Dritte geboren wurde. Ein Hügel voller Zypressen, Baum für Baum erneuert. Drei Dynastien, in denselben Räumen übereinander geschichtet. [pause] Der Pitti war nie nur eines, und er wollte es auch nie sein. Darin liegt der ganze Reiz.
+
+[quietly] Und das hier lohnt sich mitzunehmen. Fast fünf Jahrhunderte lang war sich jeder, der diesen Ort besaß, sicher, ihn für immer zu behalten. Der Bankier, der ihn baute. Die Medici, die ihn übernahmen. Die lothringischen Großherzöge, und dann die Könige Italiens. Keiner behielt ihn. 1919 verschenkte ein König aus dem Haus Savoyen, Viktor Emanuel der Dritte, ihn einfach an den italienischen Staat. [long pause] Und das heißt heute: Er gehört allen. Auch Ihnen.
+
+Jetzt hat es keine Eile. Wenn Sie mehr möchten: Der Rest von Florenz ist nah. Über den Ponte Vecchio erreichen Sie die Uffizien und den Dom. Dort zeigen Ihnen viele der Künstler, denen Sie heute begegnet sind, noch mehr. Oder bleiben Sie an diesem ruhigeren Ufer, im Oltrarno. Dort wird in Werkstätten noch von Hand vergoldet und geschnitzt. Ganz in der Nähe, am selben Ufer, zeigt die Brancacci-Kapelle Masaccios Fresken. An diesen Bildern lernten Generationen Florentiner Künstler.
+
+[warmly] Aber tun Sie sich zuerst etwas Gutes. Suchen Sie sich eine Bank, setzen Sie sich eine Minute und lassen Sie alles sacken. Sie haben diesem Ort Ihre ganze Aufmerksamkeit geschenkt. Und das ist immer ein großzügiges Geschenk. [pause] Danke, dass Sie sie mit mir geteilt haben. Buona passeggiata.

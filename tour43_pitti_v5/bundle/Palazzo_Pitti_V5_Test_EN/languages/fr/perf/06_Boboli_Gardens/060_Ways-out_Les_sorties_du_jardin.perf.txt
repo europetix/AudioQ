@@ -1,0 +1,28 @@
+@id: 060 · FR · v5.0 078 · old 091 · Ways out
+@section: Boboli
+@room: Ways out
+@type: R
+@title: Les sorties du jardin
+@where: À écouter en chemin vers la porte de votre choix : le palais Pitti par la cour d'Ammannati, Annalena sur la Via Romana, Porta Romana à côté de l'Isolotto, ou le Forte di Belvedere en haut de la colline.
+@what: The four official entrances and exits of the Boboli Gardens, and where each one leaves you.
+@listen: Where each of the four gates comes out, the story behind the Annalena name, and an idea for a return visit.
+@brief: A friend walking you to the door at the end of a long visit; relaxed and practical, a quiet moment for Annalena's story, warm at the parting.
+@pace: medium
+@energy: 3→2→3
+@sources: https://www.uffizi.it/en/boboli-garden (four entrances/exits) ; https://www.uffizi.it/en/notices/combined-ticket-for-boboli-gardens-and-bardini-gardens ; https://www.theflorentine.net/?p=36144 (Annalena Malatesta) ; old script + findings G5, G6 §1.7 and §4.5
+@lang: fr
+@translation: from the fact-checked English V5.1 060 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Un jardin aussi grand a plus d'une porte d'entrée. Boboli compte quatre portes officielles, et chacune vous dépose ailleurs.
+
+La porte principale, c'est le palais lui-même. Repassez par la cour d'Ammannati, et vous sortez sur la Piazza Pitti, à quelques minutes du Ponte Vecchio et du fleuve.
+
+Côté ouest, la porte Annalena s'ouvre sur la Via Romana, dans l'Oltrarno, le vieux quartier des artisans au sud de l'Arno. [quietly] Le nom a une histoire. Annalena Malatesta était une noble vivant à Florence. Son mari fut assassiné en 1441. Après sa mort, elle fonda un couvent dans cette rue. [pause] Son nom y est resté depuis.
+
+À l'extrémité sud-ouest, juste à côté de l'Isolotto, voici la sortie de la Porta Romana. Elle débouche près de l'ancienne porte de la ville du même nom. C'est la route qui menait autrefois au sud, vers Rome.
+
+Et tout en haut de la colline, la porte du Forte di Belvedere débouche près de la forteresse. De vieilles ruelles y descendent vers le fleuve. [pause] Le jardin Bardini, avec l'une des plus belles vues de Florence, s'atteint de ce côté. C'est un jardin séparé, avec sa propre entrée.
+
+[pause] Une idée pour un autre jour. Certains, en revenant, commencent par le bas, à la Porta Romana, et remontent le jardin à l'envers. Ils montent l'allée de cyprès, passent les statues, et redescendent enfin vers le palais. Tôt le matin ou tard l'après-midi, à la lumière rasante, c'est le plus beau moment pour le faire.
+
+Où que vous sortiez, une dernière piste courte vous attend, à écouter une fois la porte franchie.

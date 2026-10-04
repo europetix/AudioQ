@@ -1,0 +1,24 @@
+@id: 061 · ES · v5.0 079 · old 092 · Anywhere
+@section: Closing
+@room: Anywhere
+@type: CLOSE
+@title: Despedida
+@where: Donde prefiera, al terminar, en la puerta por la que haya salido: un banco, la mesa de un café, la calle.
+@what: The closing reflection on Palazzo Pitti and the Boboli Gardens.
+@listen: What the palace and garden add up to, who they belong to now, and where to go next.
+@brief: Saying goodbye to a friend after a long day together; warm, unhurried, a little reflective, a quiet pride in the final reveal, then a kind send-off.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: https://www.uffizi.it/en/pitti-palace/history (1919 cession by Victor Emmanuel III) ; old script + findings G1, G4, G5
+@lang: es
+@translation: from the fact-checked English V5.1 061 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Bueno, aquí estamos. Quizá esté en la cuesta de la Piazza Pitti, en la Via Romana, bajo la antigua puerta de la ciudad o en lo alto, junto a la fortaleza. Salga por donde salga, sus pies seguramente le dicen lo grande que es este lugar.
+
+Recuerde cómo lo vio al llegar: un enorme y severo edificio de piedra, con una colina detrás. [pause] Ahora, según por dónde le haya llevado el día, está lleno de gente. Las jóvenes de Rafael, mirándolo desde las paredes de arriba. Un hombrecillo sobre una tortuga, con un nombre real, Braccio, tallado por alguien que lo miró de cerca. Dos pequeños iconos que ya estaban aquí antes de que naciera Cosme Tercero. Una colina de cipreses, renovados árbol a árbol. Tres dinastías, superpuestas en las mismas salas. [pause] El Pitti nunca fue una sola cosa, ni intentó serlo. Ahí está todo el placer.
+
+[quietly] Y esto es lo que vale la pena llevarse. Durante casi cinco siglos, todos los que tuvieron este lugar creyeron que sería suyo para siempre. El banquero que lo construyó, los Médici que lo tomaron, los grandes duques de Lorena, y luego los reyes de Italia. Ninguno lo conservó. En 1919, un rey de la Casa de Saboya, Víctor Manuel Tercero, simplemente lo regaló al Estado italiano. [long pause] Y eso, hoy, significa que es de todos. También de usted.
+
+Ya no hay prisa. Si quiere más, Florencia está cerca. Al otro lado del Ponte Vecchio están los Uffizi y el Duomo, donde muchos artistas que ha conocido hoy tienen más que mostrarle. O quédese en esta orilla más tranquila, el Oltrarno, donde los talleres aún doran y tallan a mano. A un corto paseo, en esta misma orilla, la Capilla Brancacci guarda los frescos de Masaccio. [pause] De ellos aprendieron generaciones de artistas florentinos.
+
+[warmly] Pero primero, regálese algo. Busque un banco, siéntese un minuto y deje que todo se asiente. Le dio a este lugar toda su atención, y eso es algo generoso de dar. Gracias por compartirla conmigo. Buona passeggiata.

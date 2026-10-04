@@ -1,0 +1,24 @@
+@id: 049 · FR · v5.0 066 · old 079 · Stop 1
+@section: Boboli
+@room: Stop 1
+@type: R
+@title: La cour d'Ammannati et la première vue
+@where: Au fond de la cour d'Ammannati, le palais derrière vous et le jardin qui monte devant vous. La fontaine de l'Artichaut est sur la terrasse au-dessus. On rejoint le Bacchino par le côté gauche, à l'est, de la cour. Un tunnel accessible sous la loggia mène à la même petite place.
+@what: The threshold of the Boboli Gardens: more than 30 hectares climbing the hill behind the palace, begun in 1549 for Eleonora di Toledo and reshaped over three centuries; now in the long Boboli 2030 restoration, with some areas fenced off but visible.
+@listen: Who began the garden, the single line it is built around, and an honest word about the restoration works.
+@brief: Standing at the garden's edge with a friend before a long walk; open and warm, a touch of candour about the works, then pointing the way with a smile.
+@pace: medium
+@energy: 3→3→4
+@sources: https://www.uffizi.it/giardino-boboli (IT, "oltre 30 ettari") ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/boboli-garden ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; findings G5, G6 §1.6–1.7
+@lang: fr
+@translation: from the fact-checked English V5.1 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Derrière la plus grande demeure de Florence, les Médicis gardaient toute une colline. [pause] Le jardin de Boboli couvre plus de trente hectares. Terrasses et allées, fontaines et bois, qui montent depuis le palais vers les anciens remparts.
+
+Tout a commencé avec une femme. En 1549, Éléonore de Tolède, l'épouse de Côme Premier, née en Espagne, lance les travaux, avec Niccolò Tribolo comme architecte. [pause] Tribolo meurt l'année suivante. Ammannati, qui a construit cette cour, prend le relais, puis Buontalenti. Pendant trois siècles, les Médicis puis les Lorraine n'ont cessé d'ajouter. Le résultat est devenu un modèle pour les jardins de cour dans toute l'Europe. Au passage, les vêtements funéraires d'Éléonore sont exposés au palais, au musée du Costume, au deuxième étage.
+
+[lightly] Un mot honnête avant de partir. Le jardin connaît un long programme de restauration, appelé Boboli 2030. Vous croiserez des échafaudages et des zones clôturées. Mais l'essentiel de ce qui est derrière les clôtures reste visible depuis les allées.
+
+Le plan repose sur une idée, l'axe. D'ici, une seule ligne droite monte la colline. Elle passe la fontaine de l'Artichaut, au-dessus de vous, traverse l'amphithéâtre, longe la fontaine de Neptune, jusqu'à une statue colossale au sommet. [quietly] Presque tout le jardin central s'organise autour d'elle.
+
+Mais le premier arrêt est sur le côté. Partez à gauche, vers l'est, jusqu'à la petite place de la fontaine du Bacchino. [pause] Un petit personnage tout rond y chevauche une tortue, et il mérite vraiment la rencontre. Écoutez sa piste à côté de lui.

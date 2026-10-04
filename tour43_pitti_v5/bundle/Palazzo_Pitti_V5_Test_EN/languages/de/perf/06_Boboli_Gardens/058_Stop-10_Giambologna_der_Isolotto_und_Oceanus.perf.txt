@@ -1,0 +1,26 @@
+@id: 058 · DE · v5.0 076 · old 089 · Stop 10
+@section: Boboli
+@room: Stop 10
+@type: W
+@title: Giambologna – der Isolotto und Oceanus
+@where: Am Rand des ovalen Isolotto-Beckens, am unteren Ende des Viottolone. Der innere Bereich der Insel ist wegen Restaurierung geschlossen. Betrachten Sie den Brunnen vom äußeren Ring. Das Tor Porta Romana liegt direkt neben dem Becken.
+@what: The Isolotto, a large oval basin of 1618 with a central island holding a copy of Giambologna's marble Oceanus, finished by 1576, with the Nile, Ganges and Euphrates below; the original is in the Bargello. Around the pool, Perseus on horseback, and groups of peasants at their games.
+@listen: A giant who isn't the original, the whole world in one fountain, and the ordinary people around the rim.
+@brief: Arriving at the bottom of the long walk with a friend; curious about the copy, a little grand about the world-fountain, warm and amused about the peasants.
+@pace: medium
+@energy: 3→4→3
+@sources: https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/saccomazzone-gioco-en ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, inner island closed) ; https://arnoldzwicky.org/2023/09/15/an-ideal-male-body/ (marble; moved 1911) ; https://www.friendsofflorence.org/projects/garden-of-the-little-island-boboli-gardens/ ; old script + findings G5, G6 §1.7
+@lang: de
+@translation: from the fact-checked English V5.1 058 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Der Riese in der Mitte der Insel ist ein Ersatz. Der echte Oceanus ging vor über einem Jahrhundert. 1911 kam das Original unter Dach, ins Bargello jenseits des Flusses. Diese Kopie nahm seinen Platz ein.
+
+Das Original meißelte Giambologna in Marmor, für die Medici. 1576 war es fertig. [pause] Giambologna wurde in Flandern geboren und kam als junger Mann nach Italien. Er ging nie wieder fort. Er wurde der Hofbildhauer der Medici. Einige der berühmtesten öffentlichen Skulpturen von Florenz stammen von ihm. Der bronzene Cosimo zu Pferd auf der Piazza della Signoria. Der Raub der Sabinerinnen in der Loggia dei Lanzi. Und dieser hier.
+
+Oceanus war für die alten Griechen der große Strom, der die ganze Welt umfloss. Die Quelle aller anderen Gewässer. Zu seinen Füßen lagern drei weitere Flüsse: Nil, Ganges und Euphrat. Afrika, Asien und der alte Orient, versammelt um einen Brunnen. [pause] Es ist die ganze Welt, mit den Medici in ihrer Mitte.
+
+Der Brunnen stand zuerst weiter oben, an der Hauptachse des Gartens. Auf diese Insel kam er, als das Becken angelegt wurde, 1618.
+
+[warmly] Schauen Sie jetzt rund um den Rand, nicht nur zur Mitte. Perseus reitet auf seinem Pferd aus dem Wasser empor. Weiter unten gibt es lebhaftere Gruppen: Bauern bei ihren derben Dorfspielen. Nach all den Göttern und Kaisern lässt der Garten auch einfache Leute herein. Die Insel ist wegen Restaurierung geschlossen. Genießen Sie die Figuren also vom äußeren Ring. Und beachten Sie die Zitronenbäume in ihren großen Terrakottatöpfen. [pause] Sie haben ein Winterquartier.
+
+Von hier geht es auf zwei Wegen weiter. Das Tor Porta Romana liegt direkt neben diesem Becken. Wenn Sie das Winterquartier sehen möchten, die Limonaia, das Zitronenhaus, gehen Sie auf der Seite der Via Romana zurück nach Norden, Richtung Palast. Spielen Sie seinen Titel ab, wenn Sie das lange, niedrige Gebäude erreichen.

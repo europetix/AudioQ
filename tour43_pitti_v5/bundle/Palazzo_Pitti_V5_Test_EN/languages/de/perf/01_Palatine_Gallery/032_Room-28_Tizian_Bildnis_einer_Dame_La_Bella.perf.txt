@@ -1,0 +1,28 @@
+@id: 032 · DE · v5.0 046 · new · Room 28 · Sala di Venere
+@section: Palatine
+@room: Room 28
+@type: W
+@title: Tizian – Bildnis einer Dame (La Bella)
+@where: In der Sala di Venere, vor Tizians Halbfigurenbildnis einer jungen Frau in blauem Kleid mit burgunderroten Ärmeln. Danach führt der Ausgang durch die Sala delle Nicchie.
+@what: Titian, Portrait of a Lady, known as La Bella, 1536–38, oil on canvas, 89 × 75.5 cm. Acquired by Francesco Maria della Rovere, Duke of Urbino; in Florence since 1631 with Vittoria della Rovere's collection.
+@listen: A woman nobody can name, the dress everyone can describe, the link back to the Magdalene, and the way out of the gallery.
+@brief: The last painting of the Palatine, shared with a friend; intimate and admiring, a soft reveal, then a calm, clear send-off.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/portrait-of-a-lady-la-bella (date, canvas, size, Venus Room, Duke of Urbino, his letter to Titian on delivery "the woman wearing the blue dress", ideal of beauty, dress and features, 1631 with Vittoria della Rovere, epithet from the late 18th century); PLAN 046 + G6_ROUTE (N46 exit wording, Royal Apartments meeting point in the Palatine entrance atrium)
+@lang: de
+@translation: from the fact-checked English V5.1 032 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Wir wissen genau, was sie trug. Wir wissen nur nicht, wer sie war.
+
+Der Mann, der das Bild kaufte, hat es nie gesagt. Es war Francesco Maria della Rovere, der Herzog von Urbino. Er erwarb es in den späten 1530er-Jahren von Tizian in Venedig. Er schrieb seinem Agenten in Venedig, das Bild solle schneller fertig werden. Doch einen Namen nannte er nicht. Er sprach schlicht von jenem Bildnis der Frau im blauen Kleid.
+
+[pause] Wer ist sie also? Die meisten Fachleute glauben heute, sie sei niemand Bestimmtes. Sie ist ein Ideal, ein Bild vollkommener weiblicher Schönheit. Das war ein beliebtes Thema an den italienischen Höfen. [pause] Selbst ihr Name kam später. La Bella, die Schöne, nannte man sie erst Ende des achtzehnten Jahrhunderts.
+
+[warmly] Doch das Kleid ist sehr real. Sehen Sie den blauen Damast mit feiner Goldstickerei. Ärmel aus burgunderrotem Samt, geschlitzt, sodass weißer Stoff hervorquillt. Ein Pelz über ihrer rechten Hand, mit lässiger Eleganz drapiert. Dann ihr Gesicht. Honigfarbenes Haar in geknoteten Zöpfen. Blasse Wangen mit einem Hauch Rot. Und dunkle Augen mit einem hellwachen Blick.
+
+Erinnern Sie sich an die Magdalena, drüben im Apollosaal. Derselbe Maler und sehr wahrscheinlich derselbe Auftraggeber, der Herzog von Urbino. Und dieselbe Reise. 1631 kamen beide Bilder zusammen nach Florenz, in der Sammlung der Vittoria della Rovere. [quietly] Die eine Frau in Tränen und Buße, die andere in blauem Damast und vollkommener Fassung. Zwei Ideale aus der Sammlung eines Herzogs.
+
+[long pause] Vielleicht hat sie nie existiert. Aber auf diesem ganzen langen Weg ist niemand besser gekleidet.
+
+Damit endet die Galleria Palatina. Der Ausgang führt durch die Sala delle Nicchie zum Eingangsatrium. Von dort nehmen Sie die Treppe oder den Aufzug in den zweiten Stock, zur Galerie für moderne Kunst. Die königlichen Gemächer beginnen am selben Atrium. Der Audioguide führt Sie auf dem Weg nach unten dorthin zurück.

@@ -1,0 +1,22 @@
+@id: 021 · ES · v5.0 033 · old 016 · Room 25 · Sala di Giove
+@section: Palatine
+@room: Room 25
+@type: R
+@title: Sala di Giove — La sala del trono
+@where: En la Sala di Giove, la Sala de Júpiter, entre las salas de Saturno y de Marte. Colóquese cerca del centro y mire hacia la bóveda.
+@what: Pietro da Cortona's ceiling of Jupiter crowning a young Medici prince, painted in the early 1640s; on the walls, Raphael's La Velata and Andrea del Sarto's young Saint John the Baptist.
+@listen: Why this was the Medici throne room, and the compliment to Galileo's moons hidden in the ceiling.
+@brief: A warm, knowledgeable friend letting the listener in on the room's best-kept joke; unhurried, amused, then quietly impressed at the reveal.
+@pace: medium-slow
+@energy: 2→4
+@sources: calibration track (lead-verified: Cortona 1642–44 ceiling, Medicean Stars and Galileo's court post 1610) ; https://www.uffizi.it/en/artworks/jupiter-room (figures 'probably' the Medicea Sidera) ; https://www.uffizi.it/en/artworks/woman-with-a-veil ; https://www.uffizi.it/en/artworks/andrea-del-sarto-st-john (Jupiter Room) ; findings G1
+@lang: es
+@translation: from the fact-checked English V5.1 021 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Esta sala era el final de un largo recorrido. Con los Médici, un visitante importante cruzaba sala tras sala, cada una más rica que la anterior. Y al final llegaba aquí. [pause] Esta era la sala del trono. El gran duque recibía a sus invitados bajo un dosel. Mire la bóveda: aún se ven los ganchos de los que colgaba.
+
+Pietro da Cortona pintó el techo a principios de la década de 1640. Y es pura adulación. [amused] Júpiter, rey de los dioses, corona a un joven príncipe, el heredero Médici perfecto, recién bajado de la nave de los argonautas. Hércules le ha entregado su maza. La Victoria escribe una letra en su escudo. [pause] Es una M. De Médici, claro.
+
+Pero el halago más ingenioso pasa casi siempre inadvertido. Alrededor de Júpiter flotan cuatro figuras femeninas. [long pause] [quietly] Casi seguro son las cuatro lunas de Júpiter. Galileo las descubrió con su telescopio en 1610. Las llamó Astros Mediceos, para ganarse a la familia. Y funcionó. En pocos meses era su filósofo de corte. [pause] Así que los Médici no solo eran dueños de este palacio. Eran dueños de un pedacito del cielo.
+
+En estas paredes, empiece por la mujer de seda blanca. Es La Velata de Rafael, la dama del velo.

@@ -1,0 +1,30 @@
+@id: 030 · FR · v5.0 044 · old 007 · Room 28 · Sala di Venere
+@section: Palatine
+@room: Room 28
+@type: W
+@title: Titien — Le Concert
+@where: Dans la Sala di Venere, devant le Concert de Titien : trois hommes à mi-corps autour d'un instrument à clavier.
+@what: Titian, The Concert, 1510–11, oil on canvas. A man in a dark fur-trimmed cloak plays a spinet, a Dominican monk with a viola da gamba touches his shoulder, and a young singer in a feathered cap stands on the left.
+@listen: A painting that passed for Giorgione for centuries, and a silent exchange of glances that leaves us outside.
+@brief: Looking at a mysterious small masterpiece with a friend; hushed and curious, a light touch on the feathered cap, quiet at the reveal.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/titian-the-concert (date, canvas, figures, feathered cap, gaze toward the monk, bought 1654 by Cardinal Leopoldo as Giorgione, now unanimously Titian, Venus Room); old script 007 + findings G1 (B rows 007)
+@lang: fr
+@translation: from the fact-checked English V5.1 030 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Quelque chose vient de se passer dans ce tableau. On ne nous dit jamais quoi.
+
+Trois hommes font de la musique. Au milieu, un homme au manteau bleu sombre bordé de fourrure est assis à une épinette, un petit instrument à clavier. Ses mains sont encore sur les touches. Derrière lui, un moine en habit noir et blanc de dominicain, une viole de gambe à son côté. Le moine a posé la main sur l'épaule du musicien.
+
+[pause] Et le musicien a tourné la tête. Il ne nous regarde pas. Il regarde le moine. Les deux hommes échangent un regard. Et ce qui passe entre eux ne nous est pas destiné.
+
+[lightly] À gauche, le troisième homme, un jeune chanteur. Il porte une toque à plumes, un accessoire très prisé dans la Venise de Titien, signe d'audace et de virilité. Il est habillé pour être remarqué. Pourtant, c'est lui qui reste hors du moment, comme nous.
+
+Pendant des siècles, ce tableau a porté un autre nom. Quand le cardinal Léopold de Médicis l'a acheté en 1654, il était vendu comme un Giorgione. C'était le mystérieux peintre vénitien mort jeune, vers 1510, dont les rares tableaux ont changé la peinture vénitienne. [pause] On comprend pourquoi. La lumière chaude et voilée. L'histoire qui ne s'explique jamais. Aujourd'hui, pourtant, les spécialistes l'attribuent unanimement à Titien. Il l'a peint jeune, dans l'univers de Giorgione, et presque dans son ombre.
+
+Nous ne savons pas qui étaient ces trois hommes, ni ce qu'ils jouaient. On a proposé bien des lectures, et aucune ne s'est imposée.
+
+[quietly] Reste l'instant. La main sur l'épaule. La musique arrêtée en pleine phrase. Deux hommes qui se comprennent, et un troisième qui arrive un peu trop tard. [long pause] Cinq siècles plus tard, nous sommes toujours à la place du chanteur.
+
+Ensuite, retrouvez Titien trente-cinq ans plus tard. Cherchez son portrait de l'écrivain Pietro Aretino, un grand barbu en manteau rouge, avec une lourde chaîne d'or.

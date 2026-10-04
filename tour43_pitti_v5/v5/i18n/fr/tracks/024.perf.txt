@@ -1,0 +1,24 @@
+@id: 024 · FR · v5.0 036 · old 011 · Room 26 · Sala di Marte
+@section: Palatine
+@room: Room 26
+@type: R
+@title: Sala di Marte — La salle de Mars
+@where: Dans la Sala di Marte, la troisième des cinq salles des Planètes sur l'itinéraire du jour, après la Sala di Giove. Placez-vous vers le centre et regardez d'abord le plafond.
+@what: A grand reception room under Pietro da Cortona's ceiling fresco of Mars, painted in the mid-1640s. The room is traditionally home to Rubens's Consequences of War.
+@listen: Why the Medici prince's education reads backwards on today's route, what Cortona does with war, and the one work to find here.
+@brief: A warm friend pointing out that the story on the ceilings runs in reverse; easy and lightly amused at the start, amused at the flattery overhead, quieter for Rubens, practical at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/mars-room (Cortona 1643–44 and 1647; naval battle, Mars's star, Hercules' trophy, prisoners toward Victory, Plenty and Peace; arms crowned with Ferdinando II's name) ; https://uffizi.it/en/palatine-gallery/history (Planet Room frescoes 1640–47); old script 011 + findings G1 (B: ceiling "mid-1640s"; A: Rubens room unverified; E) ; 5 Oct 2026: Four Philosophers reported at the Uffizi since Jul 2023 and Titian's Young Englishman in Apollo since 1956 (catalogo.cultura.gov.it 0900295133), both tracks cut + G6_ROUTE (N36 wording)
+@lang: fr
+@translation: from the fact-checked English V5.1 024 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Si vous avez suivi les plafonds, voici une petite surprise. Vous lisiez l'histoire à l'envers.
+
+Sous les Médicis, un hôte traversait ces cinq salles des Planètes dans l'autre sens. Il commençait par la salle de Vénus, et finissait à Saturne, la première des pièces privées du grand-duc. Les plafonds racontaient dans cet ordre l'éducation d'un jeune prince. D'abord le plaisir, puis le savoir, puis la guerre, puis la couronne. [pause] Vous avez donc laissé le prince couronné dans la salle du trône, pour revenir sur le champ de bataille.
+
+Levez les yeux. Pietro da Cortona a peint ce plafond vers le milieu des années 1640. Ici, le prince apprend à combattre. [pause] Sur les bords, une bataille navale fait rage. Mars veille, et éclaire le jeune prince de son étoile pour lui donner force. [pause] Puis vient la récompense. Hercule dresse un trophée avec l'armure de l'ennemi. Une file de prisonniers est conduite vers trois figures paisibles. La Victoire, l'Abondance et la Paix. [wry] Et au centre, les armoiries des Médicis, couronnées du nom de celui qui a payé, Ferdinand Deux.
+
+[warmly] L'un des plus grands tableaux de Pierre Paul Rubens est habituellement accroché ici, et ce n'est pas un défilé triomphal. Rubens, peintre flamand, était aussi un vrai diplomate. [quietly] Ce tableau, c'est la guerre elle-même, sans gloire.
+
+Cherchez la grande toile où Mars en armure s'avance, une femme agrippée à lui, des corps tombés sous ses pieds. C'est Les Conséquences de la guerre. Écoutez sa piste devant elle.

@@ -1,0 +1,26 @@
+@id: 033 · FR · v5.0 049 · old 047 · Entrance
+@section: Modern Art
+@room: Entrance
+@type: R
+@title: Galerie d'Art moderne — Un autre siècle
+@where: À l'entrée de la galerie d'Art moderne, au deuxième étage. Depuis l'escalier ou les ascenseurs, suivez le couloir et tournez à gauche. Les salles sont numérotées de 1 à 30 et forment une boucle.
+@what: Thirty rooms of Italian painting and sculpture from the late 18th to the early 20th century, in rooms once used by the Lorraine grand dukes, with one of the richest Macchiaioli collections anywhere. The gallery opened in 1924.
+@listen: What "modern" meant when the gallery opened, and how the loop of rooms tells its story.
+@brief: A friend at the top of the stairs, gently resetting expectations with a smile, then laying out the walk ahead in plain words.
+@pace: medium
+@energy: 3→3
+@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · old script 047 + findings G3 (A, B 047), G6 §1.4
+@lang: fr
+@translation: from the fact-checked English V5.1 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Quand cette galerie a ouvert en 1924, le mot moderne voulait dire tout autre chose. Pas de Picasso ici. Pas de Matisse. [pause] Ici, dans trente salles numérotées, la peinture et la sculpture italiennes, de la fin du dix-huitième siècle au début du vingtième.
+
+Et en son cœur, l'une des plus riches collections au monde de Macchiaioli. Ces peintres toscans plantaient leur chevalet en plein air. Ils bâtissaient leurs tableaux par taches de lumière et de couleur, quand l'Italie devenait un seul pays.
+
+Les salles aussi ont leur histoire. C'étaient des pièces familiales des grands-ducs de Lorraine.
+
+[pause] La boucle suit à peu près l'ordre chronologique. D'abord le néoclassicisme et les années napoléoniennes. Puis les grands tableaux d'histoire. Au milieu, les Macchiaioli, entourés de portraits et de paysages. Enfin, la peinture toscane plus tardive, le symbolisme et le début du vingtième siècle.
+
+[warmly] Regardez le siècle changer en marchant. Il commence avec des dieux et des empereurs de marbre. Au milieu de la boucle, il peint des soldats, des bûcherons et des femmes assises à l'ombre, au bord de la mer.
+
+La boucle commence en salle un. Les deux premières salles sont néoclassiques. [pause] En salle deux, un visage très célèbre vous attend.

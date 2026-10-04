@@ -1,0 +1,28 @@
+@id: 016 · FR · v5.0 028 · old 026 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: W
+@title: Raphaël — La Gravida
+@where: Dans la Sala di Saturno, devant le portrait à mi-corps d'une jeune femme sur fond noir, par Raphaël, une main sur le ventre, l'autre tenant un gant. Ce tableau était autrefois accroché dans la salle de l'Iliade. Le musée l'indique désormais ici.
+@what: Raphael, Portrait of a Woman, known as La Gravida, oil on panel, around 1507, about 67 by 53 centimetres.
+@listen: Who she might have been, where her nickname came from, and why we can't be sure it's true.
+@brief: Talking to a friend about a stranger in a portrait; curious and honest about the doubt, warm on her clothes, a gentle wry turn at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://uffizi.it/en/artworks/ritratto-femminile-detto-la-gravida (Saturn room; c.1507, last Florentine years; clothing, net, rings, chain; hand on belly and glove; nickname from 19th-century observers; Bufalini and Emilia Pia theories unconfirmed) ; findings G2 (moved from the Iliad; date hedged; old card description corrected)
+@lang: fr
+@translation: from the fact-checked English V5.1 016 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] On l'appelle La Gravida, la femme enceinte, depuis le dix-neuvième siècle. [pause] Nous ne savons pas si elle l'était vraiment.
+
+Regardez ses mains. L'une repose sur un rebord et tient un gant. L'autre est posée sur son ventre arrondi. Son nom vient de ce seul geste. Au dix-neuvième siècle, certains l'ont regardé et ont décidé qu'elle attendait un enfant. Le titre est resté. [pause] Peut-être l'était-elle. Ou peut-être ont-ils vu ce qu'ils s'attendaient à voir. Le tableau ne le dit pas.
+
+Il ne dit pas non plus qui elle est. Raphaël l'a peinte vers 1507, à la fin de ses années florentines, au milieu de la vingtaine. Au fil du temps, les spécialistes ont proposé des noms. Une femme de la famille Bufalini, peut-être. Ou Emilia Pia, une fille de la famille Pio. Aucune hypothèse n'a tenu. Pour l'instant, comme le dit le musée, elle reste un mystère.
+
+[warmly] Sa tenue, en revanche, nous la connaissons exactement. Une robe blanche, un corsage jaune à ceinture noire, et de larges manches de damas rouge. Ses cheveux sont pris dans une résille serrée. Elle porte des bagues. Et une chaîne d'or, dont le pendentif disparaît dans son décolleté. C'est une femme aisée, habillée avec soin pour un portrait important.
+
+Et puis, il y a son visage. Elle se détache sur un simple fond noir. Pas de paysage, pas de symboles, pas d'histoire derrière laquelle se cacher. Son regard est calme et direct. Elle sait qu'on la regarde, et elle vous regarde en retour. [pause] Et Raphaël s'en contente.
+
+[wry] La voici donc, cinq siècles plus tard. Raphaël lui a tout donné, sauf un nom à elle. Plus tard, on lui en a donné un, peut-être même faux.
+
+Ensuite, le grand portrait sombre d'un pape assis, avec deux cardinaux derrière lui. C'est le Léon Dix de Raphaël.

@@ -1,0 +1,24 @@
+@id: 002 · FR · old 002 · Rooms 1–2 · Antechamber and Gallery of the Statues
+@section: Palatine
+@room: Rooms 1–2
+@type: R
+@title: La galerie Palatine — Antichambre et galerie des Statues
+@where: Dans les premières salles de la galerie Palatine, au premier étage : l'antichambre, puis la longue galerie des Statues qui mène à la salle Castagnoli.
+@what: An antechamber and a long gallery lined with classical marble statues; beyond them, rooms whose walls are covered with paintings in heavy gilded frames.
+@listen: What kind of gallery the Palatine is, why it's hung so densely, and which way the route runs.
+@brief: A knowledgeable friend at the threshold, sharing the gallery's small paradox and setting expectations; curious at the start, light and reassuring about the crowded walls, a touch of fun at walking the Medici route backwards.
+@pace: medium
+@energy: 2→3
+@sources: https://uffizi.it/en/palatine-gallery/history ; https://www.uffizi.it/palazzo-pitti/galleria-palatina (Lorraine foundation, about 500 works, walls fully covered in the manner of 17th-century picture galleries, silks, Cortona 1640–47) ; findings G2 B 025 (Medici guests came from Venus toward Jupiter), G6 §1.2 (route 1→28, Planet Rooms last, Venus last)
+@lang: fr
+@translation: from the fact-checked English V5.1 002 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Presque tous les tableaux des salles suivantes ont appartenu aux Médicis. Mais ce ne sont pas eux qui les ont accrochés ici. [pause] C'est la famille qui leur a succédé.
+
+Les grands-ducs Habsbourg-Lorraine ont créé cette galerie entre la fin du dix-huitième siècle et le début du dix-neuvième. Ils ont choisi environ cinq cents œuvres des grandes collections des Médicis, pour les salons d'apparat du palais. Ils les ont accrochées exprès à l'ancienne, comme au dix-septième siècle. Cadre contre cadre, d'un mur à l'autre. Entre eux, des sculptures, des vases et des tables en pierres incrustées.
+
+[lightly] N'attendez donc pas un musée moderne, avec un seul tableau sur un mur blanc et un long cartel à côté. Ici, les salles font partie du spectacle. Soie aux murs, cadres dorés, plafonds peints au-dessus de vous. [pause] On doit d'abord ressentir la richesse. Les chefs-d'œuvre viennent ensuite.
+
+Vous commencez par cette antichambre et la longue galerie des Statues, bordée de marbres antiques. Puis le parcours traverse la salle Castagnoli et une suite de petites salles. Il garde pour la fin les cinq grandes salles des Planètes, aux plafonds de Pietro da Cortona et de son élève Ciro Ferri. [pause] Sous les Médicis, les hôtes de marque les parcouraient dans l'autre sens. À la fin, vous suivrez donc à rebours le parcours d'apparat du grand-duc.
+
+Traversez toute la galerie des Statues jusqu'à la salle Castagnoli. Vous la reconnaîtrez à sa grande table ronde en pierre, au centre. Écoutez sa piste là-bas.

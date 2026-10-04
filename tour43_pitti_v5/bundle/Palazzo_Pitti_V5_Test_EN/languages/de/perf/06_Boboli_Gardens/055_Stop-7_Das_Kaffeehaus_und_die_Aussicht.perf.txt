@@ -1,0 +1,24 @@
+@id: 055 · DE · v5.0 072 · old 085 · Stop 7
+@section: Boboli
+@room: Stop 7
+@type: R
+@title: Das Kaffeehaus und die Aussicht
+@where: Am Kaffeehaus, dem kleinen Pavillon mit Kuppeldach und Türmchen auf der Ostseite des oberen Gartens. Stellen Sie sich an den Rand der Terrasse, mit Blick auf die Stadt.
+@what: The Kaffeehaus by Zanobi del Rosso, 1774–85, for Grand Duke Pietro Leopoldo; restored in 2022 as part of Boboli 2030. Nearby, the Garden of Ganymede, with a sixteenth-century marble Ganymede on the eagle attributed to Giovanni Battista Lorenzi.
+@listen: The best view of Florence from the garden, and a grand duke's pavilion for drinks on a walk.
+@brief: Sharing a favourite view with a friend; warm and expansive at the panorama, lightly amused by the coffee-house that served chocolate.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/kaffehaus ; https://www.uffizi.it/en/artworks/garden-of-ganymede ; https://uffizi.it/en/news/boboli2030 (1 Aug 2022) ; old script + findings G5
+@lang: de
+@translation: from the fact-checked English V5.1 055 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Für diesen Blick steigen die Leute den Hügel hinauf. Das ganze Zentrum von Florenz liegt unter Ihnen. In der Mitte erhebt sich Brunelleschis Kuppel. Sie wurde 1436 vollendet. Bis heute ist sie die größte gemauerte Kuppel der Welt. Daneben steht Giottos Glockenturm. Hinter den Dächern steigen die Hügel nach Fiesole an.
+
+[pause] Drehen Sie sich jetzt um. Der Pavillon hinter Ihnen ist das Kaffeehaus. Der Architekt Zanobi del Rosso begann es 1774 für Großherzog Pietro Leopoldo. Hier rastete der Hof auf seinen Spaziergängen durch den Garten. Der Name verspricht Kaffee. [pause] [amused] Doch laut dem Museum kam man für heiße Schokolade hierher. Wegen des seltsamen Türmchendachs nannten die Florentiner es den chinesischen Pavillon.
+
+2022 wurde es restauriert, im Rahmen der langen Restaurierung des Gartens.
+
+Ganz in der Nähe liegt das kleine Ganymed-Gärtchen. Sein Brunnen zeigt den Knaben, den Jupiters Adler entführte, damit er den Göttern als Mundschenk diente. [lightly] Ein passender Nachbar für ein Haus, das für Getränke gebaut wurde.
+
+Folgen Sie von hier dem Weg bergauf, zum oberen Ende des Gartens. Knapp unterhalb des ummauerten Kavaliersgartens, am Kopf der Mittelachse, steht eine kolossale Frau aus Marmor. [pause] Das ist die Abbondanza, die Fülle. Spielen Sie ihren Titel zu ihren Füßen ab, oder so nah, wie es ein Restaurierungszaun erlaubt.

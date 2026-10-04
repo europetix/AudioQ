@@ -1,0 +1,26 @@
+@id: 038 · FR · v5.0 055 · old 052 · Rooms 10–13
+@section: Modern Art
+@room: Rooms 10–13
+@type: R
+@title: Les salles des Macchiaioli
+@where: Dans les salles 10 à 13, cœur de la présentation des Macchiaioli ; la salle 6 montre leurs premiers essais. Écoutez cette piste en entrant dans la salle 10.
+@what: The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti, 1866, in Room 10; Zandomeneghi's two portraits of Diego Martelli and two Pissarro landscapes in Room 11; Silvestro Lega's Singing a Stornello, 1867, in Room 12; Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13.
+@listen: Who the Macchiaioli were, the friends and patrons around them, and what to look for in each of these four rooms.
+@brief: A friend in their favourite rooms of the building, relaxed and enthusiastic, pointing things out one room at a time.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/artworks/singing-a-ditty · https://www.uffizi.it/en/artworks/fattori-magenta-en · old script 052 + findings G3 (A 052, B 052, D)
+@lang: fr
+@translation: from the fact-checked English V5.1 038 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Imaginez qu'on vous traite de tache, et que vous gardiez le nom. Macchia, en italien, c'est une tache, un barbouillage. Au début des années 1860, des critiques s'en servaient pour railler des peintres florentins. Ils construisaient leurs tableaux par taches de couleur, au lieu de fondus soignés. [pause] Ils ont pris l'insulte, et l'ont portée fièrement.
+
+Leur idée était simple et obstinée. Peindre ce qu'on voit vraiment, en plein air, sous la vraie lumière. Des soldats, des paysans, la côte, un après-midi tranquille à la maison. Cette galerie en possède l'une des plus riches collections au monde.
+
+[pause] Prenez ces salles une à une. La salle dix est consacrée à Cristiano Banti, peintre et collectionneur. Cherchez le portrait d'Alaide Banti par Giovanni Boldini.
+
+La salle onze est celle de Diego Martelli, critique et mécène, leur grand défenseur. Federico Zandomeneghi l'a peint deux fois. [curious] Cherchez aussi deux paysages de Camille Pissarro, rare voix impressionniste française parmi ces Toscans.
+
+En salle douze, Le Chant du stornello, de Silvestro Lega, un chant populaire dans un intérieur paisible. Et en salle treize, le Camp italien après la bataille de Magenta, de Fattori. [pause] Remarquez le titre. Pas la bataille, avec sa charge et sa gloire. Le camp, après.
+
+[warmly] Un autre tableau très aimé de Fattori se trouve dans cette galerie, mais le musée ne dit pas où. Guettez un minuscule panneau, des femmes sous un auvent au bord de la mer. Il a sa propre histoire, quand vous le trouverez.

@@ -1,0 +1,26 @@
+@id: 051 · ES · v5.0 068 · old 082 · Stop 3
+@section: Boboli
+@room: Stop 3
+@type: W
+@title: Buontalenti: la Grotta Grande
+@where: Junto al Bacchino, a lo largo del mismo muro este, cerca de la entrada al Corredor Vasariano. Colóquese frente a la fachada. Entre solo si la reja está abierta.
+@what: The Grotta Grande, or Buontalenti Grotto: begun in the 1550s as an aqueduct reservoir, given a façade by Vasari, and transformed by Bernardo Buontalenti from 1583. Bandinelli's Apollo and Ceres in the niches; inside, replicas of Michelangelo's four Prisoners, Vincenzo de' Rossi's Theseus and Helen, and Giambologna's Venus of about 1593.
+@listen: How a water tank became the strangest building in the garden, and the question it was built to ask.
+@brief: Showing a friend a wonderfully odd building; curious, then delighted, a quiet beat for Michelangelo's lost statues, warm at the end.
+@pace: medium
+@energy: 3→4→2→3
+@sources: https://uffizi.it/en/artworks/grotta-del-buontalenti ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/hele-and-theseus-grotto ; https://www.uffizi.it/en/artworks/bathing-venus-giambologna ; old script + findings G5
+@lang: es
+@translation: from the fact-checked English V5.1 051 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esto empezó siendo un depósito de agua. En la década de 1550, los Médici lo construyeron aquí para un nuevo acueducto. Luego Vasari le dio una sobria fachada de columnas. [pause] Y una generación después, Bernardo Buontalenti lo convirtió en el edificio más extraño del jardín.
+
+Mire la fachada. Dos nichos albergan a Apolo y Ceres, de Baccio Bandinelli, dioses de la luz y de la cosecha, todo orden y calma. Arriba y alrededor, la piedra empieza a derretirse. Gotea. Se hincha en costras rocosas, como si el edificio volviera poco a poco a ser una cueva.
+
+[pause] Esa era justamente la idea. Dentro, si la reja está abierta, la primera cámara imita una cueva húmeda. Estalactitas, piedra esponja y conchas, con pastores y animales que asoman a medias de la roca. En sus cuatro esquinas están cuatro de los Prisioneros inacabados de Miguel Ángel. [quietly] O mejor dicho, estaban. Los Médici pusieron aquí los originales en 1585: figuras que luchan por salir del mármol en bruto, en una roca que solo fingía ser bruta. En 1908 se fueron a la Galería de la Academia. Ahora hay réplicas.
+
+Entonces, ¿dónde termina la naturaleza y empieza el arte? La cueva parece natural, y es artificial hasta el último rincón. Esa pregunta encantaba a los florentinos de la época. Esta es su respuesta en piedra y agua.
+
+La segunda cámara guarda un mármol de Teseo raptando a Helena, de Vincenzo de' Rossi. La tercera, la Venus de Giambologna, una joven que sale del baño, con cuatro sátiros en la pila, a sus pies.
+
+[warmly] Aun desde fuera, se nota la broma. El rostro sereno de un dios y, justo encima, la roca que empieza a gotear. [pause] Cuando termine, busque el pequeño sendero que sube por detrás y por encima de la gruta. Lleva a la Grotta di Madama, la gruta más antigua del jardín. Reproduzca su pista allí.

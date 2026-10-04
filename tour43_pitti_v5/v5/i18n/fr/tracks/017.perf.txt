@@ -1,0 +1,30 @@
+@id: 017 · FR · v5.0 029 · old 022 · Room 24 · Sala di Saturno
+@section: Palatine
+@room: Room 24
+@type: W
+@title: Raphaël — Le pape Léon X avec deux cardinaux
+@where: Dans la Sala di Saturno, devant le grand portrait sombre d'un pape assis à une table, un cardinal debout de chaque côté, derrière lui. Approchez-vous assez pour voir le pommeau doré au dos de son fauteuil.
+@what: Raphael, Portrait of Pope Leo X with Cardinals Giulio de' Medici and Luigi de' Rossi, oil on panel, 1518.
+@listen: Who the pope and his two cousins were, the book and the magnifying glass on his table, and the tiny reflection that made the painting famous.
+@brief: Letting a friend in on a power portrait and its showpiece trick; amused about the pope, curious at the book, quietly impressed by the reflection, a dry final line.
+@pace: medium
+@energy: 3→4→3
+@sources: https://uffizi.it/en/events/leonex-restoration (cardinals Giulio de' Medici and Luigi de' Rossi, his cousins; Opificio restoration from autumn 2017; underdrawing by Raphael, pope revisited freehand; magnifying glass and possible short sight; Neapolitan codex, mid-14th century, Orimina, now in Berlin; to be shown in the Saturn Room) ; findings G1 (cardinal positions corrected: Giulio LEFT, Rossi RIGHT with hand on chair; Rossi's cause of death dropped; Vasari and the finial reflection confirmed) ; old script (1518; Leo's "enjoy the papacy" line, framed as report)
+@lang: fr
+@translation: from the fact-checked English V5.1 017 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] L'homme à la table était sans doute le mécène le plus fastueux d'Europe. Et le détail célèbre de son portrait est un reflet sur le pommeau de son fauteuil.
+
+C'est Jean de Médicis, fils de Laurent le Magnifique, florentin jusqu'au bout des ongles. En 1513, il devient le pape Léon Dix. C'est lui qui a excommunié Martin Luther. Et il dépensait sans compter pour l'art et les plaisirs. Devenu pape, il aurait dit : Dieu nous a donné la papauté, profitons-en. Du moins selon les chroniqueurs. [pause] Qu'il l'ait dit ou non, il l'a vécu.
+
+Raphaël l'a peint en 1518, deux ans avant sa propre mort. Derrière le pape se tiennent deux cardinaux, tous deux ses cousins. À gauche, Jules de Médicis, le futur pape Clément Sept. À droite, la main sur le fauteuil du pape, Luigi de' Rossi, mort l'année suivante.
+
+[curious] Maintenant, la table. Devant le pape est ouvert un manuscrit enluminé. Il vient de soulever de la page une loupe cerclée d'or. Elle suggère peut-être qu'il était myope. Elle dit à coup sûr qu'il aimait les livres. Ce manuscrit est réel. Réalisé à Naples au quatorzième siècle, il est aujourd'hui dans un musée de Berlin.
+
+[pause] Approchez-vous encore, jusqu'au pommeau doré au dos du fauteuil, derrière son épaule. Sur sa surface polie, Raphaël a peint un minuscule reflet de la fenêtre de la pièce. [pause] Vasari, qui a écrit sur ce tableau une génération plus tard, a retenu ce détail comme la preuve du talent de Raphaël.
+
+Longtemps, certains spécialistes ont pensé que les deux cardinaux avaient été ajoutés ensuite par l'atelier de Raphaël. Puis le grand laboratoire de restauration de Florence l'a restauré pendant plus de deux ans. Les examens infrarouges ont révélé tout le groupe dessiné en dessous, de la main même de Raphaël. Et la figure du pape, retravaillée à main levée.
+
+[wry] Un pape, l'avenir de sa famille, et une fenêtre prise dans une boule dorée. Raphaël faisait étalage de son talent. Il l'avait bien mérité.
+
+Ensuite, cherchez un petit tableau très sombre, la Vierge debout, son enfant dans les bras. C'est la Madonna del Granduca.

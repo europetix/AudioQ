@@ -1,0 +1,24 @@
+@id: 041 · FR · v5.0 060 · old 057 · Entrance
+@section: Fashion and Costume
+@room: Entrance
+@type: R
+@title: La Palazzina della Meridiana
+@where: À l'entrée du musée de la Mode et du Costume, dans la Palazzina della Meridiana, au deuxième étage. Depuis le palier, suivez le couloir à droite, puis un escalier de deux courtes volées, équipé d'un monte-escalier. C'est un cul-de-sac : vous ressortirez par le même chemin.
+@what: A small palace joined to the south wing of Palazzo Pitti, begun in 1776 by Gaspare Maria Paoletti for Grand Duke Pietro Leopoldo and completed in 1830 by Pasquale Poccianti. Since 1983 it has housed Italy's first state museum of fashion history, shown in rotation.
+@listen: How a beam of noon sunlight gave this building its name, and how the museum works.
+@brief: A friend at the threshold of a quieter, more intimate building; curious and light, savouring the sunlight story, then practical.
+@pace: medium
+@energy: 3→3
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · old script 057 + findings G3 (A 057, B 057, C 057, E 056–057), G6 §1.4
+@lang: fr
+@translation: from the fact-checked English V5.1 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ce bâtiment doit son nom à une tache de soleil. [pause] Plus exactement, à la ligne qu'elle parcourt.
+
+En 1699, Vincenzo Viviani, élève de Galilée, trace une méridienne dans le vestibule de l'appartement du grand-prince Ferdinand de Médicis. Elle est sous une voûte peinte par Anton Domenico Gabbiani, une Allégorie du Temps et des Arts. Cette voûte est percée d'un minuscule trou. À midi, le soleil y passe. Une tache de lumière tombe alors sur une ligne du sol, à un point différent chaque jour de l'année. [pause] Le temps peint au plafond. Le temps mesuré au sol.
+
+Le petit palais est venu plus tard. Commencé pour le grand-duc Pierre-Léopold, il n'a été achevé qu'en 1830, sous Léopold Deux. Les Lorraine, puis les Savoie, y ont vécu.
+
+[warmly] Il abrite aujourd'hui le premier musée d'État italien consacré à l'histoire de la mode. Et à ce que les vêtements disent de ceux qui les portent. La collection compte plus de quinze mille pièces, du dix-huitième siècle à nos jours. [pause] La soie et la dentelle craignent la lumière. On n'en montre qu'une partie à la fois, et l'accrochage change environ chaque année.
+
+Une chose ne change jamais. Les plus anciens et les plus rares sont toujours exposés. [pause] Ceux dans lesquels trois Médicis ont été enterrés, il y a plus de quatre cents ans. [pause] Commencez par eux.

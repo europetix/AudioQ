@@ -1,0 +1,26 @@
+@id: 043 · ES · v5.0 062 · old 059–069 · Galleries
+@section: Fashion and Costume
+@room: Galleries
+@type: R
+@title: Tres siglos de moda: la exposición rotativa
+@where: En cualquier lugar de las galerías del museo, después de las prendas de los Médici. Las exposiciones cambian, así que escuche esto donde prefiera. Al terminar, vuelva por el mismo camino al rellano del segundo piso. Después, baje un piso para los Apartamentos Reales, o baje hasta el patio.
+@what: Clothes, accessories, jewellery and stage costumes from the eighteenth century to today, shown in rotation for conservation; the selection on view changes from time to time.
+@listen: How to read whatever is on display today, and how Italian fashion was launched on the world inside this very palace.
+@brief: Browsing with a friend who loves clothes; light and lively, then a little proud at the Sala Bianca story, ending with clear directions downstairs.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/en/events/nuovo-allestimento-museo-moda-2025 · https://www.theflorentine.net/2024/07/16/fashion-museum-reopens-palazzo-pitti/ · old scripts 059–069 + findings G3 (A 059–069, B 059–069, B 065, C), G6 §1.4
+@lang: es
+@translation: from the fact-checked English V5.1 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Todo museo tiene un problema con la luz. Un museo de moda lo tiene peor. La seda se destiñe, los forros se debilitan, y un vestido expuesto demasiado tiempo, sin más, se deshace.
+
+Por eso este museo funciona por rotación. Su colección va del siglo dieciocho hasta hoy. Ropa, joyas, accesorios, e incluso trajes de escena de estrellas del cine, el teatro y la ópera. Solo se expone una parte cada vez. Cada cierto tiempo, una nueva selección la sustituye.
+
+[pause] Así que no puedo decirle exactamente qué verá. Pero sí qué observar, sea lo que sea. [pause] Observe la forma del cuerpo.
+
+En el siglo dieciocho, el traje de corte era pura arquitectura. Unos aros en las caderas ensanchaban las faldas hacia los lados. Hacia 1800, todo eso se vino abajo. El talle subió bajo el busto, y las faldas cayeron rectas y ligeras, como en una estatua clásica. Luego el siglo diecinueve recuperó la estructura, y el miriñaque hizo de nuevo faldas anchas como puertas. Y el siglo veinte tiró el corsé, y reinventó el cuerpo cada década, más o menos.
+
+[warmly] Un capítulo de esa historia ocurrió aquí mismo. En febrero de 1951, un empresario florentino, Giovanni Battista Giorgini, mostró en su casa diseños italianos a unos pocos compradores estadounidenses. Salió bien. Desde 1952, los desfiles pasaron a la Sala Bianca, la Sala Blanca de este palacio. [pause] Ahí el mundo empezó a tomarse en serio la moda italiana.
+
+Después de las galerías, vuelva por el mismo camino al rellano. Baje un piso por la escalera o en ascensor, hasta el atrio de entrada de la Galería Palatina. Ahí se reúnen los grupos de los Apartamentos Reales, y hay una pista para la espera. Si no va a visitarlos, continúe hasta el patio y siga las indicaciones hacia la Capilla Palatina.

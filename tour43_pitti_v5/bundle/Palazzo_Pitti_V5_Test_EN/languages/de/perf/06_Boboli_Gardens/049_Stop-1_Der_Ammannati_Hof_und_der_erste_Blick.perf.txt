@@ -1,0 +1,24 @@
+@id: 049 · DE · v5.0 066 · old 079 · Stop 1
+@section: Boboli
+@room: Stop 1
+@type: R
+@title: Der Ammannati-Hof und der erste Blick
+@where: Am hinteren Ende des Ammannati-Hofes, den Palast im Rücken und den ansteigenden Garten vor sich. Der Artischockenbrunnen steht auf der Terrasse darüber. Den Bacchino erreichen Sie von der linken, östlichen Seite des Hofes. Ein barrierefreier Tunnel unter der Loggia führt zum selben kleinen Platz.
+@what: The threshold of the Boboli Gardens: more than 30 hectares climbing the hill behind the palace, begun in 1549 for Eleonora di Toledo and reshaped over three centuries; now in the long Boboli 2030 restoration, with some areas fenced off but visible.
+@listen: Who began the garden, the single line it is built around, and an honest word about the restoration works.
+@brief: Standing at the garden's edge with a friend before a long walk; open and warm, a touch of candour about the works, then pointing the way with a smile.
+@pace: medium
+@energy: 3→3→4
+@sources: https://www.uffizi.it/giardino-boboli (IT, "oltre 30 ettari") ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/boboli-garden ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; findings G5, G6 §1.6–1.7
+@lang: de
+@translation: from the fact-checked English V5.1 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Hinter dem prächtigsten Haus von Florenz besaßen die Medici einen ganzen Hügel. Der Boboli-Garten umfasst mehr als dreißig Hektar. Terrassen und Alleen, Brunnen und Wäldchen, die vom Palast bis zu den alten Stadtmauern hinaufsteigen.
+
+Am Anfang stand eine Frau. 1549 brachte Eleonora di Toledo die Arbeiten in Gang, die in Spanien geborene Frau von Cosimo dem Ersten. Ihr Gestalter war Niccolò Tribolo. [pause] Tribolo starb im Jahr darauf. Ammannati, der Erbauer dieses Hofes, übernahm, und danach Buontalenti. Drei Jahrhunderte lang bauten erst die Medici, dann die Lothringer immer weiter. So wurde der Garten zum Vorbild für Hofgärten in ganz Europa. Eleonoras eigene Totengewänder sind übrigens im Palast ausgestellt, im Museum für Mode und Kostüm im zweiten Stock.
+
+[lightly] Ein ehrliches Wort, bevor Sie losgehen. Der Garten wird in einem langen Programm restauriert, es heißt Boboli 2030. Unterwegs begegnen Ihnen Gerüste und abgesperrte Bereiche. [pause] Aber das meiste hinter den Zäunen sehen Sie trotzdem von den Wegen aus.
+
+Der Entwurf beruht auf einer Idee: der Achse. Von hier steigt eine einzige gerade Linie den Hügel hinauf. Am Artischockenbrunnen über Ihnen vorbei, durch das Amphitheater, am Neptunbrunnen vorbei, bis zu einer kolossalen Statue ganz oben. [quietly] Fast alles im zentralen Garten ist um diese Linie herum angeordnet.
+
+Aber die erste Station liegt seitlich. Gehen Sie nach links, nach Osten, zum kleinen Platz mit dem Bacchino-Brunnen. [pause] Dort reitet eine kleine, rundliche Figur auf einer Schildkröte. Ihn sollten Sie unbedingt kennenlernen. Spielen Sie seinen Titel ab, wenn Sie neben ihm stehen.

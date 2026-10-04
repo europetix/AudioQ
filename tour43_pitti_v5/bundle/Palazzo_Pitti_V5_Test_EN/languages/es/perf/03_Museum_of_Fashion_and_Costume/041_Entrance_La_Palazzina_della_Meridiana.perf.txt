@@ -1,0 +1,24 @@
+@id: 041 · ES · v5.0 060 · old 057 · Entrance
+@section: Fashion and Costume
+@room: Entrance
+@type: R
+@title: La Palazzina della Meridiana
+@where: En la entrada del Museo de la Moda y el Traje, en la Palazzina della Meridiana, en el segundo piso. Se llega desde el rellano por el pasillo de la derecha y una escalera de dos tramos cortos, con salvaescaleras. No tiene otra salida: se vuelve por el mismo camino.
+@what: A small palace joined to the south wing of Palazzo Pitti, begun in 1776 by Gaspare Maria Paoletti for Grand Duke Pietro Leopoldo and completed in 1830 by Pasquale Poccianti. Since 1983 it has housed Italy's first state museum of fashion history, shown in rotation.
+@listen: How a beam of noon sunlight gave this building its name, and how the museum works.
+@brief: A friend at the threshold of a quieter, more intimate building; curious and light, savouring the sunlight story, then practical.
+@pace: medium
+@energy: 3→3
+@sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · old script 057 + findings G3 (A 057, B 057, C 057, E 056–057), G6 §1.4
+@lang: es
+@translation: from the fact-checked English V5.1 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Este edificio debe su nombre a un punto de luz solar. [pause] Más exactamente, a la línea que recorre.
+
+En 1699, Vincenzo Viviani, alumno de Galileo, trazó una meridiana en el vestíbulo del apartamento del gran príncipe Fernando de Médici. Está bajo una bóveda de Anton Domenico Gabbiani, con una Alegoría del Tiempo y las Artes. En esa bóveda pintada hay un orificio diminuto. Al mediodía, el sol entra por él. Un punto brillante cae sobre una línea del suelo, en un lugar distinto cada día del año. [pause] El tiempo, pintado en el techo. El tiempo, medido en el suelo.
+
+La pequeña residencia llegó después. Se empezó para el gran duque Pedro Leopoldo, y no se terminó hasta 1830, con Leopoldo Segundo. Aquí vivieron los Lorena y, más tarde, los Saboya.
+
+[warmly] Hoy alberga el primer museo estatal de Italia dedicado a la historia de la moda, y a lo que la ropa dice de quien la viste. La colección supera las quince mil piezas, desde el siglo dieciocho hasta hoy. La seda y el encaje no toleran la luz. Por eso se expone solo una parte, y la muestra cambia más o menos cada año.
+
+Hay algo que nunca cambia. Lo más antiguo y raro está siempre expuesto: la ropa con la que fueron enterrados tres Médici, hace más de cuatrocientos años. [pause] Búsquelas primero.

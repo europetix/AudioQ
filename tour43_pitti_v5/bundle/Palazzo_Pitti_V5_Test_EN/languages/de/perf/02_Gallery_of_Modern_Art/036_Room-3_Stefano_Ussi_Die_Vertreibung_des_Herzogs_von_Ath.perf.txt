@@ -1,0 +1,30 @@
+@id: 036 · DE · v5.0 052 · old NEW · Room 3
+@section: Modern Art
+@room: Room 3
+@type: W
+@title: Stefano Ussi – Die Vertreibung des Herzogs von Athen
+@where: In Saal 3 der Galerie für moderne Kunst, vor dem riesigen Historienbild, das eine ganze Wand füllt. Treten Sie zurück, um die ganze Menge zu überblicken.
+@what: Stefano Ussi, The Expulsion of the Duke of Athens, 1860, oil on canvas, 316 × 447 cm. First prize at the 1861 National Exhibition in Florence; gold medal at the 1867 Paris Exhibition.
+@listen: A tyrant thrown out of medieval Florence, painted at the very moment Tuscany was getting rid of its own ruler, with the painter hidden in the crowd.
+@brief: A friend who knows the secret in the crowd, teasing it at the start, telling the story with growing energy, and landing the reveal quietly.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/expulsion-of-the-duke-of-athens · findings G3 (A 049 route, D)
+@lang: de
+@translation: from the fact-checked English V5.1 036 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Irgendwo in dieser Menge hat sich der Maler selbst versteckt. Halten Sie Ausschau nach einem bewaffneten Mann mit verbundenem Kopf. Wir kommen auf ihn zurück.
+
+Die Geschichte spielt im Juli 1343. Walter von Brienne, der Herzog von Athen, herrschte über Florenz. Und Florenz hatte genug von ihm. Stefano Ussi nahm die Szene direkt aus Machiavellis Florentinischen Geschichten. Wir sind im Palast des Bargello, und der Herzog unterschreibt den Verzicht auf seine Macht.
+
+[pause] Sehen Sie sich die Gesichter um ihn an. Hinter ihm steht sein Berater Cerretieri Visdomini, finster wie eine verschlossene Tür. Links stehen ruhig und gefasst die Verschwörer. Erzbischof Acciaioli steht bei Vertretern des Adels und des Volkes. Von rechts gestikuliert ein Soldat drängend. Und durch das Fenster sieht man, wie die Stadt schon feiert.
+
+Und die Größe. Mehr als drei Meter hoch und fast viereinhalb Meter breit. Für einige Figuren standen wahrscheinlich seine Freunde Modell.
+
+[curious] Doch eigentlich ist das kein Bild über 1343. Ussi malte es 1860, und für die Florentiner jenes Jahres war das Thema ein Spiegel. Die Toskana war gerade ihren eigenen Herrscher losgeworden, den lothringischen Großherzog Leopold den Zweiten. Derselbe Mann, dem man Napoleons Marmorkopf geschenkt hatte, im Saal, den Sie gerade verlassen haben. [pause] Ussi verstand die alte Geschichte als Hommage an die neue. An das Ende der Herrschaft fremder Fürsten.
+
+Das Bild war ein Triumph. Es gewann den ersten Preis auf der Nationalausstellung in Florenz. Und einige Jahre später eine Goldmedaille auf der Pariser Ausstellung.
+
+[long pause] [quietly] Jetzt suchen Sie ihn. Unter den Bewaffneten ist einer mit verbundenem Kopf, als hätte er selbst mitgekämpft. Das ist Ussi. [pause] Er malte nicht nur die Menge, die einen Tyrannen verjagte. Er stellte sich selbst mitten hinein.
+
+Wenn Sie so weit sind, gehen Sie durch Saal vier weiter bis Saal fünf. Dort setzen sich die großen Historienbilder fort.

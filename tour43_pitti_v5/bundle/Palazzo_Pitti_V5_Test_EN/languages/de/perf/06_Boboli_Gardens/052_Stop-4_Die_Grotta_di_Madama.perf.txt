@@ -1,0 +1,26 @@
+@id: 052 · DE · v5.0 069 · old 081 · Stop 4
+@section: Boboli
+@room: Stop 4
+@type: R
+@title: Die Grotta di Madama
+@where: Oberhalb und hinter der Grotta Grande, im kleinen Giardino di Madama an der alten Klostermauer, erreichbar über die schmalen Seitenwege. Die Grotte ist normalerweise geschlossen, Sie sehen sie also von außen.
+@what: The Grotta di Madama, the oldest grotto in Boboli, built 1553–55 under Davide Fortini, Tribolo's son-in-law: an artificial-rock front in a stone frame with a white-marble doorway; inside, animal sculptures among stalactites and a vault painted with grotesques.
+@listen: The garden's first grotto, why Renaissance gardens wanted artificial caves, and who "Madama" was.
+@brief: A short, easy aside on a quiet side path; light and conversational, a moment of curiosity about why caves, then pointing onward.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/madama-grotto-grotta-di-madama ; https://uffizi.it/en/boboli-garden/history ; https://cultura.gov.it/evento/gep-2022-apertura-con-visite-accompagnate-alla-grotticina-di-madama-nel-giardino-di-boboli ; old script + findings G5, G6 §1.7
+@lang: de
+@translation: from the fact-checked English V5.1 052 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Sie haben gerade die berühmte Grotte gesehen. Das hier ist die kleine, aus der sie hervorging. Die Grotta di Madama ist die älteste Grotte im Garten. Sie entstand zwischen 1553 und 1555 unter Davide Fortini. Er war der Schwiegersohn von Tribolo, dem ersten Gestalter des Gartens.
+
+Sie ist meist geschlossen, nur zu besonderen Anlässen geöffnet. Sie sehen sie also wohl von außen. Schauen Sie auf die Front. Eine Wand aus künstlichem Fels, in einem ordentlichen Steinrahmen mit Giebel. In der Mitte eine kleine Tür, gerahmt von weißem Marmor. [pause] Wilde Natur, gefasst in einen klassischen Bilderrahmen.
+
+[curious] Drinnen sind die Wände rau wie ein Schwamm. Tropfsteine hängen herab. Gemeißelte Tiere, darunter Ziegen und Widder, treten rund um ein Becken aus dem Fels. Bandinelli meißelte die Ziege in der Mitte. Das Gewölbe wurde mit Grotesken bemalt.
+
+Warum brauchte ein Renaissancegarten überhaupt falsche Höhlen? Die Antwort führt ins alte Rom. Römische Villen hatten Nymphäen. Kühle, schattige Wassergrotten, in denen man sich die Nymphen der Quellen und Wälder dachte. Die Florentiner entdeckten die Antike neu und wollten eigene. [pause] Eine Grotte war ein Rückzugsort an heißen Tagen, ein Stück Theater und ein Argument über Natur und Kunst, alles zugleich.
+
+[pause] Der Name kam später. Laut dem Museum geht er wahrscheinlich auf Maria Magdalena von Österreich zurück, die Frau von Cosimo dem Zweiten. Ihr habsburgisches Wappen war an der Holztür der Grotte.
+
+[warmly] Fortini wagte den bescheidenen ersten Versuch. Dreißig Jahre später griff Buontalenti dieselbe Idee auf und ließ ihr gleich unter Ihnen freien Lauf. Gehen Sie von hier hinauf und hinüber zum großen Amphitheater hinter dem Palast. Spielen Sie seinen Titel vom Weg an seinem Rand ab.

@@ -1,0 +1,26 @@
+@id: 037 · DE · v5.0 053 · old 050 · Room 5
+@section: Modern Art
+@room: Room 5
+@type: R
+@title: Romantik und Historienmalerei
+@where: In Saal 5 der Galerie für moderne Kunst, zwischen den großen Historienbildern. Danach folgen die Säle 6 bis 9.
+@what: Large-format history painting between Romanticism and Realism, including Giuseppe Bezzuoli's Entry of Charles VIII into Florence, 1829, and Giovanni Dupré's Dying Abel, 1846–51. Next: the first Macchiaioli experiments in Room 6, portraits in Rooms 7 and 8, landscapes in Room 9.
+@listen: How Italian painters used the past to talk about their present, and the turn toward painting what is in front of you.
+@brief: Walking a friend through a room of big, theatrical canvases; lively, then a little conspiratorial about the rebellion coming next door.
+@pace: medium
+@energy: 3→3→4
+@sources: https://www.uffizi.it/en/online-exhibitions/en · old script 050 + findings G3 (A 050, B 050, D, E 049–050)
+@lang: de
+@translation: from the fact-checked English V5.1 037 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Im Italien des neunzehnten Jahrhunderts kommentierte ein Bild der fernen Vergangenheit oft die Gegenwart. Eines haben Sie gerade gesehen. Dieser Saal ist voll davon.
+
+Die Bilder hier stehen zwischen zwei Welten, Romantik und Realismus. Die Romantik erreichte Italien in den 1820er-Jahren. Sie brachte große Themen, kräftige Farben und starke Gefühle. Der große Name war Francesco Hayez. Ausgebildet in Venedig, ansässig in Mailand, der Maler des Kusses. [pause] Auch von ihm besitzt die Galerie Werke.
+
+[pause] Suchen Sie hier Giuseppe Bezzuolis Einzug Karls des Achten in Florenz, gemalt 1829. Ein französischer König zieht in die Stadt ein. Das Bild macht aus dem Moment ein großes Schauspiel. Bezzuoli lehrte an der Akademie in Florenz. In genau dieser Manier wurden seine Schüler ausgebildet.
+
+Suchen Sie auch Giovanni Duprès Skulptur des sterbenden Abel. Keine Menge, keine Kostüme. Nur ein junger Körper und eine Stille, die dem Leben sehr nahe scheint.
+
+[conspiratorial] Und nebenan beginnt eine Rebellion. In den folgenden Sälen wenden sich Maler in Florenz von all diesem Theater ab. Saal sechs zeigt ihre ersten Versuche, etwa Giuseppe Abbatis Blick auf den Kreuzgang von Santa Croce. [pause] Dann folgen Säle mit Porträts und ein Saal mit Landschaften.
+
+Einer der Rebellen war ein Schüler Bezzuolis selbst, Giovanni Fattori. Merken Sie sich seinen Namen. Gehen Sie durch die Porträt- und Landschaftssäle weiter bis Saal zehn. Dort beginnen die Säle der Macchiaioli richtig. Spielen Sie den passenden Titel ab, wenn Sie eintreten.

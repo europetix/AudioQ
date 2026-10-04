@@ -1,0 +1,24 @@
+@id: 003 · DE · old 003 · Room 3 · Castagnoli Room
+@section: Palatine
+@room: Room 3
+@type: R
+@title: Der Castagnoli-Saal
+@where: Im Castagnoli-Saal, am Ende der Statuengalerie: der Saal mit dem großen runden Tisch aus Steinintarsien in der Mitte.
+@what: Early nineteenth-century painted decoration by Giuseppe Castagnoli on the walls; at the centre, the Table of the Muses, in this room since 1855.
+@listen: Why this room sits between two worlds of the palace, and why the table in the middle is the thing to see.
+@brief: A friend pausing at a crossroads to explain the lie of the land; warm and clear, a light shrug for the painter, then a small build toward the table.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/video/the-table-of-the-muses-and-the-art-of-semiprecious-stone-inlay (Castagnoli early-19th-c. wall decoration; table here since 1855; begun 1830s, base 1850s) ; https://www.uffizi.it/avvisi/galleria-palatina-lavori-di-restauro-e-riallestimento (Volterrano Quarter = Vittoria della Rovere's 17th-c. apartment) ; https://uffizi.it/en/palatine-gallery/history (Cortona for Ferdinando II, 1640–47) ; findings G1 (B/E 003), G6 §1.2
+@lang: de
+@translation: from the fact-checked English V5.1 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieser Saal ist eine Kreuzung. Er liegt zwischen zwei sehr verschiedenen Welten des Palastes.
+
+In der einen Richtung liegt der Volterrano-Flügel. Diese Folge kleinerer Räume war im siebzehnten Jahrhundert die private Wohnung einer Großherzogin, Vittoria della Rovere. Weit voraus, ganz am Ende des Rundgangs, liegen die Prunkräume ihres Mannes, Großherzog Ferdinando des Zweiten. Das sind die Planetensäle, die Pietro da Cortona in den 1640er-Jahren für ihn ausmalte. [pause] Auf der einen Seite das Privatleben, auf der anderen Macht und Zeremoniell. Und dieser Saal dazwischen.
+
+Seinen Namen hat er vom Maler Giuseppe Castagnoli, der diese Wände im frühen neunzehnten Jahrhundert ausschmückte. Damals machten die Großherzöge aus dem Haus Habsburg-Lothringen die alten Palasträume zur Gemäldegalerie. [lightly] Seinetwegen kommt allerdings niemand herein. [pause] Der Grund steht mitten im Raum.
+
+Der Musentisch steht seit 1855 in diesem Saal. Er ist eines der großen Prunkstücke der Florentiner Steinintarsie. Rund zwanzig Jahre und ein kleines Heer von Handwerkern brauchte es, um ihn zu fertigen. Betrachten Sie ihn zuerst aus ein paar Schritten Abstand. Aus dieser Entfernung wirkt er wie ein Gemälde. [pause] Aus der Nähe sehen Sie, dass er etwas viel Seltsameres ist.
+
+Gehen Sie zum Tisch und spielen Sie dort den passenden Titel ab.

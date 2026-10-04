@@ -1,0 +1,24 @@
+@id: 055 · FR · v5.0 072 · old 085 · Stop 7
+@section: Boboli
+@room: Stop 7
+@type: R
+@title: Le Kaffeehaus et la vue
+@where: Au Kaffeehaus, le petit pavillon au toit en coupole et à tourelles, côté est du haut du jardin. Placez-vous au bord de la terrasse, face à la ville.
+@what: The Kaffeehaus by Zanobi del Rosso, 1774–85, for Grand Duke Pietro Leopoldo; restored in 2022 as part of Boboli 2030. Nearby, the Garden of Ganymede, with a sixteenth-century marble Ganymede on the eagle attributed to Giovanni Battista Lorenzi.
+@listen: The best view of Florence from the garden, and a grand duke's pavilion for drinks on a walk.
+@brief: Sharing a favourite view with a friend; warm and expansive at the panorama, lightly amused by the coffee-house that served chocolate.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/kaffehaus ; https://www.uffizi.it/en/artworks/garden-of-ganymede ; https://uffizi.it/en/news/boboli2030 (1 Aug 2022) ; old script + findings G5
+@lang: fr
+@translation: from the fact-checked English V5.1 055 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Voici la vue pour laquelle on monte la colline. Tout le centre de Florence est à vos pieds. Au milieu se dresse la coupole de Brunelleschi, achevée en 1436. C'est toujours la plus grande coupole de maçonnerie au monde. À côté, le campanile de Giotto. Au-delà des toits, les collines montent vers Fiesole.
+
+[pause] Maintenant, retournez-vous. Derrière vous, c'est le Kaffeehaus, commencé en 1774 pour le grand-duc Pierre-Léopold par l'architecte Zanobi del Rosso. La cour s'y reposait pendant ses promenades au jardin. Le nom promet du café. [amused] Mais selon le musée lui-même, on y buvait du chocolat chaud. Avec son drôle de toit à tourelles, les Florentins l'ont surnommé le pavillon chinois.
+
+Il a été restauré en 2022, dans le cadre du long chantier du jardin.
+
+Tout près, le petit jardin de Ganymède. Sa fontaine montre le garçon enlevé par l'aigle de Jupiter pour servir d'échanson aux dieux. [pause] [lightly] Un voisin bien choisi, pour un bâtiment fait pour boire.
+
+D'ici, suivez le sentier qui monte vers le haut du jardin. Juste sous le jardin du Chevalier, entouré de murs, au sommet de l'axe central, se dresse une femme colossale en marbre. C'est l'Abondance. [pause] Écoutez sa piste à ses pieds, ou aussi près que le permet une clôture de chantier.

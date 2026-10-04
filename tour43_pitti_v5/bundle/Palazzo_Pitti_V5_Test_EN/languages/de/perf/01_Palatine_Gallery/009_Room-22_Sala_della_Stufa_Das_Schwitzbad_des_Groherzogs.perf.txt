@@ -1,0 +1,26 @@
+@id: 009 · DE · v5.0 021 · old 033 · Room 22 · Sala della Stufa
+@section: Palatine
+@room: Room 22
+@type: R
+@title: Sala della Stufa — Das Schwitzbad des Großherzogs
+@where: In der Sala della Stufa, dem kleinen Raum nach der Sala dell'Educazione di Giove, kurz vor der Tür zum Vorraum der Treppe del Moro und zur Sala dell'Iliade. Stellen Sie sich in die Mitte, damit Sie sich jeder Wand zuwenden können.
+@what: Pietro da Cortona's wall frescoes of the Four Ages of Man, Golden and Silver Ages 1637, Bronze and Iron Ages 1641; the ceiling is by Cinganelli, Rosselli and Vannini.
+@listen: The Grand Duke's private heated bath, the fresco cycle that brought a new style to Florence, and where to go next.
+@brief: Letting a friend in on a royal secret, then turning slowly through four walls as a golden world darkens; conspiratorial, then absorbed, plain and clear at the route note.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/stove-room ; findings G2 (033 rows) and G6_ROUTE §1.2 + N21 (Stufa → Moro atrium → Iliad; Iliad detour); https://www.uffizi.it/en/notices/palazzo-pitti-tempranea-chiusura-della-sala-delliliade
+@lang: de
+@translation: from the fact-checked English V5.1 009 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Das war das private Schwitzbad des Großherzogs.
+
+Anfangs war es eine offene Galerie. Im siebzehnten Jahrhundert wurde sie geschlossen und in eine Stufa verwandelt. Ein Bad, beheizt wie bei den alten Römern. Es war allein Großherzog Ferdinando dem Zweiten vorbehalten und lag neben seinem Schlafzimmer.
+
+Für die Ausmalung holte er Pietro da Cortona, den Maler der Decken in den Planetensälen. [pause] Hier begann ihre Zusammenarbeit. Cortona malte die vier Zeitalter der Menschheit nach Ovid, eines an jede Wand. Das Goldene und das Silberne Zeitalter entstanden zuerst, 1637. Für das Bronzene und das Eiserne kam er 1641 zurück.
+
+[warmly] Beginnen Sie mit dem Goldenen Zeitalter, dem glücklichsten der vier. Die Menschen leben in Frieden, die Erde gibt freigiebig, und niemand trägt eine Waffe. [pause] Natürlich ist das Schmeichelei. Die Szene feiert Ferdinandos friedliche Herrschaft. Und seine Heirat im selben Jahr mit Vittoria della Rovere. Ihr Familienname bedeutet „von der Eiche“. Und die Wappenzeichen ihrer Familie sind in diese glückliche Welt eingearbeitet.
+
+Dann drehen Sie sich zu den anderen Zeitaltern und sehen zu, wie alles schiefgeht. Im Bronzenen und Eisernen Zeitalter ist der Krieg da. [pause] Diese Wände brachten einen leichteren, theatralischeren Malstil nach Florenz. Ferdinando gefiel, was er sah. Bald arbeitete Cortona an den Decken der Prunkräume.
+
+Der Rundgang führt durch die Tür in den Vorraum der Treppe del Moro und weiter in die Sala dell'Iliade. Spielen Sie dort den passenden Titel ab. Ist der Iliassaal bei Ihrem Besuch geschlossen, schickt Sie das Personal durch die eben gesehenen Räume zurück zum Jupitersaal. Spielen Sie dann einfach in jedem Saal beim Eintreten den passenden Titel ab.

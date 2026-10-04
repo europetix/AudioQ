@@ -1,0 +1,28 @@
+@id: 008 · FR · v5.0 020 · old 032 · Room 21 · Caravaggio — Sleeping Cupid
+@section: Palatine
+@room: Room 21
+@type: W
+@title: Le Caravage — L'Amour endormi
+@where: Habituellement exposé dans la Sala dell'Educazione di Giove, près de la Judith d'Allori. S'il n'est pas au mur, demandez au personnel de salle où il est présenté actuellement. Approchez-vous.
+@what: Caravaggio, Sleeping Cupid, 1608, oil on canvas, about 72 × 105 cm: a small winged child asleep in the dark, his bow and arrows set aside.
+@listen: A painting that reached Florence while its painter was on the run, and why this Cupid is not as sweet as he looks.
+@brief: Telling a fugitive's story quietly to a friend at arm's length from a small dark canvas; hushed, absorbed, honest about what nobody knows.
+@pace: slow
+@energy: 2→3→2
+@sources: findings G2 (032 row: sent to Florence 1609 while Caravaggio was alive, sonnets, Medici acquisition later via Cardinal Leopoldo c. 1667, Tier 2 arte.it and Univ. of Malta OAR PDF; confirmed: 1608, Malta, dell'Antella, 72×105, Porto Ercole 1610; room per culturaitalia.it (MiC MuseiD-Italia, work 64104: Sala dell'Educazione di Giove, inv. 1912 no. 183), searched 5 Oct 2026, not re-fetched); old script
+@lang: fr
+@translation: from the fact-checked English V5.1 008 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Ce petit tableau est arrivé à Florence alors que son auteur était en fuite.
+
+Le Caravage l'a peint en 1608, sur l'île de Malte. Deux ans plus tôt, il avait tué un homme à Rome et fui, la tête mise à prix. À Malte, il fut bien accueilli et admis parmi les chevaliers de Malte. L'un de ses frères chevaliers était un Florentin, Fra Francesco dell'Antella. Cet Amour fut peint pour lui.
+
+[pause] Puis tout a de nouveau mal tourné. Le Caravage est jeté en prison sur l'île. Il s'évade vers la Sicile et reprend sa vie de fugitif. Entre-temps, dès l'été 1609, dell'Antella a envoyé le tableau chez son frère, à Florence. Il fait sensation. Des poètes lui consacrent des sonnets. [pause] Florence admire donc son Amour, tandis que le Caravage fuit toujours dans le sud. Il meurt l'année suivante, à Porto Ercole, sur la côte toscane. Les Médicis acquièrent le tableau plus tard dans le siècle.
+
+Regardez de près. Ce n'est pas tout à fait l'image charmante promise par le titre. Le sujet est ancien. L'Amour endormi, ses armes posées. Mais cet enfant est trop maigre. On voit ses côtes. Sa peau est pâle, presque grise, avec un reflet verdâtre dans les ombres. Sa bouche est ouverte, sa tête renversée. [long pause] [quietly] Certains se sont demandé si le Caravage avait peint un enfant malade, voire mort. Personne ne le sait.
+
+Regardez la lumière. Un seul faisceau dur éclaire son visage et sa poitrine. Le reste se perd dans l'obscurité. C'est le grand secret du Caravage, celui qui a changé la peinture européenne. Ici, dans une seule image silencieuse.
+
+[reverent] L'Amour, épuisé et sans défense. Là où vous êtes, vous pourriez le réveiller.
+
+Prochaine étape, la Sala della Stufa. Sa piste commence là-bas.
