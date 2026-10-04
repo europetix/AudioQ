@@ -73,10 +73,10 @@ for p in ('v5_direction.py', 'render_kokoro.py', 'render_edge.py'):
     shutil.copy(f"/home/claude/orangerie/v5/pipeline/{p}", B)
 # hand-maintained bundle files (launcher, README, extended pronunciation, user-test docs)
 ST = '/home/claude/orangerie/build/static'
-for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'voice_samples_ES_FR_DE.command', 'README.txt', 'pronunciation.py'):
+for p in ('generate_audio.command', 'README.txt', 'pronunciation.py'):  # ES/FR/DE launchers join once the Orangerie is translated
     shutil.copy(f'{ST}/{p}', B)
 shutil.copytree(f'{ST}/USER_TEST', f'{B}/USER_TEST')
-for p in (f'{B}/generate_audio.command', f'{B}/generate_audio_ES_FR_DE.command', f'{B}/voice_samples_ES_FR_DE.command', f'{B}/USER_TEST/make_listening_test.command'):
+for p in (f'{B}/generate_audio.command', f'{B}/USER_TEST/make_listening_test.command'):
     os.chmod(p, 0o755)
 print(len(tracks), tw, round(tw/125))
 for s in plan['sections']: print(s)

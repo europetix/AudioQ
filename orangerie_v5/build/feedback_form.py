@@ -8,7 +8,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 pdfmetrics.registerFont(TTFont('DejaVu', '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'))
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, PageBreak
 B = sys.argv[1]; plan = json.load(open(os.path.join(B, "plan.json")))
-OUT = os.path.join(B, "USER_TEST", "Pitti_V5_Feedback_Form.pdf")
+OUT = os.path.join(B, "USER_TEST", "Orangerie_V5_Feedback_Form.pdf")
 INK, SOFT, CRIM, LN, CREAM = HexColor('#1F1F1F'), HexColor('#565650'), HexColor('#A4161A'), HexColor('#9C998E'), HexColor('#F2F1EA')
 H = ParagraphStyle('h', fontName='Times-Bold', fontSize=17, leading=20, textColor=CRIM)
 H2 = ParagraphStyle('h2', fontName='Times-Bold', fontSize=11.5, leading=14, textColor=INK, spaceBefore=6)
@@ -16,15 +16,15 @@ P = ParagraphStyle('p', fontName='Helvetica', fontSize=8, leading=10.5, textColo
 SM = ParagraphStyle('s', fontName='Helvetica', fontSize=6.6, leading=7.6, textColor=INK)
 W = A4[0] - 2.6*cm
 doc = SimpleDocTemplate(OUT, pagesize=A4, leftMargin=1.3*cm, rightMargin=1.3*cm, topMargin=1.0*cm, bottomMargin=1.0*cm,
-                        title="Palazzo Pitti V5 — Tester Feedback Form")
-st = [Paragraph("Palazzo Pitti + Boboli · Tester feedback", H),
-      Paragraph("Name ______________________ &nbsp; Date ________ &nbsp; Guide: <font name='DejaVu'>&#9744;</font> June &nbsp;<font name='DejaVu'>&#9744;</font> V5 &nbsp;&nbsp; Voice: <font name='DejaVu'>&#9744;</font> am_michael &nbsp;<font name='DejaVu'>&#9744;</font> Ava &nbsp;&nbsp; Phone/earphones ______________", P),
+                        title="Musée de l'Orangerie V5 — Tester Feedback Form")
+st = [Paragraph("Musée de l'Orangerie · Tester feedback", H),
+      Paragraph("Name ______________________ &nbsp; Date ________ &nbsp; Guide: <font name='DejaVu'>&#9744;</font> V4 (old) &nbsp;<font name='DejaVu'>&#9744;</font> V5 &nbsp;&nbsp; Voice: <font name='DejaVu'>&#9744;</font> Brian (V4) &nbsp;<font name='DejaVu'>&#9744;</font> Ava (V5) &nbsp;&nbsp; Phone/earphones ______________", P),
       Spacer(1, 4),
       Paragraph("<b>While you walk</b>, tick a box next to the track number whenever it happens. Leave it blank if all was fine. "
                 "<b>L</b> = I wasn't where the audio thought I was &nbsp; <b>W</b> = didn't match what I was looking at &nbsp; "
                 "<b>R</b> = voice sounded robotic &nbsp; <b>B</b> = bored, I skipped or stopped listening. "
-                "If you use the June guide, use its own track numbers (1–90).", P), Spacer(1, 5)]
-N = 90  # covers both versions (June 90, V5 79)
+                "If you use the old V4 guide, use its own track numbers (1–30).", P), Spacer(1, 5)]
+N = 55  # V5 has 55 tracks; V4 testers use 1–30
 cols = 5; per = (N + cols - 1) // cols
 hdr = []
 for c in range(cols): hdr += ["#", "L", "W", "R", "B"]
