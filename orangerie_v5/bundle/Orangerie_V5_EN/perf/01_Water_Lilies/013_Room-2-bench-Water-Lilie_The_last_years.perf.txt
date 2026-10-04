@@ -1,0 +1,28 @@
+@id: 013 · Room 2 · bench
+@section: Water Lilies
+@room: Room 2 · bench · Water Lilies · Ground floor
+@type: ANCHOR
+@title: The last years
+@where: Sitting on a bench in the middle of Room 2, if one is free. Otherwise stand anywhere you can see the whole room.
+@what: Claude Monet's last years at Giverny: the cataract operation of 1923, the long struggle with his sight, and the panels he kept until his death in 1926.
+@listen: What Monet's eyes could still see when he finished these paintings, and how close he came to seeing them here.
+@brief: Sitting beside a friend and telling them something sad and true; quiet, unhurried, plain about the facts, tender at the end, leaving room for silence.
+@pace: slow
+@energy: 2→3→1
+@sources: Cataracts diagnosed 1912; right-eye surgery January 1923 by Dr Charles Coutela, urged by Clemenceau; before it right eye perceived only light, left 1/10; aged 82 (FACTS_C §1.3 + G2 12-8, SEC2 https://hekint.org/2017/01/24/monet-and-his-cataracts/ + https://pmc.ncbi.nlm.nih.gov/articles/PMC4408507/) ; after surgery saw colours too yellow or too blue, destroyed works, hedged; corrective lenses 1924–25, partial recovery (G2 06-4, 12-7, SEC2 same) ; kept retouching to the end, would not part with them; died at Giverny 5 Dec 1926 aged 86: https://www.musee-orangerie.fr/en/node/33 (OFF) ; deed 1922, Lefèvre's conversion 1922–27, mounted from 31 Jan 1927, inaugurated 17 May 1927: https://www.musee-orangerie.fr/en/node/198900 (OFF) ; Monet set forms, positioning, rhythm, spacing: node/33 (OFF)
+---
+[quietly] In January 1923, a man of eighty-two went into surgery on his right eye. By then that eye could make out little more than light. The left one saw about a tenth of what it should. The patient was Claude Monet. The man who had urged him to go through with it was Georges Clemenceau.
+
+His cataracts had been found more than ten years before. Now the surgeon, Dr Charles Coutela, operated on the right eye. It did not bring the world straight back. Monet complained that colours looked wrong, too yellow, or too blue. He is said to have destroyed some of his own canvases in these years. [pause] Only with new corrective lenses, over the next two years or so, did his sight partly return.
+
+Think about what that means for the walls around you. Some of this colour was laid down by a painter who could not fully trust his own eyes. And he kept on painting anyway.
+
+[wry] He also kept the panels. The deed of gift was signed. In Paris, the architect was turning the old orangery into two oval rooms. And at Giverny, Monet went on retouching his canvases, and could not bring himself to let them go.
+
+In the end, he didn't have to. He died at Giverny in December 1926, at eighty-six. [long pause] Within two months, the canvases were being fixed to these walls.
+
+[reverent] So he never sat where you're sitting now. He never saw the light come down on the eight compositions, joined into the shapes and spaces he had worked out so carefully. He planned every part of this experience, and then left it for other people to have.
+
+Take a minute with that. Let your eyes drift around the room without looking for anything in particular. That's how it was meant to be seen.
+
+When you're ready, walk back through the passage into the first room. Play its track as you cross it.

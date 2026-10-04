@@ -1,0 +1,28 @@
+@id: 002 · Vestibule
+@section: Opening
+@room: Vestibule
+@type: ANCHOR
+@title: A gift for the Armistice
+@where: In the entrance hall, just before you step into the first oval room of the Water Lilies.
+@what: The story of Monet's gift of the Water Lilies (Les Nymphéas) to the French State: offered in 1918, deed signed in 1922, rooms opened in 1927.
+@listen: How a two-painting gift, offered the day after the Armistice, grew into a building, and why Monet never saw it finished.
+@brief: Telling a friend the story behind the door before you open it; warm, measured, a little moved by the ending, then gently inviting.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: FACTS_C §1.3 letter of 12 Nov 1918 (quote and translation), Clemenceau widens the gift, "monument to peace": https://www.musee-orangerie.fr/en/whats-on/exhibitions/monet-clemenceau (OFF) + G2 12-2 (museum wording, OFF https://www.musee-orangerie.fr/en/node/33) ; FACTS_C §1.3 Hôtel Biron plan dropped, Orangerie chosen (G1 SEC2) ; deed 12 Apr 1922, eight compositions in 22 panels, Lefèvre, mounted Jan–Mar 1927, inaugurated 17 May 1927: https://www.musee-orangerie.fr/en/node/198900 (OFF) ; Monet d. 5 Dec 1926 aged 86, kept retouching to the end: https://www.musee-orangerie.fr/en/node/33 (OFF; G2 12-6) ; FACTS_C §1.1 "endless whole" quote, Monet as reported by Roger Marx, Gazette des Beaux-Arts, June 1909: https://www.musee-orangerie.fr/en/node/33 (OFF) + G1
+---
+[warmly] The guns had been silent for just one day. On the twelfth of November, 1918, the day after the Armistice, an old painter sat down and wrote to Georges Clemenceau.
+
+"I am on the verge of finishing two decorative panels," Claude Monet wrote, "which I want to sign on Victory Day, and I am writing to ask you to offer them to the State on my behalf."
+
+Two panels. That was the whole gift. [pause] It didn't stay that size for long. Clemenceau came out to Giverny, and he persuaded Monet to widen it, from two panels to the whole set of large panels he'd been working on for years.
+
+Finding them a home took time. A first plan, for a pavilion in the garden of what is now the Musée Rodin, was dropped. The choice fell instead on this old orangery. And in April 1922 the deed of gift was signed. Eight compositions, on twenty-two panels.
+
+The architect Camille Lefèvre, who looked after the Louvre and the Tuileries, rebuilt the inside to Monet's wishes, as two oval rooms lit from above. Monet, meanwhile, couldn't let go. Back at Giverny, he kept reworking the panels, right to the end.
+
+[quietly] He died there in December, at eighty-six. In the first months of the new year, the canvases were fixed to these walls, and on the seventeenth of May, 1927, the rooms opened. About five months too late for him. [pause] He never saw them in place.
+
+Long before any of this, the critic Roger Marx had published Monet's dream of a room like these. What he wanted, Marx reported, was "the illusion of an endless whole, of a wave without horizon and without shore." The museum calls the finished gift a monument to peace.
+
+[long pause] Two panels to sign on Victory Day. Step through and see what they became. Stand near the middle of the first oval room, and play its track there.
