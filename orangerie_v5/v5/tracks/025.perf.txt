@@ -1,0 +1,24 @@
+@id: 025 · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Lower level
+@type: W
+@title: Cézanne — Pommes et biscuits (Apples and Biscuits)
+@where: In the room of Cézanne's paintings, find a small still life of a plate and a few apples set on a chest. Cézannes from this collection are often lent out, and some may be away until early 2027.
+@what: Paul Cézanne, Pommes et biscuits (Apples and Biscuits), around 1880, oil on canvas. Bought by Domenica Walter at auction in Paris in 1952.
+@listen: The auction that made a widow's collection famous, the painting she and her husband bought in halves, and how Cézanne builds an apple out of colour.
+@brief: A friend telling a saleroom story with relish, then a little conspiratorial about the cut painting, slowing down to look at the apples.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_A Cézanne and Paul Guillaume / Domenica Walter + Pommes et biscuits: https://www.musee-orangerie.fr/en/articles/paul-cezanne-105454 ; https://www.musee-orangerie.fr/en/artworks/pommes-et-biscuits-196021 (OFF: 14 May 1952, Gabriel Cognacq sale, Galerie Charpentier, "unprecedented sum", sensational purchase; c.1880; plate and apples on a chest; volume through colour; "symbols of his great mastery of still life") ; FACTS_A Fleurs et fruits + Fleurs dans un vase bleu: …/fleurs-et-fruits-196022, …/fleurs-dans-un-vase-bleu-196023 (OFF: Vollard, cut by a dealer, Domenica unaware, Michel Hoog 1992) ; FACTS_A collection counts (OFF, 15 Cézannes) ; loans: FACTS_A "On display in 2026" + G5 (Cézanne et nous, SEC2)
+---
+[lightly] In May 1952, a small painting of apples caused a sensation in a Paris saleroom. The sale was at the Galerie Charpentier. The buyer was Domenica Walter, Paul Guillaume's widow, and she paid what the museum calls an unprecedented sum. I can't give you the figure. What we do know is the effect. The purchase turned the public's attention to her, and to the magnificent collection she had been building.
+
+That collection holds fifteen Cézannes. In the nineteen-twenties, Paul bought several major ones, among them the portraits of the painter's wife and son that hang nearby. After his death, Domenica kept buying. The museum says simply that she "liked Cézanne's paintings". Landscapes, mostly. And then this still life, the most public purchase of them all.
+
+[conspiratorial] She also bought one painting twice, in a way. Paul had acquired a canvas of flowers and fruit from the dealer Ambroise Vollard. Years after his death, Domenica bought a picture of flowers in a blue vase. [pause] Neither of them knew they were two halves of the same unfinished canvas, probably cut apart by a dealer long before. A curator, Michel Hoog, pieced the story together in 1992. Husband and wife had reunited a painting without ever meaning to.
+
+Now the apples. The museum calls this one of the symbols of Cézanne's great mastery of still life, and part of the reason is how little there is. A plate, a few apples, the biscuits of the title, all set on a chest. The roundness of each apple is built out of colour rather than shadow. Here, the museum says, his experiments in expressing volume through colour are fully developed. [quietly] Give it a moment, and the whole arrangement settles, like a scale that has just stopped moving.
+
+Cézannes from this collection travel often. If this one is away on loan, the story of that auction still belongs to this room.
+
+Now find Madame Cézanne, the painter's wife, seated in a garden. Play her track there.
