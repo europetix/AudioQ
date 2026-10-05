@@ -89,3 +89,7 @@ Status: ★ = in V4 (story may be reused after re-verification); ⚠ = loan / lo
 - R5 rooms: Gallé 63, Guimard/Majorelle 64, Carabin 65, Les Muses 70, Le Ballon 71, Jardins publics + Bonnard 72, L'Âge mûr room 55, Balzac / Pompon / Maillol / Bourdelle on the terraces.
 - R3 CONFLICT: Manet's Déjeuner sur l'herbe and Monet's Femmes au jardin: the official artwork pages give "ground floor, room 18". The audits had level 5, room 29 from weaker sources. Follow the official pages: both move to level 0, near Olympia (room 14). The map / on-site check settles it.
 - R3: London Parliament "not currently exhibited", so 040 becomes Nymphéas bleus (room 34). Renoir: Orsay's painting is Les Baigneuses (c. 1918–19). Sisley's official title is La Barque pendant l'inondation, Port-Marly. Margot in the Bal = Henriette-Anna Leboeuf (OFF).
+- R2: Whistler's Mother is away: Tate, then the Van Gogh Museum, Amsterdam, 16 Oct 2026 – 10 Jan 2027. Its home is level 2, room 69. 016 = Fantin-Latour, Un atelier aux Batignolles (level 0, Seine gallery); a short Whistler mention goes on level 2 later, if it is back.
+- R2: La Danse = the original 1869 stone group, central sculpture aisle, level 0 (settled).
+- R2: Opéra models: the exhibition "Vertige. Richard Peduzzi à Orsay", 6 Oct 2026 – 17 Jan 2027, is built around them; check access on site.
+- R2: the search budget ran out before 022 (Paris, capitale) and 023 (Gates of Hell). Those two rest on the audit findings only; keep their claims minimal.
