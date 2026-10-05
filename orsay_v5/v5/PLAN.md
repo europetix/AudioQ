@@ -77,3 +77,5 @@ Target length: R 200–280, W 260–360, ANCHOR/CLOSE 260–360. Total ≈ 19,00
 
 ## Coordinator decisions after writing
 - 052 Cheval blanc: the pharmacist "too green" story has a single source, so it breaks the user's rule ("can't verify → hold"). In revision, remove it and rebuild the track from OFF facts only. If it can't reach 200 words, hold the track.
+- 029 Gare Saint-Lazare: the undocumented Renoir story must not be mentioned at all (not even as "undocumented"). Remove it in revision.
+- 027 Bazille: R3 suggests the painting may hang in room 18 on level 0 (with the Déjeuner and Femmes au jardin). On-site check; the cue stays generic.
