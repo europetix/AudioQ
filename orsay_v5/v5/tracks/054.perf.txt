@@ -1,0 +1,22 @@
+@id: 054 · Café Campana · Level 5
+@section: Post-Impressionism
+@room: Café Campana · Level 5
+@type: R
+@title: Behind the great clock
+@where: At the exit of the Impressionist and Post-Impressionist gallery on level 5, at the entrance to the Café Campana, behind one of the great clocks of the façade. Listen from the threshold; no need to go in.
+@what: The Café Campana, opened in 2011 with the renovated Impressionist gallery and designed by the Brazilian designers the Campana brothers, set behind one of the station's great exterior clocks.
+@listen: Why a museum kept a railway station's clocks, and the underwater room hidden behind one of them.
+@brief: A breather with a friend at the end of a long, rich gallery; relaxed and light, pleased by the oddity of the place, then a calm send-off downstairs.
+@pace: medium
+@energy: 2→3→2
+@sources: FACTS_R4 059 + A3 31.3, 31.7, 31.8, 31.11 (Café Campana on level 5, "at the exit of the Impressionist gallery … behind one of the great exterior clocks"; opened 2011 with the renovated gallery; Campana brothers, Brazilian designers; aquatic decor inspired by Émile Gallé; organic seating, golden "scale" chandeliers, orange coral evocations; no hours, no menu): https://www.musee-orsay.fr/fr/visite/restauration (OFF) ; FACTS_R3 024 (station built for the 1900 Exposition universelle, inaugurated 14 July 1900; conversion kept "the metal structure, clocks, and one of the seven domes"; archive photos of a clock being restored and repaired from the quai with a telescopic arm): https://www.musee-orsay.fr/en/node/60 and https://www.musee-orsay.fr/en/artworks/restauration-dune-des-grandes-horloges-lumineuse-donnant-sur-le-quai-156259 (OFF) ; FACTS_R5 066a (Gallé on level 2, room 63; OFF)
+---
+[lightly] When this railway station became a museum, the architects made a choice. They would keep some of the station showing. The metal structure. One of the seven domes. And the clocks.
+
+The station was built for the World's Fair of 1900, and its great clocks look out over the quai and the river. In the museum's archive there are photographs of one of them being restored and repaired from the quai below, using a telescopic arm. A station clock, treated like a work of art.
+
+Behind one of those clocks, right here at the exit of the gallery, is the Café Campana. It opened in 2011, when this gallery was renovated. [amused] And it's a surprise. Its designers, the Brazilian brothers Campana, imagined it as an underwater world, a homage to the glassmaker Émile Gallé. Look in at the curving, organic seats, the golden chandeliers like fish scales, the hints of orange coral. A sea floor, at the top of a railway station.
+
+[warmly] It's also a good moment to breathe. Since the clock at the start of this level, you've walked from the first Impressionists to Van Gogh, Seurat, Gauguin and the Nabis. That's a great deal of looking. Gallé himself is waiting for you downstairs, along with the Nabis' big decorations.
+
+[pause] When you're ready, take the lift or the stairs down to level two. Find room 68 and Toulouse-Lautrec's tall, narrow painting of a woman dancing alone. Play its track there.

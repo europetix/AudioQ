@@ -1,0 +1,26 @@
+@id: 031 · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: R
+@title: Degas — La Classe de danse
+@where: Room 31, level 5, the same room as Monet's Gare Saint-Lazare and Caillebotte's Floor Scrapers. A ballet class in a rehearsal room, the ballet master among his young pupils.
+@what: Edgar Degas, La Classe de danse, The Dance Class, 1873–1876, oil on canvas, 85.5 × 75 cm. Bequest of Count Isaac de Camondo, 1911.
+@listen: A real ballet master in a class that never happened, in an opera house that had already burned down.
+@brief: Letting a friend in on a well-made illusion; conspiratorial at first, then amused and attentive as you hunt for the tired dancers.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 033 (1873–1876; 85.5 × 75; Camondo bequest 1911; teacher a portrait of the ballet master Jules Perrot; the class is ending, the pupils exhausted: they stretch, twist to scratch their backs, adjust hair or clothes; room 31): https://www.musee-orsay.fr/en/artworks/la-classe-de-danse-1151 (OFF) ; A3 25.2 (an imaginary scene, set in the old Opéra on rue Le Peletier, which had burned down, OFF) ; A3 25.5 (commissioned by the baritone Faure, OFF) ; FACTS_R3 025, 027 (Faure owned Manet's Déjeuner and Monet's Coquelicots, OFF)
+---
+[conspiratorial] This class never took place. Not like this, anyway. Degas invented it, the way a stage designer invents a set.
+
+[pause] The teacher, though, is real. He's Jules Perrot, a famous ballet master, and Degas painted him as a portrait. But the scene around him is imaginary. It's set in the rehearsal room of the old Opéra on the rue Le Peletier. Not Garnier's building, the one you saw in model form downstairs. The older one. And by the time Degas was at work on this, that opera house had already burned down.
+
+[pause] So a real man is teaching a class that never happened, in a room that no longer existed.
+
+Who wanted it? A singer. The painting was commissioned by Jean-Baptiste Faure, the opera baritone. If the name sounds familiar, it should. He's the collector who owned Manet's Déjeuner sur l'herbe and Monet's poppies.
+
+[amused] Now, the best part is the dancers. The class is ending, and they are exhausted. Look along the room and you'll find them stretching, fixing their hair, tugging at their clothes. One of them twists round to scratch her back. See if you can find her. It's the least balletic gesture in the room, and Degas put it in on purpose.
+
+That's his trick. He gives you the grand old rehearsal room and the famous teacher. And then he shows you what the end of a long class really feels like. Tired girls. An itch.
+
+Next door, in room 32, find Degas's sculpture of a young dancer, the Petite danseuse de quatorze ans. Play its track there.
