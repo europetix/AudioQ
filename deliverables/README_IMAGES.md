@@ -13,3 +13,14 @@
 - Use a stock photo of a painting taken in the gallery (tilted, glare, cropped frame) when a clean scan exists.
 
 Not legal advice. The copyright statuses follow the 70-years-after-death rule in France and the EU.
+
+## Download them automatically (on your Mac)
+```bash
+cd ~/Downloads && unzip -o Orangerie_App_Images_Kit.zip && cd Orangerie_App_Images_Kit
+python3 download_images.py
+open images/index.html
+```
+- Fetches the 42 public-domain paintings from Wikimedia Commons (only files licensed as public domain) into `images/orangerie_NNN.jpg`, with `images/credits.csv`.
+- Optional, for the 7 building / room / garden shots: get a free key at pexels.com/api, then `export PEXELS_API_KEY=your_key` before running. The key stays in your environment and is never saved.
+- Skipped on purpose: Picasso 040–044 (licence needed) and 013 (hand-pick a historic photo).
+- Check every picture on the contact sheet against its official page before using it. Search can return a similar but different work.
