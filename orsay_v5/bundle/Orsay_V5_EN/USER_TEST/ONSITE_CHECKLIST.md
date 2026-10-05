@@ -1,26 +1,21 @@
-# Orsay V5: on-site checklist (things no official web source could confirm)
-
-Bring the route PDF. For each line: tick it, or write what is really there.
+# Orsay V5: on-site checklist (75 tracks; rooms from the museum's summer 2026 plan, checked against what you see)
 
 | ✓ | Check | Tracks | If it's wrong |
 |---|---|---|---|
-| ☐ | Manet's Déjeuner sur l'herbe and Monet's Femmes au jardin: ground floor room 18 (official pages) or level 5 room 29? Bazille's Atelier too? | 016, 017, 027 | Move the tracks to the right level; fix the cues in 015–017 and 025–027 |
-| ☐ | Rooms of L'Angélus and L'Origine du monde | 009, 012 | Add the room to @where |
-| ☐ | Fantin-Latour's Un atelier aux Batignolles on level 0 (Seine gallery) | 015 | Fix the cue |
-| ☐ | The Opéra models: can visitors walk up to them during "Vertige. Richard Peduzzi à Orsay" (6 Oct 2026 – 17 Jan 2027)? | 020, 021 | Hedge or skip in the cue |
-| ☐ | "Paris, capital of a modern nation" rooms: where they are, from the end of the nave | 022 | Fix the cue |
-| ☐ | Escalators/lifts from the end of the nave to level 5: the cue in 023 works | 023 | Fix the cue |
-| ☐ | The clock window: where you arrive on level 5 | 024 | Fix the cue |
-| ☐ | Rooms for Bazille, Pissarro, Degas's L'Absinthe, Renoir's Bal, Sisley, Cézanne | 027, 028, 034–036, 039, 040 | Add room numbers to @where and cues |
-| ☐ | Van Gogh rooms 36–37: Bedroom and Dr Gachet rooms | 043, 046 | Fix the cues |
-| ☐ | Tokyo loans (from about late Oct 2026 to Mar 2027): Gleaners, Starry Night over the Rhône, Arearea gone? Femmes de Tahiti still there? Les Muses (Denis) still there? | 008, 044, 051, 056 | Check the fallbacks work |
-| ☐ | Signac's Femme à l'ombrelle in room 40; Pont-Aven and Gauguin rooms | 048–051 | Fix the cues |
-| ☐ | Sérusier's Talisman: which room on level 5 | 052 | Add the room |
-| ☐ | Café Campana and the way down to level 2 | 053 | Fix the cue |
-| ☐ | Toulouse-Lautrec: Jane Avril on level 2 room 68, or with Lautrec on level 5? Where are Cha-U-Kao and the Goulue panels? | 054, 055 | Move the tracks |
-| ☐ | Level 2 order: rooms 68 → 70 → 71 → 72 → 64 → 63/65 → 57 → 55 → terraces: walkable in that order? | 054–065 | Re-order the tracks |
-| ☐ | Claudel's L'Âge mûr in room 55 (which level?); terrace places of Pompon's bear, Balzac, Maillol, Bourdelle | 062–065 | Fix the cues |
-| ☐ | The way out from level 2 during the 2026–2028 works | 066 | Fix the cue |
+| ☐ | L'Angélus: in the Millet room 5, or the Chauchard gallery (Galerie Seine 1)? L'Origine du monde: room 6 or 7? | 009, 012 | Fix @where and the cue |
+| ☐ | Manet's Déjeuner sur l'herbe in room 18 (artwork page) or room 29 on level 5 (Moreau-Nélaton room)? | 016 | Move the track |
+| ☐ | Cézanne room 11 (Christ aux limbes, Une moderne Olympia); Degas room 13: is the Bellelli there or in Tokyo? | 020, 021 | Fix the cue / fallback |
+| ☐ | La Danse in the central aisle; the Opéra models: reachable during "Vertige" (6 Oct 2026 – 17 Jan 2027)? Paris rooms and Gates of Hell at the far end | 022–026 | Fix the cues |
+| ☐ | Escalators at the far end up to level 5, arriving at the clock salon, room 28 | 026, 027 | Fix the cue |
+| ☐ | Rooms for Pissarro, Degas's L'Absinthe, Renoir's Bal, Sisley, Cézanne (all in 29–35) | 030, 036–038, 041, 042 | Add the rooms |
+| ☐ | Van Gogh room 36: Bedroom and Dr Gachet there too | 043–048 | Fix the cues |
+| ☐ | Tokyo loans from about late Oct 2026: Gleaners, Starry Night, Arearea gone? Bellelli? Femmes de Tahiti and Les Muses still there? | 008, 021, 046, 053, 067 | Check the fallbacks work |
+| ☐ | Room 43 Pont-Aven; room 44 / Galerie Cachin: Cheval blanc, Oviri, the Snake Charmer back from its loans? | 051–056 | Fix the cues |
+| ☐ | Room 45 Redon and the Talisman; room 46 Chat Noir; room 47 cinema | 057–060 | Fix the cues |
+| ☐ | Café Campana by rooms 38–39, and the way down to level 2 arriving near room 51 | 061, 062 | Fix the cue |
+| ☐ | Level 2 west → east: 51 → 59 → 55 → 72 → 71 → 70 → 68 → Terrasse Rodin → 64 → 63/65 → terraces: walkable in that order? | 062–074 | Re-order |
+| ☐ | Moreau's Orphée in room 59 (Symbolism) or 57; Pompon's bear; Maillol and Bourdelle on the terraces | 063, 073, 074 | Fix the cues |
+| ☐ | The way out from level 2 to the SORTIE at the clock end | 075 | Fix the cue |
 
 ## Listening checks (with earphones)
 | ✓ | Check |

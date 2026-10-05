@@ -1,6 +1,6 @@
-# Musée d'Orsay V5 — English scripts (66 tracks)
+# Musée d'Orsay V5 — English scripts (75 tracks)
 
-Spoken text exactly as the voice reads it (direction tags removed). Route level 0 → 5 → 2 → exit.
+Spoken text exactly as the voice reads it (direction tags removed). Route level 0 → 5 → 2 → exit; rooms from the museum's summer 2026 plan.
 
 ## 001 · A station that became a museum
 
@@ -130,11 +130,11 @@ Next, the mood changes completely. In room 5, look for Millet's painting of thre
 
 ## 008 · Millet — Des glaneuses (The Gleaners)
 
-*Room 5 · Level 0 · Seine side — In room 5 on the Seine side of level 0, in front of a canvas about a metre wide of three women gleaning in a field, with the harvest behind them. From 14 November 2026 to 28 March 2027 it is on loan to Tokyo: if the wall is empty, listen in front of Millet's L'Angélus, in this room or the next Millet rooms, instead.*
+*Room 5 · Level 0 · Seine side — In room 5 on the Seine side of level 0, in front of a canvas about a metre wide of three women gleaning in a field, with the harvest behind them. From 14 November 2026 to 28 March 2027 it is on loan to Tokyo: if the wall is empty, listen in front of Millet's L'Angélus, in this room 5 or in Galerie Seine 1, the Alfred Chauchard collection gallery on the Seine side close by, instead.*
 
 Three women in a field, working for leftovers. That is the whole subject of The Gleaners.
 
-If this wall is empty — the painting travels to Tokyo this winter — walk to Millet's L'Angélus, which hangs nearby, in this room or the next Millet rooms, and listen there.
+If this wall is empty — the painting travels to Tokyo this winter — walk to Millet's L'Angélus, which hangs nearby, in this room or in the Chauchard collection gallery along the Seine side, and listen there.
 
 Women like these were allowed into the fields at sunset. They picked up, one stalk at a time, the wheat the harvesters had missed. That is gleaning.
 
@@ -148,11 +148,11 @@ If you are standing at L'Angélus, you're with a close relative. Millet began it
 
 Millet asks for nothing more than your attention, in either picture.
 
-L'Angélus has its own story to tell: the small canvas of a man and a woman pausing in a potato field, in this room or the next Millet rooms. If you're already in front of it, simply play its track now.
+L'Angélus has its own story to tell: the small canvas of a man and a woman pausing in a potato field, in this room 5 or in the Chauchard collection gallery along the Seine side close by. If you're already in front of it, simply play its track now.
 
 ## 009 · Millet — L'Angélus
 
-*Millet rooms · Level 0 · Seine side — In the Millet rooms on the Seine side of level 0; the room number is not confirmed. Look for a small canvas, about 55 by 66 centimetres, of a man and a woman who have stopped work in a potato field, with a fork, a basket, sacks and a wheelbarrow.*
+*Room 5 · Level 0 · Seine side — In the Millet room, room 5, on the Seine side of level 0, or close by in Galerie Seine 1, the Alfred Chauchard collection gallery: Chauchard left the painting to the Louvre, and it may hang with the rest of his collection. Look for a small canvas, about 55 by 66 centimetres, of a man and a woman who have stopped work in a potato field, with a fork, a basket, sacks and a wheelbarrow.*
 
 When Millet explained this painting, he didn't talk about faith. He talked about his grandmother.
 
@@ -208,7 +208,7 @@ Courbet's small and very explicit painting L'Origine du monde hangs in the Courb
 
 ## 012 · Courbet — L'Origine du monde (optional)
 
-*Courbet rooms · Level 0 · Seine side — Optional stop. In the Courbet rooms on the Seine side of level 0; the exact room is not confirmed. Look for a small canvas, about 46 by 55 centimetres, a very frank painting of the female body. If it is not on show, go on to room 14.*
+*Courbet rooms 6–7 · Level 0 · Seine side — Optional stop. In the Courbet rooms, 6 and 7, on the Seine side of level 0; the plan does not place this work, so look for a small canvas, about 46 by 55 centimetres, a very frank painting of the female body. If it is not on show, go on to room 14.*
 
 This track is optional. It is about Courbet's L'Origine du monde, The Origin of the World, a small and very frank painting of the female body. If you'd rather not, go straight on to Manet's Olympia in room 14.
 
@@ -260,15 +260,15 @@ The portrait of Zola is Manet's way of saying thank you. Zola sits at his work t
 
 Now find the blue pamphlet on the table. It's Zola's defence of Manet. And it carries Manet's name. That is the signature of the whole painting.
 
-Fantin-Latour painted these friends too, with Manet among them. Find his big group portrait, Un atelier aux Batignolles, in the Seine gallery, on the river side of this floor, and play its track there.
+Fantin-Latour painted these friends too, with Manet among them. Find his big group portrait, Un atelier aux Batignolles, in Galerie Seine 2, the gallery of portraits of the 1860s, on the river side of this floor, and play its track there.
 
 ## 015 · Fantin-Latour — Un atelier aux Batignolles
 
-*Seine gallery · Level 0 — In the Seine gallery on level 0. A very large canvas, about two metres high and nearly three wide, of eight men gathered in a studio, one of them a painter at his easel.*
+*Galerie Seine 2 · Level 0 — In Galerie Seine 2 on level 0, the gallery of portraits of the 1860s. A very large canvas, about two metres high and nearly three wide, of eight men gathered in a studio, one of them a painter at his easel.*
 
 Eight men fill this studio, and seven of them are here for the one at the easel.
 
-Henri Fantin-Latour showed the picture at the Salon of eighteen seventy. Take the friends from left to right. At the far left, Otto Scholderer, a German painter. Then Manet himself, at the easel, and Renoir, in a hat. Next come Zacharie Astruc, sculptor and journalist, and Émile Zola. Edmond Maître, who worked at the Paris city hall. Then Frédéric Bazille, whose own studio you'll see later, and at the right, Claude Monet.
+Henri Fantin-Latour showed the picture at the Salon of eighteen seventy. Take the friends from left to right. At the far left, Otto Scholderer, a German painter. Then Manet himself, at the easel, and Renoir, in a hat. Next come Zacharie Astruc, sculptor and journalist, and Émile Zola. Edmond Maître, who worked at the Paris city hall. Then Frédéric Bazille, whose own studio you'll see in room 18, and at the right, Claude Monet.
 
 Why gather them around Manet? Many of these men lived in the Batignolles district of Paris, and Fantin casts Manet as the head of their school. Zola put it this way. "Around the painter scorned by the public, a united front of painters and writers has formed, considering him their master."
 
@@ -280,7 +280,7 @@ Manet's own great provocation is on this floor too. Find Le Déjeuner sur l'herb
 
 ## 016 · Manet — Le Déjeuner sur l'herbe
 
-*Room 18 · Level 0 — Room 18 on this floor, where the museum lists it. If the painting is not there, it may have moved to room 29 on level 5: listen wherever you find it. It is the large picnic painting, about two metres high and two and a half metres wide.*
+*Room 18 · Level 0 — Room 18 on this floor, where the museum lists it. If the painting is not there, it may have moved to room 29 on level 5, the Moreau-Nélaton collection room: listen wherever you find it. It is the large picnic painting, about two metres high and two and a half metres wide.*
 
 In eighteen sixty-three, the Emperor did a remarkable thing. He gave the paintings the Salon jury had turned away a show of their own. By the decree of Napoleon the Third, the Salon des Refusés opened, the Salon of the Rejected. And this painting hung in it.
 
@@ -312,11 +312,29 @@ In nineteen twenty-one, the State bought this painting from Monet himself, for t
 
 Much later, it needed care. Old repairs had deteriorated and the varnish had yellowed, so the museum and the national restoration centre for French museums cleaned the painting. The museum says the cleaning brought back "dazzling whites" against bluish-grey shadows. Let your eye move between the bright fabric and the cool shade. That light is what the trench was for.
 
-Now a very different room, and a harder question. Make your way to the far end of the nave and find room 10b, called À qui appartiennent ces œuvres? Listen there.
+Stay in room 18. Bazille's painting of his own studio hangs here too: a tall painter with a palette stands in the middle, and a man in a hat studies the canvas on the easel. Play its track in front of it.
 
-## 018 · Who do these works belong to? The MNR room
+## 018 · Bazille — L'Atelier de Bazille
 
-*Room 10b · Level 0 — Room 10b, at the far end of the nave on level 0, under the title « À qui appartiennent ces œuvres ? ». The selection of about thirteen works changes over time, and some paintings are hung so that you can see their backs.*
+*Room 18 · Level 0 — Room 18 on level 0, the room of Bazille, Monet and Renoir in the 1860s, the same room as Monet's Femmes au jardin. Look for a painting of a studio interior with several men in it: a tall, slim painter holding a palette stands in the middle, and a man in a hat looks at the canvas on the easel.*
+
+Here's a painter who appears in his own painting, but didn't paint himself into it. Someone else did.
+
+The painter is Frédéric Bazille. This is his studio on the rue de la Condamine in Paris, which he shared with Renoir for a little over two years. In eighteen seventy he painted the room, with his friends in it.
+
+Find the tall, slim figure standing in the middle with a palette. That's Bazille. Then the man in a hat, looking at the canvas on the easel. That's Manet. Bazille wrote to his father that "Manet painted me in". And if you look closely at that tall figure, you can see Manet's own way of handling paint. The other friends in the room are harder to name. Their identities are still debated.
+
+So this is a studio picture with two painters' hands in it. It comes from the same circle that Fantin-Latour gathered round Manet in his big group portrait in the Seine gallery, and Bazille is in that one too. Both pictures date from the same year.
+
+That same year, war came. Within a few months, Bazille was dead, killed in the Franco-Prussian War at twenty-six. He never saw the group exhibitions his friends would put on a few years later. Long afterwards, his brother Marc left this painting to the nation.
+
+So what you're looking at is the studio of the one who didn't get the chance. Full of friends, and of pictures still to come.
+
+Now a very different room, and a harder question. Cross the nave to the Lille side, towards its far end, and find room 10b, called À qui appartiennent ces œuvres? Listen there.
+
+## 019 · Who do these works belong to? The MNR room
+
+*Room 10b · Level 0 — Room 10b, on the Lille side of level 0 at the far end of the nave, under the title « À qui appartiennent ces œuvres ? ». The selection of about thirteen works changes over time, and some paintings are hung so that you can see their backs.*
 
 The title of this room is a question. À qui appartiennent ces œuvres? Who do these works belong to?
 
@@ -328,9 +346,49 @@ This room opened in twenty twenty-six, and its selection changes. Look for the p
 
 If they're on show, two works carry heavy stories. A supper at a ball by Degas, a free copy after the German painter Menzel, once belonged to Fernand Ochsé. In July nineteen forty-four he and his wife, the sculptor Louise Ochsé, were deported to Auschwitz. And a small beach scene by Alfred Stevens was acquired for the museum Hitler planned in Linz.
 
-When you're ready, head back into the central sculpture aisle and find Carpeaux's La Danse, a great ring of dancers in stone. Its track begins there.
+When you're ready, go on to room 11, Cézanne's beginnings. Find his tall painting of Christ in Limbo, and play its track there.
 
-## 019 · Carpeaux — La Danse
+## 020 · Cézanne — Le Christ aux limbes and Une moderne Olympia
+
+*Room 11 · Cézanne's beginnings · Level 0 — In room 11 on level 0, the room of Cézanne's beginnings. Le Christ aux limbes is the tall painting, about 1.7 metres high, of Christ going down among waiting figures. Une moderne Olympia is the small, bright canvas of a naked woman, a servant and a watching man in black.*
+
+This painting was once part of a wall in Cézanne's father's house.
+
+In the eighteen-sixties, the young Paul Cézanne painted murals to decorate the family home, the Jas de Bouffan, near Aix-en-Provence. Le Christ aux limbes, Christ in Limbo, was painted onto the plaster of the salon.
+
+A year after Cézanne died, the new owner had some of these murals taken off the walls and put on canvas. He meant to give them to the State. The Musée du Luxembourg refused the gift. So the pieces were gradually scattered.
+
+Look closely. The young painter was copying an engraving after a picture by Sebastiano del Piombo. Christ goes down into Limbo, where the righteous of the Old Testament wait to be redeemed. The figures at the bottom left are probably Adam and Eve.
+
+Now find the small, bright canvas in this room, Une moderne Olympia, A Modern Olympia. It answers Manet's Olympia, the scandal of the Salon of eighteen sixty-five. Cézanne painted this version while staying with Doctor Gachet at Auvers-sur-Oise. In the heat of a discussion, he picked up a brush and made this coloured sketch.
+
+See how the colour dazzles, and how brilliant the touch is, recalling Fragonard. A Black servant uncovers the naked woman. A man in black watches, like a spectator at a play. He looks strangely like Cézanne himself.
+
+Cézanne showed it at the first Impressionist exhibition, in eighteen seventy-four. Public and critics alike scorned it.
+
+Next, room 13, the Degas room. Find the very large family portrait of a mother in mourning with two girls. If it's away on loan, play its track anyway, and it will point you to another Degas.
+
+## 021 · Degas — La Famille Bellelli (The Bellelli Family)
+
+*Room 13 · Degas · Level 0 — In room 13 on level 0, the Degas room, in front of the very large family portrait, about two by two and a half metres: a mother in mourning with two girls, the father turned away. Its room is not confirmed and from 14 November 2026 to 28 March 2027 it may be on loan to Tokyo: if you can't find it, listen in front of Sémiramis construisant Babylone, the wide canvas of a queen on a riverbank watching a city rise, in this room.*
+
+There's a dead man in this family portrait. He isn't sitting with the family. He hangs on the wall, in a frame.
+
+If you can't find the big family picture, it may be on loan to Tokyo this winter. Then stand in front of Sémiramis construisant Babylone, the wide canvas of a queen on a riverbank, here in room 13, and listen there.
+
+This is Portrait de famille, often called La Famille Bellelli, The Bellelli Family. Degas painted it while he was finishing his training in Italy, between the ages of twenty-two and twenty-six. It is the largest finished canvas he ever painted.
+
+The sitters are his father's sister, Laure, her husband, Baron Gennaro Bellelli, and their two daughters, Giulia and Giovanna. The baron was an Italian patriot, banished from Naples and living in exile in Florence. Laure is in mourning for her own father, Hilaire, who was Degas's grandfather. His portrait hangs in a frame on the wall, close to her face.
+
+Now read the family, on the canvas or in your mind's eye. The mother is impressively dignified, with a slightly stern authority. The father is turned away, distant. Between the great size, the sober colours and the open perspectives, the whole place feels oppressive. Each person seems isolated by the tensions of the family.
+
+Degas kept it. In nineteen eighteen the Musée du Luxembourg bought it at the first of his studio sales. He had asked that work not worth keeping be burned. Instead, eight sales showed how much he had held on to.
+
+If you're at Sémiramis, this is the young Degas trying to be a history painter. The queen of Assyria, founder of Babylon, stands on the bank of the Euphrates and watches her city go up. Her chariot and her hairdo seem borrowed from Assyrian reliefs then newly arrived at the Louvre. He drew the figures nude first, then dressed them, the Ingres way. This one never left his studio while he lived.
+
+Head out into the central sculpture aisle and find Carpeaux's La Danse, the stone ring of dancers, and play its track there.
+
+## 022 · Carpeaux — La Danse
 
 *Central sculpture aisle · Level 0 — In the central sculpture aisle on level 0. The large stone group, over four metres high, of six dancing women in a ring around the Genius of Dance, with a small putto.*
 
@@ -350,7 +408,7 @@ Walk past the Opéra today and you'll see these dancers on its front. But since 
 
 Carpeaux's dancers were made for the Opéra, and the Opéra itself is waiting at the far end of the nave. Find the great model of its quarter, seen from above, in the Opéra space there, and play its track.
 
-## 020 · The Opéra quarter in 1914
+## 023 · The Opéra quarter in 1914
 
 *End of the nave · Opéra space · Level 0 — In the Opéra space at the end of the nave, level 0: a model of the streets around the Opéra, six and a half metres square, seen from above beneath a transparent floor. From October 2026 to mid-January 2027 a temporary display is built around these models, so access or presentation may differ; follow the museum's signs.*
 
@@ -366,7 +424,7 @@ So look down and find Garnier's Opéra among the blocks. Then follow the streets
 
 In the same space, the Opéra appears again, this time sliced open from front to back. Find that second model nearby, and let its track walk you through it.
 
-## 021 · Garnier's Opéra, cut open
+## 024 · Garnier's Opéra, cut open
 
 *End of the nave · Opéra space · Level 0 — In the Opéra space at the end of the nave, level 0: a long model of the Paris Opéra sliced lengthwise, nearly six metres long and about two and a half metres high. In autumn 2026 a temporary display is built around the models, so access may differ; follow the museum's signs.*
 
@@ -380,11 +438,11 @@ In front of the model there's usually a long panel with texts in French and Engl
 
 Why put an opera house in an art museum? Because it ties together works you meet across this museum. The model explains how Garnier's building works, the decoration you've just seen in Carpeaux's La Danse, and, through Degas, the life of the corps de ballet. You'll meet Degas's dancers upstairs.
 
-At the far end of the nave, the rooms called Paris, capitale d'une nation moderne show how Paris was transformed under the Second Empire. Find them, and play their track there.
+At the far end of the nave, the rooms called Paris, capitale d'une nation moderne show how Paris was transformed under the Second Empire. Find them, by the escalators, and play their track there.
 
-## 022 · Paris, capital of a modern nation
+## 025 · Paris, capital of a modern nation
 
-*Back of the nave · Level 0 — In the rooms at the far end of the nave on level 0 called « Paris, capitale d'une nation moderne ». Look for Victor Navlet's large painted view of the whole city seen from above.*
+*Paris rooms · far end of the nave · Level 0 — In the rooms at the far end of the nave on level 0 called « Paris, capitale d'une nation moderne », by the escalators to level 5. Look for Victor Navlet's large painted view of the whole city seen from above.*
 
 Imagine floating over Paris in a balloon, with the whole city spread out below you. That is the view this painting offers.
 
@@ -400,9 +458,9 @@ Put the two together and you have a portrait of a capital rebuilding itself. The
 
 One last stop on this floor. At the very end of the nave, between the two towers, Rodin's Gates of Hell face back down the whole aisle. Go and stand in front of them for the last story of the ground floor.
 
-## 023 · Rodin — The Gates of Hell
+## 026 · Rodin — The Gates of Hell
 
-*End of the nave · between the towers · Level 0 — At the far end of the nave, between the two towers, on the axis of the central aisle: Rodin's great plaster doorway, more than six metres high. Afterwards, take the escalators or lifts up to level 5.*
+*End of the nave · between the towers · Level 0 — At the far end of the nave, between the two towers, on the axis of the central aisle: Rodin's great plaster doorway, more than six metres high. Afterwards, go back to the escalators by the Paris rooms and ride up to level 5, to the clock salon.*
 
 This door was made for a museum that was never built. Rodin was commissioned to make a great doorway for a museum of decorative arts. The museum never happened. The door never hung on any building. Yet Rodin worked on it from eighteen eighty until nineteen seventeen.
 
@@ -414,27 +472,27 @@ So give it the time it asks for. Start from a little way back, where it fills th
 
 And if you're hoping for The Thinker, you won't find him at Orsay. The museum doesn't have one. What it has is this doorway, and it is enough.
 
-That's the end of the ground floor. Take the escalators or the lifts up to level 5. At the top, find the great clock window looking out over Paris, and play its track there.
+That's the end of the ground floor. Walk back to the escalators beside the Paris rooms, or take the lifts, and go up to level 5. You'll arrive at room 28, the Salon de l'horloge, the clock salon. Find the great clock window looking out over Paris, and play its track there.
 
-## 024 · The clock over Paris
+## 027 · The clock over Paris
 
-*Clock window · Level 5 — At the top of the escalators on level 5, before the Impressionist rooms: stand in the alcove behind the great clock face set into the façade, looking out through the dial towards the Seine.*
+*Room 28 · Salon de l'horloge · Level 5 — Room 28, the Salon de l'horloge, at the top of the escalators on level 5, before the Impressionist rooms: stand in the alcove behind the great clock face set into the façade, looking out through the dial towards the Seine.*
 
 When this railway station was turned into a museum, the architects were not asked to hide what it had been. They were asked to respect it. So some traces of the station were kept on purpose. The metal structure. One of the seven domes. And the clocks.
 
-You're standing behind one of them. It's one of the station's great illuminated clocks, set into the façade so that it faces the quay and the river. The station opened in nineteen hundred. Archive photographs even show one of these clocks being repaired, with a telescopic arm reaching all the way up from the quayside.
+This room is the Salon de l'horloge, the clock salon, and you're standing behind one of them. It's one of the station's great illuminated clocks, set into the façade so that it faces the quay and the river. The station opened in nineteen hundred. Archive photographs even show one of these clocks being repaired, with a telescopic arm reaching all the way up from the quayside.
 
 From in here, you see the clock from the wrong side. For once, you're behind the time.
 
 It's often described as a breathing space, and it earns the name. The rooms ahead are about to fill up with colour. So before they do, look out at Paris. The river, the light, the weather, whatever it happens to be today. That is very close to what the painters ahead of you were chasing. Not the city as a monument. The city at one particular hour.
 
-There's a second great clock at the far end of these galleries, so this isn't your last look through a dial.
+There's a second great clock further along this floor, so this isn't your last look through a dial.
 
 One tip for this floor. The rooms get busy, and pictures sometimes move. If you can't find a work within a minute, play its track anyway, or skip it. The next directions will set you straight.
 
 Now find room 29, where Monet's own Déjeuner sur l'herbe survives in pieces, and start its track when you get there.
 
-## 025 · Monet — the Déjeuner sur l'herbe fragments
+## 028 · Monet — the Déjeuner sur l'herbe fragments
 
 *Room 29 · Level 5 — Room 29, level 5. Two very large canvases from one picnic scene, hung side by side: the big central fragment, almost two and a half metres tall, and the left-hand fragment hung to its left.*
 
@@ -452,7 +510,7 @@ It's strange to admire a painting its own artist took apart. But these pieces ca
 
 In this same room, look for a much smaller canvas, a field of red poppies with a woman holding a sunshade. That's Monet's Coquelicots. Press play when you're in front of it.
 
-## 026 · Monet — Coquelicots
+## 029 · Monet — Coquelicots
 
 *Room 29 · Level 5 — Room 29, level 5. A small landscape of a field of red poppies, with a woman holding a sunshade and a child in the foreground.*
 
@@ -468,27 +526,9 @@ That show in Nadar's studio was only the beginning. Monet would go on to show at
 
 The picture reached the nation in nineteen oh six, as a gift from the collector Étienne Moreau-Nélaton. In that same year, he also gave Manet's Déjeuner sur l'herbe. So the picnic Monet tried to rival and his own little field of poppies became public property together.
 
-Next, look in the Impressionist rooms on this level for Bazille's painting of his own studio. A tall painter with a palette stands in the middle, and a man in a hat studies the canvas on the easel. Play its track there.
+Next, look in the Impressionist rooms on this level for Pissarro's Gelée blanche, Hoarfrost: a wide winter field of frosted furrows, with a man carrying wood along a path. Its track is waiting for you there.
 
-## 027 · Bazille — L'Atelier de Bazille
-
-*Impressionist rooms · Level 5 — In the Impressionist rooms on level 5; the exact room is not confirmed. Look for a painting of a studio interior with several men in it: a tall, slim painter holding a palette stands in the middle, and a man in a hat looks at the canvas on the easel.*
-
-Here's a painter who appears in his own painting, but didn't paint himself into it. Someone else did.
-
-The painter is Frédéric Bazille. This is his studio on the rue de la Condamine in Paris, which he shared with Renoir for a little over two years. In eighteen seventy he painted the room, with his friends in it.
-
-Find the tall, slim figure standing in the middle with a palette. That's Bazille. Then the man in a hat, looking at the canvas on the easel. That's Manet. Bazille wrote to his father that "Manet painted me in". And if you look closely at that tall figure, you can see Manet's own way of handling paint. The other friends in the room are harder to name. Their identities are still debated.
-
-So this is a studio picture with two painters' hands in it. It comes from the same circle that Fantin-Latour gathered round Manet in his big group portrait on the ground floor, and Bazille is in that one too. Both pictures date from the same year.
-
-That same year, war came. Within a few months, Bazille was dead, killed in the Franco-Prussian War at twenty-six. He never saw the group exhibitions his friends would put on a few years later. Long afterwards, his brother Marc left this painting to the nation.
-
-So what you're looking at is the studio of the one who didn't get the chance. Full of friends, and of pictures still to come.
-
-Next, look in these rooms for Pissarro's Gelée blanche, Hoarfrost: a wide winter field of frosted furrows, with a man carrying wood along a path. Its track is waiting for you there.
-
-## 028 · Pissarro — Gelée blanche
+## 030 · Pissarro — Gelée blanche
 
 *Impressionist rooms · Level 5 — In the Impressionist rooms on level 5; the exact room is not confirmed. Look for a wide landscape of frosted, furrowed fields, with a man carrying dead wood along a path, signed and dated lower left.*
 
@@ -506,7 +546,7 @@ What Leroy saw as mess is the frost itself. And this painting is still here, on 
 
 Now go on to room 31 and find Monet's La Gare Saint-Lazare, a station hall full of steam and light, and press play in front of the steam.
 
-## 029 · Monet — La Gare Saint-Lazare
+## 031 · Monet — La Gare Saint-Lazare
 
 *Room 31 · Level 5 — Room 31, level 5. Monet's painting of the inside of a Paris railway station, the hall filled with steam and light.*
 
@@ -524,7 +564,7 @@ So a painting of one station, bought by one painter, now hangs in another statio
 
 In this same room, find Caillebotte's own painting, Raboteurs de parquet, The Floor Scrapers, and play its track there.
 
-## 030 · Caillebotte — Raboteurs de parquet
+## 032 · Caillebotte — Raboteurs de parquet
 
 *Room 31 · Level 5 — Room 31, level 5, the same room as Monet's Gare Saint-Lazare. A large canvas of workmen scraping the boards of a bare floor.*
 
@@ -542,7 +582,7 @@ And it isn't part of Caillebotte's famous bequest. After his death, his family g
 
 Still in this room, find Degas's La Classe de danse, The Dance Class: a ballet master among his young pupils. Play its track there.
 
-## 031 · Degas — La Classe de danse
+## 033 · Degas — La Classe de danse
 
 *Room 31 · Level 5 — Room 31, level 5, the same room as Monet's Gare Saint-Lazare and Caillebotte's Floor Scrapers. A ballet class in a rehearsal room, the ballet master among his young pupils.*
 
@@ -560,7 +600,7 @@ That's his trick: he gives you the grand old rehearsal room and the famous teach
 
 Next door, in room 32, a real dancer is waiting: Degas's sculpture, the Petite danseuse de quatorze ans. Start her track when you reach her.
 
-## 032 · Degas — Petite danseuse de quatorze ans
+## 034 · Degas — Petite danseuse de quatorze ans
 
 *Room 32 · Level 5 — Room 32, level 5. A free-standing figure of a young dancer, just under a metre tall, in dark patinated bronze with a real tulle tutu and a satin ribbon, on a wooden base. You can walk around her.*
 
@@ -580,7 +620,7 @@ Everything else here is a careful copy. The tutu and the ribbon are real cloth. 
 
 In this same room, find Berthe Morisot's Le Berceau, The Cradle: a young woman watching over a baby asleep in its cradle. Play its track there.
 
-## 033 · Morisot — Le Berceau
+## 035 · Morisot — Le Berceau
 
 *Room 32 · Level 5 — Room 32, level 5, the same room as Degas's Little Dancer. A smallish painting of a young woman watching over a baby asleep in a cradle.*
 
@@ -596,7 +636,7 @@ The picture stayed in the family for more than half a century. Then, in nineteen
 
 Next, look in the Impressionist rooms on this level for Degas's Dans un café, better known as L'Absinthe. A man and a woman sit side by side at a café table, with a glass of absinthe in front of her. Its track begins there.
 
-## 034 · Degas — L'Absinthe
+## 036 · Degas — L'Absinthe
 
 *Impressionist rooms · Level 5 — In the Impressionist rooms on level 5; the exact room is not confirmed. Look for a man and a woman sitting side by side on a café banquette, a marble table in front of them and a glass of absinthe before her, the picture framed well off-centre.*
 
@@ -614,7 +654,7 @@ Andrée and Desboutin went back to their lives. The painting kept them at that t
 
 Then go and find a much happier crowd. In the Impressionist rooms on this level, look for Renoir's Bal du moulin de la Galette, a large dance scene full of people, and play its track there.
 
-## 035 · Renoir — Bal du moulin de la Galette
+## 037 · Renoir — Bal du moulin de la Galette
 
 *Impressionist rooms · Level 5 — In the Impressionist rooms on level 5; the room is not confirmed, so look for Renoir's large canvas of a crowded Parisian dance, couples dancing and friends talking around a table.*
 
@@ -632,7 +672,7 @@ This year, that page turns a hundred and fifty. Everyone on it is gone. The danc
 
 Nearby in the Impressionist rooms, look for Sisley's view of a flood, a house with pink and yellow walls standing at an angle above the water. Its track picks up the story from that spring.
 
-## 036 · Sisley — La Barque pendant l'inondation, Port-Marly
+## 038 · Sisley — La Barque pendant l'inondation, Port-Marly
 
 *Impressionist rooms · Level 5 — In the Impressionist rooms on level 5; the room is not confirmed. Look for a small flood scene: a house with pink and yellow walls standing at an angle, wide sky above and floodwater all around.*
 
@@ -648,7 +688,7 @@ Everything that moves is loose, and the one thing that stays put is firm. Give i
 
 Go on to room 34 and find five paintings of the same cathedral front, side by side. Play its track there.
 
-## 037 · Monet — The Rouen Cathedrals
+## 039 · Monet — The Rouen Cathedrals
 
 *Room 34 · Level 5 — In room 34 on level 5, in front of Monet's five paintings of the doorway and front of Rouen Cathedral, hung together.*
 
@@ -668,7 +708,7 @@ A phrase of his sums it up. Tout change, quoique pierre. Everything changes, eve
 
 In this same room, find a large square painting of water lilies, Nymphéas bleus. Stand close to it and press play.
 
-## 038 · Monet — Nymphéas bleus (Blue Water Lilies)
+## 040 · Monet — Nymphéas bleus (Blue Water Lilies)
 
 *Room 34 · Level 5 — In room 34 on level 5, the same room as the Rouen Cathedrals. Look for a large, square canvas of water lilies, about two metres each way.*
 
@@ -686,7 +726,7 @@ The cathedrals were about one thing changing. Here, there's barely a thing at al
 
 Go on into the Cézanne rooms and look for a small painting of card players, one of them smoking a pipe, and play its track there.
 
-## 039 · Cézanne — Les Joueurs de cartes (The Card Players)
+## 041 · Cézanne — Les Joueurs de cartes (The Card Players)
 
 *Cézanne rooms · Level 5 — In the Cézanne rooms on level 5; the room is not confirmed. Look for a small painting of men playing cards at a table, one of them smoking a pipe.*
 
@@ -704,7 +744,7 @@ And yet it doesn't feel small. Stand back a little and look. There's no story he
 
 Close by in the Cézanne rooms, look for his still life of apples and oranges, with draped cloth, earthenware dishes and a flower-patterned jug. Speaking of apples, play its track there.
 
-## 040 · Cézanne — Pommes et oranges (Apples and Oranges)
+## 042 · Cézanne — Pommes et oranges (Apples and Oranges)
 
 *Cézanne rooms · Level 5 — In the Cézanne rooms on level 5; the room is not confirmed. Look for a large still life of apples and oranges on dishes, with draped cloth and a flower-patterned jug. Orsay also owns views of the Montagne Sainte-Victoire, which may or may not be hanging nearby.*
 
@@ -720,17 +760,17 @@ The museum doesn't hedge on this one. It calls Pommes et oranges "the most impor
 
 So give it the time he gave it. Start with the jug and its flowers, then the dishes, then the fruit, and let the cloth carry you round the table. He looked at these same things six times over. One long look from you seems only fair.
 
-Walk on to the Van Gogh rooms, 36 and 37, where the picture rails are painted blue, and play its track at the entrance.
+Walk on to room 36, the Van Gogh room, where the picture rails are painted blue, and play its track at the entrance.
 
-## 041 · Van Gogh in France
+## 043 · Van Gogh in France
 
-*Rooms 36–37 · Level 5 — At the entrance to rooms 36 and 37 on level 5, at the end of the Impressionist gallery. You'll know them by the picture rails, painted blue.*
+*Room 36 · Level 5 — At the entrance to room 36 on level 5, the Van Gogh room, at the end of the Impressionist gallery. You'll know it by the picture rails, painted blue.*
 
-These two rooms announce whose they are before you've seen a single painting. The picture rails, the thin rails the paintings hang from, are painted blue. When the museum rehung these two rooms in 2024, it chose that colour to echo the colours Van Gogh used on his canvases. It's a small touch, and a lovely one.
+This room announces whose it is before you've seen a single painting. The picture rails, the thin rails the paintings hang from, are painted blue. When the museum rehung its Van Gogh paintings in 2024, it chose that colour to echo the colours Van Gogh used on his canvases. It's a small touch, and a lovely one.
 
 Room 36 is called Vincent van Gogh in France, and it's laid out like a journey. It starts in Paris. Then it goes south, to Arles, and the sun. Then to the hospital at Saint-Rémy-de-Provence, where he still kept painting. And it ends in Auvers-sur-Oise, where he went on Theo's advice to be near a doctor named Paul Gachet.
 
-Room 37 belongs to that doctor. It shows the collection Gachet built, and that his children later gave to the nation.
+The doctor has his place here too. Several works on these walls come from the collection Gachet built, which his children later gave to the nation.
 
 Keep one number in mind as you walk. Van Gogh arrived in Auvers on the twenty-first of May, 1890. He died there on the twenty-ninth of July. In those two months, he made about seventy paintings. Roughly one a day.
 
@@ -738,7 +778,7 @@ So as you move along these walls, remember that the last stretch of the journey 
 
 Start in room 36, with a self-portrait. He wears a suit, the background swirls in pale green and turquoise, and his hair and beard are bright orange. Play its track in front of him.
 
-## 042 · Van Gogh — Portrait de l'artiste (Self-Portrait), 1889
+## 044 · Van Gogh — Portrait de l'artiste (Self-Portrait), 1889
 
 *Room 36 · Level 5 — In room 36 on level 5, in front of Van Gogh's head-and-shoulders self-portrait in a suit, against a swirling background of pale green and turquoise, with bright orange hair and beard.*
 
@@ -758,7 +798,7 @@ Antonin Artaud, writing about Van Gogh, described the face in his self-portrait 
 
 Somewhere in the Van Gogh rooms, find his bedroom in Arles: a small room with a yellow bed and chairs and a red floor. Play its track there.
 
-## 043 · Van Gogh — La Chambre de Van Gogh à Arles (Van Gogh's Bedroom in Arles)
+## 045 · Van Gogh — La Chambre de Van Gogh à Arles (Van Gogh's Bedroom in Arles)
 
 *Van Gogh rooms · Level 5 — In the Van Gogh rooms on level 5; the exact room is not confirmed. Look for a small painting of a simple bedroom with a yellow bed and chairs, a red floor and pale lilac walls.*
 
@@ -776,7 +816,7 @@ A painting made to rest the mind, for a mother far away, by a man who had been t
 
 In room 36, find his night view of a river: deep blue sky and water, stars, and the orange gaslights of the town reflected below. Play its track there, even if the painting is away on loan. The track will tell you where to stand.
 
-## 044 · Van Gogh — La Nuit étoilée (Starry Night over the Rhône)
+## 046 · Van Gogh — La Nuit étoilée (Starry Night over the Rhône)
 
 *Room 36 · Level 5 — In room 36 on level 5, in front of Van Gogh's night view of the Rhône: deep blue sky and water, bright stars, and the orange gaslights of Arles reflected in the river. Note: it is on loan to Tokyo from 14 November 2026 to 28 March 2027; if the wall is empty, listen in front of the 1889 self-portrait in a suit, which hangs in the same room.*
 
@@ -796,7 +836,7 @@ Now give the self-portrait a look, whether you're standing at it already or can 
 
 In room 36, find the church at Auvers, its windows deep blue under a cobalt sky, and listen to its track there.
 
-## 045 · Van Gogh — L'Église d'Auvers-sur-Oise (The Church at Auvers)
+## 047 · Van Gogh — L'Église d'Auvers-sur-Oise (The Church at Auvers)
 
 *Room 36 · Level 5 — In room 36 on level 5, in front of Van Gogh's painting of the village church at Auvers, seen from its apse end, its windows in deep blue patches under a cobalt sky.*
 
@@ -810,11 +850,11 @@ After his death, it stayed with Dr Gachet, and then with the doctor's son. In 19
 
 Now look at the windows. In the same letter, Van Gogh says the stained-glass windows "look like ultramarine blue patches," set against "a sky of a deep and simple blue of pure cobalt." So read them as he did. Two blues, one inside the other.
 
-Then go into room 37, the Gachet room, and find the portrait of the doctor himself: a melancholy man in cold colours, with a sprig of foxglove. Play its track there.
+Stay in room 36 and find the portrait of the doctor himself: a melancholy man in cold colours, with a sprig of foxglove. Play its track there.
 
-## 046 · Van Gogh — Le Docteur Paul Gachet
+## 048 · Van Gogh — Le Docteur Paul Gachet
 
-*Room 37 · Level 5 — In room 37 on level 5, the room of the Gachet collection. Look for Van Gogh's portrait of a melancholy man painted in cold colours, with a sprig of foxglove. If it is not in this room, it may be next door in room 36.*
+*Room 36 · Level 5 — In room 36 on level 5, the Van Gogh room. Look for Van Gogh's portrait of a melancholy man painted in cold colours, with a sprig of foxglove.*
 
 Dr Paul Gachet had a second life, and a second name. He was an amateur painter and engraver, and he signed that work Paul Van Ryssel.
 
@@ -826,11 +866,11 @@ Then came this painting. Look at the pose, heavy with melancholy, and at the col
 
 But find the foxglove. It's a plant doctors valued for its healing properties, and the museum calls it the only touch of hope in the picture. A doctor's flower, for a doctor who was himself, perhaps, a little melancholy.
 
-Long after the doctor's death, his children, Marguerite and Paul, gave his collection to the Louvre, between 1949 and 1954. This room, the self-portrait and the church next door all came from that house in Auvers.
+Long after the doctor's death, his children, Marguerite and Paul, gave his collection to the Louvre, between 1949 and 1954. This portrait, the self-portrait and the church you've just seen all came from that house in Auvers.
 
-Then leave the Van Gogh rooms for room 38. Look for Seurat's large circus scene, a clown seen from behind in the front, inside a painted dark border. The next story is waiting there.
+Then leave the Van Gogh room for room 38. Look for Seurat's large circus scene, a clown seen from behind in the front, inside a painted dark border. The next story is waiting there.
 
-## 047 · Seurat — Le Cirque
+## 049 · Seurat — Le Cirque
 
 *Room 38 · Level 5 — Room 38 on level 5, the Seurat and Neo-Impressionist room. Look for a large, tall canvas of a circus ring made of tiny touches of colour, with a clown seen from behind in the foreground and a painted blue border.*
 
@@ -848,7 +888,7 @@ It never got its finishing touches. But it still does what Seurat asked of it. E
 
 For almost a quarter of a century, this canvas belonged to the painter Paul Signac. His own work is just ahead. In room 40, look for his Femme à l'ombrelle, a woman with a parasol built from small separate touches of colour, and press play when you're there.
 
-## 048 · Signac — Femme à l'ombrelle
+## 050 · Signac — Femme à l'ombrelle
 
 *Room 40 · Level 5 — Room 40 on level 5, among the Neo-Impressionists. Look for Paul Signac's portrait of a woman with a parasol, painted in small separate touches of colour. More Signac hangs in room 39.*
 
@@ -862,11 +902,11 @@ And the subject is a nod to the generation before. A woman with a parasol was an
 
 Signac called the method divisionism. The colours go down as separate touches, meant to mix in your eye and stay luminous. Step close and Berthe breaks into colour. Step back and she comes together again. Try it a couple of times. The picture changes with every step you take.
 
-Walk on into the Pont-Aven rooms. Look for a life-size young woman lying full length in a wood, Émile Bernard's Madeleine au Bois d'Amour. Her track is waiting for you there.
+Walk on to room 43, the Pont-Aven room. Look for a life-size young woman lying full length in a wood, Émile Bernard's Madeleine au Bois d'Amour. Her track is waiting for you there.
 
-## 049 · Émile Bernard — Madeleine au Bois d'Amour
+## 051 · Émile Bernard — Madeleine au Bois d'Amour
 
-*Pont-Aven rooms · Level 5 — In the Pont-Aven rooms on level 5 (room not confirmed). Look for a large, wide canvas with a life-size young woman lying full length in a wood.*
+*Room 43 · Pont-Aven · Level 5 — In room 43 on level 5, the Pont-Aven room. Look for a large, wide canvas with a life-size young woman lying full length in a wood.*
 
 The painter was twenty. His sister was seventeen. And the painter who led their little group had fallen in love with her.
 
@@ -878,11 +918,11 @@ Take in the scale first. She is as big as you are, stretched out across the canv
 
 Keep the name of that wood in mind. Further on, you'll meet a tiny painting made there the same year, the one that made the Bois d'Amour famous.
 
-Now for Gauguin himself. In the Gauguin rooms, look for La Belle Angèle, a woman's portrait set inside a circle, and play its track there.
+Now for Gauguin himself. In this same room, look for La Belle Angèle, a woman's portrait set inside a circle, and play its track there.
 
-## 050 · Gauguin — La Belle Angèle and Les Alyscamps
+## 052 · Gauguin — La Belle Angèle and Les Alyscamps
 
-*Gauguin rooms · Level 5 — In the Gauguin rooms on level 5 (rooms not confirmed). La Belle Angèle is a woman's portrait set inside a circle on a decorative background, with a strange pot beside her. Les Alyscamps is a landscape in bright autumn colours with three small walkers; it may hang nearby.*
+*Room 43 · Pont-Aven · Level 5 — In room 43 on level 5, the Pont-Aven room. La Belle Angèle is a woman's portrait set inside a circle on a decorative background, with a strange pot beside her. Les Alyscamps is a landscape in bright autumn colours with three small walkers; it may hang nearby.*
 
 Gauguin offered this woman her portrait as a gift. She said no.
 
@@ -894,15 +934,15 @@ Now Les Alyscamps, painted a year earlier. In October 1888 Gauguin answered Van 
 
 Gauguin found little charm in the women of Arles. So when he sent this canvas to Van Gogh's brother Theo, he titled it, with some irony, Landscape, or Three Graces at the Temple of Venus.
 
-Tahiti is close by. Find Arearea, two women seated near a tree with a red dog in front. If its place is empty, it's away on loan. Play its track anyway, and it will point you to another Gauguin.
+Tahiti is in room 44, Gauguin in Tahiti. Find Arearea, two women seated near a tree with a red dog in front. If its place is empty, it's away on loan. Play its track anyway, and it will point you to another Gauguin.
 
-## 051 · Gauguin — Arearea
+## 053 · Gauguin — Arearea
 
-*Gauguin rooms · Level 5 — In the Gauguin rooms on level 5 (room not confirmed). Look for a Tahitian scene with two women seated at the centre, a tree cutting across the picture and a red dog in the foreground. On loan to Tokyo from 14 Nov 2026 to 28 Mar 2027 (it may leave the wall earlier): then use Femmes de Tahiti, if it is on display.*
+*Room 44 · Gauguin in Tahiti · Level 5 — In room 44 on level 5, Gauguin in Tahiti. Look for a Tahitian scene with two women seated at the centre, a tree cutting across the picture and a red dog in the foreground. On loan to Tokyo from 14 Nov 2026 to 28 Mar 2027 (it may leave the wall earlier): then use Femmes de Tahiti, if it is on display.*
 
 When Paris first saw this painting, it laughed at the dog.
 
-If this wall is empty — Arearea travels to Tokyo this winter — look in these rooms for Femmes de Tahiti, Tahitian Women, if it is on display, and listen there. You'll know it by its heavy, still women, the one on the right in a strict mission dress.
+If this wall is empty — Arearea travels to Tokyo this winter — look in this room for Femmes de Tahiti, Tahitian Women, if it is on display, and listen there. You'll know it by its heavy, still women, the one on the right in a strict mission dress.
 
 Gauguin showed Arearea in Paris in November 1893, with the pictures from his first stay in Tahiti. What people noticed was a red dog, and it drew a good deal of sarcasm.
 
@@ -918,15 +958,77 @@ If you're standing at Femmes de Tahiti, it comes from the start of that same fir
 
 He had come, he said, "to live there in ecstasy, calm and art". Arearea is that wish, painted. Perhaps that's why he wanted it back.
 
-Now walk on towards the Nabi rooms and find Paul Sérusier's very small painting on wood, Le Talisman. It's easy to walk past, so look closely, and play its track there.
+Stay in this room and look for another Gauguin from Tahiti: an upright canvas of a pale horse drinking from a stream, with two riders behind it. Play its track there.
 
-## 052 · Sérusier — Le Talisman
+## 054 · Gauguin — Le Cheval blanc (The White Horse)
 
-*Nabi rooms · Level 5 — In the Nabi rooms on level 5, after the Gauguin rooms; the museum has listed it in room 48, which may have been renumbered, so follow the Nabis. Look for a very small landscape painted on a wooden panel, about the size of a sheet of paper.*
+*Room 44 · Gauguin in Tahiti · Level 5 — On level 5 in the Galerie Françoise Cachin, in the Gauguin in Tahiti room, room 44 on the plan, in front of an upright canvas about 1.4 metres high: a pale horse drinking from a stream, with two riders behind it. The room number is inferred from the plan; check nearby if needed.*
+
+This horse, so the story goes, was simply too green.
+
+That is the museum's own account. A pharmacist in Tahiti had ordered the picture from Gauguin. He did not care for its daring colour, and he refused it, because the horse was too green.
+
+Gauguin painted it in eighteen ninety-eight, during his second stay in Tahiti. It ended up with Daniel de Monfreid, and stayed in his collection until it came to the museum in nineteen twenty-seven.
+
+Now look at what the pharmacist turned down. A white horse drinks, standing in a stream that runs straight down the picture. Its coat has taken on the green of the plants around it. Behind it, two nude riders ride bareback into the distance.
+
+This isn't a scene Gauguin happened to see. It is an imagined Tahiti, a synthetic landscape rather than a view from life. The greens go from grass to emerald, set against deep blues. Small notes of orange and pink answer them, and the coppery skin of the riders.
+
+A restoration, finished when these rooms reopened, gave the painting back its vibrant colours.
+
+The horse is a sacred animal here, and it probably carries a meaning. In Polynesia, white was linked with death and with the worship of the gods. The lone horse may be tied to Tahitian beliefs about the soul's passage to another world. Too green for a pharmacist, perhaps. But not for a dream.
+
+Close by, in this gallery, find a standing figure in stoneware, about seventy-five centimetres high, over the body of a dead wolf. That is Gauguin's Oviri. Play its track there.
+
+## 055 · Gauguin — Oviri
+
+*Galerie Françoise Cachin · Room 44 · Level 5 — On level 5 in the Galerie Françoise Cachin, near the Gauguin paintings of room 44: a standing stoneware figure, about 75 centimetres high, over a dead wolf and a cub. Its exact place in the gallery is not confirmed; check nearby.*
+
+Gauguin had a name for this figure. He called her his Murderess.
+
+He had come to clay through the ceramist Ernest Chaplet, and at first he hoped the pots would earn him money. But during his last stay in Paris, his work in clay came to an end with this, Oviri, his largest piece in clay. It was fired in Chaplet's kiln in December eighteen ninety-four.
+
+Look at what she is doing. She stands over a dead she-wolf, lording it over the body. And she is crushing the life out of the wolf's cub.
+
+Death, savagery and wildness. Those are the themes. The stoneware is only partly glazed, and the figure is about seventy-five centimetres high. It weighs some twenty kilos.
+
+Gauguin could not sell his Murderess. So in nineteen hundred he asked Daniel de Monfreid for her. He meant to put her on his tomb in Tahiti.
+
+A scholar of Gauguin's sculpture, Christopher Gray, saw in this figure an expression of Gauguin's deep disillusionment and discouragement. Stand with her a moment, and you may feel some of that weight.
+
+She came to the museum in nineteen eighty-seven, nearly a century after the kiln.
+
+From a figure Gauguin shaped in clay, to a jungle another painter dreamed up in Paris. In this gallery, look for Henri Rousseau's La Charmeuse de serpents, The Snake Charmer, a large dark jungle with a figure playing a flute. Play its track there. If it isn't on show, go on to room 45 and Sérusier's small Le Talisman.
+
+## 056 · Henri Rousseau — La Charmeuse de serpents (The Snake Charmer)
+
+*Galerie Françoise Cachin · Level 5 — On level 5 in the Galerie Françoise Cachin, near the Gauguin rooms: a large, nearly square jungle scene, almost 1.9 metres wide, with a dark figure playing a flute and snakes around it. Its room is not confirmed. It was on loan until July 2026; if it is not on show, skip this track and go on to room 45.*
+
+This jungle was grown in Paris, in a greenhouse.
+
+The picture travels, though. If it isn't on the wall, go straight on to room 45 and Sérusier's Le Talisman.
+
+Henri Rousseau did not make his jungles from travel. He made them from studies at the Natural History Museum, and in the hothouses of the Jardin des Plantes. Out of those, he built this.
+
+It began as a commission. Robert Delaunay's mother ordered it after a trip to India. Delaunay was one of Rousseau's most fervent admirers. So were Jarry, Apollinaire, Picasso and Breton.
+
+Now look. A dark-skinned figure, neither clearly man nor woman, plays a flute. The snakes answer, and so does the whole natural world around. The museum's commentary likens the figure to a black Eve in an unsettling Garden of Eden, charming a snake every bit as frightening as the serpent of Genesis was seductive.
+
+See how the colour is lit from behind, bright and dense. One part of the picture is very bright, the other very dark. The drawing is precise and naïve at once. And notice how figure, animals and fantastic plants all get exactly the same treatment.
+
+That strangeness carried a long way. The backlit colours seem to look ahead to Magritte. The painting went on to inspire whole generations of artists, the Surrealists above all.
+
+The collector Jacques Doucet owned it, alongside Picasso's Demoiselles d'Avignon. It came to the national collections as his bequest, in nineteen thirty-six.
+
+Now walk on into room 45, Redon and the Nabis, and find Paul Sérusier's very small painting on wood, Le Talisman. Play its track there.
+
+## 057 · Sérusier — Le Talisman
+
+*Room 45 · Redon and the Nabis · Level 5 — In room 45 on level 5, Redon and the Nabis, after the Gauguin rooms. Look for a very small landscape painted on a wooden panel, about the size of a sheet of paper.*
 
 Some of the most consequential paintings in this museum are huge. This one is not. It's a little panel of wood, twenty-seven centimetres by twenty-one, about the size of a sheet of paper.
 
-It was painted in October 1888 by Paul Sérusier, in the Bois d'Amour at Pont-Aven. Yes, the same wood where Émile Bernard laid his sister down life-size a few rooms back. Sérusier painted it under Gauguin's direction, the same advice about masses of colour you heard with Bernard's Madeleine.
+It was painted in October 1888 by Paul Sérusier, in the Bois d'Amour at Pont-Aven. Yes, the same wood where Émile Bernard laid his sister down life-size back in room 43. Sérusier painted it under Gauguin's direction, the same advice about masses of colour you heard with Bernard's Madeleine.
 
 We know of that lesson through the later account of the painter Maurice Denis. You'll meet his own work on level two, among the Nabis.
 
@@ -934,145 +1036,99 @@ Its other title, L'Aven au Bois d'Amour, names a real place. Look at how Sérusi
 
 This little panel became the founding work of the group called the Nabis. It also made the Bois d'Amour famous. Not bad for something you could slip into a coat pocket.
 
-Before you go down, walk on to the exit of the gallery. The Café Campana is there, behind the second great clock of this floor. Stop at the threshold and play its track.
+Stay in room 45. Redon shares it with the Nabis. Look for his small painting of a head and shoulders with closed eyes, floating in a soft, undefined space, and play its track there.
 
-## 053 · Behind the great clock
+## 058 · Odilon Redon — Les Yeux clos (Closed Eyes)
 
-*Café Campana · Level 5 — At the exit of the Impressionist and Post-Impressionist gallery on level 5, at the entrance to the Café Campana, behind one of the great clocks of the façade. Listen from the threshold; no need to go in.*
+*Room 45 · Redon and the Nabis · Level 5 — In room 45 on level 5, Redon and the Nabis, in the Galerie Françoise Cachin: a small painting, 44 × 36 cm, of a head and shoulders with closed eyes, floating in a soft, undefined space. The room number is inferred from the plan; check nearby if needed.*
+
+She has closed her eyes. And that, for Odilon Redon, was the whole point.
+
+The face is probably his wife, Camille Falte, remade from an earlier drawing. But it's really a picture of what happens behind the eyelids. Dream, absence, an inner world, perhaps an apparition. Redon wrote about these things in his journal, later published as À soi-même, To Myself. There he spoke of the strange charm of "closed eyes".
+
+Look at how little paint there is. It's very thin, almost immaterial, and you can see the grain of the support coming through. The head and shoulders seem to float, in a space with no edges.
+
+Redon painted it in eighteen ninety, when he was about fifty. Behind the face are older models. Italian Renaissance busts, the marbles of Francesco Laurana above all. And Michelangelo's Dying Slave in the Louvre, a sculpture that deeply moved him. Today it is called an icon of Symbolism in painting.
+
+It was also a first. In nineteen-oh-four, the director of the Musée du Luxembourg, Léonce Bénédite, chose it from Redon's studio. It was the first work by Redon to enter the national collections.
+
+Redon also links back to the Gauguin rooms. After Gauguin died in the Marquesas, Redon very probably painted him in tribute, in profile, dark against a medallion, like a funeral relief or an ancient medal, with the long hair and the "Inca" nose Gauguin was proud of. In an article that same year, he praised Gauguin as refined and savage, grandiose and delicate. Look for that portrait nearby, if it's on show.
+
+Then walk on to room 46, the Chat Noir, with its cut-out zinc figures. Play its track there.
+
+## 059 · Le cabaret du Chat noir — the shadow theatre
+
+*Room 46 · Le cabaret du Chat noir · Level 5 — In room 46 on level 5, Le cabaret du Chat noir, after the Redon and Nabis room. Look for the flat silhouettes cut from zinc, once used in the cabaret's shadow theatre. Which figures are on show changes; check on site.*
+
+At the foot of Montmartre, a showman once ran a cabaret called the Black Cat, Le Chat Noir.
+
+His name was Rodolphe Salis. He created the place, ran it and played its host. Creators from every horizon met there.
+
+The Chat Noir became famous for three things. First, its own journal, now seen as a key link in the history of comic strips. Second, the chanson of the chansonniers, which really was born there. And third, the shadow theatre.
+
+Salis handed that theatre to Henri Rivière in eighteen eighty-six. Rivière was twenty-two. He took the technique as far as it could go, with forty-five plays.
+
+What you see here are the actors. Flat figures cut from zinc, and painted. Behind a screen, stagehands slid them along while light cast them onto the screen. Coloured filters gave the backdrops their colour. Texts were read to music, and there were even effects of wind and smoke.
+
+Rivière photographed his own backstage. The museum holds his pictures of stagehands sliding zinc figures for L'Épopée, a show by Caran d'Ache. In March eighteen eighty-nine, he went up the Eiffel Tower with friends from the Chat Noir, and photographed it from the top.
+
+Light, a screen, moving images and an audience in the dark. It's hard not to see what was coming next.
+
+Walk on into room 47, given over to the first years of the cinema, and play its track there.
+
+## 060 · The birth of cinema, 1895–1914
+
+*Room 47 · Cinema 1895–1914 · Level 5 — In room 47 on level 5, Cinéma 1895–1914, next to the Chat Noir room. Early films play on three screens, with sound that reaches you only when you stand in front of each one. Display cases may hold optical toys and early photographs; what is on show changes, so check on site.*
+
+A museum of the nineteenth century, and it ends here, with moving pictures.
+
+Ever since this museum opened, it has kept a room for the birth of the cinematograph, in eighteen ninety-five. The shadow theatre next door was one step on the way. This room is where the road arrives.
+
+Look at the screens. There are three, and between them they show about fifteen films or excerpts, from those first years up to nineteen fourteen. Step in front of one and listen. The sound falls on you like a shower, meant for whoever stands there and hardly anyone else. The themes change from time to time, each one showing a stage in how the cinema was invented. So what you see today may not be what the next visitor sees.
+
+Before film, there were toys. This room has long kept the devices that came first, in its display cases. Thaumatropes and phenakistiscopes. Stereoscopes. A magic lantern and a projection lantern. A little praxinoscope-théâtre. If they are in the cases today, take a look. Their names are harder work than the toys.
+
+There may also be chronophotographs by Étienne-Jules Marey. And a column where you can look at autochromes, the colour photographs of the Lumières.
+
+Think back to the zinc figures you just left. Light behind a screen, an audience in the dark, images that move. Here the same wish finally comes true.
+
+Now walk back the way you came, towards the second great clock. The Café Campana sits beside it, by rooms 38 and 39. Stop at the threshold and play its track there.
+
+## 061 · Behind the great clock
+
+*Café Campana · by rooms 38–39 · Level 5 — Beside the second great clock of the façade on level 5, by rooms 38 and 39, at the entrance to the Café Campana. Listen from the threshold; no need to go in.*
 
 At the start of this floor you looked out through one great clock. Here is the second. And behind it, someone has put the sea.
 
-This is the Café Campana, at the exit of the gallery. It opened in 2011, when these rooms were renovated, and its designers were two Brazilian brothers, the Campanas. They imagined it as an underwater world. Look in from the threshold. Curving, organic seats. Golden chandeliers like fish scales. Hints of orange coral. A sea floor, at the top of a railway station.
+This is the Café Campana. It opened in 2011, when these rooms were renovated, and its designers were two Brazilian brothers, the Campanas. They imagined it as an underwater world. Look in from the threshold. Curving, organic seats. Golden chandeliers like fish scales. Hints of orange coral. A sea floor, at the top of a railway station.
 
 The whole room is a homage to the glassmaker Émile Gallé. Keep his name in mind, because on level two you'll meet his own glass.
 
-This is also a good moment to stop. Since that first clock you've walked from the first Impressionists to Van Gogh, Seurat, Gauguin and the Nabis. That's a great deal of looking. If you'd like to sit down for a few minutes, this is the place to do it. When you're ready, take the lift or the stairs down to level two. There, look for the Toulouse-Lautrec paintings. Among them is a tall, narrow picture on cardboard of a woman dancing alone, painted in thin, quick strokes, with two figures standing behind her. That's Jane Avril, and her story starts there.
+This is also a good moment to stop. Since that first clock you've walked from the first Impressionists to Van Gogh, Seurat, Gauguin, Redon and the first films. That's a great deal of looking. If you'd like to sit down for a few minutes, this is the place to do it. When you're ready, take the lift or the stairs down to level two. Find room 51, the Salle des fêtes: the old hotel ballroom, with its mirrors, chandeliers and painted panels high on the walls. Stand in the middle of it, and its track begins there.
 
-## 054 · Toulouse-Lautrec — Jane Avril dansant
+## 062 · The Salle des fêtes — the hotel ballroom
 
-*Room 68 · Level 2 — Room 68 on level 2, according to the museum's own page for the painting. Older plans placed Lautrec on level 5: if the Lautrec paintings are not on level 2, they are upstairs with the Post-Impressionists, so play this track there. It is a tall, narrow picture on cardboard of a woman dancing alone, painted in thin, quick strokes, with two figures behind her.*
+*Room 51 · Salle des fêtes · Level 2 — In room 51 on level 2, the Salle des fêtes. Stand in the middle of the room with its mirrors and chandeliers, and look up at the painted panels high on the walls.*
 
-Jane Avril discovered she could dance in a hospital.
+This museum was once a railway station. And this room was the ballroom of its hotel.
 
-She was born Jeanne Beaudon in 1868, and her childhood was hard, with a mother who beat her. As a girl she suffered from chorea, a nervous illness that brings convulsive movements, and at fourteen she was interned at the Salpêtrière hospital in Paris.
+The architect Laloux wrapped the station on two sides with a luxury hotel of four hundred rooms. It had a restaurant, and it had this, a salle des fêtes. Station and hotel opened together on the fourteenth of July, nineteen hundred, for the great Universal Exhibition.
 
-Then came a masked ball there, at mid-Lent. A waltz began, and she was carried away by it. She danced, and the others made a circle around her and applauded. In the museum's words, that was the night her vocation was born.
+Look around. Mirrors. Chandeliers. It's meant to make you think of life in a château, and of the Hall of Mirrors at Versailles. A dance floor fit for a king, a short walk from the platforms.
 
-She went on to dance at the Moulin Rouge, the Jardin de Paris and the Folies-Bergère. Contemporaries called her "the incarnation of dance". In 1911, at forty-two, she married the poster artist Maurice Biais, and left the stage for a quiet life at Jouy-en-Josas.
+The décor borrows from every style of French classicism, from Louis the Fourteenth to Louis the Fifteenth. Stone, plaster, ornamental cast iron. And up on the walls, the paintings of Pierre Fritel, ordered by the railway company itself, the Compagnie des chemins de fer d'Orléans. Four panels on the east and west walls have sloping sides, with themes such as Music, Poetry and Dance. Four triangles sit on the north and south walls, one of them Summer.
 
-Now look at how Lautrec paints her. The picture is tall and narrow, on cardboard, and the paint is thin. He diluted his oils with turpentine, so they flow, and in broad strokes he set down only the essentials of her movement. Nothing more, so it feels less like a portrait than a glimpse.
+This room is something rare here. When the museum was designed, period rooms were left out. The ballroom was the one exception. It is an authentic room of the old hotel, not reconstructed, but restored.
 
-Behind her stand two figures. One is an unknown woman in a hat. The other is the impresario Warner, who also posed for one of Lautrec's best-known prints, The Englishman at the Moulin Rouge.
+It has known more than dances. On the nineteenth of May, nineteen fifty-eight, General de Gaulle held a press conference here, in the hotel's salle des fêtes. Around five hundred journalists came. He had just said he was ready to take on the powers of the Republic, and many people feared a dictatorship. As it is usually reported, he asked them why they would want him, at sixty-seven, to start a career as a dictator. That press conference opened his return to power.
 
-But your eye keeps going back to her. The girl from the Salpêtrière ball, still dancing, in a few thin strokes.
+The hotel closed for good on the first of January, nineteen seventy-three. The ballroom stayed.
 
-Stay with Lautrec. Nearby, look for a small painting of a clown in a private room, fastening a big yellow ruffle to her costume, and listen to her story there.
+Now make your way to the west end of this floor, near room 72, and find room 59, the Symbolism room. Look for Gustave Moreau's Orphée, a girl in rich Oriental dress holding a man's head on a lyre, and play its track there.
 
-## 055 · Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue
+## 063 · Gustave Moreau — Orphée
 
-*Lautrec room · Level 2 — With the Toulouse-Lautrec paintings on level 2 (room not confirmed). Cha-U-Kao is a small picture on cardboard of a woman clown in a private room, fastening a large yellow ruffle, with green walls and a red sofa. La Goulue's two monumental booth panels may not be shown here; older plans placed them on level 5.*
-
-Her stage name sounds Japanese. It's actually a pun.
-
-Cha-U-Kao was a dancer and clown at the Nouveau Cirque and the Moulin Rouge. Say her name aloud and you hear two French words. Chahut, a wild acrobatic dance that grew out of the cancan, and chaos, the uproar when she came on stage.
-
-Lautrec doesn't show her performing. He shows her in a private room, struggling to fasten a large yellow ruffle to the top of her costume. The ruffle almost fills the picture. A yellow ribbon ties up her white toupee, almost ironically, the museum says. Green walls, a red sofa, and quick brushstrokes everywhere.
-
-Now look above the little table. In a mirror, or perhaps a portrait, there's an elderly man. He could be a close friend, an admirer or a customer. He's simply there, in the room with her.
-
-The other great star of Lautrec's Paris was La Goulue. In 1895 she wanted her own booth at the Foire du Trône, the Paris funfair, and Lautrec painted two monumental panels for its entrance. On one, she dances at the Moulin Rouge with Valentin le Désossé, the pair who made those dances famous. On the other, she performs the so-called Moorish dance she offered inside.
-
-Those panels stood outside in the weather until a collector rescued them. Then a dealer cut them into pieces to sell. In 1930 the State put them back together. They aren't always shown beside Cha-U-Kao, so if you don't see them here, keep the story with you.
-
-Next, find room 70 and Maurice Denis's Les Muses, women in modern dress beneath tall chestnut trees. Play its track there.
-
-## 056 · Maurice Denis — Les Muses
-
-*Room 70 · Level 2 — Room 70 on level 2, in front of a tall canvas of women in the dress of the 1890s, gathered among the straight trunks of great chestnut trees.*
-
-In June 1893, a young painter called Maurice Denis married a woman named Marthe. That same year he finished this canvas. And she is in it.
-
-Denis was one of the Nabis, the painters of the little Talisman you saw upstairs. This is what their ideas could look like a few years on, at full size.
-
-The subject is the Muses of classical myth. But Denis leaves antiquity behind. His Muses are women in the dress of his own day, gathered on a terrace. And the place is real. It's the terrace at Saint-Germain-en-Laye, where Denis lived all his life, under chestnut trees already a century old.
-
-Look at the tree trunks first. They rise straight through the picture and set its beat, like the bars of a piece of music. The museum speaks of the rhythm and decorative power they give the whole scene. The women are fitted in between them.
-
-Then find the group of three women seated in the foreground. One of them is Marthe, the new bride. She went on inspiring his art until her death. So this is a painting of the Muses. It is also a portrait of his bride, the year they married.
-
-Next door, in room 71, look for a small painting of a child in a yellow hat, running after a red ball across a park. Play its track there.
-
-## 057 · Vallotton — Le Ballon
-
-*Room 71 · Level 2 — Room 71 on level 2. Look for a small, wide painting of a park seen from above: a broad stretch of ochre ground, dark trees, and a child in a yellow hat chasing a red ball.*
-
-Most of this painting is empty ground. And that's exactly where its power comes from.
-
-Félix Vallotton was Swiss, and from 1891 he was in close touch with the Nabis, the group you met in the last room. He painted Le Ballon, The Ball, in 1899, in oil on cardboard, later mounted on wood. It's small, barely more than half a metre wide. Yet the museum counts it among the best known of all his paintings. It came to the national collections in 1953, in the bequest of the collector Carle Dreyfus.
-
-Notice first where Vallotton has put you. You're looking down on a park from above, a bird's-eye view. A broad stretch of ochre ground fills much of the picture. Against it presses the deep shade of the trees.
-
-And then, in all that space, one small child. Find the yellow hat with its red ribbon, the blonde hair, the orange boots. A white smock blows out behind as the child runs. A dark shadow goes on ahead. And the child is chasing a red ball.
-
-The child is a bright patch of light in a great flat field of colour. Nothing else in the park competes for your eye. It's a game. Yet the longer you look, the larger the empty ground becomes, and the smaller the child.
-
-Vallotton doesn't tell you what to feel about that. He just leaves the space there.
-
-In room 72, look for a set of large garden scenes in soft beige, green and blue, hung around the corner of the room. Play its track there.
-
-## 058 · Vuillard — Jardins publics
-
-*Room 72 · Level 2 — Room 72 on level 2, the room with five large garden panels in beige, green and blue hung around a corner. Bonnard's tall, narrow panel of a woman in a cape hangs in the same room.*
-
-Picture a dinner invitation in 1894, to a mansion on the Avenue du Bois, the avenue Parisians now call Avenue Foch. Your host is Alexandre Natanson. He runs La Revue blanche, the journal that published the Nabis. And around his room, a cycle of painted gardens.
-
-That year Natanson commissioned nine panels from Édouard Vuillard, for a large room used for both living and dining. They're called Jardins publics, Public Gardens. In 1929 the set was broken up. Five of the nine are reunited here, hung around the corner of the room, as they were originally. So you're standing, more or less, in a corner of that lost room.
-
-Each panel is its own scene with its own subtitle: girls playing, a questioning, nursemaids, a conversation, a red parasol. Yet the ground and sky run on from one to the next, and so do the light and the colour. Harmonies of beige, green and blue, enlivened by a few splashes of red. See if you can find the parasol.
-
-Notice too how matt the surface is, almost like a fresco. Vuillard painted in distemper, a paint bound with glue, and this was the first time he used it on this scale.
-
-In the same room, look for Pierre Bonnard's tall, narrow panel of a woman in a cape, from his Femmes au jardin, Women in the Garden. His friends called him le Nabi très japonard, the very Japanese Nabi. The tall, screen-like format and the flat layers show you why.
-
-Next, find room 64, with Art Nouveau furniture by Guimard and Majorelle. Their track begins there.
-
-## 059 · Guimard and Majorelle — Art Nouveau
-
-*Room 64 · Level 2 — Room 64 on level 2, among the Art Nouveau furniture. Look for Guimard's tall wooden smoking-room bench with a leg like a branching tree trunk, and Majorelle's Water Lilies bed with its gilt bronze.*
-
-If you've travelled on the Paris Métro, you may already have walked under the work of the man behind this room. Hector Guimard designed the Métro entrances. The company turned to him after a competition that had gone nowhere. The museum even owns one of his entrances, from Montparnasse-Bienvenüe station.
-
-Guimard was a leader of French Art Nouveau, and its central idea was simple. Architecture, furniture and decoration should be one single thing. For his Castel Béranger, in the sixteenth arrondissement, he designed every piece of furniture himself.
-
-Now find his smoking-room bench, from 1897, in jarrah wood and carved metal. It stands over two and a half metres high. It isn't symmetrical. And one leg seems to be a tree trunk, sprouting supple branches that curve like vines. A bench, growing out of the floor like a tree.
-
-Then look for the work of Louis Majorelle, from Nancy. He had enormous success with water lilies at the Universal Exposition of 1900. Here they are again, on a bed called Nénuphars, Water Lilies, in mahogany with marquetry and gilt bronze. Furniture, in other words, that blooms.
-
-Guimard wanted no line at all between the building, the bench and the chair. In this room you can see what happens when designers take that idea seriously.
-
-Next door, in rooms 63 and 65, look for a glass hand rising out of the sea, and a huge carved bookcase. Play their track there.
-
-## 060 · Gallé and Carabin's bookcase
-
-*Rooms 63 and 65 · Level 2 — Rooms 63 and 65 on level 2. In room 63, a glass hand rising among shells and seaweed. In room 65, a walnut and wrought-iron bookcase almost three metres high, covered in carved figures.*
-
-Some artists know when they are making their last work. Émile Gallé, the glassmaker from Nancy, seems to have known.
-
-In room 63, look for a hand rising out of the sea, made of glass. It's called La Main aux algues et aux coquillages, Hand with Seaweed and Shells, and it dates from 1904. It is very likely the last piece of crafted glass the master from Nancy produced. He made it knowing he was about to die. That year he showed it in Nancy, in a showcase called The Deep Sea. The museum reads it as a farewell, confident in the radiant existence that awaited him.
-
-Look closely at the two textures. The shells are rendered just as they are in nature. The hand isn't. Its gelatinous surface makes it look less like human skin than like the body of a jellyfish.
-
-Now for something louder. In room 65, find François-Rupert Carabin's Bibliothèque, a bookcase almost three metres high, in walnut and wrought iron. And it isn't really furniture. It's a sermon.
-
-The critic Gustave Geffroy explained how to read it. At the bottom lie the base passions, the enemies of intelligence, beaten by the Book. On one side sits Ignorance. On the other, a stack of masks: Vanity, Greed, Intemperance, Anger, Folly and Hypocrisy. At the top stand three figures, with Truth in the centre and Reading on either side.
-
-So the vices end up on the floor, and Truth keeps watch over the books.
-
-From here, find room 57, and a painting of a young woman looking down at a severed head resting on a lyre. Play its track there, and take your time.
-
-## 061 · Gustave Moreau — Orphée
-
-*Room 57 · Level 2 — Room 57 on level 2. Look for an upright painting on wood of a girl in rich Oriental dress, holding a man's head that rests on a lyre, in front of a twilight landscape.*
+*Room 59 · Symbolism · Level 2 — Room 59 on level 2, the Symbolism room at the west end of the floor; the painting's own page gives room 57, so look next door if it is not here. Look for an upright painting on wood of a girl in rich Oriental dress, holding a man's head that rests on a lyre, in front of a twilight landscape.*
 
 Two faces, both with their eyes closed. One belongs to a living girl, and the other to a dead poet. And they look strangely alike.
 
@@ -1086,11 +1142,11 @@ He showed the painting at the Salon of 1866. That July, the State bought it from
 
 In other hands, a severed head and a lyre would make a horror story. Moreau turned them into a silence.
 
-In room 55, look for Camille Claudel's bronze group of three figures, with a young woman on her knees, reaching out. Play its track there.
+Close by, in room 55, the history painting room, look for Camille Claudel's bronze group of three figures, with a young woman on her knees, reaching out. Play its track there.
 
-## 062 · Camille Claudel — L'Âge mûr
+## 064 · Camille Claudel — L'Âge mûr
 
-*Room 55 · Level 2 — Room 55 on level 2. Look for a bronze group of three figures on a long base: an older man drawn away by an older woman, and a young woman on her knees, reaching after him.*
+*Room 55 · History painting · Level 2 — Room 55 on level 2, the history painting room at the west end of the floor. Look for a bronze group of three figures on a long base: an older man drawn away by an older woman, and a young woman on her knees, reaching after him.*
 
 Her brother Paul said that what you are watching here is a woman having her soul torn out of her.
 
@@ -1106,29 +1162,99 @@ Paul Claudel put it like this. "My sister Camille, beseeching, humiliated on her
 
 In 1913, aged forty-eight, Camille Claudel was interned. She never came out. She died thirty years later. But here, in bronze, the kneeling woman is still reaching out.
 
-Now go out onto the sculpture terrace, overlooking the nave, and find François Pompon's great stone polar bear. When you're ready, play its track there.
+When you're ready, walk to room 72, also at this west end, for the Nabis. Look for a set of large garden scenes in soft beige, green and blue, hung around the corner of the room. Play its track there.
 
-## 063 · Pompon — Ours blanc
+## 065 · Vuillard — Jardins publics
 
-*Sculpture terrace · Level 2 — On the level-2 sculpture terrace overlooking the nave. Look for a large stone polar bear, about two and a half metres long.*
+*Room 72 · Level 2 — Room 72 on level 2, the room with five large garden panels in beige, green and blue hung around a corner. Bonnard's tall, narrow panel of a woman in a cape hangs in the same room.*
 
-François Pompon became famous at sixty-seven.
+Picture a dinner invitation in 1894, to a mansion on the Avenue du Bois, the avenue Parisians now call Avenue Foch. Your host is Alexandre Natanson. He runs La Revue blanche, the journal that published the Nabis. And around his room, a cycle of painted gardens.
 
-Until then he was one of the most sought-after practitioners in Paris, carving marble for other sculptors. Among them were Rodin, and Camille Claudel, whose bronze you've just seen. Then, from 1905, he turned against Rodin's expressive style, and away from the human figure altogether. He went to the Jardin des Plantes in Paris and watched the animals.
+That year Natanson commissioned nine panels from Édouard Vuillard, for a large room used for both living and dining. They're called Jardins publics, Public Gardens. In 1929 the set was broken up. Five of the nine are reunited here, hung around the corner of the room, as they were originally. So you're standing, more or less, in a corner of that lost room.
 
-His polar bear was first shown in plaster at the Salon d'Automne of 1922. It gave him his first public success. This version is in stone, about two and a half metres long. The State commissioned it in 1927, and his own practitioner, Jean-Joachim Supéry, carved it at Malakoff. So the man who had carved for Rodin now had someone carving for him.
+Each panel is its own scene with its own subtitle: girls playing, a questioning, nursemaids, a conversation, a red parasol. Yet the ground and sky run on from one to the next, and so do the light and the colour. Harmonies of beige, green and blue, enlivened by a few splashes of red. See if you can find the parasol.
 
-Pompon described his method like this. "I keep a large number of details destined to disappear. I do the animal with almost all its trappings. And then little by little, I eliminate…"
+Notice too how matt the surface is, almost like a fresco. Vuillard painted in distemper, a paint bound with glue, and this was the first time he used it on this scale.
 
-Take a slow walk along the bear with that in mind. What did he take away? And how much bear is still left?
+In the same room, look for Pierre Bonnard's tall, narrow panel of a woman in a cape, from his Femmes au jardin, Women in the Garden. His friends called him le Nabi très japonard, the very Japanese Nabi. The tall, screen-like format and the flat layers show you why.
 
-Pompon has one more part to play on this terrace. He was the source of a famous story about Rodin's Balzac, and it's a good one.
+Next door, in room 71, look for a small painting of a child in a yellow hat, running after a red ball across a park. Play its track there.
 
-On the same terrace, find Rodin's Balzac, a towering plaster figure of the writer, and hear that story there.
+## 066 · Vallotton — Le Ballon
 
-## 064 · Rodin — Balzac
+*Room 71 · Level 2 — Room 71 on level 2. Look for a small, wide painting of a park seen from above: a broad stretch of ochre ground, dark trees, and a child in a yellow hat chasing a red ball.*
 
-*Sculpture terrace · Level 2 — On the level-2 sculpture terrace overlooking the nave, in front of Rodin's towering plaster figure of the writer Balzac, almost three metres high.*
+Most of this painting is empty ground. And that's exactly where its power comes from.
+
+Félix Vallotton was Swiss, and from 1891 he was in close touch with the Nabis, the group you met in the last room. He painted Le Ballon, The Ball, in 1899, in oil on cardboard, later mounted on wood. It's small, barely more than half a metre wide. Yet the museum counts it among the best known of all his paintings. It came to the national collections in 1953, in the bequest of the collector Carle Dreyfus.
+
+Notice first where Vallotton has put you. You're looking down on a park from above, a bird's-eye view. A broad stretch of ochre ground fills much of the picture. Against it presses the deep shade of the trees.
+
+And then, in all that space, one small child. Find the yellow hat with its red ribbon, the blonde hair, the orange boots. A white smock blows out behind as the child runs. A dark shadow goes on ahead. And the child is chasing a red ball.
+
+The child is a bright patch of light in a great flat field of colour. Nothing else in the park competes for your eye. It's a game. Yet the longer you look, the larger the empty ground becomes, and the smaller the child.
+
+Vallotton doesn't tell you what to feel about that. He just leaves the space there.
+
+Next door, in room 70, look for Maurice Denis's Les Muses, women in modern dress beneath tall chestnut trees. Play its track there.
+
+## 067 · Maurice Denis — Les Muses
+
+*Room 70 · Level 2 — Room 70 on level 2, in front of a tall canvas of women in the dress of the 1890s, gathered among the straight trunks of great chestnut trees.*
+
+In June 1893, a young painter called Maurice Denis married a woman named Marthe. That same year he finished this canvas. And she is in it.
+
+Denis was one of the Nabis, the painters of the little Talisman you saw upstairs. This is what their ideas could look like a few years on, at full size.
+
+The subject is the Muses of classical myth. But Denis leaves antiquity behind. His Muses are women in the dress of his own day, gathered on a terrace. And the place is real. It's the terrace at Saint-Germain-en-Laye, where Denis lived all his life, under chestnut trees already a century old.
+
+Look at the tree trunks first. They rise straight through the picture and set its beat, like the bars of a piece of music. The museum speaks of the rhythm and decorative power they give the whole scene. The women are fitted in between them.
+
+Then find the group of three women seated in the foreground. One of them is Marthe, the new bride. She went on inspiring his art until her death. So this is a painting of the Muses. It is also a portrait of his bride, the year they married.
+
+Now find room 68, given to Toulouse-Lautrec and the shows of his Paris. Look for a tall, narrow picture on cardboard of a woman dancing alone, painted in thin, quick strokes, with two figures standing behind her. That's Jane Avril, and her story starts there.
+
+## 068 · Toulouse-Lautrec — Jane Avril dansant
+
+*Room 68 · Level 2 — Room 68 on level 2, the Toulouse-Lautrec room, « spectacles et coulisses ». It is a tall, narrow picture on cardboard of a woman dancing alone, painted in thin, quick strokes, with two figures behind her.*
+
+Jane Avril discovered she could dance in a hospital.
+
+She was born Jeanne Beaudon in 1868, and her childhood was hard, with a mother who beat her. As a girl she suffered from chorea, a nervous illness that brings convulsive movements, and at fourteen she was interned at the Salpêtrière hospital in Paris.
+
+Then came a masked ball there, at mid-Lent. A waltz began, and she was carried away by it. She danced, and the others made a circle around her and applauded. In the museum's words, that was the night her vocation was born.
+
+She went on to dance at the Moulin Rouge, the Jardin de Paris and the Folies-Bergère. Contemporaries called her "the incarnation of dance". In 1911, at forty-two, she married the poster artist Maurice Biais, and left the stage for a quiet life at Jouy-en-Josas.
+
+Now look at how Lautrec paints her. The picture is tall and narrow, on cardboard, and the paint is thin. He diluted his oils with turpentine, so they flow, and in broad strokes he set down only the essentials of her movement. It feels less like a portrait than a glimpse.
+
+Behind her stand two figures. One is an unknown woman in a hat. The other is the impresario Warner, who also posed for one of Lautrec's best-known prints, The Englishman at the Moulin Rouge.
+
+But your eye keeps going back to her. The girl from the Salpêtrière ball, still dancing, in a few thin strokes.
+
+Stay with Lautrec. In this same room, look for a small painting of a clown in a private room, fastening a big yellow ruffle to her costume, and listen to her story there.
+
+## 069 · Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue
+
+*Room 68 · Level 2 — Room 68 on level 2, the Toulouse-Lautrec room. Cha-U-Kao is a small picture on cardboard of a woman clown in a private room, fastening a large yellow ruffle, with green walls and a red sofa. La Goulue's two monumental booth panels may not be shown in this room.*
+
+Her stage name sounds Japanese. It's actually a pun.
+
+Cha-U-Kao was a dancer and clown at the Nouveau Cirque and the Moulin Rouge. Say her name aloud and you hear two French words. Chahut, a wild acrobatic dance that grew out of the cancan, and chaos, the uproar when she came on stage.
+
+Lautrec doesn't show her performing. He shows her in a private room, struggling to fasten a large yellow ruffle to the top of her costume. The ruffle almost fills the picture. A yellow ribbon ties up her white toupee, almost ironically, the museum says. Green walls, a red sofa, and quick brushstrokes everywhere.
+
+Now look above the little table. In a mirror, or perhaps a portrait, there's an elderly man. He could be a close friend, an admirer or a customer.
+
+The other great star of Lautrec's Paris was La Goulue. In 1895 she wanted her own booth at the Foire du Trône, the Paris funfair, and Lautrec painted two monumental panels for its entrance. On one, she dances at the Moulin Rouge with Valentin le Désossé, the pair who made those dances famous. On the other, she performs the so-called Moorish dance she offered inside.
+
+Those panels stood outside in the weather until a collector rescued them. Then a dealer cut them into pieces to sell. In 1930 the State put them back together. They aren't always shown beside Cha-U-Kao, so if you don't see them here, keep the story with you.
+
+Now walk east along the sculpture terrace above the nave to the Terrasse Rodin, by room 67, at the far end of this floor. Find Rodin's towering plaster Balzac, and play its track there.
+
+## 070 · Rodin — Balzac
+
+*Terrasse Rodin · Level 2 — On the Terrasse Rodin at the east end of level 2, by room 67, overlooking the nave: Rodin's towering plaster figure of the writer Balzac, almost three metres high.*
 
 A toad in a sack. A block of salt caught in a shower. A menhir. A snowman. Those are some of the things critics called this statue when Paris first saw it.
 
@@ -1140,13 +1266,65 @@ What Rodin did next tells you how much he believed in it. He kept the statue. He
 
 Now look up at the whole figure, almost three metres of plaster. You can see what upset the critics. There's no tidy portrait of an author at his desk. There's a single great mass, as if the statue were still wrapped, and Balzac's head at the top of it.
 
-And how did Rodin get that mass? François Pompon, the sculptor of the polar bear, left an account. According to him, Rodin dipped his dressing gown in a big tub of plaster, and used it to clothe his study for the figure. That is Pompon's memory of it. But stand here for a minute, and it's not hard to imagine.
+And how did Rodin get that mass? François Pompon, whose polar bear waits further along the terraces, left an account. According to him, Rodin dipped his dressing gown in a big tub of plaster, and used it to clothe his study for the figure. That is Pompon's memory of it. But stand here for a minute, and it's not hard to imagine.
 
 The monument did reach the street in the end. A bronze was unveiled on the boulevard Raspail in 1939, forty-one years after the Salon. The snowman, it turns out, never melted.
 
-On this terrace, look for a seated woman in marble by Maillol, and Bourdelle's gilded bronze archer drawing his bow. Play their track there.
+Now step into the Art Nouveau rooms at this end of the floor. In room 64, look for Guimard's tall wooden bench with a leg like a branching tree trunk, and Majorelle's furniture. Their track begins there.
 
-## 065 · Maillol and Bourdelle — Méditerranée and Héraklès archer
+## 071 · Guimard and Majorelle — Art Nouveau
+
+*Room 64 · Level 2 — Room 64 on level 2, among the Art Nouveau furniture. Look for Guimard's tall wooden smoking-room bench with a leg like a branching tree trunk, and Majorelle's Water Lilies bed with its gilt bronze.*
+
+If you've travelled on the Paris Métro, you may already have walked under the work of the man behind this room. Hector Guimard designed the Métro entrances. The company turned to him after a competition that had gone nowhere. The museum even owns one of his entrances, from Montparnasse-Bienvenüe station.
+
+Guimard was a leader of French Art Nouveau, and its central idea was simple. Architecture, furniture and decoration should be one single thing. For his Castel Béranger, in the sixteenth arrondissement, he designed every piece of furniture himself.
+
+Now find his smoking-room bench, from 1897, in jarrah wood and carved metal. It stands over two and a half metres high. It isn't symmetrical. And one leg seems to be a tree trunk, sprouting supple branches that curve like vines. A bench, growing out of the floor like a tree.
+
+Then look for the work of Louis Majorelle, from Nancy. He had enormous success with water lilies at the Universal Exposition of 1900. Here they are again, on a bed called Nénuphars, Water Lilies, in mahogany with marquetry and gilt bronze. Furniture, in other words, that blooms.
+
+Guimard wanted no line at all between the building, the bench and the chair. In this room you can see what happens when designers take that idea seriously.
+
+Next door, in rooms 63 and 65, look for a glass hand rising out of the sea, and a huge carved bookcase. Play their track there.
+
+## 072 · Gallé and Carabin's bookcase
+
+*Rooms 63 and 65 · Level 2 — Rooms 63 and 65 on level 2. In room 63, a glass hand rising among shells and seaweed. In room 65, a walnut and wrought-iron bookcase almost three metres high, covered in carved figures.*
+
+Some artists know when they are making their last work. Émile Gallé, the glassmaker from Nancy, seems to have known.
+
+In room 63, look for a hand rising out of the sea, made of glass. It's called La Main aux algues et aux coquillages, Hand with Seaweed and Shells, and it dates from 1904. It is very likely the last piece of crafted glass the master from Nancy produced. He made it knowing he was about to die. That year he showed it in Nancy, in a showcase called The Deep Sea. The museum reads it as a farewell, confident in the radiant existence that awaited him.
+
+Look closely at the two textures. The shells are rendered just as they are in nature. The hand isn't. Its gelatinous surface makes it look less like human skin than like the body of a jellyfish.
+
+Now for something louder. In room 65, find François-Rupert Carabin's Bibliothèque, a bookcase almost three metres high, in walnut and wrought iron. And it isn't really furniture. It's a sermon.
+
+The critic Gustave Geffroy explained how to read it. At the bottom lie the base passions, the enemies of intelligence, beaten by the Book. On one side sits Ignorance. On the other, a stack of masks: Vanity, Greed, Intemperance, Anger, Folly and Hypocrisy. At the top stand three figures, with Truth in the centre and Reading on either side.
+
+So the vices end up on the floor, and Truth keeps watch over the books.
+
+Then go back out onto the sculpture terrace overlooking the nave, and find François Pompon's great stone polar bear. Play its track there, and take your time.
+
+## 073 · Pompon — Ours blanc
+
+*Sculpture terrace · Level 2 — On the level-2 sculpture terrace overlooking the nave. Look for a large stone polar bear, about two and a half metres long.*
+
+François Pompon became famous at sixty-seven.
+
+Until then he was one of the most sought-after practitioners in Paris, carving marble for other sculptors. Among them were Rodin, and Camille Claudel, whose bronze you saw in room 55. Then, from 1905, he turned against Rodin's expressive style, and away from the human figure altogether. He went to the Jardin des Plantes in Paris and watched the animals.
+
+His polar bear was first shown in plaster at the Salon d'Automne of 1922. It gave him his first public success. This version is in stone, about two and a half metres long. The State commissioned it in 1927, and his own practitioner, Jean-Joachim Supéry, carved it at Malakoff. So the man who had carved for Rodin now had someone carving for him.
+
+Pompon described his method like this. "I keep a large number of details destined to disappear. I do the animal with almost all its trappings. And then little by little, I eliminate…"
+
+Take a slow walk along the bear with that in mind. What did he take away? And how much bear is still left?
+
+And yes, this is the same Pompon behind the dressing-gown story you heard at Rodin's Balzac.
+
+Stay on the sculpture terraces and look for a seated woman in marble by Maillol, and Bourdelle's gilded bronze archer drawing his bow. Play their track there.
+
+## 074 · Maillol and Bourdelle — Méditerranée and Héraklès archer
 
 *Sculpture terrace · Level 2 — On the level-2 sculpture terrace overlooking the nave. Look for Maillol's seated woman in marble, and Bourdelle's large gilded bronze of Hercules drawing a bow.*
 
@@ -1154,7 +1332,7 @@ When this seated woman first appeared in public, she didn't have a grand title. 
 
 Aristide Maillol made her for his German patron, Count Harry Kessler. The name she carries now, Méditerranée, The Mediterranean, came later. This marble is a copy made in Maillol's own lifetime, in the nineteen twenties.
 
-Compare her with the Balzac you've just left. Rodin gives you a storm. Maillol turned away from that expressive style, towards formal beauty and simplicity. No story, no drama, no name, just a seated woman and a block of calm. Walk slowly around her, and notice how little she moves.
+Compare her with Rodin's Balzac, back on the Terrasse Rodin. Rodin gives you a storm. Maillol turned away from that expressive style, towards formal beauty and simplicity. No story, no drama, no name, just a seated woman and a block of calm. Walk slowly around her, and notice how little she moves.
 
 Now turn to the opposite answer. Antoine Bourdelle's Héraklès, Hercules the Archer, dates from 1909. Its full French title tells you the myth. The hero is shooting the man-eating birds of Lake Stymphalus. It's gilded bronze, nearly two and a half metres high and just as wide.
 
@@ -1164,7 +1342,7 @@ Here are two ways to make a body speak in sculpture. One sits perfectly still. T
 
 For the last stop, stay on the terrace and find a spot at the balustrade where you can look down over the whole nave. I'll meet you there for the final track.
 
-## 066 · Out into Paris
+## 075 · Out into Paris
 
 *Level 2 terrace → exit — On the level-2 sculpture terrace, at the balustrade, looking down the length of the nave towards Rodin's Gates of Hell at the far end.*
 
@@ -1178,4 +1356,4 @@ Before you go, look all the way to the far end of the nave. Between the two towe
 
 Thank you for spending these hours with me. I hope a few of these faces come home with you: a black cat, a little dancer, a man in a sack of plaster, a girl holding a poet's head.
 
-When you're ready, follow the exit signs out into Paris. Goodbye, and enjoy the city.
+When you're ready, take the escalators or the stairs down to level 0. Walk back along the nave to the clock end, where you came in, and follow the SORTIE signs out into Paris. Goodbye, and enjoy the city.

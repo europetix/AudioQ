@@ -1,0 +1,26 @@
+@id: 032 · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: R
+@title: Caillebotte — Raboteurs de parquet
+@where: Room 31, level 5, the same room as Monet's Gare Saint-Lazare. A large canvas of workmen scraping the boards of a bare floor.
+@what: Gustave Caillebotte, Raboteurs de parquet, The Floor Scrapers, 1875, oil on canvas, 102 × 147 cm. Given by the Caillebotte heirs through Auguste Renoir, 1894.
+@listen: Why the Salon jury rejected a painting of men at work, and how it reached the nation by a side door.
+@brief: A friend explaining, with quiet conviction, why a calm picture once shocked people; steady, a little pointed about the jury, warm about its arrival.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 032 (1875; 102 × 147; RF 2718; "one of the first representations of the urban proletariat"; sent to the 1875 Salon, the jury "shocked by its crude realism" rejected it; "gift of the Caillebotte heirs through Auguste Renoir", 1894, not part of the bequest; room 31): https://www.musee-orsay.fr/en/artworks/raboteurs-de-parquet-105 (OFF) ; A3 (shown at the Impressionist exhibition of 1876, OFF) ; A3 28.3 (it divided the critics; Zola found it too exact, SEC2) ; FACTS_R3 031 (Caillebotte bought Monet's Gare Saint-Lazare): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF)
+---
+[quietly] In eighteen seventy-five, the jury of the official Salon looked at this painting and was shocked. Not by a nude or a battle, but by men scraping a floor.
+
+The painter was Gustave Caillebotte, the same man who bought Monet's Gare Saint-Lazare. He was a collector, and a painter too, and he sent this canvas to the Salon. The jury, shocked by what it saw as crude realism, turned it down.
+
+[pause] It's hard to feel the shock now. But this is a big canvas, almost a metre and a half wide, and the whole of it is given to working men, at work. The museum calls it one of the first representations of the urban proletariat. That was the crude part, not the paint but the subject.
+
+So look at it the way the jury didn't. Take in the floor itself, the subject in the title, and the men at work on it. Give them the attention a Salon picture would give a king.
+
+The next year Caillebotte showed it with the Impressionists instead, at their exhibition of eighteen seventy-six, where it divided the critics. Even Zola, who had fought for Manet, found it too exact.
+
+[warmly] And it isn't part of Caillebotte's famous bequest. After his death, his family gave it separately, through his friend Renoir.
+
+Still in this room, find Degas's La Classe de danse, The Dance Class: a ballet master among his young pupils. Play its track there.

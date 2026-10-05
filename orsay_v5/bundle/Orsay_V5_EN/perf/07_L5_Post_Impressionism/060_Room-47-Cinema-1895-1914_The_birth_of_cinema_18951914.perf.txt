@@ -1,0 +1,26 @@
+@id: 060 · Room 47 · Level 5
+@section: Post-Impressionism
+@room: Room 47 · Cinema 1895–1914 · Level 5
+@type: R
+@title: The birth of cinema, 1895–1914
+@where: In room 47 on level 5, Cinéma 1895–1914, next to the Chat Noir room. Early films play on three screens, with sound that reaches you only when you stand in front of each one. Display cases may hold optical toys and early photographs; what is on show changes, so check on site.
+@what: A room on the birth of the cinematograph: about fifteen films or excerpts from 1895 to 1914 on three screens, shown with directional "sound showers", alongside the optical devices and photographs that came before film.
+@listen: Why a museum of the nineteenth century ends with moving pictures, and the toys that taught the eye to see motion.
+@brief: A friend in a darkened room, delighted by flickering images; light and curious, then reflective as the walk turns back.
+@pace: medium
+@energy: 3→4→3→2
+@sources: FACTS_R6 (e) (a room devoted to the birth of the cinematograph in 1895 since the museum opened in 1986; display cases with thaumatropes, phenakistiscopes, stereoscopes, a magic lantern and a projection lantern, a praxinoscope-théâtre, chronophotographs by Étienne-Jules Marey, Chat Noir zinc silhouettes, a "Lumière column" of autochromes; since 2019 about fifteen films or excerpts on three screens with "sound showers"; themes change to show the main stages of the invention, 1895–1914; optical toys and autochromes not confirmed on show in 2026): "Le cinéma dans le parcours permanent / Cinema in the Orsay collections", musee-orsay.fr node 413 (OFF) ; room 47 "Cinéma (1895–1914)": findings/M_planguide_ete_2026.md (OFF), location conflict resolved in favour of the plan-guide
+---
+[lightly] A museum of the nineteenth century, and it ends here, with moving pictures.
+
+Ever since this museum opened, it has kept a room for the birth of the cinematograph, in eighteen ninety-five. The shadow theatre next door was one step on the way. This room is where the road arrives.
+
+[curious] Look at the screens. There are three, and between them they show about fifteen films or excerpts, from those first years up to nineteen fourteen. Step in front of one and listen. The sound falls on you like a shower, meant for whoever stands there and hardly anyone else. The themes change from time to time, each one showing a stage in how the cinema was invented. So what you see today may not be what the next visitor sees.
+
+[pause] Before film, there were toys. This room has long kept the devices that came first, in its display cases. Thaumatropes and phenakistiscopes. Stereoscopes. A magic lantern and a projection lantern. A little praxinoscope-théâtre. If they are in the cases today, take a look. [amused] Their names are harder work than the toys.
+
+There may also be chronophotographs by Étienne-Jules Marey. And a column where you can look at autochromes, the colour photographs of the Lumières.
+
+[quietly] Think back to the zinc figures you just left. Light behind a screen, an audience in the dark, images that move. Here the same wish finally comes true.
+
+Now walk back the way you came, towards the second great clock. The Café Campana sits beside it, by rooms 38 and 39. Stop at the threshold and play its track there.

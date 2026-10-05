@@ -1,0 +1,24 @@
+@id: 043 · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: R
+@title: Van Gogh in France
+@where: At the entrance to room 36 on level 5, the Van Gogh room, at the end of the Impressionist gallery. You'll know it by the picture rails, painted blue.
+@what: The Van Gogh room, rehung in February 2024. Room 36, Vincent van Gogh in France, follows him from Paris to Arles, Saint-Rémy and Auvers-sur-Oise, and his bond with Dr Paul Gachet.
+@listen: How this room is laid out, the journey it follows, and the last two months that fill the final walls.
+@brief: Orienting a friend at the doorway before the most-loved rooms on the floor; clear and warm, a little hushed at the numbers from Auvers.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R4 Level-5 frame and 043 (rooms 36–37 since 6 Feb 2024, end of the Impressionist gallery; picture rails painted blue "echoing the colors used by the artist"; room 36 "Vincent van Gogh in France": Paris, Arles, Auvers and the bond with Dr Gachet; room 37 the Paul Gachet collection): https://www.musee-orsay.fr/en/articles/van-gogh-new-presentation-artists-works-musee-dorsay-277393 (OFF) ; FACTS_R4 043 (Auvers: arrived 21 May 1890, died 29 July 1890, about seventy paintings): https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755 (OFF) ; FACTS_R4 044 (self-portrait painted at Saint-Rémy, OFF), 048 (came to Gachet on Theo's advice after the hospital at Saint-Rémy, OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+---
+[warmly] This room announces whose it is before you've seen a single painting. The picture rails, the thin rails the paintings hang from, are painted blue. When the museum rehung its Van Gogh paintings in 2024, it chose that colour to echo the colours Van Gogh used on his canvases. It's a small touch, and a lovely one.
+
+Room 36 is called Vincent van Gogh in France, and it's laid out like a journey. It starts in Paris. Then it goes south, to Arles, and the sun. Then to the hospital at Saint-Rémy-de-Provence, where he still kept painting. And it ends in Auvers-sur-Oise, where he went on Theo's advice to be near a doctor named Paul Gachet.
+
+[pause] The doctor has his place here too. Several works on these walls come from the collection Gachet built, which his children later gave to the nation.
+
+[quietly] Keep one number in mind as you walk. Van Gogh arrived in Auvers on the twenty-first of May, 1890. He died there on the twenty-ninth of July. In those two months, he made about seventy paintings. Roughly one a day.
+
+So as you move along these walls, remember that the last stretch of the journey is the shortest in time, and one of the fullest in paint.
+
+Start in room 36, with a self-portrait. He wears a suit, the background swirls in pale green and turquoise, and his hair and beard are bright orange. Play its track in front of him.

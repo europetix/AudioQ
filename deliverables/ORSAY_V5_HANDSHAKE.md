@@ -32,29 +32,22 @@ Glance PDF (three levels). Not yet rendered with a real voice or tested on site.
 2. Fill held tracks when verifiable; fix rooms from the map or site visit; rebuild with build/build_all.sh.
 3. ES/FR/DE: same method as Pitti/Orangerie (translate for listening, independent review per language, assemble.py checks).
 
-## FROZEN STATE (5 Oct 2026, end of session, at the user's request)
-The delivered bundle deliverables/Orsay_V5_EN.zip is the last COMPLETE build (66 tracks, before the 2026-plan changes). The working
-tree has work IN PROGRESS on top of it. Do not ship the working tree until steps 1–4 below are done.
-- Official plan-guide summer 2026 received: source/Planguide_Orsay_ete_2026.pdf; read-out in findings/M_planguide_ete_2026.md (OFF).
-- Done: Bazille moved to level 0 room 18 as track 018 (old 018–026 → 019–027); level-2 files renamed for a first order.
-- IN PROGRESS when frozen (an editing pass applying the plan; it may have stopped part-way, see v5/notes/PLAN2026_LOG.md):
-  room numbers and closing cues for the new order. Requested level-2 order WEST → EAST (visitors arrive from the Café Campana at the
-  west end): 054 Moreau Orphée (room 59) · 055 Claudel (55) · 056 Jardins publics (72) · 057 Le Ballon (71) · 058 Les Muses (70) ·
-  059 Jane Avril (68) · 060 Cha-U-Kao/La Goulue (68) · 061 Balzac (Terrasse Rodin) · 062 Guimard/Majorelle (64) · 063 Gallé/Carabin
-  (63, 65) · 064 Pompon · 065 Maillol/Bourdelle · 066 close. Check the files' @id/@title against this list first.
-  Other plan fixes: Van Gogh = room 36 (Gachet 36); Pont-Aven 43; Tahiti 44; Talisman 45; Café Campana by rooms 38–39; clock salon 28;
-  L'Angélus in room 5 or the Chauchard gallery (Galerie Seine 1); Lautrec level 2 room 68 (settled).
-- APPROVED by the user, NOT yet started (research was launched and may not have finished; files would be research/FACTS_R6_*.md
-  and FACTS_R7_*.md): 9 new tracks → about 75 tracks, about 2 h 40:
-  level 0: Cézanne's beginnings (room 11), Degas (room 13), after the MNR room · level 5: Gauguin Le Cheval blanc and Oviri (room 44),
-  Redon (room 45), Rousseau's Snake Charmer (room to find), Chat Noir (46), Cinema (47), before the Café Campana · level 2: Salle
-  des fêtes (room 51) first on arrival. Search works again (budget reset).
-- ALSO REQUESTED by the user: redesign the Route at a Glance: more schematic and presentable for customers, impactful and useful
-  (draw the three levels as simplified floor plans with the real room numbers from the 2026 plan, the red route, track badges on
-  their rooms, START/FINISH, escalator/lift icons). Not started.
-
-## To resume (new session): steps
-1. Finish/verify the plan-2026 pass (all cues in order 001→066; validator; lengths).
-2. Research (R6/R7) → write the 9 tracks → verify → insert and renumber (make_bundle sections: rename the level-2 sections).
-3. Redesign build/route_sheet.py as above; rebuild with build/build_all.sh; stand-in TTS test; update this handshake.
-4. Refresh deliverables (zip, route PDF, scripts) and the snapshot; then ES/FR/DE if wanted.
+## STATE 2 (5 Oct 2026, end of session): COMPLETE, 75 tracks
+- 75 tracks, 20,312 words, about 2 h 42 of listening. Route level 0 → 5 → 2 → exit, rooms from the museum's summer 2026 plan-guide
+  (source/Planguide_Orsay_ete_2026.pdf; findings/M_planguide_ete_2026.md). Renumbering history: v5/notes/RENUMBER_75.md (v5/PLAN.md
+  keeps the earlier numbering; the tracks and the bundle's plan.json are authoritative).
+- Added (user-approved): Cézanne room 11 (020), Degas Bellelli room 13 (021, Tokyo fallback), Gauguin Le Cheval blanc (054, the
+  'too green' story as the museum's own account), Oviri (055), Rousseau La Charmeuse de serpents (056, back from loans July 2026,
+  hedged), Redon (058), Chat Noir room 46 (059), Cinema room 47 (060), Salle des fêtes room 51 (062, first stop on level 2).
+  Facts: research/FACTS_R6_additions.md, FACTS_R7_held_works.md.
+- Applied from the plan: Bazille to room 18 (018); Van Gogh room 36; Pont-Aven 43; Tahiti / Galerie Cachin 44; Redon and Nabis 45;
+  Café Campana by rooms 38–39; level 2 west → east (51, 59, 55, 72, 71, 70, 68, Terrasse Rodin, 64, 63/65, terraces, exit).
+- Final pass (v5/notes/FINAL_PASS_LOG.md): 17 fact fixes in the new tracks, 8 cue fixes, all closings checked in order, loan
+  fallbacks for 008, 021, 046, 053 work. Three quotes (Christopher Gray, "black Eve", Redon's "refined, savage") are reported speech
+  until checked against the live museum pages.
+- Route at a Glance redesigned: A3 schematic floor plans of levels 0/5/2 with the 2026 room numbers, track badges in their rooms,
+  route line, escalator moves, START/FINISH, track index (build/route_sheet.py, plan-driven).
+- Tested with a stand-in TTS only: full run 75 files in 11 section folders + route PDF. Real voice not heard; not tested on site.
+- Still held: Whistler's Mother (Amsterdam until 10 Jan 2027); Puvis, Monet's London Parliament, Roty (off display); photography.
+- Next: user renders samples (013 Olympia, 044 Van Gogh) then the full tour; on-site checklist; ES/FR/DE if wanted (same method as
+  the Orangerie).

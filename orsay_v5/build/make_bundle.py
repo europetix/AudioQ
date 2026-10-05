@@ -7,7 +7,7 @@ SECTIONS = [  # (@section value, display, folder)
  ("Opening", "Welcome", "00_Welcome"),
  ("Academic Art", "Level 0 · Academic art", "01_L0_Academic_Art"),
  ("Realism", "Level 0 · Realism", "02_L0_Realism"),
- ("Manet and Friends", "Level 0 · Manet and friends", "03_L0_Manet_and_Friends"),
+ ("Manet and Friends", "Level 0 · Manet, Degas and the 1860s", "03_L0_Manet_Degas_1860s"),
  ("Nave End", "Level 0 · End of the nave", "04_L0_End_of_the_Nave"),
  ("Impressionism", "Level 5 · Impressionism", "05_L5_Impressionism"),
  ("Van Gogh", "Level 5 · Van Gogh", "06_L5_Van_Gogh"),

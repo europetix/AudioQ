@@ -12,9 +12,9 @@
  "wpm": 125,
  "silent_tail_seconds": 2.0,
  "mastering": "-16 LUFS / -1.5 dBTP, 64 kbps mono",
- "total_tracks": 66,
- "total_words": 17802,
- "total_min": 142,
+ "total_tracks": 75,
+ "total_words": 20312,
+ "total_min": 162,
  "sections": [
   {
    "section": "Welcome",
@@ -32,14 +32,14 @@
    "tracks": 6
   },
   {
-   "section": "Level 0 · Manet and friends",
-   "folder": "03_L0_Manet_and_Friends",
-   "tracks": 6
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
+   "tracks": 9
   },
   {
    "section": "Level 0 · End of the nave",
    "folder": "04_L0_End_of_the_Nave",
-   "tracks": 6
+   "tracks": 5
   },
   {
    "section": "Level 5 · Impressionism",
@@ -54,12 +54,12 @@
   {
    "section": "Level 5 · Post-Impressionism",
    "folder": "07_L5_Post_Impressionism",
-   "tracks": 7
+   "tracks": 13
   },
   {
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
-   "tracks": 7
+   "tracks": 8
   },
   {
    "section": "Level 2 · Art Nouveau and sculpture",
@@ -267,8 +267,8 @@
   },
   {
    "seq": "013",
-   "section": "Level 0 · Manet and friends",
-   "folder": "03_L0_Manet_and_Friends",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
    "room": "Room 14 · Level 0 · Seine side",
    "title": "Manet — Olympia",
    "register": "W",
@@ -277,14 +277,14 @@
    "what": "Édouard Manet, Olympia, 1863, oil on canvas, 130.5 × 191 cm. Shown at the Salon of 1865; given to the State in 1890 by nearly a hundred subscribers led by Claude Monet.",
    "listen": "How a Salon scandal became a gift to the nation, who the two women really are, and the most famous cat in painting.",
    "pace": "medium",
-   "script": "scripts/03_L0_Manet_and_Friends/013_Room-14-Level-0-Seine-si_Manet_Olympia.txt",
-   "perf": "perf/03_L0_Manet_and_Friends/013_Room-14-Level-0-Seine-si_Manet_Olympia.perf.txt",
-   "mp3": "03_L0_Manet_and_Friends/013_Room-14-Level-0-Seine-si_Manet_Olympia.mp3"
+   "script": "scripts/03_L0_Manet_Degas_1860s/013_Room-14-Level-0-Seine-si_Manet_Olympia.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/013_Room-14-Level-0-Seine-si_Manet_Olympia.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/013_Room-14-Level-0-Seine-si_Manet_Olympia.mp3"
   },
   {
    "seq": "014",
-   "section": "Level 0 · Manet and friends",
-   "folder": "03_L0_Manet_and_Friends",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
    "room": "Room 14 · Level 0 · Seine side",
    "title": "Manet — Le Fifre and Émile Zola",
    "register": "R",
@@ -293,14 +293,14 @@
    "what": "Édouard Manet, Le Fifre, The Fifer, 1866, oil on canvas, 160.5 × 97 cm, Camondo bequest 1911; and Émile Zola, 1868, oil on canvas, 146 × 114 cm, given by Madame Zola in 1918.",
    "listen": "A painting the Salon turned down, and the portrait Manet painted to thank the writer who defended him.",
    "pace": "medium",
-   "script": "scripts/03_L0_Manet_and_Friends/014_Room-14-Level-0-Seine-si_Manet_Le_Fifre_and_Emile_Zola.txt",
-   "perf": "perf/03_L0_Manet_and_Friends/014_Room-14-Level-0-Seine-si_Manet_Le_Fifre_and_Emile_Zola.perf.txt",
-   "mp3": "03_L0_Manet_and_Friends/014_Room-14-Level-0-Seine-si_Manet_Le_Fifre_and_Emile_Zola.mp3"
+   "script": "scripts/03_L0_Manet_Degas_1860s/014_Room-14-Level-0-Seine-si_Manet_Le_Fifre_and_Emile_Zola.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/014_Room-14-Level-0-Seine-si_Manet_Le_Fifre_and_Emile_Zola.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/014_Room-14-Level-0-Seine-si_Manet_Le_Fifre_and_Emile_Zola.mp3"
   },
   {
    "seq": "015",
-   "section": "Level 0 · Manet and friends",
-   "folder": "03_L0_Manet_and_Friends",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
    "room": "Galerie Seine 2 · Level 0",
    "title": "Fantin-Latour — Un atelier aux Batignolles",
    "register": "R",
@@ -309,14 +309,14 @@
    "what": "Henri Fantin-Latour, Un atelier aux Batignolles, A Studio at Les Batignolles, 1870, oil on canvas, 204 × 273.5 cm. Shown at the Salon of 1870; bought in 1892.",
    "listen": "Who the eight men are, why they gather around Manet, and the least famous of them.",
    "pace": "medium",
-   "script": "scripts/03_L0_Manet_and_Friends/015_Galerie-Seine-2-Level-0_Fantin_Latour_Un_atelier_aux_Batignolles.txt",
-   "perf": "perf/03_L0_Manet_and_Friends/015_Galerie-Seine-2-Level-0_Fantin_Latour_Un_atelier_aux_Batignolles.perf.txt",
-   "mp3": "03_L0_Manet_and_Friends/015_Galerie-Seine-2-Level-0_Fantin_Latour_Un_atelier_aux_Batignolles.mp3"
+   "script": "scripts/03_L0_Manet_Degas_1860s/015_Galerie-Seine-2-Level-0_Fantin_Latour_Un_atelier_aux_Batignolles.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/015_Galerie-Seine-2-Level-0_Fantin_Latour_Un_atelier_aux_Batignolles.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/015_Galerie-Seine-2-Level-0_Fantin_Latour_Un_atelier_aux_Batignolles.mp3"
   },
   {
    "seq": "016",
-   "section": "Level 0 · Manet and friends",
-   "folder": "03_L0_Manet_and_Friends",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
    "room": "Room 18 · Level 0",
    "title": "Manet — Le Déjeuner sur l'herbe",
    "register": "W",
@@ -325,14 +325,14 @@
    "what": "Édouard Manet, Le Déjeuner sur l'herbe, Luncheon on the Grass, 1863, oil on canvas, 207 × 265 cm. Given to the national museums by Étienne Moreau-Nélaton in 1906.",
    "listen": "The Emperor's show for rejected paintings, the old masters hidden in this modern picnic, and the painter it provoked.",
    "pace": "medium",
-   "script": "scripts/03_L0_Manet_and_Friends/016_Room-18-Level-0_Manet_Le_Dejeuner_sur_lherbe.txt",
-   "perf": "perf/03_L0_Manet_and_Friends/016_Room-18-Level-0_Manet_Le_Dejeuner_sur_lherbe.perf.txt",
-   "mp3": "03_L0_Manet_and_Friends/016_Room-18-Level-0_Manet_Le_Dejeuner_sur_lherbe.mp3"
+   "script": "scripts/03_L0_Manet_Degas_1860s/016_Room-18-Level-0_Manet_Le_Dejeuner_sur_lherbe.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/016_Room-18-Level-0_Manet_Le_Dejeuner_sur_lherbe.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/016_Room-18-Level-0_Manet_Le_Dejeuner_sur_lherbe.mp3"
   },
   {
    "seq": "017",
-   "section": "Level 0 · Manet and friends",
-   "folder": "03_L0_Manet_and_Friends",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
    "room": "Room 18 · Level 0",
    "title": "Monet — Femmes au jardin",
    "register": "R",
@@ -341,14 +341,14 @@
    "what": "Claude Monet, Femmes au jardin, Women in the Garden, around 1866, oil on canvas, 255 × 205 cm. Bought from Monet by the State in 1921.",
    "listen": "The trench and pulley Monet needed to paint it, the one model behind three women, and the whites a recent cleaning brought back.",
    "pace": "medium",
-   "script": "scripts/03_L0_Manet_and_Friends/017_Room-18-Level-0_Monet_Femmes_au_jardin.txt",
-   "perf": "perf/03_L0_Manet_and_Friends/017_Room-18-Level-0_Monet_Femmes_au_jardin.perf.txt",
-   "mp3": "03_L0_Manet_and_Friends/017_Room-18-Level-0_Monet_Femmes_au_jardin.mp3"
+   "script": "scripts/03_L0_Manet_Degas_1860s/017_Room-18-Level-0_Monet_Femmes_au_jardin.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/017_Room-18-Level-0_Monet_Femmes_au_jardin.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/017_Room-18-Level-0_Monet_Femmes_au_jardin.mp3"
   },
   {
    "seq": "018",
-   "section": "Level 0 · Manet and friends",
-   "folder": "03_L0_Manet_and_Friends",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
    "room": "Room 18 · Level 0",
    "title": "Bazille — L'Atelier de Bazille",
    "register": "R",
@@ -357,28 +357,60 @@
    "what": "Frédéric Bazille, L'Atelier de Bazille, Bazille's Studio, 1870, oil on canvas, 98 × 128 cm. Bequeathed by the artist's brother, Marc Bazille, in 1924.",
    "listen": "The studio Bazille shared with Renoir, and the friend who painted Bazille into his own picture.",
    "pace": "medium",
-   "script": "scripts/03_L0_Manet_and_Friends/018_Room-18-Level-0_Bazille_LAtelier_de_Bazille.txt",
-   "perf": "perf/03_L0_Manet_and_Friends/018_Room-18-Level-0_Bazille_LAtelier_de_Bazille.perf.txt",
-   "mp3": "03_L0_Manet_and_Friends/018_Room-18-Level-0_Bazille_LAtelier_de_Bazille.mp3"
+   "script": "scripts/03_L0_Manet_Degas_1860s/018_Room-18-Level-0_Bazille_LAtelier_de_Bazille.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/018_Room-18-Level-0_Bazille_LAtelier_de_Bazille.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/018_Room-18-Level-0_Bazille_LAtelier_de_Bazille.mp3"
   },
   {
    "seq": "019",
-   "section": "Level 0 · End of the nave",
-   "folder": "04_L0_End_of_the_Nave",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
    "room": "Room 10b · Level 0",
    "title": "Who do these works belong to? The MNR room",
    "register": "R",
-   "words": 270,
+   "words": 267,
    "where": "Room 10b, on the Lille side of level 0 at the far end of the nave, under the title « À qui appartiennent ces œuvres ? ». The selection of about thirteen works changes over time, and some paintings are hung so that you can see their backs.",
    "what": "A room opened in May 2026 for works in the MNR category, recovered after the Second World War and held by the national museums until their owners can be identified.",
    "listen": "What MNR means, why so few works have gone home, and what the backs of these paintings can tell.",
    "pace": "medium-slow",
-   "script": "scripts/04_L0_End_of_the_Nave/019_Room-10b-Level-0_Who_do_these_works_belong_to_The_MNR_room.txt",
-   "perf": "perf/04_L0_End_of_the_Nave/019_Room-10b-Level-0_Who_do_these_works_belong_to_The_MNR_room.perf.txt",
-   "mp3": "04_L0_End_of_the_Nave/019_Room-10b-Level-0_Who_do_these_works_belong_to_The_MNR_room.mp3"
+   "script": "scripts/03_L0_Manet_Degas_1860s/019_Room-10b-Level-0_Who_do_these_works_belong_to_The_MNR_room.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/019_Room-10b-Level-0_Who_do_these_works_belong_to_The_MNR_room.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/019_Room-10b-Level-0_Who_do_these_works_belong_to_The_MNR_room.mp3"
   },
   {
    "seq": "020",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
+   "room": "Room 11 · Cézanne's beginnings · Level 0",
+   "title": "Cézanne — Le Christ aux limbes and Une moderne Olympia",
+   "register": "R",
+   "words": 277,
+   "where": "In room 11 on level 0, the room of Cézanne's beginnings. Le Christ aux limbes is the tall painting, about 1.7 metres high, of Christ going down among waiting figures. Une moderne Olympia is the small, bright canvas of a naked woman, a servant and a watching man in black.",
+   "what": "Paul Cézanne, Le Christ aux limbes, Christ in Limbo, about 1869, oil on plaster transferred to canvas, 168.5 × 100.5 cm. Une moderne Olympia, A Modern Olympia, 1873–1874, oil on canvas, 46.2 × 55.5 cm, gift of Paul Gachet, 1951.",
+   "listen": "A mural cut off a family wall and refused by the State, and Cézanne's cheeky reply to Manet's Olympia.",
+   "pace": "medium",
+   "script": "scripts/03_L0_Manet_Degas_1860s/020_Room-11-Cezannes-beginni_Cezanne_Le_Christ_aux_limbes_and_Une_moderne_Oly.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/020_Room-11-Cezannes-beginni_Cezanne_Le_Christ_aux_limbes_and_Une_moderne_Oly.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/020_Room-11-Cezannes-beginni_Cezanne_Le_Christ_aux_limbes_and_Une_moderne_Oly.mp3"
+  },
+  {
+   "seq": "021",
+   "section": "Level 0 · Manet, Degas and the 1860s",
+   "folder": "03_L0_Manet_Degas_1860s",
+   "room": "Room 13 · Degas · Level 0",
+   "title": "Degas — La Famille Bellelli (The Bellelli Family)",
+   "register": "W",
+   "words": 351,
+   "where": "In room 13 on level 0, the Degas room, in front of the very large family portrait, about two by two and a half metres: a mother in mourning with two girls, the father turned away. Its room is not confirmed and from 14 November 2026 to 28 March 2027 it may be on loan to Tokyo: if you can't find it, listen in front of Sémiramis construisant Babylone, the wide canvas of a queen on a riverbank watching a city rise, in this room.",
+   "what": "Edgar Degas, Portrait de famille, also called La Famille Bellelli, The Bellelli Family, 1858–1869, oil on canvas, 201 × 249.5 cm, RF 2210. Bought at the first Degas studio sale in 1918. Stand-in: Sémiramis construisant Babylone, begun about 1860, oil on canvas, 151.5 × 258 cm.",
+   "listen": "A grandfather watching from the wall, a family split down the middle, and a young Degas who wanted to paint history.",
+   "pace": "medium-slow",
+   "script": "scripts/03_L0_Manet_Degas_1860s/021_Room-13-Degas-Level-0_Degas_La_Famille_Bellelli_The_Bellelli_Family.txt",
+   "perf": "perf/03_L0_Manet_Degas_1860s/021_Room-13-Degas-Level-0_Degas_La_Famille_Bellelli_The_Bellelli_Family.perf.txt",
+   "mp3": "03_L0_Manet_Degas_1860s/021_Room-13-Degas-Level-0_Degas_La_Famille_Bellelli_The_Bellelli_Family.mp3"
+  },
+  {
+   "seq": "022",
    "section": "Level 0 · End of the nave",
    "folder": "04_L0_End_of_the_Nave",
    "room": "Central sculpture aisle · Level 0",
@@ -389,12 +421,12 @@
    "what": "Jean-Baptiste Carpeaux, La Danse, The Dance, 1869, Échaillon stone, 420 × 298 × 145 cm, about 18 tonnes. The original group from the façade of the Paris Opéra.",
    "listen": "An ink attack, a sculpture saved by a war, and why the group on the Opéra today is a copy.",
    "pace": "medium",
-   "script": "scripts/04_L0_End_of_the_Nave/020_Central-sculpture-aisle_Carpeaux_La_Danse.txt",
-   "perf": "perf/04_L0_End_of_the_Nave/020_Central-sculpture-aisle_Carpeaux_La_Danse.perf.txt",
-   "mp3": "04_L0_End_of_the_Nave/020_Central-sculpture-aisle_Carpeaux_La_Danse.mp3"
+   "script": "scripts/04_L0_End_of_the_Nave/022_Central-sculpture-aisle_Carpeaux_La_Danse.txt",
+   "perf": "perf/04_L0_End_of_the_Nave/022_Central-sculpture-aisle_Carpeaux_La_Danse.perf.txt",
+   "mp3": "04_L0_End_of_the_Nave/022_Central-sculpture-aisle_Carpeaux_La_Danse.mp3"
   },
   {
-   "seq": "021",
+   "seq": "023",
    "section": "Level 0 · End of the nave",
    "folder": "04_L0_End_of_the_Nave",
    "room": "End of the nave · Opéra space · Level 0",
@@ -405,12 +437,12 @@
    "what": "Rémi Munier, with Eric de Leusse, Jean-Luc Bethmont and Borani Hoy, Maquette du quartier de l'Opéra, arrêtée en l'état en 1914, model of the Opéra quarter as it stood in 1914, 1984–86, resin under plexiglass, 650 × 650 cm.",
    "listen": "A whole quarter of Paris stopped in one year, and why the museum built it.",
    "pace": "medium-slow",
-   "script": "scripts/04_L0_End_of_the_Nave/021_End-of-the-nave-Opera-sp_The_Opera_quarter_in_1914.txt",
-   "perf": "perf/04_L0_End_of_the_Nave/021_End-of-the-nave-Opera-sp_The_Opera_quarter_in_1914.perf.txt",
-   "mp3": "04_L0_End_of_the_Nave/021_End-of-the-nave-Opera-sp_The_Opera_quarter_in_1914.mp3"
+   "script": "scripts/04_L0_End_of_the_Nave/023_End-of-the-nave-Opera-sp_The_Opera_quarter_in_1914.txt",
+   "perf": "perf/04_L0_End_of_the_Nave/023_End-of-the-nave-Opera-sp_The_Opera_quarter_in_1914.perf.txt",
+   "mp3": "04_L0_End_of_the_Nave/023_End-of-the-nave-Opera-sp_The_Opera_quarter_in_1914.mp3"
   },
   {
-   "seq": "022",
+   "seq": "024",
    "section": "Level 0 · End of the nave",
    "folder": "04_L0_End_of_the_Nave",
    "room": "End of the nave · Opéra space · Level 0",
@@ -421,12 +453,12 @@
    "what": "Opéra de Paris, maquette de la coupe longitudinale, longitudinal-section model of the Paris Opéra, made in 1985 in Rome by the Gianese workshop under Richard Peduzzi's artistic direction, after Garnier's own drawing, at 1/25 scale, 240 × 578 × 110 cm.",
    "listen": "How to read an opera house from the façade to the back of the stage, and why the model was made.",
    "pace": "medium",
-   "script": "scripts/04_L0_End_of_the_Nave/022_End-of-the-nave-Opera-sp_Garniers_Opera_cut_open.txt",
-   "perf": "perf/04_L0_End_of_the_Nave/022_End-of-the-nave-Opera-sp_Garniers_Opera_cut_open.perf.txt",
-   "mp3": "04_L0_End_of_the_Nave/022_End-of-the-nave-Opera-sp_Garniers_Opera_cut_open.mp3"
+   "script": "scripts/04_L0_End_of_the_Nave/024_End-of-the-nave-Opera-sp_Garniers_Opera_cut_open.txt",
+   "perf": "perf/04_L0_End_of_the_Nave/024_End-of-the-nave-Opera-sp_Garniers_Opera_cut_open.perf.txt",
+   "mp3": "04_L0_End_of_the_Nave/024_End-of-the-nave-Opera-sp_Garniers_Opera_cut_open.mp3"
   },
   {
-   "seq": "023",
+   "seq": "025",
    "section": "Level 0 · End of the nave",
    "folder": "04_L0_End_of_the_Nave",
    "room": "Paris rooms · far end of the nave · Level 0",
@@ -437,28 +469,28 @@
    "what": "Rooms opened in May 2022 on the transformation of Paris under the Second Empire, centred on Victor Navlet's Vue générale de Paris, prise de l'Observatoire en ballon, General View of Paris from the Observatory in a Balloon, 1855, and on Garnier's Opéra.",
    "listen": "What these rooms set out to show, and a bird's-eye view of Paris from a balloon.",
    "pace": "medium-slow",
-   "script": "scripts/04_L0_End_of_the_Nave/023_Paris-rooms-far-end-of-t_Paris_capital_of_a_modern_nation.txt",
-   "perf": "perf/04_L0_End_of_the_Nave/023_Paris-rooms-far-end-of-t_Paris_capital_of_a_modern_nation.perf.txt",
-   "mp3": "04_L0_End_of_the_Nave/023_Paris-rooms-far-end-of-t_Paris_capital_of_a_modern_nation.mp3"
+   "script": "scripts/04_L0_End_of_the_Nave/025_Paris-rooms-far-end-of-t_Paris_capital_of_a_modern_nation.txt",
+   "perf": "perf/04_L0_End_of_the_Nave/025_Paris-rooms-far-end-of-t_Paris_capital_of_a_modern_nation.perf.txt",
+   "mp3": "04_L0_End_of_the_Nave/025_Paris-rooms-far-end-of-t_Paris_capital_of_a_modern_nation.mp3"
   },
   {
-   "seq": "024",
+   "seq": "026",
    "section": "Level 0 · End of the nave",
    "folder": "04_L0_End_of_the_Nave",
    "room": "End of the nave · between the towers · Level 0",
    "title": "Rodin — The Gates of Hell",
    "register": "W",
-   "words": 275,
+   "words": 277,
    "where": "At the far end of the nave, between the two towers, on the axis of the central aisle: Rodin's great plaster doorway, more than six metres high. Afterwards, go back to the escalators by the Paris rooms and ride up to level 5, to the clock salon.",
    "what": "Auguste Rodin, La Porte de l'Enfer, The Gates of Hell, the original plaster, 6.35 m high, worked on from 1880 to 1917.",
    "listen": "A door made for a museum that was never built, the decades Rodin spent on it, and why it was standing in front of you from the moment you came in.",
    "pace": "medium-slow",
-   "script": "scripts/04_L0_End_of_the_Nave/024_End-of-the-nave-between_Rodin_The_Gates_of_Hell.txt",
-   "perf": "perf/04_L0_End_of_the_Nave/024_End-of-the-nave-between_Rodin_The_Gates_of_Hell.perf.txt",
-   "mp3": "04_L0_End_of_the_Nave/024_End-of-the-nave-between_Rodin_The_Gates_of_Hell.mp3"
+   "script": "scripts/04_L0_End_of_the_Nave/026_End-of-the-nave-between_Rodin_The_Gates_of_Hell.txt",
+   "perf": "perf/04_L0_End_of_the_Nave/026_End-of-the-nave-between_Rodin_The_Gates_of_Hell.perf.txt",
+   "mp3": "04_L0_End_of_the_Nave/026_End-of-the-nave-between_Rodin_The_Gates_of_Hell.mp3"
   },
   {
-   "seq": "025",
+   "seq": "027",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 28 · Salon de l'horloge · Level 5",
@@ -469,12 +501,12 @@
    "what": "One of the great illuminated clocks of the former Gare d'Orsay, the station built for the 1900 Exposition universelle, kept on purpose when the station became a museum.",
    "listen": "Why a museum kept its station clocks, and what it means to stand behind one.",
    "pace": "medium-slow",
-   "script": "scripts/05_L5_Impressionism/025_Room-28-Salon-de-lhorlog_The_clock_over_Paris.txt",
-   "perf": "perf/05_L5_Impressionism/025_Room-28-Salon-de-lhorlog_The_clock_over_Paris.perf.txt",
-   "mp3": "05_L5_Impressionism/025_Room-28-Salon-de-lhorlog_The_clock_over_Paris.mp3"
+   "script": "scripts/05_L5_Impressionism/027_Room-28-Salon-de-lhorlog_The_clock_over_Paris.txt",
+   "perf": "perf/05_L5_Impressionism/027_Room-28-Salon-de-lhorlog_The_clock_over_Paris.perf.txt",
+   "mp3": "05_L5_Impressionism/027_Room-28-Salon-de-lhorlog_The_clock_over_Paris.mp3"
   },
   {
-   "seq": "026",
+   "seq": "028",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 29 · Level 5",
@@ -485,12 +517,12 @@
    "what": "Claude Monet, Le Déjeuner sur l'herbe, Luncheon on the Grass, begun 1865, oil on canvas: two surviving fragments, the central one 248.7 × 218 cm.",
    "listen": "How the biggest canvas of Monet's youth ended up as rent security, then mouldy, then in pieces.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/026_Room-29-Level-5_Monet_the_Dejeuner_sur_lherbe_fragments.txt",
-   "perf": "perf/05_L5_Impressionism/026_Room-29-Level-5_Monet_the_Dejeuner_sur_lherbe_fragments.perf.txt",
-   "mp3": "05_L5_Impressionism/026_Room-29-Level-5_Monet_the_Dejeuner_sur_lherbe_fragments.mp3"
+   "script": "scripts/05_L5_Impressionism/028_Room-29-Level-5_Monet_the_Dejeuner_sur_lherbe_fragments.txt",
+   "perf": "perf/05_L5_Impressionism/028_Room-29-Level-5_Monet_the_Dejeuner_sur_lherbe_fragments.perf.txt",
+   "mp3": "05_L5_Impressionism/028_Room-29-Level-5_Monet_the_Dejeuner_sur_lherbe_fragments.mp3"
   },
   {
-   "seq": "027",
+   "seq": "029",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 29 · Level 5",
@@ -501,12 +533,12 @@
    "what": "Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.",
    "listen": "The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/027_Room-29-Level-5_Monet_Coquelicots.txt",
-   "perf": "perf/05_L5_Impressionism/027_Room-29-Level-5_Monet_Coquelicots.perf.txt",
-   "mp3": "05_L5_Impressionism/027_Room-29-Level-5_Monet_Coquelicots.mp3"
+   "script": "scripts/05_L5_Impressionism/029_Room-29-Level-5_Monet_Coquelicots.txt",
+   "perf": "perf/05_L5_Impressionism/029_Room-29-Level-5_Monet_Coquelicots.perf.txt",
+   "mp3": "05_L5_Impressionism/029_Room-29-Level-5_Monet_Coquelicots.mp3"
   },
   {
-   "seq": "028",
+   "seq": "030",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Impressionist rooms · Level 5",
@@ -517,12 +549,12 @@
    "what": "Camille Pissarro, Gelée blanche, Hoarfrost, 1873, oil on canvas, 65.5 × 93.2 cm, painted at Pontoise. Shown at the first Impressionist exhibition in 1874.",
    "listen": "What a famous critic said about this frost, word for word, and why it says more about him than about the painting.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/028_Impressionist-rooms-Leve_Pissarro_Gelee_blanche.txt",
-   "perf": "perf/05_L5_Impressionism/028_Impressionist-rooms-Leve_Pissarro_Gelee_blanche.perf.txt",
-   "mp3": "05_L5_Impressionism/028_Impressionist-rooms-Leve_Pissarro_Gelee_blanche.mp3"
+   "script": "scripts/05_L5_Impressionism/030_Impressionist-rooms-Leve_Pissarro_Gelee_blanche.txt",
+   "perf": "perf/05_L5_Impressionism/030_Impressionist-rooms-Leve_Pissarro_Gelee_blanche.perf.txt",
+   "mp3": "05_L5_Impressionism/030_Impressionist-rooms-Leve_Pissarro_Gelee_blanche.mp3"
   },
   {
-   "seq": "029",
+   "seq": "031",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 31 · Level 5",
@@ -533,12 +565,12 @@
    "what": "Claude Monet, La Gare Saint-Lazare, The Saint-Lazare Station, 1877, oil on canvas, 75 × 105 cm. Caillebotte bequest, accepted by the State in 1896.",
    "listen": "How Monet found a subject on the edge of his new neighbourhood, and how a painter friend paid 685 francs for it and ended up giving it to France.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/029_Room-31-Level-5_Monet_La_Gare_Saint_Lazare.txt",
-   "perf": "perf/05_L5_Impressionism/029_Room-31-Level-5_Monet_La_Gare_Saint_Lazare.perf.txt",
-   "mp3": "05_L5_Impressionism/029_Room-31-Level-5_Monet_La_Gare_Saint_Lazare.mp3"
+   "script": "scripts/05_L5_Impressionism/031_Room-31-Level-5_Monet_La_Gare_Saint_Lazare.txt",
+   "perf": "perf/05_L5_Impressionism/031_Room-31-Level-5_Monet_La_Gare_Saint_Lazare.perf.txt",
+   "mp3": "05_L5_Impressionism/031_Room-31-Level-5_Monet_La_Gare_Saint_Lazare.mp3"
   },
   {
-   "seq": "030",
+   "seq": "032",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 31 · Level 5",
@@ -549,12 +581,12 @@
    "what": "Gustave Caillebotte, Raboteurs de parquet, The Floor Scrapers, 1875, oil on canvas, 102 × 147 cm. Given by the Caillebotte heirs through Auguste Renoir, 1894.",
    "listen": "Why the Salon jury rejected a painting of men at work, and how it reached the nation by a side door.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/030_Room-31-Level-5_Caillebotte_Raboteurs_de_parquet.txt",
-   "perf": "perf/05_L5_Impressionism/030_Room-31-Level-5_Caillebotte_Raboteurs_de_parquet.perf.txt",
-   "mp3": "05_L5_Impressionism/030_Room-31-Level-5_Caillebotte_Raboteurs_de_parquet.mp3"
+   "script": "scripts/05_L5_Impressionism/032_Room-31-Level-5_Caillebotte_Raboteurs_de_parquet.txt",
+   "perf": "perf/05_L5_Impressionism/032_Room-31-Level-5_Caillebotte_Raboteurs_de_parquet.perf.txt",
+   "mp3": "05_L5_Impressionism/032_Room-31-Level-5_Caillebotte_Raboteurs_de_parquet.mp3"
   },
   {
-   "seq": "031",
+   "seq": "033",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 31 · Level 5",
@@ -565,12 +597,12 @@
    "what": "Edgar Degas, La Classe de danse, The Dance Class, 1873–1876, oil on canvas, 85.5 × 75 cm. Bequest of Count Isaac de Camondo, 1911.",
    "listen": "A real ballet master in a class that never happened, in an opera house that had already burned down.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/031_Room-31-Level-5_Degas_La_Classe_de_danse.txt",
-   "perf": "perf/05_L5_Impressionism/031_Room-31-Level-5_Degas_La_Classe_de_danse.perf.txt",
-   "mp3": "05_L5_Impressionism/031_Room-31-Level-5_Degas_La_Classe_de_danse.mp3"
+   "script": "scripts/05_L5_Impressionism/033_Room-31-Level-5_Degas_La_Classe_de_danse.txt",
+   "perf": "perf/05_L5_Impressionism/033_Room-31-Level-5_Degas_La_Classe_de_danse.perf.txt",
+   "mp3": "05_L5_Impressionism/033_Room-31-Level-5_Degas_La_Classe_de_danse.mp3"
   },
   {
-   "seq": "032",
+   "seq": "034",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 32 · Level 5",
@@ -581,12 +613,12 @@
    "what": "Edgar Degas, Petite danseuse de quatorze ans, Little Dancer Aged Fourteen: a posthumous bronze, cast by the lost-wax method by the founder Adrien-Aurélien Hébrard between 1921 and 1931, after Degas's wax model of 1878–1881. Patinated bronze, tulle, satin, wood. Height 98 cm. Acquired in 1931.",
    "listen": "Who the girl was, what Paris saw in 1881, and why the figure in front of you is a faithful copy made after Degas died.",
    "pace": "medium-slow",
-   "script": "scripts/05_L5_Impressionism/032_Room-32-Level-5_Degas_Petite_danseuse_de_quatorze_ans.txt",
-   "perf": "perf/05_L5_Impressionism/032_Room-32-Level-5_Degas_Petite_danseuse_de_quatorze_ans.perf.txt",
-   "mp3": "05_L5_Impressionism/032_Room-32-Level-5_Degas_Petite_danseuse_de_quatorze_ans.mp3"
+   "script": "scripts/05_L5_Impressionism/034_Room-32-Level-5_Degas_Petite_danseuse_de_quatorze_ans.txt",
+   "perf": "perf/05_L5_Impressionism/034_Room-32-Level-5_Degas_Petite_danseuse_de_quatorze_ans.perf.txt",
+   "mp3": "05_L5_Impressionism/034_Room-32-Level-5_Degas_Petite_danseuse_de_quatorze_ans.mp3"
   },
   {
-   "seq": "033",
+   "seq": "035",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 32 · Level 5",
@@ -597,12 +629,12 @@
    "what": "Berthe Morisot, Le Berceau, The Cradle, 1872, oil on canvas, 56 × 46.5 cm. Bought by the Louvre in 1930.",
    "listen": "The first woman to show with the Impressionists, her sister and niece, and the baby who grew up and sold this picture to the nation.",
    "pace": "medium-slow",
-   "script": "scripts/05_L5_Impressionism/033_Room-32-Level-5_Morisot_Le_Berceau.txt",
-   "perf": "perf/05_L5_Impressionism/033_Room-32-Level-5_Morisot_Le_Berceau.perf.txt",
-   "mp3": "05_L5_Impressionism/033_Room-32-Level-5_Morisot_Le_Berceau.mp3"
+   "script": "scripts/05_L5_Impressionism/035_Room-32-Level-5_Morisot_Le_Berceau.txt",
+   "perf": "perf/05_L5_Impressionism/035_Room-32-Level-5_Morisot_Le_Berceau.perf.txt",
+   "mp3": "05_L5_Impressionism/035_Room-32-Level-5_Morisot_Le_Berceau.mp3"
   },
   {
-   "seq": "034",
+   "seq": "036",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Impressionist rooms · Level 5",
@@ -613,12 +645,12 @@
    "what": "Edgar Degas, Dans un café, In a Café, also called L'Absinthe, 1875–1876, oil on canvas, 92 × 68.5 cm. Bequest of Count Isaac de Camondo, 1911.",
    "listen": "Two friends cast as strangers, a real Paris café, and the odd framing that makes the whole picture feel unsteady.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/034_Impressionist-rooms-Leve_Degas_LAbsinthe.txt",
-   "perf": "perf/05_L5_Impressionism/034_Impressionist-rooms-Leve_Degas_LAbsinthe.perf.txt",
-   "mp3": "05_L5_Impressionism/034_Impressionist-rooms-Leve_Degas_LAbsinthe.mp3"
+   "script": "scripts/05_L5_Impressionism/036_Impressionist-rooms-Leve_Degas_LAbsinthe.txt",
+   "perf": "perf/05_L5_Impressionism/036_Impressionist-rooms-Leve_Degas_LAbsinthe.perf.txt",
+   "mp3": "05_L5_Impressionism/036_Impressionist-rooms-Leve_Degas_LAbsinthe.mp3"
   },
   {
-   "seq": "035",
+   "seq": "037",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Impressionist rooms · Level 5",
@@ -629,12 +661,12 @@
    "what": "Pierre-Auguste Renoir, Bal du moulin de la Galette, Dance at the Moulin de la Galette, 1876, oil on canvas, about 131 × 175 cm. Caillebotte bequest, accepted 1896.",
    "listen": "Who the dancers really were, the young model called Margot, and the painter-collector who left it to the nation.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/035_Impressionist-rooms-Leve_Renoir_Bal_du_moulin_de_la_Galette.txt",
-   "perf": "perf/05_L5_Impressionism/035_Impressionist-rooms-Leve_Renoir_Bal_du_moulin_de_la_Galette.perf.txt",
-   "mp3": "05_L5_Impressionism/035_Impressionist-rooms-Leve_Renoir_Bal_du_moulin_de_la_Galette.mp3"
+   "script": "scripts/05_L5_Impressionism/037_Impressionist-rooms-Leve_Renoir_Bal_du_moulin_de_la_Galette.txt",
+   "perf": "perf/05_L5_Impressionism/037_Impressionist-rooms-Leve_Renoir_Bal_du_moulin_de_la_Galette.perf.txt",
+   "mp3": "05_L5_Impressionism/037_Impressionist-rooms-Leve_Renoir_Bal_du_moulin_de_la_Galette.mp3"
   },
   {
-   "seq": "036",
+   "seq": "038",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Impressionist rooms · Level 5",
@@ -645,12 +677,12 @@
    "what": "Alfred Sisley, La Barque pendant l'inondation, Port-Marly, The Boat in the Flood, 1876, oil on canvas, 50.4 × 61 cm. Bequest of comte Isaac de Camondo, 1911.",
    "listen": "The first owner whose household later joined Monet's, the spring the Seine came into town, and the six pictures Sisley made of it.",
    "pace": "medium-slow",
-   "script": "scripts/05_L5_Impressionism/036_Impressionist-rooms-Leve_Sisley_La_Barque_pendant_linondation_Port_Marly.txt",
-   "perf": "perf/05_L5_Impressionism/036_Impressionist-rooms-Leve_Sisley_La_Barque_pendant_linondation_Port_Marly.perf.txt",
-   "mp3": "05_L5_Impressionism/036_Impressionist-rooms-Leve_Sisley_La_Barque_pendant_linondation_Port_Marly.mp3"
+   "script": "scripts/05_L5_Impressionism/038_Impressionist-rooms-Leve_Sisley_La_Barque_pendant_linondation_Port_Marly.txt",
+   "perf": "perf/05_L5_Impressionism/038_Impressionist-rooms-Leve_Sisley_La_Barque_pendant_linondation_Port_Marly.perf.txt",
+   "mp3": "05_L5_Impressionism/038_Impressionist-rooms-Leve_Sisley_La_Barque_pendant_linondation_Port_Marly.mp3"
   },
   {
-   "seq": "037",
+   "seq": "039",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 34 · Level 5",
@@ -661,12 +693,12 @@
    "what": "Claude Monet, five canvases from the series La Cathédrale de Rouen, Rouen Cathedral, painted 1892–93, oil on canvas: Le Portail, soleil matinal; Le Portail et la tour Saint-Romain, effet du matin; Le Portail et la tour Saint-Romain, plein soleil; Le Portail, temps gris; Le Portail vu de face. Four from the Camondo bequest of 1911, one bought from Monet in 1907.",
    "listen": "Monet's nightmare about the cathedral, the thirty canvases of one stone front, and how to read the five that hang here.",
    "pace": "medium-slow",
-   "script": "scripts/05_L5_Impressionism/037_Room-34-Level-5_Monet_The_Rouen_Cathedrals.txt",
-   "perf": "perf/05_L5_Impressionism/037_Room-34-Level-5_Monet_The_Rouen_Cathedrals.perf.txt",
-   "mp3": "05_L5_Impressionism/037_Room-34-Level-5_Monet_The_Rouen_Cathedrals.mp3"
+   "script": "scripts/05_L5_Impressionism/039_Room-34-Level-5_Monet_The_Rouen_Cathedrals.txt",
+   "perf": "perf/05_L5_Impressionism/039_Room-34-Level-5_Monet_The_Rouen_Cathedrals.perf.txt",
+   "mp3": "05_L5_Impressionism/039_Room-34-Level-5_Monet_The_Rouen_Cathedrals.mp3"
   },
   {
-   "seq": "038",
+   "seq": "040",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Room 34 · Level 5",
@@ -677,12 +709,12 @@
    "what": "Claude Monet, Nymphéas bleus, Blue Water Lilies, around 1916–1919, oil on canvas, 204 × 200 cm.",
    "listen": "The pond Monet made in the same years as the cathedrals, and why this picture seems to have no edges.",
    "pace": "slow",
-   "script": "scripts/05_L5_Impressionism/038_Room-34-Level-5_Monet_Nympheas_bleus_Blue_Water_Lilies.txt",
-   "perf": "perf/05_L5_Impressionism/038_Room-34-Level-5_Monet_Nympheas_bleus_Blue_Water_Lilies.perf.txt",
-   "mp3": "05_L5_Impressionism/038_Room-34-Level-5_Monet_Nympheas_bleus_Blue_Water_Lilies.mp3"
+   "script": "scripts/05_L5_Impressionism/040_Room-34-Level-5_Monet_Nympheas_bleus_Blue_Water_Lilies.txt",
+   "perf": "perf/05_L5_Impressionism/040_Room-34-Level-5_Monet_Nympheas_bleus_Blue_Water_Lilies.perf.txt",
+   "mp3": "05_L5_Impressionism/040_Room-34-Level-5_Monet_Nympheas_bleus_Blue_Water_Lilies.mp3"
   },
   {
-   "seq": "039",
+   "seq": "041",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Cézanne rooms · Level 5",
@@ -693,12 +725,12 @@
    "what": "Paul Cézanne, Les Joueurs de cartes, The Card Players, 1893–1896, oil on canvas, 47 × 56.5 cm. The smallest of five versions. Bequest of comte Isaac de Camondo, 1911.",
    "listen": "Who the card players may have been, the gardener with the pipe, and why the smallest version of a famous subject holds its own.",
    "pace": "medium-slow",
-   "script": "scripts/05_L5_Impressionism/039_Cezanne-rooms-Level-5_Cezanne_Les_Joueurs_de_cartes_The_Card_Players.txt",
-   "perf": "perf/05_L5_Impressionism/039_Cezanne-rooms-Level-5_Cezanne_Les_Joueurs_de_cartes_The_Card_Players.perf.txt",
-   "mp3": "05_L5_Impressionism/039_Cezanne-rooms-Level-5_Cezanne_Les_Joueurs_de_cartes_The_Card_Players.mp3"
+   "script": "scripts/05_L5_Impressionism/041_Cezanne-rooms-Level-5_Cezanne_Les_Joueurs_de_cartes_The_Card_Players.txt",
+   "perf": "perf/05_L5_Impressionism/041_Cezanne-rooms-Level-5_Cezanne_Les_Joueurs_de_cartes_The_Card_Players.perf.txt",
+   "mp3": "05_L5_Impressionism/041_Cezanne-rooms-Level-5_Cezanne_Les_Joueurs_de_cartes_The_Card_Players.mp3"
   },
   {
-   "seq": "040",
+   "seq": "042",
    "section": "Level 5 · Impressionism",
    "folder": "05_L5_Impressionism",
    "room": "Cézanne rooms · Level 5",
@@ -709,12 +741,12 @@
    "what": "Paul Cézanne, Pommes et oranges, Apples and Oranges, around 1899, oil on canvas, 74 × 93 cm. Bequest of comte Isaac de Camondo, 1911.",
    "listen": "Six paintings from the same props, and why the museum calls this the most important still life of his late years.",
    "pace": "medium",
-   "script": "scripts/05_L5_Impressionism/040_Cezanne-rooms-Level-5_Cezanne_Pommes_et_oranges_Apples_and_Oranges.txt",
-   "perf": "perf/05_L5_Impressionism/040_Cezanne-rooms-Level-5_Cezanne_Pommes_et_oranges_Apples_and_Oranges.perf.txt",
-   "mp3": "05_L5_Impressionism/040_Cezanne-rooms-Level-5_Cezanne_Pommes_et_oranges_Apples_and_Oranges.mp3"
+   "script": "scripts/05_L5_Impressionism/042_Cezanne-rooms-Level-5_Cezanne_Pommes_et_oranges_Apples_and_Oranges.txt",
+   "perf": "perf/05_L5_Impressionism/042_Cezanne-rooms-Level-5_Cezanne_Pommes_et_oranges_Apples_and_Oranges.perf.txt",
+   "mp3": "05_L5_Impressionism/042_Cezanne-rooms-Level-5_Cezanne_Pommes_et_oranges_Apples_and_Oranges.mp3"
   },
   {
-   "seq": "041",
+   "seq": "043",
    "section": "Level 5 · Van Gogh",
    "folder": "06_L5_Van_Gogh",
    "room": "Room 36 · Level 5",
@@ -725,12 +757,12 @@
    "what": "The Van Gogh room, rehung in February 2024. Room 36, Vincent van Gogh in France, follows him from Paris to Arles, Saint-Rémy and Auvers-sur-Oise, and his bond with Dr Paul Gachet.",
    "listen": "How this room is laid out, the journey it follows, and the last two months that fill the final walls.",
    "pace": "medium",
-   "script": "scripts/06_L5_Van_Gogh/041_Room-36-Level-5_Van_Gogh_in_France.txt",
-   "perf": "perf/06_L5_Van_Gogh/041_Room-36-Level-5_Van_Gogh_in_France.perf.txt",
-   "mp3": "06_L5_Van_Gogh/041_Room-36-Level-5_Van_Gogh_in_France.mp3"
+   "script": "scripts/06_L5_Van_Gogh/043_Room-36-Level-5_Van_Gogh_in_France.txt",
+   "perf": "perf/06_L5_Van_Gogh/043_Room-36-Level-5_Van_Gogh_in_France.perf.txt",
+   "mp3": "06_L5_Van_Gogh/043_Room-36-Level-5_Van_Gogh_in_France.mp3"
   },
   {
-   "seq": "042",
+   "seq": "044",
    "section": "Level 5 · Van Gogh",
    "folder": "06_L5_Van_Gogh",
    "room": "Room 36 · Level 5",
@@ -741,12 +773,12 @@
    "what": "Vincent van Gogh, Portrait de l'artiste, Self-Portrait, 1889, painted at Saint-Rémy-de-Provence, oil on canvas, 65 × 54.2 cm. Gift of Paul and Marguerite Gachet, 1949.",
    "listen": "The doctor's family who kept this portrait for decades, what Van Gogh wrote about painting himself, and the stillness at the centre of a moving picture.",
    "pace": "medium-slow",
-   "script": "scripts/06_L5_Van_Gogh/042_Room-36-Level-5_Van_Gogh_Portrait_de_lartiste_Self_Portrait_1889.txt",
-   "perf": "perf/06_L5_Van_Gogh/042_Room-36-Level-5_Van_Gogh_Portrait_de_lartiste_Self_Portrait_1889.perf.txt",
-   "mp3": "06_L5_Van_Gogh/042_Room-36-Level-5_Van_Gogh_Portrait_de_lartiste_Self_Portrait_1889.mp3"
+   "script": "scripts/06_L5_Van_Gogh/044_Room-36-Level-5_Van_Gogh_Portrait_de_lartiste_Self_Portrait_1889.txt",
+   "perf": "perf/06_L5_Van_Gogh/044_Room-36-Level-5_Van_Gogh_Portrait_de_lartiste_Self_Portrait_1889.perf.txt",
+   "mp3": "06_L5_Van_Gogh/044_Room-36-Level-5_Van_Gogh_Portrait_de_lartiste_Self_Portrait_1889.mp3"
   },
   {
-   "seq": "043",
+   "seq": "045",
    "section": "Level 5 · Van Gogh",
    "folder": "06_L5_Van_Gogh",
    "room": "Van Gogh rooms · Level 5",
@@ -757,12 +789,12 @@
    "what": "Vincent van Gogh, La Chambre de Van Gogh à Arles, Van Gogh's Bedroom in Arles, 1889, oil on canvas, 57.3 × 73.5 cm, RF 1959 2. A smaller version painted about a year after the 1888 original. A larger version is in the Art Institute of Chicago.",
    "listen": "A painting meant to rest the mind, made smaller for his family, and the post-war treaty that brought it into the French collection.",
    "pace": "medium-slow",
-   "script": "scripts/06_L5_Van_Gogh/043_Van-Gogh-rooms-Level-5_Van_Gogh_La_Chambre_de_Van_Gogh_a_Arles_Van_Gogh.txt",
-   "perf": "perf/06_L5_Van_Gogh/043_Van-Gogh-rooms-Level-5_Van_Gogh_La_Chambre_de_Van_Gogh_a_Arles_Van_Gogh.perf.txt",
-   "mp3": "06_L5_Van_Gogh/043_Van-Gogh-rooms-Level-5_Van_Gogh_La_Chambre_de_Van_Gogh_a_Arles_Van_Gogh.mp3"
+   "script": "scripts/06_L5_Van_Gogh/045_Van-Gogh-rooms-Level-5_Van_Gogh_La_Chambre_de_Van_Gogh_a_Arles_Van_Gogh.txt",
+   "perf": "perf/06_L5_Van_Gogh/045_Van-Gogh-rooms-Level-5_Van_Gogh_La_Chambre_de_Van_Gogh_a_Arles_Van_Gogh.perf.txt",
+   "mp3": "06_L5_Van_Gogh/045_Van-Gogh-rooms-Level-5_Van_Gogh_La_Chambre_de_Van_Gogh_a_Arles_Van_Gogh.mp3"
   },
   {
-   "seq": "044",
+   "seq": "046",
    "section": "Level 5 · Van Gogh",
    "folder": "06_L5_Van_Gogh",
    "room": "Room 36 · Level 5",
@@ -773,12 +805,12 @@
    "what": "Vincent van Gogh, La Nuit étoilée, Starry Night over the Rhône, 1888, Arles, oil on canvas, 73 × 92 cm. Gift of M. and Mme Robert Kahn-Sriber in memory of M. and Mme Fernand Moch, 1975.",
    "listen": "A painting made outdoors at night by gaslight, the colours Van Gogh saw in the dark, the lovers at the bottom, and a last look at the self-portrait nearby.",
    "pace": "medium-slow",
-   "script": "scripts/06_L5_Van_Gogh/044_Room-36-Level-5_Van_Gogh_La_Nuit_etoilee_Starry_Night_over_the_R.txt",
-   "perf": "perf/06_L5_Van_Gogh/044_Room-36-Level-5_Van_Gogh_La_Nuit_etoilee_Starry_Night_over_the_R.perf.txt",
-   "mp3": "06_L5_Van_Gogh/044_Room-36-Level-5_Van_Gogh_La_Nuit_etoilee_Starry_Night_over_the_R.mp3"
+   "script": "scripts/06_L5_Van_Gogh/046_Room-36-Level-5_Van_Gogh_La_Nuit_etoilee_Starry_Night_over_the_R.txt",
+   "perf": "perf/06_L5_Van_Gogh/046_Room-36-Level-5_Van_Gogh_La_Nuit_etoilee_Starry_Night_over_the_R.perf.txt",
+   "mp3": "06_L5_Van_Gogh/046_Room-36-Level-5_Van_Gogh_La_Nuit_etoilee_Starry_Night_over_the_R.mp3"
   },
   {
-   "seq": "045",
+   "seq": "047",
    "section": "Level 5 · Van Gogh",
    "folder": "06_L5_Van_Gogh",
    "room": "Room 36 · Level 5",
@@ -789,12 +821,12 @@
    "what": "Vincent van Gogh, L'Église d'Auvers-sur-Oise, vue du chevet, The Church at Auvers-sur-Oise, seen from the apse, painted 4–8 June 1890, oil on canvas, 93 × 74.5 cm. Acquired in 1952 with the support of Paul Gachet and an anonymous Canadian donation.",
    "listen": "What Van Gogh himself wrote about this church, the colour of its windows, and the stranger who helped bring it to the museum.",
    "pace": "medium-slow",
-   "script": "scripts/06_L5_Van_Gogh/045_Room-36-Level-5_Van_Gogh_LEglise_dAuvers_sur_Oise_The_Church_at.txt",
-   "perf": "perf/06_L5_Van_Gogh/045_Room-36-Level-5_Van_Gogh_LEglise_dAuvers_sur_Oise_The_Church_at.perf.txt",
-   "mp3": "06_L5_Van_Gogh/045_Room-36-Level-5_Van_Gogh_LEglise_dAuvers_sur_Oise_The_Church_at.mp3"
+   "script": "scripts/06_L5_Van_Gogh/047_Room-36-Level-5_Van_Gogh_LEglise_dAuvers_sur_Oise_The_Church_at.txt",
+   "perf": "perf/06_L5_Van_Gogh/047_Room-36-Level-5_Van_Gogh_LEglise_dAuvers_sur_Oise_The_Church_at.perf.txt",
+   "mp3": "06_L5_Van_Gogh/047_Room-36-Level-5_Van_Gogh_LEglise_dAuvers_sur_Oise_The_Church_at.mp3"
   },
   {
-   "seq": "046",
+   "seq": "048",
    "section": "Level 5 · Van Gogh",
    "folder": "06_L5_Van_Gogh",
    "room": "Room 36 · Level 5",
@@ -805,12 +837,12 @@
    "what": "Vincent van Gogh, Portrait du Docteur Gachet, Dr Paul Gachet, 1890, oil on canvas, 68 × 57 cm, RF 1949 16. Part of the gift of the Gachet heirs, 1949–1954.",
    "listen": "Who Dr Gachet was, the false name he painted under, and the one hopeful thing Van Gogh put in his portrait.",
    "pace": "medium",
-   "script": "scripts/06_L5_Van_Gogh/046_Room-36-Level-5_Van_Gogh_Le_Docteur_Paul_Gachet.txt",
-   "perf": "perf/06_L5_Van_Gogh/046_Room-36-Level-5_Van_Gogh_Le_Docteur_Paul_Gachet.perf.txt",
-   "mp3": "06_L5_Van_Gogh/046_Room-36-Level-5_Van_Gogh_Le_Docteur_Paul_Gachet.mp3"
+   "script": "scripts/06_L5_Van_Gogh/048_Room-36-Level-5_Van_Gogh_Le_Docteur_Paul_Gachet.txt",
+   "perf": "perf/06_L5_Van_Gogh/048_Room-36-Level-5_Van_Gogh_Le_Docteur_Paul_Gachet.perf.txt",
+   "mp3": "06_L5_Van_Gogh/048_Room-36-Level-5_Van_Gogh_Le_Docteur_Paul_Gachet.mp3"
   },
   {
-   "seq": "047",
+   "seq": "049",
    "section": "Level 5 · Post-Impressionism",
    "folder": "07_L5_Post_Impressionism",
    "room": "Room 38 · Level 5",
@@ -821,12 +853,12 @@
    "what": "Georges Seurat, Le Cirque (Circus), 1890–91, left unfinished. Oil on canvas, 186 × 152 cm. Bequest of John Quinn, accepted by the State in 1927.",
    "listen": "The painting Seurat showed days before he died, the theory that makes everything in it climb, and the frame that belongs to the picture.",
    "pace": "medium",
-   "script": "scripts/07_L5_Post_Impressionism/047_Room-38-Level-5_Seurat_Le_Cirque.txt",
-   "perf": "perf/07_L5_Post_Impressionism/047_Room-38-Level-5_Seurat_Le_Cirque.perf.txt",
-   "mp3": "07_L5_Post_Impressionism/047_Room-38-Level-5_Seurat_Le_Cirque.mp3"
+   "script": "scripts/07_L5_Post_Impressionism/049_Room-38-Level-5_Seurat_Le_Cirque.txt",
+   "perf": "perf/07_L5_Post_Impressionism/049_Room-38-Level-5_Seurat_Le_Cirque.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/049_Room-38-Level-5_Seurat_Le_Cirque.mp3"
   },
   {
-   "seq": "048",
+   "seq": "050",
    "section": "Level 5 · Post-Impressionism",
    "folder": "07_L5_Post_Impressionism",
    "room": "Room 40 · Level 5",
@@ -837,12 +869,12 @@
    "what": "Paul Signac, Femme à l'ombrelle (Woman with a Parasol), 1893. Oil on canvas, 81 × 65 cm.",
    "listen": "The woman Signac met at a cabaret and painted after ten years together, and how the next generation took the Impressionists' favourite subject and remade it in dots.",
    "pace": "medium",
-   "script": "scripts/07_L5_Post_Impressionism/048_Room-40-Level-5_Signac_Femme_a_lombrelle.txt",
-   "perf": "perf/07_L5_Post_Impressionism/048_Room-40-Level-5_Signac_Femme_a_lombrelle.perf.txt",
-   "mp3": "07_L5_Post_Impressionism/048_Room-40-Level-5_Signac_Femme_a_lombrelle.mp3"
+   "script": "scripts/07_L5_Post_Impressionism/050_Room-40-Level-5_Signac_Femme_a_lombrelle.txt",
+   "perf": "perf/07_L5_Post_Impressionism/050_Room-40-Level-5_Signac_Femme_a_lombrelle.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/050_Room-40-Level-5_Signac_Femme_a_lombrelle.mp3"
   },
   {
-   "seq": "049",
+   "seq": "051",
    "section": "Level 5 · Post-Impressionism",
    "folder": "07_L5_Post_Impressionism",
    "room": "Room 43 · Pont-Aven · Level 5",
@@ -853,12 +885,12 @@
    "what": "Émile Bernard, Madeleine au Bois d'Amour (Madeleine in the Bois d'Amour), 1888. Oil on canvas, 137 × 163 cm. Acquired in 1977.",
    "listen": "A brother of twenty paints his sister of seventeen, and the older painter who was in love with her.",
    "pace": "medium-slow",
-   "script": "scripts/07_L5_Post_Impressionism/049_Room-43-Pont-Aven-Level_Emile_Bernard_Madeleine_au_Bois_dAmour.txt",
-   "perf": "perf/07_L5_Post_Impressionism/049_Room-43-Pont-Aven-Level_Emile_Bernard_Madeleine_au_Bois_dAmour.perf.txt",
-   "mp3": "07_L5_Post_Impressionism/049_Room-43-Pont-Aven-Level_Emile_Bernard_Madeleine_au_Bois_dAmour.mp3"
+   "script": "scripts/07_L5_Post_Impressionism/051_Room-43-Pont-Aven-Level_Emile_Bernard_Madeleine_au_Bois_dAmour.txt",
+   "perf": "perf/07_L5_Post_Impressionism/051_Room-43-Pont-Aven-Level_Emile_Bernard_Madeleine_au_Bois_dAmour.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/051_Room-43-Pont-Aven-Level_Emile_Bernard_Madeleine_au_Bois_dAmour.mp3"
   },
   {
-   "seq": "050",
+   "seq": "052",
    "section": "Level 5 · Post-Impressionism",
    "folder": "07_L5_Post_Impressionism",
    "room": "Room 43 · Pont-Aven · Level 5",
@@ -869,60 +901,172 @@
    "what": "Paul Gauguin, La Belle Angèle (The Beautiful Angèle), 1889, oil on canvas, 92 × 73.2 cm, gift of Ambroise Vollard, 1927. Paul Gauguin, Les Alyscamps, 1888, oil on canvas, 91.5 × 72.5 cm.",
    "listen": "A portrait its sitter refused and Degas bought, and a landscape Gauguin gave a mocking title.",
    "pace": "medium",
-   "script": "scripts/07_L5_Post_Impressionism/050_Room-43-Pont-Aven-Level_Gauguin_La_Belle_Angele_and_Les_Alyscamps.txt",
-   "perf": "perf/07_L5_Post_Impressionism/050_Room-43-Pont-Aven-Level_Gauguin_La_Belle_Angele_and_Les_Alyscamps.perf.txt",
-   "mp3": "07_L5_Post_Impressionism/050_Room-43-Pont-Aven-Level_Gauguin_La_Belle_Angele_and_Les_Alyscamps.mp3"
-  },
-  {
-   "seq": "051",
-   "section": "Level 5 · Post-Impressionism",
-   "folder": "07_L5_Post_Impressionism",
-   "room": "Room 44 · Gauguin in Tahiti · Level 5",
-   "title": "Gauguin — Arearea",
-   "register": "W",
-   "words": 359,
-   "where": "In room 44 on level 5, Gauguin in Tahiti. Look for a Tahitian scene with two women seated at the centre, a tree cutting across the picture and a red dog in the foreground. On loan to Tokyo from 14 Nov 2026 to 28 Mar 2027 (it may leave the wall earlier): then use Femmes de Tahiti, if it is on display.",
-   "what": "Paul Gauguin, Arearea (Joyeusetés), 1892. Oil on canvas, 75 × 94 cm. Bequest of M. and Mme Lung, 1961. Fallback: Paul Gauguin, Femmes de Tahiti (Tahitian Women), 1891, oil on canvas, 69 × 91.5 cm.",
-   "listen": "The red dog Paris laughed at, the idol Gauguin invented, and why he bought this painting back. If it is away, the track works in front of Femmes de Tahiti.",
-   "pace": "medium-slow",
-   "script": "scripts/07_L5_Post_Impressionism/051_Room-44-Gauguin-in-Tahit_Gauguin_Arearea.txt",
-   "perf": "perf/07_L5_Post_Impressionism/051_Room-44-Gauguin-in-Tahit_Gauguin_Arearea.perf.txt",
-   "mp3": "07_L5_Post_Impressionism/051_Room-44-Gauguin-in-Tahit_Gauguin_Arearea.mp3"
-  },
-  {
-   "seq": "052",
-   "section": "Level 5 · Post-Impressionism",
-   "folder": "07_L5_Post_Impressionism",
-   "room": "Room 45 · Redon and the Nabis · Level 5",
-   "title": "Sérusier — Le Talisman",
-   "register": "R",
-   "words": 210,
-   "where": "In room 45 on level 5, Redon and the Nabis, after the Gauguin rooms. Look for a very small landscape painted on a wooden panel, about the size of a sheet of paper.",
-   "what": "Paul Sérusier, Le Talisman (L'Aven au Bois d'Amour), October 1888. Oil on wood, 27 × 21 cm.",
-   "listen": "How a panel smaller than a sheet of paper, painted under Gauguin's direction, became the founding work of the Nabis.",
-   "pace": "medium-slow",
-   "script": "scripts/07_L5_Post_Impressionism/052_Room-45-Redon-and-the-Na_Serusier_Le_Talisman.txt",
-   "perf": "perf/07_L5_Post_Impressionism/052_Room-45-Redon-and-the-Na_Serusier_Le_Talisman.perf.txt",
-   "mp3": "07_L5_Post_Impressionism/052_Room-45-Redon-and-the-Na_Serusier_Le_Talisman.mp3"
+   "script": "scripts/07_L5_Post_Impressionism/052_Room-43-Pont-Aven-Level_Gauguin_La_Belle_Angele_and_Les_Alyscamps.txt",
+   "perf": "perf/07_L5_Post_Impressionism/052_Room-43-Pont-Aven-Level_Gauguin_La_Belle_Angele_and_Les_Alyscamps.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/052_Room-43-Pont-Aven-Level_Gauguin_La_Belle_Angele_and_Les_Alyscamps.mp3"
   },
   {
    "seq": "053",
    "section": "Level 5 · Post-Impressionism",
    "folder": "07_L5_Post_Impressionism",
+   "room": "Room 44 · Gauguin in Tahiti · Level 5",
+   "title": "Gauguin — Arearea",
+   "register": "W",
+   "words": 356,
+   "where": "In room 44 on level 5, Gauguin in Tahiti. Look for a Tahitian scene with two women seated at the centre, a tree cutting across the picture and a red dog in the foreground. On loan to Tokyo from 14 Nov 2026 to 28 Mar 2027 (it may leave the wall earlier): then use Femmes de Tahiti, if it is on display.",
+   "what": "Paul Gauguin, Arearea (Joyeusetés), 1892. Oil on canvas, 75 × 94 cm. Bequest of M. and Mme Lung, 1961. Fallback: Paul Gauguin, Femmes de Tahiti (Tahitian Women), 1891, oil on canvas, 69 × 91.5 cm.",
+   "listen": "The red dog Paris laughed at, the idol Gauguin invented, and why he bought this painting back. If it is away, the track works in front of Femmes de Tahiti.",
+   "pace": "medium-slow",
+   "script": "scripts/07_L5_Post_Impressionism/053_Room-44-Gauguin-in-Tahit_Gauguin_Arearea.txt",
+   "perf": "perf/07_L5_Post_Impressionism/053_Room-44-Gauguin-in-Tahit_Gauguin_Arearea.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/053_Room-44-Gauguin-in-Tahit_Gauguin_Arearea.mp3"
+  },
+  {
+   "seq": "054",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
+   "room": "Room 44 · Gauguin in Tahiti · Level 5",
+   "title": "Gauguin — Le Cheval blanc (The White Horse)",
+   "register": "R",
+   "words": 267,
+   "where": "On level 5 in the Galerie Françoise Cachin, in the Gauguin in Tahiti room, room 44 on the plan, in front of an upright canvas about 1.4 metres high: a pale horse drinking from a stream, with two riders behind it. The room number is inferred from the plan; check nearby if needed.",
+   "what": "Paul Gauguin, Le Cheval blanc, The White Horse, 1898, oil on canvas, 140.5 × 92 cm, RF 2616. Painted during his second stay in Tahiti. From the collection of Daniel de Monfreid, acquired 1927.",
+   "listen": "A commission turned down over the colour of a horse, and a Tahiti that Gauguin made up.",
+   "pace": "medium",
+   "script": "scripts/07_L5_Post_Impressionism/054_Room-44-Gauguin-in-Tahit_Gauguin_Le_Cheval_blanc_The_White_Horse.txt",
+   "perf": "perf/07_L5_Post_Impressionism/054_Room-44-Gauguin-in-Tahit_Gauguin_Le_Cheval_blanc_The_White_Horse.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/054_Room-44-Gauguin-in-Tahit_Gauguin_Le_Cheval_blanc_The_White_Horse.mp3"
+  },
+  {
+   "seq": "055",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
+   "room": "Galerie Françoise Cachin · Room 44 · Level 5",
+   "title": "Gauguin — Oviri",
+   "register": "R",
+   "words": 253,
+   "where": "On level 5 in the Galerie Françoise Cachin, near the Gauguin paintings of room 44: a standing stoneware figure, about 75 centimetres high, over a dead wolf and a cub. Its exact place in the gallery is not confirmed; check nearby.",
+   "what": "Paul Gauguin, Oviri, 1894, partially glazed stoneware, 75 × 19 × 27 cm, about 20 kg, OAO 1114. Fired in Ernest Chaplet's kiln in December 1894. Acquired 1987.",
+   "listen": "The biggest ceramic Gauguin ever made, the name he gave it, and where he wanted it to end up.",
+   "pace": "medium-slow",
+   "script": "scripts/07_L5_Post_Impressionism/055_Galerie-Francoise-Cachin_Gauguin_Oviri.txt",
+   "perf": "perf/07_L5_Post_Impressionism/055_Galerie-Francoise-Cachin_Gauguin_Oviri.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/055_Galerie-Francoise-Cachin_Gauguin_Oviri.mp3"
+  },
+  {
+   "seq": "056",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
+   "room": "Galerie Françoise Cachin · Level 5",
+   "title": "Henri Rousseau — La Charmeuse de serpents (The Snake Charmer)",
+   "register": "R",
+   "words": 268,
+   "where": "On level 5 in the Galerie Françoise Cachin, near the Gauguin rooms: a large, nearly square jungle scene, almost 1.9 metres wide, with a dark figure playing a flute and snakes around it. Its room is not confirmed. It was on loan until July 2026; if it is not on show, skip this track and go on to room 45.",
+   "what": "Henri Rousseau, La Charmeuse de serpents, The Snake Charmer, 1907, oil on canvas, 169 × 189.5 cm. Bequest of Jacques Doucet, 1936.",
+   "listen": "A jungle painted without leaving Paris, the woman who ordered it, and the artists it went on to haunt.",
+   "pace": "medium",
+   "script": "scripts/07_L5_Post_Impressionism/056_Galerie-Francoise-Cachin_Henri_Rousseau_La_Charmeuse_de_serpents_The_Snak.txt",
+   "perf": "perf/07_L5_Post_Impressionism/056_Galerie-Francoise-Cachin_Henri_Rousseau_La_Charmeuse_de_serpents_The_Snak.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/056_Galerie-Francoise-Cachin_Henri_Rousseau_La_Charmeuse_de_serpents_The_Snak.mp3"
+  },
+  {
+   "seq": "057",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
+   "room": "Room 45 · Redon and the Nabis · Level 5",
+   "title": "Sérusier — Le Talisman",
+   "register": "R",
+   "words": 209,
+   "where": "In room 45 on level 5, Redon and the Nabis, after the Gauguin rooms. Look for a very small landscape painted on a wooden panel, about the size of a sheet of paper.",
+   "what": "Paul Sérusier, Le Talisman (L'Aven au Bois d'Amour), October 1888. Oil on wood, 27 × 21 cm.",
+   "listen": "How a panel smaller than a sheet of paper, painted under Gauguin's direction, became the founding work of the Nabis.",
+   "pace": "medium-slow",
+   "script": "scripts/07_L5_Post_Impressionism/057_Room-45-Redon-and-the-Na_Serusier_Le_Talisman.txt",
+   "perf": "perf/07_L5_Post_Impressionism/057_Room-45-Redon-and-the-Na_Serusier_Le_Talisman.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/057_Room-45-Redon-and-the-Na_Serusier_Le_Talisman.mp3"
+  },
+  {
+   "seq": "058",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
+   "room": "Room 45 · Redon and the Nabis · Level 5",
+   "title": "Odilon Redon — Les Yeux clos (Closed Eyes)",
+   "register": "R",
+   "words": 280,
+   "where": "In room 45 on level 5, Redon and the Nabis, in the Galerie Françoise Cachin: a small painting, 44 × 36 cm, of a head and shoulders with closed eyes, floating in a soft, undefined space. The room number is inferred from the plan; check nearby if needed.",
+   "what": "Odilon Redon, Les Yeux clos, Closed Eyes, 1890, oil, 44 × 36 cm, signed and dated. Chosen from the artist's studio in 1904 by Léonce Bénédite for the Musée du Luxembourg.",
+   "listen": "A face turned inwards, the first Redon the State ever took, and his farewell to Gauguin.",
+   "pace": "slow",
+   "script": "scripts/07_L5_Post_Impressionism/058_Room-45-Redon-and-the-Na_Odilon_Redon_Les_Yeux_clos_Closed_Eyes.txt",
+   "perf": "perf/07_L5_Post_Impressionism/058_Room-45-Redon-and-the-Na_Odilon_Redon_Les_Yeux_clos_Closed_Eyes.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/058_Room-45-Redon-and-the-Na_Odilon_Redon_Les_Yeux_clos_Closed_Eyes.mp3"
+  },
+  {
+   "seq": "059",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
+   "room": "Room 46 · Le cabaret du Chat noir · Level 5",
+   "title": "Le cabaret du Chat noir — the shadow theatre",
+   "register": "R",
+   "words": 237,
+   "where": "In room 46 on level 5, Le cabaret du Chat noir, after the Redon and Nabis room. Look for the flat silhouettes cut from zinc, once used in the cabaret's shadow theatre. Which figures are on show changes; check on site.",
+   "what": "Cut and painted zinc silhouettes from the shadow theatre of the Cabaret du Chat Noir, Paris, 1886–1896, made under Henri Rivière.",
+   "listen": "A Montmartre cabaret run by a showman, and a shadow theatre that looked forward to the cinema.",
+   "pace": "medium-fast",
+   "script": "scripts/07_L5_Post_Impressionism/059_Room-46-Le-cabaret-du-Ch_Le_cabaret_du_Chat_noir_the_shadow_theatre.txt",
+   "perf": "perf/07_L5_Post_Impressionism/059_Room-46-Le-cabaret-du-Ch_Le_cabaret_du_Chat_noir_the_shadow_theatre.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/059_Room-46-Le-cabaret-du-Ch_Le_cabaret_du_Chat_noir_the_shadow_theatre.mp3"
+  },
+  {
+   "seq": "060",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
+   "room": "Room 47 · Cinema 1895–1914 · Level 5",
+   "title": "The birth of cinema, 1895–1914",
+   "register": "R",
+   "words": 264,
+   "where": "In room 47 on level 5, Cinéma 1895–1914, next to the Chat Noir room. Early films play on three screens, with sound that reaches you only when you stand in front of each one. Display cases may hold optical toys and early photographs; what is on show changes, so check on site.",
+   "what": "A room on the birth of the cinematograph: about fifteen films or excerpts from 1895 to 1914 on three screens, shown with directional \"sound showers\", alongside the optical devices and photographs that came before film.",
+   "listen": "Why a museum of the nineteenth century ends with moving pictures, and the toys that taught the eye to see motion.",
+   "pace": "medium",
+   "script": "scripts/07_L5_Post_Impressionism/060_Room-47-Cinema-1895-1914_The_birth_of_cinema_18951914.txt",
+   "perf": "perf/07_L5_Post_Impressionism/060_Room-47-Cinema-1895-1914_The_birth_of_cinema_18951914.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/060_Room-47-Cinema-1895-1914_The_birth_of_cinema_18951914.mp3"
+  },
+  {
+   "seq": "061",
+   "section": "Level 5 · Post-Impressionism",
+   "folder": "07_L5_Post_Impressionism",
    "room": "Café Campana · by rooms 38–39 · Level 5",
    "title": "Behind the great clock",
    "register": "R",
-   "words": 216,
+   "words": 204,
    "where": "Beside the second great clock of the façade on level 5, by rooms 38 and 39, at the entrance to the Café Campana. Listen from the threshold; no need to go in.",
    "what": "The Café Campana, opened in 2011 with the renovated Impressionist gallery and designed by the Brazilian designers the Campana brothers, set behind one of the station's great exterior clocks.",
    "listen": "The underwater café behind the second great clock, a moment to sit down, and the way down to level two.",
    "pace": "medium",
-   "script": "scripts/07_L5_Post_Impressionism/053_Cafe-Campana-by-rooms-38_Behind_the_great_clock.txt",
-   "perf": "perf/07_L5_Post_Impressionism/053_Cafe-Campana-by-rooms-38_Behind_the_great_clock.perf.txt",
-   "mp3": "07_L5_Post_Impressionism/053_Cafe-Campana-by-rooms-38_Behind_the_great_clock.mp3"
+   "script": "scripts/07_L5_Post_Impressionism/061_Cafe-Campana-by-rooms-38_Behind_the_great_clock.txt",
+   "perf": "perf/07_L5_Post_Impressionism/061_Cafe-Campana-by-rooms-38_Behind_the_great_clock.perf.txt",
+   "mp3": "07_L5_Post_Impressionism/061_Cafe-Campana-by-rooms-38_Behind_the_great_clock.mp3"
   },
   {
-   "seq": "054",
+   "seq": "062",
+   "section": "Level 2 · Symbolism, the Nabis and Lautrec",
+   "folder": "08_L2_Symbolism_Nabis_Lautrec",
+   "room": "Room 51 · Salle des fêtes · Level 2",
+   "title": "The Salle des fêtes — the hotel ballroom",
+   "register": "W",
+   "words": 352,
+   "where": "In room 51 on level 2, the Salle des fêtes. Stand in the middle of the room with its mirrors and chandeliers, and look up at the painted panels high on the walls.",
+   "what": "The ballroom of the former station hotel, opened with the Gare d'Orsay on 14 July 1900, restored rather than reconstructed. Painted décor by Pierre Fritel, 1900, oil on canvas fixed to plaster, commissioned by the Compagnie des chemins de fer d'Orléans.",
+   "listen": "A ballroom built for railway travellers, the one period room the museum kept, and a famous press conference in 1958.",
+   "pace": "medium",
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/062_Room-51-Salle-des-fetes_The_Salle_des_fetes_the_hotel_ballroom.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/062_Room-51-Salle-des-fetes_The_Salle_des_fetes_the_hotel_ballroom.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/062_Room-51-Salle-des-fetes_The_Salle_des_fetes_the_hotel_ballroom.mp3"
+  },
+  {
+   "seq": "063",
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
    "room": "Room 59 · Symbolism · Level 2",
@@ -933,12 +1077,12 @@
    "what": "Gustave Moreau, Orphée, Orpheus, 1865, oil on wood, 154 × 99.5 cm. Shown at the Salon of 1866 and bought from the artist by the State.",
    "listen": "Why a severed head in Moreau's painting feels calm rather than horrifying, and the two faces that look alike.",
    "pace": "slow",
-   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/054_Room-59-Symbolism-Level_Gustave_Moreau_Orphee.txt",
-   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/054_Room-59-Symbolism-Level_Gustave_Moreau_Orphee.perf.txt",
-   "mp3": "08_L2_Symbolism_Nabis_Lautrec/054_Room-59-Symbolism-Level_Gustave_Moreau_Orphee.mp3"
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/063_Room-59-Symbolism-Level_Gustave_Moreau_Orphee.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/063_Room-59-Symbolism-Level_Gustave_Moreau_Orphee.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/063_Room-59-Symbolism-Level_Gustave_Moreau_Orphee.mp3"
   },
   {
-   "seq": "055",
+   "seq": "064",
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
    "room": "Room 55 · History painting · Level 2",
@@ -949,12 +1093,12 @@
    "what": "Camille Claudel, L'Âge mûr, Maturity, about 1902, bronze group in three parts, 114 × 163 × 72 cm. The first bronze, cast in the artist's lifetime; at Orsay since 1982.",
    "listen": "The private patron who paid for the bronze the State never ordered, and why Claudel's brother saw her soul being torn away in it.",
    "pace": "slow",
-   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/055_Room-55-History-painting_Camille_Claudel_LAge_mur.txt",
-   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/055_Room-55-History-painting_Camille_Claudel_LAge_mur.perf.txt",
-   "mp3": "08_L2_Symbolism_Nabis_Lautrec/055_Room-55-History-painting_Camille_Claudel_LAge_mur.mp3"
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/064_Room-55-History-painting_Camille_Claudel_LAge_mur.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/064_Room-55-History-painting_Camille_Claudel_LAge_mur.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/064_Room-55-History-painting_Camille_Claudel_LAge_mur.mp3"
   },
   {
-   "seq": "056",
+   "seq": "065",
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
    "room": "Room 72 · Level 2",
@@ -965,12 +1109,12 @@
    "what": "Édouard Vuillard, Jardins publics, Public Gardens, 1894, distemper on canvas: five panels of a cycle of nine. Also Pierre Bonnard, Femmes au jardin, Women in the Garden: Femme à la pèlerine, 1891, distemper on canvas.",
    "listen": "Standing in the corner of a dining room that no longer exists, and the painter his friends called the very Japanese Nabi.",
    "pace": "medium-slow",
-   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/056_Room-72-Level-2_Vuillard_Jardins_publics.txt",
-   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/056_Room-72-Level-2_Vuillard_Jardins_publics.perf.txt",
-   "mp3": "08_L2_Symbolism_Nabis_Lautrec/056_Room-72-Level-2_Vuillard_Jardins_publics.mp3"
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/065_Room-72-Level-2_Vuillard_Jardins_publics.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/065_Room-72-Level-2_Vuillard_Jardins_publics.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/065_Room-72-Level-2_Vuillard_Jardins_publics.mp3"
   },
   {
-   "seq": "057",
+   "seq": "066",
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
    "room": "Room 71 · Level 2",
@@ -981,12 +1125,12 @@
    "what": "Félix Vallotton, Le Ballon, The Ball, 1899, oil on cardboard mounted on wood, 49.2 × 62 cm. Carle Dreyfus bequest, 1953.",
    "listen": "How one small running child and a red ball can hold a whole empty park together.",
    "pace": "medium",
-   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/057_Room-71-Level-2_Vallotton_Le_Ballon.txt",
-   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/057_Room-71-Level-2_Vallotton_Le_Ballon.perf.txt",
-   "mp3": "08_L2_Symbolism_Nabis_Lautrec/057_Room-71-Level-2_Vallotton_Le_Ballon.mp3"
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/066_Room-71-Level-2_Vallotton_Le_Ballon.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/066_Room-71-Level-2_Vallotton_Le_Ballon.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/066_Room-71-Level-2_Vallotton_Le_Ballon.mp3"
   },
   {
-   "seq": "058",
+   "seq": "067",
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
    "room": "Room 70 · Level 2",
@@ -997,44 +1141,44 @@
    "what": "Maurice Denis, Les Muses, The Muses, 1893, oil on canvas, 171 × 137.5 cm. Bought at public sale in 1932.",
    "listen": "How Denis turned the Muses of myth into women of his own day, and put his new wife among them.",
    "pace": "medium-slow",
-   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/058_Room-70-Level-2_Maurice_Denis_Les_Muses.txt",
-   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/058_Room-70-Level-2_Maurice_Denis_Les_Muses.perf.txt",
-   "mp3": "08_L2_Symbolism_Nabis_Lautrec/058_Room-70-Level-2_Maurice_Denis_Les_Muses.mp3"
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/067_Room-70-Level-2_Maurice_Denis_Les_Muses.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/067_Room-70-Level-2_Maurice_Denis_Les_Muses.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/067_Room-70-Level-2_Maurice_Denis_Les_Muses.mp3"
   },
   {
-   "seq": "059",
+   "seq": "068",
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
    "room": "Room 68 · Level 2",
    "title": "Toulouse-Lautrec — Jane Avril dansant",
    "register": "R",
-   "words": 281,
+   "words": 278,
    "where": "Room 68 on level 2, the Toulouse-Lautrec room, « spectacles et coulisses ». It is a tall, narrow picture on cardboard of a woman dancing alone, painted in thin, quick strokes, with two figures behind her.",
    "what": "Henri de Toulouse-Lautrec, Jane Avril dansant (Jane Avril Dancing), around 1892. Oil on cardboard, 85.5 × 45 cm. Bequest of Antonin Personnaz, 1937.",
    "listen": "How a girl in a hospital for nervous illness discovered she could dance, and how Lautrec caught her in a few thin strokes.",
    "pace": "medium-slow",
-   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/059_Room-68-Level-2_Toulouse_Lautrec_Jane_Avril_dansant.txt",
-   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/059_Room-68-Level-2_Toulouse_Lautrec_Jane_Avril_dansant.perf.txt",
-   "mp3": "08_L2_Symbolism_Nabis_Lautrec/059_Room-68-Level-2_Toulouse_Lautrec_Jane_Avril_dansant.mp3"
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/068_Room-68-Level-2_Toulouse_Lautrec_Jane_Avril_dansant.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/068_Room-68-Level-2_Toulouse_Lautrec_Jane_Avril_dansant.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/068_Room-68-Level-2_Toulouse_Lautrec_Jane_Avril_dansant.mp3"
   },
   {
-   "seq": "060",
+   "seq": "069",
    "section": "Level 2 · Symbolism, the Nabis and Lautrec",
    "folder": "08_L2_Symbolism_Nabis_Lautrec",
    "room": "Room 68 · Level 2",
    "title": "Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue",
    "register": "R",
-   "words": 299,
+   "words": 280,
    "where": "Room 68 on level 2, the Toulouse-Lautrec room. Cha-U-Kao is a small picture on cardboard of a woman clown in a private room, fastening a large yellow ruffle, with green walls and a red sofa. La Goulue's two monumental booth panels may not be shown in this room.",
    "what": "Henri de Toulouse-Lautrec, La Clownesse Cha-U-Kao (The Clown Cha-U-Kao), 1895, oil on cardboard, 58 × 43 cm, Isaac de Camondo bequest, 1911. Panneaux pour la baraque de la Goulue, à la Foire du Trône à Paris (Panels for La Goulue's Booth at the Foire du Trône), 1895, oil.",
    "listen": "A clown whose stage name is a pun, a stranger in a mirror, and two fairground panels that were cut up and pieced back together.",
    "pace": "medium",
-   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/060_Room-68-Level-2_Toulouse_Lautrec_La_Clownesse_Cha_U_Kao_and_La_G.txt",
-   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/060_Room-68-Level-2_Toulouse_Lautrec_La_Clownesse_Cha_U_Kao_and_La_G.perf.txt",
-   "mp3": "08_L2_Symbolism_Nabis_Lautrec/060_Room-68-Level-2_Toulouse_Lautrec_La_Clownesse_Cha_U_Kao_and_La_G.mp3"
+   "script": "scripts/08_L2_Symbolism_Nabis_Lautrec/069_Room-68-Level-2_Toulouse_Lautrec_La_Clownesse_Cha_U_Kao_and_La_G.txt",
+   "perf": "perf/08_L2_Symbolism_Nabis_Lautrec/069_Room-68-Level-2_Toulouse_Lautrec_La_Clownesse_Cha_U_Kao_and_La_G.perf.txt",
+   "mp3": "08_L2_Symbolism_Nabis_Lautrec/069_Room-68-Level-2_Toulouse_Lautrec_La_Clownesse_Cha_U_Kao_and_La_G.mp3"
   },
   {
-   "seq": "061",
+   "seq": "070",
    "section": "Level 2 · Art Nouveau and sculpture",
    "folder": "09_L2_Art_Nouveau_and_Sculpture",
    "room": "Terrasse Rodin · Level 2",
@@ -1045,12 +1189,12 @@
    "what": "Auguste Rodin, Balzac, 1898, plaster, 285 × 125 × 132 cm. Shown at the 1898 Salon of the Société nationale des beaux-arts.",
    "listen": "The monument Paris laughed at, why Rodin refused to sell it, and a dressing gown dipped in plaster.",
    "pace": "medium",
-   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/061_Terrasse-Rodin-Level-2_Rodin_Balzac.txt",
-   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/061_Terrasse-Rodin-Level-2_Rodin_Balzac.perf.txt",
-   "mp3": "09_L2_Art_Nouveau_and_Sculpture/061_Terrasse-Rodin-Level-2_Rodin_Balzac.mp3"
+   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/070_Terrasse-Rodin-Level-2_Rodin_Balzac.txt",
+   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/070_Terrasse-Rodin-Level-2_Rodin_Balzac.perf.txt",
+   "mp3": "09_L2_Art_Nouveau_and_Sculpture/070_Terrasse-Rodin-Level-2_Rodin_Balzac.mp3"
   },
   {
-   "seq": "062",
+   "seq": "071",
    "section": "Level 2 · Art Nouveau and sculpture",
    "folder": "09_L2_Art_Nouveau_and_Sculpture",
    "room": "Room 64 · Level 2",
@@ -1061,12 +1205,12 @@
    "what": "Hector Guimard, smoking-room bench, 1897, jarrah wood and carved metal, 260 × 262 cm. Louis Majorelle, Nénuphars bed, 1905–09, mahogany, amourette, marquetry and gilt bronze.",
    "listen": "The man behind the Paris Métro entrances, a bench that grows like a tree, and a bed in bloom.",
    "pace": "medium",
-   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/062_Room-64-Level-2_Guimard_and_Majorelle_Art_Nouveau.txt",
-   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/062_Room-64-Level-2_Guimard_and_Majorelle_Art_Nouveau.perf.txt",
-   "mp3": "09_L2_Art_Nouveau_and_Sculpture/062_Room-64-Level-2_Guimard_and_Majorelle_Art_Nouveau.mp3"
+   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/071_Room-64-Level-2_Guimard_and_Majorelle_Art_Nouveau.txt",
+   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/071_Room-64-Level-2_Guimard_and_Majorelle_Art_Nouveau.perf.txt",
+   "mp3": "09_L2_Art_Nouveau_and_Sculpture/071_Room-64-Level-2_Guimard_and_Majorelle_Art_Nouveau.mp3"
   },
   {
-   "seq": "063",
+   "seq": "072",
    "section": "Level 2 · Art Nouveau and sculpture",
    "folder": "09_L2_Art_Nouveau_and_Sculpture",
    "room": "Rooms 63 and 65 · Level 2",
@@ -1077,12 +1221,12 @@
    "what": "Émile Gallé, La Main aux algues et aux coquillages, Hand with Seaweed and Shells, 1904, crystal with inclusions, applications and wheel engraving, 33.4 cm high. François-Rupert Carabin, Bibliothèque, Bookcase, 1890, walnut and wrought iron, 290 × 215 × 83 cm.",
    "listen": "A glassmaker's farewell piece, and a bookcase that preaches a sermon.",
    "pace": "medium-slow",
-   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/063_Rooms-63-and-65-Level-2_Galle_and_Carabins_bookcase.txt",
-   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/063_Rooms-63-and-65-Level-2_Galle_and_Carabins_bookcase.perf.txt",
-   "mp3": "09_L2_Art_Nouveau_and_Sculpture/063_Rooms-63-and-65-Level-2_Galle_and_Carabins_bookcase.mp3"
+   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/072_Rooms-63-and-65-Level-2_Galle_and_Carabins_bookcase.txt",
+   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/072_Rooms-63-and-65-Level-2_Galle_and_Carabins_bookcase.perf.txt",
+   "mp3": "09_L2_Art_Nouveau_and_Sculpture/072_Rooms-63-and-65-Level-2_Galle_and_Carabins_bookcase.mp3"
   },
   {
-   "seq": "064",
+   "seq": "073",
    "section": "Level 2 · Art Nouveau and sculpture",
    "folder": "09_L2_Art_Nouveau_and_Sculpture",
    "room": "Sculpture terrace · Level 2",
@@ -1093,12 +1237,12 @@
    "what": "François Pompon, Ours blanc, Polar Bear, stone, 163 × 251 × 90 cm, carved 1923–33 after a State commission of 1927. Assigned to Orsay in 1986.",
    "listen": "The man who carved marble for Rodin and Claudel, and found fame at sixty-seven with a bear.",
    "pace": "medium",
-   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/064_Sculpture-terrace-Level_Pompon_Ours_blanc.txt",
-   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/064_Sculpture-terrace-Level_Pompon_Ours_blanc.perf.txt",
-   "mp3": "09_L2_Art_Nouveau_and_Sculpture/064_Sculpture-terrace-Level_Pompon_Ours_blanc.mp3"
+   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/073_Sculpture-terrace-Level_Pompon_Ours_blanc.txt",
+   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/073_Sculpture-terrace-Level_Pompon_Ours_blanc.perf.txt",
+   "mp3": "09_L2_Art_Nouveau_and_Sculpture/073_Sculpture-terrace-Level_Pompon_Ours_blanc.mp3"
   },
   {
-   "seq": "065",
+   "seq": "074",
    "section": "Level 2 · Art Nouveau and sculpture",
    "folder": "09_L2_Art_Nouveau_and_Sculpture",
    "room": "Sculpture terrace · Level 2",
@@ -1109,12 +1253,12 @@
    "what": "Aristide Maillol, Méditerranée, The Mediterranean, 1923–27, marble, 110.5 × 117.5 × 68.5 cm. Antoine Bourdelle, Héraklès tue les oiseaux du lac Stymphale, Hercules the Archer, 1909, gilded bronze cast by Alexis Rudier, 248 × 247 × 123 cm.",
    "listen": "A woman with no name and no story, set against a hero a split second from letting go.",
    "pace": "medium",
-   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/065_Sculpture-terrace-Level_Maillol_and_Bourdelle_Mediterranee_and_Herakles.txt",
-   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/065_Sculpture-terrace-Level_Maillol_and_Bourdelle_Mediterranee_and_Herakles.perf.txt",
-   "mp3": "09_L2_Art_Nouveau_and_Sculpture/065_Sculpture-terrace-Level_Maillol_and_Bourdelle_Mediterranee_and_Herakles.mp3"
+   "script": "scripts/09_L2_Art_Nouveau_and_Sculpture/074_Sculpture-terrace-Level_Maillol_and_Bourdelle_Mediterranee_and_Herakles.txt",
+   "perf": "perf/09_L2_Art_Nouveau_and_Sculpture/074_Sculpture-terrace-Level_Maillol_and_Bourdelle_Mediterranee_and_Herakles.perf.txt",
+   "mp3": "09_L2_Art_Nouveau_and_Sculpture/074_Sculpture-terrace-Level_Maillol_and_Bourdelle_Mediterranee_and_Herakles.mp3"
   },
   {
-   "seq": "066",
+   "seq": "075",
    "section": "Closing",
    "folder": "10_Closing",
    "room": "Level 2 terrace → exit",
@@ -1125,9 +1269,9 @@
    "what": "The nave of the former Gare d'Orsay, seen from the sculpture terraces of level 2: built as a station for the 1900 Exposition, opened as a museum in December 1986.",
    "listen": "One last look down the old station, a short look back over the tour, and the way out.",
    "pace": "medium-slow",
-   "script": "scripts/10_Closing/066_Out_into_Paris.txt",
-   "perf": "perf/10_Closing/066_Out_into_Paris.perf.txt",
-   "mp3": "10_Closing/066_Out_into_Paris.mp3"
+   "script": "scripts/10_Closing/075_Out_into_Paris.txt",
+   "perf": "perf/10_Closing/075_Out_into_Paris.perf.txt",
+   "mp3": "10_Closing/075_Out_into_Paris.mp3"
   }
  ]
 }

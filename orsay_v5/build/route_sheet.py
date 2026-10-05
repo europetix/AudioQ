@@ -18,7 +18,7 @@ RED, WALL, AISLE = HexColor('#B3261E'), HexColor('#B9B3A3'), HexColor('#E7E1D2')
 LEVEL_TINT = {0: HexColor('#F6E3DF'), 5: HexColor('#E2ECEE'), 2: HexColor('#E3ECF6')}
 LEVEL_INK = {0: HexColor('#A4362B'), 5: HexColor('#2E6E73'), 2: HexColor('#2F5D8A')}
 SEC_COL = {"00_Welcome": INK, "01_L0_Academic_Art": HexColor('#8A5A2E'), "02_L0_Realism": HexColor('#5E7D2E'),
-           "03_L0_Manet_and_Friends": HexColor('#2F5D8A'), "04_L0_End_of_the_Nave": HexColor('#7A3E8E'),
+           "03_L0_Manet_Degas_1860s": HexColor('#2F5D8A'), "04_L0_End_of_the_Nave": HexColor('#7A3E8E'),
            "05_L5_Impressionism": HexColor('#2E6E73'), "06_L5_Van_Gogh": HexColor('#B07A12'),
            "07_L5_Post_Impressionism": HexColor('#B5476B'), "08_L2_Symbolism_Nabis_Lautrec": HexColor('#A4161A'),
            "09_L2_Art_Nouveau_and_Sculpture": HexColor('#3F6B24'), "10_Closing": INK}
@@ -74,7 +74,7 @@ def where(t):
     r, ti = t["room"], t["title"]
     for key, kw in (('entrance', 'Arrival'), ('exit', 'exit'), ('cafe', 'Café Campana'), ('28', 'Clock'), ('28', 'clock window'),
                     ('rodin', 'Terrasse Rodin'), ('paris', 'Opéra space'), ('paris', 'Back of the nave'), ('gates', 'between the towers'),
-                    ('GS2', 'Galerie Seine 2'), ('GS2', 'Seine gallery'), ('GS1', 'Chauchard'), ('51', 'Salle des fêtes'),
+                    ('GS2', 'Galerie Seine 2'), ('GS2', 'Seine gallery'), ('44', 'Cachin'), ('GS1', 'Chauchard'), ('51', 'Salle des fêtes'),
                     ('aisle', 'aisle'), ('terr', 'terrace')):
         if kw.lower() in r.lower():
             return key
@@ -194,7 +194,10 @@ def short(t):
     s = t["title"]; s = s.split(" — ", 1)[1] if " — " in s else s
     s = re.sub(r"\s*\((?!optional)[^)]*\)", "", s).replace("(optional)", "· optional")
     art = t["title"].split(" — ", 1)[0] if " — " in t["title"] else ""
-    s = ((art if len(art) <= 16 else art.split()[-1]) + ": " if art else "") + s
+    if art and art.split()[0] in ('Le', 'La', 'Les', 'The'):
+        s = t["title"].replace(" — ", ": ")
+    else:
+        s = ((art if len(art) <= 16 else art.split()[-1]) + ": " if art else "") + s
     return s if len(s) <= 42 else s[:40].rstrip() + "…"
 
 
