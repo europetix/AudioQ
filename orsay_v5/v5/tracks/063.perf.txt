@@ -1,26 +1,26 @@
-@id: 063 · Rooms 63 and 65 · Level 2
-@section: Art Nouveau and Sculpture
-@room: Rooms 63 and 65 · Level 2
+@id: 063 · Room 59 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 59 · Symbolism · Level 2
 @type: R
-@title: Gallé and Carabin's bookcase
-@where: Rooms 63 and 65 on level 2. In room 63, a glass hand rising among shells and seaweed. In room 65, a walnut and wrought-iron bookcase almost three metres high, covered in carved figures.
-@what: Émile Gallé, La Main aux algues et aux coquillages, Hand with Seaweed and Shells, 1904, crystal with inclusions, applications and wheel engraving, 33.4 cm high. François-Rupert Carabin, Bibliothèque, Bookcase, 1890, walnut and wrought iron, 290 × 215 × 83 cm.
-@listen: A glassmaker's farewell piece, and a bookcase that preaches a sermon.
-@brief: Two contrasting stories told to a friend; hushed and tender for Gallé, then amused and brisk for Carabin's carved vices.
-@pace: medium-slow
-@energy: 2→2→4
-@sources: FACTS_R5 066a Gallé — La Main aux algues et aux coquillages (1904, crystal, partly blown and hot-modelled, inclusions, applications, wheel engraving, H 33.4 cm, room 63; "doubtless the last work of crafted glass produced by the master from Nancy"; shown at Nancy 1904 in the showcase "The Deep Sea"; made knowing he was about to die, a farewell confident in the "radiant existence" awaiting him; shells naturalistic, hand's "gelatinous texture evokes the body of a jellyfish rather than human skin"): https://www.musee-orsay.fr/en/artworks/la-main-aux-algues-et-aux-coquillages-22694 ; exhibition page hand-seaweed-and-shells-emile-galles-artistic-testament (OFF) ; FACTS_R5 066c Carabin — Bibliothèque (1890, walnut and wrought iron, 290 × 215 × 83 cm, commissioned 1889 by engineer Henry Montandon, room 65; Geffroy's reading: base passions enemies of intelligence vanquished by the Book, Ignorance and a stack of masks Vanity, Greed, Intemperance, Anger, Folly, Hypocrisy; Truth at the top with Reading on either side): https://www.musee-orsay.fr/en/artworks/bibliotheque-12031 (OFF) ; FACTS_R5 067 (next cue: Pompon, sculpture terrace) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Gustave Moreau — Orphée
+@where: Room 59 on level 2, the Symbolism room at the west end of the floor; the painting's own page gives room 57, so look next door if it is not here. Look for an upright painting on wood of a girl in rich Oriental dress, holding a man's head that rests on a lyre, in front of a twilight landscape.
+@what: Gustave Moreau, Orphée, Orpheus, 1865, oil on wood, 154 × 99.5 cm. Shown at the Salon of 1866 and bought from the artist by the State.
+@listen: Why a severed head in Moreau's painting feels calm rather than horrifying, and the two faces that look alike.
+@brief: Speaking softly in front of a strange, beautiful picture; reverent at the start, hushed at the two faces, warm at the end.
+@pace: slow
+@energy: 2→2→3
+@sources: FACTS_R1 006a Moreau — Orphée (1865, oil on wood, 154 × 99.5 cm, RF 104; Salon of 1866, bought by the State 3 Jul 1866; level 2 room 57; girl "dressed in Oriental finery" holds the poet's head resting on his lyre with a melancholy air; "The two faces, strangely similar with their closed eyes, seem absorbed in infinite contemplation"; calm, "mysteriously free of morbidity", twilight glow, fantastic landscape "worthy of Leonardo da Vinci"; established Moreau as a decisive figure in Symbolism; "young Thracian girl"; Orpheus killed by the Maenads): https://www.musee-orsay.fr/en/artworks/orphee-1091 ; https://www.musee-orsay.fr/fr/collections/oeuvres-commentees/peinture/commentaire_id/orpheus-3033.html (OFF) ; FACTS_R5 069 (next cue: Claudel, room 55, the kneeling figure) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[quietly] Some artists know when they are making their last work. Émile Gallé, the glassmaker from Nancy, seems to have known.
+[reverent] Two faces, both with their eyes closed. One belongs to a living girl, and the other to a dead poet. And they look strangely alike.
 
-In room 63, look for a hand rising out of the sea, made of glass. It's called La Main aux algues et aux coquillages, Hand with Seaweed and Shells, and it dates from 1904. It is very likely the last piece of crafted glass the master from Nancy produced. He made it knowing he was about to die. That year he showed it in Nancy, in a showcase called The Deep Sea. The museum reads it as a farewell, confident in the radiant existence that awaited him.
+This is Gustave Moreau's Orphée, Orpheus, painted in 1865 on a wooden panel. In the myth, the poet Orpheus was killed by the Maenads. Moreau doesn't show the killing, only what comes after. A young Thracian girl, dressed in Oriental finery, holds the poet's head, resting on his lyre. She gazes down at it with a melancholy air.
 
-[curious] Look closely at the two textures. The shells are rendered just as they are in nature. The hand isn't. Its gelatinous surface makes it look less like human skin than like the body of a jellyfish.
+[quietly] Look at the two faces together. Strangely similar, with their closed eyes, they seem absorbed in infinite contemplation. It's a gruesome subject, and yet the scene is calm, mysteriously free of morbidity.
 
-[pause] Now for something louder. In room 65, find François-Rupert Carabin's Bibliothèque, a bookcase almost three metres high, in walnut and wrought iron. And it isn't really furniture. It's a sermon.
+Then let your eye travel past them. Behind the figures there's a twilight glow, over a fantastic landscape that the museum calls worthy of Leonardo da Vinci. Moreau gives you a long way to look, and very little noise.
 
-The critic Gustave Geffroy explained how to read it. At the bottom lie the base passions, the enemies of intelligence, beaten by the Book. On one side sits Ignorance. On the other, a stack of masks: Vanity, Greed, Intemperance, Anger, Folly and Hypocrisy. At the top stand three figures, with Truth in the centre and Reading on either side.
+He showed the painting at the Salon of 1866. That July, the State bought it from him, straight from the Salon. [pause] And it did more than sell. It established Moreau as a decisive figure in Symbolism.
 
-So the vices end up on the floor, and Truth keeps watch over the books.
+[warmly] In other hands, a severed head and a lyre would make a horror story. Moreau turned them into a silence.
 
-Then go back out onto the sculpture terrace overlooking the nave, and find François Pompon's great stone polar bear. Play its track there, and take your time.
+Close by, in room 55, the history painting room, look for Camille Claudel's bronze group of three figures, with a young woman on her knees, reaching out. Play its track there.

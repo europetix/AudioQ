@@ -1,26 +1,24 @@
-@id: 065 · Sculpture terrace · Level 2
-@section: Art Nouveau and Sculpture
-@room: Sculpture terrace · Level 2
+@id: 065 · Room 72 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 72 · Level 2
 @type: R
-@title: Maillol and Bourdelle — Méditerranée and Héraklès archer
-@where: On the level-2 sculpture terrace overlooking the nave. Look for Maillol's seated woman in marble, and Bourdelle's large gilded bronze of Hercules drawing a bow.
-@what: Aristide Maillol, Méditerranée, The Mediterranean, 1923–27, marble, 110.5 × 117.5 × 68.5 cm. Antoine Bourdelle, Héraklès tue les oiseaux du lac Stymphale, Hercules the Archer, 1909, gilded bronze cast by Alexis Rudier, 248 × 247 × 123 cm.
-@listen: A woman with no name and no story, set against a hero a split second from letting go.
-@brief: Comparing two sculptures side by side with a friend; curious at the nameless woman, calm and slow on her, then lifting with energy for the archer.
-@pace: medium
-@energy: 2→2→4
-@sources: FACTS_R5 070a Maillol — Méditerranée (marble, 1923–27, 110.5 × 117.5 × 68.5 cm; first version shown at the 1905 Salon d'Automne as "Woman", "it caused a stir", title came later; commissioned by Count Harry Kessler, German patron; bronze a recent cast, marble a copy made during his lifetime; turned from Rodin's expressionism to formal beauty and simplicity; terrace): https://www.musee-orsay.fr/en/artworks/mediterranee-15413 ; works-in-focus the-mediterranean-3182 (OFF) ; FACTS_R5 070b Bourdelle — Héraklès (1909, gilded bronze, 248 × 247 × 123 cm, cast by Alexis Rudier, bought by the national museums 1924, Orsay 1978; the hero shoots the man-eating birds of Lake Stymphalus; drawn bow from title and pose): https://www.musee-orsay.fr/en/artworks/herakles-tue-les-oiseaux-du-lac-stymphale-5124 ; works-in-focus hercules-the-archer-2193 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Vuillard — Jardins publics
+@where: Room 72 on level 2, the room with five large garden panels in beige, green and blue hung around a corner. Bonnard's tall, narrow panel of a woman in a cape hangs in the same room.
+@what: Édouard Vuillard, Jardins publics, Public Gardens, 1894, distemper on canvas: five panels of a cycle of nine. Also Pierre Bonnard, Femmes au jardin, Women in the Garden: Femme à la pèlerine, 1891, distemper on canvas.
+@listen: Standing in the corner of a dining room that no longer exists, and the painter his friends called the very Japanese Nabi.
+@brief: Inviting a friend into a lost room; warm and scene-setting, curious at the parasol, amused at Bonnard's nickname.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R5 062 Vuillard — Jardins publics (1894, distemper, nine panels commissioned by Alexandre Natanson for his mansion on the Avenue du Bois, now Avenue Foch; Natanson directed La Revue blanche, which published the Nabis; large room used as living and dining room; broken up 1929; five reunited, hung "around the corner of the room, as they were originally"; subtitles Fillettes jouant, L'Interrogatoire, Les Nourrices, La Conversation, L'Ombrelle rouge; continuous ground and sky; beige, green and blue with splashes of red; matt like fresco; first use of distemper on this scale; room 72): https://www.musee-orsay.fr/en/artworks/jardins-publics-la-conversation-les-nourrices-lombrelle-rouge-8015 ; …/jardins-publics-linterrogatoire-8285 ; …/jardins-publics-fillettes-jouant-8284 (OFF) ; FACTS_R5 063a Bonnard — Femmes au jardin (1891, distemper, Femme à la pèlerine room 72, first treatment of the screen format as decorative panels, "le Nabi très japonard", tall screen-panel format, chequered clothes, flat layering): https://www.musee-orsay.fr/en/artworks/femmes-au-jardin-femme-la-pelerine-8024 ; commentary paravent-19797 (OFF) ; FACTS_R5 063b (next-room cue: Vallotton, room 71) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[curious] When this seated woman first appeared in public, she didn't have a grand title. At the Salon d'Automne of 1905, she was simply called Woman, and she caused a stir.
+[warmly] Picture a dinner invitation in 1894, to a mansion on the Avenue du Bois, the avenue Parisians now call Avenue Foch. Your host is Alexandre Natanson. He runs La Revue blanche, the journal that published the Nabis. And around his room, a cycle of painted gardens.
 
-Aristide Maillol made her for his German patron, Count Harry Kessler. The name she carries now, Méditerranée, The Mediterranean, came later. This marble is a copy made in Maillol's own lifetime, in the nineteen twenties.
+That year Natanson commissioned nine panels from Édouard Vuillard, for a large room used for both living and dining. They're called Jardins publics, Public Gardens. In 1929 the set was broken up. Five of the nine are reunited here, hung around the corner of the room, as they were originally. [pause] So you're standing, more or less, in a corner of that lost room.
 
-[quietly] Compare her with Rodin's Balzac, back on the Terrasse Rodin. Rodin gives you a storm. Maillol turned away from that expressive style, towards formal beauty and simplicity. No story, no drama, no name, just a seated woman and a block of calm. Walk slowly around her, and notice how little she moves.
+Each panel is its own scene with its own subtitle: girls playing, a questioning, nursemaids, a conversation, a red parasol. Yet the ground and sky run on from one to the next, and so do the light and the colour. Harmonies of beige, green and blue, enlivened by a few splashes of red. [curious] See if you can find the parasol.
 
-[pause] Now turn to the opposite answer. Antoine Bourdelle's Héraklès, Hercules the Archer, dates from 1909. Its full French title tells you the myth. The hero is shooting the man-eating birds of Lake Stymphalus. It's gilded bronze, nearly two and a half metres high and just as wide.
+Notice too how matt the surface is, almost like a fresco. Vuillard painted in distemper, a paint bound with glue, and this was the first time he used it on this scale.
 
-Look at the bow, drawn tight, and then at the open air beyond it, where the arrow is about to fly. All that weight of bronze is gathered into one moment of tension.
+In the same room, look for Pierre Bonnard's tall, narrow panel of a woman in a cape, from his Femmes au jardin, Women in the Garden. [amused] His friends called him le Nabi très japonard, the very Japanese Nabi. The tall, screen-like format and the flat layers show you why.
 
-[lightly] Here are two ways to make a body speak in sculpture. One sits perfectly still. The other is a split second from letting go.
-
-For the last stop, stay on the terrace and find a spot at the balustrade where you can look down over the whole nave. I'll meet you there for the final track.
+Next door, in room 71, look for a small painting of a child in a yellow hat, running after a red ball across a park. Play its track there.

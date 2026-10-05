@@ -1,26 +1,26 @@
-@id: 040 · Cézanne rooms
+@id: 040 · Room 34
 @section: Impressionism
-@room: Cézanne rooms · Level 5
+@room: Room 34 · Level 5
 @type: R
-@title: Cézanne — Pommes et oranges (Apples and Oranges)
-@where: In the Cézanne rooms on level 5; the room is not confirmed. Look for a large still life of apples and oranges on dishes, with draped cloth and a flower-patterned jug. Orsay also owns views of the Montagne Sainte-Victoire, which may or may not be hanging nearby.
-@what: Paul Cézanne, Pommes et oranges, Apples and Oranges, around 1899, oil on canvas, 74 × 93 cm. Bequest of comte Isaac de Camondo, 1911.
-@listen: Six paintings from the same props, and why the museum calls this the most important still life of his late years.
-@brief: Explaining to a friend why a table of fruit is worth a long look; plain, enthusiastic in a quiet way, a little wry about the props.
-@pace: medium
-@energy: 2→3→3
-@sources: FACTS_R3 042 Pommes et oranges (c. 1899, 74 × 93, Camondo 1911; painted in 1899 in his Paris studio; one of six still lifes with the same props: earthenware dishes, a flower-patterned jug, drapery recalling 17th-century Flemish still lifes; "the most important still life produced by the artist in the late 1890s"): https://www.musee-orsay.fr/en/artworks/pommes-et-oranges-1470 and commentary 7098 (OFF) ; FACTS_R3 042 Sainte-Victoire (Orsay holds an oil c. 1890 and a watercolour c. 1900; one not exhibited; used only as a hedge in @where) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Monet — Nymphéas bleus (Blue Water Lilies)
+@where: In room 34 on level 5, the same room as the Rouen Cathedrals. Look for a large, square canvas of water lilies, about two metres each way.
+@what: Claude Monet, Nymphéas bleus, Blue Water Lilies, around 1916–1919, oil on canvas, 204 × 200 cm.
+@listen: The pond Monet made in the same years as the cathedrals, and why this picture seems to have no edges.
+@brief: Standing next to a friend in front of a big, calm canvas after the busy cathedrals; unhurried, close to hushed, letting the picture do the work.
+@pace: slow
+@energy: 2→3→1
+@sources: FACTS_R3 040 fallback Nymphéas bleus (c. 1916–1919, 204 × 200, room 34; water garden at Giverny created 1893; from the 1910s until his death in 1926 the pond his sole source of inspiration; no point draws attention more than another; square format and lack of reference points give "infinity and limitlessness"): https://www.musee-orsay.fr/en/artworks/nympheas-bleus-1172 (OFF) ; FACTS_R3 039 (cathedrals painted 1892–93, finished at Giverny 1894, OFF)
 ---
-[wry] For a man who painted fruit, Cézanne was remarkably loyal to his props.
+[warmly] While Monet was wrestling with that cathedral in Rouen, he was also making a pond. In 1893 he created a water garden at his house in Giverny.
 
-In 1899, in his studio in Paris, he set up a still life. Some earthenware dishes, a jug patterned with flowers, a length of drapery. Then he painted it, and then, with the same props, he painted it again. This is one of six still lifes made from those same few objects.
+For the last part of his life, from the nineteen tens until his death in 1926, that pond was his sole source of inspiration. He had spent years chasing light across a stone front. Now the light came to him, on the water in his own garden.
 
-[curious] Why keep the props? Here's a guess you can test with your own eyes. When the objects stay the same, the only things left to change are the arrangement and the painting itself. The subject quietly shifts from the fruit to the way the fruit is put together.
+[pause] This canvas is one of those late pictures. It's big, two metres high and almost exactly as wide, and that square shape matters.
 
-Look at the drapery. It recalls the great Flemish still lifes of the seventeenth century. So Cézanne is borrowing an old, grand way of setting a table, and making it serve a very modern kind of looking.
+[quietly] Try something. Let your eye look for a place to rest, a bank or a horizon or a patch of sky, and you won't find one. No point in the picture pulls your attention more than any other. There's no edge of the pond, no up or down to hold on to. Just the lilies, the water, and the colour of the title.
 
-[pause] The museum doesn't hedge on this one. It calls Pommes et oranges "the most important still life produced by the artist in the late 1890s."
+The museum describes the effect as a sense of infinity, of limitlessness, and standing this close it's easy to see why. The canvas stops at the frame, but the pond doesn't seem to.
 
-[warmly] So give it the time he gave it. Start with the jug and its flowers, then the dishes, then the fruit, and let the cloth carry you round the table. He looked at these same things six times over. One long look from you seems only fair.
+[long pause] The cathedrals were about one thing changing. Here, there's barely a thing at all.
 
-Walk on to room 36, the Van Gogh room, where the picture rails are painted blue, and play its track at the entrance.
+Go on into the Cézanne rooms and look for a small painting of card players, one of them smoking a pipe, and play its track there.

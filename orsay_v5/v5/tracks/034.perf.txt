@@ -1,26 +1,28 @@
-@id: 034 · Impressionist rooms · Level 5
+@id: 034 · Room 32 · Level 5
 @section: Impressionism
-@room: Impressionist rooms · Level 5
-@type: R
-@title: Degas — L'Absinthe
-@where: In the Impressionist rooms on level 5; the exact room is not confirmed. Look for a man and a woman sitting side by side on a café banquette, a marble table in front of them and a glass of absinthe before her, the picture framed well off-centre.
-@what: Edgar Degas, Dans un café, In a Café, also called L'Absinthe, 1875–1876, oil on canvas, 92 × 68.5 cm. Bequest of Count Isaac de Camondo, 1911.
-@listen: Two friends cast as strangers, a real Paris café, and the odd framing that makes the whole picture feel unsteady.
-@brief: A friend letting you in on the casting behind a bleak picture; dry and knowing at first, then quieter and attentive to the loneliness.
-@pace: medium
-@energy: 3→3→2
-@sources: FACTS_R3 035 (1875–1876; 92 × 68.5; Camondo bequest 1911; the woman on a banquette behind a marble table with a glass of absinthe; side by side "each immersed in silent isolation", empty sad gazes; off-centre framing leaves voids and cuts off the man's pipe and hand; inspired by Japanese prints; "a certain alcoholic imbalance"; sitters Ellen Andrée, actress and model, and Marcellin Desboutin, painter-engraver; café La Nouvelle Athènes, place Pigalle, a meeting place for modern artists; possible denunciation of absinthe, "later prohibited"): https://m.musee-orsay.fr/fr/oeuvres/commentaire_id/dans-un-cafe-167.html ; https://www.musee-orsay.fr/fr/collections/oeuvres-commentees/peinture/commentaire_id/dans-un-cafe-167.html (OFF) ; FACTS_R3 031 (Monet settled in the Nouvelle Athènes district): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF)
+@room: Room 32 · Level 5
+@type: W
+@title: Degas — Petite danseuse de quatorze ans
+@where: Room 32, level 5. A free-standing figure of a young dancer, just under a metre tall, in dark patinated bronze with a real tulle tutu and a satin ribbon, on a wooden base. You can walk around her.
+@what: Edgar Degas, Petite danseuse de quatorze ans, Little Dancer Aged Fourteen: a posthumous bronze, cast by the lost-wax method by the founder Adrien-Aurélien Hébrard between 1921 and 1931, after Degas's wax model of 1878–1881. Patinated bronze, tulle, satin, wood. Height 98 cm. Acquired in 1931.
+@listen: Who the girl was, what Paris saw in 1881, and why the figure in front of you is a faithful copy made after Degas died.
+@brief: Telling a friend the true story behind a famous figure; curious at first, honest and a little protective of the girl, quietly moved at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: FACTS_R3 034 (bronze cast lost-wax by Adrien-Aurélien Hébrard 1921–1931 after the wax of 1878–1881; tulle tutu, satin ribbon, wooden base; H. 98 cm; acquired 1931 from Degas's heirs and the Hébrard family; shown at the 1881 Impressionist exhibition; about 150 wax or clay sculptures found in Degas's studio at his death in 1917; the bronze edition "tried to preserve the characteristics of the wax as much as possible"; room 32): https://www.musee-orsay.fr/en/artworks/petite-danseuse-de-quatorze-ans-961 (OFF) ; A3 26.7 (original wax in Washington, OFF) ; A3 26.1 (Marie van Goethem, born in Paris to Belgian parents, SEC2) ; A3 Confirmed OK (wax original with real hair and fabric; Marie dismissed 1882)
 ---
-[wry] The two people in this café knew each other well. Degas painted them as if they'd never met.
+[curious] When Paris first saw this girl, she wasn't made of bronze at all. She was wax, with real hair and real fabric.
 
-She is Ellen Andrée, an actress who also modelled for painters. He is Marcellin Desboutin, a painter and engraver. And the café is real, La Nouvelle Athènes on the place Pigalle, a meeting place for the modern artists of Paris. It stood in the same district Monet had moved to before he painted Saint-Lazare. So these are friends from Degas's own circle, cast in a scene of total loneliness.
+That was in eighteen eighty-one, at the Impressionists' exhibition. Degas had been working on the figure for about three years. His model was Marie van Goethem, a young dancer born in Paris to Belgian parents. The title tells you her age, fourteen.
 
-[quietly] Look at her first, sitting on the banquette behind a marble table with a glass of absinthe in front of her. Then look at the two faces. They sit side by side, and yet each of them is sealed off in silence. Their gazes are empty and sad, and nobody is talking.
+Her dancing career did not last. [pause] The following year, she was dismissed.
 
-[pause] Now step back and look at the frame. The whole scene is pushed off to one side. There are empty stretches of table, and the man's pipe and hand are cut off at the edge. That kind of off-centre framing came from Japanese prints. Here it does something unsettling, and the museum's phrase for it is "a certain alcoholic imbalance". The picture itself seems to lean.
+[quietly] So what exactly are you looking at? The figure in front of you is not the one Degas showed. His wax original is in Washington. Degas never had this cast made.
 
-It may also be a warning against absinthe, a drink that was later prohibited.
+When he died in nineteen seventeen, about a hundred and fifty sculptures in wax or clay were found in his studio. In the years that followed, the founder Adrien-Aurélien Hébrard cast a bronze edition by the lost-wax method. The museum says the aim was to keep the character of the wax as much as possible. This cast was made in that campaign, and the museum acquired it with the help of Degas's heirs and the Hébrard family.
 
-[lightly] Andrée and Desboutin went back to their lives. The painting kept them at that table.
+So take a slow walk round her. The body is patinated bronze, but look at the skirt, because that's real tulle. And the ribbon is real satin, just as the wax had real fabric. She's just under a metre tall, smaller than many people expect.
 
-Then go and find a much happier crowd. In the Impressionist rooms on this level, look for Renoir's Bal du moulin de la Galette, a large dance scene full of people, and play its track there.
+[long pause] Everything else here is a careful copy. The tutu and the ribbon are real cloth. Somehow, that's enough to make her feel alive.
+
+In this same room, find Berthe Morisot's Le Berceau, The Cradle: a young woman watching over a baby asleep in its cradle. Play its track there.

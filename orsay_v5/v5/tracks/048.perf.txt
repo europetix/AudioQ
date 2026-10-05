@@ -1,24 +1,26 @@
-@id: 048 · Room 40 · Level 5
-@section: Post-Impressionism
-@room: Room 40 · Level 5
+@id: 048 · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
 @type: R
-@title: Signac — Femme à l'ombrelle
-@where: Room 40 on level 5, among the Neo-Impressionists. Look for Paul Signac's portrait of a woman with a parasol, painted in small separate touches of colour. More Signac hangs in room 39.
-@what: Paul Signac, Femme à l'ombrelle (Woman with a Parasol), 1893. Oil on canvas, 81 × 65 cm.
-@listen: The woman Signac met at a cabaret and painted after ten years together, and how the next generation took the Impressionists' favourite subject and remade it in dots.
-@brief: Letting a friend in on a quiet love story behind a formal-looking picture, then playing a looking game; warm and light.
+@title: Van Gogh — Le Docteur Paul Gachet
+@where: In room 36 on level 5, the Van Gogh room. Look for Van Gogh's portrait of a melancholy man painted in cold colours, with a sprig of foxglove.
+@what: Vincent van Gogh, Portrait du Docteur Gachet, Dr Paul Gachet, 1890, oil on canvas, 68 × 57 cm, RF 1949 16. Part of the gift of the Gachet heirs, 1949–1954.
+@listen: Who Dr Gachet was, the false name he painted under, and the one hopeful thing Van Gogh put in his portrait.
+@brief: Introducing a friend to an odd, likeable man and his sad portrait; curious, a little amused at the alias, quiet at the foxglove.
 @pace: medium
-@energy: 2→3→3
-@sources: FACTS_R4 050 Signac (Femme à l'ombrelle 1893, 81 × 65, room 40; Berthe Roblès 1862–1942, distant cousin of Pissarro; met early 1880s at the Chat Noir, lived with him from then; married 7 Nov 1892; finished Neo-Impressionist portraits rare; last of a series of family and friends incl. Fénéon 1890 MoMA; parasol theme as in Monet's two "Essai de figure en plein air" at Orsay, "in a purely Neo-Impressionist manner"; Signac works in rooms 39 and 40; Signac owned Le Cirque): https://www.musee-orsay.fr/en/artworks/femme-lombrelle-25640 (OFF) ; A3 30.3–30.4 ("divisionnisme" was Signac's term; colours mix in the eye and stay luminous; SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@energy: 3→3→2
+@sources: FACTS_R4 048 (1890; 68 × 57; RF 1949 16; Gachet a doctor specialising in melancholy and nervous illnesses who monitored Van Gogh's health; amateur painter and engraver as Paul Van Ryssel; bought Cézanne, Guillaumin, Monet, Renoir; one of the first collectors of Van Gogh; heirs Marguerite 1869–1949 and Paul junior 1873–1962 gave the collection to the Louvre 1949–1954; room 37 the Paul Gachet collection): https://www.musee-orsay.fr/en/artworks/portrait-du-docteur-gachet-98570 and https://www.musee-orsay.fr/en/articles/van-gogh-new-presentation-artists-works-musee-dorsay-277393 (OFF) ; FACTS_R4 048 commentary (Theo's advice; "melancholy pose", "severe portrait brushed in cold colours", foxglove "the only touch of hope"; first and only etching, copper plate dated 25 May 90) (OFF) ; letter RM23 to Gauguin, c. 17 June 1890, "the deeply sad expression of our time": vangoghletters.org (OFF extract, VGM translation) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[warmly] Paul Signac met the woman in this picture at a cabaret, the Chat Noir, in the early eighteen-eighties. From then on, she lived with him.
+[amused] Dr Paul Gachet had a second life, and a second name. He was an amateur painter and engraver, and he signed that work Paul Van Ryssel.
 
-Her name was Berthe Roblès, a distant cousin of the painter Camille Pissarro. They married in November 1892, after about ten years together. The next year he painted her here, as Femme à l'ombrelle, Woman with a Parasol.
+As a doctor, his speciality was melancholy and nervous illness. He was close to the Impressionists, and bought works by Cézanne, Monet, Renoir and Guillaumin. He was one of Van Gogh's first collectors. So when Van Gogh left the hospital at Saint-Rémy, Theo advised him to go to Auvers, where this doctor could keep an eye on his health.
 
-[pause] That alone makes it unusual. Finished portraits are rare in Signac's work. This is the last of a small series of family and friends, which includes the writer Félix Fénéon, now in New York at the Museum of Modern Art.
+[pause] A special bond grew between the two men. Within days of arriving, Van Gogh made his first and only etching, a portrait of Gachet. The museum still has the copper plate, dated the twenty-fifth of May, 1890.
 
-[lightly] And the subject is a nod to the generation before. A woman with a parasol was an Impressionist favourite. Monet painted two such studies of a figure out of doors, and both belong to this museum. Signac takes the same idea and does it, as the museum puts it, in a purely Neo-Impressionist manner.
+[quietly] Then came this painting. Look at the pose, heavy with melancholy, and at the colours, all cold. In a letter to Gauguin, Van Gogh said he had painted Gachet "with the deeply sad expression of our time." Not just one man's sadness. A whole era's.
 
-Signac called the method divisionism. The colours go down as separate touches, meant to mix in your eye and stay luminous. Step close and Berthe breaks into colour. Step back and she comes together again. Try it a couple of times. The picture changes with every step you take.
+But find the foxglove. It's a plant doctors valued for its healing properties, and the museum calls it the only touch of hope in the picture. A doctor's flower, for a doctor who was himself, perhaps, a little melancholy.
 
-Walk on to room 43, the Pont-Aven room. Look for a life-size young woman lying full length in a wood, Émile Bernard's Madeleine au Bois d'Amour. Her track is waiting for you there.
+[warmly] Long after the doctor's death, his children, Marguerite and Paul, gave his collection to the Louvre, between 1949 and 1954. This portrait, the self-portrait and the church you've just seen all came from that house in Auvers.
+
+Then leave the Van Gogh room for room 38. Look for Seurat's large circus scene, a clown seen from behind in the front, inside a painted dark border. The next story is waiting there.

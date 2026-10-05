@@ -1,26 +1,26 @@
 @id: 031 · Room 31 · Level 5
 @section: Impressionism
 @room: Room 31 · Level 5
-@type: R
-@title: Degas — La Classe de danse
-@where: Room 31, level 5, the same room as Monet's Gare Saint-Lazare and Caillebotte's Floor Scrapers. A ballet class in a rehearsal room, the ballet master among his young pupils.
-@what: Edgar Degas, La Classe de danse, The Dance Class, 1873–1876, oil on canvas, 85.5 × 75 cm. Bequest of Count Isaac de Camondo, 1911.
-@listen: A real ballet master in a class that never happened, in an opera house that had already burned down.
-@brief: Letting a friend in on a well-made illusion; conspiratorial at first, then amused and attentive as you hunt for the tired dancers.
+@type: W
+@title: Monet — La Gare Saint-Lazare
+@where: Room 31, level 5. Monet's painting of the inside of a Paris railway station, the hall filled with steam and light.
+@what: Claude Monet, La Gare Saint-Lazare, The Saint-Lazare Station, 1877, oil on canvas, 75 × 105 cm. Caillebotte bequest, accepted by the State in 1896.
+@listen: How Monet found a subject on the edge of his new neighbourhood, and how a painter friend paid 685 francs for it and ended up giving it to France.
+@brief: A friend enjoying the irony of looking at a station from inside a station; brisk and lively about the steam, warm about Caillebotte, a light landing.
 @pace: medium
 @energy: 3→4→3
-@sources: FACTS_R3 033 (1873–1876; 85.5 × 75; Camondo bequest 1911; teacher a portrait of the ballet master Jules Perrot; the class is ending, the pupils exhausted: they stretch, twist to scratch their backs, adjust hair or clothes; room 31): https://www.musee-orsay.fr/en/artworks/la-classe-de-danse-1151 (OFF) ; A3 25.2 (an imaginary scene, set in the old Opéra on rue Le Peletier, which had burned down, OFF) ; A3 25.5 (commissioned by the baritone Faure, OFF) ; FACTS_R3 025 (Faure owned Manet's Déjeuner, OFF)
+@sources: FACTS_R3 031 (1877; 75 × 105; RF 2775; Monet had just left Argenteuil and settled in the Nouvelle Athènes district; asked permission to work inside the station that bounded it; after the effects of colour, light and steam rather than machines or travellers; Caillebotte bought it 10 March 1878 for 685 francs; Caillebotte bequest accepted 1896 for the Luxembourg; room 31): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF) ; A3 22.1 (one of the busiest stations in Paris then and now, SEC2) ; A3 22.3 (Monet made a whole series of it, SEC2) ; A3 24.6 (Caillebotte bequest accepted after years of dispute, OFF) ; FACTS_R3 024 (Gare d'Orsay inaugurated 1900): https://www.musee-orsay.fr/en/node/60 (OFF)
 ---
-[conspiratorial] This class never took place, not like this anyway. Degas invented it, the way a stage designer invents a set.
+[amused] Here's a small irony to enjoy. You're about to look at a railway station, and you're standing inside one.
 
-The teacher, though, is real: Jules Perrot, a famous ballet master, and Degas painted him as a portrait. But the scene around him is imaginary. It's set in the rehearsal room of the old Opéra on the rue Le Peletier. That's not Garnier's building, the one you saw in model form downstairs, but the older house. And by the time Degas was at work on this, that opera house had already burned down.
+When Monet painted this, the Gare d'Orsay didn't exist yet. Saint-Lazare did, and it was one of the busiest stations in Paris, as it still is. In eighteen seventy-seven Monet had just left Argenteuil and moved into the Nouvelle Athènes district, and the station ran right along the edge of it. So he asked for permission to set up and work inside.
 
-[pause] So a real man is teaching a class that never happened, in a room that no longer existed.
+[pause] He got in, and he came back again and again. He made a whole series of the station.
 
-Who wanted it? A singer, as it happens. The painting was commissioned by Jean-Baptiste Faure, the opera baritone, who also owned Manet's Déjeuner sur l'herbe.
+Now look at what he chose to paint, and what he didn't. You won't find a careful portrait of a locomotive here, or of the people on the platforms. Monet was after something else entirely: the colour, the light, and above all the steam. Let your eye move through the hall and follow the steam. That's the real subject, not the machine itself but the weather the machine makes.
 
-[amused] Now, the best part is the dancers. The class is ending, and they are exhausted. Look along the room and you'll find them stretching, fixing their hair, tugging at their clothes. One of them twists round to scratch her back. See if you can find her. It's the least balletic gesture in the room, and Degas put it in on purpose.
+[warmly] The first person to buy it was a painter, Gustave Caillebotte. On the tenth of March eighteen seventy-eight, he paid Monet six hundred and eighty-five francs for it. When Caillebotte died, he left his collection to the nation. The State hesitated for years, and only accepted it in eighteen ninety-six. That's how this canvas ended up in public hands.
 
-That's his trick: he gives you the grand old rehearsal room and the famous teacher. And then he shows you what the end of a long class really feels like. Tired girls, and an itch.
+[lightly] So a painting of one station, bought by one painter, now hangs in another station. Monet would have liked the timetable.
 
-Next door, in room 32, a real dancer is waiting: Degas's sculpture, the Petite danseuse de quatorze ans. Start her track when you reach her.
+In this same room, find Caillebotte's own painting, Raboteurs de parquet, The Floor Scrapers, and play its track there.

@@ -1,26 +1,26 @@
-@id: 060 · Room 68 · Level 2
-@section: Lautrec and the Nabis
-@room: Room 68 · Level 2
+@id: 060 · Room 47 · Level 5
+@section: Post-Impressionism
+@room: Room 47 · Cinema 1895–1914 · Level 5
 @type: R
-@title: Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue
-@where: Room 68 on level 2, the Toulouse-Lautrec room. Cha-U-Kao is a small picture on cardboard of a woman clown in a private room, fastening a large yellow ruffle, with green walls and a red sofa. La Goulue's two monumental booth panels may not be shown in this room.
-@what: Henri de Toulouse-Lautrec, La Clownesse Cha-U-Kao (The Clown Cha-U-Kao), 1895, oil on cardboard, 58 × 43 cm, Isaac de Camondo bequest, 1911. Panneaux pour la baraque de la Goulue, à la Foire du Trône à Paris (Panels for La Goulue's Booth at the Foire du Trône), 1895, oil.
-@listen: A clown whose stage name is a pun, a stranger in a mirror, and two fairground panels that were cut up and pieced back together.
-@brief: Taking a friend backstage at the Paris shows of the 1890s; amused by the name, curious about the man in the mirror, then telling the panels' odd survival story with quiet relish.
+@title: The birth of cinema, 1895–1914
+@where: In room 47 on level 5, Cinéma 1895–1914, next to the Chat Noir room. Early films play on three screens, with sound that reaches you only when you stand in front of each one. Display cases may hold optical toys and early photographs; what is on show changes, so check on site.
+@what: A room on the birth of the cinematograph: about fifteen films or excerpts from 1895 to 1914 on three screens, shown with directional "sound showers", alongside the optical devices and photographs that came before film.
+@listen: Why a museum of the nineteenth century ends with moving pictures, and the toys that taught the eye to see motion.
+@brief: A friend in a darkened room, delighted by flickering images; light and curious, then reflective as the walk turns back.
 @pace: medium
-@energy: 3→3→4→2
-@sources: FACTS_R5 061a Cha-U-Kao (1895, oil on cardboard, 58 × 43, RF 2027, Camondo bequest 1911; dressing or private room, large yellow ruffle, yellow ribbon "almost ironically" tying her white toupee, portrait or mirror reflecting an elderly man who "could be a close friend, an admirer or a customer", green walls, red sofa; dancer and clown at the Nouveau Cirque and Moulin Rouge; name = "chahut" + "chaos"): https://www.musee-orsay.fr/en/artworks/clownesse-cha-u-kao-724 (OFF) ; FACTS_R5 061b La Goulue panels (1895; booth at the Foire du Trône; left La Danse au Moulin-Rouge with Valentin le Désossé, right La Danse mauresque; hung outside, exposed to the elements; bought by Viau 1900; cut up by the Hodebert gallery 1926; acquired 1929; reconstituted 1930; location unconfirmed, older plan-guides level 5): https://www.musee-orsay.fr/en/artworks/panneaux-pour-la-baraque-de-la-goulue-la-foire-du-trone-paris-3007 (OFF) ; FACTS_R5 068 (next cue: Balzac, Terrasse Rodin; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@energy: 3→4→3→2
+@sources: FACTS_R6 (e) (a room devoted to the birth of the cinematograph in 1895 since the museum opened in 1986; display cases with thaumatropes, phenakistiscopes, stereoscopes, a magic lantern and a projection lantern, a praxinoscope-théâtre, chronophotographs by Étienne-Jules Marey, Chat Noir zinc silhouettes, a "Lumière column" of autochromes; since 2019 about fifteen films or excerpts on three screens with "sound showers"; themes change to show the main stages of the invention, 1895–1914; optical toys and autochromes not confirmed on show in 2026): "Le cinéma dans le parcours permanent / Cinema in the Orsay collections", musee-orsay.fr node 413 (OFF) ; room 47 "Cinéma (1895–1914)": findings/M_planguide_ete_2026.md (OFF), location conflict resolved in favour of the plan-guide
 ---
-[amused] Her stage name sounds Japanese. It's actually a pun.
+[lightly] A museum of the nineteenth century, and it ends here, with moving pictures.
 
-Cha-U-Kao was a dancer and clown at the Nouveau Cirque and the Moulin Rouge. Say her name aloud and you hear two French words. Chahut, a wild acrobatic dance that grew out of the cancan, and chaos, the uproar when she came on stage.
+Ever since this museum opened, it has kept a room for the birth of the cinematograph, in eighteen ninety-five. The shadow theatre next door was one step on the way. This room is where the road arrives.
 
-Lautrec doesn't show her performing. He shows her in a private room, struggling to fasten a large yellow ruffle to the top of her costume. The ruffle almost fills the picture. A yellow ribbon ties up her white toupee, almost ironically, the museum says. Green walls, a red sofa, and quick brushstrokes everywhere.
+[curious] Look at the screens. There are three, and between them they show about fifteen films or excerpts, from those first years up to nineteen fourteen. Step in front of one and listen. The sound falls on you like a shower, meant for whoever stands there and hardly anyone else. The themes change from time to time, each one showing a stage in how the cinema was invented. So what you see today may not be what the next visitor sees.
 
-[curious] Now look above the little table. In a mirror, or perhaps a portrait, there's an elderly man. He could be a close friend, an admirer or a customer. He's simply there, in the room with her.
+[pause] Before film, there were toys. This room has long kept the devices that came first, in its display cases. Thaumatropes and phenakistiscopes. Stereoscopes. A magic lantern and a projection lantern. A little praxinoscope-théâtre. If they are in the cases today, take a look. [amused] Their names are harder work than the toys.
 
-The other great star of Lautrec's Paris was La Goulue. In 1895 she wanted her own booth at the Foire du Trône, the Paris funfair, and Lautrec painted two monumental panels for its entrance. On one, she dances at the Moulin Rouge with Valentin le Désossé, the pair who made those dances famous. On the other, she performs the so-called Moorish dance she offered inside.
+There may also be chronophotographs by Étienne-Jules Marey. And a column where you can look at autochromes, the colour photographs of the Lumières.
 
-[pause] Those panels stood outside in the weather until a collector rescued them. Then a dealer cut them into pieces to sell. In 1930 the State put them back together. They aren't always shown beside Cha-U-Kao, so if you don't see them here, keep the story with you.
+[quietly] Think back to the zinc figures you just left. Light behind a screen, an audience in the dark, images that move. Here the same wish finally comes true.
 
-Now make your way east along the sculpture terrace that overlooks the nave, to the Terrasse Rodin at the far end of this floor, by room 67. Rodin's Balzac stands there, a towering plaster figure of the writer. Play its track in front of him.
+Now walk back the way you came, towards the second great clock. The Café Campana sits beside it, by rooms 38 and 39. Stop at the threshold and play its track there.

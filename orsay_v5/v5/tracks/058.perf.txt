@@ -1,24 +1,26 @@
-@id: 058 · Room 70 · Level 2
-@section: Lautrec and the Nabis
-@room: Room 70 · Level 2
+@id: 058 · Room 45 · Level 5
+@section: Post-Impressionism
+@room: Room 45 · Redon and the Nabis · Level 5
 @type: R
-@title: Maurice Denis — Les Muses
-@where: Room 70 on level 2, in front of a tall canvas of women in the dress of the 1890s, gathered among the straight trunks of great chestnut trees.
-@what: Maurice Denis, Les Muses, The Muses, 1893, oil on canvas, 171 × 137.5 cm. Bought at public sale in 1932.
-@listen: How Denis turned the Muses of myth into women of his own day, and put his new wife among them.
-@brief: A friend pointing out a private detail in a public painting; warm and unhurried, a small smile at the reveal of the bride.
-@pace: medium-slow
-@energy: 2→3→2
-@sources: FACTS_R5 064 Denis — Les Muses (1893, oil on canvas, 171 × 137.5 cm, bought at public sale 1932, room 70, Muses as women in contemporary dress, century-old chestnut trees of the terrace at Saint-Germain-en-Laye where Denis lived all his life, trunks give "rhythm and decorative power", Marthe married June 1893 among the three seated women, inspired his art until her death): https://www.musee-orsay.fr/en/artworks/les-muses-160 ; works-in-focus the-muses-2069 (OFF) ; FACTS_R4 056 (Talisman the founding work of the Nabis) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Odilon Redon — Les Yeux clos (Closed Eyes)
+@where: In room 45 on level 5, Redon and the Nabis, in the Galerie Françoise Cachin: a small painting, 44 × 36 cm, of a head and shoulders with closed eyes, floating in a soft, undefined space. The room number is inferred from the plan; check nearby if needed.
+@what: Odilon Redon, Les Yeux clos, Closed Eyes, 1890, oil, 44 × 36 cm, signed and dated. Chosen from the artist's studio in 1904 by Léonce Bénédite for the Musée du Luxembourg.
+@listen: A face turned inwards, the first Redon the State ever took, and his farewell to Gauguin.
+@brief: Quiet, intimate, close to a whisper in front of a dreaming face; reflective, with a warm turn at the end.
+@pace: slow
+@energy: 2→2→3→2
+@sources: FACTS_R7 Les Yeux clos (1890, signed "ODILON REDON 1890", 44 × 36; say "oil" only; chosen in 1904 from the studio by Léonce Bénédite, director of the Musée du Luxembourg; first Redon in the national collections; probably his wife Camille Falte, from an earlier drawing; inner world, dream, absence, apparition; journal À soi-même; very diluted, almost immaterial paint, grain showing; bust floats; Laurana's busts and Michelangelo's Dying Slave, which deeply moved Redon; "an icon of Symbolism in painting"; Redon born 1840, about fifty): musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/closed-eyes-3022.html and musee-orsay.fr/en/artworks/les-yeux-clos-476 (OFF), audit A1 (SEC2 for birth year) ; FACTS_R7 Redon, Paul Gauguin (1903–1905; Gauguin's death in the Marquesas 8 May 1903; Redon's November article, "refined, savage, grandiose and delicate"; only painter he paid several tributes to; probably met 1886; dark profile against a medallion like a funerary relief or ancient medal; "Inca" nose and long hair): musee-orsay.fr/en/artworks/paul-gauguin-477 (OFF), room not given ; room 45 "Redon et les Nabis": findings/M_planguide_ete_2026.md (OFF), room inferred
 ---
-[warmly] In June 1893, a young painter called Maurice Denis married a woman named Marthe. That same year he finished this canvas. And she is in it.
+[reverent] She has closed her eyes. And that, for Odilon Redon, was the whole point.
 
-Denis was one of the Nabis, the painters of the little Talisman you saw upstairs. This is what their ideas could look like a few years on, at full size.
+The face is probably his wife, Camille Falte, remade from an earlier drawing. But it's really a picture of what happens behind the eyelids. Dream, absence, an inner world, perhaps an apparition. Redon wrote about these things in his journal, later published as À soi-même, To Myself. There he spoke of the strange charm of "closed eyes".
 
-The subject is the Muses of classical myth. [pause] But Denis leaves antiquity behind. His Muses are women in the dress of his own day, gathered on a terrace. And the place is real. It's the terrace at Saint-Germain-en-Laye, where Denis lived all his life, under chestnut trees already a century old.
+[pause] Look at how little paint there is. It's very thin, almost immaterial, and you can see the grain of the support coming through. The head and shoulders seem to float, in a space with no edges.
 
-Look at the tree trunks first. They rise straight through the picture and set its beat, like the bars of a piece of music. The museum speaks of the rhythm and decorative power they give the whole scene. The women are fitted in between them.
+Redon painted it in eighteen ninety, when he was about fifty. Behind the face are older models. Italian Renaissance busts, the marbles of Francesco Laurana above all. And Michelangelo's Dying Slave in the Louvre, a sculpture that deeply moved him. Today it is called an icon of Symbolism in painting.
 
-[quietly] Then find the group of three women seated in the foreground. One of them is Marthe, the new bride. She went on inspiring his art until her death. So this is a painting of the Muses. It is also a portrait of his bride, the year they married.
+[curious] It was also a first. In nineteen-oh-four, the director of the Musée du Luxembourg, Léonce Bénédite, chose it from Redon's studio. It was the first work by Redon to enter the national collections.
 
-Now find room 68, given to Toulouse-Lautrec and the shows of his Paris. Look for a tall, narrow picture on cardboard of a woman dancing alone, painted in thin, quick strokes, with two figures standing behind her. That's Jane Avril, and her story starts there.
+[warmly] Redon also links back to the Gauguin rooms. When Gauguin died in the Marquesas, he painted him in profile, dark against a medallion, like a funeral relief or an ancient medal, with the long hair and the "Inca" nose Gauguin was proud of. He praised him as "refined, savage, grandiose and delicate." Look for that portrait nearby, if it's on show.
+
+Then walk on to room 46, the Chat Noir, with its cut-out zinc figures. Play its track there.

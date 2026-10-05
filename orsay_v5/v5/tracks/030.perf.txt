@@ -1,26 +1,26 @@
-@id: 030 · Room 31 · Level 5
+@id: 030 · Impressionist rooms · Level 5
 @section: Impressionism
-@room: Room 31 · Level 5
+@room: Impressionist rooms · Level 5
 @type: R
-@title: Caillebotte — Raboteurs de parquet
-@where: Room 31, level 5, the same room as Monet's Gare Saint-Lazare. A large canvas of workmen scraping the boards of a bare floor.
-@what: Gustave Caillebotte, Raboteurs de parquet, The Floor Scrapers, 1875, oil on canvas, 102 × 147 cm. Given by the Caillebotte heirs through Auguste Renoir, 1894.
-@listen: Why the Salon jury rejected a painting of men at work, and how it reached the nation by a side door.
-@brief: A friend explaining, with quiet conviction, why a calm picture once shocked people; steady, a little pointed about the jury, warm about its arrival.
+@title: Pissarro — Gelée blanche
+@where: In the Impressionist rooms on level 5; the exact room is not confirmed. Look for a wide landscape of frosted, furrowed fields, with a man carrying dead wood along a path, signed and dated lower left.
+@what: Camille Pissarro, Gelée blanche, Hoarfrost, 1873, oil on canvas, 65.5 × 93.2 cm, painted at Pontoise. Shown at the first Impressionist exhibition in 1874.
+@listen: What a famous critic said about this frost, word for word, and why it says more about him than about the painting.
+@brief: A friend enjoying a famous insult and then quietly taking the painting's side; wry at the quotation, calm and attentive when looking.
 @pace: medium
-@energy: 3→4→3
-@sources: FACTS_R3 032 (1875; 102 × 147; RF 2718; "one of the first representations of the urban proletariat"; sent to the 1875 Salon, the jury "shocked by its crude realism" rejected it; "gift of the Caillebotte heirs through Auguste Renoir", 1894, not part of the bequest; room 31): https://www.musee-orsay.fr/en/artworks/raboteurs-de-parquet-105 (OFF) ; A3 (shown at the Impressionist exhibition of 1876, OFF) ; A3 28.3 (it divided the critics; Zola found it too exact, SEC2) ; FACTS_R3 031 (Caillebotte bought Monet's Gare Saint-Lazare): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF)
+@energy: 3→4→2
+@sources: FACTS_R3 030 (1873; 65.5 × 93.2; signed and dated "C.Pissarro 1873" lower left; RF 1972 27; Pontoise; a man carries dead wood along a path; one of Pissarro's five works shown in 1874): https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?nnumid=000368 (OFF) ; A3 20.1 (Leroy quoted exactly on Orsay's page: "uniform palette scrapings on a dirty canvas … neither head nor tail, neither top nor bottom, neither front nor back"; the jibe refers to furrows and frost): https://www.musee-orsay.fr/en/artworks/gelee-blanche-368 (OFF) ; A1 (Leroy's mocking review of Impression, soleil levant gave the group its name, SEC2) ; A3 20.5 (Pissarro the eldest of the group, SEC2)
 ---
-[quietly] In eighteen seventy-five, the jury of the official Salon looked at this painting and was shocked. Not by a nude or a battle, but by men scraping a floor.
+[wry] Some critics are remembered only for what they got wrong. Louis Leroy is one of them. His mocking review of a Monet called Impression, Sunrise is where the Impressionists got their name. And he had something to say about this painting too.
 
-The painter was Gustave Caillebotte, the same man who bought Monet's Gare Saint-Lazare. He was a collector, and a painter too, and he sent this canvas to the Salon. The jury, shocked by what it saw as crude realism, turned it down.
+It was eighteen seventy-four, at the group's first exhibition. Camille Pissarro, the eldest of the group, showed five works, and this was one of them. Leroy looked at these frozen furrows and called them "uniform palette scrapings on a dirty canvas". Then he went further, with "neither head nor tail, neither top nor bottom, neither front nor back."
 
-[pause] It's hard to feel the shock now. But this is a big canvas, almost a metre and a half wide, and the whole of it is given to working men, at work. The museum calls it one of the first representations of the urban proletariat. That was the crude part, not the paint but the subject.
+[pause] It's a good line, and it's also a confession that he didn't know how to look at it.
 
-So look at it the way the jury didn't. Take in the floor itself, the subject in the title, and the men at work on it. Give them the attention a Salon picture would give a king.
+So give it the look he didn't. Pissarro painted this field the year before, at Pontoise. Find the furrows, and the frost lying white along them. Those are the very things Leroy called scrapings. Then follow the path, where a man carries a load of dead wood. It's ordinary winter work, and Pissarro thought it worth a canvas almost a metre wide.
 
-The next year Caillebotte showed it with the Impressionists instead, at their exhibition of eighteen seventy-six, where it divided the critics. Even Zola, who had fought for Manet, found it too exact.
+[quietly] Then look down in the lower left corner. Pissarro signed it there and dated it. He wanted his name on exactly this.
 
-[warmly] And it isn't part of Caillebotte's famous bequest. After his death, his family gave it separately, through his friend Renoir.
+What Leroy saw as mess is the frost itself. And this painting is still here, on a museum wall, a century and a half after his review.
 
-Still in this room, find Degas's La Classe de danse, The Dance Class: a ballet master among his young pupils. Play its track there.
+Now go on to room 31 and find Monet's La Gare Saint-Lazare, a station hall full of steam and light, and press play in front of the steam.

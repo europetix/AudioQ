@@ -1,26 +1,24 @@
-@id: 038 · Room 34
+@id: 038 · Impressionist rooms
 @section: Impressionism
-@room: Room 34 · Level 5
+@room: Impressionist rooms · Level 5
 @type: R
-@title: Monet — Nymphéas bleus (Blue Water Lilies)
-@where: In room 34 on level 5, the same room as the Rouen Cathedrals. Look for a large, square canvas of water lilies, about two metres each way.
-@what: Claude Monet, Nymphéas bleus, Blue Water Lilies, around 1916–1919, oil on canvas, 204 × 200 cm.
-@listen: The pond Monet made in the same years as the cathedrals, and why this picture seems to have no edges.
-@brief: Standing next to a friend in front of a big, calm canvas after the busy cathedrals; unhurried, close to hushed, letting the picture do the work.
-@pace: slow
-@energy: 2→3→1
-@sources: FACTS_R3 040 fallback Nymphéas bleus (c. 1916–1919, 204 × 200, room 34; water garden at Giverny created 1893; from the 1910s until his death in 1926 the pond his sole source of inspiration; no point draws attention more than another; square format and lack of reference points give "infinity and limitlessness"): https://www.musee-orsay.fr/en/artworks/nympheas-bleus-1172 (OFF) ; FACTS_R3 039 (cathedrals painted 1892–93, finished at Giverny 1894, OFF)
+@title: Sisley — La Barque pendant l'inondation, Port-Marly
+@where: In the Impressionist rooms on level 5; the room is not confirmed. Look for a small flood scene: a house with pink and yellow walls standing at an angle, wide sky above and floodwater all around.
+@what: Alfred Sisley, La Barque pendant l'inondation, Port-Marly, The Boat in the Flood, 1876, oil on canvas, 50.4 × 61 cm. Bequest of comte Isaac de Camondo, 1911.
+@listen: The first owner whose household later joined Monet's, the spring the Seine came into town, and the six pictures Sisley made of it.
+@brief: Pointing out a quiet small picture to a friend after the noise of the dance; gently amused at the owner's story, then calm and observant.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R3 038 Sisley (official title; 1876; 50.4 × 61; provenance Hoschedé → Durand-Ruel → Camondo → bequest 1911 → Orsay 1986; moved to Marly-le-Roi 1874; spring 1876 flood, six pictures; house at an angle, much sky and water in broad strokes, pink and yellow walls painted precisely): https://www.musee-orsay.fr/en/artworks/la-barque-pendant-linondation-port-marly-1107 (OFF) ; A3 23.4 (Alice Hoschedé married Monet, July 1892, SEC2)
 ---
-[warmly] While Monet was wrestling with that cathedral in Rouen, he was also making a pond. In 1893 he created a water garden at his house in Giverny.
+[lightly] This quiet little flood scene began life in a household that would end up joined to Monet's. Its first owner was a man named Hoschedé, and his wife was called Alice. Years later, Alice Hoschedé married Claude Monet. The picture went its own way, to the collector Isaac de Camondo, who left it to the nation. You'll meet his name again with the cathedrals.
 
-For the last part of his life, from the nineteen tens until his death in 1926, that pond was his sole source of inspiration. He had spent years chasing light across a stone front. Now the light came to him, on the water in his own garden.
+But the picture itself is about water. In the same spring that Renoir was painting his dancers, the Seine climbed out of its bed.
 
-[pause] This canvas is one of those late pictures. It's big, two metres high and almost exactly as wide, and that square shape matters.
+Sisley had moved to Marly-le-Roi two years earlier. When the river flooded Port-Marly in the spring of 1876, he went out to paint it, and not just once. He made six pictures of that flood, and this is one of them.
 
-[quietly] Try something. Let your eye look for a place to rest, a bank or a horizon or a patch of sky, and you won't find one. No point in the picture pulls your attention more than any other. There's no edge of the pond, no up or down to hold on to. Just the lilies, the water, and the colour of the title.
+[curious] Look at how he splits the work in two. The sky and the water take up most of the canvas, and he paints them in light, broad strokes. Then the house. It stands at an angle, and its pink and yellow walls are painted with real precision. The boat of the title is out there on the flood.
 
-The museum describes the effect as a sense of infinity, of limitlessness, and standing this close it's easy to see why. The canvas stops at the frame, but the pond doesn't seem to.
+[pause] Everything that moves is loose, and the one thing that stays put is firm. [quietly] Give it a minute after the noise of the dance. A small picture, and a whole river out of place.
 
-[long pause] The cathedrals were about one thing changing. Here, there's barely a thing at all.
-
-Go on into the Cézanne rooms and look for a small painting of card players, one of them smoking a pipe, and play its track there.
+Go on to room 34 and find five paintings of the same cathedral front, side by side. Play its track there.

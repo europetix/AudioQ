@@ -1,26 +1,26 @@
-@id: 028 · Impressionist rooms · Level 5
+@id: 028 · Room 29 · Level 5
 @section: Impressionism
-@room: Impressionist rooms · Level 5
+@room: Room 29 · Level 5
 @type: R
-@title: Pissarro — Gelée blanche
-@where: In the Impressionist rooms on level 5; the exact room is not confirmed. Look for a wide landscape of frosted, furrowed fields, with a man carrying dead wood along a path, signed and dated lower left.
-@what: Camille Pissarro, Gelée blanche, Hoarfrost, 1873, oil on canvas, 65.5 × 93.2 cm, painted at Pontoise. Shown at the first Impressionist exhibition in 1874.
-@listen: What a famous critic said about this frost, word for word, and why it says more about him than about the painting.
-@brief: A friend enjoying a famous insult and then quietly taking the painting's side; wry at the quotation, calm and attentive when looking.
+@title: Monet — the Déjeuner sur l'herbe fragments
+@where: Room 29, level 5. Two very large canvases from one picnic scene, hung side by side: the big central fragment, almost two and a half metres tall, and the left-hand fragment hung to its left.
+@what: Claude Monet, Le Déjeuner sur l'herbe, Luncheon on the Grass, begun 1865, oil on canvas: two surviving fragments, the central one 248.7 × 218 cm.
+@listen: How the biggest canvas of Monet's youth ended up as rent security, then mouldy, then in pieces.
+@brief: Telling a friend the slightly absurd fate of a young painter's grand ambition; curious at the start, wry at the landlord, quietly respectful at the end.
 @pace: medium
 @energy: 3→4→2
-@sources: FACTS_R3 030 (1873; 65.5 × 93.2; signed and dated "C.Pissarro 1873" lower left; RF 1972 27; Pontoise; a man carries dead wood along a path; one of Pissarro's five works shown in 1874): https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?nnumid=000368 (OFF) ; A3 20.1 (Leroy quoted exactly on Orsay's page: "uniform palette scrapings on a dirty canvas … neither head nor tail, neither top nor bottom, neither front nor back"; the jibe refers to furrows and frost): https://www.musee-orsay.fr/en/artworks/gelee-blanche-368 (OFF) ; A1 (Leroy's mocking review of Impression, soleil levant gave the group its name, SEC2) ; A3 20.5 (Pissarro the eldest of the group, SEC2)
+@sources: FACTS_R3 026 (begun spring 1865; over four metres by six; "both a tribute and a challenge to Manet"; abandoned 1866 just before the Salon; left with landlord as security for rent; mouldy when recovered 1884; cut up, three fragments kept; central fragment 248.7 × 218 cm, dation 1987; left fragment hung to its left, Wildenstein gift 1957; room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF)
 ---
-[wry] Some critics are remembered only for what they got wrong. Louis Leroy is one of them. His mocking review of a Monet called Impression, Sunrise is where the Impressionists got their name. And he had something to say about this painting too.
+[curious] In the spring of eighteen sixty-five, the young Claude Monet started the biggest painting of his youth. The canvas measured more than four metres by six. Its subject was a picnic on the grass. He had Manet's Déjeuner sur l'herbe, the painting by Manet you have already met, very much in mind. Monet meant his picnic as both a tribute and a challenge.
 
-It was eighteen seventy-four, at the group's first exhibition. Camille Pissarro, the eldest of the group, showed five works, and this was one of them. Leroy looked at these frozen furrows and called them "uniform palette scrapings on a dirty canvas". Then he went further, with "neither head nor tail, neither top nor bottom, neither front nor back."
+He never finished it. A year later, just before the Salon, he gave up. [pause] And then the canvas had a very unglamorous life.
 
-[pause] It's a good line, and it's also a confession that he didn't know how to look at it.
+[wry] Monet left it with his landlord, as security for the rent. When he finally got it back, in eighteen eighty-four, it was mouldy. So he cut it up, and kept three pieces.
 
-So give it the look he didn't. Pissarro painted this field the year before, at Pontoise. Find the furrows, and the frost lying white along them. Those are the very things Leroy called scrapings. Then follow the path, where a man carries a load of dead wood. It's ordinary winter work, and Pissarro thought it worth a canvas almost a metre wide.
+Two of those pieces are here. The large one is the centre of the composition, almost two and a half metres tall. Hanging to its left is the left-hand fragment. They reached the nation by different roads, thirty years apart, one as a gift and one in payment of tax. The third piece is not in this museum.
 
-[quietly] Then look down in the lower left corner. Pissarro signed it there and dated it. He wanted his name on exactly this.
+Stand back and picture the rest around them, the whole canvas at full size. That's the scale a young painter thought he needed to take on Manet.
 
-What Leroy saw as mess is the frost itself. And this painting is still here, on a museum wall, a century and a half after his review.
+[quietly] It's strange to admire a painting its own artist took apart. But these pieces catch a young painter at the very moment he dared to answer Manet at full size. He'd find other ways to make his point.
 
-Now go on to room 31 and find Monet's La Gare Saint-Lazare, a station hall full of steam and light, and press play in front of the steam.
+In this same room, look for a much smaller canvas, a field of red poppies with a woman holding a sunshade. That's Monet's Coquelicots. Press play when you're in front of it.

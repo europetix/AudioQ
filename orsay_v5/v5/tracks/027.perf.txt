@@ -1,26 +1,26 @@
-@id: 027 · Room 29 · Level 5
+@id: 027 · Room 28 · Salon de l'horloge · Level 5
 @section: Impressionism
-@room: Room 29 · Level 5
+@room: Room 28 · Salon de l'horloge · Level 5
 @type: R
-@title: Monet — Coquelicots
-@where: Room 29, level 5. A small landscape of a field of red poppies, with a woman holding a sunshade and a child in the foreground.
-@what: Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.
-@listen: The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.
-@brief: A friend pointing out a small, sunny picture after a giant one; warm and easy, curious in the looking, a little pleased at the coincidence at the end.
-@pace: medium
-@energy: 3→3→4
-@sources: FACTS_R3 027 (1873; 50 × 65.3; Argenteuil; 1874 exhibition in Nadar's studio, no. 95; woman with sunshade and child "probably" Camille and Jean; Moreau-Nélaton gift 1906; room 29): https://www.musee-orsay.fr/en/artworks/coquelicots-1010 (OFF) ; A3 21.1 (Monet showed at five of the group exhibitions: culture.gouv.fr + gallery.ca, SEC2) ; A3 21.6 (a cooperative company of artists, SEC2) ; FACTS_R3 025 (Manet's Déjeuner given by Moreau-Nélaton 1906): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF)
+@title: The clock over Paris
+@where: Room 28, the Salon de l'horloge, at the top of the escalators on level 5, before the Impressionist rooms: stand in the alcove behind the great clock face set into the façade, looking out through the dial towards the Seine.
+@what: One of the great illuminated clocks of the former Gare d'Orsay, the station built for the 1900 Exposition universelle, kept on purpose when the station became a museum.
+@listen: Why a museum kept its station clocks, and what it means to stand behind one.
+@brief: A friend pausing at a window before the big rooms; light and amused at standing behind the clock, then quiet and unhurried, inviting the listener to just look, then practical for one tip.
+@pace: medium-slow
+@energy: 3→2
+@sources: FACTS_R3 024 (traces kept: metal structure, clocks, one of the seven domes; station inaugurated 14 July 1900): https://www.musee-orsay.fr/en/node/60 (OFF) ; FACTS_R3 024 archive photos "grandes horloges lumineuses donnant sur le quai", repair with telescopic arm from the quai Seine: https://www.musee-orsay.fr/en/artworks/restauration-dune-des-grandes-horloges-lumineuse-donnant-sur-le-quai-156259 (OFF) ; FACTS_R2 001 (ACT brief to respect Laloux's building): https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF) ; G §1 level 5 (clock viewpoint described as a "breathing space", SEC2) ; A3 / FACTS_R4 059 (a second great clock at the exit of the Impressionist gallery; façade clocks face the Seine): musee-orsay.fr/fr/visite/restauration (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[warmly] In eighteen seventy-four, a group of painters set up a company of their own and hung an exhibition in Nadar's studio in Paris. In the catalogue, this little picture was number ninety-five.
+[lightly] When this railway station was turned into a museum, the architects were not asked to hide what it had been. They were asked to respect it. So some traces of the station were kept on purpose. The metal structure. One of the seven domes. And the clocks.
 
-After that giant picnic, Monet's Coquelicots is almost pocket-sized, about half a metre high. He painted it the year before the show, at Argenteuil.
+This room is the Salon de l'horloge, the clock salon, and you're standing behind one of them. It's one of the station's great illuminated clocks, set into the façade so that it faces the quay and the river. The station opened in nineteen hundred. Archive photographs even show one of these clocks being repaired, with a telescopic arm reaching all the way up from the quayside.
 
-Look at the two figures in the foreground, a woman under a sunshade and a child beside her. They're probably Camille and their son Jean. So this is not just a field of poppies. It's very likely a family walk.
+[amused] From in here, you see the clock from the wrong side. For once, you're behind the time.
 
-[curious] The poppies give the picture its title and most of its colour. Let your eye follow the red across the field. Then come back to the woman and the child, two small figures wading through all that colour.
+[quietly] It's often described as a breathing space, and it earns the name. The rooms ahead are about to fill up with colour. So before they do, look out at Paris. The river, the light, the weather, whatever it happens to be today. [pause] That is very close to what the painters ahead of you were chasing. Not the city as a monument. The city at one particular hour.
 
-That show in Nadar's studio was only the beginning. Monet would go on to show at five of the group's exhibitions.
+There's a second great clock further along this floor, so this isn't your last look through a dial.
 
-[lightly] The picture reached the nation in nineteen oh six, as a gift from the collector Étienne Moreau-Nélaton. [pause] In that same year, he also gave Manet's Déjeuner sur l'herbe. So the picnic Monet tried to rival and his own little field of poppies became public property together.
+One tip for this floor. The rooms get busy, and pictures sometimes move. If you can't find a work within a minute, play its track anyway, or skip it. The next directions will set you straight.
 
-Next, look in the Impressionist rooms on this level for Pissarro's Gelée blanche, Hoarfrost: a wide winter field of frosted furrows, with a man carrying wood along a path. Its track is waiting for you there.
+Now find room 29, where Monet's own Déjeuner sur l'herbe survives in pieces, and start its track when you get there.

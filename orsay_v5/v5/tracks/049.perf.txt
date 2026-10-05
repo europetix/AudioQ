@@ -1,24 +1,26 @@
-@id: 049 · Room 43 · Level 5
+@id: 049 · Room 38 · Level 5
 @section: Post-Impressionism
-@room: Room 43 · Pont-Aven · Level 5
+@room: Room 38 · Level 5
 @type: R
-@title: Émile Bernard — Madeleine au Bois d'Amour
-@where: In room 43 on level 5, the Pont-Aven room. Look for a large, wide canvas with a life-size young woman lying full length in a wood.
-@what: Émile Bernard, Madeleine au Bois d'Amour (Madeleine in the Bois d'Amour), 1888. Oil on canvas, 137 × 163 cm. Acquired in 1977.
-@listen: A brother of twenty paints his sister of seventeen, and the older painter who was in love with her.
-@brief: Telling a friend a small family secret in front of the picture; curious, gently intrigued, honest that the meaning is open.
-@pace: medium-slow
-@energy: 2→3→2
-@sources: FACTS_R4 051 Bernard — Madeleine au Bois d'Amour (1888, 137 × 163, RF 1977 8, acquired 1977; Bernard only twenty, life-size portrait of his sister Madeleine, seventeen; Bois d'Amour at Pont-Aven, "a wood that Sérusier's Talisman had made famous"; "a portrait with allegorical overtones"; Gauguin had fallen in love with her; Bernard and sister close to Gauguin, leader of the "Impressionist and Synthetist" group, who recommended "painting in masses and solid areas of colour"): https://www.musee-orsay.fr/en/artworks/madeleine-au-bois-damour-7992 (OFF) ; G §0.2 (post-Impressionist rooms on level 5, renovated 2019; OFF) ; A3 30.2 (Gauguin 40 in 1888; SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Seurat — Le Cirque
+@where: Room 38 on level 5, the Seurat and Neo-Impressionist room. Look for a large, tall canvas of a circus ring made of tiny touches of colour, with a clown seen from behind in the foreground and a painted blue border.
+@what: Georges Seurat, Le Cirque (Circus), 1890–91, left unfinished. Oil on canvas, 186 × 152 cm. Bequest of John Quinn, accepted by the State in 1927.
+@listen: The painting Seurat showed days before he died, the theory that makes everything in it climb, and the frame that belongs to the picture.
+@brief: A friend telling a short, sad story about bad timing, then turning with real interest to how the picture works; brisk, a hush at the death, warm at the end.
+@pace: medium
+@energy: 3→2→4→3
+@sources: FACTS_R4 049 Seurat — Le Cirque (1890–91 unfinished, 186 × 152, room 38, Signac's collection then Quinn, State 1927, third night-entertainment panel after Parade and Chahut, Indépendants 1891, died of diphtheria days after the opening, "artistic testament", Charles Henry, Chevreul and Rood, painted dark border and blue flat frame, clown from behind, horsewoman and acrobats, critic on ascending lines and dominant orange): https://www.musee-orsay.fr/en/artworks/le-cirque-542 (OFF) ; A3 30.1, 30.4, 30.6 and Confirmed OK (room 38, died March 1891 aged 31, "chromo-luminarisme", clown not leaping): https://www.musee-orsay.fr/en/artworks/le-cirque-3015 (OFF) + SEC2
 ---
-[curious] The painter was twenty. His sister was seventeen. And the painter who led their little group had fallen in love with her.
+[quietly] Few painters have had worse timing than Georges Seurat. In March 1891 he showed this canvas at the Salon des Indépendants in Paris. A few days after the show opened, he died of diphtheria, at thirty-one.
 
-The painter was Émile Bernard. In 1888 he painted his sister Madeleine life-size, lying in the Bois d'Amour, a wood on the edge of Pont-Aven. The two of them were very close to Paul Gauguin, then forty, at the head of the Impressionist and Synthetist group working there. Gauguin was pushing them to paint in masses and solid areas of colour.
+So Le Cirque, Circus, was never finished, and the museum calls it his artistic testament. It was the third of his big pictures of Paris entertainment after dark, after two others called Parade and Chahut.
 
-[pause] So this isn't quite a girl resting in the woods. The museum calls it a portrait with allegorical overtones. A young woman lying in a place called the Wood of Love. Painted by her brother, in the circle of the man who loved her.
+Seurat didn't paint by instinct alone. He studied the colour theories of Chevreul and Rood, and the ideas of Charles Henry on how lines and colours act on our feelings. His own name for the method was chromo-luminarism. And in this picture, lines that rise are meant to feel like joy.
 
-[quietly] Take in the scale first. She is as big as you are, stretched out across the canvas. Then look at the wood around her. How much of it is an ordinary forest scene, and how much is the kind of painting Gauguin was preaching that year?
+[curious] So follow them up. In front, a clown with his back to you, standing where Chahut had its musician. Beyond him, a horsewoman and acrobats in the ring. A critic of the day saw the whole thing working towards gaiety, with rising lines and orange in command.
 
-Keep the name of that wood in mind. Further on, you'll meet a tiny painting made there the same year, the one that made the Bois d'Amour famous.
+Now look at the edges. Seurat painted a dark border straight onto the canvas, and the flat frame around it is the same blue. [pause] The frame is part of the painting.
 
-Now for Gauguin himself. In this same room, look for La Belle Angèle, a woman's portrait set inside a circle, and play its track there.
+[warmly] It never got its finishing touches. But it still does what Seurat asked of it. Everything in it climbs.
+
+For almost a quarter of a century, this canvas belonged to the painter Paul Signac. His own work is just ahead. In room 40, look for his Femme à l'ombrelle, a woman with a parasol built from small separate touches of colour, and press play when you're there.

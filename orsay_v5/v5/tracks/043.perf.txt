@@ -1,26 +1,24 @@
-@id: 043 · Van Gogh rooms
+@id: 043 · Room 36
 @section: Van Gogh
-@room: Van Gogh rooms · Level 5
+@room: Room 36 · Level 5
 @type: R
-@title: Van Gogh — La Chambre de Van Gogh à Arles (Van Gogh's Bedroom in Arles)
-@where: In the Van Gogh rooms on level 5; the exact room is not confirmed. Look for a small painting of a simple bedroom with a yellow bed and chairs, a red floor and pale lilac walls.
-@what: Vincent van Gogh, La Chambre de Van Gogh à Arles, Van Gogh's Bedroom in Arles, 1889, oil on canvas, 57.3 × 73.5 cm, RF 1959 2. A smaller version painted about a year after the 1888 original. A larger version is in the Art Institute of Chicago.
-@listen: A painting meant to rest the mind, made smaller for his family, and the post-war treaty that brought it into the French collection.
-@brief: Sharing a tender, slightly ironic story with a friend in front of a small, bright picture; gentle, a smile at the "revenge", warm at the end.
-@pace: medium-slow
-@energy: 2→3→2
-@sources: FACTS_R4 045 (1889; 57.3 × 73.5; RF 1959 2; entered 1959 "by cession in application of the peace treaty with Japan"; painted about a year after the original as a smaller version for his family in Holland; larger version in the Art Institute of Chicago; pale lilac walls, red floor, chrome-yellow chairs and bed per Orsay commentary): https://www.musee-orsay.fr (artwork page and commentary, OFF extract) ; FACTS_R4 045 letter 806 (smaller canvases for his mother and sister incl. the Bedroom, OFF summary, not quoted) ; letter 705 to Theo, 16 Oct 1888, on the first version (quotes "looking at the painting should rest the mind, or rather, the imagination" and "to take my revenge for the enforced rest that I was obliged to take"): vangoghletters.org/vg/letters/let705 (OFF extract)
+@title: Van Gogh in France
+@where: At the entrance to room 36 on level 5, the Van Gogh room, at the end of the Impressionist gallery. You'll know it by the picture rails, painted blue.
+@what: The Van Gogh room, rehung in February 2024. Room 36, Vincent van Gogh in France, follows him from Paris to Arles, Saint-Rémy and Auvers-sur-Oise, and his bond with Dr Paul Gachet.
+@listen: How this room is laid out, the journey it follows, and the last two months that fill the final walls.
+@brief: Orienting a friend at the doorway before the most-loved rooms on the floor; clear and warm, a little hushed at the numbers from Auvers.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R4 Level-5 frame and 043 (rooms 36–37 since 6 Feb 2024, end of the Impressionist gallery; picture rails painted blue "echoing the colors used by the artist"; room 36 "Vincent van Gogh in France": Paris, Arles, Auvers and the bond with Dr Gachet; room 37 the Paul Gachet collection): https://www.musee-orsay.fr/en/articles/van-gogh-new-presentation-artists-works-musee-dorsay-277393 (OFF) ; FACTS_R4 043 (Auvers: arrived 21 May 1890, died 29 July 1890, about seventy paintings): https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755 (OFF) ; FACTS_R4 044 (self-portrait painted at Saint-Rémy, OFF), 048 (came to Gachet on Theo's advice after the hospital at Saint-Rémy, OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[lightly] Van Gogh painted his bedroom to get his revenge. That's his word, not mine.
+[warmly] This room announces whose it is before you've seen a single painting. The picture rails, the thin rails the paintings hang from, are painted blue. When the museum rehung its Van Gogh paintings in 2024, it chose that colour to echo the colours Van Gogh used on his canvases. It's a small touch, and a lovely one.
 
-When he first painted this room in Arles, in the autumn of 1888, he wrote to Theo about it. He had been made to rest, and he said he painted it "to take my revenge for the enforced rest that I was obliged to take." Then he explained what he wanted the picture to do. "Looking at the painting should rest the mind, or rather, the imagination."
+Room 36 is called Vincent van Gogh in France, and it's laid out like a journey. It starts in Paris. Then it goes south, to Arles, and the sun. Then to the hospital at Saint-Rémy-de-Provence, where he still kept painting. And it ends in Auvers-sur-Oise, where he went on Theo's advice to be near a doctor named Paul Gachet.
 
-[curious] Look at how he goes about it. Nothing here is subtle. Yellow for the bed and the chairs. Red for the floor. Pale lilac on the walls. He wanted the colour, simplified, to do the work of calm on its own.
+[pause] The doctor has his place here too. Several works on these walls come from the collection Gachet built, which his children later gave to the nation.
 
-[pause] This canvas is not that first one, and a larger repeat hangs in Chicago. About a year later, he painted this smaller version for his family in Holland. In his letters that autumn, he talks about sending smaller canvases home, for his mother and his sister, and the bedroom is among them. So this is the room he slept in, shrunk to fit a family wall.
+[quietly] Keep one number in mind as you walk. Van Gogh arrived in Auvers on the twenty-first of May, 1890. He died there on the twenty-ninth of July. In those two months, he made about seventy paintings. Roughly one a day.
 
-It came into the French national collection in 1959, under the peace treaty with Japan that followed the Second World War.
+So as you move along these walls, remember that the last stretch of the journey is the shortest in time, and one of the fullest in paint.
 
-[warmly] A painting made to rest the mind, for a mother far away, by a man who had been told to rest, and painted instead.
-
-In room 36, find his night view of a river: deep blue sky and water, stars, and the orange gaslights of the town reflected below. Play its track there, even if the painting is away on loan. The track will tell you where to stand.
+Start in room 36, with a self-portrait. He wears a suit, the background swirls in pale green and turquoise, and his hair and beard are bright orange. Play its track in front of him.

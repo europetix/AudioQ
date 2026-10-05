@@ -1,28 +1,28 @@
-@id: 059 · Room 68 · Level 2
-@section: Lautrec and the Nabis
-@room: Room 68 · Level 2
+@id: 059 · Room 46 · Level 5
+@section: Post-Impressionism
+@room: Room 46 · Le cabaret du Chat noir · Level 5
 @type: R
-@title: Toulouse-Lautrec — Jane Avril dansant
-@where: Room 68 on level 2, the Toulouse-Lautrec room, « spectacles et coulisses ». It is a tall, narrow picture on cardboard of a woman dancing alone, painted in thin, quick strokes, with two figures behind her.
-@what: Henri de Toulouse-Lautrec, Jane Avril dansant (Jane Avril Dancing), around 1892. Oil on cardboard, 85.5 × 45 cm. Bequest of Antonin Personnaz, 1937.
-@listen: How a girl in a hospital for nervous illness discovered she could dance, and how Lautrec caught her in a few thin strokes.
-@brief: Telling a friend the moving true story of a dancer, then looking closely at how she is painted; tender at the start, lifting with the waltz, light at the end.
-@pace: medium-slow
-@energy: 2→4→3
-@sources: FACTS_R5 060 (c. 1892, oil on cardboard, 85.5 × 45, Personnaz bequest 1937; Niveau médian salle 68 vs older level-5 plan-guides; "the fluidity of oil paint diluted with turpentine", broad strokes for "the essential elements of the dancer's movement"; unknown woman in a hat and "the impresario Warner", model for The Englishman at the Moulin Rouge): https://www.musee-orsay.fr/en/artworks/jane-avril-dansant-7998 (OFF) ; "Qui était Jane Avril ?" (Jeanne Beaudon 1868–1943; mother beat her; chorea; Salpêtrière at 14; Mi-Carême masked ball, waltz, circle and applause, "her vocation was born"; Moulin Rouge, Jardin de Paris, Folies-Bergère; "the incarnation of dance"; married Maurice Biais 1911 aged 42, quiet life at Jouy-en-Josas): https://www.musee-orsay.fr/en/node/288022 (OFF) ; A1 Track 11 items 3, 4, 5, 8 (no 1905/1929 story; hedge on the Englishman; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Le cabaret du Chat noir — the shadow theatre
+@where: In room 46 on level 5, Le cabaret du Chat noir, after the Redon and Nabis room. Look for the flat silhouettes cut from zinc, once used in the cabaret's shadow theatre. Which figures are on show changes; check on site.
+@what: Cut and painted zinc silhouettes from the shadow theatre of the Cabaret du Chat Noir, Paris, 1886–1896, made under Henri Rivière.
+@listen: A Montmartre cabaret run by a showman, and a shadow theatre that looked forward to the cinema.
+@brief: A friend telling a lively Montmartre story with a showman's twinkle; brisk and playful, settling at the end.
+@pace: medium-fast
+@energy: 3→4→3
+@sources: FACTS_R6 (d) (zinc silhouettes projected at the Cabaret du Chat Noir shown since the 10 Sep 2019 reopening of the post-Impressionist rooms, "where creators from all horizons met": Orsay article 17592, OFF ; Rodolphe Salis created, ran and hosted the cabaret at the foot of Montmartre, OFF; SEC1 BnF details (November 1881, boulevard Rochechouart, rue de Laval) not used ; journal, chanson "really born at the Chat Noir", shadow theatre with Henri Rivière, 45 plays: Orsay 1992 exhibition text, OFF ; cut and painted zinc silhouettes 1886–1896, artwork 123419, OFF ; Rivière aged 22 in 1886, moving zinc figures lit onto a screen, coloured backdrops from colour filters, texts read to music, wind and smoke effects; Rivière's photographs 1887–1894 of stagehands sliding figures for Caran d'Ache's L'Épopée, artwork 22094; Eiffel Tower photographed from its top March 1889: "Cinq choses à savoir sur Henri Rivière", node 282042, OFF) ; room 46 "Le cabaret du Chat noir": findings/M_planguide_ete_2026.md (OFF)
 ---
-[warmly] Jane Avril discovered she could dance in a hospital.
+[conspiratorial] At the foot of Montmartre, a born showman once ran a cabaret called the Black Cat, Le Chat Noir.
 
-She was born Jeanne Beaudon in 1868, and her childhood was hard, with a mother who beat her. As a girl she suffered from chorea, a nervous illness that brings convulsive movements, and at fourteen she was interned at the Salpêtrière hospital in Paris.
+His name was Rodolphe Salis. He created the place, ran it and played its host. Creators from every horizon met there.
 
-Then came a masked ball there, at mid-Lent. [pause] A waltz began, and she was carried away by it. She danced, and the others made a circle around her and applauded. In the museum's words, that was the night her vocation was born.
+[lightly] The Chat Noir became famous for three things. First, its own journal, now seen as a key link in the history of comic strips. Second, the chanson of the chansonniers, which really was born there. And third, the shadow theatre.
 
-She went on to dance at the Moulin Rouge, the Jardin de Paris and the Folies-Bergère. Contemporaries called her "the incarnation of dance". In 1911, at forty-two, she married the poster artist Maurice Biais, and left the stage for a quiet life at Jouy-en-Josas.
+[pause] Salis handed that theatre to Henri Rivière in eighteen eighty-six. Rivière was twenty-two. He took the technique as far as it could go, with forty-five plays.
 
-[curious] Now look at how Lautrec paints her. The picture is tall and narrow, on cardboard, and the paint is thin. He diluted his oils with turpentine, so they flow, and in broad strokes he set down only the essentials of her movement. Nothing more, so it feels less like a portrait than a glimpse.
+What you see here are the actors. Flat figures cut from zinc, and painted. Behind a screen, stagehands slid them along while light cast them onto the screen. Coloured filters gave the backdrops their colour. Texts were read to music, and there were even effects of wind and smoke.
 
-Behind her stand two figures. One is an unknown woman in a hat. The other is the impresario Warner, who also posed for one of Lautrec's best-known prints, The Englishman at the Moulin Rouge.
+[curious] Rivière photographed his own backstage. The museum holds his pictures of stagehands sliding zinc figures for L'Épopée, a show by Caran d'Ache. [amused] In March eighteen eighty-nine, he went up the Eiffel Tower with friends from the Chat Noir, and photographed it from the top.
 
-[quietly] But your eye keeps going back to her. The girl from the Salpêtrière ball, still dancing, in a few thin strokes.
+[warmly] Light, a screen, moving images and an audience in the dark. It's hard not to see what was coming next.
 
-Stay with Lautrec. In this same room, look for a small painting of a clown in a private room, fastening a big yellow ruffle to her costume, and listen to her story there.
+Walk on into room 47, given over to the first years of the cinema, and play its track there.

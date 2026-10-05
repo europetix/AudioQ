@@ -1,24 +1,26 @@
-@id: 033 · Room 32 · Level 5
+@id: 033 · Room 31 · Level 5
 @section: Impressionism
-@room: Room 32 · Level 5
+@room: Room 31 · Level 5
 @type: R
-@title: Morisot — Le Berceau
-@where: Room 32, level 5, the same room as Degas's Little Dancer. A smallish painting of a young woman watching over a baby asleep in a cradle.
-@what: Berthe Morisot, Le Berceau, The Cradle, 1872, oil on canvas, 56 × 46.5 cm. Bought by the Louvre in 1930.
-@listen: The first woman to show with the Impressionists, her sister and niece, and the baby who grew up and sold this picture to the nation.
-@brief: A friend speaking softly in front of an intimate picture; warm and unhurried, with a small, delighted reveal at the end.
-@pace: medium-slow
-@energy: 2→3→3
-@sources: FACTS_R3 036 (1872; 56 × 46.5; RF 2849; her sister Edma watches over her sleeping daughter Blanche; "undeniably Berthe Morisot's most famous painting"; shown at the 1874 exhibition; Morisot the first woman to exhibit with the group; stayed in the sitter's family until the Louvre bought it in 1930, from Blanche Pontillon, Mme Forget, the baby; room 32): https://www.musee-orsay.fr/en/artworks/le-berceau-1132 (OFF) + A3 27.7 (OFF) ; A3 27.1 (Berthe married Eugène Manet in 1874, so Manet became her brother-in-law, SEC2)
+@title: Degas — La Classe de danse
+@where: Room 31, level 5, the same room as Monet's Gare Saint-Lazare and Caillebotte's Floor Scrapers. A ballet class in a rehearsal room, the ballet master among his young pupils.
+@what: Edgar Degas, La Classe de danse, The Dance Class, 1873–1876, oil on canvas, 85.5 × 75 cm. Bequest of Count Isaac de Camondo, 1911.
+@listen: A real ballet master in a class that never happened, in an opera house that had already burned down.
+@brief: Letting a friend in on a well-made illusion; conspiratorial at first, then amused and attentive as you hunt for the tired dancers.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 033 (1873–1876; 85.5 × 75; Camondo bequest 1911; teacher a portrait of the ballet master Jules Perrot; the class is ending, the pupils exhausted: they stretch, twist to scratch their backs, adjust hair or clothes; room 31): https://www.musee-orsay.fr/en/artworks/la-classe-de-danse-1151 (OFF) ; A3 25.2 (an imaginary scene, set in the old Opéra on rue Le Peletier, which had burned down, OFF) ; A3 25.5 (commissioned by the baritone Faure, OFF) ; FACTS_R3 025 (Faure owned Manet's Déjeuner, OFF)
 ---
-[warmly] Of all the paintings in these rooms, this may be the quietest. A young woman watches over a sleeping baby, and that's all that happens. She is the painter's sister, Edma. The baby in the cradle is Edma's daughter, Blanche.
+[conspiratorial] This class never took place, not like this anyway. Degas invented it, the way a stage designer invents a set.
 
-Berthe Morisot painted it in eighteen seventy-two. Two years later she sent it to the first exhibition the Impressionists put on for themselves, and she was the first woman to show with the group.
+The teacher, though, is real: Jules Perrot, a famous ballet master, and Degas painted him as a portrait. But the scene around him is imaginary. It's set in the rehearsal room of the old Opéra on the rue Le Peletier. That's not Garnier's building, the one you saw in model form downstairs, but the older house. And by the time Degas was at work on this, that opera house had already burned down.
 
-[quietly] Look at where the attention goes. Not only to the baby, but to the watching. Morisot was painting her own sister in a private moment. You almost feel you should lower your voice.
+[pause] So a real man is teaching a class that never happened, in a room that no longer existed.
 
-The same year as that first exhibition, Berthe married Eugène Manet. So Édouard Manet, whose paintings you met on the ground floor, became her brother-in-law.
+Who wanted it? A singer, as it happens. The painting was commissioned by Jean-Baptiste Faure, the opera baritone, who also owned Manet's Déjeuner sur l'herbe.
 
-[pause] The picture stayed in the family for more than half a century. Then, in nineteen thirty, the Louvre bought it. And the person who sold it was Blanche. [long pause] The baby in the cradle, all grown up.
+[amused] Now, the best part is the dancers. The class is ending, and they are exhausted. Look along the room and you'll find them stretching, fixing their hair, tugging at their clothes. One of them twists round to scratch her back. See if you can find her. It's the least balletic gesture in the room, and Degas put it in on purpose.
 
-Next, look in the Impressionist rooms on this level for Degas's Dans un café, better known as L'Absinthe. A man and a woman sit side by side at a café table, with a glass of absinthe in front of her. Its track begins there.
+That's his trick: he gives you the grand old rehearsal room and the famous teacher. And then he shows you what the end of a long class really feels like. Tired girls, and an itch.
+
+Next door, in room 32, a real dancer is waiting: Degas's sculpture, the Petite danseuse de quatorze ans. Start her track when you reach her.

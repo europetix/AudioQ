@@ -1,26 +1,24 @@
-@id: 047 · Room 38 · Level 5
-@section: Post-Impressionism
-@room: Room 38 · Level 5
+@id: 047 · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
 @type: R
-@title: Seurat — Le Cirque
-@where: Room 38 on level 5, the Seurat and Neo-Impressionist room. Look for a large, tall canvas of a circus ring made of tiny touches of colour, with a clown seen from behind in the foreground and a painted blue border.
-@what: Georges Seurat, Le Cirque (Circus), 1890–91, left unfinished. Oil on canvas, 186 × 152 cm. Bequest of John Quinn, accepted by the State in 1927.
-@listen: The painting Seurat showed days before he died, the theory that makes everything in it climb, and the frame that belongs to the picture.
-@brief: A friend telling a short, sad story about bad timing, then turning with real interest to how the picture works; brisk, a hush at the death, warm at the end.
-@pace: medium
-@energy: 3→2→4→3
-@sources: FACTS_R4 049 Seurat — Le Cirque (1890–91 unfinished, 186 × 152, room 38, Signac's collection then Quinn, State 1927, third night-entertainment panel after Parade and Chahut, Indépendants 1891, died of diphtheria days after the opening, "artistic testament", Charles Henry, Chevreul and Rood, painted dark border and blue flat frame, clown from behind, horsewoman and acrobats, critic on ascending lines and dominant orange): https://www.musee-orsay.fr/en/artworks/le-cirque-542 (OFF) ; A3 30.1, 30.4, 30.6 and Confirmed OK (room 38, died March 1891 aged 31, "chromo-luminarisme", clown not leaping): https://www.musee-orsay.fr/en/artworks/le-cirque-3015 (OFF) + SEC2
+@title: Van Gogh — L'Église d'Auvers-sur-Oise (The Church at Auvers)
+@where: In room 36 on level 5, in front of Van Gogh's painting of the village church at Auvers, seen from its apse end, its windows in deep blue patches under a cobalt sky.
+@what: Vincent van Gogh, L'Église d'Auvers-sur-Oise, vue du chevet, The Church at Auvers-sur-Oise, seen from the apse, painted 4–8 June 1890, oil on canvas, 93 × 74.5 cm. Acquired in 1952 with the support of Paul Gachet and an anonymous Canadian donation.
+@listen: What Van Gogh himself wrote about this church, the colour of its windows, and the stranger who helped bring it to the museum.
+@brief: Reading a painter's own words to a friend in front of the picture; quietly attentive, warm at the donor, then a last close look at the blues.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 047 (4–8 June 1890; 93 × 74.5; RF 1951 42; Gachet, then his son until 1951; acquired 1952 "with the support of Paul Gachet and participation of an anonymous Canadian donation"; "the only painting representing in full the church in Auvers"; room 36): https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755 (OFF) ; A2 16.2–16.3 letter 879, 5 June 1890 (Nuenen quote; windows "ultramarine blue patches", sky "deep and simple blue of pure cobalt"): vangoghletters.org/vg/letters/let879 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[quietly] Few painters have had worse timing than Georges Seurat. In March 1891 he showed this canvas at the Salon des Indépendants in Paris. A few days after the show opened, he died of diphtheria, at thirty-one.
+[curious] Standing in front of a church in a French village, Van Gogh found himself thinking of a tower in Holland.
 
-So Le Cirque, Circus, was never finished, and the museum calls it his artistic testament. It was the third of his big pictures of Paris entertainment after dark, after two others called Parade and Chahut.
+He painted this in the first week of June 1890, soon after arriving in Auvers. And on the fifth of June, in the middle of the work, he described it in a letter. He wrote that it was "almost the same thing as the studies I did in Nuenen of the old tower and the cemetery." Only now, he went on, "the colour is probably more expressive, more sumptuous."
 
-Seurat didn't paint by instinct alone. He studied the colour theories of Chevreul and Rood, and the ideas of Charles Henry on how lines and colours act on our feelings. His own name for the method was chromo-luminarism. And in this picture, lines that rise are meant to feel like joy.
+Nuenen was a Dutch village where he had painted years before. Now the same kind of subject came back to him, in new colour. And this is the only painting in which he showed the church at Auvers in full.
 
-[curious] So follow them up. In front, a clown with his back to you, standing where Chahut had its musician. Beyond him, a horsewoman and acrobats in the ring. A critic of the day saw the whole thing working towards gaiety, with rising lines and orange in command.
+[warmly] After his death, it stayed with Dr Gachet, and then with the doctor's son. In 1952 it came into the national collection. It was not simply a gift. The son supported the purchase, and so did someone who has never been named: an anonymous donor from Canada. A stranger, helping a village church into the museum.
 
-Now look at the edges. Seurat painted a dark border straight onto the canvas, and the flat frame around it is the same blue. [pause] The frame is part of the painting.
+[pause] Now look at the windows. In the same letter, Van Gogh says the stained-glass windows "look like ultramarine blue patches," set against "a sky of a deep and simple blue of pure cobalt." So read them as he did. [quietly] Two blues, one inside the other.
 
-[warmly] It never got its finishing touches. But it still does what Seurat asked of it. Everything in it climbs.
-
-For almost a quarter of a century, this canvas belonged to the painter Paul Signac. His own work is just ahead. In room 40, look for his Femme à l'ombrelle, a woman with a parasol built from small separate touches of colour, and press play when you're there.
+Stay in room 36 and find the portrait of the doctor himself: a melancholy man in cold colours, with a sprig of foxglove. Play its track there.

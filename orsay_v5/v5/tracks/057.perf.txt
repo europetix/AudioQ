@@ -1,26 +1,24 @@
-@id: 057 · Room 71 · Level 2
-@section: Lautrec and the Nabis
-@room: Room 71 · Level 2
+@id: 057 · Room 45 · Level 5
+@section: Post-Impressionism
+@room: Room 45 · Redon and the Nabis · Level 5
 @type: R
-@title: Vallotton — Le Ballon
-@where: Room 71 on level 2. Look for a small, wide painting of a park seen from above: a broad stretch of ochre ground, dark trees, and a child in a yellow hat chasing a red ball.
-@what: Félix Vallotton, Le Ballon, The Ball, 1899, oil on cardboard mounted on wood, 49.2 × 62 cm. Carle Dreyfus bequest, 1953.
-@listen: How one small running child and a red ball can hold a whole empty park together.
-@brief: Sharing a small, surprising picture with a friend; light and curious, slowing down to look, a quiet landing.
-@pace: medium
-@energy: 3→3→2
-@sources: FACTS_R5 063b Vallotton — Le Ballon (1899, oil on cardboard mounted on wood, 49.2 × 62 cm, Carle Dreyfus bequest 1953, room 71, Swiss, in close touch with the Nabis from 1891, "one of the best known" of his paintings, bird's-eye view, ochre ground against deep shade of trees, child as bright patch preceded by a dark shadow, yellow hat with red ribbon, blonde hair, orange boots, white smock, red ball; child alone in a large empty space): https://www.musee-orsay.fr/en/artworks/le-ballon-8032 ; works-in-focus the-ball-2994 (OFF) ; FACTS_R5 064 (next-room cue: Les Muses, room 70) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Sérusier — Le Talisman
+@where: In room 45 on level 5, Redon and the Nabis, after the Gauguin rooms. Look for a very small landscape painted on a wooden panel, about the size of a sheet of paper.
+@what: Paul Sérusier, Le Talisman (L'Aven au Bois d'Amour), October 1888. Oil on wood, 27 × 21 cm.
+@listen: How a panel smaller than a sheet of paper, painted under Gauguin's direction, became the founding work of the Nabis.
+@brief: Pointing out a small, easily missed treasure to a friend; quiet and respectful, a little awed at how much came from so little.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 056 + A3 30.8 and Confirmed OK (October 1888, oil on wood, 27 × 21 cm, Bois d'Amour at Pont-Aven, painted under Gauguin's direction, lesson known through Maurice Denis's account, founding work of the Nabis; room 48 with 2026 numbering caveat; no verbatim lesson text, paraphrase only): musee-orsay.fr Talisman pages (OFF) ; FACTS_R4 051 (Bois d'Amour "a wood that Sérusier's Talisman had made famous"; Gauguin recommended "painting in masses and solid areas of colour"): https://www.musee-orsay.fr/en/artworks/madeleine-au-bois-damour-7992 (OFF) ; FACTS_R4 059 (Café Campana at the exit of the gallery behind one of the great clocks; OFF) ; FACTS_R5 064 (Denis on level 2, room 70; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[lightly] Most of this painting is empty ground. And that's exactly where its power comes from.
+[quietly] Some of the most consequential paintings in this museum are huge. This one is not. It's a little panel of wood, twenty-seven centimetres by twenty-one, about the size of a sheet of paper.
 
-Félix Vallotton was Swiss, and from 1891 he was in close touch with the Nabis, the group you met in the last room. He painted Le Ballon, The Ball, in 1899, in oil on cardboard, later mounted on wood. It's small, barely more than half a metre wide. Yet the museum counts it among the best known of all his paintings. It came to the national collections in 1953, in the bequest of the collector Carle Dreyfus.
+It was painted in October 1888 by Paul Sérusier, in the Bois d'Amour at Pont-Aven. Yes, the same wood where Émile Bernard laid his sister down life-size back in room 43. Sérusier painted it under Gauguin's direction, the same advice about masses of colour you heard with Bernard's Madeleine.
 
-[curious] Notice first where Vallotton has put you. You're looking down on a park from above, a bird's-eye view. A broad stretch of ochre ground fills much of the picture. Against it presses the deep shade of the trees.
+We know of that lesson through the later account of the painter Maurice Denis. You'll meet his own work on level two, among the Nabis.
 
-And then, in all that space, one small child. [pause] Find the yellow hat with its red ribbon, the blonde hair, the orange boots. A white smock blows out behind as the child runs. A dark shadow goes on ahead. And the child is chasing a red ball.
+[curious] Its other title, L'Aven au Bois d'Amour, names a real place. Look at how Sérusier has built that place, patch by patch. Then see how much of the view is left, and how much is simply colour.
 
-The child is a bright patch of light in a great flat field of colour. Nothing else in the park competes for your eye. It's a game. Yet the longer you look, the larger the empty ground becomes, and the smaller the child.
+[pause] This little panel became the founding work of the group called the Nabis. It also made the Bois d'Amour famous. [warmly] Not bad for something you could slip into a coat pocket.
 
-[quietly] Vallotton doesn't tell you what to feel about that. He just leaves the space there.
-
-Next door, in room 70, look for Maurice Denis's Les Muses, women in modern dress beneath tall chestnut trees. Play its track there.
+Before you go down, walk back towards the great clock. The Café Campana is beside the second great clock of this floor, by rooms 38 and 39. Stop at the threshold and play its track.

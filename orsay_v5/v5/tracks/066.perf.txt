@@ -1,24 +1,26 @@
-@id: 066 · Level 2 terrace → exit
-@section: Closing
-@room: Level 2 terrace → exit
-@type: CLOSE
-@title: Out into Paris
-@where: On the level-2 sculpture terrace, at the balustrade, looking down the length of the nave towards Rodin's Gates of Hell at the far end.
-@what: The nave of the former Gare d'Orsay, seen from the sculpture terraces of level 2: built as a station for the 1900 Exposition, opened as a museum in December 1986.
-@listen: One last look down the old station, a short look back over the tour, and the way out.
-@brief: Saying goodbye to a friend at the end of a long, good day; reflective and warm, a little proud of the building, unhurried, ending gently.
-@pace: medium-slow
-@energy: 3→2→3
-@sources: FACTS_R5 072 terraces (level-2 terraces run along both sides of the nave and overlook the central aisle; sculpture of about 1880–1910; Gates of Hell at the far end between the towers; no Seine view promised; exit via level 0, SORTIE at the clock end per plan-guide 2026) (OFF) ; FACTS_R2 001 (built for the 1900 Exposition universelle; Laloux; metal structure hidden behind cut stone; Detaille quote 1900 verbatim "The station is superb and looks like a Palais des beaux-arts…"; terminus 1900–1939; inaugurated 1 Dec 1986, opened 9 Dec 1986; 2026 the 40th anniversary) : https://www.musee-orsay.fr/en/node/60 ; https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF) ; FACTS_R2 002 (three levels, terraces of the median level overlook the nave, platforms became the sculpture aisle, "main artery of the visit"; Gates of Hell on the axis since 24 May 2022): https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 (OFF via G/A2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@id: 066 · Room 71 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 71 · Level 2
+@type: R
+@title: Vallotton — Le Ballon
+@where: Room 71 on level 2. Look for a small, wide painting of a park seen from above: a broad stretch of ochre ground, dark trees, and a child in a yellow hat chasing a red ball.
+@what: Félix Vallotton, Le Ballon, The Ball, 1899, oil on cardboard mounted on wood, 49.2 × 62 cm. Carle Dreyfus bequest, 1953.
+@listen: How one small running child and a red ball can hold a whole empty park together.
+@brief: Sharing a small, surprising picture with a friend; light and curious, slowing down to look, a quiet landing.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R5 063b Vallotton — Le Ballon (1899, oil on cardboard mounted on wood, 49.2 × 62 cm, Carle Dreyfus bequest 1953, room 71, Swiss, in close touch with the Nabis from 1891, "one of the best known" of his paintings, bird's-eye view, ochre ground against deep shade of trees, child as bright patch preceded by a dark shadow, yellow hat with red ribbon, blonde hair, orange boots, white smock, red ball; child alone in a large empty space): https://www.musee-orsay.fr/en/artworks/le-ballon-8032 ; works-in-focus the-ball-2994 (OFF) ; FACTS_R5 064 (next-room cue: Les Muses, room 70) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[warmly] In 1900, when this building was brand new, the painter Édouard Detaille wrote a line about it. "The station is superb and looks like a Palais des beaux-arts…" He meant a palace of fine arts. It took most of the century for him to be proved right.
+[lightly] Most of this painting is empty ground. And that's exactly where its power comes from.
 
-Look down from the terrace. Down there, where the sculptures stand along the central aisle, the trains once pulled in. And look along the terraces themselves. On both sides of the nave, they hold sculpture from about 1880 to 1910.
+Félix Vallotton was Swiss, and from 1891 he was in close touch with the Nabis, the group you met in the last room. He painted Le Ballon, The Ball, in 1899, in oil on cardboard, later mounted on wood. It's small, barely more than half a metre wide. Yet the museum counts it among the best known of all his paintings. It came to the national collections in 1953, in the bequest of the collector Carle Dreyfus.
 
-[pause] And now you know all three floors. You began down there, on the ground floor, with the academic painters, Millet and Courbet, and Manet's Olympia. You climbed to the top, under the roof, to the Impressionists, Van Gogh and Gauguin. And you came down here, to the Nabis, Art Nouveau, Claudel and Rodin's Balzac.
+[curious] Notice first where Vallotton has put you. You're looking down on a park from above, a bird's-eye view. A broad stretch of ochre ground fills much of the picture. Against it presses the deep shade of the trees.
 
-[quietly] Before you go, look all the way to the far end of the nave. Between the two towers stands Rodin's Gates of Hell, facing the whole length of the old station. You stood in front of it hours ago, at the end of the ground floor. From up here, you can take it in with everything else at once. [pause] Detaille only saw a station that looked like a palace. You've just walked through the palace.
+And then, in all that space, one small child. [pause] Find the yellow hat with its red ribbon, the blonde hair, the orange boots. A white smock blows out behind as the child runs. A dark shadow goes on ahead. And the child is chasing a red ball.
 
-[warmly] Thank you for spending these hours with me. I hope a few of these faces come home with you: a black cat, a little dancer, a man in a sack of plaster, a girl holding a poet's head.
+The child is a bright patch of light in a great flat field of colour. Nothing else in the park competes for your eye. It's a game. Yet the longer you look, the larger the empty ground becomes, and the smaller the child.
 
-When you're ready, take the escalators or the stairs down to level 0. Walk back along the nave to the clock end, where you came in, and follow the SORTIE signs out into Paris. Goodbye, and enjoy the city.
+[quietly] Vallotton doesn't tell you what to feel about that. He just leaves the space there.
+
+Next door, in room 70, look for Maurice Denis's Les Muses, women in modern dress beneath tall chestnut trees. Play its track there.

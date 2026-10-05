@@ -1,28 +1,28 @@
-@id: 020 · Central sculpture aisle · Level 0
-@section: Nave End
-@room: Central sculpture aisle · Level 0
-@type: W
-@title: Carpeaux — La Danse
-@where: In the central sculpture aisle on level 0. The large stone group, over four metres high, of six dancing women in a ring around the Genius of Dance, with a small putto.
-@what: Jean-Baptiste Carpeaux, La Danse, The Dance, 1869, Échaillon stone, 420 × 298 × 145 cm, about 18 tonnes. The original group from the façade of the Paris Opéra.
-@listen: An ink attack, a sculpture saved by a war, and why the group on the Opéra today is a copy.
-@brief: Telling a friend a juicy bit of Paris scandal in front of the object itself; conspiratorial at the start, brisk through the drama, warm and admiring at the end.
+@id: 020 · Room 11 · Level 0
+@section: Manet and Friends
+@room: Room 11 · Cézanne's beginnings · Level 0
+@type: R
+@title: Cézanne — Le Christ aux limbes and Une moderne Olympia
+@where: In room 11 on level 0, the room of Cézanne's beginnings. Le Christ aux limbes is the tall painting, about 1.7 metres high, of Christ going down among waiting figures. Une moderne Olympia is the small, bright canvas of a naked woman, a servant and a watching man in black.
+@what: Paul Cézanne, Le Christ aux limbes, Christ in Limbo, about 1869, oil on plaster transferred to canvas, 168.5 × 100.5 cm. Une moderne Olympia, A Modern Olympia, 1873–1874, oil on canvas, 46.2 × 55.5 cm, gift of Paul Gachet, 1951.
+@listen: A mural cut off a family wall and refused by the State, and Cézanne's cheeky reply to Manet's Olympia.
+@brief: A friend sharing two odd stories about a famous painter's awkward start; amused, curious, a little fond.
 @pace: medium
-@energy: 3→4→3
-@sources: FACTS_R2 019 La Danse (1869, Échaillon stone, 420×298×145 cm, 18,000 kg; original stone in the "Allée centrale des sculptures"; 1863 commission by Garnier of four groups from four Prix de Rome winners; three years of sketches and models; ring round the Genius of Dance; outcry at realism and nudity; bottle of ink on the night of 26–27 Aug 1869; war of 1870, fall of the Empire and Carpeaux's death saved it; copy on the façade since 1964; original to the Louvre, then Orsay 1986): https://www.musee-orsay.fr/en/artworks/la-danse-1704 and works-in-focus la-danse-7092 (OFF) ; six bacchantes and a putto: A2 13.5 (SEC2) ; replacement commission to Gumery, who died Jan 1871: A2 13.7 (SEC2) ; Opéra opened 5 Jan 1875, Carpeaux died 12 Oct 1875 aged 48: A2 13.4 and Confirmed OK (OFF)
+@energy: 3→3→4→3
+@sources: FACTS_R6 (a) Le Christ aux limbes (c. 1869, oil on plaster transferred to canvas, 168.5 × 100.5; murals for the Jas de Bouffan in the 1860s; salon of his father's house; a year after his death the new owner had paintings put on canvas for the State; Musée du Luxembourg refused; scattered; copy of an engraving after Sebastiano del Piombo; Christ into Limbo, righteous of the Old Testament; bottom left probably Adam and Eve): https://www.musee-orsay.fr/en/artworks/le-christ-aux-limbes-136066 and works-in-focus christ-in-limbo-19038 (OFF) ; FACTS_R6 (a) Une moderne Olympia (1873–74, 46.2 × 55.5, gift of Paul Gachet 1951; answer to Manet's Olympia, Salon 1865; painted at Doctor Gachet's in Auvers "in the heat of a discussion"; bright colour, touch recalling Fragonard; Black servant uncovers the nude; man in black like Cézanne as spectator; first Impressionist exhibition 1874, scorned by public and critics): https://www.musee-orsay.fr/en/artworks/une-moderne-olympia-1478 (OFF) ; room 11 "Les débuts de Cézanne": findings/M_planguide_ete_2026.md (OFF) and artwork pages (OFF)
 ---
-[conspiratorial] One night at the end of August, eighteen sixty-nine, someone threw a bottle of ink at this sculpture. It had only just been unveiled on the front of Charles Garnier's new Opéra, and plenty of Parisians were furious.
+[amused] This painting was once part of a wall. To be exact, a wall in Cézanne's father's house.
 
-Garnier had commissioned four groups for his façade, from four sculptors who had all won the Prix de Rome. Carpeaux took Dance. He spent three years on sketches and models. What he delivered was this, a swirling ring of six women around the Genius of Dance, with a little putto at his feet.
+In the eighteen-sixties, the young Paul Cézanne painted murals to decorate the family home, the Jas de Bouffan, near Aix-en-Provence. Le Christ aux limbes, Christ in Limbo, was painted onto the plaster of the salon.
 
-[pause] And the public was outraged. Not by the idea of dance, but by these bodies. They were too real, and too naked, for the front of an opera house.
+[pause] A year after Cézanne died, the new owner had some of these murals taken off the walls and put on canvas. He meant to give them to the State. The Musée du Luxembourg refused the gift. So the pieces were gradually scattered.
 
-A replacement group was ordered from another sculptor, named Gumery. [amused] Then history stepped in. War with Prussia came, the Empire fell, and Gumery himself died early the next year.
+Look at what the young painter was doing here. He was copying, from an engraving after a picture by Sebastiano del Piombo. Christ goes down into Limbo, where the righteous of the Old Testament wait to be redeemed. The two figures at the bottom left are probably Adam and Eve.
 
-Carpeaux didn't outlive the quarrel by much. He died nine months after the Opéra finally opened, at forty-eight. The war, the fall of the Empire, his death. Between them, they saved his dancers from removal.
+[curious] Now find the small, bright canvas in this room, Une moderne Olympia, A Modern Olympia. It answers Manet's Olympia, the scandal of the Salon of eighteen sixty-five. Cézanne painted this version while staying with Doctor Gachet at Auvers-sur-Oise. In the heat of a discussion, he picked up a brush and made this coloured sketch.
 
-[warmly] Now look at the ring. Follow it all the way round with your eyes, figure by figure. It swirls. This is stone, about eighteen tonnes of it, and it still seems to be moving.
+See how the colour dazzles, and how lightly the brush moves, almost like Fragonard. A Black servant uncovers the naked woman. A man in black watches, like a spectator at a play. He looks strangely like Cézanne himself.
 
-Walk past the Opéra today and you'll see these dancers on its front. [long pause] But since nineteen sixty-four, the group on the façade has been a copy. The original went to the Louvre, and when this museum opened, it came here. So the dancers who were once splashed with ink are the ones in front of you.
+[wry] Cézanne showed it at the first Impressionist exhibition, in eighteen seventy-four. Public and critics alike scorned it.
 
-Carpeaux's dancers were made for the Opéra, and the Opéra itself is waiting at the far end of the nave. Find the great model of its quarter, seen from above, in the Opéra space there, and play its track.
+Degas has his own room close by. Walk on to room 13, and play its track there.

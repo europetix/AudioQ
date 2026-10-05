@@ -1,24 +1,28 @@
-@id: 021 · Opéra space · Level 0
-@section: Nave End
-@room: End of the nave · Opéra space · Level 0
-@type: R
-@title: The Opéra quarter in 1914
-@where: In the Opéra space at the end of the nave, level 0: a model of the streets around the Opéra, six and a half metres square, seen from above beneath a transparent floor. From October 2026 to mid-January 2027 a temporary display is built around these models, so access or presentation may differ; follow the museum's signs.
-@what: Rémi Munier, with Eric de Leusse, Jean-Luc Bethmont and Borani Hoy, Maquette du quartier de l'Opéra, arrêtée en l'état en 1914, model of the Opéra quarter as it stood in 1914, 1984–86, resin under plexiglass, 650 × 650 cm.
-@listen: A whole quarter of Paris stopped in one year, and why the museum built it.
-@brief: Standing over a city with a friend, pointing things out; light and pleased at first, then quietly thoughtful at the date.
+@id: 021 · Room 13 · Level 0
+@section: Manet and Friends
+@room: Room 13 · Degas · Level 0
+@type: W
+@title: Degas — La Famille Bellelli (The Bellelli Family)
+@where: In room 13 on level 0, the Degas room, in front of the very large family portrait, about two by two and a half metres: a mother in black with two girls, the father seated apart. Its room is not confirmed and from 14 November 2026 to 28 March 2027 it may be on loan to Tokyo: if you can't find it, listen in front of Sémiramis construisant Babylone, the wide canvas of a queen on a riverbank watching a city rise, in this room.
+@what: Edgar Degas, Portrait de famille, also called La Famille Bellelli, The Bellelli Family, 1858–1869, oil on canvas, 201 × 249.5 cm, RF 2210. Bought at the first Degas studio sale in 1918. Stand-in: Sémiramis construisant Babylone, begun about 1860, oil on canvas, 151.5 × 258 cm.
+@listen: A grandfather watching from the wall, a family split down the middle, and a young Degas who wanted to paint history.
+@brief: Two friends reading a family's tensions in a group portrait; quiet and observant, with a lift for the studio story and a calm close.
 @pace: medium-slow
-@energy: 3→3→2
-@sources: FACTS_R2 020 Opéra quarter model (Munier with de Leusse, Bethmont, Hoy; 1984–86; resin under plexiglas, 650×650 cm; under a transparent floor, seen from above, as in 1914; Opéra space laid out by Richard Peduzzi; purpose: the Opéra and its quarter "profoundly transformed by the prefect Haussmann's major public works"; gift 1989; hook "the city frozen in the year the war began"; Peduzzi exhibition 6 Oct 2026 – 17 Jan 2027): https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 , https://www.musee-orsay.fr/en/node/377998 , https://www.musee-orsay.fr/en/node/80 (OFF) ; G §1 Opéra space (OFF)
+@energy: 2→3→4→2
+@sources: FACTS_R6 (b) La Famille Bellelli (1858–1869, 201 × 249.5, RF 2210; largest finished canvas Degas ever painted; painted in Italy aged 22 to 26; aunt Laure, Baron Gennaro Bellelli, Italian patriot banished from Naples and in exile in Florence, daughters Giulia and Giovanna; Laure in mourning for her father Hilaire, his portrait framed on the wall near her face; mother dignified, slightly stern; father turned away; size, sober colours and open perspectives oppressive; family tensions isolating each member; van Dyck; bought by the Musée du Luxembourg at the first studio sale 1918 with help of René de Gas; four old tears, cleaning restored light and colour; Degas asked for works not worth keeping to be burned, eight sales instead): https://www.musee-orsay.fr/en works in focus 7168, node 287266, article 219295 and pop.culture.gouv.fr Joconde 000PE003801 (OFF) ; Tokyo loan risk: FACTS_R6 (b) (SEC1/SEC2, tobikan.jp) ; FACTS_R6 (b) Sémiramis (begun c. 1860, 151.5 × 258, stayed in studio until his death; queen of Assyria on the Euphrates bank; chariot and hairdo from Assyrian reliefs newly at the Louvre; Piero della Francesca seen in Arezzo more likely; nude first then draped, the Ingres way): works in focus semiramis-building-babylon (OFF) ; room 13 "Degas": findings/M_planguide_ete_2026.md (OFF)
 ---
-[quietly] Nineteen fourteen is the year the war began. This little Paris never sees it.
+[quietly] There's a dead man in this family portrait. He isn't sitting with the family. He hangs on the wall, in a frame.
 
-Under your feet, a whole quarter of the city has stopped. The streets around the Opéra are frozen here as they stood that year. The model's full title says exactly that. Maquette du quartier de l'Opéra, arrêtée en l'état en 1914. The Opéra quarter, stopped as it was in 1914.
+If you can't find the big family picture, it may be on loan to Tokyo this winter. Then stand in front of Sémiramis construisant Babylone, the wide canvas of a queen on a riverbank, here in room 13, and listen there.
 
-It was made between nineteen eighty-four and eighty-six, as the museum was being prepared, by Rémi Munier and a small team. It's resin, under plexiglass, six and a half metres on each side. The whole space around it was laid out by Richard Peduzzi.
+This is Portrait de famille, often called La Famille Bellelli, The Bellelli Family. Degas painted it while he was finishing his training in Italy, between the ages of twenty-two and twenty-six. It is the largest finished canvas he ever painted.
 
-[curious] Why build Paris in miniature inside an art museum? To show the Opéra and its quarter, in the museum's words a part of the city "profoundly transformed by the prefect Haussmann's major public works." You've just seen Carpeaux's dancers from its façade. Here is the street plan the building belonged to.
+The sitters are his father's sister, Laure, her husband, Baron Gennaro Bellelli, and their two daughters, Giulia and Giovanna. The baron was an Italian patriot, banished from Naples and living in exile in Florence. [pause] Laure is in mourning for her own father, Hilaire, who was Degas's grandfather. That's him in the frame, close to her face.
 
-[lightly] So look down and find Garnier's Opéra among the blocks. Then follow the streets out from it, one by one. From up here, the plan of the quarter is easier to read than it ever is on foot.
+[curious] Now read the family. The mother stands impressively dignified, with a slightly stern authority. The father is turned away, distant. Between the great size, the sober colours and the open perspectives, the whole place feels oppressive. Each person seems isolated by the tensions of the family.
 
-In the same space, the Opéra appears again, this time sliced open from front to back. Find that second model nearby, and let its track walk you through it.
+Degas kept it. After his death the Musée du Luxembourg bought it at the first of his studio sales. He had asked that work not worth keeping be burned. Instead, eight sales showed how much he had held on to.
+
+[warmly] If you're at Sémiramis, this is the young Degas trying to be a history painter. The queen of Assyria, founder of Babylon, stands on the bank of the Euphrates and watches her city go up. Her chariot and her hairdo seem borrowed from Assyrian reliefs then newly arrived at the Louvre. He drew the figures nude first, then dressed them, the way Ingres taught. This one never left his studio while he lived.
+
+Head out into the central sculpture aisle and find Carpeaux's La Danse, the stone ring of dancers, and play its track there.

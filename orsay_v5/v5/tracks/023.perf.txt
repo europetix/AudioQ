@@ -1,26 +1,24 @@
-@id: 023 · Paris rooms · Level 0
+@id: 023 · Opéra space · Level 0
 @section: Nave End
-@room: Paris rooms · far end of the nave · Level 0
+@room: End of the nave · Opéra space · Level 0
 @type: R
-@title: Paris, capital of a modern nation
-@where: In the rooms at the far end of the nave on level 0 called « Paris, capitale d'une nation moderne », by the escalators to level 5. Look for Victor Navlet's large painted view of the whole city seen from above.
-@what: Rooms opened in May 2022 on the transformation of Paris under the Second Empire, centred on Victor Navlet's Vue générale de Paris, prise de l'Observatoire en ballon, General View of Paris from the Observatory in a Balloon, 1855, and on Garnier's Opéra.
-@listen: What these rooms set out to show, and a bird's-eye view of Paris from a balloon.
-@brief: Floating over Paris with a friend in front of a big view of the city; warm and unhurried, a little delighted by the balloon, reflective at the end.
+@title: The Opéra quarter in 1914
+@where: In the Opéra space at the end of the nave, level 0: a model of the streets around the Opéra, six and a half metres square, seen from above beneath a transparent floor. From October 2026 to mid-January 2027 a temporary display is built around these models, so access or presentation may differ; follow the museum's signs.
+@what: Rémi Munier, with Eric de Leusse, Jean-Luc Bethmont and Borani Hoy, Maquette du quartier de l'Opéra, arrêtée en l'état en 1914, model of the Opéra quarter as it stood in 1914, 1984–86, resin under plexiglass, 650 × 650 cm.
+@listen: A whole quarter of Paris stopped in one year, and why the museum built it.
+@brief: Standing over a city with a friend, pointing things out; light and pleased at first, then quietly thoughtful at the date.
 @pace: medium-slow
-@energy: 2→3→2
-@sources: FACTS_R2 022 and G §1 "Paris, capitale d'une nation moderne" (new rooms on level 0 at the back of the nave, opened 24 May 2022; Second Empire transformation of Paris through paintings, drawings, models and sculpture; centred on Victor Navlet's large Vue générale de Paris, prise de l'Observatoire en ballon, 1855, and Garnier's Opéra): https://www.musee-orsay.fr/en/articles/new-rooms-paris-capital-modern-nation-214273 (OFF, via audit G) ; Haussmann link: FACTS_R2 020, https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 (OFF). Minimal-facts track per audit G. ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@energy: 3→3→2
+@sources: FACTS_R2 020 Opéra quarter model (Munier with de Leusse, Bethmont, Hoy; 1984–86; resin under plexiglas, 650×650 cm; under a transparent floor, seen from above, as in 1914; Opéra space laid out by Richard Peduzzi; purpose: the Opéra and its quarter "profoundly transformed by the prefect Haussmann's major public works"; gift 1989; hook "the city frozen in the year the war began"; Peduzzi exhibition 6 Oct 2026 – 17 Jan 2027): https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 , https://www.musee-orsay.fr/en/node/377998 , https://www.musee-orsay.fr/en/node/80 (OFF) ; G §1 Opéra space (OFF)
 ---
-[warmly] Imagine floating over Paris in a balloon, with the whole city spread out below you. That is the view this painting offers.
+[quietly] Nineteen fourteen is the year the war began. This little Paris never sees it.
 
-It is by Victor Navlet, and its title is a small adventure in itself. Vue générale de Paris, prise de l'Observatoire en ballon. A general view of Paris, from the Observatory, in a balloon. It is dated eighteen fifty-five.
+Under your feet, a whole quarter of the city has stopped. The streets around the Opéra are frozen here as they stood that year. The model's full title says exactly that. Maquette du quartier de l'Opéra, arrêtée en l'état en 1914. The Opéra quarter, stopped as it was in 1914.
 
-[pause] Not a street corner, not a single monument, but the whole city at once. Take a moment with it, and see how much of Paris you can recognise from the air.
+It was made between nineteen eighty-four and eighty-six, as the museum was being prepared, by Rémi Munier and a small team. It's resin, under plexiglass, six and a half metres on each side. The whole space around it was laid out by Richard Peduzzi.
 
-These rooms carry a big name. Paris, capitale d'une nation moderne. Paris, capital of a modern nation. They opened in May twenty twenty-two, and they tell one story, the transformation of Paris under the Second Empire, in paintings, drawings, models and sculpture.
+[curious] Why build Paris in miniature inside an art museum? To show the Opéra and its quarter, in the museum's words a part of the city "profoundly transformed by the prefect Haussmann's major public works." You've just seen Carpeaux's dancers from its façade. Here is the street plan the building belonged to.
 
-[curious] The rooms are centred on two things. One is the city seen whole, from above, in Navlet's view. The other is a single great building, Garnier's Opéra. You've met it twice already. Carpeaux's dancers came from its façade, and the model under the floor showed its quarter, stopped in nineteen fourteen.
+[lightly] So look down and find Garnier's Opéra among the blocks. Then follow the streets out from it, one by one. From up here, the plan of the quarter is easier to read than it ever is on foot.
 
-[quietly] Put the two together and you have a portrait of a capital rebuilding itself. The view from the sky, and one building on the ground.
-
-One last stop on this floor. At the very end of the nave, between the two towers, Rodin's Gates of Hell face back down the whole aisle. Go and stand in front of them for the last story of the ground floor.
+In the same space, the Opéra appears again, this time sliced open from front to back. Find that second model nearby, and let its track walk you through it.

@@ -1,24 +1,28 @@
-@id: 022 · Opéra space · Level 0
+@id: 022 · Central sculpture aisle · Level 0
 @section: Nave End
-@room: End of the nave · Opéra space · Level 0
-@type: R
-@title: Garnier's Opéra, cut open
-@where: In the Opéra space at the end of the nave, level 0: a long model of the Paris Opéra sliced lengthwise, nearly six metres long and about two and a half metres high. In autumn 2026 a temporary display is built around the models, so access may differ; follow the museum's signs.
-@what: Opéra de Paris, maquette de la coupe longitudinale, longitudinal-section model of the Paris Opéra, made in 1985 in Rome by the Gianese workshop under Richard Peduzzi's artistic direction, after Garnier's own drawing, at 1/25 scale, 240 × 578 × 110 cm.
-@listen: How to read an opera house from the façade to the back of the stage, and why the model was made.
-@brief: Walking a friend along a giant cutaway, section by section; curious and a little amused, then admiring.
+@room: Central sculpture aisle · Level 0
+@type: W
+@title: Carpeaux — La Danse
+@where: In the central sculpture aisle on level 0. The large stone group, over four metres high, of six dancing women in a ring around the Genius of Dance, with a small putto.
+@what: Jean-Baptiste Carpeaux, La Danse, The Dance, 1869, Échaillon stone, 420 × 298 × 145 cm, about 18 tonnes. The original group from the façade of the Paris Opéra.
+@listen: An ink attack, a sculpture saved by a war, and why the group on the Opéra today is a copy.
+@brief: Telling a friend a juicy bit of Paris scandal in front of the object itself; conspiratorial at the start, brisk through the drama, warm and admiring at the end.
 @pace: medium
 @energy: 3→4→3
-@sources: FACTS_R2 021 longitudinal-section model (1985, Peduzzi's artistic direction, Gianese workshop in Rome: Ercole Borsani, Amedeo Brogli, Giovanni Gianese; after Garnier's drawing in Le nouvel Opéra de Paris, published 1880; 1/25; 240×578×110 cm; gift 1989; mediation panel since 19 June 2023, 5.60 m, French and English, braille, 18 tactile visuals, four parts: overall section, façade-foyer-grand staircase, auditorium, backstage; Orsay's first universally accessible station; purpose: how Garnier's building works, decoration such as La Danse, and through Degas the corps de ballet): https://www.musee-orsay.fr/en/artworks/opera-de-paris-maquette-de-la-coupe-longitudinale-89419 , https://www.musee-orsay.fr/en/articles/new-mediation-station-front-model-paris-opera-house-219776 (OFF) ; G §1 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@sources: FACTS_R2 019 La Danse (1869, Échaillon stone, 420×298×145 cm, 18,000 kg; original stone in the "Allée centrale des sculptures"; 1863 commission by Garnier of four groups from four Prix de Rome winners; three years of sketches and models; ring round the Genius of Dance; outcry at realism and nudity; bottle of ink on the night of 26–27 Aug 1869; war of 1870, fall of the Empire and Carpeaux's death saved it; copy on the façade since 1964; original to the Louvre, then Orsay 1986): https://www.musee-orsay.fr/en/artworks/la-danse-1704 and works-in-focus la-danse-7092 (OFF) ; six bacchantes and a putto: A2 13.5 (SEC2) ; replacement commission to Gumery, who died Jan 1871: A2 13.7 (SEC2) ; Opéra opened 5 Jan 1875, Carpeaux died 12 Oct 1875 aged 48: A2 13.4 and Confirmed OK (OFF)
 ---
-[amused] Most buildings keep their secrets behind a wall. This one has had its wall taken off. What you're looking at is the Paris Opéra, sliced lengthwise from the façade all the way to the back of the stage.
+[conspiratorial] One night at the end of August, eighteen sixty-nine, someone threw a bottle of ink at this sculpture. It had only just been unveiled on the front of Charles Garnier's new Opéra, and plenty of Parisians were furious.
 
-The model was made in Rome in nineteen eighty-five, by the Gianese workshop, under the artistic direction of Richard Peduzzi. It follows Garnier's own drawing, published in his book Le Nouvel Opéra de Paris in eighteen eighty. The scale is one to twenty-five, and still the model is nearly six metres long.
+Garnier had commissioned four groups for his façade, from four sculptors who had all won the Prix de Rome. Carpeaux took Dance. He spent three years on sketches and models. What he delivered was this, a swirling ring of six women around the Genius of Dance, with a little putto at his feet.
 
-[curious] Read it in four parts. First, take in the whole cross-section, end to end. Then find the façade, the foyer and the grand staircase. Next comes the auditorium. [pause] And then the backstage, the part the audience never sees.
+[pause] And the public was outraged. Not by the idea of dance, but by these bodies. They were too real, and too naked, for the front of an opera house.
 
-In front of the model there's usually a long panel with texts in French and English, braille and tactile pictures. Since June twenty twenty-three, it has been the museum's first station designed to be accessible to every visitor.
+A replacement group was ordered from another sculptor, named Gumery. [amused] Then history stepped in. War with Prussia came, the Empire fell, and Gumery himself died early the next year.
 
-[warmly] Why put an opera house in an art museum? Because it ties together works you meet across this museum. The model explains how Garnier's building works, the decoration you've just seen in Carpeaux's La Danse, and, through Degas, the life of the corps de ballet. You'll meet Degas's dancers upstairs.
+Carpeaux didn't outlive the quarrel by much. He died nine months after the Opéra finally opened, at forty-eight. The war, the fall of the Empire, his death. Between them, they saved his dancers from removal.
 
-At the far end of the nave, the rooms called Paris, capitale d'une nation moderne show how Paris was transformed under the Second Empire. Find them, by the escalators, and play their track there.
+[warmly] Now look at the ring. Follow it all the way round with your eyes, figure by figure. It swirls. This is stone, about eighteen tonnes of it, and it still seems to be moving.
+
+Walk past the Opéra today and you'll see these dancers on its front. [long pause] But since nineteen sixty-four, the group on the façade has been a copy. The original went to the Louvre, and when this museum opened, it came here. So the dancers who were once splashed with ink are the ones in front of you.
+
+Carpeaux's dancers were made for the Opéra, and the Opéra itself is waiting at the far end of the nave. Find the great model of its quarter, seen from above, in the Opéra space there, and play its track.

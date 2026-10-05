@@ -1,26 +1,26 @@
-@id: 029 · Room 31 · Level 5
+@id: 029 · Room 29 · Level 5
 @section: Impressionism
-@room: Room 31 · Level 5
-@type: W
-@title: Monet — La Gare Saint-Lazare
-@where: Room 31, level 5. Monet's painting of the inside of a Paris railway station, the hall filled with steam and light.
-@what: Claude Monet, La Gare Saint-Lazare, The Saint-Lazare Station, 1877, oil on canvas, 75 × 105 cm. Caillebotte bequest, accepted by the State in 1896.
-@listen: How Monet found a subject on the edge of his new neighbourhood, and how a painter friend paid 685 francs for it and ended up giving it to France.
-@brief: A friend enjoying the irony of looking at a station from inside a station; brisk and lively about the steam, warm about Caillebotte, a light landing.
+@room: Room 29 · Level 5
+@type: R
+@title: Monet — Coquelicots
+@where: Room 29, level 5. A small landscape of a field of red poppies, with a woman holding a sunshade and a child in the foreground.
+@what: Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.
+@listen: The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.
+@brief: A friend pointing out a small, sunny picture after a giant one; warm and easy, curious in the looking, a little pleased at the coincidence at the end.
 @pace: medium
-@energy: 3→4→3
-@sources: FACTS_R3 031 (1877; 75 × 105; RF 2775; Monet had just left Argenteuil and settled in the Nouvelle Athènes district; asked permission to work inside the station that bounded it; after the effects of colour, light and steam rather than machines or travellers; Caillebotte bought it 10 March 1878 for 685 francs; Caillebotte bequest accepted 1896 for the Luxembourg; room 31): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF) ; A3 22.1 (one of the busiest stations in Paris then and now, SEC2) ; A3 22.3 (Monet made a whole series of it, SEC2) ; A3 24.6 (Caillebotte bequest accepted after years of dispute, OFF) ; FACTS_R3 024 (Gare d'Orsay inaugurated 1900): https://www.musee-orsay.fr/en/node/60 (OFF)
+@energy: 3→3→4
+@sources: FACTS_R3 027 (1873; 50 × 65.3; Argenteuil; 1874 exhibition in Nadar's studio, no. 95; woman with sunshade and child "probably" Camille and Jean; Moreau-Nélaton gift 1906; room 29): https://www.musee-orsay.fr/en/artworks/coquelicots-1010 (OFF) ; A3 21.1 (Monet showed at five of the group exhibitions: culture.gouv.fr + gallery.ca, SEC2) ; A3 21.6 (a cooperative company of artists, SEC2) ; FACTS_R3 025 (Manet's Déjeuner given by Moreau-Nélaton 1906): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF)
 ---
-[amused] Here's a small irony to enjoy. You're about to look at a railway station, and you're standing inside one.
+[warmly] In eighteen seventy-four, a group of painters set up a company of their own and hung an exhibition in Nadar's studio in Paris. In the catalogue, this little picture was number ninety-five.
 
-When Monet painted this, the Gare d'Orsay didn't exist yet. Saint-Lazare did, and it was one of the busiest stations in Paris, as it still is. In eighteen seventy-seven Monet had just left Argenteuil and moved into the Nouvelle Athènes district, and the station ran right along the edge of it. So he asked for permission to set up and work inside.
+After that giant picnic, Monet's Coquelicots is almost pocket-sized, about half a metre high. He painted it the year before the show, at Argenteuil.
 
-[pause] He got in, and he came back again and again. He made a whole series of the station.
+Look at the two figures in the foreground, a woman under a sunshade and a child beside her. They're probably Camille and their son Jean. So this is not just a field of poppies. It's very likely a family walk.
 
-Now look at what he chose to paint, and what he didn't. You won't find a careful portrait of a locomotive here, or of the people on the platforms. Monet was after something else entirely: the colour, the light, and above all the steam. Let your eye move through the hall and follow the steam. That's the real subject, not the machine itself but the weather the machine makes.
+[curious] The poppies give the picture its title and most of its colour. Let your eye follow the red across the field. Then come back to the woman and the child, two small figures wading through all that colour.
 
-[warmly] The first person to buy it was a painter, Gustave Caillebotte. On the tenth of March eighteen seventy-eight, he paid Monet six hundred and eighty-five francs for it. When Caillebotte died, he left his collection to the nation. The State hesitated for years, and only accepted it in eighteen ninety-six. That's how this canvas ended up in public hands.
+That show in Nadar's studio was only the beginning. Monet would go on to show at five of the group's exhibitions.
 
-[lightly] So a painting of one station, bought by one painter, now hangs in another station. Monet would have liked the timetable.
+[lightly] The picture reached the nation in nineteen oh six, as a gift from the collector Étienne Moreau-Nélaton. [pause] In that same year, he also gave Manet's Déjeuner sur l'herbe. So the picnic Monet tried to rival and his own little field of poppies became public property together.
 
-In this same room, find Caillebotte's own painting, Raboteurs de parquet, The Floor Scrapers, and play its track there.
+Next, look in the Impressionist rooms on this level for Pissarro's Gelée blanche, Hoarfrost: a wide winter field of frosted furrows, with a man carrying wood along a path. Its track is waiting for you there.

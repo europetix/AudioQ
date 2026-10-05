@@ -1,24 +1,24 @@
-@id: 050 · Room 43 · Level 5
+@id: 050 · Room 40 · Level 5
 @section: Post-Impressionism
-@room: Room 43 · Pont-Aven · Level 5
+@room: Room 40 · Level 5
 @type: R
-@title: Gauguin — La Belle Angèle and Les Alyscamps
-@where: In room 43 on level 5, the Pont-Aven room. La Belle Angèle is a woman's portrait set inside a circle on a decorative background, with a strange pot beside her. Les Alyscamps is a landscape in bright autumn colours with three small walkers; it may hang nearby.
-@what: Paul Gauguin, La Belle Angèle (The Beautiful Angèle), 1889, oil on canvas, 92 × 73.2 cm, gift of Ambroise Vollard, 1927. Paul Gauguin, Les Alyscamps, 1888, oil on canvas, 91.5 × 72.5 cm.
-@listen: A portrait its sitter refused and Degas bought, and a landscape Gauguin gave a mocking title.
-@brief: Sharing two good-humoured stories of Gauguin before Tahiti with a friend; amused, quick, a dry smile at the end.
+@title: Signac — Femme à l'ombrelle
+@where: Room 40 on level 5, among the Neo-Impressionists. Look for Paul Signac's portrait of a woman with a parasol, painted in small separate touches of colour. More Signac hangs in room 39.
+@what: Paul Signac, Femme à l'ombrelle (Woman with a Parasol), 1893. Oil on canvas, 81 × 65 cm.
+@listen: The woman Signac met at a cabaret and painted after ten years together, and how the next generation took the Impressionists' favourite subject and remade it in dots.
+@brief: Letting a friend in on a quiet love story behind a formal-looking picture, then playing a looking game; warm and light.
 @pace: medium
-@energy: 3→4→3
-@sources: FACTS_R4 052 La Belle Angèle (1889, 92 × 73.2, RF 2617, Vollard gift 1927; Marie-Angélique Satre, hotel at Pont-Aven, thought one of the most beautiful women of the area; offered the painting and refused it; Degas thought it a masterpiece, bought it 1891, kept it until his studio sale 1918; circled portrait on decorative background, forms outlined in dark line from Japanese prints; Peruvian-style pot, "an exotic version of a Breton idol"): https://www.musee-orsay.fr/en/artworks/la-belle-angele-286 (OFF) ; FACTS_R4 052 Les Alyscamps (1888, 91.5 × 72.5; Oct 1888 answered Van Gogh's invitation to Arles; probably one of his first paintings there, brilliant autumn colours; Roman necropolis made a Christian burial ground by Saint Trophime, first bishop of Arles; fields, woods, a canal, three walkers, two Arlésiennes and a man; "found little charm in the women of Arles"; ironic title to Theo): Orsay commentary 2047 via extract (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@energy: 2→3→3
+@sources: FACTS_R4 050 Signac (Femme à l'ombrelle 1893, 81 × 65, room 40; Berthe Roblès 1862–1942, distant cousin of Pissarro; met early 1880s at the Chat Noir, lived with him from then; married 7 Nov 1892; finished Neo-Impressionist portraits rare; last of a series of family and friends incl. Fénéon 1890 MoMA; parasol theme as in Monet's two "Essai de figure en plein air" at Orsay, "in a purely Neo-Impressionist manner"; Signac works in rooms 39 and 40; Signac owned Le Cirque): https://www.musee-orsay.fr/en/artworks/femme-lombrelle-25640 (OFF) ; A3 30.3–30.4 ("divisionnisme" was Signac's term; colours mix in the eye and stay luminous; SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[amused] Gauguin offered this woman her portrait as a gift. She said no.
+[warmly] Paul Signac met the woman in this picture at a cabaret, the Chat Noir, in the early eighteen-eighties. From then on, she lived with him.
 
-Her name was Marie-Angélique Satre. She kept a hotel at Pont-Aven and was thought one of the most beautiful women in the area. Gauguin painted her in 1889 as La Belle Angèle, The Beautiful Angèle. He has set her face inside a circle, on a mostly decorative background, with its forms outlined in a dark line, a method he took from Japanese prints. Beside her stands a pot in Peruvian style, which the museum calls an exotic version of a Breton idol.
+Her name was Berthe Roblès, a distant cousin of the painter Camille Pissarro. They married in November 1892, after about ten years together. The next year he painted her here, as Femme à l'ombrelle, Woman with a Parasol.
 
-[pause] But another painter saw a masterpiece. Edgar Degas bought it, and kept it for more than a quarter of a century, until his studio sale.
+[pause] That alone makes it unusual. Finished portraits are rare in Signac's work. This is the last of a small series of family and friends, which includes the writer Félix Fénéon, now in New York at the Museum of Modern Art.
 
-Now Les Alyscamps, painted a year earlier. In October 1888 Gauguin answered Van Gogh's invitation to Arles, and this is probably one of his first pictures there, in brilliant autumn colours. The Alyscamps was the old Roman burial ground of Arles, later made Christian by its first bishop, Saint Trophime. Gauguin almost leaves the history out. Fields, woods, a canal, and three walkers, two women of Arles and a man.
+[lightly] And the subject is a nod to the generation before. A woman with a parasol was an Impressionist favourite. Monet painted two such studies of a figure out of doors, and both belong to this museum. Signac takes the same idea and does it, as the museum puts it, in a purely Neo-Impressionist manner.
 
-[wry] Gauguin found little charm in the women of Arles. So when he sent this canvas to Van Gogh's brother Theo, he titled it, with some irony, Landscape, or Three Graces at the Temple of Venus.
+Signac called the method divisionism. The colours go down as separate touches, meant to mix in your eye and stay luminous. Step close and Berthe breaks into colour. Step back and she comes together again. Try it a couple of times. The picture changes with every step you take.
 
-Tahiti is in room 44, Gauguin in Tahiti. Find Arearea, two women seated near a tree with a red dog in front. If its place is empty, it's away on loan. Play its track anyway, and it will point you to another Gauguin.
+Walk on to room 43, the Pont-Aven room. Look for a life-size young woman lying full length in a wood, Émile Bernard's Madeleine au Bois d'Amour. Her track is waiting for you there.

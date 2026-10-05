@@ -1,28 +1,26 @@
-@id: 042 · Room 36
-@section: Van Gogh
-@room: Room 36 · Level 5
-@type: W
-@title: Van Gogh — Portrait de l'artiste (Self-Portrait), 1889
-@where: In room 36 on level 5, in front of Van Gogh's head-and-shoulders self-portrait in a suit, against a swirling background of pale green and turquoise, with bright orange hair and beard.
-@what: Vincent van Gogh, Portrait de l'artiste, Self-Portrait, 1889, painted at Saint-Rémy-de-Provence, oil on canvas, 65 × 54.2 cm. Gift of Paul and Marguerite Gachet, 1949.
-@listen: The doctor's family who kept this portrait for decades, what Van Gogh wrote about painting himself, and the stillness at the centre of a moving picture.
-@brief: A friend sharing where a famous face spent its life, then looking hard at it together; candid, absorbed, quietly moved at the end.
-@pace: medium-slow
-@energy: 2→3→4→2
-@sources: FACTS_R4 044 (1889, Saint-Rémy, 65 × 54.2; Gachet collection, given by Paul and Marguerite Gachet 1949; head-and-shoulders, suit, "hard and emaciated" features, "green-rimmed eyes", absinthe green and pale turquoise against the fiery orange of beard and hair, immobility vs "hallucinatory arabesques" of the background): https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-747 (OFF) ; A2 15.2 (not the portrait sent to his mother, OFF CONTRA) ; A2 15.3 letters 800 and 805 (vangoghletters.org/vg/letters/let800, let805, OFF) ; FACTS_R4 044 Artaud quote (musee-orsay.fr/en/program/whats-on/exhibitions/presentation/van-gogh-artaud-man-suicided-society, OFF, extract wording)
+@id: 042 · Cézanne rooms
+@section: Impressionism
+@room: Cézanne rooms · Level 5
+@type: R
+@title: Cézanne — Pommes et oranges (Apples and Oranges)
+@where: In the Cézanne rooms on level 5; the room is not confirmed. Look for a large still life of apples and oranges on dishes, with draped cloth and a flower-patterned jug. Orsay also owns views of the Montagne Sainte-Victoire, which may or may not be hanging nearby.
+@what: Paul Cézanne, Pommes et oranges, Apples and Oranges, around 1899, oil on canvas, 74 × 93 cm. Bequest of comte Isaac de Camondo, 1911.
+@listen: Six paintings from the same props, and why the museum calls this the most important still life of his late years.
+@brief: Explaining to a friend why a table of fruit is worth a long look; plain, enthusiastic in a quiet way, a little wry about the props.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_R3 042 Pommes et oranges (c. 1899, 74 × 93, Camondo 1911; painted in 1899 in his Paris studio; one of six still lifes with the same props: earthenware dishes, a flower-patterned jug, drapery recalling 17th-century Flemish still lifes; "the most important still life produced by the artist in the late 1890s"): https://www.musee-orsay.fr/en/artworks/pommes-et-oranges-1470 and commentary 7098 (OFF) ; FACTS_R3 042 Sainte-Victoire (Orsay holds an oil c. 1890 and a watercolour c. 1900; one not exhibited; used only as a hedge in @where) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[curious] This face spent decades in a doctor's house.
+[wry] For a man who painted fruit, Cézanne was remarkably loyal to his props.
 
-It came from the collection of Dr Paul Gachet, the doctor who looked after Van Gogh at Auvers-sur-Oise. It stayed in the doctor's family there until 1949, when Gachet's children, Paul and Marguerite, gave it to the nation.
+In 1899, in his studio in Paris, he set up a still life. Some earthenware dishes, a jug patterned with flowers, a length of drapery. Then he painted it, and then, with the same props, he painted it again. This is one of six still lifes made from those same few objects.
 
-He painted it in 1889, at the hospital in Saint-Rémy-de-Provence. That September, he wrote a line about the problem every self-portrait faces. [pause] "It's difficult to know oneself — but it isn't easy to paint oneself either."
+[curious] Why keep the props? Here's a guess you can test with your own eyes. When the objects stay the same, the only things left to change are the arrangement and the painting itself. The subject quietly shifts from the fruit to the way the fruit is put together.
 
-[quietly] So look at how he solved it. He gives himself a plain head-and-shoulders view, in a suit. The features are hard and thin. The eyes are rimmed with green, and they look anxious. The whole picture is tuned to two colours, an absinthe green and a pale turquoise, and against them, the fiery orange of his beard and hair.
+Look at the drapery. It recalls the great Flemish still lifes of the seventeenth century. So Cézanne is borrowing an old, grand way of setting a table, and making it serve a very modern kind of looking.
 
-Now watch what moves and what doesn't. The man himself is utterly still. But his hair and beard ripple, and the background takes those ripples and spreads them, curling across the whole canvas. The stillness sits in the middle of all that movement.
+[pause] The museum doesn't hedge on this one. It calls Pommes et oranges "the most important still life produced by the artist in the late 1890s."
 
-[pause] About two weeks later, writing about a self-portrait from those weeks, he said his "physiognomy has grown much calmer, although the gaze may be vaguer than before."
+[warmly] So give it the time he gave it. Start with the jug and its flowers, then the dishes, then the fruit, and let the cloth carry you round the table. He looked at these same things six times over. One long look from you seems only fair.
 
-[reverent] Antonin Artaud, writing about Van Gogh, described the face in his self-portrait as "inspecting and watching us, scrutinising us with a glowering eye." Stand in front of it for a moment, and let it scrutinise you back.
-
-Somewhere in the Van Gogh rooms, find his bedroom in Arles: a small room with a yellow bed and chairs and a red floor. Play its track there.
+Walk on to room 36, the Van Gogh room, where the picture rails are painted blue, and play its track at the entrance.

@@ -1,24 +1,30 @@
-@id: 056 · Room 72 · Level 2
-@section: Lautrec and the Nabis
-@room: Room 72 · Level 2
+@id: 056 · Galerie Françoise Cachin · Level 5
+@section: Post-Impressionism
+@room: Galerie Françoise Cachin · Level 5
 @type: R
-@title: Vuillard — Jardins publics
-@where: Room 72 on level 2, the room with five large garden panels in beige, green and blue hung around a corner. Bonnard's tall, narrow panel of a woman in a cape hangs in the same room.
-@what: Édouard Vuillard, Jardins publics, Public Gardens, 1894, distemper on canvas: five panels of a cycle of nine. Also Pierre Bonnard, Femmes au jardin, Women in the Garden: Femme à la pèlerine, 1891, distemper on canvas.
-@listen: Standing in the corner of a dining room that no longer exists, and the painter his friends called the very Japanese Nabi.
-@brief: Inviting a friend into a lost room; warm and scene-setting, curious at the parasol, amused at Bonnard's nickname.
-@pace: medium-slow
-@energy: 2→3→3
-@sources: FACTS_R5 062 Vuillard — Jardins publics (1894, distemper, nine panels commissioned by Alexandre Natanson for his mansion on the Avenue du Bois, now Avenue Foch; Natanson directed La Revue blanche, which published the Nabis; large room used as living and dining room; broken up 1929; five reunited, hung "around the corner of the room, as they were originally"; subtitles Fillettes jouant, L'Interrogatoire, Les Nourrices, La Conversation, L'Ombrelle rouge; continuous ground and sky; beige, green and blue with splashes of red; matt like fresco; first use of distemper on this scale; room 72): https://www.musee-orsay.fr/en/artworks/jardins-publics-la-conversation-les-nourrices-lombrelle-rouge-8015 ; …/jardins-publics-linterrogatoire-8285 ; …/jardins-publics-fillettes-jouant-8284 (OFF) ; FACTS_R5 063a Bonnard — Femmes au jardin (1891, distemper, Femme à la pèlerine room 72, first treatment of the screen format as decorative panels, "le Nabi très japonard", tall screen-panel format, chequered clothes, flat layering): https://www.musee-orsay.fr/en/artworks/femmes-au-jardin-femme-la-pelerine-8024 ; commentary paravent-19797 (OFF) ; FACTS_R5 063b (next-room cue: Vallotton, room 71) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@title: Henri Rousseau — La Charmeuse de serpents (The Snake Charmer)
+@where: On level 5 in the Galerie Françoise Cachin, near the Gauguin rooms: a large, nearly square jungle scene, almost 1.9 metres wide, with a dark figure playing a flute and snakes around it. Its room is not confirmed. It came back from loans in July 2026; if it is not on show, skip this track and go on to room 45.
+@what: Henri Rousseau, La Charmeuse de serpents, The Snake Charmer, 1907, oil on canvas, 169 × 189.5 cm. Bequest of Jacques Doucet, 1936.
+@listen: A jungle painted without leaving Paris, the woman who ordered it, and the artists it went on to haunt.
+@brief: A friend pointing out an enchanting, slightly unsettling picture; curious and warm, with a touch of wonder.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R7 La Charmeuse de serpents (1907, 169 × 189.5; bequest of Jacques Doucet 1936; Galerie Françoise Cachin; commissioned by Robert Delaunay's mother after a trip to India; Delaunay, Jarry, Apollinaire, Picasso, Breton among admirers; dark-skinned androgynous figure with a flute; "a black Eve in a disquieting Garden of Eden…"; bright dense backlit colours anticipating Magritte; precise and naïve drawing; vertical asymmetrical composition; uniform treatment; one of his "most fascinating and enigmatic" paintings, inspired the Surrealists; one part very bright, one very dark; jungles from studies at the Muséum and the Jardin des Plantes greenhouses, not from travel): m.musee-orsay.fr/en/works/commentaire_id/the-snake-charmer-8846.html (OFF) ; Doucet collection beside the Demoiselles d'Avignon: musee-orangerie.fr/en/whats-on/exhibitions/henri-rousseau-painters-ambition (OFF) ; loans to the Barnes and the Orangerie to 20 Jul 2026: FACTS_R7 (SEC2/OFF) ; level 5 theme rooms: findings/M_planguide_ete_2026.md (OFF), no Rousseau room named
 ---
-[warmly] Picture a dinner invitation in 1894, to a mansion on the Avenue du Bois, the avenue Parisians now call Avenue Foch. Your host is Alexandre Natanson. He runs La Revue blanche, the journal that published the Nabis. And around his room, a cycle of painted gardens.
+[lightly] This jungle was grown in Paris, in a greenhouse.
 
-That year Natanson commissioned nine panels from Édouard Vuillard, for a large room used for both living and dining. They're called Jardins publics, Public Gardens. In 1929 the set was broken up. Five of the nine are reunited here, hung around the corner of the room, as they were originally. [pause] So you're standing, more or less, in a corner of that lost room.
+The picture travels, though. If it isn't on the wall, go straight on to room 45 and Sérusier's Le Talisman.
 
-Each panel is its own scene with its own subtitle: girls playing, a questioning, nursemaids, a conversation, a red parasol. Yet the ground and sky run on from one to the next, and so do the light and the colour. Harmonies of beige, green and blue, enlivened by a few splashes of red. [curious] See if you can find the parasol.
+Henri Rousseau did not make his jungles from travel. He made them from studies at the Natural History Museum, and in the hothouses of the Jardin des Plantes. Out of those, he built this.
 
-Notice too how matt the surface is, almost like a fresco. Vuillard painted in distemper, a paint bound with glue, and this was the first time he used it on this scale.
+[curious] It began as a commission. Robert Delaunay's mother ordered it after a trip to India. Delaunay was one of Rousseau's most fervent admirers. So were Alfred Jarry, Apollinaire, Picasso and André Breton.
 
-In the same room, look for Pierre Bonnard's tall, narrow panel of a woman in a cape, from his Femmes au jardin, Women in the Garden. [amused] His friends called him le Nabi très japonard, the very Japanese Nabi. The tall, screen-like format and the flat layers show you why.
+Now look. A dark-skinned figure, neither clearly man nor woman, plays a flute. The snakes answer, and so does the whole natural world around. The museum's own commentary calls the figure "a black Eve in a disquieting Garden of Eden, charming a snake as terrifying as the serpent in Genesis was seductive."
 
-Next door, in room 71, look for a small painting of a child in a yellow hat, running after a red ball across a park. Play its track there.
+[pause] See how the colour is lit from behind, bright and dense. One part of the picture is very bright, the other very dark. The drawing is precise and naïve at once. And notice how figure, animals and fantastic plants all get exactly the same treatment.
+
+That strangeness carried a long way. The backlit colours seem to look ahead to Magritte. The painting went on to inspire whole generations of artists, the Surrealists above all.
+
+[warmly] The collector Jacques Doucet owned it, alongside Picasso's Demoiselles d'Avignon. It came to the national collections as his bequest, in nineteen thirty-six.
+
+Now walk on into room 45, Redon and the Nabis, and find Paul Sérusier's very small painting on wood, Le Talisman. Play its track there.

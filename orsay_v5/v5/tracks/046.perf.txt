@@ -1,26 +1,28 @@
 @id: 046 · Room 36
 @section: Van Gogh
 @room: Room 36 · Level 5
-@type: R
-@title: Van Gogh — Le Docteur Paul Gachet
-@where: In room 36 on level 5, the Van Gogh room. Look for Van Gogh's portrait of a melancholy man painted in cold colours, with a sprig of foxglove.
-@what: Vincent van Gogh, Portrait du Docteur Gachet, Dr Paul Gachet, 1890, oil on canvas, 68 × 57 cm, RF 1949 16. Part of the gift of the Gachet heirs, 1949–1954.
-@listen: Who Dr Gachet was, the false name he painted under, and the one hopeful thing Van Gogh put in his portrait.
-@brief: Introducing a friend to an odd, likeable man and his sad portrait; curious, a little amused at the alias, quiet at the foxglove.
-@pace: medium
-@energy: 3→3→2
-@sources: FACTS_R4 048 (1890; 68 × 57; RF 1949 16; Gachet a doctor specialising in melancholy and nervous illnesses who monitored Van Gogh's health; amateur painter and engraver as Paul Van Ryssel; bought Cézanne, Guillaumin, Monet, Renoir; one of the first collectors of Van Gogh; heirs Marguerite 1869–1949 and Paul junior 1873–1962 gave the collection to the Louvre 1949–1954; room 37 the Paul Gachet collection): https://www.musee-orsay.fr/en/artworks/portrait-du-docteur-gachet-98570 and https://www.musee-orsay.fr/en/articles/van-gogh-new-presentation-artists-works-musee-dorsay-277393 (OFF) ; FACTS_R4 048 commentary (Theo's advice; "melancholy pose", "severe portrait brushed in cold colours", foxglove "the only touch of hope"; first and only etching, copper plate dated 25 May 90) (OFF) ; letter RM23 to Gauguin, c. 17 June 1890, "the deeply sad expression of our time": vangoghletters.org (OFF extract, VGM translation) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@type: W
+@title: Van Gogh — La Nuit étoilée (Starry Night over the Rhône)
+@where: In room 36 on level 5, in front of Van Gogh's night view of the Rhône: deep blue sky and water, bright stars, and the orange gaslights of Arles reflected in the river. Note: it is on loan to Tokyo from 14 November 2026 to 28 March 2027; if the wall is empty, listen in front of the 1889 self-portrait in a suit, which hangs in the same room.
+@what: Vincent van Gogh, La Nuit étoilée, Starry Night over the Rhône, 1888, Arles, oil on canvas, 73 × 92 cm. Gift of M. and Mme Robert Kahn-Sriber in memory of M. and Mme Fernand Moch, 1975.
+@listen: A painting made outdoors at night by gaslight, the colours Van Gogh saw in the dark, the lovers at the bottom, and a last look at the self-portrait nearby.
+@brief: Out by the river at night with a friend, telling them what the painter saw; hushed wonder, a little lift at the critic's line, tender at the lovers.
+@pace: medium-slow
+@energy: 2→4→3→2
+@sources: FACTS_R4 046 (1888, Arles, 73 × 92, RF 1975 19, Kahn-Sriber gift 1975, room 36; "transcribed the colours he perceived in the dark"; Prussian blue, ultramarine, cobalt; gaslights "an intense orange" reflected; stars "like gemstones"; couple of lovers make it "more serene"): https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696 (OFF) ; A2 17.2–17.3 letter 691 to Theo c. 29 Sept 1888, VGM wording and "actually painted at night, under a gas jet": vangoghletters.org/vg/letters/let691 (OFF) ; A2 17.6–17.7 (Indépendants 1889, sent by Theo with the Irises; Fénéon, La Vogue, Sept 1889) (OFF) ; G 7 + FACTS_R4 frame (Tokyo loan 14 Nov 2026 – 28 Mar 2027, SEC2: tobikan.jp/en/exhibition/2026_orsay.html) ; FACTS_R4 044 (fallback: self-portrait 1889, Saint-Rémy, room 36 per G; absinthe green and pale turquoise; still figure against the arabesques of the background): https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-747 (OFF)
 ---
-[amused] Dr Paul Gachet had a second life, and a second name. He was an amateur painter and engraver, and he signed that work Paul Van Ryssel.
+[quietly] This night sky was not painted from memory. Van Gogh painted it at night, with the stars overhead, by the light of the gas lamps.
 
-As a doctor, his speciality was melancholy and nervous illness. He was close to the Impressionists, and bought works by Cézanne, Monet, Renoir and Guillaumin. He was one of Van Gogh's first collectors. So when Van Gogh left the hospital at Saint-Rémy, Theo advised him to go to Auvers, where this doctor could keep an eye on his health.
+If this wall is empty — the painting travels to Tokyo this winter — walk to the self-portrait in a suit, which hangs in this room, and listen there.
 
-[pause] A special bond grew between the two men. Within days of arriving, Van Gogh made his first and only etching, a portrait of Gachet. The museum still has the copper plate, dated the twenty-fifth of May, 1890.
+[curious] It's September 1888, in Arles. Van Gogh writes to Theo that he has painted a starry sky, and that it was actually painted at night, under a gas jet. Then he describes what he saw. "Against the green-blue field of the sky the Great Bear has a green and pink sparkle whose discreet paleness contrasts with the harsh gold of the gaslight."
 
-[quietly] Then came this painting. Look at the pose, heavy with melancholy, and at the colours, all cold. In a letter to Gauguin, Van Gogh said he had painted Gachet "with the deeply sad expression of our time." Not just one man's sadness. A whole era's.
+[pause] On the canvas, the blues do most of the work: Prussian blue, ultramarine and cobalt. In the museum's words, he set down the colours he perceived in the dark. The town's gaslights glow an intense orange, and their reflections spill into the Rhône. Above it all, the stars sparkle like gemstones.
 
-But find the foxglove. It's a plant doctors valued for its healing properties, and the museum calls it the only touch of hope in the picture. A doctor's flower, for a doctor who was himself, perhaps, a little melancholy.
+[warmly] And right down at the bottom there's a couple, a pair of lovers, easy to miss. They change the mood. They make the whole night more serene.
 
-[warmly] Long after the doctor's death, his children, Marguerite and Paul, gave his collection to the Louvre, between 1949 and 1954. This portrait, the self-portrait and the church you've just seen all came from that house in Auvers.
+The next year, Theo sent the canvas with the Irises to the exhibition of the Indépendants. One critic, Félix Fénéon, called Van Gogh "a diverting colourist even in eccentricities like his Starry Night." A backhanded compliment. It hasn't aged as well as the painting.
 
-Then leave the Van Gogh room for room 38. Look for Seurat's large circus scene, a clown seen from behind in the front, inside a painted dark border. The next story is waiting there.
+[lightly] Now give the self-portrait a look, whether you're standing at it already or can see it across the room. He painted it a year after that night by the Rhône, at Saint-Rémy. The stars are gone. But the background still moves, in pale green and turquoise, curling round a man who sits completely still.
+
+In room 36, find the church at Auvers, its windows deep blue under a cobalt sky, and listen to its track there.

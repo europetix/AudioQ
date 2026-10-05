@@ -1,26 +1,24 @@
-@id: 026 · Room 29 · Level 5
-@section: Impressionism
-@room: Room 29 · Level 5
-@type: R
-@title: Monet — the Déjeuner sur l'herbe fragments
-@where: Room 29, level 5. Two very large canvases from one picnic scene, hung side by side: the big central fragment, almost two and a half metres tall, and the left-hand fragment hung to its left.
-@what: Claude Monet, Le Déjeuner sur l'herbe, Luncheon on the Grass, begun 1865, oil on canvas: two surviving fragments, the central one 248.7 × 218 cm.
-@listen: How the biggest canvas of Monet's youth ended up as rent security, then mouldy, then in pieces.
-@brief: Telling a friend the slightly absurd fate of a young painter's grand ambition; curious at the start, wry at the landlord, quietly respectful at the end.
-@pace: medium
-@energy: 3→4→2
-@sources: FACTS_R3 026 (begun spring 1865; over four metres by six; "both a tribute and a challenge to Manet"; abandoned 1866 just before the Salon; left with landlord as security for rent; mouldy when recovered 1884; cut up, three fragments kept; central fragment 248.7 × 218 cm, dation 1987; left fragment hung to its left, Wildenstein gift 1957; room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF)
+@id: 026 · Between the towers · Level 0
+@section: Nave End
+@room: End of the nave · between the towers · Level 0
+@type: W
+@title: Rodin — The Gates of Hell
+@where: At the far end of the nave, between the two towers, on the axis of the central aisle: Rodin's great plaster doorway, more than six metres high. Afterwards, go back to the escalators by the Paris rooms and ride up to level 5, to the clock salon.
+@what: Auguste Rodin, La Porte de l'Enfer, The Gates of Hell, the original plaster, 6.35 m high, worked on from 1880 to 1917.
+@listen: A door made for a museum that was never built, the decades Rodin spent on it, and why it was standing in front of you from the moment you came in.
+@brief: Standing with a friend at the end of a long walk; reverent and unhurried, a touch of wit about The Thinker, then a clear, friendly send-off upstairs.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R2 023 via A2 12.2–12.3 and G §0.9 (original plaster, 6.35 m, worked on 1880–1917; commissioned for a museum of decorative arts never built; since 24 May 2022 on the terrace between the two towers at the far end of the nave, on the axis of the central aisle, visible from the entrance; related display with Musée Rodin loans): https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 , https://www.musee-orsay.fr/en/artworks/porte-de-lenfer-15645 (OFF) ; Orsay has no Rodin Thinker: A2 12.1 (OFF search, absence) ; escalators and lifts to level 5: G §1 (SEC2). Minimal-facts track per audits A2/G. ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[curious] In the spring of eighteen sixty-five, the young Claude Monet started the biggest painting of his youth. The canvas measured more than four metres by six. Its subject was a picnic on the grass. He had Manet's Déjeuner sur l'herbe, the painting by Manet you have already met, very much in mind. Monet meant his picnic as both a tribute and a challenge.
+[reverent] This door was made for a museum that was never built. Rodin was commissioned to make a great doorway for a museum of decorative arts. The museum never happened. The door never hung on any building. [pause] Yet Rodin worked on it from eighteen eighty until nineteen seventeen.
 
-He never finished it. A year later, just before the Salon, he gave up. [pause] And then the canvas had a very unglamorous life.
+What stands here is his original plaster, six metres thirty-five high. Not a bronze cast.
 
-[wry] Monet left it with his landlord, as security for the rent. When he finally got it back, in eighteen eighty-four, it was mouldy. So he cut it up, and kept three pieces.
+Think about where you've walked. You came down a long nave full of sculpture, past Carpeaux's dancers, past the side rooms of the Realists and of Manet. And at the far end, all that time, there was this door. Since May twenty twenty-two it has stood here, between the two towers, on the axis of the central aisle, placed so that you see it as you come in. [long pause] It has been waiting at the end of your walk since the very first step.
 
-Two of those pieces are here. The large one is the centre of the composition, almost two and a half metres tall. Hanging to its left is the left-hand fragment. They reached the nation by different roads, thirty years apart, one as a gift and one in payment of tax. The third piece is not in this museum.
+[quietly] So give it the time it asks for. Start from a little way back, where it fills the end of the aisle. Then come closer, slowly, and let the detail take over from the whole. Around it, the museum has added works lent by the Musée Rodin, so the doorway has company.
 
-Stand back and picture the rest around them, the whole canvas at full size. That's the scale a young painter thought he needed to take on Manet.
+[wry] And if you're hoping for The Thinker, you won't find him at Orsay. The museum doesn't have one. What it has is this doorway, and it is enough.
 
-[quietly] It's strange to admire a painting its own artist took apart. But these pieces catch a young painter at the very moment he dared to answer Manet at full size. He'd find other ways to make his point.
-
-In this same room, look for a much smaller canvas, a field of red poppies with a woman holding a sunshade. That's Monet's Coquelicots. Press play when you're in front of it.
+That's the end of the ground floor. Walk back to the escalators beside the Paris rooms, or take the lifts, and go up to level 5. You'll arrive at the Salon de l'horloge, the clock salon. Find the great clock window looking out over Paris, and play its track there.
