@@ -1,0 +1,28 @@
+@id: 010 · FR · Room 2 · north wall
+@section: Water Lilies
+@room: Room 2 · north wall · Water Lilies · Ground floor
+@type: W
+@title: Monet — Le Matin aux saules
+@where: Salle 2, le long mur nord : à votre gauche quand vous faites face au fond de la salle. L'une des deux longues compositions qui se font face.
+@what: Claude Monet, Le Matin aux saules (Morning with Willows), from the Water Lilies cycle, 1914–1926, oil on canvas, three panels, 200 × 1275 cm.
+@listen: The real trees just beyond this wall, the studio where Monet painted it, and a new way to look at a painting too long to see from one spot.
+@brief: A friend sharing a couple of surprises about place and a looking trick; warm, then curious, a little amused, unhurried.
+@pace: medium
+@energy: 3→3→2
+@sources: Size 200 × 1275, three panels, 1914–1926: https://www.musee-orangerie.fr/en/artworks/le-matin-aux-saules-196307 (OFF) ; north wall: RMN caption "Salle 2, mur nord" https://photo.rmn.fr/archive/06-515034-2C6NU0PK59_O.html / https://www.photo.rmn.fr/archive/archive/06-515044-2C6NU0PKDAG7.html (OFF per FACTS_C §1.2 and PLAN) ; almost blind north (garden) façade: https://www.musee-orangerie.fr/en/node/24 (OFF) ; Giverny about 75 km from Paris (G4 22.2, SEC2) ; painted in the third studio, 1915, glass roof (G2 04-3 / 10-3, SEC2 NGV + National Gallery) ; curved walls: https://www.musee-orangerie.fr/en/node/33 (OFF) ; three titles with 'Matin' among the eight (official titles, OFF) ; Matin clair aux saules opposite on the south wall (PLAN, OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 010 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] De l'autre côté de ce mur, hors de vue, s'étend le jardin des Tuileries. Ce côté nord de l'ancienne orangerie donne sur le jardin, et il est presque sans fenêtres. Ces saules peints ont donc le vrai jardin pour voisin, juste derrière la pierre.
+
+Les arbres de Monet étaient ailleurs. Son bassin se trouvait à Giverny, à environ soixante-quinze kilomètres de Paris. Et il n'a pas peint cette toile sur la berge. Il l'a peinte à l'intérieur, dans ce grand atelier au toit de verre. [pause] Ce que vous voyez, c'est un matin qu'il connaissait par cœur, devenu immense.
+
+Le Matin aux saules est l'une des longues compositions, trois toiles jointes bord à bord. [pause] C'est le deuxième des trois matins du cycle. Vous avez vu le premier dans l'autre salle. Le troisième est juste derrière vous.
+
+[curious] Essayez cette fois une autre façon de regarder. Allez à une extrémité du mur et regardez le tableau en enfilade, comme on regarde le long d'une rive. La peinture s'éloigne de vous avec la courbe du mur, et l'autre bout semble dériver. Puis allez au centre de la salle et faites-lui face. [pause] Depuis le bout, c'est une longue étendue d'eau. Depuis le centre, elle vous entoure.
+
+[amused] Rares sont les tableaux qui demandent à être regardés de côté. Celui-ci le mérite.
+
+Cherchez en chemin les saules du titre, et le matin dans l'eau autour d'eux. Ne vous pressez pas. Un matin de cette taille prend son temps pour arriver.
+
+Maintenant, retournez-vous. De l'autre côté de la salle, sur le long mur d'en face, le troisième matin vous attend. Le Matin clair aux saules.

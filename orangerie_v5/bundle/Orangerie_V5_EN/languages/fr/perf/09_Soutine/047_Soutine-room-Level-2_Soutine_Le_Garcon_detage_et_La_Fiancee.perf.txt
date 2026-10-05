@@ -1,0 +1,30 @@
+@id: 047 · FR · Soutine room · Level −2
+@section: Soutine
+@room: Soutine room · Level −2
+@type: W
+@title: Soutine — Le Garçon d'étage et La Fiancée
+@where: Dans la salle des tableaux de Soutine. Cherchez un garçon d'hôtel en gilet rouge, debout, les mains sur les hanches, puis un portrait haut et étroit d'une jeune femme mince en robe blanche.
+@what: Chaïm Soutine, Le Garçon d'étage, The Room-Service Waiter, around 1927, oil on canvas, 87 × 66 cm; La Fiancée, The Bride, around 1923, oil on canvas; La Jeune Anglaise, The Young Englishwoman, 1934, oil on canvas.
+@listen: The hotel staff nobody looked at, the year Soutine's red took over, and a bride squeezed into her frame.
+@brief: Pointing out people at the edges of a smart world to a friend; curious, then frank and a little amused at the waiter, gentle with the bride.
+@pace: medium
+@energy: 2→4→3
+@sources: FACTS_C Soutine — Le Garçon d'étage (c.1927, 87×66; hands on hips, aggressive pose, red ears, red waistcoat, tight uniform, uneven shoulders, misshapen hands; Châtel-Guyon 1926–28, Madeleine and Marcellin Castaing, probably watched hotel staff, series of portraits; 1927 obsession with red peaked with grooms and huntsmen; official English renders the French 'grooms et chasseurs', and a chasseur here is a hotel bellboy, cf. Soutine's Le Groom (Le Chasseur), 1925, so spoken as 'hotel pageboys and bellboys'): https://www.musee-orangerie.fr/es/obras/le-garcon-detage-196571 (OFF) ; FACTS_C Soutine — La Fiancée (c.1923, probably Cagnes; tall format closes tightly around thin figure; elongated face; green and brown background; white dress spattered with green, blue, yellow): https://www.musee-orangerie.fr/fr/oeuvres/la-fiancee-196564 (OFF) ; FACTS_C Soutine — La Jeune Anglaise (1934, title and date only): https://www.musee-orangerie.fr/es/obras/la-jeune-anglaise-196575 (OFF) ; G4 24.4 (Garçon d'étage is not the Pompidou's Le Groom)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 047 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dans un grand hôtel thermal, le personnel doit rester invisible. Il porte les plateaux, ouvre les portes, et personne ne le regarde vraiment. [pause] Soutine, lui, a regardé.
+
+Entre 1926 et 1928, il séjourne à Châtel-Guyon, une ville thermale. Il y rencontre les collectionneurs Madeleine et Marcellin Castaing. Il semble y avoir observé de près les employés de l'hôtel. Puis il les a peints, l'un après l'autre, en une série de portraits. En voici un, Le Garçon d'étage.
+
+[wry] Il n'est pas vraiment à votre service. Regardez la pose. Les mains sur les hanches, un peu agressif. Le visage est grossier, avec un front énorme et un menton étroit et pointu. Sa poitrine est serrée dans un uniforme étroit. Ses épaules sont inégales, ses mains déformées.
+
+Puis suivez le rouge. Il est dans son gilet, dans la peau de son visage, et dans ses oreilles, qui brûlent. [pause] À l'époque de ce portrait, l'obsession de Soutine pour le rouge atteint son sommet, avec ses grooms et ses chasseurs d'hôtel. Ici, l'uniforme et l'homme semblent faits de la même couleur brûlante.
+
+[quietly] Trouvez maintenant La Fiancée. Elle a été peinte quelques années plus tôt, probablement à Cagnes, dans le Sud. La toile est haute et étroite. Elle se referme sur son corps mince et son long visage. Sa robe blanche ne reste pas blanche longtemps. Elle est éclaboussée de longs traits verts, bleus et jaunes, sur un fond vert et brun.
+
+Un garçon dans son uniforme rouge, une fiancée dans le sien. Soutine les comprime tous les deux. [pause] Et pourtant, ils n'en sont que plus vivants.
+
+Tout près est accrochée La Jeune Anglaise, peinte en 1934, une dizaine d'années après la fiancée. Comparez-les.
+
+Quand vous le souhaitez, cherchez les natures mortes de viande suspendue, un quartier de bœuf et un lapin. Écoutez leur piste là-bas.

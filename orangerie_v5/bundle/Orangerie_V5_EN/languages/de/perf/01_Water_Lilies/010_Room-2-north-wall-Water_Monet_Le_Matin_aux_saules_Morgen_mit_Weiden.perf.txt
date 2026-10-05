@@ -1,0 +1,28 @@
+@id: 010 · DE · Room 2 · north wall
+@section: Water Lilies
+@room: Room 2 · north wall · Water Lilies · Ground floor
+@type: W
+@title: Monet — Le Matin aux saules (Morgen mit Weiden)
+@where: Saal 2, die nördliche Längswand: links von Ihnen, wenn Sie zum anderen Ende des Saals blicken. Eine der beiden langen Kompositionen, die einander im Saal gegenüberhängen.
+@what: Claude Monet, Le Matin aux saules (Morning with Willows), from the Water Lilies cycle, 1914–1926, oil on canvas, three panels, 200 × 1275 cm.
+@listen: The real trees just beyond this wall, the studio where Monet painted it, and a new way to look at a painting too long to see from one spot.
+@brief: A friend sharing a couple of surprises about place and a looking trick; warm, then curious, a little amused, unhurried.
+@pace: medium
+@energy: 3→3→2
+@sources: Size 200 × 1275, three panels, 1914–1926: https://www.musee-orangerie.fr/en/artworks/le-matin-aux-saules-196307 (OFF) ; north wall: RMN caption "Salle 2, mur nord" https://photo.rmn.fr/archive/06-515034-2C6NU0PK59_O.html / https://www.photo.rmn.fr/archive/archive/06-515044-2C6NU0PKDAG7.html (OFF per FACTS_C §1.2 and PLAN) ; almost blind north (garden) façade: https://www.musee-orangerie.fr/en/node/24 (OFF) ; Giverny about 75 km from Paris (G4 22.2, SEC2) ; painted in the third studio, 1915, glass roof (G2 04-3 / 10-3, SEC2 NGV + National Gallery) ; curved walls: https://www.musee-orangerie.fr/en/node/33 (OFF) ; three titles with 'Matin' among the eight (official titles, OFF) ; Matin clair aux saules opposite on the south wall (PLAN, OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 010 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Auf der anderen Seite dieser Wand, unsichtbar, liegt der Tuileriengarten. Diese Nordseite der alten Orangerie ist die Gartenseite, fast ohne Fenster gebaut. [pause] Diese gemalten Weiden haben also den echten Garten zum Nachbarn, gleich hinter dem Stein.
+
+Monets eigene Bäume standen ganz woanders. Sein Teich lag in Giverny, etwa fünfundsiebzig Kilometer von Paris entfernt. Und er malte diese Leinwand nicht an dessen Ufer. Er malte sie drinnen, in jenem großen Atelier mit Glasdach. Was Sie sehen, ist ein Morgen, den er auswendig kannte, ins Riesenhafte vergrößert.
+
+Le Matin aux saules, Morgen mit Weiden, ist eine der langen Kompositionen, drei Leinwände, Kante an Kante gefügt. [pause] Es ist der zweite der drei Morgen in diesem Zyklus. Den ersten haben Sie im anderen Saal gesehen. Der dritte ist direkt hinter Ihnen.
+
+[curious] Versuchen Sie diesmal eine andere Art zu schauen. Gehen Sie an ein Ende der Wand und blicken Sie an ihr entlang, schräg, so wie man an einem Flussufer entlangschaut. Das Bild biegt sich mit der Wand von Ihnen weg, und das ferne Ende scheint davonzutreiben. Gehen Sie dann in die Mitte des Saals und schauen Sie es frontal an. [pause] Vom Ende aus ist es eine lange Wasserfläche. Von der Mitte aus umgibt es Sie.
+
+[amused] Selten verlangt ein Bild, dass man es von der Seite ansieht. Dieses belohnt es.
+
+Achten Sie dabei auf die Weiden des Titels und auf den Morgen im Wasser um sie herum. Lassen Sie sich Zeit. Ein Morgen dieser Größe braucht eine Weile, bis er ankommt.
+
+Drehen Sie sich jetzt um. Gegenüber, an der anderen Längswand, wartet der dritte Morgen. Le Matin clair aux saules, Klarer Morgen mit Weiden.

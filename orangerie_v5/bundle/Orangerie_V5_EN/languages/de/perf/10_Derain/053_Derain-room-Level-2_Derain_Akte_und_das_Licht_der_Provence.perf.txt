@@ -1,0 +1,24 @@
+@id: 053 · DE · Derain room · Level −2
+@section: Derain
+@room: Derain room · Level −2
+@type: R
+@title: Derain — Akte und das Licht der Provence
+@where: Im Saal mit den Gemälden von André Derain, bei seinen Akten und Landschaften der Provence. Suchen Sie einen sitzenden blonden Akt, der den Kopf in die Hand stützt, und ein Dorf über einer Straße unter tiefblauem Himmel.
+@what: André Derain, Le Modèle blond, The Blond Model, 1924; La Route, The Road, and Arbres et village, Trees and Village, both 1932. All oil on canvas.
+@listen: A nude that looks back to the old masters, one Provençal village in two weathers, and the taste Paul Guillaume collected.
+@brief: A relaxed final turn round a room with a friend before heading back upstairs; easy and observant, a gentle lift at the two-weathers village, warm at the route cue.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_C Derain — Nudes: Le Modèle blond (1924; seated, legs under a cloth, head in her right hand, oval of dark curving contours; inspired by Boucher, Fragonard and Renoir's bathers): https://www.musee-orangerie.fr/es/obras/le-modele-blond-196177 (OFF) ; FACTS_C Derain — Landscapes: La Route (1932, Eygalières, village above the road to Saint-Rémy-de-Provence, warm colours against intense blue sky) https://www.musee-orangerie.fr/en/artworks/la-route-196109 ; Arbres et village (1932, same village under a stormy sky framed by plane trees) …/arbres-et-village-196108 (OFF) ; FACTS_C Derain holdings ("landscapes, still lifes, nudes and portraits, representative of Paul Guillaume's taste for the classicizing side of the artist") (OFF) ; Le Gros Arbre deliberately omitted (not currently exhibited) ; Derain count not voiced (contested) ; G5 §3 (return to the lilies is an optional coda)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 053 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Derain war ein moderner Maler, der immer wieder über die Schulter zu den alten Meistern blickte. [pause] Diese Ecke seines Saals zeigt Ihnen, wie.
+
+Suchen Sie Le Modèle blond, Das blonde Modell. Sie sitzt, die Beine unter einem Tuch, den Kopf in die rechte Hand gestützt. Ihr Körper rundet sich zu einem Oval aus dunklen Konturen. Derain orientierte sich dafür an Boucher, Fragonard und Renoirs Badenden. [amused] Wenn Sie im Renoir-Saal waren, kommt sie Ihnen vielleicht wie eine Verwandte vor.
+
+[pause] Dann ändert sich das Licht. 1932 malte Derain in der Provence. In La Route, Die Straße, liegt das Dorf Eygalières über der Straße nach Saint-Rémy. Warme Farben unter einem intensiv blauen Himmel. In Bäume und Dorf ist es dasselbe Dorf, von Platanen gerahmt, unter einem stürmischen Himmel. [pause] Ein Ort, zwei Wetter.
+
+[warmly] Alte Meister drinnen, das Licht der Provence draußen. Das ist die Seite Derains, die Paul Guillaume sammelte. Und hier verabschiedet sich seine Sammlung von Ihnen. [pause] Ein Kunsthändler, der das Neue liebte. Und der doch wollte, dass es der Vergangenheit treu bleibt.
+
+Wenn Sie hier unten alles gesehen haben, wartet oben noch ein letzter Blick. Folgen Sie den Schildern zurück hinauf zu den Seerosen. Betreten Sie einen der beiden ovalen Säle und spielen Sie dort den passenden Titel ab. Wenig Zeit? Dann folgen Sie den Ausgangsschildern. Ein letzter Halt wartet gleich draußen, im Garten.

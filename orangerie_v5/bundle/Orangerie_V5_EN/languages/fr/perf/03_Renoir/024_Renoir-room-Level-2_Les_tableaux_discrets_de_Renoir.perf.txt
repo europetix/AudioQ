@@ -1,0 +1,26 @@
+@id: 024 · FR · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: R
+@title: Les tableaux discrets de Renoir
+@where: Dans la salle des peintures de Renoir, parmi les petites œuvres : une petite nature morte de pommes et de poires, un vase de tulipes rouges, vertes et jaunes, et un paysage enneigé. L'accrochage actuel n'est pas confirmé : l'une d'elles peut manquer.
+@what: Pierre-Auguste Renoir, Pommes et poires (Apples and Pears), around 1895, 32 × 41 cm · Bouquet de tulipes (Bouquet of Tulips), around 1905, 44 × 37 cm · Paysage de neige (Snowy Landscape), around 1875, 51 × 66 cm; all oil on canvas.
+@listen: Three small pictures that show another Renoir: one learning from Cézanne, one in the southern light, and one working out the colour of snow.
+@brief: A relaxed, appreciative walk past small pictures with a friend before moving on; light, curious at the snow.
+@pace: medium
+@energy: 2→3
+@sources: FACTS_A Renoir — Pommes et poires (c.1895, 32 × 41; the Renoir still life showing the greatest influence of Cézanne, in subject and "highly intricate composition"): https://www.musee-orangerie.fr/en/artworks/pommes-et-poires-196510 (OFF) ; FACTS_A Bouquet de tulipes (c.1905, 44 × 37; reds, greens, yellows; green vase; red and beige strokes behind; probably painted at Cagnes soon after his final move south; in his studio until his death; bought by Guillaume 1929): https://www.musee-orangerie.fr/en/artworks/bouquet-de-tulipes-196517 (OFF) ; FACTS_A Paysage de neige (c.1875, 51 × 66; probably early 1875 after the heavy snow of winter 1874–75; coloured shadows): https://www.musee-orangerie.fr/en/artworks/paysage-de-neige-196501 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 024 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Renoir est célèbre pour les visages et la chair. Mais certains de ses tableaux les plus révélateurs, ici, sont petits. Et sans aucun personnage.
+
+Commencez par les pommes et les poires. C'est une petite toile, peinte vers 1895. Le musée la distingue comme la nature morte de Renoir la plus influencée par Cézanne. Par son sujet, et par sa composition très complexe. [pause] On y voit Renoir essayer la manière de Cézanne, en construisant l'ensemble avec soin.
+
+Puis les tulipes. Le bouquet chatoie de rouges, de verts et de jaunes, dans un vase vert, sur un fond de touches rouges et beiges. Il l'a probablement peint à Cagnes, peu après son installation définitive dans le Midi. Il est resté dans son atelier jusqu'à sa mort. Paul Guillaume l'a acheté dix ans plus tard.
+
+[curious] Et enfin, la neige. C'est le plus ancien des trois, probablement peint au début de 1875, après une forte chute de neige. La neige est censée être blanche. Renoir a regardé de plus près. Il expérimentait les ombres colorées, pour montrer comment la neige reflète les couleurs de tout ce qui l'entoure. [pause] Reculez un peu, et cherchez cette couleur dans les ombres.
+
+[pause] Trois petits tableaux, donc, sur trente ans. Et trois peintres différents en un seul homme.
+
+Passons au peintre qui a inspiré cette petite nature morte. Dans la salle des Cézanne, cherchez une assiette et quelques pommes posées sur un coffre. Écoutez sa piste là-bas.

@@ -1,0 +1,24 @@
+@id: 001 · DE · Outside
+@section: Opening
+@room: Outside
+@type: R
+@title: Eine Orangerie für einen Garten
+@where: Vor dem Museum, an seinem Westende: dem Ende der Tuilerien-Terrasse zur Place de la Concorde hin, nahe dem Eingang.
+@what: The Orangerie of the Tuileries, built in 1852 on the orders of Napoleon III as a winter shelter for the garden's citrus trees, home to Monet's Water Lilies since 1927.
+@listen: Why a building made for orange trees was the right home for Monet, and how the visit unfolds.
+@brief: Meeting a friend outside the door and setting the scene; light and easy, a small smile at the orange trees, warm at the invitation in.
+@pace: medium
+@energy: 3→3
+@sources: FACTS_C §1.3 1852 / Napoleon III / citrus / glass south, almost blind north: https://www.musee-orangerie.fr/en/node/24 (OFF) ; FACTS_C §1.3 Lefèvre, rooms lit from above to Monet's wishes: https://www.musee-orangerie.fr/en/node/33 , https://www.musee-orangerie.fr/en/node/198900 (OFF) ; G5 §1 west entrance (OFF node/24) ; G1 levels (SEC2)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 001 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Bevor hier ein einziges Gemälde hing, war dieses Gebäude ein Wintermantel für Bäume. 1852 ließ Napoleon der Dritte es hier im Tuileriengarten errichten. Es sollte den Orangenbäumen und anderen Zitruspflanzen des Gartens in den kalten Monaten Schutz bieten. [pause] Genau das ist eine Orangerie. Und der Name ist geblieben.
+
+Das Gebäude war für diese Aufgabe gemacht. Die lange Seite zur Seine ist die Südseite, und sie ist aus Glas. Die Gartenseite im Norden ist fast fensterlos. Pflanzen brauchen Licht, und sie brauchen Schutz. [pause] Das Gebäude gab ihnen beides.
+
+[pause] Merken Sie sich diese Idee vom Licht. Sie zieht sich durch den ganzen Besuch. Etwa siebzig Jahre nach den Orangenbäumen bekam das Gebäude einen ganz anderen Bewohner. Claude Monets Seerosen, Les Nymphéas. Acht riesige Kompositionen, die sich um zwei ovale Säle ziehen, mit Licht von oben. Die Säle wurden nach seinen Wünschen geformt, für Bilder von Wasser und Himmel.
+
+Der Plan sieht so aus. Zuerst die Seerosen, hier auf dieser Etage. Lassen Sie sich dort Zeit, denn sie sind das Herz des Besuchs. Dann das Untergeschoss. Dort wartet eine Sammlung, die ein Pariser Kunsthändler aufgebaut und seine Witwe umgestaltet hat. Mit Renoir, Cézanne, Matisse, Picasso, Modigliani und mehr. [pause] Und wenn am Ende Zeit bleibt, ein zweiter Blick auf die Seerosen.
+
+[warmly] Gehen Sie jetzt durch den Eingang an diesem Ende hinein. Bleiben Sie in der Eingangshalle stehen, kurz vor dem ersten ovalen Saal. Dort beginnt die Geschichte.

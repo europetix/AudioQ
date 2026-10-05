@@ -1,0 +1,28 @@
+@id: 019 · FR · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Jeunes filles au piano
+@where: Dans la salle des peintures de Renoir, devant la toile verticale de deux jeunes filles au piano, environ 116 sur 81 centimètres, et non le tableau plus large des sœurs Lerolle. Les œuvres de Renoir ont voyagé à l'étranger jusqu'au début de 2026 et l'accrochage actuel n'est pas confirmé : une œuvre peut manquer.
+@what: Pierre-Auguste Renoir, Jeunes filles au piano (Young Girls at the Piano), around 1892, oil on canvas, 116 × 81 cm.
+@listen: How Renoir's friends finally got the French state to buy him, and why this is the version he kept for himself.
+@brief: Telling a friend the backstory of a famous picture with gentle indignation, then the pleasure of a quiet twist; unhurried and warm.
+@pace: medium-slow
+@energy: 2→3→4→2
+@sources: FACTS_A Renoir — Jeunes filles au piano (c.1892, 116 × 81, RF 1960-16; deposited with Durand-Ruel 1914–17; in Renoir's studio at his death; bought by Paul Guillaume 1928; shown at Bernheim-Jeune 1929): https://www.musee-orangerie.fr/en/artworks/jeunes-filles-au-piano-196508 , Joconde 00000089507 (OFF) ; Orsay notice (friends annoyed the state had bought nothing; Mallarmé and Roger Marx; Luxembourg purchase 1892; other versions at the Met and private; Orangerie version): https://www.musee-orsay.fr/en/artworks/jeunes-filles-au-piano-1164 (OFF) ; FACTS_A Renoir and Guillaume (25 works; "lively trade" in the 1920s and 1930s; many stayed in the studio until 1919): https://www.musee-orangerie.fr/en/articles/auguste-renoir-105463 (OFF) ; G3 14.8
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 019 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Au début des années 1890, Renoir a environ cinquante ans. Et ses amis sont agacés. L'État français ne lui a jamais acheté un seul tableau.
+
+Deux de ces amis décident d'y remédier. L'un est Stéphane Mallarmé. L'autre, Roger Marx, jeune fonctionnaire des Beaux-Arts. Ensemble, ils militent pour faire entrer la peinture impressionniste dans les musées nationaux. Après une commande officieuse de l'État, Renoir s'attaque à ce sujet : deux jeunes filles au piano. [pause] En 1892, une version est achetée pour le musée du Luxembourg. Elle est aujourd'hui au musée d'Orsay.
+
+[pause] Mais Renoir l'a peint plusieurs fois, pas une seule. Des versions achevées se trouvent au Metropolitan Museum de New York et dans des collections privées. Et il y a celle-ci.
+
+[quietly] C'est la version que Renoir a gardée. Elle a passé quelques années chez son marchand pendant la Première Guerre mondiale. Mais à sa mort, elle était encore dans son atelier. [pause] En 1928, Paul Guillaume l'achète.
+
+Prenez donc un moment avec les deux jeunes filles et le piano. C'est la version à laquelle le peintre tenait. L'État a eu son tableau officiel. Renoir en a gardé un pour lui-même.
+
+[lightly] Guillaume, justement, avait l'œil pour ce genre de tableau. Beaucoup des Renoir de la collection sont restés dans l'atelier jusqu'à la mort de l'artiste. Le marchand les a achetés à la famille et sur le marché, tout au long des années 1920. La collection compte aujourd'hui vingt-cinq Renoir. Seul Derain en a davantage.
+
+Il y a un second tableau au piano dans cette salle, peint environ cinq ans plus tard. On y voit deux sœurs, et deux tableaux de Degas au mur derrière elles. [pause] Trouvez-le, et écoutez sa piste là-bas.

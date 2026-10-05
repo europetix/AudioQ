@@ -1,0 +1,24 @@
+@id: 003 · ES · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: R
+@title: Dentro del infinito
+@where: En la primera sala ovalada de los Nenúfares, cerca del centro, desde donde puede girar y ver las cuatro composiciones.
+@what: Claude Monet, Les Nymphéas (The Water Lilies), painted between 1914 and 1926: eight compositions on twenty-two panels, all two metres high and about ninety-one metres long in total, in two oval rooms. Four of them hang here.
+@listen: How the light and the shape of the rooms were part of Monet's plan, and how to start looking.
+@brief: Standing beside a friend in the middle of the room, helping them get their bearings; quiet and unhurried at first, opening up with curiosity.
+@pace: slow
+@energy: 2→3
+@sources: FACTS_C §1.1 eight compositions / 22 panels / 2 m / 91 m, two oval rooms that "form the infinity symbol": https://www.musee-orangerie.fr/en/node/198900 (OFF) ; same height, different widths to fit the curved walls; light through the ceiling; Room 1 = reflections of sky and vegetation from morning to evening; "endless whole" (Roger Marx 1909): https://www.musee-orangerie.fr/en/node/33 (OFF) ; G1 track 27-2 velum under a glass roof (SEC2), G2 04-7 some artificial light above the velum (SEC2: parisupdate, Studio International) ; G1 track 03-2 ovals joined by a passage, not a point (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] La luz de esta sala viene del cielo. Entra por un techo de vidrio y un plafón claro de tela tensada. Arriba hay también algo de luz artificial. Pero sobre todo es luz del día, como Monet quería. Lo que ve depende un poco del tiempo afuera. [pause] Pasa una nube sobre París, y el estanque que tiene delante cambia.
+
+A su alrededor hay cuatro de las ocho composiciones. Una tras otra, las ocho sumarían unos noventa y un metros de pintura. Son veintidós paneles, todos de dos metros de alto. La altura nunca cambia. Solo cambia el ancho, cortado a la medida de cada tramo de pared curva.
+
+[curious] La forma de las salas también importa. Dos óvalos, unidos por un pasaje corto. El museo compara su forma, vista desde arriba, con el signo del infinito. [pause] Un bucle sin fin, para un pintor que soñaba con un todo sin fin.
+
+Esta primera sala trata del cielo y de las plantas reflejados en el agua, de la mañana al atardecer. No mira a través de un estanque. Mira dentro de su superficie. Recuerde el sueño de Monet: una onda sin horizonte y sin orilla. Aquí le rodea por completo.
+
+[pause] Gire despacio en su lugar antes de acercarse a ningún cuadro. Deje que sus ojos se acostumbren a la luz. Luego empiece por la composición más pequeña de la sala, un solo panel de seis metros de ancho. Se llama Puesta de sol. Su historia continúa delante de él.

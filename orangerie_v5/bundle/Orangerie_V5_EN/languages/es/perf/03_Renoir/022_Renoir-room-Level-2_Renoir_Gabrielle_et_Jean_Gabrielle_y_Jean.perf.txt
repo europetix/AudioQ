@@ -1,0 +1,28 @@
+@id: 022 · ES · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Gabrielle et Jean (Gabrielle y Jean)
+@where: En la sala de los cuadros de Renoir, delante del lienzo pequeño de una joven que sostiene sobre sus rodillas a un niño que juega con animales de juguete en una mesa. La disposición actual no está confirmada, así que puede faltar.
+@what: Pierre-Auguste Renoir, Gabrielle et Jean (Gabrielle and Jean), 1895–1896, oil on canvas, 65 × 54 cm.
+@listen: The young woman who kept Renoir's baby son still long enough to be painted, and the cow you can barely recognise.
+@brief: Telling a friend about the unsung helper in a painter's household; tender and a little amused, warm at the forward glance to her later portrait.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_A Renoir — Gabrielle et Jean (1895–96, 65 × 54, RF 1960-18; Gabrielle holds Jean on her knee and keeps him busy with toy farm animals; figurines loosely brushed, melting into the tabletop; "We can barely recognise the cow in Gabrielle's hand"; extensive 1895–96 series of second son Jean with Gabrielle Renard, the family's faithful servant; "a veritable album of his son's early childhood"; she could always hold the young model's attention): https://www.musee-orangerie.fr/en/artworks/gabrielle-et-jean-196509 (OFF) ; FACTS_A Femme nue couchée (Gabrielle) (hired to look after the children; quickly became one of his favourite models): https://www.musee-orangerie.fr/en/artworks/femme-nue-couchee-gabrielle-196519 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 022 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Quien haya intentado fotografiar a un niño pequeño conoce el problema. Ahora imagine pintarlo, al óleo. Renoir tenía una solución. Y se llamaba Gabrielle.
+
+Gabrielle Renard entró en la casa de los Renoir para cuidar a los niños. Y se convirtió en la fiel sirvienta de la familia. Tenía un don que el pintor necesitaba mucho. Siempre lograba mantener la atención de un modelo muy pequeño.
+
+El modelo aquí es Jean, el segundo hijo de Renoir. Entre 1895 y el año siguiente, Renoir los pintó juntos muchas veces. Los cuadros forman un verdadero álbum de la primera infancia de su hijo. Este es una de sus páginas.
+
+[pause] Mire cómo funciona. Gabrielle sostiene a Jean sobre sus rodillas. En la mesa hay animales de granja de juguete, y ella lo entretiene con ellos. [pause] Ese es el truco. Mientras el niño juega, el pintor pinta.
+
+[amused] Ahora mire de cerca los juguetes, porque apenas están ahí. Renoir los pinta con pinceladas tan sueltas que se funden con la mesa. Como admite el propio museo, apenas se reconoce la vaca en la mano de Gabrielle. [pause] A Renoir no le importaba la vaca. Le importaba el niño, y la mujer que lo mantenía contento.
+
+[quietly] Este es un cuadro sobre un trabajo casi siempre invisible. La niñera hace su trabajo, y el pintor, el suyo. Y el cuadro existe porque ambos encajan.
+
+Gabrielle no se quedó en segundo plano. Pronto se convirtió en una de las modelos favoritas de Renoir. Unos diez años después, la pintó como un desnudo recostado, en la gran tradición de los viejos maestros. Búsquela entre los desnudos de Renoir, con las bañistas y la larga figura recostada. La historia continúa allí.

@@ -1,0 +1,28 @@
+@id: 005 · FR · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: W
+@title: Monet — Les Nuages
+@where: Dans la première salle ovale, devant l'une de ses deux plus longues compositions. L'autre, Matin, est côté Seine. Les Nuages, c'est la longue toile qui n'est pas côté Seine.
+@what: Claude Monet, Les Nuages (Clouds), from Les Nymphéas, 1914–1926, oil on canvas, 200 × 1275 cm.
+@listen: Clouds you can only see by looking down, and what was new about this cycle compared with the water lilies Monet had already shown.
+@brief: Sharing a small visual riddle with a friend, then the back story; curious, warming up, and calm and slow for the long look along the painting.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: FACTS_C §1.2 Les Nuages, 200 × 1275, same length as Matin, Room 1: https://www.musee-orangerie.fr/en/artworks/les-nuages-196302 (OFF via G2) + https://artsandculture.google.com/asset/YQEt9_UVgiL-Og (OFF, museum partner page) ; Room 1 reflections of sky and vegetation: https://www.musee-orangerie.fr/en/node/33 (OFF) ; "from clouds at the water's surface to reflections where the water lilies emerge … quick and dynamic brushstrokes": https://www.musee-orangerie.fr/sites/default/files/2023-03/dossier_pedagogique_nympheas_0.pdf (OFF, snippet) ; 1909 Durand-Ruel show of 48 water-lily canvases (G2, SEC2) ; new = scale and surround (G2 05-6)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 005 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Les nuages de ce tableau ne sont pas dans le ciel. [pause] Ils reposent à la surface d'un bassin.
+
+C'est tout le secret de cette salle. Monet dirige votre regard vers le bas, vers l'eau. Et le ciel arrive en reflet. La salle va des nuages à la surface de l'eau jusqu'aux reflets où émergent les nymphéas. Les Nuages se trouve à l'extrémité aérienne de ce parcours.
+
+C'est l'un des deux plus longs tableaux de la salle : douze mètres soixante-quinze d'un bout à l'autre. Son égal en longueur, c'est Matin, côté Seine.
+
+[warmly] Monet observait ce bassin depuis longtemps avant de commencer. En 1909, la galerie Durand-Ruel expose quarante-huit de ses tableaux de nymphéas. Ce sont des tableaux de chevalet, faits pour un mur ordinaire. Chacun est une fenêtre ouverte sur le bassin. [pause] Ici, ce n'est donc pas le sujet qui est nouveau. Ce qui est nouveau, c'est la taille. Et le fait que la peinture ne s'arrête pas à un cadre. Elle fait le tour de la salle, et vous êtes dedans.
+
+Un tableau comme celui-ci, c'est le travail de plusieurs années, pas d'un après-midi au bord de l'eau.
+
+[quietly] Voici une façon de le regarder. Partez d'une extrémité et longez-le lentement jusqu'à l'autre, sans vous arrêter. Comme on se promène au bord d'un étang. Observez comme le ciel reflété change en chemin. [pause] Puis faites demi-tour, et revenez. La deuxième fois, vous verrez ce que la première vous avait caché.
+
+Ensuite, la composition de longueur moyenne de cette salle, large de huit mètres et demi. Elle s'appelle Reflets verts. Écoutez sa piste là-bas.

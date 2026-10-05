@@ -1,0 +1,26 @@
+@id: 041 · ES · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Les Adolescents y Nu sur fond rouge
+@where: Entre las obras de Picasso, en el nivel inferior. Las obras grandes pueden estar en la sala de entrada de la colección. Busque un gran lienzo con dos jóvenes desnudos sobre un fondo ocre rosado, uno con un cántaro en la cabeza, y un desnudo más pequeño ante un fondo rojo liso.
+@what: Pablo Picasso, Les Adolescents (The Adolescents), 1906, oil on canvas, 157 × 117 cm. Also Nu sur fond rouge (Nude against a Red Background), late 1906, oil on canvas, 81 × 54 cm.
+@listen: The ghost of an abandoned picture under two young nudes, and the red nude that points straight at Les Demoiselles d'Avignon.
+@brief: Letting a friend in on a hidden detail, then showing how fast a painter changed in one year; curious, a touch conspiratorial, rising to the red nude.
+@pace: medium
+@energy: 2→4→3
+@sources: FACTS_B Picasso — Les Adolescents: https://www.musee-orangerie.fr/en/artworks/les-adolescents-196489 (OFF: 1906, 157×117; two nudes on pink and red monochrome, sculptural, classical; young man arms crossed above head; young woman "or androgynous adolescent" with pitcher on head; wavy lines below the legs = trace of an erased horizontal composition; Gósol with Fernande Olivier, ochre earth; pink classicism anticipating the 1920s return to order; Vollard → Guillaume 1930) ; FACTS_B Picasso — Nu sur fond rouge: https://www.musee-orangerie.fr/en/artworks/nu-sur-fond-rouge-196490 (OFF: late 1906, 81×54; long hair, flat red ground, head tilted, lock of hair, geometric simplification, eyes as black slits, mask-like; a few months before Les Demoiselles d'Avignon) ; FACTS_B Picasso intro https://www.musee-orangerie.fr/en/artist/pablo-picasso (OFF: "first of a series … leading up to Les Demoiselles d'Avignon", MoMA) ; Fernande as model of the red nude SEC1, NOT used
+@lang: es
+@translation: from the fact-checked English Orangerie V5 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] En este cuadro se esconde otro. Mire abajo, bajo las piernas de estas dos jóvenes figuras. Verá unas leves líneas onduladas que no pertenecen a nada. [pause] Son la huella de otra composición, en horizontal, que Picasso cubrió y abandonó.
+
+Ahora retroceda y observe lo que conservó. Dos adolescentes desnudos, modelados en rosa y rojo sobre un fondo casi del mismo color. A un lado, un joven cruza los brazos sobre la cabeza. Al otro, una muchacha, o quizá un joven andrógino, lleva un cántaro en equilibrio sobre la cabeza. Parecen menos personas que esculturas. Serenas, sólidas, casi antiguas.
+
+[curious] ¿De dónde viene ese color? En 1906, Picasso pasó una temporada en Gósol, un pueblo del Pirineo catalán, con su compañera Fernande Olivier. Allí la tierra tenía un tono ocre poco común, y aquí lo impregna todo. Es su clasicismo rosa. Y anuncia, curiosamente, los gigantes clásicos que pintaría quince años después. También los verá en esta colección.
+
+Pero Picasso no siguió sereno mucho tiempo. Busque el desnudo más pequeño ante un fondo rojo liso, pintado más tarde ese mismo año. Tiene el pelo largo, e inclina la cabeza mientras sostiene un mechón. Sin embargo, todo se endurece. El cuerpo se convierte en bloques simplificados, geométricos. [pause] Y mire los ojos, dos rendijas negras sin expresión. El rostro se ha vuelto una máscara.
+
+[warmly] Pocos meses después, Picasso pintaría Les Demoiselles d'Avignon, hoy en Nueva York. El museo llama a este desnudo rojo el primero de una serie que llevó a ese cuadro. Ya contiene las semillas de aquella revolución. [pause] Así que, entre estos dos lienzos, en un solo año, puede verlo cambiar de rumbo.
+
+Ahora busque un desnudo de pie que se peina el largo cabello negro. La historia continúa con ella.

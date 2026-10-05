@@ -1,0 +1,28 @@
+@id: 040 · FR · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — L'Étreinte
+@where: Parmi les œuvres de Picasso, au niveau inférieur. Cherchez un grand pastel vertical : un homme et une femme nus enlacés dans une chambre, en bleus et en roses. Cette œuvre sensible à la lumière est prêtée par le Louvre et n'est peut-être pas accrochée.
+@what: Pablo Picasso, L'Étreinte (The Embrace), 1903, pastel, 98 × 57 cm. Musée du Louvre, Department of Prints and Drawings, on long-term loan to the Orangerie (first inventoried RF 1960-34).
+@listen: A Blue Period embrace made in Barcelona, in a studio full of grief, and the larger picture it led to.
+@brief: Speaking quietly to a friend in front of a sad, tender picture; restrained, no melodrama, a little warmth at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_B Picasso — L'Étreinte: Louvre https://collections.louvre.fr/en/ark:/53355/cl020039499 and https://www.musee-orangerie.fr/en/artworks/letreinte-196488 (OFF: 1903, pastel, 98×57, RF 1960-34, dépôt, Vollard → Guillaume 1930; nude couple in a bedroom, blues and pinks, the woman pregnant; series culminating in La Vie, 1903, Cleveland; Barcelona studio shared with Casagemas, whose 1901 suicide in Paris deeply affected him — OFF/SEC per sheet) ; FACTS_B Picasso intro: https://www.musee-orangerie.fr/en/artist/pablo-picasso (OFF: 12 works from the early 1900s to the 1920s; Guillaume not his official dealer; shared interest in primitive art) ; G4 21.1 (V4 misdated it; it is a 1903 Blue Period pastel)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 040 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] La femme de cette étreinte est enceinte. Une fois qu'on l'a vu, le tableau change. Il ne parle plus seulement de deux amants. [pause] Il parle de ce qui vient ensuite.
+
+Picasso l'a réalisé en 1903, à Barcelone, au plus profond de ce qu'on appelle sa période bleue. Il travaillait dans un atelier qu'il avait partagé avec son ami Carlos Casagemas. Deux ans plus tôt, à Paris, Casagemas s'était donné la mort. Picasso en a été profondément marqué.
+
+[pause] Cette feuille appartient à toute une série de dessins d'un couple nu, debout. Ils ont mené à un grand tableau, La Vie, aujourd'hui au musée d'art de Cleveland. Vous voyez donc Picasso en chemin vers une œuvre bien plus vaste. Une œuvre sur la vie elle-même.
+
+Regardez la pièce autour d'eux. C'est une chambre. Les couleurs sont les bleus froids de la période bleue, réchauffés çà et là de rose. L'homme et la femme s'enlacent, leurs visages à peine visibles. Rien ici n'est mis en scène pour nous.
+
+[warmly] C'est un pastel, pas une peinture. Il est prêté par le Louvre, et si fragile que certains jours, il est mis au repos, à l'abri de la lumière.
+
+Paul Guillaume l'a acheté en 1930, au grand marchand Ambroise Vollard. Guillaume n'a jamais été le marchand officiel de Picasso. Ce qui les rapprochait, dit le musée, c'était une passion commune pour l'art dit primitif. [pause] Les douze Picasso de cette collection vont de ces années bleues jusqu'aux années 1920.
+
+Trouvez maintenant la grande toile aux deux nus roses, l'un portant une cruche sur la tête. Écoutez sa piste devant eux.

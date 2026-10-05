@@ -1,0 +1,28 @@
+@id: 023 · ES · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Bañistas y Gabrielle recostada
+@where: En la sala de los cuadros de Renoir, delante de sus desnudos: una bañista con el pelo castaño recogido que se seca la pierna con un paño blanco junto al agua, una bañista de pelo dorado que se cubre el pecho con un paño blanco, y un largo desnudo recostado en formato horizontal. La disposición actual no está confirmada, así que puede faltar alguno.
+@what: Pierre-Auguste Renoir, Femme nue dans un paysage (Nude in a Landscape), 1883, oil on canvas, 65 × 54 cm · Baigneuse aux cheveux longs (Bather with Long Hair), around 1895, oil on canvas, 82 × 65 cm · Femme nue couchée (Gabrielle) (Reclining Nude, Gabrielle), 1906, oil on canvas, 67 × 160 cm.
+@listen: How a trip to Italy sharpened Renoir's line, what the pearly period was, and how the family nanny became his Venus.
+@brief: Walking a friend through three nudes as three chapters of a painter's life; composed and attentive, warmer at Gabrielle.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_A Renoir — Femme nue dans un paysage (1883, 65 × 54, RF 1963-13; bather with brown hair pinned up, on a white cloth drying her leg; "more confident style"; after the 1881 trip to Italy; announces Les Grandes Baigneuses 1884–87, Philadelphia; "some historians believe" the model resembles Suzanne Valadon): https://www.musee-orangerie.fr/en/artworks/femme-nue-dans-un-paysage-196505 (OFF) ; FACTS_A Baigneuse aux cheveux longs (c.1895, 82 × 65; white drape; golden hair echoes the vegetation; "pearly period"; almost identical 1895 Bather at the Barnes Foundation): https://www.musee-orangerie.fr/en/artworks/baigneuse-aux-cheveux-longs-196511 (OFF) ; FACTS_A Femme nue couchée (Gabrielle) (1906, 67 × 160, RF 1960-22; Gabrielle; tradition of Titian, Rubens, Goya, Ingres, Manet; one of the few indoor nudes; three large horizontal reclining figures 1903–07): https://www.musee-orangerie.fr/en/artworks/femme-nue-couchee-gabrielle-196519 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 023 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] En 1881, Renoir viajó a Italia. Tenía cuarenta años. Tras ese viaje, su dibujo empezó a cambiar.
+
+Puede ver el cambio en la bañista sentada junto al agua. Renoir la pintó en 1883. Una figura tradicional, en un paraje intemporal junto al agua, con el pelo castaño recogido. Sentada sobre un paño blanco, se seca la pierna con él. [pause] Mire su silueta: contornos firmes, línea segura. El estilo tiene más aplomo, y anuncia Les Grandes Baigneuses, sus Grandes bañistas, hoy en Filadelfia. Algunos historiadores creen que la modelo se parece a Suzanne Valadon, a quien Renoir pintaba a menudo entonces. Es un quizá, nada más.
+
+[pause] Unos doce años después llega la bañista de pelo largo. Sale del agua y se cubre el pecho con un paño blanco. Su melena dorada y suelta repite el movimiento de las plantas del fondo. Es el período nacarado de Renoir, por los tonos luminosos de la piel. Una bañista casi idéntica está en la Fundación Barnes, en Filadelfia.
+
+[warmly] Y luego, el cuadro alargado. La mujer recostada es Gabrielle, la niñera de los animales de juguete, ya una de sus modelos favoritas. En 1906, Renoir la pintó desnuda en un interior, recostada en un lienzo de más de un metro y medio de ancho.
+
+Eso la pone en muy antigua compañía. El desnudo recostado en un interior pasa por Tiziano, Rubens, Goya, Ingres y Manet. En sus últimos diez años, Renoir admiraba sobre todo a Tiziano y Rubens. [pause] Los desnudos en interior son raros en su obra. En pocos años, en torno a este, pintó tres grandes figuras horizontales recostadas sobre cojines.
+
+[quietly] Tres desnudos, entonces. Una línea más firme, un brillo nacarado, y la niñera de la casa, tendida como una Venus.
+
+Para terminar con Renoir, busque sus cuadros más pequeños y tranquilos: fruta, un ramo de tulipanes y un paisaje nevado.

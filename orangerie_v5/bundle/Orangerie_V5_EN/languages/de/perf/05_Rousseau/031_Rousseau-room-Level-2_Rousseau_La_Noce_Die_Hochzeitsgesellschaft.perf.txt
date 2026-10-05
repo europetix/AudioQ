@@ -1,0 +1,30 @@
+@id: 031 · DE · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — La Noce (Die Hochzeitsgesellschaft)
+@where: Bei den Gemälden von Henri Rousseau im Untergeschoss. Das Bild kann aber auch im großen ersten Saal der Sammlung hängen, bei den großen Formaten. Suchen Sie ein hohes Gruppenbild einer Hochzeitsgesellschaft vor Bäumen, mit einem Hund im Vordergrund.
+@what: Henri Rousseau, La Noce (The Wedding Party), around 1905, oil on canvas. From Paul Guillaume's collection, acquired by the state from Domenica Walter in 1959.
+@listen: Who "the Douanier" really was, why there are no jungles here, and how a suburban wedding came to look like a sacred image.
+@brief: Introducing an unlikely hero to a friend; warm and a little playful at first, then genuinely moved by the wedding's strange solemnity, plain and gentle about his death.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: FACTS_B La Noce: https://www.musee-orangerie.fr/es/obras/la-noce-196428 ; Joconde https://www.pop.culture.gouv.fr/notice/joconde/00000089535 (OFF: c.1905; "one of the most ambitious compositions ever undertaken by Rousseau"; individualised faces; differentiated tree species; yellow-ochre background and trees form a mandorla; Adolphe Basler's comparison with medieval frescoes and Primitive ex-votos; a dog in the foreground; trees recede sharply; Paul Guillaume → state 1959) ; octroi clerk and nickname: G3 18.2, 18.6 (SEC2) ; born 1844: G3 18.4 (SEC2) ; died 1910 of gangrene from an infected leg: G3 18.3 (SEC2) ; no jungle among the collection's works: FACTS_B "Famous Rousseaus not at the Orangerie" + G3 18.1 ; placement in first hall possible: G5 13-1, 17-1 (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 031 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Henri Rousseaus Brotberuf brachte ihm einen Spitznamen ein, der fast alles andere an ihm überdauert hat. Er war Angestellter beim Octroi, dem städtischen Zoll an den Toren von Paris. Darum nannte man ihn le Douanier, den Zöllner. Und dabei ist es bis heute geblieben.
+
+Wenn Sie eines über ihn wissen, dann wohl seine Dschungelbilder. [lightly] Die suchen Sie hier vergeblich. Die Rousseaus dieser Sammlung bleiben viel näher an zu Hause: eine Hochzeit, der Wagen eines Nachbarn, ein Kind, Angler, eine Fabrik.
+
+Und dieses ist das ehrgeizigste von ihnen. La Noce, Die Hochzeitsgesellschaft, ist eine der ehrgeizigsten Kompositionen, die Rousseau je in Angriff nahm. Er malte sie um 1905, da war er schon Anfang sechzig.
+
+Sehen Sie sich zuerst die Gäste an. Jedes Gesicht ist ein bestimmter Mensch. Niemand ist bloß ein beliebiger Verwandter, der eine Lücke füllt. [pause] Dann schauen Sie dahinter. Die Bäume sind Art für Art gemalt, jede Sorte mit echter Sorgfalt unterschieden. Und nach hinten werden sie rasch kleiner. Ein gelbockerfarbener Hintergrund leuchtet hindurch. Zusammen mit den Bäumen bildet er eine Art Rahmen um die ganze Gesellschaft. [pause] Es ist eine Mandorla, der mandelförmige Strahlenkranz um heilige Figuren in der religiösen Kunst.
+
+[pause] Das ist kein Zufall. Der Kritiker Adolphe Basler verglich dieses Bild mit den idealisierten Figuren mittelalterlicher Fresken und mit den Votivbildern der alten „primitiven“ Meister. Hier ist also eine alltägliche Hochzeitsgesellschaft, gemalt mit der Ruhe eines Altarbilds.
+
+Und vorn ein Hund, der seinen Platz so feierlich einnimmt wie alle anderen.
+
+[quietly] Rousseau blieb danach nicht mehr viel Zeit. Er starb 1910 an Wundbrand, nach einer Infektion am Bein. Die Hochzeitsgesellschaft kam später in die Sammlung von Paul Guillaume. Und aus Domenicas Sammlung an den Staat.
+
+Suchen Sie als Nächstes ein weiteres Familienbild, diesmal in Bewegung: ein Wagen, ein weißes Pferd und mehr als ein Hund. Das ist La Carriole du père Junier. Dort beginnt seine Geschichte.

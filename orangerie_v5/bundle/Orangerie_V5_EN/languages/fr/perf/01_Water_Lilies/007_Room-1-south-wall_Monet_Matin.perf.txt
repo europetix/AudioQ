@@ -1,0 +1,28 @@
+@id: 007 · FR · Room 1 · south wall
+@section: Water Lilies
+@room: Room 1 · south wall
+@type: W
+@title: Monet — Matin
+@where: Dans la première salle ovale, devant la longue composition du mur sud, côté Seine.
+@what: Claude Monet, Matin (Morning), from Les Nymphéas, 1914–1926, oil on canvas, 200 × 1275 cm.
+@listen: Why a room that runs from morning to evening ends with Morning, and what is waiting through the passage.
+@brief: Closing the first room with a friend; a light, pleased curiosity at the riddle, then warm and generous in front of the painting, leaving them eager for the next room.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_C §1.2 Matin, 200 × 1275, Room 1 south wall: RMN caption https://photo.rmn.fr/archive/archive/07-525707-2C6NU0CSPW3J.html (OFF) + https://www.musee-orangerie.fr/en/artworks/matin-196303 (OFF via G2) ; the eight official titles and the museum's wall order (Room 1 walls 1–4: Soleil couchant, Nuages, Reflets verts, Matin); Room 1 morning to evening; Room 2 willows; unguided visit through several entrances: https://www.musee-orangerie.fr/en/node/33 (OFF) ; glass south (Seine) façade: https://www.musee-orangerie.fr/en/node/24 (OFF) ; Monet d. aged 86 (OFF) ; panel count of Matin deliberately NOT given (contested)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 007 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Une petite devinette. Des huit compositions de ces deux salles, trois s'appellent Matin. Une seule est un soir.
+
+Vous avez déjà rencontré le soir, Le Soleil couchant. Et voici le premier des matins. Matin, aussi long que Les Nuages, de l'autre côté de la salle. Il occupe le mur sud, côté Seine, là où l'ancienne orangerie était entièrement vitrée. [pause] Là où les orangers recevaient la lumière d'hiver se trouve aujourd'hui le matin de Monet.
+
+Dans l'ordre officiel de cette salle, Matin vient en quatrième. Le parcours que vous venez de faire va donc du soir au matin. [pause] Voilà qui convient à un homme qui peignait encore des matins passé quatre-vingts ans.
+
+Monet ne voulait d'ailleurs vous imposer aucun ordre. Il a conçu ces salles pour qu'on y entre par plusieurs côtés, et qu'on les parcoure sans guide. Tout point de départ est le bon. Voyez donc aussi ce tableau comme un commencement.
+
+[warmly] Donnez du temps à celui-ci. Reculez assez pour embrasser toute sa longueur, si la foule le permet. Puis laissez votre regard voyager lentement d'un bout à l'autre. Observez la lumière changer dans l'eau. [pause] Cherchez maintenant Le Soleil couchant, de l'autre côté de la salle, et revenez. Le soir, puis le matin, d'un seul souffle. Une journée entière, tenue dans une seule salle.
+
+[curious] Après le passage, l'eau change de compagnie. La deuxième salle ajoute les branches des saules pleureurs au bord de l'eau. Les tableaux y reposent sur les contrastes que créent ces branches. Deux autres matins vous attendent, et la plus longue composition de toutes. Ainsi que le moment le plus dur de l'histoire de Monet.
+
+Traversez le passage jusqu'à la deuxième salle ovale, et arrêtez-vous vers le centre.

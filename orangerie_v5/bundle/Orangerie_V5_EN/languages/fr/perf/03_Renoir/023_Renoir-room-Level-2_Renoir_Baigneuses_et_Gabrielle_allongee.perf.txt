@@ -1,0 +1,28 @@
+@id: 023 · FR · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Baigneuses et Gabrielle allongée
+@where: Dans la salle des peintures de Renoir, devant ses nus : une baigneuse aux cheveux bruns relevés, qui s'essuie la jambe avec un linge blanc au bord de l'eau, une baigneuse aux cheveux dorés qui ramène un drap blanc sur sa poitrine, et un long nu allongé horizontal. L'accrochage actuel n'est pas confirmé : l'un d'eux peut manquer.
+@what: Pierre-Auguste Renoir, Femme nue dans un paysage (Nude in a Landscape), 1883, oil on canvas, 65 × 54 cm · Baigneuse aux cheveux longs (Bather with Long Hair), around 1895, oil on canvas, 82 × 65 cm · Femme nue couchée (Gabrielle) (Reclining Nude, Gabrielle), 1906, oil on canvas, 67 × 160 cm.
+@listen: How a trip to Italy sharpened Renoir's line, what the pearly period was, and how the family nanny became his Venus.
+@brief: Walking a friend through three nudes as three chapters of a painter's life; composed and attentive, warmer at Gabrielle.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_A Renoir — Femme nue dans un paysage (1883, 65 × 54, RF 1963-13; bather with brown hair pinned up, on a white cloth drying her leg; "more confident style"; after the 1881 trip to Italy; announces Les Grandes Baigneuses 1884–87, Philadelphia; "some historians believe" the model resembles Suzanne Valadon): https://www.musee-orangerie.fr/en/artworks/femme-nue-dans-un-paysage-196505 (OFF) ; FACTS_A Baigneuse aux cheveux longs (c.1895, 82 × 65; white drape; golden hair echoes the vegetation; "pearly period"; almost identical 1895 Bather at the Barnes Foundation): https://www.musee-orangerie.fr/en/artworks/baigneuse-aux-cheveux-longs-196511 (OFF) ; FACTS_A Femme nue couchée (Gabrielle) (1906, 67 × 160, RF 1960-22; Gabrielle; tradition of Titian, Rubens, Goya, Ingres, Manet; one of the few indoor nudes; three large horizontal reclining figures 1903–07): https://www.musee-orangerie.fr/en/artworks/femme-nue-couchee-gabrielle-196519 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 023 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] En 1881, Renoir part en Italie. Il a quarante ans. Après ce voyage, sa manière de dessiner commence à changer.
+
+On le voit dans la baigneuse assise au bord de l'eau. Renoir l'a peinte en 1883. Figure traditionnelle, dans un décor intemporel, les cheveux bruns relevés. Assise sur un linge blanc, elle s'en sert pour s'essuyer la jambe. [pause] Regardez sa silhouette. Les contours sont fermes, le trait est sûr. Le style s'affirme. Il annonce Les Grandes Baigneuses, aujourd'hui à Philadelphie. Certains historiens pensent que le modèle ressemble à Suzanne Valadon, que Renoir peignait souvent à l'époque. Simple hypothèse, rien de plus.
+
+[pause] Une douzaine d'années plus tard environ vient la baigneuse aux longs cheveux. Elle sort de l'eau et ramène un drap blanc sur sa poitrine. Ses cheveux dorés et défaits font écho au mouvement des plantes derrière elle. C'est la période nacrée de Renoir, nommée ainsi pour ses carnations lumineuses. Une baigneuse presque identique se trouve à la Fondation Barnes, à Philadelphie.
+
+[warmly] Et puis, le long tableau. La femme allongée ici, c'est Gabrielle, la nourrice aux figurines d'animaux. Elle est désormais l'un de ses modèles préférés. En 1906, Renoir la peint nue, en intérieur, allongée sur une toile de plus d'un mètre cinquante de large.
+
+Voilà qui l'inscrit dans une très longue lignée. Le nu allongé en intérieur traverse Titien, Rubens, Goya, Ingres et Manet. Dans ses dix dernières années, Titien et Rubens comptent le plus pour Renoir. Les nus d'intérieur sont rares dans son œuvre. [pause] En quelques années autour de celui-ci, il peint trois grandes figures horizontales, allongées sur des coussins.
+
+[quietly] Trois nus, donc. Un trait plus net, un éclat nacré. Et la nourrice de la maison, étendue comme une Vénus.
+
+Pour finir avec Renoir, cherchez ses tableaux plus petits, plus discrets : des fruits, un bouquet de tulipes et un paysage sous la neige.

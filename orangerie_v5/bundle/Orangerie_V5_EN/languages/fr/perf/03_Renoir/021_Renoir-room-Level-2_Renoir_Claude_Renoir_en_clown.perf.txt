@@ -1,0 +1,28 @@
+@id: 021 · FR · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Claude Renoir en clown
+@where: Dans la salle des peintures de Renoir, devant le portrait d'un petit garçon en costume de clown rouge. L'accrochage actuel n'est pas confirmé : l'œuvre peut manquer.
+@what: Pierre-Auguste Renoir, Claude Renoir en clown (Claude Renoir as a Clown), 1909, oil on canvas.
+@listen: A boy who hated his costume, the bargain that got the portrait finished, and the old master Renoir was trying to match.
+@brief: Sharing a favourite family anecdote with a friend; amused and fond, then a little more serious about the painter's ambition.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_A Renoir — Claude Renoir en clown (1909, RF 1960-17; Claude, "Coco", about eight; hated the red clown costume and the stockings that prickled and tickled; several sittings; agreed to wear the stockings briefly in return for a box of oil paints and a train set; Renoir wanted a ceremonial portrait to measure himself against the old masters, Velázquez in particular): https://www.musee-orangerie.fr/en/artworks/claude-renoir-en-clown-196520 (OFF). Dimensions deliberately not given (unverified).
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 021 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Chaque portrait a un prix. Celui-ci a coûté une boîte de couleurs et un petit train.
+
+Le garçon, c'est Claude Renoir, le fils du peintre. En famille, on l'appelait Coco. En 1909, quand ce tableau est peint, il a environ huit ans. Et il n'a aucune envie d'être là.
+
+[pause] Le problème, c'était le costume. Coco détestait ce costume de clown rouge. Et surtout les bas, qui le piquaient et le chatouillaient aux jambes. Le portrait demandait plusieurs séances. Et chaque séance, c'étaient encore les bas. [pause] Finalement, on a conclu un marché. Coco mettrait les bas, mais pour peu de temps seulement. En échange, il recevrait une boîte de peintures à l'huile et un petit train.
+
+[lightly] Alors, devant ce petit clown, souvenez-vous qu'il a été bien payé pour poser.
+
+Mais Renoir ne peignait pas une plaisanterie. Il voulait un portrait d'apparat de son fils, un tableau dans le grand style. Il comptait ainsi se mesurer aux maîtres anciens, et surtout à Velázquez. Quelle ambition, pour le portrait d'un garçon dans un costume qu'il ne supporte pas ! Ici, le costume d'apparat est un habit de clown rouge. Et on a promis un train au jeune modèle.
+
+[warmly] Regardez-le donc des deux façons à la fois. Voyez le costume rouge comme Renoir voulait qu'on le voie : un défi de peintre lancé aux maîtres anciens. Puis ayez une pensée pour les bas, cause de tous les ennuis. [pause] L'ambition d'un grand peintre et le marché d'un petit garçon, dans un seul tableau.
+
+Jean, le grand frère de Claude, est aussi dans cette salle, tout petit, sur les genoux de sa nourrice. Cherchez le petit tableau d'une femme et d'un petit garçon qui joue avec des figurines d'animaux. Écoutez sa piste là-bas.

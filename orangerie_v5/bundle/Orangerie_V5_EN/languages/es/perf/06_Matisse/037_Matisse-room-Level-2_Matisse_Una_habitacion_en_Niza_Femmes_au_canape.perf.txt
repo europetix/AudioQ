@@ -1,0 +1,32 @@
+@id: 037 · ES · Matisse room · Level −2
+@section: Matisse
+@room: Matisse room · Level −2
+@type: W
+@title: Matisse — Una habitación en Niza: Femmes au canapé y Le Boudoir
+@where: Entre los cuadros de Matisse, en el nivel inferior. Busque un interior de hotel con una gran cortina roja a la derecha, un suelo de baldosas, una ventana al cielo y dos mujeres apenas esbozadas junto a un diván. Le Boudoir, otro interior, puede estar cerca.
+@what: Henri Matisse, Femmes au canapé ou Le Divan (Women on a Sofa, or The Divan), 1921, oil on canvas. Also Le Boudoir (The Boudoir), oil on canvas.
+@listen: How Matisse turned an ordinary hotel room in Nice into a picture about being shut in and looking out.
+@brief: Walking a friend through a room as if standing in it; relaxed and observant, a little conspiratorial about the repainted divan, opening out at the window.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_B Matisse — Femmes au canapé ou Le Divan: https://www.musee-orangerie.fr/en/artworks/femmes-au-canape-ou-le-divan-196470 (OFF: 1921; Hôtel de la Méditerranée from 1916; light of the Midi; oppressive interior / liberating outside; his hotel room; two perspectives; tiling; red curtain; triangle to a point in the sky; no reflection; two women "more or less sketched"; divan repainted; reds and greens) ; FACTS_B Le Boudoir: https://www.musee-orangerie.fr/en/artworks/le-boudoir-196469 (OFF for title only; date, description and sitters WEAK, not used)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 037 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] He aquí un gran pintor que volvía siempre al mismo hotel. Desde 1916, Matisse se alojó a menudo en el Hôtel de la Méditerranée, en Niza. Había llegado al sur cautivado por la luz del Midi. Y el propio hotel se convirtió en su tema.
+
+Este es uno de esos cuadros. Femmes au canapé, Mujeres en un sofá, de 1921, muestra su propia habitación de hotel.
+
+Pero para Matisse, una habitación era más que muebles. En Niza volvía siempre a una idea. Un interior cerrado y pesado, y una puerta o ventana abierta al mundo libre de fuera. [pause] Dentro y fuera. Encierro y libertad.
+
+[curious] Fíjese en cómo lo construye en un solo cuadro. Aquí hay, en realidad, dos maneras de mirar. Una mira al suelo, donde las baldosas dan dibujo y superficie, pero casi ninguna profundidad. La otra mira por la ventana, lejos, hacia el cielo.
+
+[pause] Siga las líneas. La composición forma un triángulo que lleva su mirada a un punto del cielo, más allá del cristal. La gran cortina roja de la derecha lo suaviza, para que el empuje no sea brusco. Y en la ventana no hay reflejo. Nada detiene su mirada al salir.
+
+[conspiratorial] Las dos mujeres son casi un detalle secundario. Están a la derecha, más o menos esbozadas. El diván recibió más atención. [pause] Matisse lo repintó para lograr el ángulo exacto.
+
+Luego está el color. Rojos y verdes, unos cálidos, otros fríos, que tiran en sentidos opuestos. El museo ve en ellos los sentimientos encontrados del cuadro. El peso de la habitación, y el deseo de salir a esa luz.
+
+[warmly] Si Le Boudoir está cerca, compárelos. Otra habitación vista desde dentro. Otro pequeño mundo que Matisse creó a partir de un interior corriente.
+
+Busque ahora a una joven con un violín sobre las rodillas. Su historia continúa frente a ella.

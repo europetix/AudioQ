@@ -1,0 +1,26 @@
+@id: 025 · FR · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Pommes et biscuits
+@where: Dans la salle des peintures de Cézanne, trouvez une nature morte avec une assiette et quelques pommes posées sur un coffre. Les Cézanne de cette collection sont souvent prêtés, et certains peuvent être absents jusqu'au début de 2027.
+@what: Paul Cézanne, Pommes et biscuits (Apples and Biscuits), around 1880, oil on canvas. Bought by Domenica Walter at auction in Paris in 1952.
+@listen: The auction that made a widow's collection famous, the painting she and her husband bought in halves, and how Cézanne builds an apple out of colour.
+@brief: A friend telling a saleroom story with relish, then a little conspiratorial about the cut painting, slowing down to look at the apples.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_A Cézanne and Paul Guillaume / Domenica Walter + Pommes et biscuits: https://www.musee-orangerie.fr/en/articles/paul-cezanne-105454 ; https://www.musee-orangerie.fr/en/artworks/pommes-et-biscuits-196021 (OFF: 14 May 1952, Gabriel Cognacq sale, Galerie Charpentier, "unprecedented sum", sensational purchase; c.1880; plate and apples on a chest; volume through colour; "symbols of his great mastery of still life") ; FACTS_A Fleurs et fruits + Fleurs dans un vase bleu: …/fleurs-et-fruits-196022, …/fleurs-dans-un-vase-bleu-196023 (OFF: Vollard, cut by a dealer, Domenica unaware, Michel Hoog 1992) ; FACTS_A collection counts (OFF, 15 Cézannes) ; loans: FACTS_A "On display in 2026" + G5 (Cézanne et nous, SEC2)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 025 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] En mai 1952, un tableau de pommes fait sensation dans une vente à Paris, à la galerie Charpentier. L'acheteuse, Domenica Walter, veuve de Paul Guillaume, paie une somme sans précédent. L'effet est immédiat. [pause] Cet achat attire l'attention du public sur elle. Et sur la magnifique collection qu'elle constituait.
+
+Cette collection compte quinze Cézanne. Dans les années 1920, Paul en achète plusieurs importants, dont des portraits de la femme et du fils du peintre. Après sa mort, Domenica continue d'acheter, surtout des paysages. Et puis cette nature morte, le plus remarqué de tous ses achats.
+
+[conspiratorial] Elle a aussi acheté un tableau deux fois, en quelque sorte. Paul avait acquis une toile de fleurs et de fruits auprès du marchand Ambroise Vollard. Des années après sa mort, Domenica achète un tableau de fleurs dans un vase bleu. [pause] Aucun des deux ne savait que c'étaient les deux moitiés d'une même toile inachevée, sans doute découpée par un marchand bien avant. Un conservateur, Michel Hoog, a reconstitué l'histoire en 1992. Mari et femme avaient réuni un tableau sans le vouloir.
+
+Venons-en aux pommes. Pour le musée, c'est l'un des symboles de la grande maîtrise de Cézanne dans la nature morte. En partie parce qu'il y a si peu de choses. Une assiette et quelques pommes, posées sur un coffre. [pause] La rondeur de chaque pomme est construite par la couleur. Ses recherches pour exprimer le volume par la couleur sont ici pleinement abouties. [quietly] Accordez-lui un instant, et l'ensemble se pose, comme une balance qui vient de s'immobiliser.
+
+Ces quelques fruits portent donc deux histoires. Un peintre qui construit une pomme avec la couleur. Et une veuve dont l'achat a tourné tous les regards vers sa collection.
+
+Cherchez maintenant Madame Cézanne, la femme du peintre, peinte en pied dans un jardin. Écoutez son histoire là-bas.

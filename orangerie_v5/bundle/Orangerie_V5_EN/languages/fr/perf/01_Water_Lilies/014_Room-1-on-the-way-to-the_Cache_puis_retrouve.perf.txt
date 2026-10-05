@@ -1,0 +1,28 @@
+@id: 014 · FR · Room 1 → stairs
+@section: Water Lilies
+@room: Room 1 · on the way to the lower level · Ground floor
+@type: R
+@title: Caché, puis retrouvé
+@where: De retour dans la salle 1, en quittant les Nymphéas, à un endroit d'où vous pouvez lever les yeux vers le plafond pâle, avant de prendre l'escalier ou l'ascenseur vers le niveau inférieur.
+@what: The later history of the Water Lilies rooms: the upper floor built over them in the 1960s, and the 2000–2006 renovation that gave them back their daylight and moved the Walter-Guillaume collection below ground.
+@listen: How the Water Lilies lost their daylight for about forty years, how they got it back, and what the builders found underground.
+@brief: Telling a friend a story with a happy ending as you walk; curious at first, a little rueful about the dark years, warm about the light coming back.
+@pace: medium
+@energy: 3→2→4
+@sources: State acquires the Walter-Guillaume collection 1959 and 1963: https://www.musee-orangerie.fr/en/node/197501 (OFF) ; Lahalle 1960–65: two superimposed levels, collection hung upstairs via a monumental staircase, lilies cut off from daylight; Brochet Jan 2000–May 2006: upper floor removed, overhead natural light restored, about 1,000 m² of galleries created below ground: https://www.musee-orangerie.fr/en/node/24 (OFF) + G1 track 27 ; "lived under a false ceiling for about 40 years" (FACTS_C §1.3 hooks, OFF) ; Charles IX's 16th-century city wall found during the works, visible on the lower level (G1 [FOSSES] SEC2, senat.fr questions 2005 + parisupdate)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 014 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pendant une quarantaine d'années, les Nymphéas ont perdu leur ciel.
+
+À la fin des années cinquante et au début des années soixante, l'État acquiert une grande collection privée de peinture moderne. Vous allez la voir en bas. Il lui fallait un lieu, et l'Orangerie avait la place. Au début des années 1960, on construit donc un nouvel étage, juste au-dessus de ces salles ovales. La collection y est accrochée, en haut d'un escalier monumental. [pause] Et la lumière du jour, prévue par Monet pour ses tableaux, s'arrête à ce nouvel étage.
+
+[quietly] Pendant des décennies, les Nymphéas vivent sous un faux plafond. Une belle collection en haut, une salle plus sombre en bas. L'homme qui avait réglé chaque détail de cette lumière avait disparu depuis longtemps. Personne ne pouvait lui demander son avis.
+
+[warmly] Réparer cela a pris six ans. Le musée ferme en janvier 2000. L'architecte Olivier Brochet supprime l'étage supérieur. La lumière redescend par le toit. La collection, elle, prend le chemin inverse. Elle gagne environ mille mètres carrés de nouvelles salles, creusées sous terre. [pause] Les salles rouvrent en mai 2006.
+
+Creuser a réservé une surprise. [pause] Les ouvriers ont trouvé un pan de l'ancienne enceinte de la ville, du seizième siècle, du règne du roi Charles neuf. On peut encore en voir une partie au niveau inférieur. Ouvrez l'œil en descendant.
+
+Avant de partir, levez une dernière fois les yeux vers ce plafond pâle. [pause] Cette lumière, c'est l'idée de Monet, enfin restituée. Quel que soit le temps dehors, il agit aussi sur les tableaux. Exactement comme il le voulait.
+
+Prenez maintenant l'escalier ou l'ascenseur jusqu'au niveau inférieur, indiqué moins deux, et écoutez sa piste dans la première salle.

@@ -1,0 +1,28 @@
+@id: 012 · ES · Room 2 · far end
+@section: Water Lilies
+@room: Room 2 · far end · Water Lilies · Ground floor
+@type: W
+@title: Monet — Les Deux Saules (Los dos sauces)
+@where: Sala 2, la pared del fondo, frente a usted al entrar desde la Sala 1. Es la composición más larga del museo.
+@what: Claude Monet, Les Deux Saules (The Two Willows), from the Water Lilies cycle, 1914–1926, oil on canvas, four panels, 200 × 1700 cm.
+@listen: Why the longest painting in the museum sits at the far end of the walk, which way it faces, and how to find the two trees of the title.
+@brief: Arriving with a friend at the end of a long walk; hushed, then quietly enthusiastic, gentle as you settle on a bench.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: Size 200 × 1700, four panels, longest composition in the museum, 1914–1926: https://www.musee-orangerie.fr/en/artworks/les-deux-saules-196306 (OFF) + GAC https://artsandculture.google.com/asset/3AEQUJnQ8YnB_A (OFF) ; east end at the back of Room 2: 1944 archive caption https://www.hausderkunst.de/en/wandtexte-cyprien-gaillard-wassermusik (SEC1 in FACTS_C; SEC2 with RMN in G5) ; west entrance at the Concorde end: G5 (https://www.musee-orangerie.fr/en/node/24, OFF) ; "A vestibule … marks the transition from the outside world"; east–west orientation on the royal way from the Arc de Triomphe to the Louvre: https://www.musee-orangerie.fr/en/node/33 (OFF) ; Room 2 is the far end of the building (G5 SEC2) ; grief/war years: see 008 sources (SEC2)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 012 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Ahora está casi tan lejos del tráfico de la Place de la Concorde como este edificio lo permite. La entrada queda atrás, en el extremo oeste. Entre usted y la calle hay un vestíbulo, una sala ovalada entera y un pasaje. El museo dice que un vestíbulo marca la transición desde el mundo exterior. [pause] A estas alturas, el mundo exterior queda muy lejos.
+
+Y al final del recorrido, Monet puso esto. Les Deux Saules, Los dos sauces. Es la composición más larga del museo: diecisiete metros de pintura en cuatro lienzos unidos. [pause] Curvada alrededor del fondo de la sala, casi no parece larga. Parece que la sala simplemente continúa.
+
+[curious] Siga en su imaginación, atravesando esta pared, y viajaría hacia el este por el gran eje de París, hacia el Louvre. Estas salas están sobre ese eje histórico, la vía real que va del Louvre al Arco de Triunfo. Así que el cuadro más largo del edificio cierra su extremo este. Y mira hacia atrás, a lo largo de toda la ciudad.
+
+[warmly] Ahora busque los árboles. El título promete dos sauces, y nada más. Recorra todo el largo, despacio, y búsquelos. Cuando crea tenerlos, vuelva al centro de la sala. Deje que los cuatro lienzos se unan otra vez en un solo cuadro.
+
+[amused] Diecisiete metros de pintura, y el título solo menciona dos árboles. [pause] Encontrarlos es tarea suya.
+
+Es tentador leer estos sauces llorones, pintados en años de duelo y de guerra, como una especie de luto. Esa lectura es nuestra, no de Monet. Pero aquí, en el extremo de todo lo que él planeó, cuesta no sentirlo.
+
+[lightly] Ha caminado mucho. Queda una historia más en esta sala, la que le prometí en la entrada, y se escucha mejor tomando asiento. Busque un banco en el centro de la sala, y acomódese.

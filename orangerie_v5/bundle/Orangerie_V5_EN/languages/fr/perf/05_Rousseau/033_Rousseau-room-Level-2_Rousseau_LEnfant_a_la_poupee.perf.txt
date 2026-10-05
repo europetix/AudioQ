@@ -1,0 +1,30 @@
+@id: 033 · FR · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — L'Enfant à la poupée
+@where: Parmi les tableaux d'Henri Rousseau au niveau inférieur, trouvez le portrait d'un enfant qui tient une poupée.
+@what: Henri Rousseau, L'Enfant à la poupée (Child with a Doll), oil on canvas, Walter-Guillaume collection.
+@listen: Five francs in a junk shop, a banquet for a toll clerk, and why primitive is a compliment here.
+@brief: A friend with a good anecdote, curious and a little conspiratorial, then handing the looking over to the listener with open questions.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_B L'Enfant à la poupée: https://www.musee-orangerie.fr/en/artworks/lenfant-la-poupee-196422 (OFF page exists; date, size and description are WEAK, so not used) ; Picasso's 1908 junk-shop purchase from Père Soulié for five francs, kept all his life, now Musée Picasso, and the November 1908 banquet it triggered: G3 19.2 (SEC2) ; Bateau-Lavoir banquet: G3 "Confirmed OK" ; collection opens with large works by modern "primitives" after Apollinaire's vision: FACTS_A collection-level, https://www.musee-orangerie.fr/en/collection/new-presentation-collection (OFF), G5 (OFF) ; child not known to be Rousseau's daughter: G3 19.6 ; Carriole frontality: FACTS_B (OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1908, Pablo Picasso fouille chez un brocanteur parisien, un marchand surnommé le père Soulié. Au milieu du bric-à-brac, il trouve un portrait de femme par Henri Rousseau. Il le paie cinq francs. Et il le garde toute sa vie. [pause] Il est aujourd'hui au musée Picasso.
+
+Ce petit achat déclenche quelque chose de bien plus grand. En novembre de la même année, Picasso et ses amis donnent un banquet en l'honneur de Rousseau, au Bateau-Lavoir. [pause] Imaginez la scène : le jeune cercle de Picasso lève son verre à un employé de l'octroi devenu peintre, un homme d'une soixantaine d'années.
+
+Qu'ont-ils donc vu en lui ? Souvenez-vous des primitifs modernes qui ouvrent la collection. Rousseau est là, parmi eux, avec Picasso et Matisse. [lightly] Dans ce bâtiment, « primitif » est un compliment.
+
+Ce qui nous amène à cet enfant.
+
+[quietly] Le titre ne nous dit pas qui était cet enfant. Alors, pour une fois, regardons ensemble, avec des questions plutôt que des réponses.
+
+Où sont les yeux de l'enfant ? Sur la poupée, ou sur vous ? Repensez aux passagers de la carriole de Junier, tournés vers vous comme des icônes. Cet enfant fait-il de même ? [pause] Regardez les mains, et la place que prend la poupée entre elles. Puis le sol, et ce qu'il y a derrière. Est-ce un vrai lieu, ou un décor ?
+
+Il n'y a pas de bonne réponse ici, seulement les vôtres. Mais si le simple portrait d'un enfant avec son jouet vous fait regarder à deux fois, vous avez senti un peu de ce qui a attiré ces jeunes peintres au banquet.
+
+Les pêcheurs de Rousseau sont tout près, sous un ciel surprenant, avec une fabrique de chaises qu'il a peinte deux fois. Écoutez leur piste devant eux.

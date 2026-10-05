@@ -1,0 +1,28 @@
+@id: 051 · DE · Derain room · Level −2
+@section: Derain
+@room: Derain room · Level −2
+@type: W
+@title: Derain — Die Nichte des Malers und ein Harlekin allein
+@where: Im Saal mit den Gemälden von André Derain. Suchen Sie das lebensgroße Porträt eines Mädchens im weißen Kleid vor Braun- und Gelbtönen und den hohen, lebensgroßen Harlekin mit Gitarre.
+@what: André Derain, La Nièce du peintre, The Painter's Niece, and La Nièce du peintre assise, The Painter's Niece, Seated, both oil on canvas; Arlequin à la guitare, Harlequin with a Guitar, 1924, oil on canvas, 190 × 97 cm.
+@listen: The baby who moved into Derain's house and sat for him more than a hundred times, and the hired model in Harlequin's costume.
+@brief: Telling a friend a tender family story in front of the pictures; warm and unhurried, lightly amused at the Harlequin, affectionate at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C Derain — La Nièce du peintre assise (1919 sister-in-law and baby Geneviève moved in for good; he adored her; began painting her at nine months; more than a hundred paintings; "one of his most exquisite portraits"; life-size, about 12, standing on her left leg with right knee on a chair; white dress and face light up a canvas built on browns and yellows — description belongs to one of the two niece pages): https://www.musee-orangerie.fr/en/artworks/la-niece-du-peintre-assise-196104 (OFF) ; FACTS_C Derain — La Nièce du peintre (title only): https://www.musee-orangerie.fr/es/obras/la-niece-du-peintre-196105 (OFF) ; FACTS_C Derain — Arlequin à la guitare (1924, 190×97, life-size Harlequin, model the Spanish painter Salvado who worked for Derain and Picasso): https://www.musee-orangerie.fr/en/artworks/arlequin-la-guitare-196176 (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 051 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] 1919 kam ein Baby in André Derains Haus. [pause] Und die Kleine ging nie wieder fort.
+
+Sie hieß Geneviève. Ihre Mutter war Derains Schwägerin. In jenem Jahr zogen die beiden für immer zu ihm. Derain liebte das Kind über alles. Er begann sie zu malen, als sie neun Monate alt war. Und er hörte nicht mehr auf. [pause] Im Lauf der Jahre stand Geneviève für mehr als hundert seiner Gemälde Modell.
+
+Stellen Sie sich das vor. Die meisten Kinder wachsen mit ein paar Fotos auf. Dieses wuchs vor einer Staffelei auf. Und ihr Onkel malte sie immer wieder.
+
+In dieser Sammlung gibt es zwei Porträts von ihr, La Nièce du peintre und La Nièce du peintre assise, Die Nichte des Malers und Die sitzende Nichte des Malers. Eines davon nennt das Museum eines seiner erlesensten Porträts. Dort ist sie lebensgroß zu sehen, mit etwa zwölf. Sie steht auf dem linken Bein, das rechte Knie angewinkelt auf einem Stuhl. Die Leinwand ist aus Braun- und Gelbtönen gebaut. [pause] Davor erhellen ihr weißes Kleid und ihr Gesicht das ganze Bild.
+
+[amused] Wenden Sie sich nun dem Harlekin mit Gitarre zu, Arlequin à la guitare, gemalt 1924. Auch er ist lebensgroß, auf einer fast zwei Meter hohen Leinwand. Aber dieses Modell war ein Profi, Salvado, der spanische Maler, den Sie vielleicht schon bei Harlekin und Pierrot getroffen haben. Diesmal spielt er eine Rolle statt zwei.
+
+[quietly] Hier sind also zwei Arten von lebensgroß. Ein bezahlter Mann in einem geliehenen Kostüm, der eine Rolle spielt. [pause] Und ein Mädchen, das einfach in den Bildern seines Onkels aufwuchs, eine Sitzung nach der anderen.
+
+Wenn Sie so weit sind, suchen Sie Derains großes, dunkles Stillleben eines Küchentischs. Spielen Sie dort den passenden Titel ab.

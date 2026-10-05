@@ -1,0 +1,30 @@
+@id: 032 · ES · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — La Carriole du père Junier (El carro del viejo Junier)
+@where: Entre los cuadros de Henri Rousseau, en el nivel inferior, busque el cuadro ancho de una familia en un carro tirado por una yegua blanca, con tres perros.
+@what: Henri Rousseau, La Carriole du père Junier (Old Junier's Cart), 1908, oil on canvas, 97 × 129 cm.
+@listen: The neighbourhood grocer and his proud white mare, the painter on the front seat, and the dog that was too big on purpose.
+@brief: A neighbourhood story told with affection and a grin; amused by the mare's tiptoes, delighted by Rousseau's reply to Max Weber.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_B La Carriole du père Junier: https://www.musee-orangerie.fr/es/obras/la-carriole-du-pere-junier-196429 (OFF: 1908; Claude Junier and wife ran a grocery near Rousseau's home; likely commissioned 1908; Junier and Rousseau on the front seat; Madame Junier and relatives behind; Junier a horse trainer proud of his white mare Rosa; mare "on the tips of her hooves", "like a dancer on points"; passengers frontal "like Byzantine icons" except Junier; three dogs, rare in Rousseau) ; G3 17.2 (grocery, vegetables from market gardeners each morning, OFF), 17.3 (photograph source, dogs' size and position changed, a tree omitted, Max Weber exchange, OFF), 17.4 (97×129, OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 032 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Todo barrio tiene un tendero que conoce a todo el mundo. El de Rousseau era Claude Junier. Él y su esposa tenían una tienda de comestibles cerca de la casa del pintor. Cada mañana, Junier iba a comprar verduras a los hortelanos. También adiestraba caballos, y estaba muy orgulloso de su yegua blanca, Rosa.
+
+En 1908, muy probablemente, los Junier encargaron este cuadro. Junier va en el asiento delantero. A su lado, el propio Rousseau. Detrás viajan Madame Junier y dos jóvenes parientes.
+
+Ahora mire a Rosa. [pause] Curiosamente, se apoya en la punta de los cascos. Así Rousseau puede lucir las sombras bajo ella. Y la hace parecer suspendida, como una bailarina en puntas. Un caballo de tiro haciendo ballet.
+
+Mire también a los pasajeros. Salvo Junier, todos le miran de frente, rígidos y erguidos. El museo los compara con iconos bizantinos. Y cuente los perros: son tres, algo raro en la obra de Rousseau.
+
+[conspiratorial] Esta es la parte que me encanta. Rousseau partió de una fotografía de la familia, pero no la copió sin más. Cambió el tamaño y la posición de los perros, y quitó un árbol. El pintor Max Weber le señaló que un perro era demasiado grande. [pause] Rousseau respondió que el cuadro lo exigía.
+
+[pause] Esa respuesta dice mucho. Quizá piense que Rousseau era ingenuo, que sus cuadros le salían así sin remedio. Pero quien corrige una fotografía, mueve los perros y quita un árbol está tomando decisiones. Sabía mejor que la cámara lo que necesitaba el cuadro.
+
+Es un lienzo grande, de casi un metro de alto y bastante más de un metro de ancho, para retratar al tendero del barrio. [warmly] Y la yegua del tendero se convierte en bailarina.
+
+Ahora busque L'Enfant à la poupée, el retrato de un niño con una muñeca. La historia continúa allí.

@@ -1,0 +1,28 @@
+@id: 049 · DE · Soutine room · Level −2
+@section: Soutine
+@room: Soutine room · Level −2
+@type: W
+@title: Soutine — Häuser, die sich bewegen: Le Village und die Landschaften
+@where: Im Saal mit Soutines Gemälden, vor den Landschaften: Dörfer und Straßen, deren Häuser sich neigen und verdrehen. Le Village ist die verworrenste von ihnen.
+@what: Chaïm Soutine, Le Village, The Village, 1923, oil on canvas; with Les Maisons, The Houses, and Paysage avec personnage, Landscape with Figure, both oil on canvas.
+@listen: Soutine's years in Céret and Cagnes, the landscape the museum calls his most radical, and the end of his story.
+@brief: Sharing a strange, exciting picture with a friend, then closing a life story gently; animated in the middle, quiet and respectful at the end.
+@pace: medium
+@energy: 2→4→2
+@sources: FACTS_C Soutine — Céret / Cagnes (Zborowski sent him to Céret 1919–22 with room and board in exchange for paintings; Cagnes / La Basse Gaude 1923–24) via Les Maisons, Paysage avec personnage and Le Village pages (OFF) ; FACTS_C Soutine — Le Village (1923; "the most radical and the most unusual of Soutine's landscapes"; one of nine paintings 1923–24 at La Basse Gaude, about 8 km from Cagnes; every element distorted and intertwined, no perspective or balance): https://www.musee-orangerie.fr/es/obras/le-village-196565 (OFF) ; FACTS_C Soutine — Paysage avec personnage (road climbs straight along the vanishing lines, houses in the middle ground lean left, a device from the Céret period; date contested so not voiced): https://www.musee-orangerie.fr/en/artworks/paysage-avec-personnage-196573 (OFF) ; FACTS_C Soutine — Les Maisons (title only voiced; date/size SEC1 not used) ; FACTS_C Soutine holdings (largest collection of Soutine's paintings in Europe, thanks to Guillaume's early taste): https://www.musee-orangerie.fr/en/articles/chaim-soutine-105466 (OFF) ; G4 Confirmed OK + 24.7 (died 9 Aug 1943, in hiding during the Occupation, at about fifty) SEC2
+@lang: de
+@translation: from the fact-checked English Orangerie V5 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Die meisten Landschaftsmaler hoffen, dass die Aussicht stillhält. [pause] In Soutines Landschaften hält gar nichts still.
+
+Alles begann mit einem Handel. Sein Kunsthändler, Léopold Zborowski, schickte ihn nach Céret im Süden, Kost und Logis bezahlt. Im Gegenzug lieferte Soutine seine Bilder ab. Er blieb etwa drei Jahre. Dann kam Cagnes, und das Dorf La Basse Gaude, etwa acht Kilometer entfernt.
+
+Suchen Sie Paysage avec personnage, Landschaft mit Figur. Eine Straße steigt geradewegs das Bild hinauf. Die Häuser in der Mitte neigen sich nach links, als hätte sie ein Wind erfasst. [pause] Diese Neigung hatte er sich in Céret angewöhnt. Und er behielt sie bei.
+
+[long pause] Nun Le Village. Es entstand 1923, eines von neun Bildern, die er in kaum zwei Jahren in La Basse Gaude malte. Das Museum nennt es die radikalste und ungewöhnlichste all seiner Landschaften. [lightly] Man sieht, warum. Jedes Haus, jedes Dach, jeder Baum ist verdreht und in den Nachbarn verschlungen. Es gibt keine richtige Perspektive und kein Gleichgewicht. Man weiß kaum, wo ein Gebäude endet und das nächste beginnt. [pause] Und doch liest man es als Dorf. Es wirkt lebendiger als die meisten Dörfer mit geraden Mauern.
+
+Les Maisons, Die Häuser, ist eine weitere seiner Landschaften hier. Schauen Sie, ob seine Häuser gerader stehen.
+
+[quietly] Soutines späte Jahre waren hart. Während der deutschen Besatzung lebte er versteckt. Er starb 1943, mit etwa fünfzig. [pause] Dank Paul Guillaumes frühem Blick besitzt dieses Museum heute die größte Sammlung seiner Gemälde in Europa.
+
+Suchen Sie von hier aus die Gemälde von André Derain, und dort zwei kostümierte Musiker, Harlekin und Pierrot. Vor ihnen geht die Geschichte weiter.

@@ -1,0 +1,30 @@
+@id: 039 · FR · Matisse room · Level −2
+@section: Matisse
+@room: Matisse room · Level −2
+@type: W
+@title: Matisse — Les Odalisques
+@where: Parmi les tableaux de Matisse, au niveau inférieur. Cherchez les femmes allongées ou assises parmi les paravents, les rideaux et les tissus à motifs : un nu aux tons bleus devant un paravent mauresque, un nu sur un drap blanc devant un rideau rouge, et les odalisques à la culotte rouge et à la culotte grise.
+@what: Henri Matisse, Odalisque bleue ou L'Esclave blanche (Blue Odalisque, or The White Slave) · Nu drapé étendu (Reclining Draped Nude), 1923–1924 · Odalisque à la culotte rouge (Odalisque with Red Trousers) · Odalisque à la culotte grise (Odalisque with Grey Trousers), 1926–1927. All oil on canvas, all in the Jean Walter and Paul Guillaume collection.
+@listen: Why the critics sneered at Matisse's odalisques, and what he was really painting.
+@brief: A friend defending a misunderstood picture, wry about the critics, then quietly persuasive in front of the paint.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_B Matisse intro: https://www.musee-orangerie.fr/en/articles/henri-matisse-105458 (OFF: odalisques of the 1920s in Nice, drawing on Ingres and Chassériau; 1927 critics "wallpaper dealer's display") ; FACTS_B Odalisque bleue: https://www.musee-orangerie.fr/it/opere/odalisque-bleue-ou-lesclave-blanche-196468 (OFF: Moorish screen, restricted space, raised arm, blue tones, "brings watercolours to mind"; odalisque a pretext "to paint the nude"; body and shadow in ornamental décor affirming flatness; Bernheim-Jeune 1922, Guillaume from 1929) ; FACTS_B Nu drapé étendu: https://www.musee-orangerie.fr/es/obras/nu-drape-etendu-196472 (OFF: 1923–1924; red curtain, white sheet, cushions, black contours, white bloomers, pose) ; FACTS_B culotte rouge https://www.musee-orangerie.fr/en/artworks/odalisque-la-culotte-rouge-196473 and culotte grise https://www.musee-orangerie.fr/en/artworks/odalisque-la-culotte-grise-196476 (OFF: titles; Guillaume 1929 provenance for culotte rouge only; grise dated 1926–1927; descriptions SEC1/none, not used)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 039 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] En 1927, certains critiques ont vu dans ces tableaux un étalage de marchand de papiers peints. C'était une insulte. Par hasard, elle décrit assez bien ce que cherchait Matisse.
+
+Voici ses odalisques, peintes à Nice dans les années 1920. Matisse s'inspire de deux peintres français plus anciens, Ingres et Chassériau. Mais pour lui, explique le musée, le thème était un prétexte. Un prétexte pour peindre le nu.
+
+Et il voulait aller plus loin. Il voulait que le corps, et même son ombre, se fondent dans le décor. Le motif, le paravent, le tissu et la femme, tous à plat, ensemble, sur la surface de la toile. [pause] Le papier peint, c'était donc plutôt le but.
+
+[curious] Commencez par l'Odalisque bleue. Le décor se réduit à un paravent mauresque. Elle est enfermée dans un petit espace étroit. Un bras levé soulève la courbe de sa poitrine. Tout est peint en bleus, si légers et si fluides qu'on pense à l'aquarelle.
+
+Trouvez maintenant le Nu drapé étendu. Ici, il dépouille le décor. Un rideau rouge, un simple drap blanc sur le canapé, un coussin ou deux. De lourds traits noirs dessinent sa silhouette. Elle prend une pose que Matisse aimait, jambes repliées, bras levés au-dessus de la tête. [pause] Regardez son côté droit. Les plis rosés de son corps répondent aux plis du tissu, à ses hanches.
+
+Puis trouvez les deux odalisques nommées d'après leur culotte, l'une rouge, l'autre grise. Même thème, deux variations. Comparez-les vous-même.
+
+[quietly] Plusieurs de ces tableaux sont arrivés chez Paul Guillaume en 1929. Et au moment même où Matisse les peignait, Picasso peignait sa propre femme allongée, alanguie. [pause] Gardez ces femmes en tête quand vous la rencontrerez.
+
+Rendez-vous ensuite auprès des œuvres de Picasso. Son histoire ici commence en bleu, avec un pastel d'un couple enlacé. Sa piste commence là.

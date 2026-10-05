@@ -1,0 +1,30 @@
+@id: 039 · ES · Matisse room · Level −2
+@section: Matisse
+@room: Matisse room · Level −2
+@type: W
+@title: Matisse — Las odaliscas
+@where: Entre los cuadros de Matisse, en el nivel inferior. Busque a las mujeres recostadas y sentadas entre biombos, cortinas y telas estampadas: un desnudo en tonos azules ante un biombo morisco, un desnudo sobre una sábana blanca ante una cortina roja, y las odaliscas de pantalón rojo y de pantalón gris.
+@what: Henri Matisse, Odalisque bleue ou L'Esclave blanche (Blue Odalisque, or The White Slave) · Nu drapé étendu (Reclining Draped Nude), 1923–1924 · Odalisque à la culotte rouge (Odalisque with Red Trousers) · Odalisque à la culotte grise (Odalisque with Grey Trousers), 1926–1927. All oil on canvas, all in the Jean Walter and Paul Guillaume collection.
+@listen: Why the critics sneered at Matisse's odalisques, and what he was really painting.
+@brief: A friend defending a misunderstood picture, wry about the critics, then quietly persuasive in front of the paint.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_B Matisse intro: https://www.musee-orangerie.fr/en/articles/henri-matisse-105458 (OFF: odalisques of the 1920s in Nice, drawing on Ingres and Chassériau; 1927 critics "wallpaper dealer's display") ; FACTS_B Odalisque bleue: https://www.musee-orangerie.fr/it/opere/odalisque-bleue-ou-lesclave-blanche-196468 (OFF: Moorish screen, restricted space, raised arm, blue tones, "brings watercolours to mind"; odalisque a pretext "to paint the nude"; body and shadow in ornamental décor affirming flatness; Bernheim-Jeune 1922, Guillaume from 1929) ; FACTS_B Nu drapé étendu: https://www.musee-orangerie.fr/es/obras/nu-drape-etendu-196472 (OFF: 1923–1924; red curtain, white sheet, cushions, black contours, white bloomers, pose) ; FACTS_B culotte rouge https://www.musee-orangerie.fr/en/artworks/odalisque-la-culotte-rouge-196473 and culotte grise https://www.musee-orangerie.fr/en/artworks/odalisque-la-culotte-grise-196476 (OFF: titles; Guillaume 1929 provenance for culotte rouge only; grise dated 1926–1927; descriptions SEC1/none, not used)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 039 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] En 1927, algunos críticos miraron cuadros como estos y vieron el escaparate de un vendedor de papel tapiz. Pretendía ser un insulto. [pause] Pero, sin querer, se acerca mucho a lo que Matisse buscaba.
+
+Estas son sus odaliscas, pintadas en Niza en los años veinte. Matisse se inspiró en dos pintores franceses anteriores, Ingres y Chassériau. Pero para él, explica el museo, el tema era un pretexto. Una excusa para pintar el desnudo.
+
+Y quería algo más. Quería que el cuerpo, e incluso su sombra, formaran parte de la decoración que lo rodea. El dibujo, el biombo, la tela y la mujer, todos planos sobre la superficie del lienzo. [pause] Así que el papel tapiz era, en cierto modo, la clave.
+
+[curious] Empiece por la Odalisca azul. El decorado se reduce a un biombo morisco, y ella queda encerrada en un espacio estrecho. Tiene un brazo levantado, que realza la curva de su pecho. Todo está pintado en azules, con tanta ligereza y fluidez que recuerda a la acuarela.
+
+Ahora busque el Desnudo drapeado tendido. Aquí reduce el escenario al mínimo. Una cortina roja, una sábana blanca sobre el sofá, uno o dos cojines. Gruesas líneas negras dibujan su contorno. Su postura es una que Matisse adoraba: piernas recogidas, brazos alzados sobre la cabeza. [pause] Mire su lado derecho. Los pliegues rosados de su cuerpo repiten los pliegues de la tela en sus caderas.
+
+Luego busque las dos odaliscas que deben su nombre al pantalón, uno rojo y otro gris. El mismo tema, dos variaciones. Compárelas por su cuenta.
+
+[quietly] Varias llegaron a Paul Guillaume en 1929. Y justo cuando Matisse las pintaba, Picasso pintó, a su manera, una mujer recostada y lánguida. Recuerde a estas mujeres cuando la encuentre.
+
+Después diríjase a las obras de Picasso. Su historia aquí empieza en azul, con un pastel de una pareja abrazada. Allí empieza también su pista.

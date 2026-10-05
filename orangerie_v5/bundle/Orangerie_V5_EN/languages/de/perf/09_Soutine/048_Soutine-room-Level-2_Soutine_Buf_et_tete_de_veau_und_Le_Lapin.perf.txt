@@ -1,0 +1,28 @@
+@id: 048 · DE · Soutine room · Level −2
+@section: Soutine
+@room: Soutine room · Level −2
+@type: W
+@title: Soutine — Bœuf et tête de veau und Le Lapin
+@where: Im Saal mit Soutines Gemälden, vor den Fleischstillleben: eine Rinderhälfte neben einem Kalbskopf vor dunklem Grund und ein hohes, schmales Bild eines Kaninchens, das an einem Bein neben einem roten Krug hängt.
+@what: Chaïm Soutine, Bœuf et tête de veau, Side of Beef and Calf's Head, oil on canvas; Le Lapin, The Rabbit, 1923–24, oil on canvas, 73 × 36 cm; and Dindon et tomates, Turkey and Tomatoes, oil on canvas.
+@listen: Why the most violent painter in the building had such old-fashioned heroes, Rembrandt and Chardin.
+@brief: Standing with a friend in front of difficult pictures; steady and plain-spoken, admiring at the colour, quiet at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: G4 24.2–24.3 (Bœuf et tête de veau: carcass beside a calf's head on a butcher's hook, dark ground, painted in his rue du Saint-Gothard studio; answers Rembrandt's 1655 Louvre picture; carcass/police story is legend, hedge or drop): https://www.musee-orangerie.fr/en/artworks/boeuf-et-tete-de-veau-196314 (OFF) ; FACTS_C Soutine — Bœuf et tête de veau (reds and yellows, bloody flesh, plain dark background; Rembrandt's Slaughtered Ox, 1655, Louvre; date contested so not voiced) same URL ; FACTS_C Soutine — Le Lapin (1923–24, 73×36; hangs by one leg top to bottom; fur brown to gold unlike his plucked chickens; irregular red pitcher hanging by its handle; series of hares and rabbits; admired Chardin, copied La Raie): https://www.musee-orangerie.fr/en/artworks/le-lapin-196567 (OFF) ; FACTS_C Soutine — Dindon et tomates (title only; "Le Dindon" among his still lifes of killed animals): https://www.musee-orangerie.fr/en/artworks/dindon-et-tomates-196566 , https://www.musee-orangerie.fr/en/articles/chaim-soutine-105466 (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 048 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Für einen Maler, dessen Bilder so gewaltsam wirken können, hatte Soutine erstaunlich altmodische Helden. Nicht die Rebellen seiner Zeit. [pause] Rembrandt. Chardin. Zwei alte Meister, die keine Angst hatten, ein totes Tier zu malen.
+
+Beginnen Sie mit dem Rind, Bœuf et tête de veau. Eine Rinderhälfte hängt neben einem Kalbskopf, vor schlichtem dunklem Grund. Soutine malte das Bild in seinem Atelier in der Rue du Saint-Gothard in Paris. Dahinter steht vor allem ein Bild. [pause] Rembrandts Geschlachteter Ochse, gemalt 1655. Er hängt im Louvre, nur einen kurzen Spaziergang von hier, am Fluss entlang.
+
+[pause] Hier zählt vor allem die Farbe. Breite Striche in Rot und Gelb, sodass das blutige Fleisch vor dem Dunkel fast glüht. Es ist brutal, ja. [quietly] Aber sehen Sie es so an, wie Soutine seinen Rembrandt ansah. Dann ist es auch seltsam schön.
+
+Nun das Kaninchen, Le Lapin, von 1923 oder 1924. Es hängt an einem Bein und reicht über die ganze Höhe einer hohen, schmalen Leinwand. Anders als die gerupften Hühner, die er auch malte, hat dieses noch sein Fell. In allen Tönen von Braun bis Gold. Daneben hängt ein roter Krug am Henkel, leicht schief.
+
+Hier kommt Chardin ins Spiel. Soutine bewunderte ihn so sehr, dass er sein Stillleben mit einem Rochen kopierte, La Raie. [pause] Und dieses Kaninchen gehört zu einer ganzen Serie von Hasen und Kaninchen, jedes am Bein aufgehängt.
+
+In der Nähe finden Sie vielleicht auch Dindon et tomates, Truthahn und Tomaten, ein weiteres seiner Stillleben.
+
+Suchen Sie dann seine Landschaften, in denen ganze Dörfer zu kippen und zu schwanken scheinen. Spielen Sie dort den passenden Titel ab.

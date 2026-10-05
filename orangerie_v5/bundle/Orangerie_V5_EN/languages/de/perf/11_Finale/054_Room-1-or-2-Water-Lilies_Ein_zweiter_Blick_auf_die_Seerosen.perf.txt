@@ -1,0 +1,26 @@
+@id: 054 · DE · Water Lilies · Room 1 or 2
+@section: Finale
+@room: Room 1 or 2 · Water Lilies · Ground floor
+@type: R
+@title: Ein zweiter Blick auf die Seerosen
+@where: Zurück im Erdgeschoss, in einem der beiden ovalen Seerosen-Säle. Suchen Sie sich eine Bank oder einen ruhigen Platz vor der Komposition, die Ihnen am besten gefällt.
+@what: Claude Monet, Les Nymphéas, The Water Lilies: eight compositions on twenty-two panels, painted in the last ten years or so of Monet's life, finished by 1926, oil on canvas, two metres high.
+@listen: Why the same paintings look different now, at the end of the visit.
+@brief: Sitting beside a friend at the end of a long visit, sharing two last thoughts; hushed and unhurried, a small spark at the reveal, then letting the room do the work.
+@pace: slow
+@energy: 1→3→1
+@sources: FACTS_C §1.1 (8 compositions, 22 panels, 2 m high; painted between 1914 and 1926; east–west orientation "within the course of the sun"; light enters through the ceiling): https://www.musee-orangerie.fr/en/node/33 , https://www.musee-orangerie.fr/en/node/198900 (OFF) ; FACTS_C §1.3 + G1 track 27 (collection once hung on the 1960s upper floor above the oval rooms; now in galleries below ground; callback only, story told in 014): https://www.musee-orangerie.fr/en/node/24 (OFF) ; FACTS_C Soutine Le Petit Pâtissier c.1922–23 and Derain Arlequin et Pierrot c.1924 (OFF, URLs as in 046 and 050) ; G5 §2 track 28-1 and §1 (2025 separate exit in the north façade, footbridge into the Tuileries; May 2024 official plan shows exit beside the entrance, so the cue names no door) ; Plan_Guide_Mai_2024 (Water Lilies 'painted between 1916 and 1926' vs artwork pages 1914–1926, so no start year voiced): https://www.musee-orangerie.fr/en/articles/work-progress-musee-de-lorangerie-until-october-2025-museum-open-288037 (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 054 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] An diesen Wänden hat sich nichts verändert, seit Sie zum ersten Mal hereinkamen. [pause] Aber Sie haben sich verändert.
+
+Sie haben einen Konditor und einen Hotelkellner getroffen, einen Kunsthändler als Pierrot und ein Mädchen, das in den Bildern seines Onkels aufwuchs. Und etwas Wissenswertes für Ihren zweiten Blick aufs Wasser. Monet arbeitete in den 1920er-Jahren noch an diesen Tafeln, bis zu seinem Tod 1926. Während Soutine also seinen Konditor malte und Derain seinen Harlekin und Pierrot, malte ein alter Mann in Giverny noch immer Wasser. [pause] Dieselben Jahre. Eine völlig andere Vorstellung davon, wozu ein Bild da ist.
+
+[long pause] Erinnern Sie sich an das Obergeschoss? Die Sammlung, die Sie gerade gesehen haben, hing einst dort, direkt über diesen Sälen. Heute leben beide Seite an Seite. Die Seerosen im Licht, die Sammlung darunter.
+
+Das Licht, in dem Sie sitzen, ist also eine Art Heimkehr. Es fällt durch die Decke herein. Und diese Säle verlaufen von Osten nach Westen, mit dem Lauf der Sonne. [pause] Je nach Himmel draußen kann das Wasser ganz anders aussehen als vor einer Stunde.
+
+[reverent] Nehmen Sie sich ein paar Minuten. Hier gibt es nichts mehr zu finden. [pause] Nur noch mehr zu sehen.
+
+Wenn Sie so weit sind, folgen Sie den Schildern zum Ausgang. Der letzte Halt wartet gleich draußen, im Tuileriengarten.

@@ -1,0 +1,30 @@
+@id: 015 · DE · Level −2 · first hall
+@section: Collectors
+@room: Level −2 · first hall of the collection
+@type: ANCHOR
+@title: Paul Guillaume, der Kunsthändler
+@where: Im Untergeschoss, in der ersten Halle der Sammlung Walter-Guillaume, zwischen den großen Gemälden, mit denen die Sammlung beginnt. Jeder Platz, an dem Sie stehen können, ist gut.
+@what: An introduction to Paul Guillaume, 1891–1934, the Paris dealer whose collection, completed by his widow Domenica, fills the lower level.
+@listen: How a young man with African sculptures in a garage window became the dealer of the Paris avant-garde, and the museum he dreamed of.
+@brief: Introducing a remarkable young man to a friend at the start of his collection; warm and brisk through the rise, quiet at his early death, open at the end.
+@pace: medium
+@energy: 2→4→2→3
+@sources: G3 track 13 fixes + Confirmed OK (garage, African sculptures c.1910, Apollinaire; gallery Feb 1914 rue de Miromesnil; 1891–1934, died at 42; "the first French museum of modern art"): https://www.musee-orangerie.fr/en/article/history-jean-walter-paul-guillaume-collection (OFF) ; FACTS_A Modigliani (met through Max Jacob 1914, rented him a Montmartre studio): https://www.musee-orangerie.fr/en/whats-on/exhibitions/novo-pilota-amedeo-modigliani-and-his-dealer-paul-guillaume (OFF) ; FACTS_C Derain (met through Max Jacob on Apollinaire's advice): https://www.musee-orangerie.fr/es/obras/portrait-de-paul-guillaume-196161 (OFF) ; FACTS_B (first Matisse–Picasso exhibition 1918; helped build the Barnes collection): https://www.musee-orangerie.fr/en/artist/pablo-picasso , https://www.musee-orangerie.fr/en/artworks/les-trois-soeurs-196463 (OFF) ; FACTS_A Van Dongen (publisher of Les Arts à Paris): https://www.musee-orangerie.fr/en/artworks/portrait-de-paul-guillaume-196112 (OFF) ; FACTS_A collection-level + G5 (hang opens with the modern "primitives" after Apollinaire's vision; African and Oceanian sculpture on deposit from the Quai Branly): https://www.musee-orangerie.fr/en/collection/new-presentation-collection (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 015 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Paul Guillaume fing nicht in einer Galerie an. Um 1910 arbeitete er als junger Mann in einer Autowerkstatt in Paris. Ins Schaufenster stellte er ein paar afrikanische Skulpturen. [pause] Und eines Tages blieb ein Dichter stehen.
+
+Der Dichter war Guillaume Apollinaire. Er bemerkte die Skulpturen. Dann bemerkte er den jungen Mann, der sie ausgewählt hatte. Mit Apollinaire als Türöffner ging es schnell. Im Februar 1914 eröffnete Guillaume seine eigene Galerie, in der Rue de Miromesnil. Er war zweiundzwanzig.
+
+Was folgte, liest sich wie das Who’s who der modernen Kunst. Über den Dichter Max Jacob lernte er Modigliani kennen und mietete ihm ein Atelier am Montmartre. Wieder über Max Jacob, auf Apollinaires Rat, lernte er Derain kennen. In seiner Galerie zeigte er die erste Ausstellung, die Matisse und Picasso einander gegenüberstellte. Er gab seine eigene Zeitschrift heraus, Les Arts à Paris. Und er half dem amerikanischen Sammler Albert Barnes, dessen berühmte Sammlung aufzubauen. Sie ist heute in Philadelphia.
+
+[pause] Er hatte auch einen größeren Plan. Er träumte davon, das erste französische Museum für moderne Kunst zu gründen.
+
+[quietly] Dazu kam es nie. Paul Guillaume starb 1934, mit nur zweiundvierzig.
+
+Schauen Sie sich also in dieser Halle um, mit ihm im Kopf. Die Sammlung beginnt mit großen Bildern derer, die das Museum die modernen Primitiven nennt. Darunter Picasso, Rousseau, Derain, Modigliani und Matisse. Das ist bewusst so gehängt, nach Apollinaires Blick auf seine eigene Zeit. Achten Sie auch auf afrikanische und ozeanische Skulpturen aus Guillaumes eigener Sammlung, Leihgaben des Musée du quai Branly. [pause] Die Objekte aus dem Schaufenster der Werkstatt haben ihn gewissermaßen eingeholt.
+
+Die meisten Säle hier unten sind einem einzigen Künstler gewidmet. Jede Station dieses Rundgangs steht für sich. Besuchen Sie sie also in der Reihenfolge, die das Gedränge erlaubt.
+
+[warmly] Und das Museum, von dem er träumte? Es existiert, in gewisser Weise. Nur nicht ganz so, wie er es plante. [pause] Dieser Teil der Geschichte gehört seiner Witwe. Bleiben Sie in dieser Halle, und hören Sie ihre Geschichte gleich hier.

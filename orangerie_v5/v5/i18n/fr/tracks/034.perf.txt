@@ -1,0 +1,28 @@
+@id: 034 · FR · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — Petits mondes : pêcheurs et fabrique de chaises
+@where: Parmi les tableaux d'Henri Rousseau au niveau inférieur, trouvez les pêcheurs avec un aéroplane dans le ciel et une cheminée d'usine derrière, et la fabrique de chaises, que la collection possède en deux versions, dont une petite.
+@what: Henri Rousseau, Les Pêcheurs à la ligne (The Anglers), 1908–09, oil on canvas · La Fabrique de chaises à Alfortville (The Chair Factory at Alfortville), 1897, oil on canvas · La Fabrique de chaises (The Chair Factory), a small version from around 1897, oil on canvas, 38 × 46 cm.
+@listen: An aeroplane over a quiet afternoon's fishing, and a factory that was painted precisely because nobody else would have.
+@brief: Light and companionable, enjoying the modern surprises in quiet suburban scenes; a playful spot-the-difference at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_B Les Pêcheurs à la ligne: https://www.musee-orangerie.fr/en/artworks/les-pecheurs-la-ligne-196430 (OFF: 1908–1909; ordinary people at leisure; aeroplane overhead and factory chimney add a modern touch) ; FACTS_B La Fabrique de chaises à Alfortville: https://www.musee-orangerie.fr/en/artworks/la-fabrique-de-chaises-alfortville-196425 (OFF: 1897; chosen "because it was so unusual"; building oversized against landscape and figures) ; FACTS_B La Fabrique de chaises: https://www.musee-orangerie.fr/en/artworks/la-fabrique-de-chaises-196424 (OFF: c.1897, 38×46; in the small version landscape and especially sky more prominent) ; display of both versions unconfirmed: FACTS_B "Display in 2026"
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 034 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Il y a un aéroplane dans cette scène de pêche. Rousseau a peint Les Pêcheurs à la ligne en 1908 ou 1909, à l'aube même de l'aviation. Et le voilà, qui passe au-dessus de quelques personnes venues pêcher.
+
+Rousseau aimait peindre les gens ordinaires pendant leurs loisirs. Pas des héros, pas des saints. Juste des gens qui ont du temps libre. Mais il ne les laisse pas vivre dans une carte postale hors du temps. Derrière eux s'élève une cheminée d'usine. Au-dessus vole cette machine. [pause] Deux petits signes du vingtième siècle, glissés dans une scène qui pourrait sinon appartenir à presque n'importe quelle décennie.
+
+[curious] Il y a aussi l'usine qu'il a choisi de peindre pour elle-même. La Fabrique de chaises à Alfortville, de 1897. L'explication du musée est merveilleusement simple : il l'a choisie parce qu'elle était si inhabituelle. [pause] Qui d'autre choisirait une fabrique de chaises comme sujet ?
+
+Regardez la taille du bâtiment. Il est démesuré par rapport au paysage autour. Et surtout par rapport aux personnages. [pause] Ils ont l'air de visiteurs dans un monde construit pour l'usine.
+
+[amused] Et voici le bonus : la collection possède cette usine deux fois. Il existe aussi une petite version, de trente-huit sur quarante-six centimètres seulement, peinte vers la même époque. Si les deux sont accrochées, jouez au jeu des différences. Dans la petite, le paysage prend plus de place, et surtout le ciel. C'est le même bâtiment, à peu près de la même année. Mais dans l'une, l'usine est la vedette. Dans l'autre, elle partage la scène avec le ciel.
+
+C'est une idée discrète, et moderne. Les abords ordinaires de la ville, avec leurs cheminées et leurs ateliers, méritent un tableau.
+
+Pour finir avec Rousseau, cherchez des promeneurs dans un parc, et une falaise. Écoutez leur piste là-bas.

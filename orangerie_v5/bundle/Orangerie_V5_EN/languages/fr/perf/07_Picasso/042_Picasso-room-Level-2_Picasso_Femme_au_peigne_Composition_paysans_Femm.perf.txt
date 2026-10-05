@@ -1,0 +1,28 @@
+@id: 042 · FR · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Femme au peigne, Composition : paysans, Femme au chapeau blanc
+@where: Parmi les œuvres de Picasso, au niveau inférieur. Cherchez une grande gouache d'un nu debout peignant de longs cheveux noirs, une gouache d'un père, la main sur l'épaule de sa fille, sous une guirlande de fleurs, et une femme assise au chapeau blanc. Les œuvres sur papier font l'objet d'une rotation et peuvent être au repos.
+@what: Pablo Picasso, Femme au peigne (Woman with a Comb), 1906, gouache on paper · Composition : paysans (Composition: Peasants), 1906, gouache on paper, 70 × 50 cm · Femme au chapeau blanc (Woman in a White Hat), 1921, oil on canvas, 118 × 91 cm.
+@listen: A Picasso bought straight from the painter, a tender study for a picture now in Philadelphia, and a quiet woman who may be his first wife.
+@brief: Sharing three quieter pictures with a friend, each with its own small secret; warm, observant, unhurried.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_B Picasso — Femme au peigne: https://www.musee-orangerie.fr/en/artworks/femme-au-peigne-196491 (OFF: 1906, large gouache; bought from Picasso 1929; Domenica kept it, unlike the many other Picassos she sold after her husband's death; standing nude combing long black hair, unbalanced body, foreshortening, disproportionate head, stylised face, triangles heralding Cubism; other 1906 versions incl. Baltimore bronze show her crouching) ; FACTS_B Composition : paysans: https://www.musee-orangerie.fr/en/artworks/composition-paysans-196492 (OFF: 1906, gouache, 70×50; father's protective, tender gesture; garland; Gósol earth tones; white faces with blue shadows recall the Blue Period; study for Paysans, Barnes Foundation) ; FACTS_B Femme au chapeau blanc: https://www.musee-orangerie.fr/en/artworks/femme-au-chapeau-blanc-196495 (OFF: 1921, 118×91; seated, leaning on chair back, hand on knee, lost in thought; muted blue, red, white, "a large pastel with muted colours"; face "could be" Olga's — museum hedge kept)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cette œuvre est venue à Paul Guillaume directement de Picasso, en 1929. Et Domenica l'a gardée.
+
+C'est une grande feuille à la gouache, de 1906. Une femme nue, debout, peigne ses longs cheveux noirs. Regardez comme elle est instable. Le corps penche, déséquilibré, et la tête est trop grande pour lui. Les traits du visage commencent tout juste à se styliser. [pause] Et cherchez les triangles qui figurent sa poitrine et son bas-ventre. Ces petites formes plates sont un premier murmure du cubisme.
+
+[curious] Et voici le plus surprenant. La même année, Picasso a fait d'autres versions de cette femme, dont un bronze aujourd'hui à Baltimore. Là, elle est accroupie. Ici, elle est debout. [pause] Cette feuille est donc l'exception.
+
+Cherchez maintenant une deuxième gouache de la même année. Un père pose la main sur l'épaule de sa fille, un geste protecteur et tendre. Au-dessus d'eux, une guirlande de fleurs, vite esquissée. La couleur terreuse de son pantalon vient de Gósol, le village des Pyrénées où Picasso séjournait. Pourtant, les visages blancs aux ombres bleues rappellent sa période bleue. C'est une étude pour un tableau bien plus grand, Les Paysans, aujourd'hui à la Fondation Barnes, à Philadelphie.
+
+[quietly] Puis faites un saut de quinze ans. Une femme au chapeau blanc est assise, appuyée au dossier de sa chaise. Une main posée sur le genou, elle est perdue dans ses pensées. Le bleu, le rouge et le blanc sont adoucis de gris et de brun. Toute la toile ressemble à un grand pastel aux couleurs sourdes. Son visage pourrait être celui d'Olga, la première femme de Picasso. [pause] « Pourrait », dit le musée, et il a raison d'être prudent.
+
+Son calme lourd et monumental annonce déjà les géants de ces mêmes années.
+
+Trouvez l'immense baigneuse assise, un nu bâti comme une statue. Écoutez son histoire là-bas.

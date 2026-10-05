@@ -1,0 +1,30 @@
+@id: 045 · DE · Modigliani works · Level −2
+@section: Modigliani
+@room: Modigliani works · Level −2
+@type: W
+@title: Modigliani — Le Jeune Apprenti (Der junge Lehrling)
+@where: Unter Modiglianis Porträts im Untergeschoss. Suchen Sie eine hohe Leinwand mit einem sitzenden jungen Mann in Grau und Braun, den Kopf auf eine Hand gestützt, mit weißem Kragen und leuchtend blauen Augen.
+@what: Amedeo Modigliani, Le Jeune Apprenti (The Young Apprentice), 1917–1919 (museum page; also given as 1918–19), oil on canvas, 100 × 65 cm, RF 1963-71.
+@listen: A nameless young man from the south, painted near the end of Modigliani's short life, and the two blue notes that hold the whole picture.
+@brief: Speaking gently to a friend at the end of a long section; tender with the sitter, plain and unsentimental about the deaths, a quiet lift toward Soutine.
+@pace: medium-slow
+@energy: 2→3→1→2
+@sources: FACTS_A Modigliani — Le Jeune Apprenti: https://www.musee-orangerie.fr/en/artworks/le-jeune-apprenti-196299 (OFF: 1917–1919, 100×65, RF 1963-71; seated, pensive, head on hand; chair and table merge with the body; greys and browns, white collar, intense blue eyes; smooth face vs coarse hands; curved contours, flattened forms, Gauguin's influence) ; G4 23.3/23.10 (OFF via the same page: 1918–19; painted in the Midi on a trip paid for by Zborowski; Cézanne pose; series of young farmers, apprentices and workers) ; FACTS_A Modigliani and Guillaume: https://www.musee-orangerie.fr/en/whats-on/exhibitions/novo-pilota-amedeo-modigliani-and-his-dealer-paul-guillaume (OFF: met 1914 via Max Jacob; Guillaume rented him a studio in Montmartre; four portraits of his patron 1915–16) ; G4 confirmed OK (born Livorno 1884, died 24 Jan 1920 of tubercular meningitis aged 35; Jeanne Hébuterne died two days later aged 21, carrying their second child) ; G4 23.7 (eight months pregnant, SEC2) ; G4 23.2 (Père-Lachaise, reunited in one grave 1930, SEC2) ; FACTS_C Soutine (OFF: Zborowski was Soutine's first dealer)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 045 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Die meisten Gesichter dieser Sammlung haben Namen. Kunsthändler, Ehefrauen, Nichten, die eigenen Kinder des Malers. Dieser junge Mann hat keinen. Er ist einfach der Lehrling. [pause] Und Modigliani widmet ihm so viel Sorgfalt wie je einem Auftraggeber.
+
+Modigliani war aus Livorno in Italien nach Paris gekommen. Seinem Kunsthändler sind Sie schon begegnet, dem eleganten jungen Mann von Novo Pilota. Paul Guillaume stand noch am Anfang, als sie sich kennenlernten. Modigliani malte ihn mehr als einmal.
+
+[curious] Dieses Bild entstand später, und viel weiter im Süden. Gegen Ende seines Lebens reiste Modigliani in den Midi. Die Reise bezahlte der Kunsthändler Léopold Zborowski. Dort malte er junge Bauern, Lehrlinge und Arbeiter. Einfache Menschen, mit großem Ernst porträtiert.
+
+Sehen Sie, wie dieser hier sitzt. Den Kopf auf eine Hand gestützt, in Gedanken versunken. Das Museum führt diese Pose auf Cézanne zurück. Stuhl und Tisch scheinen mit seinem Körper zu verschmelzen. Die geschwungenen Umrisse und flachen Formen zeigen, was Modigliani von Gauguin gelernt hatte.
+
+Nun die Farbe. Fast alles ist grau und braun, bis auf zwei Dinge. Das erste ist das Weiß seines Hemdkragens. [pause] Und dann die Augen, ein intensives, überraschendes Blau. Schauen Sie nun hinunter auf seine Hände. Das Gesicht ist schmal und glatt, doch die Hände sind grob. [pause] Das Gesicht eines Jungen, und die Hände eines Arbeiters.
+
+[quietly] Modigliani blieb nicht mehr viel Zeit. Er starb im Januar 1920 an tuberkulöser Meningitis, mit fünfunddreißig. Zwei Tage später starb auch seine Gefährtin, Jeanne Hébuterne. Sie war einundzwanzig und im achten Monat schwanger mit ihrem zweiten Kind. Zehn Jahre später legten ihre Familien sie gemeinsam in ein Grab, auf dem Friedhof Père-Lachaise.
+
+[long pause] Von alldem wusste der Lehrling nichts. Er sitzt einfach da, denkt nach und blickt Sie mit diesen blauen Augen an.
+
+Zborowski war auch Soutines erster Kunsthändler. Suchen Sie Soutines kleinen Konditor in Weiß. Dort beginnt das nächste Kapitel.

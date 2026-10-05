@@ -1,0 +1,26 @@
+@id: 030 · DE · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Badende und Tische
+@where: Im Saal mit Cézannes Gemälden: der lange, schmale Fries mit Boot und Badenden, die winzige Picknickszene mit Kirchturm, und zwei Stillleben. Eines mit einer strohumflochtenen Vase und einer Zuckerdose, eines mit Obst, Serviette und Milchkanne. Jedes kann bis Anfang 2027 verliehen sein.
+@what: Paul Cézanne, La Barque et les baigneurs (The Boat and the Bathers), around 1890, oil on canvas, 30 × 125 cm · Le Déjeuner sur l'herbe (Luncheon on the Grass), 1876–77, oil on canvas, 21 × 27 cm · Vase paillé, sucrier et pommes (Straw-covered Vase, Sugar Bowl and Apples), 1890–94, 36 × 46 cm · Fruits, serviette et boîte à lait (Fruit, Napkin and Milk Can), around 1880, 60 × 73 cm.
+@listen: A frieze cut into three and put back together, a picnic that may be a private joke, and two tables seen from impossible angles.
+@brief: An affectionate storyteller with a good puzzle to share; brisk through the frieze's adventures, amused at the picnic, then slow and close at the tables.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_A La Barque et les baigneurs: https://www.musee-orangerie.fr/en/artworks/la-barque-et-les-baigneurs-196030 (OFF: c.1890, 30×125; decoration for Victor Chocquet's Paris apartment, over a door, pendant La Vasque au paon; unfinished at Chocquet's death 1891 per Georges Rivière; cut into three; Domenica gave two pieces; central part bought 1973; reassembled) ; FACTS_A Le Déjeuner sur l'herbe: https://www.musee-orangerie.fr/en/artworks/le-dejeuner-sur-lherbe-196018 (OFF: 1876–77, 21×27; picnic, bell tower, standing woman extended by spire; Poussin Bacchanals copied at the Louvre; title uncertain, possible nod to Manet) ; FACTS_A Vase paillé: https://www.musee-orangerie.fr/en/artworks/vase-paille-sucrier-et-pommes-196027 (OFF: improbable viewpoints, "a knife handle?", Paul Guillaume 1927) ; FACTS_A Fruits, serviette et boîte à lait: https://www.musee-orangerie.fr/en/artworks/fruits-serviette-et-boite-lait-196020 (OFF: c.1880, 60×73; chest, apples, knife, wallpaper; viewing angle "a true innovation and even shocking"; austere) ; G3 15.3 (title "milk can", OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 030 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Eines der Bilder in diesem Saal war schon einmal in drei Teilen. Es ist das lange, schmale: La Barque et les baigneurs, Das Boot und die Badenden. Etwa dreißig Zentimeter hoch und weit über einen Meter breit.
+
+Cézanne malte es um 1890 als Dekoration für die Pariser Wohnung des Sammlers Victor Chocquet. Es sollte über einer Tür hängen, als Gegenstück zu einer zweiten Tafel. Laut dem Schriftsteller Georges Rivière waren beide noch unvollendet, als Chocquet 1891 starb. Irgendwann danach wurde der Fries in drei Teile geschnitten. Domenica schenkte zwei davon dem Staat. [pause] Das Mittelstück fehlte noch. 1973 kauften es schließlich die staatlichen Museen. [pause] Boot und Badende waren wieder vereint.
+
+Jetzt das kleinste Bild hier, Frühstück im Grünen, kaum größer als ein Buch. Junge Leute picknicken nahe einem Dorf, ein Kirchturm ist zu sehen. In der Mitte steht eine Frau. Die Kirchturmspitze scheint ihre Silhouette in den Himmel zu verlängern. Vielleicht dachte Cézanne an Poussins Bacchanalien, die er im Louvre kopierte. Oder an glückliche Kindheitserinnerungen rund um Aix. [wry] Und der Titel? Er wurde vielleicht erst später hinzugefügt. Falls er von ihm stammt, ist er womöglich ein verschmitzter Gruß an Manets berühmtes Picknick.
+
+[quietly] Dann die Tische. Im Stillleben mit der strohumflochtenen Vase schauen Sie genau auf die Zuckerdose und die Äpfel. Sie sehen sie aus Winkeln, die nicht alle zugleich stimmen können. Cézanne zieht ein stimmiges Bild einem realistischen vor. [pause] Es gibt sogar eine schräge Linie, die niemand recht benennen kann. Vielleicht ein Messergriff.
+
+Im Stillleben mit Obst, Serviette und Milchkanne kehren seine üblichen Requisiten zurück: die Kommode, die Äpfel, das Messer, die Tapete. Die Grüntöne sind blasser, die Linien geometrischer, und das Muster an der Wand greift sie auf. Dieser ungewöhnliche Blickwinkel, sagt das Museum, war eine echte Neuerung, zu seiner Zeit sogar schockierend.
+
+Hier verabschieden wir uns von Cézanne. Suchen Sie jetzt die Bilder von Henri Rousseau. Beginnen Sie mit seiner Hochzeitsgesellschaft. Sie hängt möglicherweise zurück in der großen ersten Halle der Sammlung.

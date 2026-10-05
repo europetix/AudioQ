@@ -1,0 +1,24 @@
+@id: 003 · FR · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: R
+@title: Au cœur de l'infini
+@where: Dans la première salle ovale des Nymphéas, vers le centre, d'où vous pouvez vous tourner vers les quatre compositions.
+@what: Claude Monet, Les Nymphéas (The Water Lilies), painted between 1914 and 1926: eight compositions on twenty-two panels, all two metres high and about ninety-one metres long in total, in two oval rooms. Four of them hang here.
+@listen: How the light and the shape of the rooms were part of Monet's plan, and how to start looking.
+@brief: Standing beside a friend in the middle of the room, helping them get their bearings; quiet and unhurried at first, opening up with curiosity.
+@pace: slow
+@energy: 2→3
+@sources: FACTS_C §1.1 eight compositions / 22 panels / 2 m / 91 m, two oval rooms that "form the infinity symbol": https://www.musee-orangerie.fr/en/node/198900 (OFF) ; same height, different widths to fit the curved walls; light through the ceiling; Room 1 = reflections of sky and vegetation from morning to evening; "endless whole" (Roger Marx 1909): https://www.musee-orangerie.fr/en/node/33 (OFF) ; G1 track 27-2 velum under a glass roof (SEC2), G2 04-7 some artificial light above the velum (SEC2: parisupdate, Studio International) ; G1 track 03-2 ovals joined by a passage, not a point (OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] La lumière de cette salle vient du ciel. Elle traverse un toit de verre et un pâle plafond de toile tendue. Il y a aussi un peu de lumière artificielle là-haut. Mais c'est surtout la lumière du jour, comme Monet le voulait. [pause] Ce que vous voyez dépend donc un peu du temps qu'il fait. Un nuage passe sur Paris, et le bassin devant vous change.
+
+Autour de vous, quatre des huit compositions. Mises bout à bout, les huit s'étendraient sur environ quatre-vingt-onze mètres de peinture. Elles comptent vingt-deux panneaux, tous hauts de deux mètres. La hauteur ne change jamais. Seule la largeur varie, selon chaque portion de mur courbe.
+
+[curious] La forme des salles mérite qu'on s'y arrête. Deux ovales, reliés par un court passage. Vu d'en haut, le musée les compare au signe de l'infini. [pause] Une boucle sans fin, pour un peintre qui rêvait d'un tout sans fin.
+
+Cette première salle parle du ciel et des plantes, reflétés dans l'eau, du matin au soir. Vous ne regardez donc pas un bassin de loin. Vous plongez dans sa surface. Souvenez-vous du rêve de Monet : une onde sans horizon et sans rivage. Ici, elle vous entoure.
+
+[pause] Faites lentement un tour sur vous-même avant de vous approcher d'un tableau. Laissez vos yeux s'habituer à la lumière. Puis commencez par la plus petite composition de la salle, un seul panneau de six mètres de large. C'est Le Soleil couchant, et son histoire se poursuit devant lui.

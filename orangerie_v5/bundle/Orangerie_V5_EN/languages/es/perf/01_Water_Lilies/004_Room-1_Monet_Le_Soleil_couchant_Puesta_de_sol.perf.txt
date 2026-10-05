@@ -1,0 +1,28 @@
+@id: 004 · ES · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: W
+@title: Monet — Le Soleil couchant (Puesta de sol)
+@where: En la primera sala ovalada, delante de la más corta de sus cuatro composiciones, un solo panel de seis metros de ancho.
+@what: Claude Monet, Le Soleil couchant (Setting Sun), from Les Nymphéas, 1914–1926, oil on one canvas panel, 200 × 600 cm.
+@listen: Why the smallest of the eight compositions is the only one on a single panel, how the whole cycle follows the sun, and how paint turns into water.
+@brief: Pointing out a clever detail of the plan to a friend; lightly amused at "the small one", curious about the sun, quiet and absorbed as you step close and back.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: FACTS_C §1.2 Le Soleil couchant, 200 × 600, one oil panel, smallest composition, 1914–1926: https://artsandculture.google.com/asset/qAG-qyFHUPm1kg (OFF, museum partner page) + https://www.musee-orangerie.fr/en/artworks/soleil-couchant-196305 (OFF via G2) ; same height, different widths; Monet set positioning, rhythm and spaces between panels; east–west orientation in the course of the sun: https://www.musee-orangerie.fr/en/node/33 (OFF) ; sunrise east / twilight west: https://www.musee-orangerie.fr/sites/default/files/2023-03/dossier_pedagogique_nympheas_0.pdf (OFF, snippet) ; "quick and dynamic brushstrokes" in Room 1: same dossier (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 004 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Para la escala de esta sala, esta es la pequeña. Con seis metros de ancho, Le Soleil couchant, Puesta de sol, es la más corta de las ocho composiciones. Y es la única pintada en un solo panel. Todas las demás están hechas de varios lienzos, unidos borde con borde.
+
+¿Por qué tan corta? Por el tramo de pared donde debía ir. Monet no dejó eso en manos de los constructores. Decidió dónde colgaría cada cuadro, el ritmo de uno a otro, incluso los espacios entre ellos. [pause] Nada en estas salas está donde está por casualidad.
+
+[curious] Y luego está el propio sol. Estas salas van de este a oeste, siguiendo el recorrido del sol. Las escenas del amanecer quedan hacia el este, y el crepúsculo hacia el oeste. [pause] Así, un día pintado sigue al día real a lo largo del edificio. Y aquí, en el marco más pequeño de todos, el día termina.
+
+Ahora, a mirar. Empiece unos pasos atrás, y deje que el panel entero se instale ante sus ojos. El título le dice la hora. Lo demás depende de sus ojos. ¿Dónde se posa la luz en el agua? ¿Qué color busca primero su mirada?
+
+[quietly] Luego acérquese. En esta sala la pincelada es rápida y llena de energía. De cerca, el cielo reflejado vuelve a ser pinceladas. Retroceda otra vez, despacio, y fíjese en el momento en que se convierte en agua.
+
+Ese es todo el truco de magia de estas salas. [pause] Y usted acaba de hacerlo.
+
+Ahora busque Las nubes. Es una de las dos composiciones largas de esta sala. La otra, del lado del Sena, es La mañana, y la dejaremos para el final. Escuche la pista de Las nubes delante de ella.

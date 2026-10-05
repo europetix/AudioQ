@@ -1,0 +1,28 @@
+@id: 051 · ES · Derain room · Level −2
+@section: Derain
+@room: Derain room · Level −2
+@type: W
+@title: Derain — La sobrina del pintor y un Arlequín solo
+@where: En la sala de los cuadros de André Derain. Busque el retrato de tamaño natural de una niña con vestido blanco, sobre marrones y amarillos, y el Arlequín alto, de tamaño natural, que toca la guitarra.
+@what: André Derain, La Nièce du peintre, The Painter's Niece, and La Nièce du peintre assise, The Painter's Niece, Seated, both oil on canvas; Arlequin à la guitare, Harlequin with a Guitar, 1924, oil on canvas, 190 × 97 cm.
+@listen: The baby who moved into Derain's house and sat for him more than a hundred times, and the hired model in Harlequin's costume.
+@brief: Telling a friend a tender family story in front of the pictures; warm and unhurried, lightly amused at the Harlequin, affectionate at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C Derain — La Nièce du peintre assise (1919 sister-in-law and baby Geneviève moved in for good; he adored her; began painting her at nine months; more than a hundred paintings; "one of his most exquisite portraits"; life-size, about 12, standing on her left leg with right knee on a chair; white dress and face light up a canvas built on browns and yellows — description belongs to one of the two niece pages): https://www.musee-orangerie.fr/en/artworks/la-niece-du-peintre-assise-196104 (OFF) ; FACTS_C Derain — La Nièce du peintre (title only): https://www.musee-orangerie.fr/es/obras/la-niece-du-peintre-196105 (OFF) ; FACTS_C Derain — Arlequin à la guitare (1924, 190×97, life-size Harlequin, model the Spanish painter Salvado who worked for Derain and Picasso): https://www.musee-orangerie.fr/en/artworks/arlequin-la-guitare-196176 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 051 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1919, una niña de pocos meses llegó a vivir a la casa de André Derain. Y nunca se fue.
+
+Se llamaba Geneviève. Su madre era la cuñada de Derain, y ese año las dos se instalaron con él para siempre. Derain adoraba a la niña. Empezó a pintarla cuando tenía nueve meses. Y no paró. [pause] Con los años, Geneviève posó para más de cien de sus cuadros.
+
+Piénselo. Casi todos los niños crecen con unas pocas fotografías. Esta niña creció frente a un caballete, y su tío la pintó una y otra vez.
+
+En esta colección hay dos retratos suyos, La Nièce du peintre y La Nièce du peintre assise, La sobrina del pintor y La sobrina del pintor sentada. En uno, que el museo considera uno de sus retratos más exquisitos, aparece a tamaño natural, con unos doce años. Se apoya en la pierna izquierda, con la rodilla derecha doblada sobre una silla. El lienzo está construido con marrones y amarillos. [pause] Sobre ellos, su vestido blanco y su rostro iluminan todo el cuadro.
+
+[amused] Ahora vuélvase hacia Arlequin à la guitare, Arlequín con guitarra, pintado en 1924. También es de tamaño natural, en un lienzo de casi dos metros de alto. Pero este modelo era un profesional, Salvado, el pintor español que quizá conoció en Arlequín y Pierrot. Esta vez interpreta un solo papel, no dos.
+
+[quietly] Así que hay dos formas de tamaño natural. Un hombre contratado, con un traje prestado, interpretando un papel. [pause] Y una niña que simplemente creció en los cuadros de su tío, sesión a sesión.
+
+Cuando lo desee, busque el gran bodegón oscuro de Derain, una mesa de cocina, y escuche su pista allí.

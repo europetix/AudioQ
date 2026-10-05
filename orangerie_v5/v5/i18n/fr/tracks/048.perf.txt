@@ -1,0 +1,28 @@
+@id: 048 · FR · Soutine room · Level −2
+@section: Soutine
+@room: Soutine room · Level −2
+@type: W
+@title: Soutine — Bœuf et tête de veau et Le Lapin
+@where: Dans la salle des tableaux de Soutine, devant les natures mortes de viande : un quartier de bœuf à côté d'une tête de veau, sur un fond sombre, et un tableau haut et étroit d'un lapin pendu par une patte, à côté d'une cruche rouge.
+@what: Chaïm Soutine, Bœuf et tête de veau, Side of Beef and Calf's Head, oil on canvas; Le Lapin, The Rabbit, 1923–24, oil on canvas, 73 × 36 cm; and Dindon et tomates, Turkey and Tomatoes, oil on canvas.
+@listen: Why the most violent painter in the building had such old-fashioned heroes, Rembrandt and Chardin.
+@brief: Standing with a friend in front of difficult pictures; steady and plain-spoken, admiring at the colour, quiet at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: G4 24.2–24.3 (Bœuf et tête de veau: carcass beside a calf's head on a butcher's hook, dark ground, painted in his rue du Saint-Gothard studio; answers Rembrandt's 1655 Louvre picture; carcass/police story is legend, hedge or drop): https://www.musee-orangerie.fr/en/artworks/boeuf-et-tete-de-veau-196314 (OFF) ; FACTS_C Soutine — Bœuf et tête de veau (reds and yellows, bloody flesh, plain dark background; Rembrandt's Slaughtered Ox, 1655, Louvre; date contested so not voiced) same URL ; FACTS_C Soutine — Le Lapin (1923–24, 73×36; hangs by one leg top to bottom; fur brown to gold unlike his plucked chickens; irregular red pitcher hanging by its handle; series of hares and rabbits; admired Chardin, copied La Raie): https://www.musee-orangerie.fr/en/artworks/le-lapin-196567 (OFF) ; FACTS_C Soutine — Dindon et tomates (title only; "Le Dindon" among his still lifes of killed animals): https://www.musee-orangerie.fr/en/artworks/dindon-et-tomates-196566 , https://www.musee-orangerie.fr/en/articles/chaim-soutine-105466 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 048 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Pour un peintre aux tableaux parfois si violents, Soutine avait des héros étonnamment classiques. Pas les rebelles de son temps. Rembrandt. Chardin. Deux maîtres anciens qui n'avaient pas peur de peindre un animal mort.
+
+Commencez par Bœuf et tête de veau. Un quartier de bœuf pend à côté d'une tête de veau, sur un fond sombre uni. Soutine l'a peint dans son atelier de la rue du Saint-Gothard, à Paris. Derrière lui, il y a surtout un tableau. Le Bœuf écorché de Rembrandt, peint en 1655. [pause] Il est au Louvre, à une courte promenade d'ici, le long de la Seine.
+
+[pause] Ici, l'essentiel, c'est la couleur. De larges touches de rouge et de jaune. La chair sanglante semble presque briller sur le fond sombre. C'est brutal, oui. [quietly] Mais regardez-le comme Soutine regardait son Rembrandt. [pause] C'est aussi étrangement beau.
+
+Maintenant, Le Lapin, de 1923 ou 1924. Il pend par une patte, sur toute la hauteur d'une toile haute et étroite. Contrairement aux poulets plumés qu'il a aussi peints, celui-ci a encore sa fourrure, dans toutes les nuances du brun à l'or. À côté, une cruche rouge pend par son anse, un peu de travers.
+
+C'est là qu'intervient Chardin. Soutine l'admirait tant qu'il a copié sa nature morte La Raie. Et ce lapin appartient à toute une série de lièvres et de lapins, chacun pendu par la patte.
+
+Tout près, vous trouverez peut-être aussi Dindon et tomates, une autre de ses natures mortes.
+
+Cherchez ensuite ses paysages, où des villages entiers semblent pencher et vaciller. Écoutez leur piste là-bas.

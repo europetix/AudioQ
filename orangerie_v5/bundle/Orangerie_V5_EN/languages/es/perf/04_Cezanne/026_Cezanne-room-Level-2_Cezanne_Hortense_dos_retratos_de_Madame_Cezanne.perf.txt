@@ -1,0 +1,28 @@
+@id: 026 · ES · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Hortense: dos retratos de Madame Cézanne
+@where: En la sala de los cuadros de Cézanne, busque a la mujer de cuerpo entero en un jardín, y luego a la mujer sentada con vestido negro sobre un fondo verde azulado. Cualquiera de los dos puede estar prestado hasta principios de 2027.
+@what: Paul Cézanne, Madame Cézanne au jardin (Madame Cézanne in the Garden), around 1880, oil on canvas, 80 × 63 cm, and Portrait de Madame Cézanne (Portrait of Madame Cézanne), around 1885–1895, oil on canvas. Both bought by Paul Guillaume in the 1920s.
+@listen: Who Hortense Fiquet was, why her face gives nothing away, and what Cézanne was really after when he painted her.
+@brief: Quiet and fair-minded, defending a sitter people often misread; a wry beat at the "cold marriage" idea, warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_A Madame Cézanne au jardin: https://www.musee-orangerie.fr/en/artworks/madame-cezanne-au-jardin-196019 (OFF: c.1880, 80×63, full-length outdoors unusual, expressionless face, lower part barely painted with white priming; Hortense model, son 1872, married 1886; 25 portraits per Orangerie; monumentality and permanence) ; FACTS_A Portrait de Madame Cézanne: https://www.musee-orangerie.fr/en/artworks/portrait-de-madame-cezanne-196025 (OFF: c.1885–1895, armchair, hands in lap, hieratic, "completely expressionless and rather unflattering", black dress, blue-green scumbled ground, unfinished) ; provenance https://www.musee-orangerie.fr/en/articles/paul-cezanne-105454 (OFF) ; G3 15.4 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 026 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Cézanne pintó a Hortense Fiquet unas veinticinco veces. Son muchas horas sentada, quieta, mientras alguien la observa. Y sin embargo, ante ella, quizá le cueste decir cómo era.
+
+Era una joven modelo cuando se conocieron. Vivió con Cézanne, y en 1872 dio a luz a su hijo, Paul. Solo se casaron en 1886, catorce años después. Paul Guillaume compró estos dos retratos de ella en los años veinte.
+
+Empiece por el jardín: Madame Cézanne au jardin, Madame Cézanne en el jardín, de hacia 1880. Una figura de cuerpo entero al aire libre es rara en él. Prefería encuadrar a la gente de cerca, en habitaciones desnudas. Y aquí su rostro no revela nada. [pause] Ahora mire la parte inferior del lienzo, apenas pintada. Se ve una amplia zona de imprimación blanca, como si se hubiera detenido a mitad de frase.
+
+El otro retrato es posterior. Está sentada en un sillón sencillo, con las manos en el regazo y un simple vestido negro. La pose es rígida y erguida, casi ceremonial, como si posara para una estatua de sí misma. Detrás, un fondo verde azulado, pintado con tanta soltura que no se sabe en qué habitación está. Su rostro es totalmente inexpresivo, y poco favorecedor. [pause] Este también está inacabado.
+
+[wry] Sería fácil ver en todo esto un matrimonio enfriado. Quizá lo fue. [pause] Pero el museo propone otra lectura. Con sus seres más cercanos, Cézanne anteponía su búsqueda. No perseguía un estado de ánimo ni un parecido halagador. Quería que su modelo tuviera monumentalidad y permanencia. Que se asentara en el lienzo tan firme como las manzanas sobre su mesa.
+
+[warmly] Así que dedíquele un minuto. Cuanto más la mira, menos parece aburrirse. Y más parece simplemente *estar ahí*, inamovible, como está ahí una colina.
+
+Su hijo también está cerca, en esta sala: la cabeza y los hombros de un niño, encuadrados muy de cerca sobre un fondo verde azulado.

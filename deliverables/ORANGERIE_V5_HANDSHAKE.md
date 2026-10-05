@@ -58,3 +58,14 @@ Restore: unzip the snapshot to /home/claude/orangerie (or symlink) → `bash bui
 - User report: a 233 MB English folder had 136 MP3s. The new zip had been unzipped over the old 79-track bundle, so the old scripts were voiced too. The zip itself is clean (61 scripts per language). Fix: start from a fresh unzip and an empty output folder, because existing MP3s are skipped and never replaced.
 - Not tested here: real edge-tts audio (no access from the cloud session). Mastering at 64 kbps was checked with a test tone (64,031 bps).
 - Orangerie has English only so far. ES/FR/DE, when translated, will use the same renderer and the same 64 kbps.
+
+## Update 5 Oct 2026: Spanish, French and German guides (55 tracks each)
+- 9 translators (3 languages × 3 blocks) from v5/i18n/review/BRIEF.md (listening-first, the style approved for Pitti; facts unchanged; formal address). Then one independent reviewer per language read every track against the English (REVIEW_BRIEF.md). Logs: v5/i18n/review/<lang>_REVIEW_LOG.md; coordinator decisions: translator_notes_<lang>.md.
+- Reviewer edits: ES 128 edits in 46 tracks, FR 120 in 48, DE 104 in 52. Main fixes: dropped or over-strong facts restored, wrong senses ("soigner", "his own wife"), navigation cues, invented quotations turned into reported speech, French titles checked against the museum's URL slugs, regnal numbers spelled out for the voices.
+- English fix found during translation: 047 "grooms and huntsmen" → "hotel pageboys and bellboys" (French "chasseurs" here means hotel bellboys).
+- Coordinator fix: 042 "lap" on a standing nude → FR "bas-ventre", ES "bajo vientre" (DE "Schoß" kept).
+- Assembled by v5/i18n/assemble.py: 165/165 pass (tags, pauses, paragraphs, ≤ English length, years, no ; or ().
+- Bundle: languages/<lang>/; generate_audio_ES_FR_DE.command (1 ES Dalia, 2 FR Vivienne, 3 DE Katja; full guide or samples 005 + 046) → ~/Desktop/Orangerie_V5_<ES|FR|DE>_<voice>/.
+- Tested with a stand-in TTS only: full ES run 55 files at 64 kbps plus the route map; FR/DE samples OK. Real voices not heard.
+- Launcher safeguard (both guides): v5_direction.check_tour() stops a run when scripts don't match plan.json or the output folder holds MP3s from another version.
+- To do: a native-speaker spot check per language (deliverables/Orangerie_V5_Scripts_<LANG>.md); the route map is English only.
