@@ -13,14 +13,14 @@ Bring the route PDF. For each line: tick it, or write what is really there.
 | ☐ | The clock window: where you arrive on level 5 | 024 | Fix the cue |
 | ☐ | Rooms for Bazille, Pissarro, Degas's L'Absinthe, Renoir's Bal, Sisley, Cézanne | 027, 028, 034–036, 039, 040 | Add room numbers to @where and cues |
 | ☐ | Van Gogh rooms 36–37: Bedroom and Dr Gachet rooms | 043, 046 | Fix the cues |
-| ☐ | Tokyo loans (from about late Oct 2026 to Mar 2027): Gleaners, Starry Night over the Rhône, Arearea gone? Femmes de Tahiti still there? Les Muses (Denis) still there? | 008, 044, 051, 057 | Check the fallbacks work |
-| ☐ | Signac's Femme à l'ombrelle in room 40; Pont-Aven and Gauguin rooms | 048–052 | Fix the cues |
-| ☐ | Sérusier's Talisman: which room on level 5 | 053 | Add the room |
-| ☐ | Café Campana and the way down to level 2 | 054 | Fix the cue |
-| ☐ | Toulouse-Lautrec: Jane Avril on level 2 room 68, or with Lautrec on level 5? Where are Cha-U-Kao and the Goulue panels? | 055, 056 | Move the tracks |
-| ☐ | Level 2 order: rooms 68 → 70 → 71 → 72 → 64 → 63/65 → 57 → 55 → terraces: walkable in that order? | 055–066 | Re-order the tracks |
-| ☐ | Claudel's L'Âge mûr in room 55 (which level?); terrace places of Pompon's bear, Balzac, Maillol, Bourdelle | 063–066 | Fix the cues |
-| ☐ | The way out from level 2 during the 2026–2028 works | 067 | Fix the cue |
+| ☐ | Tokyo loans (from about late Oct 2026 to Mar 2027): Gleaners, Starry Night over the Rhône, Arearea gone? Femmes de Tahiti still there? Les Muses (Denis) still there? | 008, 044, 051, 056 | Check the fallbacks work |
+| ☐ | Signac's Femme à l'ombrelle in room 40; Pont-Aven and Gauguin rooms | 048–051 | Fix the cues |
+| ☐ | Sérusier's Talisman: which room on level 5 | 052 | Add the room |
+| ☐ | Café Campana and the way down to level 2 | 053 | Fix the cue |
+| ☐ | Toulouse-Lautrec: Jane Avril on level 2 room 68, or with Lautrec on level 5? Where are Cha-U-Kao and the Goulue panels? | 054, 055 | Move the tracks |
+| ☐ | Level 2 order: rooms 68 → 70 → 71 → 72 → 64 → 63/65 → 57 → 55 → terraces: walkable in that order? | 054–065 | Re-order the tracks |
+| ☐ | Claudel's L'Âge mûr in room 55 (which level?); terrace places of Pompon's bear, Balzac, Maillol, Bourdelle | 062–065 | Fix the cues |
+| ☐ | The way out from level 2 during the 2026–2028 works | 066 | Fix the cue |
 
 ## Listening checks (with earphones)
 | ✓ | Check |

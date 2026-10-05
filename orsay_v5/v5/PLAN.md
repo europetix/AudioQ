@@ -1,4 +1,4 @@
-# Orsay V5: PLAN (final, 5 Oct 2026). 67 tracks, route level 0 → 5 → 2 → exit
+# Orsay V5: PLAN (final, 5 Oct 2026). 66 tracks after revision (052 Cheval blanc HELD; old 053–067 renumbered 052–066), route level 0 → 5 → 2 → exit
 Approved by the user 5 Oct 2026 (route, loans with fallback, optional Origine du monde). Changed from the draft by research: see PLAN_DRAFT.md 'Changes'.
 Facts: research/FACTS_R1 (level 0 academic + realism), R2 (building, Manet, nave), R3 (Impressionists), R4 (Post-Impressionists), R5 (level 2); findings/A1, A2, A3, G.
 HELD (no verified facts or not on display; tell the user): Gauguin Oviri, Redon Les Yeux clos, Rousseau La Charmeuse de serpents (search budget ran out), Whistler's Mother (in Amsterdam to Jan 2027), Puvis Pauvre Pêcheur (off display), Roty La Semeuse (not on display), London Parliament (off display), photography (prints rotate).
@@ -58,22 +58,22 @@ Target length: R 200–280, W 260–360, ANCHOR/CLOSE 260–360. Total ≈ 19,00
 | 049 | Post-Impressionism | Pont-Aven rooms · Level 5 | R | Émile Bernard — Madeleine au Bois d'Amour |  | R4 |
 | 050 | Post-Impressionism | Gauguin rooms · Level 5 | R | Gauguin — La Belle Angèle and Les Alyscamps | Gauguin before Tahiti | R4 |
 | 051 | Post-Impressionism | Gauguin rooms · Level 5 | W | Gauguin — Arearea | LOAN: Tokyo (confirmed). Fallback: Femmes de Tahiti (whether it also travels is unknown: hedge 'if it is here'). Girls' ages = Gauguin's own claims; Noa Noa not an autobiography (A2) | R4, A2 |
-| 052 | Post-Impressionism | Gauguin rooms · Level 5 | R | Gauguin — Le Cheval blanc | The 'too green' pharmacist story has ONE source: only as 'the story goes', or leave out | R4 |
-| 053 | Post-Impressionism | Nabi rooms · Level 5 | R | Sérusier — Le Talisman | MINIMAL facts (A3/G): small painting on a cigar-box lid, painted under Gauguin's guidance at Pont-Aven 1888, the Nabis' 'talisman' only if in sheets. Room 48 uncertain: cue by theme | A3, G, R4 |
-| 054 | Post-Impressionism | Café Campana · Level 5 | R | Behind the great clock | MINIMAL (G/A3): Café Campana at the exit of the gallery, behind the great clock (OFF); no menu/prices. Then down to level 2 | G, A3 |
-| 055 | Lautrec and the Nabis | Room 68 · Level 2 | R | Toulouse-Lautrec — Jane Avril dansant | Official page: level 2 room 68; older plans: Lautrec on level 5. Cue by description. Married Maurice Biais 1911 (A1); no 1929-crash story | R5, A1 |
-| 056 | Lautrec and the Nabis | Lautrec room · Level 2 | R | Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue | Room not found: keep cue generic | R5 |
-| 057 | Lautrec and the Nabis | Room 70 · Level 2 | R | Maurice Denis — Les Muses |  | R5 |
-| 058 | Lautrec and the Nabis | Room 71 · Level 2 | R | Vallotton — Le Ballon | + Bonnard if in room 72 per R5 | R5 |
-| 059 | Lautrec and the Nabis | Room 72 · Level 2 | R | Vuillard — Jardins publics | + Bonnard Femmes au jardin panel (room 72) | R5 |
-| 060 | Art Nouveau and Sculpture | Room 64 · Level 2 | R | Guimard and Majorelle — Art Nouveau |  | R5 |
-| 061 | Art Nouveau and Sculpture | Rooms 63 and 65 · Level 2 | R | Gallé and Carabin's bookcase |  | R5 |
-| 062 | Art Nouveau and Sculpture | Room 57 · Level 2 | R | Gustave Moreau — Orphée | Moved here from level 0 (R1: level 2 room 57) | R1 |
-| 063 | Art Nouveau and Sculpture | Room 55 · Level 2 | W | Camille Claudel — L'Âge mûr | Room 55 (level per R5) | R5 |
-| 064 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | R | Pompon — Ours blanc |  | R5 |
-| 065 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | W | Rodin — Balzac |  | R5 |
-| 066 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | R | Maillol and Bourdelle — Méditerranée and Héraklès archer |  | R5 |
-| 067 | Closing | Level 2 terrace → exit | CLOSE | Out into Paris | Goodbye on the terrace looking down the nave; exit: 'follow the exit signs' only (temporary exit 2026–28 not detailed). No hours, no shop, no exhibitions | R5, G |
+| HELD | Post-Impressionism | Gauguin rooms · Level 5 | R | Gauguin — Le Cheval blanc | The 'too green' pharmacist story has ONE source: only as 'the story goes', or leave out | R4 |
+| 052 | Post-Impressionism | Nabi rooms · Level 5 | R | Sérusier — Le Talisman | MINIMAL facts (A3/G): small painting on a cigar-box lid, painted under Gauguin's guidance at Pont-Aven 1888, the Nabis' 'talisman' only if in sheets. Room 48 uncertain: cue by theme | A3, G, R4 |
+| 053 | Post-Impressionism | Café Campana · Level 5 | R | Behind the great clock | MINIMAL (G/A3): Café Campana at the exit of the gallery, behind the great clock (OFF); no menu/prices. Then down to level 2 | G, A3 |
+| 054 | Lautrec and the Nabis | Room 68 · Level 2 | R | Toulouse-Lautrec — Jane Avril dansant | Official page: level 2 room 68; older plans: Lautrec on level 5. Cue by description. Married Maurice Biais 1911 (A1); no 1929-crash story | R5, A1 |
+| 055 | Lautrec and the Nabis | Lautrec room · Level 2 | R | Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue | Room not found: keep cue generic | R5 |
+| 056 | Lautrec and the Nabis | Room 70 · Level 2 | R | Maurice Denis — Les Muses |  | R5 |
+| 057 | Lautrec and the Nabis | Room 71 · Level 2 | R | Vallotton — Le Ballon | + Bonnard if in room 72 per R5 | R5 |
+| 058 | Lautrec and the Nabis | Room 72 · Level 2 | R | Vuillard — Jardins publics | + Bonnard Femmes au jardin panel (room 72) | R5 |
+| 059 | Art Nouveau and Sculpture | Room 64 · Level 2 | R | Guimard and Majorelle — Art Nouveau |  | R5 |
+| 060 | Art Nouveau and Sculpture | Rooms 63 and 65 · Level 2 | R | Gallé and Carabin's bookcase |  | R5 |
+| 061 | Art Nouveau and Sculpture | Room 57 · Level 2 | R | Gustave Moreau — Orphée | Moved here from level 0 (R1: level 2 room 57) | R1 |
+| 062 | Art Nouveau and Sculpture | Room 55 · Level 2 | W | Camille Claudel — L'Âge mûr | Room 55 (level per R5) | R5 |
+| 063 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | R | Pompon — Ours blanc |  | R5 |
+| 064 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | W | Rodin — Balzac |  | R5 |
+| 065 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | R | Maillol and Bourdelle — Méditerranée and Héraklès archer |  | R5 |
+| 066 | Closing | Level 2 terrace → exit | CLOSE | Out into Paris | Goodbye on the terrace looking down the nave; exit: 'follow the exit signs' only (temporary exit 2026–28 not detailed). No hours, no shop, no exhibitions | R5, G |
 
 ## Coordinator decisions after writing
 - 052 Cheval blanc: the pharmacist "too green" story has a single source, so it breaks the user's rule ("can't verify → hold"). In revision, remove it and rebuild the track from OFF facts only. If it can't reach 200 words, hold the track.

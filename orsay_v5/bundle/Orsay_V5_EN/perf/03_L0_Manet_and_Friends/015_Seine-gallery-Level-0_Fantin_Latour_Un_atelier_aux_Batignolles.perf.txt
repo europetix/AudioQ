@@ -3,22 +3,22 @@
 @room: Seine gallery · Level 0
 @type: R
 @title: Fantin-Latour — Un atelier aux Batignolles
-@where: In the Seine gallery on level 0. A very large canvas, about two metres high and nearly three wide, of eight men gathered in a studio around a painter at his easel.
-@what: Henri Fantin-Latour, Un atelier aux Batignolles, A Studio at Les Batignolles, 1870, oil on canvas, 204 × 273.5 cm. Shown at the Salon of 1870; bought by the State in 1892.
-@listen: Who the eight men are, why they stand around Manet, and the one who had only months to live.
-@brief: Introducing a group of friends in an old photograph-like painting; quiet at the start, lively through the names, warm at the quote.
+@where: In the Seine gallery on level 0. A very large canvas, about two metres high and nearly three wide, of eight men gathered in a studio, one of them a painter at his easel.
+@what: Henri Fantin-Latour, Un atelier aux Batignolles, A Studio at Les Batignolles, 1870, oil on canvas, 204 × 273.5 cm. Shown at the Salon of 1870; bought in 1892.
+@listen: Who the eight men are, why they gather around Manet, and the least famous of them.
+@brief: Introducing a group of friends in an old photograph-like painting; warm at the start, lively through the names, light at the end.
 @pace: medium
 @energy: 2→3→3
 @sources: FACTS_R2 016 Un atelier aux Batignolles (1870, 204×273.5, RF 729, bought 1892, Salon of 1870; sitters left to right Scholderer, Manet at the easel, Renoir with a hat, Astruc, Zola, Maître, Bazille "who would fall a few months later at age twenty-six in the Franco-Prussian War", Monet; Batignolles district; Manet as "head of the school"; Zola quote as translated by Orsay; Scholderer "masterpiece" acquired Feb 2026): https://www.musee-orsay.fr/en/artworks/un-atelier-aux-batignolles-210 , https://www.musee-orsay.fr/de/kollektionen/werkbeschreibungen/gemaelde/commentaire_id/ein-atelier-in-batignolles-4034.html , https://www.musee-orsay.fr/en/magazine/2026-02-27/masterpiece-otto-scholderer-has-been-added-musee-dorsays-collections (OFF)
 ---
-[quietly] One of the eight men in this painting had only a few months to live. Fantin-Latour showed it at the Salon in the spring of eighteen seventy. Before the year was out, Frédéric Bazille had fallen in the Franco-Prussian War. He was twenty-six.
+[warmly] Eight men fill this studio, and seven of them are here for the one at the easel.
 
-Fantin painted his friends in a studio, and the museum names them for us, from left to right. At the far left, Otto Scholderer, a German painter. Then Manet himself, at the easel, and Renoir, in a hat. Next come Zacharie Astruc, sculptor and journalist, and Émile Zola. Edmond Maître, who worked at the Paris city hall. Then Bazille, and at the right, Claude Monet.
+Henri Fantin-Latour showed the picture at the Salon of eighteen seventy. Take the friends from left to right. At the far left, Otto Scholderer, a German painter. Then Manet himself, at the easel, and Renoir, in a hat. Next come Zacharie Astruc, sculptor and journalist, and Émile Zola. Edmond Maître, who worked at the Paris city hall. Then Frédéric Bazille, whose own studio you'll see later, and at the right, Claude Monet.
 
-[pause] Why gather them around Manet? Many of these men lived in the Batignolles district of Paris, and Fantin casts Manet as the head of their school. Zola put it this way, in the museum's translation. [warmly] "Around the painter scorned by the public, a united front of painters and writers has formed, considering him their master."
+[pause] Why gather them around Manet? Many of these men lived in the Batignolles district of Paris, and Fantin casts Manet as the head of their school. Zola put it this way. [quietly] "Around the painter scorned by the public, a united front of painters and writers has formed, considering him their master."
 
-Find Manet at the easel first. Then let your eye travel along the group, one friend at a time.
+Find Manet at the easel first. Then let your eye travel along the group, one friend at a time, and notice how they hold together around him.
 
-[lightly] One small twist. The least famous name here is probably Scholderer, at the far left. In early 2026 the museum acquired a painting by him, and it calls that painting a masterpiece. Fame can be slow, sometimes a century and a half slow.
+[lightly] Now the least famous name here, probably Scholderer, at the far left. In early twenty twenty-six the museum acquired a painting by him, and calls it a masterpiece. Fame can be slow, sometimes a century and a half slow.
 
-Manet's own great provocation is nearby. Find Le Déjeuner sur l'herbe, the Luncheon on the Grass, in room 18 on this floor, and play its track there.
+Manet's own great provocation is on this floor too. Find Le Déjeuner sur l'herbe, the Luncheon on the Grass, in room 18, and play its track there.

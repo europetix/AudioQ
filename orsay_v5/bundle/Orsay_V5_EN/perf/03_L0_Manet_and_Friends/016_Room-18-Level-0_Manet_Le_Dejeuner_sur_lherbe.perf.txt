@@ -3,7 +3,7 @@
 @room: Room 18 · Level 0
 @type: W
 @title: Manet — Le Déjeuner sur l'herbe
-@where: Room 18 on this floor, per the museum; if it has moved upstairs, play this track in room 29 on level 5. It is the large picnic painting, about two metres high and two and a half metres wide.
+@where: Room 18 on this floor, where the museum lists it. If the painting is not there, it may have moved to room 29 on level 5: listen wherever you find it. It is the large picnic painting, about two metres high and two and a half metres wide.
 @what: Édouard Manet, Le Déjeuner sur l'herbe, Luncheon on the Grass, 1863, oil on canvas, 207 × 265 cm. Given to the national museums by Étienne Moreau-Nélaton in 1906.
 @listen: The Emperor's show for rejected paintings, the old masters hidden in this modern picnic, and the painter it provoked.
 @brief: Telling a friend the story of a famous rejection with a twist; lively at the start, curious at the borrowings, quietly impressed by the museum's verdict.
@@ -15,14 +15,14 @@
 
 It wasn't called a luncheon then. Manet showed it under a plainer title, Le Bain, The Bath.
 
-That same year, at the official Salon, the Emperor bought Cabanel's Birth of Venus for his own collection. You may have met her in room 3 earlier. One nude went to the palace. [pause] This one went to the rejects.
+That same year, at the official Salon, the Emperor bought Cabanel's Birth of Venus for his own collection. You may have met her in room 3 earlier. One nude went to the Emperor. [pause] This one went to the rejects.
 
-Here's the twist. Manet wasn't throwing tradition away, he was borrowing from it. The museum points to two sources. One is Titian's Concert champêtre. The other is an engraving by Marcantonio Raimondi, after Raphael's Judgement of Paris. You couldn't ask for more respectable ancestors than Titian and Raphael. Yet the result hung among the rejects.
+[curious] And yet Manet wasn't throwing tradition away. He was borrowing from it, from two sources. One is Titian's Concert champêtre. The other is an engraving by Marcantonio Raimondi, after Raphael's Judgement of Paris. You couldn't ask for more respectable ancestors than Titian and Raphael. Still, the result hung among the rejects.
 
-[curious] So take your time with it. Ask yourself what in this picnic is modern, and what is Renaissance. That tension is the whole point. The museum's own verdict is careful, and all the stronger for it. [long pause] This painting "can perhaps be considered as the departure point for Modern Art."
+So take your time with it. Try to sort what in this picnic is modern, and what is Renaissance. That tension is the whole point. The museum's own verdict is careful, and all the stronger for it. [long pause] This painting "can perhaps be considered as the departure point for Modern Art."
 
 It found admirers anyway. Its first owner was the opera baritone Jean-Baptiste Faure. Later the collector Étienne Moreau-Nélaton owned it, and in nineteen hundred and six he gave it to the national museums.
 
-[warmly] And it provoked at least one other painter. Claude Monet began a huge picnic of his own, meant, as the museum puts it, as both a tribute and a challenge to Manet. What survives of it hangs upstairs on level 5, and you'll meet it later.
+[warmly] And it provoked at least one other painter. Claude Monet began a huge picnic of his own, meant as both a tribute and a challenge to Manet. What survives of it hangs in room 29 on level 5.
 
-Monet's other great challenge is right here. Find Femmes au jardin, Women in the Garden, in this same room 18, and play its track there.
+Monet's other great challenge, Femmes au jardin, Women in the Garden, hangs in room 18 on this floor. Find it, and play its track there.
