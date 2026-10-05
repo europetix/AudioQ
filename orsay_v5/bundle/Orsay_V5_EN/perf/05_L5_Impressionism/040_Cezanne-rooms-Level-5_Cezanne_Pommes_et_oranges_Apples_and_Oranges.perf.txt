@@ -9,7 +9,7 @@
 @brief: Explaining to a friend why a table of fruit is worth a long look; plain, enthusiastic in a quiet way, a little wry about the props.
 @pace: medium
 @energy: 2→3→3
-@sources: FACTS_R3 042 Pommes et oranges (c. 1899, 74 × 93, Camondo 1911; painted in 1899 in his Paris studio; one of six still lifes with the same props: earthenware dishes, a flower-patterned jug, drapery recalling 17th-century Flemish still lifes; "the most important still life produced by the artist in the late 1890s"): https://www.musee-orsay.fr/en/artworks/pommes-et-oranges-1470 and commentary 7098 (OFF) ; FACTS_R3 042 Sainte-Victoire (Orsay holds an oil c. 1890 and a watercolour c. 1900; one not exhibited; used only as a hedge in @where)
+@sources: FACTS_R3 042 Pommes et oranges (c. 1899, 74 × 93, Camondo 1911; painted in 1899 in his Paris studio; one of six still lifes with the same props: earthenware dishes, a flower-patterned jug, drapery recalling 17th-century Flemish still lifes; "the most important still life produced by the artist in the late 1890s"): https://www.musee-orsay.fr/en/artworks/pommes-et-oranges-1470 and commentary 7098 (OFF) ; FACTS_R3 042 Sainte-Victoire (Orsay holds an oil c. 1890 and a watercolour c. 1900; one not exhibited; used only as a hedge in @where) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
 [wry] For a man who painted fruit, Cézanne was remarkably loyal to his props.
 
@@ -23,4 +23,4 @@ Look at the drapery. It recalls the great Flemish still lifes of the seventeenth
 
 [warmly] So give it the time he gave it. Start with the jug and its flowers, then the dishes, then the fruit, and let the cloth carry you round the table. He looked at these same things six times over. One long look from you seems only fair.
 
-Walk on to the Van Gogh rooms, 36 and 37, where the picture rails are painted blue, and play its track at the entrance.
+Walk on to room 36, the Van Gogh room, where the picture rails are painted blue, and play its track at the entrance.

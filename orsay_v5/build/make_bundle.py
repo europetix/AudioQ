@@ -12,7 +12,7 @@ SECTIONS = [  # (@section value, display, folder)
  ("Impressionism", "Level 5 · Impressionism", "05_L5_Impressionism"),
  ("Van Gogh", "Level 5 · Van Gogh", "06_L5_Van_Gogh"),
  ("Post-Impressionism", "Level 5 · Post-Impressionism", "07_L5_Post_Impressionism"),
- ("Lautrec and the Nabis", "Level 2 · Lautrec and the Nabis", "08_L2_Lautrec_and_Nabis"),
+ ("Lautrec and the Nabis", "Level 2 · Symbolism, the Nabis and Lautrec", "08_L2_Symbolism_Nabis_Lautrec"),
  ("Art Nouveau and Sculpture", "Level 2 · Art Nouveau and sculpture", "09_L2_Art_Nouveau_and_Sculpture"),
  ("Closing", "Closing", "10_Closing"),
 ]
