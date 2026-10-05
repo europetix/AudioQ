@@ -65,7 +65,7 @@ payoff; never tag every sentence (over-direction sounds like acting, not talking
   ElevenLabs by default; any name it gets wrong is added to a per-engine override list after listening.
 
 ## 5. Production (mastering)
-- Render at mp3_44100_128; deliver at 96 kbps mono (spoken word; 40 kbps retired).
+- Render at mp3_44100_128; deliver at 64 kbps mono, 24 kHz, every language (spoken word; 40 kbps retired; 96 kbps dropped 5 Oct 2026 for download size: the edge-tts source is about 48 kbps, so 96 only added size).
 - Loudness normalised to −16 LUFS integrated, −1.5 dBTP (phone listening standard).
 - 0.6 s between paragraphs comes from the direction layer; 2 s tail per track (was 5 s dead air).
 - Optional signature: a 2–3 s licensed music sting on the opening and on each section intro only.

@@ -356,3 +356,9 @@ The items no web source could confirm are in `USER_TEST/ONSITE_CHECKLIST.md`, ab
 **Working with Puneet:**
 - He wants shipping, not narration. Give a short final summary.
 - He wants to be told honestly what is unverified or untested.
+
+## Update 5 Oct 2026: delivery bitrate 64 kbps (all languages)
+- MP3 delivery changed from 96 kbps to 64 kbps mono, 24 kHz, -16 LUFS, in render_edge.py, render_kokoro.py and v5_direction.master() (default). The EN, ES, FR and DE launchers all call the same render_edge.py, so every language follows it.
+- Why: the edge-tts source is about 48 kbps, so 96 kbps only added size. Expected full tour: about 60 MB instead of about 90 MB.
+- User report: a 233 MB English folder had 136 MP3s. The new zip had been unzipped over the old 79-track bundle, so the old scripts were voiced too. The zip itself is clean (61 scripts per language). Fix: start from a fresh unzip and an empty output folder, because existing MP3s are skipped and never replaced.
+- Not tested here: real edge-tts audio (no access from the cloud session). Mastering at 64 kbps was checked with a test tone (64,031 bps).

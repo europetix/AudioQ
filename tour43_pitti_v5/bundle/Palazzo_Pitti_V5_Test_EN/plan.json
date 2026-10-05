@@ -11,7 +11,7 @@
  },
  "wpm": 125,
  "silent_tail_seconds": 2.0,
- "mastering": "-16 LUFS / -1.5 dBTP, 96 kbps mono",
+ "mastering": "-16 LUFS / -1.5 dBTP, 64 kbps mono",
  "total_tracks": 61,
  "total_words": 17707,
  "total_min": 142,

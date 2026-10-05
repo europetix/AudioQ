@@ -103,7 +103,7 @@ def segments(body):
     return out
 
 
-def master(wav_in, mp3_out, bitrate="96k"):
+def master(wav_in, mp3_out, bitrate="64k"):
     """Two-pass loudness normalisation to -16 LUFS / -1.5 dBTP (spoken word on phones), mono MP3.
     Pass 1 measures, pass 2 applies a linear gain so pauses don't skew the result."""
     import json

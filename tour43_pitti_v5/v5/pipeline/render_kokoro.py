@@ -2,7 +2,7 @@
 """Kokoro renderer for the pipeline (invoked by the launcher via `uv run`) — V5 edition.
 Same shape as the V4.5 render_kokoro.py: reads scripts/<section>/*.txt, writes <OUT>/<section>/*.mp3.
 NEW in V5: if perf/<section>/<name>.perf.txt exists, the track is performed from its direction layer
-(pace/volume per passage, real pauses), then mastered to -16 LUFS at 96 kbps with a 2 s tail.
+(pace/volume per passage, real pauses), then mastered to -16 LUFS at 64 kbps with a 2 s tail.
 Tracks without a perf file render exactly as before (plain text)."""
 import sys, os, glob, shutil
 import numpy as np, soundfile as sf
@@ -12,7 +12,7 @@ import v5_direction as V
 
 VOICE   = "am_michael"     # try bm_lewis for the British narrator option
 SPEED   = 0.85             # base pace; 0.85 ~= Brian -8%. Direction scales this per passage.
-BITRATE = "96k"            # V5: 96 kbps mono (was 40k)
+BITRATE = "64k"            # V5: 64 kbps mono (was 40k, then 96k)
 APPLY_RESPELLING = True    # True = phonetic respellings from pronunciation.py; False = native
 SR = 24000
 

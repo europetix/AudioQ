@@ -93,7 +93,7 @@ REQUIREMENTS
 
 SETTINGS (for whoever maintains the pipeline)
 =============================================
-- render_kokoro.py: VOICE am_michael, SPEED 0.85, 96k MP3.  render_edge.py: Ava by default (EDGE_VOICE), base rate -8%.
+- render_kokoro.py: VOICE am_michael, SPEED 0.85, 64k MP3.  render_edge.py: Ava by default (EDGE_VOICE), base rate -8%.
 - v5_direction.py: how each direction tag is performed (pace / volume / pitch, pause
   lengths, 2 s tail, -16 LUFS mastering). Shared by both voices.
 - pronunciation.py: phonetic respellings for Italian names.

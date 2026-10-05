@@ -4,7 +4,7 @@ and by voice_samples_ES_FR_DE.command.
 The voice comes from EDGE_VOICE (default Ava, the chosen English voice). ONLY="015 053" renders just those track numbers (voice samples).
 V4.5 rendered each track in one edge-tts call with a fixed rate. V5 performs the direction layer:
 each passage gets its own rate/volume/pitch, real silences are inserted for pauses and paragraph
-breaks, and the result is mastered to -16 LUFS, 96 kbps mono, 2 s tail.
+breaks, and the result is mastered to -16 LUFS, 64 kbps mono, 2 s tail.
 Tracks without perf/<section>/<name>.perf.txt render as plain paragraphs (still paced + mastered)."""
 import sys, os, glob, asyncio, subprocess, tempfile, shutil
 import edge_tts
@@ -13,7 +13,7 @@ import v5_direction as V
 
 VOICE = os.environ.get("EDGE_VOICE", "en-US-AvaMultilingualNeural")
 BASE_RATE = -8                  # percent, as in V4.5
-BITRATE = "96k"
+BITRATE = "64k"
 APPLY_RESPELLING = os.environ.get("RESPELL", "1") != "0"   # RESPELL=0 for Spanish / French / German (respellings are for English voices)
 SR = 24000
 

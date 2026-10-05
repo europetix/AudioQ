@@ -50,7 +50,7 @@ tw = sum(t['words'] for t in tracks)
 plan = dict(tour_number=43, tour_slug="Palazzo_Pitti", format="V5-test", language="EN",
     voices={"1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
             "2": "Kokoro am_michael, base speed 0.85, directed per passage (render_kokoro.py)", "3": "en-US-AndrewMultilingualNeural (trial)", "4": "en-US-BrianMultilingualNeural (earlier test voice)"},
-    wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 96 kbps mono",
+    wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 64 kbps mono",
     total_tracks=len(tracks), total_words=tw, total_min=round(tw / 125),
     sections=[dict(section=d, folder=fo, tracks=sum(1 for t in tracks if t['folder'] == fo)) for _, d, fo in SECTIONS],
     tracks=tracks)

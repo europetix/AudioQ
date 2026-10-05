@@ -51,3 +51,10 @@ Restore: unzip the snapshot to /home/claude/orangerie (or symlink) → `bash bui
 - 2024 plan: level −2 is one "Les Arts à Paris" collection area with a Focus room. There are no per-artist room labels, so no room numbers are voiced. 2021 numbering (Renoir 9, Cézanne 10, Laurencin+Matisse 11, Derain 12, Utrillo+Rousseau 13) is kept for the on-site check only.
 - musee-orangerie.fr is still blocked from the cloud session (egress policy). Laurencin, Utrillo and the 3 extra Modiglianis stay held until the site is reachable or the pages are supplied as PDFs.
 - Route map checked against both official plans: the exit/FINISH badge now sits beside the entrance (as on the May 2024 plan), and the small rotunda between the hall and Room 1 is marked. The ground floor matches the plan. The order on level −2 is not confirmed by either plan (see ONSITE_CHECKLIST).
+
+## Update 5 Oct 2026: delivery bitrate 64 kbps (all languages)
+- MP3 delivery changed from 96 kbps to 64 kbps mono, 24 kHz, -16 LUFS, in render_edge.py, render_kokoro.py and v5_direction.master() (default). The EN, ES, FR and DE launchers all call the same render_edge.py, so every language follows it.
+- Why: the edge-tts source is about 48 kbps, so 96 kbps only added size. Expected full tour: about 60 MB instead of about 90 MB.
+- User report: a 233 MB English folder had 136 MP3s. The new zip had been unzipped over the old 79-track bundle, so the old scripts were voiced too. The zip itself is clean (61 scripts per language). Fix: start from a fresh unzip and an empty output folder, because existing MP3s are skipped and never replaced.
+- Not tested here: real edge-tts audio (no access from the cloud session). Mastering at 64 kbps was checked with a test tone (64,031 bps).
+- Orangerie has English only so far. ES/FR/DE, when translated, will use the same renderer and the same 64 kbps.
