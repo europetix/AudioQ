@@ -106,7 +106,7 @@ def segments(body):
 def master(wav_in, mp3_out, bitrate="64k"):
     """Two-pass loudness normalisation to -16 LUFS / -1.5 dBTP (spoken word on phones), mono MP3.
     Pass 1 measures, pass 2 applies a linear gain so pauses don't skew the result."""
-    import json
+    import json, os
     target = "I=-16:TP=-1.5:LRA=11"
     r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", wav_in, "-af",
                         f"loudnorm={target}:print_format=json", "-f", "null", "-"],
@@ -116,7 +116,7 @@ def master(wav_in, mp3_out, bitrate="64k"):
     af = (f"loudnorm={target}:measured_I={m['input_i']}:measured_TP={m['input_tp']}:"
           f"measured_LRA={m['input_lra']}:measured_thresh={m['input_thresh']}:"
           f"offset={m['target_offset']}:linear=true")
-    part = mp3_out + ".part.mp3"   # write aside, then rename: an interrupted run never leaves a half file
+    part = f"{mp3_out}.{os.getpid()}.part.mp3"   # write aside, then rename: an interrupted run never leaves a half file
     subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", wav_in,
                     "-af", af, "-ar", "24000", "-ac", "1", "-b:a", bitrate, part], check=True)
     import os
@@ -146,6 +146,23 @@ def check_tour(out_dir):
         if missing: print("  Missing:", " ".join(missing[:12]))
         print("  Fix: move this folder away, unzip the guide again into an empty place, and run it from there.")
         sys.exit(1)
+    # one render per output folder: a second copy writing the same files makes both fail
+    os.makedirs(out_dir, exist_ok=True)
+    lock = os.path.join(out_dir, ".render.lock")
+    if os.path.exists(lock):
+        try:
+            pid = int(open(lock).read().strip() or 0)
+            os.kill(pid, 0)
+            alive = pid != os.getpid()
+        except (ValueError, ProcessLookupError, PermissionError, OSError):
+            alive = False
+        if alive:
+            print(f"\nSTOP: another render (process {pid}) is already writing to\n    {out_dir}")
+            print("  Let it finish, or stop it first:  pkill -f render_edge.py")
+            sys.exit(1)
+    open(lock, "w").write(str(os.getpid()))
+    import atexit
+    atexit.register(lambda: os.path.exists(lock) and open(lock).read().strip() == str(os.getpid()) and os.remove(lock))
     current = {os.path.splitext(os.path.basename(f))[0] for fs in found.values() for f in fs}
     stale = [f for f in glob.glob(os.path.join(out_dir, "*", "*.mp3")) + glob.glob(os.path.join(out_dir, "*", "*.wav"))
              if not f.endswith((".part.mp3", ".tmp.wav")) and os.path.splitext(os.path.basename(f))[0] not in current]
