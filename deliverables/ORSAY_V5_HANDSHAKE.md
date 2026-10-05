@@ -31,3 +31,30 @@ Glance PDF (three levels). Not yet rendered with a real voice or tested on site.
 1. User: render 2 samples (013 Olympia, 042 Van Gogh), then the full tour; walk the on-site checklist.
 2. Fill held tracks when verifiable; fix rooms from the map or site visit; rebuild with build/build_all.sh.
 3. ES/FR/DE: same method as Pitti/Orangerie (translate for listening, independent review per language, assemble.py checks).
+
+## FROZEN STATE (5 Oct 2026, end of session, at the user's request)
+The delivered bundle deliverables/Orsay_V5_EN.zip is the last COMPLETE build (66 tracks, before the 2026-plan changes). The working
+tree has work IN PROGRESS on top of it. Do not ship the working tree until steps 1–4 below are done.
+- Official plan-guide summer 2026 received: source/Planguide_Orsay_ete_2026.pdf; read-out in findings/M_planguide_ete_2026.md (OFF).
+- Done: Bazille moved to level 0 room 18 as track 018 (old 018–026 → 019–027); level-2 files renamed for a first order.
+- IN PROGRESS when frozen (an editing pass applying the plan; it may have stopped part-way, see v5/notes/PLAN2026_LOG.md):
+  room numbers and closing cues for the new order. Requested level-2 order WEST → EAST (visitors arrive from the Café Campana at the
+  west end): 054 Moreau Orphée (room 59) · 055 Claudel (55) · 056 Jardins publics (72) · 057 Le Ballon (71) · 058 Les Muses (70) ·
+  059 Jane Avril (68) · 060 Cha-U-Kao/La Goulue (68) · 061 Balzac (Terrasse Rodin) · 062 Guimard/Majorelle (64) · 063 Gallé/Carabin
+  (63, 65) · 064 Pompon · 065 Maillol/Bourdelle · 066 close. Check the files' @id/@title against this list first.
+  Other plan fixes: Van Gogh = room 36 (Gachet 36); Pont-Aven 43; Tahiti 44; Talisman 45; Café Campana by rooms 38–39; clock salon 28;
+  L'Angélus in room 5 or the Chauchard gallery (Galerie Seine 1); Lautrec level 2 room 68 (settled).
+- APPROVED by the user, NOT yet started (research was launched and may not have finished; files would be research/FACTS_R6_*.md
+  and FACTS_R7_*.md): 9 new tracks → about 75 tracks, about 2 h 40:
+  level 0: Cézanne's beginnings (room 11), Degas (room 13), after the MNR room · level 5: Gauguin Le Cheval blanc and Oviri (room 44),
+  Redon (room 45), Rousseau's Snake Charmer (room to find), Chat Noir (46), Cinema (47), before the Café Campana · level 2: Salle
+  des fêtes (room 51) first on arrival. Search works again (budget reset).
+- ALSO REQUESTED by the user: redesign the Route at a Glance: more schematic and presentable for customers, impactful and useful
+  (draw the three levels as simplified floor plans with the real room numbers from the 2026 plan, the red route, track badges on
+  their rooms, START/FINISH, escalator/lift icons). Not started.
+
+## To resume (new session): steps
+1. Finish/verify the plan-2026 pass (all cues in order 001→066; validator; lengths).
+2. Research (R6/R7) → write the 9 tracks → verify → insert and renumber (make_bundle sections: rename the level-2 sections).
+3. Redesign build/route_sheet.py as above; rebuild with build/build_all.sh; stand-in TTS test; update this handshake.
+4. Refresh deliverables (zip, route PDF, scripts) and the snapshot; then ES/FR/DE if wanted.
