@@ -41,6 +41,12 @@ Other dated V4 claims:
 - **Room 10b**: MNR room "À qui appartiennent ces œuvres ?", opened 5 May 2026 (OFF).
 - Whistler's *Arrangement in Grey and Black No. 1* is on the "niveau nef", hung with Fantin-Latour (OFF; room number not found). It was lent to the Clark, Williamstown, until 27 Sep 2025 (SEC2) and is assumed back.
 - Far end, between the two towers: Rodin's *Gates of Hell*, on axis with the aisle since 2022 (OFF).
+- **Opéra space**, at the back of the main nave, level 0, designed by Richard Peduzzi in 1986 (OFF):
+  - Rémi Munier's *Maquette du quartier de l'Opéra, arrêtée en l'état en 1914*: resin under plexiglas, 650 × 650 cm, made 1984–86, seen from above (OFF, artwork 89448).
+  - Garnier's Opéra longitudinal-section model, Gianese workshop, Rome, 1985, 240 × 578 × 110 cm (OFF, artwork 89419).
+  - The 19 June 2023 mediation panel was not found (NONE).
+- **"Paris, capitale d'une nation moderne"**: new rooms on level 0 at the back of the nave, opened 24 May 2022 (OFF, articles/new-rooms-paris-capital-modern-nation-214273). They cover the Second Empire transformation of Paris through paintings, drawings, models and sculpture, centred on Victor Navlet's large *Vue générale de Paris, prise de l'Observatoire en ballon* (1855) and Garnier's Opéra. They are visited together with the Opéra space and the *Gates of Hell*, and are strong route candidates. Visitors reach them by walking the length of the central aisle; the exact room number was not found.
+- **Photography gallery**: permanent, on level 0, Rue de Lille side. It has 3 small rooms of about 130 m² and the prints change three times a year by theme (OFF). At most one generic optional track (Nadar, Le Gray, photography's place in the museum), with no named prints. The room number was not found in snippets (NONE).
 
 **Level 2 (niveau médian): terraces and Lille-side rooms, about 1880–1914**
 - Sculpture terraces (Seine and Lille), with sculpture 1870/1880–1914 (OFF plan-guide). The *Terrasse Rodin* is listed on the plan (OFF). Claudel's *L'Âge mûr* is on this level (position not confirmed).
@@ -190,7 +196,8 @@ The official tour page (OFF) names only *Olympia* and *Le Déjeuner sur l'herbe*
    - Lille side: Couture in the aisle, Ingres (room 1), Cabanel (room 3), Symbolists.
    - Seine side: Millet (room 5), Courbet (room 7), Manet *Olympia* (room 14), Whistler.
    - MNR room 10b.
-   - Walk the aisle to the Opéra space (*La Danse*, quarter model), then the *Gates of Hell* at the end.
+   - Optional: photography gallery on the Lille side.
+   - Walk the aisle to the end of the nave: *La Danse*, the Opéra space (quarter model and section model), "Paris, capitale d'une nation moderne" (Navlet), then the *Gates of Hell*.
 2. **Escalator or lift to level 5, about 85 min.** Clock viewpoint, then:
    - rooms 29 (both *Déjeuners*, *Coquelicots*), 31 (*Saint-Lazare*, Caillebotte, Degas class), 32 (Degas dancer, Morisot), 34 (Rouen), Renoir and Cézanne;
    - rooms 36–37 Van Gogh;
@@ -215,7 +222,9 @@ If the producers want the V4 "Campana closing chord", use **0 → 2 → 5** inst
 ## Could not check
 - Exact rooms for: Whistler, Renoir *Bal*, Cézanne *Card Players*, Pissarro *Gelée blanche*, Arearea, Oviri, Claudel, Rodin *Balzac*.
 - Where the medal display is.
-- The Opéra-quarter model's current presentation.
+- The room number of the photography gallery.
+- The room number of "Paris, capitale".
+- The 2023 mediation panel at the Opéra model.
 - Whether the "Salle du Bord de l'eau" name is still used.
 - Whether the level-5 clock and the Campana clock sit at opposite ends.
 - The exact date the Tokyo loans leave Paris.
