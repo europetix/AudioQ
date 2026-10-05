@@ -1,0 +1,26 @@
+@id: 010 · Room 7 · Level 0
+@section: Realism
+@room: Room 7 · Level 0 · Seine side
+@type: W
+@title: Courbet — Un enterrement à Ornans (A Burial at Ornans)
+@where: In room 7 on the Seine side of level 0, in front of the enormous canvas, more than six metres wide, of a crowd of life-size villagers at a funeral. It is back on the wall after its restoration, finished in August 2026.
+@what: Gustave Courbet, Un enterrement à Ornans, A Burial at Ornans, 1849–1850, oil on canvas, 315 × 668 cm. Given by the artist's sister, Juliette Courbet, in 1881.
+@listen: An unknown funeral painted at the scale of history, the medal that let it past the jury, and what fifteen months of restoration brought back.
+@brief: Standing with a friend in front of a vast, sober painting; curious at the mystery, quietly pleased at the jury twist, attentive and fresh at the restoration, firm at the end.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: FACTS_R1 011 (1849–1850; 315 × 668; given by Juliette Courbet 1881; room 7; restored in public in a glazed enclosure in room 7 May 2025 – Aug 2026, rehung 5 Aug 2026; old varnish "poorly applied, yellowed, and thickened"; burial of someone "of unknown identity", painted "as if it were a major historical event"; life-size, "a privilege usually reserved for biblical and mythological figures", not idealised; 1849 medal exempted him from the jury (A1); "manifesto of the realist movement"): https://www.musee-orsay.fr/en/artworks/un-enterrement-ornans-924 (OFF), https://www.musee-orsay.fr/en/magazine/2025-02-20/restoration-courbets-painting-burial-ornans (OFF), https://www.musee-orsay.fr/en/node/289948 (OFF), https://www.musee-orsay.fr/en/collections/courbet-dossier/biography.html (OFF, medal and jury exemption) ; restoration results (original colours, hidden edges, biggest restoration since 1881): https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/le-retour-d-un-enterrement-a-ornans-apres-quinze-mois-de-restauration-le-chef-d-uvre-de-courbet-retrouve-les-galeries-du-musee-d-orsay-3413114.html + https://www.finestresullarte.info/fr/musees/le-musee-d-orsay-fete-ses-40-ans-un-courbet-restaure-une-grande-exposition-consacree-a-mary-cassatt-et-le-mum-orsay-itinerant (SEC2) ; A1 Track 06 rows 1, 2, 6 (OK: Salon 1850–51)
+---
+[curious] Nobody knows whose funeral this is. The museum simply says the dead person is of unknown identity. And yet Gustave Courbet painted this village burial as if it were a major historical event.
+
+That was the shock of it. In his day, a canvas this size, with figures this size, belonged to history painting. Life-size figures were a privilege, the museum says, usually reserved for biblical and mythological figures. Gods, saints, heroes. Courbet gave that privilege to the people of a small country town in eastern France, gathered round a grave. [pause] And he didn't flatter a single one of them.
+
+So how did he get it into the Salon of eighteen fifty? [lightly] He didn't have to ask. The year before, Courbet had won a medal, and that medal exempted him from the Salon jury. No jury could stop this painting. It walked straight in. The museum calls it a manifesto of the realist movement.
+
+Take a moment to walk along it. Every figure is roughly your own size. None of them is idealised. These are faces you might pass in a market, standing in their best black clothes for someone none of us can name.
+
+[warmly] And you are seeing it fresher than anyone has for a long time. For fifteen months, until the summer of twenty twenty-six, it was restored in public, right here in this room, inside a glass enclosure. The aim was to remove old layers of varnish that had been poorly applied, had yellowed and thickened. Reports on the work describe the original colours coming back. They also describe a few centimetres of paint along the edges, folded out of sight by earlier remountings, now visible again. It was the biggest restoration since the painting entered the national collections, a gift from Courbet's sister Juliette.
+
+[quietly] An unnamed villager, buried at the scale of history. That is what the word realism meant here, at the start.
+
+Courbet's other giant hangs in this same room. Find L'Atelier du peintre, The Painter's Studio, and play its track there.
