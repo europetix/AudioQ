@@ -13,7 +13,7 @@
  "silent_tail_seconds": 2.0,
  "mastering": "-16 LUFS / -1.5 dBTP, 64 kbps mono",
  "total_tracks": 55,
- "total_words": 15950,
+ "total_words": 15951,
  "total_min": 128,
  "sections": [
   {
@@ -826,7 +826,7 @@
    "room": "Soutine room · Level −2",
    "title": "Soutine — Le Garçon d'étage and La Fiancée",
    "register": "W",
-   "words": 310,
+   "words": 311,
    "where": "In the room of Soutine's paintings. Look for a hotel waiter in a red waistcoat, standing with his hands on his hips, then a tall, narrow portrait of a thin young woman in a white dress.",
    "what": "Chaïm Soutine, Le Garçon d'étage, The Room-Service Waiter, around 1927, oil on canvas, 87 × 66 cm; La Fiancée, The Bride, around 1923, oil on canvas; La Jeune Anglaise, The Young Englishwoman, 1934, oil on canvas.",
    "listen": "The hotel staff nobody looked at, the year Soutine's red took over, and a bride squeezed into her frame.",
