@@ -81,3 +81,7 @@ Status: ★ = in V4 (story may be reused after re-verification); ⚠ = loan / lo
 070 Maillol and Bourdelle on the terraces
 071 Roty, La Semeuse: the medal on French coins (if on the route)
 072 Closing: the way out, and the light on the Seine
+
+## Changes from research (5 Oct)
+- R1: Moreau's Orphée is on LEVEL 2, room 57, so 006 moves to level 2. Puvis's Le Pauvre Pêcheur is "not currently exhibited", so it is dropped.
+- R1: Courbet's Burial is back in room 7 (rehung 5 Aug 2026; OFF + SEC2). Both Venuses are in room 3, the Daumier busts in room 4.
