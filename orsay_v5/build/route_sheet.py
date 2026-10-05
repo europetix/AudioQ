@@ -208,5 +208,5 @@ for t in tr:
             SEC_COL.get(lastsec, INK), 'l'); y -= lead
     txt(IX + 0.1*cm, y, t["seq"], 'Helvetica-Bold', 6.8, SEC_COL.get(t["folder"], INK), 'l')
     txt(IX + 0.85*cm, y, short(t), 'Helvetica', 6.8, INK, 'l'); y -= lead
-txt(IX, 1.0*cm, "Works lent to Tokyo 14 Nov 2026 – 28 Mar 2027: the track tells you where to go.", 'Helvetica-Oblique', 6.8, SOFT, 'l')
+txt(IX, 1.0*cm, "Lent to Tokyo 14 Nov 2026 – 28 Mar 2027 (008, 046, 053, perhaps 021): the track tells you where to go.", 'Helvetica-Oblique', 6.8, SOFT, 'l')
 c.showPage(); c.save(); print("built", OUT)

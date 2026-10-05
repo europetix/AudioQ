@@ -58,7 +58,7 @@ plan = dict(tour_number=0, tour_slug="Musee_d_Orsay", format="V5", language="EN"
     sections=[dict(section=d, folder=fo, tracks=sum(1 for t in tracks if t['folder'] == fo)) for _, d, fo in SECTIONS],
     tracks=tracks)
 json.dump(plan, open(f"{B}/plan.json", "w"), indent=1, ensure_ascii=False)
-# ES / FR / DE guides (v5/i18n/<lang>/tracks), rendered by generate_audio_ES_FR_DE.command (full guide or samples 013 + 042)
+# ES / FR / DE guides (v5/i18n/<lang>/tracks), rendered by generate_audio_ES_FR_DE.command (full guide or samples 013 + 044)
 for f in sorted(glob.glob('/home/claude/orsay/v5/i18n/*/tracks/*.perf.txt')):
     lang = f.split('/')[-3]; meta, clean = V.validate(f); n = os.path.basename(f)[:3]
     folder = SEC[meta['section']][2]; rl = room_label(meta['section'], meta['room'])

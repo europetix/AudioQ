@@ -24,7 +24,7 @@ st = [Paragraph("Musée d'Orsay · Tester feedback", H),
                 "<b>L</b> = I wasn't where the audio thought I was &nbsp; <b>W</b> = didn't match what I was looking at &nbsp; "
                 "<b>R</b> = voice sounded robotic &nbsp; <b>B</b> = bored, I skipped or stopped listening. "
                 "If you use the old V4 guide, use its own track numbers (1–31).", P), Spacer(1, 5)]
-N = 67  # V5 has 67 tracks; V4 testers use 1–31
+N = 75  # V5 has 75 tracks; V4 testers use 1–31
 cols = 5; per = (N + cols - 1) // cols
 hdr = []
 for c in range(cols): hdr += ["#", "L", "W", "R", "B"]

@@ -9,7 +9,7 @@ BASE_DIR="$HOME/Desktop/Orsay_V5_EN"
 echo ""
 echo "================================================================"
 echo "  V5 - Musee d Orsay"
-echo "  Musee d Orsay - English  (67 tracks, ~2 h 30)"
+echo "  Musee d Orsay - English  (75 tracks, ~2 h 45)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -29,12 +29,12 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The full tour (67 tracks)"
-echo "  2) Two voice samples only: 013 Olympia + 042 Van Gogh self-portrait (a few minutes)"
+echo "  1) The full tour (75 tracks)"
+echo "  2) Two voice samples only: 013 Olympia + 044 Van Gogh self-portrait (a few minutes)"
 printf "Enter 1 or 2 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
-    export ONLY="013 042"
+    export ONLY="013 044"
     BASE_DIR="$HOME/Desktop/Orsay_V5_Voice_Samples/Sample"
 fi
 
