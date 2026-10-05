@@ -74,3 +74,6 @@ Target length: R 200–280, W 260–360, ANCHOR/CLOSE 260–360. Total ≈ 19,00
 | 065 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | W | Rodin — Balzac |  | R5 |
 | 066 | Art Nouveau and Sculpture | Sculpture terrace · Level 2 | R | Maillol and Bourdelle — Méditerranée and Héraklès archer |  | R5 |
 | 067 | Closing | Level 2 terrace → exit | CLOSE | Out into Paris | Goodbye on the terrace looking down the nave; exit: 'follow the exit signs' only (temporary exit 2026–28 not detailed). No hours, no shop, no exhibitions | R5, G |
+
+## Coordinator decisions after writing
+- 052 Cheval blanc: the pharmacist "too green" story has a single source, so it breaks the user's rule ("can't verify → hold"). In revision, remove it and rebuild the track from OFF facts only. If it can't reach 200 words, hold the track.
