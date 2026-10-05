@@ -1,0 +1,26 @@
+@id: 033 · Room 32 · Level 5
+@section: Impressionism
+@room: Room 32 · Level 5
+@type: R
+@title: Morisot — Le Berceau
+@where: Room 32, level 5, the same room as Degas's Little Dancer. A smallish painting of a young woman watching over a baby asleep in a cradle.
+@what: Berthe Morisot, Le Berceau, The Cradle, 1872, oil on canvas, 56 × 46.5 cm. Bought by the Louvre in 1930.
+@listen: The first woman to show with the Impressionists, her sister and niece, and the baby who grew up and sold this picture to the nation.
+@brief: A friend speaking softly in front of an intimate picture; warm and unhurried, with a small, delighted reveal at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R3 036 (1872; 56 × 46.5; RF 2849; her sister Edma watches over her sleeping daughter Blanche; "undeniably Berthe Morisot's most famous painting"; shown at the 1874 exhibition; Morisot the first woman to exhibit with the group; stayed in the sitter's family until the Louvre bought it in 1930, from Blanche Pontillon, Mme Forget, the baby; room 32): https://www.musee-orsay.fr/en/artworks/le-berceau-1132 (OFF) + A3 27.7 (OFF) ; A3 27.1 (Berthe married Eugène Manet in 1874, so Manet became her brother-in-law, SEC2)
+---
+[warmly] Of all the paintings in these rooms, this may be the quietest. A young woman watches over a sleeping baby, and that's all that happens. She is the painter's sister, Edma. The baby in the cradle is Edma's daughter, Blanche.
+
+Berthe Morisot painted it in eighteen seventy-two. Two years later she sent it to the first exhibition the Impressionists put on for themselves, and she was the first woman to show with the group.
+
+And yet the museum calls it, without hesitation, Morisot's most famous painting.
+
+[quietly] Look at where the attention goes. Not only to the baby, but to the watching. Morisot was painting her own sister in a private moment. You almost feel you should lower your voice.
+
+The same year as that first exhibition, Berthe married Eugène Manet. So Édouard Manet, whose paintings you met on the ground floor, became her brother-in-law.
+
+[pause] The picture stayed in the family for more than half a century. Then, in nineteen thirty, the Louvre bought it. And the person who sold it was Blanche. [long pause] The baby in the cradle, all grown up.
+
+Next, look in the Impressionist rooms on this level for Degas's Dans un café, better known as L'Absinthe. A man and a woman sit side by side at a café table, with a glass of absinthe in front of her. Play its track there.

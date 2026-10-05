@@ -1,0 +1,28 @@
+@id: 016 · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
+@type: W
+@title: Manet — Le Déjeuner sur l'herbe
+@where: Room 18 on this floor, per the museum; if it has moved upstairs, play this track in room 29 on level 5. It is the large picnic painting, about two metres high and two and a half metres wide.
+@what: Édouard Manet, Le Déjeuner sur l'herbe, Luncheon on the Grass, 1863, oil on canvas, 207 × 265 cm. Given to the national museums by Étienne Moreau-Nélaton in 1906.
+@listen: The Emperor's show for rejected paintings, the old masters hidden in this modern picnic, and the painter it provoked.
+@brief: Telling a friend the story of a famous rejection with a twist; lively at the start, curious at the borrowings, quietly impressed by the museum's verdict.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 025 Le Déjeuner sur l'herbe (1863, 207×265, RF 1668; Faure 1878–98 → Durand-Ruel → Moreau-Nélaton, given 1906; borrows from Titian's Concert champêtre and Marcantonio Raimondi's engraving after Raphael's Judgement of Paris; "can perhaps be considered as the departure point for Modern Art"; Faure the opera baritone; location room 18 per OFF snippets, conflict with room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF) ; Salon des Refusés 1863 by Napoleon III's decree, shown as "Le Bain": A1 Track 09 row 4 (OFF/SEC2) ; Cabanel's Naissance de Vénus bought by Napoleon III at the 1863 Salon: FACTS_R1 005a https://www.musee-orsay.fr/en/artworks/naissance-de-venus-98 (OFF), "same year" framing only ; Monet's Déjeuner "both a tribute and a challenge to Manet", room 29: FACTS_R3 026 https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF)
+---
+[lightly] In eighteen sixty-three, the Emperor did a remarkable thing. He gave the paintings the Salon jury had turned away a show of their own. By the decree of Napoleon the Third, the Salon des Refusés opened, the Salon of the Rejected. And this painting hung in it.
+
+It wasn't called a luncheon then. Manet showed it under a plainer title, Le Bain, The Bath.
+
+That same year, at the official Salon, the Emperor bought Cabanel's Birth of Venus for his own collection. You may have met her in room 3 earlier. One nude went to the palace. [pause] This one went to the rejects.
+
+Here's the twist. Manet wasn't throwing tradition away, he was borrowing from it. The museum points to two sources. One is Titian's Concert champêtre. The other is an engraving by Marcantonio Raimondi, after Raphael's Judgement of Paris. You couldn't ask for more respectable ancestors than Titian and Raphael. Yet the result hung among the rejects.
+
+[curious] So take your time with it. Ask yourself what in this picnic is modern, and what is Renaissance. That tension is the whole point. The museum's own verdict is careful, and all the stronger for it. [long pause] This painting "can perhaps be considered as the departure point for Modern Art."
+
+It found admirers anyway. Its first owner was the opera baritone Jean-Baptiste Faure. Later the collector Étienne Moreau-Nélaton owned it, and in nineteen hundred and six he gave it to the national museums.
+
+[warmly] And it provoked at least one other painter. Claude Monet began a huge picnic of his own, meant, as the museum puts it, as both a tribute and a challenge to Manet. What survives of it hangs upstairs on level 5, and you'll meet it later.
+
+Monet's other great challenge is right here. Find Femmes au jardin, Women in the Garden, in this same room 18, and play its track there.

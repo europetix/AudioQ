@@ -1,0 +1,30 @@
+@id: 001 · Arrival · Level 0
+@section: Opening
+@room: Arrival · Level 0
+@type: ANCHOR
+@title: A station that became a museum
+@where: Play this as you arrive, outside the building or just inside, before the galleries. Follow the museum's signs in; you don't need to stand anywhere in particular.
+@what: The Musée d'Orsay, built by Victor Laloux as the Gare d'Orsay, a railway station and hotel for the 1900 Exposition universelle, and opened as a museum in December 1986.
+@listen: How a station dressed up as a palace nearly gave way to a hotel, and how it became a museum instead.
+@brief: Welcoming a friend at the door with the building's unlikely life story; warm and easy, amused at the disguise, quiet for the war years, quietly proud at the opening.
+@pace: medium
+@energy: 3→4→2→4
+@sources: FACTS_R2 001 (1900 Exposition; Laloux chosen 1898; built in two years, inaugurated 14 Jul 1900; metal hidden behind cut stone to suit the Louvre and Tuileries; Detaille quote; terminus to 1939, platforms too short; wartime parcels; Liberation returns; Welles's The Trial, Renaud-Barrault company, auctioneers (Drouot rebuild); hotel permit refused Feb 1971; listed 1973; Halles demolition; museum decided 1977 at Giscard d'Estaing's initiative; ACT-Architecture + Aulenti; inaugurated 1 Dec 1986 by Mitterrand, public 9 Dec; 40th anniversary): https://www.musee-orsay.fr/en/node/60 (OFF), https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF), https://www.musee-orsay.fr/sites/default/files/2021-07/De_La_Gare_Au_Musee.pdf (OFF), https://www.britannica.com/topic/Musee-dOrsay (Halles link, SEC2 with OFF) ; A1 Confirmed OK (12,000 t of metal) ; FACTS_R3 024 (Orléans railway company; station traces kept: metal structure, clocks): https://www.musee-orsay.fr/en/node/60 (OFF)
+---
+[warmly] In nineteen seventy-one, someone wanted to put a big international hotel on this spot. The building permit was refused. Without that refusal, there would be no museum.
+
+It began as a railway station, built for the World's Fair of nineteen hundred. The Orléans railway company chose the architect Victor Laloux, and in just two years he raised a station and a hotel. They opened on the fourteenth of July, Bastille Day.
+
+[amused] Laloux had a delicate problem. His station had to sit beside the Louvre and the Tuileries without embarrassing anyone. So he built it of metal, some twelve thousand tonnes of it, and then hid all that metal behind cut stone. The disguise worked. The painter Édouard Detaille wrote, "The station is superb and looks like a Palais des beaux-arts."
+
+Its life as a great terminus was short. Electric traction and longer trains made its platforms too short, and from the start of the Second World War it served only the suburbs.
+
+[quietly] The war gave it sadder work. Parcels for prisoners were sent out from here. And at the Liberation, this was where prisoners and deportees arrived home from Germany.
+
+After that, it took whatever work it could find. Orson Welles filmed The Trial here. A theatre company moved in, and so did auctioneers. The big hotel plan was turned down, and the station's own hotel closed. Paris had just lost Baltard's market halls at Les Halles, and that loss changed how people saw buildings like this. The station was protected as a historic monument. And at the initiative of President Valéry Giscard d'Estaing, the government decided to make it a museum.
+
+A team of architects adapted Laloux's building, and Gae Aulenti led the design of the interiors. [pause] President Mitterrand inaugurated the museum on the first of December, nineteen eighty-six. Eight days later, the public walked in.
+
+[lightly] Forty years on, the station still hasn't quite left. The architects kept its metal structure and its great clocks in plain view. You'll meet both on the way.
+
+Follow the signs inside to the top of the central aisle, and play its track there.

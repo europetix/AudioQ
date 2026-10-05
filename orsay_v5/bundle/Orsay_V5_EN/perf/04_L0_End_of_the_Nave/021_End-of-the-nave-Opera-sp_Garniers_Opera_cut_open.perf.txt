@@ -1,0 +1,24 @@
+@id: 021 · Opéra space · Level 0
+@section: Nave End
+@room: End of the nave · Opéra space · Level 0
+@type: R
+@title: Garnier's Opéra, cut open
+@where: In the Opéra space at the end of the nave, level 0: a long model of the Paris Opéra sliced lengthwise, nearly six metres long and about two and a half metres high. In autumn 2026 a temporary display is built around the models, so access may differ; follow the museum's signs.
+@what: Opéra de Paris, maquette de la coupe longitudinale, longitudinal-section model of the Paris Opéra, made in 1985 in Rome by the Gianese workshop under Richard Peduzzi's artistic direction, after Garnier's own drawing, at 1/25 scale, 240 × 578 × 110 cm.
+@listen: How to read an opera house from the façade to the back of the stage, and why the model was made.
+@brief: Walking a friend along a giant cutaway, section by section; curious and a little amused, then admiring.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 021 longitudinal-section model (1985, Peduzzi's artistic direction, Gianese workshop in Rome: Ercole Borsani, Amedeo Brogli, Giovanni Gianese; after Garnier's drawing in Le nouvel Opéra de Paris, published 1880; 1/25; 240×578×110 cm; gift 1989; mediation panel since 19 June 2023, 5.60 m, French and English, braille, 18 tactile visuals, four parts: overall section, façade-foyer-grand staircase, auditorium, backstage; Orsay's first universally accessible station; purpose: how Garnier's building works, decoration such as La Danse, and through Degas the corps de ballet): https://www.musee-orsay.fr/en/artworks/opera-de-paris-maquette-de-la-coupe-longitudinale-89419 , https://www.musee-orsay.fr/en/articles/new-mediation-station-front-model-paris-opera-house-219776 (OFF) ; G §1 (OFF)
+---
+[amused] Most buildings keep their secrets behind a wall. This one has had its wall taken off. What you're looking at is the Paris Opéra, sliced lengthwise from the façade all the way to the back of the stage.
+
+The model was made in Rome in nineteen eighty-five, by the Gianese workshop, under the artistic direction of Richard Peduzzi. It follows Garnier's own drawing, published in his book Le Nouvel Opéra de Paris in eighteen eighty. The scale is one to twenty-five, and still the model is nearly six metres long.
+
+[curious] Read it the way the museum reads it, in four parts. First, take in the whole cross-section, end to end. Then find the façade, the foyer and the grand staircase. Next comes the auditorium. [pause] And then the backstage, the part the audience never sees.
+
+In front of the model there's usually a long panel, five metres sixty, with texts in French and English, braille and eighteen tactile pictures. Since June 2023 it has been the museum's first station designed to be accessible to every visitor.
+
+[warmly] Why put an opera house in an art museum? Because so much of this collection belongs to it. The museum uses the model to explain how Garnier's building works, the decoration you've just seen in Carpeaux's La Danse, and, through Degas, the life of the corps de ballet. You'll meet Degas's dancers upstairs.
+
+At the back of the nave, the rooms called Paris, capitale d'une nation moderne show the city that grew up around this building. Find them, and play their track there.
