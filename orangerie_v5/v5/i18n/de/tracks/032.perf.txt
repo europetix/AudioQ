@@ -1,0 +1,30 @@
+@id: 032 · DE · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — La Carriole du père Junier (Der Wagen des alten Junier)
+@where: Bei den Gemälden von Henri Rousseau im Untergeschoss: das breite Bild einer Familie in einem Pferdewagen, gezogen von einer weißen Stute, mit drei Hunden.
+@what: Henri Rousseau, La Carriole du père Junier (Old Junier's Cart), 1908, oil on canvas, 97 × 129 cm.
+@listen: The neighbourhood grocer and his proud white mare, the painter on the front seat, and the dog that was too big on purpose.
+@brief: A neighbourhood story told with affection and a grin; amused by the mare's tiptoes, delighted by Rousseau's reply to Max Weber.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_B La Carriole du père Junier: https://www.musee-orangerie.fr/es/obras/la-carriole-du-pere-junier-196429 (OFF: 1908; Claude Junier and wife ran a grocery near Rousseau's home; likely commissioned 1908; Junier and Rousseau on the front seat; Madame Junier and relatives behind; Junier a horse trainer proud of his white mare Rosa; mare "on the tips of her hooves", "like a dancer on points"; passengers frontal "like Byzantine icons" except Junier; three dogs, rare in Rousseau) ; G3 17.2 (grocery, vegetables from market gardeners each morning, OFF), 17.3 (photograph source, dogs' size and position changed, a tree omitted, Max Weber exchange, OFF), 17.4 (97×129, OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 032 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Jedes Viertel hat einen Krämer, der alle kennt. Bei Rousseau war es Claude Junier. Er und seine Frau führten einen Lebensmittelladen nahe der Wohnung des Malers. Jeden Morgen fuhr Junier los, um bei den Gemüsegärtnern einzukaufen. Er richtete auch Pferde ab und war sehr stolz auf seine weiße Stute Rosa.
+
+1908 gaben die Juniers dieses Bild höchstwahrscheinlich in Auftrag. Junier sitzt vorn auf dem Bock. Neben ihm sitzt Rousseau selbst. Hinter ihnen fahren Madame Junier und zwei junge Verwandte mit.
+
+Sehen Sie sich jetzt Rosa an. [pause] Sie steht, seltsam genug, auf den Spitzen ihrer Hufe. So kann Rousseau die Schatten unter ihr zeigen. Und sie wirkt wie schwebend, wie eine Tänzerin auf Spitze. Ein Kutschpferd beim Ballett.
+
+Schauen Sie auch auf die Fahrgäste. Außer Junier blicken alle Sie direkt an, steif und aufrecht. Das Museum vergleicht sie mit byzantinischen Ikonen. Zählen Sie dabei die Hunde: Es sind drei. Das ist bei Rousseau selten.
+
+[conspiratorial] Jetzt kommt mein Lieblingsteil. Rousseau malte nach einem Foto der Familie. Aber er kopierte es nicht einfach. Er veränderte Größe und Position der Hunde, und er ließ einen Baum weg. Der Maler Max Weber wies darauf hin, dass ein Hund viel zu groß sei. [pause] Rousseaus Antwort: Das Bild habe es verlangt.
+
+[pause] Diese Antwort sagt viel. Man könnte Rousseau für naiv halten, als könnte er nichts dafür, wie seine Bilder geraten. Doch wer ein Foto bearbeitet, die Hunde verschiebt und einen Baum weglässt, trifft Entscheidungen. Er wusste besser als die Kamera, was das Bild brauchte.
+
+Es ist eine große Leinwand, fast einen Meter hoch und weit über einen Meter breit. Für ein Porträt des Krämers um die Ecke! [warmly] Und das Pferd des Krämers darf eine Tänzerin sein.
+
+Suchen Sie als Nächstes Rousseaus Porträt eines Kindes mit einer Puppe, L'Enfant à la poupée. Vor diesem Bild geht die Geschichte weiter.

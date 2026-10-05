@@ -1,0 +1,30 @@
+@id: 013 · DE · Room 2 · bench
+@section: Water Lilies
+@room: Room 2 · bench · Water Lilies · Ground floor
+@type: ANCHOR
+@title: Die letzten Jahre
+@where: Auf einer Bank in der Mitte von Saal 2, wenn eine frei ist. Sonst irgendwo, von wo aus Sie den ganzen Saal sehen.
+@what: Claude Monet's last years at Giverny: the cataract operation of 1923, the long struggle with his sight, and the panels he kept until his death in 1926, months before the rooms opened.
+@listen: What Monet's eyes could still see when he finished these paintings, and how close he came to seeing them here.
+@brief: Sitting beside a friend and telling them something sad and true; quiet, unhurried, plain about the facts, tender at the end, leaving room for silence.
+@pace: slow
+@energy: 2→3→1
+@sources: Cataracts diagnosed 1912; right-eye surgery January 1923 by Dr Charles Coutela, urged by Clemenceau; before it right eye perceived only light, left 1/10; aged 82 (FACTS_C §1.3 + G2 12-8, SEC2 https://hekint.org/2017/01/24/monet-and-his-cataracts/ + https://pmc.ncbi.nlm.nih.gov/articles/PMC4408507/) ; after surgery saw colours too yellow or too blue, destroyed works, hedged; corrective lenses 1924–25, partial recovery (G2 06-4, 12-7, SEC2 same) ; kept retouching to the end, would not part with them; died at Giverny 5 Dec 1926 aged 86: https://www.musee-orangerie.fr/en/node/33 (OFF) ; deed 1922, Lefèvre's conversion 1922–27, mounted from 31 Jan 1927, inaugurated 17 May 1927, about five months after his death: https://www.musee-orangerie.fr/en/node/198900 (OFF) ; Monet set forms, positioning, rhythm, spacing; "endless whole" (Roger Marx 1909): node/33 (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 013 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Im Januar 1923 wurde ein Mann von zweiundachtzig Jahren am rechten Auge operiert. Dieses Auge erkannte damals kaum mehr als Licht. Das linke hatte etwa ein Zehntel der normalen Sehkraft. Der Patient war Claude Monet. [pause] Gedrängt, die Operation zu wagen, hatte ihn Georges Clemenceau.
+
+Sein grauer Star war mehr als zehn Jahre zuvor entdeckt worden. Nun operierte der Chirurg, Doktor Charles Coutela, das rechte Auge. Die Operation gab ihm die Welt nicht sofort zurück. Monet klagte, die Farben sähen falsch aus, zu gelb oder zu blau. Er soll in diesen Jahren einige seiner eigenen Leinwände zerstört haben. [pause] Erst mit neuen Korrekturgläsern, in den folgenden etwa zwei Jahren, kehrte seine Sehkraft teilweise zurück.
+
+Bedenken Sie, was das für die Wände um Sie herum bedeutet. Manche dieser Farben trug ein Maler auf, der seinen eigenen Augen nicht ganz trauen konnte. Und er malte trotzdem weiter.
+
+[wry] Er behielt auch die Tafeln. Das Geschenk war versprochen, die Urkunde unterzeichnet, die Säle hier im Bau. Und in Giverny retuschierte Monet weiter an seinen Leinwänden. Er brachte es nicht über sich, sie herzugeben.
+
+Am Ende musste er es nicht. Er starb am 5. Dezember 1926 in Giverny, mit sechsundachtzig. [long pause] Binnen zwei Monaten wurden die Leinwände bereits auf diese Wände aufgezogen. Im Mai darauf wurden die Säle eröffnet. Etwa fünf Monate zu spät für ihn.
+
+[reverent] Er hat also nie dort gesessen, wo Sie jetzt sitzen. Er hat nie gesehen, wie das Licht auf die acht Kompositionen fällt, gefügt zu den Formen und Abständen, die er so sorgfältig erdacht hatte. [pause] Er plante jedes Detail dieses Erlebnisses und überließ es dann anderen. Menschen wie Ihnen.
+
+Nehmen Sie sich dafür eine Minute. Lassen Sie den Blick durch den Saal schweifen, ohne etwas Bestimmtes zu suchen. Monet träumte von einem endlosen Ganzen. Dies ist ein Weg, es zu finden.
+
+[long pause] Wenn Sie so weit sind, gehen Sie durch den Durchgang zurück in den ersten Saal. Dort wartet eine letzte Geschichte. Sie handelt von der Decke über Ihrem Kopf.

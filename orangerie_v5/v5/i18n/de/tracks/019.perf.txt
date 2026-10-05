@@ -1,0 +1,28 @@
+@id: 019 · DE · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Jeunes filles au piano (Junge Mädchen am Klavier)
+@where: Im Saal mit Renoirs Gemälden, vor dem Hochformat mit zwei jungen Mädchen am Klavier, nicht vor dem breiteren Bild der Schwestern Lerolle, etwa 116 mal 81 Zentimeter. Renoirs Werke waren bis Anfang 2026 auf Tournee im Ausland, und die aktuelle Hängung ist nicht bestätigt. Ein Werk kann also fehlen.
+@what: Pierre-Auguste Renoir, Jeunes filles au piano (Young Girls at the Piano), around 1892, oil on canvas, 116 × 81 cm.
+@listen: How Renoir's friends finally got the French state to buy him, and why this is the version he kept for himself.
+@brief: Telling a friend the backstory of a famous picture with gentle indignation, then the pleasure of a quiet twist; unhurried and warm.
+@pace: medium-slow
+@energy: 2→3→4→2
+@sources: FACTS_A Renoir — Jeunes filles au piano (c.1892, 116 × 81, RF 1960-16; deposited with Durand-Ruel 1914–17; in Renoir's studio at his death; bought by Paul Guillaume 1928; shown at Bernheim-Jeune 1929): https://www.musee-orangerie.fr/en/artworks/jeunes-filles-au-piano-196508 , Joconde 00000089507 (OFF) ; Orsay notice (friends annoyed the state had bought nothing; Mallarmé and Roger Marx; Luxembourg purchase 1892; other versions at the Met and private; Orangerie version): https://www.musee-orsay.fr/en/artworks/jeunes-filles-au-piano-1164 (OFF) ; FACTS_A Renoir and Guillaume (25 works; "lively trade" in the 1920s and 1930s; many stayed in the studio until 1919): https://www.musee-orangerie.fr/en/articles/auguste-renoir-105463 (OFF) ; G3 14.8
+@lang: de
+@translation: from the fact-checked English Orangerie V5 019 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Anfang der 1890er-Jahre war Renoir um die fünfzig. Und seine Freunde ärgerten sich. Der französische Staat hatte noch nie ein einziges seiner Bilder gekauft.
+
+Zwei dieser Freunde wollten das ändern. Der eine war Stéphane Mallarmé. Der andere war Roger Marx, ein junger Beamter der Kunstverwaltung. Gemeinsam setzten sie sich dafür ein, dass impressionistische Malerei in die Nationalmuseen kam. Nach einem informellen Auftrag des Staates nahm Renoir dieses Motiv auf: zwei Mädchen am Klavier. [pause] Und 1892 wurde eine Fassung für das Musée du Luxembourg gekauft. Heute hängt sie im Musée d'Orsay.
+
+[pause] Aber Renoir malte das Bild nicht nur einmal. Er malte es mehrmals. Vollendete Fassungen gibt es im Metropolitan Museum in New York und in Privatbesitz. Und es gibt diese hier.
+
+[quietly] Das ist die Fassung, die Renoir behielt. Im Ersten Weltkrieg war sie ein paar Jahre bei seinem Kunsthändler. Doch bei seinem Tod stand sie noch in seinem Atelier. [pause] 1928 kaufte Paul Guillaume sie.
+
+Nehmen Sie sich also einen Moment für die beiden Mädchen und das Klavier. Diese Fassung wollte der Maler selbst behalten. Der Staat bekam sein offizielles Bild. Renoir behielt eines für sich.
+
+[lightly] Guillaume hatte, wie sich zeigt, ein Auge für genau solche Bilder. Viele Renoirs der Sammlung blieben bis zum Tod des Künstlers in seinem Atelier. Der Händler kaufte sie in den 1920er-Jahren von der Familie und im Kunsthandel. Heute besitzt die Sammlung fünfundzwanzig Renoirs. Nur von Derain sind es mehr.
+
+In diesem Saal hängt noch ein zweites Klavierbild, etwa fünf Jahre später gemalt. Darauf zwei Schwestern, und an der Wand hinter ihnen zwei Gemälde von Degas. Suchen Sie es, und spielen Sie dort den passenden Titel ab.

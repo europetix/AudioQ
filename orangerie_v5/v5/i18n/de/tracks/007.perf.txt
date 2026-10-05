@@ -1,0 +1,28 @@
+@id: 007 · DE · Room 1 · south wall
+@section: Water Lilies
+@room: Room 1 · south wall
+@type: W
+@title: Monet — Matin (Morgen)
+@where: Im ersten ovalen Saal, vor der langen Komposition an der Südwand, auf der Seine-Seite des Saals.
+@what: Claude Monet, Matin (Morning), from Les Nymphéas, 1914–1926, oil on canvas, 200 × 1275 cm.
+@listen: Why a room that runs from morning to evening ends with Morning, and what is waiting through the passage.
+@brief: Closing the first room with a friend; a light, pleased curiosity at the riddle, then warm and generous in front of the painting, leaving them eager for the next room.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_C §1.2 Matin, 200 × 1275, Room 1 south wall: RMN caption https://photo.rmn.fr/archive/archive/07-525707-2C6NU0CSPW3J.html (OFF) + https://www.musee-orangerie.fr/en/artworks/matin-196303 (OFF via G2) ; the eight official titles and the museum's wall order (Room 1 walls 1–4: Soleil couchant, Nuages, Reflets verts, Matin); Room 1 morning to evening; Room 2 willows; unguided visit through several entrances: https://www.musee-orangerie.fr/en/node/33 (OFF) ; glass south (Seine) façade: https://www.musee-orangerie.fr/en/node/24 (OFF) ; Monet d. aged 86 (OFF) ; panel count of Matin deliberately NOT given (contested)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 007 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Hier ein kleines Rätsel. Von den acht Kompositionen in diesen beiden Sälen tragen drei den Titel Morgen. [pause] Nur eine ist ein Abend.
+
+Den Abend kennen Sie schon, Le Soleil couchant. Und dies ist der erste Morgen. Matin, Morgen, so lang wie Les Nuages gegenüber. Das Bild hängt an der Südwand, auf der Seine-Seite. Auf der Seite, wo die alte Orangerie ganz aus Glas war. Wo einst die Orangenbäume das Winterlicht empfingen, hängt jetzt Monets Morgen.
+
+In der offiziellen Reihenfolge dieses Saals kommt Matin an vierter Stelle. Ihr Weg eben führte also vom Abend herum zum Morgen. [pause] Das passt zu einem Mann, der in seinen Achtzigern noch Morgenbilder malte.
+
+Monet wollte allerdings keine feste Reihenfolge. Er plante diese Säle so, dass man sie von mehr als einer Seite betreten und ohne Führer durchwandern kann. Jeder Ausgangspunkt ist der richtige. Betrachten Sie dies also auch als Anfang.
+
+[warmly] Nehmen Sie sich Zeit für dieses Bild. Stellen Sie sich weit genug zurück, um die ganze Länge zu sehen, wenn die Menge es zulässt. Lassen Sie dann den Blick langsam von einem Ende zum anderen wandern. Achten Sie darauf, wie sich das Licht im Wasser verändert. [pause] Schauen Sie nun quer durch den Saal zu Le Soleil couchant, und wieder zurück. Abend, dann Morgen, in einem Atemzug. Ein ganzer Tag, in einem Saal.
+
+[curious] Hinter dem Durchgang bekommt das Wasser Gesellschaft. Der zweite Saal fügt die Zweige von Trauerweiden am Ufer hinzu. Die Bilder dort leben von den Kontrasten, die diese Zweige schaffen. Zwei weitere Morgen warten dort, und die längste Komposition von allen. [pause] Und auch der schwerste Teil von Monets Geschichte.
+
+Gehen Sie durch den Durchgang in den zweiten ovalen Saal, und bleiben Sie nahe der Mitte stehen.

@@ -1,0 +1,28 @@
+@id: 042 · DE · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Femme au peigne, Composition : paysans, Femme au chapeau blanc
+@where: Unter Picassos Werken im Untergeschoss. Suchen Sie eine große Gouache einer stehenden nackten Frau, die ihr langes schwarzes Haar kämmt, eine Gouache eines Vaters, der unter einer Blumengirlande die Hand auf die Schulter seiner Tochter legt, und eine sitzende Frau mit weißem Hut. Arbeiten auf Papier werden ausgetauscht und ruhen vielleicht gerade.
+@what: Pablo Picasso, Femme au peigne (Woman with a Comb), 1906, gouache on paper · Composition : paysans (Composition: Peasants), 1906, gouache on paper, 70 × 50 cm · Femme au chapeau blanc (Woman in a White Hat), 1921, oil on canvas, 118 × 91 cm.
+@listen: A Picasso bought straight from the painter, a tender study for a picture now in Philadelphia, and a quiet woman who may be his first wife.
+@brief: Sharing three quieter pictures with a friend, each with its own small secret; warm, observant, unhurried.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_B Picasso — Femme au peigne: https://www.musee-orangerie.fr/en/artworks/femme-au-peigne-196491 (OFF: 1906, large gouache; bought from Picasso 1929; Domenica kept it, unlike the many other Picassos she sold after her husband's death; standing nude combing long black hair, unbalanced body, foreshortening, disproportionate head, stylised face, triangles heralding Cubism; other 1906 versions incl. Baltimore bronze show her crouching) ; FACTS_B Composition : paysans: https://www.musee-orangerie.fr/en/artworks/composition-paysans-196492 (OFF: 1906, gouache, 70×50; father's protective, tender gesture; garland; Gósol earth tones; white faces with blue shadows recall the Blue Period; study for Paysans, Barnes Foundation) ; FACTS_B Femme au chapeau blanc: https://www.musee-orangerie.fr/en/artworks/femme-au-chapeau-blanc-196495 (OFF: 1921, 118×91; seated, leaning on chair back, hand on knee, lost in thought; muted blue, red, white, "a large pastel with muted colours"; face "could be" Olga's — museum hedge kept)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieses Blatt kam 1929 direkt von Picasso zu Paul Guillaume. Und Domenica behielt es.
+
+Es ist ein großes Blatt in Gouache, von 1906. Eine nackte Frau steht da und kämmt ihr langes schwarzes Haar. Sehen Sie, wie unsicher sie steht. Der Körper kippt aus dem Gleichgewicht, der Kopf ist zu groß für ihn. Die Gesichtszüge werden gerade erst stilisiert. [pause] Und suchen Sie die Dreiecke, die für ihre Brust und ihren Schoß stehen. Diese flachen kleinen Formen sind ein erstes Flüstern des Kubismus.
+
+[curious] Und jetzt das Überraschende. Picasso schuf im selben Jahr weitere Fassungen dieser Frau, darunter eine Bronze, die heute in Baltimore ist. Dort hockt sie. Hier aber steht sie. [pause] Damit ist dieses Blatt der Außenseiter.
+
+Suchen Sie nun eine zweite Gouache aus demselben Jahr. Ein Vater legt die Hand auf die Schulter seiner Tochter, eine schützende, zärtliche Geste. Über ihnen hängt eine rasch skizzierte Blumengirlande. Die erdige Farbe seiner Hose stammt aus Gósol, dem Dorf in den Pyrenäen, wo Picasso sich aufgehalten hatte. Doch die weißen Gesichter mit ihren blauen Schatten erinnern an seine Blaue Periode. Es ist eine Studie für ein viel größeres Gemälde, Bauern, heute in der Barnes Foundation in Philadelphia.
+
+[quietly] Dann springen Sie fünfzehn Jahre weiter. Eine Frau mit weißem Hut sitzt da, an die Stuhllehne gelehnt. Eine Hand ruht leicht auf ihrem Knie. Sie ist in Gedanken versunken. Blau, Rot und Weiß sind mit Grau und Braun gedämpft. So wirkt die ganze Leinwand wie ein großes Pastell in gedeckten Farben. [pause] Ihr Gesicht könnte das von Olga sein, Picassos erster Frau. Könnte, sagt das Museum. Und diese Vorsicht ist richtig.
+
+Ihre schwere, monumentale Ruhe weist direkt voraus auf die Riesenfiguren derselben Jahre.
+
+Suchen Sie die riesige sitzende Badende, einen Akt wie eine Statue. Spielen Sie dort den passenden Titel ab.
