@@ -3,26 +3,26 @@
 @room: Room 14 · Level 0 · Seine side
 @type: W
 @title: Manet — Olympia
-@where: Room 14 on this floor, Seine side, the Manet room. Stand in front of the reclining nude who looks straight out at you, with a black servant holding a bouquet at the centre and a black cat at the right.
+@where: Room 14 on this floor, Seine side, the Manet room. Stand in front of the nude who looks straight out at you, with a black servant holding a bouquet at the centre and a black cat at the right.
 @what: Édouard Manet, Olympia, 1863, oil on canvas, 130.5 × 191 cm. Shown at the Salon of 1865; given to the State in 1890 by nearly a hundred subscribers led by Claude Monet.
 @listen: How a Salon scandal became a gift to the nation, who the two women really are, and the most famous cat in painting.
-@brief: Telling a friend how a scandal was rescued by its admirers; warm and brisk at the start, firm on the turn, gentle on Laure, a smile at the cat.
+@brief: Telling a friend how a scandal became a gift from its admirers; warm and brisk at the start, firm on the turn, gentle on Laure, a smile at the cat.
 @pace: medium
 @energy: 3→4→2→3
 @sources: FACTS_R2 014 Olympia (1863, 130.5×191, RF 644; Salon 1865 scandal; Nov 1890 subscription led by Monet, "nearly a hundred people", artists, collectors, dealers, writers, politicians; Musée du Luxembourg; Victorine Meurent, "calculating" gaze; servant with bouquet; cat where Titian had a dog, "probably the most famous cat in the history of painting"; quotes Titian's Venus of Urbino and Goya's Maja desnuda; "Venus has become a prostitute"; servant's "invisibility"): https://www.musee-orsay.fr/en/artworks/olympia-712 and https://m.musee-orsay.fr/en/works/commentaire_id/olympia-7087.html (OFF) ; Laure named by "Le modèle noir" 2019: A1 Track 08 row 5 (OFF) ; Manet copied the Venus of Urbino: A1 Track 08 row 4 (SEC2) ; room 14: A1/G (OFF)
 ---
 [warmly] In eighteen ninety, Claude Monet passed the hat. Nearly a hundred people chipped in, among them artists, collectors, dealers, writers and even politicians. They weren't buying a painting for themselves. They were buying this one, to give it to France.
 
-Why did a painting need rescuing by its friends? [pause] Because twenty-five years earlier, at the Salon of eighteen sixty-five, it had caused a scandal.
+[pause] Twenty-five years earlier, at the Salon of eighteen sixty-five, it had caused a scandal.
 
-On paper, the subject was nothing new. A reclining nude, a servant bringing flowers, the old tradition of the odalisque. Manet knew that tradition from the inside. He had copied Titian's Venus of Urbino, and his Olympia quotes it, along with Goya's naked Maja. But he moved the goddess into the Paris of his own day. The museum puts it in five words. [pause] "Venus has become a prostitute."
+On paper, the subject was nothing new. A nude, a servant bringing flowers, the old tradition of the odalisque. Manet knew that tradition from the inside. He had copied Titian's Venus of Urbino, and his Olympia quotes it, along with Goya's naked Maja. But he moved the goddess into the Paris of his own day. The museum puts it in five words. [pause] "Venus has become a prostitute."
 
-[quietly] Now look at her face. The model was Victorine Meurent, and she looks straight back at you. The museum calls that look calculating. She isn't waiting to be admired. She's sizing you up.
+[quietly] Now look at her face. The model was Victorine Meurent, and she looks straight back at you. It's a calculating look. She isn't waiting to be admired. She's sizing you up.
 
-In the centre stands a black woman holding a bouquet. For a long time she was treated as almost invisible, and the museum's own commentary says so. In an exhibition here in 2019, called Le Modèle noir, she got her name back. She was Laure.
+In the centre stands a black woman holding a bouquet. For a long time she was treated as almost invisible. In an exhibition in twenty nineteen, called Le Modèle noir, she got her name back. She was Laure.
 
-[amused] And on the right, where Titian painted a little dog, Manet put a black cat. The museum calls it probably the most famous cat in the history of painting. It's hard to argue.
+[amused] And on the right, where Titian painted a little dog, Manet put a black cat. It may well be the most famous cat in the history of painting.
 
-So the friends won, and Olympia went into the national collections at the Musée du Luxembourg, and in time it came here. The scandal of the Salon now belongs to everyone, and the woman on the bed is still looking straight back at you.
+So the friends won, and Olympia went into the national collections at the Musée du Luxembourg, and in time it came here. The scandal of the Salon now belongs to everyone, and the woman in the painting is still looking straight back at you.
 
-Two more Manets share this room: a boy from a military band playing the fife, and the writer Émile Zola at his desk. Find them here in room 14, and play their track there.
+Two more Manets share this room: a boy from a military band playing the fife, and the writer Émile Zola at his desk. Find them here in room 14. One track covers both.
