@@ -1,0 +1,26 @@
+@id: 024 · ES · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: R
+@title: Los cuadros tranquilos de Renoir
+@where: En la sala de los cuadros de Renoir, entre las obras más pequeñas: un pequeño bodegón de manzanas y peras, un jarrón de tulipanes en rojos, verdes y amarillos, y un paisaje nevado. La disposición actual no está confirmada, así que puede faltar alguno.
+@what: Pierre-Auguste Renoir, Pommes et poires (Apples and Pears), around 1895, 32 × 41 cm · Bouquet de tulipes (Bouquet of Tulips), around 1905, 44 × 37 cm · Paysage de neige (Snowy Landscape), around 1875, 51 × 66 cm; all oil on canvas.
+@listen: Three small pictures that show another Renoir: one learning from Cézanne, one in the southern light, and one working out the colour of snow.
+@brief: A relaxed, appreciative walk past small pictures with a friend before moving on; light, curious at the snow.
+@pace: medium
+@energy: 2→3
+@sources: FACTS_A Renoir — Pommes et poires (c.1895, 32 × 41; the Renoir still life showing the greatest influence of Cézanne, in subject and "highly intricate composition"): https://www.musee-orangerie.fr/en/artworks/pommes-et-poires-196510 (OFF) ; FACTS_A Bouquet de tulipes (c.1905, 44 × 37; reds, greens, yellows; green vase; red and beige strokes behind; probably painted at Cagnes soon after his final move south; in his studio until his death; bought by Guillaume 1929): https://www.musee-orangerie.fr/en/artworks/bouquet-de-tulipes-196517 (OFF) ; FACTS_A Paysage de neige (c.1875, 51 × 66; probably early 1875 after the heavy snow of winter 1874–75; coloured shadows): https://www.musee-orangerie.fr/en/artworks/paysage-de-neige-196501 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 024 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Renoir es famoso por sus rostros y sus desnudos. Pero algunos de sus cuadros más reveladores aquí son pequeños, y no tienen ninguna figura.
+
+Empiece por las manzanas y las peras. Es un lienzo pequeño, pintado hacia 1895. El museo lo destaca como el bodegón de Renoir más influido por Cézanne, por el tema y por su composición muy elaborada. [pause] Aquí se ve a Renoir probando el método de Cézanne, componiendo con cuidado.
+
+Luego, los tulipanes. El ramo brilla en rojos, verdes y amarillos, en un jarrón verde, sobre un fondo de pinceladas rojas y beige. Probablemente lo pintó en Cagnes, poco después de instalarse definitivamente en el sur. Se quedó en su taller hasta su muerte. Paul Guillaume lo compró diez años después.
+
+[curious] Por último, la nieve. Es el más antiguo de los tres, pintado probablemente a principios de 1875, tras una gran nevada invernal. Se supone que la nieve es blanca. Renoir miró con más atención. Experimentaba con sombras de color: la nieve refleja los colores de todo lo que la rodea. [pause] Aléjese un poco y busque ese color en las sombras.
+
+[pause] Tres cuadros pequeños, a lo largo de treinta años. Y tres pintores distintos en un solo hombre.
+
+Ahora, el pintor que está detrás de ese pequeño bodegón. Busque la sala de los cuadros de Cézanne, localice un bodegón con un plato y unas manzanas sobre un arcón, y escuche su pista allí.

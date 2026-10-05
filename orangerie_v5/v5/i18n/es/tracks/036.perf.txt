@@ -1,0 +1,30 @@
+@id: 036 · ES · Matisse room · Level −2
+@section: Matisse
+@room: Matisse room · Level −2
+@type: W
+@title: Matisse — Les Trois Sœurs (Las tres hermanas)
+@where: Entre los cuadros de Matisse, en el nivel inferior. Busque un único lienzo vertical con tres jóvenes morenas sentadas ante un fondo marrón liso, dos mirando al frente y una leyendo.
+@what: Henri Matisse, Les Trois Sœurs (The Three Sisters), 1917, oil on canvas, 92 × 73 cm. One canvas, not a triptych: three other paintings of the same sisters are at the Barnes Foundation, Philadelphia.
+@listen: Why a dealer who sold the other three sisters to America bought this one at auction for himself.
+@brief: Telling a friend a small story of regret and loyalty in front of the picture; warm, then intrigued, then quietly appreciative as the clashing parts click together.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_B Matisse — Les Trois Sœurs: https://www.musee-orangerie.fr/en/artworks/les-trois-soeurs-196463 ; Joconde https://pop.culture.gouv.fr/notice/joconde/00000089475 (OFF: 1917, 92×73, Pellerin sale 7 May 1926, three Barnes versions, "very likely" passed through Guillaume, "one of the few works … bought at a public sale … in memory of", description, Manet / Japanese prints / Dames de Gand) ; FACTS_B Matisse intro: https://www.musee-orangerie.fr/en/articles/henri-matisse-105458 (OFF: Domenica kept Nice-period works 1917–1929) ; G4 22.1 (single canvas, triptych at the Barnes)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 036 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Paul Guillaume ayudó a enviar muchísimos cuadros a Estados Unidos. Este, en cambio, lo compró para sí.
+
+Guillaume contribuyó mucho a formar la colección del doctor Albert Barnes, en Filadelfia. Y Matisse pintó a estas tres hermanas más de una vez. Otros tres cuadros de ellas, con ropa y poses distintas cada vez, están hoy en la Fundación Barnes. Muy probablemente pasaron por la galería de Guillaume en su travesía del Atlántico.
+
+Luego, en 1926, la colección de Auguste Pellerin salió a subasta, con este lienzo incluido. Guillaume casi nunca compraba en subastas públicas. [pause] Compró este. Y la lectura del museo es delicada. Lo hizo, casi con seguridad, en recuerdo de las hermanas que había dejado ir.
+
+[curious] ¿Por qué quiso guardar este para sí? Mire qué poco coinciden las tres. Están sentadas ante un fondo marrón liso. Dos le miran de frente. [pause] La tercera no tiene ningún interés en nosotros, absorta en su lectura.
+
+Matisse junta cosas que no deberían encajar. Tres estados de ánimo distintos, lado a lado. Colores que deberían chocar, y varios niveles de perspectiva a la vez. [pause] Y de algún modo todo se sostiene, como una familia que discute y aun así se sienta a cenar.
+
+¿El origen de la idea? Mire hacia Manet y los grabados japoneses. Y hacia un retrato de grupo más antiguo del Louvre, Les Dames de Gand, Las damas de Gante, atribuido entonces a Jacques-Louis David.
+
+[quietly] Está fechado en 1917, en el umbral de los años de Matisse en Niza. Y esos son los años que eligió conservar Domenica, la viuda de Guillaume. Casi todos los demás Matisse de esta colección son de esa época.
+
+Busque la habitación de hotel con una gran cortina roja, una ventana llena de cielo y dos mujeres en un diván. Su historia le espera allí.

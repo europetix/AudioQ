@@ -1,0 +1,26 @@
+@id: 029 · ES · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Árboles y casas: tres paisajes
+@where: En la sala de los cuadros de Cézanne, busque tres paisajes: una vista vertical con un tronco inclinado y un muro bajo, una aldea entre árboles desnudos con casas pálidas, y el paisaje tardío del parque de Château Noir. Cualquiera puede estar prestado hasta principios de 2027.
+@what: Paul Cézanne, Paysage au toit rouge ou Le Pin à l'Estaque (Landscape with Red Roof, or The Pine at L'Estaque), 1875–76, oil on canvas, 73 × 60 cm · Arbres et maisons (Trees and Houses), around 1885, oil on canvas, 54 × 73 cm · Dans le parc de Château Noir (In the Park of Château Noir), 1898–1900, oil on canvas.
+@listen: Three landscapes, about twenty-five years apart, and how Cézanne learned from Pissarro and then let perspective dissolve.
+@brief: A friend walking you along a wall of pictures as if along a timeline; brisk and practical, then slower and more open at the late picture.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_A Le Pin à l'Estaque: https://www.musee-orangerie.fr/en/artworks/paysage-au-toit-rouge-ou-le-pin-lestaque-196017 (OFF: 1875–76, 73×60, L'Estaque 1876, Pissarro's influence, vertical format, foreground trunk and low wall, leaning trunk leads the eye; bought by Domenica) ; FACTS_A Arbres et maisons: https://www.musee-orangerie.fr/en/artworks/arbres-et-maisons-196026 (OFF: c.1885, 54×73, hamlet among two patches of leafless trees near Jas de Bouffan, dark trunks vs pale schematic houses, perspective dissolves, three versions: Met and Nasjonalmuseet Oslo) ; FACTS_A Dans le parc de Château Noir: https://www.musee-orangerie.fr/en/artworks/dans-le-parc-de-chateau-noir-196032 (date 1898–1900 via Gianadda list, SEC; G5 15-2 OFF/SEC2 "key late landscape c.1898–1900"; no description used)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 029 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Si quiere ver a un pintor cambiar de idea sobre el mundo, una pared de paisajes es un buen lugar. Estos tres abarcan unos veinticinco años de la vida de Cézanne. Y no parecen obra del mismo ojo.
+
+Empiece por el más antiguo, el vertical: Le Pin à l'Estaque, El pino en L'Estaque. Lo pintó durante una estancia en L'Estaque en 1876, y muestra la influencia de Camille Pissarro. Esa influencia está en el formato alto, en el tronco en primer plano y en el muro bajo. [pause] Siga ese tronco inclinado y sus ramas. Llevan su mirada, con toda intención, hacia los árboles del centro. Es un pintor que aún usa las herramientas clásicas del paisaje para guiarle.
+
+Ahora el segundo, Árboles y casas, de hacia 1885. Una pequeña aldea entre dos grupos de árboles sin hojas, cerca de Le Jas de Bouffan, la casa familiar de los Cézanne, a las afueras de Aix. Troncos oscuros contra casas muy pálidas, casi esquemáticas. [curious] Y aquí algo cede. Los planos se confunden, y la perspectiva tradicional empieza a disolverse. ¿Dónde está exactamente esa casa? ¿Delante del árbol, o detrás? [pause] Cézanne pintó esta vista tres veces. Las otras dos están lejos, en Nueva York y en Oslo.
+
+Y el último, En el parque de Château Noir, pintado hacia el cambio de siglo, pocos años antes de su muerte. [quietly] Fíjese en lo distinto que está hecho respecto al pino de L'Estaque. [pause] Y decida usted cuánto camino ha recorrido.
+
+[lightly] Tres paseos por el campo, entonces. En el primero, el pintor le toma de la mano y le guía. [pause] En el último, confía en que usted encuentre su propio camino.
+
+Ahora busque un friso largo y bajo con una barca y bañistas, y una diminuta escena de pícnic. La historia continúa delante de ellos.

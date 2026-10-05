@@ -1,0 +1,26 @@
+@id: 025 · ES · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Pommes et biscuits (Manzanas y galletas)
+@where: En la sala de los cuadros de Cézanne, busque un bodegón con un plato y unas manzanas sobre un arcón. Los Cézanne de esta colección se prestan a menudo, y algunos pueden estar fuera hasta principios de 2027.
+@what: Paul Cézanne, Pommes et biscuits (Apples and Biscuits), around 1880, oil on canvas. Bought by Domenica Walter at auction in Paris in 1952.
+@listen: The auction that made a widow's collection famous, the painting she and her husband bought in halves, and how Cézanne builds an apple out of colour.
+@brief: A friend telling a saleroom story with relish, then a little conspiratorial about the cut painting, slowing down to look at the apples.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_A Cézanne and Paul Guillaume / Domenica Walter + Pommes et biscuits: https://www.musee-orangerie.fr/en/articles/paul-cezanne-105454 ; https://www.musee-orangerie.fr/en/artworks/pommes-et-biscuits-196021 (OFF: 14 May 1952, Gabriel Cognacq sale, Galerie Charpentier, "unprecedented sum", sensational purchase; c.1880; plate and apples on a chest; volume through colour; "symbols of his great mastery of still life") ; FACTS_A Fleurs et fruits + Fleurs dans un vase bleu: …/fleurs-et-fruits-196022, …/fleurs-dans-un-vase-bleu-196023 (OFF: Vollard, cut by a dealer, Domenica unaware, Michel Hoog 1992) ; FACTS_A collection counts (OFF, 15 Cézannes) ; loans: FACTS_A "On display in 2026" + G5 (Cézanne et nous, SEC2)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 025 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] En mayo de 1952, un cuadro de manzanas causó sensación en una sala de subastas de París. La venta fue en la Galerie Charpentier. La compradora, Domenica Walter, viuda de Paul Guillaume, pagó una suma sin precedentes. El efecto fue inmediato. [pause] La compra atrajo la atención del público hacia ella, y hacia la magnífica colección que reunía.
+
+Esa colección tiene quince Cézanne. En los años veinte, Paul compró varios importantes, entre ellos retratos de la esposa y del hijo del pintor. Tras su muerte, Domenica siguió comprando, sobre todo paisajes. Y luego, este bodegón, la compra más pública de todas.
+
+[conspiratorial] En cierto modo, también compró un cuadro dos veces. Paul había adquirido un lienzo de flores y frutas al marchante Ambroise Vollard. Años después de su muerte, Domenica compró un cuadro de flores en un jarrón azul. [pause] Ninguno de los dos sabía que eran dos mitades del mismo lienzo inacabado, probablemente cortado por un marchante mucho antes. Un conservador, Michel Hoog, reconstruyó la historia en 1992. [pause] Marido y mujer habían reunido un cuadro sin proponérselo.
+
+Ahora, las manzanas. El museo cuenta esta obra entre los símbolos de la gran maestría de Cézanne en el bodegón. En parte, por lo poco que hay. Un plato y unas manzanas, sobre un arcón. La redondez de cada manzana está hecha de color. Aquí culmina su búsqueda del volumen a través del color. [quietly] Dele un momento, y todo el conjunto se asienta, como una balanza que acaba de detenerse.
+
+Estas pocas frutas cuentan dos historias a la vez. Un pintor que construye una manzana con color. Y una viuda cuya compra hizo que el público mirara toda su colección.
+
+Ahora busque a Madame Cézanne, la esposa del pintor, pintada de cuerpo entero en un jardín, y escuche su historia allí.

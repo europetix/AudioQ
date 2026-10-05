@@ -1,0 +1,28 @@
+@id: 042 · ES · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Femme au peigne, Composition : paysans, Femme au chapeau blanc
+@where: Entre las obras de Picasso, en el nivel inferior. Busque un gran gouache de un desnudo de pie que se peina el largo cabello negro, un gouache de un padre con la mano en el hombro de su hija bajo una guirnalda de flores, y una mujer sentada con sombrero blanco. Las obras sobre papel se rotan y pueden estar retiradas.
+@what: Pablo Picasso, Femme au peigne (Woman with a Comb), 1906, gouache on paper · Composition : paysans (Composition: Peasants), 1906, gouache on paper, 70 × 50 cm · Femme au chapeau blanc (Woman in a White Hat), 1921, oil on canvas, 118 × 91 cm.
+@listen: A Picasso bought straight from the painter, a tender study for a picture now in Philadelphia, and a quiet woman who may be his first wife.
+@brief: Sharing three quieter pictures with a friend, each with its own small secret; warm, observant, unhurried.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_B Picasso — Femme au peigne: https://www.musee-orangerie.fr/en/artworks/femme-au-peigne-196491 (OFF: 1906, large gouache; bought from Picasso 1929; Domenica kept it, unlike the many other Picassos she sold after her husband's death; standing nude combing long black hair, unbalanced body, foreshortening, disproportionate head, stylised face, triangles heralding Cubism; other 1906 versions incl. Baltimore bronze show her crouching) ; FACTS_B Composition : paysans: https://www.musee-orangerie.fr/en/artworks/composition-paysans-196492 (OFF: 1906, gouache, 70×50; father's protective, tender gesture; garland; Gósol earth tones; white faces with blue shadows recall the Blue Period; study for Paysans, Barnes Foundation) ; FACTS_B Femme au chapeau blanc: https://www.musee-orangerie.fr/en/artworks/femme-au-chapeau-blanc-196495 (OFF: 1921, 118×91; seated, leaning on chair back, hand on knee, lost in thought; muted blue, red, white, "a large pastel with muted colours"; face "could be" Olga's — museum hedge kept)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Esta obra llegó a Paul Guillaume directamente de Picasso, en 1929. Y Domenica la conservó.
+
+Es una hoja grande, pintada al gouache, de 1906. Una mujer desnuda, de pie, se peina el largo cabello negro. Mire qué inestable está. El cuerpo se desequilibra, y la cabeza es demasiado grande para él. Los rasgos del rostro empiezan a estilizarse. [pause] Y busque los triángulos que representan su pecho y su regazo. Esas pequeñas formas planas son un primer susurro del cubismo.
+
+[curious] Y aquí viene lo sorprendente. Ese mismo año, Picasso hizo otras versiones de esta mujer, entre ellas un bronce hoy en Baltimore. En ellas aparece agachada. Aquí está de pie. [pause] Esta hoja es la excepción.
+
+Busque ahora un segundo gouache del mismo año. Un padre apoya la mano en el hombro de su hija, en un gesto protector y tierno. Sobre ellos cuelga una guirnalda de flores, esbozada con rapidez. El color terroso de su pantalón viene de Gósol, el pueblo del Pirineo donde Picasso había estado. Pero las caras blancas, con sombras azules, recuerdan su época azul. [pause] Es un estudio para un cuadro mucho mayor, Campesinos, hoy en la Fundación Barnes de Filadelfia.
+
+[quietly] Luego, un salto de quince años. Una mujer con sombrero blanco está sentada, apoyada en el respaldo de la silla. Una mano descansa en su rodilla. Está absorta. El azul, el rojo y el blanco se suavizan con gris y marrón, y el lienzo entero parece un gran pastel de colores apagados. Su rostro podría ser el de Olga, la primera esposa de Picasso. Podría, dice el museo. Y hace bien en ser prudente.
+
+Su calma pesada y monumental apunta directamente a los gigantes de esos mismos años.
+
+Busque la enorme bañista sentada, un desnudo construido como una estatua. Escuche su historia allí.

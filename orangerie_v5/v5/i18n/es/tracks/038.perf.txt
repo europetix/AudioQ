@@ -1,0 +1,28 @@
+@id: 038 · ES · Matisse room · Level −2
+@section: Matisse
+@room: Matisse room · Level −2
+@type: W
+@title: Matisse — Femme au violon y Femme à la mandoline
+@where: Entre los cuadros de Matisse, en el nivel inferior. Busque un lienzo pequeño con una joven sentada, un violín sobre las rodillas, ante un biombo con círculos azules. Femme à la mandoline, Mujer con mandolina, puede estar cerca.
+@what: Henri Matisse, Femme au violon (Woman with a Violin), 1921–1922, oil on canvas, 55 × 46 cm. Also Femme à la mandoline (Woman with a Mandolin), oil on canvas, sold by Matisse in January 1923.
+@listen: A paused bow, a twin in Baltimore, and what music meant in Matisse's Nice.
+@brief: A friend pointing out small, telling details in an intimate picture; light and attentive, slowing for the paused bow.
+@pace: medium
+@energy: 2→3→2
+@sources: FACTS_B Matisse — Femme au violon: https://www.musee-orangerie.fr/es/obras/femme-au-violon-196467 (OFF: 1921–1922, 55×46; violin on knees, bow in right hand, blue-circle Moorish screen, open case on table; Nice interior c.1921–23; similar slightly smaller version in Baltimore; Guillaume "owned several paintings on the music theme") ; FACTS_B Matisse — Femme à la mandoline: https://www.musee-orangerie.fr/en/artworks/femme-la-mandoline-196471 (OFF: Bernheim-Jeune bought it from Matisse 15 Jan 1923 → Paul Guillaume; window as recurrent theme; music "played an important role in the painter's daily life") ; contested item 1 (La Leçon de musique) NOT used
+@lang: es
+@translation: from the fact-checked English Orangerie V5 038 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] La música se ha detenido. O aún no ha empezado. Una joven sostiene un violín sobre las rodillas. En la mano derecha, aún tiene el arco. Nadie toca. Y por un instante, toda la habitación contiene el aliento.
+
+[pause] Mire el estuche abierto, sobre la mesa, junto a su codo. ¿Acaba de sacar el instrumento, o está a punto de guardarlo? Matisse no lo dice. [pause] El arco, simplemente, espera.
+
+Detrás de ella hay un biombo morisco, cubierto de círculos azules. Es un cuadro pequeño, de algo más de medio metro de alto, de 1921 o 1922. Un interior típico de sus años en Niza. Matisse pintó la escena más de una vez. En Baltimore cuelga hoy una versión muy parecida, con el mismo título y apenas más pequeña.
+
+[curious] ¿Por qué tantos instrumentos en estas habitaciones? En Niza, la música tenía un papel importante en la vida diaria del pintor. Y los instrumentos aparecen una y otra vez en los cuadros que pintó allí.
+
+[warmly] A Paul Guillaume le gustaban, sin duda. Tenía varios cuadros sobre la música. Femme à la mandoline, Mujer con mandolina, es otro. Las notas del museo sobre ese cuadro hablan de las ventanas. Matisse las usaba una y otra vez, para abrir un espacio o para poner un cuadro dentro de otro.
+
+[lightly] Dos mujeres, dos instrumentos, y en ninguno de los cuadros se oye una nota. [pause] Matisse le hace escuchar con los ojos.
+
+Ahora busque sus odaliscas, las mujeres recostadas entre telas estampadas y biombos, y escúchelas allí.

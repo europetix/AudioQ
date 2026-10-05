@@ -1,0 +1,28 @@
+@id: 020 · ES · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Yvonne et Christine Lerolle au piano
+@where: En la sala de los cuadros de Renoir, delante del lienzo horizontal de dos jóvenes al piano, una tocando y la otra pasando las páginas, con dos cuadros colgados en la pared detrás de ellas. La disposición actual no está confirmada, así que puede faltar.
+@what: Pierre-Auguste Renoir, Yvonne et Christine Lerolle au piano (Yvonne and Christine Lerolle at the Piano), around 1897, oil on canvas, 73 × 92 cm.
+@listen: A musical household, two Degas paintings tucked into a Renoir, and why the family never owned their own portrait.
+@brief: Pointing out the hidden pictures in a picture to a friend; conspiratorial at the Degas, then quietly intrigued by the painting's long road to Domenica.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_A Renoir — Yvonne et Christine Lerolle au piano (c.1897, 73 × 92, RF 1960-19; Yvonne at the piano on the left, Christine turning pages on the right; two Degas from their father's collection, Avant la course and Danseuses sous un arbre; eldest daughters of Henry Lerolle, then about 18 and 20; soirées, Debussy): https://www.musee-orangerie.fr/en/artworks/yvonne-et-christine-lerolle-au-piano-196512 , Joconde 00000089515 (OFF) ; FACTS_A related (Orsay holds a Degas photograph of himself with Yvonne and Christine Lerolle): https://musee-orsay.fr/en/node/39841 (OFF) ; G3 14.1, 14.2, Confirmed OK (never sold or given to the Lerolles; deposit at Durand-Ruel 1914–17; Mme Paul Guillaume from 1937; Rouart marriages) (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 020 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Si se cuenta bien, en este cuadro hay tres pintores. Renoir, por supuesto. Y, en la pared detrás de las muchachas, dos cuadros de su amigo Degas.
+
+Son Yvonne y Christine Lerolle, las dos hijas mayores del pintor y coleccionista Henry Lerolle. Cuando Renoir las pintó, hacia 1897, tenían unos dieciocho y veinte años. En esa casa, la música importaba. La familia daba veladas musicales, y Claude Debussy era un invitado habitual.
+
+Yvonne, a la izquierda, toca el piano. Christine, a la derecha, pasa las páginas de la partitura. Es un momento tranquilo y cotidiano en un salón familiar, y Renoir lo pinta así.
+
+[pause] Ahora mire la pared, detrás de ellas. Esos dos cuadros son de Degas, y vienen de la colección de su padre. Uno es una escena de carreras, Avant la course, Antes de la carrera. El otro, Bailarinas bajo un árbol. [pause] Así, Renoir pinta los cuadros de su amigo dentro del suyo. Un pequeño homenaje a Degas, y un retrato del gusto de los Lerolle, no solo de sus hijas. Degas también conocía a las hermanas. El Museo de Orsay guarda una foto que él mismo se tomó con Yvonne y Christine.
+
+[quietly] Lo curioso es esto. Los Lerolle nunca tuvieron este cuadro. Renoir no se lo vendió ni se lo regaló. Lo conservó, salvo una temporada con su marchante en la Primera Guerra Mundial. Tras su muerte pasó por marchantes y colecciones privadas. [pause] Y en 1937, tres años después de la muerte de Paul Guillaume, su viuda Domenica lo compró.
+
+[warmly] Las dos hermanas se casaron más tarde con hombres de la familia Rouart. Pero aquí siguen al piano, en la casa que visitaba Debussy.
+
+Ahora busque al niño con traje rojo de payaso. Es Claude, el hijo de Renoir, y no le hacía ninguna gracia ponérselo.

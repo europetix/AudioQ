@@ -1,0 +1,28 @@
+@id: 005 · ES · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: W
+@title: Monet — Les Nuages (Las nubes)
+@where: En la primera sala ovalada, delante de una de sus dos composiciones más largas. La otra es La mañana, del lado del Sena. Las nubes es la larga que no está del lado del Sena.
+@what: Claude Monet, Les Nuages (Clouds), from Les Nymphéas, 1914–1926, oil on canvas, 200 × 1275 cm.
+@listen: Clouds you can only see by looking down, and what was new about this cycle compared with the water lilies Monet had already shown.
+@brief: Sharing a small visual riddle with a friend, then the back story; curious, warming up, and calm and slow for the long look along the painting.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: FACTS_C §1.2 Les Nuages, 200 × 1275, same length as Matin, Room 1: https://www.musee-orangerie.fr/en/artworks/les-nuages-196302 (OFF via G2) + https://artsandculture.google.com/asset/YQEt9_UVgiL-Og (OFF, museum partner page) ; Room 1 reflections of sky and vegetation: https://www.musee-orangerie.fr/en/node/33 (OFF) ; "from clouds at the water's surface to reflections where the water lilies emerge … quick and dynamic brushstrokes": https://www.musee-orangerie.fr/sites/default/files/2023-03/dossier_pedagogique_nympheas_0.pdf (OFF, snippet) ; 1909 Durand-Ruel show of 48 water-lily canvases (G2, SEC2) ; new = scale and surround (G2 05-6)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 005 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Las nubes de este cuadro no están en el cielo. [pause] Están tendidas sobre la superficie de un estanque.
+
+Ese es todo el truco de esta sala. Monet le hace mirar hacia abajo, al agua, y el cielo llega como reflejo. La sala va de las nubes sobre la superficie del agua a los reflejos donde emergen los nenúfares. Les Nuages, Las nubes, está en el extremo más aéreo de ese recorrido.
+
+Es uno de los dos cuadros más largos de esta sala: doce metros y tres cuartos de punta a punta. Su pareja en longitud es La mañana, del lado del Sena.
+
+[warmly] Monet llevaba mucho tiempo mirando este estanque antes de empezar. En 1909, la galería Durand-Ruel expuso cuarenta y ocho de sus cuadros de nenúfares. Eran cuadros de caballete, hechos para una pared corriente. Cada uno, una ventana al estanque. [pause] Así que aquí lo nuevo no es el tema. Lo nuevo es el tamaño, y que no se detiene en un marco. Rodea la sala, y usted está dentro.
+
+Un cuadro así fue obra de años, no de una tarde a la orilla del agua.
+
+[quietly] Le propongo una manera de mirarlo. Empiece por un extremo y camine despacio hasta el otro, sin detenerse, como quien pasea por la orilla de un estanque. Observe cómo cambia el cielo reflejado. Luego dé la vuelta y regrese. [pause] La segunda vez verá cosas que se le escaparon la primera.
+
+Después, la composición de longitud media de esta sala, de ocho metros y medio de ancho. Se llama Reflejos verdes. Escuche su pista allí.

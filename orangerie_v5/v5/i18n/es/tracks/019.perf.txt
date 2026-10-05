@@ -1,0 +1,28 @@
+@id: 019 · ES · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Jeunes filles au piano (Muchachas al piano)
+@where: En la sala de los cuadros de Renoir, delante del lienzo vertical de dos muchachas al piano, no el cuadro más ancho de las hermanas Lerolle, de unos 116 por 81 centímetros. Las obras de Renoir estuvieron de gira en el extranjero hasta principios de 2026 y la disposición actual no está confirmada, así que puede faltar alguna obra.
+@what: Pierre-Auguste Renoir, Jeunes filles au piano (Young Girls at the Piano), around 1892, oil on canvas, 116 × 81 cm.
+@listen: How Renoir's friends finally got the French state to buy him, and why this is the version he kept for himself.
+@brief: Telling a friend the backstory of a famous picture with gentle indignation, then the pleasure of a quiet twist; unhurried and warm.
+@pace: medium-slow
+@energy: 2→3→4→2
+@sources: FACTS_A Renoir — Jeunes filles au piano (c.1892, 116 × 81, RF 1960-16; deposited with Durand-Ruel 1914–17; in Renoir's studio at his death; bought by Paul Guillaume 1928; shown at Bernheim-Jeune 1929): https://www.musee-orangerie.fr/en/artworks/jeunes-filles-au-piano-196508 , Joconde 00000089507 (OFF) ; Orsay notice (friends annoyed the state had bought nothing; Mallarmé and Roger Marx; Luxembourg purchase 1892; other versions at the Met and private; Orangerie version): https://www.musee-orsay.fr/en/artworks/jeunes-filles-au-piano-1164 (OFF) ; FACTS_A Renoir and Guillaume (25 works; "lively trade" in the 1920s and 1930s; many stayed in the studio until 1919): https://www.musee-orangerie.fr/en/articles/auguste-renoir-105463 (OFF) ; G3 14.8
+@lang: es
+@translation: from the fact-checked English Orangerie V5 019 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] A principios de la década de 1890, Renoir tenía unos cincuenta años. Y sus amigos estaban molestos. El Estado francés nunca le había comprado ni un solo cuadro.
+
+Dos de esos amigos decidieron remediarlo. Uno era Stéphane Mallarmé. El otro, Roger Marx, un joven funcionario de la administración de Bellas Artes. Juntos presionaron para que la pintura impresionista entrara en los museos nacionales. Tras un encargo informal del Estado, Renoir eligió este tema: dos muchachas al piano. [pause] Y en 1892, una de las versiones se compró para el Museo del Luxemburgo. Hoy está en el Museo de Orsay.
+
+[pause] Pero Renoir no lo pintó una sola vez, sino varias. Hay versiones terminadas en el Museo Metropolitano de Nueva York y en colecciones privadas. Y está esta.
+
+[quietly] Esta es la versión que Renoir se quedó. Pasó unos años con su marchante durante la Primera Guerra Mundial. Pero al morir él, seguía en su taller. [pause] En 1928, Paul Guillaume la compró.
+
+Tómese un momento con las dos muchachas y el piano. Esta es la versión que el pintor conservó. El Estado tuvo su cuadro oficial. Renoir se guardó uno para sí.
+
+[lightly] Guillaume, por cierto, tenía buen ojo para ese tipo de cuadros. Muchos de los Renoir de la colección se quedaron en el taller del artista hasta su muerte. El marchante se los compró a la familia y al mercado a lo largo de los años veinte. Hoy la colección tiene veinticinco Renoir. Solo de Derain hay más.
+
+En esta sala hay un segundo cuadro con piano, pintado unos cinco años después. Muestra a dos hermanas, con dos cuadros de Degas en la pared, detrás. Búsquelo y escúchelo allí.
