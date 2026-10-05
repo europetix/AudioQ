@@ -85,3 +85,5 @@ Status: ★ = in V4 (story may be reused after re-verification); ⚠ = loan / lo
 ## Changes from research (5 Oct)
 - R1: Moreau's Orphée is on LEVEL 2, room 57, so 006 moves to level 2. Puvis's Le Pauvre Pêcheur is "not currently exhibited", so it is dropped.
 - R1: Courbet's Burial is back in room 7 (rehung 5 Aug 2026; OFF + SEC2). Both Venuses are in room 3, the Daumier busts in room 4.
+- R5: Roty's La Semeuse wax is not on display and the medal display is not located, so 071 is dropped (its slot goes to Moreau's Orphée, level 2 room 57). Jane Avril: official page says level 2 room 68. Keep it on level 2 with a cue that doesn't depend on the room number; check on site.
+- R5 rooms: Gallé 63, Guimard/Majorelle 64, Carabin 65, Les Muses 70, Le Ballon 71, Jardins publics + Bonnard 72, L'Âge mûr room 55, Balzac / Pompon / Maillol / Bourdelle on the terraces.
