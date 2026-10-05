@@ -45,7 +45,7 @@ Caveat on every room number: rooms come from the "Niveau supérieur / Rez-de-cha
 - Sources: https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF); …/le-dejeuner-sur-lherbe-10737 and node/85245 (the second fragment's pages, OFF, details not read).
 
 ### 027 · Monet — *Coquelicots* (Poppies)
-- 1873 · oil on canvas · 50 × 65.3 cm · RF 1676 (from memory and **not seen in the snippet, so verify**). Set at Argenteuil. Shown at the 1874 exhibition in Nadar's studio as **no. 95**. Moreau-Nélaton gift, 1906. — …/coquelicots-1010 (OFF)
+- 1873 · oil on canvas · 50 × 65.3 cm · inventory no. not seen. Set at Argenteuil. Shown at the 1874 exhibition in Nadar's studio as **no. 95**. Moreau-Nélaton gift, 1906. — …/coquelicots-1010 (OFF)
 - Room: **Niveau supérieur, salle 29** (OFF).
 - Look: the woman with the sunshade and the child in the foreground are "probably" Camille and their son Jean (OFF). A3 adds the chain of owners Durand-Ruel 1873 → Faure → Moreau-Nélaton (OFF).
 - Story: the poster stuck on the glass by Riposte Alimentaire on 1 June 2024 is SEC2 (A3 21.5). There was no glued hand.
@@ -64,7 +64,7 @@ Caveat on every room number: rooms come from the "Niveau supérieur / Rez-de-cha
 - **Room: not given in any snippet (NONE).** Given 2 and 3 above, it may hang with the early works in ground-floor room 18. That is an inference only; check on site.
 - Look: the studio at rue de la Condamine, which Bazille shared with Renoir from 1 Jan 1868 to 15 May 1870. Bazille stands in the centre with a palette. Manet, in a hat, looks at the canvas on the easel. Bazille wrote to his father that "Manet painted me in", and Manet's handling is visible in the tall slim figure. — 60 (OFF; the quotation is Orsay's English rendering of the letter)
 - Edmond Maître sits at the piano on the right, under a Monet still life. The other three figures are disputed: Renoir, Monet, Sisley or Zola are all proposed. — Wikipedia (**WEAK**). Writers should say only "friends whose identities are still debated".
-- Bazille died in the Franco-Prussian War in 1870, the same year as the painting. Only WEAK sources were seen this session; the fact itself is standard (Beaune-la-Rolande, 28 Nov 1870), but it needs an OFF or SEC2 check before use.
+- Bazille died in the Franco-Prussian War in 1870, the same year as the painting. Only WEAK sources were seen this session; date and place need an OFF or SEC2 check before use.
 - Sources: https://www.musee-orsay.fr/en/artworks/latelier-de-bazille-60 (OFF).
 
 ### 030 · Pissarro — *Gelée blanche* (Hoarfrost)
@@ -181,7 +181,6 @@ Orsay holds **five** canvases (OFF; A3 confirmed five):
 - Solares described as "Spanish" (Orsay article) or "Cuban" (A3).
 - Bal dimensions: 131 × 175 or 131.5 × 176.5.
 - "Salle Camondo" for the Sisley (an inference by the search tool).
-- Coquelicots RF 1676 (from memory, not seen).
 
 ## Gaps
 - **Rooms not found:** Bazille, Pissarro *Gelée blanche*, Degas *L'Absinthe*, Sisley, Cézanne (all three), Renoir *Les Baigneuses*, Montagne Sainte-Victoire (both). Gare Saint-Lazare and the Bal rely on A3.
@@ -189,5 +188,5 @@ Orsay holds **five** canvases (OFF; A3 confirmed five):
 - The fifth Rouen canvas (*Portail vu de face*, harmonie brune, bought 1907): its page and size were not found.
 - The full Tokyo loan list: not found. No work in 024–042 is confirmed as staying or going.
 - No official text on the clock window itself (size, mechanism, the view).
-- The Bazille death date and place come from memory and are not sourced in this session.
+- The Bazille death date and place are not sourced in this session.
 - Gelée blanche: no OFF room since the 2024 rehang.
