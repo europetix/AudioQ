@@ -1,0 +1,28 @@
+@id: 025 · ES · Paris rooms · Level 0
+@section: Nave End
+@room: Paris rooms · far end of the nave · Level 0
+@type: R
+@title: París, capital de una nación moderna
+@where: En las salas del fondo de la nave, nivel 0, llamadas «Paris, capitale d'une nation moderne», junto a las escaleras mecánicas que suben al nivel 5. Busque la gran vista pintada de Victor Navlet: toda la ciudad vista desde arriba.
+@what: Rooms opened in May 2022 on the transformation of Paris under the Second Empire, centred on Victor Navlet's Vue générale de Paris, prise de l'Observatoire en ballon, General View of Paris from the Observatory in a Balloon, 1855, and on Garnier's Opéra.
+@listen: What these rooms set out to show, and a bird's-eye view of Paris from a balloon.
+@brief: Floating over Paris with a friend in front of a big view of the city; warm and unhurried, a little delighted by the balloon, reflective at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R2 022 and G §1 "Paris, capitale d'une nation moderne" (new rooms on level 0 at the back of the nave, opened 24 May 2022; Second Empire transformation of Paris through paintings, drawings, models and sculpture; centred on Victor Navlet's large Vue générale de Paris, prise de l'Observatoire en ballon, 1855, and Garnier's Opéra): https://www.musee-orsay.fr/en/articles/new-rooms-paris-capital-modern-nation-214273 (OFF, via audit G) ; Haussmann link: FACTS_R2 020, https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 (OFF). Minimal-facts track per audit G. ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 025 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Imagine que flota sobre París en globo, con toda la ciudad extendida bajo sus pies. Esa es la vista que ofrece este cuadro.
+
+Es de Victor Navlet, y su título ya es una pequeña aventura. Vue générale de Paris, prise de l'Observatoire en ballon. Vista general de París, desde el Observatorio, en globo. Está fechado en 1855.
+
+[pause] Ni una esquina, ni un solo monumento, sino la ciudad entera de una vez. Tómese un momento, y vea cuánto de París reconoce desde el aire.
+
+Estas salas llevan un gran nombre. Paris, capitale d'une nation moderne. París, capital de una nación moderna. Abrieron en mayo de 2022, y cuentan una sola historia, la transformación de París durante el Segundo Imperio, en pinturas, dibujos, maquetas y esculturas.
+
+[curious] Las salas giran en torno a dos cosas. Una es la ciudad vista entera, desde arriba, en la vista de Navlet. La otra es un solo gran edificio, la Ópera de Garnier. [pause] Ya la ha visto dos veces. Las bailarinas de Carpeaux venían de su fachada, y la maqueta bajo el suelo mostraba su barrio, detenido en 1914.
+
+[quietly] Junte las dos cosas y tendrá el retrato de una capital que se reconstruye. [pause] La vista desde el cielo, y un solo edificio en la tierra.
+
+Una última parada en esta planta. Al fondo de la nave, entre las dos torres, La Puerta del Infierno de Rodin mira hacia todo el pasillo. Vaya a colocarse frente a ella para la última historia de la planta baja.

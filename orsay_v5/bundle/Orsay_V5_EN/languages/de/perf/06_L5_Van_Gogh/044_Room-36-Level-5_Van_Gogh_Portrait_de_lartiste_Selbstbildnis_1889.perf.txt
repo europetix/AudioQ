@@ -1,0 +1,30 @@
+@id: 044 · DE · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: W
+@title: Van Gogh — Portrait de l'artiste (Selbstbildnis), 1889
+@where: In Saal 36 auf Ebene 5, vor Van Goghs Brustbild im Anzug, vor einem wirbelnden Hintergrund in blassem Grün und Türkis, mit leuchtend orangem Haar und Bart.
+@what: Vincent van Gogh, Portrait de l'artiste, Self-Portrait, 1889, painted at Saint-Rémy-de-Provence, oil on canvas, 65 × 54.2 cm. Gift of Paul and Marguerite Gachet, 1949.
+@listen: The doctor's family who kept this portrait for decades, what Van Gogh wrote about painting himself, and the stillness at the centre of a moving picture.
+@brief: A friend sharing where a famous face spent its life, then looking hard at it together; candid, absorbed, quietly moved at the end.
+@pace: medium-slow
+@energy: 2→3→4→2
+@sources: FACTS_R4 044 (1889, Saint-Rémy, 65 × 54.2; Gachet collection, given by Paul and Marguerite Gachet 1949; head-and-shoulders, suit, "hard and emaciated" features, "green-rimmed eyes", absinthe green and pale turquoise against the fiery orange of beard and hair, immobility vs "hallucinatory arabesques" of the background): https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-747 (OFF) ; A2 15.2 (not the portrait sent to his mother, OFF CONTRA) ; A2 15.3 letters 800 and 805 (vangoghletters.org/vg/letters/let800, let805, OFF) ; FACTS_R4 044 Artaud quote (musee-orsay.fr/en/program/whats-on/exhibitions/presentation/van-gogh-artaud-man-suicided-society, OFF, extract wording)
+@lang: de
+@translation: from the fact-checked English Orsay V5 044 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieses Gesicht verbrachte Jahrzehnte im Haus eines Arztes.
+
+Es stammt aus der Sammlung von Doktor Paul Gachet, dem Arzt, der Van Gogh in Auvers-sur-Oise betreute. Es blieb dort in der Familie des Arztes bis 1949. Dann schenkten Gachets Kinder, Paul und Marguerite, es der Nation.
+
+Er malte es 1889 in der Heilanstalt von Saint-Rémy-de-Provence. In jenem September schrieb er einen Satz über das Problem jedes Selbstbildnisses. [pause] „Es ist schwer, sich selbst zu kennen, aber es ist auch nicht leicht, sich selbst zu malen.“
+
+[quietly] Schauen Sie also, wie er es gelöst hat. Er zeigt sich schlicht als Brustbild, im Anzug. Die Züge sind hart und hager. Die Augen sind grün umrandet und blicken ängstlich. Das ganze Bild ist auf zwei Farben gestimmt, ein Absinthgrün und ein blasses Türkis. Und dagegen das feurige Orange von Bart und Haar.
+
+Achten Sie nun darauf, was sich bewegt und was nicht. Der Mann selbst ist völlig reglos. Doch Haar und Bart kräuseln sich. Der Hintergrund nimmt diese Wellen auf und breitet sie über die ganze Leinwand aus. [pause] Die Ruhe sitzt mitten in all dieser Bewegung.
+
+[pause] Etwa zwei Wochen später schrieb er über ein Selbstbildnis aus jenen Wochen: „Meine Physiognomie ist viel ruhiger geworden, auch wenn der Blick vielleicht unbestimmter ist als zuvor.“
+
+[reverent] Antonin Artaud schrieb über Van Gogh. Er beschrieb das Gesicht im Selbstbildnis als eines, das „uns mustert und beobachtet, uns mit finsterem Blick prüft“. Bleiben Sie einen Moment davor stehen. Und lassen Sie sich nun Ihrerseits von ihm prüfen.
+
+Suchen Sie irgendwo in den Van-Gogh-Sälen sein Schlafzimmer in Arles: ein kleiner Raum mit gelbem Bett, gelben Stühlen und rotem Boden. Spielen Sie dort den passenden Titel ab.

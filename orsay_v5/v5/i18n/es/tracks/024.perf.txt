@@ -1,0 +1,26 @@
+@id: 024 · ES · Opéra space · Level 0
+@section: Nave End
+@room: End of the nave · Opéra space · Level 0
+@type: R
+@title: La Ópera de Garnier, en corte
+@where: En el espacio de la Ópera, al fondo de la nave, nivel 0: una larga maqueta de la Ópera de París cortada a lo largo, de casi seis metros de largo y unos dos metros y medio de alto. En otoño de 2026 se monta una exposición temporal alrededor de las maquetas, así que el acceso puede cambiar. Siga las indicaciones del museo.
+@what: Opéra de Paris, maquette de la coupe longitudinale, longitudinal-section model of the Paris Opéra, made in 1985 in Rome by the Gianese workshop under Richard Peduzzi's artistic direction, after Garnier's own drawing, at 1/25 scale, 240 × 578 × 110 cm.
+@listen: How to read an opera house from the façade to the back of the stage, and why the model was made.
+@brief: Walking a friend along a giant cutaway, section by section; curious and a little amused, then admiring.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 021 longitudinal-section model (1985, Peduzzi's artistic direction, Gianese workshop in Rome: Ercole Borsani, Amedeo Brogli, Giovanni Gianese; after Garnier's drawing in Le nouvel Opéra de Paris, published 1880; 1/25; 240×578×110 cm; gift 1989; mediation panel since 19 June 2023, 5.60 m, French and English, braille, 18 tactile visuals, four parts: overall section, façade-foyer-grand staircase, auditorium, backstage; Orsay's first universally accessible station; purpose: how Garnier's building works, decoration such as La Danse, and through Degas the corps de ballet): https://www.musee-orsay.fr/en/artworks/opera-de-paris-maquette-de-la-coupe-longitudinale-89419 , https://www.musee-orsay.fr/en/articles/new-mediation-station-front-model-paris-opera-house-219776 (OFF) ; G §1 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 024 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Casi todos los edificios guardan sus secretos tras una pared. A este se la han quitado. Lo que ve es la Ópera de París, cortada a lo largo, desde la fachada hasta el fondo del escenario.
+
+La maqueta se hizo en Roma en 1985, en el taller Gianese, bajo la dirección artística de Richard Peduzzi. Sigue el propio dibujo de Garnier, publicado en su libro Le Nouvel Opéra de Paris en 1880. La escala es de uno a veinticinco, y aun así mide casi seis metros.
+
+[curious] Léala en cuatro partes. Primero, abarque todo el corte, de punta a punta. Luego busque la fachada, el foyer y la gran escalera. Después, la sala. [pause] Y por último, los bastidores, la parte que el público nunca ve.
+
+Delante suele haber un largo panel con textos en francés e inglés, braille e imágenes táctiles. [pause] Desde junio de 2023, es el primer punto de visita del museo pensado para ser accesible a todos los visitantes.
+
+[warmly] ¿Por qué una ópera en un museo de arte? Porque une obras que encontrará por todo el museo. La maqueta explica cómo funciona el edificio de Garnier, la decoración que acaba de ver en La Danse de Carpeaux y, a través de Degas, la vida del cuerpo de baile. [pause] Las bailarinas de Degas le esperan arriba.
+
+Al fondo de la nave, las salas llamadas Paris, capitale d'une nation moderne muestran cómo se transformó París durante el Segundo Imperio. Búsquelas junto a las escaleras mecánicas, y escuche su pista allí.

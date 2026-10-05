@@ -1,0 +1,28 @@
+@id: 045 · ES · Van Gogh rooms
+@section: Van Gogh
+@room: Van Gogh rooms · Level 5
+@type: R
+@title: Van Gogh — La Chambre de Van Gogh à Arles (El dormitorio de Van Gogh en Arles)
+@where: En las salas de Van Gogh del nivel 5; la sala exacta no está confirmada. Busque un pequeño cuadro de un dormitorio sencillo, con cama y sillas amarillas, suelo rojo y paredes de un lila pálido.
+@what: Vincent van Gogh, La Chambre de Van Gogh à Arles, Van Gogh's Bedroom in Arles, 1889, oil on canvas, 57.3 × 73.5 cm, RF 1959 2. A smaller version painted about a year after the 1888 original. A larger version is in the Art Institute of Chicago.
+@listen: A painting meant to rest the mind, made smaller for his family, and the post-war treaty that brought it into the French collection.
+@brief: Sharing a tender, slightly ironic story with a friend in front of a small, bright picture; gentle, a smile at the "revenge", warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 045 (1889; 57.3 × 73.5; RF 1959 2; entered 1959 "by cession in application of the peace treaty with Japan"; painted about a year after the original as a smaller version for his family in Holland; larger version in the Art Institute of Chicago; pale lilac walls, red floor, chrome-yellow chairs and bed per Orsay commentary): https://www.musee-orsay.fr (artwork page and commentary, OFF extract) ; FACTS_R4 045 letter 806 (smaller canvases for his mother and sister incl. the Bedroom, OFF summary, not quoted) ; letter 705 to Theo, 16 Oct 1888, on the first version (quotes "looking at the painting should rest the mind, or rather, the imagination" and "to take my revenge for the enforced rest that I was obliged to take"): vangoghletters.org/vg/letters/let705 (OFF extract)
+@lang: es
+@translation: from the fact-checked English Orsay V5 045 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Van Gogh pintó su dormitorio para vengarse. La palabra es suya, no mía.
+
+Pintó esta habitación de Arles por primera vez en el otoño de 1888, y le escribió a Theo sobre ella. Le habían obligado a descansar. Dijo que la pintó «para vengarme del descanso forzoso que tuve que tomar». Luego explicó qué quería que hiciera el cuadro. «Mirar el cuadro debería descansar la mente, o más bien, la imaginación».
+
+[curious] Fíjese en cómo lo consigue. Aquí nada es sutil. Amarillo para la cama y las sillas. Rojo para el suelo. Lila pálido en las paredes. [pause] Quería que el color, simplificado, hiciera por sí solo el trabajo de la calma.
+
+[pause] Este lienzo no es aquel primero, y una repetición más grande cuelga en Chicago. Más o menos un año después, pintó esta versión más pequeña para su familia en Holanda. En sus cartas de aquel otoño, habla de enviar lienzos más pequeños a casa, para su madre y su hermana. Y el dormitorio está entre ellos. [pause] Así que esta es la habitación donde dormía, reducida para la pared de una familia.
+
+Entró en la colección nacional francesa en 1959, en virtud del tratado de paz con Japón que siguió a la Segunda Guerra Mundial.
+
+[warmly] Un cuadro hecho para descansar la mente, para una madre lejana, por un hombre al que habían mandado descansar, y que en cambio pintó.
+
+En la sala 36, busque su vista nocturna de un río: cielo y agua de un azul profundo, estrellas, y las luces de gas naranjas de la ciudad reflejadas abajo. Escuche su pista allí, aunque el cuadro esté prestado. La pista le dirá dónde colocarse.

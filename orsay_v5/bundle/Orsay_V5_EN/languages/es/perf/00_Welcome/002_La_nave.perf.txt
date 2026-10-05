@@ -1,0 +1,26 @@
+@id: 002 · ES · Top of the central aisle · Level 0
+@section: Opening
+@room: Top of the central aisle · Level 0
+@type: R
+@title: La nave
+@where: En lo alto del pasillo central, en el nivel 0, mirando a lo largo de la gran nave hacia las dos torres del fondo.
+@what: The great hall of the former Gare d'Orsay, adapted by ACT-Architecture with interiors led by Gae Aulenti: a central sculpture aisle, side galleries on level 0, terraces on level 2, and the upper galleries on level 5.
+@listen: How the building works, floor by floor, and the route this walk takes through it.
+@brief: A friend getting you your bearings in a huge space, unhurried and practical, with a little lift at the far end of the view.
+@pace: medium
+@energy: 3→3→4
+@sources: FACTS_R2 002 (three levels; galleries either side of the central nave on the ground floor; terraces of the median level overlook the nave and open onto galleries; "main artery of the visit"; Buxy stone and travertine to match the façade; what sits where on levels 0, 2, 5; Gates of Hell between the towers on the axis of the aisle since 24 May 2022): https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF), https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 (OFF) ; G §1 layout (Lille side = rue de Lille side; Seine side; level 5 Impressionists, Van Gogh, Post-Impressionists; level 2 Lautrec, Nabis, Art Nouveau, terraces) (OFF) ; FACTS_R1 003 (Couture 472 × 772 cm, central sculpture aisle): https://www.musee-orsay.fr/en/artworks/romains-de-la-decadence-9493 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 002 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Todo este museo cuelga de una larga columna vertebral, y usted está en su extremo. El propio museo llama a esta gran nave la arteria principal de la visita. [pause] Apréndala una vez y no se perderá.
+
+Por el medio corre el pasillo central, flanqueado de esculturas. A ambos lados, en esta planta baja, se abren galerías. Un lado se llama lado de la rue de Lille, por la calle que pasa detrás. El otro es el lado del Sena, hacia el río.
+
+A lo largo de la nave, las terrazas del nivel 2 la dominan y llevan a más salas. [pause] Encima está el nivel 5, la última planta de galerías. La nave es de piedra de Buxy, con un travertino elegido para armonizar con la fachada de Laloux.
+
+[warmly] Este es nuestro plan. Empezamos en esta planta. Primero, la pintura académica, del lado de la rue de Lille. Luego el realismo y Manet, del lado del Sena. Después, el fondo de la nave: la Ópera y Rodin. Luego subimos al nivel 5: los impresionistas, Van Gogh y Gauguin. Después bajamos al nivel 2: Toulouse-Lautrec, los nabis, el Art Nouveau y las terrazas de esculturas. Y, por fin, la salida.
+
+[pause] Ahora mire hasta el fondo del pasillo. Allí, entre las dos torres, justo en el eje de este pasillo, se alza La Puerta del Infierno de Rodin. Será lo último que veamos en esta planta.
+
+La primera parada está en este pasillo: el enorme banquete romano de Thomas Couture, de casi ocho metros de ancho. Colóquese frente a él y escuche su pista.

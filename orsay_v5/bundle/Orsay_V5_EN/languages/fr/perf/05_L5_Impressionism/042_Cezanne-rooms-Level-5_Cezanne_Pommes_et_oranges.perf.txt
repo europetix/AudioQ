@@ -1,0 +1,28 @@
+@id: 042 · FR · Cézanne rooms
+@section: Impressionism
+@room: Cézanne rooms · Level 5
+@type: R
+@title: Cézanne — Pommes et oranges
+@where: Dans les salles Cézanne du niveau 5 ; la salle n'est pas confirmée. Cherchez une grande nature morte de pommes et d'oranges sur des plats, avec une étoffe drapée et un pichet à motifs de fleurs. Orsay possède aussi des vues de la montagne Sainte-Victoire, qui sont peut-être accrochées à proximité, ou non.
+@what: Paul Cézanne, Pommes et oranges, Apples and Oranges, around 1899, oil on canvas, 74 × 93 cm. Bequest of comte Isaac de Camondo, 1911.
+@listen: Six paintings from the same props, and why the museum calls this the most important still life of his late years.
+@brief: Explaining to a friend why a table of fruit is worth a long look; plain, enthusiastic in a quiet way, a little wry about the props.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_R3 042 Pommes et oranges (c. 1899, 74 × 93, Camondo 1911; painted in 1899 in his Paris studio; one of six still lifes with the same props: earthenware dishes, a flower-patterned jug, drapery recalling 17th-century Flemish still lifes; "the most important still life produced by the artist in the late 1890s"): https://www.musee-orsay.fr/en/artworks/pommes-et-oranges-1470 and commentary 7098 (OFF) ; FACTS_R3 042 Sainte-Victoire (Orsay holds an oil c. 1890 and a watercolour c. 1900; one not exhibited; used only as a hedge in @where) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Pour un peintre de fruits, Cézanne était remarquablement fidèle à ses accessoires.
+
+En 1899, dans son atelier parisien, il compose une nature morte. Quelques plats en faïence, un pichet fleuri, une étoffe drapée. Il la peint, puis, avec les mêmes accessoires, il la peint de nouveau. [pause] Ce tableau est l'une des six natures mortes nées de ces quelques objets.
+
+[curious] Pourquoi garder les accessoires ? Voici une hypothèse à vérifier de vos yeux. Quand les objets restent les mêmes, il ne reste à changer que la disposition et la peinture elle-même. Le sujet glisse alors doucement du fruit à la façon de l'agencer.
+
+Regardez l'étoffe drapée. Elle rappelle les grandes natures mortes flamandes du dix-septième siècle. Cézanne emprunte donc une manière ancienne et solennelle de dresser une table. Et il la met au service d'un regard très moderne.
+
+[pause] Ici, le musée ne prend aucune précaution. Pour lui, Pommes et oranges est « la plus importante nature morte de l'artiste à la fin des années 1890 ».
+
+[warmly] Alors accordez-lui le temps qu'il lui a donné. Commencez par le pichet et ses fleurs, puis les plats, puis les fruits. Et laissez l'étoffe vous mener autour de la table. [pause] Il a regardé ces mêmes objets six fois. Un long regard de votre part semble la moindre des choses.
+
+Continuez jusqu'à la salle 36, la salle Van Gogh, où les cimaises sont peintes en bleu. Écoutez sa piste à l'entrée.

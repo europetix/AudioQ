@@ -1,0 +1,28 @@
+@id: 014 · DE · Room 14 · Level 0 · Seine side
+@section: Manet and Friends
+@room: Room 14 · Level 0 · Seine side
+@type: R
+@title: Manet — Le Fifre und Émile Zola
+@where: Saal 14, derselbe Saal wie Olympia. Le Fifre ist das hohe Porträt eines Jungen aus einer Militärkapelle vor schlichtem Hintergrund. Émile Zola zeigt den Schriftsteller an seinem Arbeitstisch, mit Bildern an der Wand hinter ihm.
+@what: Édouard Manet, Le Fifre, The Fifer, 1866, oil on canvas, 160.5 × 97 cm, Camondo bequest 1911; and Émile Zola, 1868, oil on canvas, 146 × 114 cm, given by Madame Zola in 1918.
+@listen: A painting the Salon turned down, and the portrait Manet painted to thank the writer who defended him.
+@brief: Pointing a friend from one picture to the next to show how they connect; brisk and curious, then pleased by the hidden signature.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 015a Le Fifre (1866, 160.5×97, RF 1992, Camondo 1911; unnamed boy from a military band, "dignity of a Spanish grandee", flat colour, thick streaks of white, plain ground; Prado 1865, Velázquez's Pablo de Valladolid, "the most astonishing piece of painting ever done" written to Fantin-Latour; rejected by the 1866 Salon jury; fired Zola's enthusiasm): https://www.musee-orsay.fr/en/artworks/le-fifre-709 (OFF) ; FACTS_R2 015b Émile Zola (1868, 146×114, Mme Zola 1918; thanks for Zola's written defence; work table, book, inkwell, quill; reproduction of Olympia, Zola thought it Manet's best; print after Velázquez's Bacchus; Japanese wrestler print by Utagawa Kuniaki II; Japanese screen on the left; blue pamphlet carries Manet's signature as the painting's signature): https://www.musee-orsay.fr/en/artworks/emile-zola-713 (OFF) ; room 14: G (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 014 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Diese beiden Bilder erzählen eine einzige Geschichte. Sie beginnt mit einer Ablehnung. Und sie endet mit einem Dankeschön, in Öl gemalt.
+
+1865 reiste Manet nach Spanien und sah zum ersten Mal den Prado. Ein Porträt von Velázquez überwältigte ihn. Es zeigt einen Mann namens Pablo de Valladolid. An Fantin-Latour schrieb er, es sei „das erstaunlichste Stück Malerei, das je geschaffen wurde.“
+
+Zurück in Paris malte er Le Fifre, den Pfeifer. Sehen Sie ihn an. Ein gewöhnlicher Junge aus einer Militärkapelle, ohne Namen und ohne Kulisse. Nur ein schlichter Grund hinter ihm. Flache Farbflächen, dicke weiße Striche. [pause] Und doch hat er, wie das Museum sagt, die Würde eines spanischen Granden.
+
+[pause] Die Jury des Salons von 1866 lehnte ihn ab. Doch dieses Bild gehörte zu denen, die Émile Zola begeisterten. Zola schrieb danach eine Streitschrift zur Verteidigung Manets.
+
+Das Porträt Zolas ist Manets Art, Danke zu sagen. [warmly] Zola sitzt an seinem Arbeitstisch, mit Buch, Tintenfass und Feder. An der Wand hinter ihm hängt eine Reproduktion der Olympia. Zola hielt sie für Manets bestes Bild. Dahinter ein Stich nach Velázquez und ein japanischer Holzschnitt mit einem Ringer. Links steht ein japanischer Wandschirm.
+
+Suchen Sie jetzt die blaue Broschüre auf dem Tisch. Es ist Zolas Verteidigung Manets. [long pause] Und sie trägt Manets Namen. Das ist die Signatur des ganzen Bildes.
+
+Auch Fantin-Latour malte diese Freunde, Manet mitten unter ihnen. Suchen Sie sein großes Gruppenbild, Un atelier aux Batignolles. Es hängt in der Galerie Seine 2, der Galerie der Porträts der 1860er-Jahre, auf der Seine-Seite dieser Ebene. Spielen Sie dort den passenden Titel ab.

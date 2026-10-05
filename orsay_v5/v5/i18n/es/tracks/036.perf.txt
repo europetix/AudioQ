@@ -1,0 +1,28 @@
+@id: 036 · ES · Impressionist rooms · Level 5
+@section: Impressionism
+@room: Impressionist rooms · Level 5
+@type: R
+@title: Degas — L'Absinthe
+@where: En las salas impresionistas del nivel 5; la sala exacta no está confirmada. Busque a un hombre y una mujer sentados uno junto al otro en la banqueta de un café, con una mesa de mármol delante y una copa de absenta ante ella, en un encuadre muy descentrado.
+@what: Edgar Degas, Dans un café, In a Café, also called L'Absinthe, 1875–1876, oil on canvas, 92 × 68.5 cm. Bequest of Count Isaac de Camondo, 1911.
+@listen: Two friends cast as strangers, a real Paris café, and the odd framing that makes the whole picture feel unsteady.
+@brief: A friend letting you in on the casting behind a bleak picture; dry and knowing at first, then quieter and attentive to the loneliness.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R3 035 (1875–1876; 92 × 68.5; Camondo bequest 1911; the woman on a banquette behind a marble table with a glass of absinthe; side by side "each immersed in silent isolation", empty sad gazes; off-centre framing leaves voids and cuts off the man's pipe and hand; inspired by Japanese prints; "a certain alcoholic imbalance"; sitters Ellen Andrée, actress and model, and Marcellin Desboutin, painter-engraver; café La Nouvelle Athènes, place Pigalle, a meeting place for modern artists; possible denunciation of absinthe, "later prohibited"): https://m.musee-orsay.fr/fr/oeuvres/commentaire_id/dans-un-cafe-167.html ; https://www.musee-orsay.fr/fr/collections/oeuvres-commentees/peinture/commentaire_id/dans-un-cafe-167.html (OFF) ; FACTS_R3 031 (Monet settled in the Nouvelle Athènes district): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 036 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Las dos personas de este café se conocían bien. Degas las pintó como si nunca se hubieran visto.
+
+Ella es Ellen Andrée, actriz y también modelo de pintores. Él es Marcellin Desboutin, pintor y grabador. Y el café es real: La Nouvelle Athènes, en la place Pigalle, punto de encuentro de los artistas modernos de París. Estaba en el mismo barrio al que Monet se había mudado antes de pintar Saint-Lazare. Así que son amigos del propio círculo de Degas, situados en una escena de soledad absoluta.
+
+[quietly] Mírela primero a ella, sentada en la banqueta, tras una mesa de mármol, con una copa de absenta delante. [pause] Luego mire las dos caras. Están sentados uno junto al otro, y sin embargo cada uno está encerrado en su silencio. Sus miradas son vacías y tristes, y nadie habla.
+
+[pause] Ahora retroceda y mire el encuadre. Toda la escena está desplazada hacia un lado. Hay tramos vacíos de mesa, y la pipa y la mano del hombre quedan cortadas en el borde. Ese encuadre descentrado venía de las estampas japonesas. Aquí produce algo inquietante, y el museo lo llama «un cierto desequilibrio alcohólico». [pause] El propio cuadro parece tambalearse.
+
+Quizá sea también una advertencia contra la absenta, una bebida que más tarde se prohibió.
+
+[lightly] Andrée y Desboutin volvieron a sus vidas. El cuadro los retuvo en esa mesa.
+
+Después, vaya a buscar un público mucho más alegre. En las salas impresionistas de este nivel, busque el Bal du moulin de la Galette de Renoir, una gran escena de baile llena de gente, y escuche su pista allí.

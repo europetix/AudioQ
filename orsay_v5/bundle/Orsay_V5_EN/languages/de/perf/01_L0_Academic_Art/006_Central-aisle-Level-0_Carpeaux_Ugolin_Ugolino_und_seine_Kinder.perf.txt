@@ -1,0 +1,28 @@
+@id: 006 · DE · Central aisle · Level 0
+@section: Academic Art
+@room: Central aisle · Level 0
+@type: R
+@title: Carpeaux — Ugolin (Ugolino und seine Kinder)
+@where: Im Mittelgang mit den Skulpturen auf Ebene 0, bei der Bronzegruppe eines Vaters mit seinen Kindern, fast zwei Meter hoch.
+@what: Jean-Baptiste Carpeaux, Ugolin et ses enfants, Ugolino and his Children, bronze cast by Victor Thiébaut in 1863 from the plaster finished in Rome in 1861, 194 × 148 × 119 cm.
+@listen: A young sculptor who overstayed in Rome, argued with his elders, and turned a scene from Dante into bronze.
+@brief: Telling a friend about a stubborn young artist, brisk and a little amused at his battles, then quiet and serious in front of the father's anguish.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_R1 007 (bronze cast by Victor Thiébaut Feb 1863; 194 × 148 × 119; central sculpture aisle; Dante Inferno canto XXXIII, Ugolino della Gherardesca, 13th-century Pisa, betrayed the Ghibelline party, shut in a tower by Archbishop Ubaldini to starve; Carpeaux reached Rome and the Villa Medici in 1856 almost two years late, awkward relations with director Victor Schnetz; worked 1857–1861 beyond his term; plaster finished Oct 1861; Académie judgement 8 Mar 1862 below his hopes, remarks published; marble fee too low, hard negotiation, bronze shown at the Salon of 1863; Tuileries Garden as a pendant to the Laocoön 1863–1904; the father's pain and anguish; study of the Laocoön, Michelangelo, Géricault's Raft of the Medusa): https://www.musee-orsay.fr/en/artworks/ugolin-630 (OFF), https://musee-orsay.fr/en/collections/works-in-focus/sculpture/commentaire_id/ugolino-7160.html (OFF) ; FACTS_R2 019 (Carpeaux a Prix de Rome winner): https://www.musee-orsay.fr/en/artworks/la-danse-1704 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 006 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Jean-Baptiste Carpeaux kam fast zwei Jahre zu spät in Rom an. Kein guter Anfang.
+
+Als Gewinner des Prix de Rome hatte er einen Platz in der Villa Medici. Er kam 1856 dort an. Von Anfang an war das Verhältnis zum Direktor schwierig, dem Maler Victor Schnetz. Dann wählte Carpeaux sein Thema. Er arbeitete vier Jahre daran, weit über die erlaubte Zeit hinaus.
+
+Das Thema stammte aus Dantes Inferno. Im Pisa des dreizehnten Jahrhunderts verriet Ugolino della Gherardesca seine Partei. Der Erzbischof Ubaldini ließ ihn in einen Turm sperren, wo er verhungern sollte. [pause] Carpeaux zeigt ihn mit seinen Kindern.
+
+[quietly] Sehen Sie den Vater an. Alles in dieser Gruppe dreht sich um seinen Schmerz und seine Qual. Carpeaux hatte den antiken Laokoon studiert, Michelangelo und Géricaults Floß der Medusa. [pause] Alle drei stehen hinter dem Gesicht dieses einen Vaters.
+
+[pause] Die Akademie in Paris beurteilte das Gipsmodell. Das Urteil blieb hinter seinen Hoffnungen zurück. Ihre Bemerkungen erschienen sogar in der Presse. Dann bot der Staat ihm einen Auftrag für eine Marmorfassung an. Das Honorar fand er viel zu niedrig. Carpeaux verhandelte hart. Am Ende entstand diese Bronze, gezeigt im Salon von 1863.
+
+[lightly] Dann fand die Bronze ein seltsames Zuhause. Rund vierzig Jahre stand sie draußen im Tuileriengarten, als Gegenstück zu einem Laokoon. Carpeaux hatte den Laokoon studiert. Nun stand sein Ugolino neben einem.
+
+Gehen Sie jetzt hinüber auf die Seine-Seite, in Saal 4. Dort stehen Daumiers kleine bemalte Tonköpfe von Männern des öffentlichen Lebens, die Berühmtheiten des Juste Milieu. Spielen Sie dort den passenden Titel ab.

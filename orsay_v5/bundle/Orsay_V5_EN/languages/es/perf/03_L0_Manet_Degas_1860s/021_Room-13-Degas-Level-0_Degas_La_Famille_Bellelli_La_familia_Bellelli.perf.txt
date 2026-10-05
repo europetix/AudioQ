@@ -1,0 +1,30 @@
+@id: 021 · ES · Room 13 · Level 0
+@section: Manet and Friends
+@room: Room 13 · Degas · Level 0
+@type: W
+@title: Degas — La Famille Bellelli (La familia Bellelli)
+@where: En la sala 13 del nivel 0, la sala de Degas, frente al gran retrato de familia, de unos dos por dos metros y medio: una madre de luto con dos niñas, y el padre vuelto hacia otro lado. Su sala no está confirmada, y del 14 de noviembre de 2026 al 28 de marzo de 2027 puede estar prestado a Tokio. Si no lo encuentra, escuche frente a Sémiramis construisant Babylone, el lienzo ancho de una reina a la orilla de un río que mira alzarse una ciudad, en esta misma sala.
+@what: Edgar Degas, Portrait de famille, also called La Famille Bellelli, The Bellelli Family, 1858–1869, oil on canvas, 201 × 249.5 cm, RF 2210. Bought at the first Degas studio sale in 1918. Stand-in: Sémiramis construisant Babylone, begun about 1860, oil on canvas, 151.5 × 258 cm.
+@listen: A grandfather watching from the wall, a family split down the middle, and a young Degas who wanted to paint history.
+@brief: Two friends reading a family's tensions in a group portrait; quiet and observant, with a lift for the studio story and a calm close.
+@pace: medium-slow
+@energy: 2→3→4→2
+@sources: FACTS_R6 (b) La Famille Bellelli (1858–1869, 201 × 249.5, RF 2210; largest finished canvas Degas ever painted; painted in Italy aged 22 to 26; aunt Laure, Baron Gennaro Bellelli, Italian patriot banished from Naples and in exile in Florence, daughters Giulia and Giovanna; Laure in mourning for her father Hilaire, his portrait framed on the wall near her face; mother dignified, slightly stern; father turned away; size, sober colours and open perspectives oppressive; family tensions isolating each member; van Dyck; bought by the Musée du Luxembourg at the first studio sale 1918 with help of René de Gas; four old tears, cleaning restored light and colour; Degas asked for works not worth keeping to be burned, eight sales instead): https://www.musee-orsay.fr/en works in focus 7168, node 287266, article 219295 and pop.culture.gouv.fr Joconde 000PE003801 (OFF) ; Tokyo loan risk: FACTS_R6 (b) (SEC1/SEC2, tobikan.jp) ; FACTS_R6 (b) Sémiramis (begun c. 1860, 151.5 × 258, stayed in studio until his death; queen of Assyria on the Euphrates bank; chariot and hairdo from Assyrian reliefs newly at the Louvre; Piero della Francesca seen in Arezzo more likely; nude first then draped, the Ingres way): works in focus semiramis-building-babylon (OFF) ; room 13 "Degas": findings/M_planguide_ete_2026.md (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 021 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] En este retrato de familia hay un hombre muerto. No está sentado con la familia. Cuelga en la pared, en un marco.
+
+Si no encuentra el gran cuadro de familia, puede estar prestado a Tokio este invierno. Entonces colóquese frente a Sémiramis construisant Babylone, el lienzo ancho de una reina a la orilla de un río, aquí en la sala 13, y escuche allí.
+
+Este es Portrait de famille, a menudo llamado La Famille Bellelli, La familia Bellelli. Degas lo pintó mientras terminaba su formación en Italia, entre los veintidós y los veintiséis años. Es el mayor lienzo terminado de toda su obra.
+
+Son la hermana de su padre, Laure, su marido, el barón Gennaro Bellelli, y sus dos hijas, Giulia y Giovanna. El barón era un patriota italiano, desterrado de Nápoles y exiliado en Florencia. [pause] Laure está de luto por su propio padre, Hilaire, que era el abuelo de Degas. Su retrato cuelga enmarcado en la pared, junto a la cara de ella.
+
+[curious] Ahora lea a la familia, en el lienzo o en su imaginación. La madre tiene una dignidad imponente, una autoridad algo severa. El padre se aparta, distante. Entre el gran tamaño, los colores sobrios y las perspectivas abiertas, el lugar resulta opresivo. [pause] Cada persona parece aislada por las tensiones de la familia.
+
+Degas lo conservó. [pause] En 1918, el Museo del Luxemburgo lo compró en la primera de sus ventas de taller. Había pedido que se quemara lo que no valiera la pena guardar. En cambio, ocho ventas mostraron cuánto había guardado.
+
+[warmly] Si está frente a Sémiramis, este es el joven Degas que intenta ser pintor de historia. La reina de Asiria, fundadora de Babilonia, mira desde la orilla del Éufrates cómo se alza su ciudad. Su carro y su peinado parecen tomados de relieves asirios recién llegados al Louvre. Dibujó las figuras desnudas y luego las vistió, a la manera de Ingres. [pause] En vida de Degas, nunca salió de su taller.
+
+Salga al pasillo central de esculturas y busque La Danse de Carpeaux, el corro de bailarinas de piedra, y escuche su pista allí.

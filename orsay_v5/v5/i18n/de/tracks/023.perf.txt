@@ -1,0 +1,26 @@
+@id: 023 · DE · Opéra space · Level 0
+@section: Nave End
+@room: End of the nave · Opéra space · Level 0
+@type: R
+@title: Das Opernviertel im Jahr 1914
+@where: Im Opéra-Bereich am Ende des Mittelschiffs, Ebene 0: ein Modell der Straßen rund um die Opéra, sechseinhalb mal sechseinhalb Meter, von oben zu sehen unter einem durchsichtigen Boden. Von Oktober 2026 bis Mitte Januar 2027 wird um diese Modelle eine Sonderpräsentation aufgebaut. Zugang oder Präsentation können daher abweichen. Folgen Sie den Schildern des Museums.
+@what: Rémi Munier, with Eric de Leusse, Jean-Luc Bethmont and Borani Hoy, Maquette du quartier de l'Opéra, arrêtée en l'état en 1914, model of the Opéra quarter as it stood in 1914, 1984–86, resin under plexiglass, 650 × 650 cm.
+@listen: A whole quarter of Paris stopped in one year, and why the museum built it.
+@brief: Standing over a city with a friend, pointing things out; light and pleased at first, then quietly thoughtful at the date.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: FACTS_R2 020 Opéra quarter model (Munier with de Leusse, Bethmont, Hoy; 1984–86; resin under plexiglas, 650×650 cm; under a transparent floor, seen from above, as in 1914; Opéra space laid out by Richard Peduzzi; purpose: the Opéra and its quarter "profoundly transformed by the prefect Haussmann's major public works"; gift 1989; hook "the city frozen in the year the war began"; Peduzzi exhibition 6 Oct 2026 – 17 Jan 2027): https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 , https://www.musee-orsay.fr/en/node/377998 , https://www.musee-orsay.fr/en/node/80 (OFF) ; G §1 Opéra space (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 023 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] 1914 ist das Jahr, in dem der Krieg begann. Dieses kleine Paris erlebt ihn nie.
+
+Unter Ihren Füßen ist ein ganzes Stadtviertel stehen geblieben. Die Straßen rund um die Opéra sind hier eingefroren, so wie sie in jenem Jahr aussahen. Der volle Titel des Modells sagt genau das. Maquette du quartier de l'Opéra, arrêtée en l'état en 1914. [pause] Das Opernviertel, festgehalten im Zustand von 1914.
+
+Rémi Munier und ein kleines Team bauten es zwischen 1984 und 1986, als das Museum entstand. Es ist aus Kunstharz, unter Plexiglas, mit sechseinhalb Metern Seitenlänge. Den Raum darum gestaltete Richard Peduzzi.
+
+[curious] Warum Paris im Kleinen, in einem Kunstmuseum? Um die Opéra und ihr Viertel zu zeigen. In den Worten des Museums ein Teil der Stadt, „tiefgreifend verwandelt durch die großen öffentlichen Bauarbeiten des Präfekten Haussmann.“ [pause] Gerade haben Sie Carpeaux' Tänzerinnen von ihrer Fassade gesehen. Hier ist der Stadtplan, zu dem das Gebäude gehörte.
+
+[lightly] Schauen Sie also hinunter und suchen Sie Garniers Opéra zwischen den Häuserblöcken. Folgen Sie dann den Straßen, die von ihr ausgehen, einer nach der anderen. [pause] Von hier oben ist der Plan des Viertels leichter zu lesen als je zu Fuß.
+
+Im selben Bereich erscheint die Opéra noch einmal, diesmal von vorn bis hinten aufgeschnitten. Suchen Sie dieses zweite Modell in der Nähe. Sein Titel führt Sie hindurch.

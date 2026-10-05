@@ -1,0 +1,28 @@
+@id: 030 · DE · Impressionist rooms · Level 5
+@section: Impressionism
+@room: Impressionist rooms · Level 5
+@type: R
+@title: Pissarro — Gelée blanche (Raureif)
+@where: In den Sälen der Impressionisten auf Ebene 5, der genaue Saal ist nicht bestätigt. Suchen Sie eine breite Landschaft mit gefrorenen, gefurchten Feldern und einem Mann, der dürres Holz einen Weg entlangträgt, unten links signiert und datiert.
+@what: Camille Pissarro, Gelée blanche, Hoarfrost, 1873, oil on canvas, 65.5 × 93.2 cm, painted at Pontoise. Shown at the first Impressionist exhibition in 1874.
+@listen: What a famous critic said about this frost, word for word, and why it says more about him than about the painting.
+@brief: A friend enjoying a famous insult and then quietly taking the painting's side; wry at the quotation, calm and attentive when looking.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_R3 030 (1873; 65.5 × 93.2; signed and dated "C.Pissarro 1873" lower left; RF 1972 27; Pontoise; a man carries dead wood along a path; one of Pissarro's five works shown in 1874): https://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/notice.html?nnumid=000368 (OFF) ; A3 20.1 (Leroy quoted exactly on Orsay's page: "uniform palette scrapings on a dirty canvas … neither head nor tail, neither top nor bottom, neither front nor back"; the jibe refers to furrows and frost): https://www.musee-orsay.fr/en/artworks/gelee-blanche-368 (OFF) ; A1 (Leroy's mocking review of Impression, soleil levant gave the group its name, SEC2) ; A3 20.5 (Pissarro the eldest of the group, SEC2)
+@lang: de
+@translation: from the fact-checked English Orsay V5 030 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Manche Kritiker bleiben nur durch ihre Irrtümer in Erinnerung. Louis Leroy ist einer von ihnen. Seine spöttische Kritik an einem Bild von Monet, Impression, Sonnenaufgang, gab den Impressionisten ihren Namen. Und auch zu diesem Bild hatte er etwas zu sagen.
+
+Es war 1874, bei der ersten Ausstellung der Gruppe. Camille Pissarro, der Älteste der Gruppe, zeigte fünf Werke, und dies war eines davon. Leroy sah diese gefrorenen Furchen und nannte sie „gleichförmiges Palettengeschabe auf einer schmutzigen Leinwand“. Dann legte er nach: „weder Kopf noch Schwanz, weder oben noch unten, weder vorn noch hinten.“
+
+[pause] Ein guter Spruch. Und zugleich ein Geständnis, dass er nicht wusste, wie man es ansieht.
+
+Schenken Sie dem Bild also den Blick, den er ihm verweigert hat. Pissarro malte dieses Feld im Jahr zuvor, in Pontoise. Suchen Sie die Furchen und den Reif, der weiß auf ihnen liegt. [pause] Genau das nannte Leroy Geschabe. Folgen Sie dann dem Weg. Dort trägt ein Mann eine Last dürres Holz. Gewöhnliche Winterarbeit. Und Pissarro fand sie eine Leinwand von fast einem Meter Breite wert.
+
+[quietly] Schauen Sie dann nach unten, in die linke Ecke. Dort hat Pissarro signiert und datiert. Er wollte seinen Namen genau auf dieses Bild setzen.
+
+Was Leroy für ein Durcheinander hielt, ist der Frost selbst. Und dieses Bild hängt noch immer an einer Museumswand, anderthalb Jahrhunderte nach seiner Kritik.
+
+[pause] Gehen Sie nun weiter in Saal 31. Suchen Sie Monets La Gare Saint-Lazare, eine Bahnhofshalle voller Dampf und Licht. Spielen Sie den passenden Titel vor dem Dampf ab.

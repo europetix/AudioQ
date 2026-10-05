@@ -1,0 +1,28 @@
+@id: 049 · DE · Room 38 · Level 5
+@section: Post-Impressionism
+@room: Room 38 · Level 5
+@type: R
+@title: Seurat — Le Cirque (Der Zirkus)
+@where: Saal 38 auf Ebene 5, der Saal von Seurat und den Neoimpressionisten. Suchen Sie eine große Leinwand im Hochformat mit einer Zirkusmanege aus winzigen Farbtupfen, im Vordergrund ein Clown von hinten, und einen gemalten blauen Rand.
+@what: Georges Seurat, Le Cirque (Circus), 1890–91, left unfinished. Oil on canvas, 186 × 152 cm. Bequest of John Quinn, accepted by the State in 1927.
+@listen: The painting Seurat showed days before he died, the theory that makes everything in it climb, and the frame that belongs to the picture.
+@brief: A friend telling a short, sad story about bad timing, then turning with real interest to how the picture works; brisk, a hush at the death, warm at the end.
+@pace: medium
+@energy: 3→2→4→3
+@sources: FACTS_R4 049 Seurat — Le Cirque (1890–91 unfinished, 186 × 152, room 38, Signac's collection then Quinn, State 1927, third night-entertainment panel after Parade and Chahut, Indépendants 1891, died of diphtheria days after the opening, "artistic testament", Charles Henry, Chevreul and Rood, painted dark border and blue flat frame, clown from behind, horsewoman and acrobats, critic on ascending lines and dominant orange): https://www.musee-orsay.fr/en/artworks/le-cirque-542 (OFF) ; A3 30.1, 30.4, 30.6 and Confirmed OK (room 38, died March 1891 aged 31, "chromo-luminarisme", clown not leaping): https://www.musee-orsay.fr/en/artworks/le-cirque-3015 (OFF) + SEC2
+@lang: de
+@translation: from the fact-checked English Orsay V5 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Wenige Maler hatten ein schlechteres Timing als Georges Seurat. Im März 1891 zeigte er diese Leinwand auf dem Salon des Indépendants in Paris. Wenige Tage nach der Eröffnung starb er an Diphtherie, mit einunddreißig Jahren.
+
+Le Cirque, Der Zirkus, wurde also nie vollendet. Das Museum nennt es sein künstlerisches Testament. Es war das dritte seiner großen Bilder über das nächtliche Pariser Vergnügen. Nach zwei anderen namens Parade und Chahut.
+
+Seurat malte nicht nur nach Gefühl. Er studierte die Farbtheorien von Chevreul und Rood. Und die Ideen von Charles Henry darüber, wie Linien und Farben auf unsere Gefühle wirken. Er selbst nannte seine Methode Chromo-Luminarismus. [pause] Und in diesem Bild sollen aufsteigende Linien sich wie Freude anfühlen.
+
+[curious] Folgen Sie ihnen also nach oben. Vorn ein Clown, der Ihnen den Rücken zukehrt. Er steht dort, wo in Chahut der Musiker stand. Dahinter eine Kunstreiterin und Akrobaten in der Manege. Ein Kritiker der Zeit sah das ganze Bild auf Fröhlichkeit hinarbeiten. Mit aufsteigenden Linien, und mit Orange als beherrschender Farbe.
+
+Schauen Sie nun auf die Ränder. Seurat malte einen dunklen Rand direkt auf die Leinwand. Der flache Rahmen darum hat dasselbe Blau. [pause] Der Rahmen ist Teil des Gemäldes.
+
+[warmly] Den letzten Schliff bekam es nie. Doch es tut noch immer, was Seurat von ihm verlangte. Alles darin steigt auf.
+
+Fast ein Vierteljahrhundert lang gehörte diese Leinwand dem Maler Paul Signac. Seine eigenen Werke folgen gleich. [pause] Suchen Sie in Saal 40 seine Femme à l'ombrelle, eine Frau mit Sonnenschirm aus kleinen, getrennten Farbtupfen. Spielen Sie dort den passenden Titel ab.

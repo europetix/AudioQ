@@ -1,0 +1,32 @@
+@id: 056 · DE · Galerie Françoise Cachin · Level 5
+@section: Post-Impressionism
+@room: Galerie Françoise Cachin · Level 5
+@type: R
+@title: Henri Rousseau — La Charmeuse de serpents (Die Schlangenbeschwörerin)
+@where: Auf Ebene 5 in der Galerie Françoise Cachin, nahe den Gauguin-Sälen: eine große, fast quadratische Dschungelszene, fast 1,9 Meter breit, mit einer dunklen Gestalt, die Flöte spielt, umgeben von Schlangen. Der Saal ist nicht bestätigt. Das Bild war bis Juli 2026 ausgeliehen. Ist es nicht ausgestellt, überspringen Sie diesen Titel und gehen Sie weiter in Saal 45.
+@what: Henri Rousseau, La Charmeuse de serpents, The Snake Charmer, 1907, oil on canvas, 169 × 189.5 cm. Bequest of Jacques Doucet, 1936.
+@listen: A jungle painted without leaving Paris, the woman who ordered it, and the artists it went on to haunt.
+@brief: A friend pointing out an enchanting, slightly unsettling picture; curious and warm, with a touch of wonder.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R7 La Charmeuse de serpents (1907, 169 × 189.5; bequest of Jacques Doucet 1936; Galerie Françoise Cachin; commissioned by Robert Delaunay's mother after a trip to India; Delaunay, Jarry, Apollinaire, Picasso, Breton among admirers; dark-skinned androgynous figure with a flute; "a black Eve in a disquieting Garden of Eden…"; bright dense backlit colours anticipating Magritte; precise and naïve drawing; vertical asymmetrical composition; uniform treatment; one of his "most fascinating and enigmatic" paintings, inspired the Surrealists; one part very bright, one very dark; jungles from studies at the Muséum and the Jardin des Plantes greenhouses, not from travel): m.musee-orsay.fr/en/works/commentaire_id/the-snake-charmer-8846.html (OFF) ; Doucet collection beside the Demoiselles d'Avignon: musee-orangerie.fr/en/whats-on/exhibitions/henri-rousseau-painters-ambition (OFF) ; loans to the Barnes and the Orangerie to 20 Jul 2026: FACTS_R7 (SEC2/OFF) ; level 5 theme rooms: findings/M_planguide_ete_2026.md (OFF), no Rousseau room named
+@lang: de
+@translation: from the fact-checked English Orsay V5 056 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Dieser Dschungel ist in Paris gewachsen, in einem Gewächshaus.
+
+Das Bild reist allerdings. Hängt es nicht an der Wand, gehen Sie direkt weiter in Saal 45 zu Sérusiers Le Talisman.
+
+Henri Rousseau malte seine Dschungel nicht nach Reisen. Er malte sie nach Studien im Naturkundemuseum und in den Treibhäusern des Jardin des Plantes. Daraus baute er dieses Bild.
+
+[curious] Es begann als Auftrag. Robert Delaunays Mutter bestellte es nach einer Reise nach Indien. Delaunay war einer von Rousseaus glühendsten Bewunderern. Ebenso Jarry, Apollinaire, Picasso und Breton.
+
+[pause] Sehen Sie nun hin. Eine dunkelhäutige Gestalt, weder eindeutig Mann noch Frau, spielt Flöte. Die Schlangen antworten, und mit ihnen die ganze Natur ringsum. Der Kommentar des Museums vergleicht die Gestalt mit einer schwarzen Eva in einem beunruhigenden Garten Eden. Sie bezaubert eine Schlange, die genauso furchterregend ist, wie die Schlange der Genesis verführerisch war.
+
+[pause] Sehen Sie, wie die Farbe von hinten beleuchtet ist, hell und dicht. Ein Teil des Bildes ist sehr hell, der andere sehr dunkel. Die Zeichnung ist präzise und naiv zugleich. Und Gestalt, Tiere und fantastische Pflanzen werden alle genau gleich behandelt.
+
+Diese Fremdheit wirkte weit. Die Farben im Gegenlicht scheinen Magritte vorwegzunehmen. Das Bild inspirierte ganze Generationen von Künstlern, vor allem die Surrealisten.
+
+[warmly] Der Sammler Jacques Doucet besaß es, neben Picassos Demoiselles d'Avignon. Als sein Vermächtnis kam es 1936 in die nationalen Sammlungen.
+
+[pause] Gehen Sie nun weiter in Saal 45, Redon und die Nabis. Suchen Sie dort Paul Sérusiers sehr kleines Bild auf Holz, Le Talisman. Spielen Sie dort den passenden Titel ab.

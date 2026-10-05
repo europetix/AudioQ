@@ -1,0 +1,28 @@
+@id: 029 · DE · Room 29 · Level 5
+@section: Impressionism
+@room: Room 29 · Level 5
+@type: R
+@title: Monet — Coquelicots (Mohnblumen)
+@where: Saal 29, Ebene 5. Eine kleine Landschaft mit einem Feld voller rotem Mohn, im Vordergrund eine Frau mit Sonnenschirm und ein Kind.
+@what: Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.
+@listen: The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.
+@brief: A friend pointing out a small, sunny picture after a giant one; warm and easy, curious in the looking, a little pleased at the coincidence at the end.
+@pace: medium
+@energy: 3→3→4
+@sources: FACTS_R3 027 (1873; 50 × 65.3; Argenteuil; 1874 exhibition in Nadar's studio, no. 95; woman with sunshade and child "probably" Camille and Jean; Moreau-Nélaton gift 1906; room 29): https://www.musee-orsay.fr/en/artworks/coquelicots-1010 (OFF) ; A3 21.1 (Monet showed at five of the group exhibitions: culture.gouv.fr + gallery.ca, SEC2) ; A3 21.6 (a cooperative company of artists, SEC2) ; FACTS_R3 025 (Manet's Déjeuner given by Moreau-Nélaton 1906): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 029 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] 1874 gründete eine Gruppe von Malern eine eigene Gesellschaft. Im Atelier von Nadar in Paris hängten sie eine Ausstellung auf. Im Katalog trug dieses kleine Bild die Nummer fünfundneunzig.
+
+Nach dem riesigen Picknick ist Monets Coquelicots fast ein Taschenformat. Es ist etwa einen halben Meter hoch. Er malte es im Jahr vor der Ausstellung, in Argenteuil.
+
+Schauen Sie auf die beiden Figuren im Vordergrund. Eine Frau unter einem Sonnenschirm und ein Kind neben ihr. Wahrscheinlich sind es Camille und ihr gemeinsamer Sohn Jean. [pause] Das ist also nicht nur ein Mohnfeld. Es ist sehr wahrscheinlich ein Familienspaziergang.
+
+[curious] Der Mohn gibt dem Bild seinen Titel und den größten Teil seiner Farbe. Folgen Sie mit dem Blick dem Rot über das Feld. Kehren Sie dann zu der Frau und dem Kind zurück. Zwei kleine Figuren, die durch all diese Farbe waten.
+
+Die Ausstellung in Nadars Atelier war erst der Anfang. Monet stellte später auf fünf der Gruppenausstellungen aus.
+
+[lightly] Das Bild kam 1906 in den Besitz der Nation, als Schenkung des Sammlers Étienne Moreau-Nélaton. [pause] Im selben Jahr schenkte er auch Manets Déjeuner sur l'herbe. So wurden das Picknick, mit dem Monet wetteifern wollte, und sein eigenes kleines Mohnfeld zusammen öffentliches Eigentum.
+
+[pause] Suchen Sie als Nächstes in den Sälen der Impressionisten auf dieser Ebene Pissarros Gelée blanche, Raureif. Ein weites Winterfeld mit gefrorenen Furchen, und ein Mann, der auf einem Weg Holz trägt. Dort wartet der passende Titel auf Sie.

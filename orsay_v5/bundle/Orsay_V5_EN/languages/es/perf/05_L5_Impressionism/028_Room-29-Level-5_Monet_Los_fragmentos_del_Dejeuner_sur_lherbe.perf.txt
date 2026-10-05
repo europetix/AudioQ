@@ -1,0 +1,28 @@
+@id: 028 · ES · Room 29 · Level 5
+@section: Impressionism
+@room: Room 29 · Level 5
+@type: R
+@title: Monet — Los fragmentos del Déjeuner sur l'herbe
+@where: Sala 29, nivel 5. Dos lienzos muy grandes de una misma escena de pícnic, colgados uno junto al otro: el gran fragmento central, de casi dos metros y medio de alto, y el fragmento izquierdo, colgado a su izquierda.
+@what: Claude Monet, Le Déjeuner sur l'herbe, Luncheon on the Grass, begun 1865, oil on canvas: two surviving fragments, the central one 248.7 × 218 cm.
+@listen: How the biggest canvas of Monet's youth ended up as rent security, then mouldy, then in pieces.
+@brief: Telling a friend the slightly absurd fate of a young painter's grand ambition; curious at the start, wry at the landlord, quietly respectful at the end.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_R3 026 (begun spring 1865; over four metres by six; "both a tribute and a challenge to Manet"; abandoned 1866 just before the Salon; left with landlord as security for rent; mouldy when recovered 1884; cut up, three fragments kept; central fragment 248.7 × 218 cm, dation 1987; left fragment hung to its left, Wildenstein gift 1957; room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 028 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En la primavera de 1865, el joven Claude Monet empezó el cuadro más grande de su juventud. El lienzo medía más de cuatro metros por seis. Su tema era un pícnic sobre la hierba. Tenía muy presente el Déjeuner sur l'herbe de Manet, el cuadro que usted ya ha visto. Monet quería que su pícnic fuera a la vez un homenaje y un desafío.
+
+Nunca lo terminó. Un año después, justo antes del Salón, lo abandonó. [pause] Y entonces el lienzo tuvo una vida muy poco gloriosa.
+
+[wry] Monet se lo dejó a su casero, como garantía del alquiler. Cuando por fin lo recuperó, en 1884, estaba cubierto de moho. Así que lo cortó en pedazos, y conservó tres.
+
+Dos de esos pedazos están aquí. El grande es el centro de la composición, de casi dos metros y medio de alto. A su izquierda cuelga el fragmento izquierdo. Llegaron al patrimonio nacional por caminos distintos, con treinta años de diferencia. Uno como donación, y otro como pago de impuestos. [pause] El tercer pedazo no está en este museo.
+
+Retroceda e imagine el resto a su alrededor, el lienzo entero a tamaño real. [pause] Esa es la escala que un joven pintor creía necesitar para medirse con Manet.
+
+[quietly] Es extraño admirar un cuadro que su propio autor desmontó. Pero estos pedazos captan a un joven pintor justo cuando se atrevió a responder a Manet a tamaño real. Ya encontraría otras maneras de defender su idea.
+
+En esta misma sala, busque un lienzo mucho más pequeño: un campo de amapolas rojas con una mujer bajo una sombrilla. Es Coquelicots, de Monet. Escuche su pista frente a él.

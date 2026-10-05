@@ -1,0 +1,30 @@
+@id: 016 · ES · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
+@type: W
+@title: Manet — Le Déjeuner sur l'herbe (El almuerzo sobre la hierba)
+@where: Sala 18 de esta planta, donde lo sitúa el museo. Si el cuadro no está allí, puede haberse trasladado a la sala 29 del nivel 5, la sala de la colección Moreau-Nélaton: escuche donde lo encuentre. Es el gran cuadro del pícnic, de unos dos metros de alto y dos metros y medio de ancho.
+@what: Édouard Manet, Le Déjeuner sur l'herbe, Luncheon on the Grass, 1863, oil on canvas, 207 × 265 cm. Given to the national museums by Étienne Moreau-Nélaton in 1906.
+@listen: The Emperor's show for rejected paintings, the old masters hidden in this modern picnic, and the painter it provoked.
+@brief: Telling a friend the story of a famous rejection with a twist; lively at the start, curious at the borrowings, quietly impressed by the museum's verdict.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 025 Le Déjeuner sur l'herbe (1863, 207×265, RF 1668; Faure 1878–98 → Durand-Ruel → Moreau-Nélaton, given 1906; borrows from Titian's Concert champêtre and Marcantonio Raimondi's engraving after Raphael's Judgement of Paris; "can perhaps be considered as the departure point for Modern Art"; Faure the opera baritone; location room 18 per OFF snippets, conflict with room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF) ; Salon des Refusés 1863 by Napoleon III's decree, shown as "Le Bain": A1 Track 09 row 4 (OFF/SEC2) ; Cabanel's Naissance de Vénus bought by Napoleon III at the 1863 Salon: FACTS_R1 005a https://www.musee-orsay.fr/en/artworks/naissance-de-venus-98 (OFF), "same year" framing only ; Monet's Déjeuner "both a tribute and a challenge to Manet", room 29: FACTS_R3 026 https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 016 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] En 1863, el emperador hizo algo notable. Dio a los cuadros rechazados por el jurado del Salón una exposición propia. Por decreto de Napoleón Tercero se abrió el Salon des Refusés, el Salón de los Rechazados. [pause] Y este cuadro colgó allí.
+
+Entonces no se llamaba almuerzo. Manet lo presentó con un título más sencillo, Le Bain, El baño.
+
+Ese mismo año, en el Salón oficial, el emperador compró El nacimiento de Venus de Cabanel para su colección. Quizá la vio antes, en la sala 3. Un desnudo fue para el emperador. [pause] Este, para los rechazados.
+
+[curious] Sin embargo, Manet no tiraba la tradición por la borda. La tomaba prestada, de dos fuentes. Una es el Concert champêtre de Tiziano. La otra, un grabado de Marcantonio Raimondi según El juicio de Paris de Rafael. No se pueden pedir antepasados más respetables que Tiziano y Rafael. Aun así, el resultado colgó entre los rechazados.
+
+Tómese su tiempo. Intente separar lo moderno de este pícnic y lo que viene del Renacimiento. Esa tensión es lo esencial. El veredicto del propio museo es prudente, y por eso más fuerte. [long pause] Este cuadro «quizá pueda considerarse el punto de partida del arte moderno».
+
+Con todo, encontró admiradores. Su primer dueño fue el barítono de ópera Jean-Baptiste Faure. Más tarde lo tuvo el coleccionista Étienne Moreau-Nélaton, que en 1906 lo donó a los museos nacionales.
+
+[warmly] Y provocó al menos a otro pintor. Claude Monet empezó un enorme pícnic propio, pensado a la vez como homenaje y como desafío a Manet. [pause] Lo que queda de él cuelga en la sala 29, en el nivel 5.
+
+El otro gran desafío de Monet, Femmes au jardin, Mujeres en el jardín, cuelga en la sala 18 de esta planta. Búsquelo y escuche su pista allí.

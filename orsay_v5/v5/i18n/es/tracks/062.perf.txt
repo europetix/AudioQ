@@ -1,0 +1,30 @@
+@id: 062 · ES · Room 51 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 51 · Salle des fêtes · Level 2
+@type: W
+@title: La Salle des fêtes — el salón de baile del hotel
+@where: En la sala 51 del nivel 2, la Salle des fêtes. Colóquese en el centro de la sala, entre espejos y lámparas de araña, y mire los paneles pintados en lo alto de las paredes.
+@what: The ballroom of the former station hotel, opened with the Gare d'Orsay on 14 July 1900, restored rather than reconstructed. Painted décor by Pierre Fritel, 1900, oil on canvas fixed to plaster, commissioned by the Compagnie des chemins de fer d'Orléans.
+@listen: A ballroom built for railway travellers, the one period room the museum kept, and a famous press conference in 1958.
+@brief: A friend showing off a grand room with a wink, then turning more serious for a moment of history; warm, lightly amused, composed.
+@pace: medium
+@energy: 3→3→4→3
+@sources: FACTS_R6 (c) (Niveau médian, Salle 51 – Salle des fêtes; Laloux's luxury hotel of 400 rooms with a restaurant and a salle des fêtes; station and hotel inaugurated 14 July 1900 for the Exposition universelle; styles of French classicism Louis XIV to Louis XV; stone, staff, ornamental cast iron; "an authentic room from the old hotel, not reconstructed but restored"; château life and the Galerie des Glaces at Versailles; period rooms otherwise excluded; hotel closed 1 January 1973; mirrors, chandeliers; Pierre Fritel 1900, ordered by the Compagnie des chemins de fer d'Orléans, oil on canvas fixed to plaster, four trapezoid panels on the east and west walls, themes including Music, Poetry and Dance, four triangular panels on the north and south walls, e.g. L'Été): musee-orsay.fr history page node/60 "La gare" and Fritel/Purcell artwork records 155575, 127028 (OFF) ; de Gaulle press conference 19 May 1958 in the salle des fêtes of the hotel (Orsay history page, OFF), about 500 journalists, to explain his 15 May declaration and reassure those who feared a dictatorship, "Why do you want me, at 67, to start a career as a dictator?" in English as reported speech: ina.fr/ina-eclaire-actu/video/i00012921 and charles-de-gaulle.org (SEC2) ; "opened his return to power" wording: FACTS_R6 (c) nuance ; room 51 and level-2 layout: findings/M_planguide_ete_2026.md (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 062 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Este museo fue una estación de tren. [pause] Y esta sala era el salón de baile de su hotel.
+
+El arquitecto Laloux rodeó la estación por dos lados con un hotel de lujo de cuatrocientas habitaciones. Tenía restaurante, y tenía esto, una salle des fêtes. Estación y hotel se inauguraron juntos el 14 de julio de 1900, para la gran Exposición Universal.
+
+[amused] Mire a su alrededor. Espejos. Lámparas de araña. Busca evocar la vida en un castillo y la Galería de los Espejos de Versalles. Una pista de baile digna de un rey, a pocos pasos de los andenes.
+
+La decoración toma de todos los estilos del clasicismo francés, de Luis Catorce a Luis Quince. Piedra, yeso, hierro fundido ornamental. Y en lo alto de las paredes, las pinturas de Pierre Fritel. Las encargó la propia compañía ferroviaria, la Compagnie des chemins de fer d'Orléans. En los muros este y oeste, cuatro paneles de lados inclinados, con temas como la Música, la Poesía y la Danza. En los muros norte y sur, cuatro triángulos, uno de ellos el Verano.
+
+[pause] Esta sala es una rareza aquí. Al diseñar el museo, se excluyeron las salas de época, salvo el salón de baile. Es una sala auténtica del antiguo hotel. [pause] No reconstruida, sino restaurada.
+
+[quietly] Aquí no solo se bailó. El 19 de mayo de 1958, el general de Gaulle dio aquí, en la salle des fêtes del hotel, una rueda de prensa. Acudieron unos quinientos periodistas. Acababa de declararse dispuesto a asumir los poderes de la República, y muchos temían una dictadura. Según suele contarse, les preguntó por qué querrían que, a sus sesenta y siete años, empezara una carrera de dictador. Aquella rueda de prensa abrió su regreso al poder.
+
+El hotel cerró definitivamente el primero de enero de 1973. El salón de baile se quedó.
+
+Ahora vaya al extremo oeste de esta planta, cerca de la sala 72, a la sala 59, la del simbolismo. Busque el Orphée de Gustave Moreau: una muchacha con rico vestido oriental que sostiene la cabeza de un hombre sobre una lira. Escuche su pista allí.

@@ -1,0 +1,26 @@
+@id: 050 · FR · Room 40 · Level 5
+@section: Post-Impressionism
+@room: Room 40 · Level 5
+@type: R
+@title: Signac — Femme à l'ombrelle
+@where: Salle 40, niveau 5, parmi les néo-impressionnistes. Cherchez le portrait par Paul Signac d'une femme à l'ombrelle, peint par petites touches de couleur séparées. D'autres Signac sont accrochés salle 39.
+@what: Paul Signac, Femme à l'ombrelle (Woman with a Parasol), 1893. Oil on canvas, 81 × 65 cm.
+@listen: The woman Signac met at a cabaret and painted after ten years together, and how the next generation took the Impressionists' favourite subject and remade it in dots.
+@brief: Letting a friend in on a quiet love story behind a formal-looking picture, then playing a looking game; warm and light.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_R4 050 Signac (Femme à l'ombrelle 1893, 81 × 65, room 40; Berthe Roblès 1862–1942, distant cousin of Pissarro; met early 1880s at the Chat Noir, lived with him from then; married 7 Nov 1892; finished Neo-Impressionist portraits rare; last of a series of family and friends incl. Fénéon 1890 MoMA; parasol theme as in Monet's two "Essai de figure en plein air" at Orsay, "in a purely Neo-Impressionist manner"; Signac works in rooms 39 and 40; Signac owned Le Cirque): https://www.musee-orsay.fr/en/artworks/femme-lombrelle-25640 (OFF) ; A3 30.3–30.4 ("divisionnisme" was Signac's term; colours mix in the eye and stay luminous; SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 050 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Paul Signac a rencontré la femme de ce tableau dans un cabaret, le Chat noir, au début des années 1880. Dès lors, elle a partagé sa vie.
+
+Elle s'appelait Berthe Roblès, une cousine éloignée du peintre Camille Pissarro. Ils se marient en novembre 1892, après dix ans de vie commune environ. L'année suivante, il la peint ici, en Femme à l'ombrelle.
+
+[pause] Cela seul le rend singulier. Les portraits achevés sont rares chez Signac. C'est le dernier d'une petite série de portraits de sa famille et de ses amis. Parmi eux, l'écrivain Félix Fénéon, aujourd'hui au Museum of Modern Art de New York.
+
+[lightly] Et le sujet est un clin d'œil à la génération précédente. La femme à l'ombrelle était un motif favori des impressionnistes. Monet a peint deux de ces essais de figure en plein air, tous deux dans ce musée. Signac reprend la même idée et la traite, comme le dit le musée, d'une manière purement néo-impressionniste.
+
+[pause] Signac appelait sa méthode le divisionnisme. Les couleurs sont posées en touches séparées, pour se mêler dans votre œil et rester lumineuses. [pause] Approchez-vous, et Berthe se décompose en couleurs. Reculez, et elle se recompose. Essayez plusieurs fois. Le tableau change à chaque pas.
+
+Continuez jusqu'à la salle 43, la salle de Pont-Aven. Cherchez une jeune femme grandeur nature, allongée de tout son long dans un bois : Madeleine au Bois d'Amour, d'Émile Bernard. Sa piste vous y attend.

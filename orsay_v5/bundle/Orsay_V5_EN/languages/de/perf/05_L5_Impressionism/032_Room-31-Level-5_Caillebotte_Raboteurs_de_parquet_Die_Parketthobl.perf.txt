@@ -1,0 +1,28 @@
+@id: 032 · DE · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: R
+@title: Caillebotte — Raboteurs de parquet (Die Parketthobler)
+@where: Saal 31, Ebene 5, derselbe Saal wie Monets Gare Saint-Lazare. Eine große Leinwand mit Arbeitern, die die Dielen eines leeren Fußbodens abziehen.
+@what: Gustave Caillebotte, Raboteurs de parquet, The Floor Scrapers, 1875, oil on canvas, 102 × 147 cm. Given by the Caillebotte heirs through Auguste Renoir, 1894.
+@listen: Why the Salon jury rejected a painting of men at work, and how it reached the nation by a side door.
+@brief: A friend explaining, with quiet conviction, why a calm picture once shocked people; steady, a little pointed about the jury, warm about its arrival.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 032 (1875; 102 × 147; RF 2718; "one of the first representations of the urban proletariat"; sent to the 1875 Salon, the jury "shocked by its crude realism" rejected it; "gift of the Caillebotte heirs through Auguste Renoir", 1894, not part of the bequest; room 31): https://www.musee-orsay.fr/en/artworks/raboteurs-de-parquet-105 (OFF) ; A3 (shown at the Impressionist exhibition of 1876, OFF) ; A3 28.3 (it divided the critics; Zola found it too exact, SEC2) ; FACTS_R3 031 (Caillebotte bought Monet's Gare Saint-Lazare): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 032 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] 1875 betrachtete die Jury des offiziellen Salons dieses Bild und war schockiert. Nicht von einem Akt oder einer Schlacht. Sondern von Männern, die einen Boden abziehen.
+
+Der Maler war Gustave Caillebotte, derselbe Mann, der Monets Gare Saint-Lazare kaufte. Er war Sammler und auch Maler, und er schickte diese Leinwand zum Salon. Die Jury war schockiert von dem, was sie für groben Realismus hielt. Sie lehnte das Bild ab.
+
+[pause] Heute ist dieser Schock schwer nachzufühlen. Doch dies ist eine große Leinwand, fast anderthalb Meter breit. Und sie gehört ganz den arbeitenden Männern, bei der Arbeit. Das Museum nennt sie eine der ersten Darstellungen des städtischen Proletariats. [pause] Das war das Grobe daran. Nicht die Malerei, sondern das Thema.
+
+Betrachten Sie das Bild also so, wie die Jury es nicht tat. Nehmen Sie den Boden selbst wahr, das Thema im Titel. Und die Männer, die an ihm arbeiten. Schenken Sie ihnen die Aufmerksamkeit, die ein Salonbild einem König schenken würde.
+
+Im Jahr darauf zeigte Caillebotte es stattdessen bei den Impressionisten, auf ihrer Ausstellung von 1876. Dort spaltete es die Kritik. Sogar Zola, der für Manet gekämpft hatte, fand es zu genau.
+
+[warmly] Und es gehört nicht zu Caillebottes berühmtem Vermächtnis. Nach seinem Tod schenkte seine Familie es gesondert, über seinen Freund Renoir.
+
+[pause] Suchen Sie, noch in diesem Saal, Degas' La Classe de danse, Die Tanzklasse: ein Ballettmeister inmitten seiner jungen Schülerinnen. Spielen Sie dort den passenden Titel ab.

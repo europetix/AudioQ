@@ -1,0 +1,28 @@
+@id: 018 · ES · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
+@type: R
+@title: Bazille — L'Atelier de Bazille (El taller de Bazille)
+@where: Sala 18 del nivel 0, la sala de Bazille, Monet y Renoir en la década de 1860, la misma que Femmes au jardin de Monet. Busque un cuadro del interior de un taller con varios hombres: en el centro, un pintor alto y delgado con una paleta, y un hombre con sombrero que mira el lienzo del caballete.
+@what: Frédéric Bazille, L'Atelier de Bazille, Bazille's Studio, 1870, oil on canvas, 98 × 128 cm. Bequeathed by the artist's brother, Marc Bazille, in 1924.
+@listen: The studio Bazille shared with Renoir, and the friend who painted Bazille into his own picture.
+@brief: Sharing a small, affectionate puzzle with a friend; amused at the borrowed figure, then quiet and tender at what happened that same year.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R3 029 (1870; 98 × 128; bequeathed by Marc Bazille 1924; studio rue de la Condamine shared with Renoir 1 Jan 1868 – 15 May 1870; Bazille centre with palette; Manet in a hat looks at the canvas on the easel; letter to his father "Manet painted me in"; Manet's handling visible in the tall slim figure; other figures debated): https://www.musee-orsay.fr/en/artworks/latelier-de-bazille-60 (OFF) ; FACTS_R2 016 (Fantin-Latour, Un atelier aux Batignolles, 1870, Galerie Seine level 0, includes Bazille "who would fall a few months later at age twenty-six in the Franco-Prussian War"): https://www.musee-orsay.fr/en/artworks/un-atelier-aux-batignolles-210 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF) ; age at death 28 (corrected 5 Oct 2026 from 26): musee-orsay.fr FR page Un atelier aux Batignolles "à l'âge de vingt-huit ans" and the museum's exhibition "Frédéric Bazille (1841-1870)" (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 018 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Este pintor aparece en su propio cuadro, pero no se pintó a sí mismo. Lo pintó otro.
+
+El pintor es Frédéric Bazille. Este es su taller de la rue de la Condamine, en París, que compartió con Renoir algo más de dos años. En 1870 pintó la sala, con sus amigos dentro.
+
+Busque la figura alta y delgada, de pie en el centro, con una paleta. Ese es Bazille. Luego, el hombre con sombrero que mira el lienzo del caballete. Ese es Manet. [pause] Bazille le escribió a su padre que «Manet me pintó en el cuadro». Y si mira de cerca esa figura alta, verá la manera de pintar del propio Manet. Los demás amigos son más difíciles de identificar. Su identidad aún se discute.
+
+Así que es un cuadro de taller con la mano de dos pintores. Viene del mismo círculo que Fantin-Latour reunió en torno a Manet en su gran retrato de grupo de la galería del Sena, donde también está Bazille. Los dos cuadros son del mismo año.
+
+[quietly] Ese mismo año llegó la guerra. [pause] En pocos meses, Bazille murió en la guerra franco-prusiana, a los veintiocho años. Nunca vio las exposiciones de grupo que sus amigos organizarían unos años después. Mucho más tarde, su hermano Marc legó este cuadro a la nación.
+
+[long pause] Así que lo que tiene delante es el taller del que no tuvo esa oportunidad. Lleno de amigos, y de cuadros por venir.
+
+Ahora, una sala muy distinta y una pregunta más difícil. Cruce la nave al lado de la rue de Lille, hacia el fondo, y busque la sala 10 B, À qui appartiennent ces œuvres? Escuche allí.

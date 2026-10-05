@@ -1,0 +1,30 @@
+@id: 068 · FR · Room 68 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 68 · Level 2
+@type: R
+@title: Toulouse-Lautrec — Jane Avril dansant
+@where: Salle 68 au niveau 2, la salle Toulouse-Lautrec, « spectacles et coulisses ». C'est un tableau haut et étroit sur carton : une femme qui danse seule, peinte à touches fines et rapides, avec deux personnages derrière elle.
+@what: Henri de Toulouse-Lautrec, Jane Avril dansant (Jane Avril Dancing), around 1892. Oil on cardboard, 85.5 × 45 cm. Bequest of Antonin Personnaz, 1937.
+@listen: How a girl in a hospital for nervous illness discovered she could dance, and how Lautrec caught her in a few thin strokes.
+@brief: Telling a friend the moving true story of a dancer, then looking closely at how she is painted; tender at the start, lifting with the waltz, light at the end.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: FACTS_R5 060 (c. 1892, oil on cardboard, 85.5 × 45, Personnaz bequest 1937; Niveau médian salle 68 vs older level-5 plan-guides; "the fluidity of oil paint diluted with turpentine", broad strokes for "the essential elements of the dancer's movement"; unknown woman in a hat and "the impresario Warner", model for The Englishman at the Moulin Rouge): https://www.musee-orsay.fr/en/artworks/jane-avril-dansant-7998 (OFF) ; "Qui était Jane Avril ?" (Jeanne Beaudon 1868–1943; mother beat her; chorea; Salpêtrière at 14; Mi-Carême masked ball, waltz, circle and applause, "her vocation was born"; Moulin Rouge, Jardin de Paris, Folies-Bergère; "the incarnation of dance"; married Maurice Biais 1911 aged 42, quiet life at Jouy-en-Josas): https://www.musee-orsay.fr/en/node/288022 (OFF) ; A1 Track 11 items 3, 4, 5, 8 (no 1905/1929 story; hedge on the Englishman; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 068 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Jane Avril a découvert qu'elle savait danser dans un hôpital.
+
+Elle est née Jeanne Beaudon en 1868, et son enfance a été dure, auprès d'une mère qui la battait. Enfant, elle souffre de chorée, une maladie nerveuse qui provoque des mouvements convulsifs. À quatorze ans, elle est internée à l'hôpital de la Salpêtrière, à Paris.
+
+Puis vient un bal masqué, là-bas, à la mi-carême. [pause] Une valse commence, et elle se laisse emporter. Elle danse, et les autres forment un cercle autour d'elle et l'applaudissent. Selon le musée, c'est ce soir-là que sa vocation est née.
+
+Elle dansera ensuite au Moulin Rouge, au Jardin de Paris et aux Folies-Bergère. Ses contemporains voyaient en elle l'incarnation de la danse. En 1911, à quarante-deux ans, elle épouse l'affichiste Maurice Biais. Elle quitte la scène pour une vie paisible à Jouy-en-Josas.
+
+[curious] Regardez maintenant comment Lautrec la peint. Le tableau est haut et étroit, sur carton, et la peinture est fine. Il diluait ses huiles à la térébenthine, pour qu'elles coulent. À larges touches, il n'a posé que l'essentiel de son mouvement. [pause] C'est moins un portrait qu'une vision fugitive.
+
+Derrière elle, deux personnages. D'un côté, une femme inconnue, en chapeau. De l'autre, l'impresario Warner. Il a aussi posé pour l'une des estampes les plus connues de Lautrec, L'Anglais au Moulin Rouge.
+
+[quietly] Mais votre regard revient toujours vers elle. La jeune fille du bal de la Salpêtrière, qui danse encore, en quelques touches légères.
+
+Restez avec Lautrec. Dans cette même salle, cherchez un petit tableau : une clownesse, dans un cabinet particulier, attache à son costume une grande collerette jaune. Écoutez son histoire là-bas.

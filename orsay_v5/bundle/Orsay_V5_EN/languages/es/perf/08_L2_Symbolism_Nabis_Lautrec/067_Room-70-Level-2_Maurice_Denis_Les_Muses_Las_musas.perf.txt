@@ -1,0 +1,26 @@
+@id: 067 · ES · Room 70 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 70 · Level 2
+@type: R
+@title: Maurice Denis — Les Muses (Las musas)
+@where: Sala 70 del nivel 2, frente a un lienzo alto con mujeres vestidas a la moda de la década de 1890, reunidas entre los troncos rectos de grandes castaños.
+@what: Maurice Denis, Les Muses, The Muses, 1893, oil on canvas, 171 × 137.5 cm. Bought at public sale in 1932.
+@listen: How Denis turned the Muses of myth into women of his own day, and put his new wife among them.
+@brief: A friend pointing out a private detail in a public painting; warm and unhurried, a small smile at the reveal of the bride.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R5 064 Denis — Les Muses (1893, oil on canvas, 171 × 137.5 cm, bought at public sale 1932, room 70, Muses as women in contemporary dress, century-old chestnut trees of the terrace at Saint-Germain-en-Laye where Denis lived all his life, trunks give "rhythm and decorative power", Marthe married June 1893 among the three seated women, inspired his art until her death): https://www.musee-orsay.fr/en/artworks/les-muses-160 ; works-in-focus the-muses-2069 (OFF) ; FACTS_R4 056 (Talisman the founding work of the Nabis) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 067 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En junio de 1893, el joven pintor Maurice Denis se casó con una mujer llamada Marthe. Ese mismo año terminó este lienzo. [pause] Y ella está en él.
+
+Denis era uno de los nabis, los pintores del pequeño Talisman que vio arriba. Así podían verse sus ideas unos años después, a gran tamaño.
+
+El tema son las musas del mito clásico. [pause] Pero Denis deja atrás la Antigüedad. Sus musas son mujeres vestidas a la moda de su época, reunidas en una terraza. Y el lugar es real. Es la terraza de Saint-Germain-en-Laye, donde Denis vivió toda su vida, bajo castaños que ya tenían un siglo.
+
+Mire primero los troncos. Suben rectos por el cuadro y marcan su ritmo, como los compases de una partitura. El museo habla del ritmo y de la fuerza decorativa que dan a toda la escena. Las mujeres se acomodan entre ellos.
+
+[quietly] Luego busque a las tres mujeres sentadas en primer plano. Una de ellas es Marthe, la recién casada. Siguió inspirando su arte hasta la muerte de ella. [pause] Así que este es un cuadro de las musas. Y también un retrato de su esposa, el año de su boda.
+
+Ahora vaya a la sala 68, dedicada a Toulouse-Lautrec y a los espectáculos de su París. Busque un cuadro alto y estrecho sobre cartón: una mujer que baila sola, pintada con trazos finos y rápidos, con dos figuras de pie detrás. Es Jane Avril, y su historia empieza allí.

@@ -1,0 +1,30 @@
+@id: 020 · ES · Room 11 · Level 0
+@section: Manet and Friends
+@room: Room 11 · Cézanne's beginnings · Level 0
+@type: R
+@title: Cézanne — Le Christ aux limbes y Une moderne Olympia
+@where: En la sala 11 del nivel 0, la sala de los comienzos de Cézanne. Le Christ aux limbes es el cuadro alto, de 1,7 metros aproximadamente, de Cristo que desciende entre figuras que esperan. Une moderne Olympia es el lienzo pequeño y luminoso de una mujer desnuda, una sirvienta y un hombre vestido de negro que mira.
+@what: Paul Cézanne, Le Christ aux limbes, Christ in Limbo, about 1869, oil on plaster transferred to canvas, 168.5 × 100.5 cm. Une moderne Olympia, A Modern Olympia, 1873–1874, oil on canvas, 46.2 × 55.5 cm, gift of Paul Gachet, 1951.
+@listen: A mural cut off a family wall and refused by the State, and Cézanne's cheeky reply to Manet's Olympia.
+@brief: A friend sharing two odd stories about a famous painter's awkward start; amused, curious, a little fond.
+@pace: medium
+@energy: 3→3→4→3
+@sources: FACTS_R6 (a) Le Christ aux limbes (c. 1869, oil on plaster transferred to canvas, 168.5 × 100.5; murals for the Jas de Bouffan in the 1860s; salon of his father's house; a year after his death the new owner had paintings put on canvas for the State; Musée du Luxembourg refused; scattered; copy of an engraving after Sebastiano del Piombo; Christ into Limbo, righteous of the Old Testament; bottom left probably Adam and Eve): https://www.musee-orsay.fr/en/artworks/le-christ-aux-limbes-136066 and works-in-focus christ-in-limbo-19038 (OFF) ; FACTS_R6 (a) Une moderne Olympia (1873–74, 46.2 × 55.5, gift of Paul Gachet 1951; answer to Manet's Olympia, Salon 1865; painted at Doctor Gachet's in Auvers "in the heat of a discussion"; bright colour, touch recalling Fragonard; Black servant uncovers the nude; man in black like Cézanne as spectator; first Impressionist exhibition 1874, scorned by public and critics): https://www.musee-orsay.fr/en/artworks/une-moderne-olympia-1478 (OFF) ; room 11 "Les débuts de Cézanne": findings/M_planguide_ete_2026.md (OFF) and artwork pages (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 020 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Este cuadro fue una vez parte de una pared, en la casa del padre de Cézanne.
+
+En la década de 1860, el joven Paul Cézanne pintó murales para decorar la casa familiar, el Jas de Bouffan, cerca de Aix-en-Provence. Le Christ aux limbes, Cristo en el limbo, se pintó sobre el yeso del salón.
+
+[pause] Un año después de morir Cézanne, el nuevo dueño hizo arrancar algunos murales y pasarlos a lienzo. Quería donarlos al Estado. El Museo del Luxemburgo rechazó el regalo. [pause] Así que las piezas se fueron dispersando.
+
+Mire de cerca. El joven pintor copiaba un grabado según Sebastiano del Piombo. Cristo desciende al limbo, donde los justos del Antiguo Testamento esperan ser redimidos. Las figuras de abajo a la izquierda son probablemente Adán y Eva.
+
+[curious] Ahora busque en esta sala el lienzo pequeño y luminoso, Une moderne Olympia, Una Olympia moderna. Responde a la Olympia de Manet, escándalo del Salón de 1865. Cézanne la pintó en casa del doctor Gachet, en Auvers-sur-Oise. En el calor de una discusión, tomó un pincel e hizo este boceto en color.
+
+Vea cómo deslumbra el color, y qué brillante es la pincelada, que recuerda a Fragonard. Una sirvienta negra descubre a la mujer desnuda. Un hombre de negro mira, como un espectador en el teatro. [pause] Se parece extrañamente al propio Cézanne.
+
+[wry] Cézanne lo presentó en la primera exposición impresionista, en 1874. El público y la crítica lo despreciaron por igual.
+
+Ahora, la sala 13, la de Degas. Busque el gran retrato de familia de una madre de luto con dos niñas. Si está prestado, escuche su pista de todos modos. Le llevará a otro Degas.

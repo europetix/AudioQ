@@ -1,0 +1,28 @@
+@id: 029 · FR · Room 29 · Level 5
+@section: Impressionism
+@room: Room 29 · Level 5
+@type: R
+@title: Monet — Coquelicots
+@where: Salle 29, niveau 5. Un petit paysage : un champ de coquelicots rouges, avec au premier plan une femme tenant une ombrelle et un enfant.
+@what: Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.
+@listen: The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.
+@brief: A friend pointing out a small, sunny picture after a giant one; warm and easy, curious in the looking, a little pleased at the coincidence at the end.
+@pace: medium
+@energy: 3→3→4
+@sources: FACTS_R3 027 (1873; 50 × 65.3; Argenteuil; 1874 exhibition in Nadar's studio, no. 95; woman with sunshade and child "probably" Camille and Jean; Moreau-Nélaton gift 1906; room 29): https://www.musee-orsay.fr/en/artworks/coquelicots-1010 (OFF) ; A3 21.1 (Monet showed at five of the group exhibitions: culture.gouv.fr + gallery.ca, SEC2) ; A3 21.6 (a cooperative company of artists, SEC2) ; FACTS_R3 025 (Manet's Déjeuner given by Moreau-Nélaton 1906): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 029 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1874, un groupe de peintres fonde sa propre société. Il expose dans l'atelier de Nadar, à Paris. Dans le catalogue, ce petit tableau porte le numéro quatre-vingt-quinze.
+
+Après ce pique-nique géant, les Coquelicots de Monet tiendraient presque dans la poche : un demi-mètre de haut environ. Il a peint la toile l'année précédant l'exposition, à Argenteuil.
+
+Regardez les deux figures au premier plan, une femme sous une ombrelle et un enfant à ses côtés. Ce sont probablement Camille et leur fils Jean. [pause] Ce n'est donc pas seulement un champ de coquelicots. C'est très probablement une promenade en famille.
+
+[curious] Les coquelicots donnent au tableau son titre et l'essentiel de sa couleur. Suivez le rouge dans le champ. [pause] Puis revenez à la femme et à l'enfant, deux petites silhouettes qui avancent dans toute cette couleur.
+
+Cette exposition chez Nadar n'était qu'un début. Monet participera à cinq des expositions du groupe.
+
+[lightly] Le tableau est entré dans les collections nationales en 1906, don du collectionneur Étienne Moreau-Nélaton. [pause] La même année, il a aussi donné le Déjeuner sur l'herbe de Manet. Le pique-nique que Monet voulait égaler et son petit champ de coquelicots sont donc devenus publics ensemble.
+
+Ensuite, dans les salles impressionnistes de ce niveau, cherchez la Gelée blanche de Pissarro : un large champ d'hiver aux sillons givrés, avec un homme qui porte du bois le long d'un chemin. Sa piste vous attend là-bas.

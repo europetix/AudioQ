@@ -1,0 +1,28 @@
+@id: 045 · FR · Van Gogh rooms
+@section: Van Gogh
+@room: Van Gogh rooms · Level 5
+@type: R
+@title: Van Gogh — La Chambre de Van Gogh à Arles
+@where: Dans les salles Van Gogh du niveau 5 ; la salle exacte n'est pas confirmée. Cherchez un petit tableau d'une chambre simple, avec un lit et des chaises jaunes, un sol rouge et des murs lilas pâle.
+@what: Vincent van Gogh, La Chambre de Van Gogh à Arles, Van Gogh's Bedroom in Arles, 1889, oil on canvas, 57.3 × 73.5 cm, RF 1959 2. A smaller version painted about a year after the 1888 original. A larger version is in the Art Institute of Chicago.
+@listen: A painting meant to rest the mind, made smaller for his family, and the post-war treaty that brought it into the French collection.
+@brief: Sharing a tender, slightly ironic story with a friend in front of a small, bright picture; gentle, a smile at the "revenge", warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 045 (1889; 57.3 × 73.5; RF 1959 2; entered 1959 "by cession in application of the peace treaty with Japan"; painted about a year after the original as a smaller version for his family in Holland; larger version in the Art Institute of Chicago; pale lilac walls, red floor, chrome-yellow chairs and bed per Orsay commentary): https://www.musee-orsay.fr (artwork page and commentary, OFF extract) ; FACTS_R4 045 letter 806 (smaller canvases for his mother and sister incl. the Bedroom, OFF summary, not quoted) ; letter 705 to Theo, 16 Oct 1888, on the first version (quotes "looking at the painting should rest the mind, or rather, the imagination" and "to take my revenge for the enforced rest that I was obliged to take"): vangoghletters.org/vg/letters/let705 (OFF extract)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 045 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Van Gogh a peint sa chambre pour prendre sa revanche. C'est son mot, pas le mien.
+
+Quand il peint cette chambre d'Arles une première fois, à l'automne 1888, il écrit à Théo. On l'avait obligé à se reposer. Il dit l'avoir peinte « pour prendre ma revanche du repos forcé que j'ai été obligé de prendre ». [pause] Puis il précise le but du tableau. « La vue du tableau doit reposer la tête ou plutôt l'imagination. »
+
+[curious] Voyez sa méthode. Rien n'est subtil ici. Du jaune pour le lit et les chaises. Du rouge pour le sol. Du lilas pâle sur les murs. Il voulait que la couleur simplifiée suffise à créer le calme.
+
+[pause] Cette toile n'est pas la première, et une réplique plus grande est à Chicago. Un an plus tard environ, il en peint cette version réduite pour sa famille, en Hollande. Cet automne-là, ses lettres parlent d'envoyer des toiles plus petites à sa mère et à sa sœur. La chambre en fait partie. [pause] Voici donc la chambre où il dormait, réduite pour le mur d'une famille.
+
+La toile entre dans les collections nationales en 1959, en vertu du traité de paix conclu avec le Japon après la Seconde Guerre mondiale.
+
+[warmly] Un tableau fait pour reposer l'esprit, pour une mère lointaine, par un homme à qui l'on avait prescrit le repos, et qui a peint à la place.
+
+Dans la salle 36, trouvez sa vue nocturne d'un fleuve : un ciel et une eau d'un bleu profond, des étoiles, et les becs de gaz orange de la ville, reflétés en dessous. Écoutez sa piste là-bas, même si le tableau est prêté. Elle vous dira où vous placer.

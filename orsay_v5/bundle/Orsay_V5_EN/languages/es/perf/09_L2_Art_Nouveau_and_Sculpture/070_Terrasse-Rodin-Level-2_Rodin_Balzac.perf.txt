@@ -1,0 +1,30 @@
+@id: 070 · ES · Terrasse Rodin · Level 2
+@section: Art Nouveau and Sculpture
+@room: Terrasse Rodin · Level 2
+@type: W
+@title: Rodin — Balzac
+@where: En la Terrasse Rodin, en el extremo este del nivel 2, junto a la sala 67, con vista a la nave central: la imponente figura de yeso del escritor Balzac, de casi tres metros de alto, obra de Rodin.
+@what: Auguste Rodin, Balzac, 1898, plaster, 285 × 125 × 132 cm. Shown at the 1898 Salon of the Société nationale des beaux-arts.
+@listen: The monument Paris laughed at, why Rodin refused to sell it, and a dressing gown dipped in plaster.
+@brief: Telling a friend the story of a glorious failure; wry at the insults, quietly admiring at Rodin's stubbornness, conspiratorial at Pompon's story, satisfied at the end.
+@pace: medium
+@energy: 3→4→3→4
+@sources: FACTS_R5 068 Rodin — Balzac (1898, plaster, 285 × 125 × 132 cm; 1898 Salon of the Société nationale des beaux-arts; 1891 Zola, newly elected president of the Société des gens de lettres, chose Rodin, almost half a century after Balzac's death; critics' "formless block", "a toad in a sack, a statue still wrapped, a block of salt caught in a shower", "the menhir, the snowman"; the Société refused it, broke with commemorative conventions and the demand for a realistic likeness, commissioned Falguière; Rodin kept the statue, returned the money, refused all offers; bronze inaugurated boulevard Raspail 1939; Pompon's dressing-gown account, read as testimony; terrace location): https://www.musee-orsay.fr/en/artworks/balzac-15643 ; …/honore-de-balzac-7692 ; anosgrandshommes.musee-orsay.fr object 5541 (OFF) ; FACTS_R2 015b (Manet's portrait of Émile Zola, room 14) (OFF) ; FACTS_R5 065 (next cue: Guimard and Majorelle, room 64) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 070 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Un sapo en un saco. Un bloque de sal bajo un aguacero. Un menhir. Un muñeco de nieve. [pause] Así llamaron los críticos a esta estatua cuando París la vio por primera vez.
+
+La historia empieza bien. En 1891, Émile Zola acababa de ser elegido presidente de la Société des gens de lettres, la sociedad de escritores. Quizá vio abajo su retrato pintado por Manet. La sociedad quería un monumento a Honoré de Balzac, casi medio siglo después de su muerte. Zola eligió a Rodin.
+
+Siete años después, Rodin presentó este yeso en el Salón de 1898. Los críticos se burlaron de lo que llamaban un bloque informe. [pause] La sociedad lo rechazó. Había pedido un retrato realista, en el estilo conmemorativo habitual, y Rodin no le dio ni lo uno ni lo otro. El encargo pasó a otro escultor, Falguière.
+
+[quietly] Lo que hizo Rodin después dice cuánto creía en ella. Se quedó la estatua. Devolvió el dinero. Y rechazó todas las ofertas de compra.
+
+[pause] Ahora alce la vista hacia la figura entera, casi tres metros de yeso. Se entiende lo que molestó a los críticos. No hay un retrato pulcro de un autor en su escritorio. Hay una sola gran masa, como si la estatua siguiera envuelta, y arriba, la cabeza de Balzac.
+
+[conspiratorial] ¿Y cómo consiguió Rodin esa masa? François Pompon, cuyo oso polar espera más adelante en las terrazas, dejó un relato. Según él, Rodin mojó su bata en una gran cuba de yeso y con ella vistió su boceto de la figura. Ese es el recuerdo de Pompon. Pero quédese aquí un minuto, y no cuesta imaginarlo.
+
+[warmly] El monumento acabó llegando a la calle. En 1939 se inauguró un bronce en el boulevard Raspail, cuarenta y un años después del Salón. [pause] El muñeco de nieve, al final, nunca se derritió.
+
+Entre ahora en las salas Art Nouveau de este extremo. En la sala 64, busque el alto banco de madera de Guimard, con una pata como un tronco de árbol que se ramifica, y los muebles de Majorelle. Escuche su pista allí.

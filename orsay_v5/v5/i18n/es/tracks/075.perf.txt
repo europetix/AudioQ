@@ -1,0 +1,26 @@
+@id: 075 · ES · Level 2 terrace → exit
+@section: Closing
+@room: Level 2 terrace → exit
+@type: CLOSE
+@title: Salida hacia París
+@where: En la terraza de esculturas del nivel 2, junto a la balaustrada, mirando a lo largo de la nave central hacia La Puerta del Infierno de Rodin, al fondo.
+@what: The nave of the former Gare d'Orsay, seen from the sculpture terraces of level 2: built as a station for the 1900 Exposition, opened as a museum in December 1986.
+@listen: One last look down the old station, a short look back over the tour, and the way out.
+@brief: Saying goodbye to a friend at the end of a long, good day; reflective and warm, a little proud of the building, unhurried, ending gently.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: FACTS_R5 072 terraces (level-2 terraces run along both sides of the nave and overlook the central aisle; sculpture of about 1880–1910; Gates of Hell at the far end between the towers; no Seine view promised; exit via level 0, SORTIE at the clock end per plan-guide 2026) (OFF) ; FACTS_R2 001 (built for the 1900 Exposition universelle; Laloux; metal structure hidden behind cut stone; Detaille quote 1900 verbatim "The station is superb and looks like a Palais des beaux-arts…"; terminus 1900–1939; inaugurated 1 Dec 1986, opened 9 Dec 1986; 2026 the 40th anniversary) : https://www.musee-orsay.fr/en/node/60 ; https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF) ; FACTS_R2 002 (three levels, terraces of the median level overlook the nave, platforms became the sculpture aisle, "main artery of the visit"; Gates of Hell on the axis since 24 May 2022): https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 (OFF via G/A2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 075 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1900, cuando este edificio era nuevo, el pintor Édouard Detaille escribió una frase sobre él: «La estación es soberbia y parece un Palais des beaux-arts…» Es decir, un palacio de bellas artes. [pause] Hizo falta casi todo el siglo para darle la razón.
+
+Mire hacia abajo desde la terraza. Allí, donde las esculturas se alinean en el pasillo central, llegaban los trenes. Mire también las terrazas. A ambos lados de la nave, guardan esculturas de entre 1880 y 1910, aproximadamente.
+
+[pause] Y ahora conoce las tres plantas. Empezó allá abajo, en la planta baja, con los pintores académicos, Millet y Courbet, y la Olympia de Manet. Subió hasta arriba, bajo el tejado, a los impresionistas, Van Gogh y Gauguin. Y bajó hasta aquí, a los nabis, el Art Nouveau, Claudel y el Balzac de Rodin.
+
+[quietly] Antes de irse, mire hasta el fondo de la nave. Entre las dos torres está La Puerta del Infierno de Rodin, de cara a toda la antigua estación. Estuvo frente a ella hace horas, al final de la planta baja. Desde aquí arriba, puede abarcarla con todo lo demás a la vez. [pause] Detaille solo vio una estación que parecía un palacio. [pause] Usted acaba de recorrer el palacio.
+
+[warmly] Gracias por pasar estas horas conmigo. Ojalá algunos de estos rostros se vayan a casa con usted: un gato negro, una pequeña bailarina, un hombre en un saco de yeso, una muchacha que sostiene la cabeza de un poeta.
+
+Cuando quiera, baje al nivel 0 por las escaleras mecánicas o por las escaleras. Vuelva por la nave central hasta el extremo del reloj, por donde entró, y siga los carteles de SORTIE hacia París. Adiós, y disfrute de la ciudad.

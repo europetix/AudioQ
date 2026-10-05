@@ -1,0 +1,28 @@
+@id: 012 · DE · Courbet rooms · Level 0
+@section: Realism
+@room: Courbet rooms 6–7 · Level 0 · Seine side
+@type: R
+@title: Courbet — L'Origine du monde (optional)
+@where: Optionale Station. In den Courbet-Sälen 6 und 7, auf der Seine-Seite von Ebene 0. Der Plan verzeichnet dieses Werk nicht. Suchen Sie eine kleine Leinwand, etwa 46 mal 55 Zentimeter, eine sehr offene Darstellung des weiblichen Körpers. Ist es nicht ausgestellt, gehen Sie weiter zu Saal 14.
+@what: Gustave Courbet, L'Origine du monde, The Origin of the World, 1866, oil on canvas, 46.3 × 55.4 cm. Entered the museum in 1995 in lieu of inheritance tax.
+@listen: Who owned this painting, why it was so rarely seen, and who the model was.
+@brief: A calm, respectful guide giving the plain facts about a famous and explicit painting; matter-of-fact, unembarrassed, no jokes.
+@pace: medium
+@energy: 2→2
+@sources: FACTS_R1 013 (1866; 46.3 × 55.4; RF 1995-10; first owner, probably commissioner, the Turkish-Egyptian diplomat Khalil-Bey, short-lived collection celebrating the female body, ruined by gambling debts; later owned by Jacques Lacan; entered Orsay 1995 as a dation, payment of inheritance tax in kind; "the paradox of a famous work that is seldom actually seen"; room not found): https://www.musee-orsay.fr/en/artworks/lorigine-du-monde-69330 (OFF) ; model identified 2018 as the Opéra dancer Constance Quéniaux from a letter of Alexandre Dumas fils to George Sand found by Claude Schopp, Sylvie Aubenas of the BnF "99 per cent certain": https://apollo-magazine.com/model-for-courbets-lorigine-du-monde-identified/ + https://www.theartnewspaper.com/news/origin-of-the-world-model-discovered (SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 012 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Dieser Titel ist optional. Er handelt von Courbets L'Origine du monde, Der Ursprung der Welt. Ein kleines, sehr offenes Bild des weiblichen Körpers. Möchten Sie das lieber nicht, gehen Sie direkt weiter zu Manets Olympia in Saal 14.
+
+Courbet malte es 1866. Es ist klein, etwa sechsundvierzig mal fünfundfünfzig Zentimeter. Sein erster Besitzer gab es wahrscheinlich in Auftrag. Es war ein türkisch-ägyptischer Diplomat, Khalil-Bey. Er trug eine kurzlebige Sammlung zusammen, die den weiblichen Körper feierte. Spielschulden ruinierten ihn.
+
+Den größten Teil seiner Geschichte sahen nur sehr wenige Menschen dieses Bild. Es blieb in Privatbesitz. [pause] Zu seinen späteren Besitzern gehörte der Psychoanalytiker Jacques Lacan. Das Museum beschreibt es als Paradox: ein berühmtes Werk, das kaum je wirklich gesehen wird.
+
+1995 kam es an die Nation, als Zahlung der Erbschaftssteuer in Form eines Kunstwerks. [pause] So wurde ein Bild für eine einzige Privatsammlung zum Eigentum aller.
+
+[quietly] Lange hatte die Frau, die Modell stand, keinen Namen. Dann, 2018, fand der Forscher Claude Schopp einen Brief. Alexandre Dumas der Jüngere hatte ihn an George Sand geschrieben. Gestützt auf diesen Brief wurde das Modell als Constance Quéniaux identifiziert, eine Tänzerin der Pariser Opéra. Sylvie Aubenas von der französischen Nationalbibliothek sagte, sie sei zu neunundneunzig Prozent sicher.
+
+[pause] Ein Bild, das so selten zu sehen war, gehört nun einem öffentlichen Museum. Und die Frau darauf hat einen Namen.
+
+Gehen Sie jetzt weiter zu Saal 14 und suchen Sie Manets Olympia. Spielen Sie dort den passenden Titel ab.

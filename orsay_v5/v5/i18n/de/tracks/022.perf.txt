@@ -1,0 +1,30 @@
+@id: 022 · DE · Central sculpture aisle · Level 0
+@section: Nave End
+@room: Central sculpture aisle · Level 0
+@type: W
+@title: Carpeaux — La Danse (Der Tanz)
+@where: Im Mittelgang mit den Skulpturen auf Ebene 0. Die große Steingruppe, mehr als vier Meter hoch: sechs tanzende Frauen im Reigen um den Genius des Tanzes, mit einem kleinen Putto.
+@what: Jean-Baptiste Carpeaux, La Danse, The Dance, 1869, Échaillon stone, 420 × 298 × 145 cm, about 18 tonnes. The original group from the façade of the Paris Opéra.
+@listen: An ink attack, a sculpture saved by a war, and why the group on the Opéra today is a copy.
+@brief: Telling a friend a juicy bit of Paris scandal in front of the object itself; conspiratorial at the start, brisk through the drama, warm and admiring at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 019 La Danse (1869, Échaillon stone, 420×298×145 cm, 18,000 kg; original stone in the "Allée centrale des sculptures"; 1863 commission by Garnier of four groups from four Prix de Rome winners; three years of sketches and models; ring round the Genius of Dance; outcry at realism and nudity; bottle of ink on the night of 26–27 Aug 1869; war of 1870, fall of the Empire and Carpeaux's death saved it; copy on the façade since 1964; original to the Louvre, then Orsay 1986): https://www.musee-orsay.fr/en/artworks/la-danse-1704 and works-in-focus la-danse-7092 (OFF) ; six bacchantes and a putto: A2 13.5 (SEC2) ; replacement commission to Gumery, who died Jan 1871: A2 13.7 (SEC2) ; Opéra opened 5 Jan 1875, Carpeaux died 12 Oct 1875 aged 48: A2 13.4 and Confirmed OK (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 022 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] In einer Nacht Ende August 1869 warf jemand eine Flasche Tinte auf diese Skulptur. Sie war gerade erst an der Fassade von Charles Garniers neuer Opéra enthüllt worden. Und viele Pariser waren empört.
+
+Garnier hatte vier Gruppen für seine Fassade bestellt, bei vier Bildhauern, die alle den Prix de Rome gewonnen hatten. Carpeaux bekam den Tanz. Drei Jahre arbeitete er an Skizzen und Modellen. Geliefert hat er das hier. Ein wirbelnder Reigen aus sechs Frauen um den Genius des Tanzes, mit einem kleinen Putto zu seinen Füßen.
+
+[pause] Und das Publikum war entrüstet. Nicht über die Idee des Tanzes, sondern über diese Körper. Sie waren zu echt und zu nackt für die Fassade eines Opernhauses.
+
+Bei einem anderen Bildhauer namens Gumery wurde eine Ersatzgruppe bestellt. [amused] Dann griff die Geschichte ein. Der Krieg mit Preußen kam, das Kaiserreich fiel. Und Gumery selbst starb Anfang des folgenden Jahres.
+
+Carpeaux überlebte den Streit nicht lange. Er starb neun Monate nach der endgültigen Eröffnung der Opéra, mit achtundvierzig. Der Krieg, der Sturz des Kaiserreichs, sein Tod. [pause] Zusammen bewahrten sie seine Tänzerinnen davor, entfernt zu werden.
+
+[warmly] Sehen Sie jetzt den Reigen an. Folgen Sie ihm mit den Augen einmal ganz herum, Figur für Figur. Er wirbelt. Das ist Stein, rund achtzehn Tonnen schwer. Und er scheint sich immer noch zu bewegen.
+
+Wenn Sie heute an der Opéra vorbeigehen, sehen Sie diese Tänzerinnen an ihrer Fassade. [long pause] Doch seit 1964 ist die Gruppe an der Fassade eine Kopie. Das Original kam in den Louvre, und mit der Eröffnung dieses Museums hierher. Die Tänzerinnen, die einst mit Tinte bespritzt wurden, sind also die vor Ihnen.
+
+Carpeaux' Tänzerinnen wurden für die Opéra geschaffen. Und die Opéra selbst wartet am hinteren Ende des Mittelschiffs. Suchen Sie im Opéra-Bereich das große Modell ihres Viertels, von oben gesehen. Spielen Sie dort den passenden Titel ab.

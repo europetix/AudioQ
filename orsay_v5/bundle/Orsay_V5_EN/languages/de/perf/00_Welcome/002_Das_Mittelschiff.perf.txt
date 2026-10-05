@@ -1,0 +1,26 @@
+@id: 002 · DE · Top of the central aisle · Level 0
+@section: Opening
+@room: Top of the central aisle · Level 0
+@type: R
+@title: Das Mittelschiff
+@where: Am oberen Ende des Mittelgangs auf Ebene 0, mit Blick die große Halle entlang zu den beiden Türmen an ihrem hinteren Ende.
+@what: The great hall of the former Gare d'Orsay, adapted by ACT-Architecture with interiors led by Gae Aulenti: a central sculpture aisle, side galleries on level 0, terraces on level 2, and the upper galleries on level 5.
+@listen: How the building works, floor by floor, and the route this walk takes through it.
+@brief: A friend getting you your bearings in a huge space, unhurried and practical, with a little lift at the far end of the view.
+@pace: medium
+@energy: 3→3→4
+@sources: FACTS_R2 002 (three levels; galleries either side of the central nave on the ground floor; terraces of the median level overlook the nave and open onto galleries; "main artery of the visit"; Buxy stone and travertine to match the façade; what sits where on levels 0, 2, 5; Gates of Hell between the towers on the axis of the aisle since 24 May 2022): https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF), https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 (OFF) ; G §1 layout (Lille side = rue de Lille side; Seine side; level 5 Impressionists, Van Gogh, Post-Impressionists; level 2 Lautrec, Nabis, Art Nouveau, terraces) (OFF) ; FACTS_R1 003 (Couture 472 × 772 cm, central sculpture aisle): https://www.musee-orsay.fr/en/artworks/romains-de-la-decadence-9493 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 002 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Alles in diesem Museum hängt an einem langen Rückgrat. Und Sie stehen an ihrem oberen Ende. Das Museum selbst nennt diese große Halle die Hauptader des Besuchs. Wer sie einmal kennt, verläuft sich nicht.
+
+In der Mitte verläuft der Mittelgang, gesäumt von Skulpturen. Zu beiden Seiten öffnen sich hier im Erdgeschoss Säle zur Halle hin. Die eine Seite ist nach der Straße dahinter benannt, die Seite der Rue de Lille. Die andere ist die Seine-Seite, zum Fluss hin.
+
+Entlang der Halle blicken die Terrassen von Ebene 2 auf das Mittelschiff hinab. Sie führen in weitere Säle. Darüber liegt Ebene 5, das oberste Stockwerk mit Sälen. [pause] Das Mittelschiff ist aus Buxy-Stein gebaut. Dazu kommt Travertin, passend zum Stein von Laloux' Fassade.
+
+[warmly] Hier ist der Plan für unseren Rundgang. Wir beginnen auf dieser Ebene. Zuerst die akademische Malerei, auf der Seite der Rue de Lille. Dann Realismus und Manet auf der Seine-Seite. Dann das hintere Ende des Mittelschiffs, für die Opéra und Rodin. Danach hinauf zu Ebene 5, zu den Impressionisten, zu Van Gogh und Gauguin. Dann hinunter zu Ebene 2, zu Toulouse-Lautrec, den Nabis, dem Jugendstil und den Skulpturenterrassen. Und dann hinaus.
+
+[pause] Blicken Sie jetzt den ganzen Gang hinunter. Ganz am Ende, zwischen den beiden Türmen, genau in der Achse dieses Gangs, steht Rodins Höllentor. [pause] Es wird das Letzte sein, was wir auf dieser Ebene sehen.
+
+Die erste Station liegt in diesem Gang. Thomas Coutures riesiges Gemälde eines römischen Festmahls, fast acht Meter breit. Stellen Sie sich davor und starten Sie den passenden Titel.

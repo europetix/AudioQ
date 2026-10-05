@@ -1,0 +1,28 @@
+@id: 058 · DE · Room 45 · Level 5
+@section: Post-Impressionism
+@room: Room 45 · Redon and the Nabis · Level 5
+@type: R
+@title: Odilon Redon — Les Yeux clos (Die geschlossenen Augen)
+@where: In Saal 45 auf Ebene 5, Redon und die Nabis, in der Galerie Françoise Cachin: ein kleines Bild, 44 mal 36 Zentimeter, ein Brustbild mit geschlossenen Augen, schwebend in einem weichen, unbestimmten Raum. Die Saalnummer ist aus dem Plan erschlossen. Sehen Sie bei Bedarf in der Nähe nach.
+@what: Odilon Redon, Les Yeux clos, Closed Eyes, 1890, oil, 44 × 36 cm, signed and dated. Chosen from the artist's studio in 1904 by Léonce Bénédite for the Musée du Luxembourg.
+@listen: A face turned inwards, the first Redon the State ever took, and his farewell to Gauguin.
+@brief: Quiet, intimate, close to a whisper in front of a dreaming face; reflective, with a warm turn at the end.
+@pace: slow
+@energy: 2→2→3→2
+@sources: FACTS_R7 Les Yeux clos (1890, signed "ODILON REDON 1890", 44 × 36; say "oil" only; chosen in 1904 from the studio by Léonce Bénédite, director of the Musée du Luxembourg; first Redon in the national collections; probably his wife Camille Falte, from an earlier drawing; inner world, dream, absence, apparition; journal À soi-même; very diluted, almost immaterial paint, grain showing; bust floats; Laurana's busts and Michelangelo's Dying Slave, which deeply moved Redon; "an icon of Symbolism in painting"; Redon born 1840, about fifty): musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/closed-eyes-3022.html and musee-orsay.fr/en/artworks/les-yeux-clos-476 (OFF), audit A1 (SEC2 for birth year) ; FACTS_R7 Redon, Paul Gauguin (1903–1905; Gauguin's death in the Marquesas 8 May 1903; Redon's November article, "refined, savage, grandiose and delicate"; only painter he paid several tributes to; probably met 1886; dark profile against a medallion like a funerary relief or ancient medal; "Inca" nose and long hair): musee-orsay.fr/en/artworks/paul-gauguin-477 (OFF), room not given ; room 45 "Redon et les Nabis": findings/M_planguide_ete_2026.md (OFF), room inferred
+@lang: de
+@translation: from the fact-checked English Orsay V5 058 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Sie hat die Augen geschlossen. Und genau darum ging es Odilon Redon.
+
+Das Gesicht ist wahrscheinlich seine Frau, Camille Falte, nach einer früheren Zeichnung neu gestaltet. Doch eigentlich zeigt das Bild, was hinter den Lidern geschieht. Traum, Abwesenheit, eine innere Welt, vielleicht eine Erscheinung. Redon schrieb darüber in seinem Tagebuch, später veröffentlicht als À soi-même, An mich selbst. Dort sprach er vom seltsamen Zauber der „geschlossenen Augen“.
+
+[pause] Sehen Sie, wie wenig Farbe hier ist. Sie ist sehr dünn, fast immateriell. Man sieht die Struktur des Malgrunds durchscheinen. Kopf und Schultern scheinen zu schweben, in einem Raum ohne Ränder.
+
+Redon malte es 1890, mit etwa fünfzig Jahren. Hinter dem Gesicht stehen ältere Vorbilder. Büsten der italienischen Renaissance, vor allem die Marmorbüsten von Francesco Laurana. Und Michelangelos Sterbender Sklave im Louvre, eine Skulptur, die ihn tief bewegte. Heute gilt das Bild als Ikone des Symbolismus in der Malerei.
+
+[curious] Es war auch eine Premiere. 1904 wählte es der Direktor des Musée du Luxembourg, Léonce Bénédite, in Redons Atelier aus. [pause] Es war das erste Werk Redons in den nationalen Sammlungen.
+
+[warmly] Redon führt auch zurück zu den Gauguin-Sälen. Nach Gauguins Tod auf den Marquesas malte Redon ihn sehr wahrscheinlich als Hommage. Im Profil, dunkel vor einem Medaillon, wie ein Grabrelief oder eine antike Medaille. Mit dem langen Haar und der „Inka“-Nase, auf die Gauguin stolz war. In einem Artikel im selben Jahr lobte er Gauguin als verfeinert und wild, grandios und zart. Suchen Sie dieses Porträt in der Nähe, falls es ausgestellt ist.
+
+[pause] Gehen Sie dann weiter in Saal 46, zum Chat Noir mit seinen ausgeschnittenen Figuren aus Zink. Spielen Sie dort den passenden Titel ab.

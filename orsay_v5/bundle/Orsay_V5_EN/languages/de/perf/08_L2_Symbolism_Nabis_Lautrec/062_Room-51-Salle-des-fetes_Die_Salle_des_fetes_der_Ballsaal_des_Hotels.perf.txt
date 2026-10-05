@@ -1,0 +1,30 @@
+@id: 062 · DE · Room 51 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 51 · Salle des fêtes · Level 2
+@type: W
+@title: Die Salle des fêtes — der Ballsaal des Hotels
+@where: In Saal 51 auf Ebene 2, der Salle des fêtes. Stellen Sie sich in die Mitte des Saals mit seinen Spiegeln und Kronleuchtern und schauen Sie hinauf zu den gemalten Tafeln hoch an den Wänden.
+@what: The ballroom of the former station hotel, opened with the Gare d'Orsay on 14 July 1900, restored rather than reconstructed. Painted décor by Pierre Fritel, 1900, oil on canvas fixed to plaster, commissioned by the Compagnie des chemins de fer d'Orléans.
+@listen: A ballroom built for railway travellers, the one period room the museum kept, and a famous press conference in 1958.
+@brief: A friend showing off a grand room with a wink, then turning more serious for a moment of history; warm, lightly amused, composed.
+@pace: medium
+@energy: 3→3→4→3
+@sources: FACTS_R6 (c) (Niveau médian, Salle 51 – Salle des fêtes; Laloux's luxury hotel of 400 rooms with a restaurant and a salle des fêtes; station and hotel inaugurated 14 July 1900 for the Exposition universelle; styles of French classicism Louis XIV to Louis XV; stone, staff, ornamental cast iron; "an authentic room from the old hotel, not reconstructed but restored"; château life and the Galerie des Glaces at Versailles; period rooms otherwise excluded; hotel closed 1 January 1973; mirrors, chandeliers; Pierre Fritel 1900, ordered by the Compagnie des chemins de fer d'Orléans, oil on canvas fixed to plaster, four trapezoid panels on the east and west walls, themes including Music, Poetry and Dance, four triangular panels on the north and south walls, e.g. L'Été): musee-orsay.fr history page node/60 "La gare" and Fritel/Purcell artwork records 155575, 127028 (OFF) ; de Gaulle press conference 19 May 1958 in the salle des fêtes of the hotel (Orsay history page, OFF), about 500 journalists, to explain his 15 May declaration and reassure those who feared a dictatorship, "Why do you want me, at 67, to start a career as a dictator?" in English as reported speech: ina.fr/ina-eclaire-actu/video/i00012921 and charles-de-gaulle.org (SEC2) ; "opened his return to power" wording: FACTS_R6 (c) nuance ; room 51 and level-2 layout: findings/M_planguide_ete_2026.md (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 062 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieses Museum war einmal ein Bahnhof. Und dieser Saal war der Ballsaal seines Hotels.
+
+Der Architekt Laloux umgab den Bahnhof auf zwei Seiten mit einem Luxushotel mit vierhundert Zimmern. Es hatte ein Restaurant, und es hatte diesen Festsaal, eine Salle des fêtes. Bahnhof und Hotel öffneten gemeinsam am vierzehnten Juli 1900, zur großen Weltausstellung.
+
+[amused] Sehen Sie sich um. Spiegel. Kronleuchter. Man soll an das Leben in einem Schloss denken, an den Spiegelsaal von Versailles. Eine Tanzfläche für einen König, ein paar Schritte von den Bahnsteigen.
+
+Die Ausstattung bedient sich bei allen Stilen des französischen Klassizismus, von Ludwig dem Vierzehnten bis Ludwig dem Fünfzehnten. Stein, Stuck, verziertes Gusseisen. [pause] Und oben an den Wänden die Gemälde von Pierre Fritel. Bestellt hat sie die Bahngesellschaft selbst, die Compagnie des chemins de fer d'Orléans. Vier Tafeln an der Ost- und Westwand haben schräge Seiten, mit Themen wie Musik, Poesie und Tanz. Vier Dreiecke sitzen an der Nord- und Südwand, eines davon der Sommer.
+
+[pause] Dieser Saal ist hier etwas Seltenes. Bei der Planung des Museums ließ man historische Räume weg. Der Ballsaal war die einzige Ausnahme. Er ist ein echter Raum des alten Hotels, nicht nachgebaut, sondern restauriert.
+
+[quietly] Er hat mehr erlebt als Bälle. Am neunzehnten Mai 1958 gab General de Gaulle hier eine Pressekonferenz, im Festsaal des Hotels. Rund fünfhundert Journalisten kamen. Er hatte gerade erklärt, er sei bereit, die Befugnisse der Republik zu übernehmen. Viele fürchteten eine Diktatur. [pause] So wird es meist berichtet: Er fragte sie, warum er mit siebenundsechzig eine Karriere als Diktator beginnen solle. Diese Pressekonferenz eröffnete seine Rückkehr an die Macht.
+
+Das Hotel schloss endgültig am ersten Januar 1973. Der Ballsaal blieb.
+
+Gehen Sie nun zum Westende dieser Etage, nahe Saal 72, und suchen Sie Saal 59, den Saal des Symbolismus. Suchen Sie Gustave Moreaus Orphée. Ein Mädchen in prächtiger orientalischer Kleidung hält einen Männerkopf auf einer Leier. Spielen Sie dort den passenden Titel ab.

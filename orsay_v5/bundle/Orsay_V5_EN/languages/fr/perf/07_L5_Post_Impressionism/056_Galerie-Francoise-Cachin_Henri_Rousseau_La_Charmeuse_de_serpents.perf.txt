@@ -1,0 +1,32 @@
+@id: 056 · FR · Galerie Françoise Cachin · Level 5
+@section: Post-Impressionism
+@room: Galerie Françoise Cachin · Level 5
+@type: R
+@title: Henri Rousseau — La Charmeuse de serpents
+@where: Au niveau 5, dans la galerie Françoise Cachin, près des salles Gauguin : une grande scène de jungle presque carrée, large de près de 1,9 mètre, avec une silhouette sombre qui joue de la flûte, entourée de serpents. Sa salle n'est pas confirmée. Le tableau était prêté jusqu'en juillet 2026 : s'il n'est pas exposé, passez cette piste et continuez jusqu'à la salle 45.
+@what: Henri Rousseau, La Charmeuse de serpents, The Snake Charmer, 1907, oil on canvas, 169 × 189.5 cm. Bequest of Jacques Doucet, 1936.
+@listen: A jungle painted without leaving Paris, the woman who ordered it, and the artists it went on to haunt.
+@brief: A friend pointing out an enchanting, slightly unsettling picture; curious and warm, with a touch of wonder.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R7 La Charmeuse de serpents (1907, 169 × 189.5; bequest of Jacques Doucet 1936; Galerie Françoise Cachin; commissioned by Robert Delaunay's mother after a trip to India; Delaunay, Jarry, Apollinaire, Picasso, Breton among admirers; dark-skinned androgynous figure with a flute; "a black Eve in a disquieting Garden of Eden…"; bright dense backlit colours anticipating Magritte; precise and naïve drawing; vertical asymmetrical composition; uniform treatment; one of his "most fascinating and enigmatic" paintings, inspired the Surrealists; one part very bright, one very dark; jungles from studies at the Muséum and the Jardin des Plantes greenhouses, not from travel): m.musee-orsay.fr/en/works/commentaire_id/the-snake-charmer-8846.html (OFF) ; Doucet collection beside the Demoiselles d'Avignon: musee-orangerie.fr/en/whats-on/exhibitions/henri-rousseau-painters-ambition (OFF) ; loans to the Barnes and the Orangerie to 20 Jul 2026: FACTS_R7 (SEC2/OFF) ; level 5 theme rooms: findings/M_planguide_ete_2026.md (OFF), no Rousseau room named
+@lang: fr
+@translation: from the fact-checked English Orsay V5 056 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Cette jungle a poussé à Paris, dans une serre.
+
+Mais le tableau voyage. S'il n'est pas au mur, allez directement à la salle 45, voir Le Talisman de Sérusier.
+
+Henri Rousseau n'a pas peint ses jungles en voyageant. Il les a tirées d'études au Muséum d'histoire naturelle et dans les serres du Jardin des Plantes. Avec cela, il a construit ce tableau.
+
+[curious] C'était une commande. La mère de Robert Delaunay l'a demandée après un voyage en Inde. Delaunay comptait parmi les plus fervents admirateurs de Rousseau. Tout comme Jarry, Apollinaire, Picasso et Breton.
+
+[pause] Regardez maintenant. Une silhouette androgyne à la peau sombre joue de la flûte. Les serpents lui répondent, et toute la nature alentour. Le commentaire du musée compare cette figure à une Ève noire dans un inquiétant jardin d'Éden. Elle charme un serpent aussi effrayant que celui de la Genèse était séduisant.
+
+[pause] Voyez cette couleur éclairée par-derrière, vive et dense. Une partie du tableau est très claire, l'autre très sombre. Le dessin est à la fois précis et naïf. Et remarquez : figure, animaux et plantes fantastiques reçoivent exactement le même traitement.
+
+[pause] Cette étrangeté a porté loin. Ces couleurs en contre-jour semblent annoncer Magritte. Le tableau a inspiré des générations entières d'artistes, les surréalistes en tête.
+
+[warmly] Le collectionneur Jacques Doucet le possédait, aux côtés des Demoiselles d'Avignon de Picasso. Son legs l'a fait entrer dans les collections nationales, en 1936.
+
+Entrez maintenant dans la salle 45, Redon et les Nabis, et trouvez le tout petit tableau sur bois de Paul Sérusier, Le Talisman. Écoutez sa piste là-bas.

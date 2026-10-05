@@ -1,0 +1,30 @@
+@id: 011 · ES · Room 7 · Level 0
+@section: Realism
+@room: Room 7 · Level 0 · Seine side
+@type: W
+@title: Courbet — L'Atelier du peintre (El taller del pintor)
+@where: En la sala 7, del lado del Sena del nivel 0, la misma sala que Un entierro en Ornans, frente al otro lienzo enorme, de unos seis metros de ancho: un taller lleno de gente, con grupos de figuras a cada lado.
+@what: Gustave Courbet, L'Atelier du peintre. Allégorie réelle déterminant une phase de sept années de ma vie artistique, The Painter's Studio, 1854–1855, oil on canvas, 361 × 598 cm. Bought in 1920 by public subscription with the help of the Société des Amis du Louvre.
+@listen: Courbet's whole world in one room, a hunter who looks like the Emperor, a friend who hated his portrait, and a painting the public paid for twice.
+@brief: Walking a friend through a crowded picture, naming people like guests at a party; amused at Champfleury, pointed at the hunter, warm and a little proud at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R1 012 (1854–1855; 361 × 598; title; room 7; Pavillon du Réalisme 1855; Courbet's words "It's the whole world coming to me to be painted", the right "all the shareholders, by that I mean friends, fellow workers, art lovers", the left "the other world of everyday life, the masses, wretchedness, poverty, wealth, the exploited and the exploiters, people who make a living from death"; right side Bruyas, Proudhon, Champfleury on a stool, Baudelaire absorbed in a book; left side priest, merchant, beggar girl, unemployed worker, hunter who "somewhat resembles Napoleon III"; Champfleury's quote; bought 1920 by public subscription with the Société des Amis du Louvre; restored in public, about 900 crowdfunding donors raised €86,000): https://www.musee-orsay.fr/en/artworks/latelier-du-peintre-927 (OFF), https://musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/the-artists-studio-7146.html (OFF), https://www.musee-orsay.fr/en/node/415 (OFF) ; A1 Track 07 row 7 (rejected, shown with the Burial in his own Pavilion of Realism; S11 OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 011 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Uno de los hombres de este cuadro odiaba cómo salía. Ya llegaremos a él.
+
+Courbet dio al cuadro un título famoso por lo largo. El taller del pintor, alegoría real que determina una fase de siete años de mi vida artística. Y lo resumió él mismo. [pause] «Es el mundo entero que viene a mí para que lo pinte».
+
+Explicó incluso las dos mitades. A la derecha, dijo, están «todos los accionistas, es decir, amigos, compañeros de trabajo, aficionados al arte». Busque al coleccionista Alfred Bruyas, al filósofo Proudhon, al crítico Champfleury en un taburete, y a Baudelaire, absorto en un libro.
+
+A la izquierda está la otra mitad. En sus palabras, «el otro mundo de la vida cotidiana, las masas, la miseria, la pobreza, la riqueza, los explotados y los explotadores, la gente que vive de la muerte». Hay un cura, un comerciante, una niña mendiga, un obrero desempleado. [conspiratorial] Y un cazador que, como dice el museo, se parece un poco a Napoleón Tercero. Saque sus conclusiones.
+
+Este era el mundo de Courbet en 1855, y un jurado oficial lo rechazó. [pause] Así que lo expuso él mismo, junto con el Entierro, en su propio Pabellón del Realismo.
+
+El hombre que odiaba su retrato era Champfleury, el crítico del taburete. «Me horrorizó esta imagen mía», escribió, «que me hacía parecer el general de los jesuitas». Y luego, sin más: «Este maldito retrato es monstruoso».
+
+[warmly] El cuadro tiene un vínculo especial con el público. En 1920 se compró para la nación por suscripción pública. Después tuvo una restauración pública, tras un vidrio. Unos novecientos donantes reunieron ochenta y seis mil euros para ayudar a costearla. [pause] El público lo compró una vez, y luego ayudó a salvarlo.
+
+El pequeño y muy explícito cuadro de Courbet L'Origine du monde cuelga en las salas de Courbet, si está expuesto. Su pista es opcional. Si no, siga hasta Olympia de Manet, en la sala 14. En ambos casos, escuche la pista correspondiente al llegar.

@@ -1,0 +1,26 @@
+@id: 026 · DE · Between the towers · Level 0
+@section: Nave End
+@room: End of the nave · between the towers · Level 0
+@type: W
+@title: Rodin — Das Höllentor
+@where: Am hinteren Ende des Mittelschiffs, zwischen den beiden Türmen, in der Achse des Mittelgangs: Rodins großes Portal aus Gips, mehr als sechs Meter hoch. Gehen Sie danach zurück zu den Rolltreppen bei den Paris-Sälen und fahren Sie hinauf zu Ebene 5, zum Uhrensalon.
+@what: Auguste Rodin, La Porte de l'Enfer, The Gates of Hell, the original plaster, 6.35 m high, worked on from 1880 to 1917.
+@listen: A door made for a museum that was never built, the decades Rodin spent on it, and why it was standing in front of you from the moment you came in.
+@brief: Standing with a friend at the end of a long walk; reverent and unhurried, a touch of wit about The Thinker, then a clear, friendly send-off upstairs.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R2 023 via A2 12.2–12.3 and G §0.9 (original plaster, 6.35 m, worked on 1880–1917; commissioned for a museum of decorative arts never built; since 24 May 2022 on the terrace between the two towers at the far end of the nave, on the axis of the central aisle, visible from the entrance; related display with Musée Rodin loans): https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 , https://www.musee-orsay.fr/en/artworks/porte-de-lenfer-15645 (OFF) ; Orsay has no Rodin Thinker: A2 12.1 (OFF search, absence) ; escalators and lifts to level 5: G §1 (SEC2). Minimal-facts track per audits A2/G. ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 026 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Dieses Tor wurde für ein Museum geschaffen, das nie gebaut wurde. Rodin erhielt den Auftrag für ein großes Portal. Es war für ein Museum der dekorativen Künste bestimmt. Das Museum entstand nie. Das Tor hing nie an einem Gebäude. [pause] Und doch arbeitete Rodin daran, von 1880 bis 1917.
+
+Was hier steht, ist sein originales Gipsmodell, sechs Meter fünfunddreißig hoch. Kein Bronzeguss.
+
+Denken Sie an Ihren Weg hierher. Sie kamen durch ein langes Mittelschiff voller Skulpturen. Vorbei an Carpeaux' Tänzerinnen, vorbei an den Seitensälen der Realisten und Manets. Und am Ende stand die ganze Zeit dieses Tor. Seit Mai 2022 steht es hier, zwischen den beiden Türmen, in der Achse des Mittelgangs. Es ist so aufgestellt, dass Sie es schon beim Eintreten sehen. [long pause] Es hat seit Ihrem allerersten Schritt am Ende Ihres Weges gewartet.
+
+[quietly] Schenken Sie ihm also die Zeit, die es verlangt. Beginnen Sie mit etwas Abstand, dort, wo es das Ende des Gangs ausfüllt. [pause] Kommen Sie dann langsam näher. Lassen Sie die Details an die Stelle des Ganzen treten. Rund um das Tor hat das Museum Leihgaben des Musée Rodin aufgestellt. So hat das Portal Gesellschaft.
+
+[wry] Und falls Sie auf den Denker hoffen: Im Musée d'Orsay finden Sie ihn nicht. Das Museum besitzt keinen. Es besitzt dieses Portal, und das genügt.
+
+Hier endet das Erdgeschoss. Gehen Sie zurück zu den Rolltreppen neben den Paris-Sälen, oder nehmen Sie die Aufzüge. Fahren Sie hinauf zu Ebene 5. Sie kommen in Saal 28 an, dem Salon de l'horloge, dem Uhrensalon. [pause] Suchen Sie das große Uhrenfenster mit Blick über Paris. Spielen Sie dort den passenden Titel ab.

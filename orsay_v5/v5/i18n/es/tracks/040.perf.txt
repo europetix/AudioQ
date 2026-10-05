@@ -1,0 +1,28 @@
+@id: 040 · ES · Room 34
+@section: Impressionism
+@room: Room 34 · Level 5
+@type: R
+@title: Monet — Nymphéas bleus (Nenúfares azules)
+@where: En la sala 34 del nivel 5, la misma sala que las Catedrales de Rouen. Busque un gran lienzo cuadrado de nenúfares, de unos dos metros por lado.
+@what: Claude Monet, Nymphéas bleus, Blue Water Lilies, around 1916–1919, oil on canvas, 204 × 200 cm.
+@listen: The pond Monet made in the same years as the cathedrals, and why this picture seems to have no edges.
+@brief: Standing next to a friend in front of a big, calm canvas after the busy cathedrals; unhurried, close to hushed, letting the picture do the work.
+@pace: slow
+@energy: 2→3→1
+@sources: FACTS_R3 040 fallback Nymphéas bleus (c. 1916–1919, 204 × 200, room 34; water garden at Giverny created 1893; from the 1910s until his death in 1926 the pond his sole source of inspiration; no point draws attention more than another; square format and lack of reference points give "infinity and limitlessness"): https://www.musee-orsay.fr/en/artworks/nympheas-bleus-1172 (OFF) ; FACTS_R3 039 (cathedrals painted 1892–93, finished at Giverny 1894, OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 040 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Mientras Monet luchaba con aquella catedral de Rouen, también estaba creando un estanque. En 1893 hizo un jardín acuático en su casa de Giverny.
+
+En la última etapa de su vida, desde la década de 1910 hasta su muerte en 1926, ese estanque fue su única fuente de inspiración. Había pasado años persiguiendo la luz sobre una fachada de piedra. Ahora la luz venía a él, sobre el agua de su propio jardín.
+
+[pause] Este lienzo es uno de esos cuadros tardíos. Es grande, dos metros de alto y casi exactamente lo mismo de ancho. Y esa forma cuadrada importa.
+
+[quietly] Haga una prueba. Deje que su mirada busque un lugar donde descansar: una orilla, un horizonte, un trozo de cielo. No lo encontrará. [pause] Ningún punto del cuadro atrae la atención más que otro. No hay borde del estanque, ni arriba ni abajo a qué aferrarse. Solo los nenúfares, el agua y el color del título.
+
+El museo describe el efecto como una sensación de infinito, de ausencia de límites. Tan cerca, es fácil ver por qué. El lienzo termina en el marco, pero el estanque no parece terminar.
+
+[long pause] Las catedrales trataban de una cosa que cambia. Aquí, apenas hay una cosa.
+
+Siga hacia las salas de Cézanne y busque un pequeño cuadro de jugadores de cartas, uno de ellos fumando en pipa. Escuche su pista allí.

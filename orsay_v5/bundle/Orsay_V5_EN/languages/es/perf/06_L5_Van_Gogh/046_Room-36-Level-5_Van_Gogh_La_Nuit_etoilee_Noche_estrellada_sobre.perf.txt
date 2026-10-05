@@ -1,0 +1,30 @@
+@id: 046 · ES · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: W
+@title: Van Gogh — La Nuit étoilée (Noche estrellada sobre el Ródano)
+@where: En la sala 36 del nivel 5, frente a la vista nocturna del Ródano de Van Gogh: cielo y agua de un azul profundo, estrellas brillantes y las luces de gas naranjas de Arles reflejadas en el río. Nota: está prestado a Tokio del 14 de noviembre de 2026 al 28 de marzo de 2027. Si la pared está vacía, escuche esta pista frente al autorretrato de 1889 con traje, que cuelga en la misma sala.
+@what: Vincent van Gogh, La Nuit étoilée, Starry Night over the Rhône, 1888, Arles, oil on canvas, 73 × 92 cm. Gift of M. and Mme Robert Kahn-Sriber in memory of M. and Mme Fernand Moch, 1975.
+@listen: A painting made outdoors at night by gaslight, the colours Van Gogh saw in the dark, the lovers at the bottom, and a last look at the self-portrait nearby.
+@brief: Out by the river at night with a friend, telling them what the painter saw; hushed wonder, a little lift at the critic's line, tender at the lovers.
+@pace: medium-slow
+@energy: 2→4→3→2
+@sources: FACTS_R4 046 (1888, Arles, 73 × 92, RF 1975 19, Kahn-Sriber gift 1975, room 36; "transcribed the colours he perceived in the dark"; Prussian blue, ultramarine, cobalt; gaslights "an intense orange" reflected; stars "like gemstones"; couple of lovers make it "more serene"): https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696 (OFF) ; A2 17.2–17.3 letter 691 to Theo c. 29 Sept 1888, VGM wording and "actually painted at night, under a gas jet": vangoghletters.org/vg/letters/let691 (OFF) ; A2 17.6–17.7 (Indépendants 1889, sent by Theo with the Irises; Fénéon, La Vogue, Sept 1889) (OFF) ; G 7 + FACTS_R4 frame (Tokyo loan 14 Nov 2026 – 28 Mar 2027, SEC2: tobikan.jp/en/exhibition/2026_orsay.html) ; FACTS_R4 044 (fallback: self-portrait 1889, Saint-Rémy, room 36 per G; absinthe green and pale turquoise; still figure against the arabesques of the background): https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-747 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Este cielo nocturno no se pintó de memoria. Van Gogh lo pintó de noche, bajo las estrellas, a la luz de las farolas de gas.
+
+Si esta pared está vacía, es que el cuadro viaja a Tokio este invierno. Vaya entonces al autorretrato con traje, en esta misma sala, y escuche allí.
+
+[curious] Es septiembre de 1888, en Arles. Van Gogh escribe a Theo que ha pintado un cielo estrellado, realmente de noche, bajo un farol de gas. Luego describe lo que vio. «Sobre el campo verde azulado del cielo, la Osa Mayor tiene un centelleo verde y rosa, cuya discreta palidez contrasta con el oro áspero de la luz de gas».
+
+[pause] En el lienzo, los azules lo hacen casi todo: azul de Prusia, ultramar y cobalto. En palabras del museo, plasmó los colores que percibía en la oscuridad. Las luces de gas de la ciudad brillan con un naranja intenso, y sus reflejos se derraman en el Ródano. Encima, las estrellas centellean como piedras preciosas.
+
+[warmly] Y abajo del todo hay una pareja de enamorados, fácil de pasar por alto. [pause] Cambian el ambiente. Vuelven más serena toda la noche.
+
+Al año siguiente, Theo envió el lienzo, con los Lirios, a la exposición de los Indépendants. Un crítico, Félix Fénéon, llamó a Van Gogh «un colorista divertido incluso en excentricidades como su Noche estrellada». [pause] Un elogio envenenado. Ha envejecido peor que el cuadro.
+
+[lightly] Ahora mire el autorretrato, esté ya frente a él o lo vea desde el otro lado de la sala. Lo pintó un año después de aquella noche junto al Ródano, en Saint-Rémy. Las estrellas ya no están. Pero el fondo aún se mueve, en verde pálido y turquesa, alrededor de un hombre completamente quieto.
+
+En la sala 36, busque la iglesia de Auvers, con sus ventanas de un azul profundo bajo un cielo de cobalto, y escuche su pista allí.

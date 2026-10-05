@@ -1,0 +1,26 @@
+@id: 038 · FR · Impressionist rooms
+@section: Impressionism
+@room: Impressionist rooms · Level 5
+@type: R
+@title: Sisley — La Barque pendant l'inondation, Port-Marly
+@where: Dans les salles impressionnistes du niveau 5 ; la salle n'est pas confirmée. Cherchez une petite scène d'inondation : une maison aux murs roses et jaunes vue de biais, un grand ciel au-dessus et l'eau de la crue tout autour.
+@what: Alfred Sisley, La Barque pendant l'inondation, Port-Marly, The Boat in the Flood, 1876, oil on canvas, 50.4 × 61 cm. Bequest of comte Isaac de Camondo, 1911.
+@listen: The first owner whose household later joined Monet's, the spring the Seine came into town, and the six pictures Sisley made of it.
+@brief: Pointing out a quiet small picture to a friend after the noise of the dance; gently amused at the owner's story, then calm and observant.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R3 038 Sisley (official title; 1876; 50.4 × 61; provenance Hoschedé → Durand-Ruel → Camondo → bequest 1911 → Orsay 1986; moved to Marly-le-Roi 1874; spring 1876 flood, six pictures; house at an angle, much sky and water in broad strokes, pink and yellow walls painted precisely): https://www.musee-orsay.fr/en/artworks/la-barque-pendant-linondation-port-marly-1107 (OFF) ; A3 23.4 (Alice Hoschedé married Monet, July 1892, SEC2)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 038 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Cette petite scène d'inondation, si calme, a commencé sa vie dans un foyer qui finira lié à celui de Monet. Son premier propriétaire s'appelait Hoschedé, et sa femme, Alice. Des années plus tard, Alice Hoschedé a épousé Claude Monet. Le tableau, lui, a suivi son propre chemin, jusqu'au collectionneur Isaac de Camondo, qui l'a légué à la nation. Vous retrouverez son nom avec les cathédrales.
+
+Mais le tableau lui-même parle d'eau. Au printemps même où Renoir peignait ses danseurs, la Seine est sortie de son lit.
+
+Sisley s'était installé à Marly-le-Roi deux ans plus tôt. Quand le fleuve inonde Port-Marly au printemps 1876, il sort le peindre, et pas une seule fois. [pause] Il a peint six tableaux de cette crue, et celui-ci en fait partie.
+
+[curious] Regardez comment il partage le travail en deux. Le ciel et l'eau occupent l'essentiel de la toile, peints à larges touches légères. Puis la maison. Elle se dresse de biais, et ses murs roses et jaunes sont peints avec une vraie précision. [pause] La barque du titre est là, sur l'eau de la crue.
+
+[pause] Tout ce qui bouge est souple, et la seule chose qui reste en place est ferme. [quietly] Accordez-lui une minute, après le bruit du bal. Un petit tableau, et tout un fleuve hors de son lit.
+
+Rendez-vous salle 34, et trouvez cinq tableaux de la même façade de cathédrale, côte à côte. Écoutez leur piste là-bas.

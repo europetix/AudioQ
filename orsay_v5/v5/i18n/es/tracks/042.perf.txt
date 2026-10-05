@@ -1,0 +1,28 @@
+@id: 042 · ES · Cézanne rooms
+@section: Impressionism
+@room: Cézanne rooms · Level 5
+@type: R
+@title: Cézanne — Pommes et oranges (Manzanas y naranjas)
+@where: En las salas de Cézanne del nivel 5; la sala no está confirmada. Busque un gran bodegón de manzanas y naranjas en platos, con telas drapeadas y una jarra con motivos de flores. Orsay también posee vistas de la montaña Sainte-Victoire, que pueden estar colgadas cerca o no.
+@what: Paul Cézanne, Pommes et oranges, Apples and Oranges, around 1899, oil on canvas, 74 × 93 cm. Bequest of comte Isaac de Camondo, 1911.
+@listen: Six paintings from the same props, and why the museum calls this the most important still life of his late years.
+@brief: Explaining to a friend why a table of fruit is worth a long look; plain, enthusiastic in a quiet way, a little wry about the props.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_R3 042 Pommes et oranges (c. 1899, 74 × 93, Camondo 1911; painted in 1899 in his Paris studio; one of six still lifes with the same props: earthenware dishes, a flower-patterned jug, drapery recalling 17th-century Flemish still lifes; "the most important still life produced by the artist in the late 1890s"): https://www.musee-orsay.fr/en/artworks/pommes-et-oranges-1470 and commentary 7098 (OFF) ; FACTS_R3 042 Sainte-Victoire (Orsay holds an oil c. 1890 and a watercolour c. 1900; one not exhibited; used only as a hedge in @where) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Para ser un pintor de fruta, Cézanne era notablemente fiel a sus objetos.
+
+En 1899, en su taller de París, montó un bodegón. Unos platos de loza, una jarra floreada, un trozo de tela. Lo pintó, y luego, con los mismos objetos, lo volvió a pintar. Este es uno de los seis bodegones hechos con esos pocos objetos.
+
+[curious] ¿Por qué conservar los objetos? He aquí una hipótesis que puede comprobar con sus propios ojos. Cuando los objetos no cambian, solo quedan por cambiar la disposición y la pintura misma. [pause] El tema pasa, sin ruido, de la fruta a la manera de ordenar la fruta.
+
+Mire la tela. Recuerda los grandes bodegones flamencos del siglo diecisiete. Así, Cézanne toma prestada una manera antigua y solemne de poner la mesa. Y la pone al servicio de una mirada muy moderna.
+
+[pause] Aquí el museo no se anda con matices. Llama a Pommes et oranges «el bodegón más importante realizado por el artista a finales de la década de 1890».
+
+[warmly] Así que dele el tiempo que él le dio. Empiece por la jarra y sus flores, luego los platos, luego la fruta. Y deje que la tela le lleve alrededor de la mesa. Él miró estos mismos objetos seis veces. Una larga mirada suya parece lo justo.
+
+Siga hasta la sala 36, la sala de Van Gogh, donde los rieles de los que cuelgan los cuadros están pintados de azul. [pause] Escuche su pista en la entrada.

@@ -1,0 +1,28 @@
+@id: 074 · DE · Sculpture terrace · Level 2
+@section: Art Nouveau and Sculpture
+@room: Sculpture terrace · Level 2
+@type: R
+@title: Maillol und Bourdelle — Méditerranée und Héraklès archer
+@where: Auf der Skulpturenterrasse von Ebene 2 über dem Mittelschiff. Suchen Sie Maillols sitzende Frau aus Marmor und Bourdelles große vergoldete Bronze des Herkules, der einen Bogen spannt.
+@what: Aristide Maillol, Méditerranée, The Mediterranean, 1923–27, marble, 110.5 × 117.5 × 68.5 cm. Antoine Bourdelle, Héraklès tue les oiseaux du lac Stymphale, Hercules the Archer, 1909, gilded bronze cast by Alexis Rudier, 248 × 247 × 123 cm.
+@listen: A woman with no name and no story, set against a hero a split second from letting go.
+@brief: Comparing two sculptures side by side with a friend; curious at the nameless woman, calm and slow on her, then lifting with energy for the archer.
+@pace: medium
+@energy: 2→2→4
+@sources: FACTS_R5 070a Maillol — Méditerranée (marble, 1923–27, 110.5 × 117.5 × 68.5 cm; first version shown at the 1905 Salon d'Automne as "Woman", "it caused a stir", title came later; commissioned by Count Harry Kessler, German patron; bronze a recent cast, marble a copy made during his lifetime; turned from Rodin's expressionism to formal beauty and simplicity; terrace): https://www.musee-orsay.fr/en/artworks/mediterranee-15413 ; works-in-focus the-mediterranean-3182 (OFF) ; FACTS_R5 070b Bourdelle — Héraklès (1909, gilded bronze, 248 × 247 × 123 cm, cast by Alexis Rudier, bought by the national museums 1924, Orsay 1978; the hero shoots the man-eating birds of Lake Stymphalus; drawn bow from title and pose): https://www.musee-orsay.fr/en/artworks/herakles-tue-les-oiseaux-du-lac-stymphale-5124 ; works-in-focus hercules-the-archer-2193 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 074 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Als diese sitzende Frau zum ersten Mal öffentlich auftrat, hatte sie keinen großen Titel. Im Salon d'Automne von 1905 hieß sie einfach Frau. Und sie sorgte für Aufsehen.
+
+Aristide Maillol schuf sie für seinen deutschen Förderer, Graf Harry Kessler. Ihren heutigen Namen, Méditerranée, Das Mittelmeer, bekam sie später. Dieser Marmor ist eine Kopie aus Maillols eigener Lebenszeit, aus den 1920er-Jahren.
+
+[quietly] Vergleichen Sie sie mit Rodins Balzac, drüben auf der Terrasse Rodin. Rodin gibt Ihnen einen Sturm. Maillol wandte sich von diesem ausdrucksstarken Stil ab, hin zu formaler Schönheit und Schlichtheit. Keine Geschichte, kein Drama, kein Name. Nur eine sitzende Frau und ein Block aus Ruhe. [pause] Gehen Sie langsam um sie herum. Achten Sie darauf, wie wenig sie sich bewegt.
+
+[pause] Nun zur gegenteiligen Antwort. Antoine Bourdelles Héraklès, Herkules der Bogenschütze, stammt von 1909. Der volle französische Titel verrät den Mythos. Der Held schießt auf die menschenfressenden Vögel des Stymphalischen Sees. Es ist vergoldete Bronze, fast zweieinhalb Meter hoch und genauso breit.
+
+Sehen Sie den straff gespannten Bogen. Dann die offene Luft dahinter, wo gleich der Pfeil fliegen wird. Das ganze Gewicht der Bronze sammelt sich in einem einzigen Moment der Spannung.
+
+[lightly] Zwei Wege, einen Körper in der Skulptur sprechen zu lassen. Der eine sitzt vollkommen still. Der andere ist einen Sekundenbruchteil vom Loslassen entfernt.
+
+[pause] Für die letzte Station bleiben Sie auf der Terrasse. Suchen Sie einen Platz an der Balustrade mit Blick hinab auf das ganze Mittelschiff. Dort treffen wir uns zum letzten Titel.

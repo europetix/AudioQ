@@ -1,0 +1,28 @@
+@id: 031 · FR · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: W
+@title: Monet — La Gare Saint-Lazare
+@where: Salle 31, niveau 5. Le tableau de Monet montrant l'intérieur d'une gare parisienne, le hall rempli de vapeur et de lumière.
+@what: Claude Monet, La Gare Saint-Lazare, The Saint-Lazare Station, 1877, oil on canvas, 75 × 105 cm. Caillebotte bequest, accepted by the State in 1896.
+@listen: How Monet found a subject on the edge of his new neighbourhood, and how a painter friend paid 685 francs for it and ended up giving it to France.
+@brief: A friend enjoying the irony of looking at a station from inside a station; brisk and lively about the steam, warm about Caillebotte, a light landing.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 031 (1877; 75 × 105; RF 2775; Monet had just left Argenteuil and settled in the Nouvelle Athènes district; asked permission to work inside the station that bounded it; after the effects of colour, light and steam rather than machines or travellers; Caillebotte bought it 10 March 1878 for 685 francs; Caillebotte bequest accepted 1896 for the Luxembourg; room 31): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF) ; A3 22.1 (one of the busiest stations in Paris then and now, SEC2) ; A3 22.3 (Monet made a whole series of it, SEC2) ; A3 24.6 (Caillebotte bequest accepted after years of dispute, OFF) ; FACTS_R3 024 (Gare d'Orsay inaugurated 1900): https://www.musee-orsay.fr/en/node/60 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 031 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Voici une petite ironie à savourer. Vous allez regarder une gare, et vous vous trouvez dans une gare.
+
+Quand Monet a peint ce tableau, la gare d'Orsay n'existait pas encore. Saint-Lazare, si. C'était déjà l'une des gares les plus fréquentées de Paris, et elle l'est toujours. En 1877, Monet vient de quitter Argenteuil pour s'installer dans le quartier de la Nouvelle Athènes. La gare longe justement ce quartier. Il demande donc la permission de s'installer à l'intérieur pour y travailler.
+
+[pause] Il obtient l'autorisation, et revient encore et encore. Il peint toute une série sur cette gare.
+
+Regardez maintenant ce qu'il a choisi de peindre, et ce qu'il a laissé de côté. Vous ne trouverez ici aucun portrait soigné de locomotive, ni des voyageurs sur les quais. Monet cherchait tout autre chose : la couleur, la lumière, et surtout la vapeur. Laissez votre regard traverser le hall et suivez la vapeur. [pause] Voilà le vrai sujet. Pas la machine elle-même, mais la météo qu'elle fabrique.
+
+[warmly] Le premier acheteur fut un peintre, Gustave Caillebotte. Le 10 mars 1878, il le paie 685 francs à Monet. À sa mort, Caillebotte lègue sa collection à la nation. L'État hésite pendant des années, et ne l'accepte qu'en 1896. [pause] C'est ainsi que cette toile est entrée dans les collections publiques.
+
+[lightly] Le tableau d'une gare, acheté par un peintre, est donc accroché dans une autre gare. Monet aurait apprécié la correspondance.
+
+Dans cette même salle, trouvez le tableau de Caillebotte lui-même, Raboteurs de parquet. Écoutez sa piste là-bas.

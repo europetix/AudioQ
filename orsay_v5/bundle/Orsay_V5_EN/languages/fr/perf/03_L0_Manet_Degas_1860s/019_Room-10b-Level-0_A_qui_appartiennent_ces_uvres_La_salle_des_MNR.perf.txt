@@ -1,0 +1,26 @@
+@id: 019 · FR · Room 10b · Level 0
+@section: Manet and Friends
+@room: Room 10b · Level 0
+@type: R
+@title: À qui appartiennent ces œuvres ? La salle des MNR
+@where: Salle 10 B, côté rue de Lille au niveau 0, au fond de la nef, sous le titre « À qui appartiennent ces œuvres ? ». La sélection d'environ treize œuvres change au fil du temps, et certains tableaux sont accrochés de façon à montrer leur revers.
+@what: A room opened in May 2026 for works in the MNR category, recovered after the Second World War and held by the national museums until their owners can be identified.
+@listen: What MNR means, why so few works have gone home, and what the backs of these paintings can tell.
+@brief: Speaking quietly and plainly to a friend in a room about loss; serious, factual, no drama, with real weight on the names.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R2 017 MNR room (opened 5 May 2026, room 10b, back of the nave; works recovered in Germany and Austria after WWII; about 2,200 entrusted to the national museums, MNR = Musées Nationaux Récupération; Orsay 15 restituted in 30 years, 225 held, mostly incomplete provenance, some shown not to be stolen; 13 works, rotating; backs visible): https://www.musee-orsay.fr/en/node/345503 (OFF) ; ministry figures about 100,000 spoliated in France, about 60,000 returned to France, about 45,000 restituted, about 13,000 sold early 1950s: A2 14.8–14.9, culture.gouv.fr Biens MNR (OFF) ; Degas Souper au bal, free copy after Menzel, owned by Fernand Ochsé; Ochsé and his wife the sculptor Louise Ochsé deported July 1944 to Auschwitz: A2 14.5–14.6 and Confirmed OK (SEC2; pop.culture.gouv.fr MNR00226 OFF) ; Stevens beach scene for Hitler's planned Linz museum: A2 14.4 (SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 019 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Le titre de cette salle est une question. À qui appartiennent ces œuvres ?
+
+Pendant la Seconde Guerre mondiale, un très grand nombre d'œuvres d'art ont été prises à leurs propriétaires en France. Beaucoup appartenaient à des familles juives. Après la guerre, nombre d'entre elles ont été retrouvées en Allemagne et en Autriche, puis renvoyées en France. La plupart ont été rendues à leurs propriétaires, et certaines ont été vendues par l'État. Environ deux mille deux cents ont été confiées aux musées nationaux, en attendant qu'on retrouve leurs propriétaires. [pause] Ce sont les MNR, pour Musées Nationaux Récupération.
+
+[pause] Orsay en conserve deux cent vingt-cinq. En trente ans, quinze ont été rendues à leurs ayants droit. Pourquoi si peu ? Surtout parce que l'histoire de chaque œuvre est incomplète. Et il s'avère que certaines n'ont jamais été volées. Il n'y a donc personne à qui les rendre.
+
+Cette salle a ouvert en 2026, et sa sélection change. Cherchez les tableaux accrochés de façon à montrer leur revers. Les étiquettes et les tampons qu'on y voit font partie des preuves.
+
+Deux œuvres, si elles sont exposées, portent des histoires lourdes. Un souper au bal de Degas, copie libre d'après le peintre allemand Menzel, a appartenu à Fernand Ochsé. En juillet 1944, lui et sa femme, la sculptrice Louise Ochsé, ont été déportés à Auschwitz. [pause] Et une petite scène de plage d'Alfred Stevens a été acquise pour le musée qu'Hitler projetait à Linz.
+
+[long pause] Lorsque vous le souhaitez, continuez vers la salle 11, consacrée aux débuts de Cézanne. Trouvez son grand tableau vertical du Christ aux limbes, et écoutez sa piste là-bas.

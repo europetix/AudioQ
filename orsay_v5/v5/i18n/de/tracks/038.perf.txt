@@ -1,0 +1,26 @@
+@id: 038 · DE · Impressionist rooms
+@section: Impressionism
+@room: Impressionist rooms · Level 5
+@type: R
+@title: Sisley — La Barque pendant l'inondation, Port-Marly (Der Kahn während der Überschwemmung)
+@where: In den Sälen der Impressionisten auf Ebene 5, der Saal ist nicht bestätigt. Suchen Sie eine kleine Überschwemmungsszene: ein Haus mit rosa und gelben Mauern, schräg gesehen, darüber weiter Himmel und ringsum Hochwasser.
+@what: Alfred Sisley, La Barque pendant l'inondation, Port-Marly, The Boat in the Flood, 1876, oil on canvas, 50.4 × 61 cm. Bequest of comte Isaac de Camondo, 1911.
+@listen: The first owner whose household later joined Monet's, the spring the Seine came into town, and the six pictures Sisley made of it.
+@brief: Pointing out a quiet small picture to a friend after the noise of the dance; gently amused at the owner's story, then calm and observant.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R3 038 Sisley (official title; 1876; 50.4 × 61; provenance Hoschedé → Durand-Ruel → Camondo → bequest 1911 → Orsay 1986; moved to Marly-le-Roi 1874; spring 1876 flood, six pictures; house at an angle, much sky and water in broad strokes, pink and yellow walls painted precisely): https://www.musee-orsay.fr/en/artworks/la-barque-pendant-linondation-port-marly-1107 (OFF) ; A3 23.4 (Alice Hoschedé married Monet, July 1892, SEC2)
+@lang: de
+@translation: from the fact-checked English Orsay V5 038 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Diese stille kleine Überschwemmungsszene begann ihr Leben in einem Haushalt, der später mit dem von Monet verschmolz. Der erste Besitzer war ein Mann namens Hoschedé. Seine Frau hieß Alice. Jahre später heiratete Alice Hoschedé Claude Monet. Das Bild ging seinen eigenen Weg, zum Sammler Isaac de Camondo. Er vermachte es der Nation. Seinem Namen begegnen Sie bei den Kathedralen wieder.
+
+Doch das Bild selbst handelt vom Wasser. Im selben Frühjahr, in dem Renoir seine Tänzer malte, trat die Seine über die Ufer.
+
+Sisley war zwei Jahre zuvor nach Marly-le-Roi gezogen. Als der Fluss im Frühjahr 1876 Port-Marly überschwemmte, ging er hinaus, um es zu malen. Und nicht nur einmal. [pause] Er malte sechs Bilder dieser Überschwemmung, und dies ist eines davon.
+
+[curious] Schauen Sie, wie er die Arbeit zweiteilt. Himmel und Wasser nehmen den größten Teil der Leinwand ein. Er malt sie mit leichten, breiten Pinselstrichen. Dann das Haus. Es steht schräg, und seine rosa und gelben Mauern sind sehr genau gemalt. Der Kahn aus dem Titel ist draußen auf dem Hochwasser.
+
+[pause] Alles, was sich bewegt, ist locker. Das Einzige, was stillsteht, ist fest. [quietly] Gönnen Sie ihm nach dem Lärm des Tanzes eine Minute. Ein kleines Bild, und ein ganzer Fluss am falschen Ort.
+
+[pause] Gehen Sie weiter in Saal 34. Suchen Sie fünf Gemälde derselben Kathedralenfassade, nebeneinander. Spielen Sie dort den passenden Titel ab.

@@ -1,0 +1,26 @@
+@id: 067 · FR · Room 70 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 70 · Level 2
+@type: R
+@title: Maurice Denis — Les Muses
+@where: Salle 70 au niveau 2, devant une haute toile : des femmes vêtues à la mode des années 1890, réunies parmi les troncs droits de grands marronniers.
+@what: Maurice Denis, Les Muses, The Muses, 1893, oil on canvas, 171 × 137.5 cm. Bought at public sale in 1932.
+@listen: How Denis turned the Muses of myth into women of his own day, and put his new wife among them.
+@brief: A friend pointing out a private detail in a public painting; warm and unhurried, a small smile at the reveal of the bride.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R5 064 Denis — Les Muses (1893, oil on canvas, 171 × 137.5 cm, bought at public sale 1932, room 70, Muses as women in contemporary dress, century-old chestnut trees of the terrace at Saint-Germain-en-Laye where Denis lived all his life, trunks give "rhythm and decorative power", Marthe married June 1893 among the three seated women, inspired his art until her death): https://www.musee-orsay.fr/en/artworks/les-muses-160 ; works-in-focus the-muses-2069 (OFF) ; FACTS_R4 056 (Talisman the founding work of the Nabis) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 067 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En juin 1893, un jeune peintre nommé Maurice Denis épouse une jeune femme, Marthe. La même année, il achève cette toile. Et elle y figure.
+
+Denis était l'un des nabis, les peintres du petit Talisman que vous avez vu en haut. Voici à quoi leurs idées pouvaient ressembler quelques années plus tard, en grand format.
+
+Le sujet, ce sont les Muses de la mythologie antique. [pause] Mais Denis laisse l'Antiquité derrière lui. Ses Muses sont des femmes vêtues à la mode de son temps, réunies sur une terrasse. Et le lieu est réel. C'est la terrasse de Saint-Germain-en-Laye, où Denis a vécu toute sa vie, sous des marronniers déjà centenaires.
+
+Regardez d'abord les troncs. Ils montent tout droit dans le tableau et en donnent la cadence, comme les mesures d'un morceau de musique. [pause] Le musée parle du rythme et de la puissance décorative qu'ils donnent à toute la scène. Les femmes s'insèrent entre eux.
+
+[quietly] Puis trouvez le groupe de trois femmes assises au premier plan. [pause] L'une d'elles est Marthe, la jeune mariée. Elle inspirera son art jusqu'à sa mort. C'est donc un tableau des Muses. C'est aussi le portrait de sa femme, l'année de leur mariage.
+
+Gagnez maintenant la salle 68, consacrée à Toulouse-Lautrec et aux spectacles de son Paris. Cherchez un tableau haut et étroit sur carton : une femme qui danse seule, peinte à touches fines et rapides, avec deux personnages debout derrière elle. C'est Jane Avril, et son histoire commence là.

@@ -1,0 +1,30 @@
+@id: 055 · DE · Galerie Françoise Cachin · Level 5
+@section: Post-Impressionism
+@room: Galerie Françoise Cachin · Room 44 · Level 5
+@type: R
+@title: Gauguin — Oviri
+@where: Auf Ebene 5 in der Galerie Françoise Cachin, nahe den Gauguin-Gemälden von Saal 44: eine stehende Figur aus Steinzeug, etwa 75 Zentimeter hoch, über einem toten Wolf und einem Jungtier. Ihr genauer Platz in der Galerie ist nicht bestätigt. Sehen Sie in der Nähe nach.
+@what: Paul Gauguin, Oviri, 1894, partially glazed stoneware, 75 × 19 × 27 cm, about 20 kg, OAO 1114. Fired in Ernest Chaplet's kiln in December 1894. Acquired 1987.
+@listen: The biggest ceramic Gauguin ever made, the name he gave it, and where he wanted it to end up.
+@brief: Speaking low beside a dark, strange object; serious and close, with one moment of grim lightness.
+@pace: medium-slow
+@energy: 2→3→3→2
+@sources: FACTS_R7 Oviri (1894, partially glazed stoneware, H 75 × W 19 × D 27 cm, 20 kg, OAO 1114, acquired 1987; Gauguin discovered clay with Ernest Chaplet, hoped to earn money from pots in 1887; last stay in Paris; his largest piece, fired in Chaplet's kiln December 1894; could not sell "his Murderess", asked Monfreid for it in 1900 meaning to put it on his tomb in Tahiti; theme "death, savagery, wildness"; lords it over a dead she-wolf and crushes her cub; Christopher Gray 1963 quote): https://www.musee-orsay.fr/en/collections/works-in-focus/sculpture/commentaire_id/oviri-11308.html and https://www.musee-orsay.fr/en/artworks/oviri-19409 (OFF) ; Galerie Françoise Cachin, room 44 theme: findings/M_planguide_ete_2026.md (OFF), room inferred
+@lang: de
+@translation: from the fact-checked English Orsay V5 055 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Gauguin hatte einen Namen für diese Figur. Er nannte sie seine Mörderin.
+
+Zum Ton kam er durch den Keramiker Ernest Chaplet. Zuerst hoffte er, mit den Töpfen Geld zu verdienen. Doch bei seinem letzten Aufenthalt in Paris fand seine Arbeit mit Ton ihren Abschluss in diesem Stück. Oviri, sein größtes Werk aus Ton. Es wurde im Dezember 1894 in Chaplets Ofen gebrannt.
+
+[pause] Sehen Sie, was sie tut. Sie steht über einer toten Wölfin und thront über dem Körper. Und sie drückt dem Jungen der Wölfin das Leben aus dem Leib.
+
+Tod, Wildheit und das Ungezähmte. Das sind die Themen. Das Steinzeug ist nur teilweise glasiert. Die Figur ist etwa fünfundsiebzig Zentimeter hoch und wiegt rund zwanzig Kilo.
+
+[wry] Gauguin konnte seine Mörderin nicht verkaufen. [pause] Also bat er 1900 Daniel de Monfreid um sie. Er wollte sie auf sein Grab auf Tahiti stellen.
+
+Christopher Gray, ein Kenner von Gauguins Skulpturen, sah in dieser Figur einen Ausdruck tiefer Ernüchterung und Mutlosigkeit. Bleiben Sie einen Moment bei ihr. Vielleicht spüren Sie etwas von diesem Gewicht.
+
+[warmly] Sie kam 1987 ins Museum, fast ein Jahrhundert nach dem Brand im Ofen.
+
+[pause] Von einer Figur, die Gauguin in Ton formte, zu einem Dschungel, den ein anderer Maler in Paris erträumte. Suchen Sie in dieser Galerie Henri Rousseaus La Charmeuse de serpents, Die Schlangenbeschwörerin. Ein großer, dunkler Dschungel mit einer Gestalt, die Flöte spielt. Spielen Sie dort den passenden Titel ab. Ist das Bild nicht ausgestellt, gehen Sie weiter in Saal 45 zu Sérusiers kleinem Bild Le Talisman.

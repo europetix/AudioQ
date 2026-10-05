@@ -1,0 +1,28 @@
+@id: 058 · ES · Room 45 · Level 5
+@section: Post-Impressionism
+@room: Room 45 · Redon and the Nabis · Level 5
+@type: R
+@title: Odilon Redon — Les Yeux clos (Los ojos cerrados)
+@where: En la sala 45 del nivel 5, Redon y los nabis, en la Galerie Françoise Cachin: un cuadro pequeño, de 44 por 36 centímetros, una cabeza y unos hombros con los ojos cerrados, flotando en un espacio suave e impreciso. El número de sala se deduce del plano; si hace falta, busque en los alrededores.
+@what: Odilon Redon, Les Yeux clos, Closed Eyes, 1890, oil, 44 × 36 cm, signed and dated. Chosen from the artist's studio in 1904 by Léonce Bénédite for the Musée du Luxembourg.
+@listen: A face turned inwards, the first Redon the State ever took, and his farewell to Gauguin.
+@brief: Quiet, intimate, close to a whisper in front of a dreaming face; reflective, with a warm turn at the end.
+@pace: slow
+@energy: 2→2→3→2
+@sources: FACTS_R7 Les Yeux clos (1890, signed "ODILON REDON 1890", 44 × 36; say "oil" only; chosen in 1904 from the studio by Léonce Bénédite, director of the Musée du Luxembourg; first Redon in the national collections; probably his wife Camille Falte, from an earlier drawing; inner world, dream, absence, apparition; journal À soi-même; very diluted, almost immaterial paint, grain showing; bust floats; Laurana's busts and Michelangelo's Dying Slave, which deeply moved Redon; "an icon of Symbolism in painting"; Redon born 1840, about fifty): musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/closed-eyes-3022.html and musee-orsay.fr/en/artworks/les-yeux-clos-476 (OFF), audit A1 (SEC2 for birth year) ; FACTS_R7 Redon, Paul Gauguin (1903–1905; Gauguin's death in the Marquesas 8 May 1903; Redon's November article, "refined, savage, grandiose and delicate"; only painter he paid several tributes to; probably met 1886; dark profile against a medallion like a funerary relief or ancient medal; "Inca" nose and long hair): musee-orsay.fr/en/artworks/paul-gauguin-477 (OFF), room not given ; room 45 "Redon et les Nabis": findings/M_planguide_ete_2026.md (OFF), room inferred
+@lang: es
+@translation: from the fact-checked English Orsay V5 058 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Ella ha cerrado los ojos. [pause] Y eso, para Odilon Redon, era lo esencial.
+
+El rostro es probablemente el de su esposa, Camille Falte, rehecho a partir de un dibujo anterior. Pero en realidad pinta lo que ocurre tras los párpados. El sueño, la ausencia, un mundo interior, quizá una aparición. Redon escribió sobre ello en su diario, publicado luego como À soi-même, A mí mismo. Allí habló del extraño encanto de «los ojos cerrados».
+
+[pause] Mire qué poca pintura hay. Es muy fina, casi inmaterial, y asoma el grano del soporte. Cabeza y hombros parecen flotar en un espacio sin bordes.
+
+Redon lo pintó en 1890, cuando tenía unos cincuenta años. Tras el rostro hay modelos antiguos. Bustos del Renacimiento italiano, sobre todo los mármoles de Francesco Laurana. Y el Esclavo moribundo de Miguel Ángel, en el Louvre, que lo conmovió profundamente. Hoy se le considera un icono del simbolismo en pintura.
+
+[curious] También fue una primicia. En 1904, el director del Museo del Luxemburgo, Léonce Bénédite, lo eligió en el taller de Redon. Fue la primera obra de Redon en entrar en las colecciones nacionales.
+
+[warmly] Redon también remite a las salas de Gauguin. Tras la muerte de Gauguin en las Marquesas, Redon muy probablemente lo pintó en homenaje. De perfil, oscuro sobre un medallón, como un relieve funerario o una medalla antigua. Con el pelo largo y la nariz «inca» que enorgullecía a Gauguin. En un artículo de ese mismo año, Redon lo elogió como refinado y salvaje, grandioso y delicado. Busque ese retrato cerca, si está expuesto.
+
+[pause] Luego siga hasta la sala 46, el Chat Noir, con sus figuras recortadas en zinc. Escuche su pista allí.

@@ -1,0 +1,28 @@
+@id: 004 · DE · Room 1 · Level 0
+@section: Academic Art
+@room: Room 1 · Level 0 · Lille side
+@type: R
+@title: Ingres — La Source (Die Quelle)
+@where: In Saal 1, dem ersten Saal auf der Seite der Rue de Lille von Ebene 0, vor einer hohen, schmalen Leinwand mit einem stehenden Akt, wie in eine Nische gestellt.
+@what: Jean-Auguste-Dominique Ingres, La Source, The Spring, begun around 1820 in Florence and finished in Paris in 1856, oil on canvas, 163 × 80 cm.
+@listen: A painting that took thirty-six years and other people's hands, and the collector who staged it among real water plants.
+@brief: Telling a friend a slightly unexpected story about a famously serene picture; curious, then amused at the potted plants, calm and admiring at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R1 004 (begun c.1820 Florence, finished 1856 Paris; 163 × 80; pupils Paul Balze and Alexandre Desgoffe did accessories and background, "a common practice for large formats"; bought by Count Duchâtel 1857 for 25,000 francs; staged among "large plants and aquatic flowers"; Countess Duchâtel bequest to the Louvre 1878; "as if in an alcove", "immobility of a marble statue", influence of sculpture "striking"; Ingres born 1780, so 76 in 1856 (A1)): https://www.musee-orsay.fr/en/artworks/la-source-525 (OFF), https://www.musee-orsay.fr/fr/oeuvres/rez-de-chaussee-cote-lille-premiere-salle-la-source-de-jean-auguste-dominique-ingres-acheve-laide-de-paul-balze-et-alexandre-desgoffe-127831 (OFF) ; A1 Track 04 rows 3–4
+@lang: de
+@translation: from the fact-checked English Orsay V5 004 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Diese ruhige Gestalt brauchte sechsunddreißig Jahre. Und Ingres vollendete sie nicht allein.
+
+Er begann das Bild in Florenz, um 1820. Jahrzehnte vergingen. Fertig wurde es erst 1856 in Paris, als er sechsundsiebzig Jahre alt war. Dafür holte er zwei seiner Schüler hinzu, Paul Balze und Alexandre Desgoffe. Sie malten das Beiwerk und den Hintergrund. Bei großen Formaten war das üblich.
+
+Sehen Sie, wie er sie ins Bild setzt. Die Leinwand ist hoch und schmal. Sie steht darin wie in einer Nische. Durch diesen Rahmen und ihre Haltung bekommt sie die Ruhe einer Marmorstatue. Wie viel Ingres der Bildhauerei verdankt, ist deutlich zu sehen. [pause] Sie ist nicht in einem Augenblick erfasst. Sie ist aufgestellt, wie etwas Gemeißeltes.
+
+[amused] Ihr erster Besitzer wollte die gegenteilige Wirkung. Ein Jahr nach der Vollendung kaufte Graf Duchâtel das Bild von Ingres, für fünfundzwanzigtausend Franc. Bei sich zu Hause umgab er es mit großen Pflanzen und Wasserblumen. So sollte die Nymphe der Quelle noch mehr wie ein wirklicher Mensch wirken. [pause] Eine gemalte Statue, mit einem kleinen Garten, damit sie atmet.
+
+Die Gräfin Duchâtel vermachte das Bild später dem Louvre. Mit der Eröffnung dieses Museums kam es hierher.
+
+[pause] Treten Sie also zurück und prüfen Sie, wie es auf Sie wirkt. Eine Frau oder eine Statue. Ich vermute, Ingres wollte, dass Sie beides zugleich spüren.
+
+Zwei sehr verschiedene Venusbilder warten in Saal 3. Spielen Sie den passenden Titel ab, sobald Sie zwischen ihnen stehen.

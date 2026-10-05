@@ -1,0 +1,26 @@
+@id: 050 · ES · Room 40 · Level 5
+@section: Post-Impressionism
+@room: Room 40 · Level 5
+@type: R
+@title: Signac — Femme à l'ombrelle (Mujer con sombrilla)
+@where: Sala 40 del nivel 5, entre los neoimpresionistas. Busque el retrato de Paul Signac de una mujer con sombrilla, pintado con pequeños toques de color separados. En la sala 39 hay más obras de Signac.
+@what: Paul Signac, Femme à l'ombrelle (Woman with a Parasol), 1893. Oil on canvas, 81 × 65 cm.
+@listen: The woman Signac met at a cabaret and painted after ten years together, and how the next generation took the Impressionists' favourite subject and remade it in dots.
+@brief: Letting a friend in on a quiet love story behind a formal-looking picture, then playing a looking game; warm and light.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_R4 050 Signac (Femme à l'ombrelle 1893, 81 × 65, room 40; Berthe Roblès 1862–1942, distant cousin of Pissarro; met early 1880s at the Chat Noir, lived with him from then; married 7 Nov 1892; finished Neo-Impressionist portraits rare; last of a series of family and friends incl. Fénéon 1890 MoMA; parasol theme as in Monet's two "Essai de figure en plein air" at Orsay, "in a purely Neo-Impressionist manner"; Signac works in rooms 39 and 40; Signac owned Le Cirque): https://www.musee-orsay.fr/en/artworks/femme-lombrelle-25640 (OFF) ; A3 30.3–30.4 ("divisionnisme" was Signac's term; colours mix in the eye and stay luminous; SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 050 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Paul Signac conoció a la mujer de este cuadro en un cabaret, el Chat Noir, a principios de la década de 1880. Desde entonces, vivió con él.
+
+Se llamaba Berthe Roblès, y era prima lejana del pintor Camille Pissarro. Se casaron en noviembre de 1892, tras unos diez años juntos. Al año siguiente la pintó aquí, como Femme à l'ombrelle, Mujer con sombrilla.
+
+[pause] Eso ya lo hace insólito. Los retratos acabados son raros en su obra. Es el último de una pequeña serie de retratos de familiares y amigos. El del escritor Félix Fénéon está hoy en el Museo de Arte Moderno de Nueva York.
+
+[lightly] Y el tema es un guiño a la generación anterior. La mujer con sombrilla era un motivo favorito de los impresionistas. Monet pintó dos estudios así, de una figura al aire libre, y ambos pertenecen a este museo. Signac retoma la idea y la trata, como dice el museo, de una manera puramente neoimpresionista.
+
+Signac llamaba a su método divisionismo. Los colores se aplican en toques separados, para que se mezclen en su ojo y sigan luminosos. [pause] Acérquese, y Berthe se deshace en color. Retroceda, y vuelve a componerse. Pruébelo varias veces. El cuadro cambia con cada paso que da.
+
+Siga hasta la sala 43, la sala de Pont-Aven. Busque a una joven de tamaño natural tendida en un bosque: Madeleine au Bois d'Amour, de Émile Bernard. [pause] Su pista le espera allí.

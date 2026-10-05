@@ -1,0 +1,32 @@
+@id: 056 · ES · Galerie Françoise Cachin · Level 5
+@section: Post-Impressionism
+@room: Galerie Françoise Cachin · Level 5
+@type: R
+@title: Henri Rousseau — La Charmeuse de serpents (La encantadora de serpientes)
+@where: En el nivel 5, en la Galerie Françoise Cachin, cerca de las salas de Gauguin: una gran escena de selva casi cuadrada, de casi 1,9 metros de ancho, con una figura oscura que toca la flauta, rodeada de serpientes. Su sala no está confirmada. Estuvo prestada hasta julio de 2026; si no está expuesta, sáltese esta pista y siga hasta la sala 45.
+@what: Henri Rousseau, La Charmeuse de serpents, The Snake Charmer, 1907, oil on canvas, 169 × 189.5 cm. Bequest of Jacques Doucet, 1936.
+@listen: A jungle painted without leaving Paris, the woman who ordered it, and the artists it went on to haunt.
+@brief: A friend pointing out an enchanting, slightly unsettling picture; curious and warm, with a touch of wonder.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R7 La Charmeuse de serpents (1907, 169 × 189.5; bequest of Jacques Doucet 1936; Galerie Françoise Cachin; commissioned by Robert Delaunay's mother after a trip to India; Delaunay, Jarry, Apollinaire, Picasso, Breton among admirers; dark-skinned androgynous figure with a flute; "a black Eve in a disquieting Garden of Eden…"; bright dense backlit colours anticipating Magritte; precise and naïve drawing; vertical asymmetrical composition; uniform treatment; one of his "most fascinating and enigmatic" paintings, inspired the Surrealists; one part very bright, one very dark; jungles from studies at the Muséum and the Jardin des Plantes greenhouses, not from travel): m.musee-orsay.fr/en/works/commentaire_id/the-snake-charmer-8846.html (OFF) ; Doucet collection beside the Demoiselles d'Avignon: musee-orangerie.fr/en/whats-on/exhibitions/henri-rousseau-painters-ambition (OFF) ; loans to the Barnes and the Orangerie to 20 Jul 2026: FACTS_R7 (SEC2/OFF) ; level 5 theme rooms: findings/M_planguide_ete_2026.md (OFF), no Rousseau room named
+@lang: es
+@translation: from the fact-checked English Orsay V5 056 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Esta selva creció en París, en un invernadero.
+
+Pero el cuadro viaja. Si no está en la pared, siga directamente a la sala 45 y a Le Talisman de Sérusier.
+
+Rousseau no sacó sus selvas de ningún viaje. Las sacó de estudios en el Museo de Historia Natural y en los invernaderos del Jardin des Plantes. [pause] Con eso construyó esto.
+
+[curious] Nació como encargo. Lo pidió la madre de Robert Delaunay, tras un viaje a la India. Delaunay era uno de los admiradores más fervientes de Rousseau. También lo eran Jarry, Apollinaire, Picasso y Breton.
+
+[pause] Ahora mire. Una figura de piel oscura, ni claramente hombre ni mujer, toca la flauta. Le responden las serpientes y toda la naturaleza a su alrededor. El comentario del museo la compara con una Eva negra en un inquietante jardín del Edén. Encanta a una serpiente tan aterradora como seductora era la serpiente del Génesis.
+
+[pause] Fíjese en el color, como iluminado desde atrás, brillante y denso. Una parte del cuadro es muy luminosa, la otra muy oscura. El dibujo es preciso e ingenuo a la vez. Y la figura, los animales y las plantas fantásticas reciben exactamente el mismo trato.
+
+Esa extrañeza llegó lejos. Los colores a contraluz parecen anunciar a Magritte. El cuadro inspiró a generaciones de artistas, sobre todo a los surrealistas.
+
+[warmly] El coleccionista Jacques Doucet lo tuvo, junto a Les Demoiselles d'Avignon de Picasso. Llegó a las colecciones nacionales como legado suyo, en 1936.
+
+Ahora pase a la sala 45, Redon y los nabis. Busque Le Talisman de Paul Sérusier, una pintura muy pequeña sobre madera. Escuche su pista allí.

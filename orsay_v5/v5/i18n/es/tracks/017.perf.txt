@@ -1,0 +1,26 @@
+@id: 017 · ES · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
+@type: R
+@title: Monet — Femmes au jardin (Mujeres en el jardín)
+@where: Sala 18, la misma sala que Le Déjeuner sur l'herbe de Manet. Un lienzo alto, de unos dos metros y medio, de mujeres en un jardín.
+@what: Claude Monet, Femmes au jardin, Women in the Garden, around 1866, oil on canvas, 255 × 205 cm. Bought from Monet by the State in 1921.
+@listen: The trench and pulley Monet needed to paint it, the one model behind three women, and the whites a recent cleaning brought back.
+@brief: Sharing a slightly comic studio story with a friend, then turning to admire the picture; light and amused, then attentive.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 028 Femmes au jardin (c.1866, 255×205; painted 1866 in the garden of a rented house in the Paris suburbs; "twofold challenge": outdoors and a format usually kept for history painting; canvas lowered into a trench with a pulley; Camille posed for the three figures on the left; bought from Monet by the State in 1921 for the Musée du Luxembourg; room 18; restoration with the C2RMF, old repairs deteriorated, yellowed varnish, "dazzling whites" against bluish-grey shadows): https://www.musee-orsay.fr/en/artworks/femmes-au-jardin-807 , https://www.musee-orsay.fr/en/node/290886 (OFF). Restoration year not used (contested). ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 017 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Para llegar a lo alto de este lienzo, Monet lo bajaba con una polea a una zanja del jardín. Es una imagen algo cómica. Un pintor, un hoyo en el suelo, y un lienzo que sube y baja como un cubo en un pozo.
+
+Había una buena razón. En 1866, Monet pintaba en el jardín de una casa que alquilaba en las afueras de París. Era un doble desafío. Primero, pintaba al aire libre, en la luz misma. Segundo, eligió un formato enorme, el que solía reservarse a la pintura de historia, a escenas de dioses y héroes. [pause] Monet dio ese tamaño a unas cuantas mujeres en un jardín.
+
+[curious] Ahora mire las tres figuras de la izquierda. Tres mujeres. [pause] Y una sola modelo. Camille posó para las tres.
+
+En 1921, el Estado le compró este cuadro al propio Monet, para el Museo del Luxemburgo. Lo había pintado más de medio siglo antes.
+
+[warmly] Mucho más tarde, necesitó cuidados. Las viejas reparaciones se habían deteriorado y el barniz había amarilleado. El museo y el centro nacional de restauración de los museos de Francia lo limpiaron. El museo dice que la limpieza devolvió unos «blancos deslumbrantes» frente a sombras gris azuladas. [pause] Pase con la mirada de la tela luminosa a la sombra fresca. Esa luz era la razón de la zanja.
+
+Quédese en la sala 18. Aquí cuelga también el taller de Bazille, pintado por él: en el centro, un pintor alto con una paleta, y un hombre con sombrero que estudia el lienzo del caballete. Escuche su pista frente a él.

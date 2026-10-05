@@ -1,0 +1,28 @@
+@id: 028 · FR · Room 29 · Level 5
+@section: Impressionism
+@room: Room 29 · Level 5
+@type: R
+@title: Monet — Les fragments du Déjeuner sur l'herbe
+@where: Salle 29, niveau 5. Deux très grandes toiles issues d'une même scène de pique-nique, accrochées côte à côte : le grand fragment central, haut de presque deux mètres et demi, et le fragment de gauche, accroché à sa gauche.
+@what: Claude Monet, Le Déjeuner sur l'herbe, Luncheon on the Grass, begun 1865, oil on canvas: two surviving fragments, the central one 248.7 × 218 cm.
+@listen: How the biggest canvas of Monet's youth ended up as rent security, then mouldy, then in pieces.
+@brief: Telling a friend the slightly absurd fate of a young painter's grand ambition; curious at the start, wry at the landlord, quietly respectful at the end.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_R3 026 (begun spring 1865; over four metres by six; "both a tribute and a challenge to Manet"; abandoned 1866 just before the Salon; left with landlord as security for rent; mouldy when recovered 1884; cut up, three fragments kept; central fragment 248.7 × 218 cm, dation 1987; left fragment hung to its left, Wildenstein gift 1957; room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 028 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Au printemps 1865, le jeune Claude Monet commence le plus grand tableau de sa jeunesse. La toile mesure plus de quatre mètres sur six. Son sujet : un pique-nique sur l'herbe. Il a en tête le Déjeuner sur l'herbe de Manet, que vous avez déjà rencontré. Monet conçoit son pique-nique à la fois comme un hommage et comme un défi.
+
+Il ne l'a jamais terminé. Un an plus tard, juste avant le Salon, il abandonne. [pause] Puis la toile connaît une existence bien peu glorieuse.
+
+[wry] Monet la laisse à son propriétaire, en garantie du loyer. Quand il la récupère enfin, en 1884, elle a moisi. [pause] Alors il la découpe, et garde trois morceaux.
+
+Deux de ces morceaux sont ici. Le grand est le centre de la composition, haut de presque deux mètres et demi. À sa gauche est accroché le fragment de gauche. Ils sont entrés dans les collections nationales par des chemins différents, à trente ans d'écart. L'un comme don, l'autre en paiement d'un impôt. Le troisième morceau n'est pas dans ce musée.
+
+Reculez et imaginez autour d'eux la toile entière, en grandeur réelle. Voilà l'échelle qu'un jeune peintre jugeait nécessaire pour se mesurer à Manet.
+
+[quietly] C'est étrange d'admirer un tableau que son propre auteur a démonté. Mais ces morceaux saisissent un jeune peintre au moment précis où il ose répondre à Manet en grand format. Il trouvera d'autres façons de se faire entendre.
+
+Dans cette même salle, cherchez une toile bien plus petite : un champ de coquelicots rouges, avec une femme qui tient une ombrelle. Ce sont les Coquelicots de Monet. [pause] Lancez sa piste devant le tableau.

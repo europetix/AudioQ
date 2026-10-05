@@ -1,0 +1,32 @@
+@id: 008 · FR · Room 5 · Level 0
+@section: Realism
+@room: Room 5 · Level 0 · Seine side
+@type: W
+@title: Millet — Des glaneuses
+@where: Dans la salle 5, côté Seine, au niveau 0, devant une toile d'environ un mètre de large : trois femmes glanent dans un champ, la moisson derrière elles. Du 14 novembre 2026 au 28 mars 2027, le tableau est prêté à Tokyo. Si le mur est vide, écoutez plutôt devant L'Angélus de Millet, dans cette salle 5 ou dans la Galerie Seine 1, la galerie de la collection Alfred Chauchard, toute proche, côté Seine.
+@what: Jean-François Millet, Des glaneuses, The Gleaners, 1857, oil on canvas, 83.5 × 110 cm. Shown at the Salon of 1857; given by Madame Pommery in 1890.
+@listen: What gleaning was, the ten years Millet spent on it, and why the harvest is pushed into the distance.
+@brief: Standing beside a friend in front of a quiet, serious painting; low-key and attentive, with a small lift at the turn and a gentle landing.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R1 009 (1857; 83.5 × 110; RF 592; Salon 1857; "ten years of research on the theme of the gleaners"; women allowed through the fields at sunset to pick up, one by one, the stalks the harvesters missed; provenance Binder, Tesse, Bischoffsheim, Mme Pommery gift with reservation of usufruct 1890; room 5; Tokyo loan 14 Nov 2026 – 28 Mar 2027 (SEC2)): https://www.musee-orsay.fr/en/artworks/des-glaneuses-342 (OFF), https://www.tokyoartbeat.com/events/-/100th-Anniversary-of-the-Tokyo-Metropolitan-Art-Museum-What-a-Wonderful-World-Masterworks-from-the-Musee-d-Orsay/0-B4-D9854/2026-11-14 (SEC), https://bijutsutecho.com/magazine/news/exhibition/32737 (SEC) ; A1 Track 05 row 5 (OK: three gleaners, harvest behind, room 5) ; FACTS_R1 010 (L'Angélus 1857–1859; couple reciting the Angelus; potato harvest; fork, basket, sacks, wheelbarrow): https://www.musee-orsay.fr/en/artworks/langelus-345 (OFF) ; G §0 row 7 (Tokyo loan, OFF/SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 008 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Trois femmes dans un champ, qui travaillent pour les restes. C'est tout le sujet de ce tableau, Des glaneuses.
+
+Si ce mur est vide, c'est que le tableau voyage à Tokyo cet hiver. Allez alors jusqu'à L'Angélus de Millet, accroché tout près, dans cette salle ou dans la galerie de la collection Chauchard, côté Seine. Écoutez la suite là-bas.
+
+[pause] Des femmes comme celles-ci avaient le droit d'entrer dans les champs au coucher du soleil. Elles ramassaient, tige après tige, le blé oublié par les moissonneurs. [pause] C'est cela, glaner.
+
+Jean-François Millet n'est pas arrivé vite à ce tableau. Ce tableau couronne dix ans de recherches sur le thème des glaneuses. Dix ans, pour un instant de trois femmes au travail. Il l'expose au Salon de 1857.
+
+[curious] Il construit l'image sur un contraste. Les trois glaneuses occupent le devant de la toile, tout près du sol. Loin derrière elles, la moisson bat son plein. C'est là qu'est la richesse du champ, repoussée au loin. Millet ne fait aucun discours. Il vous laisse simplement remarquer où il a mis l'abondance, et où il a mis les femmes.
+
+Le tableau est passé par plusieurs collections. Puis, en 1890, Madame Pommery l'a donné à la nation, en se réservant le droit d'en jouir sa vie durant.
+
+[warmly] Si vous êtes devant L'Angélus, vous êtes avec un proche parent. Millet l'a commencé la même année, en 1857. [pause] Regardez-le maintenant. Un autre champ, un homme et une femme, une fourche, un panier et une brouette autour d'eux. Ici aussi, le travail s'est arrêté. Mais cette fois, c'est pour une prière.
+
+Millet ne vous demande rien de plus que votre attention, devant l'un ou l'autre tableau.
+
+L'Angélus a sa propre histoire. C'est la petite toile d'un homme et d'une femme arrêtés dans un champ de pommes de terre, dans cette salle 5 ou dans la galerie de la collection Chauchard, toute proche, côté Seine. Si vous êtes déjà devant, lancez simplement sa piste maintenant.

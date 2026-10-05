@@ -1,0 +1,26 @@
+@id: 003 · DE · Central aisle · Level 0
+@section: Academic Art
+@room: Central aisle · Level 0
+@type: R
+@title: Couture — Romains de la décadence (Die Römer der Dekadenz)
+@where: Im Mittelgang mit den Skulpturen auf Ebene 0, vor der riesigen Leinwand, fast acht Meter breit: eine römische Orgie in einer klassischen Halle, beobachtet von Statuen der Ahnen.
+@what: Thomas Couture, Romains de la décadence, Romans of the Decadence, 1847, oil on canvas, 472 × 772 cm. Commissioned by the State and shown at the Salon of 1847.
+@listen: A painting of ancient Rome that Paris read as a painting of itself.
+@brief: Letting a friend in on a nineteenth-century joke in front of a huge canvas; amused, a little conspiratorial at the double meaning, warm at the link to Manet.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R1 003 (1847; 472 × 772; State commission 25 Jun 1846; Salon 1847; three years' work; orgy in a classical hall, statues of virtuous ancestors; history painting, moral message; Juvenal theme and quoted lines; jab at the July Monarchy, "The French of the Decadence"; "realist allegory"; Manet in Couture's studio 1850–56 (A1)): https://www.musee-orsay.fr/en/artworks/romains-de-la-decadence-9493 (OFF), https://www.musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/romans-during-the-decadence-2105.html (OFF) ; A1 Track 03 row 6 (OK)
+@lang: de
+@translation: from the fact-checked English Orsay V5 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] 1847 sahen die Pariser dieses Bild vom alten Rom an. Und sie erkannten sich selbst darin.
+
+Thomas Couture arbeitete drei Jahre daran. Der Staat hatte es bestellt, bevor es überhaupt gezeigt wurde. Es war ein Historienbild, die edelste Gattung der Malerei jener Zeit. Und es sollte eine Moral vermitteln. Sein Thema fand Couture bei Juvenal. Im Katalog des Salons druckte er zwei Verse Juvenals ab. [pause] „Grausamer als der Krieg fiel das Laster über Rom her und rächte die besiegte Welt.“
+
+Sehen Sie also, was er Ihnen zeigt. Eine große klassische Halle. Darin ein Fest, das zur Orgie geworden ist. Und ringsum die Statuen der tugendhaften Ahnen, die auf ihre Nachkommen herabblicken. [pause] Die alten Römer, die die Welt eroberten. Und die neuen, die sie an das Vergnügen verloren.
+
+[conspiratorial] Doch die Kritiker glaubten nicht, dass es wirklich um Rom ging. Frankreich lebte damals unter der sogenannten Julimonarchie. Die Kritiker lasen das Bild schnell als Seitenhieb auf die eigenen Herrscher. In ihren Augen zeigte es Die Franzosen der Dekadenz. Das Museum nennt es heute eine realistische Allegorie. Ein Bild in Togen über Paris.
+
+Es gibt noch einen Grund, sich an Couture zu erinnern. Ab 1850 lernte ein junger Mann sechs Jahre lang in seinem Atelier. [pause] Sein Name war Édouard Manet. Ein paar Säle weiter sehen Sie, wie anders der Schüler seine eigene Zeit malte.
+
+Gehen Sie jetzt hinüber auf die Seite der Rue de Lille. Suchen Sie in Saal 1 das hohe Bild eines stehenden Akts von Ingres, La Source. Spielen Sie den passenden Titel vor ihr ab.

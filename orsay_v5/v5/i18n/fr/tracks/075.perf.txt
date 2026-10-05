@@ -1,0 +1,26 @@
+@id: 075 · FR · Level 2 terrace → exit
+@section: Closing
+@room: Level 2 terrace → exit
+@type: CLOSE
+@title: Vers Paris
+@where: Sur la terrasse des sculptures du niveau 2, à la balustrade, le regard tourné vers toute la longueur de la nef, jusqu'à La Porte de l'Enfer de Rodin, tout au fond.
+@what: The nave of the former Gare d'Orsay, seen from the sculpture terraces of level 2: built as a station for the 1900 Exposition, opened as a museum in December 1986.
+@listen: One last look down the old station, a short look back over the tour, and the way out.
+@brief: Saying goodbye to a friend at the end of a long, good day; reflective and warm, a little proud of the building, unhurried, ending gently.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: FACTS_R5 072 terraces (level-2 terraces run along both sides of the nave and overlook the central aisle; sculpture of about 1880–1910; Gates of Hell at the far end between the towers; no Seine view promised; exit via level 0, SORTIE at the clock end per plan-guide 2026) (OFF) ; FACTS_R2 001 (built for the 1900 Exposition universelle; Laloux; metal structure hidden behind cut stone; Detaille quote 1900 verbatim "The station is superb and looks like a Palais des beaux-arts…"; terminus 1900–1939; inaugurated 1 Dec 1986, opened 9 Dec 1986; 2026 the 40th anniversary) : https://www.musee-orsay.fr/en/node/60 ; https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF) ; FACTS_R2 002 (three levels, terraces of the median level overlook the nave, platforms became the sculpture aisle, "main artery of the visit"; Gates of Hell on the axis since 24 May 2022): https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 (OFF via G/A2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 075 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1900, quand ce bâtiment était tout neuf, le peintre Édouard Detaille a écrit à son sujet : « La gare est superbe et a l'air d'un Palais des Beaux-Arts… » Il a fallu la plus grande partie du siècle pour lui donner raison.
+
+Regardez en bas, depuis la terrasse. Là où les sculptures se dressent le long de l'allée centrale, les trains arrivaient autrefois. Et regardez les terrasses elles-mêmes. Des deux côtés de la nef, elles présentent la sculpture des années 1880 à 1910 environ.
+
+[pause] Vous connaissez maintenant les trois niveaux. Vous avez commencé là, en bas, au rez-de-chaussée, avec les peintres académiques, Millet et Courbet, et l'Olympia de Manet. Vous avez gagné le sommet, sous le toit, avec les impressionnistes, Van Gogh et Gauguin. Puis vous avez rejoint cet étage, vers les nabis, l'Art nouveau, Claudel et le Balzac de Rodin.
+
+[quietly] Avant de partir, regardez jusqu'au fond de la nef. Entre les deux tours se dresse La Porte de l'Enfer de Rodin, face à toute la longueur de l'ancienne gare. Vous étiez devant elle il y a quelques heures, au bout du rez-de-chaussée. D'ici, vous pouvez l'embrasser avec tout le reste, d'un seul regard. [pause] Detaille n'a vu qu'une gare qui ressemblait à un palais. Vous, vous venez de parcourir le palais.
+
+[warmly] Merci d'avoir passé ces heures avec moi. J'espère que quelques-uns de ces visages vous accompagneront : un chat noir, une petite danseuse, un homme dans un sac de plâtre, une jeune fille qui tient la tête d'un poète.
+
+[pause] Quand vous le souhaitez, prenez les escalators ou l'escalier pour descendre au niveau 0. Revenez le long de la nef jusqu'au côté de l'horloge, celui de l'entrée. Suivez les panneaux SORTIE pour retrouver Paris. Au revoir, et profitez bien de la ville.

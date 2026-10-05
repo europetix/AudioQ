@@ -1,0 +1,28 @@
+@id: 027 · DE · Room 28 · Salon de l'horloge · Level 5
+@section: Impressionism
+@room: Room 28 · Salon de l'horloge · Level 5
+@type: R
+@title: Die Uhr über Paris
+@where: Saal 28, der Salon de l'horloge, oben an den Rolltreppen auf Ebene 5, vor den Sälen der Impressionisten: Stellen Sie sich in die Nische hinter dem großen Zifferblatt in der Fassade und blicken Sie durch die Uhr zur Seine.
+@what: One of the great illuminated clocks of the former Gare d'Orsay, the station built for the 1900 Exposition universelle, kept on purpose when the station became a museum.
+@listen: Why a museum kept its station clocks, and what it means to stand behind one.
+@brief: A friend pausing at a window before the big rooms; light and amused at standing behind the clock, then quiet and unhurried, inviting the listener to just look, then practical for one tip.
+@pace: medium-slow
+@energy: 3→2
+@sources: FACTS_R3 024 (traces kept: metal structure, clocks, one of the seven domes; station inaugurated 14 July 1900): https://www.musee-orsay.fr/en/node/60 (OFF) ; FACTS_R3 024 archive photos "grandes horloges lumineuses donnant sur le quai", repair with telescopic arm from the quai Seine: https://www.musee-orsay.fr/en/artworks/restauration-dune-des-grandes-horloges-lumineuse-donnant-sur-le-quai-156259 (OFF) ; FACTS_R2 001 (ACT brief to respect Laloux's building): https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF) ; G §1 level 5 (clock viewpoint described as a "breathing space", SEC2) ; A3 / FACTS_R4 059 (a second great clock at the exit of the Impressionist gallery; façade clocks face the Seine): musee-orsay.fr/fr/visite/restauration (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 027 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Als dieser Bahnhof zum Museum wurde, sollten die Architekten nicht verstecken, was er einmal war. Sie sollten es respektieren. Deshalb blieben einige Spuren des Bahnhofs bewusst erhalten. Die Metallkonstruktion. Eine der sieben Kuppeln. Und die Uhren.
+
+Dieser Saal ist der Salon de l'horloge, der Uhrensalon. Sie stehen hinter einer dieser Uhren. Es ist eine der großen beleuchteten Bahnhofsuhren. Sie sitzt in der Fassade und blickt auf den Kai und den Fluss. Der Bahnhof wurde 1900 eröffnet. [pause] Archivfotos zeigen sogar, wie eine dieser Uhren repariert wird. Ein Teleskoparm reicht dabei vom Kai bis ganz nach oben.
+
+[amused] Von hier drinnen sehen Sie die Uhr von der falschen Seite. Ausnahmsweise stehen Sie einmal hinter der Zeit.
+
+[quietly] Man nennt diesen Ort oft eine Atempause, und das zu Recht. Die Säle vor Ihnen sind gleich voller Farbe. Schauen Sie also vorher hinaus auf Paris. Auf den Fluss, das Licht, das Wetter, wie auch immer es heute ist. [pause] Fast genau dem jagten die Maler in den Sälen vor Ihnen nach. Nicht der Stadt als Monument. Der Stadt zu einer ganz bestimmten Stunde.
+
+Weiter hinten auf dieser Ebene gibt es eine zweite große Uhr. Dies ist also nicht Ihr letzter Blick durch ein Zifferblatt.
+
+Ein Tipp für diese Ebene. Die Säle sind oft voll, und Bilder werden manchmal umgehängt. Finden Sie ein Werk nicht innerhalb einer Minute, spielen Sie den Titel trotzdem ab. Oder überspringen Sie ihn. Die nächste Wegbeschreibung bringt Sie wieder auf Kurs.
+
+[pause] Suchen Sie nun Saal 29. Dort hat Monets eigenes Déjeuner sur l'herbe in Stücken überlebt. Starten Sie den passenden Titel, wenn Sie dort sind.

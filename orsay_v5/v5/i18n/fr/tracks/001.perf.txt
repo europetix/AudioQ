@@ -1,0 +1,32 @@
+@id: 001 · FR · Arrival · Level 0
+@section: Opening
+@room: Arrival · Level 0
+@type: ANCHOR
+@title: Une gare devenue musée
+@where: À écouter en arrivant, devant le bâtiment ou juste après l'entrée, avant les salles. Suivez la signalétique du musée : inutile de vous placer à un endroit précis.
+@what: The Musée d'Orsay, built by Victor Laloux as the Gare d'Orsay, a railway station and hotel for the 1900 Exposition universelle, and opened as a museum in December 1986.
+@listen: How a station dressed up as a palace nearly gave way to a hotel, and how it became a museum instead.
+@brief: Welcoming a friend at the door with the building's unlikely life story; warm and easy, amused at the disguise, quiet for the war years, quietly proud at the opening.
+@pace: medium
+@energy: 3→4→2→4
+@sources: FACTS_R2 001 (1900 Exposition; Laloux chosen 1898; built in two years, inaugurated 14 Jul 1900; metal hidden behind cut stone to suit the Louvre and Tuileries; Detaille quote; terminus to 1939, platforms too short; wartime parcels; Liberation returns; Welles's The Trial, Renaud-Barrault company, auctioneers (Drouot rebuild); hotel permit refused Feb 1971; listed 1973; Halles demolition; museum decided 1977 at Giscard d'Estaing's initiative; ACT-Architecture + Aulenti; inaugurated 1 Dec 1986 by Mitterrand, public 9 Dec; 40th anniversary): https://www.musee-orsay.fr/en/node/60 (OFF), https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF), https://www.musee-orsay.fr/sites/default/files/2021-07/De_La_Gare_Au_Musee.pdf (OFF), https://www.britannica.com/topic/Musee-dOrsay (Halles link, SEC2 with OFF) ; A1 Confirmed OK (12,000 t of metal) ; FACTS_R3 024 (Orléans railway company; station traces kept: metal structure, clocks): https://www.musee-orsay.fr/en/node/60 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 001 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1971, quelqu'un voulait bâtir ici un grand hôtel international. Le permis de construire a été refusé. Sans ce refus, il n'y aurait pas de musée.
+
+Au départ, c'était une gare, construite pour l'Exposition universelle de 1900. La Compagnie du chemin de fer d'Orléans choisit l'architecte Victor Laloux. En deux ans à peine, il élève une gare et un hôtel. Ils ouvrent le 14 juillet 1900.
+
+[amused] Laloux avait un problème délicat. Sa gare devait voisiner avec le Louvre et les Tuileries sans faire honte à personne. Il la bâtit donc en métal, quelque douze mille tonnes, puis cache tout ce métal derrière la pierre de taille. [pause] Le déguisement fait illusion. Le peintre Édouard Detaille écrit : « La gare est superbe et a l'air d'un Palais des Beaux-Arts. »
+
+Sa vie de grand terminus a été brève. Avec la traction électrique et des trains plus longs, ses quais sont devenus trop courts. À partir de 1939, elle ne dessert plus que la banlieue.
+
+[quietly] La guerre lui confie une tâche plus triste. D'ici partaient les colis pour les prisonniers. [pause] Et à la Libération, c'est ici que prisonniers et déportés sont rentrés d'Allemagne.
+
+Ensuite, elle accepte tous les emplois. Orson Welles y tourne Le Procès. Une compagnie de théâtre s'y installe, puis des commissaires-priseurs. Le projet de grand hôtel est rejeté, et l'hôtel de la gare ferme. Paris venait de perdre les pavillons de Baltard, aux Halles, et cette perte a changé le regard sur ces édifices. La gare est protégée comme monument historique. Et à l'initiative de Valéry Giscard d'Estaing, le gouvernement décide d'en faire un musée.
+
+Une équipe d'architectes adapte le bâtiment de Laloux, et Gae Aulenti conduit l'aménagement intérieur. [pause] Le président Mitterrand inaugure le musée le premier décembre 1986. Huit jours plus tard, le public entre.
+
+[lightly] Quarante ans après, la gare n'est pas tout à fait partie. Les architectes ont laissé bien en vue sa structure métallique et ses grandes horloges. Vous croiserez les deux en chemin.
+
+Une fois à l'intérieur, suivez la signalétique jusqu'en haut de l'allée centrale, puis appuyez sur lecture.

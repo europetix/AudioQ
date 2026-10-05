@@ -1,0 +1,28 @@
+@id: 073 · DE · Sculpture terrace · Level 2
+@section: Art Nouveau and Sculpture
+@room: Sculpture terrace · Level 2
+@type: R
+@title: Pompon — Ours blanc (Eisbär)
+@where: Auf der Skulpturenterrasse von Ebene 2 über dem Mittelschiff. Suchen Sie einen großen Eisbären aus Stein, etwa zweieinhalb Meter lang.
+@what: François Pompon, Ours blanc, Polar Bear, stone, 163 × 251 × 90 cm, carved 1923–33 after a State commission of 1927. Assigned to Orsay in 1986.
+@listen: The man who carved marble for Rodin and Claudel, and found fame at sixty-seven with a bear.
+@brief: A friend telling an underdog story with real pleasure; amused at the start, brisk through the career, curious at his own words, warm at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R5 067 Pompon — Ours blanc (stone, 163 × 251 × 90 cm; State commission 1927; carved by his practitioner Jean-Joachim Supéry at Malakoff, delivered 16 Feb 1929; Musée du Luxembourg from 1929, Orsay 1986; current page location "Terrasse des sculptures 1880-1910"; Pompon a sought-after practitioner carving marble for Rodin and Camille Claudel; from 1905 left the human figure for animals observed at the Jardin des Plantes, reacting against Rodin's expressionism; the plaster Ours blanc at the 1922 Salon d'Automne gave him his first public success at 67 (said as "first shown in 1922", not this stone); quote verbatim "I keep a large number of details…"; Pompon as source of the Balzac dressing-gown story): https://www.musee-orsay.fr/en/artworks/ours-blanc-15496 ; m.musee-orsay.fr …/ours-blanc-365.html ; Basilico photo …-148471 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 073 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] François Pompon wurde mit siebenundsechzig berühmt.
+
+Bis dahin war er einer der gefragtesten Marmorbildhauer in Paris. Er meißelte Marmor für andere Bildhauer. Unter ihnen Rodin und Camille Claudel, deren Bronze Sie in Saal 55 gesehen haben. Dann, ab 1905, wandte er sich gegen Rodins ausdrucksstarken Stil. Und ganz von der menschlichen Figur ab. Er ging in den Jardin des Plantes in Paris und beobachtete die Tiere.
+
+Sein Eisbär wurde zuerst in Gips gezeigt, im Salon d'Automne von 1922. Er brachte ihm seinen ersten öffentlichen Erfolg. Diese Fassung ist aus Stein, etwa zweieinhalb Meter lang. Der Staat bestellte sie 1927. Sein eigener Gehilfe, Jean-Joachim Supéry, meißelte sie in Malakoff. [pause] Der Mann, der für Rodin gemeißelt hatte, ließ nun selbst für sich meißeln.
+
+[curious] Pompon beschrieb seine Methode so. „Ich behalte eine große Zahl von Details, die verschwinden sollen. Ich mache das Tier mit fast allem Drum und Dran. Und dann, nach und nach, lasse ich weg…“
+
+[pause] Gehen Sie mit diesem Gedanken langsam am Bären entlang. Was hat er weggenommen? Und wie viel Bär ist noch übrig?
+
+[warmly] Und ja, das ist derselbe Pompon, von dem die Geschichte mit dem Morgenmantel bei Rodins Balzac stammt.
+
+[pause] Bleiben Sie auf den Skulpturenterrassen. Suchen Sie eine sitzende Frau aus Marmor von Maillol und Bourdelles Bogenschützen aus vergoldeter Bronze, der seinen Bogen spannt. Spielen Sie dort den passenden Titel ab.

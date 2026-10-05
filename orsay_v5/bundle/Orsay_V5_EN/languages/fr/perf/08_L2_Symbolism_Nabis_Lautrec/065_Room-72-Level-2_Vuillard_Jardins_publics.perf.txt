@@ -1,0 +1,26 @@
+@id: 065 · FR · Room 72 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 72 · Level 2
+@type: R
+@title: Vuillard — Jardins publics
+@where: Salle 72 au niveau 2, la salle aux cinq grands panneaux de jardin en beige, vert et bleu, accrochés autour d'un angle. Le haut panneau étroit de Bonnard, une femme en pèlerine, est dans la même salle.
+@what: Édouard Vuillard, Jardins publics, Public Gardens, 1894, distemper on canvas: five panels of a cycle of nine. Also Pierre Bonnard, Femmes au jardin, Women in the Garden: Femme à la pèlerine, 1891, distemper on canvas.
+@listen: Standing in the corner of a dining room that no longer exists, and the painter his friends called the very Japanese Nabi.
+@brief: Inviting a friend into a lost room; warm and scene-setting, curious at the parasol, amused at Bonnard's nickname.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R5 062 Vuillard — Jardins publics (1894, distemper, nine panels commissioned by Alexandre Natanson for his mansion on the Avenue du Bois, now Avenue Foch; Natanson directed La Revue blanche, which published the Nabis; large room used as living and dining room; broken up 1929; five reunited, hung "around the corner of the room, as they were originally"; subtitles Fillettes jouant, L'Interrogatoire, Les Nourrices, La Conversation, L'Ombrelle rouge; continuous ground and sky; beige, green and blue with splashes of red; matt like fresco; first use of distemper on this scale; room 72): https://www.musee-orsay.fr/en/artworks/jardins-publics-la-conversation-les-nourrices-lombrelle-rouge-8015 ; …/jardins-publics-linterrogatoire-8285 ; …/jardins-publics-fillettes-jouant-8284 (OFF) ; FACTS_R5 063a Bonnard — Femmes au jardin (1891, distemper, Femme à la pèlerine room 72, first treatment of the screen format as decorative panels, "le Nabi très japonard", tall screen-panel format, chequered clothes, flat layering): https://www.musee-orsay.fr/en/artworks/femmes-au-jardin-femme-la-pelerine-8024 ; commentary paravent-19797 (OFF) ; FACTS_R5 063b (next-room cue: Vallotton, room 71) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 065 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Imaginez une invitation à dîner en 1894, dans un hôtel particulier de l'avenue du Bois. L'actuelle avenue Foch. Votre hôte est Alexandre Natanson. Il dirige La Revue blanche, la revue qui publiait les nabis. Et tout autour de sa salle, un cycle de jardins peints.
+
+Cette année-là, Natanson commande neuf panneaux à Édouard Vuillard, pour une grande pièce servant de salon et de salle à manger. Ce sont les Jardins publics. En 1929, l'ensemble est dispersé. Cinq des neuf panneaux sont réunis ici, accrochés autour de l'angle de la salle, comme à l'origine. [pause] Vous vous tenez donc, à peu près, dans un coin de cette pièce disparue.
+
+Chaque panneau est une scène, avec son sous-titre : des fillettes qui jouent, un interrogatoire, des nourrices, une conversation, une ombrelle rouge. Pourtant, le sol et le ciel se prolongent d'un panneau à l'autre, tout comme la lumière et la couleur. Des harmonies de beige, de vert et de bleu, relevées de quelques taches de rouge. [curious] Essayez de trouver l'ombrelle.
+
+[pause] Remarquez aussi la surface, très mate, presque comme une fresque. Vuillard a peint à la détrempe, une peinture liée à la colle. C'était la première fois qu'il l'employait à cette échelle.
+
+[pause] Dans la même salle, cherchez le haut panneau étroit de Pierre Bonnard, une femme en pèlerine, tiré de ses Femmes au jardin. [amused] Ses amis l'appelaient le Nabi très japonard. Ce format haut, comme un paravent, et ces aplats superposés vous montrent pourquoi.
+
+Juste à côté, dans la salle 71, cherchez un petit tableau : un enfant au chapeau jaune court après un ballon rouge dans un parc. Écoutez sa piste là-bas.

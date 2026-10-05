@@ -1,0 +1,26 @@
+@id: 047 · ES · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: R
+@title: Van Gogh — L'Église d'Auvers-sur-Oise (La iglesia de Auvers)
+@where: En la sala 36 del nivel 5, frente al cuadro de Van Gogh de la iglesia del pueblo de Auvers, vista desde el ábside, con sus ventanas como manchas de azul profundo bajo un cielo de cobalto.
+@what: Vincent van Gogh, L'Église d'Auvers-sur-Oise, vue du chevet, The Church at Auvers-sur-Oise, seen from the apse, painted 4–8 June 1890, oil on canvas, 93 × 74.5 cm. Acquired in 1952 with the support of Paul Gachet and an anonymous Canadian donation.
+@listen: What Van Gogh himself wrote about this church, the colour of its windows, and the stranger who helped bring it to the museum.
+@brief: Reading a painter's own words to a friend in front of the picture; quietly attentive, warm at the donor, then a last close look at the blues.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 047 (4–8 June 1890; 93 × 74.5; RF 1951 42; Gachet, then his son until 1951; acquired 1952 "with the support of Paul Gachet and participation of an anonymous Canadian donation"; "the only painting representing in full the church in Auvers"; room 36): https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755 (OFF) ; A2 16.2–16.3 letter 879, 5 June 1890 (Nuenen quote; windows "ultramarine blue patches", sky "deep and simple blue of pure cobalt"): vangoghletters.org/vg/letters/let879 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 047 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Frente a una iglesia de un pueblo francés, Van Gogh se sorprendió pensando en una torre de Holanda.
+
+Lo pintó en la primera semana de junio de 1890, poco después de llegar a Auvers. Y el 5 de junio, en plena tarea, lo describió en una carta. Escribió que era «casi lo mismo que los estudios que hice en Nuenen de la vieja torre y el cementerio». Solo que ahora, continuaba, «el color es probablemente más expresivo, más suntuoso».
+
+Nuenen era un pueblo holandés donde había pintado años antes. Ahora el mismo tipo de tema volvía a él, con un color nuevo. [pause] Y este es el único cuadro en el que mostró entera la iglesia de Auvers.
+
+[warmly] Tras su muerte, el cuadro se quedó con el doctor Gachet, y luego con el hijo del doctor. En 1952 entró en la colección nacional. No fue simplemente una donación. El hijo apoyó la compra, y también alguien cuyo nombre nunca se ha conocido: un donante anónimo de Canadá. [pause] Un desconocido que ayudó a una iglesia de pueblo a entrar en el museo.
+
+[pause] Ahora mire las ventanas. En la misma carta, Van Gogh dice que las vidrieras «parecen manchas de azul ultramar», sobre «un cielo de un azul profundo y sencillo, de cobalto puro». Así que léalas como él. [quietly] Dos azules, uno dentro del otro.
+
+Quédese en la sala 36 y busque el retrato del propio doctor: un hombre melancólico en colores fríos, con una ramita de dedalera. Escuche su pista allí.

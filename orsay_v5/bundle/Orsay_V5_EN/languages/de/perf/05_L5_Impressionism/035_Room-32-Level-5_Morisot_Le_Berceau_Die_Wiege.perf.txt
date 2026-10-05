@@ -1,0 +1,26 @@
+@id: 035 · DE · Room 32 · Level 5
+@section: Impressionism
+@room: Room 32 · Level 5
+@type: R
+@title: Morisot — Le Berceau (Die Wiege)
+@where: Saal 32, Ebene 5, derselbe Saal wie Degas' Kleine Tänzerin. Ein eher kleines Gemälde einer jungen Frau, die über ein in der Wiege schlafendes Baby wacht.
+@what: Berthe Morisot, Le Berceau, The Cradle, 1872, oil on canvas, 56 × 46.5 cm. Bought by the Louvre in 1930.
+@listen: The first woman to show with the Impressionists, her sister and niece, and the baby who grew up and sold this picture to the nation.
+@brief: A friend speaking softly in front of an intimate picture; warm and unhurried, with a small, delighted reveal at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R3 036 (1872; 56 × 46.5; RF 2849; her sister Edma watches over her sleeping daughter Blanche; "undeniably Berthe Morisot's most famous painting"; shown at the 1874 exhibition; Morisot the first woman to exhibit with the group; stayed in the sitter's family until the Louvre bought it in 1930, from Blanche Pontillon, Mme Forget, the baby; room 32): https://www.musee-orsay.fr/en/artworks/le-berceau-1132 (OFF) + A3 27.7 (OFF) ; A3 27.1 (Berthe married Eugène Manet in 1874, so Manet became her brother-in-law, SEC2)
+@lang: de
+@translation: from the fact-checked English Orsay V5 035 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Von allen Bildern in diesen Sälen ist dies vielleicht das stillste. Eine junge Frau wacht über ein schlafendes Baby, und mehr geschieht nicht. Sie ist die Schwester der Malerin, Edma. Das Baby in der Wiege ist Edmas Tochter Blanche.
+
+Berthe Morisot malte das Bild 1872. Zwei Jahre später schickte sie es zur ersten eigenen Ausstellung der Impressionisten. Sie war die erste Frau, die mit der Gruppe ausstellte.
+
+[quietly] Achten Sie darauf, wohin die Aufmerksamkeit geht. Nicht nur zum Baby, sondern zum Wachen. Morisot malte ihre eigene Schwester in einem privaten Moment. [pause] Fast möchte man leiser sprechen.
+
+Im Jahr jener ersten Ausstellung heiratete Berthe Eugène Manet. So wurde Édouard Manet, dessen Bilder Sie im Erdgeschoss gesehen haben, ihr Schwager.
+
+[pause] Das Bild blieb mehr als ein halbes Jahrhundert in der Familie. Dann, 1930, kaufte es der Louvre. Und verkauft hat es Blanche. [long pause] Das Baby aus der Wiege, längst erwachsen.
+
+Suchen Sie als Nächstes in den Sälen der Impressionisten auf dieser Ebene Degas' Dans un café, besser bekannt als L'Absinthe. Ein Mann und eine Frau sitzen nebeneinander an einem Cafétisch. Vor ihr steht ein Glas Absinth. Dort beginnt der passende Titel.

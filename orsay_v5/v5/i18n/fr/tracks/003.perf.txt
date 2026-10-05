@@ -1,0 +1,26 @@
+@id: 003 · FR · Central aisle · Level 0
+@section: Academic Art
+@room: Central aisle · Level 0
+@type: R
+@title: Couture — Romains de la décadence
+@where: Dans l'allée centrale des sculptures, au niveau 0, devant l'immense toile de près de huit mètres de large : une orgie romaine dans une salle antique, sous le regard des statues des ancêtres.
+@what: Thomas Couture, Romains de la décadence, Romans of the Decadence, 1847, oil on canvas, 472 × 772 cm. Commissioned by the State and shown at the Salon of 1847.
+@listen: A painting of ancient Rome that Paris read as a painting of itself.
+@brief: Letting a friend in on a nineteenth-century joke in front of a huge canvas; amused, a little conspiratorial at the double meaning, warm at the link to Manet.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R1 003 (1847; 472 × 772; State commission 25 Jun 1846; Salon 1847; three years' work; orgy in a classical hall, statues of virtuous ancestors; history painting, moral message; Juvenal theme and quoted lines; jab at the July Monarchy, "The French of the Decadence"; "realist allegory"; Manet in Couture's studio 1850–56 (A1)): https://www.musee-orsay.fr/en/artworks/romains-de-la-decadence-9493 (OFF), https://www.musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/romans-during-the-decadence-2105.html (OFF) ; A1 Track 03 row 6 (OK)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] En 1847, les Parisiens ont regardé ce tableau de la Rome antique et s'y sont reconnus.
+
+Thomas Couture y a travaillé trois ans. L'État le lui avait commandé avant même qu'il soit montré. C'était une peinture d'histoire, le genre le plus noble de l'époque, et elle devait porter une morale. Couture emprunte son thème à Juvénal. Dans le livret du Salon, il cite deux vers du poète. [pause] « Plus cruel que la guerre, le vice s'est abattu sur Rome et venge l'univers vaincu. »
+
+Regardez donc ce qu'il vous montre. Une grande salle antique, et dedans, une fête qui a tourné à l'orgie. Tout autour, les statues des ancêtres vertueux toisent leurs descendants. [pause] Les anciens Romains qui ont conquis le monde, et les nouveaux, qui l'ont perdu dans le plaisir.
+
+[conspiratorial] Mais pour les critiques, il ne s'agissait pas vraiment de Rome. La France vivait alors sous la monarchie de Juillet. Ils y ont vite lu une pique contre leurs propres dirigeants. À leurs yeux, le tableau montrait Les Français de la décadence. Aujourd'hui, le musée parle d'une allégorie réaliste. Un tableau en toges sur Paris.
+
+Il y a une autre raison de retenir Couture. À partir de 1850, un jeune homme étudie six ans dans son atelier. Il s'appelle Édouard Manet. [pause] À quelques salles d'ici, vous verrez combien l'élève a peint son époque autrement.
+
+Pour l'instant, passez côté rue de Lille. Dans la salle 1, cherchez le grand tableau vertical d'Ingres, un nu debout : La Source. Écoutez sa piste devant elle.

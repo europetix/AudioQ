@@ -1,0 +1,28 @@
+@id: 037 · DE · Impressionist rooms
+@section: Impressionism
+@room: Impressionist rooms · Level 5
+@type: W
+@title: Renoir — Bal du moulin de la Galette (Tanz im Moulin de la Galette)
+@where: In den Sälen der Impressionisten auf Ebene 5. Der Saal ist nicht bestätigt, suchen Sie also Renoirs große Leinwand eines vollen Pariser Tanzfests, mit tanzenden Paaren und Freunden, die um einen Tisch plaudern.
+@what: Pierre-Auguste Renoir, Bal du moulin de la Galette, Dance at the Moulin de la Galette, 1876, oil on canvas, about 131 × 175 cm. Caillebotte bequest, accepted 1896.
+@listen: Who the dancers really were, the young model called Margot, and the painter-collector who left it to the nation.
+@brief: Introducing a friend to a crowd of real people at a party a hundred and fifty years old; lively and fond, then quiet for Margot, warm at the end.
+@pace: medium
+@energy: 3→4→2→3
+@sources: FACTS_R3 037 Renoir — Bal (1876, RF 2739, Caillebotte bequest accepted 1896, shown 1877; painted mainly on site spring–summer 1876, finished in studio; Margot = Henriette-Anna Leboeuf 1856–1879, close to Renoir 1875–79; Jeanne 16 dressmaker, sister Estelle; Solares polka and slang; Rivière quote "a page of history…"): https://www.musee-orsay.fr/en/node/338131 and https://m.musee-orsay.fr/fr/oeuvres/commentaire_id/bal-du-moulin-de-la-galette-7083.html (OFF) ; A3 24.1 (aged 35, SEC2), 24.2 (Estelle the seated girl in stripes; Margot dances with Solares, OFF), 24.5 (canvas carried from rue Cortot, OFF), Confirmed OK (Rivière in the picture)
+@lang: de
+@translation: from the fact-checked English Orsay V5 037 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Das ist keine Menge von Fremden. Einige der Menschen, die hier tanzen und reden, gehörten zu Renoirs eigenem Kreis. Und manche von ihnen haben Namen.
+
+Im Frühjahr 1876 war Renoir fünfunddreißig. Er malte dieses Bild größtenteils vor Ort, auf dem Tanzfest selbst. Freunde halfen ihm, die große Leinwand aus seinem Atelier in der Rue Cortot dorthin zu tragen. Vollendet hat er es wahrscheinlich wieder im Atelier.
+
+[curious] Lernen wir also einige von ihnen kennen. Suchen Sie das sitzende Mädchen im gestreiften Kleid. Das ist Estelle. Ihre Schwester Jeanne, eine sechzehnjährige Schneiderin, stand auch Modell. Und auf der Tanzfläche, mit dem hochgewachsenen Maler Solares, tanzt Henriette-Anna Leboeuf. Ein Modell, das Renoir sehr nahestand, genannt Margot. [pause] Rivière, der selbst auf dem Bild ist, erinnerte sich: Sie wirbelte den armen Solares in einer Polka herum. Und brachte ihm dabei Pariser Slang bei.
+
+[quietly] Es sieht aus wie reines Glück. Doch es trägt eine traurige Tatsache. Margot starb 1879, erst Anfang zwanzig. Die junge Frau, die hier tanzt, hatte noch drei Jahre zu leben.
+
+[pause] Das Gemälde gehörte Caillebotte, dem Maler und Sammler, der auch Monets Bahnhof kaufte. Er vermachte es der Nation. Gezeigt wurde es mit der Gruppe im Jahr nach seiner Entstehung. Rivière schrieb, es sei „eine Seite Geschichte, ein kostbares Denkmal des Pariser Lebens.“
+
+[lightly] In diesem Jahr wird diese Seite hundertfünfzig Jahre alt. Niemand auf ihr lebt mehr. Der Tanz geht weiter.
+
+[pause] Suchen Sie ganz in der Nähe, in den Sälen der Impressionisten, Sisleys Bild einer Überschwemmung. Ein Haus mit rosa und gelben Mauern steht schräg über dem Wasser. Sein Titel erzählt die Geschichte jenes Frühjahrs weiter.

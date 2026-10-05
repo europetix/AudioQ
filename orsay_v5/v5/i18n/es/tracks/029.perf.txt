@@ -1,0 +1,28 @@
+@id: 029 · ES · Room 29 · Level 5
+@section: Impressionism
+@room: Room 29 · Level 5
+@type: R
+@title: Monet — Coquelicots (Amapolas)
+@where: Sala 29, nivel 5. Un pequeño paisaje de un campo de amapolas rojas, con una mujer que sostiene una sombrilla y un niño en primer plano.
+@what: Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.
+@listen: The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.
+@brief: A friend pointing out a small, sunny picture after a giant one; warm and easy, curious in the looking, a little pleased at the coincidence at the end.
+@pace: medium
+@energy: 3→3→4
+@sources: FACTS_R3 027 (1873; 50 × 65.3; Argenteuil; 1874 exhibition in Nadar's studio, no. 95; woman with sunshade and child "probably" Camille and Jean; Moreau-Nélaton gift 1906; room 29): https://www.musee-orsay.fr/en/artworks/coquelicots-1010 (OFF) ; A3 21.1 (Monet showed at five of the group exhibitions: culture.gouv.fr + gallery.ca, SEC2) ; A3 21.6 (a cooperative company of artists, SEC2) ; FACTS_R3 025 (Manet's Déjeuner given by Moreau-Nélaton 1906): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 029 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1874, un grupo de pintores fundó su propia sociedad y montó una exposición en el estudio de Nadar, en París. En el catálogo, este pequeño cuadro era el número noventa y cinco.
+
+Tras aquel pícnic gigante, Coquelicots es casi de bolsillo. Mide cerca de medio metro de alto. Lo pintó el año anterior a la exposición, en Argenteuil.
+
+Mire las dos figuras en primer plano: una mujer bajo una sombrilla y un niño a su lado. [pause] Probablemente son Camille y Jean, el hijo de ambos. No es solo un campo de amapolas. Es muy probablemente un paseo en familia.
+
+[curious] Las amapolas dan al cuadro su título y casi todo su color. Siga con la mirada el rojo a través del campo. Luego vuelva a la mujer y al niño, dos figuritas que avanzan entre tanto color.
+
+Aquella exposición en el estudio de Nadar fue solo el comienzo. Monet expondría después en cinco muestras del grupo.
+
+[lightly] El cuadro llegó a la nación en 1906, regalo del coleccionista Étienne Moreau-Nélaton. [pause] Ese mismo año, donó también el Déjeuner sur l'herbe de Manet. Así, el pícnic con el que Monet quiso rivalizar y su pequeño campo de amapolas pasaron juntos a manos públicas.
+
+Ahora, en las salas impresionistas de este nivel, busque Gelée blanche, Escarcha, de Pissarro: un amplio campo invernal de surcos helados, con un hombre que carga leña por un camino. [pause] Su pista le espera allí.

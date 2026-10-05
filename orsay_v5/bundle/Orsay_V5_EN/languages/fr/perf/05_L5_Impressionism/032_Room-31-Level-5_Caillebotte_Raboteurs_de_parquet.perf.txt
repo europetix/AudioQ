@@ -1,0 +1,28 @@
+@id: 032 · FR · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: R
+@title: Caillebotte — Raboteurs de parquet
+@where: Salle 31, niveau 5, la même salle que La Gare Saint-Lazare de Monet. Une grande toile montrant des ouvriers qui raclent les lames d'un parquet nu.
+@what: Gustave Caillebotte, Raboteurs de parquet, The Floor Scrapers, 1875, oil on canvas, 102 × 147 cm. Given by the Caillebotte heirs through Auguste Renoir, 1894.
+@listen: Why the Salon jury rejected a painting of men at work, and how it reached the nation by a side door.
+@brief: A friend explaining, with quiet conviction, why a calm picture once shocked people; steady, a little pointed about the jury, warm about its arrival.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 032 (1875; 102 × 147; RF 2718; "one of the first representations of the urban proletariat"; sent to the 1875 Salon, the jury "shocked by its crude realism" rejected it; "gift of the Caillebotte heirs through Auguste Renoir", 1894, not part of the bequest; room 31): https://www.musee-orsay.fr/en/artworks/raboteurs-de-parquet-105 (OFF) ; A3 (shown at the Impressionist exhibition of 1876, OFF) ; A3 28.3 (it divided the critics; Zola found it too exact, SEC2) ; FACTS_R3 031 (Caillebotte bought Monet's Gare Saint-Lazare): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 032 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] En 1875, le jury du Salon officiel regarde ce tableau et il est choqué. Pas par un nu ou une bataille. Par des hommes qui raclent un parquet.
+
+Le peintre est Gustave Caillebotte, celui-là même qui a acheté La Gare Saint-Lazare de Monet. Collectionneur, il était aussi peintre, et il envoie cette toile au Salon. Le jury, choqué par ce qu'il juge un réalisme cru, la refuse.
+
+[pause] Ce choc est difficile à ressentir aujourd'hui. Mais c'est une grande toile, de près d'un mètre et demi de large. Et elle est tout entière consacrée à des ouvriers, au travail. Le musée la décrit comme l'une des premières représentations du prolétariat urbain. [pause] Voilà ce qui était cru. Pas la peinture, mais le sujet.
+
+Alors regardez-la autrement que le jury. Observez le parquet lui-même, le sujet du titre, et les hommes qui le travaillent. [pause] Accordez-leur l'attention qu'un tableau de Salon accorderait à un roi.
+
+L'année suivante, Caillebotte la montre plutôt avec les impressionnistes, à leur exposition de 1876. Elle y divise la critique. Même Zola, qui s'était battu pour Manet, la trouve trop exacte.
+
+[warmly] Et ce tableau ne fait pas partie du célèbre legs Caillebotte. Après sa mort, sa famille l'a donné séparément, par l'intermédiaire de son ami Renoir.
+
+Toujours dans cette salle, trouvez La Classe de danse de Degas : un maître de ballet parmi ses jeunes élèves. Écoutez sa piste là-bas.

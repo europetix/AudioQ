@@ -1,0 +1,30 @@
+@id: 070 · FR · Terrasse Rodin · Level 2
+@section: Art Nouveau and Sculpture
+@room: Terrasse Rodin · Level 2
+@type: W
+@title: Rodin — Balzac
+@where: Sur la Terrasse Rodin, à l'extrémité est du niveau 2, près de la salle 67, au-dessus de la nef : l'immense figure en plâtre de l'écrivain Balzac par Rodin, haute de près de trois mètres.
+@what: Auguste Rodin, Balzac, 1898, plaster, 285 × 125 × 132 cm. Shown at the 1898 Salon of the Société nationale des beaux-arts.
+@listen: The monument Paris laughed at, why Rodin refused to sell it, and a dressing gown dipped in plaster.
+@brief: Telling a friend the story of a glorious failure; wry at the insults, quietly admiring at Rodin's stubbornness, conspiratorial at Pompon's story, satisfied at the end.
+@pace: medium
+@energy: 3→4→3→4
+@sources: FACTS_R5 068 Rodin — Balzac (1898, plaster, 285 × 125 × 132 cm; 1898 Salon of the Société nationale des beaux-arts; 1891 Zola, newly elected president of the Société des gens de lettres, chose Rodin, almost half a century after Balzac's death; critics' "formless block", "a toad in a sack, a statue still wrapped, a block of salt caught in a shower", "the menhir, the snowman"; the Société refused it, broke with commemorative conventions and the demand for a realistic likeness, commissioned Falguière; Rodin kept the statue, returned the money, refused all offers; bronze inaugurated boulevard Raspail 1939; Pompon's dressing-gown account, read as testimony; terrace location): https://www.musee-orsay.fr/en/artworks/balzac-15643 ; …/honore-de-balzac-7692 ; anosgrandshommes.musee-orsay.fr object 5541 (OFF) ; FACTS_R2 015b (Manet's portrait of Émile Zola, room 14) (OFF) ; FACTS_R5 065 (next cue: Guimard and Majorelle, room 64) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 070 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Un crapaud dans un sac. Un bloc de sel qui a subi une averse. Le menhir. Le bonhomme de neige. Voilà comment les critiques ont surnommé cette statue, quand Paris l'a découverte.
+
+L'histoire commence bien. En 1891, Émile Zola vient d'être élu président de la Société des gens de lettres. C'est l'écrivain dont vous avez peut-être vu le portrait par Manet, en bas. La Société veut un monument à Honoré de Balzac, près d'un demi-siècle après sa mort. Zola choisit Rodin.
+
+Sept ans plus tard, Rodin expose ce plâtre au Salon de 1898. Les critiques accablent ce qu'ils appellent un bloc informe. [pause] La Société le refuse. Elle voulait une ressemblance réaliste, dans le style commémoratif habituel. Rodin ne lui a donné ni l'un ni l'autre. La commande passe à un autre sculpteur, Falguière.
+
+[quietly] La suite montre à quel point Rodin y croyait. Il garde la statue. Il rend l'argent. Et il refuse toutes les offres d'achat.
+
+[pause] Levez maintenant les yeux vers la figure entière, près de trois mètres de plâtre. Vous voyez ce qui a choqué les critiques. Pas de portrait sage d'un auteur à son bureau. Une seule grande masse, comme une statue encore emballée, avec la tête de Balzac au sommet.
+
+[conspiratorial] Et comment Rodin a-t-il obtenu cette masse ? François Pompon, dont l'ours blanc vous attend plus loin sur les terrasses, en a laissé un récit. Selon lui, Rodin a trempé sa robe de chambre dans une grande bassine de plâtre, et en a habillé son étude. C'est le souvenir de Pompon. Mais restez ici une minute, et ce n'est pas difficile à imaginer.
+
+[warmly] Le monument a fini par gagner la rue. Un bronze a été inauguré boulevard Raspail en 1939, quarante et un ans après le Salon. [pause] Le bonhomme de neige, finalement, n'a jamais fondu.
+
+Entrez maintenant dans les salles Art nouveau, à ce bout de l'étage. Dans la salle 64, cherchez la haute banquette en bois de Guimard, avec un pied comme un tronc d'arbre qui se ramifie, et les meubles de Majorelle. Leur piste commence là.

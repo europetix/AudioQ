@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 5 Oct, second session: Orsay ES/FR/DE done)
 
 Paste this into the new session to start:
 
@@ -11,7 +11,8 @@ Paste this into the new session to start:
 
 - **Repo:** `europetix/AudioQ`. **Branch:** `claude/tour43-pitti-v5-test-ddbz7z`. Everything is committed and pushed. Last commit:
   "Orsay V5 complete: 75 tracks…".
-- **Clone path in the cloud session:** `/home/user/AudioQ`.
+- **Clone path in the cloud session:** `/home/user/AudioQ`. If the repo is not there, attach it (add_repo), clone the branch to
+  `/home/claude/audioq` and link it: `mkdir -p /home/user && ln -sfn /home/claude/audioq /home/user/AudioQ` (done this way on 5 Oct).
 
 | Folder | What it is |
 |---|---|
@@ -52,7 +53,7 @@ cd /home/user/AudioQ && git checkout claude/tour43-pitti-v5-test-ddbz7z && git p
 pip list 2>/dev/null | grep -i reportlab || pip install reportlab   # route maps and forms
 which ffmpeg pdftotext                    # needed for the checks below
 
-# rebuild all three guides (each prints "OK -> …zip")
+# rebuild ONLY the guide you are working on (each prints "OK -> …zip"); the other two lines are for reference
 bash tour43_pitti_v5/build/build_all.sh
 bash orangerie_v5/build/build_all.sh
 bash orsay_v5/build/build_all.sh
@@ -87,6 +88,8 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 ## 3. Rules (from the user; still binding)
 
 - Edit only `v5/tracks/*.perf.txt` and `build/static/`, then rebuild with `build/build_all.sh`. Never reinvent the pipeline.
+- **Work only on the guide the user names** (5 Oct). Rebuild only that guide; in the setup below, run only its `build_all.sh`.
+  Reading another guide's files as a reference is fine; say so plainly if you do.
 - **Real audio is made only on the user's Mac**, with the bundle's launcher. Never fake or substitute audio. A stand-in voice is for
   launcher tests only, and must be called that.
 - **Facts:** the official museum site comes first. Wikipedia is never the only source. If a fact can't be verified, hold it and tell
@@ -139,7 +142,7 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 |---|---|---|---|---|---|
 | Pitti V5.1 | 61 tracks, ~142 min | done; reviewed by assemble.py checks only (no second native review yet) | pictorial, one page | stand-in only; the user has rendered EN at least once (first run mixed old files; re-render with the current zip) | the user may want the same second review as the Orangerie; native-speaker check |
 | Orangerie V5 | 55 tracks, ~128 min | done + independent review per language | pictorial, exit by the entrance | stand-in only; the user was rendering all 4 languages at session end | level −2 room order and exit door on site; native-speaker check |
-| Orsay V5 | 75 tracks, 20,312 words, ~2 h 42 | not started | A3 schematic floor plans (2026 rooms) | stand-in: 75 files | on-site checklist; 3 quotes kept as reported speech until checked against the live museum pages; ES/FR/DE |
+| Orsay V5 | 75 tracks, 20,312 words, ~2 h 42 | done 5 Oct (session 2) + independent review per language; FR quotes are verified originals or reported speech | A3 schematic floor plans (2026 rooms) | stand-in: 75 files in each of EN/ES/FR/DE | on-site checklist; 3 quotes kept as reported speech until checked against the live museum pages; native-speaker check; 048 @what title; Oviri on display? |
 
 Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
 - **Official plan:** `orsay_v5/source/Planguide_Orsay_ete_2026.pdf`, read out in `orsay_v5/findings/M_planguide_ete_2026.md`.
@@ -150,15 +153,13 @@ Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
 
 ## 6. What to do next (the order the user is likely to ask for)
 
-1. **Orsay ES/FR/DE**, using the Orangerie method:
-   1. Brief at `orangerie_v5/v5/i18n/review/BRIEF.md`; adapt the glossary for Orsay.
-   2. Translators per language (3 blocks of about 25 tracks) write JSON to a work folder.
-   3. One independent reviewer per language (`REVIEW_BRIEF.md`).
-   4. Copy `orangerie_v5/v5/i18n/assemble.py` to `orsay_v5/v5/i18n/` and set `range(1, 76)`.
-   5. Run `python3 orsay_v5/v5/i18n/assemble.py <workdir> es fr de`.
-   6. In `make_bundle.py`, add `generate_audio_ES_FR_DE.command` to the copy list. Copy it from `orangerie_v5/build/static/` and
-      change the names, the 75 count and the samples to 013 + 044.
-   7. Rebuild, run the stand-in test, export the scripts .md for a native check.
+1. **Orsay ES/FR/DE: DONE (5 Oct, second session).** 75 tracks per language, reviewed, assembled, in the bundle with
+   `generate_audio_ES_FR_DE.command`. Details, word counts and open points: `orsay_v5/ORSAY_V5_HANDSHAKE.md` STATE 3. Brief,
+   notes and review logs: `orsay_v5/v5/i18n/review/`. Next for it: the user's real-voice samples (013 + 044 per language) and a
+   native-speaker spot check (`deliverables/Orsay_V5_Scripts_ES/FR/DE.md`). If an English track changes, edit the same passage in
+   `v5/i18n/<lang>/tracks/NNN.perf.txt` in all three languages and re-run the check (`assemble.py --check` works on a JSON work
+   folder; for perf files, rebuild and validate).
+   - Fact fixed in the English this session: 018 Bazille killed at twenty-eight (was twenty-six), from the museum's own pages.
 2. **Orsay quotes:** if `musee-orsay.fr` becomes reachable, check the Christopher Gray, "black Eve" and Redon "refined, savage" quotes
    verbatim (tracks 055 to 058, see `v5/notes/FINAL_PASS_LOG.md`), and the rooms listed in `ONSITE_CHECKLIST.md`.
 3. **Orsay app images:** build an image kit like the Orangerie one. Copy `orangerie_v5/app_images/` and generate the CSV from
@@ -177,6 +178,7 @@ mkdir -p ~/AudioGuides && cd ~/AudioGuides && unzip -oq "$(ls -t ~/Downloads/Ors
 cd ~/AudioGuides/Orsay_V5_EN && printf '1\n2\n\n' | bash generate_audio.command          # samples 013 + 044, Ava
 cd ~/AudioGuides/Orsay_V5_EN && printf '1\n1\n\n' | bash generate_audio.command          # full EN, 75 MP3s
 cd ~/AudioGuides/Orangerie_V5_EN && printf '1\n1\n\n' | bash generate_audio_ES_FR_DE.command   # 1 ES Dalia, 2 FR, 3 DE
+cd ~/AudioGuides/Orsay_V5_EN && printf '1\n2\n\n' | bash generate_audio_ES_FR_DE.command       # Orsay ES samples 013 + 044 (2 FR, 3 DE)
 # check
 find ~/Desktop/Orsay_V5_EN_Ava -name '*.mp3' | wc -l && du -sh ~/Desktop/Orsay_V5_EN_Ava
 ```

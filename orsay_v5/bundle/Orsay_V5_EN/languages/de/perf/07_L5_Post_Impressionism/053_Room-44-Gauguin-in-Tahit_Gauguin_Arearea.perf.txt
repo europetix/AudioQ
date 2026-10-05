@@ -1,0 +1,34 @@
+@id: 053 · DE · Room 44 · Level 5
+@section: Post-Impressionism
+@room: Room 44 · Gauguin in Tahiti · Level 5
+@type: W
+@title: Gauguin — Arearea
+@where: In Saal 44 auf Ebene 5, Gauguin auf Tahiti. Suchen Sie eine tahitische Szene: zwei Frauen sitzen in der Mitte, ein Baum schneidet quer durch das Bild, vorne ein roter Hund. Vom 14. November 2026 bis 28. März 2027 als Leihgabe in Tokio, vielleicht schon früher abgehängt. Dann nehmen Sie Femmes de Tahiti, falls es ausgestellt ist.
+@what: Paul Gauguin, Arearea (Joyeusetés), 1892. Oil on canvas, 75 × 94 cm. Bequest of M. and Mme Lung, 1961. Fallback: Paul Gauguin, Femmes de Tahiti (Tahitian Women), 1891, oil on canvas, 69 × 91.5 cm.
+@listen: The red dog Paris laughed at, the idol Gauguin invented, and why he bought this painting back. If it is away, the track works in front of Femmes de Tahiti.
+@brief: Talking to a friend about a painting the artist loved and the public mocked; wry at the start, frank and serious in the middle about what Gauguin made up, then soft at the end.
+@pace: medium-slow
+@energy: 3→2→3→2
+@sources: FACTS_R4 053 Arearea (1892, 75 × 94, Lung bequest 1961; first Tahiti stay from April 1891; two women seated at the centre, a tree cuts across, a red dog; women worship a statue, Gauguin "enlarged a small Maori motif to the size of a great Buddha and imagined a sacred rite"; shown in Paris Nov 1893, the red dog provoked much sarcasm; he thought it one of his best works and bought it back in 1895 before leaving Europe for good): m.musee-orsay.fr Arearea commentary 9767 (OFF) ; Tokyo loan 14 Nov 2026 – 28 Mar 2027: tobikan.jp/en/exhibition/2026_orsay.html + museum.or.jp (G §0.7, SEC2) ; A2 18.3, 18.6, 18.10, 18.11 (ages from Gauguin's own Noa Noa; Noa Noa a romanticised, semi-fictional account reworked with Charles Morice; dog in the foreground; SEC2/OFF) ; FACTS_R4 053 Femmes de Tahiti (1891, 69 × 91.5; Tahitian women at simple daily tasks; heavy hieratic figures each in its own space; faces like masks tinged with melancholy; Parau Api 1892 Dresden, flowered pareo replaces the strict mission dress of the woman on the right; "to live there in ecstasy, calm and art"): Orsay commentary 16337 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 053 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Als Paris dieses Bild zum ersten Mal sah, lachte es über den Hund.
+
+[pause] Ist diese Wand leer? Arearea reist diesen Winter nach Tokio. Suchen Sie dann hier im Saal Femmes de Tahiti, Tahitische Frauen, falls es ausgestellt ist, und hören Sie dort weiter. Sie erkennen es an den schweren, stillen Frauen. Die rechte trägt ein strenges Missionskleid.
+
+Gauguin zeigte Arearea im November 1893 in Paris, zusammen mit den Bildern seines ersten Aufenthalts auf Tahiti. Was den Leuten auffiel, war ein roter Hund. Er erntete reichlich Spott.
+
+Die Witze änderten nichts an seiner Meinung. Er hielt Arearea für eines seiner besten Werke. 1895, bevor er Europa für immer verließ, kaufte er es selbst zurück.
+
+[curious] Stellen Sie sich also vor, wovon er sich nicht trennen konnte. [pause] Zwei Frauen sitzen in der Mitte, ein Baum schneidet quer durch die ganze Szene. Der rote Hund, ganz vorne. Und hinter ihnen Frauen, die eine große Statue verehren.
+
+Diese Statue ist erfunden. Gauguin nahm ein kleines Maori-Motiv und vergrößerte es auf das Format eines großen Buddhas. Dazu erfand er einen heiligen Ritus.
+
+[pause] Denken Sie daran bei allem, was Gauguin über Tahiti erzählt hat. Sein Buch Noa Noa liest sich wie Erinnerungen. Doch es ist ein romantisierter Bericht, überarbeitet mit Charles Morice. Selbst das Alter, das er für die jungen tahitianischen Mädchen in seinem Leben angab, stammt aus seiner eigenen Erzählung. So sollte man es hören, nicht als Tatsache.
+
+[warmly] Falls Sie vor Femmes de Tahiti stehen: Dieses Bild stammt vom Beginn desselben ersten Aufenthalts. Sehen Sie die Frauen bei ihren einfachen täglichen Arbeiten, schwer und still, jede in ihrem eigenen Raum. Ihre Gesichter sind wie Masken, von Melancholie berührt. In einer späteren Fassung ersetzte er das strenge Missionskleid der rechten Frau durch einen geblümten Pareo.
+
+Er sei gekommen, sagte er, „um dort in Ekstase, Ruhe und Kunst zu leben“. [quietly] Arearea ist dieser Wunsch, gemalt. Vielleicht wollte er es deshalb zurück.
+
+Bleiben Sie in diesem Saal und suchen Sie einen weiteren Gauguin aus Tahiti. Ein Hochformat, ein helles Pferd trinkt aus einem Bach, dahinter zwei Reiter. Spielen Sie dort den passenden Titel ab.

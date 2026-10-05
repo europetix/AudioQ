@@ -1,0 +1,30 @@
+@id: 046 · DE · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: W
+@title: Van Gogh — La Nuit étoilée (Sternennacht über der Rhone)
+@where: In Saal 36 auf Ebene 5, vor Van Goghs Nachtansicht der Rhone: tiefblauer Himmel und tiefblaues Wasser, helle Sterne und die orangefarbenen Gaslaternen von Arles, die sich im Fluss spiegeln. Hinweis: Das Gemälde ist vom 14. November 2026 bis zum 28. März 2027 nach Tokio ausgeliehen. Ist die Wand leer, hören Sie diesen Titel vor dem Selbstbildnis im Anzug von 1889, das im selben Saal hängt.
+@what: Vincent van Gogh, La Nuit étoilée, Starry Night over the Rhône, 1888, Arles, oil on canvas, 73 × 92 cm. Gift of M. and Mme Robert Kahn-Sriber in memory of M. and Mme Fernand Moch, 1975.
+@listen: A painting made outdoors at night by gaslight, the colours Van Gogh saw in the dark, the lovers at the bottom, and a last look at the self-portrait nearby.
+@brief: Out by the river at night with a friend, telling them what the painter saw; hushed wonder, a little lift at the critic's line, tender at the lovers.
+@pace: medium-slow
+@energy: 2→4→3→2
+@sources: FACTS_R4 046 (1888, Arles, 73 × 92, RF 1975 19, Kahn-Sriber gift 1975, room 36; "transcribed the colours he perceived in the dark"; Prussian blue, ultramarine, cobalt; gaslights "an intense orange" reflected; stars "like gemstones"; couple of lovers make it "more serene"): https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696 (OFF) ; A2 17.2–17.3 letter 691 to Theo c. 29 Sept 1888, VGM wording and "actually painted at night, under a gas jet": vangoghletters.org/vg/letters/let691 (OFF) ; A2 17.6–17.7 (Indépendants 1889, sent by Theo with the Irises; Fénéon, La Vogue, Sept 1889) (OFF) ; G 7 + FACTS_R4 frame (Tokyo loan 14 Nov 2026 – 28 Mar 2027, SEC2: tobikan.jp/en/exhibition/2026_orsay.html) ; FACTS_R4 044 (fallback: self-portrait 1889, Saint-Rémy, room 36 per G; absinthe green and pale turquoise; still figure against the arabesques of the background): https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-747 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Dieser Nachthimmel ist nicht aus dem Gedächtnis gemalt. Van Gogh malte ihn nachts, mit den Sternen über sich, im Licht der Gaslaternen.
+
+Das Gemälde reist diesen Winter nach Tokio. Ist diese Wand leer, gehen Sie zum Selbstbildnis im Anzug, das in diesem Saal hängt. Hören Sie dort weiter.
+
+[curious] Es ist September 1888, in Arles. Van Gogh schreibt Theo, er habe einen Sternenhimmel gemalt. Und zwar wirklich nachts, unter einer Gasflamme. Dann beschreibt er, was er sah. „Vor dem grünblauen Feld des Himmels hat der Große Bär ein grünes und rosa Funkeln. Seine diskrete Blässe kontrastiert mit dem grellen Gold des Gaslichts.“
+
+[pause] Auf der Leinwand leisten die Blautöne die meiste Arbeit: Preußischblau, Ultramarin und Kobalt. In den Worten des Museums hielt er die Farben fest, die er im Dunkeln wahrnahm. Die Gaslaternen der Stadt leuchten in kräftigem Orange. Ihre Spiegelungen fließen in die Rhone. Über allem funkeln die Sterne wie Edelsteine.
+
+[warmly] Und ganz unten steht ein Paar, zwei Liebende, leicht zu übersehen. [pause] Sie verändern die Stimmung. Sie machen die ganze Nacht heiterer.
+
+Im Jahr darauf schickte Theo die Leinwand zusammen mit den Schwertlilien zur Ausstellung der Indépendants. Ein Kritiker, Félix Fénéon, nannte Van Gogh „einen unterhaltsamen Koloristen, selbst in Extravaganzen wie seiner Sternennacht.“ Ein vergiftetes Lob. Es ist schlechter gealtert als das Bild.
+
+[lightly] Werfen Sie nun einen Blick auf das Selbstbildnis. Ob Sie schon davorstehen oder es quer durch den Saal sehen. Er malte es ein Jahr nach jener Nacht an der Rhone, in Saint-Rémy. Die Sterne sind fort. Doch der Hintergrund bewegt sich noch, in blassem Grün und Türkis. Er kräuselt sich um einen Mann, der völlig reglos sitzt.
+
+[pause] Suchen Sie in Saal 36 die Kirche von Auvers, ihre Fenster tiefblau unter einem Kobalthimmel. Spielen Sie dort den passenden Titel ab.

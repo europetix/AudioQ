@@ -1,0 +1,30 @@
+@id: 044 · ES · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: W
+@title: Van Gogh — Portrait de l'artiste (Autorretrato), 1889
+@where: En la sala 36 del nivel 5, frente al autorretrato de busto de Van Gogh con traje, sobre un fondo arremolinado verde pálido y turquesa, con el pelo y la barba de un naranja vivo.
+@what: Vincent van Gogh, Portrait de l'artiste, Self-Portrait, 1889, painted at Saint-Rémy-de-Provence, oil on canvas, 65 × 54.2 cm. Gift of Paul and Marguerite Gachet, 1949.
+@listen: The doctor's family who kept this portrait for decades, what Van Gogh wrote about painting himself, and the stillness at the centre of a moving picture.
+@brief: A friend sharing where a famous face spent its life, then looking hard at it together; candid, absorbed, quietly moved at the end.
+@pace: medium-slow
+@energy: 2→3→4→2
+@sources: FACTS_R4 044 (1889, Saint-Rémy, 65 × 54.2; Gachet collection, given by Paul and Marguerite Gachet 1949; head-and-shoulders, suit, "hard and emaciated" features, "green-rimmed eyes", absinthe green and pale turquoise against the fiery orange of beard and hair, immobility vs "hallucinatory arabesques" of the background): https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-747 (OFF) ; A2 15.2 (not the portrait sent to his mother, OFF CONTRA) ; A2 15.3 letters 800 and 805 (vangoghletters.org/vg/letters/let800, let805, OFF) ; FACTS_R4 044 Artaud quote (musee-orsay.fr/en/program/whats-on/exhibitions/presentation/van-gogh-artaud-man-suicided-society, OFF, extract wording)
+@lang: es
+@translation: from the fact-checked English Orsay V5 044 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Este rostro pasó décadas en la casa de un médico.
+
+Procede de la colección del doctor Paul Gachet, el médico que atendió a Van Gogh en Auvers-sur-Oise. Siguió en la familia del doctor hasta 1949. Ese año, los hijos de Gachet, Paul y Marguerite, lo donaron a la nación.
+
+Lo pintó en 1889, en el hospital de Saint-Rémy-de-Provence. Aquel septiembre escribió una frase sobre el problema de todo autorretrato. [pause] «Es difícil conocerse a uno mismo, pero tampoco es fácil pintarse a uno mismo».
+
+[quietly] Así que mire cómo lo resolvió. Se pinta de busto, sin más, con traje. Los rasgos son duros y delgados. Los ojos tienen un borde verde, y miran con ansiedad. Todo el cuadro está afinado en dos colores, un verde absenta y un turquesa pálido. Y contra ellos, el naranja encendido de su barba y su pelo.
+
+Ahora observe lo que se mueve y lo que no. El hombre está completamente quieto. Pero su pelo y su barba ondulan, y el fondo recoge esas ondas y las extiende por todo el lienzo. [pause] La quietud está en el centro de todo ese movimiento.
+
+[pause] Unas dos semanas después, hablando de un autorretrato de esas semanas, dijo que su «fisonomía se ha calmado mucho, aunque la mirada quizá sea más vaga que antes».
+
+[reverent] Antonin Artaud, escribiendo sobre Van Gogh, dijo que el rostro de su autorretrato estaba «inspeccionándonos y vigilándonos, escrutándonos con un ojo torvo». Quédese frente a él un momento, y deje que él también le escrute.
+
+En las salas de Van Gogh, busque su dormitorio en Arles: una habitación pequeña con cama y sillas amarillas, y el suelo rojo. Escuche su pista allí.

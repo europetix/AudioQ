@@ -1,0 +1,26 @@
+@id: 003 · ES · Central aisle · Level 0
+@section: Academic Art
+@room: Central aisle · Level 0
+@type: R
+@title: Couture — Romains de la décadence (Los romanos de la decadencia)
+@where: En el pasillo central de esculturas del nivel 0, frente al enorme lienzo de casi ocho metros de ancho: una orgía romana en una sala clásica, bajo la mirada de las estatuas de los antepasados.
+@what: Thomas Couture, Romains de la décadence, Romans of the Decadence, 1847, oil on canvas, 472 × 772 cm. Commissioned by the State and shown at the Salon of 1847.
+@listen: A painting of ancient Rome that Paris read as a painting of itself.
+@brief: Letting a friend in on a nineteenth-century joke in front of a huge canvas; amused, a little conspiratorial at the double meaning, warm at the link to Manet.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R1 003 (1847; 472 × 772; State commission 25 Jun 1846; Salon 1847; three years' work; orgy in a classical hall, statues of virtuous ancestors; history painting, moral message; Juvenal theme and quoted lines; jab at the July Monarchy, "The French of the Decadence"; "realist allegory"; Manet in Couture's studio 1850–56 (A1)): https://www.musee-orsay.fr/en/artworks/romains-de-la-decadence-9493 (OFF), https://www.musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/romans-during-the-decadence-2105.html (OFF) ; A1 Track 03 row 6 (OK)
+@lang: es
+@translation: from the fact-checked English Orsay V5 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] En 1847, los parisinos miraron este cuadro de la antigua Roma y se reconocieron en él.
+
+Thomas Couture trabajó tres años en él, y el Estado se lo había encargado antes de que nadie lo viera. Era una pintura de historia, el género más noble de la época, y debía transmitir una moraleja. Couture tomó el tema de Juvenal. En el catálogo del Salón imprimió dos versos del poeta. [pause] «Más cruel que la guerra, el vicio cayó sobre Roma y vengó al mundo vencido».
+
+Así que mire lo que le ofrece. Una gran sala clásica, y dentro, una fiesta convertida en orgía. Alrededor, las estatuas de los virtuosos antepasados miran desde lo alto a sus descendientes. [pause] Los viejos romanos que conquistaron el mundo, y los nuevos, que lo perdieron por el placer.
+
+[conspiratorial] Pero los críticos no creyeron que tratara de verdad de Roma. Francia vivía entonces bajo la llamada Monarquía de Julio. Enseguida leyeron el cuadro como una pulla contra sus propios gobernantes. Para ellos, mostraba a Los franceses de la decadencia. Hoy el museo lo llama una alegoría realista. Un cuadro con togas sobre París.
+
+Hay otra razón para recordar a Couture. Desde 1850, un joven estudió seis años en su taller. Se llamaba Édouard Manet. [pause] A pocas salas de aquí, verá qué distinto pintó el alumno su propia época.
+
+Por ahora, cruce al lado de la rue de Lille. En la sala 1, busque el alto cuadro de Ingres de un desnudo de pie, La Source, y escuche su pista frente a ella.

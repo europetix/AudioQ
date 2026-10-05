@@ -1,0 +1,26 @@
+@id: 015 · ES · Galerie Seine 2 · Level 0
+@section: Manet and Friends
+@room: Galerie Seine 2 · Level 0
+@type: R
+@title: Fantin-Latour — Un atelier aux Batignolles (Un taller en Batignolles)
+@where: En la Galerie Seine 2 del nivel 0, la galería de retratos de la década de 1860. Un lienzo muy grande, de unos dos metros de alto y casi tres de ancho: ocho hombres reunidos en un taller, uno de ellos un pintor ante su caballete.
+@what: Henri Fantin-Latour, Un atelier aux Batignolles, A Studio at Les Batignolles, 1870, oil on canvas, 204 × 273.5 cm. Shown at the Salon of 1870; bought in 1892.
+@listen: Who the eight men are, why they gather around Manet, and the least famous of them.
+@brief: Introducing a group of friends in an old photograph-like painting; warm at the start, lively through the names, light at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: FACTS_R2 016 Un atelier aux Batignolles (1870, 204×273.5, RF 729, bought 1892, Salon of 1870; sitters left to right Scholderer, Manet at the easel, Renoir with a hat, Astruc, Zola, Maître, Bazille "who would fall a few months later at age twenty-six in the Franco-Prussian War", Monet; Batignolles district; Manet as "head of the school"; Zola quote as translated by Orsay; Scholderer "masterpiece" acquired Feb 2026): https://www.musee-orsay.fr/en/artworks/un-atelier-aux-batignolles-210 , https://www.musee-orsay.fr/de/kollektionen/werkbeschreibungen/gemaelde/commentaire_id/ein-atelier-in-batignolles-4034.html , https://www.musee-orsay.fr/en/magazine/2026-02-27/masterpiece-otto-scholderer-has-been-added-musee-dorsays-collections (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 015 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ocho hombres llenan este taller, y siete de ellos están aquí por el que está ante el caballete.
+
+Henri Fantin-Latour lo presentó en el Salón de 1870. Recorra a los amigos de izquierda a derecha. En el extremo izquierdo, Otto Scholderer, un pintor alemán. Luego el propio Manet, ante el caballete, y Renoir, con sombrero. Después, Zacharie Astruc, escultor y periodista, y Émile Zola. Edmond Maître, empleado del ayuntamiento de París. Luego Frédéric Bazille, cuyo taller verá en la sala 18. Y a la derecha, Claude Monet.
+
+[pause] ¿Por qué reunirlos en torno a Manet? Muchos vivían en el barrio parisino de Batignolles, y Fantin presenta a Manet como jefe de su escuela. Zola lo dijo así. [quietly] «En torno al pintor despreciado por el público se ha formado un frente unido de pintores y escritores que lo consideran su maestro».
+
+Busque primero a Manet ante el caballete. Luego recorra el grupo con la mirada, amigo por amigo. [pause] Fíjese en cómo se mantienen unidos a su alrededor.
+
+[lightly] Ahora, el nombre menos famoso, probablemente Scholderer, a la izquierda del todo. A principios de 2026, el museo adquirió un cuadro suyo, y lo llama una obra maestra. La fama a veces tarda. [pause] A veces, siglo y medio.
+
+La gran provocación de Manet también está en esta planta. Busque Le Déjeuner sur l'herbe, El almuerzo sobre la hierba, en la sala 18, y escuche su pista allí.

@@ -1,0 +1,30 @@
+@id: 055 · ES · Galerie Françoise Cachin · Level 5
+@section: Post-Impressionism
+@room: Galerie Françoise Cachin · Room 44 · Level 5
+@type: R
+@title: Gauguin — Oviri
+@where: En el nivel 5, en la Galerie Françoise Cachin, cerca de los cuadros de Gauguin de la sala 44: una figura de pie, de gres, de unos 75 centímetros de alto, sobre un lobo muerto y un cachorro. Su lugar exacto en la galería no está confirmado; busque en los alrededores.
+@what: Paul Gauguin, Oviri, 1894, partially glazed stoneware, 75 × 19 × 27 cm, about 20 kg, OAO 1114. Fired in Ernest Chaplet's kiln in December 1894. Acquired 1987.
+@listen: The biggest ceramic Gauguin ever made, the name he gave it, and where he wanted it to end up.
+@brief: Speaking low beside a dark, strange object; serious and close, with one moment of grim lightness.
+@pace: medium-slow
+@energy: 2→3→3→2
+@sources: FACTS_R7 Oviri (1894, partially glazed stoneware, H 75 × W 19 × D 27 cm, 20 kg, OAO 1114, acquired 1987; Gauguin discovered clay with Ernest Chaplet, hoped to earn money from pots in 1887; last stay in Paris; his largest piece, fired in Chaplet's kiln December 1894; could not sell "his Murderess", asked Monfreid for it in 1900 meaning to put it on his tomb in Tahiti; theme "death, savagery, wildness"; lords it over a dead she-wolf and crushes her cub; Christopher Gray 1963 quote): https://www.musee-orsay.fr/en/collections/works-in-focus/sculpture/commentaire_id/oviri-11308.html and https://www.musee-orsay.fr/en/artworks/oviri-19409 (OFF) ; Galerie Françoise Cachin, room 44 theme: findings/M_planguide_ete_2026.md (OFF), room inferred
+@lang: es
+@translation: from the fact-checked English Orsay V5 055 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Gauguin tenía un nombre para esta figura. [pause] La llamaba su Asesina.
+
+Había llegado a la arcilla gracias al ceramista Ernest Chaplet. Al principio esperaba ganar dinero con sus vasijas. Pero en su última estancia en París, su obra en arcilla terminó con esta, Oviri, su pieza más grande. Se coció en el horno de Chaplet en diciembre de 1894.
+
+[pause] Mire lo que hace. De pie sobre una loba muerta, domina el cuerpo. Y aprieta al cachorro de la loba hasta ahogarlo.
+
+La muerte, la ferocidad, lo salvaje. Esos son los temas. El gres está esmaltado solo en parte. La figura mide unos setenta y cinco centímetros. Pesa unos veinte kilos.
+
+[wry] Gauguin no logró vender a su Asesina. Así que en 1900 se la pidió a Daniel de Monfreid. [pause] Quería ponerla sobre su tumba en Tahití.
+
+Un especialista en la escultura de Gauguin, Christopher Gray, vio en esta figura la expresión del profundo desencanto y desaliento de Gauguin. Quédese un momento con ella, y quizá sienta algo de ese peso.
+
+[warmly] Llegó al museo en 1987, casi un siglo después de salir del horno.
+
+De una figura que Gauguin modeló en arcilla, a una selva que otro pintor soñó en París. En esta galería, busque La Charmeuse de serpents, La encantadora de serpientes, de Henri Rousseau. Es una gran selva oscura, con una figura que toca la flauta. Escuche su pista allí. Si no está expuesta, siga hasta la sala 45 y el pequeño Le Talisman de Sérusier.

@@ -1,0 +1,30 @@
+@id: 034 · DE · Room 32 · Level 5
+@section: Impressionism
+@room: Room 32 · Level 5
+@type: W
+@title: Degas — Petite danseuse de quatorze ans (Kleine Tänzerin mit vierzehn Jahren)
+@where: Saal 32, Ebene 5. Eine frei stehende Figur einer jungen Tänzerin, knapp einen Meter hoch, aus dunkel patinierter Bronze, mit echtem Tüllrock und Satinband, auf einem Holzsockel. Sie können um sie herumgehen.
+@what: Edgar Degas, Petite danseuse de quatorze ans, Little Dancer Aged Fourteen: a posthumous bronze, cast by the lost-wax method by the founder Adrien-Aurélien Hébrard between 1921 and 1931, after Degas's wax model of 1878–1881. Patinated bronze, tulle, satin, wood. Height 98 cm. Acquired in 1931.
+@listen: Who the girl was, what Paris saw in 1881, and why the figure in front of you is a faithful copy made after Degas died.
+@brief: Telling a friend the true story behind a famous figure; curious at first, honest and a little protective of the girl, quietly moved at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: FACTS_R3 034 (bronze cast lost-wax by Adrien-Aurélien Hébrard 1921–1931 after the wax of 1878–1881; tulle tutu, satin ribbon, wooden base; H. 98 cm; acquired 1931 from Degas's heirs and the Hébrard family; shown at the 1881 Impressionist exhibition; about 150 wax or clay sculptures found in Degas's studio at his death in 1917; the bronze edition "tried to preserve the characteristics of the wax as much as possible"; room 32): https://www.musee-orsay.fr/en/artworks/petite-danseuse-de-quatorze-ans-961 (OFF) ; A3 26.7 (original wax in Washington, OFF) ; A3 26.1 (Marie van Goethem, born in Paris to Belgian parents, SEC2) ; A3 Confirmed OK (wax original with real hair and fabric; Marie dismissed 1882)
+@lang: de
+@translation: from the fact-checked English Orsay V5 034 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Als Paris dieses Mädchen zum ersten Mal sah, war sie gar nicht aus Bronze. Sie war aus Wachs, mit echtem Haar und echtem Stoff.
+
+Das war 1881, auf der Ausstellung der Impressionisten. Degas hatte etwa drei Jahre an der Figur gearbeitet. Sein Modell war Marie van Goethem, eine junge Tänzerin. Sie war in Paris geboren, als Kind belgischer Eltern. Der Titel nennt ihr Alter: vierzehn.
+
+Ihre Laufbahn als Tänzerin hielt nicht lange. [pause] Im Jahr darauf wurde sie entlassen.
+
+[quietly] Was genau sehen Sie also hier? Die Figur vor Ihnen ist nicht die, die Degas zeigte. Sein Original aus Wachs ist in Washington. Diesen Guss hat Degas nie anfertigen lassen.
+
+Als er 1917 starb, fand man in seinem Atelier etwa hundertfünfzig Skulpturen aus Wachs oder Ton. In den folgenden Jahren goss der Gießer Adrien-Aurélien Hébrard eine Bronze-Edition, im Wachsausschmelzverfahren. [pause] Das Ziel war, so sagt das Museum, den Charakter des Wachses so weit wie möglich zu bewahren. Dieser Guss entstand in jener Kampagne. Das Museum erwarb ihn mit Hilfe von Degas' Erben und der Familie Hébrard.
+
+Gehen Sie also langsam um sie herum. Der Körper ist patinierte Bronze. Aber schauen Sie auf den Rock, denn das ist echter Tüll. Und das Band ist echter Satin, so wie das Wachs echten Stoff trug. [pause] Sie ist knapp einen Meter groß, kleiner, als viele erwarten.
+
+[long pause] Alles andere hier ist eine sorgfältige Kopie. Tüllrock und Band sind echter Stoff. Und irgendwie genügt das, damit sie lebendig wirkt.
+
+Suchen Sie im selben Saal Berthe Morisots Le Berceau, Die Wiege: eine junge Frau, die über ein Baby wacht, das in seiner Wiege schläft. Spielen Sie dort den passenden Titel ab.

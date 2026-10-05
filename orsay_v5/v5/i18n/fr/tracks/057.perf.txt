@@ -1,0 +1,26 @@
+@id: 057 · FR · Room 45 · Level 5
+@section: Post-Impressionism
+@room: Room 45 · Redon and the Nabis · Level 5
+@type: R
+@title: Sérusier — Le Talisman
+@where: Dans la salle 45 au niveau 5, Redon et les Nabis, après les salles Gauguin. Cherchez un tout petit paysage peint sur un panneau de bois, à peu près de la taille d'une feuille de papier.
+@what: Paul Sérusier, Le Talisman (L'Aven au Bois d'Amour), October 1888. Oil on wood, 27 × 21 cm.
+@listen: How a panel smaller than a sheet of paper, painted under Gauguin's direction, became the founding work of the Nabis.
+@brief: Pointing out a small, easily missed treasure to a friend; quiet and respectful, a little awed at how much came from so little.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 056 + A3 30.8 and Confirmed OK (October 1888, oil on wood, 27 × 21 cm, Bois d'Amour at Pont-Aven, painted under Gauguin's direction, lesson known through Maurice Denis's account, founding work of the Nabis; room 48 with 2026 numbering caveat; no verbatim lesson text, paraphrase only): musee-orsay.fr Talisman pages (OFF) ; FACTS_R4 051 (Bois d'Amour "a wood that Sérusier's Talisman had made famous"; Gauguin recommended "painting in masses and solid areas of colour"): https://www.musee-orsay.fr/en/artworks/madeleine-au-bois-damour-7992 (OFF) ; FACTS_R4 059 (Café Campana at the exit of the gallery behind one of the great clocks; OFF) ; FACTS_R5 064 (Denis on level 2, room 70; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 057 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Certains des tableaux les plus décisifs de ce musée sont immenses. Pas celui-ci. C'est un petit panneau de bois de vingt-sept centimètres sur vingt et un. À peu près la taille d'une feuille de papier.
+
+Paul Sérusier l'a peint en octobre 1888, au Bois d'Amour, à Pont-Aven. Oui, le même bois où Émile Bernard a étendu sa sœur, grandeur nature, dans la salle 43. Sérusier l'a peint sous la direction de Gauguin. Vous avez entendu ce conseil sur les masses de couleur devant la Madeleine de Bernard.
+
+Nous connaissons cette leçon par le récit, plus tardif, du peintre Maurice Denis. Vous découvrirez ses propres œuvres au niveau 2, parmi les nabis.
+
+[curious] Son autre titre, L'Aven au Bois d'Amour, nomme un lieu réel. Regardez comment Sérusier a construit ce lieu, tache après tache. [pause] Puis voyez ce qui reste du paysage, et ce qui n'est plus que couleur.
+
+[pause] Ce petit panneau est devenu l'œuvre fondatrice du groupe des nabis. Il a aussi rendu célèbre le Bois d'Amour. [warmly] Pas mal, pour un objet qui tiendrait dans une poche de manteau.
+
+[pause] Restez dans la salle 45. Redon la partage avec les nabis. Cherchez son petit tableau d'un buste aux yeux clos, qui flotte dans un espace doux et indéfini. Écoutez sa piste là-bas.

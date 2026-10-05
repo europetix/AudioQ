@@ -1,0 +1,28 @@
+@id: 048 · DE · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: R
+@title: Van Gogh — Le Docteur Paul Gachet (Doktor Paul Gachet)
+@where: In Saal 36 auf Ebene 5, dem Van-Gogh-Saal. Suchen Sie Van Goghs Bildnis eines melancholischen Mannes in kalten Farben, mit einem Zweig Fingerhut.
+@what: Vincent van Gogh, Portrait du Docteur Gachet, Dr Paul Gachet, 1890, oil on canvas, 68 × 57 cm, RF 1949 16. Part of the gift of the Gachet heirs, 1949–1954.
+@listen: Who Dr Gachet was, the false name he painted under, and the one hopeful thing Van Gogh put in his portrait.
+@brief: Introducing a friend to an odd, likeable man and his sad portrait; curious, a little amused at the alias, quiet at the foxglove.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R4 048 (1890; 68 × 57; RF 1949 16; Gachet a doctor specialising in melancholy and nervous illnesses who monitored Van Gogh's health; amateur painter and engraver as Paul Van Ryssel; bought Cézanne, Guillaumin, Monet, Renoir; one of the first collectors of Van Gogh; heirs Marguerite 1869–1949 and Paul junior 1873–1962 gave the collection to the Louvre 1949–1954; room 37 the Paul Gachet collection): https://www.musee-orsay.fr/en/artworks/portrait-du-docteur-gachet-98570 and https://www.musee-orsay.fr/en/articles/van-gogh-new-presentation-artists-works-musee-dorsay-277393 (OFF) ; FACTS_R4 048 commentary (Theo's advice; "melancholy pose", "severe portrait brushed in cold colours", foxglove "the only touch of hope"; first and only etching, copper plate dated 25 May 90) (OFF) ; letter RM23 to Gauguin, c. 17 June 1890, "the deeply sad expression of our time": vangoghletters.org (OFF extract, VGM translation) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 048 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Doktor Paul Gachet hatte ein zweites Leben und einen zweiten Namen. Er war Amateurmaler und Radierer. Diese Arbeiten signierte er mit Paul Van Ryssel.
+
+Als Arzt war er auf Melancholie und Nervenleiden spezialisiert. Er stand den Impressionisten nahe und kaufte Werke von Cézanne, Monet, Renoir und Guillaumin. Er war einer der ersten Sammler Van Goghs. Als Van Gogh die Heilanstalt von Saint-Rémy verließ, riet Theo ihm deshalb zu Auvers. Dort konnte dieser Arzt ein Auge auf seine Gesundheit haben.
+
+[pause] Zwischen den beiden Männern entstand eine besondere Bindung. Wenige Tage nach seiner Ankunft machte Van Gogh seine erste und einzige Radierung, ein Bildnis Gachets. Das Museum besitzt noch die Kupferplatte, datiert auf den fünfundzwanzigsten Mai 1890.
+
+[quietly] Dann kam dieses Gemälde. Schauen Sie auf die Haltung, schwer von Melancholie. Und auf die Farben, alle kalt. In einem Brief an Gauguin schrieb Van Gogh, er habe Gachet gemalt „mit dem tieftraurigen Ausdruck unserer Zeit.“ [pause] Nicht nur die Traurigkeit eines Mannes. Die einer ganzen Epoche.
+
+Doch suchen Sie den Fingerhut. Ärzte schätzten diese Pflanze wegen ihrer Heilkraft. Das Museum nennt sie den einzigen Hoffnungsschimmer im Bild. Eine Arztblume, für einen Arzt, der selbst vielleicht ein wenig melancholisch war.
+
+[warmly] Lange nach dem Tod des Arztes schenkten seine Kinder, Marguerite und Paul, seine Sammlung dem Louvre, zwischen 1949 und 1954. Dieses Bildnis, das Selbstbildnis und die Kirche, die Sie gerade gesehen haben, stammen alle aus jenem Haus in Auvers.
+
+[pause] Verlassen Sie dann den Van-Gogh-Saal und gehen Sie in Saal 38. Suchen Sie Seurats große Zirkusszene. Vorn ein Clown, von hinten gesehen, und ringsum ein gemalter dunkler Rand. Dort wartet die nächste Geschichte.

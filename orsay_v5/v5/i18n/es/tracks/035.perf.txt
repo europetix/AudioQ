@@ -1,0 +1,26 @@
+@id: 035 · ES · Room 32 · Level 5
+@section: Impressionism
+@room: Room 32 · Level 5
+@type: R
+@title: Morisot — Le Berceau (La cuna)
+@where: Sala 32, nivel 5, la misma sala que la Pequeña bailarina de Degas. Un cuadro más bien pequeño de una joven que vela a un bebé dormido en una cuna.
+@what: Berthe Morisot, Le Berceau, The Cradle, 1872, oil on canvas, 56 × 46.5 cm. Bought by the Louvre in 1930.
+@listen: The first woman to show with the Impressionists, her sister and niece, and the baby who grew up and sold this picture to the nation.
+@brief: A friend speaking softly in front of an intimate picture; warm and unhurried, with a small, delighted reveal at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R3 036 (1872; 56 × 46.5; RF 2849; her sister Edma watches over her sleeping daughter Blanche; "undeniably Berthe Morisot's most famous painting"; shown at the 1874 exhibition; Morisot the first woman to exhibit with the group; stayed in the sitter's family until the Louvre bought it in 1930, from Blanche Pontillon, Mme Forget, the baby; room 32): https://www.musee-orsay.fr/en/artworks/le-berceau-1132 (OFF) + A3 27.7 (OFF) ; A3 27.1 (Berthe married Eugène Manet in 1874, so Manet became her brother-in-law, SEC2)
+@lang: es
+@translation: from the fact-checked English Orsay V5 035 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] De todos los cuadros de estas salas, quizá este sea el más silencioso. Una joven vela a un bebé dormido, y no pasa nada más. Ella es Edma, la hermana de la pintora. El bebé de la cuna es la hija de Edma, Blanche.
+
+Berthe Morisot lo pintó en 1872. Dos años después lo presentó en la primera exposición que los impresionistas organizaron por su cuenta. Fue la primera mujer en exponer con el grupo.
+
+[quietly] Fíjese adónde va la atención. No solo al bebé, sino a la mirada que lo vela. Morisot pintaba a su propia hermana en un momento íntimo. [pause] Casi dan ganas de bajar la voz.
+
+El año de aquella primera exposición, Berthe se casó con Eugène Manet. Así, Édouard Manet, cuyos cuadros vio en la planta baja, se convirtió en su cuñado.
+
+[pause] El cuadro siguió en la familia más de medio siglo. Luego, en 1930, lo compró el Louvre. Y quien lo vendió fue Blanche. [long pause] El bebé de la cuna, ya adulta.
+
+Ahora, en las salas impresionistas de este nivel, busque Dans un café, de Degas, más conocido como L'Absinthe. Un hombre y una mujer, sentados lado a lado en un café, con una copa de absenta delante de ella. Su pista empieza allí.

@@ -1,0 +1,26 @@
+@id: 024 · DE · Opéra space · Level 0
+@section: Nave End
+@room: End of the nave · Opéra space · Level 0
+@type: R
+@title: Garniers Opéra, aufgeschnitten
+@where: Im Opéra-Bereich am Ende des Mittelschiffs, Ebene 0: ein langes Modell der Pariser Opéra, der Länge nach aufgeschnitten, fast sechs Meter lang und etwa zweieinhalb Meter hoch. Im Herbst 2026 wird um die Modelle eine Sonderpräsentation aufgebaut. Der Zugang kann daher abweichen. Folgen Sie den Schildern des Museums.
+@what: Opéra de Paris, maquette de la coupe longitudinale, longitudinal-section model of the Paris Opéra, made in 1985 in Rome by the Gianese workshop under Richard Peduzzi's artistic direction, after Garnier's own drawing, at 1/25 scale, 240 × 578 × 110 cm.
+@listen: How to read an opera house from the façade to the back of the stage, and why the model was made.
+@brief: Walking a friend along a giant cutaway, section by section; curious and a little amused, then admiring.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 021 longitudinal-section model (1985, Peduzzi's artistic direction, Gianese workshop in Rome: Ercole Borsani, Amedeo Brogli, Giovanni Gianese; after Garnier's drawing in Le nouvel Opéra de Paris, published 1880; 1/25; 240×578×110 cm; gift 1989; mediation panel since 19 June 2023, 5.60 m, French and English, braille, 18 tactile visuals, four parts: overall section, façade-foyer-grand staircase, auditorium, backstage; Orsay's first universally accessible station; purpose: how Garnier's building works, decoration such as La Danse, and through Degas the corps de ballet): https://www.musee-orsay.fr/en/artworks/opera-de-paris-maquette-de-la-coupe-longitudinale-89419 , https://www.musee-orsay.fr/en/articles/new-mediation-station-front-model-paris-opera-house-219776 (OFF) ; G §1 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 024 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Die meisten Gebäude verbergen ihre Geheimnisse hinter einer Wand. Hier fehlt die Wand. Sie sehen die Pariser Opéra, längs aufgeschnitten, von der Fassade bis ganz hinten an die Bühne.
+
+Das Modell entstand 1985 in Rom, in der Werkstatt Gianese, unter der künstlerischen Leitung von Richard Peduzzi. Es folgt Garniers eigener Zeichnung. Er veröffentlichte sie 1880 in seinem Buch Le Nouvel Opéra de Paris. Der Maßstab ist eins zu fünfundzwanzig. [pause] Und trotzdem ist das Modell fast sechs Meter lang.
+
+[curious] Betrachten Sie es in vier Teilen. Erfassen Sie zuerst den ganzen Schnitt. Dann die Fassade, das Foyer und die große Treppe. Danach kommt der Zuschauersaal. [pause] Und dann der Bereich hinter der Bühne, den das Publikum nie sieht.
+
+Vor dem Modell steht meist eine lange Tafel. Sie hat Texte auf Französisch und Englisch, Braille und Tastbilder. Seit Juni 2023 ist sie die erste Station des Museums, die für alle Besucher zugänglich gestaltet ist.
+
+[warmly] Warum ein Opernhaus in einem Kunstmuseum? Weil es Werke verbindet, die Sie überall im Haus sehen. Das Modell erklärt, wie Garniers Gebäude funktioniert. Es erklärt den Schmuck, den Sie gerade in Carpeaux' La Danse gesehen haben. Und durch Degas das Leben des Corps de ballet. [pause] Degas' Tänzerinnen begegnen Sie oben.
+
+Am hinteren Ende des Mittelschiffs liegen die Säle Paris, capitale d'une nation moderne, Paris, Hauptstadt einer modernen Nation. Sie zeigen, wie Paris im Zweiten Kaiserreich verwandelt wurde. Suchen Sie sie bei den Rolltreppen. Spielen Sie dort den passenden Titel ab.

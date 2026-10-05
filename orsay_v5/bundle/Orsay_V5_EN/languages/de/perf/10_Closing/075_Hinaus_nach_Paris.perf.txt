@@ -1,0 +1,26 @@
+@id: 075 · DE · Level 2 terrace → exit
+@section: Closing
+@room: Level 2 terrace → exit
+@type: CLOSE
+@title: Hinaus nach Paris
+@where: Auf der Skulpturenterrasse von Ebene 2, an der Balustrade, mit Blick über die ganze Länge des Mittelschiffs bis zu Rodins Höllentor am anderen Ende.
+@what: The nave of the former Gare d'Orsay, seen from the sculpture terraces of level 2: built as a station for the 1900 Exposition, opened as a museum in December 1986.
+@listen: One last look down the old station, a short look back over the tour, and the way out.
+@brief: Saying goodbye to a friend at the end of a long, good day; reflective and warm, a little proud of the building, unhurried, ending gently.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: FACTS_R5 072 terraces (level-2 terraces run along both sides of the nave and overlook the central aisle; sculpture of about 1880–1910; Gates of Hell at the far end between the towers; no Seine view promised; exit via level 0, SORTIE at the clock end per plan-guide 2026) (OFF) ; FACTS_R2 001 (built for the 1900 Exposition universelle; Laloux; metal structure hidden behind cut stone; Detaille quote 1900 verbatim "The station is superb and looks like a Palais des beaux-arts…"; terminus 1900–1939; inaugurated 1 Dec 1986, opened 9 Dec 1986; 2026 the 40th anniversary) : https://www.musee-orsay.fr/en/node/60 ; https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF) ; FACTS_R2 002 (three levels, terraces of the median level overlook the nave, platforms became the sculpture aisle, "main artery of the visit"; Gates of Hell on the axis since 24 May 2022): https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 (OFF via G/A2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 075 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] 1900, als dieses Gebäude ganz neu war, schrieb der Maler Édouard Detaille einen Satz darüber. „Der Bahnhof ist prachtvoll und sieht aus wie ein Palais des beaux-arts…“ Er meinte einen Palast der schönen Künste. Es dauerte den größten Teil des Jahrhunderts, bis er recht bekam.
+
+[pause] Schauen Sie von der Terrasse hinunter. Dort unten, wo die Skulpturen am Mittelgang stehen, fuhren einst die Züge ein. Und schauen Sie die Terrassen selbst entlang. Auf beiden Seiten des Mittelschiffs zeigen sie Skulptur von etwa 1880 bis 1910.
+
+[pause] Jetzt kennen Sie alle drei Etagen. Sie begannen dort unten im Erdgeschoss, bei den akademischen Malern, bei Millet und Courbet und Manets Olympia. Sie stiegen ganz nach oben, unters Dach, zu den Impressionisten, zu Van Gogh und Gauguin. Und Sie kamen hierher herunter, zu den Nabis, zum Jugendstil, zu Claudel und Rodins Balzac.
+
+[quietly] Bevor Sie gehen, schauen Sie bis ganz ans Ende des Mittelschiffs. Zwischen den beiden Türmen steht Rodins Höllentor, der ganzen Länge des alten Bahnhofs zugewandt. Vor Stunden standen Sie davor, am Ende des Erdgeschosses. Von hier oben sehen Sie es mit allem anderen zugleich. [pause] Detaille sah nur einen Bahnhof, der wie ein Palast aussah. Sie sind gerade durch den Palast gegangen.
+
+[warmly] Danke, dass Sie diese Stunden mit mir verbracht haben. Ich hoffe, ein paar dieser Gesichter begleiten Sie nach Hause. Eine schwarze Katze, eine kleine Tänzerin, ein Mann in einem Sack aus Gips, ein Mädchen mit dem Kopf eines Dichters.
+
+Wenn Sie bereit sind, nehmen Sie die Rolltreppen oder die Treppe hinunter auf Ebene 0. Gehen Sie durch das Mittelschiff zurück zum Ende mit der Uhr, wo Sie hereingekommen sind. Folgen Sie den Schildern SORTIE hinaus nach Paris. Auf Wiedersehen, und genießen Sie die Stadt.

@@ -1,0 +1,28 @@
+@id: 040 · FR · Room 34
+@section: Impressionism
+@room: Room 34 · Level 5
+@type: R
+@title: Monet — Nymphéas bleus
+@where: Salle 34, niveau 5, la même salle que Les Cathédrales de Rouen. Cherchez une grande toile carrée de nymphéas, d'environ deux mètres de côté.
+@what: Claude Monet, Nymphéas bleus, Blue Water Lilies, around 1916–1919, oil on canvas, 204 × 200 cm.
+@listen: The pond Monet made in the same years as the cathedrals, and why this picture seems to have no edges.
+@brief: Standing next to a friend in front of a big, calm canvas after the busy cathedrals; unhurried, close to hushed, letting the picture do the work.
+@pace: slow
+@energy: 2→3→1
+@sources: FACTS_R3 040 fallback Nymphéas bleus (c. 1916–1919, 204 × 200, room 34; water garden at Giverny created 1893; from the 1910s until his death in 1926 the pond his sole source of inspiration; no point draws attention more than another; square format and lack of reference points give "infinity and limitlessness"): https://www.musee-orsay.fr/en/artworks/nympheas-bleus-1172 (OFF) ; FACTS_R3 039 (cathedrals painted 1892–93, finished at Giverny 1894, OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 040 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Pendant que Monet se débattait avec la cathédrale de Rouen, il créait aussi un bassin. En 1893, il aménage un jardin d'eau dans sa maison de Giverny.
+
+Pendant la dernière partie de sa vie, des années 1910 jusqu'à sa mort en 1926, ce bassin fut sa seule source d'inspiration. Il avait passé des années à poursuivre la lumière sur une façade de pierre. [pause] Désormais, la lumière venait à lui, sur l'eau de son propre jardin.
+
+[pause] Cette toile est l'un de ces tableaux tardifs. Elle est grande, deux mètres de haut et presque exactement autant de large. Et ce format carré compte.
+
+[quietly] Faites un essai. Laissez votre regard chercher un endroit où se poser : une berge, un horizon, un coin de ciel. Vous n'en trouverez pas. Aucun point du tableau n'attire l'attention plus qu'un autre. Pas de bord du bassin, pas de haut ni de bas auquel se raccrocher. Rien que les nymphéas, l'eau, et la couleur du titre.
+
+Le musée décrit l'effet comme un sentiment d'infini, d'absence de limites. Et à cette distance, on comprend pourquoi. La toile s'arrête au cadre, mais le bassin, lui, semble continuer.
+
+[long pause] Les cathédrales parlaient d'une chose qui change. Ici, il n'y a presque plus de chose du tout.
+
+Continuez vers les salles Cézanne et cherchez un petit tableau de joueurs de cartes, dont l'un fume la pipe. Écoutez sa piste là-bas.

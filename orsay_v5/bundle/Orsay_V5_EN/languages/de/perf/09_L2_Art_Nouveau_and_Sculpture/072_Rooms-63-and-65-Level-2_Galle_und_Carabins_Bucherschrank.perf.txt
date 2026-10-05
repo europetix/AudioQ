@@ -1,0 +1,28 @@
+@id: 072 · DE · Rooms 63 and 65 · Level 2
+@section: Art Nouveau and Sculpture
+@room: Rooms 63 and 65 · Level 2
+@type: R
+@title: Gallé und Carabins Bücherschrank
+@where: Säle 63 und 65 auf Ebene 2. In Saal 63 eine gläserne Hand, die zwischen Muscheln und Algen aufsteigt. In Saal 65 ein Bücherschrank aus Nussbaum und Schmiedeeisen, fast drei Meter hoch, bedeckt mit geschnitzten Figuren.
+@what: Émile Gallé, La Main aux algues et aux coquillages, Hand with Seaweed and Shells, 1904, crystal with inclusions, applications and wheel engraving, 33.4 cm high. François-Rupert Carabin, Bibliothèque, Bookcase, 1890, walnut and wrought iron, 290 × 215 × 83 cm.
+@listen: A glassmaker's farewell piece, and a bookcase that preaches a sermon.
+@brief: Two contrasting stories told to a friend; hushed and tender for Gallé, then amused and brisk for Carabin's carved vices.
+@pace: medium-slow
+@energy: 2→2→4
+@sources: FACTS_R5 066a Gallé — La Main aux algues et aux coquillages (1904, crystal, partly blown and hot-modelled, inclusions, applications, wheel engraving, H 33.4 cm, room 63; "doubtless the last work of crafted glass produced by the master from Nancy"; shown at Nancy 1904 in the showcase "The Deep Sea"; made knowing he was about to die, a farewell confident in the "radiant existence" awaiting him; shells naturalistic, hand's "gelatinous texture evokes the body of a jellyfish rather than human skin"): https://www.musee-orsay.fr/en/artworks/la-main-aux-algues-et-aux-coquillages-22694 ; exhibition page hand-seaweed-and-shells-emile-galles-artistic-testament (OFF) ; FACTS_R5 066c Carabin — Bibliothèque (1890, walnut and wrought iron, 290 × 215 × 83 cm, commissioned 1889 by engineer Henry Montandon, room 65; Geffroy's reading: base passions enemies of intelligence vanquished by the Book, Ignorance and a stack of masks Vanity, Greed, Intemperance, Anger, Folly, Hypocrisy; Truth at the top with Reading on either side): https://www.musee-orsay.fr/en/artworks/bibliotheque-12031 (OFF) ; FACTS_R5 067 (next cue: Pompon, sculpture terrace) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 072 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Manche Künstler wissen, wann sie ihr letztes Werk schaffen. Émile Gallé, der Glaskünstler aus Nancy, scheint es gewusst zu haben.
+
+Suchen Sie in Saal 63 eine Hand aus Glas, die aus dem Meer aufsteigt. Sie heißt La Main aux algues et aux coquillages, Hand mit Algen und Muscheln, und stammt von 1904. Sehr wahrscheinlich ist sie das letzte Kunstglas, das der Meister aus Nancy schuf. Er machte sie im Wissen, dass er bald sterben würde. [pause] Im selben Jahr zeigte er sie in Nancy, in einer Vitrine namens Die Tiefsee. Das Museum deutet sie als Abschied, voll Vertrauen auf das strahlende Dasein, das ihn erwartete.
+
+[curious] Betrachten Sie die beiden Oberflächen aus der Nähe. Die Muscheln sind genau so wiedergegeben wie in der Natur. Die Hand nicht. Ihre gallertartige Oberfläche lässt sie weniger wie menschliche Haut wirken als wie den Körper einer Qualle.
+
+[pause] Nun zu etwas Lauterem. Suchen Sie in Saal 65 François-Rupert Carabins Bibliothèque, einen Bücherschrank, fast drei Meter hoch, aus Nussbaum und Schmiedeeisen. Eigentlich ist er kein Möbel, sondern eine Predigt.
+
+Der Kritiker Gustave Geffroy erklärte, wie man ihn liest. Ganz unten liegen die niederen Leidenschaften, die Feinde des Verstandes, besiegt vom Buch. Auf der einen Seite sitzt die Unwissenheit. Auf der anderen ein Stapel Masken: Eitelkeit, Habgier, Maßlosigkeit, Zorn, Torheit und Heuchelei. [pause] Oben stehen drei Figuren. In der Mitte die Wahrheit, zu beiden Seiten die Lektüre.
+
+Die Laster landen also am Boden, und die Wahrheit wacht über die Bücher.
+
+Gehen Sie dann wieder hinaus auf die Skulpturenterrasse über dem Mittelschiff. Suchen Sie François Pompons großen Eisbären aus Stein. Spielen Sie dort den passenden Titel ab, und lassen Sie sich Zeit.

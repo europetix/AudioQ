@@ -1,0 +1,28 @@
+@id: 049 · FR · Room 38 · Level 5
+@section: Post-Impressionism
+@room: Room 38 · Level 5
+@type: R
+@title: Seurat — Le Cirque
+@where: Salle 38, niveau 5, la salle de Seurat et des néo-impressionnistes. Cherchez une grande toile verticale représentant une piste de cirque faite de minuscules touches de couleur, avec un clown vu de dos au premier plan et une bordure bleue peinte.
+@what: Georges Seurat, Le Cirque (Circus), 1890–91, left unfinished. Oil on canvas, 186 × 152 cm. Bequest of John Quinn, accepted by the State in 1927.
+@listen: The painting Seurat showed days before he died, the theory that makes everything in it climb, and the frame that belongs to the picture.
+@brief: A friend telling a short, sad story about bad timing, then turning with real interest to how the picture works; brisk, a hush at the death, warm at the end.
+@pace: medium
+@energy: 3→2→4→3
+@sources: FACTS_R4 049 Seurat — Le Cirque (1890–91 unfinished, 186 × 152, room 38, Signac's collection then Quinn, State 1927, third night-entertainment panel after Parade and Chahut, Indépendants 1891, died of diphtheria days after the opening, "artistic testament", Charles Henry, Chevreul and Rood, painted dark border and blue flat frame, clown from behind, horsewoman and acrobats, critic on ascending lines and dominant orange): https://www.musee-orsay.fr/en/artworks/le-cirque-542 (OFF) ; A3 30.1, 30.4, 30.6 and Confirmed OK (room 38, died March 1891 aged 31, "chromo-luminarisme", clown not leaping): https://www.musee-orsay.fr/en/artworks/le-cirque-3015 (OFF) + SEC2
+@lang: fr
+@translation: from the fact-checked English Orsay V5 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Peu de peintres ont eu moins de chance que Georges Seurat avec le calendrier. En mars 1891, il expose cette toile au Salon des Indépendants, à Paris. Quelques jours après l'ouverture, il meurt de la diphtérie, à trente et un ans.
+
+Le Cirque n'a donc jamais été achevé, et le musée y voit son testament artistique. C'était le troisième de ses grands tableaux sur les divertissements parisiens nocturnes, après Parade et Chahut.
+
+Seurat ne peignait pas seulement d'instinct. Il avait étudié les théories de la couleur de Chevreul et de Rood. Et les idées de Charles Henry sur l'effet des lignes et des couleurs sur nos émotions. Lui-même appelait sa méthode le chromo-luminarisme. [pause] Dans ce tableau, les lignes qui montent doivent exprimer la joie.
+
+[curious] Alors suivez-les vers le haut. Devant, un clown de dos, à la place qu'occupait le musicien dans Chahut. [pause] Au-delà, une écuyère et des acrobates sur la piste. Un critique de l'époque voyait tout le tableau tendre vers la gaieté, avec ses lignes ascendantes et l'orange dominant.
+
+Regardez maintenant les bords. Seurat a peint une bordure sombre directement sur la toile, et le cadre plat qui l'entoure est du même bleu. [pause] Le cadre fait partie du tableau.
+
+[warmly] Il n'a jamais reçu ses dernières retouches. Mais il fait toujours ce que Seurat lui demandait. Tout, ici, s'élève.
+
+Pendant près d'un quart de siècle, cette toile a appartenu au peintre Paul Signac. Ses œuvres vous attendent juste après. Dans la salle 40, cherchez sa Femme à l'ombrelle, construite par petites touches de couleur séparées. Lancez sa piste une fois là-bas.

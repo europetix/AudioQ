@@ -1,0 +1,30 @@
+@id: 064 · ES · Room 55 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 55 · History painting · Level 2
+@type: W
+@title: Camille Claudel — L'Âge mûr (La edad madura)
+@where: Sala 55 del nivel 2, la sala de la pintura de historia, en el extremo oeste de la planta. Busque un grupo de bronce de tres figuras sobre una base alargada: un hombre mayor arrastrado por una mujer mayor, y una joven de rodillas que se tiende hacia él.
+@what: Camille Claudel, L'Âge mûr, Maturity, about 1902, bronze group in three parts, 114 × 163 × 72 cm. The first bronze, cast in the artist's lifetime; at Orsay since 1982.
+@listen: The private patron who paid for the bronze the State never ordered, and why Claudel's brother saw her soul being torn away in it.
+@brief: Telling a painful true story to a friend, carefully and without melodrama; quiet at the start, steady through the facts, reverent at the brother's words, very soft at the end.
+@pace: slow
+@energy: 2→3→2
+@sources: FACTS_R5 069 Claudel — L'Âge mûr (c. 1902, bronze, three parts, 114 × 163 × 72 cm, first bronze, cast in her lifetime, entered Orsay 1982; room 55; after the break-up Rodin tried to help through an intermediary and obtained a State commission 1895; bronze never ordered, plaster never delivered; Captain Tissier commissioned the first bronze 1902; Orsay holds her letters to Tissier, one saying F. Rudier asked 6,000 francs; Orsay reading: Rodin's hesitation between his former mistress "who was to prevail" and Claudel, who bends forward to hold him; "L'Implorante"; "The man at the end of his maturity is vertiginously drawn by age while he extends a useless hand towards youth"; flying draperies; Paul Claudel quote verbatim): musee-orsay.fr oeuvres-commentées lage-mur-107 ; https://www.musee-orsay.fr/en/program/whats-on/exhibitions/lage-mur-maturity-camille-claudel ; letters …-266518, …-266515 (OFF) ; A2 12.4 (Rodin "suppressed" it is CONTRA) and Confirmed OK (interned 1913 aged 48, died 1943) (OFF) ; FACTS_R5 062 (next cue: Vuillard, room 72) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 064 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Su hermano Paul dijo que aquí usted ve a una mujer a la que le arrancan el alma.
+
+Camille Claudel hizo este bronce después de romper con Auguste Rodin. Tras la ruptura, Rodin intentó ayudarla a través de un intermediario. En 1895 obtuvo para este grupo un encargo del Estado.
+
+Pero el encargo no prosperó. El bronce nunca se encargó, y el yeso nunca se entregó. [pause] Al final, el dinero vino de un mecenas privado, un tal capitán Tissier, que encargó el primer bronce en 1902. El grupo que tiene delante es ese primer bronce, fundido en vida de la artista.
+
+Ahora mire las tres figuras. El museo lee el grupo como la duda de Rodin entre dos mujeres. Una es su antigua amante, la mujer que iba a imponerse. Ella se lleva al hombre. La otra es la propia Claudel, inclinada, intentando retenerlo. Claudel llamó a esa figura arrodillada l'Implorante, la que suplica.
+
+[curious] Siga el brazo del hombre. Está al final de su madurez, arrastrado por la edad, y tiende una mano inútil hacia la juventud. [pause] Y fíjese en los paños al viento. Hacen que todo el grupo se mueva más rápido de lo que un bronce debería.
+
+[reverent] Paul Claudel lo dijo así: «Mi hermana Camille, suplicante, humillada de rodillas, esa mujer soberbia, orgullosa, y ¿sabe usted qué le están arrancando, en este mismo instante, ante sus ojos? Es su alma».
+
+[long pause] [quietly] En 1913, a los cuarenta y ocho años, Camille Claudel fue internada. Nunca salió. Murió treinta años después. [pause] Pero aquí, en bronce, la mujer arrodillada sigue tendiendo los brazos.
+
+Cuando quiera, vaya a la sala 72, también en este extremo oeste, la de los nabis. Busque un conjunto de grandes escenas de jardín en suaves tonos beige, verde y azul, colgadas en torno a la esquina de la sala. Escuche su pista allí.

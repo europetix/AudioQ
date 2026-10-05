@@ -1,0 +1,26 @@
+@id: 052 · FR · Room 43 · Level 5
+@section: Post-Impressionism
+@room: Room 43 · Pont-Aven · Level 5
+@type: R
+@title: Gauguin — La Belle Angèle et Les Alyscamps
+@where: Dans la salle 43 au niveau 5, la salle de Pont-Aven. La Belle Angèle est un portrait de femme inscrit dans un cercle, sur un fond décoratif, avec une étrange poterie à côté d'elle. Les Alyscamps est un paysage aux couleurs d'automne éclatantes, avec trois petits promeneurs. Il est peut-être accroché tout près.
+@what: Paul Gauguin, La Belle Angèle (The Beautiful Angèle), 1889, oil on canvas, 92 × 73.2 cm, gift of Ambroise Vollard, 1927. Paul Gauguin, Les Alyscamps, 1888, oil on canvas, 91.5 × 72.5 cm.
+@listen: A portrait its sitter refused and Degas bought, and a landscape Gauguin gave a mocking title.
+@brief: Sharing two good-humoured stories of Gauguin before Tahiti with a friend; amused, quick, a dry smile at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R4 052 La Belle Angèle (1889, 92 × 73.2, RF 2617, Vollard gift 1927; Marie-Angélique Satre, hotel at Pont-Aven, thought one of the most beautiful women of the area; offered the painting and refused it; Degas thought it a masterpiece, bought it 1891, kept it until his studio sale 1918; circled portrait on decorative background, forms outlined in dark line from Japanese prints; Peruvian-style pot, "an exotic version of a Breton idol"): https://www.musee-orsay.fr/en/artworks/la-belle-angele-286 (OFF) ; FACTS_R4 052 Les Alyscamps (1888, 91.5 × 72.5; Oct 1888 answered Van Gogh's invitation to Arles; probably one of his first paintings there, brilliant autumn colours; Roman necropolis made a Christian burial ground by Saint Trophime, first bishop of Arles; fields, woods, a canal, three walkers, two Arlésiennes and a man; "found little charm in the women of Arles"; ironic title to Theo): Orsay commentary 2047 via extract (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 052 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Gauguin a offert son portrait à cette femme. Elle l'a refusé.
+
+Elle s'appelait Marie-Angélique Satre. Elle tenait un hôtel à Pont-Aven, et passait pour l'une des plus belles femmes de la région. Gauguin la peint en 1889 : c'est La Belle Angèle. Il inscrit son visage dans un cercle, sur un fond surtout décoratif. Les formes sont cernées d'un trait sombre, une manière empruntée aux estampes japonaises. À côté d'elle se dresse une poterie de style péruvien. Le musée y voit une version exotique d'une idole bretonne.
+
+[pause] Mais un autre peintre y a vu un chef-d'œuvre. Edgar Degas l'a acheté. Il l'a gardé plus d'un quart de siècle, jusqu'à la vente de son atelier.
+
+[pause] Voici maintenant Les Alyscamps, peint un an plus tôt. En octobre 1888, Gauguin répond à l'invitation de Van Gogh à Arles. C'est sans doute l'un de ses premiers tableaux là-bas, aux couleurs d'automne éclatantes. Les Alyscamps étaient l'ancienne nécropole romaine d'Arles. Plus tard, le premier évêque d'Arles, saint Trophime, en a fait un lieu chrétien. Gauguin laisse presque l'histoire de côté. Des champs, des bois, un canal, et trois promeneurs : deux Arlésiennes et un homme.
+
+[wry] Gauguin ne trouvait guère de charme aux Arlésiennes. [pause] Alors, en envoyant cette toile à Théo, le frère de Van Gogh, il l'intitule, non sans ironie, Paysage ou Trois Grâces au temple de Vénus.
+
+Tahiti, c'est la salle 44, Gauguin à Tahiti. Cherchez Arearea : deux femmes assises près d'un arbre, avec un chien rouge devant elles. Si sa place est vide, c'est qu'il est prêté. Écoutez quand même sa piste. Elle vous conduira vers un autre Gauguin.

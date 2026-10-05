@@ -1,0 +1,28 @@
+@id: 010 · FR · Room 7 · Level 0
+@section: Realism
+@room: Room 7 · Level 0 · Seine side
+@type: W
+@title: Courbet — Un enterrement à Ornans
+@where: Dans la salle 7, côté Seine, au niveau 0, devant l'immense toile de plus de six mètres de large : une foule de villageois grandeur nature à un enterrement. Le tableau a retrouvé son mur après sa restauration, achevée en août 2026.
+@what: Gustave Courbet, Un enterrement à Ornans, A Burial at Ornans, 1849–1850, oil on canvas, 315 × 668 cm. Given by the artist's sister, Juliette Courbet, in 1881.
+@listen: An unknown funeral painted at the scale of history, the medal that let it past the jury, and what fifteen months of restoration brought back.
+@brief: Standing with a friend in front of a vast, sober painting; curious at the mystery, quietly pleased at the jury twist, attentive and fresh at the restoration, firm at the end.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: FACTS_R1 011 (1849–1850; 315 × 668; given by Juliette Courbet 1881; room 7; restored in public in a glazed enclosure in room 7 May 2025 – Aug 2026, rehung 5 Aug 2026; old varnish "poorly applied, yellowed, and thickened"; burial of someone "of unknown identity", painted "as if it were a major historical event"; life-size, "a privilege usually reserved for biblical and mythological figures", not idealised; 1849 medal exempted him from the jury (A1); "manifesto of the realist movement"): https://www.musee-orsay.fr/en/artworks/un-enterrement-ornans-924 (OFF), https://www.musee-orsay.fr/en/magazine/2025-02-20/restoration-courbets-painting-burial-ornans (OFF), https://www.musee-orsay.fr/en/node/289948 (OFF), https://www.musee-orsay.fr/en/collections/courbet-dossier/biography.html (OFF, medal and jury exemption) ; restoration results (original colours, hidden edges, biggest restoration since 1881): https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/le-retour-d-un-enterrement-a-ornans-apres-quinze-mois-de-restauration-le-chef-d-uvre-de-courbet-retrouve-les-galeries-du-musee-d-orsay-3413114.html + https://www.finestresullarte.info/fr/musees/le-musee-d-orsay-fete-ses-40-ans-un-courbet-restaure-une-grande-exposition-consacree-a-mary-cassatt-et-le-mum-orsay-itinerant (SEC2) ; A1 Track 06 rows 1, 2, 6 (OK: Salon 1850–51)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 010 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] On ignore qui l'on enterre ici. Et pourtant, Gustave Courbet a peint cet enterrement de village comme un grand événement historique.
+
+C'était là toute son audace. À son époque, des figures de cette taille appartenaient à la peinture d'histoire. Le grandeur nature était un privilège habituellement réservé aux figures bibliques et mythologiques. Des dieux, des saints, des héros. Courbet offre ce privilège aux gens d'Ornans, réunis pour un enterrement. [pause] Et il n'en flatte pas un seul.
+
+Alors comment est-il entré au Salon de 1850 ? [lightly] Il n'a pas eu à le demander. L'année précédente, Courbet avait reçu une médaille, qui le dispensait du jury du Salon. Aucun jury ne pouvait arrêter ce tableau. Il est entré tout droit. [pause] Le musée le qualifie de manifeste du mouvement réaliste.
+
+Prenez le temps de le longer. Chaque figure a à peu près votre taille. Aucune n'est idéalisée. Ce sont des visages qu'on pourrait croiser au marché, réunis pour quelqu'un que personne ne peut nommer.
+
+[warmly] Et vous le voyez avec une fraîcheur que personne n'avait connue depuis longtemps. Pendant quinze mois, jusqu'à l'été 2026, il a été restauré en public, ici même, dans une enceinte vitrée. Il s'agissait de retirer d'anciennes couches de vernis, mal appliquées, jaunies et épaissies. [pause] Selon les comptes rendus du chantier, les couleurs d'origine sont revenues. Quelques centimètres de peinture sur les bords, cachés par d'anciens remontages, sont de nouveau visibles. C'était la plus grande restauration depuis l'entrée du tableau dans les collections nationales, un don de Juliette, la sœur de Courbet.
+
+[quietly] Un villageois sans nom, enterré à l'échelle de l'histoire. Voilà ce que voulait dire le mot réalisme ici, au commencement.
+
+L'autre géant de Courbet est dans cette même salle. Tournez-vous vers L'Atelier du peintre, et appuyez sur lecture.

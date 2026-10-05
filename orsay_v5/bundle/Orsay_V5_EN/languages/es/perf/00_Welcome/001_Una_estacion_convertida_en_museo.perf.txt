@@ -1,0 +1,32 @@
+@id: 001 · ES · Arrival · Level 0
+@section: Opening
+@room: Arrival · Level 0
+@type: ANCHOR
+@title: Una estación convertida en museo
+@where: Escuche esta pista al llegar, fuera del edificio o justo al entrar, antes de las salas. Siga las indicaciones del museo para entrar. No necesita colocarse en ningún lugar concreto.
+@what: The Musée d'Orsay, built by Victor Laloux as the Gare d'Orsay, a railway station and hotel for the 1900 Exposition universelle, and opened as a museum in December 1986.
+@listen: How a station dressed up as a palace nearly gave way to a hotel, and how it became a museum instead.
+@brief: Welcoming a friend at the door with the building's unlikely life story; warm and easy, amused at the disguise, quiet for the war years, quietly proud at the opening.
+@pace: medium
+@energy: 3→4→2→4
+@sources: FACTS_R2 001 (1900 Exposition; Laloux chosen 1898; built in two years, inaugurated 14 Jul 1900; metal hidden behind cut stone to suit the Louvre and Tuileries; Detaille quote; terminus to 1939, platforms too short; wartime parcels; Liberation returns; Welles's The Trial, Renaud-Barrault company, auctioneers (Drouot rebuild); hotel permit refused Feb 1971; listed 1973; Halles demolition; museum decided 1977 at Giscard d'Estaing's initiative; ACT-Architecture + Aulenti; inaugurated 1 Dec 1986 by Mitterrand, public 9 Dec; 40th anniversary): https://www.musee-orsay.fr/en/node/60 (OFF), https://www.musee-orsay.fr/en/collections/history-of-the-museum/the-architecture.html (OFF), https://www.musee-orsay.fr/sites/default/files/2021-07/De_La_Gare_Au_Musee.pdf (OFF), https://www.britannica.com/topic/Musee-dOrsay (Halles link, SEC2 with OFF) ; A1 Confirmed OK (12,000 t of metal) ; FACTS_R3 024 (Orléans railway company; station traces kept: metal structure, clocks): https://www.musee-orsay.fr/en/node/60 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 001 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1971, alguien quiso levantar aquí un gran hotel internacional. Se denegó el permiso de construcción. [pause] Sin esa negativa, no habría museo.
+
+Todo empezó como una estación de tren, construida para la Exposición Universal de 1900. La compañía ferroviaria de Orléans eligió al arquitecto Victor Laloux. En solo dos años, levantó una estación y un hotel. Se inauguraron el 14 de julio de 1900.
+
+[amused] Laloux tenía un problema delicado. Su estación debía estar junto al Louvre y las Tullerías sin avergonzar a nadie. Así que la construyó en metal, unas doce mil toneladas. Y luego escondió todo ese metal tras piedra tallada. [pause] El disfraz funcionó. El pintor Édouard Detaille escribió: «La estación es soberbia y parece un palacio de bellas artes».
+
+Su vida como gran terminal fue corta. La tracción eléctrica y los trenes más largos dejaron sus andenes demasiado cortos. Desde 1939, solo atendió las líneas de las afueras.
+
+[quietly] La guerra le dio un trabajo más triste. Desde aquí se enviaban paquetes a los prisioneros. Y en la Liberación, aquí llegaron de Alemania los prisioneros y los deportados.
+
+Después, se ganó la vida como pudo. Orson Welles filmó aquí El proceso. Se instaló una compañía de teatro, y también unos subastadores. El gran proyecto hotelero fue rechazado, y el propio hotel de la estación cerró. París acababa de perder los pabellones de Baltard, en Les Halles. Esa pérdida cambió la forma de ver edificios como este. La estación fue protegida como monumento histórico. Y por iniciativa de Valéry Giscard d'Estaing, el gobierno decidió convertirla en museo.
+
+Un equipo de arquitectos adaptó el edificio de Laloux, y Gae Aulenti dirigió el diseño de los interiores. [pause] El presidente Mitterrand inauguró el museo el primero de diciembre de 1986. Ocho días después, entró el público.
+
+[lightly] Cuarenta años después, la estación aún no se ha ido del todo. Los arquitectos dejaron a la vista su estructura metálica y sus grandes relojes. Los encontrará por el camino.
+
+Siga las indicaciones hacia el interior, hasta lo alto del pasillo central. Al llegar, pulse reproducir.

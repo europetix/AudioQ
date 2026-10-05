@@ -10,7 +10,7 @@
 | ☐ | Rooms for Pissarro, Degas's L'Absinthe, Renoir's Bal, Sisley, Cézanne (all in 29–35) | 030, 036–038, 041, 042 | Add the rooms |
 | ☐ | Van Gogh room 36: Bedroom and Dr Gachet there too | 043–048 | Fix the cues |
 | ☐ | Tokyo loans from about late Oct 2026: Gleaners, Starry Night, Arearea gone? Bellelli? Femmes de Tahiti and Les Muses still there? | 008, 021, 046, 053, 067 | Check the fallbacks work |
-| ☐ | Room 43 Pont-Aven; room 44 / Galerie Cachin: Cheval blanc, Oviri, the Snake Charmer back from its loans? | 051–056 | Fix the cues |
+| ☐ | Room 43 Pont-Aven; room 44 / Galerie Cachin: Cheval blanc, Oviri (the museum's Oviri page said "not currently exhibited" on 5 Oct 2026: check first), the Snake Charmer back from its loans? | 051–056 | Fix the cues |
 | ☐ | Room 45 Redon and the Talisman; room 46 Chat Noir; room 47 cinema | 057–060 | Fix the cues |
 | ☐ | Café Campana by rooms 38–39, and the way down to level 2 arriving near room 51 | 061, 062 | Fix the cue |
 | ☐ | Level 2 west → east: 51 → 59 → 55 → 72 → 71 → 70 → 68 → Terrasse Rodin → 64 → 63/65 → terraces: walkable in that order? | 062–074 | Re-order |

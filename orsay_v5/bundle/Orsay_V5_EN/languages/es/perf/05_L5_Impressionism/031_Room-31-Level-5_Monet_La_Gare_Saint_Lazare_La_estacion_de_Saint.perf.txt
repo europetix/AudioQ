@@ -1,0 +1,28 @@
+@id: 031 · ES · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: W
+@title: Monet — La Gare Saint-Lazare (La estación de Saint-Lazare)
+@where: Sala 31, nivel 5. El cuadro de Monet del interior de una estación de tren de París, con la nave llena de vapor y de luz.
+@what: Claude Monet, La Gare Saint-Lazare, The Saint-Lazare Station, 1877, oil on canvas, 75 × 105 cm. Caillebotte bequest, accepted by the State in 1896.
+@listen: How Monet found a subject on the edge of his new neighbourhood, and how a painter friend paid 685 francs for it and ended up giving it to France.
+@brief: A friend enjoying the irony of looking at a station from inside a station; brisk and lively about the steam, warm about Caillebotte, a light landing.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 031 (1877; 75 × 105; RF 2775; Monet had just left Argenteuil and settled in the Nouvelle Athènes district; asked permission to work inside the station that bounded it; after the effects of colour, light and steam rather than machines or travellers; Caillebotte bought it 10 March 1878 for 685 francs; Caillebotte bequest accepted 1896 for the Luxembourg; room 31): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF) ; A3 22.1 (one of the busiest stations in Paris then and now, SEC2) ; A3 22.3 (Monet made a whole series of it, SEC2) ; A3 24.6 (Caillebotte bequest accepted after years of dispute, OFF) ; FACTS_R3 024 (Gare d'Orsay inaugurated 1900): https://www.musee-orsay.fr/en/node/60 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 031 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Aquí tiene una pequeña ironía. Está a punto de mirar una estación de tren, y está de pie dentro de otra.
+
+Cuando Monet pintó esto, la estación de Orsay aún no existía. Saint-Lazare sí. Era una de las estaciones con más movimiento de París, y lo sigue siendo. En 1877, Monet acababa de dejar Argenteuil y de mudarse al barrio de la Nouvelle Athènes. La estación bordeaba ese barrio. Así que pidió permiso para instalarse a trabajar dentro.
+
+[pause] Lo dejaron entrar, y volvió una y otra vez. Hizo toda una serie sobre la estación.
+
+Ahora mire lo que eligió pintar, y lo que no. Aquí no hay un retrato cuidadoso de una locomotora, ni de la gente en los andenes. Monet buscaba otra cosa: el color, la luz y, sobre todo, el vapor. Deje que su mirada recorra la nave y siga el vapor. [pause] Ese es el verdadero tema. No la máquina, sino la atmósfera que fabrica la máquina.
+
+[warmly] El primero en comprarlo fue un pintor, Gustave Caillebotte. El 10 de marzo de 1878, le pagó a Monet 685 francos por él. Al morir, Caillebotte legó su colección a la nación. El Estado dudó durante años, y no la aceptó hasta 1896. Así llegó este lienzo a manos públicas.
+
+[lightly] Así que el cuadro de una estación, comprado por un pintor, cuelga ahora en otra estación. [pause] A Monet le habría gustado el itinerario.
+
+En esta misma sala, busque el cuadro del propio Caillebotte, Raboteurs de parquet, Los raspadores de parqué, y escuche su pista allí.

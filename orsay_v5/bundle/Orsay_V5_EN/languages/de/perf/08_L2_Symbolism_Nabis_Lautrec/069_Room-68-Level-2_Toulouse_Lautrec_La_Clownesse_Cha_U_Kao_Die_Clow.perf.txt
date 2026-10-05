@@ -1,0 +1,28 @@
+@id: 069 · DE · Room 68 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 68 · Level 2
+@type: R
+@title: Toulouse-Lautrec — La Clownesse Cha-U-Kao (Die Clownin Cha-U-Kao) und La Goulue
+@where: Saal 68 auf Ebene 2, der Toulouse-Lautrec-Saal. Cha-U-Kao ist ein kleines Bild auf Karton: eine Clownin in einem Séparée befestigt eine große gelbe Halskrause, mit grünen Wänden und einem roten Sofa. Die beiden monumentalen Budentafeln der Goulue sind vielleicht nicht in diesem Saal ausgestellt.
+@what: Henri de Toulouse-Lautrec, La Clownesse Cha-U-Kao (The Clown Cha-U-Kao), 1895, oil on cardboard, 58 × 43 cm, Isaac de Camondo bequest, 1911. Panneaux pour la baraque de la Goulue, à la Foire du Trône à Paris (Panels for La Goulue's Booth at the Foire du Trône), 1895, oil.
+@listen: A clown whose stage name is a pun, a stranger in a mirror, and two fairground panels that were cut up and pieced back together.
+@brief: Taking a friend backstage at the Paris shows of the 1890s; amused by the name, curious about the man in the mirror, then telling the panels' odd survival story with quiet relish.
+@pace: medium
+@energy: 3→3→4→2
+@sources: FACTS_R5 061a Cha-U-Kao (1895, oil on cardboard, 58 × 43, RF 2027, Camondo bequest 1911; dressing or private room, large yellow ruffle, yellow ribbon "almost ironically" tying her white toupee, portrait or mirror reflecting an elderly man who "could be a close friend, an admirer or a customer", green walls, red sofa; dancer and clown at the Nouveau Cirque and Moulin Rouge; name = "chahut" + "chaos"): https://www.musee-orsay.fr/en/artworks/clownesse-cha-u-kao-724 (OFF) ; FACTS_R5 061b La Goulue panels (1895; booth at the Foire du Trône; left La Danse au Moulin-Rouge with Valentin le Désossé, right La Danse mauresque; hung outside, exposed to the elements; bought by Viau 1900; cut up by the Hodebert gallery 1926; acquired 1929; reconstituted 1930; location unconfirmed, older plan-guides level 5): https://www.musee-orsay.fr/en/artworks/panneaux-pour-la-baraque-de-la-goulue-la-foire-du-trone-paris-3007 (OFF) ; FACTS_R5 068 (next cue: Balzac, Terrasse Rodin; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 069 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Ihr Künstlername klingt japanisch. In Wahrheit ist er ein Wortspiel.
+
+Cha-U-Kao war Tänzerin und Clownin im Nouveau Cirque und im Moulin Rouge. Laut gesprochen hört man zwei französische Wörter. Chahut, ein wilder, akrobatischer Tanz, der aus dem Cancan entstand. Und chaos, der Aufruhr, wenn sie die Bühne betrat.
+
+Lautrec zeigt sie nicht auf der Bühne, sondern in einem Séparée. Sie müht sich, eine große gelbe Halskrause oben an ihrem Kostüm zu befestigen. Die Krause füllt fast das ganze Bild. Ein gelbes Band hält ihr weißes Toupet zusammen, fast ironisch, sagt das Museum. [pause] Grüne Wände, ein rotes Sofa und überall schnelle Pinselstriche.
+
+[curious] Schauen Sie nun oberhalb des Tischchens. In einem Spiegel, oder vielleicht einem Porträt, ist ein älterer Mann. Vielleicht ein enger Freund, ein Verehrer oder ein Kunde.
+
+Der andere große Star von Lautrecs Paris war La Goulue. 1895 wollte sie eine eigene Bude auf der Foire du Trône, dem Pariser Jahrmarkt. Lautrec malte zwei monumentale Tafeln für den Eingang. Auf der einen tanzt sie im Moulin Rouge mit Valentin le Désossé, dem Paar, das diese Tänze berühmt machte. Auf der anderen führt sie den sogenannten maurischen Tanz auf, den sie drinnen bot.
+
+[pause] Diese Tafeln standen draußen in Wind und Wetter, bis ein Sammler sie rettete. Dann zerschnitt ein Händler sie in Stücke, um sie zu verkaufen. 1930 setzte der Staat sie wieder zusammen. Sie hängen nicht immer neben Cha-U-Kao. Fehlen sie hier, nehmen Sie die Geschichte mit.
+
+[pause] Gehen Sie nun über die Skulpturenterrasse über dem Mittelschiff nach Osten, bis zur Terrasse Rodin bei Saal 67, am anderen Ende dieser Etage. Suchen Sie Rodins hoch aufragenden Balzac aus Gips. Spielen Sie dort den passenden Titel ab.

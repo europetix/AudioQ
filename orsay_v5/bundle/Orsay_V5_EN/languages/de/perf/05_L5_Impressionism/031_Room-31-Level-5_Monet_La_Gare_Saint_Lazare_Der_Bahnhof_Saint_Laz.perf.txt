@@ -1,0 +1,28 @@
+@id: 031 · DE · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: W
+@title: Monet — La Gare Saint-Lazare (Der Bahnhof Saint-Lazare)
+@where: Saal 31, Ebene 5. Monets Gemälde vom Inneren eines Pariser Bahnhofs, die Halle voller Dampf und Licht.
+@what: Claude Monet, La Gare Saint-Lazare, The Saint-Lazare Station, 1877, oil on canvas, 75 × 105 cm. Caillebotte bequest, accepted by the State in 1896.
+@listen: How Monet found a subject on the edge of his new neighbourhood, and how a painter friend paid 685 francs for it and ended up giving it to France.
+@brief: A friend enjoying the irony of looking at a station from inside a station; brisk and lively about the steam, warm about Caillebotte, a light landing.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 031 (1877; 75 × 105; RF 2775; Monet had just left Argenteuil and settled in the Nouvelle Athènes district; asked permission to work inside the station that bounded it; after the effects of colour, light and steam rather than machines or travellers; Caillebotte bought it 10 March 1878 for 685 francs; Caillebotte bequest accepted 1896 for the Luxembourg; room 31): https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897 (OFF) ; A3 22.1 (one of the busiest stations in Paris then and now, SEC2) ; A3 22.3 (Monet made a whole series of it, SEC2) ; A3 24.6 (Caillebotte bequest accepted after years of dispute, OFF) ; FACTS_R3 024 (Gare d'Orsay inaugurated 1900): https://www.musee-orsay.fr/en/node/60 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 031 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Hier eine kleine Ironie zum Genießen. Sie betrachten gleich einen Bahnhof, und Sie stehen in einem.
+
+Als Monet dies malte, gab es den Gare d'Orsay noch nicht. Saint-Lazare gab es schon. Er war einer der belebtesten Bahnhöfe von Paris, und er ist es bis heute. 1877 war Monet gerade aus Argenteuil weggezogen. Er wohnte nun im Viertel Nouvelle Athènes, und der Bahnhof lag direkt an dessen Rand. Also bat er um die Erlaubnis, drinnen zu arbeiten.
+
+[pause] Er bekam sie und kam immer wieder. Er malte eine ganze Serie des Bahnhofs.
+
+Schauen Sie nun, was er malte und was nicht. Hier finden Sie kein sorgfältiges Porträt einer Lokomotive. Auch keines der Menschen auf den Bahnsteigen. Monet ging es um etwas ganz anderes: die Farbe, das Licht und vor allem den Dampf. [pause] Lassen Sie den Blick durch die Halle wandern und folgen Sie dem Dampf. Das ist das eigentliche Thema. Nicht die Maschine selbst, sondern das Wetter, das sie macht.
+
+[warmly] Der erste Käufer war ein Maler, Gustave Caillebotte. Am zehnten März 1878 zahlte er Monet sechshundertfünfundachtzig Franc dafür. Bei seinem Tod vermachte Caillebotte seine Sammlung der Nation. Der Staat zögerte jahrelang und nahm sie erst 1896 an. So kam diese Leinwand in öffentliche Hand.
+
+[lightly] Ein Bild von einem Bahnhof, gekauft von einem Maler, hängt nun also in einem anderen Bahnhof. Monet hätte dieser Fahrplan gefallen.
+
+[pause] Suchen Sie im selben Saal Caillebottes eigenes Gemälde, Raboteurs de parquet, Die Parketthobler. Spielen Sie dort den passenden Titel ab.

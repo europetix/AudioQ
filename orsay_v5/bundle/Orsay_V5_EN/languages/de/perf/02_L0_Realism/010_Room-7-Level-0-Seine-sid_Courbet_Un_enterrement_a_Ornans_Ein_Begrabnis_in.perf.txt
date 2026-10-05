@@ -1,0 +1,28 @@
+@id: 010 · DE · Room 7 · Level 0
+@section: Realism
+@room: Room 7 · Level 0 · Seine side
+@type: W
+@title: Courbet — Un enterrement à Ornans (Ein Begräbnis in Ornans)
+@where: In Saal 7 auf der Seine-Seite von Ebene 0, vor der riesigen Leinwand, mehr als sechs Meter breit, mit einer Menge lebensgroßer Dorfbewohner bei einer Beerdigung. Nach seiner Restaurierung, abgeschlossen im August 2026, hängt es wieder an der Wand.
+@what: Gustave Courbet, Un enterrement à Ornans, A Burial at Ornans, 1849–1850, oil on canvas, 315 × 668 cm. Given by the artist's sister, Juliette Courbet, in 1881.
+@listen: An unknown funeral painted at the scale of history, the medal that let it past the jury, and what fifteen months of restoration brought back.
+@brief: Standing with a friend in front of a vast, sober painting; curious at the mystery, quietly pleased at the jury twist, attentive and fresh at the restoration, firm at the end.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: FACTS_R1 011 (1849–1850; 315 × 668; given by Juliette Courbet 1881; room 7; restored in public in a glazed enclosure in room 7 May 2025 – Aug 2026, rehung 5 Aug 2026; old varnish "poorly applied, yellowed, and thickened"; burial of someone "of unknown identity", painted "as if it were a major historical event"; life-size, "a privilege usually reserved for biblical and mythological figures", not idealised; 1849 medal exempted him from the jury (A1); "manifesto of the realist movement"): https://www.musee-orsay.fr/en/artworks/un-enterrement-ornans-924 (OFF), https://www.musee-orsay.fr/en/magazine/2025-02-20/restoration-courbets-painting-burial-ornans (OFF), https://www.musee-orsay.fr/en/node/289948 (OFF), https://www.musee-orsay.fr/en/collections/courbet-dossier/biography.html (OFF, medal and jury exemption) ; restoration results (original colours, hidden edges, biggest restoration since 1881): https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/le-retour-d-un-enterrement-a-ornans-apres-quinze-mois-de-restauration-le-chef-d-uvre-de-courbet-retrouve-les-galeries-du-musee-d-orsay-3413114.html + https://www.finestresullarte.info/fr/musees/le-musee-d-orsay-fete-ses-40-ans-un-courbet-restaure-une-grande-exposition-consacree-a-mary-cassatt-et-le-mum-orsay-itinerant (SEC2) ; A1 Track 06 rows 1, 2, 6 (OK: Salon 1850–51)
+@lang: de
+@translation: from the fact-checked English Orsay V5 010 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Niemand weiß, wessen Begräbnis das ist. Und doch malte Gustave Courbet diese Dorfbeerdigung wie ein großes historisches Ereignis.
+
+Darin lag das Wagnis. Figuren in dieser Größe gehörten damals zur Historienmalerei. Lebensgroße Figuren waren ein Privileg, meist biblischen und mythologischen Gestalten vorbehalten. Göttern, Heiligen, Helden. Courbet gab dieses Privileg den Leuten von Ornans, versammelt zu einer Beerdigung. [pause] Und er schmeichelte keinem einzigen von ihnen.
+
+Wie kam das Bild also in den Salon von 1850? [lightly] Er musste nicht fragen. Im Jahr davor hatte Courbet eine Medaille gewonnen. Damit war er von der Jury des Salons befreit. Keine Jury konnte dieses Bild aufhalten. Es spazierte einfach hinein. Das Museum nennt es ein Manifest der realistischen Bewegung.
+
+[pause] Nehmen Sie sich einen Moment und gehen Sie an ihm entlang. Jede Figur ist ungefähr so groß wie Sie. Keine ist idealisiert. [pause] Diese Gesichter könnten Ihnen auf dem Markt begegnen. Versammelt für jemanden, den keiner von uns benennen kann.
+
+[warmly] Und Sie sehen es frischer als irgendjemand seit langer Zeit. Fünfzehn Monate lang, bis zum Sommer 2026, wurde es öffentlich restauriert. Genau hier in diesem Saal, in einem gläsernen Gehäuse. Ziel war es, alte Firnisschichten abzunehmen. Sie waren schlecht aufgetragen, vergilbt und verdickt. Berichte über die Arbeit beschreiben, wie die ursprünglichen Farben zurückkehren. Sie beschreiben auch ein paar Zentimeter Malerei an den Rändern. Frühere Neuaufspannungen hatten sie verdeckt, nun sind sie wieder sichtbar. Es war die größte Restaurierung, seit das Bild in die nationalen Sammlungen kam. Es war ein Geschenk von Courbets Schwester Juliette.
+
+[quietly] Ein namenloser Dorfbewohner, begraben im Maßstab der Geschichte. Das bedeutete das Wort Realismus hier, am Anfang.
+
+Courbets anderer Riese hängt im selben Saal. Wenden Sie sich L'Atelier du peintre zu, Das Atelier des Malers, und starten Sie die Wiedergabe.

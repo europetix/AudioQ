@@ -1,0 +1,26 @@
+@id: 047 · DE · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: R
+@title: Van Gogh — L'Église d'Auvers-sur-Oise (Die Kirche von Auvers)
+@where: In Saal 36 auf Ebene 5, vor Van Goghs Bild der Dorfkirche von Auvers, von der Chorseite gesehen, die Fenster als tiefblaue Flecken unter einem Kobalthimmel.
+@what: Vincent van Gogh, L'Église d'Auvers-sur-Oise, vue du chevet, The Church at Auvers-sur-Oise, seen from the apse, painted 4–8 June 1890, oil on canvas, 93 × 74.5 cm. Acquired in 1952 with the support of Paul Gachet and an anonymous Canadian donation.
+@listen: What Van Gogh himself wrote about this church, the colour of its windows, and the stranger who helped bring it to the museum.
+@brief: Reading a painter's own words to a friend in front of the picture; quietly attentive, warm at the donor, then a last close look at the blues.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 047 (4–8 June 1890; 93 × 74.5; RF 1951 42; Gachet, then his son until 1951; acquired 1952 "with the support of Paul Gachet and participation of an anonymous Canadian donation"; "the only painting representing in full the church in Auvers"; room 36): https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755 (OFF) ; A2 16.2–16.3 letter 879, 5 June 1890 (Nuenen quote; windows "ultramarine blue patches", sky "deep and simple blue of pure cobalt"): vangoghletters.org/vg/letters/let879 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 047 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Vor einer Kirche in einem französischen Dorf ertappte sich Van Gogh dabei, an einen Turm in Holland zu denken.
+
+Er malte dieses Bild in der ersten Juniwoche 1890, kurz nach seiner Ankunft in Auvers. Am fünften Juni, mitten in der Arbeit, beschrieb er es in einem Brief. Es sei „fast dasselbe wie die Studien, die ich in Nuenen vom alten Turm und dem Friedhof gemacht habe.“ Nur sei jetzt, so schrieb er weiter, „die Farbe wahrscheinlich ausdrucksvoller, prächtiger.“
+
+Nuenen war ein niederländisches Dorf, in dem er Jahre zuvor gemalt hatte. Nun kehrte dieselbe Art von Motiv zu ihm zurück, in neuer Farbe. [pause] Und dies ist das einzige Gemälde, auf dem er die Kirche von Auvers ganz zeigt.
+
+[warmly] Nach seinem Tod blieb es bei Doktor Gachet, dann beim Sohn des Arztes. 1952 kam es in die Nationalsammlung. Es war nicht einfach ein Geschenk. Der Sohn unterstützte den Ankauf. Und ebenso jemand, dessen Name nie genannt wurde: ein anonymer Spender aus Kanada. Ein Fremder, der einer Dorfkirche ins Museum half.
+
+[pause] Schauen Sie nun auf die Fenster. Im selben Brief schreibt Van Gogh, die Kirchenfenster wirkten „wie ultramarinblaue Flecken“. Und zwar vor „einem Himmel in einem tiefen und schlichten Blau aus reinem Kobalt.“ Sehen Sie sie also so, wie er sie sah. [quietly] Zwei Blautöne, einer im anderen.
+
+[pause] Bleiben Sie in Saal 36 und suchen Sie das Bildnis des Arztes selbst: ein melancholischer Mann in kalten Farben, mit einem Zweig Fingerhut. Spielen Sie dort den passenden Titel ab.

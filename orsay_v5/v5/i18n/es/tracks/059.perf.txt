@@ -1,0 +1,30 @@
+@id: 059 · ES · Room 46 · Level 5
+@section: Post-Impressionism
+@room: Room 46 · Le cabaret du Chat noir · Level 5
+@type: R
+@title: Le cabaret du Chat noir — el teatro de sombras
+@where: En la sala 46 del nivel 5, Le cabaret du Chat noir, después de la sala de Redon y los nabis. Busque las siluetas planas recortadas en zinc que se usaban en el teatro de sombras del cabaret. Las figuras expuestas cambian; compruébelo allí mismo.
+@what: Cut and painted zinc silhouettes from the shadow theatre of the Cabaret du Chat Noir, Paris, 1886–1896, made under Henri Rivière.
+@listen: A Montmartre cabaret run by a showman, and a shadow theatre that looked forward to the cinema.
+@brief: A friend telling a lively Montmartre story with a showman's twinkle; brisk and playful, settling at the end.
+@pace: medium-fast
+@energy: 3→4→3
+@sources: FACTS_R6 (d) (zinc silhouettes projected at the Cabaret du Chat Noir shown since the 10 Sep 2019 reopening of the post-Impressionist rooms, "where creators from all horizons met": Orsay article 17592, OFF ; Rodolphe Salis created, ran and hosted the cabaret at the foot of Montmartre, OFF; SEC1 BnF details (November 1881, boulevard Rochechouart, rue de Laval) not used ; journal, chanson "really born at the Chat Noir", shadow theatre with Henri Rivière, 45 plays: Orsay 1992 exhibition text, OFF ; cut and painted zinc silhouettes 1886–1896, artwork 123419, OFF ; Rivière aged 22 in 1886, moving zinc figures lit onto a screen, coloured backdrops from colour filters, texts read to music, wind and smoke effects; Rivière's photographs 1887–1894 of stagehands sliding figures for Caran d'Ache's L'Épopée, artwork 22094; Eiffel Tower photographed from its top March 1889: "Cinq choses à savoir sur Henri Rivière", node 282042, OFF) ; room 46 "Le cabaret du Chat noir": findings/M_planguide_ete_2026.md (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 059 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Al pie de Montmartre, un hombre del espectáculo tuvo un cabaret llamado el Gato Negro, Le Chat Noir.
+
+Se llamaba Rodolphe Salis. Creó el local, lo dirigió y era su anfitrión. Allí se reunían creadores de todos los horizontes.
+
+[lightly] El Chat Noir se hizo famoso por tres cosas. Primero, su propia revista, hoy vista como un eslabón clave en la historia del cómic. Segundo, la canción de los chansonniers, que nació de verdad allí. [pause] Y tercero, el teatro de sombras.
+
+[pause] Salis confió ese teatro a Henri Rivière en 1886. Rivière tenía veintidós años. Llevó la técnica al límite, con cuarenta y cinco obras.
+
+Lo que ve aquí son los actores. Figuras planas, recortadas en zinc y pintadas. Detrás de una pantalla, los tramoyistas las deslizaban mientras la luz las proyectaba sobre ella. Filtros de colores teñían los decorados. Se leían textos con música, e incluso había efectos de viento y de humo.
+
+[curious] Rivière fotografió sus propios bastidores. El museo guarda sus fotos de tramoyistas deslizando figuras de zinc para L'Épopée, un espectáculo de Caran d'Ache. [amused] En marzo de 1889 subió a la Torre Eiffel con amigos del Chat Noir. Y la fotografió desde la cima.
+
+[warmly] Luz, una pantalla, imágenes en movimiento y un público a oscuras. [pause] Cuesta no ver lo que estaba por llegar.
+
+Pase a la sala 47, dedicada a los primeros años del cine. Escuche su pista allí.

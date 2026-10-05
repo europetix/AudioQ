@@ -326,7 +326,7 @@ Find the tall, slim figure standing in the middle with a palette. That's Bazille
 
 So this is a studio picture with two painters' hands in it. It comes from the same circle that Fantin-Latour gathered round Manet in his big group portrait in the Seine gallery, and Bazille is in that one too. Both pictures date from the same year.
 
-That same year, war came. Within a few months, Bazille was dead, killed in the Franco-Prussian War at twenty-six. He never saw the group exhibitions his friends would put on a few years later. Long afterwards, his brother Marc left this painting to the nation.
+That same year, war came. Within a few months, Bazille was dead, killed in the Franco-Prussian War at twenty-eight. He never saw the group exhibitions his friends would put on a few years later. Long afterwards, his brother Marc left this painting to the nation.
 
 So what you're looking at is the studio of the one who didn't get the chance. Full of friends, and of pictures still to come.
 

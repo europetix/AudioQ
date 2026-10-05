@@ -1,0 +1,28 @@
+@id: 007 · FR · Room 4 · Level 0
+@section: Realism
+@room: Room 4 · Level 0 · Seine side
+@type: R
+@title: Daumier — Les Célébrités du Juste Milieu
+@where: Dans la salle 4, côté Seine, au niveau 0, devant les petits bustes en argile peinte d'hommes de la monarchie de Juillet. Certains atteignent à peine la hauteur d'une main. Le nombre de bustes exposés peut varier.
+@what: Honoré Daumier, Les Célébrités du Juste Milieu, Celebrities of the Juste Milieu, 1832–1835, busts in unbaked clay painted in oil. Thirty-six survive, all in this museum.
+@listen: Who ordered these caricature heads, why they survived, and the nicknames that went with them.
+@brief: Sharing a political joke nearly two centuries old with a friend; amused and a little conspiratorial, enjoying the nicknames, never mocking the visitor.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R1 008 (1832–1835; unbaked clay painted in oil; Philipon 16.4 cm, Guizot 22.5 cm; about forty made, thirty-six survive, all at Orsay; several bought 1980; repaired by Fix-Masseau 1927 before bronze casts by Sagot-Le Garrec; commissioned by Charles Philipon, founder of La Caricature and Le Charivari, against the July Monarchy; models for Daumier's lithographs; only 26 sitters held a parliamentary mandate; nicknames Philipon "Le Rieur édenté", Guizot "L'Ennuyeux", Dupin "Le Prédicateur"; room 4): https://www.musee-orsay.fr/en/program/whats-on/exhibitions/presentation/daumier-celebrities-juste-milieu (OFF), https://www.musee-orsay.fr/en/artworks/charles-philipon-6335 (OFF), https://www.musee-orsay.fr/en/artworks/francois-pierre-guillaume-guizot-656 (OFF), https://www.musee-orsay.fr/en/artworks/andre-marie-jean-jacques-dupin-6356 (OFF) ; FACTS_R1 003 (Couture and the July Monarchy) (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 007 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] L'homme qui a commandé ces petites têtes figure parmi elles. Son surnom : le Rieur édenté.
+
+C'est Charles Philipon, fondateur des journaux satiriques La Caricature et Le Charivari, qui attaquaient la monarchie de Juillet. Le même régime que Couture égratignera avec son orgie romaine, quinze ans plus tard. Philipon demande à Honoré Daumier de modeler les hommes publics du moment.
+
+Daumier les façonne dans l'argile, sans jamais les cuire au four. Il peint l'argile crue à l'huile, et se sert des têtes comme modèles pour ses lithographies. Sur la quarantaine de bustes réalisés, [pause] trente-six ont survécu, et tous sont dans ce musée.
+
+[conspiratorial] On les appelle les Célébrités du Juste Milieu, et non simplement des parlementaires. Il y a une bonne raison. [pause] Seuls vingt-six de ces hommes avaient vraiment un siège.
+
+L'argile crue est fragile, et ces têtes ont eu besoin de soins. Dans les années 1920, un sculpteur les a réparées, avant qu'on en tire des bronzes. Plusieurs ont été achetées pour la collection en 1980.
+
+[lightly] Approchez-vous, car elles sont petites. La tête de Philipon mesure environ seize centimètres, celle de Guizot environ vingt-deux. Les surnoms sont venus avec elles. Guizot, c'est l'Ennuyeux, et Dupin, le Prédicateur. Cherchez-les, s'ils sont exposés. [pause] Daumier n'avait pas besoin de légendes. Les visages font tout le travail.
+
+Ensuite, l'atmosphère change complètement. Dans la salle 5, cherchez le tableau de Millet où trois femmes glanent dans un champ : Des glaneuses. Si ce mur est vide, le tableau est prêté, mais écoutez quand même sa piste. Elle vous mènera vers un autre Millet tout proche.

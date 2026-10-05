@@ -1,0 +1,24 @@
+@id: 061 · ES · Café Campana · Level 5
+@section: Post-Impressionism
+@room: Café Campana · by rooms 38–39 · Level 5
+@type: R
+@title: Detrás del gran reloj
+@where: Junto al segundo gran reloj de la fachada, en el nivel 5, cerca de las salas 38 y 39, a la entrada del Café Campana. Escuche desde la entrada; no hace falta entrar.
+@what: The Café Campana, opened in 2011 with the renovated Impressionist gallery and designed by the Brazilian designers the Campana brothers, set behind one of the station's great exterior clocks.
+@listen: The underwater café behind the second great clock, a moment to sit down, and the way down to level two.
+@brief: A breather with a friend at the end of a long, rich gallery; light and pleased by the oddity of the place, then unhurried, then a calm, clear send-off downstairs.
+@pace: medium
+@energy: 3→2→2
+@sources: FACTS_R4 059 + A3 31.3, 31.7, 31.8, 31.11 (Café Campana on level 5, "at the exit of the Impressionist gallery … behind one of the great exterior clocks"; the second clock of the floor, A3 31.3 wording "behind the second clock"; opened 2011 with the renovated gallery; Campana brothers, Brazilian designers; aquatic decor inspired by Émile Gallé; organic seating, golden "scale" chandeliers, orange coral evocations; no hours, no menu): https://www.musee-orsay.fr/fr/visite/restauration (OFF) ; FACTS_R5 066a (Gallé on level 2, room 63; OFF) ; FACTS_R5 060 (Jane Avril dansant: tall, narrow, on cardboard, thin paint, broad strokes, two figures behind; artwork page level 2 room 68, older plan-guides Lautrec on level 5, so no room number in the cue): https://www.musee-orsay.fr/en/artworks/jane-avril-dansant-7998 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 061 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Al comienzo de esta planta, usted miró a través de un gran reloj. Aquí está el segundo. [pause] Y detrás, alguien ha puesto el mar.
+
+Es el Café Campana. Abrió en 2011, cuando se renovaron estas salas. Lo diseñaron dos hermanos brasileños, los Campana. [amused] Lo imaginaron como un mundo submarino. Mire desde la entrada. Asientos curvos, orgánicos. Lámparas doradas como escamas de pez. Toques de coral naranja. [pause] Un fondo marino, en lo alto de una estación de tren.
+
+[warmly] Toda la sala es un homenaje al vidriero Émile Gallé. Recuerde su nombre, porque en el nivel 2 verá sus propios vidrios.
+
+[quietly] También es un buen momento para detenerse. Desde aquel primer reloj, ha ido desde los primeros impresionistas hasta Van Gogh, Seurat, Gauguin, Redon y las primeras películas. Es mucho mirar. Si quiere sentarse unos minutos, este es el lugar. [long pause]
+
+Cuando quiera, baje al nivel 2 en ascensor o por las escaleras. Busque la sala 51, la Salle des fêtes: el antiguo salón de baile del hotel, con sus espejos, sus lámparas de araña y sus paneles pintados en lo alto de las paredes. Colóquese en el centro, y escuche su pista allí.

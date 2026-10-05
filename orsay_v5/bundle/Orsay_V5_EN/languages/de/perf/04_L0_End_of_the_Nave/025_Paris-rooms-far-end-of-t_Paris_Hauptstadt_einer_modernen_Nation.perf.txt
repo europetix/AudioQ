@@ -1,0 +1,28 @@
+@id: 025 · DE · Paris rooms · Level 0
+@section: Nave End
+@room: Paris rooms · far end of the nave · Level 0
+@type: R
+@title: Paris, Hauptstadt einer modernen Nation
+@where: In den Sälen am hinteren Ende des Mittelschiffs auf Ebene 0 mit dem Titel « Paris, capitale d'une nation moderne », Paris, Hauptstadt einer modernen Nation, bei den Rolltreppen zu Ebene 5. Suchen Sie Victor Navlets große gemalte Ansicht der ganzen Stadt von oben.
+@what: Rooms opened in May 2022 on the transformation of Paris under the Second Empire, centred on Victor Navlet's Vue générale de Paris, prise de l'Observatoire en ballon, General View of Paris from the Observatory in a Balloon, 1855, and on Garnier's Opéra.
+@listen: What these rooms set out to show, and a bird's-eye view of Paris from a balloon.
+@brief: Floating over Paris with a friend in front of a big view of the city; warm and unhurried, a little delighted by the balloon, reflective at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R2 022 and G §1 "Paris, capitale d'une nation moderne" (new rooms on level 0 at the back of the nave, opened 24 May 2022; Second Empire transformation of Paris through paintings, drawings, models and sculpture; centred on Victor Navlet's large Vue générale de Paris, prise de l'Observatoire en ballon, 1855, and Garnier's Opéra): https://www.musee-orsay.fr/en/articles/new-rooms-paris-capital-modern-nation-214273 (OFF, via audit G) ; Haussmann link: FACTS_R2 020, https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 (OFF). Minimal-facts track per audit G. ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 025 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Stellen Sie sich vor, Sie schweben in einem Ballon über Paris. Unter Ihnen breitet sich die ganze Stadt aus. [pause] Genau diesen Blick bietet Ihnen dieses Gemälde.
+
+Es stammt von Victor Navlet, und schon sein Titel ist ein kleines Abenteuer. Vue générale de Paris, prise de l'Observatoire en ballon. Eine Gesamtansicht von Paris, vom Observatorium aus, in einem Ballon. Es ist auf 1855 datiert.
+
+[pause] Keine Straßenecke, kein einzelnes Denkmal, sondern die ganze Stadt auf einmal. Nehmen Sie sich einen Moment Zeit. Wie viel von Paris erkennen Sie aus der Luft?
+
+Diese Säle tragen einen großen Namen. Paris, capitale d'une nation moderne. Paris, Hauptstadt einer modernen Nation. Sie wurden im Mai 2022 eröffnet und erzählen eine einzige Geschichte. Die Verwandlung von Paris im Zweiten Kaiserreich, in Gemälden, Zeichnungen, Modellen und Skulpturen.
+
+[curious] Im Mittelpunkt der Säle stehen zwei Dinge. Das eine ist die Stadt als Ganzes, von oben, in Navlets Ansicht. Das andere ist ein einziges großes Gebäude, Garniers Opéra. Ihr sind Sie schon zweimal begegnet. Carpeaux' Tänzerinnen stammen von ihrer Fassade. Und das Modell unter dem Boden zeigte ihr Viertel, festgehalten im Jahr 1914.
+
+[quietly] Nehmen Sie beides zusammen, und Sie haben das Porträt einer Hauptstadt, die sich neu baut. Der Blick vom Himmel. [pause] Und ein Gebäude auf dem Boden.
+
+Eine letzte Station auf dieser Ebene. Ganz am Ende des Mittelschiffs, zwischen den beiden Türmen, blickt Rodins Höllentor den ganzen Gang hinunter. Gehen Sie hin und stellen Sie sich davor, für die letzte Geschichte des Erdgeschosses.

@@ -1,0 +1,30 @@
+@id: 064 · DE · Room 55 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 55 · History painting · Level 2
+@type: W
+@title: Camille Claudel — L'Âge mûr (Das reife Alter)
+@where: Saal 55 auf Ebene 2, der Saal der Historienmalerei am Westende der Etage. Suchen Sie eine Bronzegruppe aus drei Figuren auf einem langen Sockel: ein älterer Mann, von einer älteren Frau fortgezogen, und eine junge Frau, die kniend nach ihm greift.
+@what: Camille Claudel, L'Âge mûr, Maturity, about 1902, bronze group in three parts, 114 × 163 × 72 cm. The first bronze, cast in the artist's lifetime; at Orsay since 1982.
+@listen: The private patron who paid for the bronze the State never ordered, and why Claudel's brother saw her soul being torn away in it.
+@brief: Telling a painful true story to a friend, carefully and without melodrama; quiet at the start, steady through the facts, reverent at the brother's words, very soft at the end.
+@pace: slow
+@energy: 2→3→2
+@sources: FACTS_R5 069 Claudel — L'Âge mûr (c. 1902, bronze, three parts, 114 × 163 × 72 cm, first bronze, cast in her lifetime, entered Orsay 1982; room 55; after the break-up Rodin tried to help through an intermediary and obtained a State commission 1895; bronze never ordered, plaster never delivered; Captain Tissier commissioned the first bronze 1902; Orsay holds her letters to Tissier, one saying F. Rudier asked 6,000 francs; Orsay reading: Rodin's hesitation between his former mistress "who was to prevail" and Claudel, who bends forward to hold him; "L'Implorante"; "The man at the end of his maturity is vertiginously drawn by age while he extends a useless hand towards youth"; flying draperies; Paul Claudel quote verbatim): musee-orsay.fr oeuvres-commentées lage-mur-107 ; https://www.musee-orsay.fr/en/program/whats-on/exhibitions/lage-mur-maturity-camille-claudel ; letters …-266518, …-266515 (OFF) ; A2 12.4 (Rodin "suppressed" it is CONTRA) and Confirmed OK (interned 1913 aged 48, died 1943) (OFF) ; FACTS_R5 062 (next cue: Vuillard, room 72) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 064 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Ihr Bruder Paul sagte, was Sie hier sehen, sei eine Frau, der man die Seele aus dem Leib reißt.
+
+Diese Bronze schuf Camille Claudel nach ihrer Trennung von Auguste Rodin. Nach dem Bruch versuchte Rodin, ihr über einen Mittelsmann zu helfen. 1895 verschaffte er ihr für diese Gruppe einen Auftrag des Staates.
+
+Doch der Auftrag führte zu nichts. Die Bronze wurde nie bestellt, das Gipsmodell nie geliefert. [pause] Am Ende kam das Geld von einem privaten Förderer, einem Hauptmann Tissier. Er gab 1902 die erste Bronze in Auftrag. Die Gruppe vor Ihnen ist diese erste Bronze, zu ihren Lebzeiten gegossen.
+
+[pause] Sehen Sie sich nun die drei Figuren an. Das Museum deutet die Gruppe als Rodins Zögern zwischen zwei Frauen. Die eine ist seine frühere Geliebte, die Frau, die sich durchsetzen sollte. Sie zieht den Mann fort. Die andere ist Claudel selbst, nach vorn gebeugt, sie will ihn halten. Claudel nannte die kniende Figur l'Implorante, die Flehende.
+
+[curious] Folgen Sie dem Arm des Mannes. Er steht am Ende seiner Reife, vom Alter fortgezogen. Er streckt der Jugend eine nutzlose Hand entgegen. Und sehen Sie die wehenden Gewänder. Sie machen die ganze Gruppe schneller, als Bronze es eigentlich dürfte.
+
+[reverent] Paul Claudel drückte es so aus. „Meine Schwester Camille, flehend, gedemütigt auf den Knien, diese großartige, diese stolze Frau, und wissen Sie, was ihr in diesem Augenblick vor Ihren Augen entrissen wird? Es ist ihre Seele.“
+
+[long pause] [quietly] 1913, mit achtundvierzig Jahren, wurde Camille Claudel in eine Anstalt eingewiesen. Sie kam nie wieder heraus. Sie starb dreißig Jahre später. Doch hier, in Bronze, streckt die kniende Frau noch immer die Hände aus.
+
+Wenn Sie bereit sind, gehen Sie zu Saal 72, ebenfalls am Westende, zu den Nabis. Suchen Sie eine Reihe großer Gartenszenen in sanftem Beige, Grün und Blau, über Eck gehängt. Spielen Sie dort den passenden Titel ab.

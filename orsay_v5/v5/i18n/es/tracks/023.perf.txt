@@ -1,0 +1,26 @@
+@id: 023 · ES · Opéra space · Level 0
+@section: Nave End
+@room: End of the nave · Opéra space · Level 0
+@type: R
+@title: El barrio de la Ópera en 1914
+@where: En el espacio de la Ópera, al fondo de la nave, nivel 0: una maqueta de las calles que rodean la Ópera, de seis metros y medio de lado, vista desde arriba bajo un suelo transparente. De octubre de 2026 a mediados de enero de 2027 se monta una exposición temporal alrededor de estas maquetas, así que el acceso o la presentación pueden cambiar. Siga las indicaciones del museo.
+@what: Rémi Munier, with Eric de Leusse, Jean-Luc Bethmont and Borani Hoy, Maquette du quartier de l'Opéra, arrêtée en l'état en 1914, model of the Opéra quarter as it stood in 1914, 1984–86, resin under plexiglass, 650 × 650 cm.
+@listen: A whole quarter of Paris stopped in one year, and why the museum built it.
+@brief: Standing over a city with a friend, pointing things out; light and pleased at first, then quietly thoughtful at the date.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: FACTS_R2 020 Opéra quarter model (Munier with de Leusse, Bethmont, Hoy; 1984–86; resin under plexiglas, 650×650 cm; under a transparent floor, seen from above, as in 1914; Opéra space laid out by Richard Peduzzi; purpose: the Opéra and its quarter "profoundly transformed by the prefect Haussmann's major public works"; gift 1989; hook "the city frozen in the year the war began"; Peduzzi exhibition 6 Oct 2026 – 17 Jan 2027): https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 , https://www.musee-orsay.fr/en/node/377998 , https://www.musee-orsay.fr/en/node/80 (OFF) ; G §1 Opéra space (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 023 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] En 1914 empezó la guerra. Este pequeño París nunca llega a verla.
+
+Bajo sus pies, todo un barrio de la ciudad se ha detenido. Las calles que rodean la Ópera están congeladas tal como eran aquel año. El título completo de la maqueta lo dice. Maquette du quartier de l'Opéra, arrêtée en l'état en 1914. [pause] El barrio de la Ópera, detenido tal como estaba en 1914.
+
+La hicieron Rémi Munier y un pequeño equipo entre 1984 y 1986, mientras se preparaba el museo. Es de resina, bajo plexiglás, de seis metros y medio de lado. Todo el espacio que la rodea lo diseñó Richard Peduzzi.
+
+[curious] ¿Por qué un París en miniatura en un museo de arte? Para mostrar la Ópera y su barrio, en palabras del museo una parte de la ciudad «profundamente transformada por las grandes obras públicas del prefecto Haussmann». [pause] Acaba de ver las bailarinas de su fachada. Aquí está el trazado al que pertenecía el edificio.
+
+[lightly] Mire hacia abajo y busque la Ópera de Garnier entre las manzanas. Luego siga las calles que salen de ella, una a una. [pause] Desde aquí arriba, el plano del barrio se lee mejor que a pie.
+
+En el mismo espacio, la Ópera aparece otra vez, ahora cortada de delante a atrás. Busque esa segunda maqueta, muy cerca, y deje que su pista le guíe.

@@ -1,0 +1,26 @@
+@id: 017 · DE · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
+@type: R
+@title: Monet — Femmes au jardin (Frauen im Garten)
+@where: Saal 18, derselbe Saal wie Manets Déjeuner sur l'herbe. Eine hohe Leinwand, etwa zweieinhalb Meter hoch, mit Frauen in einem Garten.
+@what: Claude Monet, Femmes au jardin, Women in the Garden, around 1866, oil on canvas, 255 × 205 cm. Bought from Monet by the State in 1921.
+@listen: The trench and pulley Monet needed to paint it, the one model behind three women, and the whites a recent cleaning brought back.
+@brief: Sharing a slightly comic studio story with a friend, then turning to admire the picture; light and amused, then attentive.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 028 Femmes au jardin (c.1866, 255×205; painted 1866 in the garden of a rented house in the Paris suburbs; "twofold challenge": outdoors and a format usually kept for history painting; canvas lowered into a trench with a pulley; Camille posed for the three figures on the left; bought from Monet by the State in 1921 for the Musée du Luxembourg; room 18; restoration with the C2RMF, old repairs deteriorated, yellowed varnish, "dazzling whites" against bluish-grey shadows): https://www.musee-orsay.fr/en/artworks/femmes-au-jardin-807 , https://www.musee-orsay.fr/en/node/290886 (OFF). Restoration year not used (contested). ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 017 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Um an den oberen Rand dieser Leinwand zu kommen, ließ Monet sie mit einer Seilrolle in einen Graben im Garten hinab. Ein etwas komisches Bild. Ein Maler, ein Loch im Boden, und eine Leinwand, die auf und ab fährt wie ein Eimer im Brunnen.
+
+Dafür gab es einen guten Grund. 1866 malte Monet im Garten eines Hauses, das er in einem Pariser Vorort gemietet hatte. Es war eine doppelte Herausforderung. [pause] Erstens malte er im Freien, mitten im Licht. Zweitens wählte er ein riesiges Format. Es war sonst der Historienmalerei vorbehalten, Szenen mit Göttern und Helden. Monet gab diese Größe ein paar Frauen in einem Garten.
+
+[curious] Sehen Sie sich jetzt die drei Figuren links an. Drei Frauen. [pause] Und ein einziges Modell. Camille stand für alle drei Modell.
+
+1921 kaufte der Staat dieses Bild von Monet selbst, für das Musée du Luxembourg. Er hatte es mehr als ein halbes Jahrhundert zuvor gemalt.
+
+[warmly] Viel später brauchte es Pflege. Alte Ausbesserungen hatten gelitten, und der Firnis war vergilbt. Also reinigten das Museum und das nationale Restaurierungszentrum der französischen Museen das Gemälde. Laut Museum brachte die Reinigung „strahlendes Weiß“ zurück, vor bläulich grauen Schatten. [pause] Lassen Sie Ihren Blick zwischen den hellen Stoffen und dem kühlen Schatten wandern. Für dieses Licht war der Graben da.
+
+Bleiben Sie in Saal 18. Auch Bazilles Bild seines eigenen Ateliers hängt hier. In der Mitte steht ein großer Maler mit Palette, und ein Mann mit Hut betrachtet die Leinwand auf der Staffelei. Spielen Sie den passenden Titel vor ihm ab.

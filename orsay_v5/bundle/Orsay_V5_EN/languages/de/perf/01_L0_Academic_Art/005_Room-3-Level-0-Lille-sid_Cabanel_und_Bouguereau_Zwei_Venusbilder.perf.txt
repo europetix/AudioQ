@@ -1,0 +1,28 @@
+@id: 005 · DE · Room 3 · Level 0
+@section: Academic Art
+@room: Room 3 · Level 0 · Lille side
+@type: R
+@title: Cabanel und Bouguereau — Zwei Venusbilder
+@where: In Saal 3 auf der Seite der Rue de Lille von Ebene 0. Cabanels Venus ist die breite, niedrige Leinwand, mehr als zwei Meter breit. Bouguereaus Venus ist die hohe, drei Meter hoch.
+@what: Alexandre Cabanel, Naissance de Vénus, The Birth of Venus, 1863, oil on canvas, 130 × 225 cm. William Bouguereau, Naissance de Vénus, The Birth of Venus, 1879, oil on canvas, 300 × 215 cm.
+@listen: Why the Second Empire loved painted goddesses, Zola's verdict on one of them, and what Manet did the same year.
+@brief: Comparing two famous nudes with a friend, lightly amused at the double standard, sharp but fair with Zola's line, a small turn towards Manet at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R1 005a (Cabanel 1863, 130 × 225; great success at the Salon of 1863, bought by Napoleon III for his private collection; assigned to the national museums 1879; Venus born of sea-foam carried ashore; idealised nude "in a lascivious pose"; polished handling, Ingres and 18th-century references; "introduce eroticism without offending public morality, under the pretext of representing a classical subject"; Zola quote): https://www.musee-orsay.fr/en/artworks/naissance-de-venus-98 (OFF), https://m.musee-orsay.fr/en/works/commentaire_id/the-birth-of-venus-7082.html (OFF) ; FACTS_R1 005b (Bouguereau 1879, 300 × 215; bought by the State from the artist for the Musée du Luxembourg after the 1879 Salon; room 3; no official description): https://www.musee-orsay.fr/en/artworks/naissance-de-venus-16649 (OFF) ; FACTS_R2 014 (Olympia 1863): https://www.musee-orsay.fr/en/artworks/olympia-712 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 005 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] In diesem Saal wird die Göttin der Liebe zweimal geboren, im Abstand von sechzehn Jahren. Beim ersten Mal war der Käufer ein Kaiser. Beim zweiten Mal war es der Staat.
+
+Die breite, niedrige Leinwand stammt von Alexandre Cabanel. Er zeigte seine Geburt der Venus im Salon von 1863, mit großem Erfolg. Napoleon der Dritte kaufte sie für seine private Sammlung. Venus ist gerade aus dem Meeresschaum geboren und wird an Land getragen. Ihr Körper ist idealisiert, doch ihre Pose ist lasziv. Die Malweise ist glatt, mit Anklängen an Ingres und an die Malerei des achtzehnten Jahrhunderts.
+
+[pause] Warum eine Göttin? Das Museum sagt es offen. Ein Mythos erlaubte den Künstlern, Erotik zu zeigen, ohne die öffentliche Moral zu verletzen. Unter dem Vorwand eines klassischen Themas.
+
+[wry] Nicht alle ließen sich täuschen. Der Schriftsteller Émile Zola schrieb: „Die Göttin, ertränkt in einem Meer aus Milch, gleicht einer köstlichen Kurtisane.“ [pause] „Aber nicht aus Fleisch und Blut, das wäre unanständig, sondern aus einer Art rosa-weißem Marzipan.“
+
+Die hohe Leinwand, drei Meter hoch, ist William Bouguereaus Geburt der Venus, gemalt 1879. Diesmal kaufte der Staat sie nach dem Salon jenes Jahres vom Maler, für das Musée du Luxembourg. Eine Venus für die Privaträume eines Kaisers, die andere für ein öffentliches Museum.
+
+[pause] Im selben Jahr wie Cabanels Triumph malte Édouard Manet einen eigenen Akt. Kein Schaum, kein Mythos, kein Vorwand. Sie heißt Olympia. Sie begegnen ihr bald auf der Seine-Seite.
+
+Gehen Sie zuerst zurück in den Mittelgang. Suchen Sie Carpeaux' Bronzegruppe eines Vaters mit seinen Kindern, Ugolin. Spielen Sie den passenden Titel neben ihr ab.

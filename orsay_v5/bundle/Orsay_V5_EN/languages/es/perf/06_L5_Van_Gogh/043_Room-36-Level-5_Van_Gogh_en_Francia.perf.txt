@@ -1,0 +1,26 @@
+@id: 043 · ES · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: R
+@title: Van Gogh en Francia
+@where: En la entrada de la sala 36 del nivel 5, la sala de Van Gogh, al final de la galería impresionista. La reconocerá por los rieles de los que cuelgan los cuadros, pintados de azul.
+@what: The Van Gogh room, rehung in February 2024. Room 36, Vincent van Gogh in France, follows him from Paris to Arles, Saint-Rémy and Auvers-sur-Oise, and his bond with Dr Paul Gachet.
+@listen: How this room is laid out, the journey it follows, and the last two months that fill the final walls.
+@brief: Orienting a friend at the doorway before the most-loved rooms on the floor; clear and warm, a little hushed at the numbers from Auvers.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R4 Level-5 frame and 043 (rooms 36–37 since 6 Feb 2024, end of the Impressionist gallery; picture rails painted blue "echoing the colors used by the artist"; room 36 "Vincent van Gogh in France": Paris, Arles, Auvers and the bond with Dr Gachet; room 37 the Paul Gachet collection): https://www.musee-orsay.fr/en/articles/van-gogh-new-presentation-artists-works-musee-dorsay-277393 (OFF) ; FACTS_R4 043 (Auvers: arrived 21 May 1890, died 29 July 1890, about seventy paintings): https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755 (OFF) ; FACTS_R4 044 (self-portrait painted at Saint-Rémy, OFF), 048 (came to Gachet on Theo's advice after the hospital at Saint-Rémy, OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Esta sala anuncia de quién es antes de que usted vea un solo cuadro. Los rieles, esas barras finas de las que cuelgan los cuadros, están pintados de azul. Cuando el museo volvió a colgar sus Van Gogh en 2024, eligió ese color como eco de los colores que Van Gogh usaba en sus lienzos. [pause] Es un detalle pequeño, y precioso.
+
+La sala 36 se llama Vincent van Gogh en Francia, y está organizada como un viaje. Empieza en París. Luego va al sur, a Arles, y al sol. Luego al hospital de Saint-Rémy-de-Provence, donde siguió pintando. Y termina en Auvers-sur-Oise, adonde fue por consejo de Theo, para estar cerca de un médico llamado Paul Gachet.
+
+[pause] El médico también tiene aquí su lugar. Varias obras de estas paredes vienen de la colección que reunió Gachet. Sus hijos la donaron más tarde a la nación.
+
+[quietly] Recuerde una cifra mientras camina. Van Gogh llegó a Auvers el 21 de mayo de 1890. Murió allí el 29 de julio. [pause] En esos dos meses, pintó unos setenta cuadros. Más o menos uno al día.
+
+Así que, al recorrer estas paredes, recuerde que el último tramo del viaje es el más corto en tiempo. Y uno de los más llenos de pintura.
+
+Empiece en la sala 36, con un autorretrato. Lleva traje, el fondo se arremolina en verde pálido y turquesa, y su pelo y su barba son de un naranja vivo. Escuche su pista frente a él.

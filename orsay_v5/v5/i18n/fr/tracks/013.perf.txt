@@ -1,0 +1,30 @@
+@id: 013 · FR · Room 14 · Level 0 · Seine side
+@section: Manet and Friends
+@room: Room 14 · Level 0 · Seine side
+@type: W
+@title: Manet — Olympia
+@where: Salle 14, à cet étage, côté Seine : la salle Manet. Placez-vous devant le nu qui vous regarde droit dans les yeux, avec au centre une servante noire tenant un bouquet, et à droite un chat noir.
+@what: Édouard Manet, Olympia, 1863, oil on canvas, 130.5 × 191 cm. Shown at the Salon of 1865; given to the State in 1890 by nearly a hundred subscribers led by Claude Monet.
+@listen: How a Salon scandal became a gift to the nation, who the two women really are, and the most famous cat in painting.
+@brief: Telling a friend how a scandal became a gift from its admirers; warm and brisk at the start, firm on the turn, gentle on Laure, a smile at the cat.
+@pace: medium
+@energy: 3→4→2→3
+@sources: FACTS_R2 014 Olympia (1863, 130.5×191, RF 644; Salon 1865 scandal; Nov 1890 subscription led by Monet, "nearly a hundred people", artists, collectors, dealers, writers, politicians; Musée du Luxembourg; Victorine Meurent, "calculating" gaze; servant with bouquet; cat where Titian had a dog, "probably the most famous cat in the history of painting"; quotes Titian's Venus of Urbino and Goya's Maja desnuda; "Venus has become a prostitute"; servant's "invisibility"): https://www.musee-orsay.fr/en/artworks/olympia-712 and https://m.musee-orsay.fr/en/works/commentaire_id/olympia-7087.html (OFF) ; Laure named by "Le modèle noir" 2019: A1 Track 08 row 5 (OFF) ; Manet copied the Venus of Urbino: A1 Track 08 row 4 (SEC2) ; room 14: A1/G (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 013 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1890, Claude Monet fait passer le chapeau. Près d'une centaine de personnes participent : artistes, collectionneurs, marchands, écrivains et même hommes politiques. Ils n'achètent pas un tableau pour eux-mêmes. Ils achètent celui-ci, pour l'offrir à la France.
+
+[pause] Vingt-cinq ans plus tôt, au Salon de 1865, il avait fait scandale.
+
+Sur le papier, le sujet n'avait rien de neuf. Un nu, une servante qui apporte des fleurs, la vieille tradition de l'odalisque. Manet connaissait cette tradition de l'intérieur. Il avait copié la Vénus d'Urbin de Titien, et son Olympia la cite, comme la Maja nue de Goya. Mais il transporte la déesse dans le Paris de son temps. Le musée le résume d'une formule. [pause] « La Vénus est devenue une prostituée ».
+
+[quietly] Regardez maintenant son visage. Le modèle est Victorine Meurent, et elle vous rend votre regard. C'est un regard calculateur. Elle n'attend pas qu'on l'admire. Elle vous jauge.
+
+Au centre se tient une femme noire, un bouquet à la main. Longtemps, on l'a traitée comme presque invisible. En 2019, une exposition intitulée Le Modèle noir lui a rendu son nom. [pause] Elle s'appelait Laure.
+
+[amused] Et à droite, là où Titien avait peint un petit chien, Manet a mis un chat noir. C'est peut-être bien le chat le plus célèbre de l'histoire de la peinture.
+
+Les amis ont donc gagné. Olympia est entrée dans les collections nationales, au musée du Luxembourg, puis elle est arrivée ici. Le scandale du Salon appartient aujourd'hui à tous. Et la femme du tableau vous regarde toujours droit dans les yeux.
+
+Deux autres Manet partagent cette salle : un jeune garçon d'une musique militaire qui joue du fifre, et l'écrivain Émile Zola à son bureau. Trouvez-les ici, dans la salle 14. Une seule piste pour les deux.

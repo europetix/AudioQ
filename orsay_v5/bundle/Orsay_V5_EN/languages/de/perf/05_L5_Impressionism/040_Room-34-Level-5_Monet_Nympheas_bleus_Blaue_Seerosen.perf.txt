@@ -1,0 +1,28 @@
+@id: 040 · DE · Room 34
+@section: Impressionism
+@room: Room 34 · Level 5
+@type: R
+@title: Monet — Nymphéas bleus (Blaue Seerosen)
+@where: In Saal 34 auf Ebene 5, derselbe Saal wie die Kathedralen von Rouen. Suchen Sie eine große, quadratische Leinwand mit Seerosen, etwa zwei Meter in jede Richtung.
+@what: Claude Monet, Nymphéas bleus, Blue Water Lilies, around 1916–1919, oil on canvas, 204 × 200 cm.
+@listen: The pond Monet made in the same years as the cathedrals, and why this picture seems to have no edges.
+@brief: Standing next to a friend in front of a big, calm canvas after the busy cathedrals; unhurried, close to hushed, letting the picture do the work.
+@pace: slow
+@energy: 2→3→1
+@sources: FACTS_R3 040 fallback Nymphéas bleus (c. 1916–1919, 204 × 200, room 34; water garden at Giverny created 1893; from the 1910s until his death in 1926 the pond his sole source of inspiration; no point draws attention more than another; square format and lack of reference points give "infinity and limitlessness"): https://www.musee-orsay.fr/en/artworks/nympheas-bleus-1172 (OFF) ; FACTS_R3 039 (cathedrals painted 1892–93, finished at Giverny 1894, OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 040 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Während Monet mit der Kathedrale in Rouen rang, legte er auch einen Teich an. 1893 schuf er einen Wassergarten an seinem Haus in Giverny.
+
+In seinem letzten Lebensabschnitt, von den 1910er-Jahren bis zu seinem Tod 1926, war dieser Teich seine einzige Inspirationsquelle. Jahrelang war er dem Licht auf einer Steinfassade nachgejagt. Nun kam das Licht zu ihm, auf das Wasser in seinem eigenen Garten.
+
+[pause] Diese Leinwand ist eines dieser späten Bilder. Sie ist groß, zwei Meter hoch und fast genauso breit. Und diese quadratische Form ist wichtig.
+
+[quietly] Versuchen Sie etwas. Lassen Sie Ihr Auge einen Ruhepunkt suchen, ein Ufer, einen Horizont, ein Stück Himmel. Sie werden keinen finden. [pause] Kein Punkt im Bild zieht den Blick stärker an als ein anderer. Kein Teichrand, kein Oben oder Unten, an dem man sich festhalten kann. Nur die Seerosen, das Wasser und die Farbe aus dem Titel.
+
+Das Museum beschreibt die Wirkung als ein Gefühl von Unendlichkeit, von Grenzenlosigkeit. So nah davor sieht man leicht, warum. Die Leinwand endet am Rahmen, doch der Teich scheint dort nicht aufzuhören.
+
+[long pause] Bei den Kathedralen ging es um ein Ding, das sich verändert. Hier gibt es kaum noch ein Ding.
+
+[pause] Gehen Sie weiter in die Cézanne-Säle. Suchen Sie ein kleines Bild mit Kartenspielern, einer von ihnen raucht Pfeife. Spielen Sie dort den passenden Titel ab.

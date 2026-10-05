@@ -1,0 +1,28 @@
+@id: 005 · FR · Room 3 · Level 0
+@section: Academic Art
+@room: Room 3 · Level 0 · Lille side
+@type: R
+@title: Cabanel et Bouguereau — Deux Vénus
+@where: Dans la salle 3, côté rue de Lille, au niveau 0. La Vénus de Cabanel est la toile large et basse, de plus de deux mètres de large. Celle de Bouguereau est la toile verticale, haute de trois mètres.
+@what: Alexandre Cabanel, Naissance de Vénus, The Birth of Venus, 1863, oil on canvas, 130 × 225 cm. William Bouguereau, Naissance de Vénus, The Birth of Venus, 1879, oil on canvas, 300 × 215 cm.
+@listen: Why the Second Empire loved painted goddesses, Zola's verdict on one of them, and what Manet did the same year.
+@brief: Comparing two famous nudes with a friend, lightly amused at the double standard, sharp but fair with Zola's line, a small turn towards Manet at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R1 005a (Cabanel 1863, 130 × 225; great success at the Salon of 1863, bought by Napoleon III for his private collection; assigned to the national museums 1879; Venus born of sea-foam carried ashore; idealised nude "in a lascivious pose"; polished handling, Ingres and 18th-century references; "introduce eroticism without offending public morality, under the pretext of representing a classical subject"; Zola quote): https://www.musee-orsay.fr/en/artworks/naissance-de-venus-98 (OFF), https://m.musee-orsay.fr/en/works/commentaire_id/the-birth-of-venus-7082.html (OFF) ; FACTS_R1 005b (Bouguereau 1879, 300 × 215; bought by the State from the artist for the Musée du Luxembourg after the 1879 Salon; room 3; no official description): https://www.musee-orsay.fr/en/artworks/naissance-de-venus-16649 (OFF) ; FACTS_R2 014 (Olympia 1863): https://www.musee-orsay.fr/en/artworks/olympia-712 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 005 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Dans cette salle, la déesse de l'amour naît deux fois, à seize ans d'intervalle. La première fois, l'acheteur est un empereur. La seconde, c'est l'État.
+
+La toile large et basse est d'Alexandre Cabanel. Il expose sa Naissance de Vénus au Salon de 1863, avec un grand succès. Napoléon trois l'achète pour sa collection personnelle. Vénus vient de naître de l'écume de la mer, et elle est portée vers le rivage. Son corps est idéalisé, mais sa pose est lascive. La facture est lisse, avec des échos d'Ingres et de la peinture du dix-huitième siècle.
+
+[pause] Pourquoi une déesse ? Le musée est franc. Le mythe permettait aux artistes d'introduire l'érotisme sans choquer la morale publique, sous prétexte d'un sujet classique.
+
+[wry] Tout le monde n'a pas été dupe. L'écrivain Émile Zola a écrit : « La déesse, noyée dans un fleuve de lait, a l'air d'une délicieuse lorette… » [pause] « …non pas en chair et en os — cela semblerait indécent — mais en une sorte de pâte d'amande blanche et rose. »
+
+La toile verticale, haute de trois mètres, est la Naissance de Vénus de William Bouguereau, peinte en 1879. Cette fois, l'État l'achète au peintre après le Salon de cette année-là, pour le musée du Luxembourg. Une Vénus pour les appartements privés d'un empereur, l'autre pour un musée public.
+
+[pause] L'année du triomphe de Cabanel, Édouard Manet peint lui aussi un nu. Ni écume, ni mythe, ni prétexte. Elle s'appelle Olympia, et vous la rencontrerez bientôt, côté Seine.
+
+D'abord, retournez dans l'allée centrale. Cherchez le groupe en bronze de Carpeaux, un père avec ses enfants : Ugolin. Écoutez sa piste à côté de lui.

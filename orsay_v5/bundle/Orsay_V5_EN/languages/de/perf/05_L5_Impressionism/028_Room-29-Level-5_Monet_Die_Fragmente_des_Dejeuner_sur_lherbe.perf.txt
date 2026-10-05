@@ -1,0 +1,28 @@
+@id: 028 · DE · Room 29 · Level 5
+@section: Impressionism
+@room: Room 29 · Level 5
+@type: R
+@title: Monet — Die Fragmente des Déjeuner sur l'herbe
+@where: Saal 29, Ebene 5. Zwei sehr große Leinwände aus einer einzigen Picknickszene, nebeneinander gehängt: das große Mittelstück, fast zweieinhalb Meter hoch, und links davon das linke Fragment.
+@what: Claude Monet, Le Déjeuner sur l'herbe, Luncheon on the Grass, begun 1865, oil on canvas: two surviving fragments, the central one 248.7 × 218 cm.
+@listen: How the biggest canvas of Monet's youth ended up as rent security, then mouldy, then in pieces.
+@brief: Telling a friend the slightly absurd fate of a young painter's grand ambition; curious at the start, wry at the landlord, quietly respectful at the end.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_R3 026 (begun spring 1865; over four metres by six; "both a tribute and a challenge to Manet"; abandoned 1866 just before the Salon; left with landlord as security for rent; mouldy when recovered 1884; cut up, three fragments kept; central fragment 248.7 × 218 cm, dation 1987; left fragment hung to its left, Wildenstein gift 1957; room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 028 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Im Frühjahr 1865 begann der junge Claude Monet das größte Gemälde seiner Jugend. Die Leinwand maß mehr als vier mal sechs Meter. Ihr Thema war ein Picknick im Grünen. Monet hatte dabei Manets Déjeuner sur l'herbe fest im Blick, das Bild, das Sie schon kennen. Sein Picknick sollte zugleich Hommage und Herausforderung sein.
+
+Er hat es nie vollendet. Ein Jahr später, kurz vor dem Salon, gab er auf. [pause] Danach führte die Leinwand ein ziemlich unrühmliches Leben.
+
+[wry] Monet ließ sie bei seinem Vermieter, als Sicherheit für die Miete. Als er sie 1884 endlich zurückbekam, war sie verschimmelt. Also zerschnitt er sie und behielt drei Stücke.
+
+Zwei dieser Stücke sind hier. Das große ist die Mitte der Komposition, fast zweieinhalb Meter hoch. Links daneben hängt das linke Fragment. [pause] Beide kamen auf verschiedenen Wegen in den Besitz der Nation, dreißig Jahre auseinander. Das eine als Schenkung, das andere als Steuerzahlung. Das dritte Stück ist nicht in diesem Museum.
+
+Treten Sie zurück. Stellen Sie sich den Rest um die beiden herum vor, die ganze Leinwand in voller Größe. Diesen Maßstab hielt ein junger Maler für nötig, um es mit Manet aufzunehmen.
+
+[quietly] Es ist seltsam, ein Bild zu bewundern, das sein eigener Maler zerlegt hat. Doch diese Stücke zeigen einen jungen Maler genau in dem Moment, als er wagte, Manet in voller Größe zu antworten. Später fand er andere Wege, sich Gehör zu verschaffen.
+
+[pause] Suchen Sie im selben Saal eine viel kleinere Leinwand. Ein Feld mit rotem Mohn und eine Frau mit Sonnenschirm. Das ist Monets Coquelicots. Spielen Sie den passenden Titel ab, wenn Sie davorstehen.

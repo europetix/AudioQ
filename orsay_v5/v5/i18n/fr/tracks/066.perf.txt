@@ -1,0 +1,28 @@
+@id: 066 · FR · Room 71 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 71 · Level 2
+@type: R
+@title: Vallotton — Le Ballon
+@where: Salle 71 au niveau 2. Cherchez un petit tableau en largeur, un parc vu d'en haut : une vaste étendue de sol ocre, des arbres sombres, et un enfant au chapeau jaune qui court après un ballon rouge.
+@what: Félix Vallotton, Le Ballon, The Ball, 1899, oil on cardboard mounted on wood, 49.2 × 62 cm. Carle Dreyfus bequest, 1953.
+@listen: How one small running child and a red ball can hold a whole empty park together.
+@brief: Sharing a small, surprising picture with a friend; light and curious, slowing down to look, a quiet landing.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R5 063b Vallotton — Le Ballon (1899, oil on cardboard mounted on wood, 49.2 × 62 cm, Carle Dreyfus bequest 1953, room 71, Swiss, in close touch with the Nabis from 1891, "one of the best known" of his paintings, bird's-eye view, ochre ground against deep shade of trees, child as bright patch preceded by a dark shadow, yellow hat with red ribbon, blonde hair, orange boots, white smock, red ball; child alone in a large empty space): https://www.musee-orsay.fr/en/artworks/le-ballon-8032 ; works-in-focus the-ball-2994 (OFF) ; FACTS_R5 064 (next-room cue: Les Muses, room 70) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 066 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Ce tableau est surtout fait de terrain vide. Et c'est justement de là que vient sa force.
+
+Félix Vallotton était suisse. À partir de 1891, il est proche des nabis, le groupe que vous avez découvert dans la salle précédente. Il peint Le Ballon en 1899, à l'huile sur carton, plus tard marouflé sur bois. Il est petit, à peine plus d'un demi-mètre de large. Pourtant, le musée le compte parmi les tableaux les plus connus de l'artiste. Il est entré dans les collections nationales en 1953, par le legs du collectionneur Carle Dreyfus.
+
+[curious] Voyez d'abord où Vallotton vous place. Vous regardez un parc d'en haut, à vol d'oiseau. Une vaste étendue de sol ocre occupe une grande partie du tableau. Contre elle se presse l'ombre profonde des arbres.
+
+Et puis, dans tout cet espace, un seul petit enfant. [pause] Trouvez le chapeau jaune et son ruban rouge, les cheveux blonds, les bottines orange. Une blouse blanche flotte derrière l'enfant qui court. Une ombre sombre le précède. Et l'enfant poursuit un ballon rouge.
+
+[pause] L'enfant est une tache de lumière vive dans un grand champ de couleur plat. Rien d'autre dans le parc ne vous distrait. C'est un jeu. Mais plus vous regardez, plus le terrain vide s'agrandit. Et plus l'enfant rapetisse.
+
+[quietly] Vallotton ne vous dit pas quoi en penser. Il se contente de laisser ce vide.
+
+[pause] Juste à côté, dans la salle 70, cherchez Les Muses de Maurice Denis : des femmes en tenue moderne, sous de grands marronniers. Écoutez sa piste là-bas.

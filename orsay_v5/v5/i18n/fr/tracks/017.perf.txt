@@ -1,0 +1,26 @@
+@id: 017 · FR · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
+@type: R
+@title: Monet — Femmes au jardin
+@where: Salle 18, la même salle que Le Déjeuner sur l'herbe de Manet. Une grande toile verticale, d'environ deux mètres et demi de haut : des femmes dans un jardin.
+@what: Claude Monet, Femmes au jardin, Women in the Garden, around 1866, oil on canvas, 255 × 205 cm. Bought from Monet by the State in 1921.
+@listen: The trench and pulley Monet needed to paint it, the one model behind three women, and the whites a recent cleaning brought back.
+@brief: Sharing a slightly comic studio story with a friend, then turning to admire the picture; light and amused, then attentive.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 028 Femmes au jardin (c.1866, 255×205; painted 1866 in the garden of a rented house in the Paris suburbs; "twofold challenge": outdoors and a format usually kept for history painting; canvas lowered into a trench with a pulley; Camille posed for the three figures on the left; bought from Monet by the State in 1921 for the Musée du Luxembourg; room 18; restoration with the C2RMF, old repairs deteriorated, yellowed varnish, "dazzling whites" against bluish-grey shadows): https://www.musee-orsay.fr/en/artworks/femmes-au-jardin-807 , https://www.musee-orsay.fr/en/node/290886 (OFF). Restoration year not used (contested). ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 017 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Pour atteindre le haut de cette toile, Monet l'a descendue dans une tranchée du jardin, avec une poulie. L'image est un peu comique. Un peintre, un trou dans le sol, et une toile qui monte et descend comme un seau dans un puits.
+
+Il y avait une bonne raison. En 1866, Monet peint dans le jardin d'une maison louée en banlieue parisienne. C'est un double défi. D'abord, il peint en plein air, dans la lumière même. Ensuite, il choisit un format immense, celui qu'on réservait d'ordinaire à la peinture d'histoire, aux dieux et aux héros. [pause] Monet offre cette taille à quelques femmes dans un jardin.
+
+[curious] Regardez maintenant les trois figures de gauche. Trois femmes. [pause] Et un seul modèle. Camille a posé pour les trois.
+
+En 1921, l'État achète ce tableau à Monet lui-même, pour le musée du Luxembourg. Il l'avait peint plus d'un demi-siècle auparavant.
+
+[warmly] Bien plus tard, il a eu besoin de soins. D'anciennes restaurations s'étaient dégradées et le vernis avait jauni. Le musée et le Centre de recherche et de restauration des musées de France ont donc nettoyé le tableau. Le musée l'écrit : depuis, « les blancs étincelants contrastent à nouveau avec les ombres gris-bleuté ». [pause] Laissez votre regard aller des étoffes claires à l'ombre fraîche. C'est pour cette lumière qu'il a creusé la tranchée.
+
+Restez dans la salle 18. Le tableau de Bazille représentant son atelier est ici aussi : au milieu, un grand peintre tient une palette, et un homme au chapeau examine la toile sur le chevalet. Écoutez sa piste devant lui.

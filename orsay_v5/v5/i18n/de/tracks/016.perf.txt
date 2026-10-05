@@ -1,0 +1,30 @@
+@id: 016 · DE · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
+@type: W
+@title: Manet — Le Déjeuner sur l'herbe (Das Frühstück im Grünen)
+@where: Saal 18 auf dieser Ebene, wo das Museum es verzeichnet. Ist das Bild nicht dort, wurde es vielleicht in Saal 29 auf Ebene 5 gebracht, den Saal der Sammlung Moreau-Nélaton. Hören Sie dort, wo Sie es finden. Es ist das große Picknickbild, etwa zwei Meter hoch und zweieinhalb Meter breit.
+@what: Édouard Manet, Le Déjeuner sur l'herbe, Luncheon on the Grass, 1863, oil on canvas, 207 × 265 cm. Given to the national museums by Étienne Moreau-Nélaton in 1906.
+@listen: The Emperor's show for rejected paintings, the old masters hidden in this modern picnic, and the painter it provoked.
+@brief: Telling a friend the story of a famous rejection with a twist; lively at the start, curious at the borrowings, quietly impressed by the museum's verdict.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 025 Le Déjeuner sur l'herbe (1863, 207×265, RF 1668; Faure 1878–98 → Durand-Ruel → Moreau-Nélaton, given 1906; borrows from Titian's Concert champêtre and Marcantonio Raimondi's engraving after Raphael's Judgement of Paris; "can perhaps be considered as the departure point for Modern Art"; Faure the opera baritone; location room 18 per OFF snippets, conflict with room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF) ; Salon des Refusés 1863 by Napoleon III's decree, shown as "Le Bain": A1 Track 09 row 4 (OFF/SEC2) ; Cabanel's Naissance de Vénus bought by Napoleon III at the 1863 Salon: FACTS_R1 005a https://www.musee-orsay.fr/en/artworks/naissance-de-venus-98 (OFF), "same year" framing only ; Monet's Déjeuner "both a tribute and a challenge to Manet", room 29: FACTS_R3 026 https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 016 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] 1863 tat der Kaiser etwas Bemerkenswertes. Die Bilder, die die Jury des Salons abgewiesen hatte, bekamen eine eigene Ausstellung. Auf Erlass Napoleons des Dritten öffnete der Salon des Refusés, der Salon der Zurückgewiesenen. Und dieses Bild hing darin.
+
+Damals hieß es noch nicht Frühstück. Manet zeigte es unter einem schlichteren Titel, Le Bain, Das Bad.
+
+Im selben Jahr kaufte der Kaiser im offiziellen Salon Cabanels Geburt der Venus für seine Sammlung. Vielleicht haben Sie sie vorhin in Saal 3 gesehen. Ein Akt ging an den Kaiser. [pause] Dieser ging zu den Zurückgewiesenen.
+
+[curious] Und doch warf Manet die Tradition nicht weg. Er bediente sich bei ihr, aus zwei Quellen. Die eine ist Tizians Concert champêtre. Die andere ist ein Stich von Marcantonio Raimondi nach Raffaels Urteil des Paris. Ehrbarere Vorfahren als Tizian und Raffael gibt es kaum. Trotzdem hing das Ergebnis bei den Zurückgewiesenen.
+
+Nehmen Sie sich also Zeit. Versuchen Sie zu trennen, was an diesem Picknick modern ist und was Renaissance. Um genau diese Spannung geht es. Das Urteil des Museums ist vorsichtig, und gerade deshalb stark. [long pause] Dieses Bild „kann vielleicht als Ausgangspunkt der modernen Kunst gelten.“
+
+Bewunderer fand es trotzdem. Sein erster Besitzer war der Opernbariton Jean-Baptiste Faure. Später besaß es der Sammler Étienne Moreau-Nélaton. 1906 schenkte er es den nationalen Museen.
+
+[warmly] Und es forderte mindestens einen anderen Maler heraus. Claude Monet begann ein riesiges eigenes Picknick, als Hommage und als Herausforderung an Manet. [pause] Was davon erhalten ist, hängt in Saal 29 auf Ebene 5.
+
+Monets andere große Herausforderung, Femmes au jardin, Frauen im Garten, hängt in Saal 18 auf dieser Ebene. Suchen Sie das Bild und spielen Sie dort den passenden Titel ab.

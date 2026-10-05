@@ -1,0 +1,28 @@
+@id: 066 · ES · Room 71 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 71 · Level 2
+@type: R
+@title: Vallotton — Le Ballon (La pelota)
+@where: Sala 71 del nivel 2. Busque un cuadro pequeño y apaisado de un parque visto desde arriba: una gran extensión de suelo ocre, árboles oscuros y un niño con sombrero amarillo que persigue una pelota roja.
+@what: Félix Vallotton, Le Ballon, The Ball, 1899, oil on cardboard mounted on wood, 49.2 × 62 cm. Carle Dreyfus bequest, 1953.
+@listen: How one small running child and a red ball can hold a whole empty park together.
+@brief: Sharing a small, surprising picture with a friend; light and curious, slowing down to look, a quiet landing.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R5 063b Vallotton — Le Ballon (1899, oil on cardboard mounted on wood, 49.2 × 62 cm, Carle Dreyfus bequest 1953, room 71, Swiss, in close touch with the Nabis from 1891, "one of the best known" of his paintings, bird's-eye view, ochre ground against deep shade of trees, child as bright patch preceded by a dark shadow, yellow hat with red ribbon, blonde hair, orange boots, white smock, red ball; child alone in a large empty space): https://www.musee-orsay.fr/en/artworks/le-ballon-8032 ; works-in-focus the-ball-2994 (OFF) ; FACTS_R5 064 (next-room cue: Les Muses, room 70) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 066 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Casi todo este cuadro es suelo vacío. [pause] Y de ahí viene justamente su fuerza.
+
+Félix Vallotton era suizo, y desde 1891 estuvo en estrecho contacto con los nabis, el grupo que conoció en la sala anterior. Pintó Le Ballon, La pelota, en 1899, al óleo sobre cartón, montado luego sobre madera. Es pequeño, apenas algo más de medio metro de ancho. Aun así, el museo lo cuenta entre sus cuadros más conocidos. Llegó a las colecciones nacionales en 1953, con el legado del coleccionista Carle Dreyfus.
+
+[curious] Fíjese primero en dónde le ha colocado Vallotton. Usted mira un parque desde arriba, a vista de pájaro. Una gran extensión de suelo ocre llena buena parte del cuadro. Contra ella se aprieta la sombra profunda de los árboles.
+
+Y luego, en todo ese espacio, un niño pequeño. [pause] Busque el sombrero amarillo con su cinta roja, el pelo rubio, las botas naranjas. Un blusón blanco ondea detrás mientras corre. Una sombra oscura va por delante. Y el niño persigue una pelota roja.
+
+El niño es una mancha de luz en un gran campo plano de color. Nada más en el parque le disputa la mirada. Es un juego. [pause] Pero cuanto más mira, más crece el suelo vacío, y más pequeño se vuelve el niño.
+
+[quietly] Vallotton no le dice qué sentir. Simplemente deja ahí el espacio.
+
+Al lado, en la sala 70, busque Les Muses, Las musas, de Maurice Denis: mujeres vestidas a la moda de su tiempo bajo altos castaños. Escuche su pista allí.

@@ -1,0 +1,30 @@
+@id: 064 · FR · Room 55 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 55 · History painting · Level 2
+@type: W
+@title: Camille Claudel — L'Âge mûr
+@where: Salle 55 au niveau 2, la salle de la peinture d'histoire, à l'extrémité ouest de l'étage. Cherchez un groupe en bronze de trois figures sur un long socle : un homme âgé entraîné par une femme âgée, et une jeune femme à genoux qui tend les bras vers lui.
+@what: Camille Claudel, L'Âge mûr, Maturity, about 1902, bronze group in three parts, 114 × 163 × 72 cm. The first bronze, cast in the artist's lifetime; at Orsay since 1982.
+@listen: The private patron who paid for the bronze the State never ordered, and why Claudel's brother saw her soul being torn away in it.
+@brief: Telling a painful true story to a friend, carefully and without melodrama; quiet at the start, steady through the facts, reverent at the brother's words, very soft at the end.
+@pace: slow
+@energy: 2→3→2
+@sources: FACTS_R5 069 Claudel — L'Âge mûr (c. 1902, bronze, three parts, 114 × 163 × 72 cm, first bronze, cast in her lifetime, entered Orsay 1982; room 55; after the break-up Rodin tried to help through an intermediary and obtained a State commission 1895; bronze never ordered, plaster never delivered; Captain Tissier commissioned the first bronze 1902; Orsay holds her letters to Tissier, one saying F. Rudier asked 6,000 francs; Orsay reading: Rodin's hesitation between his former mistress "who was to prevail" and Claudel, who bends forward to hold him; "L'Implorante"; "The man at the end of his maturity is vertiginously drawn by age while he extends a useless hand towards youth"; flying draperies; Paul Claudel quote verbatim): musee-orsay.fr oeuvres-commentées lage-mur-107 ; https://www.musee-orsay.fr/en/program/whats-on/exhibitions/lage-mur-maturity-camille-claudel ; letters …-266518, …-266515 (OFF) ; A2 12.4 (Rodin "suppressed" it is CONTRA) and Confirmed OK (interned 1913 aged 48, died 1943) (OFF) ; FACTS_R5 062 (next cue: Vuillard, room 72) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 064 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Selon son frère Paul, ce que vous voyez ici, c'est une femme à qui l'on arrache l'âme.
+
+Ce bronze est l'œuvre de Camille Claudel, après sa rupture avec Auguste Rodin. Après la séparation, Rodin a tenté de l'aider, par un intermédiaire. En 1895, il a obtenu pour ce groupe une commande de l'État.
+
+Mais la commande n'a pas abouti. Le bronze n'a jamais été commandé, et le plâtre n'a jamais été livré. [pause] Finalement, l'argent est venu d'un mécène privé, un certain capitaine Tissier. Il a commandé le premier bronze en 1902. Le groupe devant vous est ce premier bronze, fondu du vivant de l'artiste.
+
+[pause] Regardez maintenant les trois figures. Le musée y lit l'hésitation de Rodin entre deux femmes. L'une est son ancienne maîtresse, celle qui devait l'emporter. Elle entraîne l'homme. L'autre est Claudel elle-même, penchée en avant, qui tente de le retenir. Claudel a appelé cette figure agenouillée l'Implorante.
+
+[curious] Suivez le bras de l'homme. Il est au bout de son âge mûr, emporté par la vieillesse. Il tend une main inutile vers la jeunesse. Et remarquez les draperies qui volent. Elles donnent au groupe une vitesse que le bronze ne devrait pas avoir.
+
+[reverent] Paul Claudel l'a formulé ainsi. « Ma sœur Camille, Implorante, humiliée à genoux, cette superbe, cette orgueilleuse, et savez-vous ce qui s'arrache à elle, en ce moment même, sous vos yeux, c'est son âme. »
+
+[long pause] [quietly] En 1913, à quarante-huit ans, Camille Claudel est internée. Elle n'en sortira jamais. Elle meurt trente ans plus tard. Mais ici, dans le bronze, la femme à genoux tend toujours les bras.
+
+Quand vous le souhaitez, rejoignez la salle 72, elle aussi à l'extrémité ouest, pour les nabis. Cherchez un ensemble de grandes scènes de jardin en beige, vert et bleu, accrochées autour de l'angle de la salle. Écoutez sa piste là-bas.

@@ -1,0 +1,28 @@
+@id: 060 · DE · Room 47 · Level 5
+@section: Post-Impressionism
+@room: Room 47 · Cinema 1895–1914 · Level 5
+@type: R
+@title: Die Geburt des Kinos, 1895–1914
+@where: In Saal 47 auf Ebene 5, Cinéma 1895–1914, neben dem Saal des Chat Noir. Frühe Filme laufen auf drei Bildschirmen. Den Ton hören Sie nur, wenn Sie direkt davor stehen. In Vitrinen sind vielleicht optische Spielzeuge und frühe Fotografien zu sehen. Was ausgestellt ist, wechselt. Sehen Sie vor Ort nach.
+@what: A room on the birth of the cinematograph: about fifteen films or excerpts from 1895 to 1914 on three screens, shown with directional "sound showers", alongside the optical devices and photographs that came before film.
+@listen: Why a museum of the nineteenth century ends with moving pictures, and the toys that taught the eye to see motion.
+@brief: A friend in a darkened room, delighted by flickering images; light and curious, then reflective as the walk turns back.
+@pace: medium
+@energy: 3→4→3→2
+@sources: FACTS_R6 (e) (a room devoted to the birth of the cinematograph in 1895 since the museum opened in 1986; display cases with thaumatropes, phenakistiscopes, stereoscopes, a magic lantern and a projection lantern, a praxinoscope-théâtre, chronophotographs by Étienne-Jules Marey, Chat Noir zinc silhouettes, a "Lumière column" of autochromes; since 2019 about fifteen films or excerpts on three screens with "sound showers"; themes change to show the main stages of the invention, 1895–1914; optical toys and autochromes not confirmed on show in 2026): "Le cinéma dans le parcours permanent / Cinema in the Orsay collections", musee-orsay.fr node 413 (OFF) ; room 47 "Cinéma (1895–1914)": findings/M_planguide_ete_2026.md (OFF), location conflict resolved in favour of the plan-guide
+@lang: de
+@translation: from the fact-checked English Orsay V5 060 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Ein Museum des neunzehnten Jahrhunderts, und es endet hier, mit bewegten Bildern.
+
+Seit seiner Eröffnung hat dieses Museum einen Saal für die Geburt des Kinematografen, 1895. Das Schattentheater nebenan war ein Schritt auf dem Weg. In diesem Saal ist der Weg am Ziel.
+
+[curious] Sehen Sie sich die Bildschirme an. Es sind drei. Zusammen zeigen sie etwa fünfzehn Filme oder Ausschnitte, von den ersten Jahren bis 1914. [pause] Stellen Sie sich vor einen und hören Sie zu. Der Ton fällt auf Sie wie eine Dusche, gedacht für den, der dort steht, und kaum für andere. Die Themen wechseln von Zeit zu Zeit. Jedes zeigt eine Etappe in der Erfindung des Kinos. Was Sie heute sehen, sieht der nächste Besucher also vielleicht nicht.
+
+[pause] Vor dem Film gab es Spielzeug. In seinen Vitrinen bewahrt dieser Saal seit Langem die Geräte, die zuerst kamen. Thaumatropen und Phenakistiskope. Stereoskope. Eine Laterna magica und eine Projektionslaterne. Ein kleines Praxinoskop-Theater. Sind sie heute in den Vitrinen, schauen Sie sie an. [amused] Ihre Namen machen mehr Mühe als die Spielzeuge.
+
+Vielleicht gibt es auch Chronofotografien von Étienne-Jules Marey. Und eine Säule, an der Sie Autochrome betrachten können, die Farbfotografien der Brüder Lumière.
+
+[quietly] Denken Sie an die Zinkfiguren, die Sie gerade verlassen haben. Licht hinter einem Schirm, ein Publikum im Dunkeln, Bilder, die sich bewegen. Hier wird derselbe Wunsch endlich wahr.
+
+[pause] Gehen Sie nun den Weg zurück, zur zweiten großen Uhr. Daneben liegt das Café Campana, bei den Sälen 38 und 39. Bleiben Sie an der Schwelle stehen und spielen Sie dort den passenden Titel ab.

@@ -1,0 +1,28 @@
+@id: 033 · DE · Room 31 · Level 5
+@section: Impressionism
+@room: Room 31 · Level 5
+@type: R
+@title: Degas — La Classe de danse (Die Tanzklasse)
+@where: Saal 31, Ebene 5, derselbe Saal wie Monets Gare Saint-Lazare und Caillebottes Parketthobler. Eine Ballettklasse in einem Probensaal, der Ballettmeister inmitten seiner jungen Schülerinnen.
+@what: Edgar Degas, La Classe de danse, The Dance Class, 1873–1876, oil on canvas, 85.5 × 75 cm. Bequest of Count Isaac de Camondo, 1911.
+@listen: A real ballet master in a class that never happened, in an opera house that had already burned down.
+@brief: Letting a friend in on a well-made illusion; conspiratorial at first, then amused and attentive as you hunt for the tired dancers.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R3 033 (1873–1876; 85.5 × 75; Camondo bequest 1911; teacher a portrait of the ballet master Jules Perrot; the class is ending, the pupils exhausted: they stretch, twist to scratch their backs, adjust hair or clothes; room 31): https://www.musee-orsay.fr/en/artworks/la-classe-de-danse-1151 (OFF) ; A3 25.2 (an imaginary scene, set in the old Opéra on rue Le Peletier, which had burned down, OFF) ; A3 25.5 (commissioned by the baritone Faure, OFF) ; FACTS_R3 025 (Faure owned Manet's Déjeuner, OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Diese Unterrichtsstunde hat nie stattgefunden, jedenfalls nicht so. Degas hat sie erfunden, so wie ein Bühnenbildner ein Bühnenbild erfindet.
+
+Der Lehrer dagegen ist echt: Jules Perrot, ein berühmter Ballettmeister. Degas malte ihn als Porträt. Doch die Szene um ihn herum ist erfunden. Sie spielt im Probensaal der alten Opéra in der Rue Le Peletier. Nicht in Garniers Bau, den Sie unten als Modell gesehen haben, sondern im älteren Haus. [pause] Und als Degas an diesem Bild arbeitete, war dieses Opernhaus schon abgebrannt.
+
+[pause] Ein Mann, den es wirklich gab, unterrichtet also eine Klasse, die nie stattfand, in einem Saal, den es nicht mehr gab.
+
+Wer wollte das Bild? Ausgerechnet ein Sänger. Es war ein Auftrag von Jean-Baptiste Faure, dem Opernbariton. Ihm gehörte auch Manets Déjeuner sur l'herbe.
+
+[amused] Das Schönste sind aber die Tänzerinnen. Die Stunde geht zu Ende, und sie sind erschöpft. Schauen Sie durch den Saal. Sie dehnen sich, richten ihr Haar, zupfen an ihren Kleidern. Eine dreht sich, um sich am Rücken zu kratzen. [pause] Sehen Sie, ob Sie sie finden. Es ist die am wenigsten ballettartige Geste im Saal, und Degas hat sie mit Absicht gemalt.
+
+Das ist sein Trick. Er gibt Ihnen den großen alten Probensaal und den berühmten Lehrer. Und dann zeigt er Ihnen, wie sich das Ende einer langen Stunde wirklich anfühlt. Müde Mädchen, und ein Juckreiz.
+
+[pause] Gleich nebenan, in Saal 32, wartet eine echte Tänzerin: Degas' Skulptur, die Petite danseuse de quatorze ans. Starten Sie ihren Titel, wenn Sie bei ihr sind.

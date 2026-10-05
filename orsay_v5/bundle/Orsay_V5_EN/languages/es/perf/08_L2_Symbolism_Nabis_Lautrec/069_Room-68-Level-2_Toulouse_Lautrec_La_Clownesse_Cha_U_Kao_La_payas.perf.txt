@@ -1,0 +1,28 @@
+@id: 069 · ES · Room 68 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 68 · Level 2
+@type: R
+@title: Toulouse-Lautrec — La Clownesse Cha-U-Kao (La payasa Cha-U-Kao) y La Goulue
+@where: Sala 68 del nivel 2, la sala de Toulouse-Lautrec. Cha-U-Kao es un cuadro pequeño sobre cartón de una payasa en un reservado, que se ajusta un gran volante amarillo, con paredes verdes y un sofá rojo. Es posible que los dos monumentales paneles de la barraca de la Goulue no estén expuestos en esta sala.
+@what: Henri de Toulouse-Lautrec, La Clownesse Cha-U-Kao (The Clown Cha-U-Kao), 1895, oil on cardboard, 58 × 43 cm, Isaac de Camondo bequest, 1911. Panneaux pour la baraque de la Goulue, à la Foire du Trône à Paris (Panels for La Goulue's Booth at the Foire du Trône), 1895, oil.
+@listen: A clown whose stage name is a pun, a stranger in a mirror, and two fairground panels that were cut up and pieced back together.
+@brief: Taking a friend backstage at the Paris shows of the 1890s; amused by the name, curious about the man in the mirror, then telling the panels' odd survival story with quiet relish.
+@pace: medium
+@energy: 3→3→4→2
+@sources: FACTS_R5 061a Cha-U-Kao (1895, oil on cardboard, 58 × 43, RF 2027, Camondo bequest 1911; dressing or private room, large yellow ruffle, yellow ribbon "almost ironically" tying her white toupee, portrait or mirror reflecting an elderly man who "could be a close friend, an admirer or a customer", green walls, red sofa; dancer and clown at the Nouveau Cirque and Moulin Rouge; name = "chahut" + "chaos"): https://www.musee-orsay.fr/en/artworks/clownesse-cha-u-kao-724 (OFF) ; FACTS_R5 061b La Goulue panels (1895; booth at the Foire du Trône; left La Danse au Moulin-Rouge with Valentin le Désossé, right La Danse mauresque; hung outside, exposed to the elements; bought by Viau 1900; cut up by the Hodebert gallery 1926; acquired 1929; reconstituted 1930; location unconfirmed, older plan-guides level 5): https://www.musee-orsay.fr/en/artworks/panneaux-pour-la-baraque-de-la-goulue-la-foire-du-trone-paris-3007 (OFF) ; FACTS_R5 068 (next cue: Balzac, Terrasse Rodin; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 069 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Su nombre artístico suena japonés. [pause] En realidad es un juego de palabras.
+
+Cha-U-Kao era bailarina y payasa en el Nouveau Cirque y el Moulin Rouge. Dígalo en voz alta y oirá dos palabras francesas. Chahut, un baile acrobático y desenfrenado nacido del cancán. Y chaos, el alboroto al salir ella a escena.
+
+Lautrec no la pinta actuando, sino en un reservado, luchando por ajustarse un gran volante amarillo a lo alto del traje. El volante casi llena el cuadro. Una cinta amarilla le sujeta el tupé blanco, casi con ironía, dice el museo. Paredes verdes, un sofá rojo y pinceladas rápidas por todas partes.
+
+[curious] Ahora mire encima de la mesita. En un espejo, o quizá en un retrato, hay un hombre mayor. [pause] Podría ser un amigo íntimo, un admirador o un cliente.
+
+La otra gran estrella del París de Lautrec era la Goulue. En 1895 quiso su propia barraca en la Foire du Trône, la feria de París, y Lautrec pintó dos paneles monumentales para la entrada. En uno baila en el Moulin Rouge con Valentin le Désossé, la pareja que hizo famosos esos bailes. En el otro, hace la llamada danza mora que ofrecía dentro.
+
+[pause] Esos paneles estuvieron a la intemperie hasta que los rescató un coleccionista. Luego un marchante los troceó para venderlos. En 1930, el Estado los volvió a unir. No siempre se exponen junto a Cha-U-Kao. Si no los ve aquí, llévese la historia.
+
+Camine hacia el este por la terraza de esculturas sobre la nave central, hasta la Terrasse Rodin, junto a la sala 67, al fondo de esta planta. Busque el imponente Balzac de yeso de Rodin, y escuche su pista allí.

@@ -1,0 +1,28 @@
+@id: 004 · FR · Room 1 · Level 0
+@section: Academic Art
+@room: Room 1 · Level 0 · Lille side
+@type: R
+@title: Ingres — La Source
+@where: Dans la salle 1, la première salle côté rue de Lille au niveau 0, devant une toile haute et étroite : un nu debout, comme placé dans une niche.
+@what: Jean-Auguste-Dominique Ingres, La Source, The Spring, begun around 1820 in Florence and finished in Paris in 1856, oil on canvas, 163 × 80 cm.
+@listen: A painting that took thirty-six years and other people's hands, and the collector who staged it among real water plants.
+@brief: Telling a friend a slightly unexpected story about a famously serene picture; curious, then amused at the potted plants, calm and admiring at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R1 004 (begun c.1820 Florence, finished 1856 Paris; 163 × 80; pupils Paul Balze and Alexandre Desgoffe did accessories and background, "a common practice for large formats"; bought by Count Duchâtel 1857 for 25,000 francs; staged among "large plants and aquatic flowers"; Countess Duchâtel bequest to the Louvre 1878; "as if in an alcove", "immobility of a marble statue", influence of sculpture "striking"; Ingres born 1780, so 76 in 1856 (A1)): https://www.musee-orsay.fr/en/artworks/la-source-525 (OFF), https://www.musee-orsay.fr/fr/oeuvres/rez-de-chaussee-cote-lille-premiere-salle-la-source-de-jean-auguste-dominique-ingres-acheve-laide-de-paul-balze-et-alexandre-desgoffe-127831 (OFF) ; A1 Track 04 rows 3–4
+@lang: fr
+@translation: from the fact-checked English Orsay V5 004 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cette figure paisible a mis trente-six ans à voir le jour. Et Ingres ne l'a pas achevée seul.
+
+Il commence le tableau à Florence, vers 1820. Des décennies passent. Il ne le termine qu'à Paris, en 1856, à soixante-seize ans. Pour en venir à bout, il fait appel à deux de ses élèves, Paul Balze et Alexandre Desgoffe. Ils peignent les accessoires et le fond. C'était une pratique courante pour les grands formats.
+
+Regardez comment il la place. La toile est haute et étroite, et elle s'y tient comme dans une niche. Entre ce cadre et sa pose, elle prend l'immobilité d'une statue de marbre. La dette d'Ingres envers la sculpture saute aux yeux. [pause] Elle n'est pas saisie sur le vif. Elle est posée, comme une figure sculptée.
+
+[amused] Son premier propriétaire voulait l'effet inverse. Un an après l'achèvement, le comte Duchâtel achète le tableau à Ingres pour vingt-cinq mille francs. Chez lui, il l'entoure de grandes plantes et de fleurs aquatiques. Il voulait que la nymphe de la source ait encore plus l'air d'une personne réelle. [pause] Une statue peinte, à qui l'on offre un petit jardin pour respirer.
+
+La comtesse Duchâtel a plus tard légué le tableau au Louvre. Il est arrivé ici à l'ouverture du musée.
+
+[pause] Alors reculez un peu, et voyez ce qui l'emporte pour vous. Une femme, ou une statue. Ingres, je crois, voulait que vous ressentiez les deux à la fois.
+
+Deux Vénus très différentes vous attendent dans la salle 3. Placez-vous entre les deux, puis écoutez leur piste.

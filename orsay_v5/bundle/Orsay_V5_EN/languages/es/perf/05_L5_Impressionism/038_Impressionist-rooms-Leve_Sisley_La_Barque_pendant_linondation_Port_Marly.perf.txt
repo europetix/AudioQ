@@ -1,0 +1,26 @@
+@id: 038 · ES · Impressionist rooms
+@section: Impressionism
+@room: Impressionist rooms · Level 5
+@type: R
+@title: Sisley — La Barque pendant l'inondation, Port-Marly (La barca durante la inundación)
+@where: En las salas impresionistas del nivel 5; la sala no está confirmada. Busque una pequeña escena de inundación: una casa de paredes rosadas y amarillas, en ángulo, con un cielo amplio arriba y el agua de la crecida por todas partes.
+@what: Alfred Sisley, La Barque pendant l'inondation, Port-Marly, The Boat in the Flood, 1876, oil on canvas, 50.4 × 61 cm. Bequest of comte Isaac de Camondo, 1911.
+@listen: The first owner whose household later joined Monet's, the spring the Seine came into town, and the six pictures Sisley made of it.
+@brief: Pointing out a quiet small picture to a friend after the noise of the dance; gently amused at the owner's story, then calm and observant.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R3 038 Sisley (official title; 1876; 50.4 × 61; provenance Hoschedé → Durand-Ruel → Camondo → bequest 1911 → Orsay 1986; moved to Marly-le-Roi 1874; spring 1876 flood, six pictures; house at an angle, much sky and water in broad strokes, pink and yellow walls painted precisely): https://www.musee-orsay.fr/en/artworks/la-barque-pendant-linondation-port-marly-1107 (OFF) ; A3 23.4 (Alice Hoschedé married Monet, July 1892, SEC2)
+@lang: es
+@translation: from the fact-checked English Orsay V5 038 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Esta tranquila escenita de inundación nació en un hogar que acabaría unido al de Monet. Su primer dueño fue un tal Hoschedé, y su esposa se llamaba Alice. Años después, Alice Hoschedé se casó con Claude Monet. El cuadro siguió su propio camino, hasta el coleccionista Isaac de Camondo, que lo legó a la nación. [pause] Volverá a oír su nombre con las catedrales.
+
+Pero el cuadro, en sí, trata del agua. La misma primavera en que Renoir pintaba a sus bailarines, el Sena se salió de su cauce.
+
+Sisley se había mudado a Marly-le-Roi dos años antes. Cuando el río inundó Port-Marly en la primavera de 1876, salió a pintarlo, y no una sola vez. Hizo seis cuadros de esa inundación, y este es uno de ellos.
+
+[curious] Fíjese en cómo divide el trabajo en dos. El cielo y el agua ocupan casi todo el lienzo, y los pinta con pinceladas ligeras y amplias. Luego, la casa. Está en ángulo, y sus paredes rosadas y amarillas están pintadas con verdadera precisión. La barca del título está ahí fuera, sobre la crecida.
+
+[pause] Todo lo que se mueve está pintado con soltura, y lo único inmóvil, con firmeza. [quietly] Dele un minuto después del bullicio del baile. Un cuadro pequeño, y todo un río fuera de su lugar.
+
+Siga hasta la sala 34 y busque cinco cuadros de la misma fachada de catedral, uno junto al otro. Escuche su pista allí.

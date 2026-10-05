@@ -1,0 +1,30 @@
+@id: 022 · ES · Central sculpture aisle · Level 0
+@section: Nave End
+@room: Central sculpture aisle · Level 0
+@type: W
+@title: Carpeaux — La Danse (La danza)
+@where: En el pasillo central de esculturas del nivel 0. El gran grupo de piedra, de más de cuatro metros de alto: seis mujeres que bailan en corro alrededor del Genio de la Danza, con un pequeño putto.
+@what: Jean-Baptiste Carpeaux, La Danse, The Dance, 1869, Échaillon stone, 420 × 298 × 145 cm, about 18 tonnes. The original group from the façade of the Paris Opéra.
+@listen: An ink attack, a sculpture saved by a war, and why the group on the Opéra today is a copy.
+@brief: Telling a friend a juicy bit of Paris scandal in front of the object itself; conspiratorial at the start, brisk through the drama, warm and admiring at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 019 La Danse (1869, Échaillon stone, 420×298×145 cm, 18,000 kg; original stone in the "Allée centrale des sculptures"; 1863 commission by Garnier of four groups from four Prix de Rome winners; three years of sketches and models; ring round the Genius of Dance; outcry at realism and nudity; bottle of ink on the night of 26–27 Aug 1869; war of 1870, fall of the Empire and Carpeaux's death saved it; copy on the façade since 1964; original to the Louvre, then Orsay 1986): https://www.musee-orsay.fr/en/artworks/la-danse-1704 and works-in-focus la-danse-7092 (OFF) ; six bacchantes and a putto: A2 13.5 (SEC2) ; replacement commission to Gumery, who died Jan 1871: A2 13.7 (SEC2) ; Opéra opened 5 Jan 1875, Carpeaux died 12 Oct 1875 aged 48: A2 13.4 and Confirmed OK (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 022 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Una noche de finales de agosto de 1869, alguien lanzó una botella de tinta contra esta escultura. Acababa de inaugurarse en la fachada de la nueva Ópera de Charles Garnier, y muchos parisinos estaban furiosos.
+
+Garnier había encargado cuatro grupos para su fachada, a cuatro escultores, todos ganadores del Premio de Roma. A Carpeaux le tocó la Danza. Dedicó tres años a bocetos y maquetas. Entregó esto: un corro arremolinado de seis mujeres alrededor del Genio de la Danza, con un pequeño putto a sus pies.
+
+[pause] Y el público se indignó. No por la idea de la danza, sino por estos cuerpos. Eran demasiado reales, y estaban demasiado desnudos, para la fachada de un teatro de ópera.
+
+Se encargó un grupo de sustitución a otro escultor, llamado Gumery. [amused] Entonces intervino la historia. Llegó la guerra con Prusia, cayó el Imperio, y el propio Gumery murió a principios del año siguiente.
+
+Carpeaux no sobrevivió mucho a la polémica. Murió nueve meses después de que la Ópera se inaugurara por fin, a los cuarenta y ocho años. [pause] La guerra, la caída del Imperio, su muerte. Entre las tres, salvaron a sus bailarinas de ser retiradas.
+
+[warmly] Ahora mire el corro. Recórralo entero con la mirada, figura a figura. [pause] Gira. Es piedra, unas dieciocho toneladas, y todavía parece moverse.
+
+Si hoy pasa frente a la Ópera, verá a estas bailarinas en su fachada. [long pause] Pero desde 1964, el grupo de la fachada es una copia. El original fue al Louvre, y cuando abrió este museo, vino aquí. Así que las bailarinas salpicadas un día de tinta son las que tiene delante.
+
+Las bailarinas de Carpeaux se hicieron para la Ópera, y la propia Ópera le espera al fondo de la nave. Busque allí, en el espacio de la Ópera, la gran maqueta de su barrio, vista desde arriba, y escuche su pista.

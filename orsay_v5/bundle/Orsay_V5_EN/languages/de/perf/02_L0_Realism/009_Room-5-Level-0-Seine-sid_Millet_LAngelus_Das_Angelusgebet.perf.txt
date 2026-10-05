@@ -1,0 +1,28 @@
+@id: 009 · DE · Room 5 · Level 0
+@section: Realism
+@room: Room 5 · Level 0 · Seine side
+@type: R
+@title: Millet — L'Angélus (Das Angelusgebet)
+@where: Im Millet-Saal, Saal 5, auf der Seine-Seite von Ebene 0, oder ganz in der Nähe in der Galerie Seine 1, der Galerie der Sammlung Alfred Chauchard. Chauchard vermachte das Bild dem Louvre, und es hängt vielleicht beim Rest seiner Sammlung. Suchen Sie eine kleine Leinwand, etwa 55 mal 66 Zentimeter: ein Mann und eine Frau haben auf einem Kartoffelfeld die Arbeit unterbrochen, mit Gabel, Korb, Säcken und Schubkarre.
+@what: Jean-François Millet, L'Angélus, The Angelus, 1857–1859, oil on canvas, 55.5 × 66 cm. Bequest of Alfred Chauchard.
+@listen: The grandmother behind the painting, and the strange fame that followed it.
+@brief: Passing on a family memory, gently, to a friend; tender at the grandmother, a little more animated at the painting's wild later life, quiet at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R1 010 (1857–1859; 55.5 × 66; couple reciting the Angelus, which commemorates the Annunciation; stopped the potato harvest; fork, basket, sacks and wheelbarrow; Millet's 1865 account quoted in the museum's translation; childhood memory, not religious exaltation; Millet not a practising Catholic; 1889 Secrétan sale to the American Art Association; Alfred Chauchard 1890–1909, bequest to the Louvre; Dalí's veneration, slashed by a disturbed man in 1932, a world icon in the 20th century; room not found): https://www.musee-orsay.fr/en/artworks/langelus-345 (OFF), https://m.musee-orsay.fr/en/works/commentaire_id/the-angelus-339.html (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 009 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Als Millet dieses Bild erklärte, sprach er nicht vom Glauben. Er sprach von seiner Großmutter.
+
+Jahre später sagte er es so, in der Übersetzung des Museums. [pause] „L'Angélus ist ein Bild, das ich geschaffen habe, als ich an meine Großmutter dachte. Wenn wir einst auf dem Feld arbeiteten und die Kirchenglocke läutete, versäumte sie nie, uns die Arbeit unterbrechen zu lassen, um den Angelus für die armen Seelen zu beten.“
+
+Der Angelus ist ein Gebet, das an die Verkündigung erinnert. Doch Millet malte eine Kindheitserinnerung, keine religiöse Inbrunst. Er selbst war kein praktizierender Katholik.
+
+Sehen Sie, wie wenig er Ihnen gibt. Es ist ein kleines Bild, kleiner als die meisten erwarten. Ein Mann und eine Frau haben mitten in der Kartoffelernte innegehalten. Um sie herum liegt ihr Werkzeug: eine Gabel, ein Korb, Säcke, eine Schubkarre. Nichts geschieht. [pause] Genau darum geht es. Die Arbeit ruht, weil eine Glocke geläutet hat.
+
+[curious] Dann hatte dieses stille Bild ein sehr lautes Leben. 1889 wurde es auf einer Auktion an die American Art Association verkauft. Bald darauf gehörte es dem Sammler Alfred Chauchard, und er vermachte es dem Louvre. Im zwanzigsten Jahrhundert wurde es weltweit zur Ikone. Salvador Dalí verehrte es. [pause] Und 1932 schlitzte ein geistig verwirrter Mann es auf.
+
+[quietly] All das für zwei Menschen, die still auf einem Feld stehen. Weil eine alte Frau einem Jungen beigebracht hatte, innezuhalten und zu lauschen.
+
+Gehen Sie als Nächstes weiter in Saal 7. Dort füllt Courbets Un enterrement à Ornans, Ein Begräbnis in Ornans, eine ganze Wand. Mehr als sechs Meter breit, mit einer Menge lebensgroßer Dorfbewohner bei einer Beerdigung. Sie können es nicht verfehlen. Spielen Sie dort den passenden Titel ab.

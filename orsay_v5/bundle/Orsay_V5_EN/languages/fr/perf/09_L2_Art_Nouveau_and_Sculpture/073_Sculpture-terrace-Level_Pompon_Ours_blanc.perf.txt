@@ -1,0 +1,28 @@
+@id: 073 · FR · Sculpture terrace · Level 2
+@section: Art Nouveau and Sculpture
+@room: Sculpture terrace · Level 2
+@type: R
+@title: Pompon — Ours blanc
+@where: Sur la terrasse des sculptures du niveau 2, au-dessus de la nef. Cherchez un grand ours blanc en pierre, long d'environ deux mètres et demi.
+@what: François Pompon, Ours blanc, Polar Bear, stone, 163 × 251 × 90 cm, carved 1923–33 after a State commission of 1927. Assigned to Orsay in 1986.
+@listen: The man who carved marble for Rodin and Claudel, and found fame at sixty-seven with a bear.
+@brief: A friend telling an underdog story with real pleasure; amused at the start, brisk through the career, curious at his own words, warm at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R5 067 Pompon — Ours blanc (stone, 163 × 251 × 90 cm; State commission 1927; carved by his practitioner Jean-Joachim Supéry at Malakoff, delivered 16 Feb 1929; Musée du Luxembourg from 1929, Orsay 1986; current page location "Terrasse des sculptures 1880-1910"; Pompon a sought-after practitioner carving marble for Rodin and Camille Claudel; from 1905 left the human figure for animals observed at the Jardin des Plantes, reacting against Rodin's expressionism; the plaster Ours blanc at the 1922 Salon d'Automne gave him his first public success at 67 (said as "first shown in 1922", not this stone); quote verbatim "I keep a large number of details…"; Pompon as source of the Balzac dressing-gown story): https://www.musee-orsay.fr/en/artworks/ours-blanc-15496 ; m.musee-orsay.fr …/ours-blanc-365.html ; Basilico photo …-148471 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 073 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] François Pompon est devenu célèbre à soixante-sept ans.
+
+Jusque-là, il était l'un des praticiens les plus recherchés de Paris. Il taillait le marbre pour d'autres sculpteurs. Parmi eux, Rodin, et Camille Claudel, dont vous avez vu le bronze salle 55. Puis, à partir de 1905, il rejette le style expressif de Rodin, et abandonne complètement la figure humaine. Il va au Jardin des Plantes, à Paris, observer les animaux.
+
+Son ours blanc est d'abord exposé en plâtre au Salon d'Automne de 1922. Il lui apporte son premier succès public. Cette version est en pierre, longue d'environ deux mètres et demi. L'État l'a commandée en 1927. Son propre praticien, Jean-Joachim Supéry, l'a taillée à Malakoff. [pause] L'homme qui avait taillé pour Rodin avait désormais quelqu'un qui taillait pour lui.
+
+[curious] Pompon décrivait ainsi sa méthode. « Je conserve un grand nombre de détails destinés à disparaître. Je fais l'animal avec presque tous ses falbalas. Et puis petit à petit, j'élimine… »
+
+[pause] Longez lentement l'ours en gardant cela en tête. Qu'a-t-il enlevé ? Et combien d'ours reste-t-il ?
+
+[warmly] Eh oui, c'est bien le même Pompon qui racontait l'histoire de la robe de chambre, devant le Balzac de Rodin.
+
+[pause] Restez sur les terrasses des sculptures. Cherchez une femme assise en marbre de Maillol, et l'archer de Bourdelle en bronze doré, qui bande son arc. Écoutez leur piste là-bas.

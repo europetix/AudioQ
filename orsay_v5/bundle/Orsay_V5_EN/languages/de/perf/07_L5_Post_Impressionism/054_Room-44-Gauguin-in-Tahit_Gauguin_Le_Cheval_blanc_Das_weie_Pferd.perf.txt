@@ -1,0 +1,30 @@
+@id: 054 · DE · Room 44 · Level 5
+@section: Post-Impressionism
+@room: Room 44 · Gauguin in Tahiti · Level 5
+@type: R
+@title: Gauguin — Le Cheval blanc (Das weiße Pferd)
+@where: Auf Ebene 5 in der Galerie Françoise Cachin, im Saal Gauguin auf Tahiti, laut Plan Saal 44. Vor einem Hochformat, etwa 1,4 Meter hoch: ein helles Pferd trinkt aus einem Bach, dahinter zwei Reiter. Die Saalnummer ist aus dem Plan erschlossen. Sehen Sie bei Bedarf in der Nähe nach.
+@what: Paul Gauguin, Le Cheval blanc, The White Horse, 1898, oil on canvas, 140.5 × 92 cm, RF 2616. Painted during his second stay in Tahiti. From the collection of Daniel de Monfreid, acquired 1927.
+@listen: A commission turned down over the colour of a horse, and a Tahiti that Gauguin made up.
+@brief: A friend enjoying a small absurdity, then slowing down to look at a dreamlike picture; light at first, then hushed.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R7 Le Cheval blanc (1898, 140.5 × 92, RF 2616; second Tahiti stay; Monfreid collection until 1927; restored for the 10 Sep 2019 reopening, vibrant colours back; imaginary "synthetic" landscape; white horse tinged with the green of the vegetation, drinking in a vertical stream; two nude riders bareback behind; greens from grass to emerald, deep blues, orange and pink notes, coppery skin; sacred animal; probably symbolic, soul's passage; white linked to death and worship of the gods in Polynesia; pharmacist refused it because the horse was too green, as the museum's account): https://www.musee-orsay.fr/en/node/21142 and works-in-focus the-white-horse-3088 (OFF) ; room 44 "Gauguin à Tahiti" (Galerie Françoise Cachin): findings/M_planguide_ete_2026.md (OFF), room inferred
+@lang: de
+@translation: from the fact-checked English Orsay V5 054 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Dieses Pferd war, so erzählt man, einfach zu grün.
+
+Das ist die Darstellung des Museums selbst. Ein Apotheker auf Tahiti hatte das Bild bei Gauguin bestellt. Die gewagte Farbe gefiel ihm nicht. Er lehnte es ab, weil das Pferd zu grün war.
+
+[pause] Gauguin malte es 1898, während seines zweiten Aufenthalts auf Tahiti. Es kam zu Daniel de Monfreid. Dort blieb es in der Sammlung, bis es 1927 ins Museum gelangte.
+
+[pause] Sehen Sie nun, was der Apotheker ablehnte. Ein weißes Pferd trinkt. Es steht in einem Bach, der senkrecht durch das Bild hinabläuft. Sein Fell hat das Grün der Pflanzen ringsum angenommen. Dahinter reiten zwei nackte Reiter ohne Sattel in die Ferne.
+
+[quietly] Das ist keine Szene, die Gauguin zufällig sah. Es ist ein erdachtes Tahiti, eine synthetische Landschaft, kein Blick nach der Natur. Die Grüntöne reichen von Gras bis Smaragd, gegen tiefe Blautöne gesetzt. Kleine Akzente in Orange und Rosa antworten ihnen, dazu die kupferfarbene Haut der Reiter.
+
+Eine Restaurierung, abgeschlossen zur Wiedereröffnung dieser Säle, gab dem Bild seine leuchtenden Farben zurück.
+
+Das Pferd ist hier ein heiliges Tier und trägt wahrscheinlich eine Bedeutung. In Polynesien war Weiß mit dem Tod verbunden und mit der Verehrung der Götter. Das einsame Pferd hängt vielleicht mit tahitianischen Vorstellungen zusammen, von der Reise der Seele in eine andere Welt. [long pause] Zu grün für einen Apotheker, vielleicht. Aber nicht für einen Traum.
+
+Ganz in der Nähe, in dieser Galerie, finden Sie eine stehende Figur aus Steinzeug, etwa fünfundsiebzig Zentimeter hoch. Sie steht über dem Körper eines toten Wolfs. Das ist Gauguins Oviri. Spielen Sie dort den passenden Titel ab.

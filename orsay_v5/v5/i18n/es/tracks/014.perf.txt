@@ -1,0 +1,28 @@
+@id: 014 · ES · Room 14 · Level 0 · Seine side
+@section: Manet and Friends
+@room: Room 14 · Level 0 · Seine side
+@type: R
+@title: Manet — Le Fifre y Émile Zola
+@where: Sala 14, la misma sala que Olympia. Le Fifre es el retrato alto de un muchacho de una banda militar sobre un fondo liso. Émile Zola muestra al escritor sentado a su mesa de trabajo, con cuadros en la pared detrás de él.
+@what: Édouard Manet, Le Fifre, The Fifer, 1866, oil on canvas, 160.5 × 97 cm, Camondo bequest 1911; and Émile Zola, 1868, oil on canvas, 146 × 114 cm, given by Madame Zola in 1918.
+@listen: A painting the Salon turned down, and the portrait Manet painted to thank the writer who defended him.
+@brief: Pointing a friend from one picture to the next to show how they connect; brisk and curious, then pleased by the hidden signature.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 015a Le Fifre (1866, 160.5×97, RF 1992, Camondo 1911; unnamed boy from a military band, "dignity of a Spanish grandee", flat colour, thick streaks of white, plain ground; Prado 1865, Velázquez's Pablo de Valladolid, "the most astonishing piece of painting ever done" written to Fantin-Latour; rejected by the 1866 Salon jury; fired Zola's enthusiasm): https://www.musee-orsay.fr/en/artworks/le-fifre-709 (OFF) ; FACTS_R2 015b Émile Zola (1868, 146×114, Mme Zola 1918; thanks for Zola's written defence; work table, book, inkwell, quill; reproduction of Olympia, Zola thought it Manet's best; print after Velázquez's Bacchus; Japanese wrestler print by Utagawa Kuniaki II; Japanese screen on the left; blue pamphlet carries Manet's signature as the painting's signature): https://www.musee-orsay.fr/en/artworks/emile-zola-713 (OFF) ; room 14: G (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 014 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Estos dos cuadros cuentan una sola historia. Empieza con un rechazo y termina con una nota de agradecimiento pintada al óleo.
+
+En 1865, Manet viajó a España y vio el Prado por primera vez. Un retrato de Velázquez, el de Pablo de Valladolid, lo deslumbró. Le escribió a Fantin-Latour que era «el trozo de pintura más asombroso que jamás se haya hecho».
+
+De vuelta en París, pintó Le Fifre, El pífano. Mírelo. Un muchacho cualquiera de una banda militar, sin nombre ni decorado, solo un fondo liso. Zonas planas de color, gruesos trazos de blanco. [pause] Y aun así, como dice el museo, tiene la dignidad de un grande de España.
+
+[pause] El jurado del Salón de 1866 lo rechazó. Pero fue uno de los cuadros que entusiasmaron a Émile Zola, autor luego de un folleto en defensa de Manet.
+
+El retrato de Zola es el agradecimiento de Manet. [warmly] Zola está sentado a su mesa, con un libro, un tintero y una pluma. En la pared, detrás, cuelga una reproducción de Olympia, el cuadro que Zola creía el mejor de Manet. Detrás de ella, un grabado según Velázquez y una estampa japonesa de un luchador. A la izquierda, un biombo japonés.
+
+Ahora busque el folleto azul sobre la mesa. Es la defensa de Manet que escribió Zola. [long pause] Y lleva el nombre de Manet. Esa es la firma de todo el cuadro.
+
+Fantin-Latour también pintó a estos amigos, Manet incluido. Busque su gran retrato de grupo, Un atelier aux Batignolles, en la Galerie Seine 2, la galería de retratos de la década de 1860, del lado del río en esta planta, y escuche su pista allí.

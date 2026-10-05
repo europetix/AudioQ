@@ -1,0 +1,28 @@
+@id: 009 · FR · Room 5 · Level 0
+@section: Realism
+@room: Room 5 · Level 0 · Seine side
+@type: R
+@title: Millet — L'Angélus
+@where: Dans la salle Millet, la salle 5, côté Seine, au niveau 0, ou tout près, dans la Galerie Seine 1, la galerie de la collection Alfred Chauchard : Chauchard a légué le tableau au Louvre, et il peut être accroché avec le reste de sa collection. Cherchez une petite toile d'environ 55 sur 66 centimètres : un homme et une femme ont interrompu leur travail dans un champ de pommes de terre, avec une fourche, un panier, des sacs et une brouette.
+@what: Jean-François Millet, L'Angélus, The Angelus, 1857–1859, oil on canvas, 55.5 × 66 cm. Bequest of Alfred Chauchard.
+@listen: The grandmother behind the painting, and the strange fame that followed it.
+@brief: Passing on a family memory, gently, to a friend; tender at the grandmother, a little more animated at the painting's wild later life, quiet at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R1 010 (1857–1859; 55.5 × 66; couple reciting the Angelus, which commemorates the Annunciation; stopped the potato harvest; fork, basket, sacks and wheelbarrow; Millet's 1865 account quoted in the museum's translation; childhood memory, not religious exaltation; Millet not a practising Catholic; 1889 Secrétan sale to the American Art Association; Alfred Chauchard 1890–1909, bequest to the Louvre; Dalí's veneration, slashed by a disturbed man in 1932, a world icon in the 20th century; room not found): https://www.musee-orsay.fr/en/artworks/langelus-345 (OFF), https://m.musee-orsay.fr/en/works/commentaire_id/the-angelus-339.html (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 009 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Quand Millet expliquait ce tableau, il ne parlait pas de foi. Il parlait de sa grand-mère.
+
+Des années après l'avoir peint, il l'a raconté ainsi. [pause] « L'Angélus est un tableau que j'ai fait en pensant comment, en travaillant autrefois dans les champs, ma grand-mère ne manquait pas, en entendant sonner la cloche, de nous faire arrêter notre besogne pour dire l'angélus pour ces pauvres morts. »
+
+L'angélus est une prière qui rappelle l'Annonciation. Mais ce que Millet a peint, c'est un souvenir d'enfance, pas une ferveur religieuse. Lui-même n'était pas catholique pratiquant.
+
+Regardez comme il vous donne peu. C'est un petit tableau, plus petit qu'on ne l'imagine. Un homme et une femme se sont arrêtés en pleine récolte de pommes de terre. Autour d'eux, leurs outils : une fourche, un panier, des sacs, une brouette. [pause] Il ne se passe rien. Tout est là. Le travail s'est arrêté parce qu'une cloche a sonné.
+
+[curious] Puis ce tableau silencieux a eu une vie très bruyante. En 1889, il est vendu aux enchères à l'American Art Association. Peu après, le collectionneur Alfred Chauchard le possède, et il le lègue au Louvre. Au vingtième siècle, il devient une icône dans le monde entier. Salvador Dalí le vénère. [pause] Et en 1932, un déséquilibré le lacère.
+
+[quietly] Tout cela, pour deux personnes immobiles dans un champ, parce qu'une vieille femme avait appris à un petit garçon à s'arrêter pour écouter.
+
+Rendez-vous ensuite dans la salle 7. Un enterrement à Ornans, de Courbet, y occupe tout un mur : plus de six mètres de large, une foule de villageois grandeur nature à un enterrement. Impossible de le manquer. Sa piste commence là-bas.

@@ -1,0 +1,28 @@
+@id: 004 · ES · Room 1 · Level 0
+@section: Academic Art
+@room: Room 1 · Level 0 · Lille side
+@type: R
+@title: Ingres — La Source (El manantial)
+@where: En la sala 1, la primera del lado de la rue de Lille en el nivel 0, frente a un lienzo alto y estrecho de un desnudo de pie, colocado como en una hornacina.
+@what: Jean-Auguste-Dominique Ingres, La Source, The Spring, begun around 1820 in Florence and finished in Paris in 1856, oil on canvas, 163 × 80 cm.
+@listen: A painting that took thirty-six years and other people's hands, and the collector who staged it among real water plants.
+@brief: Telling a friend a slightly unexpected story about a famously serene picture; curious, then amused at the potted plants, calm and admiring at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R1 004 (begun c.1820 Florence, finished 1856 Paris; 163 × 80; pupils Paul Balze and Alexandre Desgoffe did accessories and background, "a common practice for large formats"; bought by Count Duchâtel 1857 for 25,000 francs; staged among "large plants and aquatic flowers"; Countess Duchâtel bequest to the Louvre 1878; "as if in an alcove", "immobility of a marble statue", influence of sculpture "striking"; Ingres born 1780, so 76 in 1856 (A1)): https://www.musee-orsay.fr/en/artworks/la-source-525 (OFF), https://www.musee-orsay.fr/fr/oeuvres/rez-de-chaussee-cote-lille-premiere-salle-la-source-de-jean-auguste-dominique-ingres-acheve-laide-de-paul-balze-et-alexandre-desgoffe-127831 (OFF) ; A1 Track 04 rows 3–4
+@lang: es
+@translation: from the fact-checked English Orsay V5 004 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta figura tan serena tardó treinta y seis años en llegar. Y Ingres no la terminó solo.
+
+Empezó el cuadro en Florencia, hacia 1820. Pasaron décadas. Solo lo terminó en París en 1856, a los setenta y seis años. Y para acabarlo, recurrió a dos de sus alumnos, Paul Balze y Alexandre Desgoffe. Ellos pintaron los accesorios y el fondo. Era una práctica habitual en los grandes formatos.
+
+Mire cómo la coloca. El lienzo es alto y estrecho, y ella está de pie como en una hornacina. Entre ese marco y su pose, adquiere la quietud de una estatua de mármol. La deuda de Ingres con la escultura salta a la vista. [pause] No está captada en un instante. Está colocada, como algo tallado.
+
+[amused] Su primer dueño buscaba el efecto contrario. Un año después de terminado, el conde Duchâtel le compró el cuadro a Ingres por veinticinco mil francos. En su casa lo rodeó de grandes plantas y flores acuáticas, para que la ninfa del manantial pareciera aún más una persona real. [pause] Una estatua pintada, con un pequeño jardín para que respire.
+
+Más tarde, la condesa Duchâtel legó el cuadro al Louvre, y llegó a este museo cuando abrió.
+
+[pause] Así que aléjese un poco y decida qué ve usted. Una mujer, o una estatua. Sospecho que Ingres quería que sintiera ambas cosas a la vez.
+
+Dos Venus muy distintas le esperan en la sala 3. Escuche su pista cuando esté entre las dos.

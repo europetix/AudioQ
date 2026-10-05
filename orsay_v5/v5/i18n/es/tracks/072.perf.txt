@@ -1,0 +1,28 @@
+@id: 072 · ES · Rooms 63 and 65 · Level 2
+@section: Art Nouveau and Sculpture
+@room: Rooms 63 and 65 · Level 2
+@type: R
+@title: Gallé y la biblioteca de Carabin
+@where: Salas 63 y 65 del nivel 2. En la sala 63, una mano de vidrio que surge entre conchas y algas. En la sala 65, una biblioteca de nogal y hierro forjado de casi tres metros de alto, cubierta de figuras talladas.
+@what: Émile Gallé, La Main aux algues et aux coquillages, Hand with Seaweed and Shells, 1904, crystal with inclusions, applications and wheel engraving, 33.4 cm high. François-Rupert Carabin, Bibliothèque, Bookcase, 1890, walnut and wrought iron, 290 × 215 × 83 cm.
+@listen: A glassmaker's farewell piece, and a bookcase that preaches a sermon.
+@brief: Two contrasting stories told to a friend; hushed and tender for Gallé, then amused and brisk for Carabin's carved vices.
+@pace: medium-slow
+@energy: 2→2→4
+@sources: FACTS_R5 066a Gallé — La Main aux algues et aux coquillages (1904, crystal, partly blown and hot-modelled, inclusions, applications, wheel engraving, H 33.4 cm, room 63; "doubtless the last work of crafted glass produced by the master from Nancy"; shown at Nancy 1904 in the showcase "The Deep Sea"; made knowing he was about to die, a farewell confident in the "radiant existence" awaiting him; shells naturalistic, hand's "gelatinous texture evokes the body of a jellyfish rather than human skin"): https://www.musee-orsay.fr/en/artworks/la-main-aux-algues-et-aux-coquillages-22694 ; exhibition page hand-seaweed-and-shells-emile-galles-artistic-testament (OFF) ; FACTS_R5 066c Carabin — Bibliothèque (1890, walnut and wrought iron, 290 × 215 × 83 cm, commissioned 1889 by engineer Henry Montandon, room 65; Geffroy's reading: base passions enemies of intelligence vanquished by the Book, Ignorance and a stack of masks Vanity, Greed, Intemperance, Anger, Folly, Hypocrisy; Truth at the top with Reading on either side): https://www.musee-orsay.fr/en/artworks/bibliotheque-12031 (OFF) ; FACTS_R5 067 (next cue: Pompon, sculpture terrace) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 072 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Algunos artistas saben cuándo están haciendo su última obra. [pause] Émile Gallé, el vidriero de Nancy, parece haberlo sabido.
+
+En la sala 63, busque una mano que surge del mar, hecha de vidrio. Se llama La Main aux algues et aux coquillages, Mano con algas y conchas, y es de 1904. Es muy probablemente la última pieza de vidrio artístico del maestro de Nancy. La hizo sabiendo que iba a morir. Ese año la expuso en Nancy, en una vitrina llamada Las profundidades del mar. El museo la lee como una despedida, confiada en la existencia radiante que lo esperaba.
+
+[curious] Mire de cerca las dos texturas. Las conchas son tal como en la naturaleza. La mano no. Con su superficie gelatinosa, parece menos piel humana que cuerpo de medusa.
+
+[pause] Ahora, algo más ruidoso. En la sala 65, busque la Bibliothèque de François-Rupert Carabin, una biblioteca de casi tres metros de alto, de nogal y hierro forjado. [pause] Y no es realmente un mueble. Es un sermón.
+
+El crítico Gustave Geffroy explicó cómo leerla. Abajo yacen las bajas pasiones, enemigas de la inteligencia, vencidas por el Libro. A un lado está la Ignorancia. Al otro, una pila de máscaras: la Vanidad, la Codicia, la Intemperancia, la Ira, la Locura y la Hipocresía. Arriba hay tres figuras, con la Verdad en el centro y la Lectura a cada lado.
+
+Así que los vicios acaban en el suelo, y la Verdad vela por los libros.
+
+Luego vuelva a la terraza de esculturas que da a la nave central y busque el gran oso polar de piedra de François Pompon. Escuche su pista allí, y tómese su tiempo.

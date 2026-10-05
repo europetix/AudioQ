@@ -1,0 +1,26 @@
+@id: 071 · FR · Room 64 · Level 2
+@section: Art Nouveau and Sculpture
+@room: Room 64 · Level 2
+@type: R
+@title: Guimard et Majorelle — l'Art nouveau
+@where: Salle 64 au niveau 2, parmi les meubles Art nouveau. Cherchez la haute banquette de fumoir en bois de Guimard, avec un pied comme un tronc d'arbre qui se ramifie, et le lit Nénuphars de Majorelle, avec ses bronzes dorés.
+@what: Hector Guimard, smoking-room bench, 1897, jarrah wood and carved metal, 260 × 262 cm. Louis Majorelle, Nénuphars bed, 1905–09, mahogany, amourette, marquetry and gilt bronze.
+@listen: The man behind the Paris Métro entrances, a bench that grows like a tree, and a bed in bloom.
+@brief: A friend making a connection the listener didn't expect; light and quick at the Métro, curious at the bench, warm at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R5 065 Guimard (room 64; bench 1897, jarrah and carved metal, H 260 × L 262 cm, from the billiard room of the Roy property at Gévrils, Loiret; Castel Val armchair 1903, pear wood, original embossed leather; leader of French Art Nouveau, "unity of architecture, furniture and decoration", designed all the furniture for the Castel Béranger, 16th arrondissement; asymmetrical bench, leg "seems to be a trunk sprouting supple branches that curve like vines"; Métro company turned to Guimard after an unsuccessful competition; Orsay owns the Montparnasse-Bienvenüe entrance, display location NONE so not placed): https://www.musee-orsay.fr/en/artworks/banquette-de-fumoir-19205 ; …/fauteuil-provenant-du-castel-val-22697 ; …/entree-ouverte-de-metropolitain-station-montparnasse-bienvenue-19242 (OFF) ; FACTS_R5 066b Majorelle (Nénuphars bed 1905–09, mahogany, amourette, marquetry, gilt bronzes, from the Palais du Rhin, Strasbourg; Orchidées desk; Nancy; success with the water lily theme at the 1900 Exposition; room 64): https://www.musee-orsay.fr/en/artworks/nenuphars-3284 ; …/orchidees-3279 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 071 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Si vous avez pris le métro parisien, vous avez peut-être déjà croisé l'œuvre de l'homme qui domine cette salle. Hector Guimard a dessiné les entrées du métro. La compagnie s'est tournée vers lui après un concours resté sans suite. [pause] Le musée possède même l'une de ses entrées, venue de la station Montparnasse-Bienvenüe.
+
+Guimard était une figure de proue de l'Art nouveau français. Son idée centrale était simple. Architecture, mobilier et décor devaient former un tout. Pour son Castel Béranger, dans le seizième arrondissement, il a dessiné lui-même chaque meuble.
+
+[curious] Trouvez maintenant sa banquette de fumoir, de 1897, en bois de jarrah et métal ciselé. Haute de plus de deux mètres et demi, elle est asymétrique. Et l'un des pieds semble un tronc d'où jaillissent des branches souples, courbées comme des vrilles. [pause] Un banc qui pousse du sol comme un arbre.
+
+Cherchez ensuite l'œuvre de Louis Majorelle, de Nancy. Il a connu un immense succès avec les nénuphars à l'Exposition universelle de 1900. [pause] Les revoici, sur un lit appelé Nénuphars, en acajou, avec marqueterie et bronze doré. Bref, des meubles en fleurs.
+
+[warmly] Guimard ne voulait aucune frontière entre le bâtiment, le banc et la chaise. Cette salle montre ce qui arrive quand des créateurs prennent cette idée au sérieux.
+
+Juste à côté, dans les salles 63 et 65, cherchez une main de verre qui sort de la mer, et une immense bibliothèque sculptée. Écoutez leur piste là-bas.

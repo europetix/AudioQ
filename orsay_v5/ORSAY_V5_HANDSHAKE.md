@@ -51,3 +51,25 @@ Glance PDF (three levels). Not yet rendered with a real voice or tested on site.
 - Still held: Whistler's Mother (Amsterdam until 10 Jan 2027); Puvis, Monet's London Parliament, Roty (off display); photography.
 - Next: user renders samples (013 Olympia, 044 Van Gogh) then the full tour; on-site checklist; ES/FR/DE if wanted (same method as
   the Orangerie).
+
+## STATE 3 (5 Oct 2026): ES / FR / DE done, 75 tracks each
+- Method as for the Orangerie: brief + glossary (v5/i18n/review/BRIEF.md), 3 translators per language (001–025, 026–050,
+  051–075), one independent reviewer per language (REVIEW_BRIEF.md), then v5/i18n/assemble.py checks. Translator notes and the
+  three review logs are in v5/i18n/review/. Reviewers changed ES 31, FR 42, DE 60 tracks; each judged its language ready for a
+  native-speaker spot check. Scripts for that check: deliverables/Orsay_V5_Scripts_ES.md / _FR.md / _DE.md.
+- Words: ES 19,971 · FR 19,820 · DE 19,385 (EN 20,312), about 2 h 35–2 h 40 each.
+- assemble.py (Orsay copy) also reads years written in words in the English ("eighteen sixty-five") and requires them as digits.
+- Quotations: ES/DE translate the English quotes. FR uses the original French wording only where it was verified (museum pages,
+  vangoghletters.org; 37 passages, URLs in the FR translator notes, all re-checked by the FR reviewer); the rest is reported speech
+  (Champfleury 011, "point de départ de l'art moderne" 016, Monet's nightmare letter 039, Artaud 044, Fénéon, Jane Avril 068).
+- Bundle: generate_audio_ES_FR_DE.command (1 ES Dalia, 2 FR Vivienne, 3 DE Katja; full or samples 013 + 044), copied by
+  make_bundle.py; README has a languages section. Stand-in test: 75 files + route PDF for each of ES, FR, DE and EN; samples 2 each.
+- FACT FIX in the English: 018 Bazille was killed at twenty-eight, not twenty-six (museum FR page for Un atelier aux Batignolles
+  says "vingt-huit ans"; dates 1841–1870 from the museum's exhibition). Fixed in EN and all three languages; @sources updated.
+- Open:
+  - 048 @what calls the painting "Portrait du Docteur Gachet"; the FR translator found that title on the etching's copper plate
+    page, while the painting (RF 1949 16) is "Le Docteur Paul Gachet". Header only, not spoken; settle before the image kit.
+  - 055 Oviri: the museum's page said "not currently exhibited" on 5 Oct 2026 (added to ONSITE_CHECKLIST).
+  - FR unconfirmed names: room 36 "Vincent van Gogh en France" (043), "Tout change, quoique pierre" (039).
+  - Loan tracks say "this winter" in every language: right only for Nov 2026 – Mar 2027; revise after the loans return.
+  - Native-speaker spot check for each language (ES reviewer suggests listening to 027, 030 and 051–075 first).

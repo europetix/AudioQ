@@ -1,0 +1,30 @@
+@id: 044 · FR · Room 36
+@section: Van Gogh
+@room: Room 36 · Level 5
+@type: W
+@title: Van Gogh — Portrait de l'artiste, 1889
+@where: Salle 36, niveau 5, devant l'autoportrait en buste de Van Gogh, en costume, sur un fond tourbillonnant vert pâle et turquoise, les cheveux et la barbe d'un orange éclatant.
+@what: Vincent van Gogh, Portrait de l'artiste, Self-Portrait, 1889, painted at Saint-Rémy-de-Provence, oil on canvas, 65 × 54.2 cm. Gift of Paul and Marguerite Gachet, 1949.
+@listen: The doctor's family who kept this portrait for decades, what Van Gogh wrote about painting himself, and the stillness at the centre of a moving picture.
+@brief: A friend sharing where a famous face spent its life, then looking hard at it together; candid, absorbed, quietly moved at the end.
+@pace: medium-slow
+@energy: 2→3→4→2
+@sources: FACTS_R4 044 (1889, Saint-Rémy, 65 × 54.2; Gachet collection, given by Paul and Marguerite Gachet 1949; head-and-shoulders, suit, "hard and emaciated" features, "green-rimmed eyes", absinthe green and pale turquoise against the fiery orange of beard and hair, immobility vs "hallucinatory arabesques" of the background): https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-747 (OFF) ; A2 15.2 (not the portrait sent to his mother, OFF CONTRA) ; A2 15.3 letters 800 and 805 (vangoghletters.org/vg/letters/let800, let805, OFF) ; FACTS_R4 044 Artaud quote (musee-orsay.fr/en/program/whats-on/exhibitions/presentation/van-gogh-artaud-man-suicided-society, OFF, extract wording)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 044 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ce visage a passé des décennies dans la maison d'un médecin.
+
+Il vient de la collection du docteur Paul Gachet, qui a soigné Van Gogh à Auvers-sur-Oise. Il est resté dans sa famille jusqu'en 1949. Cette année-là, ses enfants, Paul et Marguerite, l'ont donné à la nation.
+
+Van Gogh l'a peint en 1889, à l'hôpital de Saint-Rémy-de-Provence. En septembre, il résume le problème de tout autoportrait. [pause] « Il est difficile de se connaître soi-même – mais il n'est pas aisé non plus de se peindre soi-même. »
+
+[quietly] Regardez comment il l'a résolu. Il se peint en buste, en costume. Les traits sont durs et émaciés. Les yeux, cernés de vert, semblent inquiets. Tout le tableau est accordé sur deux couleurs, un vert absinthe et un turquoise pâle. Et contre elles, l'orange flamboyant de sa barbe et de ses cheveux.
+
+Voyez ce qui bouge, et ce qui ne bouge pas. L'homme lui-même est parfaitement immobile. Mais ses cheveux et sa barbe ondulent, et le fond reprend ces ondulations en volutes sur toute la toile. [pause] L'immobilité trône au cœur de ce mouvement.
+
+[pause] Environ deux semaines plus tard, il évoque un autoportrait de ces semaines-là. Sa « physionomie s'est bien calmée quoique le regard soit vague davantage qu'auparavant », écrit-il.
+
+[reverent] Pour Antonin Artaud, écrivant sur Van Gogh, le visage de cet autoportrait nous inspecte, nous épie, nous scrute d'un œil noir. Restez un moment devant lui, et laissez-le vous scruter.
+
+Quelque part dans les salles Van Gogh, trouvez sa chambre à Arles : une petite pièce avec un lit et des chaises jaunes, et un sol rouge. Écoutez sa piste là-bas.

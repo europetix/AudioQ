@@ -1,0 +1,26 @@
+@id: 035 · FR · Room 32 · Level 5
+@section: Impressionism
+@room: Room 32 · Level 5
+@type: R
+@title: Morisot — Le Berceau
+@where: Salle 32, niveau 5, la même salle que la Petite danseuse de Degas. Un tableau assez petit : une jeune femme veille sur un bébé endormi dans un berceau.
+@what: Berthe Morisot, Le Berceau, The Cradle, 1872, oil on canvas, 56 × 46.5 cm. Bought by the Louvre in 1930.
+@listen: The first woman to show with the Impressionists, her sister and niece, and the baby who grew up and sold this picture to the nation.
+@brief: A friend speaking softly in front of an intimate picture; warm and unhurried, with a small, delighted reveal at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R3 036 (1872; 56 × 46.5; RF 2849; her sister Edma watches over her sleeping daughter Blanche; "undeniably Berthe Morisot's most famous painting"; shown at the 1874 exhibition; Morisot the first woman to exhibit with the group; stayed in the sitter's family until the Louvre bought it in 1930, from Blanche Pontillon, Mme Forget, the baby; room 32): https://www.musee-orsay.fr/en/artworks/le-berceau-1132 (OFF) + A3 27.7 (OFF) ; A3 27.1 (Berthe married Eugène Manet in 1874, so Manet became her brother-in-law, SEC2)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 035 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] De tous les tableaux de ces salles, c'est peut-être le plus silencieux. Une jeune femme veille sur un bébé endormi, et c'est tout. C'est la sœur de la peintre, Edma. Le bébé dans le berceau est la fille d'Edma, Blanche.
+
+Berthe Morisot l'a peint en 1872. Deux ans plus tard, elle l'envoie à la première exposition que les impressionnistes organisent eux-mêmes. Elle est la première femme à exposer avec le groupe.
+
+[quietly] Regardez où se porte l'attention. Pas seulement sur le bébé, mais sur le regard qui veille. Morisot peignait sa propre sœur dans un moment intime. On a presque envie de baisser la voix.
+
+L'année de cette première exposition, Berthe épouse Eugène Manet. Édouard Manet, dont vous avez vu les tableaux au rez-de-chaussée, devient ainsi son beau-frère.
+
+[pause] Le tableau reste dans la famille plus d'un demi-siècle. Puis, en 1930, le Louvre l'achète. Et c'est Blanche qui le vend. [long pause] Le bébé du berceau, devenu adulte.
+
+Ensuite, dans les salles impressionnistes de ce niveau, cherchez Dans un café de Degas, plus connu sous le nom de L'Absinthe. [pause] Un homme et une femme sont assis côte à côte à une table de café, un verre d'absinthe devant elle. Sa piste commence là-bas.

@@ -1,0 +1,26 @@
+@id: 026 · FR · Between the towers · Level 0
+@section: Nave End
+@room: End of the nave · between the towers · Level 0
+@type: W
+@title: Rodin — La Porte de l'Enfer
+@where: Tout au bout de la nef, entre les deux tours, dans l'axe de l'allée centrale : la grande porte en plâtre de Rodin, haute de plus de six mètres. Ensuite, revenez aux escalators près des salles consacrées à Paris et montez au niveau 5, au Salon de l'horloge.
+@what: Auguste Rodin, La Porte de l'Enfer, The Gates of Hell, the original plaster, 6.35 m high, worked on from 1880 to 1917.
+@listen: A door made for a museum that was never built, the decades Rodin spent on it, and why it was standing in front of you from the moment you came in.
+@brief: Standing with a friend at the end of a long walk; reverent and unhurried, a touch of wit about The Thinker, then a clear, friendly send-off upstairs.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_R2 023 via A2 12.2–12.3 and G §0.9 (original plaster, 6.35 m, worked on 1880–1917; commissioned for a museum of decorative arts never built; since 24 May 2022 on the terrace between the two towers at the far end of the nave, on the axis of the central aisle, visible from the entrance; related display with Musée Rodin loans): https://www.musee-orsay.fr/en/articles/new-presentation-gates-hell-202408 , https://www.musee-orsay.fr/en/artworks/porte-de-lenfer-15645 (OFF) ; Orsay has no Rodin Thinker: A2 12.1 (OFF search, absence) ; escalators and lifts to level 5: G §1 (SEC2). Minimal-facts track per audits A2/G. ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orsay V5 026 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Cette porte a été conçue pour un musée qui n'a jamais vu le jour. Rodin avait reçu la commande d'une grande porte pour un musée des arts décoratifs. Le musée ne s'est jamais fait. La porte n'a jamais orné aucun bâtiment. [pause] Et pourtant, Rodin y a travaillé de 1880 à 1917.
+
+Ce que vous voyez ici est son plâtre original, haut de six mètres trente-cinq. [pause] Pas un bronze.
+
+Pensez au chemin parcouru. Vous avez descendu une longue nef peuplée de sculptures. Vous avez croisé les danseuses de Carpeaux, longé les salles des réalistes et de Manet. Et tout au bout, depuis le début, il y avait cette porte. Depuis mai 2022, elle se dresse ici, entre les deux tours, dans l'axe de l'allée centrale. Placée pour que vous la voyiez dès l'entrée. [long pause] Elle vous attendait au bout de votre marche, depuis le tout premier pas.
+
+[quietly] Alors accordez-lui le temps qu'elle demande. Commencez un peu en retrait, là où elle remplit le fond de l'allée. Puis approchez-vous, lentement, et laissez le détail prendre le relais de l'ensemble. Autour d'elle, le musée a ajouté des œuvres prêtées par le musée Rodin. La porte n'est donc pas seule.
+
+[wry] Et si vous espérez voir Le Penseur, vous ne le trouverez pas à Orsay. Le musée n'en possède pas. Il a cette porte, et elle suffit.
+
+Le rez-de-chaussée s'achève ici. Revenez vers les escalators, près des salles consacrées à Paris, ou prenez les ascenseurs, et montez au niveau 5. Vous arriverez salle 28, au Salon de l'horloge. [pause] Trouvez la grande fenêtre de l'horloge, ouverte sur Paris, et écoutez sa piste là-bas.

@@ -1,0 +1,28 @@
+@id: 009 · ES · Room 5 · Level 0
+@section: Realism
+@room: Room 5 · Level 0 · Seine side
+@type: R
+@title: Millet — L'Angélus (El ángelus)
+@where: En la sala de Millet, la sala 5, del lado del Sena del nivel 0, o muy cerca, en la Galerie Seine 1, la galería de la colección Alfred Chauchard: Chauchard legó el cuadro al Louvre, y puede estar colgado con el resto de su colección. Busque un lienzo pequeño, de unos 55 por 66 centímetros: un hombre y una mujer que han dejado de trabajar en un campo de papas, con una horca, una cesta, sacos y una carretilla.
+@what: Jean-François Millet, L'Angélus, The Angelus, 1857–1859, oil on canvas, 55.5 × 66 cm. Bequest of Alfred Chauchard.
+@listen: The grandmother behind the painting, and the strange fame that followed it.
+@brief: Passing on a family memory, gently, to a friend; tender at the grandmother, a little more animated at the painting's wild later life, quiet at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R1 010 (1857–1859; 55.5 × 66; couple reciting the Angelus, which commemorates the Annunciation; stopped the potato harvest; fork, basket, sacks and wheelbarrow; Millet's 1865 account quoted in the museum's translation; childhood memory, not religious exaltation; Millet not a practising Catholic; 1889 Secrétan sale to the American Art Association; Alfred Chauchard 1890–1909, bequest to the Louvre; Dalí's veneration, slashed by a disturbed man in 1932, a world icon in the 20th century; room not found): https://www.musee-orsay.fr/en/artworks/langelus-345 (OFF), https://m.musee-orsay.fr/en/works/commentaire_id/the-angelus-339.html (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Orsay V5 009 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cuando Millet explicaba este cuadro, no hablaba de fe. Hablaba de su abuela.
+
+Años después de pintarlo, lo contó así, según la traducción del museo. [pause] «L'Angélus es un cuadro que hice pensando en cómo, cuando trabajábamos en el campo, hace mucho, mi abuela, al oír la campana de la iglesia, nunca dejaba de hacernos parar el trabajo para rezar el ángelus por aquellas pobres almas».
+
+El ángelus es una oración que recuerda la Anunciación. Pero lo que Millet pintó fue un recuerdo de infancia, no fervor religioso. Él mismo no era católico practicante.
+
+Mire qué poco le ofrece. Es un cuadro pequeño, más pequeño de lo que casi todos esperan. Un hombre y una mujer se han detenido en plena cosecha de papas. A su alrededor, sus herramientas: una horca, una cesta, sacos, una carretilla. No pasa nada. [pause] De eso se trata. El trabajo se ha detenido porque sonó una campana.
+
+[curious] Y luego, este cuadro tan tranquilo tuvo una vida muy ruidosa. En 1889 se vendió en subasta a la American Art Association. Poco después pasó al coleccionista Alfred Chauchard, que lo legó al Louvre. En el siglo veinte se convirtió en un icono mundial. Salvador Dalí lo veneraba. [pause] Y en 1932, un hombre perturbado lo acuchilló.
+
+[quietly] Todo eso, por dos personas quietas en un campo, porque una anciana le enseñó a un niño a parar y escuchar.
+
+Ahora siga hasta la sala 7. Allí, Un enterrement à Ornans, Un entierro en Ornans, de Courbet, ocupa toda una pared: más de seis metros de ancho, con una multitud de aldeanos de tamaño natural en un funeral. Es imposible no verlo, y su pista empieza allí.

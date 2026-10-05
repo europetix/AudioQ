@@ -1,4 +1,4 @@
-MUSEE D'ORSAY - V5 AUDIO GUIDE (English)  (75 tracks, ~2 h 45)
+MUSEE D'ORSAY - V5 AUDIO GUIDE (English, Spanish, French, German)  (75 tracks, ~2 h 45)
 Built 5 Oct 2026. Replaces the V4 walking script (31 tracks).
 
 WHAT'S NEW IN V5
@@ -39,6 +39,14 @@ HOW TO RUN (macOS)
   2. Choose a voice: 1) Ava. Then 1) full tour or 2) two samples (013 + 044).
   3. The tour appears in  ~/Desktop/Orsay_V5_EN_Ava/
 If a render stops, run it again: finished tracks are skipped.
+
+SPANISH, FRENCH, GERMAN
+=======================
+  bash generate_audio_ES_FR_DE.command  ->  1) Espanol (Dalia)  2) Francais (Vivienne)
+  3) Deutsch (Katja). Then 1) full guide or 2) two samples (013 + 044).
+  Output: ~/Desktop/Orsay_V5_<ES|FR|DE>_<voice>/, same folders and numbers as English.
+  Translated for listening from the fact-checked English, then reviewed independently
+  per language. A native-speaker spot check is still to come.
 
 START CLEAN
 ===========

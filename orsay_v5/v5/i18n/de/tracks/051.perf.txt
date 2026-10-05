@@ -1,0 +1,26 @@
+@id: 051 · DE · Room 43 · Level 5
+@section: Post-Impressionism
+@room: Room 43 · Pont-Aven · Level 5
+@type: R
+@title: Émile Bernard — Madeleine au Bois d'Amour (Madeleine im Bois d'Amour)
+@where: In Saal 43 auf Ebene 5, dem Pont-Aven-Saal. Suchen Sie eine große, breite Leinwand mit einer lebensgroßen jungen Frau, die ausgestreckt in einem Wald liegt.
+@what: Émile Bernard, Madeleine au Bois d'Amour (Madeleine in the Bois d'Amour), 1888. Oil on canvas, 137 × 163 cm. Acquired in 1977.
+@listen: A brother of twenty paints his sister of seventeen, and the older painter who was in love with her.
+@brief: Telling a friend a small family secret in front of the picture; curious, gently intrigued, honest that the meaning is open.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_R4 051 Bernard — Madeleine au Bois d'Amour (1888, 137 × 163, RF 1977 8, acquired 1977; Bernard only twenty, life-size portrait of his sister Madeleine, seventeen; Bois d'Amour at Pont-Aven, "a wood that Sérusier's Talisman had made famous"; "a portrait with allegorical overtones"; Gauguin had fallen in love with her; Bernard and sister close to Gauguin, leader of the "Impressionist and Synthetist" group, who recommended "painting in masses and solid areas of colour"): https://www.musee-orsay.fr/en/artworks/madeleine-au-bois-damour-7992 (OFF) ; G §0.2 (post-Impressionist rooms on level 5, renovated 2019; OFF) ; A3 30.2 (Gauguin 40 in 1888; SEC2) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 051 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Der Maler war zwanzig. Seine Schwester war siebzehn. Und der Maler an der Spitze ihrer kleinen Gruppe hatte sich in sie verliebt.
+
+Der Maler war Émile Bernard. 1888 malte er seine Schwester Madeleine in Lebensgröße. Sie liegt im Bois d'Amour, einem Wald am Rand von Pont-Aven. Die beiden standen Paul Gauguin sehr nahe. Er war damals vierzig und führte die Gruppe der Impressionisten und Synthetisten, die dort arbeitete. Gauguin drängte sie, in großen Formen und festen Farbflächen zu malen.
+
+[pause] Das ist also nicht einfach ein Mädchen, das im Wald ruht. Das Museum nennt es ein Porträt mit allegorischem Unterton. Eine junge Frau, die an einem Ort namens Wald der Liebe liegt. Gemalt von ihrem Bruder, im Kreis des Mannes, der sie liebte.
+
+[quietly] Erfassen Sie zuerst die Größe. Sie ist so groß wie Sie, ausgestreckt über die ganze Leinwand. [pause] Dann sehen Sie sich den Wald um sie herum an. Wie viel davon ist eine gewöhnliche Waldszene? Und wie viel ist die Malerei, die Gauguin in jenem Jahr predigte?
+
+Merken Sie sich den Namen dieses Waldes. Später begegnen Sie einem winzigen Bild, im selben Jahr dort gemalt. Es ist das Bild, das den Bois d'Amour berühmt machte.
+
+[pause] Nun zu Gauguin selbst. Suchen Sie in diesem Saal La Belle Angèle, das Porträt einer Frau in einem Kreis. Spielen Sie dort den passenden Titel ab.

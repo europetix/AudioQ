@@ -1,0 +1,28 @@
+@id: 063 · DE · Room 59 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 59 · Symbolism · Level 2
+@type: R
+@title: Gustave Moreau — Orphée (Orpheus)
+@where: Saal 59 auf Ebene 2, der Saal des Symbolismus am Westende der Etage. Die Seite des Werks nennt Saal 57. Sehen Sie also nebenan nach, falls es nicht hier hängt. Suchen Sie ein Hochformat auf Holz: ein Mädchen in prächtiger orientalischer Kleidung hält einen Männerkopf, der auf einer Leier ruht, vor einer Landschaft im Dämmerlicht.
+@what: Gustave Moreau, Orphée, Orpheus, 1865, oil on wood, 154 × 99.5 cm. Shown at the Salon of 1866 and bought from the artist by the State.
+@listen: Why a severed head in Moreau's painting feels calm rather than horrifying, and the two faces that look alike.
+@brief: Speaking softly in front of a strange, beautiful picture; reverent at the start, hushed at the two faces, warm at the end.
+@pace: slow
+@energy: 2→2→3
+@sources: FACTS_R1 006a Moreau — Orphée (1865, oil on wood, 154 × 99.5 cm, RF 104; Salon of 1866, bought by the State 3 Jul 1866; level 2 room 57; girl "dressed in Oriental finery" holds the poet's head resting on his lyre with a melancholy air; "The two faces, strangely similar with their closed eyes, seem absorbed in infinite contemplation"; calm, "mysteriously free of morbidity", twilight glow, fantastic landscape "worthy of Leonardo da Vinci"; established Moreau as a decisive figure in Symbolism; "young Thracian girl"; Orpheus killed by the Maenads): https://www.musee-orsay.fr/en/artworks/orphee-1091 ; https://www.musee-orsay.fr/fr/collections/oeuvres-commentees/peinture/commentaire_id/orpheus-3033.html (OFF) ; FACTS_R5 069 (next cue: Claudel, room 55, the kneeling figure) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Orsay V5 063 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Zwei Gesichter, beide mit geschlossenen Augen. Eines gehört einem lebenden Mädchen, das andere einem toten Dichter. Und sie sehen sich seltsam ähnlich.
+
+Das ist Gustave Moreaus Orphée, Orpheus, 1865 auf eine Holztafel gemalt. Im Mythos wurde der Dichter Orpheus von den Mänaden getötet. Moreau zeigt nicht den Mord, nur das, was danach kommt. Ein junges thrakisches Mädchen in orientalischem Schmuck hält den Kopf des Dichters. Er ruht auf seiner Leier. Sie blickt mit melancholischer Miene auf ihn hinab.
+
+[quietly] Sehen Sie die beiden Gesichter zusammen an. Seltsam ähnlich, mit geschlossenen Augen, scheinen sie in unendliche Betrachtung versunken. [pause] Ein grausiges Thema, und doch ist die Szene ruhig, auf geheimnisvolle Weise frei von allem Morbiden.
+
+Dann lassen Sie den Blick an ihnen vorbeiwandern. Hinter den Figuren leuchtet ein Dämmerlicht über einer fantastischen Landschaft. Das Museum nennt sie eines Leonardo da Vinci würdig. Moreau gibt Ihnen viel zu schauen und sehr wenig Lärm.
+
+Er zeigte das Bild im Salon von 1866. Im Juli kaufte der Staat es ihm ab, direkt aus dem Salon. [pause] Und das Bild brachte ihm mehr als einen Verkauf. Es machte Moreau zu einer entscheidenden Figur des Symbolismus.
+
+[warmly] In anderen Händen wären ein abgeschlagener Kopf und eine Leier eine Horrorgeschichte. Moreau machte daraus eine Stille.
+
+[pause] Ganz in der Nähe, in Saal 55, dem Saal der Historienmalerei, suchen Sie Camille Claudels Bronzegruppe mit drei Figuren. Eine junge Frau kniet und streckt die Arme aus. Spielen Sie dort den passenden Titel ab.

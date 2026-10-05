@@ -1,0 +1,30 @@
+@id: 034 · ES · Room 32 · Level 5
+@section: Impressionism
+@room: Room 32 · Level 5
+@type: W
+@title: Degas — Petite danseuse de quatorze ans (Pequeña bailarina de catorce años)
+@where: Sala 32, nivel 5. Una figura exenta de una joven bailarina, de algo menos de un metro, en bronce de pátina oscura, con un tutú de tul auténtico y una cinta de raso, sobre una base de madera. Puede rodearla.
+@what: Edgar Degas, Petite danseuse de quatorze ans, Little Dancer Aged Fourteen: a posthumous bronze, cast by the lost-wax method by the founder Adrien-Aurélien Hébrard between 1921 and 1931, after Degas's wax model of 1878–1881. Patinated bronze, tulle, satin, wood. Height 98 cm. Acquired in 1931.
+@listen: Who the girl was, what Paris saw in 1881, and why the figure in front of you is a faithful copy made after Degas died.
+@brief: Telling a friend the true story behind a famous figure; curious at first, honest and a little protective of the girl, quietly moved at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: FACTS_R3 034 (bronze cast lost-wax by Adrien-Aurélien Hébrard 1921–1931 after the wax of 1878–1881; tulle tutu, satin ribbon, wooden base; H. 98 cm; acquired 1931 from Degas's heirs and the Hébrard family; shown at the 1881 Impressionist exhibition; about 150 wax or clay sculptures found in Degas's studio at his death in 1917; the bronze edition "tried to preserve the characteristics of the wax as much as possible"; room 32): https://www.musee-orsay.fr/en/artworks/petite-danseuse-de-quatorze-ans-961 (OFF) ; A3 26.7 (original wax in Washington, OFF) ; A3 26.1 (Marie van Goethem, born in Paris to Belgian parents, SEC2) ; A3 Confirmed OK (wax original with real hair and fabric; Marie dismissed 1882)
+@lang: es
+@translation: from the fact-checked English Orsay V5 034 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cuando París vio a esta muchacha por primera vez, no era de bronce. Era de cera, con pelo de verdad y tela de verdad.
+
+Fue en 1881, en la exposición de los impresionistas. Degas llevaba unos tres años trabajando en la figura. Su modelo fue Marie van Goethem, una joven bailarina nacida en París, de padres belgas. El título dice su edad: catorce años.
+
+Su carrera de bailarina no duró. [pause] Al año siguiente, la despidieron.
+
+[quietly] Entonces, ¿qué tiene exactamente delante? La figura que ve no es la que Degas expuso. Su original en cera está en Washington. Degas nunca mandó hacer este vaciado.
+
+Cuando murió, en 1917, se encontraron en su taller unas ciento cincuenta esculturas de cera o de barro. En los años siguientes, el fundidor Adrien-Aurélien Hébrard realizó una edición en bronce a la cera perdida. El museo dice que el objetivo era conservar al máximo el carácter de la cera. Este vaciado se hizo en esa campaña. El museo lo adquirió con la ayuda de los herederos de Degas y de la familia Hébrard.
+
+Así que rodéela despacio. El cuerpo es de bronce patinado, pero mire la falda: es tul de verdad. Y la cinta es de raso auténtico, igual que la cera llevaba tela real. Mide algo menos de un metro, menos de lo que muchos esperan.
+
+[long pause] Todo lo demás aquí es una copia cuidadosa. El tutú y la cinta son tela real. [pause] Y, de algún modo, eso basta para que parezca viva.
+
+En esta misma sala, busque Le Berceau, La cuna, de Berthe Morisot: una joven que vela a un bebé dormido en su cuna. Escuche su pista allí.
