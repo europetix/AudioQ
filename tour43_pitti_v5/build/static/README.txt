@@ -65,6 +65,10 @@ verify..."). The reliable way:
 Run it twice (1, then 2) if you want both voices for the test.
 If a render stops (network, sleep), just run it again: finished tracks are skipped.
 
+START CLEAN: unzip this guide into an empty place, never on top of an older copy, and
+move old output folders off the Desktop first. The launcher stops with a message if it
+finds old scripts or old MP3s mixed in (this caused a 233 MB English folder on 5 Oct).
+
 SPANISH, FRENCH AND GERMAN GUIDES
 =================================
 Run  generate_audio_ES_FR_DE.command  the same way (bash + drag), then choose:

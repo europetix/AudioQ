@@ -63,6 +63,7 @@ def perform(segs, out_mp3, tmp):
     V.master(joined, out_mp3, BITRATE)
 
 
+V.check_tour(OUT)   # stop early if old and new versions are mixed
 for sec in sorted(os.listdir("scripts")):
     secdir = os.path.join("scripts", sec)
     if not os.path.isdir(secdir):

@@ -37,12 +37,12 @@ def main():
             head = re.sub(r"^@title: .*$", lambda m: "@title: " + d["title"].strip(), head, flags=re.M)
             head = re.sub(r"^@where: .*$", lambda m: "@where: " + d["where"].strip(), head, flags=re.M)
             head = re.sub(r"^@id: (\d+)", rf"@id: \1 · {lang.upper()}", head, flags=re.M)
-            head += (f"\n@lang: {lang}\n@translation: from the fact-checked English V5.1 {n} (5 Oct 2026); facts unchanged;"
+            head += (f"\n@lang: {lang}\n@translation: from the fact-checked English Orangerie V5 {n} (5 Oct 2026); facts unchanged;"
                      " formal address; adapted for listening (short sentences, extra pauses)")
             p = os.path.join(OUT, lang, "tracks", f"{n}.perf.txt")
             open(p, "w", encoding="utf-8").write(head + "\n---\n" + body + "\n"); V.validate(p)
         have = sorted(os.path.basename(x)[:3] for x in glob.glob(os.path.join(OUT, lang, "tracks", "*.perf.txt")))
-        missing = [f"{i:03d}" for i in range(1, 62) if f"{i:03d}" not in have]
+        missing = [f"{i:03d}" for i in range(1, 56) if f"{i:03d}" not in have]
         print(f"{lang}: {len(have)} tracks" + (f", missing {missing}" if missing else ", complete"))
     sys.exit(1 if bad else 0)
 

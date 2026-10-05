@@ -28,6 +28,18 @@ HOW TO RUN (macOS)
      (a different folder from the V4 guide, so nothing is overwritten).
 If a render stops, run it again: finished tracks are skipped.
 
+SPANISH, FRENCH, GERMAN
+=======================
+  bash generate_audio_ES_FR_DE.command  ->  1) Espanol (Dalia)  2) Francais (Vivienne)
+  3) Deutsch (Katja). Then 1) full guide or 2) two samples (005 + 046).
+  Output: ~/Desktop/Orangerie_V5_<ES|FR|DE>_<voice>/, same folders and numbers as English.
+
+START CLEAN
+===========
+Unzip this guide into an empty place, never on top of an older copy, and move old
+output folders off the Desktop first. The launcher now stops with a message if it
+finds old scripts or old MP3s mixed in.
+
 REQUIREMENTS
 ============
 - ffmpeg (pauses + loudness):  brew install ffmpeg

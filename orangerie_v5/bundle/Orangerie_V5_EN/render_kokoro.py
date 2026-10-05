@@ -56,6 +56,7 @@ def perform(perf_path=None, plain_text=None):
 
 
 ONLY = os.environ.get("ONLY", "").split()   # e.g. ONLY="015 053" renders just those tracks (voice samples)
+V.check_tour(OUT)   # stop early if old and new versions are mixed
 for sec in sorted(os.listdir("scripts")):
     secdir = os.path.join("scripts", sec)
     if not os.path.isdir(secdir):

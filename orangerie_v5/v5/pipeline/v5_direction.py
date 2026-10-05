@@ -121,3 +121,37 @@ def master(wav_in, mp3_out, bitrate="64k"):
                     "-af", af, "-ar", "24000", "-ac", "1", "-b:a", bitrate, part], check=True)
     import os
     os.replace(part, mp3_out)
+
+
+def check_tour(out_dir):
+    """Stop before voicing anything if this folder mixes tour versions.
+    Scripts must match plan.json one-to-one (a new zip unzipped over an old one leaves old scripts behind),
+    and the output folder must not already hold MP3s from another version (finished tracks are skipped, never replaced)."""
+    import os, sys, glob, json
+    plan = next((p for p in ("plan.json", "../plan.json", "../../plan.json") if os.path.exists(p)), None)
+    if not plan:
+        return
+    expected = {t["seq"] for t in json.load(open(plan, encoding="utf-8"))["tracks"]}
+    found = {}
+    for f in glob.glob(os.path.join("scripts", "*", "*.txt")):
+        found.setdefault(os.path.basename(f)[:3], []).append(f)
+    extra = sorted(n for n in found if n not in expected)
+    doubled = sorted(n for n, fs in found.items() if len(fs) > 1)
+    missing = sorted(expected - set(found))
+    if extra or doubled or missing:
+        print("\nSTOP: this tour folder mixes two versions of the guide.")
+        print(f"  The plan has {len(expected)} tracks; the scripts folder has {sum(map(len, found.values()))} files.")
+        if extra:   print("  Not in this version:", " ".join(extra[:12]))
+        if doubled: print("  Two scripts with the same number:", " ".join(doubled[:12]))
+        if missing: print("  Missing:", " ".join(missing[:12]))
+        print("  Fix: move this folder away, unzip the guide again into an empty place, and run it from there.")
+        sys.exit(1)
+    current = {os.path.splitext(os.path.basename(f))[0] for fs in found.values() for f in fs}
+    stale = [f for f in glob.glob(os.path.join(out_dir, "*", "*.mp3")) + glob.glob(os.path.join(out_dir, "*", "*.wav"))
+             if not f.endswith((".part.mp3", ".tmp.wav")) and os.path.splitext(os.path.basename(f))[0] not in current]
+    if stale:
+        print(f"\nSTOP: the output folder already holds {len(stale)} audio file(s) from another version, e.g.")
+        for f in sorted(stale)[:3]:
+            print("   ", os.path.relpath(f, out_dir))
+        print(f"  Fix: move or rename this folder, then run again:\n    {out_dir}")
+        sys.exit(1)
