@@ -1,19 +1,19 @@
-@id: 051 · Gauguin rooms · Level 5
+@id: 051 · Room 44 · Level 5
 @section: Post-Impressionism
-@room: Gauguin rooms · Level 5
+@room: Room 44 · Gauguin in Tahiti · Level 5
 @type: W
 @title: Gauguin — Arearea
-@where: In the Gauguin rooms on level 5 (room not confirmed). Look for a Tahitian scene with two women seated at the centre, a tree cutting across the picture and a red dog in the foreground. On loan to Tokyo from 14 Nov 2026 to 28 Mar 2027 (it may leave the wall earlier): then use Femmes de Tahiti, if it is on display.
+@where: In room 44 on level 5, Gauguin in Tahiti. Look for a Tahitian scene with two women seated at the centre, a tree cutting across the picture and a red dog in the foreground. On loan to Tokyo from 14 Nov 2026 to 28 Mar 2027 (it may leave the wall earlier): then use Femmes de Tahiti, if it is on display.
 @what: Paul Gauguin, Arearea (Joyeusetés), 1892. Oil on canvas, 75 × 94 cm. Bequest of M. and Mme Lung, 1961. Fallback: Paul Gauguin, Femmes de Tahiti (Tahitian Women), 1891, oil on canvas, 69 × 91.5 cm.
 @listen: The red dog Paris laughed at, the idol Gauguin invented, and why he bought this painting back. If it is away, the track works in front of Femmes de Tahiti.
 @brief: Talking to a friend about a painting the artist loved and the public mocked; wry at the start, frank and serious in the middle about what Gauguin made up, then soft at the end.
 @pace: medium-slow
 @energy: 3→2→3→2
-@sources: FACTS_R4 053 Arearea (1892, 75 × 94, Lung bequest 1961; first Tahiti stay from April 1891; two women seated at the centre, a tree cuts across, a red dog; women worship a statue, Gauguin "enlarged a small Maori motif to the size of a great Buddha and imagined a sacred rite"; shown in Paris Nov 1893, the red dog provoked much sarcasm; he thought it one of his best works and bought it back in 1895 before leaving Europe for good): m.musee-orsay.fr Arearea commentary 9767 (OFF) ; Tokyo loan 14 Nov 2026 – 28 Mar 2027: tobikan.jp/en/exhibition/2026_orsay.html + museum.or.jp (G §0.7, SEC2) ; A2 18.3, 18.6, 18.10, 18.11 (ages from Gauguin's own Noa Noa; Noa Noa a romanticised, semi-fictional account reworked with Charles Morice; dog in the foreground; SEC2/OFF) ; FACTS_R4 053 Femmes de Tahiti (1891, 69 × 91.5; Tahitian women at simple daily tasks; heavy hieratic figures each in its own space; faces like masks tinged with melancholy; Parau Api 1892 Dresden, flowered pareo replaces the strict mission dress of the woman on the right; "to live there in ecstasy, calm and art"): Orsay commentary 16337 (OFF)
+@sources: FACTS_R4 053 Arearea (1892, 75 × 94, Lung bequest 1961; first Tahiti stay from April 1891; two women seated at the centre, a tree cuts across, a red dog; women worship a statue, Gauguin "enlarged a small Maori motif to the size of a great Buddha and imagined a sacred rite"; shown in Paris Nov 1893, the red dog provoked much sarcasm; he thought it one of his best works and bought it back in 1895 before leaving Europe for good): m.musee-orsay.fr Arearea commentary 9767 (OFF) ; Tokyo loan 14 Nov 2026 – 28 Mar 2027: tobikan.jp/en/exhibition/2026_orsay.html + museum.or.jp (G §0.7, SEC2) ; A2 18.3, 18.6, 18.10, 18.11 (ages from Gauguin's own Noa Noa; Noa Noa a romanticised, semi-fictional account reworked with Charles Morice; dog in the foreground; SEC2/OFF) ; FACTS_R4 053 Femmes de Tahiti (1891, 69 × 91.5; Tahitian women at simple daily tasks; heavy hieratic figures each in its own space; faces like masks tinged with melancholy; Parau Api 1892 Dresden, flowered pareo replaces the strict mission dress of the woman on the right; "to live there in ecstasy, calm and art"): Orsay commentary 16337 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
 [wry] When Paris first saw this painting, it laughed at the dog.
 
-[pause] If this wall is empty — Arearea travels to Tokyo this winter — look in these rooms for Femmes de Tahiti, Tahitian Women, if it is on display, and listen there. You'll know it by its heavy, still women, the one on the right in a strict mission dress.
+[pause] If this wall is empty — Arearea travels to Tokyo this winter — look in this room for Femmes de Tahiti, Tahitian Women, if it is on display, and listen there. You'll know it by its heavy, still women, the one on the right in a strict mission dress.
 
 Gauguin showed Arearea in Paris in November 1893, with the pictures from his first stay in Tahiti. What people noticed was a red dog, and it drew a good deal of sarcasm.
 
@@ -29,4 +29,4 @@ Keep that in mind with everything Gauguin told about Tahiti. His book Noa Noa re
 
 He had come, he said, "to live there in ecstasy, calm and art". [quietly] Arearea is that wish, painted. Perhaps that's why he wanted it back.
 
-Now walk on towards the Nabi rooms and find Paul Sérusier's very small painting on wood, Le Talisman. It's easy to walk past, so look closely, and play its track there.
+Now walk on into room 45, Redon and the Nabis, and find Paul Sérusier's very small painting on wood, Le Talisman. It's easy to walk past, so look closely, and play its track there.

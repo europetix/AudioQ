@@ -2,25 +2,25 @@
 @section: Impressionism
 @room: Room 29 · Level 5
 @type: R
-@title: Monet — Coquelicots
-@where: Room 29, level 5. A small landscape of a field of red poppies, with a woman holding a sunshade and a child in the foreground.
-@what: Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.
-@listen: The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.
-@brief: A friend pointing out a small, sunny picture after a giant one; warm and easy, curious in the looking, a little pleased at the coincidence at the end.
+@title: Monet — the Déjeuner sur l'herbe fragments
+@where: Room 29, level 5. Two very large canvases from one picnic scene, hung side by side: the big central fragment, almost two and a half metres tall, and the left-hand fragment hung to its left.
+@what: Claude Monet, Le Déjeuner sur l'herbe, Luncheon on the Grass, begun 1865, oil on canvas: two surviving fragments, the central one 248.7 × 218 cm.
+@listen: How the biggest canvas of Monet's youth ended up as rent security, then mouldy, then in pieces.
+@brief: Telling a friend the slightly absurd fate of a young painter's grand ambition; curious at the start, wry at the landlord, quietly respectful at the end.
 @pace: medium
-@energy: 3→3→4
-@sources: FACTS_R3 027 (1873; 50 × 65.3; Argenteuil; 1874 exhibition in Nadar's studio, no. 95; woman with sunshade and child "probably" Camille and Jean; Moreau-Nélaton gift 1906; room 29): https://www.musee-orsay.fr/en/artworks/coquelicots-1010 (OFF) ; A3 21.1 (Monet showed at five of the group exhibitions: culture.gouv.fr + gallery.ca, SEC2) ; A3 21.6 (a cooperative company of artists, SEC2) ; FACTS_R3 025 (Manet's Déjeuner given by Moreau-Nélaton 1906): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF)
+@energy: 3→4→2
+@sources: FACTS_R3 026 (begun spring 1865; over four metres by six; "both a tribute and a challenge to Manet"; abandoned 1866 just before the Salon; left with landlord as security for rent; mouldy when recovered 1884; cut up, three fragments kept; central fragment 248.7 × 218 cm, dation 1987; left fragment hung to its left, Wildenstein gift 1957; room 29): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-25651 (OFF)
 ---
-[warmly] In eighteen seventy-four, a group of painters set up a company of their own and hung an exhibition in Nadar's studio in Paris. In the catalogue, this little picture was number ninety-five.
+[curious] In the spring of eighteen sixty-five, the young Claude Monet started the biggest painting of his youth. The canvas measured more than four metres by six. Its subject was a picnic on the grass. He had Manet's Déjeuner sur l'herbe, the painting by Manet you have already met, very much in mind. Monet meant his picnic as both a tribute and a challenge.
 
-After that giant picnic, Monet's Coquelicots is almost pocket-sized, about half a metre high. He painted it the year before the show, at Argenteuil.
+He never finished it. A year later, just before the Salon, he gave up. [pause] And then the canvas had a very unglamorous life.
 
-Look at the two figures in the foreground, a woman under a sunshade and a child beside her. They're probably Camille and their son Jean. So this is not just a field of poppies. It's very likely a family walk.
+[wry] Monet left it with his landlord, as security for the rent. When he finally got it back, in eighteen eighty-four, it was mouldy. So he cut it up, and kept three pieces.
 
-[curious] The poppies give the picture its title and most of its colour. Let your eye follow the red across the field. Then come back to the woman and the child, two small figures wading through all that colour.
+Two of those pieces are here. The large one is the centre of the composition, almost two and a half metres tall. Hanging to its left is the left-hand fragment. They reached the nation by different roads, thirty years apart, one as a gift and one in payment of tax. The third piece is not in this museum.
 
-That show in Nadar's studio was only the beginning. Monet would go on to show at five of the group's exhibitions.
+Stand back and picture the rest around them, the whole canvas at full size. That's the scale a young painter thought he needed to take on Manet.
 
-[lightly] The picture reached the nation in nineteen oh six, as a gift from the collector Étienne Moreau-Nélaton. [pause] In that same year, he also gave Manet's Déjeuner sur l'herbe. So the picnic Monet tried to rival and his own little field of poppies became public property together.
+[quietly] It's strange to admire a painting its own artist took apart. But these pieces catch a young painter at the very moment he dared to answer Manet at full size. He'd find other ways to make his point.
 
-Next, look in the Impressionist rooms on this level for Bazille's painting of his own studio. A tall painter with a palette stands in the middle, and a man in a hat studies the canvas on the easel. Play its track there.
+In this same room, look for a much smaller canvas, a field of red poppies with a woman holding a sunshade. That's Monet's Coquelicots. Press play when you're in front of it.

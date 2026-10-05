@@ -1,26 +1,26 @@
-@id: 063 · Sculpture terrace · Level 2
+@id: 063 · Rooms 63 and 65 · Level 2
 @section: Art Nouveau and Sculpture
-@room: Sculpture terrace · Level 2
+@room: Rooms 63 and 65 · Level 2
 @type: R
-@title: Pompon — Ours blanc
-@where: On the level-2 sculpture terrace overlooking the nave. Look for a large stone polar bear, about two and a half metres long.
-@what: François Pompon, Ours blanc, Polar Bear, stone, 163 × 251 × 90 cm, carved 1923–33 after a State commission of 1927. Assigned to Orsay in 1986.
-@listen: The man who carved marble for Rodin and Claudel, and found fame at sixty-seven with a bear.
-@brief: A friend telling an underdog story with real pleasure; amused at the start, brisk through the career, curious at his own words, warm at the end.
-@pace: medium
-@energy: 3→4→3
-@sources: FACTS_R5 067 Pompon — Ours blanc (stone, 163 × 251 × 90 cm; State commission 1927; carved by his practitioner Jean-Joachim Supéry at Malakoff, delivered 16 Feb 1929; Musée du Luxembourg from 1929, Orsay 1986; current page location "Terrasse des sculptures 1880-1910"; Pompon a sought-after practitioner carving marble for Rodin and Camille Claudel; from 1905 left the human figure for animals observed at the Jardin des Plantes, reacting against Rodin's expressionism; the plaster Ours blanc at the 1922 Salon d'Automne gave him his first public success at 67 (said as "first shown in 1922", not this stone); quote verbatim "I keep a large number of details…"; Pompon as source of the Balzac dressing-gown story): https://www.musee-orsay.fr/en/artworks/ours-blanc-15496 ; m.musee-orsay.fr …/ours-blanc-365.html ; Basilico photo …-148471 (OFF)
+@title: Gallé and Carabin's bookcase
+@where: Rooms 63 and 65 on level 2. In room 63, a glass hand rising among shells and seaweed. In room 65, a walnut and wrought-iron bookcase almost three metres high, covered in carved figures.
+@what: Émile Gallé, La Main aux algues et aux coquillages, Hand with Seaweed and Shells, 1904, crystal with inclusions, applications and wheel engraving, 33.4 cm high. François-Rupert Carabin, Bibliothèque, Bookcase, 1890, walnut and wrought iron, 290 × 215 × 83 cm.
+@listen: A glassmaker's farewell piece, and a bookcase that preaches a sermon.
+@brief: Two contrasting stories told to a friend; hushed and tender for Gallé, then amused and brisk for Carabin's carved vices.
+@pace: medium-slow
+@energy: 2→2→4
+@sources: FACTS_R5 066a Gallé — La Main aux algues et aux coquillages (1904, crystal, partly blown and hot-modelled, inclusions, applications, wheel engraving, H 33.4 cm, room 63; "doubtless the last work of crafted glass produced by the master from Nancy"; shown at Nancy 1904 in the showcase "The Deep Sea"; made knowing he was about to die, a farewell confident in the "radiant existence" awaiting him; shells naturalistic, hand's "gelatinous texture evokes the body of a jellyfish rather than human skin"): https://www.musee-orsay.fr/en/artworks/la-main-aux-algues-et-aux-coquillages-22694 ; exhibition page hand-seaweed-and-shells-emile-galles-artistic-testament (OFF) ; FACTS_R5 066c Carabin — Bibliothèque (1890, walnut and wrought iron, 290 × 215 × 83 cm, commissioned 1889 by engineer Henry Montandon, room 65; Geffroy's reading: base passions enemies of intelligence vanquished by the Book, Ignorance and a stack of masks Vanity, Greed, Intemperance, Anger, Folly, Hypocrisy; Truth at the top with Reading on either side): https://www.musee-orsay.fr/en/artworks/bibliotheque-12031 (OFF) ; FACTS_R5 067 (next cue: Pompon, sculpture terrace) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[amused] François Pompon became famous at sixty-seven.
+[quietly] Some artists know when they are making their last work. Émile Gallé, the glassmaker from Nancy, seems to have known.
 
-Until then he was one of the most sought-after practitioners in Paris, carving marble for other sculptors. Among them were Rodin, and Camille Claudel, whose bronze you've just seen. Then, from 1905, he turned against Rodin's expressive style, and away from the human figure altogether. He went to the Jardin des Plantes in Paris and watched the animals.
+In room 63, look for a hand rising out of the sea, made of glass. It's called La Main aux algues et aux coquillages, Hand with Seaweed and Shells, and it dates from 1904. It is very likely the last piece of crafted glass the master from Nancy produced. He made it knowing he was about to die. That year he showed it in Nancy, in a showcase called The Deep Sea. The museum reads it as a farewell, confident in the radiant existence that awaited him.
 
-His polar bear was first shown in plaster at the Salon d'Automne of 1922. It gave him his first public success. This version is in stone, about two and a half metres long. The State commissioned it in 1927, and his own practitioner, Jean-Joachim Supéry, carved it at Malakoff. [pause] So the man who had carved for Rodin now had someone carving for him.
+[curious] Look closely at the two textures. The shells are rendered just as they are in nature. The hand isn't. Its gelatinous surface makes it look less like human skin than like the body of a jellyfish.
 
-[curious] Pompon described his method like this. "I keep a large number of details destined to disappear. I do the animal with almost all its trappings. And then little by little, I eliminate…"
+[pause] Now for something louder. In room 65, find François-Rupert Carabin's Bibliothèque, a bookcase almost three metres high, in walnut and wrought iron. And it isn't really furniture. It's a sermon.
 
-Take a slow walk along the bear with that in mind. What did he take away? And how much bear is still left?
+The critic Gustave Geffroy explained how to read it. At the bottom lie the base passions, the enemies of intelligence, beaten by the Book. On one side sits Ignorance. On the other, a stack of masks: Vanity, Greed, Intemperance, Anger, Folly and Hypocrisy. At the top stand three figures, with Truth in the centre and Reading on either side.
 
-[warmly] Pompon has one more part to play on this terrace. He was the source of a famous story about Rodin's Balzac, and it's a good one.
+So the vices end up on the floor, and Truth keeps watch over the books.
 
-On the same terrace, find Rodin's Balzac, a towering plaster figure of the writer, and hear that story there.
+Then go back out onto the sculpture terrace overlooking the nave, and find François Pompon's great stone polar bear. Play its track there, and take your time.

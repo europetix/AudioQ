@@ -1,15 +1,15 @@
-@id: 009 · Millet rooms · Level 0
+@id: 009 · Room 5 · Level 0
 @section: Realism
-@room: Millet rooms · Level 0 · Seine side
+@room: Room 5 · Level 0 · Seine side
 @type: R
 @title: Millet — L'Angélus
-@where: In the Millet rooms on the Seine side of level 0; the room number is not confirmed. Look for a small canvas, about 55 by 66 centimetres, of a man and a woman who have stopped work in a potato field, with a fork, a basket, sacks and a wheelbarrow.
+@where: In the Millet room, room 5, on the Seine side of level 0, or close by in Galerie Seine 1, the Alfred Chauchard collection gallery: Chauchard left the painting to the Louvre, and it may hang with the rest of his collection. Look for a small canvas, about 55 by 66 centimetres, of a man and a woman who have stopped work in a potato field, with a fork, a basket, sacks and a wheelbarrow.
 @what: Jean-François Millet, L'Angélus, The Angelus, 1857–1859, oil on canvas, 55.5 × 66 cm. Bequest of Alfred Chauchard.
 @listen: The grandmother behind the painting, and the strange fame that followed it.
 @brief: Passing on a family memory, gently, to a friend; tender at the grandmother, a little more animated at the painting's wild later life, quiet at the end.
 @pace: medium-slow
 @energy: 2→3→2
-@sources: FACTS_R1 010 (1857–1859; 55.5 × 66; couple reciting the Angelus, which commemorates the Annunciation; stopped the potato harvest; fork, basket, sacks and wheelbarrow; Millet's 1865 account quoted in the museum's translation; childhood memory, not religious exaltation; Millet not a practising Catholic; 1889 Secrétan sale to the American Art Association; Alfred Chauchard 1890–1909, bequest to the Louvre; Dalí's veneration, slashed by a disturbed man in 1932, a world icon in the 20th century; room not found): https://www.musee-orsay.fr/en/artworks/langelus-345 (OFF), https://m.musee-orsay.fr/en/works/commentaire_id/the-angelus-339.html (OFF)
+@sources: FACTS_R1 010 (1857–1859; 55.5 × 66; couple reciting the Angelus, which commemorates the Annunciation; stopped the potato harvest; fork, basket, sacks and wheelbarrow; Millet's 1865 account quoted in the museum's translation; childhood memory, not religious exaltation; Millet not a practising Catholic; 1889 Secrétan sale to the American Art Association; Alfred Chauchard 1890–1909, bequest to the Louvre; Dalí's veneration, slashed by a disturbed man in 1932, a world icon in the 20th century; room not found): https://www.musee-orsay.fr/en/artworks/langelus-345 (OFF), https://m.musee-orsay.fr/en/works/commentaire_id/the-angelus-339.html (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
 [warmly] When Millet explained this painting, he didn't talk about faith. He talked about his grandmother.
 

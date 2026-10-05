@@ -1,19 +1,19 @@
-@id: 015 · Seine gallery · Level 0
+@id: 015 · Galerie Seine 2 · Level 0
 @section: Manet and Friends
-@room: Seine gallery · Level 0
+@room: Galerie Seine 2 · Level 0
 @type: R
 @title: Fantin-Latour — Un atelier aux Batignolles
-@where: In the Seine gallery on level 0. A very large canvas, about two metres high and nearly three wide, of eight men gathered in a studio, one of them a painter at his easel.
+@where: In Galerie Seine 2 on level 0, the gallery of portraits of the 1860s. A very large canvas, about two metres high and nearly three wide, of eight men gathered in a studio, one of them a painter at his easel.
 @what: Henri Fantin-Latour, Un atelier aux Batignolles, A Studio at Les Batignolles, 1870, oil on canvas, 204 × 273.5 cm. Shown at the Salon of 1870; bought in 1892.
 @listen: Who the eight men are, why they gather around Manet, and the least famous of them.
 @brief: Introducing a group of friends in an old photograph-like painting; warm at the start, lively through the names, light at the end.
 @pace: medium
 @energy: 2→3→3
-@sources: FACTS_R2 016 Un atelier aux Batignolles (1870, 204×273.5, RF 729, bought 1892, Salon of 1870; sitters left to right Scholderer, Manet at the easel, Renoir with a hat, Astruc, Zola, Maître, Bazille "who would fall a few months later at age twenty-six in the Franco-Prussian War", Monet; Batignolles district; Manet as "head of the school"; Zola quote as translated by Orsay; Scholderer "masterpiece" acquired Feb 2026): https://www.musee-orsay.fr/en/artworks/un-atelier-aux-batignolles-210 , https://www.musee-orsay.fr/de/kollektionen/werkbeschreibungen/gemaelde/commentaire_id/ein-atelier-in-batignolles-4034.html , https://www.musee-orsay.fr/en/magazine/2026-02-27/masterpiece-otto-scholderer-has-been-added-musee-dorsays-collections (OFF)
+@sources: FACTS_R2 016 Un atelier aux Batignolles (1870, 204×273.5, RF 729, bought 1892, Salon of 1870; sitters left to right Scholderer, Manet at the easel, Renoir with a hat, Astruc, Zola, Maître, Bazille "who would fall a few months later at age twenty-six in the Franco-Prussian War", Monet; Batignolles district; Manet as "head of the school"; Zola quote as translated by Orsay; Scholderer "masterpiece" acquired Feb 2026): https://www.musee-orsay.fr/en/artworks/un-atelier-aux-batignolles-210 , https://www.musee-orsay.fr/de/kollektionen/werkbeschreibungen/gemaelde/commentaire_id/ein-atelier-in-batignolles-4034.html , https://www.musee-orsay.fr/en/magazine/2026-02-27/masterpiece-otto-scholderer-has-been-added-musee-dorsays-collections (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
 [warmly] Eight men fill this studio, and seven of them are here for the one at the easel.
 
-Henri Fantin-Latour showed the picture at the Salon of eighteen seventy. Take the friends from left to right. At the far left, Otto Scholderer, a German painter. Then Manet himself, at the easel, and Renoir, in a hat. Next come Zacharie Astruc, sculptor and journalist, and Émile Zola. Edmond Maître, who worked at the Paris city hall. Then Frédéric Bazille, whose own studio you'll see later, and at the right, Claude Monet.
+Henri Fantin-Latour showed the picture at the Salon of eighteen seventy. Take the friends from left to right. At the far left, Otto Scholderer, a German painter. Then Manet himself, at the easel, and Renoir, in a hat. Next come Zacharie Astruc, sculptor and journalist, and Émile Zola. Edmond Maître, who worked at the Paris city hall. Then Frédéric Bazille, whose own studio you'll see in room 18, and at the right, Claude Monet.
 
 [pause] Why gather them around Manet? Many of these men lived in the Batignolles district of Paris, and Fantin casts Manet as the head of their school. Zola put it this way. [quietly] "Around the painter scorned by the public, a united front of painters and writers has formed, considering him their master."
 

@@ -1,26 +1,26 @@
-@id: 060 · Rooms 63 and 65 · Level 2
-@section: Art Nouveau and Sculpture
-@room: Rooms 63 and 65 · Level 2
+@id: 060 · Room 68 · Level 2
+@section: Lautrec and the Nabis
+@room: Room 68 · Level 2
 @type: R
-@title: Gallé and Carabin's bookcase
-@where: Rooms 63 and 65 on level 2. In room 63, a glass hand rising among shells and seaweed. In room 65, a walnut and wrought-iron bookcase almost three metres high, covered in carved figures.
-@what: Émile Gallé, La Main aux algues et aux coquillages, Hand with Seaweed and Shells, 1904, crystal with inclusions, applications and wheel engraving, 33.4 cm high. François-Rupert Carabin, Bibliothèque, Bookcase, 1890, walnut and wrought iron, 290 × 215 × 83 cm.
-@listen: A glassmaker's farewell piece, and a bookcase that preaches a sermon.
-@brief: Two contrasting stories told to a friend; hushed and tender for Gallé, then amused and brisk for Carabin's carved vices.
-@pace: medium-slow
-@energy: 2→2→4
-@sources: FACTS_R5 066a Gallé — La Main aux algues et aux coquillages (1904, crystal, partly blown and hot-modelled, inclusions, applications, wheel engraving, H 33.4 cm, room 63; "doubtless the last work of crafted glass produced by the master from Nancy"; shown at Nancy 1904 in the showcase "The Deep Sea"; made knowing he was about to die, a farewell confident in the "radiant existence" awaiting him; shells naturalistic, hand's "gelatinous texture evokes the body of a jellyfish rather than human skin"): https://www.musee-orsay.fr/en/artworks/la-main-aux-algues-et-aux-coquillages-22694 ; exhibition page hand-seaweed-and-shells-emile-galles-artistic-testament (OFF) ; FACTS_R5 066c Carabin — Bibliothèque (1890, walnut and wrought iron, 290 × 215 × 83 cm, commissioned 1889 by engineer Henry Montandon, room 65; Geffroy's reading: base passions enemies of intelligence vanquished by the Book, Ignorance and a stack of masks Vanity, Greed, Intemperance, Anger, Folly, Hypocrisy; Truth at the top with Reading on either side): https://www.musee-orsay.fr/en/artworks/bibliotheque-12031 (OFF) ; FACTS_R1 006a (next cue: Orphée, room 57) (OFF)
+@title: Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue
+@where: Room 68 on level 2, the Toulouse-Lautrec room. Cha-U-Kao is a small picture on cardboard of a woman clown in a private room, fastening a large yellow ruffle, with green walls and a red sofa. La Goulue's two monumental booth panels may not be shown in this room.
+@what: Henri de Toulouse-Lautrec, La Clownesse Cha-U-Kao (The Clown Cha-U-Kao), 1895, oil on cardboard, 58 × 43 cm, Isaac de Camondo bequest, 1911. Panneaux pour la baraque de la Goulue, à la Foire du Trône à Paris (Panels for La Goulue's Booth at the Foire du Trône), 1895, oil.
+@listen: A clown whose stage name is a pun, a stranger in a mirror, and two fairground panels that were cut up and pieced back together.
+@brief: Taking a friend backstage at the Paris shows of the 1890s; amused by the name, curious about the man in the mirror, then telling the panels' odd survival story with quiet relish.
+@pace: medium
+@energy: 3→3→4→2
+@sources: FACTS_R5 061a Cha-U-Kao (1895, oil on cardboard, 58 × 43, RF 2027, Camondo bequest 1911; dressing or private room, large yellow ruffle, yellow ribbon "almost ironically" tying her white toupee, portrait or mirror reflecting an elderly man who "could be a close friend, an admirer or a customer", green walls, red sofa; dancer and clown at the Nouveau Cirque and Moulin Rouge; name = "chahut" + "chaos"): https://www.musee-orsay.fr/en/artworks/clownesse-cha-u-kao-724 (OFF) ; FACTS_R5 061b La Goulue panels (1895; booth at the Foire du Trône; left La Danse au Moulin-Rouge with Valentin le Désossé, right La Danse mauresque; hung outside, exposed to the elements; bought by Viau 1900; cut up by the Hodebert gallery 1926; acquired 1929; reconstituted 1930; location unconfirmed, older plan-guides level 5): https://www.musee-orsay.fr/en/artworks/panneaux-pour-la-baraque-de-la-goulue-la-foire-du-trone-paris-3007 (OFF) ; FACTS_R5 068 (next cue: Balzac, Terrasse Rodin; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[quietly] Some artists know when they are making their last work. Émile Gallé, the glassmaker from Nancy, seems to have known.
+[amused] Her stage name sounds Japanese. It's actually a pun.
 
-In room 63, look for a hand rising out of the sea, made of glass. It's called La Main aux algues et aux coquillages, Hand with Seaweed and Shells, and it dates from 1904. It is very likely the last piece of crafted glass the master from Nancy produced. He made it knowing he was about to die. That year he showed it in Nancy, in a showcase called The Deep Sea. The museum reads it as a farewell, confident in the radiant existence that awaited him.
+Cha-U-Kao was a dancer and clown at the Nouveau Cirque and the Moulin Rouge. Say her name aloud and you hear two French words. Chahut, a wild acrobatic dance that grew out of the cancan, and chaos, the uproar when she came on stage.
 
-[curious] Look closely at the two textures. The shells are rendered just as they are in nature. The hand isn't. Its gelatinous surface makes it look less like human skin than like the body of a jellyfish.
+Lautrec doesn't show her performing. He shows her in a private room, struggling to fasten a large yellow ruffle to the top of her costume. The ruffle almost fills the picture. A yellow ribbon ties up her white toupee, almost ironically, the museum says. Green walls, a red sofa, and quick brushstrokes everywhere.
 
-[pause] Now for something louder. In room 65, find François-Rupert Carabin's Bibliothèque, a bookcase almost three metres high, in walnut and wrought iron. And it isn't really furniture. It's a sermon.
+[curious] Now look above the little table. In a mirror, or perhaps a portrait, there's an elderly man. He could be a close friend, an admirer or a customer. He's simply there, in the room with her.
 
-The critic Gustave Geffroy explained how to read it. At the bottom lie the base passions, the enemies of intelligence, beaten by the Book. On one side sits Ignorance. On the other, a stack of masks: Vanity, Greed, Intemperance, Anger, Folly and Hypocrisy. At the top stand three figures, with Truth in the centre and Reading on either side.
+The other great star of Lautrec's Paris was La Goulue. In 1895 she wanted her own booth at the Foire du Trône, the Paris funfair, and Lautrec painted two monumental panels for its entrance. On one, she dances at the Moulin Rouge with Valentin le Désossé, the pair who made those dances famous. On the other, she performs the so-called Moorish dance she offered inside.
 
-So the vices end up on the floor, and Truth keeps watch over the books.
+[pause] Those panels stood outside in the weather until a collector rescued them. Then a dealer cut them into pieces to sell. In 1930 the State put them back together. They aren't always shown beside Cha-U-Kao, so if you don't see them here, keep the story with you.
 
-From here, find room 57, and a painting of a young woman looking down at a severed head resting on a lyre. Play its track there, and take your time.
+Now make your way east along the sculpture terrace that overlooks the nave, to the Terrasse Rodin at the far end of this floor, by room 67. Rodin's Balzac stands there, a towering plaster figure of the writer. Play its track in front of him.

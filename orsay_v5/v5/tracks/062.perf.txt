@@ -1,28 +1,24 @@
-@id: 062 · Room 55 · Level 2
+@id: 062 · Room 64 · Level 2
 @section: Art Nouveau and Sculpture
-@room: Room 55 · Level 2
-@type: W
-@title: Camille Claudel — L'Âge mûr
-@where: Room 55 on level 2. Look for a bronze group of three figures on a long base: an older man drawn away by an older woman, and a young woman on her knees, reaching after him.
-@what: Camille Claudel, L'Âge mûr, Maturity, about 1902, bronze group in three parts, 114 × 163 × 72 cm. The first bronze, cast in the artist's lifetime; at Orsay since 1982.
-@listen: The private patron who paid for the bronze the State never ordered, and why Claudel's brother saw her soul being torn away in it.
-@brief: Telling a painful true story to a friend, carefully and without melodrama; quiet at the start, steady through the facts, reverent at the brother's words, very soft at the end.
-@pace: slow
-@energy: 2→3→2
-@sources: FACTS_R5 069 Claudel — L'Âge mûr (c. 1902, bronze, three parts, 114 × 163 × 72 cm, first bronze, cast in her lifetime, entered Orsay 1982; room 55; after the break-up Rodin tried to help through an intermediary and obtained a State commission 1895; bronze never ordered, plaster never delivered; Captain Tissier commissioned the first bronze 1902; Orsay holds her letters to Tissier, one saying F. Rudier asked 6,000 francs; Orsay reading: Rodin's hesitation between his former mistress "who was to prevail" and Claudel, who bends forward to hold him; "L'Implorante"; "The man at the end of his maturity is vertiginously drawn by age while he extends a useless hand towards youth"; flying draperies; Paul Claudel quote verbatim): musee-orsay.fr oeuvres-commentées lage-mur-107 ; https://www.musee-orsay.fr/en/program/whats-on/exhibitions/lage-mur-maturity-camille-claudel ; letters …-266518, …-266515 (OFF) ; A2 12.4 (Rodin "suppressed" it is CONTRA) and Confirmed OK (interned 1913 aged 48, died 1943) (OFF) ; FACTS_R5 067 (next cue: Pompon, sculpture terrace) (OFF)
+@room: Room 64 · Level 2
+@type: R
+@title: Guimard and Majorelle — Art Nouveau
+@where: Room 64 on level 2, among the Art Nouveau furniture. Look for Guimard's tall wooden smoking-room bench with a leg like a branching tree trunk, and Majorelle's Water Lilies bed with its gilt bronze.
+@what: Hector Guimard, smoking-room bench, 1897, jarrah wood and carved metal, 260 × 262 cm. Louis Majorelle, Nénuphars bed, 1905–09, mahogany, amourette, marquetry and gilt bronze.
+@listen: The man behind the Paris Métro entrances, a bench that grows like a tree, and a bed in bloom.
+@brief: A friend making a connection the listener didn't expect; light and quick at the Métro, curious at the bench, warm at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R5 065 Guimard (room 64; bench 1897, jarrah and carved metal, H 260 × L 262 cm, from the billiard room of the Roy property at Gévrils, Loiret; Castel Val armchair 1903, pear wood, original embossed leather; leader of French Art Nouveau, "unity of architecture, furniture and decoration", designed all the furniture for the Castel Béranger, 16th arrondissement; asymmetrical bench, leg "seems to be a trunk sprouting supple branches that curve like vines"; Métro company turned to Guimard after an unsuccessful competition; Orsay owns the Montparnasse-Bienvenüe entrance, display location NONE so not placed): https://www.musee-orsay.fr/en/artworks/banquette-de-fumoir-19205 ; …/fauteuil-provenant-du-castel-val-22697 ; …/entree-ouverte-de-metropolitain-station-montparnasse-bienvenue-19242 (OFF) ; FACTS_R5 066b Majorelle (Nénuphars bed 1905–09, mahogany, amourette, marquetry, gilt bronzes, from the Palais du Rhin, Strasbourg; Orchidées desk; Nancy; success with the water lily theme at the 1900 Exposition; room 64): https://www.musee-orsay.fr/en/artworks/nenuphars-3284 ; …/orchidees-3279 (OFF)
 ---
-[quietly] Her brother Paul said that what you are watching here is a woman having her soul torn out of her.
+[lightly] If you've travelled on the Paris Métro, you may already have walked under the work of the man behind this room. Hector Guimard designed the Métro entrances. The company turned to him after a competition that had gone nowhere. The museum even owns one of his entrances, from Montparnasse-Bienvenüe station.
 
-This bronze was made by Camille Claudel, after her break with Auguste Rodin. After the break-up, Rodin tried to help her, through an intermediary, and in 1895 he obtained a State commission for this group.
+Guimard was a leader of French Art Nouveau, and its central idea was simple. Architecture, furniture and decoration should be one single thing. For his Castel Béranger, in the sixteenth arrondissement, he designed every piece of furniture himself.
 
-But the commission went nowhere. The bronze was never ordered, and the plaster was never delivered. [pause] In the end, the money came from a private patron, a Captain Tissier. He commissioned the first bronze in 1902. The group in front of you is that first bronze, cast in her lifetime.
+[curious] Now find his smoking-room bench, from 1897, in jarrah wood and carved metal. It stands over two and a half metres high. It isn't symmetrical. And one leg seems to be a tree trunk, sprouting supple branches that curve like vines. [pause] A bench, growing out of the floor like a tree.
 
-Now look at the three figures. The museum reads the group as Rodin's hesitation between two women. One is his former mistress, the woman who was to prevail. She draws the man away. The other is Claudel herself, bent forward, trying to hold him. Claudel called that kneeling figure l'Implorante, the one who begs.
+Then look for the work of Louis Majorelle, from Nancy. He had enormous success with water lilies at the Universal Exposition of 1900. Here they are again, on a bed called Nénuphars, Water Lilies, in mahogany with marquetry and gilt bronze. Furniture, in other words, that blooms.
 
-[curious] Follow the man's arm. He is at the end of his maturity, drawn away by age, and he holds out a useless hand towards youth. And notice the flying draperies. They make the whole group move faster than bronze has any right to.
+[warmly] Guimard wanted no line at all between the building, the bench and the chair. In this room you can see what happens when designers take that idea seriously.
 
-[reverent] Paul Claudel put it like this. "My sister Camille, beseeching, humiliated on her knees, this superb, this proud woman, and do you know what is being torn from her, at this very moment, before your eyes, it is her soul."
-
-[long pause] [quietly] In 1913, aged forty-eight, Camille Claudel was interned. She never came out. She died thirty years later. But here, in bronze, the kneeling woman is still reaching out.
-
-Now go out onto the sculpture terrace, overlooking the nave, and find François Pompon's great stone polar bear. When you're ready, play its track there.
+Next door, in rooms 63 and 65, look for a glass hand rising out of the sea, and a huge carved bookcase. Play their track there.

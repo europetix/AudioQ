@@ -1,26 +1,26 @@
-@id: 027 · Impressionist rooms · Level 5
+@id: 027 · Room 29 · Level 5
 @section: Impressionism
-@room: Impressionist rooms · Level 5
+@room: Room 29 · Level 5
 @type: R
-@title: Bazille — L'Atelier de Bazille
-@where: In the Impressionist rooms on level 5; the exact room is not confirmed. Look for a painting of a studio interior with several men in it: a tall, slim painter holding a palette stands in the middle, and a man in a hat looks at the canvas on the easel.
-@what: Frédéric Bazille, L'Atelier de Bazille, Bazille's Studio, 1870, oil on canvas, 98 × 128 cm. Bequeathed by the artist's brother, Marc Bazille, in 1924.
-@listen: The studio Bazille shared with Renoir, and the friend who painted Bazille into his own picture.
-@brief: Sharing a small, affectionate puzzle with a friend; amused at the borrowed figure, then quiet and tender at what happened that same year.
+@title: Monet — Coquelicots
+@where: Room 29, level 5. A small landscape of a field of red poppies, with a woman holding a sunshade and a child in the foreground.
+@what: Claude Monet, Coquelicots, Poppies, 1873, oil on canvas, 50 × 65.3 cm. Painted at Argenteuil. Gift of Étienne Moreau-Nélaton, 1906.
+@listen: The exhibition of 1874, the family in the poppies, and the collector who gave this picture and Manet's picnic to the nation in the same year.
+@brief: A friend pointing out a small, sunny picture after a giant one; warm and easy, curious in the looking, a little pleased at the coincidence at the end.
 @pace: medium
-@energy: 3→3→2
-@sources: FACTS_R3 029 (1870; 98 × 128; bequeathed by Marc Bazille 1924; studio rue de la Condamine shared with Renoir 1 Jan 1868 – 15 May 1870; Bazille centre with palette; Manet in a hat looks at the canvas on the easel; letter to his father "Manet painted me in"; Manet's handling visible in the tall slim figure; other figures debated): https://www.musee-orsay.fr/en/artworks/latelier-de-bazille-60 (OFF) ; FACTS_R2 016 (Fantin-Latour, Un atelier aux Batignolles, 1870, Galerie Seine level 0, includes Bazille "who would fall a few months later at age twenty-six in the Franco-Prussian War"): https://www.musee-orsay.fr/en/artworks/un-atelier-aux-batignolles-210 (OFF)
+@energy: 3→3→4
+@sources: FACTS_R3 027 (1873; 50 × 65.3; Argenteuil; 1874 exhibition in Nadar's studio, no. 95; woman with sunshade and child "probably" Camille and Jean; Moreau-Nélaton gift 1906; room 29): https://www.musee-orsay.fr/en/artworks/coquelicots-1010 (OFF) ; A3 21.1 (Monet showed at five of the group exhibitions: culture.gouv.fr + gallery.ca, SEC2) ; A3 21.6 (a cooperative company of artists, SEC2) ; FACTS_R3 025 (Manet's Déjeuner given by Moreau-Nélaton 1906): https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904 (OFF)
 ---
-[amused] Here's a painter who appears in his own painting, but didn't paint himself into it. Someone else did.
+[warmly] In eighteen seventy-four, a group of painters set up a company of their own and hung an exhibition in Nadar's studio in Paris. In the catalogue, this little picture was number ninety-five.
 
-The painter is Frédéric Bazille. This is his studio on the rue de la Condamine in Paris, which he shared with Renoir for a little over two years. In eighteen seventy he painted the room, with his friends in it.
+After that giant picnic, Monet's Coquelicots is almost pocket-sized, about half a metre high. He painted it the year before the show, at Argenteuil.
 
-Find the tall, slim figure standing in the middle with a palette. That's Bazille. Then the man in a hat, looking at the canvas on the easel. That's Manet. [pause] Bazille wrote to his father that "Manet painted me in". And if you look closely at that tall figure, you can see Manet's own way of handling paint. The other friends in the room are harder to name. Their identities are still debated.
+Look at the two figures in the foreground, a woman under a sunshade and a child beside her. They're probably Camille and their son Jean. So this is not just a field of poppies. It's very likely a family walk.
 
-So this is a studio picture with two painters' hands in it. It comes from the same circle that Fantin-Latour gathered round Manet in his big group portrait on the ground floor, and Bazille is in that one too. Both pictures date from the same year.
+[curious] The poppies give the picture its title and most of its colour. Let your eye follow the red across the field. Then come back to the woman and the child, two small figures wading through all that colour.
 
-[quietly] That same year, war came. Within a few months, Bazille was dead, killed in the Franco-Prussian War at twenty-six. He never saw the group exhibitions his friends would put on a few years later. Long afterwards, his brother Marc left this painting to the nation.
+That show in Nadar's studio was only the beginning. Monet would go on to show at five of the group's exhibitions.
 
-[long pause] So what you're looking at is the studio of the one who didn't get the chance. Full of friends, and of pictures still to come.
+[lightly] The picture reached the nation in nineteen oh six, as a gift from the collector Étienne Moreau-Nélaton. [pause] In that same year, he also gave Manet's Déjeuner sur l'herbe. So the picnic Monet tried to rival and his own little field of poppies became public property together.
 
-Next, look in these rooms for Pissarro's Gelée blanche, Hoarfrost: a wide winter field of frosted furrows, with a man carrying wood along a path. Its track is waiting for you there.
+Next, look in the Impressionist rooms on this level for Pissarro's Gelée blanche, Hoarfrost: a wide winter field of frosted furrows, with a man carrying wood along a path. Its track is waiting for you there.

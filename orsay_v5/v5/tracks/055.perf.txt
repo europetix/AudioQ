@@ -1,26 +1,28 @@
-@id: 055 · Lautrec room · Level 2
+@id: 055 · Room 55 · Level 2
 @section: Lautrec and the Nabis
-@room: Lautrec room · Level 2
-@type: R
-@title: Toulouse-Lautrec — La Clownesse Cha-U-Kao and La Goulue
-@where: With the Toulouse-Lautrec paintings on level 2 (room not confirmed). Cha-U-Kao is a small picture on cardboard of a woman clown in a private room, fastening a large yellow ruffle, with green walls and a red sofa. La Goulue's two monumental booth panels may not be shown here; older plans placed them on level 5.
-@what: Henri de Toulouse-Lautrec, La Clownesse Cha-U-Kao (The Clown Cha-U-Kao), 1895, oil on cardboard, 58 × 43 cm, Isaac de Camondo bequest, 1911. Panneaux pour la baraque de la Goulue, à la Foire du Trône à Paris (Panels for La Goulue's Booth at the Foire du Trône), 1895, oil.
-@listen: A clown whose stage name is a pun, a stranger in a mirror, and two fairground panels that were cut up and pieced back together.
-@brief: Taking a friend backstage at the Paris shows of the 1890s; amused by the name, curious about the man in the mirror, then telling the panels' odd survival story with quiet relish.
-@pace: medium
-@energy: 3→3→4→2
-@sources: FACTS_R5 061a Cha-U-Kao (1895, oil on cardboard, 58 × 43, RF 2027, Camondo bequest 1911; dressing or private room, large yellow ruffle, yellow ribbon "almost ironically" tying her white toupee, portrait or mirror reflecting an elderly man who "could be a close friend, an admirer or a customer", green walls, red sofa; dancer and clown at the Nouveau Cirque and Moulin Rouge; name = "chahut" + "chaos"): https://www.musee-orsay.fr/en/artworks/clownesse-cha-u-kao-724 (OFF) ; FACTS_R5 061b La Goulue panels (1895; booth at the Foire du Trône; left La Danse au Moulin-Rouge with Valentin le Désossé, right La Danse mauresque; hung outside, exposed to the elements; bought by Viau 1900; cut up by the Hodebert gallery 1926; acquired 1929; reconstituted 1930; location unconfirmed, older plan-guides level 5): https://www.musee-orsay.fr/en/artworks/panneaux-pour-la-baraque-de-la-goulue-la-foire-du-trone-paris-3007 (OFF) ; FACTS_R5 064 (Les Muses, room 70: women in contemporary dress under chestnut trees; OFF)
+@room: Room 55 · History painting · Level 2
+@type: W
+@title: Camille Claudel — L'Âge mûr
+@where: Room 55 on level 2, the history painting room at the west end of the floor. Look for a bronze group of three figures on a long base: an older man drawn away by an older woman, and a young woman on her knees, reaching after him.
+@what: Camille Claudel, L'Âge mûr, Maturity, about 1902, bronze group in three parts, 114 × 163 × 72 cm. The first bronze, cast in the artist's lifetime; at Orsay since 1982.
+@listen: The private patron who paid for the bronze the State never ordered, and why Claudel's brother saw her soul being torn away in it.
+@brief: Telling a painful true story to a friend, carefully and without melodrama; quiet at the start, steady through the facts, reverent at the brother's words, very soft at the end.
+@pace: slow
+@energy: 2→3→2
+@sources: FACTS_R5 069 Claudel — L'Âge mûr (c. 1902, bronze, three parts, 114 × 163 × 72 cm, first bronze, cast in her lifetime, entered Orsay 1982; room 55; after the break-up Rodin tried to help through an intermediary and obtained a State commission 1895; bronze never ordered, plaster never delivered; Captain Tissier commissioned the first bronze 1902; Orsay holds her letters to Tissier, one saying F. Rudier asked 6,000 francs; Orsay reading: Rodin's hesitation between his former mistress "who was to prevail" and Claudel, who bends forward to hold him; "L'Implorante"; "The man at the end of his maturity is vertiginously drawn by age while he extends a useless hand towards youth"; flying draperies; Paul Claudel quote verbatim): musee-orsay.fr oeuvres-commentées lage-mur-107 ; https://www.musee-orsay.fr/en/program/whats-on/exhibitions/lage-mur-maturity-camille-claudel ; letters …-266518, …-266515 (OFF) ; A2 12.4 (Rodin "suppressed" it is CONTRA) and Confirmed OK (interned 1913 aged 48, died 1943) (OFF) ; FACTS_R5 062 (next cue: Vuillard, room 72) (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[amused] Her stage name sounds Japanese. It's actually a pun.
+[quietly] Her brother Paul said that what you are watching here is a woman having her soul torn out of her.
 
-Cha-U-Kao was a dancer and clown at the Nouveau Cirque and the Moulin Rouge. Say her name aloud and you hear two French words. Chahut, a wild acrobatic dance that grew out of the cancan, and chaos, the uproar when she came on stage.
+This bronze was made by Camille Claudel, after her break with Auguste Rodin. After the break-up, Rodin tried to help her, through an intermediary, and in 1895 he obtained a State commission for this group.
 
-Lautrec doesn't show her performing. He shows her in a private room, struggling to fasten a large yellow ruffle to the top of her costume. The ruffle almost fills the picture. A yellow ribbon ties up her white toupee, almost ironically, the museum says. Green walls, a red sofa, and quick brushstrokes everywhere.
+But the commission went nowhere. The bronze was never ordered, and the plaster was never delivered. [pause] In the end, the money came from a private patron, a Captain Tissier. He commissioned the first bronze in 1902. The group in front of you is that first bronze, cast in her lifetime.
 
-[curious] Now look above the little table. In a mirror, or perhaps a portrait, there's an elderly man. He could be a close friend, an admirer or a customer. He's simply there, in the room with her.
+Now look at the three figures. The museum reads the group as Rodin's hesitation between two women. One is his former mistress, the woman who was to prevail. She draws the man away. The other is Claudel herself, bent forward, trying to hold him. Claudel called that kneeling figure l'Implorante, the one who begs.
 
-The other great star of Lautrec's Paris was La Goulue. In 1895 she wanted her own booth at the Foire du Trône, the Paris funfair, and Lautrec painted two monumental panels for its entrance. On one, she dances at the Moulin Rouge with Valentin le Désossé, the pair who made those dances famous. On the other, she performs the so-called Moorish dance she offered inside.
+[curious] Follow the man's arm. He is at the end of his maturity, drawn away by age, and he holds out a useless hand towards youth. And notice the flying draperies. They make the whole group move faster than bronze has any right to.
 
-[pause] Those panels stood outside in the weather until a collector rescued them. Then a dealer cut them into pieces to sell. In 1930 the State put them back together. They aren't always shown beside Cha-U-Kao, so if you don't see them here, keep the story with you.
+[reverent] Paul Claudel put it like this. "My sister Camille, beseeching, humiliated on her knees, this superb, this proud woman, and do you know what is being torn from her, at this very moment, before your eyes, it is her soul."
 
-Next, find room 70 and Maurice Denis's Les Muses, women in modern dress beneath tall chestnut trees. Play its track there.
+[long pause] [quietly] In 1913, aged forty-eight, Camille Claudel was interned. She never came out. She died thirty years later. But here, in bronze, the kneeling woman is still reaching out.
+
+When you're ready, walk to room 72, also at this west end, for the Nabis. Look for a set of large garden scenes in soft beige, green and blue, hung around the corner of the room. Play its track there.

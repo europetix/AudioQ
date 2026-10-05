@@ -1,24 +1,26 @@
-@id: 018 · Room 10b · Level 0
-@section: Nave End
-@room: Room 10b · Level 0
+@id: 018 · Room 18 · Level 0
+@section: Manet and Friends
+@room: Room 18 · Level 0
 @type: R
-@title: Who do these works belong to? The MNR room
-@where: Room 10b, at the far end of the nave on level 0, under the title « À qui appartiennent ces œuvres ? ». The selection of about thirteen works changes over time, and some paintings are hung so that you can see their backs.
-@what: A room opened in May 2026 for works in the MNR category, recovered after the Second World War and held by the national museums until their owners can be identified.
-@listen: What MNR means, why so few works have gone home, and what the backs of these paintings can tell.
-@brief: Speaking quietly and plainly to a friend in a room about loss; serious, factual, no drama, with real weight on the names.
-@pace: medium-slow
-@energy: 2→3→2
-@sources: FACTS_R2 017 MNR room (opened 5 May 2026, room 10b, back of the nave; works recovered in Germany and Austria after WWII; about 2,200 entrusted to the national museums, MNR = Musées Nationaux Récupération; Orsay 15 restituted in 30 years, 225 held, mostly incomplete provenance, some shown not to be stolen; 13 works, rotating; backs visible): https://www.musee-orsay.fr/en/node/345503 (OFF) ; ministry figures about 100,000 spoliated in France, about 60,000 returned to France, about 45,000 restituted, about 13,000 sold early 1950s: A2 14.8–14.9, culture.gouv.fr Biens MNR (OFF) ; Degas Souper au bal, free copy after Menzel, owned by Fernand Ochsé; Ochsé and his wife the sculptor Louise Ochsé deported July 1944 to Auschwitz: A2 14.5–14.6 and Confirmed OK (SEC2; pop.culture.gouv.fr MNR00226 OFF) ; Stevens beach scene for Hitler's planned Linz museum: A2 14.4 (SEC2)
+@title: Bazille — L'Atelier de Bazille
+@where: Room 18 on level 0, the room of Bazille, Monet and Renoir in the 1860s, the same room as Monet's Femmes au jardin. Look for a painting of a studio interior with several men in it: a tall, slim painter holding a palette stands in the middle, and a man in a hat looks at the canvas on the easel.
+@what: Frédéric Bazille, L'Atelier de Bazille, Bazille's Studio, 1870, oil on canvas, 98 × 128 cm. Bequeathed by the artist's brother, Marc Bazille, in 1924.
+@listen: The studio Bazille shared with Renoir, and the friend who painted Bazille into his own picture.
+@brief: Sharing a small, affectionate puzzle with a friend; amused at the borrowed figure, then quiet and tender at what happened that same year.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_R3 029 (1870; 98 × 128; bequeathed by Marc Bazille 1924; studio rue de la Condamine shared with Renoir 1 Jan 1868 – 15 May 1870; Bazille centre with palette; Manet in a hat looks at the canvas on the easel; letter to his father "Manet painted me in"; Manet's handling visible in the tall slim figure; other figures debated): https://www.musee-orsay.fr/en/artworks/latelier-de-bazille-60 (OFF) ; FACTS_R2 016 (Fantin-Latour, Un atelier aux Batignolles, 1870, Galerie Seine level 0, includes Bazille "who would fall a few months later at age twenty-six in the Franco-Prussian War"): https://www.musee-orsay.fr/en/artworks/un-atelier-aux-batignolles-210 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[quietly] The title of this room is a question. À qui appartiennent ces œuvres? Who do these works belong to?
+[amused] Here's a painter who appears in his own painting, but didn't paint himself into it. Someone else did.
 
-During the Second World War, a vast number of works of art were taken from their owners in France, many of them Jewish families. After the war, many were recovered in Germany and Austria and sent back to France. Most of those were returned to their owners, and some were sold by the State. About two thousand two hundred were entrusted to the national museums, to hold until their owners are found. Those are the MNR, for Musées Nationaux Récupération.
+The painter is Frédéric Bazille. This is his studio on the rue de la Condamine in Paris, which he shared with Renoir for a little over two years. In eighteen seventy he painted the room, with his friends in it.
 
-[pause] Orsay holds two hundred and twenty-five of them. In thirty years, fifteen have gone back to their rightful owners. Why so few? Mostly because the history of each work is incomplete. And some turn out not to have been stolen at all, so there is no one to return them to.
+Find the tall, slim figure standing in the middle with a palette. That's Bazille. Then the man in a hat, looking at the canvas on the easel. That's Manet. [pause] Bazille wrote to his father that "Manet painted me in". And if you look closely at that tall figure, you can see Manet's own way of handling paint. The other friends in the room are harder to name. Their identities are still debated.
 
-This room opened in twenty twenty-six, and its selection changes. Look for the paintings hung so that you can see their backs. The labels and stamps there are part of the evidence.
+So this is a studio picture with two painters' hands in it. It comes from the same circle that Fantin-Latour gathered round Manet in his big group portrait in the Seine gallery, and Bazille is in that one too. Both pictures date from the same year.
 
-If they're on show, two works carry heavy stories. A supper at a ball by Degas, a free copy after the German painter Menzel, once belonged to Fernand Ochsé. In July nineteen forty-four he and his wife, the sculptor Louise Ochsé, were deported to Auschwitz. And a small beach scene by Alfred Stevens was acquired for the museum Hitler planned in Linz.
+[quietly] That same year, war came. Within a few months, Bazille was dead, killed in the Franco-Prussian War at twenty-six. He never saw the group exhibitions his friends would put on a few years later. Long afterwards, his brother Marc left this painting to the nation.
 
-[long pause] When you're ready, head back into the central sculpture aisle and find Carpeaux's La Danse, a great ring of dancers in stone. Its track begins there.
+[long pause] So what you're looking at is the studio of the one who didn't get the chance. Full of friends, and of pictures still to come.
+
+Now a very different room, and a harder question. Cross the nave to the Lille side, towards its far end, and find room 10b, called À qui appartiennent ces œuvres? Listen there.

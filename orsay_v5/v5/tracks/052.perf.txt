@@ -1,19 +1,19 @@
-@id: 052 · Nabi rooms · Level 5
+@id: 052 · Room 45 · Level 5
 @section: Post-Impressionism
-@room: Nabi rooms · Level 5
+@room: Room 45 · Redon and the Nabis · Level 5
 @type: R
 @title: Sérusier — Le Talisman
-@where: In the Nabi rooms on level 5, after the Gauguin rooms; the museum has listed it in room 48, which may have been renumbered, so follow the Nabis. Look for a very small landscape painted on a wooden panel, about the size of a sheet of paper.
+@where: In room 45 on level 5, Redon and the Nabis, after the Gauguin rooms. Look for a very small landscape painted on a wooden panel, about the size of a sheet of paper.
 @what: Paul Sérusier, Le Talisman (L'Aven au Bois d'Amour), October 1888. Oil on wood, 27 × 21 cm.
 @listen: How a panel smaller than a sheet of paper, painted under Gauguin's direction, became the founding work of the Nabis.
 @brief: Pointing out a small, easily missed treasure to a friend; quiet and respectful, a little awed at how much came from so little.
 @pace: medium-slow
 @energy: 2→3→2
-@sources: FACTS_R4 056 + A3 30.8 and Confirmed OK (October 1888, oil on wood, 27 × 21 cm, Bois d'Amour at Pont-Aven, painted under Gauguin's direction, lesson known through Maurice Denis's account, founding work of the Nabis; room 48 with 2026 numbering caveat; no verbatim lesson text, paraphrase only): musee-orsay.fr Talisman pages (OFF) ; FACTS_R4 051 (Bois d'Amour "a wood that Sérusier's Talisman had made famous"; Gauguin recommended "painting in masses and solid areas of colour"): https://www.musee-orsay.fr/en/artworks/madeleine-au-bois-damour-7992 (OFF) ; FACTS_R4 059 (Café Campana at the exit of the gallery behind one of the great clocks; OFF) ; FACTS_R5 064 (Denis on level 2, room 70; OFF)
+@sources: FACTS_R4 056 + A3 30.8 and Confirmed OK (October 1888, oil on wood, 27 × 21 cm, Bois d'Amour at Pont-Aven, painted under Gauguin's direction, lesson known through Maurice Denis's account, founding work of the Nabis; room 48 with 2026 numbering caveat; no verbatim lesson text, paraphrase only): musee-orsay.fr Talisman pages (OFF) ; FACTS_R4 051 (Bois d'Amour "a wood that Sérusier's Talisman had made famous"; Gauguin recommended "painting in masses and solid areas of colour"): https://www.musee-orsay.fr/en/artworks/madeleine-au-bois-damour-7992 (OFF) ; FACTS_R4 059 (Café Campana at the exit of the gallery behind one of the great clocks; OFF) ; FACTS_R5 064 (Denis on level 2, room 70; OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
 [quietly] Some of the most consequential paintings in this museum are huge. This one is not. It's a little panel of wood, twenty-seven centimetres by twenty-one, about the size of a sheet of paper.
 
-It was painted in October 1888 by Paul Sérusier, in the Bois d'Amour at Pont-Aven. Yes, the same wood where Émile Bernard laid his sister down life-size a few rooms back. Sérusier painted it under Gauguin's direction, the same advice about masses of colour you heard with Bernard's Madeleine.
+It was painted in October 1888 by Paul Sérusier, in the Bois d'Amour at Pont-Aven. Yes, the same wood where Émile Bernard laid his sister down life-size back in room 43. Sérusier painted it under Gauguin's direction, the same advice about masses of colour you heard with Bernard's Madeleine.
 
 We know of that lesson through the later account of the painter Maurice Denis. You'll meet his own work on level two, among the Nabis.
 
@@ -21,4 +21,4 @@ We know of that lesson through the later account of the painter Maurice Denis. Y
 
 [pause] This little panel became the founding work of the group called the Nabis. It also made the Bois d'Amour famous. [warmly] Not bad for something you could slip into a coat pocket.
 
-Before you go down, walk on to the exit of the gallery. The Café Campana is there, behind the second great clock of this floor. Stop at the threshold and play its track.
+Before you go down, walk back towards the great clock. The Café Campana is beside the second great clock of this floor, by rooms 38 and 39. Stop at the threshold and play its track.

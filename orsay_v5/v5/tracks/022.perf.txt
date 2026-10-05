@@ -1,26 +1,24 @@
-@id: 022 · Back of the nave · Level 0
+@id: 022 · Opéra space · Level 0
 @section: Nave End
-@room: Back of the nave · Level 0
+@room: End of the nave · Opéra space · Level 0
 @type: R
-@title: Paris, capital of a modern nation
-@where: In the rooms at the far end of the nave on level 0 called « Paris, capitale d'une nation moderne ». Look for Victor Navlet's large painted view of the whole city seen from above.
-@what: Rooms opened in May 2022 on the transformation of Paris under the Second Empire, centred on Victor Navlet's Vue générale de Paris, prise de l'Observatoire en ballon, General View of Paris from the Observatory in a Balloon, 1855, and on Garnier's Opéra.
-@listen: What these rooms set out to show, and a bird's-eye view of Paris from a balloon.
-@brief: Floating over Paris with a friend in front of a big view of the city; warm and unhurried, a little delighted by the balloon, reflective at the end.
-@pace: medium-slow
-@energy: 2→3→2
-@sources: FACTS_R2 022 and G §1 "Paris, capitale d'une nation moderne" (new rooms on level 0 at the back of the nave, opened 24 May 2022; Second Empire transformation of Paris through paintings, drawings, models and sculpture; centred on Victor Navlet's large Vue générale de Paris, prise de l'Observatoire en ballon, 1855, and Garnier's Opéra): https://www.musee-orsay.fr/en/articles/new-rooms-paris-capital-modern-nation-214273 (OFF, via audit G) ; Haussmann link: FACTS_R2 020, https://www.musee-orsay.fr/en/artworks/maquette-du-quartier-de-lopera-arretee-en-letat-en-1914-89448 (OFF). Minimal-facts track per audit G.
+@title: Garnier's Opéra, cut open
+@where: In the Opéra space at the end of the nave, level 0: a long model of the Paris Opéra sliced lengthwise, nearly six metres long and about two and a half metres high. In autumn 2026 a temporary display is built around the models, so access may differ; follow the museum's signs.
+@what: Opéra de Paris, maquette de la coupe longitudinale, longitudinal-section model of the Paris Opéra, made in 1985 in Rome by the Gianese workshop under Richard Peduzzi's artistic direction, after Garnier's own drawing, at 1/25 scale, 240 × 578 × 110 cm.
+@listen: How to read an opera house from the façade to the back of the stage, and why the model was made.
+@brief: Walking a friend along a giant cutaway, section by section; curious and a little amused, then admiring.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_R2 021 longitudinal-section model (1985, Peduzzi's artistic direction, Gianese workshop in Rome: Ercole Borsani, Amedeo Brogli, Giovanni Gianese; after Garnier's drawing in Le nouvel Opéra de Paris, published 1880; 1/25; 240×578×110 cm; gift 1989; mediation panel since 19 June 2023, 5.60 m, French and English, braille, 18 tactile visuals, four parts: overall section, façade-foyer-grand staircase, auditorium, backstage; Orsay's first universally accessible station; purpose: how Garnier's building works, decoration such as La Danse, and through Degas the corps de ballet): https://www.musee-orsay.fr/en/artworks/opera-de-paris-maquette-de-la-coupe-longitudinale-89419 , https://www.musee-orsay.fr/en/articles/new-mediation-station-front-model-paris-opera-house-219776 (OFF) ; G §1 (OFF) ; room numbers and room themes: findings/M_planguide_ete_2026.md, official plan-guide summer 2026 (OFF)
 ---
-[warmly] Imagine floating over Paris in a balloon, with the whole city spread out below you. That is the view this painting offers.
+[amused] Most buildings keep their secrets behind a wall. This one has had its wall taken off. What you're looking at is the Paris Opéra, sliced lengthwise from the façade all the way to the back of the stage.
 
-It is by Victor Navlet, and its title is a small adventure in itself. Vue générale de Paris, prise de l'Observatoire en ballon. A general view of Paris, from the Observatory, in a balloon. It is dated eighteen fifty-five.
+The model was made in Rome in nineteen eighty-five, by the Gianese workshop, under the artistic direction of Richard Peduzzi. It follows Garnier's own drawing, published in his book Le Nouvel Opéra de Paris in eighteen eighty. The scale is one to twenty-five, and still the model is nearly six metres long.
 
-[pause] Not a street corner, not a single monument, but the whole city at once. Take a moment with it, and see how much of Paris you can recognise from the air.
+[curious] Read it in four parts. First, take in the whole cross-section, end to end. Then find the façade, the foyer and the grand staircase. Next comes the auditorium. [pause] And then the backstage, the part the audience never sees.
 
-These rooms carry a big name. Paris, capitale d'une nation moderne. Paris, capital of a modern nation. They opened in May twenty twenty-two, and they tell one story, the transformation of Paris under the Second Empire, in paintings, drawings, models and sculpture.
+In front of the model there's usually a long panel with texts in French and English, braille and tactile pictures. Since June twenty twenty-three, it has been the museum's first station designed to be accessible to every visitor.
 
-[curious] The rooms are centred on two things. One is the city seen whole, from above, in Navlet's view. The other is a single great building, Garnier's Opéra. You've met it twice already. Carpeaux's dancers came from its façade, and the model under the floor showed its quarter, stopped in nineteen fourteen.
+[warmly] Why put an opera house in an art museum? Because it ties together works you meet across this museum. The model explains how Garnier's building works, the decoration you've just seen in Carpeaux's La Danse, and, through Degas, the life of the corps de ballet. You'll meet Degas's dancers upstairs.
 
-[quietly] Put the two together and you have a portrait of a capital rebuilding itself. The view from the sky, and one building on the ground.
-
-One last stop on this floor. At the very end of the nave, between the two towers, Rodin's Gates of Hell face back down the whole aisle. Go and stand in front of them for the last story of the ground floor.
+At the far end of the nave, the rooms called Paris, capitale d'une nation moderne show how Paris was transformed under the Second Empire. Find them, by the escalators, and play their track there.
