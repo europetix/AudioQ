@@ -67,11 +67,11 @@ def silence_wav(seconds, dst):
                     "-i", f"anullsrc=channel_layout=mono:sample_rate={SR}", "-t", f"{seconds:.2f}", dst], check=True)
 
 
-# On trial (7 Oct 2026), off unless set:
-#   ROOM_TONE=1  a barely audible room tone under the whole track, so pauses sound like a recording, not a dropout
-#   CHIME=1      a soft two-note chime (synthesised here, no licence needed) before the voice starts
-ROOM_TONE = os.environ.get("ROOM_TONE") == "1"
-CHIME = os.environ.get("CHIME") == "1"
+# The Yo Tours sound, chosen by the user from the 013 A/B test (version D, 7 Oct 2026). ON by default; =0 turns one off:
+#   ROOM_TONE  a barely audible room tone under the whole track, so pauses sound like a recording, not a dropout
+#   CHIME        a soft two-note chime (synthesised here, no licence needed) before the voice starts
+ROOM_TONE = os.environ.get("ROOM_TONE", "1") != "0"
+CHIME = os.environ.get("CHIME", "1") != "0"
 ROOM_TONE_AMP = 0.002          # about -64 dBFS after mastering: heard only in the pauses, on headphones
 CHIME_EXPR = ("0.10*(1-exp(-300*t))*exp(-3.2*t)*sin(2*PI*659.25*t)+0.035*(1-exp(-300*t))*exp(-5*t)*sin(2*PI*1318.5*t)"
               "+gte(t,0.18)*(0.10*(1-exp(-300*(t-0.18)))*exp(-3.2*(t-0.18))*sin(2*PI*987.77*(t-0.18))"

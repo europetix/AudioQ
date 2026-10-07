@@ -27,8 +27,8 @@ echo "  1) The full guide (75 tracks)"
 echo "  2) Two voice samples only: 013 Olympia + 044 Van Gogh self-portrait (a few minutes)"
 printf "Enter 1 or 2 [1]: "
 read SCOPE
-OUTPUT_DIR="$HOME/Desktop/Orsay_V5_${TAG}_${VOICE_NAME}"
-if [ "$SCOPE" = "2" ]; then export ONLY="013 044"; OUTPUT_DIR="$HOME/Desktop/Orsay_V5_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
+OUTPUT_DIR="$HOME/Desktop/Orsay_YoTours_${TAG}_${VOICE_NAME}"
+if [ "$SCOPE" = "2" ]; then export ONLY="013 044"; OUTPUT_DIR="$HOME/Desktop/Orsay_YoTours_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
 export RESPELL=0
 
 [ -d "languages/$L/scripts" ] || { echo "ERROR: languages/$L is missing from this bundle."; read -p "Press enter..."; exit 1; }

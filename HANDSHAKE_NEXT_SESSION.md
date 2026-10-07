@@ -122,6 +122,9 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
   - Spanish: **Dalia** (`es-MX-DaliaNeural`). French: **Vivienne** (`fr-FR-VivienneMultilingualNeural`). German: **Katja**
     (`de-DE-KatjaNeural`). All female.
 - **Bitrate:** **64 kbps**, for every guide and every language.
+- **Brand:** **Yo Tours** (artist/album artist in the MP3 labels, on the cover). 7 Oct.
+- **Sound (Orsay, 7 Oct):** version D of the A/B test is the standard: voice finishing + room tone + soft chime before each
+  track. Port to Pitti and Orangerie only when the user asks.
 - **Translations:** rewritten for listening, not word for word. Formal address (usted / vous / Sie). Facts unchanged. Each language
   gets an independent native-level review, then `assemble.py` checks.
 - **Launcher safeguards:** stop if old and new versions are mixed; one render per output folder (lock file).
@@ -161,7 +164,8 @@ Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
    folder; for perf files, rebuild and validate).
    - Fact fixed in the English this session: 018 Bazille killed at twenty-eight (was twenty-six), from the museum's own pages.
    - 7 Oct: Orsay renderer now times out and retries (no more stuck renders); every MP3 gets phone labels and a Yo Tours
-     cover; an A/B test of voice finish / room tone / chime is waiting for the user's ear (`make_ab_test_013.command`).
+     cover; the user chose A/B version D (voice finish + room tone + chime), now the default; renders go to
+     ~/Desktop/Orsay_YoTours_<LANG>_<voice>.
      See `orsay_v5/ORSAY_V5_HANDSHAKE.md` STATE 4. Pitti/Orangerie not yet ported.
 2. **Orsay quotes:** if `musee-orsay.fr` becomes reachable, check the Christopher Gray, "black Eve" and Redon "refined, savage" quotes
    verbatim (tracks 055 to 058, see `v5/notes/FINAL_PASS_LOG.md`), and the rooms listed in `ONSITE_CHECKLIST.md`.

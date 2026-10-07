@@ -37,14 +37,14 @@ HOW TO RUN (macOS)
 ==================
   1. Open Terminal. Type  bash  and a space, drag "generate_audio.command" in, Return.
   2. Choose a voice: 1) Ava. Then 1) full tour or 2) two samples (013 + 044).
-  3. The tour appears in  ~/Desktop/Orsay_V5_EN_Ava/
+  3. The tour appears in  ~/Desktop/Orsay_YoTours_EN_Ava/
 If a render stops, run it again: finished tracks are skipped.
 
 SPANISH, FRENCH, GERMAN
 =======================
   bash generate_audio_ES_FR_DE.command  ->  1) Espanol (Dalia)  2) Francais (Vivienne)
   3) Deutsch (Katja). Then 1) full guide or 2) two samples (013 + 044).
-  Output: ~/Desktop/Orsay_V5_<ES|FR|DE>_<voice>/, same folders and numbers as English.
+  Output: ~/Desktop/Orsay_YoTours_<ES|FR|DE>_<voice>/, same folders and numbers as English.
   Translated for listening from the fact-checked English, then reviewed independently
   per language. A native-speaker spot check is still to come.
 
@@ -57,10 +57,13 @@ at the end of every run, including to MP3s made earlier.
 If the voice service does not answer within 60 seconds, the passage is retried (3 tries);
 a track that still fails is skipped and listed, and running the launcher again fills it in.
 
-SOUND TEST (013 Olympia)
-========================
-  bash make_ab_test_013.command   ->  ~/Desktop/Orsay_V5_AB_Test_013/  with four versions:
-  A current, B voice finish, C + room tone, D + chime. Listen on earbuds and pick one.
+THE YO TOURS SOUND (chosen 7 Oct 2026)
+======================================
+Every track has voice finishing (clearer, softer "s" sounds, steady level), a barely audible
+room tone under the pauses, and a soft two-note chime before the voice starts.
+Renders now go to new Desktop folders named Orsay_YoTours_<EN|ES|FR|DE>_<voice>, so nothing
+rendered earlier is mixed in or overwritten.
+(make_ab_test_013.command still makes the four test versions of 013 for comparison.)
 
 START CLEAN
 ===========

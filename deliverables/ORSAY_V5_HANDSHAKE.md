@@ -90,3 +90,7 @@ Glance PDF (three levels). Not yet rendered with a real voice or tested on site.
   into a new output folder or move the old one away, since finished tracks are skipped).
 - Levels checked with stand-in tones only (loudness −16 LUFS kept; room tone −63.4 dBFS in pauses). Real voice not heard.
 - Only Orsay changed. Pitti and Orangerie still have the old renderer (no timeout, no labels); port when the user asks.
+- DECIDED (7 Oct, user): A/B version D is the standard. VOICE_FINISH, ROOM_TONE and CHIME are now ON by default (=0 turns one
+  off). Launchers render into new folders ~/Desktop/Orsay_YoTours_<EN|ES|FR|DE>_<voice> (and Orsay_YoTours_Voice_Samples), so
+  the new sound never mixes with earlier renders and nothing old is overwritten. Stand-in run: 4 × 75 files, all labelled,
+  chime present, room tone −63.4 dBFS, −16.4 LUFS.

@@ -4,7 +4,7 @@
 # V5: each track is performed from its direction layer (perf/), with real pauses and mastering.
 cd "$(dirname "$0")"
 
-BASE_DIR="$HOME/Desktop/Orsay_V5_EN"
+BASE_DIR="$HOME/Desktop/Orsay_YoTours_EN"   # new name since the Yo Tours sound (7 Oct): old renders stay untouched
 
 echo ""
 echo "================================================================"
@@ -35,7 +35,7 @@ printf "Enter 1 or 2 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
     export ONLY="013 044"
-    BASE_DIR="$HOME/Desktop/Orsay_V5_Voice_Samples/Sample"
+    BASE_DIR="$HOME/Desktop/Orsay_YoTours_Voice_Samples/Sample"
 fi
 
 HAVE_FFMPEG=1
