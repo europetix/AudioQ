@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/artworks/kaffehaus ; https://www.uffizi.it/en/artworks/garden-of-ganymede ; https://uffizi.it/en/news/boboli2030 (1 Aug 2022) ; old script + findings G5
 @lang: es
-@translation: from the fact-checked English V5.1 055 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 055; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [warmly] Por esta vista se sube la colina. [pause] Todo el centro de Florencia, a sus pies. A media distancia se alza la cúpula de Brunelleschi, terminada en 1436. Sigue siendo la mayor cúpula de mampostería del mundo. A su lado, el campanario de Giotto. Más allá de los tejados, las colinas suben hacia Fiesole.
 

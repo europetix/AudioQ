@@ -21,6 +21,10 @@ def slug(s, n=48):
     s = re.sub(r"[^A-Za-z0-9]+", "_", s).strip("_")
     return s[:n].rstrip("_")
 
+def short_title(title, room):
+    """The title without a leading room name (Palatine titles start with the door sign; the room is already in the file name)."""
+    return title[len(room):].lstrip(" ·—-") if room and title.startswith(room) else title
+
 def room_label(sec, room):
     if sec in ("Opening", "Closing"):
         return ""
@@ -34,7 +38,7 @@ for f in sorted(glob.glob(SRC + '/*.perf.txt')):
     sec = meta['section']; disp, folder = SEC[sec][1], SEC[sec][2]
     title = meta['title']
     rl = room_label(sec, meta['room'])
-    base = f"{n}_{rl + '_' if rl else ''}{slug(title)}"
+    base = f"{n}_{rl + '_' if rl else ''}{slug(short_title(title, meta['room']))}"
     for d in ('scripts', 'perf'):
         os.makedirs(f"{B}/{d}/{folder}", exist_ok=True)
     open(f"{B}/scripts/{folder}/{base}.txt", "w", encoding="utf-8").write(clean + "\n")
@@ -59,7 +63,7 @@ json.dump(plan, open(f"{B}/plan.json", "w"), indent=1, ensure_ascii=False)
 for f in sorted(glob.glob('/home/claude/pitti/v5/i18n/*/tracks/*.perf.txt')):
     lang = f.split('/')[-3]; meta, clean = V.validate(f); n = os.path.basename(f)[:3]
     folder = SEC[meta['section']][2]; rl = room_label(meta['section'], meta['room'])
-    base = f"{n}_{rl + '_' if rl else ''}{slug(meta['title'])}"
+    base = f"{n}_{rl + '_' if rl else ''}{slug(short_title(meta['title'], meta['room']))}"
     for d in ('scripts', 'perf'):
         os.makedirs(f"{B}/languages/{lang}/{d}/{folder}", exist_ok=True)
     open(f"{B}/languages/{lang}/scripts/{folder}/{base}.txt", "w", encoding="utf-8").write(clean + "\n")
@@ -68,7 +72,8 @@ for p in ('v5_direction.py', 'render_kokoro.py', 'render_edge.py'):
     shutil.copy(f"/home/claude/pitti/v5/pipeline/{p}", B)
 # hand-maintained bundle files (launcher, README, extended pronunciation, user-test docs)
 ST = '/home/claude/pitti/build/static'
-for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'voice_samples_ES_FR_DE.command', 'README.txt', 'pronunciation.py'):
+for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'voice_samples_ES_FR_DE.command', 'README.txt', 'pronunciation.py',
+          'tag_tracks.py', 'cover.jpg'):
     shutil.copy(f'{ST}/{p}', B)
 shutil.copytree(f'{ST}/USER_TEST', f'{B}/USER_TEST')
 for p in (f'{B}/generate_audio.command', f'{B}/generate_audio_ES_FR_DE.command', f'{B}/voice_samples_ES_FR_DE.command', f'{B}/USER_TEST/make_listening_test.command'):

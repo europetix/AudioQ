@@ -11,7 +11,7 @@
 @energy: 3→4→2
 @sources: https://catalogue.museogalileo.it/indepth/BoboliGarden.html (installed 1636; superseded by catalogo.beniculturali.it 0900289222: moved to the hill 12 Apr 1637) ; https://www.visittuscany.com/en/ideas/boboli-gardens-the-green-heart-of-florence/ (Joanna's face) ; https://uffizi.it/en/boboli-garden/history ; old script + findings G5, G6 §1.7
 @lang: es
-@translation: from the fact-checked English V5.1 056 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 056; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Quizá ni siquiera nació como Abundancia. Se cuenta que esta mujer colosal empezó como el retrato de una mujer real: Juana de Austria, archiduquesa de los Habsburgo y esposa del gran duque Francisco Primero. Al menos el rostro, dicen, sigue siendo el suyo.
 

@@ -2,7 +2,7 @@
 @section: Russian Icons and Chapel
 @room: Rooms 1–4
 @type: R
-@title: Museum der Russischen Ikonen – die Sommerwohnung von Cosimo III.
+@title: Museum der Russischen Ikonen — die Sommerwohnung von Cosimo III.
 @where: Erdgeschoss, am Ammannati-Hof. Folgen Sie den Schildern zur Cappella Palatina und zu den Russischen Ikonen, und hören Sie dies im ersten freskierten Raum.
 @what: Four seventeenth-century frescoed rooms, restored and opened as the Museum of Russian Icons in 2022, hung with 78 Russian icons in gold and deep colour; captions in Italian, English and Russian.
 @listen: How a Medici summer apartment came to hold the oldest collection of Russian icons outside Russia, and what the gold is for.
@@ -11,7 +11,7 @@
 @energy: 2→3
 @sources: https://www.uffizi.it/en/pitti-palace/museum-of-russian-icons ; https://www.finestresullarte.info/musei/firenze-apre-museo-icone-russe-a-palazzo-pitti (2 Jan 2022) ; https://www.uffizi.it/en/news/icons-pitti ; old script + findings G4
 @lang: de
-@translation: from the fact-checked English V5.1 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 046; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Jahrzehntelang waren diese Räume Büros, und kaum jemand blickte zu den Decken hinauf. Dann wurden sie restauriert und 2022 als Museum eröffnet. Die Fresken aus dem siebzehnten Jahrhundert erwachten wieder zum Leben. Und jetzt hängen russische Ikonen davor.
 

@@ -11,7 +11,7 @@
 @energy: 3→3→4
 @sources: https://www.uffizi.it/en/online-exhibitions/en · old script 050 + findings G3 (A 050, B 050, D, E 049–050)
 @lang: de
-@translation: from the fact-checked English V5.1 037 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 037 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
 [curious] Im Italien des neunzehnten Jahrhunderts kommentierte ein Bild der fernen Vergangenheit oft die Gegenwart. Eines haben Sie gerade gesehen. Dieser Saal ist voll davon.
 
@@ -19,7 +19,7 @@ Die Bilder hier stehen zwischen zwei Welten, Romantik und Realismus. Die Romanti
 
 [pause] Suchen Sie hier Giuseppe Bezzuolis Einzug Karls des Achten in Florenz, gemalt 1829. Ein französischer König zieht in die Stadt ein. Das Bild macht aus dem Moment ein großes Schauspiel. Bezzuoli lehrte an der Akademie in Florenz. In genau dieser Manier wurden seine Schüler ausgebildet.
 
-Suchen Sie auch Giovanni Duprès Skulptur des sterbenden Abel. Keine Menge, keine Kostüme. Nur ein junger Körper und eine Stille, die dem Leben sehr nahe scheint.
+Suchen Sie irgendwo in diesen Sälen auch Giovanni Duprès Skulptur des sterbenden Abel. Keine Menge, keine Kostüme. Nur ein junger Körper und eine Stille, die dem Leben sehr nahe scheint.
 
 [conspiratorial] Und nebenan beginnt eine Rebellion. In den folgenden Sälen wenden sich Maler in Florenz von all diesem Theater ab. Saal sechs zeigt ihre ersten Versuche, etwa Giuseppe Abbatis Blick auf den Kreuzgang von Santa Croce. [pause] Dann folgen Säle mit Porträts und ein Saal mit Landschaften.
 

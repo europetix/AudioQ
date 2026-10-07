@@ -1,5 +1,6 @@
 V5.1 - TOUR #43
-Palazzo Pitti + Boboli Gardens - English Edition  (61 tracks, ~142 min)
+Palazzo Pitti + Boboli Gardens - Yo Tours edition of 7 Oct 2026 (61 tracks, ~2 h 20)
+English, Spanish, French, German
 Built 5 Oct 2026 for user testing. The released guide (90 tracks, June 2026) is unchanged.
 
 WHAT'S NEW IN V5
@@ -19,6 +20,21 @@ WHAT'S NEW IN V5
    the renderer performs: pace and volume change by passage, real pauses before
    reveals, and every track is levelled to the same loudness.
 
+WHAT'S NEW ON 7 OCT 2026
+========================
+- Palatine Gallery rebuilt around the room names written above the doors (Sala di Saturno,
+  Sala di Giove ...). Every Palatine track title starts with its room's name, and every
+  track ends by naming the next door sign. Lost? Look up at the door and play the tracks
+  with that name.
+- Every painting's room was checked on the museum's own artwork pages (uffizi.it, 7 Oct
+  2026) or the Ministry of Culture catalogue. Fixed: Raphael's La Gravida is now in the
+  Sala di Prometeo (track 006, with a fallback to the Sala dell'Iliade); Leo X, no longer
+  at Pitti, is replaced by Raphael's Ezekiel's Vision in the Sala di Saturno (017).
+- The Yo Tours sound: voice finishing, a soft room tone and a short chime before each track.
+- MP3s are labelled for phones (title, album, track n/61, Yo Tours, cover picture).
+- Renders no longer hang: a voice request that gets no answer is retried automatically.
+- New output folders (Pitti_YoTours_...), so earlier renders are never mixed in.
+
 WHAT YOU GET
 ============
 After you run the launcher, the tour is organised into one folder per section:
@@ -37,7 +53,7 @@ share it with the MP3s) and
 USER_TEST/ (test plan, feedback form, on-site checklist).
 
 Track files are named  <play-order>_<room>_<title>.mp3
-  e.g.  015_Room-24_Raphael_Madonna_della_Seggiola.mp3
+  e.g.  016_Sala-di-Saturno_Raphael_Madonna_della_Seggiola.mp3
         053_Stop-5_The_Amphitheatre.mp3
 The old section maps are not included: their numbering belongs to the June guide.
 The route PDF replaces them.
@@ -57,9 +73,9 @@ verify..."). The reliable way:
      3) Andrew     - Microsoft edge-tts, en-US-AndrewMultilingualNeural (trial).
      4) Brian      - Microsoft edge-tts, en-US-BrianMultilingualNeural (earlier test voice).
    Then choose what to render: 1) the full tour, or 2) two voice samples only
-   (015 Madonna della Seggiola + 053 The Amphitheatre), saved in
-   ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/Sample_<voice>/ for a quick comparison.
-4. The tour appears in  ~/Desktop/Palazzo_Pitti_V5_1_EN_<voice>/
+   (016 Madonna della Seggiola + 053 The Amphitheatre), saved in
+   ~/Desktop/Pitti_YoTours_Voice_Samples/Sample_<voice>/ for a quick comparison.
+4. The tour appears in  ~/Desktop/Pitti_YoTours_EN_<voice>/
    (a different folder from the June guide and from any V5.0 test render,
    so nothing is mixed or overwritten).
 Run it twice (1, then 2) if you want both voices for the test.
@@ -74,7 +90,7 @@ SPANISH, FRENCH AND GERMAN GUIDES
 Run  generate_audio_ES_FR_DE.command  the same way (bash + drag), then choose:
   1) Espanol - Dalia   2) Francais - Vivienne   3) Deutsch - Katja
 and 1) the full guide (61 tracks) or 2) two samples. The guide appears in
-~/Desktop/Palazzo_Pitti_V5_1_<ES|FR|DE>_<voice>/, same folders and numbers as the
+~/Desktop/Pitti_YoTours_<ES|FR|DE>_<voice>/, same folders and numbers as the
 English, so the same route map works. Scripts are in languages/<es|fr|de>/.
 Translations adapted for listening, formal address; please have a native speaker
 check them before release.
@@ -82,7 +98,7 @@ check them before release.
 VOICE SAMPLES IN SPANISH, FRENCH AND GERMAN (female voices)
 ===========================================================
 Run  voice_samples_ES_FR_DE.command  the same way (bash + drag). It renders the
-two sample tracks (015 Madonna della Seggiola, 053 The Amphitheatre), translated
+two sample tracks (016 Madonna della Seggiola, 053 The Amphitheatre), translated
 with formal address, in six voices:
   Spanish: Ximena (Spain), Dalia (Latin America)   French: Vivienne, Denise
   German: Seraphina, Katja.  Spanish only:  bash voice_samples_ES_FR_DE.command es

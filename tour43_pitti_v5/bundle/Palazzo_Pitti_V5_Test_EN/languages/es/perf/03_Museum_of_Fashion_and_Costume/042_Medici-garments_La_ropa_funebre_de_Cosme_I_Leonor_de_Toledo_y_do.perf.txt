@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · https://research.aub.ac.uk/id/eprint/558 · old script 058 + findings G3 (A 058, B 058)
 @lang: es
-@translation: from the fact-checked English V5.1 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 042; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [quietly] Esta ropa pasó siglos en la oscuridad, sobre los cuerpos enterrados con ella. En rigor, no debería existir.
 
@@ -27,4 +27,4 @@ Cosme, Leonor y García fueron sepultados en la cripta de los Médici en San Lor
 
 Pero no se desanime. [warmly] El vestido pintado pertenece a un cuadro. Este le perteneció a ella, y lo llevó en su último viaje. [pause] Mire el corte del corpiño, la tela ajustada al cuerpo de una mujer real. Más de cuatrocientos cincuenta años después, aún conserva la silueta de quien lo vestía.
 
-Cuando lo desee, siga hacia las galerías, donde el resto de la colección rota.
+Cuando lo desee, siga hacia las galerías, donde el resto de la colección se expone por turnos.

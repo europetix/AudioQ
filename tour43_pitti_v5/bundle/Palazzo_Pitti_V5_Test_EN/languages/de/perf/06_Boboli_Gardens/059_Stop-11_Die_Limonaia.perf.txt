@@ -3,7 +3,7 @@
 @room: Stop 11
 @type: R
 @title: Die Limonaia
-@where: Vor der Limonaia, dem langen, niedrigen Zitronenhaus auf der westlichen Seite des Gartens an der Via Romana, nördlich des Isolotto in Richtung Palast. Die Tore sind wegen Restaurierung geschlossen. Betrachten Sie sie von außen. Das Tor Annalena liegt ganz in der Nähe.
+@where: Vor der Limonaia, dem langen, niedrigen Zitronenhaus auf der westlichen Seite des Gartens an der Via Romana, nördlich des Isolotto in Richtung Palast. Die Tore sind wegen Restaurierung geschlossen. Betrachten Sie das Gebäude von außen. Das Tor Annalena liegt ganz in der Nähe.
 @what: The Lemon House, built 1777–78 by Zanobi del Rosso for Pietro Leopoldo on the site of Cosimo III's menagerie, enlarged by Giuseppe Cacialli in 1816. About 106 metres long and facing south, it shelters some 500 potted citrus trees through the winter.
 @listen: From a grand-ducal zoo to a winter home for lemons, and the Medici passion for strange citrus.
 @brief: A friend with a soft spot for eccentric collectors; curious at the zoo, warm and amused about the citrus obsession, easy at the send-off.
@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/artworks/lemon-house ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, Limonaia gates closed) ; https://en.wikipedia.org/wiki/Bizzarria ; old script + findings G5, G6 §1.7
 @lang: de
-@translation: from the fact-checked English V5.1 059 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 059; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Bevor hier Zitronenbäume standen, gab es an dieser Stelle einen Zoo. Cosimo der Dritte hielt hier seit dem späten siebzehnten Jahrhundert eine Menagerie exotischer Tiere. Ein Jahrhundert später ließ Großherzog Pietro Leopoldo sie räumen. Sein Architekt Zanobi del Rosso, der auch das Kaffeehaus baute, errichtete an ihrer Stelle dieses Gebäude. [pause] Die Limonaia, das Zitronenhaus.
 

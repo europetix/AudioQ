@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/en/events/nuovo-allestimento-museo-moda-2025 · https://www.theflorentine.net/2024/07/16/fashion-museum-reopens-palazzo-pitti/ · old scripts 059–069 + findings G3 (A 059–069, B 059–069, B 065, C), G6 §1.4
 @lang: es
-@translation: from the fact-checked English V5.1 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 043; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [lightly] Todo museo tiene un problema con la luz. Un museo de moda lo tiene peor. La seda se destiñe, los forros se debilitan, y un vestido expuesto demasiado tiempo, sin más, se deshace.
 

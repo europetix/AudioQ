@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://www.uffizi.it/en/artworks/icon-beheading-baptist ; https://www.uffizi.it/en/artworks/all-creatures-rejoice-icon ; https://www.uffizi.it/en/pitti-palace/museum-of-russian-icons ; old script + findings G4
 @lang: fr
-@translation: from the fact-checked English V5.1 047 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 047; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Personne ne sait comment ces deux petits panneaux sont arrivés à Florence. Mais on sait où ils étaient en 1639. Un inventaire de cette année-là les cite dans la chapelle des Reliques, ici au palais, parmi les trésors du grand-duc Ferdinand Deux et de son épouse Vittoria. Ce sont donc les plus anciennes icônes attestées à Florence. [pause] Elles ont attendu près de quatre siècles un musée à elles. On pense souvent à un cadeau diplomatique. Mais personne n'a trouvé le document qui le prouve.
 

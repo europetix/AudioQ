@@ -11,7 +11,7 @@
 @energy: 3→3
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · old script 057 + findings G3 (A 057, B 057, C 057, E 056–057), G6 §1.4
 @lang: fr
-@translation: from the fact-checked English V5.1 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 041; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Ce bâtiment doit son nom à une tache de soleil. [pause] Plus exactement, à la ligne qu'elle parcourt.
 
@@ -21,4 +21,4 @@ Le petit palais est venu plus tard. Commencé pour le grand-duc Pierre-Léopold,
 
 [warmly] Il abrite aujourd'hui le premier musée d'État italien consacré à l'histoire de la mode. Et à ce que les vêtements disent de ceux qui les portent. La collection compte plus de quinze mille pièces, du dix-huitième siècle à nos jours. [pause] La soie et la dentelle craignent la lumière. On n'en montre qu'une partie à la fois, et l'accrochage change environ chaque année.
 
-Une chose ne change jamais. Les plus anciens et les plus rares sont toujours exposés. [pause] Ceux dans lesquels trois Médicis ont été enterrés, il y a plus de quatre cents ans. [pause] Commencez par eux.
+Une chose ne change jamais. Les vêtements les plus anciens et les plus rares sont toujours exposés. [pause] Ceux dans lesquels trois Médicis ont été enterrés, il y a plus de quatre cents ans. [pause] Commencez par eux.

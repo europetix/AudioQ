@@ -171,7 +171,12 @@ Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
    verbatim (tracks 055 to 058, see `v5/notes/FINAL_PASS_LOG.md`), and the rooms listed in `ONSITE_CHECKLIST.md`.
 3. **Orsay app images:** build an image kit like the Orangerie one. Copy `orangerie_v5/app_images/` and generate the CSV from
    `orsay_v5/v5/tracks` @what lines. Mind the Picasso rule (no Picasso works in Orsay V5 so far).
-4. **Pitti:** the user may ask for the independent second-review pass on ES/FR/DE, as done for the Orangerie.
+4. **Pitti: REBUILT 7 Oct** after a customer complaint (rooms out of order, paintings in the wrong rooms). Every placement read
+   on uffizi.it artwork pages (user's Chrome); Palatine named by the Italian door signs; Gravida moved, Leo X replaced by
+   Ezekiel; ES/FR/DE updated and reviewed; Yo Tours sound + labels + stall fix. See `tour43_pitti_v5/TOUR43_V5_HANDSHAKE.md`
+   STATE 4. Next: real-voice render by the user, on-site check (ONSITE_CHECKLIST), confirm the Iliad reopens after 25 Oct.
+   Tip for research: uffizi.it is blocked from the cloud shell but readable through Claude in Chrome; artwork pages carry a
+   "Location" field.
 5. **After on-site tests:** apply the checklist results to `@room`, `@where` and the closing cues → rebuild → resend.
 
 ## 7. Commands the user runs on the Mac (for reference when helping them)

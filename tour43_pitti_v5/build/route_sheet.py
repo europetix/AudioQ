@@ -27,12 +27,14 @@ def rng(ts):
 def mins(f): return max(1, round(sum(t["words"] for t in sec(f)) / 125))
 
 PAL = sec("01_Palatine_Gallery")
-SHORT = {"Rooms 1–2": "Statues", "Room 3": "Castagnoli", "Room 14": "Prometeo", "Room 19": "Ulisse",
-         "Room 21": "Educazione\ndi Giove", "Room 22": "Stufa", "Room 23": "Iliade", "Room 24": "Saturno",
-         "Room 25": "Giove", "Room 26": "Marte", "Room 27": "Apollo", "Room 28": "Venere"}
-WHO = {"Room 24": "Raphael", "Room 25": "Raphael", "Room 28": "Titian\n& Canova", "Room 21": "Caravaggio",
-       "Room 23": "Artemisia"}                 # a name travellers recognise, under the room
-STARRED = {"Room 24", "Room 25", "Room 28"}
+# rooms are labelled as on the signs above the doors (Italian), 7 Oct 2026; keys are the tracks' @room values
+SHORT = {"Galleria delle Statue": "Statue", "Sala del Castagnoli": "Castagnoli", "Sala di Prometeo": "Prometeo",
+         "Sala di Ulisse": "Ulisse", "Sala dell'Educazione di Giove": "Educazione\ndi Giove", "Sala della Stufa": "Stufa",
+         "Sala dell'Iliade": "Iliade", "Sala di Saturno": "Saturno", "Sala di Giove": "Giove", "Sala di Marte": "Marte",
+         "Sala di Apollo": "Apollo", "Sala di Venere": "Venere"}
+WHO = {"Sala di Saturno": "Raphael", "Sala di Giove": "Raphael", "Sala di Venere": "Titian\n& Canova",
+       "Sala dell'Educazione di Giove": "Caravaggio", "Sala dell'Iliade": "Artemisia"}   # a name travellers recognise, under the room
+STARRED = {"Sala di Saturno", "Sala di Giove", "Sala di Venere"}
 rooms = []
 for t in PAL:
     if not rooms or rooms[-1][0] != t["room"]: rooms.append((t["room"], []))
@@ -148,12 +150,12 @@ chain_x0 = PX + 4.7*cm; n = len(rooms); cw = (PX + PW - 0.25*cm - chain_x0) / n;
 cy, ch = f_y + 1.5*cm, 3.0*cm
 c.setFillColor(PC); c.setFont('Times-Bold', 11)
 c.drawString(chain_x0 + 0.5*cm, f_y + f_h - 0.62*cm, f"Palatine Gallery   {rng(PAL)}")
-c.setFillColor(SOFT); c.setFont('Helvetica', 6.6); c.drawString(chain_x0 + 6.4*cm, f_y + f_h - 0.62*cm, f"{mins('01_Palatine_Gallery')} min  ·  one-way route, rooms in this order")
+c.setFillColor(SOFT); c.setFont('Helvetica', 6.6); c.drawString(chain_x0 + 6.4*cm, f_y + f_h - 0.62*cm, f"{mins('01_Palatine_Gallery')} min  ·  one-way route  ·  names as above the doors")
 icon("frame", PX + PW - 1.0*cm, f_y + f_h - 0.85*cm, PC); badge(chain_x0 - 0.05*cm, f_y + f_h - 0.42*cm, 2, PC)
 for i, (rm, ts) in enumerate(rooms):
     x = chain_x0 + i * cw; box(x, cy, bw, ch, PC, lw=0.8 if rm not in STARRED else 1.6)
     c.setFillColor(PC); c.roundRect(x, cy + ch - 0.5*cm, bw, 0.5*cm, 4, stroke=0, fill=1); c.rect(x, cy + ch - 0.5*cm, bw, 0.25*cm, stroke=0, fill=1)
-    text(x + bw/2, cy + ch - 0.36*cm, rm.replace("Rooms ", "").replace("Room ", ""), 'Helvetica-Bold', 7.8, CREAM)
+    text(x + bw/2, cy + ch - 0.36*cm, rm.split(" ")[0].upper(), 'Helvetica-Bold', 5.6 if rm.startswith("Galleria") else 7.0, CREAM)
     text(x + bw/2, cy + ch - 0.88*cm, SHORT.get(rm, rm), 'Helvetica-Bold', 6.3, INK)
     if rm in WHO: text(x + bw/2, cy + ch - (1.62 if "\n" in SHORT[rm] else 1.32)*cm, WHO[rm], 'Helvetica-Oblique', 5.9, SOFT, lead=6.6)
     text(x + bw/2, cy + 0.55*cm, rng(ts).replace("–", "–\n"), 'Helvetica-Bold', 7.4, PC, lead=8)
@@ -213,7 +215,7 @@ ky = 0.42*cm; kx = PX
 c.setStrokeColor(RED); c.setLineWidth(2.4); c.line(kx, ky + 3, kx + 0.8*cm, ky + 3); arrow(kx + 0.85*cm, ky + 3, 'r')
 c.setFillColor(SOFT); c.setFont('Helvetica', 7); c.drawString(kx + 1.05*cm, ky, "your route"); kx += 3.0*cm
 badge(kx + 0.2*cm, ky + 3, 2, PC, r=0.22*cm); c.setFillColor(SOFT); c.setFont('Helvetica', 7); c.drawString(kx + 0.55*cm, ky, "step"); kx += 1.9*cm
-c.setFillColor(PC); c.setFont('Helvetica-Bold', 7.5); c.drawString(kx, ky, "014–020"); c.setFillColor(SOFT); c.setFont('Helvetica', 7); c.drawString(kx + 1.3*cm, ky, "tracks to play there"); kx += 4.4*cm
+c.setFillColor(PC); c.setFont('Helvetica-Bold', 7.5); c.drawString(kx, ky, "015–019"); c.setFillColor(SOFT); c.setFont('Helvetica', 7); c.drawString(kx + 1.3*cm, ky, "tracks to play there"); kx += 4.4*cm
 star(kx + 0.15*cm, ky + 3); c.setFillColor(SOFT); c.drawString(kx + 0.45*cm, ky, "don't miss"); kx += 2.5*cm
 c.setStrokeColor(COL["04_Imperial_and_Royal_Apartments"]); c.setLineWidth(1.2); c.setDash(4, 2); c.rect(kx, ky - 1, 0.6*cm, 0.3*cm, stroke=1, fill=0); c.setDash()
 c.setFillColor(SOFT); c.drawString(kx + 0.8*cm, ky, "separate ticket")

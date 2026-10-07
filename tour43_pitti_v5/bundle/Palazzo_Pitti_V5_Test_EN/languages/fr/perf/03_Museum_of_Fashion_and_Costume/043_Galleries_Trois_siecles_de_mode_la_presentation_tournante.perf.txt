@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/en/events/nuovo-allestimento-museo-moda-2025 · https://www.theflorentine.net/2024/07/16/fashion-museum-reopens-palazzo-pitti/ · old scripts 059–069 + findings G3 (A 059–069, B 059–069, B 065, C), G6 §1.4
 @lang: fr
-@translation: from the fact-checked English V5.1 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 043; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [lightly] Tous les musées ont un problème avec la lumière. Un musée de la mode, plus encore. La soie pâlit, les doublures s'usent. Et une robe exposée trop longtemps finit par tomber en morceaux.
 
@@ -23,4 +23,4 @@ Au dix-huitième siècle, l'habit de cour se construisait comme un édifice. Des
 
 [warmly] Un chapitre de cette histoire s'est écrit ici même. En février 1951, un homme d'affaires florentin, Giovanni Battista Giorgini, présente des créations italiennes à quelques acheteurs américains, chez lui. C'est un succès. Dès 1952, les défilés s'installent dans la Sala Bianca, la Salle blanche de ce palais. [pause] C'est là que le monde a commencé à prendre la mode italienne au sérieux.
 
-Après les galeries, revenez sur vos pas jusqu'au palier. Descendez d'un étage, par l'escalier ou un ascenseur, jusqu'au hall d'entrée de la galerie Palatine. C'est le point de rendez-vous des Appartements royaux, et une piste vous y attend, pour patienter. Si vous ne les visitez pas, descendez jusqu'à la cour et suivez les panneaux de la chapelle Palatine.
+Après les galeries, revenez sur vos pas jusqu'au palier. Descendez d'un étage, par l'escalier ou un ascenseur, jusqu'au atrium d'entrée de la galerie Palatine. C'est le point de rendez-vous des Appartements royaux, et une piste vous y attend, pour patienter. Si vous ne les visitez pas, descendez jusqu'à la cour et suivez les panneaux de la chapelle Palatine.

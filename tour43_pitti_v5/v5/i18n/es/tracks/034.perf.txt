@@ -3,7 +3,7 @@
 @room: Rooms 1–2
 @type: R
 @title: Las salas neoclásicas — el mármol y los años de Napoleón
-@where: En las salas 1 y 2, las primeras del circuito. En la sala 1 está la Psique de mármol de Tenerani. En la sala 2, el gran lienzo de Benvenuti con el juramento de los sajones y la cabeza colosal de Napoleón de Canova.
+@where: En las salas 1 y 2, las primeras del circuito. En la sala 1 está la Psique de mármol de Tenerani, según el museo. La sala 2 está dedicada a los años de Napoleón: el museo sitúa allí un busto de Napoleón de Sèvres. El juramento de los sajones de Benvenuti y la cabeza colosal de Napoleón están en estas primeras salas, pero no se publica en cuál exactamente.
 @what: Neoclassical sculpture and painting from the Napoleonic and early Lorraine years: Pietro Tenerani, Psyche Abandoned, c.1819; Pietro Benvenuti, The Saxons' Oath to Napoleon after the Battle of Jena, 1812; Giuseppe Bezzuoli, Portrait of Elisa Bonaparte Baciocchi, c.1814.
 @listen: What Neoclassicism wanted from art, and how Napoleon's family came to fill these first rooms.
 @brief: Strolling with a friend through two cool, calm rooms; light and clear, with a quiet nudge to remember one painter's name.
@@ -11,7 +11,7 @@
 @energy: 2→3
 @sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · https://www.uffizi.it/en/online-exhibitions/napoleon-uffizi · old script 048 + findings G3 (A 048, B 048, D)
 @lang: es
-@translation: from the fact-checked English V5.1 034 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 034 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
 [lightly] La primera figura de esta galería es una muchacha abandonada. En la sala uno, la Psique de Pietro Tenerani acaba de perder a Cupido, como cuenta el mito. La esculpió hacia 1819. [pause] Y está tan serena como puede estarlo un corazón roto.
 
@@ -19,8 +19,8 @@ Esa calma es justamente la idea. Los neoclásicos reaccionaban contra el torbell
 
 [pause] Luego, la sala dos, y el ambiente cambia. De pronto, todo gira en torno a un hombre.
 
-El gran lienzo de aquí es de Pietro Benvenuti, pintado en 1812. Muestra a los sajones prestando juramento a Napoleón después de la batalla de Jena. Aquí cuelga también el retrato que Giuseppe Bezzuoli hizo de la hermana de Napoleón, Elisa Bonaparte Baciocchi. [curious] Por cierto, recuerde el nombre de Bezzuoli. Vuelve a aparecer unas salas más adelante, en una historia sobre uno de sus alumnos.
+Uno de los grandes lienzos de estas primeras salas es de Pietro Benvenuti, pintado en 1812. Muestra a los sajones prestando juramento a Napoleón después de la batalla de Jena. En estas primeras salas cuelga también el retrato que Giuseppe Bezzuoli hizo de la hermana de Napoleón, Elisa Bonaparte Baciocchi. [curious] Por cierto, recuerde el nombre de Bezzuoli. Vuelve a aparecer unas salas más adelante, en una historia sobre uno de sus alumnos.
 
 Estas salas hablan de los años napoleónicos en Toscana. [pause] Y de quienes pagaban el arte, antes y después de la caída del emperador. La gran historia y los retratos de familia cuelgan lado a lado.
 
-Y en la sala dos hay también una cabeza colosal de mármol del propio Napoleón, mucho mayor que el natural. Tiene toda una historia, incluida su llegada a Florencia. Escúchela delante de ella.
+Y en estas primeras salas hay también una cabeza colosal de mármol del propio Napoleón, mucho mayor que el natural. Tiene toda una historia, incluida su llegada a Florencia. Escúchela delante de ella.

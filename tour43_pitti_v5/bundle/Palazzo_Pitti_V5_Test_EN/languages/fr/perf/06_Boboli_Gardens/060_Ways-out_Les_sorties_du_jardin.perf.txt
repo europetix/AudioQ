@@ -11,7 +11,7 @@
 @energy: 3→2→3
 @sources: https://www.uffizi.it/en/boboli-garden (four entrances/exits) ; https://www.uffizi.it/en/notices/combined-ticket-for-boboli-gardens-and-bardini-gardens ; https://www.theflorentine.net/?p=36144 (Annalena Malatesta) ; old script + findings G5, G6 §1.7 and §4.5
 @lang: fr
-@translation: from the fact-checked English V5.1 060 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 060; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [warmly] Un jardin aussi grand a plus d'une porte d'entrée. Boboli compte quatre portes officielles, et chacune vous dépose ailleurs.
 

@@ -2,7 +2,7 @@
 @section: Boboli
 @room: Stop 10
 @type: W
-@title: Giambologna – der Isolotto und Oceanus
+@title: Giambologna — der Isolotto und Oceanus
 @where: Am Rand des ovalen Isolotto-Beckens, am unteren Ende des Viottolone. Der innere Bereich der Insel ist wegen Restaurierung geschlossen. Betrachten Sie den Brunnen vom äußeren Ring. Das Tor Porta Romana liegt direkt neben dem Becken.
 @what: The Isolotto, a large oval basin of 1618 with a central island holding a copy of Giambologna's marble Oceanus, finished by 1576, with the Nile, Ganges and Euphrates below; the original is in the Bargello. Around the pool, Perseus on horseback, and groups of peasants at their games.
 @listen: A giant who isn't the original, the whole world in one fountain, and the ordinary people around the rim.
@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/saccomazzone-gioco-en ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, inner island closed) ; https://arnoldzwicky.org/2023/09/15/an-ideal-male-body/ (marble; moved 1911) ; https://www.friendsofflorence.org/projects/garden-of-the-little-island-boboli-gardens/ ; old script + findings G5, G6 §1.7
 @lang: de
-@translation: from the fact-checked English V5.1 058 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 058; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Der Riese in der Mitte der Insel ist ein Ersatz. Der echte Oceanus ging vor über einem Jahrhundert. 1911 kam das Original unter Dach, ins Bargello jenseits des Flusses. Diese Kopie nahm seinen Platz ein.
 

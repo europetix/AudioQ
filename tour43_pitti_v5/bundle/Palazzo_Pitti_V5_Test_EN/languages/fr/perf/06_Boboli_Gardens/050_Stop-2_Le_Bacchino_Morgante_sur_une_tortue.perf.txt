@@ -11,7 +11,7 @@
 @energy: 2→3→4→3
 @sources: https://www.uffizi.it/en/artworks/morgante-sopra-una-tartaruga ; https://www.artribune.com/?p=149560 (8 Jul 2013, original moved indoors) ; old script + findings G5
 @lang: fr
-@translation: from the fact-checked English V5.1 050 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 050; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Le petit homme sur la tortue avait un vrai nom. C'était Braccio di Bartolo, né dans la campagne près de Bologne. Il était atteint de nanisme. Ses parents l'ont vendu à la cour de Côme Premier et d'Éléonore. [pause] La cour l'a rebaptisé Morgante, d'après un géant d'un poème comique populaire. Une plaisanterie sur sa taille, qu'il a portée toute sa vie.
 

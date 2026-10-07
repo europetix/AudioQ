@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://uffizi.it/en/boboli-garden/history ; https://www.finestresullarte.info/attualita/rinascimento-di-boboli (29 Apr 2019) ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; old script + findings G5, G6 §1.7
 @lang: fr
-@translation: from the fact-checked English V5.1 057 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 057; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [warmly] Ici, le jardin change d'humeur. Le premier jardin des Médicis restait près du palais. Vers 1612, sous Côme Deux, la famille commence à l'étendre vers le sud, sur cette pente. Cette longue allée droite devient la colonne vertébrale du nouveau plan. Son fils, Ferdinand Deux, poursuit les travaux.
 

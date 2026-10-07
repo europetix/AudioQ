@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/saccomazzone-gioco-en ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, inner island closed) ; https://arnoldzwicky.org/2023/09/15/an-ideal-male-body/ (marble; moved 1911) ; https://www.friendsofflorence.org/projects/garden-of-the-little-island-boboli-gardens/ ; old script + findings G5, G6 §1.7
 @lang: fr
-@translation: from the fact-checked English V5.1 058 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 058; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Le géant au milieu de l'île est un remplaçant. Le vrai Océan est parti il y a plus d'un siècle. En 1911, l'original a été mis à l'abri au musée du Bargello, de l'autre côté du fleuve. Cette copie a pris sa place.
 

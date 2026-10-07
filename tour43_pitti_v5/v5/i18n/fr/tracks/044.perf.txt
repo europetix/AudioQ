@@ -3,7 +3,7 @@
 @room: Meeting point
 @type: R
 @title: Appartements impériaux et royaux : avant votre visite
-@where: Au point de rendez-vous des Appartements royaux, dans le hall d'entrée de la galerie Palatine, au premier étage. Écoutez cette piste en attendant votre groupe. La visite est guidée par le personnel du musée : merci de mettre l'audio en pause à l'intérieur. La réservation est obligatoire. Soyez au point de rendez-vous environ cinq minutes avant votre créneau.
+@where: Au point de rendez-vous des Appartements royaux, dans le atrium d'entrée de la galerie Palatine, au premier étage. Écoutez cette piste en attendant votre groupe. La visite est guidée par le personnel du musée : merci de mettre l'audio en pause à l'intérieur. La réservation est obligatoire. Soyez au point de rendez-vous environ cinq minutes avant votre créneau.
 @what: Fourteen state rooms in the south wing of the first floor, lived in by the Medici, the Habsburg-Lorraine and the House of Savoy, shown in a staff-led group visit of about 30 minutes that starts in the Green Room.
 @listen: Who lived in these rooms, and the handful of things worth watching for while the staff lead you through.
 @brief: A friend at the door of a house they know well, giving quick, vivid pointers before the guided visit starts; warm and brisk, with a playful riddle near the end.
@@ -11,7 +11,7 @@
 @energy: 3→3, a small lift at the riddle, calm close
 @sources: https://uffizi.it/en/special-visits/tours-to-the-royal-apartments-of-the-pitti-palace · https://uffizi.it/en/royal-apartments/history · https://uffizi.it/en/news/riaprono-gli-appartamenti-reali-di-palazzo-pitti · https://www.uffizi.it/en/artworks/throne-room-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/blue-room-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/chapel-royal-apartments-pitti-palace · https://www.uffizi.it/en/artworks/parrots-hall · old scripts 070–075 + findings G4, G6 §1.3
 @lang: fr
-@translation: from the fact-checked English V5.1 044 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 044; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [warmly] Dans les salles que vous allez visiter, trois familles régnantes ont vécu l'une après l'autre. Et aucune n'a vraiment effacé la précédente.
 

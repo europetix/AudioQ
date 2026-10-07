@@ -11,7 +11,7 @@
 @energy: 2→3
 @sources: https://www.uffizi.it/en/artworks/madama-grotto-grotta-di-madama ; https://uffizi.it/en/boboli-garden/history ; https://cultura.gov.it/evento/gep-2022-apertura-con-visite-accompagnate-alla-grotticina-di-madama-nel-giardino-di-boboli ; old script + findings G5, G6 §1.7
 @lang: fr
-@translation: from the fact-checked English V5.1 052 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 052; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [lightly] Vous venez de voir la grotte célèbre. Voici la petite dont elle est née. La Grotta di Madama est la plus ancienne du jardin. Elle a été bâtie entre 1553 et 1555 par Davide Fortini, gendre de Tribolo, le premier architecte du jardin.
 

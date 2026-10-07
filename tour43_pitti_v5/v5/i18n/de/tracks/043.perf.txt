@@ -2,7 +2,7 @@
 @section: Fashion and Costume
 @room: Galleries
 @type: R
-@title: Drei Jahrhunderte Mode – die wechselnde Ausstellung
+@title: Drei Jahrhunderte Mode — die wechselnde Ausstellung
 @where: Überall in den Galerien hinter den Medici-Gewändern. Die Ausstellung wechselt, hören Sie dies also, wo Sie möchten. Danach gehen Sie auf demselben Weg zurück zum Treppenabsatz im zweiten Stock und dann ein Stockwerk hinunter zu den königlichen Gemächern, oder hinunter in den Hof.
 @what: Clothes, accessories, jewellery and stage costumes from the eighteenth century to today, shown in rotation for conservation; the selection on view changes from time to time.
 @listen: How to read whatever is on display today, and how Italian fashion was launched on the world inside this very palace.
@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/en/events/nuovo-allestimento-museo-moda-2025 · https://www.theflorentine.net/2024/07/16/fashion-museum-reopens-palazzo-pitti/ · old scripts 059–069 + findings G3 (A 059–069, B 059–069, B 065, C), G6 §1.4
 @lang: de
-@translation: from the fact-checked English V5.1 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 043; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [lightly] Jedes Museum hat ein Problem mit Licht. Ein Modemuseum hat ein noch größeres. Seide verblasst, Futter wird mürbe. Und ein Kleid, das zu lange ausliegt, beginnt einfach zu zerfallen.
 

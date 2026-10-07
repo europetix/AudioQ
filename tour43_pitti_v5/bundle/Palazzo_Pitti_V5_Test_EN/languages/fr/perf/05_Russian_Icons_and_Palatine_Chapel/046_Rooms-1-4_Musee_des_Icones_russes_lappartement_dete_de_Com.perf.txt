@@ -11,7 +11,7 @@
 @energy: 2→3
 @sources: https://www.uffizi.it/en/pitti-palace/museum-of-russian-icons ; https://www.finestresullarte.info/musei/firenze-apre-museo-icone-russe-a-palazzo-pitti (2 Jan 2022) ; https://www.uffizi.it/en/news/icons-pitti ; old script + findings G4
 @lang: fr
-@translation: from the fact-checked English V5.1 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 046; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Pendant des décennies, ces salles furent des bureaux, et presque personne ne regardait les plafonds. Puis elles ont été restaurées, et ouvertes en musée en 2022. Les fresques du dix-septième siècle ont repris vie. [pause] Aujourd'hui, des icônes russes sont accrochées devant elles.
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # V5.1 - Tour #43 Palazzo Pitti + Boboli - female voice samples in Spanish, French and German.
-# Two translated tracks (015 Madonna della Seggiola, 053 The Amphitheatre) per voice, same direction layer,
+# Two translated tracks (016 Madonna della Seggiola, 053 The Amphitheatre) per voice, same direction layer,
 # pauses and mastering as the English guide. English name respellings are switched off (RESPELL=0).
 # Output: ~/Desktop/Palazzo_Pitti_V5_1_Voice_Samples/<LANG>_<Voice>/   (Spanish v2: ES_v2_<Voice>)
 # Optional: pass a language to render only that one, e.g.   bash voice_samples_ES_FR_DE.command es
@@ -24,7 +24,7 @@ for v in $VOICES; do
     [ -n "$1" ] && [ "$1" != "$LANG_CODE" ] && continue
     TAG="$(echo "$LANG_CODE" | tr a-z A-Z)_${NAME}"; [ "$LANG_CODE" = "es" ] && TAG="ES_v2_${NAME}"
     echo ""; echo "--- $TAG  ($VOICE)"
-    if ( cd "languages/$LANG_CODE" && ONLY="015 053" EDGE_VOICE="$VOICE" RESPELL=0 python3 ../../render_edge.py "$OUT/$TAG" ); then
+    if ( cd "languages/$LANG_CODE" && ONLY="016 053" EDGE_VOICE="$VOICE" RESPELL=0 python3 ../../render_edge.py "$OUT/$TAG" ); then
         OK="$OK $TAG"
     else
         MISSING="$MISSING $TAG"; echo "  (no audio for $VOICE - this voice may not be offered by the free service; skipping)"

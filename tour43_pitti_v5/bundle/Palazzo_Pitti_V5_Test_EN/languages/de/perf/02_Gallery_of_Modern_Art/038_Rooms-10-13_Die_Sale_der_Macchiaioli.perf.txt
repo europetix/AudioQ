@@ -4,23 +4,23 @@
 @type: R
 @title: Die Säle der Macchiaioli
 @where: In den Sälen 10 bis 13, dem Herzstück der Macchiaioli-Präsentation. Ihre ersten Versuche zeigt Saal 6. Spielen Sie diesen Titel ab, wenn Sie Saal 10 betreten.
-@what: The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti, 1866, in Room 10; Zandomeneghi's two portraits of Diego Martelli and two Pissarro landscapes in Room 11; Silvestro Lega's Singing a Stornello, 1867, in Room 12; Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13.
+@what: The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti; Zandomeneghi's portraits of Diego Martelli and two Pissarro landscapes (rooms not published); Silvestro Lega's Singing a Stornello, 1867, in Room 12 (official); Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13 (official).
 @listen: Who the Macchiaioli were, the friends and patrons around them, and what to look for in each of these four rooms.
 @brief: A friend in their favourite rooms of the building, relaxed and enthusiastic, pointing things out one room at a time.
 @pace: medium
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/artworks/singing-a-ditty · https://www.uffizi.it/en/artworks/fattori-magenta-en · old script 052 + findings G3 (A 052, B 052, D)
 @lang: de
-@translation: from the fact-checked English V5.1 038 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 038 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
 [lightly] Stellen Sie sich vor, man nennt Sie einen Fleck. Und Sie behalten den Namen. Macchia ist Italienisch für Fleck oder Klecks. Anfang der 1860er-Jahre verspotteten Kritiker damit eine Gruppe von Malern in Florenz. Sie bauten ihre Bilder aus Farbflecken statt aus sorgfältigen, glatten Übergängen. [pause] Die Maler nahmen die Beleidigung an und trugen sie mit Stolz.
 
 Ihre Idee war einfach und hartnäckig. Malen, was man wirklich sieht, im Freien, im echten Licht. Soldaten, Landarbeiter, die Küste, ein ruhiger Nachmittag zu Hause. Diese Galerie besitzt eine der reichsten Sammlungen ihrer Werke.
 
-[pause] Nehmen Sie sich die Säle einzeln vor. Im Mittelpunkt von Saal zehn steht Cristiano Banti, Maler und Sammler. Suchen Sie Giovanni Boldinis Bildnis der Alaide Banti.
+[pause] Nehmen Sie sich die Säle einzeln vor. Suchen Sie die Bilder von Cristiano Banti, Maler und Sammler, und Giovanni Boldinis Bildnis der Alaide Banti.
 
-Saal elf gehört Diego Martelli, dem Kritiker und Förderer dieser Maler. Federico Zandomeneghi hat ihn zweimal gemalt. [curious] Und suchen Sie zwei Landschaften von Camille Pissarro. Eine seltene Stimme des französischen Impressionismus in dieser toskanischen Runde.
+Dann suchen Sie Diego Martelli, den Kritiker und Förderer dieser Maler. Federico Zandomeneghi hat ihn zweimal gemalt. [curious] Und suchen Sie zwei Landschaften von Camille Pissarro. Eine seltene Stimme des französischen Impressionismus in dieser toskanischen Runde.
 
 In Saal zwölf hängt Silvestro Legas Il canto dello stornello, ein Volkslied in einem stillen Innenraum. Und in Saal dreizehn Fattoris Italienisches Feldlager nach der Schlacht von Magenta. [pause] Beachten Sie den Titel. Nicht die Schlacht mit ihrem Angriff und ihrem Ruhm. Das Lager, danach.
 
-[warmly] Ein weiteres Lieblingsbild von Fattori besitzt diese Galerie. Wo genau es hängt, sagt das Museum nicht. Halten Sie Ausschau nach einer winzigen Tafel mit Frauen unter einem Sonnendach am Meer. Wenn Sie sie finden, hat sie ihre eigene Geschichte.
+[warmly] Auch eines der beliebtesten Bilder Fattoris besitzt diese Galerie, eine winzige Tafel mit Frauen unter einem Sonnendach am Meer. Seine Geschichte kommt etwas später. Wenn Sie so weit sind, folgen Sie den Saalnummern weiter bis Saal siebzehn. Dort beginnt der letzte Abschnitt des Rundgangs.

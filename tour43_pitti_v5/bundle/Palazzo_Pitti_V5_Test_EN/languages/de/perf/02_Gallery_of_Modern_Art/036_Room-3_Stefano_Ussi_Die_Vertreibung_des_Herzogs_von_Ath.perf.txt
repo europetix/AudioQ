@@ -2,7 +2,7 @@
 @section: Modern Art
 @room: Room 3
 @type: W
-@title: Stefano Ussi – Die Vertreibung des Herzogs von Athen
+@title: Stefano Ussi — Die Vertreibung des Herzogs von Athen
 @where: In Saal 3 der Galerie für moderne Kunst, vor dem riesigen Historienbild, das eine ganze Wand füllt. Treten Sie zurück, um die ganze Menge zu überblicken.
 @what: Stefano Ussi, The Expulsion of the Duke of Athens, 1860, oil on canvas, 316 × 447 cm. First prize at the 1861 National Exhibition in Florence; gold medal at the 1867 Paris Exhibition.
 @listen: A tyrant thrown out of medieval Florence, painted at the very moment Tuscany was getting rid of its own ruler, with the painter hidden in the crowd.
@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/artworks/expulsion-of-the-duke-of-athens · findings G3 (A 049 route, D)
 @lang: de
-@translation: from the fact-checked English V5.1 036 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 036 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
 [conspiratorial] Irgendwo in dieser Menge hat sich der Maler selbst versteckt. Halten Sie Ausschau nach einem bewaffneten Mann mit verbundenem Kopf. Wir kommen auf ihn zurück.
 
@@ -21,7 +21,7 @@ Die Geschichte spielt im Juli 1343. Walter von Brienne, der Herzog von Athen, he
 
 Und die Größe. Mehr als drei Meter hoch und fast viereinhalb Meter breit. Für einige Figuren standen wahrscheinlich seine Freunde Modell.
 
-[curious] Doch eigentlich ist das kein Bild über 1343. Ussi malte es 1860, und für die Florentiner jenes Jahres war das Thema ein Spiegel. Die Toskana war gerade ihren eigenen Herrscher losgeworden, den lothringischen Großherzog Leopold den Zweiten. Derselbe Mann, dem man Napoleons Marmorkopf geschenkt hatte, im Saal, den Sie gerade verlassen haben. [pause] Ussi verstand die alte Geschichte als Hommage an die neue. An das Ende der Herrschaft fremder Fürsten.
+[curious] Doch eigentlich ist das kein Bild über 1343. Ussi malte es 1860, und für die Florentiner jenes Jahres war das Thema ein Spiegel. Die Toskana war gerade ihren eigenen Herrscher losgeworden, den lothringischen Großherzog Leopold den Zweiten. Derselbe Mann, dem man Napoleons kolossalen Marmorkopf geschenkt hatte. [pause] Ussi verstand die alte Geschichte als Hommage an die neue. An das Ende der Herrschaft fremder Fürsten.
 
 Das Bild war ein Triumph. Es gewann den ersten Preis auf der Nationalausstellung in Florenz. Und einige Jahre später eine Goldmedaille auf der Pariser Ausstellung.
 

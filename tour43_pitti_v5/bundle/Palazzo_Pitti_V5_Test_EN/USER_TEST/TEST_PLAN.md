@@ -25,7 +25,7 @@ The three tracks:
 | Track | Kind of track |
 |---|---|
 | 021 Sala di Giove | Room intro |
-| 015 Madonna della Seggiola | Single work |
+| 016 Madonna della Seggiola | Single work |
 | 053 Amphitheatre | Garden |
 
 The matching June tracks are 015 Throne Room, 019 Madonna della Seggiola and 081 Where the Medici Threw Their Parties. You don't need to find them yourself: once both V5 voices are rendered, run `make_listening_test.command`. It copies the nine clips to `~/Desktop/Pitti_Listening_Test/` under shuffled codes, and writes the answer key to a separate file.

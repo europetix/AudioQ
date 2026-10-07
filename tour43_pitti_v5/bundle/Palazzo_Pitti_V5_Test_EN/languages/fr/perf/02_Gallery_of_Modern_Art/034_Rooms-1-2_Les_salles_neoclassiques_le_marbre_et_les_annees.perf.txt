@@ -3,7 +3,7 @@
 @room: Rooms 1–2
 @type: R
 @title: Les salles néoclassiques — le marbre et les années Napoléon
-@where: Dans les salles 1 et 2, les premières de la boucle. La salle 1 abrite la Psyché de marbre de Tenerani. La salle 2 abrite la grande toile de Benvenuti sur le serment des Saxons, et la tête colossale de Napoléon par Canova.
+@where: Dans les salles 1 et 2, les premières de la boucle. La salle 1 abrite la Psyché de marbre de Tenerani (information officielle). La salle 2 est consacrée aux années napoléoniennes (le musée y signale un buste de Napoléon de la manufacture de Sèvres). Le serment des Saxons de Benvenuti et la tête colossale de Napoléon se trouvent dans ces premières salles ; leur salle exacte n'est pas publiée.
 @what: Neoclassical sculpture and painting from the Napoleonic and early Lorraine years: Pietro Tenerani, Psyche Abandoned, c.1819; Pietro Benvenuti, The Saxons' Oath to Napoleon after the Battle of Jena, 1812; Giuseppe Bezzuoli, Portrait of Elisa Bonaparte Baciocchi, c.1814.
 @listen: What Neoclassicism wanted from art, and how Napoleon's family came to fill these first rooms.
 @brief: Strolling with a friend through two cool, calm rooms; light and clear, with a quiet nudge to remember one painter's name.
@@ -11,7 +11,7 @@
 @energy: 2→3
 @sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · https://www.uffizi.it/en/online-exhibitions/napoleon-uffizi · old script 048 + findings G3 (A 048, B 048, D)
 @lang: fr
-@translation: from the fact-checked English V5.1 034 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 034 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
 [lightly] La première figure de cette galerie est une jeune fille abandonnée. En salle un, la Psyché de marbre de Pietro Tenerani vient d'être quittée par Cupidon, comme le raconte le vieux mythe. Il l'a sculptée vers 1819. Et elle est aussi calme qu'un chagrin d'amour peut l'être.
 
@@ -19,8 +19,8 @@ Ce calme, c'est tout l'enjeu. Les artistes néoclassiques réagissaient contre l
 
 [pause] Puis la salle deux, et l'atmosphère change. Soudain, tout tourne autour d'un seul homme.
 
-La grande toile est de Pietro Benvenuti, peinte en 1812. Elle montre les Saxons prêtant serment à Napoléon après la bataille d'Iéna. Ces premières salles abritent aussi le portrait par Giuseppe Bezzuoli d'Élisa Bonaparte Baciocchi, sœur de Napoléon. [pause] [curious] Retenez d'ailleurs le nom de Bezzuoli. Il reviendra quelques salles plus loin, dans une histoire sur l'un de ses élèves.
+L'une des grandes toiles de ces premières salles est de Pietro Benvenuti, peinte en 1812. Elle montre les Saxons prêtant serment à Napoléon après la bataille d'Iéna. Ces premières salles abritent aussi le portrait par Giuseppe Bezzuoli d'Élisa Bonaparte Baciocchi, sœur de Napoléon. [pause] [curious] Retenez d'ailleurs le nom de Bezzuoli. Il reviendra quelques salles plus loin, dans une histoire sur l'un de ses élèves.
 
 Ces salles parlent des années napoléoniennes en Toscane. Et des mécènes d'ici, avant et après la chute de l'empereur. Grande histoire et portraits de famille s'y côtoient.
 
-[pause] La salle deux abrite aussi une tête colossale de Napoléon en marbre, bien plus grande que nature. Elle a toute une histoire, y compris son arrivée à Florence. Placez-vous devant elle pour l'entendre.
+[pause] Et dans ces premières salles se trouve aussi une tête colossale de Napoléon en marbre, bien plus grande que nature. Elle a toute une histoire, y compris son arrivée à Florence. Placez-vous devant elle pour l'entendre.

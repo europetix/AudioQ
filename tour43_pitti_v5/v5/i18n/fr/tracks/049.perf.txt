@@ -11,7 +11,7 @@
 @energy: 3→3→4
 @sources: https://www.uffizi.it/giardino-boboli (IT, "oltre 30 ettari") ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/boboli-garden ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; findings G5, G6 §1.6–1.7
 @lang: fr
-@translation: from the fact-checked English V5.1 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 049; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [warmly] Derrière la plus grande demeure de Florence, les Médicis gardaient toute une colline. [pause] Le jardin de Boboli couvre plus de trente hectares. Terrasses et allées, fontaines et bois, qui montent depuis le palais vers les anciens remparts.
 

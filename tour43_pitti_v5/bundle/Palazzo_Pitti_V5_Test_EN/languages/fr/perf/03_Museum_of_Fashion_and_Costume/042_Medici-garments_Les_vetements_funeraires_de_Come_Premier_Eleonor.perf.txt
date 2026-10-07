@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · https://research.aub.ac.uk/id/eprint/558 · old script 058 + findings G3 (A 058, B 058)
 @lang: fr
-@translation: from the fact-checked English V5.1 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 042; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [quietly] Ces vêtements ont passé des siècles dans le noir, sur les corps de ceux qu'on y avait enterrés. En toute logique, ils n'auraient jamais dû survivre.
 

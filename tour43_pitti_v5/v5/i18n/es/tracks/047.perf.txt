@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://www.uffizi.it/en/artworks/icon-beheading-baptist ; https://www.uffizi.it/en/artworks/all-creatures-rejoice-icon ; https://www.uffizi.it/en/pitti-palace/museum-of-russian-icons ; old script + findings G4
 @lang: es
-@translation: from the fact-checked English V5.1 047 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 047; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Nadie sabe cómo llegaron a Florencia estas dos pequeñas tablas. Pero sí sabemos dónde estaban en 1639. Un inventario de ese año las sitúa aquí, en la Capilla de las Reliquias, entre los tesoros del gran duque Fernando Segundo y su esposa Vittoria. Eso las convierte en los primeros iconos documentados en Florencia. [pause] Esperaron casi cuatro siglos un museo propio. Se suele pensar en un regalo diplomático, pero ningún documento lo prueba.
 

@@ -2,8 +2,8 @@
 @section: Modern Art
 @room: Rooms 1–2
 @type: R
-@title: Die klassizistischen Säle – Marmor und die Jahre Napoleons
-@where: In den Sälen 1 und 2, den ersten des Rundgangs. In Saal 1 steht Teneranis Psyche aus Marmor. Saal 2 zeigt Benvenutis große Leinwand mit dem Schwur der Sachsen und Canovas kolossalen Kopf Napoleons.
+@title: Die klassizistischen Säle — Marmor und die Jahre Napoleons
+@where: In den Sälen 1 und 2, den ersten des Rundgangs. In Saal 1 steht Teneranis Psyche aus Marmor (offiziell). Saal 2 ist den Jahren Napoleons gewidmet (das Museum nennt dort eine Napoleon-Büste aus Sèvres). Benvenutis Schwur der Sachsen und der kolossale Kopf Napoleons befinden sich in diesen ersten Sälen. In welchem genau, ist nicht veröffentlicht.
 @what: Neoclassical sculpture and painting from the Napoleonic and early Lorraine years: Pietro Tenerani, Psyche Abandoned, c.1819; Pietro Benvenuti, The Saxons' Oath to Napoleon after the Battle of Jena, 1812; Giuseppe Bezzuoli, Portrait of Elisa Bonaparte Baciocchi, c.1814.
 @listen: What Neoclassicism wanted from art, and how Napoleon's family came to fill these first rooms.
 @brief: Strolling with a friend through two cool, calm rooms; light and clear, with a quiet nudge to remember one painter's name.
@@ -11,16 +11,16 @@
 @energy: 2→3
 @sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · https://www.uffizi.it/en/online-exhibitions/napoleon-uffizi · old script 048 + findings G3 (A 048, B 048, D)
 @lang: de
-@translation: from the fact-checked English V5.1 034 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 034 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
-[lightly] Die erste Figur dieser Galerie ist ein verlassenes Mädchen. In Saal eins hat Amor Pietro Teneranis Psyche aus Marmor gerade verlassen, wie der alte Mythos erzählt. Tenerani meißelte sie um 1819. [pause] Ruhiger kann Liebeskummer kaum aussehen.
+[lightly] Die erste Figur dieser Galerie ist ein verlassenes Mädchen. In Saal eins steht Pietro Teneranis Psyche aus Marmor. Amor hat sie gerade verlassen, wie der alte Mythos erzählt. Tenerani meißelte sie um 1819. [pause] Ruhiger kann Liebeskummer kaum aussehen.
 
 Genau diese Ruhe ist der Punkt. Der Klassizismus wandte sich gegen Schwung und Dramatik des Barock. Seine Künstler suchten im antiken Griechenland und Rom etwas Klareres. Klare Linien. Ausgewogene Kompositionen. Kühle Farben. Gefühl, ja, aber im Zaum gehalten.
 
 [pause] Dann Saal zwei, und die Stimmung wechselt. Plötzlich dreht sich alles um einen einzigen Mann.
 
-Die große Leinwand hier stammt von Pietro Benvenuti, gemalt 1812. Sie zeigt die Sachsen, die Napoleon nach der Schlacht bei Jena einen Eid schwören. In diesen ersten Sälen hängt auch Giuseppe Bezzuolis Bildnis von Napoleons Schwester, Elisa Bonaparte Baciocchi. [curious] Merken Sie sich übrigens den Namen Bezzuoli. Er taucht ein paar Säle weiter wieder auf, in der Geschichte eines seiner Schüler.
+Eine große Leinwand in diesen ersten Sälen stammt von Pietro Benvenuti, gemalt 1812. Sie zeigt die Sachsen, die Napoleon nach der Schlacht bei Jena einen Eid schwören. In diesen ersten Sälen hängt auch Giuseppe Bezzuolis Bildnis von Napoleons Schwester, Elisa Bonaparte Baciocchi. [curious] Merken Sie sich übrigens den Namen Bezzuoli. Er taucht ein paar Säle weiter wieder auf, in der Geschichte eines seiner Schüler.
 
 In diesen Sälen geht es um die napoleonischen Jahre in der Toskana. Und um die Menschen, die hier vor und nach dem Sturz des Kaisers Kunst bezahlten. Große Geschichte und Familienbildnisse hängen Seite an Seite.
 
-Und in Saal zwei steht auch ein kolossaler Marmorkopf Napoleons, weit größer als lebensgroß. [pause] Er hat eine eigene Geschichte, auch, wie er überhaupt nach Florenz kam. Stellen Sie sich davor, um sie zu hören.
+Und in diesen ersten Sälen steht auch ein kolossaler Marmorkopf Napoleons, weit überlebensgroß. [pause] Seine Geschichte hat es in sich. Dazu gehört auch, wie er überhaupt nach Florenz kam. Stellen Sie sich davor, um sie zu hören.

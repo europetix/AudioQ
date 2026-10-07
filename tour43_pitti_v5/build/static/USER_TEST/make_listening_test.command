@@ -11,7 +11,7 @@ python3 - "$OLD" "$V5K" "$V5B" "$OUT" <<'PY'
 import sys, glob, os, random, shutil
 old, v5k, v5b, out = sys.argv[1:]
 pick = [("Throne Room",   ("015_", "021_")),
-        ("Seggiola",      ("019_", "015_")),
+        ("Seggiola",      ("019_", "016_")),
         ("Amphitheatre",  ("081_", "053_"))]
 def find(folder, prefix):
     m = glob.glob(os.path.join(folder, "*", prefix + "*.mp3"))

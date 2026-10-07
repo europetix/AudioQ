@@ -11,7 +11,7 @@
 @energy: 3→2→3
 @sources: https://www.uffizi.it/en/pitti-palace/history (1919 cession by Victor Emmanuel III) ; old script + findings G1, G4, G5
 @lang: es
-@translation: from the fact-checked English V5.1 061 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 061; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [warmly] Bueno, aquí estamos. Quizá esté en la cuesta de la Piazza Pitti, en la Via Romana, bajo la antigua puerta de la ciudad o en lo alto, junto a la fortaleza. Salga por donde salga, sus pies seguramente le dicen lo grande que es este lugar.
 

@@ -1,4 +1,4 @@
-# TOUR #43 — PALAZZO PITTI + BOBOLI — V5 HANDSHAKE (state 3)
+# TOUR #43 — PALAZZO PITTI + BOBOLI — V5 HANDSHAKE (state 4, 7 Oct 2026)
 
 **Date:** 5 Oct 2026 (state 2 was 4 Oct 2026; its sections 1–8 follow below, with V5.0 numbering)  
 **Status:** **V5.1 build: 61 tracks (~142 min), Royal Apartments after Fashion & Costume, one-page "Route at a glance" PDF.** Not yet rendered or heard. Waiting on the user to render both voices on his Mac, then the listening test and on-site test.  
@@ -6,6 +6,45 @@
 **Series rules:** `V4_MASTER_HANDSHAKE_5.md` + `ADDENDUM` + `AUDIO_TOURS_MASTER_STATE_JUL2026.md`, in `~/Downloads/audio_tours_handoff_bundle/`. (Not available in the 5 Oct cloud session; not read there.)
 
 ---
+
+## STATE 4 — 7 OCT 2026: rebuilt after a customer complaint (read this first)
+
+**Complaint:** "the sections of the audio tour are out of order… rooms were named above the doors… the audio named paintings
+that were not in the room where they were described."
+
+**Root causes found:** (1) room placements had only ever been checked through search snippets, never on the museum's own pages;
+(2) the guide used room numbers (Room 24…) that visitors never see, while the doors show Italian names; (3) the Iliad Room is
+closed 30 Jun–25 Oct 2026 and the official detour walks Prometeo → Giove → Saturno, so any audio in normal order is out of order
+for visitors right now; (4) two works were simply wrong: Raphael's La Gravida (museum page: Prometheus Room) was placed in
+Saturn, and Leo X (returned to the Uffizi Galleries in 2020, no Palatine page) was placed in Saturn.
+
+**Evidence:** the user's Chrome read every uffizi.it artwork page for Palatine (106), Modern Art (65), Royal Apartments,
+Chapel, Courtyard and Boboli, plus the notices and the 6 May 2026 not-on-display list → `research/OFFICIAL_LOCATIONS_7OCT2026.md`
+(OFF). Ministry of Culture records (culturaitalia museiditalia) for works without a museum page: Sleeping Cupid → Educazione di
+Giove; Rubens Consequences of War → Marte; Artemisia Judith → Iliade; Rotonda Palmieri → GAM sala 18.
+
+**User decisions (7 Oct):** standard route order only (the Stove track tells visitors what to do while the Iliad is closed);
+the three unlisted works researched again (all three confirmed by ministry records, kept); same sound, labels and brand as Orsay.
+
+**Changes:**
+- Every Palatine track: @room and title start with the Italian door sign ("Sala di Saturno · Raphael — Madonna della Seggiola");
+  every room change names the next sign ("the room marked Sala di Giove"); 002 teaches the trick ("look up at the door and play
+  the tracks that carry its name"). Route map labels rooms SALA / Saturno etc.
+- 006 La Gravida moved to Prometeo (fallback: Iliade); 017 NEW Raphael Ezekiel's Vision (Saturn, uffizi page) replaces Leo X
+  (held: `v5/held/cut_7oct2026/`); old 006–015 → 007–016; 018+ unchanged numbers. 015 "Five tracks"; 016 no "Leo X in this room".
+- 010 Stove: if the Iliad is closed, back to Giove then Saturno, play the tracks named on each door. 014: loan fallback.
+- Modern Art: room numbers kept only where official (1, 3, 5, 6, 12, 13, 19) or ministry (18); Napoleon head / Benvenuti /
+  Boldini / Zandomeneghi hedged; 039 ↔ 040 swapped so the Rotonda (Room 18) follows the Room 17 track.
+- ES/FR/DE: 24 tracks updated + 017 translated (translator per language), independent native review per language (Part A changed
+  tracks, Part B navigation scan of all 61), small fixes in untouched tracks; assemble checks pass 183/183. Files:
+  `v5/i18n/review_7oct/`. assemble.py now the Orsay version (reads worded years, `--check` mode).
+- Independent route audit (`v5/i18n/review_7oct/AUDIT_ROUTE_7OCT.md`): Palatine clean; its GAM/Gravida/cue findings fixed.
+- Audio: Orsay renderer (60 s timeout, 3 tries, skip + report), Yo Tours sound D on by default, tag_tracks.py (album "Palazzo
+  Pitti & Boboli Audio Guide · <language>", track n/61, artist Yo Tours, cover from build/cover/make_cover.py), launchers render
+  to ~/Desktop/Pitti_YoTours_<EN|ES|FR|DE>_<voice>; samples 016 + 053.
+- Stand-in test: 4 × 61 files, all labelled. Real voices not heard; not tested on site (ONSITE_CHECKLIST updated: door-sign
+  wording, Gravida room, Ezekiel back from New York, Iliad reopening after 25 Oct, Rotonda in Room 18).
+- After 25 Oct: confirm the Iliad reopened; then the closure sentence in 010 can be shortened.
 
 ## STATE 3 — WHAT CHANGED ON 5 OCT 2026 (read this first)
 

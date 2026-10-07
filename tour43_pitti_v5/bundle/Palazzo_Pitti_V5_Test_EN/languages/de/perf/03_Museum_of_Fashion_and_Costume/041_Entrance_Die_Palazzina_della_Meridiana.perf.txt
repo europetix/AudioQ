@@ -11,7 +11,7 @@
 @energy: 3→3
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · old script 057 + findings G3 (A 057, B 057, C 057, E 056–057), G6 §1.4
 @lang: de
-@translation: from the fact-checked English V5.1 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 041; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Dieses Gebäude ist nach einem Sonnenfleck benannt. Genauer gesagt: nach der Linie, auf der er wandert.
 

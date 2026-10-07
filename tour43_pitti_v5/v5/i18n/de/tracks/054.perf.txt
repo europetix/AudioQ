@@ -2,7 +2,7 @@
 @section: Boboli
 @room: Stop 6
 @type: W
-@title: Stoldo Lorenzi – der Neptunbrunnen
+@title: Stoldo Lorenzi — der Neptunbrunnen
 @where: Auf der Terrasse über dem Amphitheater, auf dem Weg rund um das Neptunbecken. Der Bereich um das Becken ist während der Restaurierung abgesperrt. Betrachten Sie den Brunnen vom Weg aus.
 @what: The Neptune Fountain, known as the Forcone: a bronze Neptune with his trident by Stoldo Lorenzi, 1565–68, rising from a large basin set into the hillside.
 @listen: Why a sea god stands on a Tuscan hill, and how Florentines nicknamed him.
@@ -11,7 +11,7 @@
 @energy: 3→4→3
 @sources: https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, Neptune closed) ; https://www.britannica.com/biography/Cosimo-I (Grand Duke 1569) ; old script + findings G5
 @lang: de
-@translation: from the fact-checked English V5.1 054 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 054; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [amused] Die Florentiner geben ihren großen Skulpturen gern Spitznamen, und nicht immer freundliche. Unten auf der Piazza della Signoria wurde der große Marmor-Neptun zum Biancone, dem großen Weißen. Als Kompliment war das nicht gemeint. Dieser hier kam glimpflich davon. Die Florentiner nennen ihn Fontana del Forcone, den Brunnen der großen Gabel. [pause] Schauen Sie auf den Dreizack, dann wissen Sie, warum.
 

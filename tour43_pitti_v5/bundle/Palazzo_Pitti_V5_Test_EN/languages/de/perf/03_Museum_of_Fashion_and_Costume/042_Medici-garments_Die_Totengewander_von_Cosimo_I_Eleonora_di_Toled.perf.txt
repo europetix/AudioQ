@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · https://research.aub.ac.uk/id/eprint/558 · old script 058 + findings G3 (A 058, B 058)
 @lang: de
-@translation: from the fact-checked English V5.1 042 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 042; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [quietly] Diese Kleider lagen jahrhundertelang im Dunkeln, an den Menschen, die darin begraben wurden. Eigentlich hätten sie gar nicht überdauern dürfen.
 

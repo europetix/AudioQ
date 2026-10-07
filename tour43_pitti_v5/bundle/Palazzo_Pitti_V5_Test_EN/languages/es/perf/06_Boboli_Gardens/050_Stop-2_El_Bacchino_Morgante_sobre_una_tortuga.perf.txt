@@ -11,7 +11,7 @@
 @energy: 2→3→4→3
 @sources: https://www.uffizi.it/en/artworks/morgante-sopra-una-tartaruga ; https://www.artribune.com/?p=149560 (8 Jul 2013, original moved indoors) ; old script + findings G5
 @lang: es
-@translation: from the fact-checked English V5.1 050 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 050; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] El hombrecillo de la tortuga existió de verdad. Era Braccio di Bartolo, nacido en el campo, cerca de Bolonia, y tenía enanismo. Sus padres lo vendieron a la corte de Cosme Primero y Leonor. [pause] La corte lo llamó Morgante, como el gigante de un popular poema cómico. Era una broma sobre su estatura, y la cargó toda su vida.
 

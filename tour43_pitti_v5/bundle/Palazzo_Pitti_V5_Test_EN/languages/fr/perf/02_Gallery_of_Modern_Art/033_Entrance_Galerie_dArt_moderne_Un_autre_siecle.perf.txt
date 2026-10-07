@@ -11,7 +11,7 @@
 @energy: 3→3
 @sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/special-visits/the-tactile-tour-of-the-modern-art-gallery · old script 047 + findings G3 (A, B 047), G6 §1.4
 @lang: fr
-@translation: from the fact-checked English V5.1 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 033 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
 [amused] Quand cette galerie a ouvert en 1924, le mot moderne voulait dire tout autre chose. Pas de Picasso ici. Pas de Matisse. [pause] Ici, dans trente salles numérotées, la peinture et la sculpture italiennes, de la fin du dix-huitième siècle au début du vingtième.
 
@@ -23,4 +23,4 @@ Les salles aussi ont leur histoire. C'étaient des pièces familiales des grands
 
 [warmly] Regardez le siècle changer en marchant. Il commence avec des dieux et des empereurs de marbre. Au milieu de la boucle, il peint des soldats, des bûcherons et des femmes assises à l'ombre, au bord de la mer.
 
-La boucle commence en salle un. Les deux premières salles sont néoclassiques. [pause] En salle deux, un visage très célèbre vous attend.
+La boucle commence en salle un. Les premières salles sont néoclassiques. [pause] Un visage très célèbre vous y attend.

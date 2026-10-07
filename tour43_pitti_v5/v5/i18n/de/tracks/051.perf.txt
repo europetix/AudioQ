@@ -2,7 +2,7 @@
 @section: Boboli
 @room: Stop 3
 @type: W
-@title: Buontalenti – die Grotta Grande
+@title: Buontalenti — die Grotta Grande
 @where: Neben dem Bacchino, an derselben Ostmauer nahe dem Eingang zum Vasari-Korridor. Stellen Sie sich vor die Fassade. Gehen Sie nur hinein, wenn das Tor offen ist.
 @what: The Grotta Grande, or Buontalenti Grotto: begun in the 1550s as an aqueduct reservoir, given a façade by Vasari, and transformed by Bernardo Buontalenti from 1583. Bandinelli's Apollo and Ceres in the niches; inside, replicas of Michelangelo's four Prisoners, Vincenzo de' Rossi's Theseus and Helen, and Giambologna's Venus of about 1593.
 @listen: How a water tank became the strangest building in the garden, and the question it was built to ask.
@@ -11,7 +11,7 @@
 @energy: 3→4→2→3
 @sources: https://uffizi.it/en/artworks/grotta-del-buontalenti ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/artworks/hele-and-theseus-grotto ; https://www.uffizi.it/en/artworks/bathing-venus-giambologna ; old script + findings G5
 @lang: de
-@translation: from the fact-checked English V5.1 051 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 051; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Das hier begann als Wassertank. In den 1550er-Jahren brauchten die Medici einen Speicher für eine neue Wasserleitung, und bauten ihn hier. Dann gab Vasari ihm eine nüchterne Front mit Säulen. Und eine Generation später nahm sich Bernardo Buontalenti den Bau vor. [pause] Er machte daraus das seltsamste Gebäude im Garten.
 

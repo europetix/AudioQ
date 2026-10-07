@@ -11,7 +11,7 @@
 @energy: 3→3→4
 @sources: https://www.uffizi.it/giardino-boboli (IT, "oltre 30 ettari") ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/boboli-garden ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026) ; findings G5, G6 §1.6–1.7
 @lang: de
-@translation: from the fact-checked English V5.1 049 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 049; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [warmly] Hinter dem prächtigsten Haus von Florenz besaßen die Medici einen ganzen Hügel. Der Boboli-Garten umfasst mehr als dreißig Hektar. Terrassen und Alleen, Brunnen und Wäldchen, die vom Palast bis zu den alten Stadtmauern hinaufsteigen.
 
@@ -21,4 +21,4 @@ Am Anfang stand eine Frau. 1549 brachte Eleonora di Toledo die Arbeiten in Gang,
 
 Der Entwurf beruht auf einer Idee: der Achse. Von hier steigt eine einzige gerade Linie den Hügel hinauf. Am Artischockenbrunnen über Ihnen vorbei, durch das Amphitheater, am Neptunbrunnen vorbei, bis zu einer kolossalen Statue ganz oben. [quietly] Fast alles im zentralen Garten ist um diese Linie herum angeordnet.
 
-Aber die erste Station liegt seitlich. Gehen Sie nach links, nach Osten, zum kleinen Platz mit dem Bacchino-Brunnen. [pause] Dort reitet eine kleine, rundliche Figur auf einer Schildkröte. Ihn sollten Sie unbedingt kennenlernen. Spielen Sie seinen Titel ab, wenn Sie neben ihm stehen.
+Aber die erste Station liegt seitlich. Gehen Sie nach links, nach Osten, zum kleinen Platz mit dem Bacchino-Brunnen. [pause] Dort reitet ein kleiner, rundlicher Mann auf einer Schildkröte. Ihn sollten Sie unbedingt kennenlernen. Spielen Sie seinen Titel ab, wenn Sie neben ihm stehen.

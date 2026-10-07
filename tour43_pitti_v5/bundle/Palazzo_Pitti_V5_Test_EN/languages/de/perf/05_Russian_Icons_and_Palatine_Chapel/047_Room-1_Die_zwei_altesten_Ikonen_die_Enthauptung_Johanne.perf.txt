@@ -2,7 +2,7 @@
 @section: Russian Icons and Chapel
 @room: Room 1
 @type: W
-@title: Die zwei ältesten Ikonen – die Enthauptung Johannes des Täufers und „Über dich freut sich die ganze Schöpfung“
+@title: Die zwei ältesten Ikonen — die Enthauptung Johannes des Täufers und „Über dich freut sich die ganze Schöpfung“
 @where: Raum 1, vor der kleinen Enthauptung Johannes des Täufers. Ihr Gegenstück, die Gottesmutter „Über dich freut sich die ganze Schöpfung“, sollte in der Nähe hängen. Ihr Raum ist offiziell nicht angegeben.
 @what: Two Muscovite icons in tempera on panel with gilded-silver, filigree and enamel covers, each about 31 × 26 cm: "All Creatures Rejoice in You", c.1575–1600, and The Beheading of Saint John the Baptist, c.1590–1610. Both recorded in the palace's Chapel of Relics in 1639.
 @listen: Two small panels that were in the palace nearly four centuries before this museum existed, and how to read them.
@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://www.uffizi.it/en/artworks/icon-beheading-baptist ; https://www.uffizi.it/en/artworks/all-creatures-rejoice-icon ; https://www.uffizi.it/en/pitti-palace/museum-of-russian-icons ; old script + findings G4
 @lang: de
-@translation: from the fact-checked English V5.1 047 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 047; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Niemand weiß, wie diese beiden kleinen Tafeln nach Florenz kamen. Aber wir wissen, wo sie 1639 waren. Ein Inventar aus diesem Jahr verzeichnet sie in der Reliquienkapelle hier im Palast. Sie gehörten zu den Schätzen von Großherzog Ferdinando dem Zweiten und seiner Frau Vittoria. Damit sind es die frühesten belegten Ikonen in Florenz. [pause] Fast vier Jahrhunderte warteten sie auf ein eigenes Museum. Meist vermutet man ein diplomatisches Geschenk. Aber einen Beleg dafür hat noch niemand gefunden.
 

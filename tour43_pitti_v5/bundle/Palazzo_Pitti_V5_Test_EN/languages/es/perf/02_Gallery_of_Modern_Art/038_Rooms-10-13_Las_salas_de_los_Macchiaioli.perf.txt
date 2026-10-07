@@ -4,23 +4,23 @@
 @type: R
 @title: Las salas de los Macchiaioli
 @where: En las salas 10 a 13, el corazón de la exposición de los Macchiaioli. La sala 6 reúne sus primeros experimentos. Escuche esta pista al entrar en la sala 10.
-@what: The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti, 1866, in Room 10; Zandomeneghi's two portraits of Diego Martelli and two Pissarro landscapes in Room 11; Silvestro Lega's Singing a Stornello, 1867, in Room 12; Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13.
+@what: The Tuscan Macchiaioli: the Banti collection and Boldini's Alaide Banti; Zandomeneghi's portraits of Diego Martelli and two Pissarro landscapes (rooms not published); Silvestro Lega's Singing a Stornello, 1867, in Room 12 (official); Fattori's Italian Camp after the Battle of Magenta, 1862, in Room 13 (official).
 @listen: Who the Macchiaioli were, the friends and patrons around them, and what to look for in each of these four rooms.
 @brief: A friend in their favourite rooms of the building, relaxed and enthusiastic, pointing things out one room at a time.
 @pace: medium
 @energy: 3→4→3
 @sources: https://www.uffizi.it/en/online-exhibitions/en · https://www.uffizi.it/en/artworks/singing-a-ditty · https://www.uffizi.it/en/artworks/fattori-magenta-en · old script 052 + findings G3 (A 052, B 052, D)
 @lang: es
-@translation: from the fact-checked English V5.1 038 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 038 (7 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
 ---
 [lightly] Imagine que lo llaman mancha y decide quedarse con el nombre. Macchia, en italiano, es una mancha, un borrón. A principios de la década de 1860, la crítica se burló así de unos pintores de Florencia. Pintaban con manchas de color, sin fundirlas con cuidado. [pause] Los pintores tomaron el insulto y lo llevaron con orgullo.
 
-Su idea era sencilla y tenaz. Pintar lo que realmente se ve, al aire libre, con luz real. Soldados, trabajadores del campo, la costa, una tarde tranquila en casa. Esta galería guarda una de las colecciones más ricas de su obra.
+Su idea era sencilla y tenaz. Pintar lo que realmente se ve, al aire libre, con luz real. Soldados, trabajadores del campo, la costa, una tarde tranquila en casa. Esta galería guarda una de las colecciones de su obra más ricas del mundo.
 
-[pause] Recorra estas salas una por una. La sala diez gira en torno a Cristiano Banti, pintor y coleccionista. Busque el retrato de Alaide Banti, de Giovanni Boldini.
+[pause] Recorra estas salas una por una. Busque los cuadros de Cristiano Banti, pintor y coleccionista, y el retrato de Alaide Banti, de Giovanni Boldini.
 
-La sala once es de Diego Martelli, crítico y mecenas de estos pintores. Federico Zandomeneghi lo retrató dos veces. [curious] Y busque dos paisajes de Camille Pissarro, una rara voz impresionista francesa en esta compañía toscana.
+Luego busque a Diego Martelli, crítico y mecenas de estos pintores. Federico Zandomeneghi lo retrató dos veces. [curious] Y busque dos paisajes de Camille Pissarro, una rara voz impresionista francesa en esta compañía toscana.
 
 En la sala doce, Cantando un stornello, de Silvestro Lega: una canción popular en un interior tranquilo. Y en la sala trece, El campamento italiano después de la batalla de Magenta, de Fattori. [pause] Fíjese en el título. No la batalla, con su carga y su gloria. El campamento, después.
 
-[warmly] Otro cuadro muy querido de Fattori está en esta galería, aunque el museo no dice dónde exactamente. Busque un panel diminuto con mujeres bajo un toldo junto al mar. Tiene su propia historia.
+[warmly] Otro cuadro muy querido de Fattori está en esta galería, un panel diminuto con mujeres bajo un toldo junto al mar. Su historia, más adelante. Cuando quiera, siga la numeración hasta la sala diecisiete, donde empieza el último tramo del circuito.

@@ -11,7 +11,7 @@
 @energy: 3→3
 @sources: https://www.uffizi.it/en/pitti-palace/costume-and-fashion-museum · https://www.uffizi.it/palazzo-pitti/museo-della-moda-e-del-costume · old script 057 + findings G3 (A 057, B 057, C 057, E 056–057), G6 §1.4
 @lang: es
-@translation: from the fact-checked English V5.1 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+@translation: from the fact-checked English Pitti 041; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [curious] Este edificio debe su nombre a un punto de luz solar. [pause] Más exactamente, a la línea que recorre.
 
@@ -21,4 +21,4 @@ La pequeña residencia llegó después. Se empezó para el gran duque Pedro Leop
 
 [warmly] Hoy alberga el primer museo estatal de Italia dedicado a la historia de la moda, y a lo que la ropa dice de quien la viste. La colección supera las quince mil piezas, desde el siglo dieciocho hasta hoy. La seda y el encaje no toleran la luz. Por eso se expone solo una parte, y la muestra cambia más o menos cada año.
 
-Hay algo que nunca cambia. Lo más antiguo y raro está siempre expuesto: la ropa con la que fueron enterrados tres Médici, hace más de cuatrocientos años. [pause] Búsquelas primero.
+Hay algo que nunca cambia. Lo más antiguo y raro está siempre expuesto: la ropa con la que fueron enterrados tres Médici, hace más de cuatrocientos años. [pause] Busque esas prendas primero.

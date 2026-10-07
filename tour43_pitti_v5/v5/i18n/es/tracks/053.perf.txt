@@ -1,4 +1,4 @@
-@id: 053 · ES voice sample · v5.0 070 · old 083 · Stop 5
+@id: 053 · ES · v5.0 070 · old 083 · Stop 5
 @section: Boboli
 @room: Stop 5
 @type: R
@@ -11,7 +11,7 @@
 @energy: 3→4→2→4
 @sources: https://www.uffizi.it/en/artworks/boboli-amphitheatre ; https://uffizi.it/en/boboli-garden/history ; https://www.uffizi.it/en/notices/restoration-work-currently-in-progress-at-the-boboli-gardens (20 Aug 2026, tiers closed) ; V5 calibration (lead-verified) + findings G5
 @lang: es
-@translation: from the fact-checked English V5.1 053 (5 Oct 2026); facts unchanged; formal address; v2 adapted for listening (short sentences, extra pauses, neutral Spanish)
+@translation: from the fact-checked English Pitti 053; facts unchanged; formal address; adapted for listening (headers re-synced 7 Oct 2026)
 ---
 [lightly] Empecemos con una idea curiosa. [pause] El palacio que tiene a su espalda salió de este hueco.
 

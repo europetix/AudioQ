@@ -103,17 +103,24 @@ def segments(body):
     return out
 
 
+# Voice finishing (ON by default since the user chose A/B version D, 7 Oct 2026; VOICE_FINISH=0 turns it off): rumble cut, a touch of warmth and presence, gentle de-essing,
+# light compression so quiet words stay audible in a noisy gallery. Applied before the loudness normalisation.
+VOICE_FINISH_AF = ("highpass=f=80,equalizer=f=200:t=q:w=1:g=1.5,equalizer=f=3200:t=q:w=1.4:g=1.5,"
+                   "deesser=i=0.35:m=0.5:f=0.5,acompressor=threshold=-21dB:ratio=2.5:attack=10:release=150:makeup=1.5")
+
+
 def master(wav_in, mp3_out, bitrate="64k"):
     """Two-pass loudness normalisation to -16 LUFS / -1.5 dBTP (spoken word on phones), mono MP3.
     Pass 1 measures, pass 2 applies a linear gain so pauses don't skew the result."""
     import json, os
     target = "I=-16:TP=-1.5:LRA=11"
+    pre = VOICE_FINISH_AF + "," if os.environ.get("VOICE_FINISH", "1") != "0" else ""
     r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", wav_in, "-af",
-                        f"loudnorm={target}:print_format=json", "-f", "null", "-"],
+                        f"{pre}loudnorm={target}:print_format=json", "-f", "null", "-"],
                        capture_output=True, text=True)
     blob = r.stderr[r.stderr.rindex("{"):r.stderr.rindex("}") + 1]
     m = json.loads(blob)
-    af = (f"loudnorm={target}:measured_I={m['input_i']}:measured_TP={m['input_tp']}:"
+    af = (f"{pre}loudnorm={target}:measured_I={m['input_i']}:measured_TP={m['input_tp']}:"
           f"measured_LRA={m['input_lra']}:measured_thresh={m['input_thresh']}:"
           f"offset={m['target_offset']}:linear=true")
     part = f"{mp3_out}.{os.getpid()}.part.mp3"   # write aside, then rename: an interrupted run never leaves a half file
