@@ -55,6 +55,7 @@ if [ "$CHOICE" = "2" ]; then
     echo "Rendering with Kokoro (first run downloads Python 3.11 + model, please be patient)..."
     uv run --python 3.11 --with "kokoro>=0.9.4" --with soundfile --with numpy \
         python render_kokoro.py "$OUTPUT_DIR" || { echo "Kokoro render failed."; read -p "Press enter..."; exit 1; }
+    python3 tag_tracks.py "$OUTPUT_DIR" . en
 else
     echo ""
     echo "Voice: $VOICE_NAME (edge-tts, $EDGE_VOICE)."
@@ -74,7 +75,12 @@ else
             python3 -m pip install --user --quiet --break-system-packages edge-tts
     fi
     echo "Generating MP3s by section (each passage is voiced separately, so this takes a while)..."
-    python3 render_edge.py "$OUTPUT_DIR" || { echo "$VOICE_NAME render failed."; read -p "Press enter..."; exit 1; }
+    if ! python3 render_edge.py "$OUTPUT_DIR"; then
+        python3 tag_tracks.py "$OUTPUT_DIR" . en
+        echo ""; echo "Not finished yet. Run the same command again: finished tracks are skipped."
+        read -p "Press enter..."; exit 1
+    fi
+    python3 tag_tracks.py "$OUTPUT_DIR" . en
 fi
 
 # navigation PDF + guides into the tour folder (not for voice samples)

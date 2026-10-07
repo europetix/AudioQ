@@ -160,6 +160,9 @@ Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
    `v5/i18n/<lang>/tracks/NNN.perf.txt` in all three languages and re-run the check (`assemble.py --check` works on a JSON work
    folder; for perf files, rebuild and validate).
    - Fact fixed in the English this session: 018 Bazille killed at twenty-eight (was twenty-six), from the museum's own pages.
+   - 7 Oct: Orsay renderer now times out and retries (no more stuck renders); every MP3 gets phone labels and a Yo Tours
+     cover; an A/B test of voice finish / room tone / chime is waiting for the user's ear (`make_ab_test_013.command`).
+     See `orsay_v5/ORSAY_V5_HANDSHAKE.md` STATE 4. Pitti/Orangerie not yet ported.
 2. **Orsay quotes:** if `musee-orsay.fr` becomes reachable, check the Christopher Gray, "black Eve" and Redon "refined, savage" quotes
    verbatim (tracks 055 to 058, see `v5/notes/FINAL_PASS_LOG.md`), and the rooms listed in `ONSITE_CHECKLIST.md`.
 3. **Orsay app images:** build an image kit like the Orangerie one. Copy `orangerie_v5/app_images/` and generate the CSV from

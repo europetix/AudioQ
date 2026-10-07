@@ -43,7 +43,12 @@ echo ""
 echo "Voice: $VOICE_NAME ($EDGE_VOICE)"
 echo "Output: $OUTPUT_DIR"
 echo "Generating MP3s by section (each passage is voiced separately, so this takes a while)..."
-( cd "languages/$L" && python3 ../../render_edge.py "$OUTPUT_DIR" ) || { echo "$VOICE_NAME render failed (run it again: finished tracks are skipped)."; read -p "Press enter..."; exit 1; }
+if ! ( cd "languages/$L" && python3 ../../render_edge.py "$OUTPUT_DIR" ); then
+    python3 tag_tracks.py "$OUTPUT_DIR" "languages/$L" "$L"
+    echo ""; echo "Not finished yet. Run the same command again: finished tracks are skipped."
+    read -p "Press enter..."; exit 1
+fi
+python3 tag_tracks.py "$OUTPUT_DIR" "languages/$L" "$L"
 if [ -z "$ONLY" ]; then cp Orsay_Audio_Guide_Route.pdf "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] route map"; fi
 
 echo ""

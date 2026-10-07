@@ -71,10 +71,11 @@ for p in ('v5_direction.py', 'render_kokoro.py', 'render_edge.py'):
     shutil.copy(f"/home/claude/orsay/v5/pipeline/{p}", B)
 # hand-maintained bundle files (launcher, README, extended pronunciation, user-test docs)
 ST = '/home/claude/orsay/build/static'
-for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'README.txt', 'pronunciation.py'):
+for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'README.txt', 'pronunciation.py',
+          'tag_tracks.py', 'cover.jpg', 'make_ab_test_013.command'):
     shutil.copy(f'{ST}/{p}', B)
 shutil.copytree(f'{ST}/USER_TEST', f'{B}/USER_TEST')
-for p in (f'{B}/generate_audio.command', f'{B}/generate_audio_ES_FR_DE.command'):
+for p in (f'{B}/generate_audio.command', f'{B}/generate_audio_ES_FR_DE.command', f'{B}/make_ab_test_013.command'):
     os.chmod(p, 0o755)
 print(len(tracks), tw, round(tw/125))
 for s in plan['sections']: print(s)

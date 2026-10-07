@@ -48,6 +48,20 @@ SPANISH, FRENCH, GERMAN
   Translated for listening from the fact-checked English, then reviewed independently
   per language. A native-speaker spot check is still to come.
 
+ON THE PHONE (new, 7 Oct 2026)
+==============================
+Every MP3 is labelled for music players: "013 · Manet — Olympia", album "Musée d'Orsay
+Audio Guide · English" (or Español, Français, Deutsch), track 13 of 75, artist Yo Tours,
+with a cover picture, so the guide plays in walking order. The launcher adds the labels
+at the end of every run, including to MP3s made earlier.
+If the voice service does not answer within 60 seconds, the passage is retried (3 tries);
+a track that still fails is skipped and listed, and running the launcher again fills it in.
+
+SOUND TEST (013 Olympia)
+========================
+  bash make_ab_test_013.command   ->  ~/Desktop/Orsay_V5_AB_Test_013/  with four versions:
+  A current, B voice finish, C + room tone, D + chime. Listen on earbuds and pick one.
+
 START CLEAN
 ===========
 Unzip this guide into an empty place, never on top of an older copy. The launcher

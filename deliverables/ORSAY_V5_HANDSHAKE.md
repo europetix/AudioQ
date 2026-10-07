@@ -73,3 +73,20 @@ Glance PDF (three levels). Not yet rendered with a real voice or tested on site.
   - FR unconfirmed names: room 36 "Vincent van Gogh en France" (043), "Tout change, quoique pierre" (039).
   - Loan tracks say "this winter" in every language: right only for Nov 2026 – Mar 2027; revise after the loans return.
   - Native-speaker spot check for each language (ES reviewer suggests listening to 027, 030 and 051–075 first).
+
+## STATE 4 (7 Oct 2026): audio polish, user-approved items 1–2 done, 3–5 on A/B trial
+- (1) No more stuck renders: render_edge.py gives each voice request 60 s (EDGE_TIMEOUT), 3 tries, then skips the track and
+  lists it at the end (exit 1); a re-run fills the gaps. Tested with a stand-in that hangs (retry works; skip + report works).
+- (2) Phone labels: build/static/tag_tracks.py, run by both launchers after every render (also on a failed run, and on MP3s
+  made earlier): title "NNN · <@title>", album "Musée d'Orsay Audio Guide · English" (Audioguía · Español, Audioguide ·
+  Français / Deutsch), track n/75, artist + album artist "Yo Tours" (brand chosen by the user), genre, year, language, cover.
+  Cover: build/static/cover.jpg, made by build/cover/make_cover.py (original clock-face artwork, no museum logo).
+  Audio stream untouched (checked by md5); one cover stream per file.
+- (3–5) On trial, OFF by default: VOICE_FINISH=1 (v5_direction.VOICE_FINISH_AF: highpass 80, +1.5 dB 200 Hz, +1.5 dB 3.2 kHz,
+  de-esser, compressor 2.5:1, before loudnorm), ROOM_TONE=1 (pink noise ~ -64 dBFS under the whole track), CHIME=1 (synthesised
+  E5→B5 bell, 1.4 s + 0.45 s gap before the voice). make_ab_test_013.command renders 013 Olympia four ways on the Mac into
+  ~/Desktop/Orsay_V5_AB_Test_013/ (A current, B finish, C +room tone, D +chime). After the user picks, set the chosen
+  switches as defaults (render_edge.py / v5_direction.py), rebuild, and tell the user to re-render (delete nothing: render
+  into a new output folder or move the old one away, since finished tracks are skipped).
+- Levels checked with stand-in tones only (loudness −16 LUFS kept; room tone −63.4 dBFS in pauses). Real voice not heard.
+- Only Orsay changed. Pitti and Orangerie still have the old renderer (no timeout, no labels); port when the user asks.
