@@ -1,0 +1,26 @@
+@id: 075 · ES · Room 64 · Extra · 10 Oct 2026 edition
+@section: Goya's Story · Floors 2 and 0
+@room: Room 64
+@type: X
+@title: Sala 64 · Extra · Goya — El general José de Palafox a caballo
+@where: En la sala 64 de la planta 0, la misma del 2 y el 3 de mayo. Busque el gran retrato ecuestre, de unos dos metros y medio de alto, de un general con uniforme de campaña y sable, a caballo, al frente de una carga de caballería.
+@what: Francisco de Goya y Lucientes, General José de Palafox on Horseback, 1814, oil on canvas, 248 × 224 cm.
+@listen: The hero of Zaragoza who never won a battle, the portrait he ordered from Goya, and the bill he paid seventeen years late.
+@brief: Telling a friend about a proud man and a painter who saw through him; curious, a wry smile at the vanity, light at the unpaid bill.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/general-jose-de-palafox-on-horseback/b27fe2e2-d65c-4738-b9cf-a4e324c3b1f1 (OFF, read 10 Oct 2026: 1814; 248 × 224; Room 064; José Rebolledo de Palafox y Melci, 1775–1847; commemorates his defence of the city in 1808 when besieged by the French; "it was Palafox himself who commissioned the work in 1814"; Goya used the "slightly theatrical composition to bring out the model's vanity"; "extremely rich and careful technique"; inscription lower left "El Exmo. S.or D.n Josef Palafox y Melci, / por Goya, año de 1814"; bequeathed to the Prado by his son Francisco Palafox y Soler) ; https://www.museodelprado.es/coleccion/obra-de-arte/el-general-jose-de-palafox-a-caballo/b27fe2e2-d65c-4738-b9cf-a4e324c3b1f1 (OFF, ES: born Zaragoza 1775; named Captain General of Aragon 26 May 1808, declared war on Napoleon 31 May; symbol of patriotic resistance for refusing to surrender Zaragoza despite its terrible state; always defeated by the French, no battlefield victory; went to France after the fall of Zaragoza; reconfirmed Captain General of Aragon by Fernando VII in 1814, probably the occasion of the commission; painted alongside the Charge of the Mamelukes and the 3rd of May; campaign uniform, leading a cavalry charge, without his decorations, incl. the Grand Cross of Charles III; Goya's letters of 14 December 1814 and 4 January 1815 report it finished; Palafox paid only in 1831, after Goya's death, to Javier Goya, and collected it then)
+@lang: es
+@translation: from the fact-checked English Prado 075 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Nunca ganó una batalla. Aun así, se convirtió en símbolo de la resistencia española, y Goya lo pintó a caballo.
+
+José de Palafox nació en Zaragoza. En la primavera de 1808 fue nombrado capitán general de Aragón, y a los pocos días declaró la guerra a Napoleón. Los franceses sitiaron Zaragoza, que quedó en un estado terrible. Pero Palafox se negó a entregarla. Tras su caída, acabó en Francia.
+
+En 1814, año de los dos grandes lienzos de esta sala, el propio Palafox encargó este retrato. [pause] Cabalga con uniforme de campaña, al frente de una carga de caballería. Fíjese en lo que falta. Ni una de sus condecoraciones, ni siquiera la gran cruz de Carlos Tercero.
+
+[wry] ¿Modestia, entonces? No del todo. El museo cree que Goya usó la pose algo teatral para resaltar la vanidad del general. [pause] Un héroe, suavemente burlado.
+
+Luego vino la factura. [pause] Goya escribió que el retrato estaba terminado aquel invierno. Palafox solo pagó en 1831, tras la muerte de Goya, a su hijo Javier. Abajo a la izquierda verá el nombre completo del general, y el de Goya.
+
+Ahora siga por la sala 63 hasta la sala 63 B, para un breve Extra sobre los hijos de Fortuny en un salón japonés. Si se salta los Extras, continúe hasta la larga sala 75 y la ejecución en una playa de Gisbert.

@@ -1,0 +1,24 @@
+@id: 006 · ES · Room 56 · Extra · 10 Oct 2026 edition
+@section: Floor 0 · Flemish, Italian & Medieval
+@room: Room 56
+@type: X
+@title: Sala 56 · Extra · Antonio Moro — María Tudor, reina de Inglaterra
+@where: En la sala 56, busque el retrato casi de cuerpo entero, de un metro de alto, de una reina vestida de oscuro, sentada en un sillón de terciopelo rojo, con una pequeña rosa roja en una mano, unos guantes en la otra y una gran joya con una perla colgante en el pecho.
+@what: Anthonis Mor, Mary Tudor, Queen of England, 1554, oil on panel, 109 × 84 cm.
+@listen: The English queen who married Philip of Spain, painted without flattery and with great dignity, wearing his wedding-year gift.
+@brief: A friend pausing on the way to share a royal story; curious at the start, attentive to the details, quietly respectful at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/mary-tudor-queen-of-england/aef6ebc4-081a-44e6-974d-6c24aef95fc4 (OFF, read 10 Oct 2026: P002108, 1554, oil on panel, 109 × 84, Room 056; daughter of Henry VIII and Catherine of Aragon, proclaimed queen 1553, restored Catholicism; married Prince Philip, eleven years her junior, at Winchester, July 1554; died November 1558; Van Mander 1604: Mor sent to London in 1554 on the orders of Charles V to paint her; red velvet chair, symbol of royalty, splendidly embroidered unlike normal chairs of the type; red Tudor rose in right hand, gloves decorated with stones in left; jewel given by Philip at her neck, ES displayed-objects note: includes la Perla Peregrina, found by a slave in the Pearl Islands, Panama; pose tense and somewhat rigid; plain features not idealised, dignified bearing, strength of character in the face of adversity; brushwork after Holbein)
+@lang: es
+@translation: from the fact-checked English Prado 006 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta reina se casó con un príncipe once años menor que ella. La joya de su pecho es regalo suyo.
+
+María Tudor era hija de Enrique Octavo y Catalina de Aragón. Proclamada reina de Inglaterra en 1553, devolvió su reino al catolicismo. En julio del año siguiente se casó en Winchester con Felipe, futuro rey de España. [pause] Ese mismo año, según una antigua biografía, el emperador Carlos Quinto envió a Londres al pintor holandés Antonio Moro para retratarla.
+
+[pause] Fíjese con qué cuidado la presenta Moro. Se sienta en un sillón de terciopelo rojo, símbolo de realeza, mucho más bordado de lo habitual en estas sillas. En la mano derecha, la rosa roja de los Tudor. En la izquierda, unos guantes con piedras engastadas. Y al cuello, la joya de Felipe. El museo señala que su perla es la famosa Peregrina, hallada por un buceador esclavizado en el archipiélago de las Perlas, en Panamá.
+
+[quietly] Moro no la favorece. Sus rasgos son sencillos, y su postura, tensa, algo rígida. Aun así, le da verdadera dignidad, y se percibe su fuerza de carácter ante la adversidad. [pause] Murió en 1558, solo cuatro años después de la boda.
+
+Al lado, en la sala 55, más retratos de la corte de Felipe, de Sofonisba Anguissola y Alonso Sánchez Coello. Busque 55 en la puerta.

@@ -1,0 +1,25 @@
+@id: 030 · DE · Room 43 · Extra · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 43
+@type: X
+@title: Saal 43 · Extra · Tizian — Salome
+@where: Suchen Sie in Saal 43 das fast quadratische Halbfigurenbild einer jungen Frau, die sich umwendet, eine Schale mit einem abgeschlagenen Haupt hebt und Sie ansieht: Tizians Salome.
+@what: Titian, Salome, around 1550, oil on canvas, 87 × 80 cm.
+@listen: How Titian stripped a crowded story down to one woman and her gaze.
+@brief: A friend showing how a great painter simplified a story; curious on the changes, quiet at the gaze.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/salome/0f359b90-2055-4326-bbbe-775dbfa7c504 (OFF, read 10 Oct 2026: P000428, ca. 1550, oil on canvas, 87 × 80, Room 043; Salome with the head of John the Baptist on a tray; the 1516 Doria Pamphilj version has an indoor setting with an arch and a servant girl; here servant and spatial references removed, diagonal contrapposto, Salome sole protagonist, gaze directed at the viewer; Lavinia-as-model hypothesis should be discarded; X-rays: eyes originally somewhat lower, left arm moved from a diagonal to its vertical position)
+@note: 10 Oct 2026: Christ Carrying the Cross (P000438) cut — the English page says Not on display while the Spanish page says Sala 043.
+@lang: de
+@translation: from the fact-checked English Prado 030 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Tizian malte Salome mehr als einmal. Und beim zweiten Mal warf er fast alles weg.
+
+In einer früheren Fassung von 1516 steht sie in einem Raum unter einem Bogen, mit einer Dienerin an ihrer Seite. Hier, um 1550, ist die Dienerin verschwunden, und der Raum ebenso. Nur Salome bleibt. Sie dreht sich in einer Diagonale, hält das Haupt Johannes des Täufers auf einer Schale empor und sieht Sie direkt an. [pause] Oft hieß es, Tizians Tochter Lavinia sei das Modell gewesen. Das Museum weist das zurück. Röntgenaufnahmen zeigen, dass er beim Malen noch suchte. Ihre Augen saßen einst etwas tiefer. Und ihr linker Arm wanderte von der Schräge in die Senkrechte.
+
+[quietly] Achten Sie darauf, wie wenig es noch zu sehen gibt. Kein Raum, keine Dienerin, keine Schar von Gästen. Nur eine junge Frau, eine Schale und ein ruhiger Blick. [pause] Tizian hat aus einer Geschichte fast ein Bildnis gemacht.
+
+[pause] Und dieses Bildnis sieht Sie an, als wären Sie gerade in diesen Augenblick hineingeraten.
+
+Als Nächstes Saal 44: Tizians Danaë, ein Akt auf einem Bett unter einem Schauer aus Goldregen.

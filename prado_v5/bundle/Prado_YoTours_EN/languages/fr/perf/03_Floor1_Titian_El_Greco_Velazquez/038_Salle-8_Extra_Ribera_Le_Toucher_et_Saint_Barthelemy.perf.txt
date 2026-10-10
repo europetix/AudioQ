@@ -1,0 +1,24 @@
+@id: 038 · FR · Room 8 · Extra · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 8
+@type: X
+@title: Salle 8 · Extra · Ribera — Le Toucher, et Saint Barthélemy
+@where: Dans la salle 8, sur le chemin de la salle 7 à la salle 8 B. Trouvez la toile verticale d'un vieil aveugle aux yeux fermés, les mains posées sur une tête sculptée claire, un petit visage peint posé sur la table à côté de lui. Tout près, un portrait à mi-corps plus petit d'un vieux saint barbu tenant un couteau.
+@what: Jusepe de Ribera, The Sense of Touch, 1632, oil on canvas, 125 × 98 cm. Also in Room 8: Ribera, Saint Bartholomew, 1630–1635, oil on canvas, 77 × 64 cm.
+@listen: A blind man settles an old argument between painting and sculpture, and an apostle with a royal price tag.
+@brief: Pointing out a clever idea to a friend; curious, then quiet at the light, a wry last line.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-sense-of-touch/ef9c0082-9fe9-4d80-96ea-f5dcb2a88b1c (OFF, read 10 Oct 2026: 1632; 125 × 98; Room 008; blind man with a sculpted bust on a table, 1857 inventory "una cabeza del Apolo"; a painting of a face on the table, veiled allusion to the contrast between two-dimensional painting and sculpture, which can be perceived through touch; long identified as "Blind Gambassi", the blind sculptor Francesco Gonnelli, born 1603, rejected because of the figure's apparent age, "the aged and wrinkled figure of the blind man"; senses series of around 1615; Norton Simon version with a bust and a painted head; light sensed "through his forehead, nose and closed eyelids", bust and top of the figure the lightest areas) ; https://www.museodelprado.es/en/the-collection/art-work/saint-bartholomew/4818e314-6b68-4828-8397-57c5e051507e (OFF: 1630–1635; 77 × 64; Room 008; apostle series very popular during the Counter-Reformation, half-length figures against a neutral background; knife in his right hand, 1857 inventory; 1701 Alcázar inventory "en su marttirio"; 1701–1703 inventory after Charles II's death valued it at fifty doubloons, "tasada en Cinquentta Doblones"; elderly man, greying beard and hair)
+@lang: fr
+@translation: from the fact-checked English Prado 038 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un aveugle étudie un visage. Pas avec ses yeux, qui sont fermés, mais du bout des doigts.
+
+Ribera a peint Le Toucher en 1632. Les mains de l'homme reposent sur une tête sculptée, qu'un ancien inventaire appelle une tête d'Apollon. Sur la table, à côté de lui, un tableau représentant un visage, qu'il ignore. C'est la plaisanterie, et l'argument. Les artistes du temps débattaient de ce qui l'emportait, la peinture ou la sculpture. La sculpture, disaient ses partisans, se connaît par le toucher autant que par la vue. Un tableau est plat. [pause] Pour un aveugle, ce n'est rien du tout.
+
+[quietly] Suivez la lumière. Elle tombe sur le buste et sur le haut de sa tête, les parties les plus claires du tableau. Le musée suggère qu'il la sent sur son front et ses paupières closes. Pendant deux siècles, on l'a pris pour un vrai sculpteur aveugle, Gonnelli. Mais Gonnelli n'avait pas encore trente ans, et cet homme est vieux et ridé.
+
+Tout près, le Saint Barthélemy de Ribera, d'une série d'apôtres, sujet favori de la Contre-Réforme. Le vieil homme tient un couteau, signe de son martyre. [wry] Un inventaire dressé après la mort du roi Charles deux l'estimait à cinquante doublons.
+
+Entrez maintenant dans la salle 8 B, la salle du Greco. Cherchez un petit portrait d'homme en noir, la main posée sur la poitrine.

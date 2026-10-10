@@ -1,0 +1,28 @@
+@id: 081 · DE · Jerónimos entrance hall · 10 Oct 2026 edition
+@section: Closing
+@room: Jerónimos entrance hall
+@type: CLOSE
+@title: Mit den Augen der Könige
+@where: Zurück in der Eingangshalle am Jerónimos-Eingang, wo der Rundgang begann, oder unterwegs im Saal der Musen. Überall, wo Sie drei Minuten stehen oder sitzen können.
+@what: Closing reflection on the route; recalls Titian's Emperor Charles V at Mühlberg, Velázquez's Las Meninas, Goya's The Family of Carlos IV, the tapestry cartoons, the Majas, the 2nd and 3rd of May, the Black Paintings, and the nineteenth-century history paintings.
+@listen: How a collection built by and for kings became one that anyone can walk through, and what changed when painters began to look back.
+@brief: Saying goodbye to a friend at the door after a long, good afternoon together; warm, reflective, unhurried, ending on a smile.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/museum/history-of-the-museum (OFF: opened to the public November 1819 as the Royal Museum of Paintings and Sculptures; building designed by Juan de Villanueva in 1785 for a Natural History Cabinet ordered by Charles III; Ferdinand VII decided its use as a royal museum, encouraged by Queen María Isabel de Braganza; first catalogue 1819 listed 311 paintings; core from the royal collection, grown from Charles V under the Habsburgs and Bourbons, "We owe to them the presence of some of the Museum's greatest masterpieces") ; https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f (OFF: 1656; "Reflected in the mirror are the faces of Philip IV and Mariana of Austria"; the artist working on a large canvas) ; tracks 047–058 sources for the Goya and nineteenth-century works
+@lang: de
+@translation: from the fact-checked English Prado 081 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Sie sind durch drei Ebenen und fünf Jahrhunderte Malerei gegangen. Bevor Sie wieder hinaus nach Madrid treten, kehren wir zu unserem Anfangsgedanken zurück.
+
+Diese Sammlung war nie für die Öffentlichkeit gedacht. Dreihundert Jahre lang hingen diese Bilder in Palästen, ausgewählt von Königen und Königinnen für ihre eigenen Wände. Unter Karl dem Fünften wuchs die Sammlung schnell, und die Habsburger und Bourbonen nach ihm mehrten sie weiter. [pause] Das ursprüngliche Gebäude nebenan, von Juan de Villanueva, war für die Naturkunde entworfen. Im November 1819 öffnete es dann König Ferdinand der Siebte, ermutigt von seiner Königin, als königliches Museum für die Öffentlichkeit. Der erste Katalog verzeichnete 311 Gemälde.
+
+Den größten Teil des Tages haben Sie also mit den Augen der Könige geschaut. Tizians Kaiser, der in Rüstung ausreitet. Die kleine Prinzessin von Velázquez, mit König und Königin im Spiegel hinter ihr. Eine Königsfamilie, für Goya aufgereiht. Sogar die heiteren Teppichentwürfe oben entstanden für das Speisezimmer eines Prinzen.
+
+[pause] Aber Sie haben auch gesehen, wie die Maler zurückzuschauen begannen. Velázquez setzte sich selbst ins Bild, den Pinsel in der Hand. Goya tat dasselbe, im Schatten hinter seinem König. Dann malte er einen Krieg aus der Sicht der Erschossenen. [pause] Und am Ende, in einem Haus vor Madrid, bedeckte er seine eigenen Wände mit Bildern, die kein König bestellt hatte, nur für sich selbst gemalt.
+
+Im neunzehnten Jahrhundert bestellte kein König mehr die großen Leinwände. Der Staat kaufte Bilder für die Nation.
+
+[quietly] Das ist die eigentliche Reise dieses Hauses. Ein privater, königlicher Blick, der sich langsam nach außen wendet, bis die Sammlung allen gehört, die durch diese Türen hereinkommen.
+
+[warmly] Danke, dass Sie diesen Weg mit uns gegangen sind. Schauen Sie sich ein letztes Mal um. Und wenn Sie hinausgehen, schauen Sie weiter so, wie Sie heute geschaut haben. Langsam, und mit Ihren eigenen Augen.

@@ -1,0 +1,28 @@
+@id: 001 · FR · Jerónimos entrance hall · 10 Oct 2026 edition
+@section: Opening
+@room: Jerónimos entrance hall
+@type: ANCHOR
+@title: Bienvenue au Prado
+@where: Dans le hall de l'entrée des Jerónimos, le hall moderne par lequel vous êtes entré, près des panneaux Collection.
+@what: Opening: the royal collection behind the Prado, the Villanueva building and the 1819 opening, how room numbers work, and the shape of today's route.
+@listen: Why the Prado looks the way it does, and how to find every stop by the number at each doorway.
+@brief: A friendly guide meeting a visitor at the door; warm, unhurried, a smile at the end, practical and clear about the route.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/history-and-architecture (OFF: building designed by Juan de Villanueva in 1785 to house the Natural History Cabinet by order of Charles III; its use as a royal museum of painting and sculpture chosen by Ferdinand VII; opened to the public in November 1819; Moneo extension beside the Church of the Jerónimos) ; Bosch pages for Philip II's collecting (Table of the Seven Deadly Sins: kept in his private apartment, valued it; Garden: bought 1591, sent to El Escorial 1593) (OFF) ; route shape and room numbers: v5/PLAN.md and research/map/floor0-2.png (official 2026 plan)
+@lang: fr
+@translation: from the fact-checked English Prado 001 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ce musée est né sur les murs d'une seule famille. Pendant des siècles, les rois et reines d'Espagne ont acheté les tableaux qu'ils aimaient, pour leurs palais et leurs monastères. Ils ne rendaient de comptes à aucun conservateur. Ils savaient ce qui leur plaisait.
+
+Le bâtiment ancien voisin a été conçu par Juan de Villanueva en 1785, sur ordre de Charles trois. Il devait abriter un cabinet d'histoire naturelle. Mais son petit-fils Ferdinand sept y a installé les tableaux royaux. [pause] En novembre 1819, le Prado ouvrait au public. Vous êtes dans sa partie la plus récente, l'extension bâtie près de la vieille église des Jerónimos.
+
+[wry] Ce goût royal explique presque tout ce que vous allez voir. D'où tant de Velázquez, de Titien, de Rubens et de Goya. D'où les rêves les plus étranges de Bosch en Espagne : Philippe deux les collectionnait avec ardeur. Et d'où les lacunes. Ce n'est pas une histoire de l'art bien rangée. C'est une collection royale, magnifiquement déséquilibrée.
+
+Maintenant, comment s'orienter. [pause] Chaque salle a un numéro, indiqué à l'entrée de la salle. Chaque étape vous donne le numéro à chercher. En cas de doute, cherchez le numéro. Certaines pistes sont marquées Extra. Elles sont courtes et facultatives. Écoutez-les si vous avez le temps, sinon passez à la suite.
+
+Le parcours est simple. Nous commençons ici, au niveau 0, avec les maîtres flamands et italiens : Bosch, Bruegel, Dürer et Raphaël. Puis nous montons au niveau 2 pour Rembrandt et le Trésor du Dauphin, un éblouissant trésor de coupes serties de pierreries. [pause] Nous redescendons ensuite au niveau 1, le cœur du musée : Titien, le Greco, Velázquez, Murillo, Rubens et Goya. Au bout du bâtiment, nous suivons Goya, en haut vers ses lumineux cartons de tapisserie, en bas vers ses peintures les plus sombres. Et nous finissons ici, où tout a commencé.
+
+[lightly] Prenez votre temps, et asseyez-vous dès que besoin.
+
+Pour commencer, suivez depuis ce hall les panneaux Collection jusqu'à la salle 55 A, la première salle de peinture flamande à ce niveau. Cherchez 55 A à l'entrée de la salle.

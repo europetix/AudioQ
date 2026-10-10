@@ -1,0 +1,28 @@
+@id: 005 · DE · Room 56A · 10 Oct 2026 edition
+@section: Floor 0 · Flemish, Italian & Medieval
+@room: Room 56A
+@type: W
+@title: Saal 56 A · Bosch — Der Heuwagen und Die Tafel der sieben Todsünden
+@where: Bleiben Sie in Saal 56 A. Der Heuwagen ist das dreiteilige Gemälde mit einem hoch aufgetürmten Heukarren in der Mitte. Die Tafel der sieben Todsünden ist die breite Tafel mit einem großen, runden Auge in der Mitte. Die kleine Tafel mit goldener Schrift ist Die Entfernung des Steins des Wahnsinns.
+@what: Hieronymus Bosch, The Haywain Triptych, 1512–1515, oil on panel; Table of the Seven Deadly Sins, 1505–1510, oil on poplar panel; also The Extraction of the Stone of Madness, 1501–1505, oil on Baltic oak.
+@listen: Bosch the preacher: a world grabbing at hay, an eye that sees every sin, and a quack who pulls a flower out of a man's head.
+@brief: A friend enjoying Bosch's sharp sermons; brisk and amused, a little conspiratorial about the king's bedroom companion, light at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-haywain-triptych/7673843a-d2b6-497a-ac80-16242b36c3ce (OFF: 1512–1515, Room 056A; proverb "The world is like a haywain and each man takes what he can", Isaiah 40:6; people of every class grab hay; devils drive the wagon toward hell; behind it the Pope, an emperor, a king with fleurs-de-lis, a duke; couple and music on top; guardian angel looks to Christ, devil plays a trumpet; left wing rebel angels and expulsion; right wing devils building a tower; Philip II bought another version in 1570 which proved a copy) ; https://www.museodelprado.es/en/the-collection/art-work/table-of-the-seven-deadly-sins/3fc0a84e-d77d-4217-b960-8a34b8873b70 (OFF: 1505–1510, poplar, Room 056A; Philip II owned it before 1560 and kept it in his private apartment; eye of God with Christ rising from the tomb in the pupil; "Cave cave dominus videt", beware, beware, the Lord is watching; seven sins around, gluttony a pioneering genre scene, envy with two dogs fighting over a bone; four corners Death, Last Judgement, Hell, Glory) ; https://www.museodelprado.es/en/the-collection/art-work/the-extraction-of-the-stone-of-madness/313db7a0-f9bf-49ad-a242-67e95b14c5a2 (OFF: 1501–1505, 48.5 × 34.5 cm, Room 056A; inscription "My name is Lubbert Das"; funnel hat symbol of deception; a waterlily-like flower extracted, read as the money the quack will take)
+@lang: de
+@translation: from the fact-checked English Prado 005 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Ist der Garten der Lüste ein Rätsel, dann ist der Heuwagen eine Predigt. Bosch baut ihn auf einem alten flämischen Sprichwort auf. Die Welt ist ein Heuwagen, und jeder nimmt sich, was er kriegen kann.
+
+Sehen Sie sich die Mitteltafel an. Ein riesiger Heukarren rollt voran. Menschen aller Stände, auch Geistliche, krallen und prügeln sich darum. Hinter dem Karren reiten die Mächtigen: ein Papst, ein Kaiser, ein König mit französischen Lilien, ein Herzog. [pause] Oben vergnügt sich ein Paar bei Musik, während ein Schutzengel verzweifelt zu Christus aufblickt. Und wer zieht den Karren? Teufel, die alle zur Hölle auf dem rechten Flügel lenken.
+
+[pause] Heu ist nichts wert, und die ganze Welt jagt ihm trotzdem nach.
+
+Philipp der Zweite kaufte 1570 eine Fassung dieses Bildes und hielt sie für ein Original. Technische Analysen entlarvten sie später als Kopie dieses Bildes.
+
+[conspiratorial] Suchen Sie nun die breite Tafel mit dem großen Auge. Philipp besaß sie schon vor 1560 und hatte sie in seinen Privatgemächern. Mitten im Auge, in der Pupille, steigt Christus aus dem Grab. Darunter stehen die lateinischen Worte: Hüte dich, hüte dich, der Herr sieht zu. Rund um die Iris spielen gewöhnliche Leute die sieben Todsünden vor. Eine Frau bewundert sich in einem Spiegel, den ein Teufel hält. Eine Familie isst bei Tisch zu viel. Zwei Hunde streiten um einen Knochen, während ein Paar einen reichen Mann um seinen Falken beneidet. [pause] In den vier Ecken warten Tod, Gericht, Hölle und Himmel. Stellen Sie sich vor, täglich unter diesem Auge zu leben.
+
+[lightly] Bevor Sie gehen, suchen Sie die kleine Tafel mit goldener Schrift. Ein Quacksalber mit Trichterhut, einem Zeichen des Betrugs, schneidet einem Mann den Stein des Wahnsinns aus dem Kopf. Der Name des Patienten steht darunter: Lubbert Das. Doch heraus kommt kein Stein, sondern eine Blume. Wahrscheinlich steht sie für das Geld, das der Quacksalber gleich kassiert.
+
+Gehen Sie zurück in Saal 56, dann in Saal 55 und weiter in Saal 55 B, wo Dürers Selbstbildnis hängt. Achten Sie am Eingang auf die Nummer 55 B. Unterwegs haben Saal 56 und Saal 55 je einen kurzen Extra-Titel, wenn Sie Zeit haben.

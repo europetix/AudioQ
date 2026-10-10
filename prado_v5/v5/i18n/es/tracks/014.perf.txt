@@ -1,0 +1,26 @@
+@id: 014 · ES · Room 49 · Extra · 10 Oct 2026 edition
+@section: Floor 0 · Flemish, Italian & Medieval
+@room: Room 49
+@type: X
+@title: Sala 49 · Extra · Rafael — Caída en el camino del Calvario
+@where: Quédese en la sala 49. Busque el enorme retablo vertical, de más de tres metros de alto, con Cristo caído bajo la cruz entre una multitud de soldados, firmado RAPHAEL VRBINAS abajo, en el centro.
+@what: Raphael (Raffaello Sanzio) and workshop, Christ falls on the Way to Calvary, 1515–1516, oil on panel transferred to canvas, 318 × 229 cm.
+@listen: A shipwreck story nobody can prove, a mother who refuses to faint, and a king who wanted the picture above his altar.
+@brief: A friend adding one more treasure before moving on; wry about the legend, serious on the Virgin, quiet at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/christ-falls-on-the-way-to-calvary/870c8293-1691-4a90-88ff-b554a2bc3fe8 (OFF, read 10 Oct 2026; Correggio's Noli me tangere cut 10 Oct 2026, on loan to Dresden 19.09.2026–10.01.2027 per its official page: Raphael and workshop, signed RAPHAEL · VRBINAS lower centre, debt to northern engravings by Schongauer, Dürer and Lucas of Leyden, 1515–1516, oil on panel transferred to canvas, 318 × 229, Room 049, P000298; commissioned by Jacopo Basilio for Santa Maria dello Spasimo, Palermo, hence lo Spasimo di Sicilia; two diagonals converging on Christ; Virgin suffering and compassionate but conscious, without fainting, the Church's official position; Viceroy of Sicily arranged for it to be ceded to Philip IV, main altarpiece of the Alcázar chapel; Vasari's shipwreck story questioned, too close to the miraculous arrival of a Sicilian Annunziata; 1857 inventory: Simon of Cyrene helps Jesus, taken to Paris 1810 and transferred to canvas there)
+@lang: es
+@translation: from the fact-checked English Prado 014 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Una vieja historia cuenta que este enorme retablo sobrevivió a un naufragio. Vasari la contó. Los historiadores dudan. Recuerda demasiado a una vieja leyenda siciliana de una llegada milagrosa.
+
+Rafael y su taller lo pintaron hacia 1515 para un monasterio de Palermo, Santa Maria dello Spasimo. Por eso se llama el Pasmo de Sicilia. Cristo ha caído bajo el peso de la cruz, y la multitud se le echa encima. [pause] Rafael tomó aquí ideas de grabados del norte, de Durero y otros, y su firma está abajo, en el centro.
+
+[pause] Ahora mire a su madre. Sufre, pero no se desmaya. La Iglesia sostenía que María soportó su dolor plenamente consciente.
+
+Mucho después, un virrey de Sicilia hizo que el cuadro pasara a Felipe Cuarto. El rey lo puso en el altar mayor de su capilla palaciega de Madrid. Sus viajes no habían terminado. [pause] En 1810, la guerra lo llevó a París, donde lo pasaron de la tabla al lienzo.
+
+[quietly] Un naufragio que nadie puede probar, una madre que no se desmaya, y un rey que lo quiso sobre su altar.
+
+Vaya al fondo de la sala 49, cruce la sala 58 B y entre en la sala 58: El Descendimiento, de Van der Weyden. Busque 58 en la puerta, y una gran tabla de fondo dorado con figuras dolientes.

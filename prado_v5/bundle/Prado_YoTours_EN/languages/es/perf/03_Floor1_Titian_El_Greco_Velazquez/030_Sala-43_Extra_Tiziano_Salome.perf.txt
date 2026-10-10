@@ -1,0 +1,25 @@
+@id: 030 · ES · Room 43 · Extra · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 43
+@type: X
+@title: Sala 43 · Extra · Tiziano — Salomé
+@where: En la sala 43, busque el medio cuerpo casi cuadrado de una joven que se gira mientras alza una bandeja con una cabeza cortada y le mira: la Salomé de Tiziano.
+@what: Titian, Salome, around 1550, oil on canvas, 87 × 80 cm.
+@listen: How Titian stripped a crowded story down to one woman and her gaze.
+@brief: A friend showing how a great painter simplified a story; curious on the changes, quiet at the gaze.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/salome/0f359b90-2055-4326-bbbe-775dbfa7c504 (OFF, read 10 Oct 2026: P000428, ca. 1550, oil on canvas, 87 × 80, Room 043; Salome with the head of John the Baptist on a tray; the 1516 Doria Pamphilj version has an indoor setting with an arch and a servant girl; here servant and spatial references removed, diagonal contrapposto, Salome sole protagonist, gaze directed at the viewer; Lavinia-as-model hypothesis should be discarded; X-rays: eyes originally somewhat lower, left arm moved from a diagonal to its vertical position)
+@note: 10 Oct 2026: Christ Carrying the Cross (P000438) cut — the English page says Not on display while the Spanish page says Sala 043.
+@lang: es
+@translation: from the fact-checked English Prado 030 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Tiziano pintó a Salomé más de una vez. Y la segunda vez se deshizo de casi todo.
+
+En una versión anterior, de 1516, está en una estancia bajo un arco, con una criada al lado. Aquí, hacia 1550, la criada ha desaparecido, y la estancia también. Solo queda Salomé, girada en diagonal, alzando la cabeza de Juan el Bautista en una bandeja y mirándole a usted. [pause] Se dijo a menudo que la modelo fue Lavinia, la hija de Tiziano. El museo rechaza la idea. Las radiografías muestran que seguía buscando al pintar. Los ojos estaban algo más abajo, y el brazo izquierdo pasó de inclinado a vertical.
+
+[quietly] Fíjese en lo poco que queda por mirar. Ni estancia, ni criada, ni multitud de invitados. Solo una joven, una bandeja y una mirada firme. Tiziano ha convertido una historia en casi un retrato.
+
+[pause] Y ese retrato le devuelve la mirada, como si usted acabara de irrumpir en la escena.
+
+[pause] Después, la sala 44: la Dánae de Tiziano, una desnuda en un lecho bajo un estallido de lluvia dorada.

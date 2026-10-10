@@ -1,0 +1,24 @@
+@id: 038 · ES · Room 8 · Extra · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 8
+@type: X
+@title: Sala 8 · Extra · Ribera — El Tacto, y San Bartolomé
+@where: En la sala 8, de camino de la sala 7 a la sala 8 B. Busque el lienzo vertical de un anciano ciego con los ojos cerrados, con las manos sobre una pálida cabeza esculpida y una pequeña cara pintada sobre la mesa, a su lado. Cerca cuelga un medio cuerpo más pequeño de un viejo santo barbudo con un cuchillo.
+@what: Jusepe de Ribera, The Sense of Touch, 1632, oil on canvas, 125 × 98 cm. Also in Room 8: Ribera, Saint Bartholomew, 1630–1635, oil on canvas, 77 × 64 cm.
+@listen: A blind man settles an old argument between painting and sculpture, and an apostle with a royal price tag.
+@brief: Pointing out a clever idea to a friend; curious, then quiet at the light, a wry last line.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-sense-of-touch/ef9c0082-9fe9-4d80-96ea-f5dcb2a88b1c (OFF, read 10 Oct 2026: 1632; 125 × 98; Room 008; blind man with a sculpted bust on a table, 1857 inventory "una cabeza del Apolo"; a painting of a face on the table, veiled allusion to the contrast between two-dimensional painting and sculpture, which can be perceived through touch; long identified as "Blind Gambassi", the blind sculptor Francesco Gonnelli, born 1603, rejected because of the figure's apparent age, "the aged and wrinkled figure of the blind man"; senses series of around 1615; Norton Simon version with a bust and a painted head; light sensed "through his forehead, nose and closed eyelids", bust and top of the figure the lightest areas) ; https://www.museodelprado.es/en/the-collection/art-work/saint-bartholomew/4818e314-6b68-4828-8397-57c5e051507e (OFF: 1630–1635; 77 × 64; Room 008; apostle series very popular during the Counter-Reformation, half-length figures against a neutral background; knife in his right hand, 1857 inventory; 1701 Alcázar inventory "en su marttirio"; 1701–1703 inventory after Charles II's death valued it at fifty doubloons, "tasada en Cinquentta Doblones"; elderly man, greying beard and hair)
+@lang: es
+@translation: from the fact-checked English Prado 038 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un ciego estudia un rostro. No con los ojos, que tiene cerrados, sino con las yemas de los dedos.
+
+Ribera pintó El Tacto en 1632. Las manos del hombre descansan sobre una cabeza esculpida, que un antiguo inventario llama cabeza de Apolo. A su lado, en la mesa, un rostro pintado que él ignora. [pause] Esa es la broma, y el argumento. Los artistas de la época debatían qué era superior, la pintura o la escultura. La escultura, decían sus defensores, se conoce por el tacto y por la vista. Una pintura es plana. Para un ciego, no es nada.
+
+[quietly] Siga la luz. Cae sobre el busto y lo alto de su cabeza, las partes más claras del cuadro. El museo sugiere que la siente en la frente y en los párpados cerrados. Durante dos siglos se le tomó por un escultor ciego real, Gonnelli. [pause] Pero Gonnelli no tenía aún treinta años, y este hombre es viejo y arrugado.
+
+Cerca está el San Bartolomé de Ribera, de una serie de apóstoles, tema favorito de la Contrarreforma. El anciano sostiene un cuchillo, signo de su martirio. [wry] Un inventario tras la muerte del rey Carlos Segundo lo valoró en cincuenta doblones.
+
+[pause] Ahora pase a la sala 8 B, la del Greco. Busque un pequeño retrato de un hombre de negro, con la mano sobre el pecho.

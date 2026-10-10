@@ -1,0 +1,22 @@
+@id: 018 · ES · Room 51C · Extra · 10 Oct 2026 edition
+@section: Floor 0 · Flemish, Italian & Medieval
+@room: Room 51C
+@type: X
+@title: Sala 51 C · Extra · Las pinturas murales románicas de Maderuelo y San Baudelio
+@where: En la sala 51 C, junto a la sala redonda 51, las paredes están cubiertas de pinturas murales del siglo doce. Busque los arcos con la Creación de Adán y, sobre fondo rojo, un elefante que lleva un pequeño castillo a lomos.
+@what: Anonymous, twelfth century, The Creation of Adam, Hermitage of Vera Cruz, Maderuelo (Segovia), with the other murals of that hermitage, fresco transferred to canvas; Anonymous, Elephant, Hermitage of San Baudelio, Casillas de Berlanga (Soria), around 1125, fresco transferred to canvas, 205 × 135 cm.
+@listen: Medieval wall paintings that left their chapels: one set split up and sold abroad, one rebuilt here as faithfully as possible.
+@brief: A friend opening a hidden side room with real enthusiasm; curious at the elephant's journey, gently amused by the castle, reverent at the arches.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/elephant-hermitage-of-san-baudelio-casillas-de/ce773332-e8dd-447c-bd22-b57c0778a120 (OFF, read 10 Oct 2026: P007264, ca. 1125, fresco transferred to canvas, 205 × 135 (height × width), Room 051C; murals taken off the walls and exported to the USA in 1926, divided among several institutions, Boston, Indianapolis, the Cloisters; Metropolitan Museum 1926–1957, in the Prado since 1957 as indefinite temporary deposit of the Met; elephant symbolises humility, associated with Christ; castle on its back, Physiologus, human ills and suffering; beside the Bear, red background; all six fragments secular, hunting scenes among them; flat figures, primary colours) ; https://www.museodelprado.es/en/the-collection/art-work/the-creation-of-adam-hermitage-of-vera-cruz/52e8a064-dfad-43db-a9f9-939eeba21869 (OFF: XII century, fresco transferred to canvas, 203 × 239, Room 051C, P007285; transferred to canvas 1947, reconstructed at the Prado in a layout as faithful to the original as possible, entered 1948; arches: Cain or Melchizedek and Abel offering to the Lamb in the Cross, Creation of Adam, Original Sin; figures typically Romanesque, neither volume nor depth, a few simple contours; style very similar to the Master of Tahull)
+@lang: es
+@translation: from the fact-checked English Prado 018 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1926, las pinturas de una pequeña ermita de Castilla fueron arrancadas de sus muros y enviadas a Estados Unidos.
+
+Venían de San Baudelio de Berlanga, cerca de Soria, y se repartieron entre varios museos estadounidenses. Este elefante fue al Metropolitan de Nueva York. Desde 1957 está aquí, depositado a largo plazo por el Met. [lightly] Lleva un castillo a lomos. En los bestiarios medievales, el elefante simbolizaba la humildad, y por tanto a Cristo. El castillo, el sufrimiento humano. [pause] Antes estaba pintado junto a un oso, entre escenas de caza, sin nada religioso.
+
+[reverent] El resto de la sala cuenta una historia más feliz. En 1947, las pinturas del siglo doce de la ermita de la Vera Cruz de Maderuelo, cerca de Segovia, se pasaron a lienzo. El museo las volvió a montar aquí, lo más fieles posible al original. [pause] En los arcos, Dios crea a Adán, y cerca, Adán y Eva caen en el pecado. Las figuras son planas, trazadas con pocos contornos, sin volumen ni profundidad. Su pintor trabajaba muy al estilo del famoso Maestro de Taüll.
+
+[pause] De vuelta en la sala redonda 51, pase por la sala 51 B a la sala 51 A: la España medieval. Busque una alta tabla dorada con un santo entronizado.

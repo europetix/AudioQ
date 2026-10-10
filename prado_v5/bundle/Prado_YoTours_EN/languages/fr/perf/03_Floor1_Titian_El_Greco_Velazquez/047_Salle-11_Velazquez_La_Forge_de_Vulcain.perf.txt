@@ -1,0 +1,30 @@
+@id: 047 · FR · Room 11 · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 11
+@type: W
+@title: Salle 11 · Velázquez — La Forge de Vulcain
+@where: Dans la salle 11, placez-vous devant la grande toile d'une forge sombre. Un jeune homme en robe orange, la tête nimbée de lumière, parle à une rangée de forgerons à demi nus qui ont cessé de travailler.
+@what: Diego Velázquez, Vulcan's Forge, 1630, oil on canvas, 223 × 290 cm. Painted during his first stay in Italy; sold to Philip IV in 1634 for the Buen Retiro palace.
+@listen: The worst piece of news in mythology, and how Velázquez makes it travel from face to face.
+@brief: Telling a friend a juicy, slightly cruel story, then pointing out how well it is told; conspiratorial at first, curious in the middle, a wry last line.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/vulcans-forge/84a0240d-b41a-404d-8433-6e4e2efd21ab (OFF, read 10 Oct 2026: 1630; 223 × 290 cm; Room 011; first trip to Italy, Palomino says painted in Rome alongside Joseph's Bloody Coat; Ovid's Metamorphoses; Apollo in orange robe with laurel and rays of light tells Vulcan of Venus's adultery with Mars; Vulcan's stance reveals his lameness; Mars's armour being made; everyone has stopped work, astonished; nudes to show mastery of proportion and emotion; study of classical sculpture and copying Michelangelo in the Sistine Chapel; first large work on lead-white priming, later works "exceptionally luminous"; sold to Philip IV in 1634 for the Buen Retiro)
+@lang: fr
+@translation: from the fact-checked English Prado 047 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Certaines nouvelles ne devraient jamais s'annoncer au travail. Le jeune dieu en orange vient d'entrer dans une forge, pour dire au forgeron que sa femme le trompe.
+
+Le forgeron, c'est Vulcain, dieu du feu. Sa femme, Vénus. Et l'amant, Mars, dieu de la guerre. L'histoire vient d'Ovide. [pause] Et voici le plus cruel. L'armure qui prend forme dans cette forge appartient à Mars. Vulcain martèle pour l'homme même qui l'a trahi.
+
+Velázquez a peint ce tableau en 1630, lors de son premier voyage en Italie. Selon Palomino, l'un de ses premiers biographes, il l'a fait à Rome. Il voulait montrer aux Italiens, et à lui-même, ce dont il était capable. Il a donc choisi des corps presque nus, qui ne peuvent rien cacher. Il avait étudié la sculpture antique et copié Michel-Ange à la chapelle Sixtine. Ici, chaque corps exprime l'émotion.
+
+[curious] Suivez la nouvelle qui se propage. À gauche rayonne Apollon, couronné de laurier, la tête entourée de rayons. Vulcain, le plus proche, s'est figé en plein geste. Sa posture trahit sa jambe boiteuse. [pause] Puis parcourez la rangée des forgerons. Tous ont cessé de travailler. Bouche ouverte, bras ballants, ils fixent le visiteur. Pas un marteau ne bouge.
+
+Remarquez maintenant la lumière. C'est sa première grande toile sur une préparation au blanc de plomb. D'où l'éclat argenté de ses tableaux plus tardifs. Repensez au Triomphe de Bacchus, juste à côté, à peine un ou deux ans plus tôt. Les bruns se sont allégés, et l'air s'est éclairci.
+
+En 1634, Velázquez a vendu le tableau au roi, pour le nouveau palais du Buen Retiro, à Madrid.
+
+[wry] Apollon est le dieu de la vérité, après tout. Il choisit simplement très mal son moment.
+
+[pause] Devant vous s'ouvre la grande salle ovale 12, le cœur des salles Velázquez. Cherchez Les Ménines, et la famille royale à cheval.

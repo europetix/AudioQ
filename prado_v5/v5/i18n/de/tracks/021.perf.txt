@@ -1,0 +1,24 @@
+@id: 021 · DE · Room 77 · Extra · 10 Oct 2026 edition
+@section: Floor 2 · Rembrandt & the Dauphin's Treasure
+@room: Room 77
+@type: X
+@title: Saal 77 · Extra · David Teniers — Erzherzog Leopold Wilhelm in seiner Gemäldegalerie
+@where: Suchen Sie in Saal 77 das Gemälde auf Kupfer, über einen Meter breit: ein hoher Raum, vom Boden bis zur Decke mit Bildern behängt, rechts eine elegante Gruppe von Herren, links der Maler mit einem Besucher.
+@what: David Teniers the Younger, The Archduke Leopold William in his Picture Gallery in Brussels, 1647–1651, oil on copperplate, 104.8 × 130.4 cm.
+@listen: A painting of paintings: an archduke's real collection, copied in miniature and sent to the king of Spain.
+@brief: A friend enjoying a picture puzzle; amused at the start, curious while spotting the works, wry at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-archduke-leopold-william-in-his-picture/461e64f1-71a3-46fb-961b-3958286a12c5 (OFF, read 10 Oct 2026: P001813, 1647–1651, oil on copperplate, Room 077; Leopold William governor of the Netherlands 1647–1656, on the right with his court; Teniers, his chamber painter, on the left with the Count of Fuensaldaña, who helped acquire many of the works in England; a concrete, existing collection, a sort of catalogue painting; most of the works Italian; Gossaert's Saint Luke painting the Virgin on the left, Teniers's roots; Van Dyck's Isabel Clara Eugenia on the right, alludes to Leopold as heir to the government of Brussels; the archduke's gaze directed at Raphael's Saint Margaret, genuine appreciation of painting; Teniers painted several similar works sent to various courts; sent soon after to his uncle Philip IV, honour a fellow lover of Italian painting and perhaps show Brussels could rival Madrid)
+@lang: de
+@translation: from the fact-checked English Prado 021 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Dies ist ein Gemälde von Gemälden. Und fast jedes davon gab es wirklich.
+
+Erzherzog Leopold Wilhelm regierte die Spanischen Niederlande von Brüssel aus. Hier steht er rechts, mit Herren seines Hofes, in seiner Gemäldegalerie. Links steht der Maler selbst, David Teniers, der Hofmaler des Erzherzogs. Neben ihm der Graf von Fuensaldaña, der half, viele dieser Bilder in England zu kaufen. [pause] Die meisten sind italienisch. Teniers kopierte sie in Miniatur auf eine Kupferplatte, fast wie einen Katalog, den man an die Wand hängen kann.
+
+[curious] Versuchen Sie, ein paar zu entdecken. Links Gossaerts Heiliger Lukas malt die Jungfrau, ein Gruß an Teniers' eigene flämische Wurzeln. Rechts Van Dycks Bildnis der Isabel Clara Eugenia, der Tochter Philipps des Zweiten, die später selbst die Niederlande regierte. [pause] Und folgen Sie dem Blick des Erzherzogs. Er ruht auf Raffaels Heiliger Margarete, ein Zeichen, dass er die Malerei wirklich liebte.
+
+[wry] Teniers malte mehrere solcher Bilder, und sie gingen an verschiedene Höfe. Dieses kam bald nach seiner Vollendung zum Onkel des Erzherzogs, Philipp dem Vierten. [pause] Ein Geschenk zwischen zwei Sammlern. Und vielleicht eine höfliche Erinnerung, dass Brüssel es mit Madrid aufnehmen konnte.
+
+Als Nächstes Saal 78: Rubens' frühes Urteil des Paris, eine kleine Tafel mit drei Göttinnen vor einem Hirten. Achten Sie am Eingang auf die Nummer 78.

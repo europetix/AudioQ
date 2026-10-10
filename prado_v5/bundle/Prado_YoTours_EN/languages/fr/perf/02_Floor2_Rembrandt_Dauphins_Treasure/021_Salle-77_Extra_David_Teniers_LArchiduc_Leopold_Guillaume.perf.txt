@@ -1,0 +1,24 @@
+@id: 021 · FR · Room 77 · Extra · 10 Oct 2026 edition
+@section: Floor 2 · Rembrandt & the Dauphin's Treasure
+@room: Room 77
+@type: X
+@title: Salle 77 · Extra · David Teniers — L'Archiduc Léopold-Guillaume dans sa galerie de peintures
+@where: Dans la salle 77, trouvez le tableau sur cuivre, large de plus d'un mètre : une haute salle couverte de tableaux du sol au plafond, un élégant groupe de gentilshommes à droite, et à gauche le peintre avec un visiteur.
+@what: David Teniers the Younger, The Archduke Leopold William in his Picture Gallery in Brussels, 1647–1651, oil on copperplate, 104.8 × 130.4 cm.
+@listen: A painting of paintings: an archduke's real collection, copied in miniature and sent to the king of Spain.
+@brief: A friend enjoying a picture puzzle; amused at the start, curious while spotting the works, wry at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-archduke-leopold-william-in-his-picture/461e64f1-71a3-46fb-961b-3958286a12c5 (OFF, read 10 Oct 2026: P001813, 1647–1651, oil on copperplate, Room 077; Leopold William governor of the Netherlands 1647–1656, on the right with his court; Teniers, his chamber painter, on the left with the Count of Fuensaldaña, who helped acquire many of the works in England; a concrete, existing collection, a sort of catalogue painting; most of the works Italian; Gossaert's Saint Luke painting the Virgin on the left, Teniers's roots; Van Dyck's Isabel Clara Eugenia on the right, alludes to Leopold as heir to the government of Brussels; the archduke's gaze directed at Raphael's Saint Margaret, genuine appreciation of painting; Teniers painted several similar works sent to various courts; sent soon after to his uncle Philip IV, honour a fellow lover of Italian painting and perhaps show Brussels could rival Madrid)
+@lang: fr
+@translation: from the fact-checked English Prado 021 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] C'est un tableau de tableaux. Et presque tous ont existé.
+
+L'archiduc Léopold-Guillaume gouvernait les Pays-Bas espagnols depuis Bruxelles. Le voici à droite, avec des gentilshommes de sa cour, dans sa galerie. À gauche, le peintre lui-même, David Teniers, peintre de cour de l'archiduc. À côté de lui, le comte de Fuensaldaña, qui aida à acheter beaucoup de ces tableaux en Angleterre. La plupart sont italiens. Teniers les a copiés en miniature sur une plaque de cuivre, presque comme un catalogue à accrocher au mur.
+
+[curious] Essayez d'en repérer quelques-uns. À gauche, le Saint Luc peignant la Vierge de Gossaert, clin d'œil aux racines flamandes de Teniers. À droite, le portrait d'Isabel Clara Eugenia par Van Dyck. Fille de Philippe deux, elle gouverna plus tard elle-même les Pays-Bas. [pause] Et suivez le regard de l'archiduc. Il se pose sur la Sainte Marguerite de Raphaël, signe d'un véritable amour de la peinture.
+
+[wry] Teniers en a peint plusieurs, envoyés à différentes cours. Celui-ci est parti chez l'oncle de l'archiduc, Philippe quatre, peu après son achèvement. Un cadeau entre deux collectionneurs. Et peut-être un rappel poli que Bruxelles pouvait rivaliser avec Madrid.
+
+Ensuite, la salle 78, avec le Jugement de Pâris de jeunesse de Rubens, un petit panneau de trois déesses devant un berger. Cherchez 78 à l'entrée de la salle.

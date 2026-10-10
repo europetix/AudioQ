@@ -1,0 +1,24 @@
+@id: 028 · FR · Room 41 · Extra · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 41
+@type: X
+@title: Salle 41 · Extra · Titien — Autoportrait
+@where: Dans la salle 41, trouvez le portrait à mi-corps d'un vieillard à longue barbe, vu de profil, vêtu de noir avec un bonnet sombre, une chaîne d'or sur la poitrine et un pinceau à la main.
+@what: Titian, Self-portrait, around 1562, oil on canvas, 86 × 65 cm.
+@listen: Why Titian painted himself in profile, like a figure on a coin, and how a chain and a brush say painter and knight.
+@brief: A friend introducing the old master in person; curious, admiring, a little moved at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/self-portrait/abc62514-eb24-4c67-9843-8a8505fe1b61 (OFF, read 10 Oct 2026: P000407, ca. 1562, oil on canvas, 86 × 65, Room 041; Titian between 73 and 75; profile portraits unusual in the mid-sixteenth century, Titian used the format only for deceased sitters, François I and Sixtus IV; self-portrait in profile exceptional, hard to execute; profile evoked fame, linked to Roman coins; fixing his appearance for posterity; Leone Leoni had portrayed him in profile in 1537; gold chain of a Knight of the Golden Spur; brush: social elevation owed to painting; PICTOR ET EQUES on Leoni's 1537 medal; black clothing recommended for knights by Castiglione's Courtier; cap, long beard, associates him with intellectuals of the day; probably the portrait Vasari saw in the studio in 1566)
+@lang: fr
+@translation: from the fact-checked English Prado 028 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Les peintres ne se montraient presque jamais de profil. Titien l'a fait ici, septuagénaire, et c'était voulu.
+
+À son époque, le portrait de profil était rare. Titien ne l'avait employé que pour des modèles déjà morts, comme le roi de France François premier. C'est de profil que les empereurs figurent sur les monnaies romaines. Une image pour la gloire, pour la postérité. Et se peindre ainsi est difficile sans plusieurs miroirs.
+
+[pause] Regardez sa tenue. Du noir, comme il sied à un chevalier selon les usages de cour du temps. À son cou, une chaîne d'or, insigne de chevalier de l'Éperon d'or. Et à la main, un pinceau. Des années plus tôt, le sculpteur Leone Leoni, auteur du bronze de l'empereur que vous venez de voir, avait mis deux mots latins sur une médaille de Titien. Pictor et eques, peintre et chevalier. Ce portrait dit la même chose sans mots. Son rang venait de son art.
+
+[warmly] La longue barbe et le bonnet simple lui donnent moins l'air d'un artisan que d'un lettré. Quand l'écrivain Vasari visita son atelier à Venise en 1566, il y vit un autoportrait. C'est probablement celui-ci.
+
+À côté, la salle 42, avec Les Andriens de Titien, une grande fête ensoleillée sur une pente herbeuse, une dormeuse nue dans un coin.

@@ -24,7 +24,10 @@ def slug(s, n=48):
 
 def short_title(title, room):
     """The title without a leading room name (Palatine titles start with the door sign; the room is already in the file name)."""
-    return title[len(room):].lstrip(" ·—-") if room and title.startswith(room) else title
+    if room and title.startswith(room):
+        return title[len(room):].lstrip(" ·—-")
+    m = re.match(r"^(Sala|Salle|Saal|Room) \d+\s?[A-C]? · ", title)   # translated titles start with the local room word
+    return title[m.end():] if m else title
 
 def room_label(sec, room):
     if sec in ("Opening", "Closing"):
@@ -63,7 +66,8 @@ json.dump(plan, open(f"{B}/plan.json", "w"), indent=1, ensure_ascii=False)
 # ES / FR / DE guides (v5/i18n/<lang>/tracks), rendered by generate_audio_ES_FR_DE.command
 for f in sorted(glob.glob(ROOT + '/v5/i18n/*/tracks/*.perf.txt')):
     lang = f.split('/')[-3]; meta, clean = V.validate(f); n = os.path.basename(f)[:3]
-    folder = SEC[meta['section']][2]; rl = room_label(meta['section'], meta['room'])
+    folder = SEC[meta['section']][2]
+    rl = room_label(meta['section'], meta['room'].replace("Room", {"es": "Sala", "fr": "Salle", "de": "Saal"}.get(lang, "Room")))
     base = f"{n}_{rl + '_' if rl else ''}{slug(short_title(meta['title'], meta['room']))}"
     for d in ('scripts', 'perf'):
         os.makedirs(f"{B}/languages/{lang}/{d}/{folder}", exist_ok=True)

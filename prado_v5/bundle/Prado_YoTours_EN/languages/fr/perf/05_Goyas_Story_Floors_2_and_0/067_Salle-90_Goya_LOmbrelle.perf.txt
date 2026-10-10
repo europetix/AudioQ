@@ -1,0 +1,26 @@
+@id: 067 · FR · Room 90 · 10 Oct 2026 edition
+@section: Goya's Story · Floors 2 and 0
+@room: Room 90
+@type: W
+@title: Salle 90 · Goya — L'Ombrelle
+@where: Dans la salle 90, au niveau 2, au-delà de l'escalier en venant de la salle 85. Trouvez le large tableau lumineux d'une jeune femme assise par terre, un petit chien sur les genoux, tandis qu'un jeune homme derrière elle tient une ombrelle verte.
+@what: Francisco de Goya y Lucientes, The Parasol, 1777, oil on canvas, 104 × 152 cm, a tapestry cartoon; also The Pottery Vendor, 1778–1779, oil on canvas, in Room 93.
+@listen: What a tapestry cartoon was, who The Parasol was made for, and how Goya turned a myth into a scene of Madrid fashion.
+@brief: A warm introduction to the young Goya, light and charmed, with a smile at the royal couple we met downstairs.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-parasol/a230a80f-a899-4535-9e90-ad883bd096c5 (OFF: Room 090; 1777; 104 × 152; series for the dining room of the Prince and Princess of Asturias, El Pardo, 1776–78; ten country subjects; delivered to the Royal Tapestry Factory of Santa Bárbara 12 August 1777; pyramidal composition, study of Italian painting; low viewpoint, to hang over a window; Goya invented the composition himself) ; https://www.museodelprado.es/coleccion/obra-de-arte/el-quitasol/a230a80f-a899-4535-9e90-ad883bd096c5 (OFF, ES: majo; possible source Jean Ranc's Vertumnus and Pomona, Musée Fabre; sobreventana; future Carlos IV and María Luisa) ; https://www.museodelprado.es/en/the-collection/art-work/the-pottery-vendor/d2a0e6c3-ab19-492d-bf68-3d9fedaafb52 (OFF: Room 093; 1778–1779; one of 20 cartoons Mengs commissioned October 1777; Goya's invoice "a Valencian man selling crockery"; letter to Zapater: the king and royal couple saw it) ; https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812 (OFF: cartoon painter from January 1775) ; rooms 85–94 rehung 2026: research/OFFICIAL_LOCATIONS_PRADO_10OCT2026.md
+@lang: fr
+@translation: from the fact-checked English Prado 067 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Avant les tableaux de guerre et les Peintures noires, il y a eu ce Goya-là. Jeune, ambitieux, il peignait pour les murs des palais royaux.
+
+Dès 1775, il travaille pour la Manufacture royale de tapisserie, à Madrid. Sa tâche : peindre des cartons. Des modèles grandeur nature, à l'huile, que les tisserands copiaient fil à fil en laine. Ces salles du niveau 2 réunissent ses cartons.
+
+Ce carton a été livré à l'été 1777. Il appartenait à une série de dix scènes champêtres pour la salle à manger des princes des Asturies, au palais du Pardo. [amused] Et vous connaissez déjà ce couple. Les futurs Charles quatre et Marie-Louise, parés de leurs bijoux dans la salle 32, plus de vingt ans après.
+
+Selon les documents, Goya a inventé lui-même cette composition. Il est peut-être parti d'un tableau français sur un vieux mythe, le dieu Vertumne courtisant Pomone. Goya a gardé le couple et supprimé les dieux. À la place, une jeune femme à la mode. Et un majo, jeune homme en costume populaire madrilène, qui la protège galamment du soleil.
+
+Remarquez d'où vous semblez regarder : un peu en dessous d'eux. La tapisserie devait surmonter une fenêtre. Goya l'a donc peinte pour être vue d'en bas. [pause] Les figures forment une pyramide nette au premier plan, une leçon tirée de la peinture italienne. Voyez l'ombre de l'ombrelle, douce sur son visage.
+
+Si vous avez le temps, un court Extra sur Le Marchand de vaisselle vous attend dans la salle 93, dans l'enfilade, après les salles 91 et 92. [pause] Sinon, revenez sur vos pas, après l'escalier, jusqu'à la salle 85. Là, le plus grand carton de tous : une moisson de plus de six mètres de large.

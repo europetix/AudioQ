@@ -63,7 +63,7 @@ Now listen with your eyes, because this picture is full of music. At the lower l
 
 Then look to the lower right. A young man plays the lute and sings to his companion. She sings from a little music book and beats time. Just behind them, a skeleton has picked up a bowed fiddle and joined in. They are the only two people in the picture who haven't noticed.
 
-The painting passed through Italian and Spanish noble collections before a Spanish queen, Isabella Farnese, bought it in the eighteenth century. She hung it in her palace at La Granja. A queen chose this for her walls.
+The painting passed through Italian and Spanish noble collections before a Spanish queen, Isabel Farnese, bought it in the eighteenth century. She hung it in her palace at La Granja. A queen chose this for her walls.
 
 And the lovers keep singing.
 
@@ -255,7 +255,7 @@ Go through the doorway into the long hall, Room 49, for Raphael. Look for 49 at 
 ### 013 · Room 49 · Raphael — The Cardinal, and The Holy Family 'La Perla'
 *Room 49 · 354 words*
 
-**Where:** In the long hall of Room 49, find the half-length portrait of a cardinal in a shining red cape against a black background. The Pearl is the larger, upright painting nearby of the Virgin and Child with two children and an older woman, and ruins in a landscape on the right.
+**Where:** In the long hall of Room 49, find the half-length portrait of a cardinal in a shining red cape against a black background. The Pearl is the larger, upright painting nearby of the Virgin with the Christ Child, the infant John the Baptist and an older woman, and ruins in a landscape on the right.
 
 **What:** Raphael, The Cardinal, 1510–1511, oil on panel, 79 × 61 cm; and The Holy Family, or 'The Pearl', around 1518, oil on panel, 147.4 × 116 cm.
 
@@ -593,20 +593,20 @@ You passed the man himself in Room 41, in his self-portrait: painter and knight,
 
 Next, Room 44, two doors on through Room 43: Titian's Danaë, a nude on a bed beneath a burst of golden rain. On the way, in Room 43, there's a short Extra on Titian's Salome: play it there if you have time.
 
-### 030 · Room 43 · Extra · Titian — Salome, and Christ Carrying the Cross
-*Room 43 · 226 words*
+### 030 · Room 43 · Extra · Titian — Salome
+*Room 43 · 185 words*
 
-**Where:** In Room 43, find the almost square half-length of a young woman turning as she lifts a tray with a severed head and looks out at you: Salome. Nearby, a smaller, wider canvas shows two faces close together on either side of a cross: Christ Carrying the Cross.
+**Where:** In Room 43, find the almost square half-length of a young woman turning as she lifts a tray with a severed head and looks out at you: Titian's Salome.
 
-**What:** Titian, Salome, around 1550, oil on canvas, 87 × 80 cm; and Titian, Christ carrying the Cross, around 1565, oil on canvas, 67 × 77 cm, signed TITIANVS AEQ CAES F.
+**What:** Titian, Salome, around 1550, oil on canvas, 87 × 80 cm.
 
 Titian painted Salome more than once. And the second time, he threw almost everything away.
 
 In an earlier version, from 1516, she stands in a room under an arch, with a servant girl at her side. Here, around 1550, the servant has gone, and so has the room. Only Salome is left, turning on a diagonal, holding up the head of John the Baptist on a tray, and looking straight at you. It was often said that Titian's daughter Lavinia was the model. The museum rejects the idea. X-rays show him still searching as he worked. Her eyes were once a little lower, and her left arm has moved from a slant to the upright.
 
-Then find the smaller canvas of Christ carrying the Cross. Titian first painted the subject for Philip the Second's private chapel at the Escorial. This later version cuts it down to two faces, close together on either side of the cross. The man helping is Simon of Cyrene. He may be a portrait of a Venetian mosaicist, Francesco Zuccato, the son of Titian's first teacher.
+Notice how little is left to look at. No room, no servant, no crowd of guests. Just a young woman, a tray and a steady gaze. Titian has turned a story into something close to a portrait.
 
-And Christ? His eyes are wet with tears, and they look straight at you. The museum reads it as a plea to join him. It's a rare thing in Titian.
+And the portrait looks back at you, as if you had just walked in on the moment.
 
 Next, Room 44: Titian's Danaë, a nude on a bed beneath a burst of golden rain.
 
@@ -890,7 +890,7 @@ Next door is Room 10A. Look for a long, low still life by Zurbarán: four vessel
 
 **Where:** In Room 10A, find the long, low painting, less than a metre wide, of four vessels standing in a row on a wooden ledge against a black background.
 
-**What:** Francisco de Zurbarán, Still Life with Vessels, around 1650, oil on canvas, 46 × 84 cm. Bequeathed by Francesc Cambó, 1940.
+**What:** Francisco de Zurbarán, Still Life with Vessels, around 1650, oil on canvas, 46 × 84 cm. Gift of Francesc Cambó, 1940.
 
 Four pots on a shelf. No fruit, no flowers, no skull, no clock. And yet this may be the most silent painting in the whole museum.
 
@@ -1200,7 +1200,7 @@ Mary pauses at her work to watch the game. Her glance ties the three of them tog
 
 The idea has a famous ancestor. Murillo borrowed it from an Italian painting by Federico Barocci, known as the Madonna of the Cat. In Murillo's version, the cat has become a dog.
 
-In 1744, after the death of its owner, Cardinal Gaspar de Molina, it was bought by Queen Isabella Farnese, who hung it in her palace of La Granja, outside Segovia. You'll meet her name again in the next room.
+In 1744, after the death of its owner, Cardinal Gaspar de Molina, it was bought by Queen Isabel Farnese, who hung it in her palace of La Granja, outside Segovia. You'll meet her name again in the next room.
 
 No miracle, no vision. Just a family, a pet, and a child who won't share.
 
@@ -1223,7 +1223,7 @@ So read this picture like a code of manners. Porter faces you squarely, in shini
 
 And yet look at their hands. Both rest on the same rock, a symbol of how firm their friendship was. The oval around them draws them in, closer than protocol would normally allow. Look, too, at the light on that satin, and the ease of the two faces.
 
-The painting later belonged to Queen Isabella Farnese, the same queen who bought Murillo's Holy Family next door.
+The painting later belonged to Queen Isabel Farnese, the same queen who bought Murillo's Holy Family next door.
 
 Equal in friendship, careful in rank. Van Dyck manages both on a single canvas.
 
@@ -1242,7 +1242,7 @@ This is the first of two Rubens rooms, so a word about him. Peter Paul Rubens wa
 
 Around 1608, the city of Antwerp ordered this canvas for its town hall, for the room where Spain and the Dutch were to sign a truce. The newborn Christ, receiving gifts from the kings of the earth, stood for peace. Within a few years it had passed to a powerful Spanish courtier, Rodrigo Calderón. When he fell from power, it went to King Philip the Fourth.
 
-Then, in 1628, Rubens came back to Madrid. This was the visit when he met the young Velázquez. He saw his old painting in the palace and couldn't resist. He enlarged it with new canvas along the right and across the top, and reworked it with the freedom of his later years.
+Then, in 1628, Rubens came to Madrid himself. This was the visit when he met the young Velázquez. He saw his old painting in the palace and couldn't resist. He enlarged it with new canvas along the right and across the top, and reworked it with the freedom of his later years.
 
 Now look at the light. It's night, but the brightness comes from the Child himself and falls on everyone around him. A long diagonal runs down from the upper right and lands on him. The muscular bearers in the foreground recall Michelangelo and Caravaggio. And look for the painter himself, the man in the purple coat behind the horse.
 
@@ -1415,7 +1415,7 @@ Goya was proud of these pictures. He wrote to a friend that the king and the you
 Now walk back through Rooms 92 and 91, past Room 90, to Room 85 for the biggest cartoon of all: a harvest scene more than six metres wide.
 
 ### 069 · Room 85 · Goya — The Threshing Floor, or Summer
-*Room 85 · 333 words*
+*Room 85 · 328 words*
 
 **Where:** In Room 85 on Floor 2, the room with the staircase. The huge, sunlit harvest scene, more than six metres wide, is Summer. Nearby, the snowy scene of men wrapped in cloaks and a mule loaded with a pig is Winter.
 
@@ -1433,7 +1433,7 @@ And watch the peasants' dog. It's as thin and humble as its owners, and it's the
 
 That's the Goya to keep an eye on. Even in a design for a royal dining room, meant to look pretty over dinner, he slips in hunger and inequality. These cartoons sat in royal storerooms for most of a century, and came to the Prado in 1870.
 
-Now take the stairs in the corner of this room, the ones you came up, and go down two floors, past Floor 1, to Floor 0. The lift by Room 86 goes there too. At the bottom, by the Murillo entrance, follow the sign to Room 71 and look for a marble of two young men side by side.
+Now take the stairs in the corner of this room and go down two floors, past Floor 1, to Floor 0. The lift by Room 86 goes there too. At the bottom, by the Murillo entrance, follow the sign to Room 71 and look for a marble of two young men side by side.
 
 ### 070 · Room 71 · Pupil of Pasiteles — Orestes and Pylades, or The San Ildefonso Group
 *Room 71 · 314 words*
@@ -1446,7 +1446,7 @@ Between Goya the tapestry designer and Goya the witness of war, take a breath wi
 
 They were carved around 10 BC, in the age of the emperor Augustus. The museum gives them to a pupil of the sculptor Pasiteles. Like many Roman sculptors, he borrowed from the Greeks. He took two figures from different centuries of Greek art and blended them so smoothly that you can't see the join.
 
-Their later journey reads like a roll call of great collectors. The Ludovisi family in Rome. Queen Christina of Sweden. Then the Spanish crown, and the palace of La Granja de San Ildefonso, where they belonged to the collection of Queen Isabella Farnese. That palace gave the group its name.
+Their later journey reads like a roll call of great collectors. The Ludovisi family in Rome. Queen Christina of Sweden. Then the Spanish crown, and the palace of La Granja de San Ildefonso, where they belonged to the collection of Queen Isabel Farnese. That palace gave the group its name.
 
 But who are they? The royal inventories called them Castor and Pollux, the heavenly twins. The museum's title calls them Orestes and Pylades, the most loyal pair of friends in Greek legend. Many viewers simply see what's in front of you: friendship, and a brotherly arm around the shoulder.
 

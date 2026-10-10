@@ -1,0 +1,26 @@
+@id: 063 · FR · Room 36 · Extra · 10 Oct 2026 edition
+@section: Floor 1 · Murillo, Rubens & Goya
+@room: Room 36
+@type: X
+@title: Salle 36 · Extra · Goya — Autoportrait, 1815
+@where: Dans la salle 36, sur le chemin de la salle 32 à la salle 38. Trouvez le petit portrait en buste, de moins d'un demi-mètre de haut, d'un homme vieillissant en habit brun-rouge et chemise très blanche ouverte au col, qui vous regarde droit dans les yeux.
+@what: Francisco de Goya y Lucientes, Self-Portrait, 1815, oil on canvas, 45.8 × 35.6 cm.
+@listen: Goya, nearly seventy and just through the war, paints himself without armour, and signs with a scratch.
+@brief: Standing close to an old man's face with a friend; quiet and tender, curious at the brushwork and the signature.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/self-portrait/a3bf3226-62ba-44f2-9b94-aa7155c3c488 (OFF, read 10 Oct 2026: 1815; 45.8 × 35.6; Room 036; "on the threshold of old age", skin "soft, rosy and somewhat flaccid"; "presents himself here as vulnerable and fragile", also serene and welcoming; reddish-brown frock coat, very white open-necked shirt; Venetian manner, background "rapid, energetic crossing brushstrokes", finer strokes on shirt and coat; "no longer looks at a mirror, directing his gaze, instead, at the viewer"; signed and dated on the background at the left, "incised in the paint, perhaps with the tip of the brush handle"; Ministerio de Fomento for the Trinidad Museum 1866, Prado 1872) ; https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812 (OFF, via core 062, Room 32: born 1746) ; rehang of rooms 32–38 with no date: research/OFFICIAL_LOCATIONS_PRADO_10OCT2026.md
+@lang: fr
+@translation: from the fact-checked English Prado 063 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] La guerre était finie, et Goya avait presque soixante-dix ans. Il a pris une petite toile et peint son propre visage.
+
+Il ne s'apprête pas pour l'occasion. Un habit brun-rouge, et une chemise très blanche, ouverte au col. La peau est douce et rosée, un peu relâchée. Le musée y voit un homme qui se montre vulnérable et fragile, et pourtant serein, accueillant même.
+
+[curious] Comparez les touches. Le fond n'est que touches rapides, énergiques, croisées, à la manière vénitienne. L'habit et la chemise sont peints de touches plus fines, plus calmes. [pause] Et puis les yeux. Il ne semble plus s'étudier dans un miroir. Il vous regarde.
+
+Enfin, trouvez la signature, sur le fond, à gauche. Il ne l'a pas peinte. Il a gravé son nom et la date dans la peinture, peut-être avec le bout du manche du pinceau. [pause] Une marque rapide et intime, d'un homme qui en avait beaucoup vu.
+
+Le musée prévoit un nouvel accrochage des salles 32 à 38, sans date annoncée. Si ce portrait a été déplacé, suivez les panneaux Goya ou demandez au personnel.
+
+Continuez par la salle 37 jusqu'à la salle 38. Cherchez deux tableaux d'une même femme allongée sur un divan vert.

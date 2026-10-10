@@ -1,0 +1,26 @@
+@id: 055 · FR · Room 15 · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 15
+@type: W
+@title: Salle 15 · Velázquez — Les bouffons
+@where: Dans la salle 15, cherchez le grand portrait d'un homme en noir, seul dans un espace gris et vide, et les toiles plus petites de bouffons de la cour assis par terre, qui tous vous regardent.
+@what: Diego Velázquez: The Buffoon El Primo, formerly called Sebastián de Morra, 1644; The Boy from Vallecas, Francisco Lezcano, 1635–1645; The Buffoon Calabacillas, 1635–1639; Pablo de Valladolid, around 1635. All oil on canvas.
+@listen: The people kept to amuse a king, and the painter who looked at them as people.
+@brief: Introducing a friend to people the court overlooked; warm and serious, a flash of curiosity at Pablo's empty space, respectful throughout.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-buffoon-el-primo/cc7a8493-e2ff-4d33-a0d0-91d7dc210d5a (OFF, read 10 Oct 2026: The Buffoon El Primo, 1644; Room 015; traditionally Sebastián de Morra, recently identified as El Primo; accompanied Philip IV to Aragon in 1644 where Velázquez painted him; direct gaze, "most directly connects with the viewer"; seated, legs stretched out, fists resting on his thighs ("junto á las íngles"), red coat) ; https://www.museodelprado.es/en/the-collection/art-work/the-boy-from-vallecas-francisco-lezcano/5a304c42-2eee-49da-b34e-3468b8cb7fb0 (OFF: 1635–1645; Room 015; from the Basque Country; served Prince Baltasar Carlos; pack of cards, "as if to invite us to participate in the game"; western Sierra de Guadarrama; hat beneath his foot shows his size) ; https://www.museodelprado.es/en/the-collection/art-work/the-buffoon-calabacillas/f5b4b198-ea59-480e-b30b-8e599cda31db (OFF: 1635–1639; Room 015; Juan Calabazas, at court 1632 until his death in 1639; gourd identifies him; crouching; face "seemingly out of focus"; "Velázquez's most radical portrait"; hombres de placer) ; https://www.museodelprado.es/en/the-collection/art-work/pablo-de-valladolid/774285f3-fb64-4b00-96a9-df799ab10222 (OFF: ca. 1635; Room 015; jester at court until his death in 1648; declamatory pose; space suggested only by his shadow; Manet: "possibly the most astonishing bit of painting ever made", based his Fifer on it) ; Menippus and Aesop removed: their official pages now read Room 012 (audit 10 Oct 2026)
+@lang: fr
+@translation: from the fact-checked English Prado 055 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1644, le roi est parti en guerre en Aragon. Avec lui, un bouffon de la cour surnommé El Primo. Velázquez aussi, et il l'a peint là-bas.
+
+La cour appelait ces gens des hommes de plaisir. Bouffons, nains, êtres que leur corps ou leur esprit distinguait, gardés pour amuser la famille royale. Velázquez les a peints sans cesse. Et il leur a donné ce que la cour leur accordait rarement. [pause] Il les a regardés comme des personnes.
+
+El Primo est assis par terre en manteau rouge, jambes tendues, les poings sur les cuisses. Longtemps, ce tableau s'est appelé Sebastián de Morra. Le modèle n'a été identifié que récemment comme El Primo. [pause] Ce qui n'a pas changé, c'est son regard. Peu de portraits de Velázquez s'adressent si directement à qui les regarde.
+
+Francisco Lezcano, l'Enfant de Vallecas, venait du Pays basque et servait le petit prince Baltasar Carlos. Il est assis sous un rocher des monts du Guadarrama, avec ce qui semble un jeu de cartes, comme pour vous inviter à jouer. Le chapeau sous son pied montre combien il était petit. Juan Calabazas, dit Calabacillas, est accroupi près de la calebasse qui lui a donné son nom, le visage presque flou. C'est peut-être le portrait le plus radical de Velázquez.
+
+[curious] Puis Pablo de Valladolid, tout en noir, saisi en plein discours. Ni sol, ni mur, rien qu'une ombre légère. Et pourtant, il se tient dans un espace réel. Plus de deux siècles plus tard, Manet y a vu peut-être le morceau de peinture le plus étonnant jamais réalisé. Il en a tiré son célèbre Fifre.
+
+[pause] Juste à côté, la salle 15 A. Cherchez un atelier sombre de fileuses de laine, avec au fond une pièce lumineuse et une tapisserie. Ce sont Les Fileuses.

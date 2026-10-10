@@ -1,0 +1,28 @@
+@id: 026 · FR · Room 83 · 10 Oct 2026 edition
+@section: Floor 2 · Rembrandt & the Dauphin's Treasure
+@room: Room 83
+@type: W
+@title: Salle 83 · Jan Brueghel l'Ancien et Rubens — La Vue
+@where: Dans la salle 83, parmi les cinq panneaux des Sens. Trouvez le plus large : une galerie de palais encombrée de tableaux, de bustes et d'instruments, où Vénus, assise, regarde un tableau que Cupidon lui présente.
+@what: Jan Brueghel the Elder and Peter Paul Rubens, The Sense of Sight, 1617, oil on panel, 64.7 × 109.5 cm, from the series of the Five Senses; the other Senses hang in Room 83 too.
+@listen: A painting about looking, packed with the newest gadgets of 1617, and the princes it was made for.
+@brief: A treasure hunt with a friend in front of a busy picture; curious, then playful as you spot things, warm at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-sense-of-sight/494fd4d5-16d2-4857-811b-e0b2a0eb7fc7 (OFF, read 10 Oct 2026: 1617, oil on panel, 64.7 × 109.5, Room 083; Five Senses series, related Hearing, Smell, Taste, Touch 1617–18; "one of the most successful collaborations"; Rubens placed figures in courtly scenes created by Brueghel ("Velvet" Brueghel); sight most important sense since Aristotle; Cupid shows Venus a painting on a Christian theme, The Healing of the Blind Man; copy of Raphael's Saint Cecilia among Roman busts; telescope replicating the first patented by Lippershey in 1608, magnifying glasses, pince-nez; Brueghel protégé of Archdukes Albert and Isabella Clara Eugenia, includes their portraits and a view of their palace at Mariemont; signed and dated on a paper near the goddess's seat; 1636 inventory: given to the Cardinal-Infante by the Duke of Neuburg, passed to the Duke of Medina de las Torres, then given to the king) ; PLAN: other Senses in Room 83
+@lang: fr
+@translation: from the fact-checked English Prado 026 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ce tableau cache l'un des gadgets les plus récents de son temps. Une lunette, d'après la toute première jamais brevetée, en 1608. Jan Brueghel l'a peinte ici neuf ans plus tard seulement.
+
+Voici la Vue, l'un des cinq panneaux des cinq sens, accrochés ici ensemble. Depuis Aristote, la vue passait pour le sens le plus important. Elle a donc la scène la plus grandiose. Deux maîtres flamands se sont partagé le travail. Brueghel, surnommé Brueghel de Velours, a bâti les salles et les trésors en touches minuscules et scintillantes. Rubens a ajouté les figures. Le musée y voit l'une de leurs collaborations les plus réussies.
+
+Au centre trône Vénus. Cupidon lui présente un tableau, un sujet chrétien, le Christ guérissant un aveugle. La vue des yeux, et la vue de l'âme. Tout près, une copie de la Sainte Cécile de Raphaël est accrochée parmi des bustes romains antiques.
+
+[pause] Partez maintenant à la chasse. Trouvez la lunette. Puis les loupes, et même un pince-nez. Cherchez des compas, et des instruments pour lire les étoiles. Levez les yeux vers les tableaux serrés cadre contre cadre jusqu'au plafond.
+
+[warmly] Brueghel était le protégé des archiducs Albert et Isabelle, ses grands mécènes. Il a glissé leurs portraits dans le tableau, et une vue de leur palais de Mariemont. La série passa ensuite de prince en prince, en cadeau. Enfin, un duc espagnol l'offrit au roi, très probablement Philippe quatre.
+
+[lightly] Une dernière chose à trouver. Le tableau est signé et daté sur une petite feuille de papier, près du siège de Vénus. C'est un tableau sur le plaisir de regarder, et il récompense ceux qui regardent encore.
+
+Descendez maintenant d'un étage, au niveau 1, par l'escalier ou l'ascenseur près de ces salles. Suivez les panneaux jusqu'à la salle 1, la salle ronde près de l'entrée Goya.

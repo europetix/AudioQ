@@ -1,0 +1,30 @@
+@id: 044 · FR · Room 10A · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 10A
+@type: W
+@title: Salle 10 A · Zurbarán — Nature morte aux récipients
+@where: Dans la salle 10 A, trouvez le tableau long et bas, de moins d'un mètre de large, où quatre récipients sont alignés sur un rebord de bois, devant un fond noir.
+@what: Francisco de Zurbarán, Still Life with Vessels, around 1650, oil on canvas, 46 × 84 cm. Gift of Francesc Cambó, 1940.
+@listen: Four pots, read one by one, and why the only clock in this still life is the light.
+@brief: Slowing a friend down in front of something small and silent; hushed, attentive, a little wonder at ordinary things.
+@pace: slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/still-life-with-ware/bdd71dfb-cde5-440e-87a2-48d8c64060dd (OFF, read 10 Oct 2026: ca. 1650; 46 × 84 cm; Room 010A; Zurbarán Fuente de Cantos 1598 – Madrid 1664; left to right: pewter plate with a refined goblet probably of gilded silver, Triana water jug of porous earthenware that cools water by evaporation, vase from the Indies probably New Spain, white Triana jug on a second pewter plate; wooden surface, table or shelf; light brings objects out of shadow; objects slightly off their axis to favour the light; contradicts rules of perspective; usual Spanish still lifes use flowers, food, skulls or clocks, here "the only reference to time is the light"; "sense of silence, which is almost palpable"; Cambó gave it to the Prado in 1940 and a near-identical version to the Museu d'Art de Catalunya)
+@lang: fr
+@translation: from the fact-checked English Prado 044 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Quatre pots sur une étagère. Ni fruits, ni fleurs, ni crâne, ni horloge. Et pourtant, c'est peut-être le tableau le plus silencieux du musée.
+
+Francisco de Zurbarán l'a peint vers 1650. Né en Estrémadure en 1598, un an avant Velázquez, il a comme lui fini ses jours à Madrid. Il offre à une rangée d'objets domestiques l'attention que la plupart des peintres réservaient aux gens.
+
+Lisez-les de gauche à droite, comme il les a alignés. D'abord, sur une assiette d'étain, une coupe ouvragée, sans doute en argent doré. Puis une cruche d'argile pâle de Triana, le quartier des potiers de Séville. [pause] Cette argile poreuse laissait suinter l'eau, qui se rafraîchissait en s'évaporant. Ensuite, un vase rouge, sans doute de Nouvelle-Espagne, l'actuel Mexique. Enfin, une cruche blanche de Triana, posée sur une seconde assiette d'étain.
+
+[curious] La plupart des natures mortes espagnoles d'alors rappellent le temps qui passe. Un crâne, une horloge, des fleurs prêtes à faner. [pause] Ici, la seule horloge, c'est la lumière. Elle tire chaque objet de l'ombre, un à un, et pose une ombre douce sur le rebord.
+
+De près, vous remarquerez une bizarrerie. Les récipients ne sont pas tout à fait droits, et la perspective cloche un peu. Zurbarán les a légèrement inclinés pour mieux accrocher la lumière. [pause] Il peignait ce qui plaît à l'œil, pas ce que mesure une règle.
+
+Il est entré au Prado en 1940, don du collectionneur catalan Francesc Cambó. Cambó a offert une version presque identique au musée d'art de Barcelone.
+
+[quietly] Restez encore un instant. Quatre objets ordinaires, regardés aussi attentivement que des visages.
+
+Juste à côté, la salle 10. Cherchez un jeune dieu pâle, torse nu, qui couronne un homme agenouillé, entouré d'hommes rieurs aux visages burinés. C'est Le Triomphe de Bacchus, de Velázquez.

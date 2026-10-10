@@ -1,0 +1,28 @@
+@id: 060 · FR · Room 28 · 10 Oct 2026 edition
+@section: Floor 1 · Murillo, Rubens & Goya
+@room: Room 28
+@type: W
+@title: Salle 28 · Rubens — L'Adoration des Mages
+@where: Dans la salle 28 de la Galerie centrale, reculez bien devant l'immense toile, de près de cinq mètres de large : une foule nocturne de rois, de serviteurs et de chevaux, qui se presse vers la Vierge et l'Enfant lumineux, à gauche.
+@what: Peter Paul Rubens, The Adoration of the Magi, 1609, enlarged and reworked by Rubens about twenty years later, oil on canvas, 349 × 488 cm.
+@listen: Meet Rubens, and the masterpiece he came back to twenty years later and could not leave alone.
+@brief: Introducing an exuberant painter to a friend in front of his biggest canvas here; curious at the start, delighted at the self-portrait, wry at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/adoration-of-the-magi/b6440da1-0c0c-4ead-84b7-f5a017e2fd17 (OFF, read 10 Oct 2026: 1609, executed in two stages, about twenty years apart; 349 × 488 cm; Room 028; Rubens Siegen 1577 – Antwerp 1640; commissioned by the city of Antwerp around 1608 for the Salon des États of the City Hall, where the truce between Spain and the United Provinces was to be signed; Child as symbol of the archdukes as keepers of peace; came to Spain from Rodrigo Calderón around 1613; after Calderón's fall passed to Philip IV, placed in the Alcázar; Rubens's 1628–1629 return to Spain, saw it in the Alcázar, enlarged it on the right and top; self-portrait "the man in the purple coat behind the horse"; night scene lit by the Child; diagonal from upper right; foreground bearers recall Michelangelo and Caravaggio; "the luxury of this procession") ; https://www.museodelprado.es/en/the-collection/art-work/the-feast-of-bacchus/4a23d5e2-9fd4-496b-806b-0f8ba913b3d8 (OFF: Velázquez met Rubens just before his first trip to Italy) ; Rubens intro adapted from old/035, unconfirmed claims dropped
+@lang: fr
+@translation: from the fact-checked English Prado 060 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Une vingtaine d'années après avoir achevé ce tableau, Rubens l'a retrouvé, accroché au palais royal de Madrid. Et il a repris ses pinceaux.
+
+Première de deux salles Rubens : un mot sur lui. Pierre Paul Rubens est né en Allemagne en 1577, et il a fait carrière à Anvers, la grande ville des Pays-Bas espagnols. Les rois d'Espagne le collectionnaient avec passion. [pause] Là où la peinture espagnole penche vers l'ombre et la retenue, Rubens apporte l'énergie, l'abondance et la lumière.
+
+Vers 1608, la ville d'Anvers a commandé cette toile pour son hôtel de ville, pour la salle où l'Espagne et les Hollandais devaient signer une trêve. Le Christ nouveau-né, recevant les présents des rois de la terre, symbolisait la paix. En quelques années, le tableau est passé à un puissant courtisan espagnol, Rodrigo Calderón. À sa disgrâce, il est revenu au roi Philippe quatre.
+
+[conspiratorial] Puis, en 1628, Rubens est venu en personne à Madrid. C'est lors de ce séjour qu'il a rencontré le jeune Velázquez. Il a revu son ancien tableau au palais, et n'a pas pu résister. Il l'a agrandi de toile neuve sur la droite et en haut, et l'a retravaillé avec la liberté de ses dernières années.
+
+Regardez la lumière. Il fait nuit, mais la clarté vient de l'Enfant lui-même, et tombe sur tous ceux qui l'entourent. Une longue diagonale descend d'en haut à droite, et aboutit à lui. [pause] Les porteurs musclés, au premier plan, rappellent Michel-Ange et le Caravage. Et cherchez le peintre lui-même : l'homme au manteau violet, derrière le cheval.
+
+[wry] Rois, serviteurs, chevaux, soie et or, tous pressés vers un bébé. Rubens ne faisait jamais les choses à moitié.
+
+Ensuite, la salle 29. Cherchez trois déesses nues qui s'enlacent, sous une guirlande de roses.

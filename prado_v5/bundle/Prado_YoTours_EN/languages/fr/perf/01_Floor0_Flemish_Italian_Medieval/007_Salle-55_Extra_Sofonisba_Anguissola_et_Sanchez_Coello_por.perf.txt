@@ -1,0 +1,24 @@
+@id: 007 · FR · Room 55 · Extra · 10 Oct 2026 edition
+@section: Floor 0 · Flemish, Italian & Medieval
+@room: Room 55
+@type: X
+@title: Salle 55 · Extra · Sofonisba Anguissola et Sánchez Coello — portraits de la cour de Philippe deux
+@where: Dans la salle 55, trouvez le portrait à mi-corps de Philippe deux en noir, la Toison d'or sur la poitrine, un rosaire à la main. Tout près, la grande toile carrée de deux fillettes en riches robes d'adultes, qui tiennent entre elles une couronne de fleurs.
+@what: Sofonisba Anguissola, Philip II, 1573, oil on canvas, 88 × 72 cm; Alonso Sánchez Coello, Infantas Isabel Clara Eugenia and Catalina Micaela, around 1575, oil on canvas, 149 × 135 cm; also Juan Pantoja de la Cruz after Sofonisba Anguissola, Queen Elisabeth of Valois, around 1605, oil on canvas.
+@listen: An Italian woman painter at the Spanish court, the changes she made to her king, and two princesses portrayed like small adults for the marriage market.
+@brief: A friend introducing an overlooked painter with quiet admiration; curious at the X-rays, warm on the two sisters, a small sigh at the lost portrait.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/philip-ii/7d7280d6-5603-488a-8521-933acc357d7a (OFF, read 10 Oct 2026: P001036, 1573, oil on canvas, 88 × 72, Room 055; pair to Anne of Austria; Sofonisba born Cremona 1535, renowned there, came to Spain in 1559 as lady-in-waiting to Elisabeth of Valois, no official post as painter, many royal portraits; X-ray: originally a voluminous short cape and right hand on chest towards the Golden Fleece, changed to lighter black silk cape and hand on the arm of the chair, a gesture of regal authority; elegant distant courtier, not a military leader; rosary in left hand, defender of the faith, Rosary feast for Lepanto) ; https://www.museodelprado.es/en/the-collection/art-work/infantas-isabel-clara-eugenia-and-catalina-micaela/739df39f-78e9-4261-af91-149b55547573 (OFF: ca. 1575, 149 × 135, Room 055; court painter portrayed the girls repeatedly from infancy; solemn, distant aspect of the king's daughters, shown as adults would be; portraits fundamental tools in succession and matrimonial politics; Catalina Duchess of Savoy, Isabel Governor of the Netherlands; both hold a floral wreath at the centre) ; https://www.museodelprado.es/en/the-collection/art-work/queen-elisabeth-of-valois/4bf43b3b-a3cf-44ef-aaf8-928b4ca51e0b (OFF: P001030, ca. 1605, Room 055; Pantoja after Sofonisba; her 1561 original in the El Pardo gallery lost in the 1604 fire; Sofonisba joined the queen's household as lady-in-waiting and painting instructor)
+@lang: fr
+@translation: from the fact-checked English Prado 007 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1559, une jeune noble italienne arrive à la cour d'Espagne. Non comme peintre, mais comme dame d'honneur. Elle s'appelle Sofonisba Anguissola, de Crémone. Elle sert la nouvelle reine, Élisabeth de Valois, et lui apprend à peindre.
+
+Elle n'a jamais eu de poste officiel de peintre. Pourtant, elle a portraituré la famille royale encore et encore. Son Philippe deux, de 1573, n'est pas un guerrier, mais un gentilhomme en noir, froid et distant. [pause] Les radiographies révèlent ses repentirs. D'abord, il portait une lourde cape courte, une main sur la poitrine. Elle a allégé la cape et posé la main sur l'accoudoir, un geste d'autorité. Dans l'autre main, un rosaire, signe du défenseur de la foi.
+
+[warmly] Tout près, le peintre de cour Alonso Sánchez Coello montre les filles du roi, Isabel Clara Eugenia et Catalina Micaela. Ce sont des fillettes, graves comme des adultes, qui se partagent une couronne de fleurs. Ces portraits servaient à suivre les héritiers royaux, pour les mariages et la succession. Catalina devint duchesse de Savoie. Isabel gouverna plus tard les Pays-Bas.
+
+[quietly] Quant au portrait de la reine par Sofonisba, il a péri dans l'incendie d'un palais en 1604. Celui de cette salle est une copie, faite peu après par Juan Pantoja de la Cruz.
+
+Continuez ensuite vers la salle 55 B, pour l'autoportrait de Dürer. Cherchez 55 B à l'entrée de la salle.

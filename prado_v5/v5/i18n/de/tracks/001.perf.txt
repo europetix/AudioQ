@@ -1,0 +1,28 @@
+@id: 001 · DE · Jerónimos entrance hall · 10 Oct 2026 edition
+@section: Opening
+@room: Jerónimos entrance hall
+@type: ANCHOR
+@title: Willkommen im Prado
+@where: In der Eingangshalle am Jerónimos-Eingang, der modernen Halle, durch die Sie hereingekommen sind, nahe den Schildern mit der Aufschrift Collection.
+@what: Opening: the royal collection behind the Prado, the Villanueva building and the 1819 opening, how room numbers work, and the shape of today's route.
+@listen: Why the Prado looks the way it does, and how to find every stop by the number at each doorway.
+@brief: A friendly guide meeting a visitor at the door; warm, unhurried, a smile at the end, practical and clear about the route.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/history-and-architecture (OFF: building designed by Juan de Villanueva in 1785 to house the Natural History Cabinet by order of Charles III; its use as a royal museum of painting and sculpture chosen by Ferdinand VII; opened to the public in November 1819; Moneo extension beside the Church of the Jerónimos) ; Bosch pages for Philip II's collecting (Table of the Seven Deadly Sins: kept in his private apartment, valued it; Garden: bought 1591, sent to El Escorial 1593) (OFF) ; route shape and room numbers: v5/PLAN.md and research/map/floor0-2.png (official 2026 plan)
+@lang: de
+@translation: from the fact-checked English Prado 001 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieses Museum begann an den Wänden einer einzigen Familie. Über Jahrhunderte kauften die Könige und Königinnen Spaniens die Gemälde, die sie liebten. Sie hängten sie in ihre Paläste und Klöster. Kein Kurator redete ihnen hinein. Sie wussten einfach, was ihnen gefiel.
+
+Das alte Gebäude nebenan entwarf Juan de Villanueva 1785, im Auftrag Karls des Dritten. Es war für ein Naturalienkabinett gedacht. Stattdessen füllte es sein Enkel, Ferdinand der Siebte, mit den königlichen Gemälden. [pause] Im November 1819 öffnete der Prado für das Publikum. Sie stehen in seinem neuesten Teil, dem Erweiterungsbau neben der alten Kirche der Jerónimos.
+
+[wry] Dieser königliche Geschmack erklärt fast alles, was Sie gleich sehen werden. Deshalb gibt es so viel Velázquez, Tizian, Rubens und Goya. Deshalb landeten Boschs seltsamste Träume in Spanien, denn Philipp der Zweite sammelte sie mit Leidenschaft. Und er erklärt die Lücken. Dies ist keine ordentliche Kunstgeschichte. Es ist eine königliche Sammlung, herrlich unausgewogen.
+
+Nun zur Orientierung. [pause] Jeder Saal hat eine Nummer, und sie ist am Eingang angeschrieben. Jede Station nennt Ihnen die Nummer, auf die Sie achten sollen. Im Zweifel suchen Sie die Nummer. Manche Titel sind als Extra gekennzeichnet. Sie sind kurz und freiwillig. Hören Sie sie, wenn Sie Zeit haben, oder gehen Sie weiter.
+
+Der Rundgang hat eine einfache Form. Wir beginnen hier auf Ebene 0 mit den flämischen und italienischen Meistern: Bosch, Bruegel, Dürer und Raffael. Dann geht es hinauf auf Ebene 2, zu Rembrandt und zum Dauphin-Schatz, einem funkelnden Hort juwelenbesetzter Pokale. [pause] Danach kommen wir hinunter auf Ebene 1, ins Herz des Museums, zu Tizian, El Greco, Velázquez, Murillo, Rubens und Goya. Am anderen Ende des Gebäudes folgen wir Goyas Geschichte, hinauf zu seinen leuchtenden Teppichkartons und hinunter zu seinen dunkelsten Bildern. Und wir enden wieder hier, wo wir begonnen haben.
+
+[lightly] Lassen Sie sich Zeit, und setzen Sie sich, wann immer Sie möchten.
+
+Zum Auftakt folgen Sie von dieser Halle aus den Schildern mit der Aufschrift Collection bis zu Saal 55 A, dem ersten Saal der flämischen Malerei auf dieser Ebene. Achten Sie am Eingang auf die Nummer 55 A.

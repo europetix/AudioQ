@@ -1,0 +1,30 @@
+@id: 012 · ES · Room 56B · 10 Oct 2026 edition
+@section: Floor 0 · Flemish, Italian & Medieval
+@room: Room 56B
+@type: W
+@title: Sala 56 B · Botticelli — Escenas de La historia de Nastagio degli Onesti
+@where: Quédese en la sala 56 B y busque las tres tablas anchas colgadas en fila, cada una de bastante más de un metro: un pinar junto al mar, una mujer desnuda perseguida por un jinete y unos perros, y un banquete entre los árboles.
+@what: Sandro Botticelli and workshop, Scenes from the Story of Nastagio degli Onesti, panels one, two and three, 1483, mixed method on panel, each about 83 × 140 cm. The fourth panel is in a private collection.
+@listen: A gruesome ghost story from Boccaccio, painted as a wedding present, and the message it carried for the bride.
+@brief: Telling a friend a dark story with a twist; curious at first, matter-of-fact through the horror, wry at the wedding gift.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/scenes-from-the-story-of-nastagio-degli-onesti/6620fb36-c65d-497b-8283-92cef5bc08de (OFF: 1483, 82.3 × 139 cm, Room 056B; commissioned 1483 by Antonio Pucci for the marriage of his son Giannozzo to Lucrezia Bini; Decameron, fifth day, eighth story; Nastagio of Ravenna rejected by the daughter of Paolo Traversari; first panel: pine forest, woman attacked by mastiffs and pursued by the horseman Guido degli Anastagi, damned every Friday; four panels, three in the Prado, the fourth in a private collection; Bartolomeo di Giovanni and Jacopo del Sellaio assisted; Cambó bequest 1941) ; https://www.museodelprado.es/en/the-collection/art-work/scenes-from-the-story-of-nastagio-degli-onesti/729a99fb-ef2b-41b3-8d81-e3fe3d313240 (OFF: 82.5 × 138.5 cm, Room 056B; knight tears out her heart and throws it to the hounds; both relive the scene perpetually; Lorenzo de' Medici helped arrange the match) ; https://www.museodelprado.es/coleccion/obra-de-arte/escenas-de-la-historia-de-nastagio-degli-onesti/8fe1ac8b-2a99-447f-99f7-e4e90a421991 (OFF: 83.5 × 142.5 cm, Room 056B; banquet in the pine wood at Classe; apparition at dessert horrifies the guests; beloved decides to marry him; maidservant's offer refused, he wants to marry her honourably; Medici, Pucci and Pucci-Bini arms; last panel, wedding feast, private collection)
+@lang: es
+@translation: from the fact-checked English Prado 012 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Estos cuadros fueron un regalo de boda. Una mujer desnuda, cazada en un bosque por un caballero y sus perros. Cada viernes. Durante años.
+
+La historia viene del Decamerón de Boccaccio. Nastagio, un joven de Rávena, ama a una hija de la noble familia Traversari. Ella no quiere saber nada de él. Desolado, deja la ciudad. [pause] En 1483, Sandro Botticelli y su taller contaron la historia en cuatro tablas. Tres están aquí, y la cuarta, en una colección privada.
+
+[pause] Empiece por la tabla de la izquierda. En un pinar junto al mar, Nastagio ve correr a una mujer, atacada por mastines y perseguida por un jinete. El jinete se explica. La amó, ella lo despreció, y él murió por ello. Al morir ella, fue condenada a esto. Cada viernes él la caza, durante tantos años como meses lo desdeñó.
+
+En la segunda tabla, el caballero le arranca el corazón y se lo echa a los perros. Mire al fondo. La persecución vuelve a empezar.
+
+[wry] Ahora la tercera. Nastagio tiene un plan. Invita a los Traversari a un banquete en ese mismo pinar. Justo al servir el postre aparece la cacería fantasma, como él había previsto. Los invitados se horrorizan. [pause] Y la joven decide, pensándolo mejor, que prefiere casarse con Nastagio antes que acabar así. A la derecha, su criada le trae una oferta menos decorosa. Él la rechaza. Quiere un matrimonio honorable.
+
+Las encargó Antonio Pucci para la boda de su hijo con Lucrezia Bini. Lorenzo de Médici ayudó a concertar el enlace, y en la tercera tabla el escudo de los Médici cuelga junto a los de las dos familias. La cuarta tabla, la que se escapó, muestra el banquete de bodas.
+
+[lightly] Un regalo precioso. Con un mensaje muy claro para la novia.
+
+Cruce la puerta hacia la larga sala 49, para ver a Rafael. Busque 49 en la puerta, y un cardenal de rojo sobre fondo negro.

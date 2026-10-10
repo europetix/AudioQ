@@ -1,0 +1,26 @@
+@id: 055 · ES · Room 15 · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 15
+@type: W
+@title: Sala 15 · Velázquez — Los bufones
+@where: En la sala 15, busque el retrato alto de un hombre de negro, solo en un espacio gris vacío, y los lienzos más pequeños de bufones de la corte sentados en el suelo, todos mirándole a usted.
+@what: Diego Velázquez: The Buffoon El Primo, formerly called Sebastián de Morra, 1644; The Boy from Vallecas, Francisco Lezcano, 1635–1645; The Buffoon Calabacillas, 1635–1639; Pablo de Valladolid, around 1635. All oil on canvas.
+@listen: The people kept to amuse a king, and the painter who looked at them as people.
+@brief: Introducing a friend to people the court overlooked; warm and serious, a flash of curiosity at Pablo's empty space, respectful throughout.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-buffoon-el-primo/cc7a8493-e2ff-4d33-a0d0-91d7dc210d5a (OFF, read 10 Oct 2026: The Buffoon El Primo, 1644; Room 015; traditionally Sebastián de Morra, recently identified as El Primo; accompanied Philip IV to Aragon in 1644 where Velázquez painted him; direct gaze, "most directly connects with the viewer"; seated, legs stretched out, fists resting on his thighs ("junto á las íngles"), red coat) ; https://www.museodelprado.es/en/the-collection/art-work/the-boy-from-vallecas-francisco-lezcano/5a304c42-2eee-49da-b34e-3468b8cb7fb0 (OFF: 1635–1645; Room 015; from the Basque Country; served Prince Baltasar Carlos; pack of cards, "as if to invite us to participate in the game"; western Sierra de Guadarrama; hat beneath his foot shows his size) ; https://www.museodelprado.es/en/the-collection/art-work/the-buffoon-calabacillas/f5b4b198-ea59-480e-b30b-8e599cda31db (OFF: 1635–1639; Room 015; Juan Calabazas, at court 1632 until his death in 1639; gourd identifies him; crouching; face "seemingly out of focus"; "Velázquez's most radical portrait"; hombres de placer) ; https://www.museodelprado.es/en/the-collection/art-work/pablo-de-valladolid/774285f3-fb64-4b00-96a9-df799ab10222 (OFF: ca. 1635; Room 015; jester at court until his death in 1648; declamatory pose; space suggested only by his shadow; Manet: "possibly the most astonishing bit of painting ever made", based his Fifer on it) ; Menippus and Aesop removed: their official pages now read Room 012 (audit 10 Oct 2026)
+@lang: es
+@translation: from the fact-checked English Prado 055 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1644 el rey partió a la guerra en Aragón. Con él iba un bufón de la corte conocido como el Primo. Velázquez también fue, y allí pintó su retrato.
+
+La corte llamaba a estas personas hombres de placer. Bufones, enanos, personas distintas en cuerpo o mente, mantenidas para divertir a la familia real. Velázquez los pintó una y otra vez. [pause] Y les dio algo que la corte rara vez les daba. Los miró como personas.
+
+El Primo está sentado en el suelo, con casaca roja, las piernas estiradas y los puños sobre los muslos. Durante mucho tiempo este cuadro se llamó Sebastián de Morra. Solo hace poco se ha identificado al retratado como el Primo. [pause] Lo que no ha cambiado es su mirada. Pocos retratos de Velázquez conectan tan directamente con quien está delante.
+
+Francisco Lezcano, el Niño de Vallecas, venía del País Vasco y servía al pequeño príncipe Baltasar Carlos. Está sentado bajo un peñasco del Guadarrama, con lo que parece una baraja, como si le invitara a jugar. El sombrero bajo su pie muestra lo pequeño que era. Juan Calabazas, llamado Calabacillas, se agacha junto a la calabaza que le dio nombre, con la cara casi desenfocada. Quizá sea el retrato más radical de Velázquez.
+
+[curious] Luego, Pablo de Valladolid, todo de negro, en mitad de un discurso. No hay suelo ni pared, solo una leve sombra. Y aun así está de pie en un espacio real. [pause] Más de dos siglos después, Manet dijo que quizá era el trozo de pintura más asombroso jamás hecho. Y en él basó su famoso Pífano.
+
+Al lado está la sala 15 A. Busque un taller en penumbra con mujeres hilando lana, y detrás una sala luminosa con un tapiz. Son Las hilanderas.

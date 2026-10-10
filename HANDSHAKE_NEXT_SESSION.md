@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 5 Oct, second session: Orsay ES/FR/DE done)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt, 81 tracks, 4 languages)
 
 Paste this into the new session to start:
 
@@ -57,6 +57,7 @@ which ffmpeg pdftotext                    # needed for the checks below
 bash tour43_pitti_v5/build/build_all.sh
 bash orangerie_v5/build/build_all.sh
 bash orsay_v5/build/build_all.sh
+bash prado_v5/build/build_all.sh          # needs playwright + Chromium (preinstalled) for the route map
 
 # validate all tracks (each line: track, word count)
 for g in tour43_pitti_v5 orangerie_v5 orsay_v5; do python3 -c "
@@ -105,7 +106,7 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
     `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>` and `Claude-Session: <the session URL>`.
   - No model names anywhere else in commits.
 - **Writing standard:**
-  - Lengths: R 180–280 words; W, ANCHOR and CLOSE 250–360.
+  - Lengths: R 180–280 words; W, ANCHOR and CLOSE 250–360; Extra (X, Prado) 150–230.
   - No `;` or `(` in speech, and at most 2 em-dashes.
   - No opening hours, prices or tickets. Never say "next track".
   - "The museum says" at most once per track.
@@ -116,6 +117,12 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
   (https://code.claude.com/docs/en/cloud-environments#network-access).
 
 ## 4. Decisions the user has made (don't re-ask)
+
+- **Prado (10 Oct):** ~2.5 h main route (59 stops) + 22 short optional Extras in the rooms the route walks through, numbered
+  001–081 in walking order; route follows the museum's 2026 floor plan; route map = 7-page phone PDF (overview + one page per
+  part, Extras as hollow circles). The user approved the map design after a redesign ("map looks good").
+- **Never complete CAPTCHAs / "verify you are human"** — the user clicks them. Never burst requests to a museum site (the Prado
+  firewall blocked the user's browser once); one page at a time.
 
 - **Voices:**
   - English: **Ava** (`en-US-AvaMultilingualNeural`), launcher option 1 and the default.
@@ -147,6 +154,9 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 | Orangerie V5 | 55 tracks, ~128 min | done + independent review per language | pictorial, exit by the entrance | stand-in only; the user was rendering all 4 languages at session end | level −2 room order and exit door on site; native-speaker check |
 | Orsay V5 | 75 tracks, 20,312 words, ~2 h 42 | done 5 Oct (session 2) + independent review per language; FR quotes are verified originals or reported speech | A3 schematic floor plans (2026 rooms) | stand-in: 75 files in each of EN/ES/FR/DE | on-site checklist; 3 quotes kept as reported speech until checked against the live museum pages; native-speaker check; 048 @what title; Oviri on display? |
 
+| Prado V5 | 81 tracks (59 main + 22 Extras), 23,729 words | done + independent review per language | 7-page phone PDF on the 2026 floor plan | stand-in: samples EN + ES | on-site checklist (stairs/lifts, a few doorways); Goya 32–38 rehang; Correggio back after 10 Jan 2027 |
+
+Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
 Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
 - **Official plan:** `orsay_v5/source/Planguide_Orsay_ete_2026.pdf`, read out in `orsay_v5/findings/M_planguide_ete_2026.md`.
 - **Numbering:** history in `orsay_v5/v5/notes/RENUMBER_75.md`. `v5/PLAN.md` still has the OLD numbering, so use the tracks or
@@ -177,7 +187,11 @@ Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
    STATE 4. Next: real-voice render by the user, on-site check (ONSITE_CHECKLIST), confirm the Iliad reopens after 25 Oct.
    Tip for research: uffizi.it is blocked from the cloud shell but readable through Claude in Chrome; artwork pages carry a
    "Location" field.
-5. **After on-site tests:** apply the checklist results to `@room`, `@where` and the closing cues → rebuild → resend.
+5. **Prado: REBUILT 10 Oct** after complaints (wrong rooms, zig-zag, "Museo Reina Sofía" headers). Every room read on the
+   work's own museodelprado.es page (WebFetch works for artwork pages; search pages and the PDF CDN are Cloudflare-blocked);
+   route on the official 2026 plan (`prado_v5/research/map/`); 22 Extras; ES/FR/DE reviewed. See `prado_v5/PRADO_V5_HANDSHAKE.md`.
+   Next: the user's real-voice samples (049 + 071), full renders, on-site check (`v5/ONSITE_CHECKLIST.txt`).
+6. **After on-site tests:** apply the checklist results to `@room`, `@where` and the closing cues → rebuild → resend.
 
 ## 7. Commands the user runs on the Mac (for reference when helping them)
 

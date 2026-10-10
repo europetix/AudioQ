@@ -1,0 +1,26 @@
+@id: 048 · FR · Room 12 · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 12
+@type: R
+@title: Salle 12 · Velázquez — La salle 12 et les cavaliers
+@where: Dans la grande salle ovale 12, avancez au centre et tournez lentement sur vous-même. Les immenses toiles de cavaliers représentent la famille royale. Tout près, le portrait du roi en chasseur, et un petit buste tardif du souverain.
+@what: Diego Velázquez and workshop, the Hall of Realms riders, around 1635, oil on canvas: Philip IV on Horseback; Elisabeth of France, Queen of Spain, on Horseback; Philip III on Horseback; Queen Margaret of Austria on Horseback; Prince Baltasar Carlos on Horseback, 1634–1635. Also: Gaspar de Guzmán, Count-Duke of Olivares, on Horseback, around 1636; Philip IV in Hunting Dress, 1632–1634; Philip IV, around 1653.
+@listen: A whole royal family on horseback, the favourite who outdid them all, and the king out of uniform.
+@brief: Showing a friend round a room full of royal faces, picking out who is who; brisk, warm on the little prince, wry on Olivares.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museodelprado.es/en/the-collection/art-work/philip-iv-on-horseback/6fc1d82d-d984-41b3-b227-af833cfd1240 (OFF: ca. 1635; Room 012; rearing horse, baton, armour, sash; only Hall of Realms rider with a declaration of authorship, a blank sheet of paper lower left; landscape of the Madrid foothills toward the Guadarrama; "tranquility of power") ; https://www.museodelprado.es/en/the-collection/art-work/prince-baltasar-carlos-on-horseback/5d224aa8-4d2c-47e0-b3b2-3ea37229cdcb (OFF: 1634–1635; Room 012; hung above a door in the Salón de Reinos, hence the viewpoint and foreshortened horse; born 1629; La Maliciosa with late snow; 1634 commission of five riders, he painted the prince and Philip IV himself, assistants for three) ; https://www.museodelprado.es/en/the-collection/art-work/elisabeth-of-france-queen-of-spain-on-horseback/81b760eb-f45d-4f9a-a6b7-cd7a8bf10df8 (OFF: ca. 1635; Room 012; to the right of Philip IV; white horse; she looks at the viewer; at least two hands, Velázquez painted the horse's head and chest) ; https://www.museodelprado.es/en/the-collection/art-work/felipe-iii-a-caballo/7360de8e-27d2-4cb7-aa8e-f99453fa81ea (OFF: ca. 1635; Room 012; parents of Philip IV on the hall's smaller walls; uneven touch, livelier horse) ; https://www.museodelprado.es/en/the-collection/art-work/queen-margaret-of-austria-on-horseback/d57469e8-78e3-4633-9620-88df0085cd4b (OFF: ca. 1635; Room 012; jewel with a diamond and La Peregrina pearl; horse unmistakably Velázquez, rider by another hand) ; https://www.museodelprado.es/en/the-collection/art-work/gaspar-de-guzman-countduke-of-olivares-on/ca958021-65b0-421a-aaf0-55994df10575 (OFF: ca. 1636; Room 012; painted for the Count-Duke himself; looks directly at the viewer; the king's favourite) ; https://www.museodelprado.es/en/the-collection/art-work/philip-iv-in-hunting-dress/d3c82cc2-341c-4bc6-8e64-f1136967ff4f (OFF: 1632–1634; Room 012; adapted for the Torre de la Parada; head first uncovered, cap added; changes "clearly visible to the unaided eye") ; https://www.museodelprado.es/en/the-collection/art-work/philip-iv/34601a9f-e7b0-4d0a-893c-8b9dee52ab63 (OFF: ca. 1653; Room 012; blacks and greys; the king's "declared reluctance to seeing himself growing old"; "one of the artist's greatest portraits")
+@lang: fr
+@translation: from the fact-checked English Prado 048 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un salon du palais a jadis réuni cinq de ces cavaliers. Vers 1635, le nouveau salon des Royaumes a accueilli la famille du roi à cheval. Velázquez dirigeait l'ensemble.
+
+Il a peint lui-même le roi et le petit prince. Philippe quatre, serein, de profil, monte un cheval cabré, devant les collines proches de Madrid. Dans le coin, une feuille blanche, comme dans Breda. [pause] La reine, Élisabeth de France, sur un cheval blanc, vous regarde en face. Voici aussi les parents du roi, Philippe trois et Marguerite d'Autriche. Marguerite porte sur la poitrine une perle célèbre, La Peregrina. Dans ces trois portraits, la main de Velázquez se voit surtout dans les chevaux.
+
+[warmly] Le prince Baltasar Carlos, environ six ans, fonce vers vous sur un poney au ventre rond. Le tableau surmontait une porte : le poney est donc raccourci pour un regard levé. [pause] Derrière lui, une neige tardive couvre encore les cimes du Guadarrama.
+
+Le comte-duc d'Olivares, le tout-puissant favori du roi, n'était pas dans ce salon. Il a commandé son portrait, pour lui-même. [wry] Il se tord sur sa selle et vous toise. Le roi, lui, n'en a jamais eu besoin.
+
+Puis le roi au repos, en tenue de chasse, avec chien et fusil. Regardez son bonnet : ajouté plus tard, il laisse encore voir les retouches. [pause] Enfin, un petit buste de Philippe à l'âge mûr, en noir et gris. Il n'aimait pas se voir vieillir. Pourtant, Velázquez en a fait l'un de ses plus grands portraits.
+
+Restez dans la salle 12. La plus grande foule se presse autour des Ménines.

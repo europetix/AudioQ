@@ -1,0 +1,24 @@
+@id: 009 · DE · Room 55B · Extra · 10 Oct 2026 edition
+@section: Floor 0 · Flemish, Italian & Medieval
+@room: Room 55B
+@type: X
+@title: Saal 55 B · Extra · Hans Baldung Grien — Die Lebensalter der Frau und der Tod
+@where: Bleiben Sie in Saal 55 B. Suchen Sie die hohe, schmale Tafel, etwa anderthalb Meter hoch: Der Tod mit einer Sanduhr packt eine alte Frau, die eine junge Frau mit sich zieht, am unteren Rand eine kleine Eule. Ihr Gegenstück, die Harmonie, ein mondbeschienener Wald mit Frauen, einem Buch und einer Laute, hängt im selben Saal.
+@what: Hans Baldung Grien, The Ages of Woman and Death, 1541–1544, oil on panel, 151 × 61 cm; and its pendant, Harmony (The Three Graces?), 1541–1544, oil on panel.
+@listen: A painting once filed as a Dürer, where Death drags every age of life away, and its gentler partner with a serpent in the tree.
+@brief: A friend sharing a dark, fascinating picture; quiet and a little eerie, then lighter on the companion panel, with a sting at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-ages-of-woman-and-death/d5ef2c3e-48d1-40a8-8bb7-745314a1197c (OFF, read 10 Oct 2026: P002220, 1541–1544, oil on panel, 151 × 61, Room 055B; Death has taken hold of an older woman who tries to pull along a young woman who resists; Death holds hourglass and broken lance, dead child rests its hand on the lower tip of the lance; dead tree, desolate landscape with the tower of Hell and devils tormenting people; only hope a small crucified Christ looking up to the sun, celestial Glory, between clouds; owl at the bottom looks out at the viewer, warns of the consequences of sin; pair to Harmony; 1834 and 1857 inventories attributed it to Dürer; Museo Real, Sala Reservada, 1834) ; https://www.museodelprado.es/en/the-collection/art-work/harmony-the-three-graces/e909e7a1-1591-4bc1-a357-119c9b9d8eaa (OFF: 1541–1544, Room 055B; women in a moonlit forest, one reading a book by a laurel tree, a lute, putti with a score and a swan; allegory of the innocence of the Golden Age, immortality sought through music and poetry; serpent coiled around the laurel, the threat of sin; pendant of The Ages of Woman and Death; earlier attributed to Dürer)
+@lang: de
+@translation: from the fact-checked English Prado 009 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Im neunzehnten Jahrhundert führte das königliche Museum diese Tafel als Dürer und verwahrte sie in einem gesonderten Saal. Ihr wirklicher Maler war ein anderer Deutscher, Hans Baldung Grien.
+
+Der Tod hat eine alte Frau gepackt. Sie wiederum versucht, eine junge Frau mitzuziehen, und die junge Frau wehrt sich. Der Tod hält eine Sanduhr und eine zerbrochene Lanze. [pause] Zu ihren Füßen legt ein totes Kind die Hand auf die Lanzenspitze. Kein Lebensalter entkommt.
+
+[pause] Dahinter, jenseits eines toten Baumes, liegt eine öde Landschaft. Dort sieht man den Turm der Hölle und Teufel, die Menschen quälen. Die einzige Hoffnung ist winzig. Suchen Sie den kleinen gekreuzigten Christus. Er blickt hinauf zur Sonne, die durch die Wolken bricht, zum Licht des Himmels. Und ganz unten starrt eine Eule direkt zu Ihnen heraus. Sie warnt, wohin die Sünde führt.
+
+[lightly] Suchen Sie nun ihr Gegenstück in diesem Saal, die Harmonie. Frauen sitzen in einem mondbeschienenen Wald, mit einem Buch, einer Laute und kleinen Musikanten. Einer von ihnen hält einen Schwan. Es ist die Unschuld eines Goldenen Zeitalters, als man hoffte, durch Musik und Dichtung ewig zu leben. [pause] Doch schauen Sie auf den Lorbeerbaum. Eine Schlange hat sich um ihn gewunden.
+
+Nebenan liegt Saal 56 B, die frühe italienische Renaissance. Achten Sie am Eingang auf die Nummer 56 B und auf eine große, goldene Verkündigung.

@@ -1,0 +1,26 @@
+@id: 072 · FR · Room 66 · Extra · 10 Oct 2026 edition
+@section: Goya's Story · Floors 2 and 0
+@room: Room 66
+@type: X
+@title: Salle 66 · Extra · Goya — La Laitière de Bordeaux
+@where: Dans la salle 66, au niveau 0, entre la salle 67 et la salle 65. Trouvez la petite toile presque carrée, de moins d'un mètre de haut, d'une jeune femme aux couleurs claires, vue légèrement d'en bas, une cruche à lait derrière elle, à gauche.
+@what: Francisco de Goya y Lucientes, The Milkmaid of Bordeaux, around 1827, oil on canvas, 74 × 68 cm.
+@listen: After the Black Paintings, a light, simple picture from Goya's last years in France, and the woman who owned it first.
+@brief: Stepping out of the dark with a friend; warm and gentle, curious at the viewpoint, quiet at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-milkmaid-of-bordeaux/b531f836-85c4-4cf3-b76a-70f3106d9e41 (OFF, read 10 Oct 2026: ca. 1827; 74 × 68; Room 066; signed "Goya" lower left; light colours and straightforward subject contrast with Goya's last works in Madrid and Bordeaux, darker palettes for tragic scenes as in the Black Paintings; "bottom-to-top perspective seems intended to give the sensation that she is riding a mule"; milk jug behind her to the left; provenance Leocadia Zorrilla, Bordeaux; Juan Bautista de Muguiro e Iribarren, Bordeaux, 1830; Counts of Muguiro; Prado 1945) ; https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6 (OFF, via core 071, Room 67: Saturn hung across from Leocadia Zorrilla in the Quinta del Sordo) ; https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812 (OFF, via core 062, Room 32: born 1746)
+@lang: fr
+@translation: from the fact-checked English Prado 072 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Après les Peintures noires, voici bien la dernière chose qu'on attendrait de la même main. Une jeune femme, en couleurs claires et douces.
+
+Goya a peint La Laitière de Bordeaux vers 1827, en France, à la fin de sa longue vie. Il avait environ quatre-vingts ans. Le musée souligne combien ses couleurs claires et son sujet simple tranchent sur ses autres œuvres tardives. Là, une palette plus sombre servait des scènes tragiques, comme les Peintures noires, juste à côté.
+
+[curious] Regardez l'angle. Vous la voyez légèrement d'en bas. Selon le musée, cela suggère qu'elle est montée sur une mule, même si l'animal reste invisible. [pause] Et juste derrière elle, à gauche, sa cruche à lait.
+
+Le tableau a d'abord appartenu à Leocadia Zorrilla, à Bordeaux. Vous venez de croiser son nom dans la salle 67, face à Saturne. Quelques années plus tard, la Laitière est passée à la famille Muguiro. En 1945, elle est entrée au Prado.
+
+[quietly] Les ténèbres sur les murs, puis cette lumière. Un vieil homme qui tente encore du nouveau.
+
+Continuez par la salle 65 jusqu'à la salle 64. Cherchez deux immenses toiles de même taille : un combat de rue, et un peloton d'exécution de nuit.

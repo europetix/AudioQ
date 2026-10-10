@@ -1,0 +1,28 @@
+@id: 073 · ES · Room 64 · 10 Oct 2026 edition
+@section: Goya's Story · Floors 2 and 0
+@room: Room 64
+@type: W
+@title: Sala 64 · Goya — El 2 de mayo de 1808
+@where: En la sala 64 de la planta 0. De los dos lienzos enormes del mismo tamaño, busque el que está lleno de caballos encabritados y jinetes con turbante, derribados por madrileños: una pelea callejera a plena luz.
+@what: Francisco de Goya y Lucientes, The 2nd of May 1808 in Madrid or "The Fight against the Mamelukes", 1814, oil on canvas, 347.5 × 268.5 cm.
+@listen: How a painter who had sworn loyalty to Napoleon's brother came to paint the day Madrid rose against the French, and how the canvas survived a truck crash.
+@brief: Telling a friend a story with a twist about loyalty and survival; brisk and vivid, then sober.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-2nd-of-may-1808-in-madrid-or-the-fight/57dacf2e-5d10-4ded-85aa-9ff6f741f6b1 (OFF: Room 064; 1814; 347.5 × 268.5; Regency Council commissioned it in February, Álvarez Guerra proposed Goya, conditions accepted 24 May; frame invoices as "King's Bedchamber"; bibliography wrongly thought they were for display in the streets; Mamelukes of the Imperial Guard, an Empress's Dragoon, a dead grenadier; Spaniards in the dress of different regions; diptych with The 3rd of May; 1938 truck accident at Benicarló with The 3rd of May; 1941 restoration affected the left side; 2007–2008 restoration recovered brightness) ; https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812 (OFF: stayed in Madrid during the war, swore an oath to José Napoleon, 1814 commissions for the two canvases)
+@lang: es
+@translation: from the fact-checked English Prado 073 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Durante la guerra, Goya se quedó en Madrid y juró lealtad a José Bonaparte, el rey que Napoleón había dado a España. [pause] Seis años después, ya sin los franceses, pintaba el día en que Madrid se alzó contra ellos.
+
+El 2 de mayo de 1808, el pueblo de Madrid luchó contra las tropas francesas en las calles. En 1814, el Consejo de Regencia, que gobernaba España en ausencia del rey, encargó a Goya dos grandes lienzos, este y su pareja, en esta misma sala. Mucho tiempo se creyó que eran para exhibirse en la calle. El museo dice que no es así. Las facturas de los marcos se cargaron a la casa del propio rey. Eran cuadros para palacio.
+
+Deje que Goya le meta en la refriega. Los jinetes con turbante son mamelucos, caballería de la Guardia Imperial de Napoleón. Un jinete es arrancado de la silla. Entre los franceses verá también un dragón y un granadero muerto.
+
+[pause] Y mire a los españoles. Visten trajes de distintas regiones, como si todo el país luchara en una calle de Madrid. No hay general ni héroe en caballo blanco. Solo gente con navajas contra la caballería.
+
+[quietly] El lienzo casi no sobrevive. En 1938, el camión que los llevaba a los dos sufrió un accidente en Benicarló, en la costa mediterránea. El lado izquierdo perdió trozos de pintura, y la primera reparación los rellenó simplemente con tinta roja. [pause] Una cuidadosa restauración reciente devolvió el brillo original de Goya. Las pérdidas se rellenaron de forma invisible, con ayuda de fotos antiguas.
+
+Retroceda y abarque el conjunto. Una maraña furiosa de cuerpos, pintada para el palacio de un rey y hoy a la vista de cualquiera.
+
+Quédese en la sala 64 para su pareja, El 3 de mayo: el fusilamiento de noche.

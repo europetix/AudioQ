@@ -1,0 +1,28 @@
+@id: 073 · FR · Room 64 · 10 Oct 2026 edition
+@section: Goya's Story · Floors 2 and 0
+@room: Room 64
+@type: W
+@title: Salle 64 · Goya — Le Deux Mai 1808
+@where: Dans la salle 64, au niveau 0. Des deux immenses toiles de même taille, trouvez celle pleine de chevaux cabrés et de cavaliers en turban, que des Madrilènes jettent à bas : un combat de rue en plein jour.
+@what: Francisco de Goya y Lucientes, The 2nd of May 1808 in Madrid or "The Fight against the Mamelukes", 1814, oil on canvas, 347.5 × 268.5 cm.
+@listen: How a painter who had sworn loyalty to Napoleon's brother came to paint the day Madrid rose against the French, and how the canvas survived a truck crash.
+@brief: Telling a friend a story with a twist about loyalty and survival; brisk and vivid, then sober.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-2nd-of-may-1808-in-madrid-or-the-fight/57dacf2e-5d10-4ded-85aa-9ff6f741f6b1 (OFF: Room 064; 1814; 347.5 × 268.5; Regency Council commissioned it in February, Álvarez Guerra proposed Goya, conditions accepted 24 May; frame invoices as "King's Bedchamber"; bibliography wrongly thought they were for display in the streets; Mamelukes of the Imperial Guard, an Empress's Dragoon, a dead grenadier; Spaniards in the dress of different regions; diptych with The 3rd of May; 1938 truck accident at Benicarló with The 3rd of May; 1941 restoration affected the left side; 2007–2008 restoration recovered brightness) ; https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812 (OFF: stayed in Madrid during the war, swore an oath to José Napoleon, 1814 commissions for the two canvases)
+@lang: fr
+@translation: from the fact-checked English Prado 073 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pendant la guerre, Goya est resté à Madrid et a juré fidélité à Joseph Bonaparte, le roi que Napoléon avait donné à l'Espagne. Six ans plus tard, les Français partis, il peignait le jour où Madrid s'était soulevée contre eux.
+
+Le 2 mai 1808, les Madrilènes ont combattu les troupes françaises dans les rues. En 1814, le Conseil de régence, qui gouvernait l'Espagne en l'absence du roi, a commandé à Goya deux grandes toiles : celle-ci, et son pendant, ici même. [pause] On les a longtemps crues destinées à être exposées dans la rue. Faux, dit le musée. Les factures des cadres ont été imputées à la maison du roi. C'étaient des tableaux pour le palais.
+
+Laissez Goya vous jeter au cœur de la mêlée. Les cavaliers en turban sont des Mamelouks, de la Garde impériale de Napoléon. Un cavalier est arraché de sa selle. Parmi les Français, aussi un dragon et un grenadier mort.
+
+[pause] Et regardez les Espagnols. Leurs costumes viennent de diverses régions, comme si tout le pays se battait dans une seule rue de Madrid. Ni général, ni héros sur un cheval blanc. Juste des gens au couteau contre la cavalerie.
+
+[quietly] La toile a bien failli disparaître. En 1938, le camion qui la transportait avec son pendant s'est accidenté à Benicarló, sur la côte méditerranéenne. Le côté gauche a perdu de la peinture, et la première réparation a simplement bouché les trous à l'encre rouge. Une restauration récente et minutieuse lui a rendu son éclat d'origine, en comblant les lacunes de façon invisible, grâce à des photos anciennes.
+
+Reculez, et embrassez l'ensemble. Un enchevêtrement furieux de corps, peint pour le palais d'un roi, et accroché aujourd'hui à la vue de tous.
+
+Restez dans la salle 64 pour son pendant, Le Trois Mai : le peloton d'exécution de nuit.

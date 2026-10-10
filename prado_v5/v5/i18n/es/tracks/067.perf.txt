@@ -1,0 +1,26 @@
+@id: 067 · ES · Room 90 · 10 Oct 2026 edition
+@section: Goya's Story · Floors 2 and 0
+@room: Room 90
+@type: W
+@title: Sala 90 · Goya — El quitasol
+@where: En la sala 90 de la planta 2, pasada la escalera desde la sala 85. Busque el cuadro ancho y luminoso de una joven sentada en el suelo con un perrito en el regazo, mientras un joven detrás de ella sostiene un quitasol verde.
+@what: Francisco de Goya y Lucientes, The Parasol, 1777, oil on canvas, 104 × 152 cm, a tapestry cartoon; also The Pottery Vendor, 1778–1779, oil on canvas, in Room 93.
+@listen: What a tapestry cartoon was, who The Parasol was made for, and how Goya turned a myth into a scene of Madrid fashion.
+@brief: A warm introduction to the young Goya, light and charmed, with a smile at the royal couple we met downstairs.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.museodelprado.es/en/the-collection/art-work/the-parasol/a230a80f-a899-4535-9e90-ad883bd096c5 (OFF: Room 090; 1777; 104 × 152; series for the dining room of the Prince and Princess of Asturias, El Pardo, 1776–78; ten country subjects; delivered to the Royal Tapestry Factory of Santa Bárbara 12 August 1777; pyramidal composition, study of Italian painting; low viewpoint, to hang over a window; Goya invented the composition himself) ; https://www.museodelprado.es/coleccion/obra-de-arte/el-quitasol/a230a80f-a899-4535-9e90-ad883bd096c5 (OFF, ES: majo; possible source Jean Ranc's Vertumnus and Pomona, Musée Fabre; sobreventana; future Carlos IV and María Luisa) ; https://www.museodelprado.es/en/the-collection/art-work/the-pottery-vendor/d2a0e6c3-ab19-492d-bf68-3d9fedaafb52 (OFF: Room 093; 1778–1779; one of 20 cartoons Mengs commissioned October 1777; Goya's invoice "a Valencian man selling crockery"; letter to Zapater: the king and royal couple saw it) ; https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812 (OFF: cartoon painter from January 1775) ; rooms 85–94 rehung 2026: research/OFFICIAL_LOCATIONS_PRADO_10OCT2026.md
+@lang: es
+@translation: from the fact-checked English Prado 067 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Antes de los cuadros de guerra y las Pinturas negras, hubo este Goya. Joven, ambicioso, pintando para las paredes de palacios reales.
+
+Desde 1775 trabajó para la Real Fábrica de Tapices de Madrid. Su tarea era pintar cartones. Son diseños al óleo a tamaño real, que los tejedores copiaban hilo a hilo en lana. [pause] Estas salas de la planta 2 reúnen sus cartones.
+
+Este llegó a la fábrica en el verano de 1777. Era parte de una serie de diez escenas campestres. Iban al comedor de los príncipes de Asturias, en el palacio de El Pardo. [amused] Y a esa pareja ya la conoce. [pause] Eran los futuros Carlos Cuarto y María Luisa, cubiertos de joyas en la sala 32, más de veinte años después.
+
+Según los documentos, la composición es invención del propio Goya. Quizá partió de un cuadro francés sobre un viejo mito, el dios Vertumno cortejando a Pomona. Goya se quedó con la pareja y quitó a los dioses. En su lugar, una joven a la moda y un majo, un joven vestido a lo popular madrileño, que galante le da sombra.
+
+¿Dónde parece estar usted? Algo por debajo. El tapiz iba a colgar sobre una ventana, así que Goya lo pintó para verse desde abajo. [pause] Las figuras forman una pirámide limpia en primer plano, una lección de la pintura italiana. Y vea la sombra del quitasol, suave sobre su cara.
+
+Si tiene tiempo, hay un breve Extra sobre El cacharrero en la sala 93. Siga la hilera de salas, pasando la 91 y la 92. Si no, vuelva hasta la sala 85, pasando la escalera. Allí está el mayor cartón de todos, una cosecha de más de seis metros de ancho.

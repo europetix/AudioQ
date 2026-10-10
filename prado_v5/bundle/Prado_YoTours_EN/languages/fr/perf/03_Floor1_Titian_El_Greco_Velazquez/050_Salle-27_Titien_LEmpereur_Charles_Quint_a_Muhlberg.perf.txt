@@ -1,0 +1,28 @@
+@id: 050 · FR · Room 27 · 10 Oct 2026 edition
+@section: Floor 1 · Titian, El Greco & Velázquez
+@room: Room 27
+@type: W
+@title: Salle 27 · Titien — L'Empereur Charles Quint à Mühlberg
+@where: Dans la salle 27 de la Galerie centrale, trouvez l'immense toile d'un homme en armure rehaussée d'or, sur un cheval sombre harnaché de cramoisi, qui chevauche seul, lance en main, sous un ciel du soir. Dans la même salle : deux toiles sombres de damnés livrés à un tourment éternel, et le bronze grandeur nature des Leoni, un jeune roi en armure.
+@what: Titian, Emperor Charles V at Mühlberg, 1548, oil on canvas, 335 × 283 cm. Also in Room 27: Titian, Sisyphus, 1548–1549, and Tityus, around 1565, oil on canvas; Leone and Pompeo Leoni, Philip II, cast 1551, bronze.
+@listen: A victory portrait with no battle in it, and the woman who connects everything in this room.
+@brief: Walking a friend through a family's image of power; measured, curious about the missing battle, a hint of awe at the real armour, a quiet close.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museodelprado.es/coleccion/obra-de-arte/el-emperador-carlos-v-en-muhlberg/e7c91aaa-b849-478c-a857-0bb58a6b6729 (OFF, read in Spanish 10 Oct 2026: 1548; 335 × 283 cm; Room 027; victory over the Schmalkaldic League at Mühlberg, 24 April 1547; Protestants the majority in Charles's army; painted in Augsburg during the Interim; no reference to the battle; Aretino's idea of the enemy under the hooves rejected; armour by Desiderius Helmschmid, still in the Royal Armoury, Madrid; Virgin and Child on the breastplate; lance alludes to Longinus, Saint George and the Caesars; wheel-lock pistol; armour designed with his gout in mind; owned by Mary of Hungary, 1558 inventory) ; https://www.museodelprado.es/en/the-collection/art-work/sisyphus/bb56eb47-052f-4e15-8e46-75a3f18b13ad (OFF: 1548–1549; Room 027; Mary of Hungary chose the subject; Great Room of the Palace of Binche; fate of rebels against a legitimate ruler, German princes after Mühlberg; four Furies, Ixion and Tantalus destroyed in the 1734 fire; hung high between large windows) ; https://www.museodelprado.es/en/the-collection/art-work/tityus/68555098-f6fd-453f-ab0a-859385ce3b3a (OFF: ca. 1565; Room 027; for Mary of Hungary's series of Furies; late repetition of the original; bird tearing at the liver, Titian paints an eagle; warning to those who challenged imperial power) ; https://www.museodelprado.es/en/the-collection/art-work/felipe-ii/a0d47dfb-7e78-4af4-b36d-ae497d2d77e8 (OFF: Room 027; cast 1551, finished 1553; bronze, 171 cm; Philip at 24 in armour; sword pommel an eagle's head; commissioned by Mary of Hungary)
+@lang: fr
+@translation: from the fact-checked English Prado 050 (10 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Le plus célèbre portrait de l'empereur Charles Quint ne montre aucune bataille. Ni ennemi, ni armée, ni morts. Un homme en armure, seul, chevauchant vers le soir.
+
+La bataille a bien eu lieu. Le 24 avril 1547, à Mühlberg, Charles a vaincu les princes protestants de la ligue de Smalkalde. L'année suivante, Titien monte à Augsbourg le peindre. L'écrivain l'Arétin a suggéré de montrer l'ennemi vaincu sous les sabots du cheval. Proposition rejetée. [pause] La plupart des soldats de Charles étaient eux-mêmes protestants, et il cherchait à réconcilier les deux confessions. Titien a donc peint un chevalier chrétien, avec une lance qui évoque saint Georges, et les empereurs de la Rome antique.
+
+[reverent] Regardez l'armure, rehaussée d'or, avec une Vierge à l'Enfant sur la cuirasse. Forgée pour lui par l'armurier Desiderius Helmschmid, elle est toujours conservée à l'Armurerie royale, ici, à Madrid. Il y a même, sur la selle, un pistolet à rouet, arme alors moderne.
+
+Le tableau appartenait à la sœur de Charles, Marie de Hongrie. C'est elle le fil qui relie cette salle. Regardez les deux toiles sombres de damnés au supplice éternel. Le géant Tityos gît enchaîné, tandis qu'un aigle lui déchire le foie. Sisyphe, un roi qui a défié les dieux, chancelle sous son rocher. [pause] Marie a choisi ces rebelles punis pour la grande salle de son palais de Binche, accrochés haut entre les fenêtres. Un avertissement aux princes allemands rebelles à son frère. Les deux autres de la série, Ixion et Tantale, ont péri dans l'incendie de l'Alcázar en 1734. Ce Tityos est une version plus tardive, de la main de Titien.
+
+Le bronze de cette salle, œuvre de Leone et Pompeo Leoni, représente son neveu, le futur Philippe deux, à vingt-quatre ans. Marie l'a commandé, lui aussi. Cherchez la tête d'aigle sur le pommeau de son épée.
+
+[quietly] Le pouvoir d'une famille, en trois humeurs. Le cavalier serein, la menace, et l'héritier.
+
+[pause] Avancez d'une salle dans la galerie, jusqu'à la salle 26. Cherchez un jeune chasseur endormi, étendu sur les genoux de Vénus, et un petit Cupidon qui retient un chien.
