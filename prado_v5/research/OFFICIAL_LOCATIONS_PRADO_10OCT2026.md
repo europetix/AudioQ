@@ -134,3 +134,4 @@ Notes:
 - Villanueva shows: Bécquer to 11 Oct; Ricardo de Madrazo 19 Oct 2026 – 17 Jan 2027; "Engineering in the Prado" trail of ~30 works
   through the building 26 Oct 2026 – 21 Feb 2027 (labels only, works stay put).
 - Jerónimos A–B: Mariana de Austria 1 Dec 2026 – 28 Mar 2027 (could borrow Velázquez portraits of Mariana — check in Nov).
+- 014 (Christ Crucified) corrected 10 Oct 2026: the famous San Plácido Christ is P001167, also Room 014 (the first URL read was P002903, a small 1631 Christ). Aesop: page now says 012 while Menippus says 015 — Aesop is not used.

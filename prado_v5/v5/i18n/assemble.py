@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Assemble translated tracks (ES / FR / DE) into perf files, with automatic checks against the English.
-Orsay version (7 Oct 2026) adapted for Pitti (61 tracks). One addition: the Orsay English often
+Orsay version (7 Oct 2026), adapted for Pitti, then for the Prado (59 tracks, 10 Oct 2026). One addition: the Orsay English often
 writes years in words ("eighteen sixty-five", "nineteen hundred and six"), so the year check also reads worded years and
 requires each one as digits in the translation.
 Input: a work folder with <lang>/NNN.json = {"title", "where", "body"} (from the translation brief).
@@ -11,7 +11,7 @@ Usage: python3 v5/i18n/assemble.py <workdir> [lang ...]      Check only: python3
 import json, os, re, sys, glob
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.join(ROOT, "v5", "pipeline")); import v5_direction as V
-EN = os.path.join(ROOT, "v5", "tracks"); OUT = os.path.join(ROOT, "v5", "i18n"); N_TRACKS = 61
+EN = os.path.join(ROOT, "v5", "tracks"); OUT = os.path.join(ROOT, "v5", "i18n"); N_TRACKS = 59
 dt = lambda b: [t for t in re.findall(r"\[([^\]]+)\]", b) if "pause" not in t]
 pz = lambda b: len(re.findall(r"\[(?:long )?pause\]", b))
 
@@ -82,7 +82,7 @@ def main():
             head = re.sub(r"^@title: .*$", lambda m: "@title: " + d["title"].strip(), head, flags=re.M)
             head = re.sub(r"^@where: .*$", lambda m: "@where: " + d["where"].strip(), head, flags=re.M)
             head = re.sub(r"^@id: (\d+)", rf"@id: \1 · {lang.upper()}", head, flags=re.M)
-            head += (f"\n@lang: {lang}\n@translation: from the fact-checked English Pitti {n} (7 Oct 2026 edition); facts unchanged;"
+            head += (f"\n@lang: {lang}\n@translation: from the fact-checked English Prado {n} (10 Oct 2026 edition); facts unchanged;"
                      " formal address; adapted for listening (short sentences, extra pauses)")
             p = os.path.join(OUT, lang, "tracks", f"{n}.perf.txt")
             open(p, "w", encoding="utf-8").write(head + "\n---\n" + body + "\n"); V.validate(p)
