@@ -3,7 +3,7 @@
 ## Opening
 
 ### 001 · Welcome to the Prado
-*Jerónimos entrance hall · 345 words*
+*Jerónimos entrance hall · 347 words*
 
 **Where:** In the Jerónimos entrance hall, the modern hall where you came in, near the signs marked Collection.
 
@@ -15,11 +15,11 @@ The old building next door was designed by Juan de Villanueva in 1785, on the or
 
 That royal taste explains almost everything you're about to see. It's why there is so much Velázquez, Titian, Rubens and Goya. It's why Bosch's strangest dreams ended up in Spain, because Philip the Second collected them eagerly. And it explains the gaps. This is not a tidy history of art. It's a royal collection, gloriously lopsided.
 
-Now, how we'll find our way. Every room has a number, and it's shown at its doorway. Each stop in this guide gives you the number to look for, so the numbers are your best friend. When in doubt, look for the number.
+Now, how we'll find our way. Every room has a number, and it's shown at its doorway. Each stop gives you the number to look for. When in doubt, look for the number. Some tracks are marked Extra. They're short and optional, so play them if you have time, or skip ahead.
 
 The route has a simple shape. We start here on Floor 0, with the Flemish and Italian masters: Bosch, Bruegel, Dürer and Raphael. Then we go up to Floor 2 for Rembrandt and the Dauphin's Treasure, a glittering hoard of jewelled cups. Next we come down to Floor 1, the heart of the museum, for Titian, El Greco, Velázquez, Murillo, Rubens and Goya. At the far end of the building we follow Goya's story, up to his bright tapestry designs and down to his darkest paintings. And we finish back here, where we began.
 
-Take your time, and sit whenever you need to. Nobody enjoys a masterpiece on tired feet.
+Take your time, and sit whenever you need to.
 
 To begin, follow the signs marked Collection from this hall to Room 55A, the first room of Flemish painting on this floor. Look for 55A at the doorway.
 
@@ -93,7 +93,7 @@ It's a pessimistic picture about how fragile and fleeting pleasure is. Five cent
 Stay in Room 56A for two more by Bosch. Look for the Haywain, with its huge cart of hay, and a panel painted like a great round eye.
 
 ### 005 · Room 56A · Bosch — The Haywain and The Table of the Seven Deadly Sins
-*Room 56A · 344 words*
+*Room 56A · 360 words*
 
 **Where:** Stay in Room 56A. The Haywain is the three-panelled painting with a towering cart of hay in the centre. The Table of the Seven Deadly Sins is the wide panel with a great round eye at its centre, and the small panel with gold lettering is The Extraction of the Stone of Madness.
 
@@ -111,10 +111,44 @@ Now find the wide panel with the great eye. Philip owned it before 1560 and kept
 
 Before you leave, find the small panel with gold lettering. A quack in a funnel hat, a sign of deceit, cuts into a man's head to remove the stone of madness. The patient's name is written below: Lubbert Das. And what comes out isn't a stone at all. It's a flower, probably standing for the money the quack is about to take.
 
-Go back into Room 56, then into Room 55, and on to Room 55B, where Dürer's self-portrait hangs. Look for 55B at the doorway.
+Go back into Room 56, then into Room 55, and on to Room 55B, where Dürer's self-portrait hangs. Look for 55B at the doorway. On the way, Rooms 56 and 55 each have a short Extra, if you have time.
 
-### 006 · Room 55B · Dürer — Self-portrait, and Adam and Eve
-*Room 55B · 335 words*
+### 006 · Room 56 · Extra · Anthonis Mor — Mary Tudor, Queen of England
+*Room 56 · 226 words*
+
+**Where:** In Room 56, find the almost full-length portrait, about a metre high, of a queen in dark clothes seated in a red velvet chair, a small red rose in one hand, gloves in the other, and a large jewel with a hanging pearl at her breast.
+
+**What:** Anthonis Mor, Mary Tudor, Queen of England, 1554, oil on panel, 109 × 84 cm.
+
+This queen married a prince eleven years younger than herself. The jewel at her breast was his gift.
+
+Mary Tudor was the daughter of Henry the Eighth and Catherine of Aragon. Proclaimed queen of England in 1553, she brought her kingdom back to the Catholic Church. The next July she married Philip, the future king of Spain, at Winchester. That same year, an early biography tells us, the emperor Charles the Fifth sent the Dutch painter Anthonis Mor to London to paint her.
+
+Notice how carefully Mor stages her. She sits in a red velvet chair, a sign of royalty, and far more richly embroidered than chairs of this kind usually were. In her right hand is the red rose of the Tudors. In her left, a pair of gloves set with stones. And Philip's jewel hangs at her neck. The museum notes that its pearl is the famous Peregrina, found by an enslaved diver in the Pearl Islands of Panama.
+
+Mor doesn't flatter her. Her features are plain, and her pose is tense, a little stiff. Yet he gives her real dignity, and her strength of character in hard times comes through. She died in 1558, only four years after the wedding.
+
+Next door, in Room 55, more portraits of Philip's court, by Sofonisba Anguissola and Alonso Sánchez Coello. Look for 55 at the doorway.
+
+### 007 · Room 55 · Extra · Sofonisba Anguissola and Sánchez Coello — portraits of Philip II's court
+*Room 55 · 227 words*
+
+**Where:** In Room 55, find the half-length portrait of Philip II in black, with the gold Golden Fleece on his chest and a rosary in one hand. Nearby is the large square canvas of two little girls in rich adult dresses holding a wreath of flowers between them.
+
+**What:** Sofonisba Anguissola, Philip II, 1573, oil on canvas, 88 × 72 cm; Alonso Sánchez Coello, Infantas Isabel Clara Eugenia and Catalina Micaela, around 1575, oil on canvas, 149 × 135 cm; also Juan Pantoja de la Cruz after Sofonisba Anguissola, Queen Elisabeth of Valois, around 1605, oil on canvas.
+
+In 1559, a young Italian noblewoman arrived at the Spanish court. She came not as a painter but as a lady-in-waiting. Her name was Sofonisba Anguissola, from Cremona, and she served the new queen, Elisabeth of Valois, and taught her to paint.
+
+She never held an official post as a painter. Yet she portrayed the royal family again and again. Her Philip the Second, from 1573, is no warrior, but a cool, distant gentleman in black. X-rays show her second thoughts. At first he wore a heavy short cape, with one hand on his chest. She lightened the cape and moved the hand to the arm of the chair, a gesture of authority. In his other hand is a rosary, the mark of a defender of the faith.
+
+Nearby, the court painter Alonso Sánchez Coello shows the king's daughters, Isabel Clara Eugenia and Catalina Micaela. They are little girls, solemn as adults, sharing a wreath of flowers. Portraits like this kept track of royal heirs for marriage and succession. Catalina became Duchess of Savoy. Isabel went on to govern the Netherlands.
+
+And Sofonisba's portrait of the queen herself was lost in a palace fire in 1604. The one in this room is a copy, made soon after by Juan Pantoja de la Cruz.
+
+Then on into Room 55B, for Dürer's self-portrait. Look for 55B at the doorway.
+
+### 008 · Room 55B · Dürer — Self-portrait, and Adam and Eve
+*Room 55B · 353 words*
 
 **Where:** In Room 55B, find the half-length portrait of a young man with long curls, a striped cap and grey gloves, resting his arm on a ledge, with a window behind him. Adam and Eve are the two tall, narrow panels of life-size nudes against a dark background.
 
@@ -132,9 +166,26 @@ Look for the little tablet beside Eve. Its inscription dates the work to 1507 ye
 
 These panels came to Philip the Fourth as a gift from Queen Christina of Sweden. A self-made gentleman, and the first man and woman, all in one room.
 
+Before you go, there's a short Extra on Baldung Grien's Ages of Woman and Death in this room. Next door is Room 56B: the early Italian Renaissance. Look for 56B at the doorway, and a large golden Annunciation.
+
+### 009 · Room 55B · Extra · Hans Baldung Grien — The Ages of Woman and Death
+*Room 55B · 220 words*
+
+**Where:** Stay in Room 55B. Find the tall, narrow panel, about one and a half metres high: Death with an hourglass gripping an old woman, who pulls a young woman along, a small owl at the bottom edge. Its companion, Harmony, a moonlit forest with women, a book and a lute, hangs in the same room.
+
+**What:** Hans Baldung Grien, The Ages of Woman and Death, 1541–1544, oil on panel, 151 × 61 cm; and its pendant, Harmony (The Three Graces?), 1541–1544, oil on panel.
+
+In the nineteenth century, the royal museum listed this panel as a Dürer and kept it in a reserved room. Its real painter was another German, Hans Baldung Grien.
+
+Death has taken hold of an old woman. She in turn tries to pull a young woman along, and the young woman resists. Death holds an hourglass and a broken lance. At their feet, a dead child rests its hand on the tip of the lance. No age of life escapes.
+
+Behind them, past a dead tree, is a desolate landscape, with the tower of Hell and devils tormenting people. The only hope is tiny. Find the small crucified Christ, looking up to the sun as it breaks through the clouds, the light of heaven. And at the very bottom, an owl stares straight out at you. It's a warning about where sin leads.
+
+Now find its companion in this room, Harmony. Women sit in a moonlit forest, with a book, a lute and little musicians, one of them holding a swan. It's the innocence of a golden age, when people hoped to live forever through music and poetry. But look at the laurel tree. A serpent is coiled around it.
+
 Next door is Room 56B: the early Italian Renaissance. Look for 56B at the doorway, and a large golden Annunciation.
 
-### 007 · Room 56B · Fra Angelico — The Annunciation
+### 010 · Room 56B · Fra Angelico — The Annunciation
 *Room 56B · 332 words*
 
 **Where:** In Room 56B, find the large, almost square altarpiece, nearly two metres each way: an angel kneeling to Mary under a pale arched porch, a garden on the left, and a row of small scenes along the bottom.
@@ -157,7 +208,7 @@ The altarpiece stayed in its convent for almost two centuries. Then it was bough
 
 Stay in Room 56B for Mantegna's small Death of the Virgin, a panel with a view of a lake through the window.
 
-### 008 · Room 56B · Mantegna — The Death of the Virgin
+### 011 · Room 56B · Mantegna — The Death of the Virgin
 *Room 56B · 308 words*
 
 **Where:** Stay in Room 56B and find the small upright panel, about half a metre high: apostles with candles around the Virgin's bier, and a bright window behind them onto a lake and a long bridge.
@@ -178,7 +229,7 @@ The painting went from the Gonzaga to Charles the First of England. When his col
 
 Stay in Room 56B for Botticelli's Nastagio panels, three wide paintings of a story set in a pine forest by the sea.
 
-### 009 · Room 56B · Botticelli — The Story of Nastagio degli Onesti
+### 012 · Room 56B · Botticelli — The Story of Nastagio degli Onesti
 *Room 56B · 338 words*
 
 **Where:** Stay in Room 56B and find the three wide panels hung in a row, each well over a metre across: a pine forest by the sea, a naked woman chased by a horseman and hounds, and a banquet among the trees.
@@ -201,8 +252,8 @@ A lovely gift. With a very clear message for the bride.
 
 Go through the doorway into the long hall, Room 49, for Raphael. Look for 49 at the doorway, and a cardinal in red against a black background.
 
-### 010 · Room 49 · Raphael — The Cardinal, and The Holy Family 'La Perla'
-*Room 49 · 335 words*
+### 013 · Room 49 · Raphael — The Cardinal, and The Holy Family 'La Perla'
+*Room 49 · 354 words*
 
 **Where:** In the long hall of Room 49, find the half-length portrait of a cardinal in a shining red cape against a black background. The Pearl is the larger, upright painting nearby of the Virgin and Child with two children and an older woman, and ruins in a landscape on the right.
 
@@ -222,9 +273,28 @@ It belonged to the Gonzaga of Mantua and to Charles the First of England before 
 
 One sitter nobody can name, and one painting a king named for good.
 
+Before you go, there's a short Extra on Raphael's Christ Falls on the Way to Calvary in this room. Walk to the far end of Room 49 and go on through Room 58B into Room 58, for Van der Weyden's Descent from the Cross. Look for 58 at the doorway, and a large gold-backed panel of mourners.
+
+### 014 · Room 49 · Extra · Raphael — Christ Falls on the Way to Calvary
+*Room 49 · 224 words*
+
+**Where:** Stay in Room 49. Find the huge upright altarpiece, over three metres high, of Christ fallen under the cross in a crowd of soldiers, signed RAPHAEL VRBINAS low in the centre.
+
+**What:** Raphael (Raffaello Sanzio) and workshop, Christ falls on the Way to Calvary, 1515–1516, oil on panel transferred to canvas, 318 × 229 cm.
+
+There's an old story that this enormous altarpiece survived a shipwreck. Vasari told it. Historians have their doubts. It sounds too much like an old Sicilian legend of a miraculous arrival.
+
+Raphael and his workshop painted it around 1515 for a monastery in Palermo, Santa Maria dello Spasimo. That's why it's known as the Spasimo di Sicilia. Christ has fallen under the weight of the cross, and the crowd presses in around him. Raphael borrowed ideas here from northern prints, by Dürer and others, and you can find his signature low in the centre.
+
+Now look at his mother. She suffers, but she does not faint. The Church held that Mary bore her pain fully conscious.
+
+Much later, a viceroy of Sicily arranged for the painting to go to Philip the Fourth, who placed it over the main altar of his palace chapel in Madrid. Its travels weren't over. In 1810, war took it to Paris, where it was moved from its wooden panel onto canvas.
+
+A shipwreck nobody can prove, a mother who will not faint, and a king who wanted it above his altar.
+
 Walk to the far end of Room 49 and go on through Room 58B into Room 58, for Van der Weyden's Descent from the Cross. Look for 58 at the doorway, and a large gold-backed panel of mourners.
 
-### 011 · Room 58 · Rogier van der Weyden — The Descent from the Cross
+### 015 · Room 58 · Rogier van der Weyden — The Descent from the Cross
 *Room 58 · 320 words*
 
 **Where:** In Room 58, the large panel over two and a half metres wide, with near life-size mourners packed into a shallow gold box, the pale body of Christ in the middle and the Virgin fainting below him.
@@ -247,7 +317,7 @@ Take a moment with it before you move on.
 
 Stay in Room 58 for Antonello da Messina's Dead Christ, a much smaller panel of Christ held up by a single angel.
 
-### 012 · Room 58 · Antonello da Messina — The Dead Christ supported by an Angel
+### 016 · Room 58 · Antonello da Messina — The Dead Christ supported by an Angel
 *Room 58 · 278 words*
 
 **Where:** Stay in Room 58 and find the small upright panel, about seventy centimetres high: the dead Christ seated and held up from behind by a single weeping angel, with a harbour town in the distance.
@@ -268,8 +338,8 @@ So this little panel waited a very long time to be recognised. Northern detail, 
 
 Next door is Room 58A, for Memling. Look for 58A at the doorway, and a long, low altarpiece of the three kings.
 
-### 013 · Room 58A · Memling — Triptych of the Adoration of the Magi
-*Room 58A · 327 words*
+### 017 · Room 58A · Memling — Triptych of the Adoration of the Magi
+*Room 58A · 353 words*
 
 **Where:** In Room 58A, find the long, low altarpiece in three parts, almost three metres wide: the three kings before the Virgin and Child in a ruined building at the centre, the Nativity on the left wing and the Presentation in the Temple on the right.
 
@@ -287,9 +357,24 @@ On the right wing, Mary hands her son to the old priest Simeon in the Temple. Lo
 
 The triptych belonged to the Spanish royal collection and hung for a time in a castle oratory near Toledo, then at Aranjuez. It was a picture to pray with, quietly, up close.
 
-Go back through Room 58 and Room 58B, then through Room 50 into the round Room 51. From there, go through Room 51B into Room 51A: medieval Spain. Look for a tall gold panel of a saint on a throne.
+Go back through Room 58 and Room 58B, then through Room 50 into the round Room 51. From there, go through Room 51B into Room 51A: medieval Spain. Look for a tall gold panel of a saint on a throne. On the way, in Room 51C beside the round Room 51, there's a short Extra on Romanesque wall paintings: play it there if you have time.
 
-### 014 · Room 51A · Bermejo — Saint Dominic of Silos enthroned as a Bishop
+### 018 · Room 51C · Extra · The Romanesque murals of Maderuelo and San Baudelio
+*Room 51C · 213 words*
+
+**Where:** In Room 51C, beside the round Room 51, the walls are covered with twelfth-century wall paintings. Look for the arches with the Creation of Adam, and, on a red ground, an elephant carrying a small castle on its back.
+
+**What:** Anonymous, twelfth century, The Creation of Adam, Hermitage of Vera Cruz, Maderuelo (Segovia), with the other murals of that hermitage, fresco transferred to canvas; Anonymous, Elephant, Hermitage of San Baudelio, Casillas de Berlanga (Soria), around 1125, fresco transferred to canvas, 205 × 135 cm.
+
+In 1926, the paintings of a little hermitage in Castile were taken off its walls and shipped to the United States.
+
+They came from San Baudelio de Berlanga, near Soria, and they were divided among several American museums. This elephant went to the Metropolitan Museum in New York. Since 1957 it has been here, on long-term deposit from the Met. It carries a castle on its back. In medieval animal lore, the elephant stood for humility, and so for Christ. The castle stood for human suffering. It was once painted beside a bear, among hunting scenes, with nothing religious about them at all.
+
+The rest of the room tells a happier story. In 1947, the twelfth-century paintings of the hermitage of the Vera Cruz at Maderuelo, near Segovia, were transferred to canvas. The museum reassembled them here, in a layout as close to the original as possible. On the arches, God creates Adam, and nearby Adam and Eve fall into sin. The figures are flat, drawn with a few simple outlines, without volume or depth. Their painter worked very much like the famous Master of Taüll.
+
+Back in the round Room 51, go through Room 51B into Room 51A: medieval Spain. Look for a tall gold panel of a saint on a throne.
+
+### 019 · Room 51A · Bermejo — Saint Dominic of Silos enthroned as a Bishop
 *Room 51A · 336 words*
 
 **Where:** In Room 51A, find the tall gold panel, almost two and a half metres high: a stern bishop-saint seated face-on on a gilded throne, in a gold brocade cope, with small colourful female figures set into the sides of the throne.
@@ -312,8 +397,8 @@ Back in the round Room 51, take the lift up to Floor 2 and follow the signs to R
 
 ## Floor 2 · Rembrandt & the Dauphin's Treasure
 
-### 015 · Room 76 · Rembrandt — Judith at the Banquet of Holofernes
-*Room 76 · 324 words*
+### 020 · Room 76 · Rembrandt — Judith at the Banquet of Holofernes
+*Room 76 · 344 words*
 
 **Where:** In Room 76, the Rembrandt room at the end of this wing. Stand before the large, almost square canvas of a young woman in gold, pearls and ermine, a kneeling girl offering her a shell-shaped cup, and an old woman in a white cap in the shadows behind.
 
@@ -333,9 +418,60 @@ Now the twist. For the Dutch, Judith was a patriotic heroine, a symbol of their 
 
 So enjoy the light on her pearls, the gold chain, the soft ermine at her shoulders. A rebels' heroine, glowing in the king's house.
 
-Walk on through Rooms 77, 78 and 79 to the round, darkened Room 79B. That's the Dauphin's Treasure, a ring of glittering cups and vases in one long curved case.
+Walk on through Rooms 77, 78 and 79 to the round, darkened Room 79B. That's the Dauphin's Treasure, a ring of glittering cups and vases in one long curved case. On the way, Rooms 77, 78 and 79 each have a short Extra: play them there if you have time.
 
-### 016 · Room 79B · The Treasure of the Dauphin — Cup with a gold mermaid
+### 021 · Room 77 · Extra · David Teniers — Archduke Leopold William in his Picture Gallery
+*Room 77 · 220 words*
+
+**Where:** In Room 77, find the painting on copper, over a metre wide, of a tall room hung from floor to ceiling with paintings, an elegant group of gentlemen on the right and the painter with a visitor on the left.
+
+**What:** David Teniers the Younger, The Archduke Leopold William in his Picture Gallery in Brussels, 1647–1651, oil on copperplate, 104.8 × 130.4 cm.
+
+This is a painting of paintings. And almost every one of them was real.
+
+The Archduke Leopold William governed the Spanish Netherlands from Brussels. Here he stands on the right, with gentlemen of his court, in his picture gallery. On the left is the painter himself, David Teniers, the archduke's court painter. Beside him is the Count of Fuensaldaña, who helped buy many of these pictures in England. Most of them are Italian. Teniers copied them in miniature on a sheet of copper, almost like a catalogue you could hang on the wall.
+
+See if you can spot a few. On the left, Gossaert's Saint Luke painting the Virgin, a nod to Teniers's own Flemish roots. On the right, Van Dyck's portrait of Isabel Clara Eugenia, Philip the Second's daughter, who later governed the Netherlands herself. And follow the archduke's gaze. It rests on Raphael's Saint Margaret, a sign that he truly loved painting.
+
+Teniers painted several of these, and they were sent off to different courts. This one went to the archduke's uncle, Philip the Fourth, soon after it was finished. A gift between two collectors, and perhaps a polite reminder that Brussels could rival Madrid.
+
+Next, Room 78: Rubens's early Judgement of Paris, a small panel of three goddesses before a shepherd. Look for 78 at the doorway.
+
+### 022 · Room 78 · Extra · Rubens — The Judgement of Paris, the early version
+*Room 78 · 219 words*
+
+**Where:** In Room 78, find the small panel, just over a metre wide, of three goddesses before a shepherd on the left who still holds a golden apple, with armour and weapons lying in the foreground.
+
+**What:** Peter Paul Rubens, The Judgement of Paris, 1606–1608, oil on panel, 89 × 114.5 cm.
+
+For about a century, this little panel lost its painter's name. Royal inventories called it a Rubens, then school of Rubens, then a Jordaens. Today the museum gives it back to Rubens, as a young man.
+
+He painted it between about 1606 and 1608, during his years in Italy, and you can feel the south in its warmth and elegance. The figures are based on classical sculptures, and their bodies twist with the sinuous rhythm of Italian painting of the time.
+
+The story comes from the Trojan legends. Paris, a shepherd and a son of King Priam, must decide which of three goddesses is the most beautiful: Juno, Venus or Minerva. He's on the left, lost in thought, the golden apple still in his hands. But his eyes have already chosen. They rest on Venus, at the centre. In the foreground lie Minerva's weapons, set aside for the contest.
+
+Keep this picture in mind. Later, on Floor 1, in Room 29, you'll see Rubens paint the same contest some thirty years on, for Philip the Fourth, on a much larger canvas. The young man fresh from Italy, and the old master at the height of his powers.
+
+Next, Room 79: Rubens's Saturn, a tall canvas of an old god biting into a child. Look for 79 at the doorway.
+
+### 023 · Room 79 · Extra · Rubens — Saturn Devouring a Son
+*Room 79 · 226 words*
+
+**Where:** In Room 79, find the tall, narrow canvas, almost two metres high: an old man with a scythe biting into a screaming child, under a dark sky with three stars.
+
+**What:** Peter Paul Rubens, Saturn devouring a Son, 1636–1638, oil on canvas, 182.5 × 87 cm.
+
+Above this terrible scene, three stars shine in the night sky. And they may hide a little scientific secret.
+
+Rubens painted Saturn in his last years, for the Torre de la Parada, Philip the Fourth's hunting lodge outside Madrid. It belonged to a large group of mythologies, and he painted this one himself. The myth is brutal. Saturn, the old god the Greeks called Cronos, devoured his own children so that none of them could take his throne. Rubens shows it without mercy. The old man steadies himself on his scythe and bites into the boy. The child kicks, screams, and looks straight out at you.
+
+Now those stars. One shines brightly, and two smaller ones sit beside it. In 1610, Galileo looked at the planet Saturn through his telescope. He couldn't make out its ring, and took it for two moons, one on either side. Did Rubens know? The museum calls it a hypothesis that needs study. But Rubens was in Rome in Galileo's time.
+
+Look closely too around the right arm and under the left heel. You can still see where Rubens changed his mind. Much later on this route, in Room 67, you'll meet Goya's Saturn. Remember this one when you do.
+
+Next, the round, darkened Room 79B: the Dauphin's Treasure, a ring of glittering cups and vases in one long curved case.
+
+### 024 · Room 79B · The Treasure of the Dauphin — Cup with a gold mermaid
 *Room 79B · 307 words*
 
 **Where:** In the round, darkened Room 79B, where the whole treasure stands in one long curved case. Walk along it to find a small gold mermaid with two enamelled tails, holding a carved agate bowl above her head.
@@ -356,7 +492,7 @@ So lean in close. More than four centuries old, no taller than your hand, and st
 
 Continue through Rooms 80 and 81 to Room 82. Look for Clara Peeters' still life: a sparrowhawk perched on a basket of birds, beside a stack of porcelain.
 
-### 017 · Room 82 · Clara Peeters — Still Life with a Sparrow Hawk, Fowl, Porcelain and Shells
+### 025 · Room 82 · Clara Peeters — Still Life with a Sparrow Hawk, Fowl, Porcelain and Shells
 *Room 82 · 334 words*
 
 **Where:** In Room 82, in front of a mid-sized panel on a dark ground: a sparrowhawk perched on the rim of a wicker basket full of dead birds, a stack of white porcelain, and a few seashells.
@@ -377,7 +513,7 @@ By 1666 this panel was very likely in the Spanish royal collection in Madrid. A 
 
 Next door is Room 83. Look for a wide panel of a crowded picture gallery, paintings stacked to the ceiling: The Sense of Sight.
 
-### 018 · Room 83 · Jan Brueghel the Elder and Rubens — The Sense of Sight
+### 026 · Room 83 · Jan Brueghel the Elder and Rubens — The Sense of Sight
 *Room 83 · 302 words*
 
 **Where:** In Room 83, among the five panels of the Senses. Find the wide one showing a palatial picture gallery crammed with paintings, busts and instruments, where a seated Venus looks at a picture Cupid holds up for her.
@@ -400,8 +536,8 @@ Now go down one floor to Floor 1, by the stairs or the lift near these rooms. Fo
 
 ## Floor 1 · Titian, El Greco & Velázquez
 
-### 019 · Room 1 · Floor 1 — the round room by the Goya entrance · Leoni's Charles V and the Fury
-*Room 1 · 262 words*
+### 027 · Room 1 · Floor 1 — the round room by the Goya entrance · Leoni's Charles V and the Fury
+*Room 1 · 267 words*
 
 **Where:** In Room 1, the round room on Floor 1 by the Goya entrance. Find the life-size bronze of the emperor Charles V, standing over a fallen figure among a heap of weapons on a tall pedestal.
 
@@ -417,10 +553,27 @@ And here's the secret. The armour is a separate bronze shell, held on with large
 
 The museum has been moving its Leoni bronzes. If this group isn't here in Room 1, you'll find the Leoni bronzes in the Central Gallery, Room 27, later on this route.
 
-From the round Room 1, step into Room 40, by the Goya entrance lift, and walk on through Room 41 to Room 42, for Titian's Andrians. In Room 41, on the way, Titian himself looks out at you from his self-portrait.
+From the round Room 1, step into Room 40, by the Goya entrance lift, and walk on through Room 41 to Room 42, for Titian's Andrians. On the way, in Room 41, there's a short Extra on Titian's self-portrait: play it there if you have time.
 
-### 020 · Room 42 · Titian — The Andrians
-*Room 42 · 334 words*
+### 028 · Room 41 · Extra · Titian — Self-portrait
+*Room 41 · 217 words*
+
+**Where:** In Room 41, find the half-length portrait of an old man with a long beard seen in profile, dressed in black with a dark cap, a gold chain across his chest and a brush in his hand.
+
+**What:** Titian, Self-portrait, around 1562, oil on canvas, 86 × 65 cm.
+
+Painters almost never showed themselves in profile. Titian did it here, in his seventies, and it was a deliberate choice.
+
+In his day, profile portraits were unusual. Titian had painted them only of sitters who were already dead, such as the French king Francis the First. A profile is how emperors appear on Roman coins. It's an image made for fame, for posterity. And it's hard to paint yourself that way without several mirrors.
+
+Look at what he wears. Black, as a knight should, according to the courtly manners of the time. Around his neck hangs a gold chain, the mark of a Knight of the Golden Spur. And in his hand, a brush. Years earlier, the sculptor Leone Leoni, maker of the emperor's bronze you've just met, had put two Latin words on a medal of Titian: pictor et eques, painter and knight. This portrait says the same thing without words. His rank came from his art.
+
+The long beard and the simple cap make him look less like a craftsman than a scholar. When the writer Vasari visited his studio in Venice in 1566, he saw a self-portrait there. This is probably the one.
+
+Next door, Room 42: Titian's Andrians, a big, sunlit party on a grassy slope with a sleeping nude in the corner.
+
+### 029 · Room 42 · Titian — The Andrians
+*Room 42 · 319 words*
 
 **Where:** In Room 42, in front of the big, almost square canvas of men and women drinking, dancing and sprawling on a grassy slope, with a sleeping nude in the lower right corner and a ship sailing off in the distance.
 
@@ -436,11 +589,28 @@ Now find the sleeping woman in the lower right corner, a splendid nude, bathed i
 
 The picture was copied again and again by later painters. Its signature is easy to miss: Ticianus, low in the centre.
 
-You passed the man himself in Room 41. In his self-portrait he's in his seventies, seen in profile, which was rare. Otherwise, Titian painted profiles only of sitters who had already died. He holds a brush and wears the golden chain of his knighthood. Painter and knight, as his medal by Leone Leoni put it.
+You passed the man himself in Room 41, in his self-portrait: painter and knight, with a brush in his hand.
 
-Next, Room 44, two doors on through Room 43: Titian's Danaë, a nude on a bed beneath a burst of golden rain.
+Next, Room 44, two doors on through Room 43: Titian's Danaë, a nude on a bed beneath a burst of golden rain. On the way, in Room 43, there's a short Extra on Titian's Salome: play it there if you have time.
 
-### 021 · Room 44 · Titian — Danaë, and the Venus with an Organist
+### 030 · Room 43 · Extra · Titian — Salome, and Christ Carrying the Cross
+*Room 43 · 226 words*
+
+**Where:** In Room 43, find the almost square half-length of a young woman turning as she lifts a tray with a severed head and looks out at you: Salome. Nearby, a smaller, wider canvas shows two faces close together on either side of a cross: Christ Carrying the Cross.
+
+**What:** Titian, Salome, around 1550, oil on canvas, 87 × 80 cm; and Titian, Christ carrying the Cross, around 1565, oil on canvas, 67 × 77 cm, signed TITIANVS AEQ CAES F.
+
+Titian painted Salome more than once. And the second time, he threw almost everything away.
+
+In an earlier version, from 1516, she stands in a room under an arch, with a servant girl at her side. Here, around 1550, the servant has gone, and so has the room. Only Salome is left, turning on a diagonal, holding up the head of John the Baptist on a tray, and looking straight at you. It was often said that Titian's daughter Lavinia was the model. The museum rejects the idea. X-rays show him still searching as he worked. Her eyes were once a little lower, and her left arm has moved from a slant to the upright.
+
+Then find the smaller canvas of Christ carrying the Cross. Titian first painted the subject for Philip the Second's private chapel at the Escorial. This later version cuts it down to two faces, close together on either side of the cross. The man helping is Simon of Cyrene. He may be a portrait of a Venetian mosaicist, Francesco Zuccato, the son of Titian's first teacher.
+
+And Christ? His eyes are wet with tears, and they look straight at you. The museum reads it as a plea to join him. It's a rare thing in Titian.
+
+Next, Room 44: Titian's Danaë, a nude on a bed beneath a burst of golden rain.
+
+### 031 · Room 44 · Titian — Danaë, and the Venus with an Organist
 *Room 44 · 343 words*
 
 **Where:** In Room 44. Stand before the wide canvas of a nude princess lying on a bed as a dark cloud bursts into golden rain, an old woman reaching to catch it; the two big pictures of Venus reclining with an organist hang in the same room.
@@ -463,7 +633,7 @@ In the nineteenth century this Danaë was kept in a reserved room, away from gen
 
 Go back the way you came, through Rooms 43, 42, 41 and 40, to the round Room 1. From there, step into Room 2 for Claude Lorrain: a tall harbour scene with the sun low over the sea.
 
-### 022 · Room 2 · Claude Lorrain — The Embarkation of Saint Paula
+### 032 · Room 2 · Claude Lorrain — The Embarkation of Saint Paula
 *Room 2 · 298 words*
 
 **Where:** In Room 2, just off the round Room 1. Look for the tall harbour scene, taller than it is wide, with palaces lining the quay, ships at anchor, and a low sun blazing straight at you over the water.
@@ -484,8 +654,8 @@ A saint's farewell, turned into a blaze of light.
 
 Next door, Room 3: Poussin's Parnassus, with Apollo enthroned among the Muses on a green hillside.
 
-### 023 · Room 3 · Poussin — Parnassus
-*Room 3 · 310 words*
+### 033 · Room 3 · Poussin — Parnassus
+*Room 3 · 332 words*
 
 **Where:** In Room 3, in front of the wide canvas of a sunlit hillside crowded with figures: Apollo seated at the centre among the Muses and poets, a poet being crowned with laurel, and a nude woman reclining by a spring in the foreground.
 
@@ -505,10 +675,29 @@ Its first known owners were the Mattei family in Rome. By 1727 it belonged to Ph
 
 Nectar from Apollo, water from the spring. Poussin's point is simple: poetry is a gift from the gods, and then you still have to drink it.
 
-Walk on through Room 4 to Room 5. Look for Artemisia Gentileschi's wide scene of women gathered round a newborn baby.
+Walk on through Room 4 to Room 5. Look for Artemisia Gentileschi's wide scene of women gathered round a newborn baby. On the way, in Room 4, there's a short Extra on Guido Reni's Saint Sebastian: play it there if you have time.
 
-### 024 · Room 5 · Artemisia Gentileschi — The Birth of Saint John the Baptist
-*Room 5 · 287 words*
+### 034 · Room 4 · Extra · Guido Reni — Saint Sebastian
+*Room 4 · 219 words*
+
+**Where:** In Room 4, find the large canvas, almost two metres high, of a young man tied to a tree, his body turned to the light and his head thrown back, eyes raised to a dark, moonlit sky.
+
+**What:** Guido Reni, Saint Sebastian, around 1619, oil on canvas, 172 × 134.5 cm.
+
+In February 1619, a poet in Bologna wrote to Guido Reni with news. A patron was eagerly awaiting, as he put it, the image of the arrow-pierced martyr.
+
+Reni painted Saint Sebastian more than once. Other versions hang in Paris, London, Puerto Rico and New Zealand. The museum doesn't believe one is the original and the rest copies. Some were probably begun together, then finished to different degrees, as each client wished.
+
+See how little he needs. A young body turned to the light, arms tied behind a tree, an arrow in his side, and the head thrown back, eyes raised to the sky. Reni based that head on a drawing from life, and on a famous ancient bust in Florence, the Dying Alexander. But he softened the hard antique features into something young and gentle.
+
+For a long time, the saint was more modest. A later hand had added to his loincloth. A recent cleaning by the museum's conservators took it away, and brought back the original outline of his arm and a loop of rope.
+
+By 1746 the painting belonged to Queen Isabel Farnese. It hung at her palace of La Granja, in the room where mass was said.
+
+Next door, Room 5: Artemisia Gentileschi. Look for her wide scene of women gathered round a newborn baby.
+
+### 035 · Room 5 · Artemisia Gentileschi — The Birth of Saint John the Baptist
+*Room 5 · 310 words*
 
 **Where:** In Room 5, in front of the wide canvas of an interior where several women gather round a naked newborn baby, while the old mother rests in bed behind them with an elderly man before her.
 
@@ -526,10 +715,29 @@ Now look right down at the lower left edge of the canvas. There's a signature, a
 
 She signed at the edge of a picture for a king, in a set where every other painter was a man. And she made sure her name was on it.
 
-Through Room 6 and Room 7 to Room 7A. Look for Caravaggio's David, a young man bending over a giant's severed head in the dark.
+Through Room 6 and Room 7 to Room 7A. Look for Caravaggio's David, a young man bending over a giant's severed head in the dark. On the way, in Room 6, there's a short Extra on Guercino's Susannah and the Elders: play it there if you have time.
 
-### 025 · Room 7A · Caravaggio — David with the Head of Goliath
-*Room 7A · 316 words*
+### 036 · Room 6 · Extra · Guercino — Susannah and the Elders
+*Room 6 · 204 words*
+
+**Where:** In Room 6, on the way from Room 5 to Room 7. Find the wide canvas, about two metres across, split between two clothed old men crouching in shadow on the left and a pale nude young woman bathing in full light on the right.
+
+**What:** Guercino (Giovanni Francesco Barbieri), Susannah and the Elders, 1617, oil on canvas, 176 × 208 cm.
+
+One of the men in this painting isn't looking at Susanna. He's looking at you.
+
+The story comes from the Book of Daniel. Two respected elders hide in a garden to spy on a young woman as she bathes. When she refuses them, they accuse her of adultery. Guercino painted it in 1617, for Cardinal Alessandro Ludovisi, and he chose the watching rather than the attack.
+
+See how he splits the canvas. On the left, the two old men crouch in shadow, clothed and restless. On the right, Susanna sits in full light, calm and unaware. Her pose comes from an ancient statue, the Crouching Aphrodite. Between them, the flowers, probably lilies, stand for her purity.
+
+Now the elder nearest you. He stretches out his hand towards us, warning us to keep still, so that she won't notice. With one gesture, Guercino turns you from a visitor into an accomplice. It's an uncomfortable place to stand. And that is the point.
+
+The painting stayed with the Ludovisi family in Rome until 1664, when it passed to Philip the Fourth.
+
+Now go on through Room 7 to Room 7A. Look for Caravaggio's David, a young man bending over a giant's severed head in the dark.
+
+### 037 · Room 7A · Caravaggio — David with the Head of Goliath
+*Room 7A · 338 words*
 
 **Where:** In Room 7A, in front of a mid-sized dark canvas: a young David, lit against black shadow, straddling the giant's body and bending to tie up Goliath's severed head by the hair.
 
@@ -547,9 +755,26 @@ The canvas has had its own adventures. At one point in the eighteenth century it
 
 So the painting that was once only school of Caravaggio turned out to be the real thing. And the scream is still under there, just out of sight.
 
-Go back into Room 7, then through Room 8 to Room 8B, the El Greco room. Look for a small portrait of a man in black, his hand laid on his chest.
+Go back into Room 7, then through Room 8 to Room 8B, the El Greco room. Look for a small portrait of a man in black, his hand laid on his chest. On the way, in Room 8, there's a short Extra on Ribera's Sense of Touch: play it there if you have time.
 
-### 026 · Room 8B · El Greco — The Nobleman with his Hand on his Chest
+### 038 · Room 8 · Extra · Ribera — The Sense of Touch, and Saint Bartholomew
+*Room 8 · 228 words*
+
+**Where:** In Room 8, on the way from Room 7 to Room 8B. Find the upright canvas of an old blind man with closed eyes, his hands resting on a pale sculpted head, a small painted face lying on the table beside him. Nearby hangs a smaller half-length of a bearded old saint holding a knife.
+
+**What:** Jusepe de Ribera, The Sense of Touch, 1632, oil on canvas, 125 × 98 cm. Also in Room 8: Ribera, Saint Bartholomew, 1630–1635, oil on canvas, 77 × 64 cm.
+
+A blind man is studying a face. Not with his eyes, which are closed, but with his fingertips.
+
+Ribera painted The Sense of Touch in 1632. The man's hands rest on a sculpted head, which an old inventory calls a head of Apollo. On the table beside him lies a painting of a face, which he ignores. That's the joke, and the argument. Artists of the day debated which was greater, painting or sculpture. Sculpture, its champions said, can be known by touch as well as sight. A painting is flat. To a blind man, it's nothing at all.
+
+Follow the light. It falls on the bust and on the top of his head, the brightest parts of the picture. The museum suggests he can feel it on his forehead and his closed eyelids. For two centuries he was taken for a real blind sculptor, Gonnelli. But Gonnelli was not yet thirty, and this man is old and wrinkled.
+
+Nearby is Ribera's Saint Bartholomew, from a series of apostles, a favourite subject of the Counter-Reformation. The old man holds a knife, the sign of his martyrdom. An inventory made after the death of King Charles the Second valued him at fifty doubloons.
+
+Now go on into Room 8B, the El Greco room. Look for a small portrait of a man in black, his hand laid on his chest.
+
+### 039 · Room 8B · El Greco — The Nobleman with his Hand on his Chest
 *Room 8B · 293 words*
 
 **Where:** In Room 8B, the first El Greco room. Look for the small half-length portrait of a man in black against a dark ground, a white ruff at his throat and his right hand spread flat on his chest.
@@ -572,7 +797,7 @@ We may never learn his name. But four centuries later, he's still keeping his pr
 
 Stay in Room 8B for The Holy Trinity, the tall canvas where God the Father holds the dead body of Christ.
 
-### 027 · Room 8B · El Greco — The Holy Trinity
+### 040 · Room 8B · El Greco — The Holy Trinity
 *Room 8B · 311 words*
 
 **Where:** Stay in Room 8B and find the very tall canvas, about three metres high: an old, bearded God the Father on a throne of clouds, holding the pale dead body of Christ, the white dove above and angels in bright robes crowding round.
@@ -595,7 +820,7 @@ And here's the thread to follow. El Greco's first Spanish commission was for San
 
 Next door, Room 9B: El Greco's last great altarpieces, tall canvases glowing out of the dark.
 
-### 028 · Room 9B · El Greco — The Adoration of the Shepherds and the late altarpieces
+### 041 · Room 9B · El Greco — The Adoration of the Shepherds and the late altarpieces
 *Room 9B · 355 words*
 
 **Where:** In Room 9B, among very tall canvases. Start with The Adoration of the Shepherds, a night scene over three metres high where all the light comes from the newborn Christ, a banner of angels above.
@@ -618,7 +843,7 @@ Perhaps two painters, one old, one young, both looking out at you from the same 
 
 Next door, Room 9: Ribera. Look for a very long, low canvas of a blind old man in bed, and a huge square martyrdom under a blue sky.
 
-### 029 · Room 9 · Ribera — Isaac and Jacob, and The Martyrdom of Saint Philip
+### 042 · Room 9 · Ribera — Isaac and Jacob, and The Martyrdom of Saint Philip
 *Room 9 · 354 words*
 
 **Where:** In Room 9, the Ribera room. Find the very long, low canvas of a blind old man in bed reaching out to a young man, then the huge square canvas of a near-naked saint being hauled up on a beam against a wide blue sky.
@@ -639,7 +864,7 @@ It may well have been commissioned by the viceroy of Naples, probably as a gift 
 
 Next door, Room 9A: Velázquez's Surrender of Breda. Look for the forest of tall lances against the sky.
 
-### 030 · Room 9A · Velázquez — The Surrender of Breda
+### 043 · Room 9A · Velázquez — The Surrender of Breda
 *Room 9A · 331 words*
 
 **Where:** In Room 9A, stand well back from the very large canvas, taller than it is wide, where two commanders meet in the centre and one hands the other a key, with a forest of upright lances against the sky on the right.
@@ -660,7 +885,7 @@ Finally, find the sheet of paper lying on the ground in the lower right corner. 
 
 Next door is Room 10A. Look for a long, low still life by Zurbarán: four vessels in a row on a dark ledge.
 
-### 031 · Room 10A · Zurbarán — Still Life with Vessels
+### 044 · Room 10A · Zurbarán — Still Life with Vessels
 *Room 10A · 305 words*
 
 **Where:** In Room 10A, find the long, low painting, less than a metre wide, of four vessels standing in a row on a wooden ledge against a black background.
@@ -683,8 +908,8 @@ Stay with it for a moment longer. Four ordinary things, looked at as carefully a
 
 Next door is Room 10. Look for a pale, bare-chested young god crowning a kneeling man, surrounded by grinning, weather-beaten men. That's Velázquez's Feast of Bacchus.
 
-### 032 · Room 10 · Velázquez — The Feast of Bacchus, 'Los Borrachos'
-*Room 10 · 331 words*
+### 045 · Room 10 · Velázquez — The Feast of Bacchus, 'Los Borrachos'
+*Room 10 · 348 words*
 
 **Where:** In Room 10, find the wide canvas of a pale, half-naked young god sitting outdoors and crowning a kneeling man, with a group of sunburnt, grinning men crowding in on the right.
 
@@ -702,9 +927,28 @@ Also in this room is the man who paid for all this. It's a small portrait of the
 
 So here is the new court painter, polishing the royal face on one wall, and on the other, letting a few weathered drinkers steal the show from a god.
 
-Next door is Room 11. Look for a blacksmith's forge, where a young god crowned with laurel has just walked in with bad news. That's Vulcan's Forge.
+Before you go, there's a short Extra on Velázquez's early Adoration of the Magi in this room. Next door is Room 11. Look for a blacksmith's forge, where a young god crowned with laurel has just walked in with bad news. That's Vulcan's Forge.
 
-### 033 · Room 11 · Velázquez — Vulcan's Forge
+### 046 · Room 10 · Extra · Velázquez — The Adoration of the Magi
+*Room 10 · 215 words*
+
+**Where:** In Room 10, the same room as the Feast of Bacchus. Find the tall, dark canvas, about two metres high, of the Virgin and Child receiving three kings, with a white-bearded king at the far left and a younger king kneeling in front.
+
+**What:** Diego Velázquez, The Adoration of the Magi, 1619, oil on canvas, 203 × 125 cm.
+
+Before the court, before the kings and the jesters, Velázquez was a young painter in Seville. And this may be a family picture.
+
+He painted it there in 1619, when he was about twenty. It's the largest of his early works, and it was first recorded at the novitiate of San Luis in Seville, a house very probably linked to the Jesuits.
+
+Look closely at the faces. They aren't ideal types. They look like people he knew, and one scholar has called the painting a family portrait. The king with the white beard, on the far left, is a portrait of Francisco Pacheco, the painter's father-in-law. Saint Joseph and the kneeling king in front look very like what may be a youthful self-portrait of Velázquez. And his daughter was born in 1619, the year of this picture. People have often wondered about the Virgin and Child.
+
+Painters had slipped real faces into the Adoration before, Botticelli among them. But Velázquez gives his portraits unusual weight. Earthy ochres and blacks, with flashes of red, white and blue. Real people, standing close.
+
+The kings brought gold, frankincense and myrrh. Velázquez brought the in-laws.
+
+Next door is Room 11. Look for a blacksmith's forge, where a young god crowned with laurel has just walked in with bad news.
+
+### 047 · Room 11 · Velázquez — Vulcan's Forge
 *Room 11 · 316 words*
 
 **Where:** In Room 11, stand before the large canvas of a dark forge, where a young man in an orange robe with light around his head speaks to a row of half-naked blacksmiths who have stopped work.
@@ -727,7 +971,7 @@ Apollo is the god of truth, after all. He just has terrible timing.
 
 Ahead is the great oval Room 12, the heart of the Velázquez rooms. Look for Las Meninas and the royal family on horseback.
 
-### 034 · Room 12 · Velázquez — Room 12 and the riders
+### 048 · Room 12 · Velázquez — Room 12 and the riders
 *Room 12 · 261 words*
 
 **Where:** In the great oval Room 12, step into the middle and turn slowly: the huge canvases of riders on horseback are the royal family, with the king's hunting portrait and a small late bust of him nearby.
@@ -746,7 +990,7 @@ Then the king off duty, in hunting dress with his dog and gun. Look at his cap. 
 
 Stay in Room 12. The biggest crowd here is gathered around Las Meninas.
 
-### 035 · Room 12 · Velázquez — Las Meninas
+### 049 · Room 12 · Velázquez — Las Meninas
 *Room 12 · 345 words*
 
 **Where:** In Room 12, stand well back, ideally facing it straight on, from the enormous canvas, over three metres tall, of a little blonde princess in a pale dress among her attendants, with the painter at a huge easel on the left.
@@ -769,7 +1013,7 @@ Palomino called it the most illustrious of all his works. Not bad for a picture 
 
 Leave Room 12 through the wide doorway into the Central Gallery. In Room 27, look for Titian's emperor on horseback, in gleaming armour, his lance lowered.
 
-### 036 · Room 27 · Titian — The Emperor Charles V at Mühlberg
+### 050 · Room 27 · Titian — The Emperor Charles V at Mühlberg
 *Room 27 · 351 words*
 
 **Where:** In Room 27 of the Central Gallery, find the huge canvas of a man in gold-trimmed armour on a dark horse with crimson trappings, riding alone with a lance against an evening sky. The two dark canvases of figures in eternal torment and the life-size Leoni bronze of a young king in armour are in the same room.
@@ -790,8 +1034,8 @@ One family's power, in three moods. The calm rider, the threat, and the heir.
 
 Walk one room along the gallery to Room 26. Look for a sleeping young hunter stretched across the lap of Venus, and a little Cupid holding back a dog.
 
-### 037 · Room 26 · Veronese — Venus and Adonis
-*Room 26 · 292 words*
+### 051 · Room 26 · Veronese — Venus and Adonis
+*Room 26 · 277 words*
 
 **Where:** In Room 26 of the Central Gallery, find the canvas of a young hunter in bright orange asleep across the lap of Venus in the shade of a tree, with a small Cupid on the right holding back a hound.
 
@@ -809,11 +1053,26 @@ Now the colour, Venice at its richest. Venus wears a purple-blue silk scattered 
 
 The painting reached Spain thanks to Velázquez himself. He acquired it on his second journey to Italy, and it entered the royal collection. Its partner, a scene of Cephalus and Procris, is now in Strasbourg.
 
-Also in this room, Guido Reni's Hippomenes and Atalanta shows another race against fate. Her suitors died if they lost, and he is about to drop the last golden apple to slow her down.
+Before you go, there's a short Extra on Guido Reni's Hippomenes and Atalanta and its neighbours in this room. One more room along the gallery is Room 25. Look for a very long, low canvas of a tiled hall, with Christ kneeling at the right-hand end to wash a disciple's feet.
+
+### 052 · Room 26 · Extra · Guido Reni — Hippomenes and Atalanta, with Orazio Gentileschi and Annibale Carracci
+*Room 26 · 223 words*
+
+**Where:** In Room 26 of the Central Gallery, the same room as Veronese's Venus and Adonis. Find the wide canvas of two nearly nude runners, a young man and a young woman, set in a coastal landscape split between land and sky. Nearby are a large scene of women finding a baby in a basket by a river, and a large Venus with Cupid and a young hunter.
+
+**What:** Guido Reni, Hippomenes and Atalanta, 1618–1619, oil on canvas, 206 × 279 cm. Also in Room 26: Annibale Carracci, Venus, Adonis and Cupid, around 1590, oil on canvas; Orazio Gentileschi, The Finding of Moses, 1633, oil on canvas, 242 × 281 cm.
+
+Two paintings in this room reached Spain in the same year, from the same place. In 1664 Philip the Fourth acquired them from the family of a Genoese collector, Giovanni Francesco Serra.
+
+The first is Guido Reni's Hippomenes and Atalanta. Atalanta would only marry a man who beat her in a race, and the losers were put to death. Venus gave Hippomenes three golden apples to drop at her feet. Now look behind his back. Reni shows the moment just before the third apple falls, still hidden behind him. Scholars have long argued whether this canvas or a version in Naples came first. The Reni expert Stephen Pepper sided with Madrid.
+
+The second is Annibale Carracci's Venus, Adonis and Cupid. Venus has been grazed by one of her son's arrows, and falls for Adonis. It's the start of the story whose last quiet afternoon Veronese painted, here in this room.
+
+The third painting was a present. Orazio Gentileschi painted The Finding of Moses in London, when he was nearly seventy, and his son delivered it to the king in Madrid. Every figure is a woman, except the baby in the basket.
 
 One more room along the gallery is Room 25. Look for a very long, low canvas of a tiled hall, with Christ kneeling at the right-hand end to wash a disciple's feet.
 
-### 038 · Room 25 · Tintoretto — The Washing of the Feet
+### 053 · Room 25 · Tintoretto — The Washing of the Feet
 *Room 25 · 320 words*
 
 **Where:** In Room 25 of the Central Gallery, find the very long, low canvas, over five metres wide, of a tiled hall full of seated men, with Christ kneeling at a basin at the right-hand end.
@@ -834,7 +1093,7 @@ Then the painting travelled. It ended up with King Charles the First of England.
 
 Walk back along the gallery, through Room 26 to Room 27, then turn into Room 12 and cross it into Room 14. Look for a pale Christ on the cross against a black background.
 
-### 039 · Room 14 · Velázquez — Christ Crucified
+### 054 · Room 14 · Velázquez — Christ Crucified
 *Room 14 · 299 words*
 
 **Where:** In Room 14, stand before the tall canvas, about two and a half metres high, of Christ alone on the cross against a black background, his head bowed and his hair falling over half his face.
@@ -857,7 +1116,7 @@ Also in this room is a very different Velázquez, The Coronation of the Virgin, 
 
 Next door is Room 15, with Velázquez's portraits of the court buffoons. Look for a man in black standing alone in an empty grey space.
 
-### 040 · Room 15 · Velázquez — The Buffoons
+### 055 · Room 15 · Velázquez — The Buffoons
 *Room 15 · 297 words*
 
 **Where:** In Room 15, look for the tall portrait of a man in black alone in an empty grey space, and the smaller canvases of court buffoons seated on the ground, all looking out at you.
@@ -876,7 +1135,7 @@ Then Pablo de Valladolid, all in black, caught in the middle of a speech. There'
 
 Next door is Room 15A. Look for a dim workshop of women spinning wool, with a bright room and a tapestry behind them. That's The Spinners.
 
-### 041 · Room 15A · Velázquez — The Spinners, or the Fable of Arachne
+### 056 · Room 15A · Velázquez — The Spinners, or the Fable of Arachne
 *Room 15A · 346 words*
 
 **Where:** In Room 15A, stand before the wide canvas of women spinning wool in a dim workshop, with a brightly lit room behind them where elegant ladies stand in front of a tapestry. Velázquez's Mars, a seated nude in a helmet, is in the same room.
@@ -901,7 +1160,7 @@ Go back into Room 15 and straight on into Room 16, Murillo's room. Look for 16 a
 
 ## Floor 1 · Murillo, Rubens & Goya
 
-### 042 · Room 16 · Murillo — The Immaculate Conception of Los Venerables
+### 057 · Room 16 · Murillo — The Immaculate Conception of Los Venerables
 *Room 16 · 288 words*
 
 **Where:** In Room 16, find the tall canvas, almost three metres high, of the young Virgin in white and blue standing on a crescent moon, hands crossed on her breast, rising through golden light among clouds of angels.
@@ -922,7 +1181,7 @@ Soult's name has stuck to her. In the museum's own records she's still the Soult
 
 Next door is Room 17. Look for a homely family scene, with a small boy holding a bird out of reach of a little dog.
 
-### 043 · Room 17 · Murillo — The Holy Family with a Little Bird
+### 058 · Room 17 · Murillo — The Holy Family with a Little Bird
 *Room 17 · 295 words*
 
 **Where:** In Room 17, find the wide canvas of a homely interior: Joseph seated with the young Christ, who holds a little bird up out of reach of a small dog, while Mary pauses at her work to watch.
@@ -947,7 +1206,7 @@ No miracle, no vision. Just a family, a pet, and a child who won't share.
 
 Next, Room 16B. Look for 16B at the doorway, and a double portrait of two men side by side in an oval, one in white satin, one in black.
 
-### 044 · Room 16B · Van Dyck — Endymion Porter and Anthony van Dyck
+### 059 · Room 16B · Van Dyck — Endymion Porter and Anthony van Dyck
 *Room 16B · 289 words*
 
 **Where:** In Room 16B, find the double portrait inside a painted oval: a man in shining white satin facing you, and beside him a slighter man in black, turned in profile, both resting a hand on a rock.
@@ -970,7 +1229,7 @@ Equal in friendship, careful in rank. Van Dyck manages both on a single canvas.
 
 Out into the Central Gallery, Room 28. Look for Rubens's enormous Adoration of the Magi, a night scene crowded with kings and servants, all lit by the Child.
 
-### 045 · Room 28 · Rubens — The Adoration of the Magi
+### 060 · Room 28 · Rubens — The Adoration of the Magi
 *Room 28 · 293 words*
 
 **Where:** In Room 28 of the Central Gallery, stand well back from the enormous canvas, almost five metres wide, of a night-time crowd of kings, servants and horses pressing towards the Virgin and the glowing Child on the left.
@@ -991,7 +1250,7 @@ Kings, servants, horses, silk and gold, all pressing towards a baby. Rubens neve
 
 Next, Room 29. Look for three nude goddesses with their arms around each other, under a garland of roses.
 
-### 046 · Room 29 · Rubens — The Three Graces, The Garden of Love and The Judgement of Paris
+### 061 · Room 29 · Rubens — The Three Graces, The Garden of Love and The Judgement of Paris
 *Room 29 · 337 words*
 
 **Where:** In Room 29 of the Central Gallery, start with the tall panel of three nude women embracing under a garland of roses. The wide canvas of elegant couples and flying cupids in a garden, and the very long canvas of three goddesses before a seated shepherd, are in the same room.
@@ -1010,8 +1269,8 @@ The very long canvas is The Judgement of Paris, ordered by the king himself arou
 
 Through to the octagonal Room 32, the first of the Goya rooms. Look for 32 at the doorway, and Goya's great portrait of the family of King Charles the Fourth.
 
-### 047 · Room 32 · Goya — The Family of Charles IV
-*Room 32 · 354 words*
+### 062 · Room 32 · Goya — The Family of Charles IV
+*Room 32 · 360 words*
 
 **Where:** In Room 32, the eight-sided Goya room. Stand well back from the very wide canvas of a royal family in a row, glittering with silks, sashes and jewels, the queen in the middle and a painter half-hidden in shadow at the back left.
 
@@ -1031,10 +1290,29 @@ One last detail. Next to Fernando, a young woman turns her face away from us. Sh
 
 The museum plans to rehang Rooms 32 to 38, with no date announced. If this room is closed or changed, follow the Goya signs or ask a member of staff.
 
-Leave Room 32 by the far side, turn into Room 34 and walk straight on through 35, 36 and 37 to Room 38. Look for two paintings of the same woman lying on a green couch.
+Leave Room 32 by the far side into Room 34, then walk through 35, 36 and 37 to Room 38: two paintings of one woman on a green couch. Room 36 has a short Extra on Goya's self-portrait, if you have time.
 
-### 048 · Room 38 · Goya — The Naked Maja and The Clothed Maja
-*Room 38 · 334 words*
+### 063 · Room 36 · Extra · Goya — Self-portrait, 1815
+*Room 36 · 205 words*
+
+**Where:** In Room 36, on the way from Room 32 to Room 38. Find the small head-and-shoulders portrait, under half a metre tall, of an ageing man in a reddish-brown coat and a very white open-necked shirt, looking straight out at you.
+
+**What:** Francisco de Goya y Lucientes, Self-Portrait, 1815, oil on canvas, 45.8 × 35.6 cm.
+
+The war was over, and Goya was nearly seventy. He took a small canvas and painted his own face.
+
+He doesn't dress up for it. A reddish-brown coat, and a very white shirt open at the neck. The skin is soft and rosy, a little slack. The museum sees a man showing himself as vulnerable and fragile, and yet serene, even welcoming.
+
+Now compare the brushwork. The background is all rapid, energetic, crossing strokes, in the Venetian manner. The coat and shirt are painted with finer, calmer strokes. And then there are the eyes. He no longer seems to be studying himself in a mirror. He's looking at you.
+
+Last, find the signature, on the background at the left. He didn't paint it on. He scratched his name and the date into the paint, perhaps with the tip of the brush handle. A quick, private mark, from a man who had seen a great deal.
+
+The museum plans to rehang Rooms 32 to 38, with no date announced. If this portrait has moved, follow the Goya signs or ask a member of staff.
+
+Now go on through Room 37 to Room 38. Look for two paintings of the same woman lying on a green couch.
+
+### 064 · Room 38 · Goya — The Naked Maja and The Clothed Maja
+*Room 38 · 358 words*
 
 **Where:** In Room 38, at the far end of the Goya wing. Find the two long, low paintings of the same young woman lying on a green couch with her arms behind her head: naked in one, and in the other dressed in white with a short yellow jacket.
 
@@ -1056,9 +1334,28 @@ Her name is lost. Her gaze isn't.
 
 The planned rehang of Rooms 32 to 38 applies here too. If this room is closed or changed, follow the Goya signs or ask a member of staff.
 
-Now go through into Room 39, past the lift, then across the staircase landing into Room 23. Look for a tall altarpiece of the Virgin among clouds and angels, with a crescent moon at her feet.
+Now go through into Room 39, past the lift, then across the staircase landing into Room 23. Look for a tall altarpiece of the Virgin among clouds and angels, with a crescent moon at her feet. On the way, in Room 39, there's a short Extra on Mengs's portrait of Charles the Third: play it there if you have time.
 
-### 049 · Room 23 · Giambattista Tiepolo — The Immaculate Conception
+### 065 · Room 39 · Extra · Mengs — Charles III
+*Room 39 · 226 words*
+
+**Where:** In Room 39, on the way from Room 38 to Room 23. Find the standing portrait, about one and a half metres tall, of a king in armour and royal robes with three order badges on his chest, a command baton in his hand and heavy curtains behind him.
+
+**What:** Anton Raphael Mengs, Charles III, 1767, oil on canvas, 151.8 × 110.3 cm.
+
+In the 1770s, if a foreign court wanted to know what the king of Spain looked like, this is the face it was sent.
+
+Mengs painted Charles the Third in 1767, and the likeness became the king's official image. Copies followed for foreign courts. In 1773 the minister Grimaldi wrote that even the Empress of Russia had asked for portraits of the king, and that the court painters Bayeu and Maella had been ordered to paint them.
+
+Look at how the image is built. Armour and royal robes, a palace interior with heavy curtains. On his chest, the badges of three orders: the Golden Fleece, the French order of the Holy Spirit, and Saint Gennaro of Naples. His right hand holds the baton of command, while the left makes a gesture of authority. The face, the museum says, is severe but not haughty. A fine line for a king to walk.
+
+Mengs also painted a companion portrait of the queen, Maria Amalia. She had already died, so he invented her face from other likenesses.
+
+Hold on to Mengs's name. In the next room, you'll see what the court's taste for his style meant for a rival.
+
+Now cross the staircase landing into Room 23, beside this room. Look for a tall altarpiece of the Virgin among clouds and angels, with a crescent moon at her feet.
+
+### 066 · Room 23 · Giambattista Tiepolo — The Immaculate Conception
 *Room 23 · 348 words*
 
 **Where:** In Room 23, beside Room 39. Find the tall, narrow altarpiece of the Virgin standing in the clouds, a crescent moon and a serpent at her feet, small angels around her.
@@ -1081,8 +1378,8 @@ Go back to the staircase between Room 23 and Room 39 and climb to Floor 2, or ta
 
 ## Goya's Story · Floors 2 and 0
 
-### 050 · Room 90 · Goya — The Parasol
-*Room 90 · 308 words*
+### 067 · Room 90 · Goya — The Parasol
+*Room 90 · 290 words*
 
 **Where:** In Room 90 on Floor 2, past the stairs from Room 85. Find the wide, bright picture of a young woman sitting on the ground with a little dog in her lap, while a young man behind her holds up a green parasol.
 
@@ -1098,11 +1395,26 @@ The documents show that Goya invented this composition himself. He may have star
 
 Now notice where you seem to be standing. Slightly below them. The tapestry was meant to hang above a window, so Goya painted it to be seen from underneath. The figures make a neat pyramid in the foreground, a lesson he'd learned from Italian painting. And see how the parasol's shade falls softly across her face.
 
-If you have a moment, The Pottery Vendor hangs in Room 93, a few rooms along. Goya wrote proudly to a friend that the king and the royal couple had seen his new pictures, and this was almost certainly one of them.
+If you have time, a short Extra on The Pottery Vendor waits in Room 93, along the row of rooms past 91 and 92. Otherwise, go back past the stairs to Room 85 for the biggest cartoon of all: a harvest scene more than six metres wide.
 
-Now go back past the stairs to Room 85 for the biggest cartoon of all: a harvest scene more than six metres wide.
+### 068 · Room 93 · Extra · Goya — The Pottery Vendor
+*Room 93 · 213 words*
 
-### 051 · Room 85 · Goya — The Threshing Floor, or Summer
+**Where:** In Room 93 on Floor 2, along the row of Goya rooms past Rooms 91 and 92. Find the tall tapestry cartoon, about two and a half metres high, of a market scene: two seated young ladies and an old woman choosing crockery from a vendor, two men seated with their backs to you, and a coach with liveried servants passing behind.
+
+**What:** Francisco de Goya y Lucientes, The Pottery Vendor, 1778–1779, oil on canvas, 259 × 220 cm, a tapestry cartoon.
+
+Everyone at this market wants something. Only one of them looks content.
+
+Goya painted this cartoon in 1778 and 1779, one of twenty that Mengs ordered from him for the same royal couple at El Pardo, this time for their bedchamber. Goya's own invoice lists the cast. A Valencian man selling crockery. Two ladies, seated, choosing what to buy. An old woman doing the same. And two gentlemen on straw mats, watching a coach go by.
+
+Now follow the glances. The young woman in front pensively touches a bowl. She'd like the whole set. The two gentlemen, backs to us, gaze after the lady in the coach, far out of their reach. And she, an aristocrat beside a man in black, perhaps a priest, looks out with melancholy at a cheerful fair she isn't allowed to join. Only the old woman, gripping her earthenware dish, seems happy with what she has.
+
+Goya was proud of these pictures. He wrote to a friend that the king and the young royal couple had seen four of his new paintings, and this was almost certainly one of them.
+
+Now walk back through Rooms 92 and 91, past Room 90, to Room 85 for the biggest cartoon of all: a harvest scene more than six metres wide.
+
+### 069 · Room 85 · Goya — The Threshing Floor, or Summer
 *Room 85 · 333 words*
 
 **Where:** In Room 85 on Floor 2, the room with the staircase. The huge, sunlit harvest scene, more than six metres wide, is Summer. Nearby, the snowy scene of men wrapped in cloaks and a mule loaded with a pig is Winter.
@@ -1123,7 +1435,7 @@ That's the Goya to keep an eye on. Even in a design for a royal dining room, mea
 
 Now take the stairs in the corner of this room, the ones you came up, and go down two floors, past Floor 1, to Floor 0. The lift by Room 86 goes there too. At the bottom, by the Murillo entrance, follow the sign to Room 71 and look for a marble of two young men side by side.
 
-### 052 · Room 71 · Pupil of Pasiteles — Orestes and Pylades, or The San Ildefonso Group
+### 070 · Room 71 · Pupil of Pasiteles — Orestes and Pylades, or The San Ildefonso Group
 *Room 71 · 314 words*
 
 **Where:** In Room 71 on Floor 0, near the Murillo entrance. Find the white marble group of two naked young men standing side by side, one resting an arm on the other's shoulder, with a small altar at their feet.
@@ -1146,8 +1458,8 @@ The kings who hired Goya didn't only collect paintings. They collected the ancie
 
 Now follow the Goya signs to Room 67, near the foot of the stairs by the Murillo entrance. It's the last of the Goya rooms on this floor, and it holds the Black Paintings.
 
-### 053 · Room 67 · Goya — The Black Paintings
-*Room 67 · 345 words*
+### 071 · Room 67 · Goya — The Black Paintings
+*Room 67 · 359 words*
 
 **Where:** In Room 67 on Floor 0, by the Murillo entrance. Start at the narrow upright painting of a wild-eyed giant devouring a body: Saturn. In the same room are the long, dark crowd of witches before a black goat, two men fighting with clubs, and a small dog's head peering over a wide band of colour.
 
@@ -1167,9 +1479,28 @@ In 1873 Baron Émile d'Erlanger bought the house and had the murals transferred 
 
 Later artists saw the origins of modern art in these walls. An old man, alone, painting with absolute freedom.
 
-Now walk back through Rooms 66 and 65 to Room 64. Look for two huge canvases of the same size: a street fight, and a firing squad at night.
+Now walk back through Rooms 66 and 65 to Room 64. Look for two huge canvases of the same size: a street fight, and a firing squad at night. In Room 66, a short Extra on Goya's Milkmaid waits if you have time.
 
-### 054 · Room 64 · Goya — The 2nd of May 1808
+### 072 · Room 66 · Extra · Goya — The Milkmaid of Bordeaux
+*Room 66 · 202 words*
+
+**Where:** In Room 66 on Floor 0, between Room 67 and Room 65. Find the small, almost square canvas, under a metre tall, of a young woman in light colours, seen from slightly below, with a milk jug behind her on the left.
+
+**What:** Francisco de Goya y Lucientes, The Milkmaid of Bordeaux, around 1827, oil on canvas, 74 × 68 cm.
+
+After the Black Paintings, this is the last thing you might expect from the same hand. A young woman, in light, gentle colours.
+
+Goya painted The Milkmaid of Bordeaux around 1827, in France, near the end of his long life. He was about eighty. The museum points out how its light colours and simple subject stand apart from his other late work, where a darker palette brought out tragic scenes, as in the Black Paintings next door.
+
+Now look at the angle. You see her from slightly below. The museum suggests this is meant to give the feeling that she's riding a mule, though the animal stays out of sight. And just behind her, on the left, is her milk jug.
+
+The painting's first owner was Leocadia Zorrilla, in Bordeaux. You've just met her name in Room 67, across from Saturn. A few years later the Milkmaid passed to the Muguiro family, and in 1945 it came to the Prado.
+
+Darkness on the walls, and then this light. An old man, still trying something new.
+
+Now go on through Room 65 to Room 64. Look for two huge canvases of the same size: a street fight, and a firing squad at night.
+
+### 073 · Room 64 · Goya — The 2nd of May 1808
 *Room 64 · 303 words*
 
 **Where:** In Room 64 on Floor 0. Of the two huge canvases of the same size, find the one full of rearing horses and turbaned riders, with Madrid citizens dragging them down: a street fight in daylight.
@@ -1190,8 +1521,8 @@ So stand back and take in the whole thing. A furious tangle of bodies, painted f
 
 Stay in Room 64 for its partner, The 3rd of May: the firing squad at night.
 
-### 055 · Room 64 · Goya — The 3rd of May 1808
-*Room 64 · 316 words*
+### 074 · Room 64 · Goya — The 3rd of May 1808
+*Room 64 · 352 words*
 
 **Where:** In Room 64 on Floor 0, in front of the night scene: a line of soldiers in grey capes aiming their rifles at a man in a white shirt with his arms flung wide, a big lantern on the ground between them.
 
@@ -1211,11 +1542,49 @@ Think about who this was for. A commission from the Regency, paid for in the end
 
 It was in the Prado within twenty years. The French writer Théophile Gautier saw it here in 1840. A restoration finished in 2008 brought back its original brightness, so the white shirt burns again against the dark.
 
-Now go on through Room 63 and Room 63B to the long Room 75. Look for another execution, on a grey beach, painted seventy-four years later.
+Before you go, there's a short Extra on Goya's General Palafox on horseback in this room. Now go on through Room 63 and Room 63B to the long Room 75. Look for another execution, on a grey beach, painted seventy-four years later. On the way, in Room 63B, there's a short Extra on Fortuny's children: play it there if you have time.
+
+### 075 · Room 64 · Extra · Goya — General José de Palafox on Horseback
+*Room 64 · 227 words*
+
+**Where:** In Room 64 on Floor 0, the same room as the 2nd and the 3rd of May. Find the large equestrian portrait, about two and a half metres high, of a general in campaign uniform on horseback with a sabre, leading a cavalry charge.
+
+**What:** Francisco de Goya y Lucientes, General José de Palafox on Horseback, 1814, oil on canvas, 248 × 224 cm.
+
+He never won a battle. And yet this man became a symbol of Spain's resistance, and Goya painted him on horseback.
+
+José de Palafox was born in Zaragoza. In the spring of 1808 he was named Captain General of Aragon, and within days he declared war on Napoleon. The French besieged Zaragoza, and the city was left in a terrible state. But Palafox refused to hand it over. After it fell, he went to France.
+
+In 1814, the year Goya painted the two great canvases in this room, Palafox ordered this portrait himself. He rides out in campaign uniform, leading a cavalry charge. Notice what's missing. None of the decorations he had received, not even the grand cross of Charles the Third.
+
+Modest, then? Not quite. The museum thinks Goya used the slightly theatrical pose to bring out the general's vanity. A hero, gently teased.
+
+Then there was the bill. Goya wrote to say the portrait was finished that winter. Palafox paid only in 1831, after Goya's death, to the painter's son Javier. In the lower left corner you'll find the general's full name, and Goya's.
+
+Now go on through Room 63 to Room 63B, for a short Extra on Fortuny's painting of his children in a Japanese room. If you're skipping the Extras, walk on to the long Room 75 and Gisbert's execution on a beach.
+
+### 076 · Room 63B · Extra · Mariano Fortuny — The Painter's Children in the Japanese Room
+*Room 63B · 189 words*
+
+**Where:** In Room 63B on Floor 0, between Room 63 and Room 75. Find the small, very wide, low canvas, under half a metre tall, of a little girl with a fan and a tiny boy lying on a long divan in a room decorated with a flowering branch and butterflies.
+
+**What:** Mariano Fortuny, The Painter's Children in the Japanese Room, 1874, oil on canvas, 44 × 93 cm.
+
+This was a painter's last summer, and he spent part of it painting his children.
+
+Mariano Fortuny began the picture at Villa Arata, the family's summer house at Portici, near Naples. They lie on a long divan in the Japanese Room, decorated with nothing but a flowering branch and butterflies. His daughter María Luisa rests on big pillows, cooling herself with a fan. Her little brother Mariano, only three, is practically naked under a silk blanket, with a mask pushed up on his head.
+
+Now look at how Japanese it feels. A very wide, low format. Flat planes of colour on the walls and the floor. The butterflies, the fan. The museum finds the back wall astonishingly modern.
+
+Fortuny meant it as a gift for his father-in-law, the great painter Federico de Madrazo. But that same year Fortuny died suddenly, in his mid-thirties, and the picture was left unfinished.
+
+The little boy on the divan grew up, and left this painting to the Prado. It arrived in 1950.
+
+Now go on into the long Room 75. Look for a vast canvas of men facing execution on a grey beach.
 
 ## Floor 0 · The Nineteenth Century
 
-### 056 · Room 75 · Gisbert — The Execution of Torrijos and his Companions
+### 077 · Room 75 · Gisbert — The Execution of Torrijos and his Companions
 *Room 75 · 310 words*
 
 **Where:** In Room 75, the long nineteenth-century gallery on Floor 0. Find the vast canvas, about six metres wide, of a line of condemned men on a grey beach, with soldiers behind them and bodies lying at the very front.
@@ -1238,8 +1607,8 @@ It became, in the museum's own words, one of the greatest political manifestos i
 
 Go back towards the end of Room 75 where you came in, and through Room 62B into Room 61B. Look for 61B at the doorway, and a dying queen in a great canopied bed.
 
-### 057 · Room 61B · Rosales — Queen Isabella the Catholic Dictating her Will
-*Room 61B · 302 words*
+### 078 · Room 61B · Rosales — Queen Isabella the Catholic Dictating her Will
+*Room 61B · 327 words*
 
 **Where:** In Room 61B on Floor 0. Find the large, dim, hushed scene of a dying queen propped up in a great canopied bed, a scribe writing at her side and courtiers gathered in the shadows.
 
@@ -1259,9 +1628,30 @@ What made it special was the way it's painted. No shouting, no theatre. Soft, di
 
 Rosales died young, before he was forty. But this one picture changed what his generation thought a history painting could be.
 
-Now walk through Room 61 and Room 60 to Room 60A. Look for three naked boys lying in bright turquoise shallows.
+Now walk through Room 61 and Room 60 to Room 60A. Look for three naked boys lying in bright turquoise shallows. On the way, in Room 61, there's a short Extra on Madrazo's portrait of the Countess of Vilches: play it there if you have time.
 
-### 058 · Room 60A · Sorolla — Boys on the Beach
+### 079 · Room 61 · Extra · Federico de Madrazo — Amalia de Llano, Countess of Vilches
+*Room 61 · 204 words*
+
+**Where:** In Room 61 on Floor 0, between Room 61B and Room 60. Find the portrait, just over a metre tall, of a smiling young woman in a blue dress with a red velvet wrap, holding a fan, her fingertips just touching her face.
+
+**What:** Federico de Madrazo y Kuntz, Amalia de Llano y Dotres, Countess of Vilches, 1853, oil on unlined canvas, 126 × 89 cm.
+
+The Prado owns a great many nineteenth-century paintings. Of them all, the museum calls this one, without hesitation, the most emblematic.
+
+She is Amalia de Llano, Countess of Vilches, painted in 1853 at the age of thirty-two. She was a close friend of the painter, Federico de Madrazo, and she was far more than a society beauty. She published novels, Berta and Ledia. And at the Madrazo family's musical evenings, she even sang, accompanied at the piano.
+
+Look at her hand first. She holds her fan with great delicacy, and her fingertips barely touch her face. Then the smile, and the gaze that answers it. Then the colours: a blue dress, and a red velvet wrap lined with white satin.
+
+Madrazo learned this polish in Paris, as a student of the French master Ingres. The museum suggests the friendship between painter and sitter may explain the portrait's rare beauty and refinement.
+
+A novelist, a singer, and a friend. No wonder she looks as if she's about to say something clever.
+
+The portrait came to the Prado in 1944, left by the second Count of Vilches.
+
+Now go on through Room 60 to Room 60A. Look for three naked boys lying in bright turquoise shallows.
+
+### 080 · Room 60A · Sorolla — Boys on the Beach
 *Room 60A · 311 words*
 
 **Where:** In Room 60A on Floor 0. Find the bright, wide canvas of three naked boys lying in the shallow water at the edge of the sea, seen from close above, with no sky at all.
@@ -1286,7 +1676,7 @@ Your walk ends where it began. Go through the Room of the Muses into the Jeróni
 
 ## Closing
 
-### 059 · Through the eyes of kings
+### 081 · Through the eyes of kings
 *Jerónimos entrance hall · 308 words*
 
 **Where:** Back in the Jerónimos entrance hall where the walk began, or in the Room of the Muses on the way. Anywhere you can stand or sit for three minutes.

@@ -6,7 +6,7 @@ cd "$(dirname "$0")"
 
 echo ""
 echo "================================================================"
-echo "  Yo Tours - Museo del Prado  (59 tracks, 10 Oct 2026 edition)"
+echo "  Yo Tours - Museo del Prado  (81 tracks: 59 main + 22 Extras, 10 Oct 2026 edition)"
 echo "================================================================"
 echo ""
 echo "Choose a language:"
@@ -23,12 +23,14 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The full guide (59 tracks)"
-echo "  2) Two voice samples only: 035 Las Meninas + 053 The Black Paintings (a few minutes)"
-printf "Enter 1 or 2 [1]: "
+echo "  1) The full guide (81 tracks: 59 main stops + 22 Extras)"
+echo "  2) Two voice samples only: 049 Las Meninas + 071 The Black Paintings (a few minutes)"
+echo "  3) Main stops only (59 tracks; they mention the Extras, just skip those)"
+printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 OUTPUT_DIR="$HOME/Desktop/Prado_YoTours_${TAG}_${VOICE_NAME}"
-if [ "$SCOPE" = "2" ]; then export ONLY="035 053"; OUTPUT_DIR="$HOME/Desktop/Prado_YoTours_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
+if [ "$SCOPE" = "2" ]; then export ONLY="049 071"; OUTPUT_DIR="$HOME/Desktop/Prado_YoTours_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
+if [ "$SCOPE" = "3" ]; then export ONLY="001 002 003 004 005 008 010 011 012 013 015 016 017 019 020 024 025 026 027 029 031 032 033 035 037 039 040 041 042 043 044 045 047 048 049 050 051 053 054 055 056 057 058 059 060 061 062 064 066 067 069 070 071 073 074 077 078 080 081"; OUTPUT_DIR="$HOME/Desktop/Prado_YoTours_${TAG}_${VOICE_NAME}_MainStops"; fi
 export RESPELL=0
 
 [ -d "languages/$L/scripts" ] || { echo "ERROR: languages/$L is missing from this bundle."; read -p "Press enter..."; exit 1; }
@@ -49,7 +51,7 @@ if ! ( cd "languages/$L" && python3 ../../render_edge.py "$OUTPUT_DIR" ); then
     read -p "Press enter..."; exit 1
 fi
 python3 tag_tracks.py "$OUTPUT_DIR" "languages/$L" "$L"
-if [ -z "$ONLY" ]; then cp Prado_Audio_Guide_Route.pdf "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] route map"; fi
+if [ "$SCOPE" != "2" ]; then cp Prado_Audio_Guide_Route.pdf "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] route map"; fi
 
 echo ""
 echo "================================================================"

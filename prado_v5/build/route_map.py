@@ -11,17 +11,24 @@ import json, math, os, re, sys, html, asyncio
 B = sys.argv[1]
 PNG_DIR = sys.argv[sys.argv.index("--png") + 1] if "--png" in sys.argv else None
 plan = json.load(open(os.path.join(B, "plan.json"), encoding="utf-8")); TR = plan["tracks"]
+_ORD = [l.split() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "v5", "ORDER_081.txt"))]
+OLD = {int(n): o for n, o in _ORD}                  # new number -> old id ("019" core, "x09" extra)
+NEW = {o: int(n) for n, o in _ORD}
+N = lambda old: NEW[f"{old:03d}"]                   # new number of an old core stop
+XS = {int(t["seq"]) for t in TR if t.get("register") == "X"}
+MAIN = len(TR) - len(XS)
 
 # ---------------------------------------------------------------- palette & chapters
 PAPER, INK, MUTED, LINE, CTX = "#F6F1E7", "#1F1B17", "#776E62", "#D8CEBD", "#ECE5D7"
 RED, GOLD = "#8C1C13", "#A9812F"
-CH = [  # (number, title, subtitle, colour, first, last)
-    (1, "Floor 0 · Flemish & Italian masters", "Bosch, Bruegel, Dürer, Fra Angelico, Raphael, Van der Weyden", "#2C4A6E", 1, 14),
-    (2, "Floor 2 · Rembrandt & the Dauphin's Treasure", "Rembrandt, the royal jewels, Clara Peeters, Brueghel & Rubens", "#6A3A6B", 15, 18),
-    (3, "Floor 1 · Titian, El Greco, Velázquez", "Titian, Caravaggio, El Greco, Ribera, Zurbarán, Las Meninas", RED, 19, 41),
-    (4, "Floor 1 · Murillo, Rubens & Goya at court", "Murillo, Van Dyck, Rubens, Goya's royal family, the Majas", "#A4581B", 42, 49),
-    (5, "Goya's story, then the 19th century", "Tapestry cartoons, 2nd & 3rd of May, Black Paintings, Sorolla", "#2E6A62", 50, 59),
+_CH = [  # (number, title, subtitle, colour, first core stop in the 59-stop plan)
+    (1, "Floor 0 · Flemish & Italian masters", "Bosch, Bruegel, Dürer, Fra Angelico, Raphael, Van der Weyden", "#2C4A6E", 1),
+    (2, "Floor 2 · Rembrandt & the Dauphin's Treasure", "Rembrandt, Rubens, the royal jewels, Clara Peeters", "#6A3A6B", 15),
+    (3, "Floor 1 · Titian, El Greco, Velázquez", "Titian, Caravaggio, El Greco, Ribera, Zurbarán, Las Meninas", RED, 19),
+    (4, "Floor 1 · Murillo, Rubens & Goya at court", "Murillo, Van Dyck, Rubens, Goya's royal family, the Majas", "#A4581B", 42),
+    (5, "Goya's story, then the 19th century", "Tapestry cartoons, 2nd & 3rd of May, Black Paintings, Sorolla", "#2E6A62", 50),
 ]
+CH = [(c[0], c[1], c[2], c[3], N(c[4]), (N(_CH[i + 1][4]) - 1) if i + 1 < len(_CH) else len(TR)) for i, c in enumerate(_CH)]
 def chapter(n):
     for c in CH:
         if c[4] <= n <= c[5]: return c
@@ -42,9 +49,11 @@ def short(t):
          36: "Titian — Charles V at Mühlberg", 2: "Patinir — Charon Crossing the Styx", 49: "Tiepolo — The Immaculate Conception",
          25: "Caravaggio — David with the Head of Goliath", 41: "Velázquez — The Spinners", 43: "Murillo — The Holy Family with a Little Bird",
          51: "Goya — The Threshing Floor (Summer)", 9: "Botticelli — Nastagio degli Onesti"}
-    n = int(t["seq"])
-    if n in s: return s[n]
-    x = t["title"]; return x.split(" · ", 1)[1] if x.startswith("Room") else x
+    old = OLD[int(t["seq"])]
+    x = t["title"]
+    if old.startswith("x"): return "Extra · " + x.split("Extra · ", 1)[-1]
+    if int(old) in s: return s[int(old)]
+    return x.split(" · ", 1)[1] if x.startswith("Room") else x
 
 def rkey(room):
     m = re.search(r"Room (\w+)", room); return m.group(1) if m else "HALL"
@@ -96,7 +105,7 @@ PATHS = {
  "f1n": ["1", "40", "41", "42", "43", "44", "43", "42", "41", "40", "1", "2", "3", "4", "5", "6", "7", "7A", "7", "8", "8B", "9B", "9", "9A",
          "10A", "10", "11", "12", "27", "26", "25", "26", "27", "12", "14", "15", "15A", "15", "16"],
  "f1s": ["15", "16", "17", "16B", "28", "29", "32", "34", "35", "36", "37", "38", "39", "23", "39"],
- "f2s": ["85", "90", "85"],
+ "f2s": ["85", "90", "91", "92", "93", "92", "91", "90", "85"],
  "f0s": ["71", "74", "67", "66", "65", "64", "63", "63B", "75", "62B", "61B", "61", "60", "60A", "MUSES", "HALL"],
 }
 
@@ -165,12 +174,16 @@ def plan_svg(rooms, paths, width_mm, max_h_mm, notes=(), only=None, colour_of=No
             ty = y + (h * .40 if col else h / 2 + fs * .35)
             out.append(f'<text x="{x+w/2:.2f}" y="{ty:.2f}" class="rn" style="font-size:{fs:.2f}px;fill:{tc};font-weight:{fw}">{esc(label)}</text>')
         if col:
-            n = len(stops); rad = min(S * .17, (w - S * .08) / (2.2 * n))
+            n = len(stops); rad = min(S * .17, (w + S * .3) / (2.25 * n))
             gap = rad * 2.2; x0 = x + w / 2 - gap * (n - 1) / 2; cy = y + h - rad - S * .08
             for i, s in enumerate(stops):
                 cx = x0 + i * gap
-                out.append(f'<circle cx="{cx:.2f}" cy="{cy:.2f}" r="{rad:.2f}" fill="{colour_of(s)}"/>')
-                out.append(f'<text x="{cx:.2f}" y="{cy + rad*.37:.2f}" class="sn" style="font-size:{rad*1.05:.2f}px">{s}</text>')
+                if s in XS:
+                    out.append(f'<circle cx="{cx:.2f}" cy="{cy:.2f}" r="{rad*.93:.2f}" fill="#fff" stroke="{colour_of(s)}" stroke-width="{rad*.16:.2f}"/>')
+                    out.append(f'<text x="{cx:.2f}" y="{cy + rad*.37:.2f}" class="sn" style="font-size:{rad*1.0:.2f}px;fill:{colour_of(s)}">{s}</text>')
+                else:
+                    out.append(f'<circle cx="{cx:.2f}" cy="{cy:.2f}" r="{rad:.2f}" fill="{colour_of(s)}"/>')
+                    out.append(f'<text x="{cx:.2f}" y="{cy + rad*.37:.2f}" class="sn" style="font-size:{rad*1.05:.2f}px">{s}</text>')
     for r, text, kind, dx, dy in notes:
         cx, cy = centre(r); tx, ty = cx + dx * S, cy + dy * S
         colr = {"start": INK, "finish": INK, "up": GOLD, "down": GOLD, "info": MUTED}[kind]
@@ -197,8 +210,13 @@ def stop_list(first, last):
         if not first <= n <= last: continue
         col = chapter(n)[3]; room = rkey(t["room"])
         room = "Entrance hall" if room == "HALL" else f"Room {room}"
-        rows.append(f'<div class="row"><span class="dot" style="background:{col}">{n}</span>'
-                    f'<span class="rm">{esc(room)}</span><span class="tt">{esc(short(t))}</span></div>')
+        if n in XS:
+            title = short(t).replace("Extra · ", "")
+            rows.append(f'<div class="row x"><span class="dot hol" style="color:{col};border-color:{col}">{n}</span>'
+                        f'<span class="rm">{esc(room)}</span><span class="tt"><i style="color:{col}">Extra</i> {esc(title)}</span></div>')
+        else:
+            rows.append(f'<div class="row"><span class="dot" style="background:{col}">{n}</span>'
+                        f'<span class="rm">{esc(room)}</span><span class="tt">{esc(short(t))}</span></div>')
     return "".join(rows)
 
 def minutes(first, last):
@@ -221,7 +239,7 @@ def overview_svg():
         o.append(f'<text x="{L-3.2}" y="{y+fh/2+6.6}" class="flc">FLOOR</text>')
     Z = [(0, -458, -336, CH[0][3], 1, "Flemish & Italian masters"), (2, -472, -392, CH[1][3], 2, "Rembrandt"),
          (1, -472, -262, CH[2][3], 3, "Titian · El Greco · Velázquez"), (1, -258, -171, CH[3][3], 4, "Rubens · Goya"),
-         (2, -232, -171, CH[4][3], 5, "Goya's cartoons"), (0, -300, -171, CH[4][3], 5, "Goya's war · 19th century")]
+         (2, -232, -171, CH[4][3], 5, "Cartoons"), (0, -300, -171, CH[4][3], 5, "Goya's war · 19th century")]
     for f, a0, a1, col, n, lab in Z:
         y = fy[f] + 3.0; x0, x1 = X(a0) + .8, X(a1) - .8; x0, x1 = min(x0, x1), max(x0, x1); hz = fh - 6.0
         o.append(f'<rect x="{x0:.1f}" y="{y:.1f}" width="{x1-x0:.1f}" height="{hz:.1f}" rx="2" fill="{col}" fill-opacity=".10" stroke="{col}" stroke-width=".55"/>')
@@ -259,11 +277,11 @@ def overview_svg():
 cards = "".join(
     f'<div class="card"><div class="cbar" style="background:{c[3]}"></div><div class="cnum" style="background:{c[3]}">{c[0]}</div>'
     f'<div class="cbody"><div class="ct">{esc(c[1])}</div><div class="cs">{esc(c[2])}</div></div>'
-    f'<div class="cmeta"><b>Stops {c[4]}–{c[5]}</b><br>about {minutes(c[4], c[5])} min</div></div>' for c in CH)
+    f'<div class="cmeta"><b>Stops {c[4]}–{c[5]}</b><br>{sum(1 for t in TR if c[4] <= int(t["seq"]) <= c[5] and int(t["seq"]) not in XS)} main · {sum(1 for x in XS if c[4] <= x <= c[5])} Extras</div></div>' for c in CH)
 pages.append(f'''<section class="page">
  <header><div class="brand">YO TOURS · AUDIO GUIDE</div><h1>Museo del Prado</h1>
- <p class="lede">Your route: {len(TR)} stops over three floors, about two and a half hours of listening.</p></header>
- <div class="how"><div><b>1</b> Every room's number is shown at its doorway.</div><div><b>2</b> Play the stops listed for that room.</div>
+ <p class="lede">Your route over three floors: {MAIN} main stops, about two and a half hours, plus {len(XS)} short Extras if you have time.</p></header>
+ <div class="how"><div><b>1</b> Every room's number is shown at its doorway.</div><div><b>2</b> Play the stops listed for that room. Hollow circles are short, optional Extras.</div>
  <div><b>3</b> Each stop ends by telling you which room is next.</div></div>
  <div class="ov">{overview_svg()}</div>
  <div class="cards">{cards}</div>
@@ -282,45 +300,45 @@ def floor_page(chap_ids, title, sub, svg, first, last, aside="", stack=False):
 
 G = lambda d, lo=-9999, hi=9999: [k for k, v in d.items() if lo <= v[0] * 12.5 <= hi]
 # Page 2 — Floor 0 north
-svg, _, _ = plan_svg(F0, [("f0n", CH[0][3])], 182, 150,
+svg, _, _ = plan_svg(F0, [("f0n", CH[0][3])], 182, 126,
     notes=[("HALL", "START here", "start", 0, 1.25), ("51", "Lift UP to Floor 2\n(signs: Rooms 76–83)", "up", -1.6, -1.4)],
-    only=G(F0, hi=-336), colour_of=colour_in(1, 14))
-pages.append(floor_page([1], "Floor 0 · Flemish & Italian masters", "From the Jerónimos entrance hall through the Flemish rooms to Raphael and medieval Spain. Stops 1–14.", svg, 1, 14, stack=True))
+    only=G(F0, hi=-336), colour_of=colour_in(CH[0][4], CH[0][5]))
+pages.append(floor_page([1], "Floor 0 · Flemish & Italian masters", f"From the Jerónimos entrance hall through the Flemish rooms to Raphael and medieval Spain. Stops {CH[0][4]}–{CH[0][5]}.", svg, CH[0][4], CH[0][5], stack=True))
 
 # Page 3 — Floor 2 north
 svg, _, _ = plan_svg(F2, [("f2n", CH[1][3])], 182, 118,
     notes=[("76", "Arrive here\nfrom Floor 0", "up", -2.2, 0), ("83", "Then DOWN to Floor 1:\nthe round Room 1", "down", 2.6, 0)],
-    only=G(F2, hi=-380), colour_of=colour_in(15, 18))
-pages.append(floor_page([2], "Floor 2 · Rembrandt & the Dauphin's Treasure", "A small top-floor wing above the Goya entrance. Stops 15–18.", svg, 15, 18, stack=True))
+    only=G(F2, hi=-380), colour_of=colour_in(CH[1][4], CH[1][5]))
+pages.append(floor_page([2], "Floor 2 · Rembrandt & the Dauphin's Treasure", f"A small top-floor wing above the Goya entrance. Stops {CH[1][4]}–{CH[1][5]}.", svg, CH[1][4], CH[1][5], stack=True))
 
 # Page 4a — Floor 1, the north end
 svg, _, _ = plan_svg(F1, [("f1n", CH[2][3])], 104, 226,
     notes=[("1", "Arrive from Floor 2", "down", .2, -2.75), ("8B", "Continues on\nthe next page", "info", -.4, 1.5)],
-    only=G(F1, hi=-360), colour_of=colour_in(19, 25))
-pages.append(floor_page([3], "Floor 1 · Titian and the Italian rooms", "Arrive in the round Room 1 by the Goya entrance. Titian's wing first, then Claude, Poussin, Artemisia Gentileschi and Caravaggio. Stops 19–25.", svg, 19, 25))
+    only=G(F1, hi=-360), colour_of=colour_in(N(19), N(26) - 1))
+pages.append(floor_page([3], "Floor 1 · Titian and the Italian rooms", f"Arrive in the round Room 1 by the Goya entrance. Titian's wing first, then Claude, Poussin, Artemisia Gentileschi and Caravaggio. Stops {N(19)}–{N(26) - 1}.", svg, N(19), N(26) - 1))
 
 # Page 4b — Floor 1, El Greco to Velázquez
 svg, _, _ = plan_svg(F1, [("f1n", CH[2][3])], 104, 226,
     notes=[("7", "From the previous page", "info", .6, -1.2), ("15", "Continues on\nthe next page", "info", .2, 1.4),
            ("26", "Central\nGallery", "info", -1.5, 0)],
-    only=G(F1, lo=-380, hi=-255), colour_of=colour_in(26, 41))
-pages.append(floor_page([3], "Floor 1 · El Greco, Velázquez & the Central Gallery", "El Greco and Ribera, then Velázquez room by room to Las Meninas, a short loop into the Central Gallery for Titian, Veronese and Tintoretto, and Velázquez's late rooms. Stops 26–41.", svg, 26, 41))
+    only=G(F1, lo=-380, hi=-255), colour_of=colour_in(N(26), N(42) - 1))
+pages.append(floor_page([3], "Floor 1 · El Greco, Velázquez & the Central Gallery", f"El Greco and Ribera, then Velázquez room by room to Las Meninas, a short loop into the Central Gallery for Titian, Veronese and Tintoretto, and Velázquez's late rooms. Stops {N(26)}–{N(42) - 1}.", svg, N(26), N(42) - 1))
 
 # Page 5 — Floor 1 south
 svg, _, _ = plan_svg(F1, [("f1s", CH[3][3])], 104, 226,
     notes=[("15", "From the previous page", "info", .2, -1.2), ("39", "Stairs UP to Floor 2,\nRoom 85", "up", 0, 1.35)],
-    only=G(F1, lo=-272), colour_of=colour_in(42, 49))
-pages.append(floor_page([4], "Floor 1 · Murillo, Rubens & Goya at court", "Murillo and Van Dyck, then back into the Central Gallery for Rubens, and on to Goya's royal portraits. Stops 42–49.", svg, 42, 49))
+    only=G(F1, lo=-272), colour_of=colour_in(N(42), N(50) - 1))
+pages.append(floor_page([4], "Floor 1 · Murillo, Rubens & Goya at court", f"Murillo and Van Dyck, then back into the Central Gallery for Rubens, and on to Goya's royal portraits. Stops {N(42)}–{N(50) - 1}.", svg, N(42), N(50) - 1))
 
 # Page 6 — Goya's story and the 19th century
 svg2, _, _ = plan_svg(F2, [("f2s", CH[4][3])], 72, 70,
     notes=[("85", "Same stairs DOWN\nto Floor 0", "down", -.4, 1.5)],
-    only=G(F2, lo=-230), colour_of=colour_in(50, 51), ends=("Floor 2 · south wing", ""))
+    only=G(F2, lo=-230), colour_of=colour_in(N(50), N(52) - 1), ends=("Floor 2 · south wing", ""))
 svg0, _, _ = plan_svg(F0, [("f0s", CH[4][3])], 104, 226,
-    notes=[("71", "Arrive here, by the\nMurillo entrance", "down", 1.9, .9), ("HALL", "FINISH · stop 59", "finish", -.3, 1.25)],
-    only=G(F0, lo=-322) + ["HALL"], colour_of=colour_in(52, 59))
-aside = f'<div class="inset"><div class="it">Floor 2 · Goya&rsquo;s tapestry designs (stops 50–51)</div>{svg2}</div>'
-pages.append(floor_page([5], "Goya's story, then the 19th century", "Up to Floor 2 for young Goya, down to Floor 0 for war and the Black Paintings, then Gisbert, Rosales and Sorolla on the way back to the entrance hall. Stops 50–59.", svg0, 50, 59, aside))
+    notes=[("71", "Arrive here, by the\nMurillo entrance", "down", 1.9, .9), ("HALL", f"FINISH · stop {len(TR)}", "finish", -.3, 1.25)],
+    only=G(F0, lo=-322) + ["HALL"], colour_of=colour_in(N(52), len(TR)))
+aside = f'<div class="inset"><div class="it">Floor 2 · Goya&rsquo;s tapestry designs (stops {N(50)}–{N(52) - 1})</div>{svg2}</div>'
+pages.append(floor_page([5], "Goya's story, then the 19th century", f"Up to Floor 2 for young Goya, down to Floor 0 for war and the Black Paintings, then Gisbert, Rosales and Sorolla on the way back to the entrance hall. Stops {N(50)}–{len(TR)}.", svg0, N(50), len(TR), aside))
 
 CSS = f'''
 @page {{ size: A4; margin: 0 }}
@@ -345,9 +363,9 @@ h2 {{ font: 700 19pt Lora, serif; margin: 2mm 0 1.2mm; display: flex; align-item
 .hall {{ font: 700 3.1px Inter; fill: #fff; text-anchor: middle; letter-spacing: .3px }} .hallc {{ font: 500 3px Inter; fill: {MUTED}; text-anchor: middle }}
 .up {{ font: 600 2.9px Inter; fill: {GOLD} }} .upr {{ font: 600 2.9px Inter; fill: {GOLD}; text-anchor: end }}
 .endl {{ font: 600 3px Inter; fill: {MUTED}; text-anchor: start; letter-spacing: .2px }} .end {{ font: 600 3.2px Inter; fill: {MUTED}; text-anchor: middle; letter-spacing: .2px }} .endr {{ font: 600 3px Inter; fill: {MUTED}; text-anchor: end; letter-spacing: .2px }}
-.cards {{ display: grid; gap: 2.4mm }}
+.cards {{ display: grid; gap: 1.8mm }}
 .card {{ display: grid; grid-template-columns: 1.6mm 11mm 1fr 30mm; align-items: center; background: #fff; border: .3mm solid {LINE};
-         border-radius: 3mm; overflow: hidden; min-height: 14mm }}
+         border-radius: 3mm; overflow: hidden; min-height: 12.2mm }}
 .cbar {{ height: 100% }} .cnum {{ width: 8mm; height: 8mm; border-radius: 50%; color: #fff; font: 700 12pt Inter; display: flex;
          align-items: center; justify-content: center; margin-left: 2mm }}
 .ct {{ font: 700 10.4pt Lora; margin-bottom: .6mm }} .cs {{ font: 400 8pt Inter; color: {MUTED} }}
@@ -359,9 +377,9 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .plan svg {{ display: block; margin: 0 auto; max-height: 222mm; width: auto }}
 .rn {{ font-family: Inter; text-anchor: middle }} .sn {{ font-family: Inter; font-weight: 700; fill: #fff; text-anchor: middle }}
 .note {{ font-family: Inter; font-weight: 600; fill: #fff }}
-.list .row {{ display: grid; grid-template-columns: 7.5mm 15mm 1fr; align-items: center; padding: 1.55mm 0; border-bottom: .25mm solid {LINE} }}
+.list .row {{ display: grid; grid-template-columns: 7.5mm 15mm 1fr; align-items: center; padding: 1.25mm 0; border-bottom: .25mm solid {LINE} }}
 .dot {{ width: 6mm; height: 6mm; border-radius: 50%; color: #fff; font: 700 8pt Inter; display: inline-flex; align-items: center; justify-content: center }}
-.rm {{ font: 600 7.6pt Inter; color: {MUTED} }} .tt {{ font: 500 8.2pt Inter; line-height: 1.3 }}
+.rm {{ font: 600 7.6pt Inter; color: {MUTED} }} .hol {{ background: #fff; border: .45mm solid; box-sizing: border-box }} .row.x .tt {{ color: {MUTED} }} .tt i {{ font-style: normal; font-weight: 700; font-size: 7pt; letter-spacing: .04em; margin-right: 1mm }} .tt {{ font: 500 8.2pt Inter; line-height: 1.3 }}
 .inset {{ background: #fff; border: .3mm solid {LINE}; border-radius: 4mm; padding: 2mm 2mm 1mm; margin-bottom: 3mm }}
 .it {{ font: 700 8.6pt Lora; margin: .5mm 0 1mm 1mm }}
 '''

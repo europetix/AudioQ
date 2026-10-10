@@ -3,13 +3,13 @@
 import sys, os, re, glob
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "pipeline"))
 import v5_direction as V
-RANGE = {"R": (180, 280), "W": (250, 360), "ANCHOR": (250, 360), "CLOSE": (250, 360)}
+RANGE = {"R": (180, 280), "W": (250, 360), "ANCHOR": (250, 360), "CLOSE": (250, 360), "X": (150, 230)}
 HEAD = ["id", "section", "room", "type", "title", "where", "what", "listen", "brief", "pace", "energy", "sources"]
-files = sorted(glob.glob(os.path.join(os.path.dirname(__file__), "tracks", "*.perf.txt")))
+files = sorted(glob.glob(os.path.join(os.path.dirname(__file__), "tracks", "*.perf.txt"))) + sorted(glob.glob(os.path.join(os.path.dirname(__file__), "extras", "*.perf.txt")))
 want = set(sys.argv[1:])
 bad = 0
 for f in files:
-    n = os.path.basename(f)[:3]
+    n = os.path.basename(f).split(".")[0]
     if want and n not in want: continue
     p = []
     try:

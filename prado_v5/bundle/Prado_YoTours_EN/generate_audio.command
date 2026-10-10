@@ -9,7 +9,7 @@ BASE_DIR="$HOME/Desktop/Prado_YoTours_EN"   # new folder name: older Prado rende
 echo ""
 echo "================================================================"
 echo "  Yo Tours - Museo del Prado (10 Oct 2026 edition)"
-echo "  Museo del Prado - English  (59 tracks, about 2 h 30 on foot)"
+echo "  Museo del Prado - English  (81 tracks: 59 main stops + 22 short Extras)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -27,13 +27,18 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The full tour (59 tracks)"
-echo "  2) Two voice samples only: 035 Las Meninas + 053 The Black Paintings (a few minutes)"
-printf "Enter 1 or 2 [1]: "
+echo "  1) The full tour (81 tracks: 59 main stops + 22 Extras)"
+echo "  2) Two voice samples only: 049 Las Meninas + 071 The Black Paintings (a few minutes)"
+echo "  3) Main stops only (59 tracks; they mention the Extras, just skip those)"
+printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
-    export ONLY="035 053"
+    export ONLY="049 071"
     BASE_DIR="$HOME/Desktop/Prado_YoTours_Voice_Samples/Sample"
+fi
+if [ "$SCOPE" = "3" ]; then
+    export ONLY="001 002 003 004 005 008 010 011 012 013 015 016 017 019 020 024 025 026 027 029 031 032 033 035 037 039 040 041 042 043 044 045 047 048 049 050 051 053 054 055 056 057 058 059 060 061 062 064 066 067 069 070 071 073 074 077 078 080 081"
+    BASE_DIR="$HOME/Desktop/Prado_YoTours_EN_MainStops"
 fi
 
 HAVE_FFMPEG=1
@@ -66,10 +71,10 @@ command -v ffmpeg >/dev/null 2>&1 || { HAVE_FFMPEG=0; echo "WARNING: ffmpeg not 
 
 # navigation PDF + guides into the tour folder (not for voice samples)
 echo ""
-[ -n "$ONLY" ] || for f in Prado_Audio_Guide_Route.pdf README.txt; do
+[ "$SCOPE" = "2" ] || for f in Prado_Audio_Guide_Route.pdf README.txt; do
     cp "$f" "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] $f"
 done
-if [ -z "$ONLY" ] && [ -d USER_TEST ]; then
+if [ "$SCOPE" != "2" ] && [ -d USER_TEST ]; then
     mkdir -p "$OUTPUT_DIR/USER_TEST" && cp USER_TEST/* "$OUTPUT_DIR/USER_TEST/" && echo "  [copy] USER_TEST/"
 fi
 
