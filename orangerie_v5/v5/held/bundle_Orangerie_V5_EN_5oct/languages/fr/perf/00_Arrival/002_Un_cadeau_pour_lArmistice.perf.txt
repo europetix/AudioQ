@@ -1,0 +1,28 @@
+@id: 002 · FR · Vestibule
+@section: Opening
+@room: Vestibule
+@type: ANCHOR
+@title: Un cadeau pour l'Armistice
+@where: Dans le hall d'entrée, juste avant la première salle ovale des Nymphéas.
+@what: The story of Monet's gift of the Water Lilies (Les Nymphéas) to the French State: offered in 1918, deed signed in 1922, rooms opened in 1927.
+@listen: How a two-painting gift, offered the day after the Armistice, grew into a building, and the dream Monet had for it long before.
+@brief: Telling a friend the story behind the door before you open it; warm, measured, a little moved by the ending, then gently inviting.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: FACTS_C §1.3 letter of 12 Nov 1918 (quote and translation), Clemenceau widens the gift, "monument to peace": https://www.musee-orangerie.fr/en/whats-on/exhibitions/monet-clemenceau (OFF) + G2 12-2 (museum wording, OFF https://www.musee-orangerie.fr/en/node/33) ; FACTS_C §1.3 Hôtel Biron plan dropped, Orangerie chosen (G1 SEC2) ; deed 12 Apr 1922, eight compositions in 22 panels, Lefèvre, inaugurated 17 May 1927: https://www.musee-orangerie.fr/en/node/198900 (OFF) ; FACTS_C §1.1 "endless whole" quote, Monet as reported by Roger Marx, Gazette des Beaux-Arts, June 1909: https://www.musee-orangerie.fr/en/node/33 (OFF) + G1 ; Monet's death and last years held for 013
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 002 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Les canons se taisaient depuis un jour à peine. Le 12 novembre 1918, au lendemain de l'Armistice, un vieux peintre prend la plume. Il écrit à Georges Clemenceau.
+
+« Je suis à la veille de terminer deux panneaux décoratifs, écrit Claude Monet, que je veux signer du jour de la Victoire, et viens vous demander de les offrir à l'État par votre intermédiaire. »
+
+Deux panneaux. C'était tout le cadeau. [pause] Le cadeau n'allait pas en rester là. Clemenceau vient à Giverny. Il persuade Monet de l'élargir. Non plus deux panneaux, mais tout l'ensemble des grands panneaux auxquels il travaillait depuis des années.
+
+Il faut ensuite un lieu pour ce don. Un premier projet, un pavillon dans le jardin de l'actuel musée Rodin, est abandonné. Le choix se porte sur cette ancienne orangerie, la maison d'hiver des arbres. En avril 1922, l'acte de donation est signé. [pause] Huit compositions, sur vingt-deux panneaux.
+
+L'architecte Camille Lefèvre réaménage l'intérieur selon les vœux de Monet. Deux salles ovales, éclairées par le haut. Monet savait depuis longtemps ce qu'il attendait d'un tel lieu. Dès 1909, le critique Roger Marx avait publié son rêve. Monet voulait, rapportait-il, « l'illusion d'un tout sans fin, d'une onde sans horizon et sans rivage ».
+
+[quietly] Les salles ouvrent en mai 1927. Entre l'acte et ce jour, il s'est passé à Giverny quelque chose qu'il vaut mieux entendre assis, dans la deuxième salle. Pour l'instant, voyez simplement jusqu'où une promesse peut aller. Le musée appelle ce don achevé un monument à la paix.
+
+[long pause] Deux panneaux à signer le jour de la Victoire. Entrez, et voyez ce qu'ils sont devenus. Placez-vous vers le centre de la première salle ovale, et écoutez sa piste là-bas.

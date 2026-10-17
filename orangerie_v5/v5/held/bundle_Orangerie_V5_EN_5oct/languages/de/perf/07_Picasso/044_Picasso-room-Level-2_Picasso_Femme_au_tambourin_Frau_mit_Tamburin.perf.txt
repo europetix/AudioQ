@@ -1,0 +1,28 @@
+@id: 044 · DE · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Femme au tambourin (Frau mit Tamburin)
+@where: Unter Picassos Werken im Untergeschoss. Suchen Sie eine breite Leinwand mit einer Frau, die auf Kissen liegt, auf einen Ellbogen gestützt, ein Tamburin in der Hand, in Mauve, Gelb, Granatrot und Türkis. In der Nähe: ein kubistisches Stillleben mit Kompottschale, Flasche und Glas auf einer gekippten beigen Tischplatte.
+@what: Pablo Picasso, Femme au tambourin (Woman with a Tambourine), 1925, oil on canvas, 97 × 130 cm. Also Grande nature morte (Large Still Life), 1917, oil on canvas, 87 × 116 cm.
+@listen: How Paul Guillaume set Picasso against Matisse, and how this reclining woman answers Matisse's odalisques.
+@brief: Closing the Picasso story with a friend; lively at the rivalry, playful with the clashing colours, then a warm word for the collector who chose them.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_B Picasso — Femme au tambourin: https://www.musee-orangerie.fr/en/artworks/femme-au-tambourin-196499 (OFF: 1925, 97×130; Guillaume acquired 1927; reclining on cushions, propped on elbow, tambourine; "almost jarring" mauve, yellow, garnet red, turquoise; superimposed viewpoints; return to decorative Cubism; reminiscent of Matisse's odalisques of the time) ; FACTS_B Grande nature morte: https://www.musee-orangerie.fr/en/artworks/grande-nature-morte-196493 (OFF: 1917, 87×116; compote dish, bottle, glass from several viewpoints; beige tabletop floating almost vertically; "the only Cubist work that was preserved by Domenica") ; FACTS_B Picasso intro https://www.musee-orangerie.fr/en/artist/pablo-picasso (OFF: Guillaume the first dealer to stage a Matisse–Picasso confrontation, in his gallery, 1918) ; G3 13.8 (OFF, Pompidou: Galerie Paul Guillaume 1918 show confirmed) ; G4 20.1/20.3 (do not say Domenica sold all the Cubist works; Guillaume bought most of the Picassos himself, 1927–1930)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 044 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] 1918 zeigte Paul Guillaume als erster Kunsthändler Matisse und Picasso gemeinsam in einer Ausstellung. Er hängte sie in seiner Galerie einander gegenüber. Und er ließ die Besucher vergleichen.
+
+Sieben Jahre später malte Picasso diese Frau. [pause] Und sie führt dieses Gespräch ganz allein weiter.
+
+Sie liegt zurückgelehnt auf Kissen, auf einen Ellbogen gestützt, ein Tamburin in der Hand. Sie ist träge, entspannt und ganz zur Schau gestellt. Wenn Sie Matisses Odalisken gesehen haben, werden Sie sie wiedererkennen. Das Museum zieht diese Verbindung selbst. Sie erinnert an die Odalisken, die Matisse genau zu dieser Zeit malte.
+
+[amused] Doch Picasso wäre nicht Picasso, wenn er einfach zustimmen würde. Nach seinen klassischen Riesenfiguren kehrte er eine Zeit lang zu einem dekorativen Kubismus zurück. Sehen Sie, wie sie gebaut ist. Verschiedene Blickwinkel liegen übereinander. So sehen Sie Teile von ihr von mehr als einer Seite zugleich. Und dann die Farben, Mauve, Gelb, Granatrot und Türkis, die sich fast beißen. [pause] Bei Matisse fühlt sich Muster wie Geborgenheit an. Bei Picasso knistert es.
+
+Suchen Sie nun das Große Stillleben, acht Jahre früher gemalt. Eine Kompottschale, eine Flasche und ein Glas, jedes aus mehreren Winkeln gesehen. [pause] Sehen Sie den Tisch. Die beige Platte kippt nach oben, bis sie fast senkrecht schwebt. Alles darauf scheint wie durch ein Wunder im Gleichgewicht. Nach Guillaumes Tod verkaufte Domenica viele seiner Picassos. Dieses Stillleben ist das einzige kubistische Werk, das sie behielt.
+
+[warmly] Guillaume kaufte diese Frau mit Tamburin 1927. Tatsächlich kaufte er die meisten Picassos dieser Sammlung selbst, in den letzten Jahren vor seinem frühen Tod. Er wollte sie einfach haben.
+
+Von den Picassos aus suchen Sie nun Modiglianis jungen Lehrling: ein sitzender junger Mann, der den Kopf auf eine Hand stützt.

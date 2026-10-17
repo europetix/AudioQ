@@ -1,0 +1,30 @@
+@id: 050 · DE · Derain room · Level −2
+@section: Derain
+@room: Derain room · Level −2
+@type: W
+@title: Derain — Arlequin et Pierrot (Harlekin und Pierrot)
+@where: Unter den Gemälden von André Derain oder in der ersten Halle der Sammlung, vor dem großen Bild zweier kostümierter Musiker mit Gitarren: Harlekin im karierten Anzug mit Zweispitz, Pierrot ganz in Weiß mit Halskrause und schwarzer Kappe.
+@what: André Derain, Arlequin et Pierrot, Harlequin and Pierrot, around 1924, oil on canvas, commissioned by Paul Guillaume. Jean Walter and Paul Guillaume collection.
+@listen: The dealer who commissioned a painting and ended up inside it, and the hired model who complicates the story.
+@brief: Letting a friend in on a painting's private joke, then on its sadness; light and conspiratorial at first, thoughtful at the model, quiet at the end.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: FACTS_C Derain — Arlequin et Pierrot (c.1924; Harlequin chequered costume and bicorne, Pierrot white smock with ruff and black skullcap; one knee raised, guitars, neutral background; "in a never-ending dance like marionettes or puppets"; gazes don't meet, serious faces, "suffused with a certain melancholy"; commissioned by Guillaume; "The figure of Pierrot was finally recognised as a portrait of Paul Guillaume"): https://www.musee-orangerie.fr/es/obras/arlequin-et-pierrot-196175 (OFF) ; FACTS_C Derain — Arlequin à la guitare (model for both figures the Spanish painter Salvado, who worked for Derain and Picasso): https://www.musee-orangerie.fr/en/artworks/arlequin-la-guitare-196176 (OFF) ; FACTS_C Derain — Madame Paul Guillaume au grand chapeau (faint sketch of Arlequin et Pierrot on the right): https://www.musee-orangerie.fr/es/obras/portrait-de-madame-paul-guillaume-au-grand-chapeau-196185 (OFF) ; G4 25.3 (make the Pierrot = Guillaume fact the hook) ; FACTS_A collection-level (Paul Guillaume 1891–1934) + G1 Confirmed OK (died at 42) (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 050 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Paul Guillaume bestellte dieses Bild bei André Derain. [pause] Und am Ende landete er selbst darin.
+
+Um 1924 gab Guillaume bei Derain ein Bild der beiden alten Clowns der italienischen Komödie in Auftrag. Harlekin trägt sein kariertes Kostüm und einen Zweispitz. Pierrot trägt einen weiten weißen Kittel, eine Halskrause und ein kleines schwarzes Käppchen. Beide heben ein Knie und spielen Gitarre. Sie scheinen in einem endlosen Tanz gefangen, wie Marionetten oder Puppen.
+
+[pause] Sehen Sie sich nun Pierrots Gesicht an. Die Figur des Pierrot, sagt das Museum, „wurde schließlich als Porträt von Paul Guillaume erkannt“. Der Mann, der das Bild bezahlte, steht darin, ganz in Weiß.
+
+Und jetzt die Wendung. Das Modell, das tatsächlich für beide Figuren posierte, war ein spanischer Maler namens Salvado. Er arbeitete für Derain und auch für Picasso. Der Körper ist also vielleicht der von Salvado. [pause] Das Gesicht wurde offenbar das von Guillaume. Zwei Männer in einem weißen Kostüm.
+
+[quietly] Und es ist kein fröhliches Fest. Sehen Sie in ihre Augen. Harlekin und Pierrot spielen Seite an Seite, doch ihre Blicke treffen sich nie. Ihre Gesichter sind ernst. Vor dem schlichten, leeren Hintergrund liegt über dem ganzen Bild eine stille Melancholie.
+
+Wenn Sie Derains Porträt von Guillaumes Frau Domenica mit dem großen Hut gesehen haben, gibt es ein Nachwort. Rechts auf diesem Porträt, hinter ihr, erkennt man eine schwache Skizze genau dieses Bildes. [pause] Ihr Mann, als Pierrot, im Hintergrund ihres Bildes.
+
+[long pause] Guillaume starb 1934, mit zweiundvierzig. In diesem weißen Anzug durfte er nicht alt werden.
+
+Suchen Sie in der Nähe einen lebensgroßen Harlekin allein, und Derains Porträts seiner jungen Nichte. Spielen Sie dort den passenden Titel ab.

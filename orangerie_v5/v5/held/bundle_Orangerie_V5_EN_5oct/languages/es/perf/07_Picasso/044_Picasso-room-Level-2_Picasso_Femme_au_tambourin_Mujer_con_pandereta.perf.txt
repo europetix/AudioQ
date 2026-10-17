@@ -1,0 +1,28 @@
+@id: 044 · ES · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Femme au tambourin (Mujer con pandereta)
+@where: Entre las obras de Picasso, en el nivel inferior. Busque un lienzo ancho con una mujer recostada sobre cojines, apoyada en un codo y con una pandereta, en malva, amarillo, granate y turquesa. Cerca, un bodegón cubista con un frutero, una botella y un vaso sobre una mesa beige inclinada.
+@what: Pablo Picasso, Femme au tambourin (Woman with a Tambourine), 1925, oil on canvas, 97 × 130 cm. Also Grande nature morte (Large Still Life), 1917, oil on canvas, 87 × 116 cm.
+@listen: How Paul Guillaume set Picasso against Matisse, and how this reclining woman answers Matisse's odalisques.
+@brief: Closing the Picasso story with a friend; lively at the rivalry, playful with the clashing colours, then a warm word for the collector who chose them.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_B Picasso — Femme au tambourin: https://www.musee-orangerie.fr/en/artworks/femme-au-tambourin-196499 (OFF: 1925, 97×130; Guillaume acquired 1927; reclining on cushions, propped on elbow, tambourine; "almost jarring" mauve, yellow, garnet red, turquoise; superimposed viewpoints; return to decorative Cubism; reminiscent of Matisse's odalisques of the time) ; FACTS_B Grande nature morte: https://www.musee-orangerie.fr/en/artworks/grande-nature-morte-196493 (OFF: 1917, 87×116; compote dish, bottle, glass from several viewpoints; beige tabletop floating almost vertically; "the only Cubist work that was preserved by Domenica") ; FACTS_B Picasso intro https://www.musee-orangerie.fr/en/artist/pablo-picasso (OFF: Guillaume the first dealer to stage a Matisse–Picasso confrontation, in his gallery, 1918) ; G3 13.8 (OFF, Pompidou: Galerie Paul Guillaume 1918 show confirmed) ; G4 20.1/20.3 (do not say Domenica sold all the Cubist works; Guillaume bought most of the Picassos himself, 1927–1930)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 044 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] En 1918, Paul Guillaume fue el primer marchante que expuso juntos a Matisse y a Picasso. Los colgó en su galería frente a frente, uno contra otro, y dejó que el público comparara.
+
+Siete años después, Picasso pintó a esta mujer. [pause] Y ella sola continúa esa conversación.
+
+Está recostada sobre cojines, apoyada en un codo, con una pandereta en la mano. Lánguida, cómoda, y muy expuesta a la mirada. Si ha visto las odaliscas de Matisse, la reconocerá. El propio museo lo señala. Recuerda a las odaliscas que Matisse pintaba justo en esa época.
+
+[amused] Pero Picasso, siendo Picasso, no podía limitarse a estar de acuerdo. Tras sus gigantes clásicos, volvió por un tiempo a un cubismo decorativo. Mire cómo está construida. Varios puntos de vista se superponen, y usted ve partes de ella desde más de un lado a la vez. Y luego, los colores. Malva, amarillo, granate y turquesa, casi chocando entre sí. [pause] Matisse convierte el ornamento en consuelo. Picasso lo hace crepitar.
+
+Ahora busque la Gran naturaleza muerta, pintada ocho años antes. Un frutero, una botella y un vaso, cada uno visto desde varios ángulos. [pause] Mire la mesa. El tablero beige se inclina hasta flotar casi en vertical, y todo lo que hay encima parece sostenerse de milagro. Tras la muerte de Guillaume, Domenica vendió muchos de sus Picasso. Este bodegón es el único obra cubista que conservó.
+
+[warmly] Guillaume compró esta mujer con pandereta en 1927. De hecho, él mismo compró la mayoría de los Picasso de esta colección, en sus últimos años, antes de su temprana muerte. [pause] Simplemente, los quería.
+
+Al salir de los Picasso, busque Le Jeune Apprenti, El joven aprendiz, de Modigliani, un joven sentado que apoya la cabeza en una mano.

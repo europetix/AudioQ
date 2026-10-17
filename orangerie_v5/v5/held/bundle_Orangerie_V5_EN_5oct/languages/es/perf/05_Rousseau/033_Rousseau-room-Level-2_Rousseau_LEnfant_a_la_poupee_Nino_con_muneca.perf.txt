@@ -1,0 +1,30 @@
+@id: 033 · ES · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — L'Enfant à la poupée (Niño con muñeca)
+@where: Entre los cuadros de Henri Rousseau, en el nivel inferior, busque el retrato de un niño con una muñeca.
+@what: Henri Rousseau, L'Enfant à la poupée (Child with a Doll), oil on canvas, Walter-Guillaume collection.
+@listen: Five francs in a junk shop, a banquet for a toll clerk, and why primitive is a compliment here.
+@brief: A friend with a good anecdote, curious and a little conspiratorial, then handing the looking over to the listener with open questions.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_B L'Enfant à la poupée: https://www.musee-orangerie.fr/en/artworks/lenfant-la-poupee-196422 (OFF page exists; date, size and description are WEAK, so not used) ; Picasso's 1908 junk-shop purchase from Père Soulié for five francs, kept all his life, now Musée Picasso, and the November 1908 banquet it triggered: G3 19.2 (SEC2) ; Bateau-Lavoir banquet: G3 "Confirmed OK" ; collection opens with large works by modern "primitives" after Apollinaire's vision: FACTS_A collection-level, https://www.musee-orangerie.fr/en/collection/new-presentation-collection (OFF), G5 (OFF) ; child not known to be Rousseau's daughter: G3 19.6 ; Carriole frontality: FACTS_B (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1908, Pablo Picasso rebuscaba en una tienda de trastos viejos de París. La llevaba un comerciante conocido como Père Soulié. Entre los cachivaches encontró un retrato de mujer de Henri Rousseau. Pagó cinco francos por él, y lo conservó toda su vida. Hoy pertenece al Museo Picasso.
+
+Esa pequeña compra desencadenó algo mucho mayor. En noviembre de ese año, Picasso y sus amigos ofrecieron un banquete en honor de Rousseau en el Bateau-Lavoir. [pause] Imagínelo: el joven círculo de Picasso, brindando por un empleado de peaje convertido en pintor, un hombre de sesenta y tantos años.
+
+¿Qué veían en él? Recuerde a los primitivos modernos con los que se abre la colección. Rousseau está ahí, entre ellos, con Picasso y Matisse. [lightly] En este edificio, primitivo es un elogio.
+
+Lo que nos trae a este niño.
+
+[quietly] El título no nos dice quién era. Por una vez, miremos juntos, con preguntas en lugar de respuestas.
+
+¿Adónde mira el niño, a la muñeca o a usted? Recuerde a los pasajeros del carro de Junier, vueltos hacia usted como iconos. ¿Hace lo mismo este niño? [pause] Mire las manos, y cuánto espacio ocupa la muñeca entre ellas. Y mire el suelo, y lo que hay detrás. ¿Es un lugar real, o un decorado?
+
+Aquí no hay respuestas correctas, solo las suyas. [pause] Pero si un cuadro sencillo de un niño con un juguete le hace mirar dos veces, habrá sentido algo de lo que atrajo a aquellos jóvenes pintores a ese banquete.
+
+Los pescadores de Rousseau están cerca, bajo un cielo sorprendente, junto a una fábrica de sillas que pintó dos veces. Escuche su pista delante de ellos.

@@ -1,0 +1,30 @@
+@id: 032 · FR · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — La Carriole du père Junier
+@where: Parmi les tableaux d'Henri Rousseau au niveau inférieur, trouvez le large tableau d'une famille dans une carriole tirée par une jument blanche, avec trois chiens.
+@what: Henri Rousseau, La Carriole du père Junier (Old Junier's Cart), 1908, oil on canvas, 97 × 129 cm.
+@listen: The neighbourhood grocer and his proud white mare, the painter on the front seat, and the dog that was too big on purpose.
+@brief: A neighbourhood story told with affection and a grin; amused by the mare's tiptoes, delighted by Rousseau's reply to Max Weber.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_B La Carriole du père Junier: https://www.musee-orangerie.fr/es/obras/la-carriole-du-pere-junier-196429 (OFF: 1908; Claude Junier and wife ran a grocery near Rousseau's home; likely commissioned 1908; Junier and Rousseau on the front seat; Madame Junier and relatives behind; Junier a horse trainer proud of his white mare Rosa; mare "on the tips of her hooves", "like a dancer on points"; passengers frontal "like Byzantine icons" except Junier; three dogs, rare in Rousseau) ; G3 17.2 (grocery, vegetables from market gardeners each morning, OFF), 17.3 (photograph source, dogs' size and position changed, a tree omitted, Max Weber exchange, OFF), 17.4 (97×129, OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 032 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Chaque quartier a son épicier qui connaît tout le monde. Pour Rousseau, c'était Claude Junier. Avec sa femme, il tenait une épicerie près de chez le peintre. Chaque matin, Junier allait acheter des légumes aux maraîchers. Il dressait aussi des chevaux. Et il était très fier de sa jument blanche, Rosa.
+
+En 1908, les Junier commandent très probablement ce tableau. Junier est assis à l'avant. À côté de lui, Rousseau lui-même. Derrière eux, Madame Junier et deux jeunes membres de la famille.
+
+Regardez maintenant Rosa. [pause] Curieusement, elle se tient sur la pointe des sabots. Cela permet à Rousseau de montrer les ombres sous elle. Et elle a l'air suspendue, comme une danseuse sur les pointes. Un cheval de trait qui fait du ballet.
+
+Regardez aussi les passagers. À part Junier, tous vous font face, droits et raides. Le musée les compare à des icônes byzantines. Comptez les chiens au passage : il y en a trois, ce qui est rare chez Rousseau.
+
+[conspiratorial] Voici ce que j'adore. Rousseau a travaillé d'après une photo de famille. Mais sans la copier simplement. Il a changé la taille et la place des chiens, et supprimé un arbre. Le peintre Max Weber lui a fait remarquer qu'un chien était bien trop grand. [pause] Rousseau a répondu que le tableau l'exigeait.
+
+[pause] Cette réponse en dit long. On croirait Rousseau naïf, incapable de maîtriser ce qui sort de son pinceau. Mais un homme qui retouche une photographie, déplace les chiens et supprime un arbre fait des choix. Il savait mieux que l'appareil ce dont le tableau avait besoin.
+
+Une grande toile, presque un mètre de haut et bien plus d'un mètre de large, pour l'épicier du coin. [warmly] Et la jument de l'épicier a droit à un rôle de danseuse.
+
+Cherchez ensuite le portrait d'un enfant tenant une poupée : L'Enfant à la poupée. L'histoire continue devant lui.

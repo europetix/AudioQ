@@ -1,0 +1,28 @@
+@id: 046 · DE · Soutine room · Level −2
+@section: Soutine
+@room: Soutine room · Level −2
+@type: W
+@title: Soutine — Le Petit Pâtissier (Der kleine Konditor)
+@where: Im Saal mit Soutines Gemälden, vor einem kleinen Porträt eines mageren jungen Kochs mit weißer Konditormütze und Jacke, der ein flaches, leuchtend rotes Tuch hält.
+@what: Chaïm Soutine, Le Petit Pâtissier, The Little Pastry Cook, around 1922–23, oil on canvas, 73 × 54 cm. Jean Walter and Paul Guillaume collection.
+@listen: How a painting of a pastry cook made Soutine's name in America, and why Paul Guillaume bought this one years later.
+@brief: Telling a friend a story about a lost love that's really about a painting; brisk and pleased at the Barnes sale, tender at the replacement, amused at the royal pose.
+@pace: medium
+@energy: 3→4→2→3
+@sources: FACTS_C Soutine — Le Petit Pâtissier (c.1922–23, 73×54, six versions, bought early 1930s "in memory of the first Pastry Cook that he had liked so much", Fouquet Charles VII pose, elongated face, red cloth): https://www.musee-orangerie.fr/es/obras/le-petit-patissier-196563 (OFF) ; FACTS_C Soutine holdings (Guillaume one of the first; through him Barnes discovered Soutine; largest Soutine collection in Europe): https://www.musee-orangerie.fr/en/articles/chaim-soutine-105466 (OFF) ; G4 24.1 and 24.5 (Dec 1922 Barnes sees a pastry cook at Guillaume's; Guillaume takes him to Zborowski; Guillaume found Soutine through Michel Georges-Michel's article): le-petit-patissier page (OFF) + Met Modern Art Index (SEC) ; G4 Confirmed OK (born 1893 near Minsk)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] An einem Dezembertag 1922 betrat ein amerikanischer Sammler Paul Guillaumes Galerie in Paris. Ein Gemälde ließ ihn wie angewurzelt stehen bleiben. Es zeigte einen Konditor. [pause] Der Sammler war Albert Barnes. Der Maler war ein junger Mann aus der Nähe von Minsk, Chaïm Soutine. Außerhalb von Paris kannten ihn nur wenige.
+
+Guillaume kannte ihn. Er hatte Soutine durch einen Artikel des Kritikers Michel Georges-Michel entdeckt. Und er war einer der Ersten, die seine Malerei ernst nahmen. Nun brachte er Barnes zu Soutines Kunsthändler, Léopold Zborowski. Barnes kaufte Dutzende Leinwände. [pause] Durch diese eine Begegnung wurde Soutine international bekannt.
+
+[curious] Und der Konditor, mit dem alles begann? Er ging offenbar mit Barnes nach Amerika. Guillaume hat ihn nie ganz vergessen.
+
+Soutine arbeitete gern in Serien. Dieses Motiv malte er sechsmal. Anfang der 1930er-Jahre, lange nachdem Barnes Soutine berühmt gemacht hatte, kaufte Guillaume diese Fassung. Das Museum sagt, er kaufte sie „in Erinnerung an den ersten Konditor, der ihm so sehr gefallen hatte“. [long pause] Sie sehen hier also eine Art Trostpreis. Das Andenken eines Kunsthändlers an das Bild, das ihm entgangen war.
+
+Sehen Sie sich nun den Jungen selbst an. Das Gesicht ist in die Länge gezogen, der Hals zerbrechlich. Züge und Glieder sind aus der Form gebracht. Aus dieser Verzerrung kommt die Kraft. Mütze und Jacke sind weiß, mit Grau und Grün durchsetzt. [pause] Und in seinen Händen ein Tuch aus flachem, leuchtendem Rot. Das Heißeste im ganzen Bild.
+
+[amused] Noch etwas. Die Pose stammt vielleicht von einem Porträt im Louvre, Jean Fouquets Karl der Siebte, König von Frankreich. [pause] Ein Küchenjunge, der sitzt wie ein König.
+
+Suchen Sie ganz in der Nähe einen Hotelkellner mit roter Weste, die Hände in die Hüften gestemmt. Seine Geschichte geht vor ihm weiter.

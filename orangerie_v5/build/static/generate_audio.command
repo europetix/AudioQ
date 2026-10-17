@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# V5 TEST BUILD - Musee de l'Orangerie - EN  (same launcher shape as V4.5)
+# Yo Tours - Musee de l'Orangerie - English audio guide (17 Oct 2026 edition: Yo Tours sound, phone labels, no more stuck renders)
 # Pick a voice at runtime: Ava (default, edge-tts), am_michael (Kokoro, via uv), Andrew or Brian (edge-tts).
 # V5: each track is performed from its direction layer (perf/), with real pauses and mastering.
 cd "$(dirname "$0")"
 
-BASE_DIR="$HOME/Desktop/Orangerie_V5_EN"
+BASE_DIR="$HOME/Desktop/Orangerie_YoTours_EN"   # new name since the 17 Oct 2026 edition: old renders stay untouched
 
 echo ""
 echo "================================================================"
-echo "  V5 - Musee de l Orangerie"
-echo "  Musee de l Orangerie - English  (55 tracks, ~2 h)"
+echo "  Yo Tours - Musee de l'Orangerie (17 Oct 2026 edition)"
+echo "  Musee de l'Orangerie - English  (55 tracks, ~2 h)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -35,7 +35,7 @@ printf "Enter 1 or 2 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
     export ONLY="005 046"
-    BASE_DIR="$HOME/Desktop/Orangerie_V5_Voice_Samples/Sample"
+    BASE_DIR="$HOME/Desktop/Orangerie_YoTours_Voice_Samples/Sample"
 fi
 
 HAVE_FFMPEG=1
@@ -55,6 +55,7 @@ if [ "$CHOICE" = "2" ]; then
     echo "Rendering with Kokoro (first run downloads Python 3.11 + model, please be patient)..."
     uv run --python 3.11 --with "kokoro>=0.9.4" --with soundfile --with numpy \
         python render_kokoro.py "$OUTPUT_DIR" || { echo "Kokoro render failed."; read -p "Press enter..."; exit 1; }
+    python3 tag_tracks.py "$OUTPUT_DIR" . en
 else
     echo ""
     echo "Voice: $VOICE_NAME (edge-tts, $EDGE_VOICE)."
@@ -74,7 +75,12 @@ else
             python3 -m pip install --user --quiet --break-system-packages edge-tts
     fi
     echo "Generating MP3s by section (each passage is voiced separately, so this takes a while)..."
-    python3 render_edge.py "$OUTPUT_DIR" || { echo "$VOICE_NAME render failed."; read -p "Press enter..."; exit 1; }
+    if ! python3 render_edge.py "$OUTPUT_DIR"; then
+        python3 tag_tracks.py "$OUTPUT_DIR" . en
+        echo ""; echo "Not finished yet. Run the same command again: finished tracks are skipped."
+        read -p "Press enter..."; exit 1
+    fi
+    python3 tag_tracks.py "$OUTPUT_DIR" . en
 fi
 
 # navigation PDF + guides into the tour folder (not for voice samples)

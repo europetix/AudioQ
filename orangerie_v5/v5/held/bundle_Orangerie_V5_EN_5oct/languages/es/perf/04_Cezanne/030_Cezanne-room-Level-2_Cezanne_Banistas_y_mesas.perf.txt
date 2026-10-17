@@ -1,0 +1,26 @@
+@id: 030 · ES · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Bañistas y mesas
+@where: En la sala de los cuadros de Cézanne, busque el friso largo y estrecho de una barca y bañistas, la diminuta escena de pícnic con la aguja de una iglesia, y dos bodegones: un jarrón forrado de paja con un azucarero, y fruta con una servilleta y una lechera. Cualquiera puede estar prestado hasta principios de 2027.
+@what: Paul Cézanne, La Barque et les baigneurs (The Boat and the Bathers), around 1890, oil on canvas, 30 × 125 cm · Le Déjeuner sur l'herbe (Luncheon on the Grass), 1876–77, oil on canvas, 21 × 27 cm · Vase paillé, sucrier et pommes (Straw-covered Vase, Sugar Bowl and Apples), 1890–94, 36 × 46 cm · Fruits, serviette et boîte à lait (Fruit, Napkin and Milk Can), around 1880, 60 × 73 cm.
+@listen: A frieze cut into three and put back together, a picnic that may be a private joke, and two tables seen from impossible angles.
+@brief: An affectionate storyteller with a good puzzle to share; brisk through the frieze's adventures, amused at the picnic, then slow and close at the tables.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_A La Barque et les baigneurs: https://www.musee-orangerie.fr/en/artworks/la-barque-et-les-baigneurs-196030 (OFF: c.1890, 30×125; decoration for Victor Chocquet's Paris apartment, over a door, pendant La Vasque au paon; unfinished at Chocquet's death 1891 per Georges Rivière; cut into three; Domenica gave two pieces; central part bought 1973; reassembled) ; FACTS_A Le Déjeuner sur l'herbe: https://www.musee-orangerie.fr/en/artworks/le-dejeuner-sur-lherbe-196018 (OFF: 1876–77, 21×27; picnic, bell tower, standing woman extended by spire; Poussin Bacchanals copied at the Louvre; title uncertain, possible nod to Manet) ; FACTS_A Vase paillé: https://www.musee-orangerie.fr/en/artworks/vase-paille-sucrier-et-pommes-196027 (OFF: improbable viewpoints, "a knife handle?", Paul Guillaume 1927) ; FACTS_A Fruits, serviette et boîte à lait: https://www.musee-orangerie.fr/en/artworks/fruits-serviette-et-boite-lait-196020 (OFF: c.1880, 60×73; chest, apples, knife, wallpaper; viewing angle "a true innovation and even shocking"; austere) ; G3 15.3 (title "milk can", OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 030 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Un cuadro de esta sala ha estado en tres pedazos. Es el largo y estrecho: La Barque et les baigneurs, La barca y los bañistas. Mide unos treinta centímetros de alto y bastante más de un metro de ancho.
+
+Cézanne lo pintó hacia 1890 para decorar el apartamento parisino del coleccionista Victor Chocquet. Debía ir sobre una puerta, junto a otro panel. Según el escritor Georges Rivière, los dos seguían inacabados cuando Chocquet murió en 1891. Más tarde, el friso se cortó en tres. Domenica donó dos de los pedazos al Estado. [pause] Faltaba el centro. En 1973, los museos nacionales por fin lo compraron. Y la barca y sus bañistas se reunieron.
+
+Ahora el más pequeño: Almuerzo sobre la hierba, apenas mayor que un libro. Unos jóvenes comen al aire libre cerca de un pueblo, y se ve un campanario. En el centro, una mujer de pie. [pause] La aguja de la iglesia parece prolongar su silueta hacia el cielo. Quizá Cézanne pensaba en las bacanales de Poussin, que copió en el Louvre. O en felices recuerdos de infancia cerca de Aix. [wry] En cuanto al título, quizá se añadió después. Si es suyo, puede ser un guiño pícaro al famoso pícnic de Manet.
+
+[quietly] Luego, las mesas. En el bodegón del jarrón forrado de paja, mire bien el azucarero y las manzanas. Los ve desde ángulos que no pueden ser ciertos a la vez. Cézanne prefiere un cuadro coherente a uno realista. [pause] Hay incluso una línea inclinada que nadie sabe nombrar del todo. Quizá el mango de un cuchillo.
+
+En el bodegón con fruta, servilleta y lechera, vuelven sus objetos habituales: el arcón, las manzanas, el cuchillo, el papel de la pared. Los verdes son más tenues y las líneas más geométricas, como el dibujo de la pared. [pause] Ese ángulo insólito, dice el museo, fue una verdadera innovación, incluso escandalosa en su época.
+
+Aquí nos despedimos de Cézanne. Ahora busque los cuadros de Henri Rousseau, empezando por su boda, que quizá esté en la gran sala inicial de la colección.

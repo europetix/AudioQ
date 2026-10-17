@@ -1,0 +1,28 @@
+@id: 027 · FR · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Portrait du fils de l'artiste
+@where: Dans la salle des peintures de Cézanne, trouvez le portrait d'un garçon cadré serré, avec seulement le dossier d'un fauteuil à droite, sur un fond bleu-vert. Les Cézanne de cette collection sont souvent prêtés : il peut être absent jusqu'au début de 2027.
+@what: Paul Cézanne, Portrait du fils de l'artiste (Portrait of the Artist's Son), around 1880, oil on canvas. Bought by Paul Guillaume in the 1920s.
+@listen: Three Pauls, one canvas, and how Cézanne builds a child's portrait out of rhyming curves.
+@brief: Light and amused at the coincidence of names, then absorbed and precise, tracing the curves like a friend pointing with a finger.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_A Portrait du fils de l'artiste: https://www.musee-orangerie.fr/en/artworks/portrait-du-fils-de-lartiste-196024 (OFF: c.1880; perched on armchair arm, only chair back painted at right, blue-green ground; close framing "reminiscent of photography"; simplified forms, outlines "recall the work of Gauguin"; curves of armchair, shoulders, neck, face, hair; "the most ambitious and the most accomplished"; bought by Paul Guillaume 1920s) ; FACTS_A Madame Cézanne au jardin (OFF: son born 1872) ; G3 15.4, 15.9 (OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 027 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Commençons par une petite coïncidence. Le garçon de ce portrait s'appelle Paul. Comme son père, Paul Cézanne. Et comme l'homme qui a acheté le tableau dans les années 1920, le marchand Paul Guillaume. [pause] Trois Paul, une seule toile.
+
+C'est le fils de Cézanne, le garçon d'Hortense. Le tableau date de 1880 environ. Il est donc encore enfant. Cézanne l'a peint plus d'une fois à cette époque. Le musée juge celui-ci le plus ambitieux et le plus abouti de tous.
+
+Au premier regard, il n'a pas l'air ambitieux. Juste une tête et des épaules, vues de près. [pause] Puis les choix apparaissent. Le jeune Paul semble perché sur l'accoudoir d'un fauteuil. Mais Cézanne ne peint que le dossier, à droite, sur un fond bleu-vert uni. Le cadrage est si serré qu'il coupe le garçon. Et il coupe le fauteuil, comme le ferait une photographie.
+
+[curious] Suivez maintenant les courbes. Le dossier arrondi du fauteuil, la pente des épaules. Puis le cou, l'ovale du visage et la calotte des cheveux. Chacune répond à la suivante, comme des vers qui riment. Cézanne simplifie chaque forme et lui donne un contour ferme. Cela rappelle le travail de Gauguin.
+
+Ce qui manque compte autant que ce qui est là. Pas de jouets, pas de pièce, pas de petite histoire sur l'enfance. [pause] Juste un garçon, un morceau de fauteuil, et une couleur derrière eux.
+
+On s'attendrait à ce qu'un père adoucisse le portrait de son fils. Cézanne fait quelque chose de plus rare. Il regarde le garçon comme il regardait tout : comme un problème qui mérite d'être bien résolu. [warmly] Et d'une certaine façon, ce sérieux ressemble à une forme d'amour.
+
+Cherchez maintenant un sujet très différent : un paysage où un rocher orange s'élève derrière un bouquet d'arbres, sous un ciel bleu. C'est Le Rocher rouge. Écoutez sa piste là-bas.

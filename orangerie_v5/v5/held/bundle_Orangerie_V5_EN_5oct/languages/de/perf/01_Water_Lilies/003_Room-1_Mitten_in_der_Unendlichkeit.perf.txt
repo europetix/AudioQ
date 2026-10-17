@@ -1,0 +1,24 @@
+@id: 003 · DE · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: R
+@title: Mitten in der Unendlichkeit
+@where: Im ersten ovalen Saal der Seerosen, nahe der Mitte, wo Sie sich drehen und alle vier Kompositionen sehen können.
+@what: Claude Monet, Les Nymphéas (The Water Lilies), painted between 1914 and 1926: eight compositions on twenty-two panels, all two metres high and about ninety-one metres long in total, in two oval rooms. Four of them hang here.
+@listen: How the light and the shape of the rooms were part of Monet's plan, and how to start looking.
+@brief: Standing beside a friend in the middle of the room, helping them get their bearings; quiet and unhurried at first, opening up with curiosity.
+@pace: slow
+@energy: 2→3
+@sources: FACTS_C §1.1 eight compositions / 22 panels / 2 m / 91 m, two oval rooms that "form the infinity symbol": https://www.musee-orangerie.fr/en/node/198900 (OFF) ; same height, different widths to fit the curved walls; light through the ceiling; Room 1 = reflections of sky and vegetation from morning to evening; "endless whole" (Roger Marx 1909): https://www.musee-orangerie.fr/en/node/33 (OFF) ; G1 track 27-2 velum under a glass roof (SEC2), G2 04-7 some artificial light above the velum (SEC2: parisupdate, Studio International) ; G1 track 03-2 ovals joined by a passage, not a point (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 003 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Das Licht in diesem Saal kommt vom Himmel. Es fällt durch ein Glasdach und eine helle, gespannte Stoffdecke. Ein wenig Kunstlicht gibt es dort oben auch. Aber vor allem ist es Tageslicht, so wie Monet es wollte. Was Sie sehen, hängt also ein wenig vom Wetter draußen ab. [pause] Zieht eine Wolke über Paris, verändert sich der Teich vor Ihnen.
+
+Um Sie herum hängen vier der acht Kompositionen der Seerosen, Les Nymphéas. Aneinandergereiht ergäben alle acht etwa einundneunzig Meter Malerei. Sie bestehen aus zweiundzwanzig Tafeln, jede zwei Meter hoch. Die Höhe ändert sich nie. Nur die Breite, zugeschnitten auf jedes Stück der geschwungenen Wand.
+
+[curious] Auch die Form der Säle lohnt einen Gedanken. Zwei Ovale, verbunden durch einen kurzen Durchgang. Von oben gesehen vergleicht das Museum sie mit dem Zeichen für Unendlichkeit. [pause] Eine endlose Schleife, für einen Maler, der von einem endlosen Ganzen träumte.
+
+In diesem ersten Saal geht es um den Himmel und die Pflanzen, gespiegelt im Wasser, vom Morgen bis zum Abend. Sie blicken also nicht über einen Teich. Sie blicken in seine Oberfläche. [pause] Erinnern Sie sich an Monets Traum, an die Welle ohne Horizont und ohne Ufer. Hier umgibt diese Welle Sie ganz.
+
+[pause] Drehen Sie sich langsam auf der Stelle, bevor Sie zu einem einzelnen Bild gehen. Lassen Sie Ihre Augen sich an das Licht gewöhnen. Beginnen Sie dann mit der kleinsten Komposition im Saal, einer einzigen Tafel, sechs Meter breit. Sie heißt Le Soleil couchant, Sonnenuntergang. Vor ihr geht die Geschichte weiter.

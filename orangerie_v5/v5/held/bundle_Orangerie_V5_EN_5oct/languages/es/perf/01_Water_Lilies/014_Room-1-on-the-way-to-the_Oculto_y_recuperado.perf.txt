@@ -1,0 +1,28 @@
+@id: 014 · ES · Room 1 → stairs
+@section: Water Lilies
+@room: Room 1 · on the way to the lower level · Ground floor
+@type: R
+@title: Oculto y recuperado
+@where: De vuelta en la Sala 1, al salir de los Nenúfares, en cualquier lugar desde donde pueda mirar el techo claro, antes de tomar la escalera o el ascensor al nivel inferior.
+@what: The later history of the Water Lilies rooms: the upper floor built over them in the 1960s, and the 2000–2006 renovation that gave them back their daylight and moved the Walter-Guillaume collection below ground.
+@listen: How the Water Lilies lost their daylight for about forty years, how they got it back, and what the builders found underground.
+@brief: Telling a friend a story with a happy ending as you walk; curious at first, a little rueful about the dark years, warm about the light coming back.
+@pace: medium
+@energy: 3→2→4
+@sources: State acquires the Walter-Guillaume collection 1959 and 1963: https://www.musee-orangerie.fr/en/node/197501 (OFF) ; Lahalle 1960–65: two superimposed levels, collection hung upstairs via a monumental staircase, lilies cut off from daylight; Brochet Jan 2000–May 2006: upper floor removed, overhead natural light restored, about 1,000 m² of galleries created below ground: https://www.musee-orangerie.fr/en/node/24 (OFF) + G1 track 27 ; "lived under a false ceiling for about 40 years" (FACTS_C §1.3 hooks, OFF) ; Charles IX's 16th-century city wall found during the works, visible on the lower level (G1 [FOSSES] SEC2, senat.fr questions 2005 + parisupdate)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 014 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Durante unos cuarenta años, los Nenúfares perdieron su cielo.
+
+A finales de los años cincuenta y principios de los sesenta, el Estado francés adquirió una gran colección privada de pintura moderna. La verá enseguida, abajo. Necesitaba una casa, y la Orangerie tenía espacio. Así que, a principios de los sesenta, se construyó un piso nuevo justo encima de estas salas ovaladas. La colección se colgó allí arriba, al final de una escalera monumental. [pause] Y la luz del día que Monet había previsto para sus cuadros se detenía en el piso nuevo.
+
+[quietly] Durante décadas, los nenúfares vivieron bajo un techo falso. Una buena colección arriba, y una sala más oscura abajo. El hombre que había cuidado cada detalle de esta luz ya no estaba, y nadie podía preguntarle.
+
+[warmly] Arreglarlo llevó seis años. El museo cerró en enero de 2000, y el arquitecto Olivier Brochet retiró el piso superior. La luz volvió a bajar por el techo. La colección fue en sentido contrario, a unos mil metros cuadrados de nuevas salas excavadas bajo tierra. [pause] Las salas reabrieron en mayo de 2006.
+
+Excavar trajo una sorpresa. [pause] Los obreros encontraron un tramo de la antigua muralla de la ciudad, del siglo dieciséis, del reinado del rey Carlos Noveno. Una parte aún puede verse en el nivel inferior, así que fíjese al bajar.
+
+Antes de irse, mire una vez más ese techo claro. Esa luz es la idea de Monet, devuelta. Haga el tiempo que haga afuera, los cuadros también lo reciben, tal como él quería.
+
+Ahora tome la escalera o el ascensor hasta el nivel inferior, marcado menos dos en los carteles. Escuche su pista en la primera sala.

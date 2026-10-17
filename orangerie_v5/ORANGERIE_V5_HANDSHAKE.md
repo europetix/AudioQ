@@ -69,3 +69,26 @@ Restore: unzip the snapshot to /home/claude/orangerie (or symlink) → `bash bui
 - Tested with a stand-in TTS only: full ES run 55 files at 64 kbps plus the route map; FR/DE samples OK. Real voices not heard.
 - Launcher safeguard (both guides): v5_direction.check_tour() stops a run when scripts don't match plan.json or the output folder holds MP3s from another version.
 - To do: a native-speaker spot check per language (deliverables/Orangerie_V5_Scripts_<LANG>.md); the route map is English only.
+
+## Update 17 Oct 2026: Yo Tours sound, name and phone labels (same as Pitti, Orsay and Prado)
+- User request: "make the changes for Orangerie to reflect the same voice tone, and name and branding on each audio".
+  Scripts, facts, route and translations are UNCHANGED (the V5 writing already follows the same standard and Ava voice).
+- `v5/pipeline/render_edge.py` + `v5_direction.py` copied from Pitti (identical apart from these features; old copies in
+  `v5/held/pipeline_before_yotours_17oct/`):
+  - Yo Tours sound (A/B version D, the standard since 7 Oct): voice finishing (EQ, de-esser, light compression) before the
+    loudness pass, a barely audible pink room tone (amp 0.002), and a soft two-note chime + 0.45 s gap before each track.
+    Each can be switched off (VOICE_FINISH=0 / ROOM_TONE=0 / CHIME=0).
+  - No more stuck renders: 60 s timeout per voice request, 3 tries, a failed track is skipped and listed; re-run fills it.
+- `build/static/tag_tracks.py` (MUSEUM "Musée de l'Orangerie"): ID3 title "NNN · @title", album "Musée de l'Orangerie
+  Audio Guide · <language>" (Audioguía / Audioguide), artist + album artist "Yo Tours", track n/55, cover picture.
+  Called by both launchers after every render (also after an unfinished one).
+- `build/cover/make_cover.py` → `build/static/cover.jpg`: original drawing (an oval room from above with generic lily pads),
+  same ink-blue and gold Yo Tours family as the other covers. No painting reproduced.
+- Launchers: "Yo Tours - Musee de l'Orangerie (17 Oct 2026 edition)"; output `~/Desktop/Orangerie_YoTours_<LANG>_<voice>`
+  (samples: `~/Desktop/Orangerie_YoTours_Voice_Samples/`), so old V5 renders are never mixed in. USER_TEST listening test
+  points at the new EN folder. Route map PDF author = Yo Tours.
+- Bundle renamed `bundle/Orangerie_YoTours` (all four languages); zip `outputs/Orangerie_YoTours_ALL_LANGUAGES.zip`, copied
+  to `deliverables/`. Old bundle moved to `v5/held/bundle_Orangerie_V5_EN_5oct/`. The stale Pitti copy of
+  voice_samples_ES_FR_DE.command (never in the bundle) moved to `build/held/`.
+- Tested with the stand-in voice only: EN samples 005 + 046 and FR samples, chime present, 24 kHz mono 64 kbps audio,
+  labels and cover correct (track 5/55, Yo Tours, "Audioguide · Français"). Real voices: on the user's Mac.

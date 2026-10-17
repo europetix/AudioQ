@@ -1,0 +1,28 @@
+@id: 040 · DE · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — L'Étreinte (Die Umarmung)
+@where: Unter Picassos Werken im Untergeschoss. Suchen Sie ein hohes Pastell eines nackten Mannes und einer nackten Frau, die sich in einem Schlafzimmer umarmen, in Blau- und Rosatönen. Es ist ein lichtempfindliches Werk, eine Leihgabe des Louvre, und hängt vielleicht nicht an der Wand.
+@what: Pablo Picasso, L'Étreinte (The Embrace), 1903, pastel, 98 × 57 cm. Musée du Louvre, Department of Prints and Drawings, on long-term loan to the Orangerie (first inventoried RF 1960-34).
+@listen: A Blue Period embrace made in Barcelona, in a studio full of grief, and the larger picture it led to.
+@brief: Speaking quietly to a friend in front of a sad, tender picture; restrained, no melodrama, a little warmth at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_B Picasso — L'Étreinte: Louvre https://collections.louvre.fr/en/ark:/53355/cl020039499 and https://www.musee-orangerie.fr/en/artworks/letreinte-196488 (OFF: 1903, pastel, 98×57, RF 1960-34, dépôt, Vollard → Guillaume 1930; nude couple in a bedroom, blues and pinks, the woman pregnant; series culminating in La Vie, 1903, Cleveland; Barcelona studio shared with Casagemas, whose 1901 suicide in Paris deeply affected him — OFF/SEC per sheet) ; FACTS_B Picasso intro: https://www.musee-orangerie.fr/en/artist/pablo-picasso (OFF: 12 works from the early 1900s to the 1920s; Guillaume not his official dealer; shared interest in primitive art) ; G4 21.1 (V4 misdated it; it is a 1903 Blue Period pastel)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 040 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Die Frau in dieser Umarmung ist schwanger. Wenn man das einmal gesehen hat, verändert sich das Bild. [pause] Es geht nicht mehr nur um zwei Liebende. Es geht um das, was kommt.
+
+Picasso schuf es 1903 in Barcelona, mitten in dem, was wir heute seine Blaue Periode nennen. Er arbeitete in einem Atelier, das er einst mit seinem Freund Carlos Casagemas geteilt hatte. Zwei Jahre zuvor hatte sich Casagemas in Paris das Leben genommen. Picasso war tief erschüttert.
+
+[pause] Dieses Blatt gehört zu einer ganzen Reihe von Zeichnungen eines nackten Paares, stehend. Sie führten zu einem großen Gemälde hin, La Vie, Das Leben, heute im Cleveland Museum of Art. Sie sehen hier also Picasso auf dem Weg zu einem viel größeren Bild. Einem Bild über das Leben selbst.
+
+Sehen Sie sich das Zimmer um die beiden an. Es ist ein Schlafzimmer. Die Farben sind das kalte Blau der Blauen Periode, hier und da mit Rosa erwärmt. Mann und Frau halten einander, ihre Gesichter sind kaum zu sehen. [pause] Nichts hier ist für uns gestellt.
+
+[warmly] Es ist Pastell, keine Ölfarbe. Eine Leihgabe des Louvre, so zerbrechlich, dass es an manchen Tagen geschützt vor dem Licht ruht.
+
+Paul Guillaume kaufte es 1930 von dem großen Kunsthändler Ambroise Vollard. Guillaume war nie Picassos offizieller Händler. Was sie verband, sagt das Museum, war eine gemeinsame Leidenschaft für die sogenannte primitive Kunst. Die zwölf Picassos dieser Sammlung reichen von diesen blauen Jahren bis in die 1920er-Jahre.
+
+Suchen Sie nun die große Leinwand mit zwei rosafarbenen Akten. Eine der Figuren balanciert einen Krug auf dem Kopf. Spielen Sie dort den passenden Titel ab.

@@ -1,0 +1,26 @@
+@id: 029 · DE · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Bäume und Häuser: drei Landschaften
+@where: Im Saal mit Cézannes Gemälden: drei Landschaften. Ein Hochformat mit schrägem Baumstamm und niedriger Mauer, ein Weiler mit hellen Häusern zwischen kahlen Bäumen, und die späte Landschaft im Park von Château Noir. Jedes davon kann bis Anfang 2027 verliehen sein.
+@what: Paul Cézanne, Paysage au toit rouge ou Le Pin à l'Estaque (Landscape with Red Roof, or The Pine at L'Estaque), 1875–76, oil on canvas, 73 × 60 cm · Arbres et maisons (Trees and Houses), around 1885, oil on canvas, 54 × 73 cm · Dans le parc de Château Noir (In the Park of Château Noir), 1898–1900, oil on canvas.
+@listen: Three landscapes, about twenty-five years apart, and how Cézanne learned from Pissarro and then let perspective dissolve.
+@brief: A friend walking you along a wall of pictures as if along a timeline; brisk and practical, then slower and more open at the late picture.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_A Le Pin à l'Estaque: https://www.musee-orangerie.fr/en/artworks/paysage-au-toit-rouge-ou-le-pin-lestaque-196017 (OFF: 1875–76, 73×60, L'Estaque 1876, Pissarro's influence, vertical format, foreground trunk and low wall, leaning trunk leads the eye; bought by Domenica) ; FACTS_A Arbres et maisons: https://www.musee-orangerie.fr/en/artworks/arbres-et-maisons-196026 (OFF: c.1885, 54×73, hamlet among two patches of leafless trees near Jas de Bouffan, dark trunks vs pale schematic houses, perspective dissolves, three versions: Met and Nasjonalmuseet Oslo) ; FACTS_A Dans le parc de Château Noir: https://www.musee-orangerie.fr/en/artworks/dans-le-parc-de-chateau-noir-196032 (date 1898–1900 via Gianadda list, SEC; G5 15-2 OFF/SEC2 "key late landscape c.1898–1900"; no description used)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 029 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Wer zusehen will, wie ein Maler seine Sicht auf die Welt ändert, ist vor einer Wand voller Landschaften richtig. Diese drei umspannen rund ein Vierteljahrhundert in Cézannes Leben. Und sie sehen nicht aus, als stammten sie vom selben Auge.
+
+Beginnen Sie mit dem frühesten, dem Hochformat: Le Pin à l'Estaque, Die Kiefer bei L'Estaque. Er malte es 1876 bei einem Aufenthalt in L'Estaque. Man spürt den Einfluss von Camille Pissarro. Sie finden ihn im Hochformat, im Baumstamm ganz vorn und in der niedrigen Mauer. [pause] Folgen Sie dem schrägen Stamm und seinen Ästen. Sie führen Ihren Blick ganz bewusst zu den Bäumen in der Mitte. Hier nutzt ein Maler noch die alten Mittel der Landschaft, um Sie hineinzuführen.
+
+Jetzt das zweite, Bäume und Häuser, um 1885. Ein kleiner Weiler liegt zwischen zwei Gruppen kahler Bäume, nahe Le Jas de Bouffan, dem Familienhaus der Cézannes bei Aix. Dunkle Stämme stehen vor sehr hellen, fast schematischen Häusern. [curious] Und hier gibt etwas nach. Die Ebenen verschwimmen ineinander, und die klassische Perspektive löst sich auf. [pause] Wo genau steht dieses Haus? Vor dem Baum oder dahinter? Cézanne malte diese Ansicht dreimal. Die beiden anderen sind weit weg, in New York und in Oslo.
+
+Dann das späteste, Im Park von Château Noir, um die Jahrhundertwende gemalt, wenige Jahre vor seinem Tod. [quietly] Achten Sie einfach darauf, wie anders es gemacht ist als die Kiefer bei L'Estaque. Und entscheiden Sie selbst, wie weit er gekommen ist.
+
+[lightly] Drei Spaziergänge aufs Land also. Beim ersten nimmt der Maler Sie an die Hand und führt Sie hinein. [pause] Beim letzten traut er Ihnen zu, den Weg selbst zu finden.
+
+Suchen Sie als Nächstes einen langen, niedrigen Fries mit einem Boot und Badenden, und eine winzige Picknickszene. Vor ihnen geht die Geschichte weiter.

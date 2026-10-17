@@ -1,0 +1,28 @@
+@id: 012 · DE · Room 2 · far end
+@section: Water Lilies
+@room: Room 2 · far end · Water Lilies · Ground floor
+@type: W
+@title: Monet — Les Deux Saules (Die beiden Weiden)
+@where: Saal 2, die Stirnwand am hinteren Ende des Saals, Ihnen gegenüber, wenn Sie aus Saal 1 kommen. Es ist die längste Komposition des Museums.
+@what: Claude Monet, Les Deux Saules (The Two Willows), from the Water Lilies cycle, 1914–1926, oil on canvas, four panels, 200 × 1700 cm.
+@listen: Why the longest painting in the museum sits at the far end of the walk, which way it faces, and how to find the two trees of the title.
+@brief: Arriving with a friend at the end of a long walk; hushed, then quietly enthusiastic, gentle as you settle on a bench.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: Size 200 × 1700, four panels, longest composition in the museum, 1914–1926: https://www.musee-orangerie.fr/en/artworks/les-deux-saules-196306 (OFF) + GAC https://artsandculture.google.com/asset/3AEQUJnQ8YnB_A (OFF) ; east end at the back of Room 2: 1944 archive caption https://www.hausderkunst.de/en/wandtexte-cyprien-gaillard-wassermusik (SEC1 in FACTS_C; SEC2 with RMN in G5) ; west entrance at the Concorde end: G5 (https://www.musee-orangerie.fr/en/node/24, OFF) ; "A vestibule … marks the transition from the outside world"; east–west orientation on the royal way from the Arc de Triomphe to the Louvre: https://www.musee-orangerie.fr/en/node/33 (OFF) ; Room 2 is the far end of the building (G5 SEC2) ; grief/war years: see 008 sources (SEC2)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 012 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Sie sind jetzt so weit vom Verkehr der Place de la Concorde entfernt, wie dieses Gebäude es zulässt. Der Eingang liegt hinten am Westende. Zwischen Ihnen und der Straße liegen eine Eingangshalle, ein ganzer ovaler Saal und ein Durchgang. Laut Museum markiert ein Vestibül den Übergang aus der Außenwelt. [pause] Inzwischen ist die Außenwelt weit weg.
+
+Und ans Ende des Weges setzte Monet dies. Les Deux Saules, Die beiden Weiden. Es ist die längste Komposition des Museums, siebzehn Meter Malerei auf vier gefügten Leinwänden. [pause] Um das Ende des Saals gelegt, wirkt sie kaum lang. Es ist, als ginge der Saal einfach weiter.
+
+[curious] Gehen Sie in Gedanken weiter, geradewegs durch diese Wand. Sie würden nach Osten reisen, entlang der großen Achse von Paris, zum Louvre. Diese Säle liegen auf dieser historischen Achse, dem Königsweg vom Louvre bis zum Arc de Triomphe. Das längste Bild des Gebäudes schließt also sein östliches Ende ab. Und blickt zurück, die ganze Länge der Stadt hinab.
+
+[warmly] Suchen Sie jetzt die Bäume. Der Titel verspricht zwei Weiden, und nichts weiter. Gehen Sie die ganze Länge ab, langsam, und suchen Sie sie. Wenn Sie glauben, sie gefunden zu haben, gehen Sie zurück in die Mitte des Saals. [pause] Lassen Sie die vier Leinwände dort wieder zu einem Bild verschmelzen.
+
+[amused] Siebzehn Meter Malerei, und der Titel nennt nur zwei Bäume. Sie zu finden, ist Ihre Aufgabe.
+
+Man ist versucht, Trauerweiden, gemalt in Jahren der Trauer und des Krieges, als eine Art Klage zu lesen. Diese Deutung ist unsere, nicht seine. Aber hier, am fernen Ende von allem, was er plante, kann man sich ihr kaum entziehen.
+
+[lightly] Sie sind viel gelaufen. In diesem Saal wartet noch eine Geschichte, die ich Ihnen an der Tür versprochen habe. Man hört sie besser im Sitzen. Suchen Sie sich eine Bank in der Mitte des Saals, und machen Sie es sich bequem.

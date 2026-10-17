@@ -1,0 +1,30 @@
+@id: 013 · ES · Room 2 · bench
+@section: Water Lilies
+@room: Room 2 · bench · Water Lilies · Ground floor
+@type: ANCHOR
+@title: Los últimos años
+@where: En un banco en el centro de la Sala 2, si hay alguno libre. Si no, en cualquier lugar desde donde se vea toda la sala.
+@what: Claude Monet's last years at Giverny: the cataract operation of 1923, the long struggle with his sight, and the panels he kept until his death in 1926, months before the rooms opened.
+@listen: What Monet's eyes could still see when he finished these paintings, and how close he came to seeing them here.
+@brief: Sitting beside a friend and telling them something sad and true; quiet, unhurried, plain about the facts, tender at the end, leaving room for silence.
+@pace: slow
+@energy: 2→3→1
+@sources: Cataracts diagnosed 1912; right-eye surgery January 1923 by Dr Charles Coutela, urged by Clemenceau; before it right eye perceived only light, left 1/10; aged 82 (FACTS_C §1.3 + G2 12-8, SEC2 https://hekint.org/2017/01/24/monet-and-his-cataracts/ + https://pmc.ncbi.nlm.nih.gov/articles/PMC4408507/) ; after surgery saw colours too yellow or too blue, destroyed works, hedged; corrective lenses 1924–25, partial recovery (G2 06-4, 12-7, SEC2 same) ; kept retouching to the end, would not part with them; died at Giverny 5 Dec 1926 aged 86: https://www.musee-orangerie.fr/en/node/33 (OFF) ; deed 1922, Lefèvre's conversion 1922–27, mounted from 31 Jan 1927, inaugurated 17 May 1927, about five months after his death: https://www.musee-orangerie.fr/en/node/198900 (OFF) ; Monet set forms, positioning, rhythm, spacing; "endless whole" (Roger Marx 1909): node/33 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 013 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] En enero de 1923, un hombre de ochenta y dos años entró en el quirófano para operarse el ojo derecho. Para entonces, ese ojo apenas distinguía la luz. El izquierdo veía más o menos una décima parte de lo normal. [pause] El paciente era Claude Monet. Quien lo había instado a operarse era Georges Clemenceau.
+
+Sus cataratas se habían descubierto más de diez años antes. Ahora el cirujano, el doctor Charles Coutela, le operó el ojo derecho. El mundo no volvió de golpe. Monet se quejaba de que los colores se veían mal, demasiado amarillos, o demasiado azules. Se dice que destruyó algunos de sus propios lienzos en esos años. [pause] Solo con nuevas lentes correctoras, en los dos años siguientes más o menos, recuperó en parte la vista.
+
+Piense en lo que eso significa para las paredes que le rodean. Parte de este color lo puso un pintor que no podía fiarse del todo de sus ojos. Y aun así siguió pintando.
+
+[wry] También se quedó con los paneles. El regalo estaba prometido, el acta firmada, las salas en obras. Y en Giverny, Monet seguía retocando sus lienzos, sin decidirse a soltarlos.
+
+Al final, no tuvo que hacerlo. Murió en Giverny el 5 de diciembre de 1926, a los ochenta y seis años. [long pause] En menos de dos meses, los lienzos se estaban fijando a estas paredes. Las salas se abrieron en mayo del año siguiente. Unos cinco meses tarde para él.
+
+[reverent] Así que nunca se sentó donde usted está ahora. Nunca vio la luz bajar sobre las ocho composiciones, unidas en las formas y los espacios que había calculado con tanto cuidado. [pause] Planeó cada parte de esta experiencia, y luego la dejó para que otros la vivieran. Personas como usted.
+
+Tómese un minuto con eso. Deje que su mirada vague por la sala sin buscar nada en particular. Monet soñaba con un todo sin fin. Esta es una manera de encontrarlo.
+
+[long pause] Cuando lo desee, vuelva por el pasaje a la primera sala. Allí le espera una última historia, y trata del techo sobre su cabeza.

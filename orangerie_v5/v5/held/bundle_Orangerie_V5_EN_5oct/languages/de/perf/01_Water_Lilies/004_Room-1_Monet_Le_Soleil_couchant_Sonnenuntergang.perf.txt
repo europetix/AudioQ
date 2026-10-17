@@ -1,0 +1,28 @@
+@id: 004 · DE · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: W
+@title: Monet — Le Soleil couchant (Sonnenuntergang)
+@where: Im ersten ovalen Saal, vor der kürzesten seiner vier Kompositionen, einer einzigen Tafel von sechs Metern Breite.
+@what: Claude Monet, Le Soleil couchant (Setting Sun), from Les Nymphéas, 1914–1926, oil on one canvas panel, 200 × 600 cm.
+@listen: Why the smallest of the eight compositions is the only one on a single panel, how the whole cycle follows the sun, and how paint turns into water.
+@brief: Pointing out a clever detail of the plan to a friend; lightly amused at "the small one", curious about the sun, quiet and absorbed as you step close and back.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: FACTS_C §1.2 Le Soleil couchant, 200 × 600, one oil panel, smallest composition, 1914–1926: https://artsandculture.google.com/asset/qAG-qyFHUPm1kg (OFF, museum partner page) + https://www.musee-orangerie.fr/en/artworks/soleil-couchant-196305 (OFF via G2) ; same height, different widths; Monet set positioning, rhythm and spaces between panels; east–west orientation in the course of the sun: https://www.musee-orangerie.fr/en/node/33 (OFF) ; sunrise east / twilight west: https://www.musee-orangerie.fr/sites/default/files/2023-03/dossier_pedagogique_nympheas_0.pdf (OFF, snippet) ; "quick and dynamic brushstrokes" in Room 1: same dossier (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 004 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Für die Verhältnisse dieses Saals ist das hier das kleine Bild. Sechs Meter breit. Le Soleil couchant, Sonnenuntergang, ist die kürzeste der acht Kompositionen. Und die einzige, die auf einer einzigen Tafel gemalt ist. Alle anderen bestehen aus mehreren Leinwänden, Kante an Kante gefügt.
+
+Warum so kurz? Wegen des Wandstücks, an das sie musste. Monet überließ das nicht den Bauleuten. Er legte fest, wo jedes Bild hängen sollte. Den Rhythmus von einem zum nächsten. Sogar die Abstände dazwischen. [pause] Nichts in diesen Sälen hängt zufällig dort, wo es hängt.
+
+[curious] Und dann die Sonne selbst. Diese Säle verlaufen von Osten nach Westen, im Einklang mit dem Lauf der Sonne. Die Szenen des Sonnenaufgangs liegen nach Osten, die Dämmerung nach Westen. [pause] Ein gemalter Tag folgt also dem echten quer durch das Gebäude. Und hier, im kleinsten Bild von allen, endet der Tag.
+
+Jetzt zum Schauen. Beginnen Sie ein paar Schritte entfernt und lassen Sie die ganze Tafel auf sich wirken. Der Titel nennt Ihnen die Stunde. Der Rest ist Sache Ihrer Augen. Wo liegt das Licht im Wasser? Zu welcher Farbe geht Ihr Blick zuerst?
+
+[quietly] Gehen Sie dann ganz nah heran. In diesem Saal ist der Pinselstrich schnell und voller Energie. Aus der Nähe wird der gespiegelte Himmel wieder zu Farbstrichen. Treten Sie langsam wieder zurück. [pause] Achten Sie auf den Moment, in dem daraus Wasser wird.
+
+Das ist der ganze Zaubertrick dieser Säle. Und Sie haben ihn gerade selbst vorgeführt.
+
+Suchen Sie als Nächstes Les Nuages, Die Wolken. Sie ist eine der beiden langen Kompositionen in diesem Saal. Die andere, auf der Seine-Seite, ist Matin, Morgen. Die heben wir uns für den Schluss auf. [pause] Spielen Sie direkt davor den Titel zu Les Nuages ab.

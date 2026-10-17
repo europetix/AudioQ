@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Builds the blind desk-listening test (TEST_PLAN.md, Test 1) from the folders on your Desktop:
 #   V4 guide  ~/Desktop/Orangerie_Audio_EN          (Track_NN_*.mp3)
-#   V5 guide  ~/Desktop/Orangerie_V5_EN_Ava         (<section>/NNN_*.mp3)
+#   V5 guide  ~/Desktop/Orangerie_YoTours_EN_Ava         (<section>/NNN_*.mp3)
 # Output: ~/Desktop/Orangerie_Listening_Test/  (clips named by random code + ANSWER_KEY.txt; keep the key away from listeners)
-D="$HOME/Desktop"; OUT="$D/Orangerie_Listening_Test"; V4="$D/Orangerie_Audio_EN"; V5="$D/Orangerie_V5_EN_Ava"
+D="$HOME/Desktop"; OUT="$D/Orangerie_Listening_Test"; V4="$D/Orangerie_Audio_EN"; V5="$D/Orangerie_YoTours_EN_Ava"
 for d in "$V4" "$V5"; do [ -d "$d" ] || { echo "Missing folder: $d  (render it first)"; read -p "Press enter..."; exit 1; }; done
 mkdir -p "$OUT"
 python3 - "$V4" "$V5" "$OUT" <<'PY'

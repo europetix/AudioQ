@@ -1,0 +1,28 @@
+@id: 027 · DE · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Portrait du fils de l'artiste (Bildnis des Sohnes des Künstlers)
+@where: Im Saal mit Cézannes Gemälden: das eng beschnittene Porträt eines Jungen. Rechts ist nur die Lehne eines Sessels zu sehen, vor blaugrünem Grund. Cézannes aus dieser Sammlung werden oft ausgeliehen. Dieses Bild kann bis Anfang 2027 fehlen.
+@what: Paul Cézanne, Portrait du fils de l'artiste (Portrait of the Artist's Son), around 1880, oil on canvas. Bought by Paul Guillaume in the 1920s.
+@listen: Three Pauls, one canvas, and how Cézanne builds a child's portrait out of rhyming curves.
+@brief: Light and amused at the coincidence of names, then absorbed and precise, tracing the curves like a friend pointing with a finger.
+@pace: medium
+@energy: 3→3→2
+@sources: FACTS_A Portrait du fils de l'artiste: https://www.musee-orangerie.fr/en/artworks/portrait-du-fils-de-lartiste-196024 (OFF: c.1880; perched on armchair arm, only chair back painted at right, blue-green ground; close framing "reminiscent of photography"; simplified forms, outlines "recall the work of Gauguin"; curves of armchair, shoulders, neck, face, hair; "the most ambitious and the most accomplished"; bought by Paul Guillaume 1920s) ; FACTS_A Madame Cézanne au jardin (OFF: son born 1872) ; G3 15.4, 15.9 (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 027 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Zum Einstieg ein kleiner Zufall. Der Junge auf diesem Porträt heißt Paul. Sein Vater hieß auch so, Paul Cézanne. Und ebenso der Mann, der das Bild in den 1920er-Jahren kaufte, der Kunsthändler Paul Guillaume. [pause] Drei Pauls, eine Leinwand.
+
+Das ist Cézannes Sohn, der Junge von Hortense. Das Bild entstand um 1880, er ist hier also noch ein Kind. Cézanne malte ihn in diesen Jahren mehrmals. Das Museum nennt dieses Bild das ehrgeizigste und vollendetste von allen.
+
+Auf den ersten Blick wirkt es kaum ehrgeizig. Nur Kopf und Schultern, aus der Nähe gesehen. [pause] Dann zeigen sich die Entscheidungen. Der junge Paul scheint auf der Armlehne eines Sessels zu sitzen. Doch Cézanne malt nur die Rückenlehne, rechts am Rand, vor einem schlichten blaugrünen Grund. Der Ausschnitt ist so eng, dass er den Jungen anschneidet. Und den Sessel auch, wie es ein Foto tun würde.
+
+[curious] Folgen Sie jetzt den Rundungen. Die gewölbte Lehne, die abfallenden Schultern, dann der Hals, das Oval des Gesichts und die Haarkappe. Jede Rundung antwortet der nächsten, wie Zeilen in einem Reim. Cézanne vereinfacht jede Form und gibt ihr einen festen Umriss. Das erinnert an die Arbeit von Gauguin.
+
+[pause] Was fehlt, zählt so viel wie das, was da ist. Kein Spielzeug, kein Zimmer, keine kleine Geschichte über die Kindheit. Nur ein Junge, ein Stück Sessel und eine Farbe dahinter.
+
+Man könnte erwarten, dass ein Vater das Porträt seines Sohnes weicher macht. Cézanne tut etwas Selteneres. Er sieht den Jungen so an, wie er alles ansah: als Problem, das es wert ist, richtig gelöst zu werden. [warmly] Und irgendwie fühlt sich dieser Ernst wie eine Form von Liebe an.
+
+Suchen Sie jetzt ein ganz anderes Motiv: eine Landschaft, in der ein orangefarbener Fels hinter einer Baumgruppe aufragt, unter blauem Himmel. Das ist Le Rocher rouge. Spielen Sie dort den passenden Titel ab.

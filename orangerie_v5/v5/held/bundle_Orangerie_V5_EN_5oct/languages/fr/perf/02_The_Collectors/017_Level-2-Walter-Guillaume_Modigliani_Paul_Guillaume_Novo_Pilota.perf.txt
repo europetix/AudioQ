@@ -1,0 +1,30 @@
+@id: 017 · FR · Level −2
+@section: Collectors
+@room: Level −2 · Walter-Guillaume collection
+@type: W
+@title: Modigliani — Paul Guillaume, Novo Pilota
+@where: Au niveau inférieur, devant le portrait par Modigliani d'un jeune homme en costume sombre et chapeau sur fond rouge, avec les mots Novo Pilota peints dessus. Sa salle dans l'accrochage actuel n'est pas confirmée. Cherchez parmi les grandes œuvres du début de la collection, ou avec les autres Modigliani.
+@what: Amedeo Modigliani, Paul Guillaume, Novo Pilota, 1915, oil on cardboard mounted on plywood, 105 × 75 cm.
+@listen: What the painter wrote on his young dealer's portrait, and why.
+@brief: Introducing a friend to a portrait that is also a compliment and a wager; lively and fond, slowing for the inscription, warm at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_A Modigliani — Novo Pilota (1915; aged 23; red background, dark suit and hat, white shirt, looking straight at us; painted at Beatrice Hastings's home in Montmartre; "Novo Pilota" = new pilot / new helmsman, "like a sailor or one of the wise men guided by a star"; met 1914 through Max Jacob; rented him a studio in Montmartre; four portraits 1915–16): https://www.musee-orangerie.fr/en/artworks/paul-guillaume-novo-pilota-196295 , https://www.musee-orangerie.fr/en/whats-on/exhibitions/novo-pilota-amedeo-modigliani-and-his-dealer-paul-guillaume (OFF) ; G4 23.4 + Confirmed OK (cardboard, 105 × 75, "only twenty-three", inscription "Novo Pilota" = new pilot): pop.culture.gouv.fr Joconde 00000089486 (OFF) ; G3 Confirmed OK (gallery opened Feb 1914)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 017 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] La plupart des portraits disent qui est quelqu'un. Celui-ci dit ce qu'il va devenir. Et il l'écrit, sur le tableau même.
+
+Le jeune homme, c'est Paul Guillaume. Il a vingt-trois ans, et il est marchand depuis un an à peine. En 1915 et l'année suivante, Modigliani le peint quatre fois.
+
+Celui-ci a été peint chez la compagne de Modigliani, la poétesse britannique Beatrice Hastings. Et ce n'est pas une toile, mais un carton, monté sur contreplaqué.
+
+Maintenant, regardez l'homme. Il est élégant, sûr de lui, et il vous regarde droit dans les yeux. Le costume sombre et le chapeau se détachent sur un fond rouge. Entre les deux, son visage et sa chemise blanche captent toute la lumière. [pause] Ce jeune marchand n'a rien d'humble, et Modigliani ne cherche pas à le cacher.
+
+[pause] Cherchez ensuite deux mots peints sur le carton lui-même. [long pause] Novo Pilota. Le nouveau pilote, ou le nouveau timonier.
+
+Le musée l'interprète ainsi. Modigliani salue en Guillaume celui qui guidera l'art moderne, comme un marin à la barre, ou l'un des Rois mages suivant l'étoile. D'un peintre à l'homme qui vend son travail, c'est un beau compliment. [pause] C'est aussi un pari. Modigliani parie que ce jeune homme trouvera la voie. Et Guillaume, qui paie l'atelier de Montmartre, parie sur lui.
+
+[warmly] Les deux paris, chacun à sa façon, ont été gagnés. La preuve ? Vous êtes dedans.
+
+Guillaume a été peint bien d'autres fois. Cherchez ses autres portraits, et ceux de sa femme Domenica, par Derain et par Van Dongen. L'histoire continue devant eux.

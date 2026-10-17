@@ -1,0 +1,28 @@
+@id: 046 · ES · Soutine room · Level −2
+@section: Soutine
+@room: Soutine room · Level −2
+@type: W
+@title: Soutine — Le Petit Pâtissier (El pequeño pastelero)
+@where: En la sala de los cuadros de Soutine, delante de un pequeño retrato de un joven cocinero delgado, con gorro y chaqueta blancos de pastelero, que sostiene un paño plano de un rojo vivo.
+@what: Chaïm Soutine, Le Petit Pâtissier, The Little Pastry Cook, around 1922–23, oil on canvas, 73 × 54 cm. Jean Walter and Paul Guillaume collection.
+@listen: How a painting of a pastry cook made Soutine's name in America, and why Paul Guillaume bought this one years later.
+@brief: Telling a friend a story about a lost love that's really about a painting; brisk and pleased at the Barnes sale, tender at the replacement, amused at the royal pose.
+@pace: medium
+@energy: 3→4→2→3
+@sources: FACTS_C Soutine — Le Petit Pâtissier (c.1922–23, 73×54, six versions, bought early 1930s "in memory of the first Pastry Cook that he had liked so much", Fouquet Charles VII pose, elongated face, red cloth): https://www.musee-orangerie.fr/es/obras/le-petit-patissier-196563 (OFF) ; FACTS_C Soutine holdings (Guillaume one of the first; through him Barnes discovered Soutine; largest Soutine collection in Europe): https://www.musee-orangerie.fr/en/articles/chaim-soutine-105466 (OFF) ; G4 24.1 and 24.5 (Dec 1922 Barnes sees a pastry cook at Guillaume's; Guillaume takes him to Zborowski; Guillaume found Soutine through Michel Georges-Michel's article): le-petit-patissier page (OFF) + Met Modern Art Index (SEC) ; G4 Confirmed OK (born 1893 near Minsk)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 046 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Un día de diciembre de 1922, un coleccionista estadounidense entró en la galería de Paul Guillaume, en París. Un cuadro lo detuvo en seco. Mostraba a un pastelero. El coleccionista era Albert Barnes. El pintor era un joven de cerca de Minsk, llamado Chaïm Soutine. Fuera de París, pocos lo conocían.
+
+Guillaume sí. Había descubierto a Soutine gracias a un artículo del crítico Michel Georges-Michel. Fue de los primeros en tomarse en serio su pintura. Entonces llevó a Barnes al marchante de Soutine, Léopold Zborowski. Barnes compró decenas de lienzos. [pause] Gracias a esa sola presentación, Soutine alcanzó fama internacional.
+
+[curious] ¿Y el pastelero con el que empezó todo? Parece que se fue a Estados Unidos con Barnes. [pause] Guillaume nunca lo olvidó del todo.
+
+A Soutine le gustaba trabajar en series, y pintó este tema seis veces. A principios de los años treinta, mucho después de que Barnes lo hiciera famoso, Guillaume compró esta versión. Según el museo, la compró «en recuerdo del primer Pastelero que tanto le había gustado». [long pause] Lo que ve es una especie de premio de consolación. El recuerdo que un marchante guardó del cuadro que se le escapó.
+
+Ahora mire al muchacho. El rostro se alarga, el cuello es frágil, y los rasgos y los miembros se deforman. De esa distorsión nace su fuerza. El gorro y la chaqueta son blancos, con toques de gris y verde. Y en sus manos, un paño de un rojo plano y vivo, lo más ardiente del cuadro.
+
+[amused] Una cosa más. La postura quizá venga de un retrato del Louvre, el Carlos Séptimo, rey de Francia, de Jean Fouquet. [pause] Un muchacho de cocina, sentado como un rey.
+
+Cerca, busque a un camarero de hotel con chaleco rojo y las manos en las caderas. Su historia continúa frente a él.

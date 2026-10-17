@@ -1,0 +1,28 @@
+@id: 021 · ES · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Claude Renoir en clown (Claude Renoir vestido de payaso)
+@where: En la sala de los cuadros de Renoir, delante del retrato de un niño pequeño con un traje rojo de payaso. La disposición actual no está confirmada, así que puede faltar.
+@what: Pierre-Auguste Renoir, Claude Renoir en clown (Claude Renoir as a Clown), 1909, oil on canvas.
+@listen: A boy who hated his costume, the bargain that got the portrait finished, and the old master Renoir was trying to match.
+@brief: Sharing a favourite family anecdote with a friend; amused and fond, then a little more serious about the painter's ambition.
+@pace: medium
+@energy: 3→4→3
+@sources: FACTS_A Renoir — Claude Renoir en clown (1909, RF 1960-17; Claude, "Coco", about eight; hated the red clown costume and the stockings that prickled and tickled; several sittings; agreed to wear the stockings briefly in return for a box of oil paints and a train set; Renoir wanted a ceremonial portrait to measure himself against the old masters, Velázquez in particular): https://www.musee-orangerie.fr/en/artworks/claude-renoir-en-clown-196520 (OFF). Dimensions deliberately not given (unverified).
+@lang: es
+@translation: from the fact-checked English Orangerie V5 021 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Todo retrato tiene un precio. Este costó una caja de pinturas y un tren de juguete.
+
+El niño es Claude Renoir, el hijo del pintor. En la familia lo llamaban Coco. En 1909, año del cuadro, tenía unos ocho años. Y no quería estar aquí.
+
+[pause] El problema era el disfraz. Coco odiaba el traje rojo de payaso. Sobre todo, odiaba las medias, que le picaban y le hacían cosquillas en las piernas. Hubo varias sesiones, y en cada una, otra vez las medias. [pause] Al final, hicieron un trato. Coco se pondría las medias, solo un rato. A cambio, recibiría una caja de pinturas al óleo y un tren de juguete.
+
+[lightly] Al mirar a este pequeño payaso, recuerde que le pagaron bien por posar.
+
+Pero Renoir no estaba pintando una broma. Quería un retrato de gala de su hijo, un cuadro de gran estilo. Con él pretendía medirse con los viejos maestros, y sobre todo con Velázquez. [pause] Es mucha ambición para el retrato de un niño con un disfraz que no soporta. Aquí, el traje de gala es un traje rojo de payaso. Y al joven modelo le han prometido un tren.
+
+[warmly] Mírelo de las dos maneras a la vez. Vea el traje rojo como Renoir quería que se viera: un desafío del pintor a los viejos maestros. Luego piense en las medias, culpables de todo. La ambición de un gran pintor y el trato de un niño pequeño, en un solo cuadro.
+
+Jean, el hermano mayor de Coco, también aparece en esta sala, de pequeño, sobre las rodillas de su niñera. Busque el cuadro pequeño de una mujer y un niño que juega con animales de juguete, y escuche su pista allí.

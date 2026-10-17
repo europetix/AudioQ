@@ -1,0 +1,30 @@
+@id: 047 · ES · Soutine room · Level −2
+@section: Soutine
+@room: Soutine room · Level −2
+@type: W
+@title: Soutine — Le Garçon d'étage y La Fiancée
+@where: En la sala de los cuadros de Soutine. Busque a un camarero de hotel con chaleco rojo, de pie, con las manos en las caderas, y luego un retrato alto y estrecho de una joven delgada con vestido blanco.
+@what: Chaïm Soutine, Le Garçon d'étage, The Room-Service Waiter, around 1927, oil on canvas, 87 × 66 cm; La Fiancée, The Bride, around 1923, oil on canvas; La Jeune Anglaise, The Young Englishwoman, 1934, oil on canvas.
+@listen: The hotel staff nobody looked at, the year Soutine's red took over, and a bride squeezed into her frame.
+@brief: Pointing out people at the edges of a smart world to a friend; curious, then frank and a little amused at the waiter, gentle with the bride.
+@pace: medium
+@energy: 2→4→3
+@sources: FACTS_C Soutine — Le Garçon d'étage (c.1927, 87×66; hands on hips, aggressive pose, red ears, red waistcoat, tight uniform, uneven shoulders, misshapen hands; Châtel-Guyon 1926–28, Madeleine and Marcellin Castaing, probably watched hotel staff, series of portraits; 1927 obsession with red peaked with grooms and huntsmen; official English renders the French 'grooms et chasseurs', and a chasseur here is a hotel bellboy, cf. Soutine's Le Groom (Le Chasseur), 1925, so spoken as 'hotel pageboys and bellboys'): https://www.musee-orangerie.fr/es/obras/le-garcon-detage-196571 (OFF) ; FACTS_C Soutine — La Fiancée (c.1923, probably Cagnes; tall format closes tightly around thin figure; elongated face; green and brown background; white dress spattered with green, blue, yellow): https://www.musee-orangerie.fr/fr/oeuvres/la-fiancee-196564 (OFF) ; FACTS_C Soutine — La Jeune Anglaise (1934, title and date only): https://www.musee-orangerie.fr/es/obras/la-jeune-anglaise-196575 (OFF) ; G4 24.4 (Garçon d'étage is not the Pompidou's Le Groom)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 047 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En un elegante hotel de balneario, el personal debe ser invisible. Lleva las bandejas, abre las puertas, y nadie lo mira de verdad. [pause] Soutine sí miró.
+
+Entre 1926 y 1928 pasó temporadas en el balneario de Châtel-Guyon. Allí conoció a los coleccionistas Madeleine y Marcellin Castaing. Parece que observó de cerca al personal del hotel. Y luego lo pintó, uno tras otro, en una serie de retratos. Este es uno, Le Garçon d'étage, El camarero de habitaciones.
+
+[wry] No parece precisamente a su servicio. Mire la postura. Manos en las caderas, algo agresivo. El rostro es tosco, con una frente enorme y un mentón estrecho y puntiagudo. El pecho, apretado en un uniforme ceñido. Los hombros, desiguales. Las manos, deformes.
+
+Luego siga el rojo. Está en el chaleco, en la piel de la cara y en las orejas, que arden. Cuando pintó a este hombre, la obsesión de Soutine por el rojo llegó a su punto máximo, en sus cuadros de botones de hotel. [pause] Aquí, el uniforme y el hombre parecen hechos del mismo color ardiente.
+
+[quietly] Ahora busque a la novia, La Fiancée. Es unos años anterior, probablemente pintada en Cagnes, en el sur. El lienzo, alto y estrecho, se cierra con fuerza en torno a su cuerpo delgado y su rostro alargado. Su vestido blanco no lo es por mucho tiempo. Está salpicado de largas pinceladas verdes, azules y amarillas, sobre un fondo verde y marrón.
+
+Un camarero en su uniforme rojo, y una novia en el suyo. [pause] Soutine los aprieta a los dos, y de algún modo los hace más vivos.
+
+Cerca cuelga La Jeune Anglaise, La joven inglesa, pintada en 1934, unos diez años después de la novia. Compárelas.
+
+Cuando lo desee, busque los bodegones de carne colgada, un costado de buey y un conejo, y escuche su pista allí.

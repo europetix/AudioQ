@@ -1,0 +1,28 @@
+@id: 028 · FR · Cézanne room
+@section: Cézanne
+@room: Cézanne room · Level −2
+@type: W
+@title: Cézanne — Le Rocher rouge
+@where: Dans la salle des peintures de Cézanne, trouvez le paysage vertical avec un rocher orange derrière un bouquet d'arbres, surmonté d'un ciel bleu. Il peut être prêté jusqu'au début de 2027.
+@what: Paul Cézanne, Le Rocher rouge (The Red Rock), around 1895, oil on canvas, 91 × 66 cm. Bought by Domenica Walter after Paul Guillaume's death.
+@listen: The deserted quarry Cézanne kept returning to, and the poet who saw young painters lining up behind him.
+@brief: Telling a friend about an obsession: curious at the start, plain and visual in the middle, a quiet lift at Apollinaire's line.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: FACTS_A Le Rocher rouge: https://www.musee-orangerie.fr/en/artworks/le-rocher-rouge-196031 (OFF: c.1895; cross-hatched trees against orange rock, blue sky; deserted Bibémus quarries near Aix, 1895–1904; "one of the masterpieces of Cézanne's maturity"; bought by Domenica) ; size 91×66: G3 16.1, https://www.musee-orangerie.fr/it/opere/le-rocher-rouge-196031 (OFF) ; Apollinaire 1910 quote: G3 16.4 (OFF, on the Rocher rouge page) ; Cubism within two years of Cézanne's death 1906: G3 15.1 (SEC2) ; Jas de Bouffan near Aix: FACTS_A Arbres et maisons (OFF)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 028 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Vers la fin de sa vie, Cézanne retournait sans cesse au même endroit, bien peu prometteur. Ni une cathédrale, ni une vue célèbre. Une carrière abandonnée, Bibémus, près d'Aix. Pendant une dizaine d'années à partir de 1895, il en a peint les rochers, encore et encore.
+
+Cette toile naît de l'une de ces visites, vers 1895. Elle mesure environ quatre-vingt-dix centimètres de haut et soixante-six de large. Domenica l'a achetée après la mort de Paul Guillaume. Le musée la compte parmi les chefs-d'œuvre de la maturité de Cézanne.
+
+Voyez comme il lui faut peu. Un bouquet d'arbres, peint en touches courtes et croisées, se détache sur le rocher orange. Au-dessus, une bande de ciel bleu. [pause] Le vert, l'orange et le bleu : c'est tout le sujet.
+
+Et pourtant, il ne paraît pas vide. Laissez votre regard reposer sur les arbres. Chaque touche reste séparée et croise ses voisines. Le bouquet n'en forme pas moins un tout sur la roche nue.
+
+[quietly] Les jeunes peintres l'ont remarqué. Cézanne meurt en 1906. En moins de deux ans, Picasso et Braque commencent les expériences qui deviendront le cubisme. [pause] Quatre ans après sa mort, Guillaume Apollinaire, celui qui avait ouvert des portes à Paul Guillaume, résume tout. [long pause] Il écrit que la plupart des peintres nouveaux se réclament, on le sait, de cet artiste sincère et désintéressé.
+
+Sincère et désintéressé : on dit rarement cela d'un révolutionnaire. Mais restez ici un moment, et ces mots sonnent juste. Rien d'ostentatoire dans ce tableau. Juste un homme dans une carrière, qui essaie, très patiemment, de bien faire.
+
+Cherchez ensuite trois paysages de Cézanne, arbres et maisons, peints à des années d'écart. Placez-vous pour les voir ensemble.

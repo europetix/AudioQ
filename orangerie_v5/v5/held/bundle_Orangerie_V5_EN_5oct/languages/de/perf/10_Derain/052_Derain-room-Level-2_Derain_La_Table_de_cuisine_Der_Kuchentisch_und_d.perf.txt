@@ -1,0 +1,30 @@
+@id: 052 · DE · Derain room · Level −2
+@section: Derain
+@room: Derain room · Level −2
+@type: W
+@title: Derain — La Table de cuisine (Der Küchentisch) und die Stillleben
+@where: Im Saal mit den Gemälden von André Derain, vor dem großen, dunklen Stillleben mit Küchengeräten auf einem Tisch, vor allem in Brauntönen gemalt. Seine kleineren Stillleben mit Obst, Brot, Krügen und Körben hängen in der Nähe.
+@what: André Derain, La Table de cuisine, The Kitchen Table, around 1922–25, oil on canvas; with smaller still lifes including Poires et cruche, Pears and Jug, 1928.
+@listen: Why critics thought of Caravaggio in front of a kitchen table, and the difference between a finished picture and a sketch.
+@brief: Walking a friend along a wall of still lifes; calm and appreciative, a little playful with the sketch, settling at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C Derain — La Table de cuisine (c.1922–25; one of the most important of his big dark still lifes of kitchen utensils; static construction, browns dominant; shown and reproduced from 1927, quickly successful; 1930s critics compared it to Caravaggio's light-and-dark contrasts): https://www.musee-orangerie.fr/en/artworks/la-table-de-cuisine-196170 (OFF) ; FACTS_C Derain holdings (museum: "representative of Paul Guillaume's taste for the classicizing side of the artist") (OFF) ; FACTS_C Derain — Still lifes: Nature morte champêtre (1921, straw hat and basket of flowers) …/nature-morte-champetre-196167 ; Nature morte au panier (1927, 1924–27 experiments with form and light, dark areas drawn with black lines, basket and grapes) …/nature-morte-au-panier-196182 ; Nature morte au verre de vin (1928, small, plate of fruit, bread, wine glass, grapes and glass outlined in black and white) …/nature-morte-au-verre-de-vin-196187 ; Poires et cruche (1928, "a spirited sketch rather than a finished work", pears lit with vibrant yellow strokes) …/poires-et-cruche-196186 (all musee-orangerie.fr, OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 052 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Es ist nur ein Küchentisch mit seinen Geräten, gemalt vor allem in Brauntönen. Und doch standen Kritiker in den 1930er-Jahren vor diesem Bild und dachten an Caravaggio.
+
+La Table de cuisine, Der Küchentisch, entstand in der ersten Hälfte der 1920er-Jahre. Es ist eines der wichtigsten von Derains großen, dunklen Stillleben mit Küchendingen. Ab 1927 wurde es ausgestellt und abgebildet, und der Erfolg kam schnell. [pause] Die Kritiker sahen Licht, das gegen das Dunkel drängt. Das Drama, für das Caravaggio berühmt war.
+
+Sehen Sie nun, wie still es ist. Das ganze Bild ist gebaut wie ein Stück Architektur, fest und ruhig. Nach Soutines schwankenden Häusern ist es, als beträte man einen kühlen, stillen Raum.
+
+Diese Ruhe passte zu Paul Guillaume.
+
+Rundherum hängen kleinere Stillleben. Wählen Sie eines aus. [pause] Suchen Sie die schwarzen Linien, die Derain um den Korb, die Trauben oder das Glas zieht. Dieselbe Ruhe, im Kleinen.
+
+[amused] Dann suchen Sie Poires et cruche, Birnen und Krug. Das Museum nennt es eine lebhafte Skizze, kein fertiges Werk. Hier ertappen Sie Derain beim lauten Denken. Die Birnen leuchten in schnellen Strichen aus kräftigem Gelb.
+
+[quietly] Ein fertiger Tisch und eine unfertige Skizze im selben Raum. Nimmt man beide zusammen, ist das Geheimnis gelüftet. [pause] Diese Stille war nie ein Zufall. Sie wurde gebaut, Strich für Strich, von einem Maler, der genau wusste, wie schnell er sein konnte. Und der sich entschied, sich Zeit zu lassen.
+
+In der Nähe warten seine Akte und seine Landschaften der Provence.

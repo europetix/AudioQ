@@ -1,0 +1,28 @@
+@id: 006 · FR · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: W
+@title: Monet — Reflets verts
+@where: Dans la première salle ovale, devant la composition de longueur moyenne, large de huit mètres et demi. Ce n'est ni le panneau unique le plus court, ni l'une des deux plus longues.
+@what: Claude Monet, Reflets verts (Green Reflections), from Les Nymphéas, 1914–1926, oil on canvas, 200 × 850 cm.
+@listen: What these paintings have lived through since 1927, and where the water lilies come up out of the reflections.
+@brief: Telling a friend a slightly surprising piece of history in a quiet room; low-key and factual, wry for one beat, then absorbed in the green.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C §1.2 Reflets verts, 200 × 850, Room 1: https://www.musee-orangerie.fr/en/artworks/reflets-verts-196304 (OFF via G2) ; FACTS_C §1.3 Aug 1944 shell during the Liberation, panels damaged, photographs, repairs, climate/light concerns from the late 1940s, condition reports continue: https://www.musee-orangerie.fr/es/node/198901 (OFF; which panels NOT used) ; G5 §1 Nymphéas cleaned in the 2025 works: https://www.musee-orangerie.fr/en/articles/work-progress-musee-de-lorangerie-until-october-2025-museum-open-288037 (OFF + SEC2) ; reflections where the water lilies emerge, quick dynamic brushstrokes: https://www.musee-orangerie.fr/sites/default/files/2023-03/dossier_pedagogique_nympheas_0.pdf (OFF, snippet)
+@lang: fr
+@translation: from the fact-checked English Orangerie V5 006 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Ces tableaux ont connu leur propre guerre. En août 1944, pendant la Libération de Paris, un obus frappe ce bâtiment. [pause] Certains panneaux sont endommagés. Une série de photographies garde la trace des dégâts. Ensuite, on répare les murs, et la peinture aussi.
+
+[pause] Les inquiétudes ne s'arrêtent pas là. Dès la fin des années 1940, ceux qui veillent sur les Nymphéas s'inquiètent de l'air de ces salles, et de la lumière. Ils s'en inquiètent toujours. Constats d'état et traitements minutieux se poursuivent aujourd'hui. Lors des travaux de 2025, les tableaux ont été nettoyés. [wry] Quatre-vingt-onze mètres de toile, et chaque centimètre est un patient.
+
+Ce que vous regardez est donc surveillé depuis près d'un siècle. Reflets verts, huit mètres et demi de large. Si Les Nuages était l'extrémité aérienne de la salle, le titre vous dit où se situe celui-ci. [pause] En bas, dans le vert, parmi les reflets des plantes, là où surgissent les nymphéas.
+
+[curious] Voici une question à emporter le long de la toile. Où s'arrête un nymphéa, et où commence son reflet ? [pause] Choisissez une fleur et restez avec elle. Suivez ses contours. Ici, la touche est rapide et pleine de mouvement. La frontière entre la chose et son image n'est jamais tout à fait où on l'attend.
+
+Puis élargissez le regard à l'eau autour. Aux reflets des plantes, qui donnent son nom au tableau.
+
+[quietly] Voilà le vert du titre. Moins une couleur qu'un lieu où se laisser couler.
+
+Pour terminer cette salle, rejoignez Matin, la longue composition côté Seine.

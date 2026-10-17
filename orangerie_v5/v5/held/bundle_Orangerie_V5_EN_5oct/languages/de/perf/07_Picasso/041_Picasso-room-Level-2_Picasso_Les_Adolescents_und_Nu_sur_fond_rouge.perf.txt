@@ -1,0 +1,26 @@
+@id: 041 · DE · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Les Adolescents und Nu sur fond rouge
+@where: Unter Picassos Werken im Untergeschoss. Große Werke hängen vielleicht in der ersten Halle der Sammlung. Suchen Sie eine große Leinwand mit zwei nackten jungen Gestalten auf rosa-ockerfarbenem Grund, eine mit einem Krug auf dem Kopf, und einen kleineren Akt vor einem flachen roten Hintergrund.
+@what: Pablo Picasso, Les Adolescents (The Adolescents), 1906, oil on canvas, 157 × 117 cm. Also Nu sur fond rouge (Nude against a Red Background), late 1906, oil on canvas, 81 × 54 cm.
+@listen: The ghost of an abandoned picture under two young nudes, and the red nude that points straight at Les Demoiselles d'Avignon.
+@brief: Letting a friend in on a hidden detail, then showing how fast a painter changed in one year; curious, a touch conspiratorial, rising to the red nude.
+@pace: medium
+@energy: 2→4→3
+@sources: FACTS_B Picasso — Les Adolescents: https://www.musee-orangerie.fr/en/artworks/les-adolescents-196489 (OFF: 1906, 157×117; two nudes on pink and red monochrome, sculptural, classical; young man arms crossed above head; young woman "or androgynous adolescent" with pitcher on head; wavy lines below the legs = trace of an erased horizontal composition; Gósol with Fernande Olivier, ochre earth; pink classicism anticipating the 1920s return to order; Vollard → Guillaume 1930) ; FACTS_B Picasso — Nu sur fond rouge: https://www.musee-orangerie.fr/en/artworks/nu-sur-fond-rouge-196490 (OFF: late 1906, 81×54; long hair, flat red ground, head tilted, lock of hair, geometric simplification, eyes as black slits, mask-like; a few months before Les Demoiselles d'Avignon) ; FACTS_B Picasso intro https://www.musee-orangerie.fr/en/artist/pablo-picasso (OFF: "first of a series … leading up to Les Demoiselles d'Avignon", MoMA) ; Fernande as model of the red nude SEC1, NOT used
+@lang: de
+@translation: from the fact-checked English Orangerie V5 041 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] In diesem Bild versteckt sich ein anderes. Schauen Sie nach unten, unter die Beine der beiden jungen Gestalten. Dort sehen Sie schwache Wellenlinien, die zu nichts gehören. [pause] Es sind die Spuren einer anderen Komposition, quer angelegt. Picasso hat sie übermalt und aufgegeben.
+
+Treten Sie nun zurück und sehen Sie, was er behalten hat. Zwei nackte Jugendliche, in Rosa und Rot modelliert, auf einem Grund fast derselben Farbe. Auf der einen Seite verschränkt ein junger Mann die Arme über dem Kopf. Auf der anderen balanciert ein Mädchen einen Krug auf dem Kopf. Oder vielleicht ein androgyner Jüngling. Sie wirken weniger wie Menschen als wie Skulpturen. Ruhig, fest und fast antik.
+
+[curious] Woher kommt diese Farbe? 1906 verbrachte Picasso einige Zeit in Gósol, einem Dorf in den katalanischen Pyrenäen, mit seiner Gefährtin Fernande Olivier. Die Erde dort hatte einen ungewöhnlichen Ockerton. Er sickert hier in alles hinein. Das ist sein rosa Klassizismus. Seltsamerweise weist er voraus auf die klassischen Riesenfiguren, die er fünfzehn Jahre später malen sollte. Auch ihnen begegnen Sie in dieser Sammlung.
+
+Doch ruhig blieb Picasso nicht lange. Suchen Sie den kleineren Akt vor flachem rotem Hintergrund, später im selben Jahr gemalt. Sie hat langes Haar und neigt den Kopf, während sie eine Strähne hält. Doch alles verhärtet sich. Der Körper wird zu vereinfachten, geometrischen Blöcken. [pause] Und sehen Sie die Augen. Zwei schwarze Schlitze ohne Ausdruck. Das Gesicht ist zur Maske geworden.
+
+[warmly] Wenige Monate später malte Picasso Les Demoiselles d'Avignon, heute in New York. Das Museum nennt diesen roten Akt den ersten einer Serie, die zu jenem Bild führte. Dieser Akt trägt schon den Keim dieser Revolution in sich. [pause] Zwischen diesen beiden Leinwänden, in einem einzigen Jahr, sehen Sie ihm also zu, wie er die Richtung ändert.
+
+Suchen Sie nun eine stehende nackte Frau, die ihr langes schwarzes Haar kämmt. Bei ihr geht die Geschichte weiter.

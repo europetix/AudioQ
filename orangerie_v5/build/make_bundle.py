@@ -1,7 +1,7 @@
 import sys, os, re, json, shutil, glob, unicodedata
 sys.path.insert(0, '/home/claude/orangerie/v5/pipeline'); import v5_direction as V
 SRC = '/home/claude/orangerie/v5/tracks'
-B = '/home/claude/orangerie/bundle/Orangerie_V5_EN'
+B = '/home/claude/orangerie/bundle/Orangerie_YoTours'
 shutil.rmtree(B, ignore_errors=True); os.makedirs(B)
 SECTIONS = [  # (@section value, display, folder)
  ("Opening", "Arrival", "00_Arrival"),
@@ -52,7 +52,7 @@ for f in sorted(glob.glob(SRC + '/*.perf.txt')):
         script=f"scripts/{folder}/{base}.txt", perf=f"perf/{folder}/{base}.perf.txt",
         mp3=f"{folder}/{base}.mp3"))
 tw = sum(t['words'] for t in tracks)
-plan = dict(tour_number=0, tour_slug="Musee_de_l_Orangerie", format="V5", language="EN",
+plan = dict(tour_number=0, tour_slug="Musee_de_l_Orangerie", format="V5 Yo Tours 17 Oct 2026", language="EN",
     voices={"1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
             "2": "Kokoro am_michael, base speed 0.85, directed per passage (render_kokoro.py)", "3": "en-US-AndrewMultilingualNeural (trial)", "4": "en-US-BrianMultilingualNeural (earlier test voice)"},
     wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 64 kbps mono",
@@ -73,7 +73,7 @@ for p in ('v5_direction.py', 'render_kokoro.py', 'render_edge.py'):
     shutil.copy(f"/home/claude/orangerie/v5/pipeline/{p}", B)
 # hand-maintained bundle files (launcher, README, extended pronunciation, user-test docs)
 ST = '/home/claude/orangerie/build/static'
-for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'README.txt', 'pronunciation.py'):
+for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'README.txt', 'pronunciation.py', 'tag_tracks.py', 'cover.jpg'):
     shutil.copy(f'{ST}/{p}', B)
 shutil.copytree(f'{ST}/USER_TEST', f'{B}/USER_TEST')
 for p in (f'{B}/generate_audio.command', f'{B}/generate_audio_ES_FR_DE.command', f'{B}/USER_TEST/make_listening_test.command'):

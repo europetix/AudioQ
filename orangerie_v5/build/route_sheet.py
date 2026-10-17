@@ -31,7 +31,7 @@ def num(title_part):
     raise SystemExit(f"route map: no track title contains {title_part!r}")
 
 W, H = landscape(A4); c = canvas.Canvas(OUT, pagesize=(W, H))
-c.setTitle("Musée de l'Orangerie — audio route at a glance"); c.setAuthor("Humanized Audio Guide")
+c.setTitle("Musée de l'Orangerie — audio route at a glance"); c.setAuthor("Yo Tours")
 c.setFillColor(CREAM); c.rect(0, 0, W, H, stroke=0, fill=1)
 def text(x, y, s, font='Helvetica', size=7, col=INK, lead=None):
     c.setFillColor(col); c.setFont(font, size); lead = lead or size * 1.15

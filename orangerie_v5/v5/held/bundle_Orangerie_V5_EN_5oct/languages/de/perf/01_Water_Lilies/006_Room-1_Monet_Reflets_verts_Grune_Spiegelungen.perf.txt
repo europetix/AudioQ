@@ -1,0 +1,28 @@
+@id: 006 · DE · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: W
+@title: Monet — Reflets verts (Grüne Spiegelungen)
+@where: Im ersten ovalen Saal, vor der mittellangen Komposition, achteinhalb Meter breit. Es ist weder die einzelne kurze Tafel noch eine der beiden längsten.
+@what: Claude Monet, Reflets verts (Green Reflections), from Les Nymphéas, 1914–1926, oil on canvas, 200 × 850 cm.
+@listen: What these paintings have lived through since 1927, and where the water lilies come up out of the reflections.
+@brief: Telling a friend a slightly surprising piece of history in a quiet room; low-key and factual, wry for one beat, then absorbed in the green.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C §1.2 Reflets verts, 200 × 850, Room 1: https://www.musee-orangerie.fr/en/artworks/reflets-verts-196304 (OFF via G2) ; FACTS_C §1.3 Aug 1944 shell during the Liberation, panels damaged, photographs, repairs, climate/light concerns from the late 1940s, condition reports continue: https://www.musee-orangerie.fr/es/node/198901 (OFF; which panels NOT used) ; G5 §1 Nymphéas cleaned in the 2025 works: https://www.musee-orangerie.fr/en/articles/work-progress-musee-de-lorangerie-until-october-2025-museum-open-288037 (OFF + SEC2) ; reflections where the water lilies emerge, quick dynamic brushstrokes: https://www.musee-orangerie.fr/sites/default/files/2023-03/dossier_pedagogique_nympheas_0.pdf (OFF, snippet)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 006 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Diese Bilder haben ihren eigenen Krieg erlebt. Im August 1944, während der Befreiung von Paris, traf eine Granate dieses Gebäude. Einige der Tafeln wurden beschädigt. Eine Fotoserie hielt die Schäden fest. Danach wurden die Wände repariert, und auch die Malerei.
+
+[pause] Damit war die Sorge nicht vorbei. Ab Ende der 1940er-Jahre begannen die Hüter der Seerosen, sich um die Luft in diesen Sälen zu sorgen, und um das Licht. Das tun sie bis heute. Zustandsberichte und behutsame Behandlungen gehen weiter. Bei Bauarbeiten im Jahr 2025 wurden die Bilder gereinigt. [wry] Einundneunzig Meter Leinwand, und jeder Zentimeter ein Patient.
+
+Was Sie hier sehen, wird also seit fast einem Jahrhundert behütet. Reflets verts, Grüne Spiegelungen, achteinhalb Meter breit. War Les Nuages das luftige Ende dieses Saals, so verrät Ihnen der Titel, wo dieses hier seinen Platz hat. [pause] Unten im Grün, zwischen den Spiegelungen der Pflanzen, wo die Seerosen auftauchen.
+
+[curious] Nehmen Sie eine Frage mit auf den Weg entlang der Leinwand. Wo hört eine Seerose auf, und wo beginnt ihr Spiegelbild? Wählen Sie eine Blüte und bleiben Sie bei ihr. Folgen Sie ihren Rändern. Die Striche hier sind schnell und voller Bewegung. Die Grenze zwischen dem Ding und seinem Spiegelbild liegt nie ganz dort, wo man sie erwartet.
+
+Weiten Sie dann den Blick auf das Wasser ringsum. Auf die Spiegelungen der Pflanzen, die dem Bild seinen Namen geben.
+
+[quietly] Das ist das Grün des Titels. [pause] Weniger eine Farbe als ein Ort, in den man eintaucht.
+
+Zum Abschluss dieses Saals gehen Sie zu Matin, Morgen, der langen Komposition auf der Seine-Seite.

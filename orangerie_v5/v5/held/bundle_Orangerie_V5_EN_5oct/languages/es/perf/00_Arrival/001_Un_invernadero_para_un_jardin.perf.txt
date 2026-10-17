@@ -1,0 +1,24 @@
+@id: 001 · ES · Outside
+@section: Opening
+@room: Outside
+@type: R
+@title: Un invernadero para un jardín
+@where: Fuera del museo, en su extremo oeste, el lado de la Place de la Concorde de la terraza de las Tullerías, cerca de la entrada.
+@what: The Orangerie of the Tuileries, built in 1852 on the orders of Napoleon III as a winter shelter for the garden's citrus trees, home to Monet's Water Lilies since 1927.
+@listen: Why a building made for orange trees was the right home for Monet, and how the visit unfolds.
+@brief: Meeting a friend outside the door and setting the scene; light and easy, a small smile at the orange trees, warm at the invitation in.
+@pace: medium
+@energy: 3→3
+@sources: FACTS_C §1.3 1852 / Napoleon III / citrus / glass south, almost blind north: https://www.musee-orangerie.fr/en/node/24 (OFF) ; FACTS_C §1.3 Lefèvre, rooms lit from above to Monet's wishes: https://www.musee-orangerie.fr/en/node/33 , https://www.musee-orangerie.fr/en/node/198900 (OFF) ; G5 §1 west entrance (OFF node/24) ; G1 levels (SEC2)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 001 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Antes de albergar un solo cuadro, este edificio fue un abrigo de invierno para árboles. En 1852, Napoleón Tercero lo mandó construir aquí, en el Jardín de las Tullerías. Debía abrigar sus naranjos y otros cítricos en los meses fríos. Un invernadero de naranjos: eso es una orangerie. [pause] Y el nombre se quedó.
+
+Se diseñó para eso. El lado largo que mira al Sena es el lado sur, y es de vidrio. El lado del jardín, al norte, casi no tiene ventanas. Las plantas necesitan luz y abrigo. Y el edificio les daba las dos cosas.
+
+[pause] Guarde esa idea de la luz, porque recorre toda esta visita. Unos setenta años después de los naranjos, el edificio recibió un inquilino muy distinto. Los Nenúfares de Claude Monet, Les Nymphéas. Ocho composiciones enormes que rodean dos salas ovaladas, iluminadas desde arriba. Salas hechas según sus deseos, para pinturas de agua y cielo.
+
+Este es el plan. Primero, los Nenúfares, en esta planta. Tómese su tiempo allí, porque es el corazón de la visita. Después, el nivel inferior. Allí espera la colección de un marchante de arte de París, transformada por su viuda. Con Renoir, Cézanne, Matisse, Picasso, Modigliani y más. [pause] Y si le queda tiempo al final, una segunda mirada a los nenúfares.
+
+[warmly] Por ahora, entre por la entrada de este extremo. Deténgase en el vestíbulo, justo antes de la primera sala ovalada. La historia empieza allí.

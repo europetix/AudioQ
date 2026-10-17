@@ -1,0 +1,28 @@
+@id: 008 · ES · Room 2
+@section: Water Lilies
+@room: Room 2 · Water Lilies · Ground floor
+@type: R
+@title: La sala de los sauces
+@where: Justo al entrar en la segunda sala ovalada, después de cruzar el pasaje desde la Sala 1. Colóquese cerca del centro, desde donde se ven las cuatro composiciones.
+@what: Room 2 of the Water Lilies: four compositions by Claude Monet, twelve panels, painted between 1914 and 1926, built on the contrast of weeping-willow branches against the water.
+@listen: What this second room is about, and the years of loss and war in which Monet painted it.
+@brief: A friend lowering their voice as they walk into the second room; quiet and plain about the grief, warmer when Monet gets back to work.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C §1.1 Room 2 = contrasts of weeping-willow branches; dates 1914–1926: https://www.musee-orangerie.fr/en/node/33 (OFF) ; G2 Confirmed OK: Room 2 has 12 panels (OFF artwork pages); Monet born Nov 1840, so in his seventies in 1914 (G1 SEC2); Alice d. May 1911 (SEC2 artnet + extime.com); cataracts diagnosed 1912 and Jean d. Feb 1914 aged 46 (SEC2 https://hekint.org/2017/01/24/monet-and-his-cataracts/ + https://pmc.ncbi.nlm.nih.gov/articles/PMC4408507/); Michel and Jean-Pierre called up (G2 12-8, SEC2) ; guns heard from Giverny, no distance (G1 26-4 / G2 06-3, BBC clip + americanacademy, borderline SEC2, hedged) ; third studio 1915, about 23 × 12 m, glass roof (G2 10-3 SEC2 https://www.ngv.vic.gov.au/monet-timeline/lightboxesweb/24-3.php + https://www.nationalgallery.org.uk/upload/pdf/roy2007.pdf) ; Reflets d'arbres at the end wall by the passage (G5 SEC2)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 008 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] La primera sala trataba del cielo. Esta trata de los árboles a la orilla del agua, y de los años en que se pintaron.
+
+Sus cuadros se construyen sobre contrastes: las ramas de los sauces llorones contra la luz del estanque. [pause] Esos sauces los pintó un hombre que acababa de perder mucho.
+
+Su esposa, Alice, murió en mayo de 1911. Al año siguiente, los médicos le encontraron cataratas. Luego, a principios de 1914, murió su hijo Jean, a los cuarenta y seis años. Ese verano llegó la guerra. Michel y Jean-Pierre, los jóvenes de la familia, fueron movilizados. [pause] Se dice que, a veces, en Giverny se oían los cañones del frente.
+
+Piense en él entonces. Con más de setenta años, viudo, con un hijo enterrado, la vista nublándose, y su país en guerra. Muchos habrían dejado los pinceles.
+
+[warmly] La respuesta de Monet fue trabajar más en grande que nunca. En 1915 construyó un tercer taller, de unos veintitrés metros por doce, bajo un techo de vidrio. La luz caía desde arriba, como aquí. En ese taller, tras años de mirar su estanque, pintó lienzos como los que le rodean.
+
+Así que tómese un momento en el centro y gire despacio. Cuatro composiciones, doce paneles, y todas sobre la orilla del agua. [pause] Pasara lo que pasara, aquí es donde él eligió mirar.
+
+Empiece por la composición más corta, en la pared del extremo, la que rodea el pasaje por el que acaba de llegar. Es Reflejos de árboles. Escuche su pista allí.

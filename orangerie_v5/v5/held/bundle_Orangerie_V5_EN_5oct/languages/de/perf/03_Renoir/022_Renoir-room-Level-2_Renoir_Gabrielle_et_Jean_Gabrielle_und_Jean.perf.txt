@@ -1,0 +1,28 @@
+@id: 022 · DE · Renoir room
+@section: Renoir
+@room: Renoir room · Level −2
+@type: W
+@title: Renoir — Gabrielle et Jean (Gabrielle und Jean)
+@where: Im Saal mit Renoirs Gemälden, vor dem kleinen Bild einer jungen Frau, die einen kleinen Jungen auf dem Schoß hält. Er spielt mit Spielzeugtieren auf einem Tisch. Die aktuelle Hängung ist nicht bestätigt, das Werk kann also fehlen.
+@what: Pierre-Auguste Renoir, Gabrielle et Jean (Gabrielle and Jean), 1895–1896, oil on canvas, 65 × 54 cm.
+@listen: The young woman who kept Renoir's baby son still long enough to be painted, and the cow you can barely recognise.
+@brief: Telling a friend about the unsung helper in a painter's household; tender and a little amused, warm at the forward glance to her later portrait.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: FACTS_A Renoir — Gabrielle et Jean (1895–96, 65 × 54, RF 1960-18; Gabrielle holds Jean on her knee and keeps him busy with toy farm animals; figurines loosely brushed, melting into the tabletop; "We can barely recognise the cow in Gabrielle's hand"; extensive 1895–96 series of second son Jean with Gabrielle Renard, the family's faithful servant; "a veritable album of his son's early childhood"; she could always hold the young model's attention): https://www.musee-orangerie.fr/en/artworks/gabrielle-et-jean-196509 (OFF) ; FACTS_A Femme nue couchée (Gabrielle) (hired to look after the children; quickly became one of his favourite models): https://www.musee-orangerie.fr/en/artworks/femme-nue-couchee-gabrielle-196519 (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 022 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Wer je versucht hat, ein Kleinkind zu fotografieren, kennt das Problem. Stellen Sie sich nun vor, eines in Öl zu malen. Renoir hatte eine Lösung. [pause] Ihr Name war Gabrielle.
+
+Gabrielle Renard kam in den Haushalt der Renoirs, um die Kinder zu betreuen. Sie wurde die treue Hausangestellte der Familie. Und sie hatte eine Gabe, die der Maler dringend brauchte. Sie konnte die Aufmerksamkeit eines sehr kleinen Modells immer fesseln.
+
+Das Modell hier ist Jean, Renoirs zweiter Sohn. Zwischen 1895 und dem folgenden Jahr malte Renoir die beiden viele Male. Zusammen ergeben die Bilder ein echtes Album der frühen Kindheit seines Sohnes. Dies ist eine Seite daraus.
+
+[pause] Sehen Sie, wie es funktioniert. Gabrielle hält Jean auf dem Schoß. Auf dem Tisch vor ihnen stehen Spielzeugtiere vom Bauernhof, und damit beschäftigt sie ihn. Das ist der Trick. Denn während der Kleine spielt, malt der Maler.
+
+[amused] Schauen Sie sich die Spielzeuge genau an. Sie sind kaum da. Renoir pinselt sie so locker hin, dass sie mit der Tischplatte verschmelzen. Selbst die Erläuterungen des Museums geben zu: Die Kuh in Gabrielles Hand ist kaum zu erkennen. [pause] Die Kuh war Renoir egal. Ihm ging es um den Jungen und um die Frau, die ihn bei Laune hält.
+
+[quietly] Das ist also ein Bild über eine Arbeit, die meist unsichtbar bleibt. Das Kindermädchen tut seine Arbeit, der Maler tut seine. Und das Bild gibt es nur, weil beide Arbeiten zusammenpassen.
+
+Gabrielle blieb nicht im Hintergrund. Sie wurde schnell eines von Renoirs Lieblingsmodellen. Etwa zehn Jahre später malte er sie als liegenden Akt, in der großen Tradition der alten Meister. Suchen Sie sie unter Renoirs Akten, bei den Badenden und der langen liegenden Figur. Dort geht die Geschichte weiter.

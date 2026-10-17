@@ -1,0 +1,30 @@
+@id: 033 · DE · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — L'Enfant à la poupée (Kind mit Puppe)
+@where: Bei den Gemälden von Henri Rousseau im Untergeschoss: das Porträt eines Kindes, das eine Puppe hält.
+@what: Henri Rousseau, L'Enfant à la poupée (Child with a Doll), oil on canvas, Walter-Guillaume collection.
+@listen: Five francs in a junk shop, a banquet for a toll clerk, and why primitive is a compliment here.
+@brief: A friend with a good anecdote, curious and a little conspiratorial, then handing the looking over to the listener with open questions.
+@pace: medium
+@energy: 3→4→2
+@sources: FACTS_B L'Enfant à la poupée: https://www.musee-orangerie.fr/en/artworks/lenfant-la-poupee-196422 (OFF page exists; date, size and description are WEAK, so not used) ; Picasso's 1908 junk-shop purchase from Père Soulié for five francs, kept all his life, now Musée Picasso, and the November 1908 banquet it triggered: G3 19.2 (SEC2) ; Bateau-Lavoir banquet: G3 "Confirmed OK" ; collection opens with large works by modern "primitives" after Apollinaire's vision: FACTS_A collection-level, https://www.musee-orangerie.fr/en/collection/new-presentation-collection (OFF), G5 (OFF) ; child not known to be Rousseau's daughter: G3 19.6 ; Carriole frontality: FACTS_B (OFF)
+@lang: de
+@translation: from the fact-checked English Orangerie V5 033 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] 1908 stöberte Pablo Picasso in einem Pariser Trödelladen. Der Händler war als Père Soulié bekannt. Zwischen allerlei Kram fand Picasso das Porträt einer Frau von Henri Rousseau. Er zahlte fünf Francs dafür und behielt es sein Leben lang. [pause] Heute gehört es dem Musée Picasso.
+
+Dieser kleine Kauf löste etwas viel Größeres aus. Im November desselben Jahres gaben Picasso und seine Freunde im Bateau-Lavoir ein Bankett zu Rousseaus Ehren. [pause] Stellen Sie sich das vor: Picassos junger Kreis erhebt die Gläser auf einen Zollangestellten, der zum Maler geworden war. Einen Mann in den Sechzigern.
+
+Was sahen sie in ihm? Denken Sie an die modernen Primitiven, mit denen die Sammlung beginnt. Rousseau steht mitten unter ihnen, mit Picasso und Matisse. [lightly] In diesem Haus ist „primitiv“ ein Kompliment.
+
+Und damit zu diesem Kind.
+
+[quietly] Der Titel verrät nicht, wer dieses Kind war. Also schauen wir ausnahmsweise gemeinsam hin, mit Fragen statt Antworten.
+
+Wohin blickt das Kind, auf die Puppe oder auf Sie? Denken Sie an die Fahrgäste in Juniers Wagen, die Ihnen zugewandt sind wie Ikonen. Tut dieses Kind dasselbe? [pause] Sehen Sie sich die Hände an, und wie viel Platz die Puppe zwischen ihnen einnimmt. Und schauen Sie auf den Boden und auf das, was dahinter liegt. Ist es ein echter Ort oder eine Kulisse?
+
+Hier gibt es keine richtigen Antworten, nur Ihre. Doch wenn ein schlichtes Bild eines Kindes mit Spielzeug Sie zweimal hinsehen lässt, dann haben Sie etwas von dem gespürt, was die jungen Maler zu jenem Bankett zog.
+
+Rousseaus Angler sind ganz in der Nähe, unter einem überraschenden Himmel, zusammen mit einer Stuhlfabrik, die er zweimal malte. Spielen Sie dort den passenden Titel ab.

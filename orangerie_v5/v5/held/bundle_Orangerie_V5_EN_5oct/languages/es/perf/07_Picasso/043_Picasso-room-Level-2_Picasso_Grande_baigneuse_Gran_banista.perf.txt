@@ -1,0 +1,30 @@
+@id: 043 · ES · Picasso room · Level −2
+@section: Picasso
+@room: Picasso room · Level −2
+@type: W
+@title: Picasso — Grande baigneuse (Gran bañista)
+@where: Entre las obras de Picasso, en el nivel inferior. Por su gran tamaño, puede estar en la sala de entrada de la colección. Busque un desnudo sentado y monumental, de miembros macizos como de estatua. Cerca, un desnudo sentado que sostiene un paño, y dos pequeños estudios de mujeres en una fuente.
+@what: Pablo Picasso, Grande baigneuse (Large Bather), 1921–22, oil on canvas, 182 × 101.5 cm. Also Grand nu à la draperie (Large Nude with Drapery), 1921–1923, 160 × 95 cm, and two studies for Femmes à la fontaine (Women at the Fountain), 1921, oil on canvas.
+@listen: Why Picasso turned from Cubism to giant classical women, and the small change of pose you can catch him deciding.
+@brief: A friend enjoying a paradox with you, amused at first, then genuinely absorbed in the detective work of the two studies.
+@pace: medium
+@energy: 3→3→4→2
+@sources: FACTS_B Picasso — Grande baigneuse: https://www.musee-orangerie.fr/en/artworks/grande-baigneuse-196496 (OFF: monumental seated nude, sculptural, antique canons exaggerated, heavy faces; return to order via antiquity, Ingres, Renoir; Derain in the same movement; Guillaume after 1930; Domenica conserved it as it suited her tastes) ; G4 confirmed holdings (OFF: 1921–22, 182×101.5) ; FACTS_B Grand nu à la draperie: https://www.musee-orangerie.fr/en/artworks/grand-nu-la-draperie-196494 (OFF: 1921–1923, 160×95, drape held in a disproportionately large hand, eyes closed, greys and pinks; Antiquity, Raphael's Fornarina, Ingres, Renoir) ; FACTS_B Femmes à la fontaine: https://www.musee-orangerie.fr/en/artworks/femmes-la-fontaine-196497 and …-196498 (OFF: 1921; Fontainebleau May–Oct 1921 with his family; studies for Trois femmes à la fontaine, MoMA; inaugurates his neo-classical period; jug on head in the larger study, held by the handle with one finger in the smaller, the pose he kept) ; FACTS_B Grande nature morte 1917 (OFF) ; G4 20.5 (no "Surrealism", early 1920s)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 043 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Pocos años antes, este pintor rompía mesas y botellas en fragmentos cubistas. Y de pronto, hacia 1921, nos da esto. [pause] Una mujer tan maciza que parece tallada, no pintada.
+
+Está sentada, enorme en el lienzo, rodeada de paños. Sus miembros son inmensos, su rostro, pesado y sólido. Las proporciones vienen de la escultura antigua, forzadas casi hasta el exceso. Resulta monumental y, a la vez, algo inquietante.
+
+[curious] ¿Por qué este giro? Se conoce como el retorno al orden. Picasso volvió la vista al arte de Grecia y Roma, a Ingres y a Renoir. Y no estaba solo. Derain, uno de los pintores mejor representados de esta colección, formó parte del mismo movimiento. Si ha visto los desnudos tardíos de Renoir en esta colección, ya conoce una fuente de Picasso, en esta misma planta.
+
+Paul Guillaume compró esta bañista después de 1930. [lightly] Y Domenica la conservó con gran cuidado porque, dice el museo, encajaba perfectamente con su gusto.
+
+Ahora busque el Gran desnudo con paño. Una mujer sentada se pasa una tela sobre el hombro derecho, con una mano demasiado grande. Tiene la cabeza inclinada y los ojos cerrados, todo en grises y rosas. Detrás están los mismos antepasados, y uno más: la Fornarina de Rafael.
+
+[pause] Y luego busque los dos pequeños estudios de mujeres en una fuente. Ese mismo año, de la primavera al otoño, Picasso vivió en Fontainebleau con su familia. Allí preparó un gran cuadro de tres mujeres sacando agua, hoy en Nueva York. Compare la figura de la izquierda. En el estudio mayor, lleva el cántaro sobre la cabeza. [pause] En el más pequeño, lo sostiene por el asa, con un solo dedo.
+
+[quietly] Esa segunda postura es la que Picasso conservó. Usted lo está viendo decidirse.
+
+Ahora busque a la mujer recostada con una pandereta, en malva, amarillo y turquesa. Ella cierra la historia de Picasso.

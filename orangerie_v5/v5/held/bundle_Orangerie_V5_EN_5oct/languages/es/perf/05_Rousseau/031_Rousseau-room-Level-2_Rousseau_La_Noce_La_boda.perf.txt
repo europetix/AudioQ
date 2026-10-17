@@ -1,0 +1,30 @@
+@id: 031 · ES · Rousseau room
+@section: Rousseau
+@room: Rousseau room · Level −2
+@type: W
+@title: Rousseau — La Noce (La boda)
+@where: Entre los cuadros de Henri Rousseau, en el nivel inferior. También puede estar en la gran sala inicial de la colección, con los formatos grandes. Busque un retrato de grupo vertical de una boda delante de unos árboles, con un perro en primer plano.
+@what: Henri Rousseau, La Noce (The Wedding Party), around 1905, oil on canvas. From Paul Guillaume's collection, acquired by the state from Domenica Walter in 1959.
+@listen: Who "the Douanier" really was, why there are no jungles here, and how a suburban wedding came to look like a sacred image.
+@brief: Introducing an unlikely hero to a friend; warm and a little playful at first, then genuinely moved by the wedding's strange solemnity, plain and gentle about his death.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: FACTS_B La Noce: https://www.musee-orangerie.fr/es/obras/la-noce-196428 ; Joconde https://www.pop.culture.gouv.fr/notice/joconde/00000089535 (OFF: c.1905; "one of the most ambitious compositions ever undertaken by Rousseau"; individualised faces; differentiated tree species; yellow-ochre background and trees form a mandorla; Adolphe Basler's comparison with medieval frescoes and Primitive ex-votos; a dog in the foreground; trees recede sharply; Paul Guillaume → state 1959) ; octroi clerk and nickname: G3 18.2, 18.6 (SEC2) ; born 1844: G3 18.4 (SEC2) ; died 1910 of gangrene from an infected leg: G3 18.3 (SEC2) ; no jungle among the collection's works: FACTS_B "Famous Rousseaus not at the Orangerie" + G3 18.1 ; placement in first hall possible: G5 13-1, 17-1 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 031 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] El oficio de Henri Rousseau le dio un apodo que ha sobrevivido a casi todo lo demás. Era empleado del octroi, el peaje a las puertas de París. Por eso lo llamaban le Douanier, el Aduanero. Y el apodo perdura.
+
+Si conoce algo de él, serán probablemente sus cuadros de selva. [lightly] No los busque aquí. Los Rousseau de esta colección se quedan mucho más cerca de casa: una boda, el carro de un vecino, un niño, unos pescadores, una fábrica.
+
+Y esta es la más ambiciosa. La Noce, La boda, es una de las composiciones más ambiciosas que Rousseau emprendió jamás. La pintó hacia 1905, con poco más de sesenta años.
+
+Mire primero a los invitados. Cada rostro es alguien concreto, no un pariente genérico de relleno. Luego mire detrás. Los árboles están pintados especie por especie, con verdadero cuidado. Y se encogen rápido al alejarse. Un fondo ocre amarillo brilla entre ellos. [pause] Junto con los árboles, forma una especie de marco alrededor del grupo. Es una mandorla, la gloria en forma de almendra que rodea a las figuras sagradas en el arte religioso.
+
+[pause] No es casualidad. El crítico Adolphe Basler comparó este cuadro con las figuras idealizadas de los frescos medievales, y con los exvotos de los antiguos maestros «primitivos». Aquí tiene, pues, una boda cotidiana, pintada con la quietud de un retablo.
+
+Y delante, abajo, un perro, ocupando su lugar con tanta solemnidad como cualquiera.
+
+[quietly] A Rousseau no le quedaba mucho tiempo. Murió en 1910, de gangrena por una infección en la pierna. [pause] Más tarde, la boda pasó a la colección de Paul Guillaume, y de la de Domenica, al Estado.
+
+Ahora busque otro retrato de familia, esta vez en movimiento: un carro, un caballo blanco y más de un perro. Es La Carriole du père Junier, y su historia empieza allí.

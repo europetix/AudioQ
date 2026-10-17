@@ -1,0 +1,26 @@
+@id: 055 · DE · Exit · Tuileries garden
+@section: Closing
+@room: Exit · Tuileries garden · outside the museum
+@type: CLOSE
+@title: Hinaus in den Tuileriengarten
+@where: Draußen, gleich hinter dem Ausgang des Museums, den Tuileriengarten vor sich und das Gebäude hinter sich. Durch welche Tür die Schilder Sie auch hinausführen, Sie kommen in den Garten.
+@what: The old orangery seen from outside, the Tuileries garden, and a last thought on Monet's gift of the Water Lilies.
+@listen: The back of the old orangery, the garden, the light, and a goodbye.
+@brief: Saying goodbye to a friend at the garden gate after a good afternoon together; light at first, warm at the gift, easy in the garden, simple and grateful at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C §1.3 (1852, Napoleon III, winter shelter for the garden's citrus trees; glass south façade toward the Seine, almost blind north façade; 12 Nov 1918 letter offering two decorative panels to sign on Victory Day; Clemenceau visits Giverny and persuades him to widen the gift; 8 compositions in 22 panels; Monet dies 5 Dec 1926; rooms inaugurated 17 May 1927): https://www.musee-orangerie.fr/en/node/24 , https://www.musee-orangerie.fr/en/whats-on/exhibitions/monet-clemenceau , https://www.musee-orangerie.fr/en/node/198900 (OFF) ; G5 §1 (2025 works created a separate exit in the north façade onto the Tuileries via a footbridge): https://www.musee-orangerie.fr/en/articles/work-progress-musee-de-lorangerie-until-october-2025-museum-open-288037 (OFF) + theartnewspaper.com 2025/02/19 (SEC) ; G2 12-2 (the museum calls the gift a monument to peace): https://www.musee-orangerie.fr/en/node/33 (OFF) ; G1 track 29 row 5 (Tuileries: Catherine de' Medici 16th c., Le Nôtre 17th c.) SEC2
+@lang: de
+@translation: from the fact-checked English Orangerie V5 055 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Erinnern Sie sich an den Wintermantel für Orangenbäume? Blicken Sie jetzt zurück. Glas auf der Seite zur Seine, zur Gartenseite fast eine geschlossene Wand. [pause] Es sollte Bäume durch den Winter wärmen, nicht bewundert werden.
+
+[warmly] Drehen Sie sich und blicken Sie am Gebäude entlang. Anfangs hörten Sie von zwei Tafeln, versprochen für den Tag des Sieges. So weit ist dieses Versprechen gewachsen. [pause] Das Museum nennt das Geschenk ein Denkmal für den Frieden.
+
+Wenden Sie sich nun zur anderen Seite. Um Sie herum liegt der Tuileriengarten. Er geht auf Katharina von Medici im sechzehnten Jahrhundert zurück. Der große Gartenarchitekt Le Nôtre gestaltete ihn im siebzehnten neu.
+
+[quietly] Drinnen haben Sie Zeit mit Monets Wasser und Monets Himmel verbracht. Hier draußen haben Sie die echten. Gehen Sie langsam, wenn Sie können. Schenken Sie dem Garten dieselbe Geduld wie Monets Wänden. Achten Sie darauf, wie eine Wolke vor die Sonne zieht oder der Wind die Blätter wendet. Und wie sich die Farben verändern. [pause] Nach den Seerosen haben Sie etwas Übung. Das Licht hier draußen sieht vielleicht nie wieder ganz gewöhnlich aus.
+
+[warmly] Danke, dass Sie diese Zeit mit mir verbracht haben, mit Paul Guillaumes Malern und mit Monet. Sie haben einen Kunsthändler getroffen, der in einem selbst bestellten Bild landete. Die Witwe, die seine Sammlung umgestaltete. Und einen alten Maler, der seine Seerosen verschenkte. [pause] Was Ihnen von den Gesichtern unten auch bleibt, ich hoffe, Sie behalten ein wenig von diesem Licht.
+
+Genießen Sie den Garten, und lassen Sie sich hier draußen Zeit.

@@ -1,0 +1,26 @@
+@id: 016 · ES · Level −2 · first hall
+@section: Collectors
+@room: Level −2 · first hall of the collection
+@type: R
+@title: Domenica y el Estado
+@where: Quédese en la primera sala de la colección Walter-Guillaume. No hay nada concreto que mirar: es la historia de cómo la colección llegó a la nación.
+@what: Domenica Walter, born Juliette Lacaze, 1898–1977, widow of Paul Guillaume and later of the architect Jean Walter, and the state purchases that brought 146 paintings to the Orangerie.
+@listen: How a widow reshaped her husband's collection, sold it to France on her own terms, and gave it two men's names.
+@brief: Telling a friend about a formidable woman, with admiration and a little mischief; brisk through the deal, warm at the naming.
+@pace: medium
+@energy: 3→3→4
+@sources: FACTS_A collection-level (Domenica 1898–1977, widow of Guillaume 1891–1934 and of the architect Jean Walter 1883–1957; state purchases 47 paintings 1959 and 99 in 1963 with usufruct; Amis du Louvre pledge; named after both husbands at her request; permanent display since 1984): https://www.musee-orangerie.fr/en/article/history-jean-walter-paul-guillaume-collection , https://www.musee-orangerie.fr/en/collection/les-arts-a-parishistory-of-the-collection (OFF) ; FACTS_C Derain (Juliette Lacaze known as Domenica): https://www.musee-orangerie.fr/es/obras/portrait-de-madame-paul-guillaume-au-grand-chapeau-196185 (OFF) ; G3 13.1, 13.6, X4 (seven years younger, 36 at his death; "transformed and reduced the collection"; 146 paintings) (OFF) ; G4 20.1 ("parted with the period's most audacious works", history page OFF) ; FACTS_A Cézanne (Domenica "liked Cézanne's paintings", bought landscapes): https://www.musee-orangerie.fr/en/articles/paul-cezanne-105454 (OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 016 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] La colección que le rodea lleva el nombre de dos hombres. Pero la mujer que le dio forma no era ninguno de ellos.
+
+Nació con el nombre de Juliette Lacaze, y el mundo la conoció como Domenica. Era siete años menor que Paul Guillaume, y tenía treinta y seis cuando él murió. Luego se volvió a casar, con el arquitecto Jean Walter. [pause] Y también le sobrevivió.
+
+Heredó la colección de un marchante, llena de obras audaces y difíciles. [pause] No la dejó así. En palabras del propio museo, la transformó y la redujo. Se desprendió de muchas de las obras más atrevidas de la época. Y compró lo que amaba. Le gustaba Cézanne, por ejemplo, y añadió sus paisajes.
+
+Luego llegó el acuerdo con Francia. En 1959 y de nuevo en 1963, el Estado compró la colección en dos partes: ciento cuarenta y seis cuadros en total. Una campaña pública de los Amigos del Louvre ayudó a pagar las obras más importantes. Y Domenica conservó el derecho a vivir con sus cuadros el resto de su vida.
+
+[warmly] Hizo una sola petición. La colección llevaría los nombres de sus dos maridos, Jean Walter y Paul Guillaume. [pause] Así, el sueño de museo del marchante se hizo realidad en manos de su viuda, con doble nombre. Está expuesta aquí de forma permanente desde 1984.
+
+Pronto verá a la propia Domenica, pintada por Derain bajo un sombrero muy grande. Primero, su primer marido a los veintitrés años. Busque el retrato de Modigliani de un joven con traje oscuro y sombrero, sobre fondo rojo. Escuche su pista allí.

@@ -1,0 +1,28 @@
+@id: 006 · ES · Room 1
+@section: Water Lilies
+@room: Room 1
+@type: W
+@title: Monet — Reflets verts (Reflejos verdes)
+@where: En la primera sala ovalada, delante de la composición de longitud media, de ocho metros y medio de ancho. No es el panel corto ni una de las dos más largas.
+@what: Claude Monet, Reflets verts (Green Reflections), from Les Nymphéas, 1914–1926, oil on canvas, 200 × 850 cm.
+@listen: What these paintings have lived through since 1927, and where the water lilies come up out of the reflections.
+@brief: Telling a friend a slightly surprising piece of history in a quiet room; low-key and factual, wry for one beat, then absorbed in the green.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: FACTS_C §1.2 Reflets verts, 200 × 850, Room 1: https://www.musee-orangerie.fr/en/artworks/reflets-verts-196304 (OFF via G2) ; FACTS_C §1.3 Aug 1944 shell during the Liberation, panels damaged, photographs, repairs, climate/light concerns from the late 1940s, condition reports continue: https://www.musee-orangerie.fr/es/node/198901 (OFF; which panels NOT used) ; G5 §1 Nymphéas cleaned in the 2025 works: https://www.musee-orangerie.fr/en/articles/work-progress-musee-de-lorangerie-until-october-2025-museum-open-288037 (OFF + SEC2) ; reflections where the water lilies emerge, quick dynamic brushstrokes: https://www.musee-orangerie.fr/sites/default/files/2023-03/dossier_pedagogique_nympheas_0.pdf (OFF, snippet)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 006 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Estos cuadros han pasado su propia guerra. En agosto de 1944, durante la Liberación de París, un obús alcanzó este edificio. Algunos paneles resultaron dañados. Una serie de fotografías registró los daños. Después se repararon los muros, y también la pintura.
+
+[pause] No terminó ahí la preocupación. Desde finales de los años cuarenta, quienes cuidaban los Nenúfares empezaron a inquietarse por el aire de estas salas, y por la luz. Todavía lo hacen. Los informes de estado y los tratamientos cuidadosos siguen hasta hoy. Durante unas obras en 2025, los cuadros se limpiaron. [wry] Noventa y un metros de lienzo, y cada centímetro es un paciente.
+
+Así que lo que tiene delante lleva casi un siglo bajo vigilancia. Reflets verts, Reflejos verdes, de ocho metros y medio de ancho. Si Las nubes era el extremo aéreo de esta sala, el título le dice dónde está este. [pause] Abajo, en el verde, entre los reflejos de las plantas, donde surgen los nenúfares.
+
+[curious] Llévese una pregunta a lo largo del lienzo. ¿Dónde termina un nenúfar y empieza su reflejo? Elija una flor y quédese con ella. Siga sus bordes. Aquí las pinceladas son rápidas y llenas de movimiento. Y la línea entre la cosa y su reflejo nunca está donde uno la espera.
+
+Luego abra la mirada al agua que la rodea, a los reflejos de las plantas que dan nombre al cuadro.
+
+[quietly] Ese es el verde del título. [pause] Más que un color, un lugar donde hundirse.
+
+Para terminar esta sala, vaya a La mañana, la composición larga del lado del Sena.

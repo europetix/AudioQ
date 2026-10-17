@@ -1,0 +1,28 @@
+@id: 010 · ES · Room 2 · north wall
+@section: Water Lilies
+@room: Room 2 · north wall · Water Lilies · Ground floor
+@type: W
+@title: Monet — Le Matin aux saules (La mañana con sauces)
+@where: Sala 2, la pared larga norte: a su izquierda mirando hacia el fondo de la sala. Una de las dos composiciones largas que se miran de un lado a otro de la sala.
+@what: Claude Monet, Le Matin aux saules (Morning with Willows), from the Water Lilies cycle, 1914–1926, oil on canvas, three panels, 200 × 1275 cm.
+@listen: The real trees just beyond this wall, the studio where Monet painted it, and a new way to look at a painting too long to see from one spot.
+@brief: A friend sharing a couple of surprises about place and a looking trick; warm, then curious, a little amused, unhurried.
+@pace: medium
+@energy: 3→3→2
+@sources: Size 200 × 1275, three panels, 1914–1926: https://www.musee-orangerie.fr/en/artworks/le-matin-aux-saules-196307 (OFF) ; north wall: RMN caption "Salle 2, mur nord" https://photo.rmn.fr/archive/06-515034-2C6NU0PK59_O.html / https://www.photo.rmn.fr/archive/archive/06-515044-2C6NU0PKDAG7.html (OFF per FACTS_C §1.2 and PLAN) ; almost blind north (garden) façade: https://www.musee-orangerie.fr/en/node/24 (OFF) ; Giverny about 75 km from Paris (G4 22.2, SEC2) ; painted in the third studio, 1915, glass roof (G2 04-3 / 10-3, SEC2 NGV + National Gallery) ; curved walls: https://www.musee-orangerie.fr/en/node/33 (OFF) ; three titles with 'Matin' among the eight (official titles, OFF) ; Matin clair aux saules opposite on the south wall (PLAN, OFF)
+@lang: es
+@translation: from the fact-checked English Orangerie V5 010 (5 Oct 2026); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Al otro lado de esta pared, fuera de la vista, está el Jardín de las Tullerías. Este lado norte del viejo invernadero da al jardín, y casi no tiene ventanas. Estos sauces pintados tienen de vecino al jardín real, tras la piedra.
+
+Los árboles de Monet estaban en otro lugar. Su estanque estaba en Giverny, a unos setenta y cinco kilómetros de París. Y no pintó este lienzo en la orilla. Lo pintó bajo techo, en aquel gran taller con techo de vidrio. [pause] Lo que ve es una mañana que se sabía de memoria, hecha enorme.
+
+Le Matin aux saules, La mañana con sauces, es una de las largas: tres lienzos unidos borde con borde. [pause] Es la segunda de las tres mañanas de este ciclo. La primera la vio en la otra sala. La tercera está justo detrás de usted.
+
+[curious] Esta vez pruebe otra forma de mirar. Vaya a un extremo de la pared y mire a lo largo, en ángulo, como miraría la orilla de un río. El cuadro se curva con la pared, y el extremo lejano parece irse a la deriva. Luego vaya al centro de la sala y mírelo de frente. Desde el extremo, es un largo tramo de agua. [pause] Desde el centro, le envuelve.
+
+[amused] Pocos cuadros piden que se los mire de lado. Este lo recompensa.
+
+Busque los sauces del título mientras avanza, y la mañana en el agua que los rodea. No tenga prisa. Una mañana de este tamaño tarda en llegar.
+
+Ahora dese la vuelta. Al otro lado de la sala, en la pared larga de enfrente, le espera la tercera mañana. La mañana clara con sauces.

@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt, 81 tracks, 4 languages)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels)
 
 Paste this into the new session to start:
 
@@ -131,7 +131,7 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 - **Bitrate:** **64 kbps**, for every guide and every language.
 - **Brand:** **Yo Tours** (artist/album artist in the MP3 labels, on the cover). 7 Oct.
 - **Sound (Orsay, 7 Oct):** version D of the A/B test is the standard: voice finishing + room tone + soft chime before each
-  track. Port to Pitti and Orangerie only when the user asks.
+  track. Ported to Pitti (7 Oct), Prado (10 Oct) and Orangerie (17 Oct) at the user's request.
 - **Translations:** rewritten for listening, not word for word. Formal address (usted / vous / Sie). Facts unchanged. Each language
   gets an independent native-level review, then `assemble.py` checks.
 - **Launcher safeguards:** stop if old and new versions are mixed; one render per output folder (lock file).
@@ -151,7 +151,7 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 | Guide | EN | ES/FR/DE | Route map | Tested | Open |
 |---|---|---|---|---|---|
 | Pitti V5.1 | 61 tracks, ~142 min | done; reviewed by assemble.py checks only (no second native review yet) | pictorial, one page | stand-in only; the user has rendered EN at least once (first run mixed old files; re-render with the current zip) | the user may want the same second review as the Orangerie; native-speaker check |
-| Orangerie V5 | 55 tracks, ~128 min | done + independent review per language | pictorial, exit by the entrance | stand-in only; the user was rendering all 4 languages at session end | level −2 room order and exit door on site; native-speaker check |
+| Orangerie V5 | 55 tracks, ~128 min; Yo Tours sound + labels + cover since 17 Oct | done + independent review per language | pictorial, exit by the entrance | stand-in only (17 Oct: EN + FR samples); renders go to ~/Desktop/Orangerie_YoTours_* | level −2 room order and exit door on site; native-speaker check |
 | Orsay V5 | 75 tracks, 20,312 words, ~2 h 42 | done 5 Oct (session 2) + independent review per language; FR quotes are verified originals or reported speech | A3 schematic floor plans (2026 rooms) | stand-in: 75 files in each of EN/ES/FR/DE | on-site checklist; 3 quotes kept as reported speech until checked against the live museum pages; native-speaker check; 048 @what title; Oviri on display? |
 
 | Prado V5 | 81 tracks (59 main + 22 Extras), 23,729 words | done + independent review per language | 7-page phone PDF on the 2026 floor plan | stand-in: samples EN + ES | on-site checklist (stairs/lifts, a few doorways); Goya 32–38 rehang; Correggio back after 10 Jan 2027 |
