@@ -1,0 +1,24 @@
+@id: 004 · Room 201.01 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 201.01
+@type: R
+@title: Room 201.01 · Holy Bohemia — From Slum to Gran Vía
+@where: Room 201.01 on Floor 2, the first collection room, titled 'Holy Bohemia. From Slum to Gran Vía'. Look for a black-and-white photograph of King Alfonso XIII opening the Madrid Metro, and Ricardo Baroja's small, dark etchings of the city's edges.
+@what: Room 201.01, 'Holy Bohemia. From Slum to Gran Vía'. Alfonso Sánchez García, Alfonso XIII inaugura el primer tramo del metropolitano de Madrid (Alfonso XIII Opens the First Section of the Madrid Underground System), 17 October 1919, posthumous print 1984, gelatin silver print. Ricardo Baroja, El suburbio (The Suburb), 1909, etching and aquatint. Floor 2 presentation: 'Avant-garde Territories: City, Architecture and Magazines'.
+@listen: How Madrid's painters moved from the slums and taverns of a country in crisis to the concrete towers and metro of a modern city.
+@brief: Opening the second floor for a friend; lively at the hook, clear on the floor's idea, a touch sombre on the slums, brighter on the new city.
+@pace: medium
+@energy: 3→2→3
+@sources: https://museoreinasofia.es/en/collections/room-20101 (OFF: room title; Generation of '98, Unamuno, Pío Baroja, Valle-Inclán; crisis worsened by loss of last colonies in 1898; slums, taverns, beggars, marginalised people as "involuntary protagonists"; 1920s modern Madrid, reform of old centre; reinforced concrete, Edificio Telefónica, Edificio Carrión; Zarzuela Racecourse, Frontón Recoletos; works list) ; https://museoreinasofia.es/en/collections/artwork/alfonso-xiii-inaugura-el-primer-tramo-del-metropolitano-de-madrid-alfonso-xiii (OFF: 17 Oct 1919, posthumous print 1984, Exhibited in Room 201.01) ; https://museoreinasofia.es/en/collections/artwork/el-suburbio-suburb (OFF: 1909, etching and aquatint, image 26.5 × 30 cm, Exhibited in Room 201.01) ; https://museoreinasofia.es/en/collections/avant-garde-territories (OFF: Floor 2, city, architecture and magazines; Paris, Madrid, Barcelona) ; press release 16 Feb 2026 via research/CURRENT_COLLECTION_OCT2026.md (OFF: Floor 2 rehung in 2028)
+---
+[curious] On the seventeenth of October 1919, King Alfonso the Thirteenth opened the first stretch of the Madrid Metro. A photographer, Alfonso Sánchez García, was there to record it. His photograph hangs in this room.
+
+Welcome to Floor 2. The museum calls this floor Avant-garde Territories, and it tells the story of modern art through three things: cities, architecture and magazines. Paris, Madrid and Barcelona are the main stages. This floor is due to be rehung in 2028.
+
+This first room shows Madrid with two faces. Around 1900, Spain was in crisis, made worse by the loss of its last colonies in 1898. Writers such as Miguel de Unamuno and Pío Baroja looked hard at poverty and backwardness. Painters followed them into slums and taverns, among beggars and people on the margins.
+
+[quietly] Look for Ricardo Baroja's small, dark etchings, such as The Suburb. The city's edges, drawn in black and grey.
+
+Then, in the 1920s, a different Madrid takes shape. Reinforced concrete made room for towers like the Telefónica building. New leisure brought new buildings, a racecourse at Zarzuela, a court for the ball game of pelota. From slum to Gran Vía, as the room's title says.
+
+Next, Room 201.02, 'Holy Bohemia. Paris was a party'. Look for Picasso's tall portrait, Woman in Blue.
