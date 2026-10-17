@@ -38,3 +38,5 @@ NOUVEL ROOF TERRACE
 LISTENING CHECKS (after rendering on the Mac)
 [ ] English: room codes said "two-oh-five point ten". Catalan title "intel.lectuals" (track 17).
 [ ] All languages: names of Spanish artists and places sound right.
+[ ] German: "Saal 205.03 bis" - "bis" means "until" in German; check it doesn't sound like a range (track 15).
+[ ] ES / FR / DE: room codes like 205.10 read as a room number, not a decimal or a date.

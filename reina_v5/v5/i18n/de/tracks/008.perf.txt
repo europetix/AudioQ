@@ -1,0 +1,26 @@
+@id: 008 · DE · Room 201.04 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 201.04
+@type: X
+@title: Saal 201.04 · Extra · José Ortiz Echagüe — Fotografien Spaniens
+@where: Saal 201.04, „José Ortiz Echagüe“, ein kleiner Saal mit fünf Werken. Suchen Sie seine Schwarz-Weiß-Abzüge vom Dorfleben, mit tiefem, samtigem Schwarz, etwa eine Predigt in einer Dorfkirche, und die Büsten des Bildhauers Julio Antonio.
+@what: José Ortiz Echagüe, Sermón en la aldea (Village Sermon), 1903, direct carbon print on laid paper, image 40.5 × 38.7 cm; also Lagarteranas and Lagarteranas en misa. Julio Antonio, Mujer de la mantilla and Moza de Aldea del Rey.
+@listen: A photographer who wanted his pictures to feel like travelling back in time, and printed them so heavily by hand that a critic objected.
+@brief: A quiet, curious aside in a small room; gentle, a little amused at the critic.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://museoreinasofia.es/en/collections/room-20104 (OFF: room title; Generation of '98 interest in identity and traditions; began photographing in 1903, systematically from 1916; Fresson carbon process, Pictorialism, documentary aims; preserving disappearing ways of life; Spanische Köpfe, Berlin 1929; Tipos y trajes de España, Madrid 1930; Julio Antonio's Bustos de la raza 1908–1914; five works listed) ; https://www.museoreinasofia.es/en/collections/artwork/sermon-en-la-aldea-village-sermon (OFF: 1903; direct carbon on laid paper; Exhibited in Room 201.04; parish church of Viguera, La Rioja; "the strange feeling of travelling to a different time"; own variant "Carbondir"; deep blacks, soft pointillist half-tones; closer to engraving than photography; a 1923 review criticised the heavy manipulation; donation of the author 1975)
+@lang: de
+@translation: from the fact-checked English Reina Sofía 008 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] José Ortiz Echagüe wollte, dass seine Fotos Ihnen schenken, was er „das seltsame Gefühl, in eine andere Zeit zu reisen“ nannte. Sehen Sie sich in diesem kleinen Saal um. Wirkt es bei Ihnen?
+
+1903 begann er, den Alltag in Spanien zu fotografieren, und ab 1916 tat er es systematisch, von Region zu Region. Er wollte Lebensweisen festhalten, die seiner Meinung nach bald verschwinden würden. [pause] Seine Ziele waren dokumentarisch. Seine Methoden waren es nicht.
+
+[pause] Suchen Sie Dorfpredigt, eines seiner frühesten Bilder, 1903 in der Pfarrkirche von Viguera aufgenommen, in La Rioja. Sehen Sie sich das Schwarz an. Es ist tief und samtig, und die weicheren Töne zerfallen in winzige Punkte. Ortiz Echagüe machte alle Abzüge selbst, mit seiner eigenen Variante des Kohledrucks. Er nannte sie Carbondir. Das Ergebnis wirkt eher wie ein Stich als wie ein Foto.
+
+[amused] Nicht alle waren begeistert. Eine Kritik von 1923 bemängelte, wie stark er seine Abzüge von Hand bearbeitete.
+
+Seine Porträts spanischer Typen und Trachten wurden zu Büchern, erst in Berlin, dann in Madrid. [pause] Die Büsten daneben stammen vom Bildhauer Julio Antonio. Er bereiste Spanien mit derselben Idee und zeigte arbeitende Menschen mit klassischer Ruhe.
+
+Als Nächstes Saal 202.01, „Madrid, eine vielfältige Stadt“, mit Rafael Barradas' kleinem, vibrierendem Bild Atocha.

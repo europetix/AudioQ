@@ -1,0 +1,30 @@
+@id: 001 · DE · Sabatini entrance · Floor 1 · 17 Oct 2026 edition
+@section: Opening
+@room: Sabatini entrance · Floor 1
+@type: ANCHOR
+@title: Willkommen — ein Krankenhaus, das zum Museum wurde
+@where: Spielen Sie diesen Titel direkt hinter dem Sabatini-Eingang in der Calle Santa Isabel ab, auf Ebene 1, zwischen den beiden gläsernen Aufzugstürmen, die den Eingang einrahmen. Sie müssen an keiner bestimmten Stelle stehen.
+@what: The Sabatini Building: Madrid's eighteenth-century Hospital General, largely designed by Francesco Sabatini, opened as the Centro de Arte Reina Sofía in 1986 and established as the Museo Nacional Centro de Arte Reina Sofía in 1988. Route of this guide: Floor 1, Floor 2, Floor 4, Nouvel roof terrace.
+@listen: How an unfinished royal hospital escaped demolition and became Spain's national museum of modern art, and how this guide will walk you through it.
+@brief: Welcoming a friend at the door with the building's life story, then a clear, friendly briefing on how the visit works; warm, a little wry about the money running out, plain and practical at the end.
+@pace: medium
+@energy: 3→3→2→3
+@sources: https://www.museoreinasofia.es/en/museo/architectural-heritage/construction-hospital-general (OFF: Philip II idea 1566; Ferdinand VI 1748; Sabatini replaced Hermosilla; broad façade; seventh courtyard with cloister; hygiene measures "ahead of their time": cross ventilation, high ceilings, whitewashed walls; work stopped after Charles III died 1788 and money ran out; about a third built; hospital ran nearly two centuries) ; https://museoreinasofia.es/en/museo/architectural-heritage/hospital-museum (OFF: hospital until the 1960s, closed 1965–68; demolition proposals; critics opposed; Historic-Artistic Monument 1977; opened partially as Centro de Arte Reina Sofía 26 May 1986; Royal Decree 1988 museum; glass-and-steel lift towers by Vázquez de Castro and Íñiguez de Onzoño with Ian Ritchie, two framing the entrance; Guernica moved here 1992) ; https://www.museoreinasofia.es/en/collection (OFF: collection "being fully reconstructed and rehung in a process due to conclude in 2028", works moving to the upper floors of Sabatini) ; research/CURRENT_COLLECTION_OCT2026.md and source/plano_oct2026_feb2027.pdf (OFF: Floor 1 Serra + garden, Floor 2 collection + Guernica, Floor 3 Sabatini closed, Floor 4 Rooms 1–21, Nouvel Floor 3 terraces; lift towers left and right of the entrance connect Floors 1–4)
+@lang: de
+@translation: from the fact-checked English Reina Sofía 001 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieses Museum begann mit dem Wunsch eines Königs, alle Krankenhäuser Madrids unter einem Dach zu vereinen. Im achtzehnten Jahrhundert begann hier endlich der Bau eines großen Allgemeinen Krankenhauses.
+
+Merken Sie sich den Namen Francesco Sabatini. Der Architekt wurde in Palermo geboren. Er gab dem Krankenhaus seine lange, prächtige Fassade. Er dachte auch viel über Gesundheit nach. Luft, die quer durch die Krankensäle strömt, hohe Decken, weiß getünchte Wände. Das Museum bezeichnet diese Ideen als ihrer Zeit voraus.
+
+[wry] Dann ging das Geld aus. Als Karl der Dritte gegen Ende des Jahrhunderts starb, wurde der Bau eingestellt. Nur etwa ein Drittel des Plans wurde je fertig. [pause] Trotzdem diente das Haus fast zwei Jahrhunderte lang als Krankenhaus, bis es vor rund sechzig Jahren schloss.
+
+[quietly] Danach sahen die meisten Pläne vor, es abzureißen. Kritiker wehrten sich, und das alte Krankenhaus wurde zum historischen Denkmal erklärt. 1986 öffnete es als Kunstzentrum. Die beiden Aufzugstürme aus Glas und Stahl, zwischen denen Sie hindurchgegangen sind, kamen hinzu, um diesen Eingang einzurahmen. [pause] Und 1992 zog Picassos Guernica hier ein.
+
+[pause] So funktioniert der Rundgang. Jede Station nennt Ihnen eine Saalnummer und den Titel des Saals, so wie das Museum ihn benennt. So wissen Sie immer, wo Sie sind. Sie beginnen hier auf Ebene 1, mit Richard Serras Stahlskulptur in Saal 102. Dann geht es hinauf auf Ebene 2, zu den Avantgarden des frühen zwanzigsten Jahrhunderts und zu Guernica. Ebene 3 ist derzeit geschlossen, also lassen Sie sie aus. Ebene 4 zeigt Kunst von 1975 bis heute, in den Sälen 1 bis 21. Zum Schluss geht es auf die Dachterrasse des Nouvel-Gebäudes.
+
+Einige Stationen sind als Extra gekennzeichnet. Sie sind kurz und optional. Überspringen Sie sie, wann immer Sie möchten.
+
+Noch eine nüchterne Tatsache vorab. Das Museum hängt seine gesamte Sammlung neu, in einem Prozess, der 2028 abgeschlossen sein soll.
+
+[pause] Bleiben Sie zuerst auf Ebene 1. Zum Garten in der Mitte des Gebäudes, den Sie über den Kreuzgang erreichen, gibt es einen kurzen Extra-Titel. Die nächste Hauptstation ist Saal 102, mit Richard Serras Stahlskulptur. Wenn Sie kein Schild sehen, fragen Sie an der Information.

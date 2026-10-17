@@ -1,0 +1,28 @@
+@id: 057 · DE · Nouvel roof terrace · 17 Oct 2026 edition
+@section: Closing
+@room: Nouvel roof terrace · Floor 3
+@type: CLOSE
+@title: Abschluss — von Guernica bis heute
+@where: Irgendwo auf der Dachterrasse auf Ebene 3 des Nouvel-Gebäudes, oder irgendwo im Museum, falls die Dachterrasse geschlossen ist. Nichts zu suchen: ein Moment, um auf den Besuch zurückzublicken.
+@what: No single work. Recalls Picasso, Guernica, 1937, Room 205.10; Tino Calabuig, Guernica, 1992, Room 16; Room 15, 'Institutional Genealogy'; Room 21's room text; Jesús Soto, Penetrable, Nouvel roof terrace.
+@listen: How Guernica's arrival shaped this museum, and why the visit ends with you.
+@brief: A warm, unhurried goodbye to a friend at the end of a long day; reflective, grateful, a small smile at the last line.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: https://www.museoreinasofia.es/en/collections/artwork/guernica-0 (OFF: Picasso, Guernica, 1937, Exhibited in Room 205.10) ; https://www.museoreinasofia.es/en/collections/artwork/guernica (OFF, Calabuig's film page: 1992 transfer of Guernica from the Casón del Buen Retiro; emblem of openness to society and institutional modernisation; museum regards Guernica as a focal point for building and organising its collections, meant from the outset to enter into dialogue with other contemporary artists; 1995 Royal Decree set 1881, Picasso's birth year, as the dividing line between the Prado and Reina Sofía collections; custom crate, special vehicle, specific lift) ; https://www.museoreinasofia.es/en/collections/room-15 (OFF: museum's "tentative exercise in self-representation") ; https://www.museoreinasofia.es/en/collections/room-21 (OFF: women artists under 15 percent; "remains a work in progress") ; https://www.museoreinasofia.es/en/collections/artwork/penetrable (OFF: Soto 1983, "There are no longer spectators; there are only participants") ; research/CURRENT_COLLECTION_OCT2026.md (OFF, press release 16 Feb 2026: Floor 3, 1950s–1970s, rehung and reopening in 2027)
+@lang: de
+@translation: from the fact-checked English Reina Sofía 057 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ein Datum bestimmt still dieses ganze Museum. 1881, das Geburtsjahr von Pablo Picasso.
+
+1992 verließ Guernica den Casón del Buen Retiro und kam hierher. Es reiste in einer eigens gebauten Kiste, in der sich die Leinwand niemals aufrollen konnte. Und nur um es hereinzubringen, baute man einen Aufzug. [pause] Einige Jahre später zog ein königliches Dekret eine Grenze zwischen den beiden großen Sammlungen Madrids. Grob gesagt gehören die vor Picasso geborenen Künstler in den Prado. Picasso und alle nach ihm gehören hierher.
+
+[pause] In gewissem Sinn ist das Reina Sofía also um ein einziges Bild herum gewachsen. Das Museum nennt Guernica einen Brennpunkt der ganzen Sammlung, von Anfang an gedacht für das Gespräch mit anderen Künstlern seiner Zeit und danach.
+
+Dieses Gespräch haben Sie heute gehört. Auf Ebene 2 die Cafés, Zeitschriften und Plakate der Avantgarde, und dann ein Krieg, in Grau gemalt auf einer fast acht Meter breiten Leinwand in Saal 205.10. Auf Ebene 4 das halbe Jahrhundert seit dem Ende der Diktatur. Der Übergang zur Demokratie. Die Jahre von Aids und Trauer. Feminismus, Fotografie, die afrikanische Diaspora. Und in Saal 15 das Museum, das den Blick auf sich selbst richtet, und in Saal 21 zugibt, dass Gleichstellung noch unvollendet ist.
+
+[reverent] Nichts davon ist abgeschlossen. Die Ebene dazwischen, die Fünfziger- bis Siebzigerjahre, wird gerade neu gehängt. Danach ändern sich die Avantgarde-Säle. Ein Museum wie dieses ist eine Debatte, kein Urteil.
+
+Das bringt uns zurück zu Jesús Soto und seinem Penetrable. „Es gibt keine Zuschauer mehr“, sagte er. „Es gibt nur noch Teilnehmer.“
+
+[warmly] Das sind Sie. Sie sind den Weg gegangen, Sie haben geschaut, Sie haben mit manchem gestritten. Danke, dass Sie diese Zeit mit uns verbracht haben. Wenn Sie so weit sind, bringen Sie die Nouvel-Aufzüge wieder hinunter, und die Ausgangsschilder führen Sie hinaus nach Madrid.
