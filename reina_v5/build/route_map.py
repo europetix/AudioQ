@@ -84,9 +84,9 @@ F4 = {k: _px(*v) for k, v in {
 F4_WAY = {"c4a": (992 / 60, 250 / 60), "c4b": (314 / 60, 250 / 60), "l4": (483 / 60, 865 / 60)}
 # Floor 1: the easy-read plan (research/map/f1.png), pixels / 60. Room 102 = the grey "Colección: Richard Serra" wing.
 F1 = {k: _px(*v) for k, v in {
+    "FRONTW": (195, 925, 830, 940), "RIGHTW": (745, 815, 505, 830), "BACKW": (305, 815, 505, 605),
     "102": (305, 375, 600, 830), "GARDEN": (375, 745, 605, 835), "ENTR": (500, 625, 840, 940),
-    "LIFTL": (428, 475, 850, 975), "LIFTR": (648, 695, 850, 975), "FRONTW": (195, 925, 830, 940),
-    "RIGHTW": (745, 815, 505, 830), "BACKW": (305, 815, 505, 605), "NOUVEL": (760, 815, 455, 505)}.items()}
+    "LIFTL": (428, 475, 850, 975), "LIFTR": (648, 695, 850, 975), "NOUVEL": (760, 815, 455, 505)}.items()}
 F1_WAY = {"g1": (560 / 60, 600 / 60)}
 LABEL = {"ENTR": "Entrance", "GARDEN": "Garden", "LIFTL": "Lift", "LIFTR": "Lift", "ALACENA": "", "CLOISTER": "",
          "ST2a": "Stairs", "ST2b": "Stairs", "ST2c": "Stairs", "203": "203", "208": "208", "207": "207",
@@ -103,7 +103,9 @@ PATHS = {
 
 def esc(s): return html.escape(s, quote=True)
 
-def plan_svg(rooms, ways, path, width_mm, max_h_mm, notes=(), ends=("Back of the building", "Front · street side, glass lift towers")):
+def plan_svg(rooms, ways, path, width_mm, max_h_mm, notes=(), ends=("Back of the building", "Front · street side, glass lift towers"), show=(1, 999)):
+    STP = {k: [n for n in v if show[0] <= n <= show[1]] for k, v in STOPS.items()}
+    STP = {k: v for k, v in STP.items() if v}
     xs = [v[0] for v in rooms.values()] + [v[0] + v[2] for v in rooms.values()]
     ys = [v[1] for v in rooms.values()] + [v[1] + v[3] for v in rooms.values()]
     x0, x1, y0, y1 = min(xs), max(xs), min(ys), max(ys); m = .6
@@ -117,7 +119,7 @@ def plan_svg(rooms, ways, path, width_mm, max_h_mm, notes=(), ends=("Back of the
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W:.1f} {H:.1f}" width="{W:.1f}mm" height="{H:.1f}mm">']
     if ends[0]: out.append(f'<text x="{W/2:.1f}" y="4.4" class="end">{esc(ends[0])}</text>')
     if ends[1]: out.append(f'<text x="{W/2:.1f}" y="{H - 1.6:.1f}" class="end">{esc(ends[1])}</text>')
-    col_of = lambda k: colour(STOPS[k][0]) if k in STOPS else None
+    col_of = lambda k: colour(STP[k][0]) if k in STP else None
     on_path = set(path)
     # rooms first, path on top (thin), stops on top of everything
     for k, (x, y, w, h) in rooms.items():
@@ -126,7 +128,7 @@ def plan_svg(rooms, ways, path, width_mm, max_h_mm, notes=(), ends=("Back of the
             out.append(f'<rect x="{X:.2f}" y="{Y:.2f}" width="{Wd:.2f}" height="{Hd:.2f}" rx="{S*.2:.2f}" fill="#E7EFE2" stroke="none"/>')
             out.append(f'<text x="{X+Wd/2:.2f}" y="{Y+Hd/2:.2f}" class="rn" style="font-size:{S*.32:.2f}px;fill:#93A58A;font-weight:600">cloister</text>'); continue
         if k == "GARDEN":
-            out.append(f'<rect x="{X:.2f}" y="{Y:.2f}" width="{Wd:.2f}" height="{Hd:.2f}" rx="{S*.2:.2f}" fill="#DCEBD3" stroke="{colour(STOPS[k][0])}" stroke-width="{S*.05:.2f}"/>')
+            out.append(f'<rect x="{X:.2f}" y="{Y:.2f}" width="{Wd:.2f}" height="{Hd:.2f}" rx="{S*.2:.2f}" fill="#DCEBD3" stroke="{colour(STOPS[k][0]) if k in STP else "#B9C9AF"}" stroke-width="{S*.05:.2f}"/>')
         elif k.startswith("LIFT"):
             out.append(f'<rect x="{X:.2f}" y="{Y:.2f}" width="{Wd:.2f}" height="{Hd:.2f}" rx="{S*.1:.2f}" fill="#D9E8EE" stroke="#7FA3B3" stroke-width="{S*.03:.2f}"/>')
             out.append(f'<text x="{X+Wd/2:.2f}" y="{Y+Hd/2+S*.08:.2f}" class="rn" style="font-size:{S*.2:.2f}px;fill:#3E6B7D;font-weight:700">Lift</text>'); continue
@@ -152,9 +154,9 @@ def plan_svg(rooms, ways, path, width_mm, max_h_mm, notes=(), ends=("Back of the
             mx, my = (xa + xb) / 2, (ya + yb) / 2; a = math.degrees(math.atan2(yb - ya, xb - xa)); k = S * .1
             out.append(f'<path d="M{-k:.2f},{-k*.8:.2f} L{k:.2f},0 L{-k:.2f},{k*.8:.2f} Z" fill="{INK}" fill-opacity=".7" transform="translate({mx:.2f},{my:.2f}) rotate({a:.1f})"/>')
     for k, (x, y, w, h) in rooms.items():
-        if k not in STOPS: continue
+        if k not in STP: continue
         X, Y = P(x, y); Wd, Hd = w * S, h * S
-        st = STOPS[k]; n = len(st); rad = min(S * .2, Wd / (2.3 * n), Hd / 2.6)
+        st = STP[k]; n = len(st); rad = min(S * .2, Wd / (2.3 * n), Hd / 2.6)
         horiz = Wd >= Hd or n == 1
         for i, s in enumerate(st):
             if horiz: cx, cy = X + Wd / 2 + (i - (n - 1) / 2) * rad * 2.2, Y + Hd * .62
@@ -199,7 +201,7 @@ def stop_list(first, last):
 def overview_svg():
     W, H = 182.0, 112.0
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}mm" height="{H}mm">']
-    SX0, SX1, NX0, NX1 = 22.0, 112.0, 124.0, 176.0; fh = 17.0
+    SX0, SX1, NX0, NX1 = 20.0, 108.0, 128.0, 178.0; fh = 17.0
     fy = lambda f: 90.0 - f * 20.0
     for f in range(5):
         y = fy(f); used = f in (1, 2, 4)
@@ -211,8 +213,8 @@ def overview_svg():
     o.append(f'<text x="{(SX0+SX1)/2}" y="{H-2.5}" class="end">SABATINI BUILDING · entrance on Calle Santa Isabel</text>')
     o.append(f'<text x="{(NX0+NX1)/2}" y="{H-2.5}" class="end">NOUVEL BUILDING</text>')
     o.append(f'<text x="{SX0+3}" y="{fy(3)+fh/2+1.2}" class="zl" style="fill:#A39886">Floor 3 · closed for now</text>')
-    Z = [(1, SECS[1], "Serra · the garden"), (2, SECS[2], "Bohemia, cities, Cubism"), (2, SECS[3], "War · Guernica · Surrealism"),
-         (4, SECS[4], "The Transition to grief"), (4, SECS[5], "Sculpture · institutions · images")]
+    Z = [(1, SECS[1], "Serra · the garden"), (2, SECS[2], "Bohemia · Cubism"), (2, SECS[3], "War · Guernica"),
+         (4, SECS[4], "Transition to grief"), (4, SECS[5], "Sculpture · images")]
     half = (SX1 - SX0 - 6) / 2
     slot = {}
     for f, sec, lab in Z:
@@ -231,8 +233,8 @@ def overview_svg():
         o.append(f'<path d="{d}" fill="none" stroke="{col}" stroke-width="{w}" stroke-linecap="round" stroke-linejoin="round"{da}/>')
         (xa, ya), (xb, yb) = pts[-2], pts[-1]; ang = math.degrees(math.atan2(yb - ya, xb - xa))
         o.append(f'<path d="M-2.6,-2 L1.8,0 L-2.6,2 Z" fill="{col}" transform="translate({xb:.1f},{yb:.1f}) rotate({ang:.1f})"/>')
-    LX = SX1 + 5.5
-    o.append(f'<rect x="{SX1+2}" y="{fy(4)}" width="7" height="{fy(1)+fh-fy(4)}" rx="1.5" fill="#D9E8EE" stroke="#7FA3B3" stroke-width=".35"/>')
+    LX = SX1 + 8.5
+    o.append(f'<rect x="{SX1+5}" y="{fy(4)}" width="7" height="{fy(1)+fh-fy(4)}" rx="1.5" fill="#D9E8EE" stroke="#7FA3B3" stroke-width=".35"/>')
     o.append(f'<text x="{LX}" y="{fy(4)-1.6}" class="up" style="text-anchor:middle">glass lifts</text>')
     arrow([(LX - 1.3, fy(1) + 3), (LX - 1.3, fy(2) + fh - 2)], GOLD, "1.6,1.2")
     arrow([(LX - 1.3, fy(2) + 3), (LX - 1.3, fy(4) + fh - 2)], GOLD, "1.6,1.2")
@@ -274,25 +276,28 @@ def floor_page(title, sub, svg, first, last, extra_list=None, stack=False):
 </section>'''
 
 a1, b1 = rng("Opening", SECS[1][0]); at, bt = rng(SECS[6][0], "Closing")
-svg = plan_svg(F1, F1_WAY, PATHS["f1"], 182, 120,
-    notes=[("ENTR", "START · Sabatini entrance", "start", 0, 1.0), ("LIFTR", "Then a glass lift\nup to Floor 2", "up", 2.0, .2),
+svg = plan_svg(F1, F1_WAY, PATHS["f1"], 182, 150,
+    notes=[("ENTR", "START · Sabatini entrance", "start", -3.2, 1.6), ("LIFTR", "Then a glass lift\nup to Floor 2", "up", 3.0, .9),
            ("NOUVEL", "At the end: through here\nto the Nouvel building,\nlift up to the roof terrace", "finish", 2.6, -.6)],
     ends=("Back · towards the Nouvel building", "Front · Calle Santa Isabel"))
 pages.append(floor_page("Floor 1 · Start, and the way to the terrace",
     f"Welcome at the Sabatini entrance, the cloister garden, Richard Serra in Room 102, then a glass lift up. At the very end you come back to Floor 1 and cross to the Nouvel building for the roof terrace. Stops {a1}–{b1} and {at}–{bt}.",
     svg, a1, b1, extra_list=(at, bt), stack=True))
 
-a2, b2 = rng(SECS[2][0], SECS[3][0])
-svg = plan_svg(F2, F2_WAY, PATHS["f2"], 182, 150,
-    notes=[("201.01", "Arrive by a glass lift:\nthe rooms start here", "up", .3, 2.4), ("205.10", "Guernica", "info", 0, 1.6),
-           ("c2c", "Back to the glass lifts,\nup to Floor 4", "up", -.4, 2.2), ("208", "207–208: not on\nthe route", "info", -1.2, 1.0)])
-pages.append(floor_page("Floor 2 · From Bohemia to Guernica",
-    f"One loop round the cloister: the 201 and 202 rooms along the front, the 204 rooms up one side, the 205 rooms along the back with Guernica in the middle, and the 206 rooms down the other side. Stops {a2}–{b2}.",
-    svg, a2, b2, stack=True))
+for sec, title, sub in [
+    (SECS[2], "Floor 2 · Bohemia, cities and Cubism",
+     "Floor 2 is one loop round the cloister. This part: the 201 and 202 rooms along the front, then the 204 rooms up one side."),
+    (SECS[3], "Floor 2 · War, Guernica and Surrealism",
+     "On round the loop: the 205 rooms along the back, with Guernica in the middle, then the 206 rooms down the other side, back towards the glass lifts.")]:
+    a2, b2 = rng(sec[0])
+    nts = ([("201.01", "Arrive by a glass lift:\nthe rooms start here", "up", .3, 2.4)] if sec is SECS[2] else
+           [("205.10", "Guernica", "info", 0, 1.7), ("c2c", "Back to the glass lifts,\nup to Floor 4", "up", .6, 2.3)])
+    svg = plan_svg(F2, F2_WAY, PATHS["f2"], 182, 128, notes=nts, show=(a2, b2))
+    pages.append(floor_page(title, f"{sub} Stops {a2}–{b2}. Grey rooms 203, 207 and 208 are not on the route.", svg, a2, b2, stack=True))
 
 a4, b4 = rng(SECS[4][0], SECS[5][0])
-svg = plan_svg(F4, F4_WAY, PATHS["f4"], 182, 150,
-    notes=[("1", "Arrive by a glass lift:\nRoom 1 is between the lifts", "up", .2, 2.2), ("21", "Then a glass lift down to\nFloor 1, for the Nouvel terrace", "down", .6, 2.6)])
+svg = plan_svg(F4, F4_WAY, PATHS["f4"], 170, 122,
+    notes=[("1", "Arrive by a glass lift:\nRoom 1 is between the lifts", "up", 4.2, 2.3), ("21", "Then a glass lift down to\nFloor 1, for the Nouvel terrace", "down", -1.0, 3.0)])
 pages.append(floor_page("Floor 4 · From 1975 to now",
     f"Rooms 1 to 21 in one loop: between the lifts, up the right-hand side, along the back, and down the left-hand side to Room 21. Stops {a4}–{b4}.",
     svg, a4, b4, stack=True))
@@ -328,7 +333,7 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .plan svg {{ display: block; margin: 0 auto }}
 .rn {{ font-family: Inter; text-anchor: middle }} .sn {{ font-family: Inter; font-weight: 700; fill: #fff; text-anchor: middle }}
 .note {{ font-family: Inter; font-weight: 600; fill: #fff }}
-.list .row {{ display: grid; grid-template-columns: 7.5mm 15mm 1fr; align-items: center; padding: 1.05mm 0; border-bottom: .25mm solid {LINE} }}
+.list .row {{ display: grid; grid-template-columns: 7.5mm 15mm 1fr; align-items: center; padding: .8mm 0; border-bottom: .25mm solid {LINE} }}
 .dot {{ width: 6mm; height: 6mm; border-radius: 50%; color: #fff; font: 700 8pt Inter; display: inline-flex; align-items: center; justify-content: center }}
 .rm {{ font: 600 7.2pt Inter; color: {MUTED} }} .hol {{ background: #fff; border: .45mm solid; box-sizing: border-box }}
 .row.x .tt {{ color: {MUTED} }} .tt i {{ font-style: normal; font-weight: 700; font-size: 7pt; letter-spacing: .04em; margin-right: 1mm }} .tt {{ font: 500 7.9pt Inter; line-height: 1.28 }}
