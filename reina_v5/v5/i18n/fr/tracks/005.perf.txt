@@ -1,0 +1,30 @@
+@id: 005 · FR · Room 201.02 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 201.02
+@type: W
+@title: Salle 201.02 · Picasso — Femme en bleu
+@where: Salle 201.02, « Sainte Bohème. Paris était une fête ». Trouvez le grand portrait de Picasso, haut de plus d'un mètre : une femme vêtue de bleu, debout, qui remplit toute la toile.
+@what: Pablo Picasso, Mujer en azul (Woman in Blue), Madrid, 1901, oil on canvas, 133 × 100 cm.
+@listen: The painting a nineteen-year-old Picasso sent to a Madrid exhibition and then walked away from, and what he borrowed from the masters to make it.
+@brief: Telling a friend a story of youthful nerve and a forgotten canvas; curious at first, wry about the exhibition, warm at the end.
+@pace: medium
+@energy: 3→3→2→3
+@sources: https://museoreinasofia.es/en/collections/artwork/mujer-en-azul-woman-blue (OFF: Madrid 1901, oil on canvas, 133 × 100 cm, Exhibited in Room 201.02; January to May 1901 in Madrid after a first stay in Paris the year before; met Generation of '98; artistic director of Arte Joven, illustrations; series of "courtesan portraits"; Modernism from Barcelona, Van Gogh, Toulouse-Lautrec, El Greco's brushwork, Velázquez's composition for Queen Mariana of Austria; sent to the 1901 General Exhibition of Fine Arts, little notice; left Madrid before it closed to prepare first Paris solo exhibition; forgotten; resurfaced decades later in the Museo Nacional de Arte Moderno; entered 1988) ; https://museoreinasofia.es/en/collections/room-20102 (OFF: room title) ; Picasso's age (born October 1881): general knowledge, consistent with the page
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 005 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Picasso a peint cette femme à Madrid, l'a envoyée à une exposition nationale, puis a quitté la ville. Le tableau a été oublié pendant des décennies.
+
+En 1901, il n'a pas encore vingt ans. Déjà passé une fois par Paris, il vit les premiers mois de l'année à Madrid. Il y rencontre les écrivains de la Génération de 98. [pause] Il devient directeur artistique d'une petite revue, Arte Joven, Art jeune, et en dessine les illustrations.
+
+Ce printemps-là, il peint une série que le musée appelle portraits de courtisanes. En voici un. On le voit emprunter partout. Au modernisme catalan, connu à Barcelone. À Van Gogh et à Toulouse-Lautrec, découverts à Paris. Et aux maîtres anciens espagnols du Prado.
+
+[pause] Voyez comme elle remplit le cadre, droite et posée. Pour cela, Picasso a repris la composition d'un portrait royal, la Reine Marie-Anne d'Autriche de Velázquez. Regardez ensuite la touche, et pensez au Greco. [pause] La pose d'une reine et la main d'un maître ancien, offertes à une femme de la vie nocturne madrilène.
+
+[wry] Il envoie le tableau à l'Exposition générale des beaux-arts de Madrid la même année. Il passe presque inaperçu. Avant même la fin de l'exposition, Picasso repart à Paris préparer sa première exposition personnelle. Personne ne semble avoir regretté le tableau.
+
+Il refait surface des décennies plus tard, en entrant dans ce qui était alors le musée national d'art moderne d'Espagne. Avec le temps, il est arrivé ici.
+
+[warmly] Regardez-la une dernière fois. Une toile que son jeune peintre a abandonnée, au tout début de la carrière qui allait changer l'art moderne.
+
+Restez dans la salle 201.02 pour un court Extra sur les affiches de Ramon Casas. Ou continuez vers la salle 201.03, « Ramón Gómez de la Serna, l'artiste improbable », avec le café bondé de Solana.

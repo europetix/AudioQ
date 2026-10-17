@@ -1,0 +1,26 @@
+@id: 025 · FR · Room 205.11 · 17 Oct 2026 edition
+@section: Floor 2 · War, Guernica and Surrealism
+@room: Room 205.11
+@type: W
+@title: Salle 205.11 · La Nuit espagnole — María Blanchard, Femme à l'éventail
+@where: Salle 205.11, « La Nuit espagnole. Flamenco, avant-garde et culture populaire ». Trouvez une haute toile cubiste, d'environ 1,6 mètre, représentant une femme éclatée en plans colorés qui se chevauchent, un éventail parmi eux.
+@what: María Blanchard, Mujer con abanico (Woman with a Fan), 1913–1915, oil on canvas, 161 x 97 cm. Also in the room: Man Ray, Vicente Escudero, bailaor de flamenco (Vicente Escudero, Flamenco Dancer); Natalia Goncharova, Costume espagnole (Spanish Costume) designs; Joan Miró, Danseuse espagnole I (Spanish Dancer I); Salvador Dalí, Gitano de Figueres (Roma Man from Figueres); Jacques Lipchitz, Figure with Guitar.
+@listen: How flamenco fed the avant-garde, and how a Cubist woman with a fan helped drive María Blanchard out of Madrid.
+@brief: Lightening the mood after Guernica; rhythmic and warm, then sympathetic about Blanchard's bad reviews.
+@pace: medium
+@energy: 2→3→3
+@sources: https://museoreinasofia.es/en/collections/room-20511 (OFF: title; named after a 2007 exhibition at the museum, the first to re-examine flamenco in avant-garde visual culture; Romantic stereotypes of Spanishness; flamenco a paradigm of popular culture by the late nineteenth century; the guitar in cafés and studios, prized by the Cubists as a hollow object that seems to come alive when strummed; dancers' dress, mantilla and fan suggest possession by movement; Ballets Russes Spanish ballets after the First World War; La Argentina, Vicente Escudero, Falla, Granados, Lorca, Moreno Villa, 1922 Concurso de Cante Jondo de Granada; works list) ; https://museoreinasofia.es/en/collections/artwork/mujer-con-abanico-woman-fan (OFF: 1913–1915, oil on canvas, 161 x 97 cm, Exhibited in Room 205.11; Cubism 1913–1922, learned first-hand in Paris; "one of the most ambitious paintings from her early years"; shown in 1915 at Los pintores íntegros, the first exhibition of Cubist works in Madrid; "patchy critical reception" one of the reasons she left Spain and settled permanently in Paris that year; fan links to classical Spanish tradition; probably a dancer; "simultaneous planes", recalling Futurism and Duchamp) ; research/CURRENT_COLLECTION_OCT2026.md (OFF: Blanchard also in Room 204.02)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 025 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Bien avant l'avant-garde, le monde avait déjà une image de l'Espagne. L'imagerie romantique l'avait fixée au début du dix-neuvième siècle : chants et danses, Semaine sainte, corridas. En fin de siècle, le flamenco est devenu l'image même de la culture populaire. [pause] Et les artistes modernes l'adoraient.
+
+La salle doit son nom à une exposition tenue ici en 2007, la première sur le flamenco dans l'art d'avant-garde. Pensez à la guitare espagnole, accrochée dans cafés et ateliers. Les cubistes l'adoraient, cet objet creux qui semble s'animer quand on en gratte les cordes. [pause] Pensez aux danseuses, dont robes, mantilles et éventails font paraître le corps possédé par le mouvement.
+
+[pause] Trouvez maintenant Femme à l'éventail de María Blanchard. Vous vous souvenez peut-être d'elle, salle 204.02. Elle a appris le cubisme sur place, à Paris, et c'est l'un des tableaux les plus ambitieux de ses débuts. L'éventail le rattache à une vieille tradition espagnole. La femme est probablement une danseuse. Blanchard la découpe en plans de couleur superposés : elle semble bouger dans plusieurs directions à la fois. Le musée y entend des échos des futuristes et de Marcel Duchamp.
+
+[wry] En 1915, elle l'expose à Madrid, à la première exposition de peinture cubiste que la ville ait vue. Les critiques ont été mitigées, pour rester poli. Cet accueil froid l'a notamment poussée à quitter bientôt l'Espagne pour Paris, où elle s'installe pour de bon.
+
+Autour d'elle, la nuit espagnole continue. Man Ray a photographié le danseur de flamenco Vicente Escudero. Natalia Gontcharova a dessiné des costumes espagnols. Miró a peint une danseuse espagnole, et le jeune Dalí un Rom de sa ville natale, Figueres.
+
+Ensuite, la salle 205.12, « Alberto. Le Pèlerinage des cocus », propose un court Extra sur un ballet de 1933. Puis vient la salle 205.13, André Breton et le surréalisme.

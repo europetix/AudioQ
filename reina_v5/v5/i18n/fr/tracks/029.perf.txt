@@ -1,0 +1,26 @@
+@id: 029 · FR · Room 205.15 · 17 Oct 2026 edition
+@section: Floor 2 · War, Guernica and Surrealism
+@room: Room 205.15
+@type: X
+@title: Salle 205.15 · Extra · Antoni Campañà — photographies de guerre
+@where: Salle 205.15, « Photographie de guerre ». Aux murs, les photographies en noir et blanc d'Antoni Campañà : des wagons et des voitures que l'on couvre de grands slogans et d'images antifascistes.
+@what: Antoni Campañà, photographs from the "red box", including Ferrocarriles del Norte. Pintando los trenes con propaganda antifascista (La tierra es tuya: Trabájala) (Railways of the North. Painting Trains with Anti-Fascist Propaganda [The Land Is Yours: Work It]); Ferrocarriles M. Z. A. Propaganda antifascista (Los aplastaremos) (We Will Crush Them); Coche intervenido por el Sindicato de dibujantes (A Car Painted by the Union of Draughtsmen); Vagón con propaganda antifascista (Los cuatro jinetes del Apocalipsis).
+@listen: A box of photographs that came back to light in 2018, and the trains the Republic turned into moving posters.
+@brief: A short, intrigued aside; the pleasure of a rediscovery, then a sober note.
+@pace: medium
+@energy: 2→3
+@sources: https://museoreinasofia.es/en/collections/room-205015 (OFF: Room 205.15, 'War photography'; "unprecedented press coverage" of the Civil War, 1936–1939, central to establishing photojournalism; the Leica and a new photographic language first tested in Spain; Capa, Taro and Chim supported the Republic; Antoni Campañà documented anti-fascist art linked to the Union of Professional Draughtsmen of Catalonia, photographs kept in the so-called "red box", rediscovered in 2018; print media the main way war photography reached the public; works list incl. the railway and car photographs named in @what; next room 205.16)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 029 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 2018, une boîte a refait surface. On l'appelle la boîte rouge. [pause] Elle contenait des photographies d'Antoni Campañà, prises pendant les années de la guerre d'Espagne.
+
+Aucune guerre n'avait encore été autant couverte par la presse. De nouveaux appareils compacts, comme le Leica, permettaient une nouvelle façon de photographier. Elle a été mise à l'épreuve ici, en Espagne. Ces salles racontent cette histoire.
+
+Dans ces images, Campañà regarde une chose inhabituelle : les artistes qui travaillent à l'arrière. [pause] Il a photographié le travail du Syndicat des dessinateurs professionnels de Catalogne, qui couvrait wagons et voitures de slogans et d'images antifascistes.
+
+[pause] Lisez les flancs de ces trains. La terre est à toi, travaille-la. Nous les écraserons. Discipline. Un wagon porte les Quatre Cavaliers de l'Apocalypse. [pause] Les trains eux-mêmes devenaient des affiches roulantes.
+
+Vous avez vu les affiches aux murs de la salle 205.05. Ici, la même guerre des images roule sur les rails.
+
+Ensuite, la salle 205.16, elle aussi « Photographie de guerre » : Robert Capa.
