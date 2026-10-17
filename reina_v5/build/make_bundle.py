@@ -26,7 +26,7 @@ def short_title(title, room):
     """The title without a leading room name (Palatine titles start with the door sign; the room is already in the file name)."""
     if room and title.startswith(room):
         return title[len(room):].lstrip(" ·—-")
-    m = re.match(r"^(Sala|Salle|Saal|Room) \d+\s?[A-C]? · ", title)   # translated titles start with the local room word
+    m = re.match(r"^(Sala|Salle|Saal|Room) \d+(?:\.\d+)?(?: bis)?\s?[A-C]? · ", title)   # translated titles start with the local room word
     return title[m.end():] if m else title
 
 def room_label(sec, room):

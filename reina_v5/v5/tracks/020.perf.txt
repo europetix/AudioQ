@@ -2,7 +2,7 @@
 @section: Floor 2 · War, Guernica and Surrealism
 @room: Room 205.07
 @type: X
-@title: Extra · Room 205.07 · Gecé — The Sewer Inspector
+@title: Room 205.07 · Extra · Gecé — The Sewer Inspector
 @where: Room 205.07, a small room of paintings, posters and architecture photographs around the magazine La Gaceta Literaria. Look for the photographs of plans for a restaurant on Monte Ulía, and Cassandre's poster Étoile du Nord.
 @what: Room 205.07, 'Gecé: The Sewer Inspector', on Ernesto Giménez Caballero and La Gaceta Literaria: José Manuel Aizpurúa and Joaquín Labayen, Restaurante en Monte Ulía (Restaurant on Mount Ulia), 1927, photographs of plans; Cassandre, Étoile du Nord; Norah Borges, Campesinas de Portugal (Peasant Women from Portugal); Alfonso Ponce de León, Arquitectura urbana (Urban Architecture).
 @listen: The man behind a key magazine of Spanish modernity, and how his politics left him writing it alone.

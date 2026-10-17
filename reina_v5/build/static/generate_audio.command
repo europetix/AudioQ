@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# Yo Tours - Museo del Prado - English audio guide (10 Oct 2026 edition)
+# Yo Tours - Museo Reina Sofia - English audio guide (17 Oct 2026 edition)
 # Pick a voice at runtime: Ava (default, edge-tts), Andrew or Brian (edge-tts).
 # V5: each track is performed from its direction layer (perf/), with real pauses and mastering.
 cd "$(dirname "$0")"
 
-BASE_DIR="$HOME/Desktop/Prado_YoTours_EN"   # new folder name: older Prado renders stay untouched
+BASE_DIR="$HOME/Desktop/ReinaSofia_YoTours_EN"   # new folder name: older Reina Sofia renders stay untouched
 
 echo ""
 echo "================================================================"
-echo "  Yo Tours - Museo del Prado (10 Oct 2026 edition)"
-echo "  Museo del Prado - English  (81 tracks: 59 main stops + 22 short Extras)"
+echo "  Yo Tours - Museo Reina Sofia (17 Oct 2026 edition)"
+echo "  Museo Reina Sofia - English  (57 tracks: 43 main stops + 14 short Extras)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -27,18 +27,18 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The full tour (81 tracks: 59 main stops + 22 Extras)"
-echo "  2) Two voice samples only: 049 Las Meninas + 071 The Black Paintings (a few minutes)"
-echo "  3) Main stops only (59 tracks; they mention the Extras, just skip those)"
+echo "  1) The full tour (57 tracks: 43 main stops + 14 Extras)"
+echo "  2) Two voice samples only: 023 Guernica + 044 Juan Munoz (a few minutes)"
+echo "  3) Main stops only (43 tracks; they mention the Extras, just skip those)"
 printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
-    export ONLY="049 071"
-    BASE_DIR="$HOME/Desktop/Prado_YoTours_Voice_Samples/Sample"
+    export ONLY="023 044"
+    BASE_DIR="$HOME/Desktop/ReinaSofia_YoTours_Voice_Samples/Sample"
 fi
 if [ "$SCOPE" = "3" ]; then
-    export ONLY="001 002 003 004 005 008 010 011 012 013 015 016 017 019 020 024 025 026 027 029 031 032 033 035 037 039 040 041 042 043 044 045 047 048 049 050 051 053 054 055 056 057 058 059 060 061 062 064 066 067 069 070 071 073 074 077 078 080 081"
-    BASE_DIR="$HOME/Desktop/Prado_YoTours_EN_MainStops"
+    export ONLY="001 003 004 005 007 009 010 011 012 013 014 017 018 019 021 023 024 025 027 028 030 031 032 033 034 035 036 037 038 039 041 042 043 044 045 047 049 051 052 054 055 056 057"
+    BASE_DIR="$HOME/Desktop/ReinaSofia_YoTours_EN_MainStops"
 fi
 
 HAVE_FFMPEG=1
@@ -71,7 +71,7 @@ command -v ffmpeg >/dev/null 2>&1 || { HAVE_FFMPEG=0; echo "WARNING: ffmpeg not 
 
 # navigation PDF + guides into the tour folder (not for voice samples)
 echo ""
-[ "$SCOPE" = "2" ] || for f in Prado_Audio_Guide_Route.pdf README.txt; do
+[ "$SCOPE" = "2" ] || for f in ReinaSofia_Audio_Guide_Route.pdf README.txt; do
     cp "$f" "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] $f"
 done
 if [ "$SCOPE" != "2" ] && [ -d USER_TEST ]; then
@@ -82,6 +82,6 @@ echo ""
 echo "================================================================"
 echo "  Done. Tour saved to: $OUTPUT_DIR"
 echo "  One folder per section, tracks numbered in walking order."
-echo "  Prado_Audio_Guide_Route.pdf: the route and where to stand for every track."
+echo "  ReinaSofia_Audio_Guide_Route.pdf: the route and where to stand for every track."
 echo "================================================================"
 read -p "Press enter to close..."

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prado V5 lint: python3 lint.py [NNN ...]  -> one line per track, 'OK' or the problems."""
+"""Reina Sofía V5 lint: python3 lint.py [NNN ...]  -> one line per track, 'OK' or the problems."""
 import sys, os, re, glob
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "pipeline"))
 import v5_direction as V
