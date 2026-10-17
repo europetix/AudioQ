@@ -2,16 +2,16 @@ import sys, os, re, json, shutil, glob, unicodedata
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT + '/v5/pipeline'); import v5_direction as V
 SRC = ROOT + '/v5/tracks'
-B = ROOT + '/bundle/Prado_YoTours_EN'
+B = ROOT + '/bundle/ReinaSofia_YoTours'
 shutil.rmtree(B, ignore_errors=True); os.makedirs(B)
 SECTIONS = [  # (@section value, display, folder)
  ("Opening", "Opening", "00_Welcome"),
- ("Floor 0 · Flemish, Italian & Medieval", "Floor 0 · Flemish, Italian & Medieval", "01_Floor0_Flemish_Italian_Medieval"),
- ("Floor 2 · Rembrandt & the Dauphin's Treasure", "Floor 2 · Rembrandt & the Dauphin's Treasure", "02_Floor2_Rembrandt_Dauphins_Treasure"),
- ("Floor 1 · Titian, El Greco & Velázquez", "Floor 1 · Titian, El Greco & Velázquez", "03_Floor1_Titian_El_Greco_Velazquez"),
- ("Floor 1 · Murillo, Rubens & Goya", "Floor 1 · Murillo, Rubens & Goya", "04_Floor1_Murillo_Rubens_Goya"),
- ("Goya's Story · Floors 2 and 0", "Goya's Story · Floors 2 and 0", "05_Goyas_Story_Floors_2_and_0"),
- ("Floor 0 · The Nineteenth Century", "Floor 0 · The Nineteenth Century", "06_Floor0_Nineteenth_Century"),
+ ("Floor 1 · Serra and the Garden", "Floor 1 · Serra and the Garden", "01_Floor1_Serra_and_Garden"),
+ ("Floor 2 · Bohemia, Cities and Cubism", "Floor 2 · Bohemia, Cities and Cubism", "02_Floor2_Bohemia_Cities_Cubism"),
+ ("Floor 2 · War, Guernica and Surrealism", "Floor 2 · War, Guernica and Surrealism", "03_Floor2_War_Guernica_Surrealism"),
+ ("Floor 4 · From the Transition to Grief", "Floor 4 · From the Transition to Grief", "04_Floor4_Transition_to_Grief"),
+ ("Floor 4 · Sculpture, Institutions and Images", "Floor 4 · Sculpture, Institutions and Images", "05_Floor4_Sculpture_Institutions_Images"),
+ ("Nouvel Roof Terrace", "Nouvel Roof Terrace", "06_Nouvel_Roof_Terrace"),
  ("Closing", "Closing", "07_Closing"),
 ]
 SEC = {s[0]: s for s in SECTIONS}
@@ -55,7 +55,7 @@ for f in sorted(glob.glob(SRC + '/*.perf.txt')):
         script=f"scripts/{folder}/{base}.txt", perf=f"perf/{folder}/{base}.perf.txt",
         mp3=f"{folder}/{base}.mp3"))
 tw = sum(t['words'] for t in tracks)
-plan = dict(tour_number=46, tour_slug="Museo_del_Prado", format="V5 Yo Tours 10 Oct 2026", language="EN",
+plan = dict(tour_number=0, tour_slug="Museo_Reina_Sofia", format="V5 Yo Tours 17 Oct 2026", language="EN",
     voices={"1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
             "2": "en-US-AndrewMultilingualNeural (trial)", "3": "en-US-BrianMultilingualNeural (earlier test voice)"},
     wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 64 kbps mono",

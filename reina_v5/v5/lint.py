@@ -27,7 +27,7 @@ for f in files:
     if re.search(r"\b(ticket|opening hours|euro|€)", c, re.I): p.append("tickets/hours/prices")
     if "!" in c: p.append("exclamation mark")
     last = c.split("\n\n")[-1]
-    if meta.get("type") != "CLOSE" and not re.search(r"Room \d|Floor \d|hall|Rooms \d", last): p.append("last paragraph has no room cue")
+    if meta.get("type") != "CLOSE" and not re.search(r"Room \d|Floor \d|hall|Rooms \d|terrace", last): p.append("last paragraph has no room cue")
     if re.match(r"^(Stand|Look|Walk|Turn|Go|Find|Step|Come|Move)\b", c): p.append("opens with a command")
     print(n, "OK" if not p else "; ".join(p), f"({w}w)")
     bad += bool(p)
