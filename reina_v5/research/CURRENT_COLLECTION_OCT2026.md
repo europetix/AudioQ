@@ -1,5 +1,10 @@
 # Museo Reina Sofía: current collection layout (research date 17 Oct 2026)
 
+> **Correction, 17 Oct 2026 (fact audit):** the official easy-read plan (Oct 2026–Feb 2027) shows the **Nouvel roof terraces open**.
+> "Cerrado por un tiempo" (closed for a while) refers to **Sabatini Floor 3**, not the terraces. Where this file says the
+> terraces are closed, read it as Sabatini Floor 3. Track 056 (Nouvel terrace) stays; 055 keeps its fallback line.
+
+
 Method: WebSearch and WebFetch only, one page at a time. Official sources first (museoreinasofia.es, recursos.museoreinasofia.es, cms.museoreinasofia.es).
 Grades: **OFF** = read on an official museum page or PDF. **SEC2** = two reputable independent sources. **UNCONF** = could not confirm.
 Caveat: the room web pages list only the first 12 works per room ("More artworks" is not expanded), and most room pages show no dates. A date appears below only where an official page gave one.
