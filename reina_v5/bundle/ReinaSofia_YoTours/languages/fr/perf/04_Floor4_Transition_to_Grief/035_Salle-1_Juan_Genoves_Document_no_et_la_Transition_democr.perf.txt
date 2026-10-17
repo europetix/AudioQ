@@ -1,0 +1,28 @@
+@id: 035 · FR · Room 1 · 17 Oct 2026 edition
+@section: Floor 4 · From the Transition to Grief
+@room: Room 1
+@type: W
+@title: Salle 1 · Juan Genovés — Document nº…, et la Transition démocratique
+@where: Salle 1, la première des trois salles d'introduction situées entre les deux ascenseurs, à l'avant du niveau 4. Trouvez une toile de taille moyenne, haute d'environ 1,4 mètre : un homme seul, les mains liées, sur un fond blanc et nu.
+@what: Juan Genovés, Documento nº… (Document No. …), 1975, acrylic on canvas, 140 x 125 cm. Also in the room: Concha Jerez, Seguimiento de una noticia (Following a Piece of News); Picasso etchings of 1931–34. Floor intro: the three routes, the Alacena rest area.
+@listen: How Floor 4 works, and a painting from 1975 that was meant to be read as evidence.
+@brief: Welcoming a friend to a new floor, then slowing down, quiet and serious, in front of one bound figure.
+@pace: medium
+@energy: 3→2→3
+@sources: https://www.museoreinasofia.es/en/collections/collection-contemporary-art-1975-present (OFF: fifty years of collection; Itinerary I affect, feminism, AIDS and heroin, grief; II sculpture; III institution, market, video, photography; Alhacena rest area) ; https://www.museoreinasofia.es/en/collections/alhacena-pantry (OFF: Jorge Penadés 2026, discarded wooden boards, about 29 m, "stop, converse") ; research/map/floor4_official_map.png (OFF: Rooms 1–3 introduction between the lifts, ALACENA behind them, Route I 4–10, II 11–14, III 15–21) ; research/CURRENT_COLLECTION_OCT2026.md (OFF press release: open from 18 Feb 2026, portable chairs) ; https://www.museoreinasofia.es/en/collections/artwork/documento-no-document-no (OFF: 1975, acrylic, 140 x 125, Room 1; series of hyperrealistic figures on white begun 1974; "visual document of condemnation"; summary trial, interrogation or execution; "alone with his hands bound", defenceless citizen v. state machinery; downcast gaze; like journalistic photographs) ; https://www.museoreinasofia.es/en/collections/room-1 (OFF: Structures of Affect of the Spanish Transition; Jerez crossed-out texts as censorship; destruction of Picasso etchings at the Theo gallery; museum founded upon the return of Guernica)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 035 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cinquante ans d'art, de 1975 à aujourd'hui. Et tout commence par un homme seul, debout, les mains liées.
+
+Vous êtes au niveau 4, la collection contemporaine du musée, présentée ainsi depuis février 2026. Elle forme une boucle autour du bâtiment. Les salles 1 à 3, ici, entre les deux ascenseurs, servent d'introduction. Puis trois parcours vous font faire le tour. [pause] Le premier parcours, salles 4 à 10, est une histoire des sentiments : féminisme, désir, années du sida et de l'héroïne, et deuil. Le deuxième, salles 11 à 14, à l'arrière du bâtiment, est une galerie de sculpture. Le troisième, salles 15 à 21, qui revient par le côté opposé, parle du musée lui-même, du marché, de la vidéo et de la photographie.
+
+Derrière ces premières salles, l'Alacena, le Garde-manger : une longue structure de bois d'environ 29 mètres, faite de planches de récupération par le designer Jorge Penadés, pour s'arrêter, s'asseoir et parler. Il y a aussi des sièges portables un peu partout.
+
+[pause] Revenons au tableau. Juan Genovés l'a peint en 1975, l'année de la mort de Franco. Il fait partie d'une série de figures hyperréalistes sur fonds blancs et nus. [quietly] L'homme est seul. Ses mains sont liées, son regard baissé. [pause] Il pourrait affronter un procès sommaire, un interrogatoire, ou pire. Il incarne le citoyen sans défense face à la machine de l'État.
+
+Genovés voulait que ces tableaux servent de preuves, comme des photos de presse. Même le titre, Document numéro, avec le numéro laissé en blanc, sonne comme un dossier.
+
+Le reste de la salle montre comment les artistes ont répondu aux dernières années de la dictature et aux suivantes. Concha Jerez barre les nouvelles elles-mêmes. Les gravures de Picasso rappellent un épisode sombre : une série de ses estampes a été détruite dans une galerie madrilène. [pause] Et la salle souligne encore une chose. Ce musée a été fondé sur le retour de Guernica en Espagne.
+
+Juste à côté, salle 2, « Contre-culture matérielle » : les panneaux peints qui couvraient jadis la porte d'un bar madrilène, La Vaquería.

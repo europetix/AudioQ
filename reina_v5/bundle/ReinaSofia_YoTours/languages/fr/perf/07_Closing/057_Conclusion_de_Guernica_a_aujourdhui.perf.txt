@@ -1,0 +1,28 @@
+@id: 057 · FR · Nouvel roof terrace · 17 Oct 2026 edition
+@section: Closing
+@room: Nouvel roof terrace · Floor 3
+@type: CLOSE
+@title: Conclusion — de Guernica à aujourd'hui
+@where: N'importe où sur la terrasse du niveau 3 du bâtiment Nouvel, ou n'importe où dans le musée si la terrasse est fermée. Rien à trouver : un moment pour revenir sur la visite.
+@what: No single work. Recalls Picasso, Guernica, 1937, Room 205.10; Tino Calabuig, Guernica, 1992, Room 16; Room 15, 'Institutional Genealogy'; Room 21's room text; Jesús Soto, Penetrable, Nouvel roof terrace.
+@listen: How Guernica's arrival shaped this museum, and why the visit ends with you.
+@brief: A warm, unhurried goodbye to a friend at the end of a long day; reflective, grateful, a small smile at the last line.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: https://www.museoreinasofia.es/en/collections/artwork/guernica-0 (OFF: Picasso, Guernica, 1937, Exhibited in Room 205.10) ; https://www.museoreinasofia.es/en/collections/artwork/guernica (OFF, Calabuig's film page: 1992 transfer of Guernica from the Casón del Buen Retiro; emblem of openness to society and institutional modernisation; museum regards Guernica as a focal point for building and organising its collections, meant from the outset to enter into dialogue with other contemporary artists; 1995 Royal Decree set 1881, Picasso's birth year, as the dividing line between the Prado and Reina Sofía collections; custom crate, special vehicle, specific lift) ; https://www.museoreinasofia.es/en/collections/room-15 (OFF: museum's "tentative exercise in self-representation") ; https://www.museoreinasofia.es/en/collections/room-21 (OFF: women artists under 15 percent; "remains a work in progress") ; https://www.museoreinasofia.es/en/collections/artwork/penetrable (OFF: Soto 1983, "There are no longer spectators; there are only participants") ; research/CURRENT_COLLECTION_OCT2026.md (OFF, press release 16 Feb 2026: Floor 3, 1950s–1970s, rehung and reopening in 2027)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 057 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Voici une date qui gouverne discrètement tout ce musée. 1881, l'année de naissance de Pablo Picasso.
+
+En 1992, Guernica quitte le Casón del Buen Retiro pour venir ici. Il voyage dans une caisse conçue pour que la toile ne puisse jamais s'enrouler, et l'on construit un ascenseur rien que pour le faire entrer. [pause] Quelques années plus tard, un décret royal trace une ligne entre les deux grandes collections de Madrid. En gros, les artistes nés avant Picasso relèvent du Prado. Picasso, et ceux venus après lui, relèvent d'ici.
+
+[pause] En un sens, le Reina Sofía a donc grandi autour d'un seul tableau. Le musée décrit Guernica comme un point focal pour toute la collection, destiné dès le départ à dialoguer avec d'autres artistes de son temps et d'après.
+
+Vous avez entendu ce dialogue aujourd'hui. Au niveau 2, les cafés, les revues et les affiches de l'avant-garde, puis une guerre, peinte en gris sur une toile large de près de huit mètres, salle 205.10. [pause] Au niveau 4, le demi-siècle depuis la fin de la dictature. La Transition. Les années du sida et du deuil. Le féminisme, la photographie, la diaspora africaine. Et salle 15, le musée qui retourne l'objectif vers lui-même, avant d'admettre, salle 21, que l'égalité reste en chantier.
+
+[reverent] Rien de tout cela n'est fini. Le niveau intermédiaire, des années 1950 aux années 1970, est en réaccrochage, et les salles des avant-gardes changeront ensuite. [pause] Un musée comme celui-ci est un débat, pas un verdict.
+
+Retour à Jesús Soto et à son Pénétrable. Selon lui, il n'y avait plus de spectateurs, seulement des participants.
+
+[warmly] Ces participants, c'est vous. Vous avez suivi le parcours, regardé, discuté certaines œuvres. Merci pour ce moment passé avec nous. Quand vous voudrez, les ascenseurs du bâtiment Nouvel vous ramèneront en bas, et les panneaux de sortie vous mèneront dans Madrid.

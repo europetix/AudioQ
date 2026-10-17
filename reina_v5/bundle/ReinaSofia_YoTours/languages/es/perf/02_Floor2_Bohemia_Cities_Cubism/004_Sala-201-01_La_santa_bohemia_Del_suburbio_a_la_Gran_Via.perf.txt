@@ -1,0 +1,26 @@
+@id: 004 · ES · Room 201.01 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 201.01
+@type: R
+@title: Sala 201.01 · La santa bohemia — Del suburbio a la Gran Vía
+@where: Sala 201.01 de la planta 2, la primera sala de la colección, titulada «La santa bohemia. Del suburbio a la Gran Vía». Busque una fotografía en blanco y negro del rey Alfonso Trece inaugurando el Metro de Madrid, y los pequeños y oscuros aguafuertes de Ricardo Baroja sobre los bordes de la ciudad.
+@what: Room 201.01, 'Holy Bohemia. From Slum to Gran Vía'. Alfonso Sánchez García, Alfonso XIII inaugura el primer tramo del metropolitano de Madrid (Alfonso XIII Opens the First Section of the Madrid Underground System), 17 October 1919, posthumous print 1984, gelatin silver print. Ricardo Baroja, El suburbio (The Suburb), 1909, etching and aquatint. Floor 2 presentation: 'Avant-garde Territories: City, Architecture and Magazines'.
+@listen: How Madrid's painters moved from the slums and taverns of a country in crisis to the concrete towers and metro of a modern city.
+@brief: Opening the second floor for a friend; lively at the hook, clear on the floor's idea, a touch sombre on the slums, brighter on the new city.
+@pace: medium
+@energy: 3→2→3
+@sources: https://museoreinasofia.es/en/collections/room-20101 (OFF: room title; Generation of '98, Unamuno, Pío Baroja, Valle-Inclán; crisis worsened by loss of last colonies in 1898; slums, taverns, beggars, marginalised people as "involuntary protagonists"; 1920s modern Madrid, reform of old centre; reinforced concrete, Edificio Telefónica, Edificio Carrión; Zarzuela Racecourse, Frontón Recoletos; works list) ; https://museoreinasofia.es/en/collections/artwork/alfonso-xiii-inaugura-el-primer-tramo-del-metropolitano-de-madrid-alfonso-xiii (OFF: 17 Oct 1919, posthumous print 1984, Exhibited in Room 201.01) ; https://museoreinasofia.es/en/collections/artwork/el-suburbio-suburb (OFF: 1909, etching and aquatint, image 26.5 × 30 cm, Exhibited in Room 201.01) ; https://museoreinasofia.es/en/collections/avant-garde-territories (OFF: Floor 2, city, architecture and magazines; Paris, Madrid, Barcelona) ; press release 16 Feb 2026 via research/CURRENT_COLLECTION_OCT2026.md (OFF: Floor 2 rehung in 2028)
+@lang: es
+@translation: from the fact-checked English Reina Sofía 004 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] El 17 de octubre de 1919, el rey Alfonso Trece inauguró el primer tramo del Metro de Madrid. El fotógrafo Alfonso Sánchez García estaba allí. Su fotografía cuelga en esta sala.
+
+Le damos la bienvenida a la planta 2. El museo la llama Territorios de vanguardia, y cuenta el arte moderno mediante tres cosas: ciudades, arquitectura y revistas. Los escenarios principales son París, Madrid y Barcelona. [pause] Está previsto reorganizarla en 2028.
+
+Esta primera sala muestra un Madrid de dos caras. Hacia 1900, España vivía una crisis, agravada por la pérdida de sus últimas colonias en 1898. Escritores como Miguel de Unamuno y Pío Baroja miraron de frente la pobreza y el atraso. [pause] Los pintores los siguieron a arrabales y tabernas, entre mendigos y marginados.
+
+[quietly] Busque los pequeños y oscuros aguafuertes de Ricardo Baroja, como El suburbio. Los bordes de la ciudad, en negro y gris.
+
+Luego, en la década de 1920, surge otro Madrid. El hormigón armado permitió torres como el edificio Telefónica. El ocio trajo nuevos edificios: un hipódromo en la Zarzuela, un frontón para la pelota. [pause] Del suburbio a la Gran Vía, como dice el título de la sala.
+
+A continuación, la sala 201.02, «La santa bohemia. París era una fiesta». Busque el alto retrato de Picasso, Mujer en azul.

@@ -1,0 +1,26 @@
+@id: 020 · ES · Room 205.07 · 17 Oct 2026 edition
+@section: Floor 2 · War, Guernica and Surrealism
+@room: Room 205.07
+@type: X
+@title: Sala 205.07 · Extra · Gecé — El inspector de alcantarillas
+@where: Sala 205.07, una sala pequeña de pinturas, carteles y fotografías de arquitectura en torno a la revista La Gaceta Literaria. Busque las fotografías de los planos de un restaurante en el monte Ulía y el cartel Étoile du Nord, de Cassandre.
+@what: Room 205.07, 'Gecé: The Sewer Inspector', on Ernesto Giménez Caballero and La Gaceta Literaria: José Manuel Aizpurúa and Joaquín Labayen, Restaurante en Monte Ulía (Restaurant on Mount Ulia), 1927, photographs of plans; Cassandre, Étoile du Nord; Norah Borges, Campesinas de Portugal (Peasant Women from Portugal); Alfonso Ponce de León, Arquitectura urbana (Urban Architecture).
+@listen: The man behind a key magazine of Spanish modernity, and how his politics left him writing it alone.
+@brief: A quick, wry portrait of a brilliant and troubling impresario; light, then a cooler turn.
+@pace: medium
+@energy: 3→2
+@sources: https://museoreinasofia.es/en/collections/room-20507 (OFF: Ernesto Giménez Caballero, Gecé, "entrepeneur or contractor in poetic affairs"; La Gaceta Literaria, vade mecum of the Generation of '27; later move toward fascism, isolation and quarrels with contributors; "literary Robinson", wrote the whole final run, last issue May 1932; Gabriel García Maroto designed logo and heading; Maruja Mallo and Francisco Mateos contributed; shop-bookshop La Galería designed by Fernando García Mercadal, tubular-metal furniture; Cineclub founded 1928 with Luis Buñuel; two short films in 1930; works list; next room on the website 205.09) ; https://www.museoreinasofia.es/coleccion/sala-20507 (OFF: Spanish text; the title phrase is not explained) ; PLAN note: Room 205.08 content unconfirmed, not described
+@lang: es
+@translation: from the fact-checked English Reina Sofía 020 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Se definía como empresario, o contratista, de asuntos poéticos. Era Ernesto Giménez Caballero, y todos lo conocían como Gecé.
+
+Su gran creación fue una revista, La Gaceta Literaria. Para los jóvenes escritores y artistas de la generación de 1927, era la guía de todo lo moderno. Gecé reunió a colaboradores de todo tipo. El pintor Gabriel García Maroto diseñó su cabecera. [pause] Maruja Mallo, cuya verbena acaba de ver, fue una de sus colaboradoras.
+
+También le encantaba la arquitectura moderna. Abrió una tienda y librería, La Galería, diseñada por el arquitecto Fernando García Mercadal, donde vendía muebles de tubo metálico. En 1928 fundó un cineclub con Luis Buñuel, y después dirigió él mismo dos cortos de vanguardia.
+
+[pause] Entonces la historia da un giro. Gecé se acercó al fascismo. Se peleó con muchos de quienes habían hecho su revista, y se quedó aislado. Al final escribía solo los últimos números, llamándose un Robinson literario. El último número salió en mayo de 1932.
+
+A su alrededor, el mundo moderno que celebraban sus páginas: las líneas limpias de un restaurante en el monte Ulía, de Aizpurúa y Labayen, y el cartel ferroviario de Cassandre, Étoile du Nord.
+
+[pause] Siga, pasando la sala 205.08, hasta la sala 205.09, «La Exposición Internacional de 1937: arquitectura, arte y propaganda», con la fuente de Calder y la maqueta del pabellón español.

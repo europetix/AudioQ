@@ -1,0 +1,28 @@
+@id: 035 · ES · Room 1 · 17 Oct 2026 edition
+@section: Floor 4 · From the Transition to Grief
+@room: Room 1
+@type: W
+@title: Sala 1 · Juan Genovés — Documento nº…, y la Transición española
+@where: Sala 1, la primera de las tres salas de introducción situadas entre los dos ascensores, en la fachada de la planta 4. Busque un lienzo mediano, de unos 1,4 metros de alto, con un solo hombre de manos atadas sobre un fondo blanco y vacío.
+@what: Juan Genovés, Documento nº… (Document No. …), 1975, acrylic on canvas, 140 x 125 cm. Also in the room: Concha Jerez, Seguimiento de una noticia (Following a Piece of News); Picasso etchings of 1931–34. Floor intro: the three routes, the Alacena rest area.
+@listen: How Floor 4 works, and a painting from 1975 that was meant to be read as evidence.
+@brief: Welcoming a friend to a new floor, then slowing down, quiet and serious, in front of one bound figure.
+@pace: medium
+@energy: 3→2→3
+@sources: https://www.museoreinasofia.es/en/collections/collection-contemporary-art-1975-present (OFF: fifty years of collection; Itinerary I affect, feminism, AIDS and heroin, grief; II sculpture; III institution, market, video, photography; Alhacena rest area) ; https://www.museoreinasofia.es/en/collections/alhacena-pantry (OFF: Jorge Penadés 2026, discarded wooden boards, about 29 m, "stop, converse") ; research/map/floor4_official_map.png (OFF: Rooms 1–3 introduction between the lifts, ALACENA behind them, Route I 4–10, II 11–14, III 15–21) ; research/CURRENT_COLLECTION_OCT2026.md (OFF press release: open from 18 Feb 2026, portable chairs) ; https://www.museoreinasofia.es/en/collections/artwork/documento-no-document-no (OFF: 1975, acrylic, 140 x 125, Room 1; series of hyperrealistic figures on white begun 1974; "visual document of condemnation"; summary trial, interrogation or execution; "alone with his hands bound", defenceless citizen v. state machinery; downcast gaze; like journalistic photographs) ; https://www.museoreinasofia.es/en/collections/room-1 (OFF: Structures of Affect of the Spanish Transition; Jerez crossed-out texts as censorship; destruction of Picasso etchings at the Theo gallery; museum founded upon the return of Guernica)
+@lang: es
+@translation: from the fact-checked English Reina Sofía 035 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cincuenta años de arte, de 1975 a hoy. Y empieza con un hombre solo, de pie, maniatado.
+
+Esta es la planta 4, la colección contemporánea del museo, presentada así desde febrero de 2026. Forma un recorrido circular alrededor del edificio. Las salas 1 a 3, aquí entre los dos ascensores, son la introducción. [pause] Luego, tres itinerarios rodean el edificio. El itinerario 1, salas 4 a 10, es una historia de los afectos: el feminismo, el deseo, los años del sida y la heroína, y el duelo. El itinerario 2, salas 11 a 14, en la parte trasera del edificio, es una galería de escultura. El itinerario 3, salas 15 a 21, que vuelve por el lado opuesto, trata del propio museo, el mercado, el video y la fotografía.
+
+Detrás de estas primeras salas está la Alhacena. Es una larga estructura de madera, de unos 29 metros, hecha con tablas desechadas por el diseñador Jorge Penadés, para detenerse, sentarse y conversar. También hay sillas portátiles por toda la planta.
+
+[pause] Ahora, el cuadro. Juan Genovés lo pintó en 1975, el año en que murió Franco. Pertenece a una serie de figuras hiperrealistas sobre fondo blanco. [quietly] El hombre está solo. Tiene las manos atadas y la mirada baja. Podría esperar un juicio sumarísimo, un interrogatorio, o algo peor. [pause] Representa al ciudadano indefenso ante la maquinaria del Estado.
+
+Genovés quería que estos cuadros funcionaran como fotos de prensa, como pruebas. Hasta el título, Documento número, con el número en blanco, suena a expediente.
+
+El resto de la sala muestra cómo respondieron los artistas al final de la dictadura y a los años siguientes. Concha Jerez tacha las propias noticias. Los grabados de Picasso recuerdan un episodio oscuro, cuando una serie de sus estampas fue destruida en una galería madrileña. La sala añade algo. [pause] Este museo se fundó sobre el regreso del Guernica a España.
+
+Justo al lado, la sala 2, «Contracultura material», guarda los tableros pintados que cubrieron la puerta de un bar madrileño llamado La Vaquería.

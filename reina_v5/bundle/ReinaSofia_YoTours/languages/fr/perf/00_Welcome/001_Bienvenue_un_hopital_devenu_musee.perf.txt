@@ -1,0 +1,30 @@
+@id: 001 · FR · Sabatini entrance · Floor 1 · 17 Oct 2026 edition
+@section: Opening
+@room: Sabatini entrance · Floor 1
+@type: ANCHOR
+@title: Bienvenue — un hôpital devenu musée
+@where: Écoutez cette piste juste après l'entrée Sabatini, calle Santa Isabel, au niveau 1, entre les deux tours d'ascenseurs vitrées qui encadrent la porte. Inutile de vous placer à un endroit précis.
+@what: The Sabatini Building: Madrid's eighteenth-century Hospital General, largely designed by Francesco Sabatini, opened as the Centro de Arte Reina Sofía in 1986 and established as the Museo Nacional Centro de Arte Reina Sofía in 1988. Route of this guide: Floor 1, Floor 2, Floor 4, Nouvel roof terrace.
+@listen: How an unfinished royal hospital escaped demolition and became Spain's national museum of modern art, and how this guide will walk you through it.
+@brief: Welcoming a friend at the door with the building's life story, then a clear, friendly briefing on how the visit works; warm, a little wry about the money running out, plain and practical at the end.
+@pace: medium
+@energy: 3→3→2→3
+@sources: https://www.museoreinasofia.es/en/museo/architectural-heritage/construction-hospital-general (OFF: Philip II idea 1566; Ferdinand VI 1748; Sabatini replaced Hermosilla; broad façade; seventh courtyard with cloister; hygiene measures "ahead of their time": cross ventilation, high ceilings, whitewashed walls; work stopped after Charles III died 1788 and money ran out; about a third built; hospital ran nearly two centuries) ; https://museoreinasofia.es/en/museo/architectural-heritage/hospital-museum (OFF: hospital until the 1960s, closed 1965–68; demolition proposals; critics opposed; Historic-Artistic Monument 1977; opened partially as Centro de Arte Reina Sofía 26 May 1986; Royal Decree 1988 museum; glass-and-steel lift towers by Vázquez de Castro and Íñiguez de Onzoño with Ian Ritchie, two framing the entrance; Guernica moved here 1992) ; https://www.museoreinasofia.es/en/collection (OFF: collection "being fully reconstructed and rehung in a process due to conclude in 2028", works moving to the upper floors of Sabatini) ; research/CURRENT_COLLECTION_OCT2026.md and source/plano_oct2026_feb2027.pdf (OFF: Floor 1 Serra + garden, Floor 2 collection + Guernica, Floor 3 Sabatini closed, Floor 4 Rooms 1–21, Nouvel Floor 3 terraces; lift towers left and right of the entrance connect Floors 1–4)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 001 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ce musée est né du vœu d'un roi : réunir tous les hôpitaux de Madrid sous un même toit. Au dix-huitième siècle, un grand hôpital général s'élève enfin ici.
+
+Retenez un nom : Francesco Sabatini, architecte né à Palerme. Il a donné à l'hôpital sa longue façade majestueuse. Il a aussi pensé à la santé : salles traversées par l'air, hauts plafonds, murs blanchis à la chaux. [pause] Le musée dit ces idées en avance sur leur temps.
+
+[wry] Puis l'argent manque. À la mort de Charles trois, vers la fin du siècle, le chantier s'arrête. Un tiers environ du projet seulement sera achevé. Il a pourtant servi d'hôpital près de deux siècles, jusqu'à sa fermeture il y a une soixantaine d'années.
+
+[quietly] La plupart des projets prévoyaient ensuite sa démolition. Les critiques ont résisté, et l'ancien hôpital a été classé monument historique. Il a ouvert comme centre d'art en 1986. Les deux tours d'ascenseurs de verre et d'acier entre lesquelles vous venez de passer ont été ajoutées pour encadrer cette entrée. [pause] Et en 1992, Guernica de Picasso s'est installé ici.
+
+[pause] Voici comment fonctionne ce guide. Chaque étape donne le numéro et le titre de la salle, tels que le musée les nomme. Vous saurez toujours où vous êtes. Vous commencez ici, au niveau 1, avec la sculpture d'acier de Richard Serra, salle 102. Puis le niveau 2, pour les avant-gardes du début du vingtième siècle et Guernica. [pause] Le niveau 3 est fermé pour l'instant : vous le sautez. Le niveau 4 présente l'art de 1975 à nos jours, dans les salles 1 à 21. Vous finirez sur la terrasse du bâtiment Nouvel.
+
+Certaines étapes, marquées Extra, sont courtes et facultatives. Sautez-les à votre guise.
+
+Une précision avant de commencer. Le musée réaccroche toute sa collection, un processus qui doit s'achever en 2028.
+
+D'abord, restez au niveau 1. Le jardin au centre du bâtiment, accessible par le cloître, a un court Extra. Prochaine étape principale : la salle 102, avec la sculpture d'acier de Richard Serra. Si vous ne voyez pas de panneau, demandez à l'accueil.

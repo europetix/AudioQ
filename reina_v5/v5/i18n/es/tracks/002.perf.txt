@@ -1,0 +1,22 @@
+@id: 002 · ES · Sabatini Garden · Floor 1 · 17 Oct 2026 edition
+@section: Floor 1 · Serra and the Garden
+@room: Sabatini Garden · Floor 1
+@type: X
+@title: Jardín · Extra · El Gran profeta de Gargallo y Chillida
+@where: En el jardín del centro del edificio Sabatini, al que se llega desde el claustro de la planta 1. Busque una alta figura de bronce oscuro, de bastante más de dos metros, si está expuesta aquí, y dos cruces de acero color óxido que se curvan una hacia la otra, de unos tres metros de largo.
+@what: Pablo Gargallo, Grand prophète (Great Prophet), 1933, cast 1936, sand-cast bronze, 236 × 75 × 45 cm. Eduardo Chillida, Toki egin, Homenaje a San Juan de la Cruz (Toki egin, Homage to San Juan de la Cruz), 1989–1990, cast Corten steel, 142 × 295 × 213 cm, Exhibited in Sabatini Building, Garden.
+@listen: The one courtyard of Sabatini's hospital that was actually built, a prophet made of air as much as bronze, and two steel crosses that embrace.
+@brief: A short, easy detour outdoors with a friend; curious, unhurried, quiet at the Chillida.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museoreinasofia.es/en/museo/architectural-heritage/construction-hospital-general (OFF: seventh, larger courtyard with cloister, two fountains and trees like the Royal Botanical Garden; built and now hosts the museum) ; https://museoreinasofia.es/en/collections/artwork/grand-prophete-great-prophet (OFF: 1933, production 1936, sand-cast bronze, 236 × 75 × 45 cm; plaster intended for bronze, cast posthumously for lack of money; too large and thick for sheet or forged metal; Pierre Cabanne: space, volume and emptiness completed by the eye; "Exhibited", no room) ; https://recursos.museoreinasofia.es/descargas/Documento/np_gran_profeta_de_gargallo_en_el_jardin.pdf (OFF: installed in the Sabatini Garden from 25 June 2025) ; https://www.museoreinasofia.es/en/collections/artwork/toki-egin-homenaje-san-juan-de-la-cruz-toki-egin-homage-san-juan-de-la-cruz (OFF: Exhibited in Sabatini Building, Garden; 1989–1990; Corten; "make way"; two Latin crosses joined in a curve, embracing, defying gravity; Spiritual Canticle; space as protagonist) ; https://museoreinasofia.es/en/visit/garden-rooftop-terraces (OFF: garden in the middle of the building, sculptures among the plants)
+@lang: es
+@translation: from the fact-checked English Reina Sofía 002 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Sabatini proyectó este patio para un hospital. Imaginó aquí dos fuentes, y árboles como los del Real Jardín Botánico de Madrid. Era el mayor patio del proyecto, y de lo poco que llegó a construirse.
+
+Hoy es un jardín, con esculturas entre las plantas. Busque una alta figura de bronce, de bastante más de dos metros. Es el Gran profeta de Pablo Gargallo, traído a este jardín en 2025. Si no lo ve, quizá hoy esté expuesto en otro lugar. [pause] Lo modeló en yeso en 1933, pensando en el bronce. Faltaba dinero, y el bronce se fundió tras su muerte. La figura es demasiado grande y gruesa para la chapa que solía usar. Aun así, la luz la atraviesa. El crítico Pierre Cabanne vio en ella un estudio del volumen y el vacío, que su propia mirada completa.
+
+[quietly] Ahora busque dos cruces de acero color óxido, curvadas una hacia la otra. Es Toki egin, de Eduardo Chillida, homenaje al místico español San Juan de la Cruz. Toki egin significa en euskera «hacer sitio». [pause] Las cruces se abrazan y parecen desafiar la gravedad, como la unión del alma con Dios en la poesía del santo. Chillida quería que el protagonista fuera el propio espacio, no solo el acero.
+
+[pause] De nuevo dentro, en la planta 1, la sala 102 alberga la escultura de acero de Richard Serra.

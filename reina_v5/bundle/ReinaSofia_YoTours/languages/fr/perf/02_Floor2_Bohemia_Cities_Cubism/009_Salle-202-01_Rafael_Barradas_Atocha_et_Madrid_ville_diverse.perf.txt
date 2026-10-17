@@ -1,0 +1,28 @@
+@id: 009 · FR · Room 202.01 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 202.01
+@type: W
+@title: Salle 202.01 · Rafael Barradas — Atocha, et Madrid, ville diverse
+@where: Salle 202.01, « Madrid, ville diverse ». Trouvez Atocha de Barradas, une petite toile d'un peu plus d'un demi-mètre de large : une scène de rue animée, éclatée en formes fragmentées qui se chevauchent. La grande Communiante de María Blanchard, haute de près de deux mètres, est dans la même salle.
+@what: Rafael Barradas, Atocha, 1919, oil on canvas, 53 × 66 cm. Also: María Blanchard, La comulgante (Girl at Her First Communion), 1914, oil on canvas, 180 × 124 cm.
+@listen: How a painter from Uruguay decided a modern city should vibrate, and how planners set out to rebuild the crowded cities of Europe.
+@brief: Showing a friend a small, buzzing picture; curious and energetic, then clear and explanatory about the city, light at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://museoreinasofia.es/en/collections/artwork/atocha (OFF: 1919, oil, 53 × 66 cm, Exhibited in Room 202.01; born in Uruguay; Futurism first-hand in Italy; Barcelona 1914, Madrid 1915; Vibrationism from Cubism and Futurism, dynamism of modern life; bustle of a busy Madrid district; one of the clearest examples; compared to French Orphism with more explicit references to reality) ; https://museoreinasofia.es/en/collections/room-20201 (OFF: room title; crowded, outdated cities grown from a core; Cerdá, Arturo Soria, Ebenezer Howard, Tony Garnier; transport, zoning, leisure, culture and sport; iron and glass; works list incl. Blanchard La comulgante) ; https://museoreinasofia.es/en/collections/artwork/la-comulgante-girl-her-first-communion (OFF: 1914, 180 × 124 cm, Exhibited in Room 202.01)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 009 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] À quoi ressemble une ville moderne en peinture ? Pour Rafael Barradas, elle devait vibrer.
+
+Il est né en Uruguay. En Italie, il découvre de près le futurisme, le mouvement amoureux de la vitesse et des machines. Puis il arrive en Espagne, à Barcelone en 1914, et à Madrid l'année suivante. [pause] Ici, il contribue à lancer son propre style, qu'il baptise vibrationnisme. Né du cubisme et du futurisme, il veut saisir l'élan de la vie moderne.
+
+[pause] Trouvez cette petite toile, d'un peu plus d'un demi-mètre de large. Son titre, Atocha, est le nom d'un quartier de Madrid. Elle montre l'agitation d'un coin animé de la ville au début du vingtième siècle. Le musée y voit l'un des exemples les plus clairs du vibrationnisme. Elle frôle l'orphisme français, mais Barradas garde davantage la vraie rue en vue. [pause] Laissez votre œil sauter d'un fragment à l'autre, et voyez ce que vous reconnaissez.
+
+Le reste de la salle pose une question plus vaste. À la fin du dix-neuvième siècle, les grandes villes du continent étaient surpeuplées et dépassées, étendues autour de leurs vieux centres. Penseurs et architectes, comme Ildefonso Cerdá, Arturo Soria et Ebenezer Howard, cherchaient de nouveaux modèles. [pause] Ils prévoyaient de nouveaux transports, des zones séparées pour le travail et l'habitat, et de l'espace pour le sport et la culture. Le fer et le verre sont devenus les matériaux d'une architecture nouvelle.
+
+[lightly] Avant de partir, cherchez une toile bien plus grande, haute de près de deux mètres. C'est La Communiante de María Blanchard, de 1914. Vous retrouverez Blanchard dans les salles cubistes.
+
+Le Madrid de Barradas ne tient pas en place. En 1919, la ville non plus.
+
+Ensuite, salle 202.02, « Barcelone, ville neutre ». Cherchez Dubonnet de Sonia Delaunay, un tableau coloré qui ressemble à une affiche.

@@ -1,0 +1,30 @@
+@id: 010 · ES · Room 202.02 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 202.02
+@type: W
+@title: Sala 202.02 · Sonia Delaunay — Dubonnet, y Barcelona, ciudad neutral
+@where: Sala 202.02, «Barcelona, ciudad neutral». Busque Dubonnet, de Sonia Delaunay, un lienzo de unos tres cuartos de metro de ancho que parece un cartel, hecho de colores intensos y letras grandes, con una línea de letras pequeñas en la parte inferior. En la misma sala está el retrato de Arthur Cravan con un gato, de Olga Sacharoff.
+@what: Sonia Delaunay, Dubonnet, 1914, water-based paint on canvas, 61 × 76 cm. Also: Olga Sacharoff, Joven del gato (retrato de Arthur Cravan) (Youth of the Cat [Portrait of Arthur Cravan]), c. 1916, oil and collage on canvas, 111 × 94 cm.
+@listen: A "poster" that nobody commissioned, and the circle of avant-garde artists who sat out the First World War in Barcelona.
+@brief: Letting a friend in on a small deception; amused at the start, clear on Simultanism, warmer on the exiles in Barcelona.
+@pace: medium
+@energy: 3→3→2→3
+@sources: https://museoreinasofia.es/en/collections/artwork/dubonnet (OFF: 1914, water-based paint on canvas, 61 × 76 cm, Exhibited in Room 202.02; Simultanism with Robert Delaunay, towards abstraction around 1912; Contrastes simultanés, coloured discs suggesting rhythm and movement; later textiles, clothing, ceramics; advertising convention of naming the product, a well-known liqueur; not commissioned by the company, not for publicity; abstract study of letterforms and surrounding colours; "ATELIER SIMULTANE SONIA DELAUNAY" possibly added 1924 after founding Atelier Simultané) ; https://museoreinasofia.es/en/collections/artwork/joven-del-gato-retrato-de-arthur-cravan-youth-cat-portrait-arthur-cravan (OFF: c. 1916, Exhibited in Room 202.02; Cravan poet and boxer, brother of Otho Lloyd, her husband; left France for Spain when the war began; 1916 settled in Barcelona at Francis Picabia's home; "a community of exiled avant-garde artists" incl. Robert and Sonia Delaunay, Gleizes, Picabia; Modigliani influence, elongated forms, pupil-less eyes) ; https://museoreinasofia.es/en/collections/room-20202 (OFF: room title and works list; the room text on the site is about New York, a site error, so not used) ; Spain's neutrality in the First World War: general knowledge, implied by the room title
+@lang: es
+@translation: from the fact-checked English Reina Sofía 010 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Esto parece el anuncio de una bebida. Pero el fabricante nunca lo encargó, y no se pensó para vender nada.
+
+Dubonnet era un licor muy conocido, y Sonia Delaunay pintó su nombre en 1914. Tomó un recurso de la publicidad, donde un cartel a menudo apenas dice del producto más que su nombre. Su verdadero tema eran las letras, y cómo conviven con los colores que las rodean.
+
+Ella y su marido, Robert Delaunay, habían creado lo que llamaron simultaneísmo, una variante del cubismo que avanzaba hacia la abstracción. [pause] Pintó discos de color que juegan entre sí en el ojo, y la superficie parece moverse con ritmo. Más tarde llevó esas ideas a tejidos, ropa y cerámica.
+
+[pause] Mire la parte inferior. Las palabras Atelier Simultané Sonia Delaunay quizá se añadieron diez años después, cuando fundó su propio taller para estampar tejidos. Un cuadro que fingía ser un anuncio acabó anunciando a su autora.
+
+Ahora, el título de la sala: Barcelona, ciudad neutral. España no entró en la Primera Guerra Mundial, y Barcelona se volvió un refugio. Al estallar la guerra, la pintora Olga Sacharoff y su marido dejaron Francia por España. En 1916 se instalaron en Barcelona, en casa de Francis Picabia. [pause] A su alrededor creció lo que el museo llama una comunidad de artistas de vanguardia exiliados. Entre ellos, Robert y Sonia Delaunay, y Albert Gleizes.
+
+[curious] Busque el retrato de Arthur Cravan, poeta, boxeador y cuñado de la pintora. Fíjese en las formas largas y estiradas, y en los ojos sin pupilas. Vienen de su amigo Modigliani.
+
+La guerra empujó a estos pintores al sur. Durante unos años, la vanguardia tuvo dirección en Barcelona.
+
+A continuación, la sala 202.03, «Galeries Dalmau». Busque la masía con palmera de Joan Miró.

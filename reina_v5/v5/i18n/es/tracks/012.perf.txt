@@ -1,0 +1,28 @@
+@id: 012 · ES · Room 204.01 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 204.01
+@type: W
+@title: Sala 204.01 · Picasso — Cabeza de mujer (Fernande), y el cubismo
+@where: Sala 204.01, «El cubismo, primer lenguaje internacional». Busque la cabeza de bronce de Picasso, de unos cuarenta centímetros de alto, con rostro, pelo y cuello hechos de formas abultadas que encajan entre sí. En la misma sala hay un cuadro con el mismo título: una cabeza rota en planos afilados, en marrones, verdes y grises.
+@what: Pablo Picasso, Tête de femme (Fernande) (Woman's Head [Fernande]), autumn 1909, patinated bronze, lost-wax cast, 41.3 × 24.7 × 26.6 cm. Also: Pablo Picasso, Tête de femme (Fernande), Paris, 1909–1910, oil on canvas, 61 × 50 cm. Room 204.01 also includes works lent by the Telefónica Collection.
+@listen: How a bronze head travelled from Paris to New York and signalled the birth of Cubist sculpture, and how Cubism was mocked before it conquered.
+@brief: Walking a friend round a small, dense sculpture; curious about its journey, close and physical on the bronze, wry about the critics.
+@pace: medium
+@energy: 3→3→2→3
+@sources: https://museoreinasofia.es/en/collections/artwork/tete-de-femme-fernande-womans-head-fernande-0 (OFF: autumn 1909, lost-wax, patinated bronze, 41.3 × 24.7 × 26.6 cm, Exhibited in Room 204.01; ethnographic objects incl. Nimba masks; concave forms turned convex; face, hair, neck as interlocking convex forms, twisting neck; "signalled the birth of Cubist sculpture"; 1912 Vollard sold a bronze edition to Alfred Stieglitz, photographs in Camera Work that August, shown in the 1913 Armory Show) ; https://www.museoreinasofia.es/en/collections/artwork/tete-de-femme-fernande-womans-head-fernande (OFF: 1909–1910, Paris, oil, 61 × 50 cm, Exhibited in Room 204.01; face in sharp geometric zones forming a grid; browns, greens, greys, blacks, Analytical Cubism; Avgikos: a Cubist image must be "thought" as much as "seen"; from 1909 Fernande inspired a series of Cubist portraits incl. sculptures) ; https://museoreinasofia.es/en/collections/room-20401 (OFF: room title; Telefónica Collection loan; French press called Cubism "cold, geometric, intellectual, monotonous and… foreign"; Apollinaire; little magazines incl. Camera Work; both Fernande works listed)
+@lang: es
+@translation: from the fact-checked English Reina Sofía 012 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1912, el marchante parisino Ambroise Vollard vendió un vaciado de esta cabeza de bronce a un comprador de Nueva York, el fotógrafo Alfred Stieglitz. Stieglitz publicó fotografías de ella en la revista Camera Work. [pause] Al año siguiente la llevó al Armory Show, la exposición que trajo el arte moderno a Estados Unidos.
+
+Picasso modeló la cabeza en el otoño de 1909. La modelo era Fernande, que inspiró toda una serie de sus retratos cubistas, en pintura y en escultura. Había estudiado objetos africanos, entre ellos máscaras nimba, y halló una nueva forma de construir un volumen.
+
+[pause] Rodéela despacio, si puede. Rostro, pelo y cuello son formas abultadas que encajan entre sí. Donde esperaría un hueco, a menudo empuja la forma hacia fuera. Mire el cuello mientras se mueve. Parece girar. El museo dice que esta cabeza anunció el nacimiento de la escultura cubista.
+
+Ahora busque un cuadro con el mismo título, Cabeza de mujer, Fernande. Aquí el rostro se corta en zonas geométricas afiladas, casi como una cuadrícula, en marrones, verdes, grises y negros. Esa paleta reducida es típica del cubismo analítico. Mantiene la mirada en la estructura, no en el color. [pause] En palabras de una crítica de arte, un cuadro cubista hay que pensarlo tanto como verlo.
+
+[wry] No todos estaban convencidos. La prensa francesa llamó al cubismo frío, geométrico, intelectual, monótono y extranjero. Escritores como Guillaume Apollinaire lo defendieron, y pequeñas revistas baratas lo llevaron a otros países. Camera Work era una de ellas. Algunas obras de estas salas cubistas son préstamos de la Colección Telefónica.
+
+Así, el estilo que París tachaba de extranjero salió al mundo igualmente. Parte de él viajó en esta cabeza de bronce.
+
+Siga a la sala 204.02, también titulada «El cubismo, primer lenguaje internacional»: Juan Gris retrata a su compañera, Josette.

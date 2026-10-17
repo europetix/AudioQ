@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built)
 
 Paste this into the new session to start:
 
@@ -19,6 +19,8 @@ Paste this into the new session to start:
 | `tour43_pitti_v5/` | Palazzo Pitti + Boboli, V5.1: 61 tracks, EN + ES/FR/DE. Handshake: `TOUR43_V5_HANDSHAKE.md` |
 | `orangerie_v5/` | Musée de l'Orangerie, V5: 55 tracks, EN + ES/FR/DE. Handshake: `ORANGERIE_V5_HANDSHAKE.md` |
 | `orsay_v5/` | Musée d'Orsay, V5: 75 tracks, EN only so far. Handshake: `ORSAY_V5_HANDSHAKE.md` |
+| `prado_v5/` | Museo del Prado, V5: 81 tracks, EN + ES/FR/DE. Handshake: `PRADO_V5_HANDSHAKE.md` |
+| `reina_v5/` | Museo Reina Sofía, V5: 57 tracks (43 main + 14 Extras), EN + ES/FR/DE. Handshake: `REINA_V5_HANDSHAKE.md` |
 | `deliverables/` | Everything sent to the user: zips, route PDFs, scripts (.md), snapshots, image kit |
 
 The same structure is used inside each guide folder:
@@ -121,6 +123,8 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 - **Prado (10 Oct):** ~2.5 h main route (59 stops) + 22 short optional Extras in the rooms the route walks through, numbered
   001–081 in walking order; route follows the museum's 2026 floor plan; route map = 7-page phone PDF (overview + one page per
   part, Extras as hollow circles). The user approved the map design after a redesign ("map looks good").
+- **Reina Sofía (17 Oct):** built "like the Prado": ~2 h main route + short Extras, 4 languages, Yo Tours sound and labels,
+  phone route map. The museum's Floor 2 room plan is an image; it was read in the user's Chrome (one page).
 - **Never complete CAPTCHAs / "verify you are human"** — the user clicks them. Never burst requests to a museum site (the Prado
   firewall blocked the user's browser once); one page at a time.
 
@@ -156,7 +160,10 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 
 | Prado V5 | 81 tracks (59 main + 22 Extras), 23,729 words | done + independent review per language | 7-page phone PDF on the 2026 floor plan | stand-in: samples EN + ES | on-site checklist (stairs/lifts, a few doorways); Goya 32–38 rehang; Correggio back after 10 Jan 2027 |
 
+| Reina Sofía V5 | 57 tracks (43 main + 14 Extras), 15,971 words; built 17 Oct from scratch (old guide 22/49 works still shown) | done + independent review per language | 5-page phone PDF (overview, Floor 1 + terrace, Floor 2 ×2, Floor 4) | stand-in: EN + ES samples, DE main stops | on-site checklist (doorway numbers, Room 102 wing, Gargallo, 205.08, way to the lifts from 206.03, Nouvel terrace); listening checks |
+
 Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
+Reina Sofía detail: see `reina_v5/REINA_V5_HANDSHAKE.md`.
 Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
 - **Official plan:** `orsay_v5/source/Planguide_Orsay_ete_2026.pdf`, read out in `orsay_v5/findings/M_planguide_ete_2026.md`.
 - **Numbering:** history in `orsay_v5/v5/notes/RENUMBER_75.md`. `v5/PLAN.md` still has the OLD numbering, so use the tracks or

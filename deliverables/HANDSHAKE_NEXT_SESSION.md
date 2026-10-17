@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 5 Oct, second session: Orsay ES/FR/DE done)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built)
 
 Paste this into the new session to start:
 
@@ -19,6 +19,8 @@ Paste this into the new session to start:
 | `tour43_pitti_v5/` | Palazzo Pitti + Boboli, V5.1: 61 tracks, EN + ES/FR/DE. Handshake: `TOUR43_V5_HANDSHAKE.md` |
 | `orangerie_v5/` | Musée de l'Orangerie, V5: 55 tracks, EN + ES/FR/DE. Handshake: `ORANGERIE_V5_HANDSHAKE.md` |
 | `orsay_v5/` | Musée d'Orsay, V5: 75 tracks, EN only so far. Handshake: `ORSAY_V5_HANDSHAKE.md` |
+| `prado_v5/` | Museo del Prado, V5: 81 tracks, EN + ES/FR/DE. Handshake: `PRADO_V5_HANDSHAKE.md` |
+| `reina_v5/` | Museo Reina Sofía, V5: 57 tracks (43 main + 14 Extras), EN + ES/FR/DE. Handshake: `REINA_V5_HANDSHAKE.md` |
 | `deliverables/` | Everything sent to the user: zips, route PDFs, scripts (.md), snapshots, image kit |
 
 The same structure is used inside each guide folder:
@@ -57,6 +59,7 @@ which ffmpeg pdftotext                    # needed for the checks below
 bash tour43_pitti_v5/build/build_all.sh
 bash orangerie_v5/build/build_all.sh
 bash orsay_v5/build/build_all.sh
+bash prado_v5/build/build_all.sh          # needs playwright + Chromium (preinstalled) for the route map
 
 # validate all tracks (each line: track, word count)
 for g in tour43_pitti_v5 orangerie_v5 orsay_v5; do python3 -c "
@@ -105,7 +108,7 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
     `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>` and `Claude-Session: <the session URL>`.
   - No model names anywhere else in commits.
 - **Writing standard:**
-  - Lengths: R 180–280 words; W, ANCHOR and CLOSE 250–360.
+  - Lengths: R 180–280 words; W, ANCHOR and CLOSE 250–360; Extra (X, Prado) 150–230.
   - No `;` or `(` in speech, and at most 2 em-dashes.
   - No opening hours, prices or tickets. Never say "next track".
   - "The museum says" at most once per track.
@@ -117,6 +120,14 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 
 ## 4. Decisions the user has made (don't re-ask)
 
+- **Prado (10 Oct):** ~2.5 h main route (59 stops) + 22 short optional Extras in the rooms the route walks through, numbered
+  001–081 in walking order; route follows the museum's 2026 floor plan; route map = 7-page phone PDF (overview + one page per
+  part, Extras as hollow circles). The user approved the map design after a redesign ("map looks good").
+- **Reina Sofía (17 Oct):** built "like the Prado": ~2 h main route + short Extras, 4 languages, Yo Tours sound and labels,
+  phone route map. The museum's Floor 2 room plan is an image; it was read in the user's Chrome (one page).
+- **Never complete CAPTCHAs / "verify you are human"** — the user clicks them. Never burst requests to a museum site (the Prado
+  firewall blocked the user's browser once); one page at a time.
+
 - **Voices:**
   - English: **Ava** (`en-US-AvaMultilingualNeural`), launcher option 1 and the default.
   - Spanish: **Dalia** (`es-MX-DaliaNeural`). French: **Vivienne** (`fr-FR-VivienneMultilingualNeural`). German: **Katja**
@@ -124,7 +135,7 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 - **Bitrate:** **64 kbps**, for every guide and every language.
 - **Brand:** **Yo Tours** (artist/album artist in the MP3 labels, on the cover). 7 Oct.
 - **Sound (Orsay, 7 Oct):** version D of the A/B test is the standard: voice finishing + room tone + soft chime before each
-  track. Port to Pitti and Orangerie only when the user asks.
+  track. Ported to Pitti (7 Oct), Prado (10 Oct) and Orangerie (17 Oct) at the user's request.
 - **Translations:** rewritten for listening, not word for word. Formal address (usted / vous / Sie). Facts unchanged. Each language
   gets an independent native-level review, then `assemble.py` checks.
 - **Launcher safeguards:** stop if old and new versions are mixed; one render per output folder (lock file).
@@ -144,9 +155,15 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 | Guide | EN | ES/FR/DE | Route map | Tested | Open |
 |---|---|---|---|---|---|
 | Pitti V5.1 | 61 tracks, ~142 min | done; reviewed by assemble.py checks only (no second native review yet) | pictorial, one page | stand-in only; the user has rendered EN at least once (first run mixed old files; re-render with the current zip) | the user may want the same second review as the Orangerie; native-speaker check |
-| Orangerie V5 | 55 tracks, ~128 min | done + independent review per language | pictorial, exit by the entrance | stand-in only; the user was rendering all 4 languages at session end | level −2 room order and exit door on site; native-speaker check |
+| Orangerie V5 | 55 tracks, ~128 min; Yo Tours sound + labels + cover since 17 Oct | done + independent review per language | pictorial, exit by the entrance | stand-in only (17 Oct: EN + FR samples); renders go to ~/Desktop/Orangerie_YoTours_* | level −2 room order and exit door on site; native-speaker check |
 | Orsay V5 | 75 tracks, 20,312 words, ~2 h 42 | done 5 Oct (session 2) + independent review per language; FR quotes are verified originals or reported speech | A3 schematic floor plans (2026 rooms) | stand-in: 75 files in each of EN/ES/FR/DE | on-site checklist; 3 quotes kept as reported speech until checked against the live museum pages; native-speaker check; 048 @what title; Oviri on display? |
 
+| Prado V5 | 81 tracks (59 main + 22 Extras), 23,729 words | done + independent review per language | 7-page phone PDF on the 2026 floor plan | stand-in: samples EN + ES | on-site checklist (stairs/lifts, a few doorways); Goya 32–38 rehang; Correggio back after 10 Jan 2027 |
+
+| Reina Sofía V5 | 57 tracks (43 main + 14 Extras), 15,971 words; built 17 Oct from scratch (old guide 22/49 works still shown) | done + independent review per language | 5-page phone PDF (overview, Floor 1 + terrace, Floor 2 ×2, Floor 4) | stand-in: EN + ES samples, DE main stops | on-site checklist (doorway numbers, Room 102 wing, Gargallo, 205.08, way to the lifts from 206.03, Nouvel terrace); listening checks |
+
+Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
+Reina Sofía detail: see `reina_v5/REINA_V5_HANDSHAKE.md`.
 Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
 - **Official plan:** `orsay_v5/source/Planguide_Orsay_ete_2026.pdf`, read out in `orsay_v5/findings/M_planguide_ete_2026.md`.
 - **Numbering:** history in `orsay_v5/v5/notes/RENUMBER_75.md`. `v5/PLAN.md` still has the OLD numbering, so use the tracks or
@@ -177,7 +194,11 @@ Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
    STATE 4. Next: real-voice render by the user, on-site check (ONSITE_CHECKLIST), confirm the Iliad reopens after 25 Oct.
    Tip for research: uffizi.it is blocked from the cloud shell but readable through Claude in Chrome; artwork pages carry a
    "Location" field.
-5. **After on-site tests:** apply the checklist results to `@room`, `@where` and the closing cues → rebuild → resend.
+5. **Prado: REBUILT 10 Oct** after complaints (wrong rooms, zig-zag, "Museo Reina Sofía" headers). Every room read on the
+   work's own museodelprado.es page (WebFetch works for artwork pages; search pages and the PDF CDN are Cloudflare-blocked);
+   route on the official 2026 plan (`prado_v5/research/map/`); 22 Extras; ES/FR/DE reviewed. See `prado_v5/PRADO_V5_HANDSHAKE.md`.
+   Next: the user's real-voice samples (049 + 071), full renders, on-site check (`v5/ONSITE_CHECKLIST.txt`).
+6. **After on-site tests:** apply the checklist results to `@room`, `@where` and the closing cues → rebuild → resend.
 
 ## 7. Commands the user runs on the Mac (for reference when helping them)
 

@@ -1,0 +1,30 @@
+@id: 051 · ES · Room 17 · 17 Oct 2026 edition
+@section: Floor 4 · Sculpture, Institutions and Images
+@room: Room 17
+@type: W
+@title: Sala 17 · Una pintura más pintada — el regreso de la pintura española
+@where: En la sala 17, «Una pintura más pintada», la sala alargada del lado exterior de esta ala. Busque el ancho cuadro en tres paneles, de casi dos metros de alto y casi cuatro de ancho: una multitud de figuras posando en un patio imaginario que se abre a un jardín laberíntico.
+@what: Guillermo Pérez Villalta, Grupo de personas en un atrio o alegoría del arte y la vida o del presente y el futuro (Group of People in an Atrium or Allegory of Art and Life or of the Present and the Future), 1975–1976, acrylic on canvas, triptych, 193 × 373 cm. Also: Manolo Quejido, Silla y máquina de escribir (Máquina sentada en silla) (Chair and Typewriter [Machine Sat on a Chair]), 1978–1979, wooden chair and typewriter.
+@listen: How painting came back to Spain in the late seventies and eighties, told through one crowded group portrait.
+@brief: Sharing a painting full of in-jokes with a friend; lively and amused, then a little sceptical, ending on a smile.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museoreinasofia.es/en/collections/room-17 (OFF: room title; "Una pintura más pintada" phrase by Juan Manuel Bonet; Transavantgarde reclaimed the autonomy of art, "the object of painting is nothing more than painting itself"; genius loci, Atlántica group in Galicia; commercial success; Spain's adhesion to the EEC in 1986; rejection of conceptualism and political art; institutional abandonment in later decades; "impure, nondoctrinaire postures"; works listed incl. Pérez Villalta, Quejido, Campano, Uslé, García Alcolea, Albacete) ; https://www.museoreinasofia.es/en/collections/artwork/grupo-de-personas-en-un-atrio-o-alegoria-del-arte-y-la-vida-o-del-presente-y-el (OFF: 1975–1976; acrylic on canvas; triptych 193 × 373 cm; Exhibited in Room 17; "artificer"; architectural training; made for his first exhibition at the Vandrés Gallery; generational portrait of artists, critics and gallery owners; "manifesto painting" of the New Madrid Figuration; imaginary postmodern architecture with echoes of Mannerism; labyrinthine garden inspired by Andalusian gardens; poses and symbols like Raphael's School of Athens and Max Ernst's Au rendez-vous des amis; text by María Teresa López Flores) ; https://www.museoreinasofia.es/en/collections/artwork/silla-y-maquina-de-escribir-maquina-sentada-en-silla-chair-and-typewriter (OFF: 1978–1979; wood chair and typewriter; Exhibited in Room 17; donation of the artist)
+@lang: es
+@translation: from the fact-checked English Reina Sofía 051 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Este cuadro funciona como una foto de grupo escolar. Toda una escena artística madrileña, posando en un gran edificio imaginario.
+
+Guillermo Pérez Villalta lo pintó a mediados de los setenta, para su primera exposición en la galería Vandrés. Es un retrato de su generación: los artistas, críticos y galeristas de su entorno. [pause] El museo lo llama un cuadro manifiesto de la llamada Nueva Figuración Madrileña.
+
+Fíjese en su construcción. Pérez Villalta se formó en arquitectura, y se nota. Las figuras están en un patio inventado con ecos del manierismo del siglo dieciséis. Detrás se abre un jardín laberíntico, de inspiración andaluza. [pause] Cada persona tiene su lugar, y una pose o un símbolo, como los pensadores en La escuela de Atenas de Rafael. Le gustaba llamarse artífice, hacedor de imágenes.
+
+El título de la sala viene de una frase del crítico Juan Manuel Bonet: «una pintura más pintada». Tras años de arte conceptual, una nueva corriente sostuvo que el tema de la pintura es solo la pintura misma. [pause] En España encajó con el ánimo de los ochenta. El país entró en el Mercado Común, y esta pintura triunfaba en el mercado internacional.
+
+[wry] Los comisarios son francos sobre lo que vino después. Los defensores del movimiento rechazaron el arte conceptual y político, y sus críticos afines pronto brillaron en los medios. En décadas posteriores, las instituciones le dieron en gran parte la espalda.
+
+Con perspectiva, las fronteras parecen menos estrictas. Busque aquí la obra de Manolo Quejido. No es un cuadro. Es una silla de madera real, con una máquina de escribir real encima.
+
+[lightly] Una máquina sentada en una silla, en una sala sobre la pintura. Ni siquiera aquí las reglas fueron tan puras como sonaban.
+
+A continuación, la sala 18: la fotografía en los años ochenta. Busque las pequeñas fotos coloreadas a mano de Ouka Leele y las imágenes en blanco y negro de una España oculta, de Cristina García Rodero.

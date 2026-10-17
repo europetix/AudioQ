@@ -1,0 +1,26 @@
+@id: 004 · FR · Room 201.01 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 201.01
+@type: R
+@title: Salle 201.01 · Sainte Bohème — Des taudis à la Gran Vía
+@where: Salle 201.01, au niveau 2, la première salle de la collection, intitulée « Sainte Bohème. Des taudis à la Gran Vía ». Cherchez une photographie en noir et blanc du roi Alphonse treize inaugurant le métro de Madrid, et les petites eaux-fortes sombres de Ricardo Baroja sur les marges de la ville.
+@what: Room 201.01, 'Holy Bohemia. From Slum to Gran Vía'. Alfonso Sánchez García, Alfonso XIII inaugura el primer tramo del metropolitano de Madrid (Alfonso XIII Opens the First Section of the Madrid Underground System), 17 October 1919, posthumous print 1984, gelatin silver print. Ricardo Baroja, El suburbio (The Suburb), 1909, etching and aquatint. Floor 2 presentation: 'Avant-garde Territories: City, Architecture and Magazines'.
+@listen: How Madrid's painters moved from the slums and taverns of a country in crisis to the concrete towers and metro of a modern city.
+@brief: Opening the second floor for a friend; lively at the hook, clear on the floor's idea, a touch sombre on the slums, brighter on the new city.
+@pace: medium
+@energy: 3→2→3
+@sources: https://museoreinasofia.es/en/collections/room-20101 (OFF: room title; Generation of '98, Unamuno, Pío Baroja, Valle-Inclán; crisis worsened by loss of last colonies in 1898; slums, taverns, beggars, marginalised people as "involuntary protagonists"; 1920s modern Madrid, reform of old centre; reinforced concrete, Edificio Telefónica, Edificio Carrión; Zarzuela Racecourse, Frontón Recoletos; works list) ; https://museoreinasofia.es/en/collections/artwork/alfonso-xiii-inaugura-el-primer-tramo-del-metropolitano-de-madrid-alfonso-xiii (OFF: 17 Oct 1919, posthumous print 1984, Exhibited in Room 201.01) ; https://museoreinasofia.es/en/collections/artwork/el-suburbio-suburb (OFF: 1909, etching and aquatint, image 26.5 × 30 cm, Exhibited in Room 201.01) ; https://museoreinasofia.es/en/collections/avant-garde-territories (OFF: Floor 2, city, architecture and magazines; Paris, Madrid, Barcelona) ; press release 16 Feb 2026 via research/CURRENT_COLLECTION_OCT2026.md (OFF: Floor 2 rehung in 2028)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 004 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Le 17 octobre 1919, le roi Alphonse treize inaugure le premier tronçon du métro de Madrid. Le photographe Alfonso Sánchez García l'immortalise. Sa photo est dans cette salle.
+
+Bienvenue au niveau 2. Le musée l'appelle Territoires de l'avant-garde. Il raconte l'art moderne par trois biais : les villes, l'architecture et les revues. [pause] Paris, Madrid et Barcelone en sont les grandes scènes. Ce niveau doit être réaccroché en 2028.
+
+Cette première salle montre Madrid sous deux visages. Vers 1900, la crise frappe l'Espagne, aggravée par la perte de ses dernières colonies en 1898. Des écrivains comme Miguel de Unamuno et Pío Baroja scrutent la pauvreté et le retard du pays. [pause] Les peintres les suivent dans taudis et tavernes, parmi mendiants et marginaux.
+
+[quietly] Cherchez les petites eaux-fortes sombres de Ricardo Baroja, comme Le Faubourg. Les marges de la ville, en noir et gris.
+
+Puis, dans les années 1920, naît un autre Madrid. Le béton armé permet des tours comme l'immeuble de la Telefónica. Les nouveaux loisirs ont leurs bâtiments, un hippodrome à la Zarzuela, un fronton pour la pelote. [pause] Des taudis à la Gran Vía, comme dit le titre.
+
+Ensuite, salle 201.02, « Sainte Bohème. Paris était une fête ». Cherchez le haut portrait de Picasso, Femme en bleu.

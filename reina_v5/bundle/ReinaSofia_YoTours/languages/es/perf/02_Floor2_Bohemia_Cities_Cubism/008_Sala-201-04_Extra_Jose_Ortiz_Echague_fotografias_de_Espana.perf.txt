@@ -1,0 +1,26 @@
+@id: 008 · ES · Room 201.04 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 201.04
+@type: X
+@title: Sala 201.04 · Extra · José Ortiz Echagüe — fotografías de España
+@where: Sala 201.04, «José Ortiz Echagüe», una sala pequeña con cinco obras. Busque sus copias en blanco y negro de la vida en los pueblos, de negros profundos y aterciopelados, como un sermón en una iglesia de aldea, y los bustos esculpidos por Julio Antonio.
+@what: José Ortiz Echagüe, Sermón en la aldea (Village Sermon), 1903, direct carbon print on laid paper, image 40.5 × 38.7 cm; also Lagarteranas and Lagarteranas en misa. Julio Antonio, Mujer de la mantilla and Moza de Aldea del Rey.
+@listen: A photographer who wanted his pictures to feel like travelling back in time, and printed them so heavily by hand that a critic objected.
+@brief: A quiet, curious aside in a small room; gentle, a little amused at the critic.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://museoreinasofia.es/en/collections/room-20104 (OFF: room title; Generation of '98 interest in identity and traditions; began photographing in 1903, systematically from 1916; Fresson carbon process, Pictorialism, documentary aims; preserving disappearing ways of life; Spanische Köpfe, Berlin 1929; Tipos y trajes de España, Madrid 1930; Julio Antonio's Bustos de la raza 1908–1914; five works listed) ; https://www.museoreinasofia.es/en/collections/artwork/sermon-en-la-aldea-village-sermon (OFF: 1903; direct carbon on laid paper; Exhibited in Room 201.04; parish church of Viguera, La Rioja; "the strange feeling of travelling to a different time"; own variant "Carbondir"; deep blacks, soft pointillist half-tones; closer to engraving than photography; a 1923 review criticised the heavy manipulation; donation of the author 1975)
+@lang: es
+@translation: from the fact-checked English Reina Sofía 008 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] José Ortiz Echagüe quería que sus fotografías dieran lo que él llamaba «la extraña sensación de trasladarse a otra época». Mire esta pequeña sala y compruebe si a usted le funciona.
+
+Empezó a fotografiar la vida cotidiana de España en 1903, y desde 1916, sistemáticamente, de región en región. Quería registrar formas de vida que, a su juicio, iban a desaparecer. [pause] Sus fines eran documentales. Sus métodos, no.
+
+[pause] Busque Sermón en la aldea, una de sus primeras imágenes, tomada en 1903 en la iglesia parroquial de Viguera, en La Rioja. Mire los negros, profundos y aterciopelados, y los tonos suaves se deshacen en puntitos. Lo positivaba todo él mismo, con una variante propia del proceso al carbón: el Carbondir. El resultado se parece más a un grabado que a una fotografía.
+
+[amused] No a todos les gustó. Una crítica de 1923 censuró cuánto retocaba a mano sus copias.
+
+Sus retratos de tipos y trajes de España se convirtieron en libros, primero en Berlín y luego en Madrid. [pause] Los bustos de al lado son de Julio Antonio, escultor que recorrió España con la misma idea, retratando a trabajadores con calma clásica.
+
+A continuación, la sala 202.01, «Madrid, ciudad múltiple», con Atocha, el pequeño cuadro vibrante de Rafael Barradas.

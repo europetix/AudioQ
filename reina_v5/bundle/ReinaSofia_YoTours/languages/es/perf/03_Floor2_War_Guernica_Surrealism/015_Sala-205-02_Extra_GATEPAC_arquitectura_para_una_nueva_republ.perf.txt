@@ -1,0 +1,26 @@
+@id: 015 · ES · Room 205.02 · 17 Oct 2026 edition
+@section: Floor 2 · War, Guernica and Surrealism
+@room: Room 205.02
+@type: X
+@title: Sala 205.02 · Extra · GATEPAC — arquitectura para una nueva república
+@where: Sala 205.02, una sala de planos, fotografías y fotomontajes de arquitectos. Busque el material del Pla Macià, de Le Corbusier y el grupo catalán, y el retrato fotográfico de Picasso hecho por Man Ray.
+@what: Room 205.02, 'GATEPAC, The Urgency of Facilities': Le Corbusier and GATCPAC, Pla Macià. Una casa, un árbol (Pla Macià. A House, a Tree); photomontages and advertising by Pere Català Pic and Josep Sala; Man Ray, Portrait de Picasso. Also Room 205.01: Josep Torres Clavé and Josep Lluís Sert, Hospital para tuberculosos de 400 camas HT400.
+@listen: How a group of young architects asked for "everything but decoration", and what the new Republic asked of them.
+@brief: A brisk, curious aside for a friend who likes buildings; light, a little admiring.
+@pace: medium
+@energy: 2→3
+@sources: https://museoreinasofia.es/en/collections/room-20501 (OFF: Room 205.01 GATEPAC; one work, HT400 400-bed tuberculosis hospital by Torres Clavé and Sert; next room 205.02) ; https://museoreinasofia.es/en/collections/room-20502 (OFF: title 'GATEPAC, The Urgency of Facilities'; Aizpurúa, La Gaceta Literaria, March 1930, "everything but decoration", hygiene, soundness, comfort, rationalism, economy; founded October 1930 at the Grand Hotel, Zaragoza; North, East and Centre groups; magazine AC; Second Republic: mass housing, schools, libraries, museums, hospitals; Plan Macià by the East Group with Le Corbusier and Pierre Jeanneret; Ciutat de Repòs i Vacances, holiday complex on the Llobregat estuary with collapsible, extendable cabins; works list incl. Català Pic Lápiz Termosan and Ford da facilidades, Josep Sala, Man Ray Portrait de Picasso; next room 205.03) ; research/CURRENT_COLLECTION_OCT2026.md (OFF room chain: 205.03, 205.03.bis, 205.04)
+@lang: es
+@translation: from the fact-checked English Reina Sofía 015 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] «Todo, menos decoración». Eso exigió por escrito en 1930 un joven arquitecto, José Manuel Aizpurúa. Quería edificios con higiene, solidez, confort, racionalidad y economía. Nada más.
+
+Ese octubre, jóvenes arquitectos se reunieron en el Gran Hotel de Zaragoza y fundaron el GATEPAC, el Grupo de Arquitectos y Técnicos Españoles para el Progreso de la Arquitectura Contemporánea. Se dividieron en tres grupos, Norte, Este y Centro, y lanzaron una revista, AC.
+
+Entonces se proclamó la Segunda República, y de pronto tuvieron un cliente. [pause] El país necesitaba con urgencia viviendas en masa, escuelas, bibliotecas, museos y hospitales. En la sala 205.01 quizá haya visto su proyecto de hospital para tuberculosos de cuatrocientas camas.
+
+El grupo Este, en Barcelona, pensó aún más en grande. Con Le Corbusier y Pierre Jeanneret trazaron el Plan Macià para ampliar la ciudad. [pause] E imaginaron una segunda ciudad, solo para descansar y veranear, con cabañas plegables junto a la desembocadura del Llobregat.
+
+[lightly] La mirada moderna también vendía. Busque los fotomontajes y anuncios de Pere Català Pic y Josep Sala, de lápices, joyas y automóviles Ford, y el retrato de Picasso por Man Ray.
+
+[pause] Atraviese las salas 205.03 y 205.03 bis, con fotógrafas y carteles. La sala 205.04 reúne los fotomontajes de John Heartfield, otro breve Extra.

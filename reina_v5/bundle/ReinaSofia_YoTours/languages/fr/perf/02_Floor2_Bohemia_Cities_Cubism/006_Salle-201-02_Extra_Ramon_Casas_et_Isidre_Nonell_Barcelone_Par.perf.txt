@@ -1,0 +1,26 @@
+@id: 006 · FR · Room 201.02 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 201.02
+@type: X
+@title: Salle 201.02 · Extra · Ramon Casas et Isidre Nonell — Barcelone, Paris et l'affiche
+@where: Restez dans la salle 201.02. Cherchez les hautes affiches Anís del Mono de Ramon Casas, de plus de deux mètres, chacune avec une grande femme sur des aplats de couleurs vives, et les figures féminines lourdes, à la peinture épaisse, d'Isidre Nonell.
+@what: Ramon Casas, Anís del Mono. «Mono y mona» (Anís del Mono. "Male Monkey and Female Monkey"), 1898, lithograph on paper, 212 × 103 cm, and other Anís del Mono posters. Isidre Nonell, Mujer (Woman), 1907, oil on canvas, 63 × 52 cm.
+@listen: Two Barcelona artists of 1900: one selling anise from the street wall, one painting the people the city preferred not to see.
+@brief: A quick, lively aside with a friend; light and amused on the posters, quieter and serious on Nonell.
+@pace: medium
+@energy: 3→2
+@sources: https://www.museoreinasofia.es/en/collections/artwork/anis-del-mono-mono-y-mona-anis-del-mono-male-monkey-and-female-monkey (OFF: 1898, lithograph, 212 × 103 cm, Exhibited in Room 201.02; Catalan industrial society and the French modern poster; magazines and poster competitions; chromolithography to catch passers-by; for the Anís del Mono competition a monumental "manola" on flat, high-contrast backgrounds aimed at a national market) ; https://museoreinasofia.es/en/collections/room-20102 (OFF: Spanish artists in Paris around 1900; images of Romani women; Nonell's monumental, contorted figures with thickly painted faces, subjects lacking identity and excluded from history; both Anís del Mono posters and Nonell works listed) ; https://www.museoreinasofia.es/en/collections/artwork/mujer-woman (OFF: Nonell, Mujer, 1907, oil, 63 × 52 cm, Exhibited in Room 201.02)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 006 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Vers 1900, une partie de l'art le plus moderne de Barcelone s'affichait sur les murs de la rue. Ramon Casas l'avait compris mieux que personne.
+
+La Catalogne industrielle apprenait de l'affiche française. Revues et concours d'affiches portaient le nouveau style, et la lithographie en couleurs attirait l'œil des passants pressés. [pause] Pour le concours Anís del Mono, Casas a placé une femme monumentale au centre, sur des aplats de couleurs très contrastées. Il visait des acheteurs dans toute l'Espagne.
+
+Cherchez ses hautes affiches Anís del Mono. Mono y mona, Le Singe et la Guenon, date de 1898 et dépasse deux mètres de haut.
+
+[quietly] Trouvez maintenant Isidre Nonell, qui a pris le chemin inverse. Plutôt que le glamour, il peignait ceux que Barcelone préférait ignorer, dont des femmes roms. Ses figures sont lourdes et tordues, leurs visages peints en pâte épaisse. [pause] Le musée y voit des personnes privées d'identité, exclues de l'histoire. Sa Femme, de 1907, est ici.
+
+Deux artistes de la même ville. L'un vendait à la rue. L'autre peignait ceux qui y vivaient.
+
+Ensuite, salle 201.03, « Ramón Gómez de la Serna, l'artiste improbable », avec La Tertulia du café de Pombo, de Solana.

@@ -1,0 +1,28 @@
+@id: 011 · FR · Room 202.03 · 17 Oct 2026 edition
+@section: Floor 2 · Bohemia, Cities and Cubism
+@room: Room 202.03
+@type: W
+@title: Salle 202.03 · Joan Miró — La Maison au palmier, et la galerie Dalmau
+@where: Salle 202.03, « Galerie Dalmau ». Trouvez La Maison au palmier de Miró, une toile d'environ trois quarts de mètre de large : une ferme à la campagne avec un palmier, des plantes dessinées avec finesse et une terre labourée restée simple. Le Totalisateur de Picabia, un dessin à l'aquarelle et à l'encre d'une machine énigmatique, est dans la même salle.
+@what: Joan Miró, La casa de la palmera (House with Palm Tree), 1918, oil on canvas, 65 × 73 cm. Also: Francis Picabia, Totalisateur (Totalizer), c. 1922, watercolour and ink on paperboard, 55 × 73 cm.
+@listen: The farmhouse painting that went to Paris to launch Miró and sold nothing, and the Barcelona dealer whose walls held both Miró and Picabia's machines.
+@brief: Telling a friend about a debut that flopped; wry at the start, attentive and close on the painting, amused on Picabia.
+@pace: medium
+@energy: 3→2→3
+@sources: https://museoreinasofia.es/en/collections/artwork/la-casa-de-la-palmera-house-palm-tree (OFF: 1918, oil, 65 × 73 cm, Exhibited in Room 202.03; parents bought a farmhouse in Mont-roig, Tarragona, in 1911; decided to become a painter there after an illness at 18; farmhouse near his parents' property; 1918 move from Fauvism to detailed execution, plants in fine detail, tilled land simplified; contrasts fed the schematic signs of his Surrealist work from 1923; shown at Galerie La Licorne, Paris, 1921, an initiative backed by Josep Dalmau to promote his artists internationally; unsuccessful, the works did not sell) ; https://museoreinasofia.es/en/collections/artwork/totalisateur-totalizer (OFF: c. 1922, watercolour and ink on paperboard, 55 × 73 cm, Exhibited in Room 202.03; 1922 Picabia stepped away from Dada and showed at Barcelona's Dalmau gallery; sparse, geometric, starting from the circle; enigmatic machines with deliberately provocative sexual symbolism; Freud and Duchamp's Large Glass) ; https://museoreinasofia.es/en/collections/room-20203 (OFF: room title "Dalmau Gallery" and works list; the room text, about Latin American cities, is not used) ; https://recursos.museoreinasofia.es/styles/large_landscape/public/Colecci%C3%B3n/plano-colecciones-sabatini-2.png.webp (OFF: Floor 2 collection room plan, viewed 17 Oct 2026: 201 between the lift towers, 202 front wing, 204 side wing, 205 back wing with Guernica centre, 206 other side wing back to the front)
+@lang: fr
+@translation: from the fact-checked English Reina Sofía 011 (17 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] En 1921, ce tableau est parti à Paris pour lancer la carrière d'un jeune peintre. Rien ne s'est vendu.
+
+Ce peintre, c'était Joan Miró. Son marchand barcelonais, Josep Dalmau, voulait faire connaître ses artistes à l'étranger. Il a soutenu une exposition de Miró à la galerie La Licorne, à Paris, avec cette toile. [pause] Le musée le dit sans détour. L'exposition a échoué, faute de ventes.
+
+Miró l'a peint en 1918 à Mont-roig, près de Tarragone, où ses parents avaient acheté une ferme. C'est là, après une maladie à dix-huit ans, qu'il avait décidé de devenir peintre. La maison peinte est voisine des terres familiales.
+
+[pause] Regardez les plantes, comme dessinées feuille par feuille, avec grand soin. Puis la terre labourée, qu'il garde bien plus simple. Le détail fin à côté des formes simples. Le musée souligne que ces contrastes ont ensuite nourri les signes de ses tableaux surréalistes. [pause] Le Miró des étoiles et des symboles flottants commence ici, dans une cour de ferme.
+
+[amused] L'année suivante, la galerie Dalmau a montré un artiste très différent. Trouvez le Totalisateur de Francis Picabia, aquarelle d'une étrange machine. Picabia venait de s'éloigner de Dada. Il apportait à Barcelone des œuvres nouvelles, dépouillées, géométriques, construites à partir du cercle. Ses machines étaient des énigmes, souvent avec un sens sexuel délibérément provocateur. Il avait lu Freud et observé de près son ami Marcel Duchamp.
+
+Une ferme peinte feuille par feuille, et une machine qui cache une blague. Les murs de Dalmau accueillaient les deux.
+
+Ensuite, tournez à l'angle, dans l'aile latérale, jusqu'à la salle 204.01, « Le cubisme, premier langage international ». Cherchez la tête de femme en bronze de Picasso.
