@@ -1,0 +1,26 @@
+@id: 006 · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: W
+@title: Panoramic · The roof and the ring
+@where: At the panoramic level, looking up: the roof spanning the stadium and, hanging below its inner edge, the continuous band of video screens that circles the whole bowl.
+@what: The retractable roof, 55 m above the ground, carried on supports in the towers on the Castellana and on Calle Padre Damián, closing in around a quarter of an hour; the roof steel as given by its fabricator; the 360° video scoreboard by Daktronics, 6.5 m high on the sides and corners, 11 m at the ends, tilted 8°, first used at the Clásico of 21 April 2024 (Real Madrid 3–2 Barcelona, Bellingham in stoppage time).
+@listen: How the roof stays up with no pillars in the stands, how long it takes to close, and the ring of screens that was switched on for a Clásico.
+@brief: Head tilted back beside a friend, explaining the engineering overhead in plain words; curious, a touch wry about the screen, lifting at the Clásico.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/news/club/latest-news/all-the-latest-news-at-the-santiago-bernabeu-in-the-21st-century (OFF, read 23 Oct 2026: retractable roof installed 55 m above the ground; the new towers on the Castellana are a structural support for the roof; "the other two supports for the roof are on Calle Padre Damián") ; https://www.iasoglobal.com/en/stories/iaso-covers-the-santiago-bernabeu/ + https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/con-750-millones-se-reformo-en-90-dias-asi-es-el-nuevo-estadio-del-real-madrid-nid07092023/ (SEC2 via FACTS C8: closes in under 15 / 15 to 20 minutes, scripted "around a quarter of an hour") ; https://www.constructionbriefing.com/news/building-real-madrids-new-roof-with-lightweight-steel/8049238.article + https://www.all-about-industries.com/premium-steel-for-the-estadio-santiago-bernabeu-a-327e573d119ae38fdceebbbe006b802c/ (read 23 Oct 2026; both report the fabricator Horta Coslada: about 12,000 to 13,000 t of steel for the roof, about 20,000 t with other steel grades; single origin, so attributed to the builders and given as a range, WEAK) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-santiago-bernabeu-estrena-su-espectacular-videomarcador-360-21-04-2024 (OFF via FACTS C16: 360° screen hung from the roof, 6.5 m high on sides and corners, 11 m at the ends, inclined 8°, truncated cone, Daktronics, debut at the Clásico on 21 April 2024, only two other stadiums worldwide, both in the US, have one) ; https://www.skysports.com/football/news/11095/13120680/real-madrid-3-2-barcelona-jude-bellingham-hits-stoppage-time-el-clasico-winner + https://www.beinsports.com/en-us/soccer/la-liga/articles/jude-bellingham-is-real-madrids-el-clasico-hero-to-tighten-grip-on-laliga-title-2024-04-21 (SEC2: Real Madrid 3–2 Barcelona, 21 April 2024, Bellingham stoppage-time winner) ; no Eiffel Tower comparison, no screen area, no "largest" claim
+---
+[curious] Not one pillar in these stands holds up the roof above you. [pause] The whole thing is carried from the edges of the stadium.
+
+According to the club, the roof rests on supports built into the towers on the Castellana side, and on two more across the stadium, on Calle Padre Damián. Between them run enormous steel trusses. The club puts the moving roof at fifty-five metres above the ground. And the company that built those trusses says the roof took somewhere between twelve and thirteen thousand tonnes of steel. With ordinary grades of steel, it says, the roof would have weighed far more.
+
+The centre of the roof can close over the playing area, and open again. Closing takes around a quarter of an hour. When it's shut, the whole bowl is under cover.
+
+Now bring your eyes down a little, to the band of screens hanging below the roof's inner edge. The club calls it a three-hundred-and-sixty-degree video scoreboard, a single ring running all the way around. It isn't the same height everywhere. Along the sides and corners it's six and a half metres tall. Behind each goal it rises to eleven metres. And every panel is tilted by eight degrees, so the ring isn't a straight wall at all. It's a shallow cone with the top cut off.
+
+[wry] The club is careful here. It doesn't claim the world's first. It says only two other stadiums, both in the United States, had anything like it. It was built by the American company Daktronics.
+
+[warmly] Its first night was the Clásico against Barcelona, on the 21st of April, 2024. Real Madrid won three goals to two. The winner came from Jude Bellingham in stoppage time, and the new ring had its first great goal to show.
+
+Now look down from the rail, at the floor of the stadium, and whatever is or isn't covering it today.
