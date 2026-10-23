@@ -53,6 +53,13 @@ Giulia Lama, a painter herself, is named in the cue in Room 18 (021).
 - 040 cue and 059: the Scharf show.
 - 049: Dalí in the temporary show.
 
+
+## Three lengths (user, 23 Oct 2026)
+- Full tour: all 70 tracks, about 2 h 30.
+- Essential (~1 h 15, 26 tracks): 001 002 006 007 010 014 016 020 023 024 029 031 035 036 038 039 043 045 049 050 052 054 056 059 065 070
+- Highlights (~40 min, 14 tracks): 001 002 006 007 010 016 029 031 038 050 052 056 065 070
+One recording; the launcher copies the two shorter versions into their own folders. 001 explains the lengths.
+
 ## On-site checks (before recording)
 
 **A. Pages that disagree or are stale. All are avoided, or used only as an Extra:**
