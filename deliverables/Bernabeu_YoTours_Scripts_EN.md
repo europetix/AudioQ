@@ -3,7 +3,7 @@
 ## Opening
 
 ### 001 · Welcome to the Bernabéu
-*Outside · Castellana · 326 words*
+*Outside · Castellana · 344 words*
 
 **Where:** Outside the stadium on the Paseo de la Castellana side, near the corner with Avenida de Concha Espina, where the club's tour entrance is. Anywhere you can see the curved steel bands of the facade will do.
 
@@ -13,13 +13,13 @@ Most people who come to see this stadium expect one thing above all, a perfect g
 
 This guide walks with you through the club's own Tour Bernabéu. Most visits take around two hours, and the club warns that the route has a great many stairs. You go in at the tour entrance on Avenida de Concha Espina, close to its corner with the Paseo de la Castellana. The route usually climbs first, to the top tier, for the view over the whole stadium. Then it comes down through the museum and its fifteen European Cups. After that, the home dressing room, the benches at pitch level, and finally the store, where the tour ends.
 
-Play the guide in order, and every stop will tell you where to go next. Two kinds of day change that order, so here they are, once and plainly.
+This guide comes in three lengths. The full tour is about an hour of listening, the essential version about forty minutes, and the highlights about twenty. Whichever one is on your phone, play it in order. The numbers may jump, and every stop tells you where to go next. Two kinds of day change the order, so here they are, once and plainly.
 
 On a match day, and on the day before one, the club closes the dressing room and the benches. You still get the view and the museum. When you reach the end of the museum, the guide will tell you what to play instead.
 
 And on some days the staff send visitors into the museum before the view. If that happens, play the first three stops here outside, then jump to number nine. The guide will take you up to the view afterwards.
 
-One last word about that grass. The club says the pitch stays underground except for matches. So when you look down from the top, expect a bare floor rather than a lawn. You'll hear exactly why it's down there, and where it goes.
+One last word about that grass. The club says it stays underground except for matches, so expect a bare floor rather than a lawn. You'll hear why.
 
 Before you go in, stay outside on the Castellana side for a moment, and look up at the steel wrapped around the stadium.
 

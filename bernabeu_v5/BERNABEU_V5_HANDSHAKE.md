@@ -7,6 +7,12 @@
 - **Three cases (user, 23 Oct):** A full tour 001→028; B match day / day before (dressing room + benches closed):
   after the museum play 022, then 027–028; C museum first: 001–003, 009–022, 004–008, 023 on. Spoken jumps
   ("play number twenty-two") in 001, 003, 007, 008, 019–022.
+- **Three lengths (user, 23 Oct, clarified):** Full 28 tracks ~65 min; Essential 17 (001 002 003 004 007 009 010 011 013 014
+  016 019 022 023 024 025 028) ~40 min; Highlights 9 (001 003 007 010 016 022 023 025 028) ~20 min. Launcher option 1 records
+  once and copies the two shorter folders; option 3 = Highlights only. 001 explains the lengths. The match-day / museum-first
+  handling stays in the tracks.
+- **Route map (user: 'draw something from the stadium'):** 3 pages — section drawing of the bowl with zones, aerial with
+  streets/entrance/store/S10, stop list with the three lengths.
 - **User decisions (23 Oct):** 60–75 min of audio; facts that change are few and dated "as of autumn 2026";
   languages EN/ES/FR/DE; compare with the club's own guide (research/OFFICIAL_AUDIO_COMPARISON_OCT2026.md, Yo Tours
   column filled in).

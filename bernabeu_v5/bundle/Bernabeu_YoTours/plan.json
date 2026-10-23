@@ -12,8 +12,8 @@
  "silent_tail_seconds": 2.0,
  "mastering": "-16 LUFS / -1.5 dBTP, 64 kbps mono",
  "total_tracks": 28,
- "total_words": 7805,
- "total_min": 62,
+ "total_words": 7823,
+ "total_min": 63,
  "sections": [
   {
    "section": "Opening",
@@ -64,10 +64,10 @@
    "room": "Outside · Castellana",
    "title": "Welcome to the Bernabéu",
    "register": "ANCHOR",
-   "words": 326,
+   "words": 344,
    "where": "Outside the stadium on the Paseo de la Castellana side, near the corner with Avenida de Concha Espina, where the club's tour entrance is. Anywhere you can see the curved steel bands of the facade will do.",
    "what": "What the Tour Bernabéu covers as of October 2026: the top-tier panoramic view, the museum, the home dressing room, the benches, the store; about two hours, many stairs; the two kinds of day that change the order; the pitch kept underground except for matches.",
-   "listen": "What this visit is, the order it usually runs in, and what to do if your day is different.",
+   "listen": "Three lengths (full, essential, highlights); What this visit is, the order it usually runs in, and what to do if your day is different.",
    "pace": "medium",
    "script": "scripts/00_Welcome/001_Welcome_to_the_Bernabeu.txt",
    "perf": "perf/00_Welcome/001_Welcome_to_the_Bernabeu.perf.txt",

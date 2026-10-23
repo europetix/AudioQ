@@ -3,7 +3,7 @@
 ## Opening
 
 ### 001 · Bienvenue au Bernabéu
-*Outside · Castellana · 312 words*
+*Outside · Castellana · 334 words*
 
 **Where:** Devant le stade, côté Paseo de la Castellana, près de l'angle avec l'avenue Concha Espina, où se trouve l'entrée du Tour Bernabéu. Tout endroit d'où l'on voit les bandes d'acier courbes de la façade fera l'affaire.
 
@@ -13,13 +13,13 @@ La plupart des visiteurs de ce stade attendent avant tout une chose, une pelouse
 
 Ce guide vous accompagne tout au long du Tour Bernabéu du club. La visite dure en général environ deux heures, et le club prévient que le parcours compte énormément d'escaliers. L'entrée du Tour Bernabéu se trouve avenue Concha Espina, près de l'angle avec le Paseo de la Castellana. En général, le parcours monte d'abord à la tribune supérieure, pour la vue sur tout le stade. Puis il redescend par le musée et ses quinze Coupes d'Europe. Viennent ensuite le vestiaire du Real Madrid, les bancs de touche au bord du terrain, et enfin la boutique, où la visite se termine.
 
-Écoutez le guide dans l'ordre, et chaque étape vous dira où aller ensuite. Deux types de journée changent cet ordre. Les voici, une fois pour toutes, clairement.
+Ce guide existe en trois durées. La visite complète dure environ une heure, la version essentielle une quarantaine de minutes, et les temps forts une vingtaine. Quelle que soit celle de votre téléphone, écoutez-la dans l'ordre. Les numéros peuvent sauter, et chaque étape vous dira où aller ensuite. Deux types de journée changent cet ordre. Les voici, une fois pour toutes, clairement.
 
 Les jours de match, et la veille, le club ferme le vestiaire et les bancs de touche. Vous avez toujours la vue et le musée. À la fin du musée, le guide vous dira quoi écouter à la place.
 
 Et certains jours, le personnel envoie les visiteurs au musée avant la vue. Dans ce cas, écoutez les trois premières étapes ici, dehors, puis passez directement au numéro neuf. Le guide vous emmènera ensuite jusqu'à la vue.
 
-Un dernier mot sur ce gazon. Selon le club, la pelouse reste sous terre, sauf pour les matchs. Alors, quand vous regarderez d'en haut, attendez-vous à un sol nu plutôt qu'à du gazon. Vous saurez exactement pourquoi il est là-dessous, et où il va.
+Un dernier mot sur ce gazon. Selon le club, la pelouse reste sous terre, sauf pour les matchs. Attendez-vous donc à un sol nu plutôt qu'à du gazon. Vous saurez pourquoi.
 
 Avant d'entrer, restez un instant dehors, côté Castellana, et levez les yeux vers l'acier qui enveloppe le stade.
 

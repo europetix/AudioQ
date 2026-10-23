@@ -15,12 +15,14 @@ This edition was rebuilt from scratch:
    independent reviewer re-checked all 28 tracks. Facts that change (coach, captain, recent seasons)
    are few and dated "as of autumn 2026".
 3. Every track ends by saying where the route goes next and what to look for.
-4. Three cases are built in:
-   A  Full tour: play 1 to 28 in order.
-   B  Match day or the day before: the dressing room and benches are closed. After the museum,
-      play 22, then 27 and 28.
-   C  Museum first (if staff send you there before the view): play 1-3, then 9-22, then 4-8,
-      then 23 onwards. The tracks themselves remind you at each junction.
+4. Three lengths, chosen by the visitor's time (one recording, three folders):
+   Full tour   28 tracks, about 65 min: everything, 23 main stops + 5 Extras
+   Essential   17 tracks, about 40 min: 1 2 3 4 7 9 10 11 13 14 16 19 22 23 24 25 28
+   Highlights   9 tracks, about 20 min: 1 3 7 10 16 22 23 25 28
+   Play whichever version in order: the numbers jump, and every track says where to go next.
+   Two kinds of day are also handled in the tracks themselves: on match days (dressing room and
+   benches closed) play 22 after the museum, then 27-28; if staff send you to the museum first,
+   play 1-3, then 9-22, then 4-8, then 23 onwards.
 5. Honest about what you will see: the pitch is usually stored underground, so the floor is bare.
 6. The Yo Tours sound: voice finishing, a soft room tone and a short chime before each track.
    MP3s are labelled for phones (title, album, track n/28, Yo Tours, cover picture).
@@ -37,15 +39,18 @@ WHAT YOU GET
   05_Dressing_Room_and_Benches/             4 tracks (1 Extra)
   06_Store/                                 1 track
   07_Closing/                               1 track
-plus Bernabeu_Audio_Guide_Route.pdf: a 2-page route sheet for phones (the route by zone with every
-stop number and the three cases, then the stop list). The club publishes no floor plan of the tour,
-so it is a schematic, not a plan.
+plus Bernabeu_Audio_Guide_Route.pdf: a 3-page map for phones. Page 1 draws the stadium in section
+(roof, screen ring, steel skin, the stands, the underground grass store) with every zone of the
+tour and its stop numbers, and the three lengths. Page 2 draws the stadium from above with the
+streets, the tour entrance, the store and exit, and the way to the S10 bus. Page 3 lists every
+stop with the lengths it belongs to. Our own drawing, not to scale: the club publishes no plan.
 
 HOW TO MAKE THE AUDIO (on a Mac)
 ================================
 English:               double-click generate_audio.command  (voice 1 = Ava)
+                       option 1 = all three lengths (records once; folders _Essential and _Highlights)
                        option 2 = two voice samples (016 La Decima + 025 The late comebacks)
-                       option 3 = main stops only
+                       option 3 = Highlights only (quickest)
 Spanish/French/German: double-click generate_audio_ES_FR_DE.command and pick the language.
 Needs internet, python3, ffmpeg (brew install ffmpeg) and an up-to-date edge-tts:
   python3 -m pip install --user --upgrade edge-tts

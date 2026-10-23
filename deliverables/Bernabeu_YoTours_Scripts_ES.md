@@ -3,7 +3,7 @@
 ## Opening
 
 ### 001 · Bienvenida al Bernabéu
-*Outside · Castellana · 313 words*
+*Outside · Castellana · 335 words*
 
 **Where:** Fuera del estadio, del lado del Paseo de la Castellana, cerca de la esquina con la avenida de Concha Espina, donde está el acceso del tour del club. Sirve cualquier punto desde donde se vean las bandas curvas de acero de la fachada.
 
@@ -13,13 +13,13 @@ Quien viene a ver este estadio suele esperar, sobre todo, una cosa: un césped v
 
 Esta guía le acompaña por el Tour Bernabéu del propio club. La visita suele durar unas dos horas, y el club advierte que el recorrido tiene muchísimas escaleras. Se entra por el acceso del tour en la avenida de Concha Espina, cerca de su esquina con el Paseo de la Castellana. Normalmente, el recorrido sube primero a la grada superior, para ver todo el estadio. Luego baja por el museo y sus quince Copas de Europa. Después, el vestuario local, los banquillos a ras de campo y, por último, la tienda, donde termina el tour.
 
-Escuche la guía en orden, y cada parada le dirá adónde ir después. Hay dos tipos de día que cambian ese orden. Se los explico una vez, con claridad.
+Esta guía tiene tres duraciones. La visita completa dura cerca de una hora, la versión esencial unos cuarenta minutos y los momentos destacados unos veinte. La que tenga en su teléfono, escúchela en orden. Los números pueden saltar, y cada parada le dirá adónde ir después. Hay dos tipos de día que cambian ese orden. Se los explico una vez, con claridad.
 
 En día de partido, y el día anterior, el club cierra el vestuario y los banquillos. Aun así podrá ver la vista panorámica y el museo. Al final del museo, la guía le dirá qué reproducir en su lugar.
 
 Y algunos días el personal envía a los visitantes al museo antes de la vista. Si le ocurre, reproduzca aquí fuera las tres primeras paradas, y luego pase al número nueve. La guía le llevará a la vista después.
 
-Una última palabra sobre ese césped. El club dice que permanece bajo tierra salvo para los partidos. Así que, cuando mire desde arriba, espere ver un suelo desnudo, no hierba. Sabrá exactamente por qué está ahí abajo, y adónde va.
+Una última palabra sobre ese césped. El club dice que permanece bajo tierra salvo para los partidos, así que espere ver un suelo desnudo, no hierba. Sabrá por qué.
 
 Antes de entrar, quédese un momento fuera, del lado de la Castellana, y levante la vista hacia el acero que envuelve el estadio.
 
