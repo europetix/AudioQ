@@ -125,3 +125,14 @@ Key: "–" = not stated or not found. Cells summarise sections 1–3.
 3. **Honesty about loans.** No product says which works are away. In Oct 2026 that means The Hague (until 17 Jan 2027), Dalí in the ticketed show (until 24 Jan 2027), the "Not exhibited" works, and the Hopper sale (18 Nov 2026).
 4. **Sourced, current facts.** Each third-party product I checked has stale or wrong items.
 5. **Price.** The official guide is cheap (€5.50) and comprehensive. A paid Yo Tours guide has to compete on story depth, directions and accuracy, not on coverage alone.
+
+## Yo Tours (built, 23 Oct 2026) — the column the lead filled in
+- Coverage: 70 tracks, every room 1-52 and A-J on the route (temporary rooms excluded), 51 main stops + 19 Extras;
+  three lengths (2 h 30 / 1 h 15 / 40 min) from one recording, with spoken "next stop" bridges in the shorter versions.
+- Directions: every track ends with the next room number and one thing to look for, checked against the doors on the
+  museum's map (independent route audit).
+- Loans: only works confirmed on their museothyssen.org pages; famous absences said in one dated line.
+- Languages: EN, ES, FR, DE including the Carmen Thyssen rooms (the museum's Carmen tour is ES/EN only).
+- Accuracy: every fact from museothyssen.org or two reputable sources; independent fact audit of all 70 tracks.
+- Device/price: the visitor's own phone, offline MP3s; no QR or desk. Voice: Yo Tours sound, labelled MP3s, cover.
+- Where the museum's guide is stronger: 10 languages, family/themed tours, accessible (sign-language, audio-described) versions.

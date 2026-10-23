@@ -1,56 +1,57 @@
-YO TOURS - MUSEO REINA SOFIA, MADRID
-Audio guide, edition of 17 Oct 2026 (57 tracks: 43 main stops + 14 short Extras)
+YO TOURS - MUSEO NACIONAL THYSSEN-BORNEMISZA, MADRID
+Audio guide, edition of 23 Oct 2026 (70 tracks: 51 main stops + 19 short Extras)
 English, Spanish, French, German
 
 WHY THIS EDITION
 ================
-The previous guide was written for an older hang. Since then the museum has rearranged its
-collection: Floor 4 was rehung on 18 Feb 2026, the post-war rooms on Floor 1 are gone, Floor 3
-is closed until 2027, and many rooms on Floor 2 were renumbered. Of the 49 works in the old
-guide, only 22 are still on display. So this edition was rebuilt from scratch:
-1. Every work's room was read on its own page on museoreinasofia.es (17 Oct 2026) and checked
-   against the museum's official plans (easy-read plan Oct 2026 - Feb 2027, the Floor 4 map,
-   the Floor 2 collection-room plan). Guernica is in Room 205.10.
-2. The route has no zig-zag: Floor 1 (welcome, the cloister garden, Richard Serra), up to
-   Floor 2 for one loop round the cloister (Bohemia, Cubism, the Civil War, Guernica,
-   Surrealism), up to Floor 4 for one loop through Rooms 1 to 21 (from 1975 to now), then
-   across to the Nouvel building for the roof terrace and the closing words.
-3. Every track ends by naming the next room number and its title.
-4. 14 short optional Extras in rooms the route already walks through (hollow circles on the map).
-5. An independent fact check of all 57 tracks against the museum's own pages.
-6. The Yo Tours sound: voice finishing, a soft room tone and a short chime before each track.
-   MP3s are labelled for phones (title, album, track n/57, Yo Tours, cover picture).
+The previous guide sent visitors to the wrong room for 26 of its 47 works (12 had moved, the rest
+were on loan or not exhibited) and got about 20 facts wrong. This edition was rebuilt from scratch:
+1. Every work's room was read on its own page on museothyssen.org (23 Oct 2026) and checked against
+   the museum's visitor map (December 2025). Works on loan or not exhibited are not stops; where a
+   famous work is away, the guide says so in one dated line (e.g. Van Eyck's Annunciation diptych
+   at the Mauritshuis until 17 January 2027).
+2. The route follows the museum's own top-down order: Level 2 (Rooms 1-29, from 14th-century gold
+   to Romanticism), Level 1 (Rooms 30-52, from America and the Impressionists to Pop) and Level 0
+   (the Carmen Thyssen collection, Rooms A-J), then out to the Paseo del Prado. Temporary displays
+   (Rooms 19-21 and 53-56) are not stops.
+3. Every track ends by naming the next room and one thing to look for, following the doors drawn on
+   the museum's map. Two independent reviewers re-checked every route and every fact.
+4. Three lengths (one recording, three folders):
+   Full tour   70 tracks, about 2 h 30: everything, 51 main stops + 19 Extras
+   Essential   26 tracks, about 1 h 15: 1 2 6 7 10 14 16 20 23 24 29 31 35 36 38 39 43 45 49 50 52 54 56 59 65 70
+   Highlights  14 tracks, about 40 min: 1 2 6 7 10 16 29 31 38 50 52 56 65 70
+   In the shorter versions a short spoken line at the end of a track tells you the next stop.
+5. The Yo Tours sound: voice finishing, a soft room tone and a short chime before each track.
+   MP3s are labelled for phones (title, album, track n/70, Yo Tours, cover picture).
 
 WHAT YOU GET
 ============
-57 tracks in walking order: 43 main stops (about 1 h 45 of listening, about 2 h with walking)
-and 14 short Extras (about 1 to 2 min each, titles contain "Extra"). Every main stop tells you
-how to reach the next main stop, so the Extras can be skipped. One folder per section:
-  00_Welcome/                                  1 track
-  01_Floor1_Serra_and_Garden/                  2 tracks (1 Extra)
-  02_Floor2_Bohemia_Cities_Cubism/            11 tracks (2 Extras)
-  03_Floor2_War_Guernica_Surrealism/          20 tracks (6 Extras)
-  04_Floor4_Transition_to_Grief/              10 tracks (1 Extra)
-  05_Floor4_Sculpture_Institutions_Images/    11 tracks (4 Extras)
-  06_Nouvel_Roof_Terrace/                      1 track
-  07_Closing/                                  1 track
-plus ReinaSofia_Audio_Guide_Route.pdf: a 5-page map made for phones. Page 1 shows the whole visit
-on a cross-section of the two buildings; then one plan per part of the route with every stop
-numbered. Share it with the MP3s.
-
-Track files are named  <play-order>_<room>_<title>.mp3
-  e.g.  023_Room-205-10_Pablo_Picasso_Guernica.mp3
+  00_Welcome/                               1 track
+  01_Level2_First_Faces/                    4 tracks (2 Extras)
+  02_Level2_Renaissance_Portraits/          8 tracks (2 Extras)
+  03_Level2_Venice_and_Baroque/             5 tracks (1 Extra)
+  04_Level2_18th_Century_Italy/             4 tracks (2 Extras)
+  05_Level2_Dutch_Golden_Age/               8 tracks (1 Extra)
+  06_Level2_Romanticism/                    2 tracks (1 Extra)
+  07_Level1_America_Impressionists/         5 tracks (1 Extra)
+  08_Level1_Expressionism_Avant_gardes/    11 tracks (3 Extras)
+  09_Level1_Surrealism_America_Pop/        11 tracks (3 Extras)
+  10_Level0_Carmen_Thyssen/                10 tracks (3 Extras)
+  11_Closing/                               1 track
+plus Thyssen_Audio_Guide_Route.pdf: a 6-page map for phones drawn from the museum's own plan (an
+overview of the three levels, then each part of the route with every stop numbered).
 
 HOW TO MAKE THE AUDIO (on a Mac)
 ================================
 English:               double-click generate_audio.command  (voice 1 = Ava)
-                       option 2 = two voice samples (023 Guernica + 044 Juan Munoz), try this first
-                       option 3 = main stops only
+                       option 1 = all three lengths (records once; folders _Essential and _Highlights)
+                       option 2 = two voice samples (029 Rembrandt + 050 Hopper)
+                       option 3 = Highlights only (quickest)
 Spanish/French/German: double-click generate_audio_ES_FR_DE.command and pick the language.
-Needs internet, python3 and ffmpeg (brew install ffmpeg). If it stops, run it again:
-finished tracks are skipped.
+Needs internet, python3, ffmpeg (brew install ffmpeg) and an up-to-date edge-tts:
+  python3 -m pip install --user --upgrade edge-tts
+If it stops, run it again: finished tracks are skipped.
 
 ON-SITE CHECKS BEFORE RELEASE
 =============================
-See ONSITE_CHECKLIST.txt (room numbers at doorways, the way to the lifts on Floor 2, the
-Gargallo statue in the garden, Room 102 on Floor 1, Room 205.08, the Nouvel roof terrace).
+See ONSITE_CHECKLIST.txt.

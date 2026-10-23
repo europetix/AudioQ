@@ -1,0 +1,32 @@
+YO TOURS - MUSEO THYSSEN-BORNEMISZA - ON-SITE CHECKLIST (23 Oct 2026 edition, 70 tracks)
+Walk the route once with the guide before release. Tick each item; note anything different with the
+track number, and send it to us: we fix only that track.
+
+LOANS AND WORKS WHOSE PAGES DISAGREE
+[ ] Track 4: Van Eyck diptych away (Mauritshuis until 17 Jan 2027); David Crucifixion + Bouts follower in Room 3?
+[ ] Track 8: Memling - is the back of the panel visible?
+[ ] Track 11 and 14: Titian, El Greco Annunciation (c. 1576) in Rooms 7 and 11? Tintoretto's Paradise in the central hall?
+[ ] Track 12: Cranach's Charles V in Room 9 (Dürer away until 17 Jan 2027).
+[ ] Track 31: Room 29 without Goyas this season - Friedrich and Delacroix on the wall?
+[ ] Track 48 (Extra): Mondrian New York City, 3 in Room 43? If not, use v5/held/048.fallback.perf.txt.
+[ ] Tracks 43, 46: Kandinsky In the Bright Oval (39), Sonia Delaunay (42) as described.
+[ ] Track 67: Goncharova's Fishing in Room H - what does it show? (the page gives no description)
+[ ] Track 56: Freud's portrait of the Baron - the Watteau fragment behind him.
+
+DOORS, STAIRS AND LIFTS
+[ ] Track 1 -> 2: from the central hall up to Level 2, Room 1 (stairs/lift by the hall's far end).
+[ ] Tracks 13-16: back through the long gallery 6 to Room 11; 11 -> 12 route; 12 -> 13 -> 14.
+[ ] Tracks 19-23: 16 -> 17 and back through 16 to 18, then 22 (Rooms 19-21 temporary).
+[ ] Tracks 30-31: from Room 28 back along the Room 24 gallery to Room 29.
+[ ] Track 32 -> 33: stairs/lift by Room 29 down to Level 1, Room 30.
+[ ] Track 40: the corridor to Rooms 53-56 (temporary) "on your right".
+[ ] Track 59 -> 60: stairs/lift by Room 52 down to Level 0; access to the Carmen Thyssen rooms, Room A on your right.
+[ ] Tracks 61-62: order of Rooms B and C. Track 69 -> 70: where Room J lets out onto the hall.
+
+AFTER 10/17 JANUARY 2027
+[ ] Rooms 19-21 (Mauritshuis display ends 10 Jan) and the Van Eyck/Dürer/El Greco return (17 Jan): remove the dated lines in 4, 12, 14, 21, 28.
+
+LISTENING CHECKS (after rendering on the Mac)
+[ ] "Henry the Eighth", "Brown and Silver One", "la clé des champs", psyché (psee-SHAY).
+[ ] Names: Ghirlandaio, Tornabuoni, Saenredam, Ruisdael, Kirchner, Münter, Popova, Rozanova, Goncharova.
+[ ] Shorter versions: the spoken "next stop" lines name the right room and level.
