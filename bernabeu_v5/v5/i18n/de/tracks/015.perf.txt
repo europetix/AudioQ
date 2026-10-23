@@ -1,0 +1,30 @@
+@id: 015 · DE · Museum · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum
+@type: W
+@title: Museum · Die Galácticos
+@where: Immer noch im Museum, nahe am Trophäensaal. Für diese Geschichte brauchen Sie keine bestimmte Vitrine: Jeder Platz mit Blick auf die Reihe der Pokale ist gut.
+@what: Florentino Pérez elected July 2000, beating Lorenzo Sanz, on a promise to sign Luís Figo from Barcelona; Zidane (2001, from Juventus), Ronaldo Nazário (2002, from Inter), Beckham (2003, from Manchester United); resigned 2006, returned 2009; contested re-election 7 June 2026, 65% to Enrique Riquelme's 35%, proclaimed 11 June 2026 for an eighth term to 2030 (dated).
+@listen: How one election promise started the era of the Galácticos, and the man who has shaped the club, and this stadium, ever since.
+@brief: A friend telling a tale of ambition and showmanship with a raised eyebrow; lively in the middle, even-handed at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/the-club/history/presidents/florentino-perez (OFF, read 23 Oct 2026: "took up the presidency in July 2000 after beating Lorenzo Sanz"; star signings of his first term Figo, Zidane, Beckham, Ronaldo; re-elected 2004, resigned voluntarily two years later; returned 2009; engineer and businessman) ; https://sites.duke.edu/wcwp/2020/04/13/figos-transfer/ (read 23 Oct 2026: "Perez's campaign was based on the promise that he would sign Figo if elected president") + audit S9 New Straits Times (Pérez first elected 2000 promising Figo): SEC2 ; signing years and previous clubs: https://footballwriters.co.uk/news/before-they-became-galacticos/ + https://www.flashscore.com/news/kylian-mbappe-becomes-the-latest-in-a-long-line-of-real-madrid-galacticos/Ms286WlA (SEC2, read 23 Oct 2026: Figo 2000 Barcelona, Zidane 2001 Juventus, Ronaldo 2002 Inter, Beckham 2003 Manchester United) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/comunicado-oficial-de-la-junta-electoral-resultado-elecciones-07-06-2026 and https://www.realmadrid.com/es-ES/noticias/club/actualidad/florentino-perez-proclamado-presidente-11-06-2026 (OFF, via FACTS D9: 21,741 votes, 65%, v Riquelme 11,814, 35%; 8th term to 2030) ; first contested vote in twenty years: audit S10 (ESPN, title) + FACTS D9 history of terms (unopposed 2013, 2017, 2021, 2025) ; "Galácticos" as a nickname, not attributed to Pérez (audit: media label)
+@lang: de
+@translation: from the fact-checked English Bernabéu 015 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Im Sommer 2000 gewann ein Mann die Präsidentenwahl bei Real Madrid mit einem Versprechen. Es ging um einen einzigen Fußballer.
+
+Der Mann war Florentino Pérez, Ingenieur und Unternehmer. Der Fußballer war Luís Figo, der Star des FC Barcelona, Madrids großem Rivalen. Pérez sagte, wenn er gewählt würde, käme Figo. [pause] Im Juli wurde er gewählt und schlug den amtierenden Präsidenten Lorenzo Sanz. Und Figo kam.
+
+Danach wurde es zur Gewohnheit. Jeden Sommer kam ein weiterer der berühmtesten Spieler der Welt. Zinedine Zidane von Juventus. Ronaldo, der Brasilianer, von Inter. David Beckham von Manchester United. Die Mannschaft bekam den Spitznamen Galácticos, die Galaktischen, und er blieb hängen.
+
+Die Idee war einfach: die besten Spieler der Welt im berühmtesten Trikot der Welt. Und eine Zeit lang gewann sie. Pokal Nummer neun, der Volley von Zidane, von dem Sie gerade gehört haben, gehört in diese Jahre.
+
+[wry] Kritiker sagten, eine Sammlung von Stars sei noch keine Mannschaft. 2006 trat Pérez zurück, aus eigenem Entschluss. Drei Jahre später war er wieder da, und die großen Transfers gingen von vorn los, diesmal mit Cristiano Ronaldo.
+
+Seitdem ist er Präsident. Das Stadion um Sie herum wurde unter ihm umgebaut. Im Juni 2026 hatten die socios dann ihre erste umkämpfte Präsidentenwahl seit zwanzig Jahren, eine echte Wahl zwischen Pérez und dem Unternehmer Enrique Riquelme. Pérez bekam etwa zwei Drittel der Stimmen. Stand Herbst 2026 ist er in seiner achten Amtszeit.
+
+Ob man ihn mag oder nicht: Vieles, was Sie auf dieser Tour sehen, von den Transfers bis zum Stahl draußen, trägt seine Handschrift.
+
+Gehen Sie jetzt zurück zur Reihe der Pokale, zu Pokal Nummer zehn, dem aus Lissabon.

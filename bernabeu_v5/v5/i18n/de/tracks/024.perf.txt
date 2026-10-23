@@ -1,0 +1,28 @@
+@id: 024 · DE · Benches · pitchside · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Benches · pitchside
+@type: W
+@title: Trainerbänke · Der Blick von der Bank
+@where: Auf Spielfeldhöhe, bei den Trainerbänken neben dem Spielfeld, mit den Tribünen, die ringsum aufsteigen.
+@what: Miguel Muñoz, captain of the first European Cup winners, then coach for 14 consecutive years from 1960 (605 matches, 14 titles); Carlo Ancelotti matching that record on 14 August 2024 and leaving in May 2025 with 15, the most in club history; Xabi Alonso (June 2025 to January 2026), Álvaro Arbeloa (January to June 2026); José Mourinho, coach since June 2026, second spell (first 2010–13); the stadium seen from pitch level.
+@listen: Who has sat on this bench, how long the seat has been kept, and what the stadium looks like from the bottom.
+@brief: Standing at the touchline with a friend, looking up; respectful about the long-serving names, wry about how quickly the seat changes hands.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/es-ES/noticias/club/actualidad/36-anos-sin-miguel-munoz-16-07-2026 (OFF, read 23 Oct 2026: player 1948–1958, captain who lifted the first Copa de Europa; coach 1960–1974, "14 años consecutivos"; 605 matches, club record; 14 titles incl. two Copas de Europa and nine Ligas) ; https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/ancelotti-iguala-a-miguel-munoz-como-el-entrenador-con-mas-titulos-en-el-real-madrid-14-08-2024 (OFF, read 23 Oct 2026: 14 August 2024, UEFA Super Cup, Ancelotti equals Muñoz as the coach with most trophies) ; Ancelotti 15 titles, most in club history, left May 2025: FACTS D8 (OFF) ; Xabi Alonso June 2025 to 12 January 2026, Arbeloa January to June 2026: FACTS D10 (SEC2) ; Mourinho appointed 11 June 2026, second spell, first 2010–13: FACTS D11 (SEC2: PA via irishnews.com, guardian.ng) ; benches "a pie de campo": https://www.realmadrid.com/es-ES/tour-bernabeu/individual/classic-individual (OFF) ; grass underground except for matches, other elements may be on the pitch: https://www.realmadrid.com/en-US/tour-bernabeu (OFF) ; 360° screen ring hung from the roof: FACTS C16 (OFF)
+@lang: de
+@translation: from the fact-checked English Bernabéu 024 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Vierzehn Jahre in Folge führte ein Mann diesen Verein von der Bank aus. Miguel Muñoz hatte Real Madrid schon als Kapitän zum allerersten Europapokal geführt. Dann, ab 1960, trainierte er die Mannschaft. Sechshundertfünf Spiele, bis heute Vereinsrekord. Zwei weitere Europapokale, neun Meistertitel, insgesamt vierzehn Trophäen.
+
+Diese vierzehn blieben ein halbes Jahrhundert lang der Vereinsrekord. Im August 2024 zog Carlo Ancelotti gleich. Als er im Mai darauf ging, hatte er fünfzehn, die meisten aller Trainer in der Geschichte von Real Madrid.
+
+Seitdem ist dieser Platz alles andere als sicher. Xabi Alonso kam im selben Sommer und war im Januar schon wieder weg. Álvaro Arbeloa übernahm für den Rest der Saison. Und Stand Herbst 2026 ist José Mourinho Trainer, seit Juni 2026 zurück für eine zweite Amtszeit hier. Seine erste hatte mehr als ein Jahrzehnt zuvor geendet.
+
+[pause] Schauen Sie jetzt nach oben. Vom obersten Rang fällt das Stadion unter Ihnen ab. Hier unten ist es umgekehrt. Die Tribünen steigen über Ihnen auf, Rang über Rang, bis zum Dach und zum langen Bildschirmring, der daran hängt. Diesen Blick hat ein Trainer neunzig Minuten lang. Und von jedem dieser Sitze aus sieht man ihn.
+
+Schauen Sie auch auf den Boden vor Ihnen. Vielleicht ist er kahl, vielleicht steht Technik darauf. Der Verein bewahrt den Rasen unter der Erde auf, in seinem eigenen Lager, und holt ihn nur für Spiele herauf. An Spielabenden steht ein Trainer genau hier, den Rasen zu seinen Füßen und das ganze Stadion über sich.
+
+[warmly] Der Blick von dieser Bank ist schön. Schwer ist es, ihn zu behalten.
+
+Bleiben Sie hier bei den Trainerbänken, für die Abende, die dieses Stadion ganz am Ende noch gedreht hat.

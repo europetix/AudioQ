@@ -1,0 +1,28 @@
+@id: 002 · DE · Outside · Castellana · 23 Oct 2026 edition
+@section: Outside · The building and the man
+@room: Outside · Castellana
+@type: W
+@title: Außen · Die Stahlhaut
+@where: Draußen auf der Seite des Paseo de la Castellana, weit genug vom Stadion entfernt, um die langen, geschwungenen Edelstahlbänder zu sehen, die ringsum laufen.
+@what: The 2019 to 2026 rebuild of the 1947 stadium: gmp with L35 and Ribas & Ribas, competition won 2014, works from June 2019; home games at the Alfredo Di Stéfano stadium at the training ground until September 2021; the old building largely kept and wrapped in a stainless-steel louvre facade with gaps for natural ventilation; cost of about 1.4 billion to 30 June 2026 in the club's accounts.
+@listen: How the old stadium was kept and wrapped in a new steel skin while football went on, and what it cost.
+@brief: Standing on the pavement with a friend, looking up at the building and explaining the trick behind it; curious, then frank about the bill, then quietly pleased at the last line.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.gmp.de/en/bernabeu (OFF, the architects, read 23 Oct 2026: 2014 competition won by gmp with L35 Arquitectos and Ribas & Ribas; curved outer shell of stainless steel louvres; horizontal gaps for natural ventilation; LEDs planned to light the facade at night; existing building largely retained and enclosed by the new facade; construction began June 2019; stadium opened 1947) ; https://arquitecturaviva.com/obras/remodelacion-del-estadio-santiago-bernabeu (SEC2 via FACTS C1/C3: architects, louvres) ; https://www.si.com/soccer/2021/09/09/real-madrid-bernabeu-stadium-return + https://www.football-espana.net/2021/08/26/real-madrid-santiago-bernabeu-return (SEC2, read 23 Oct 2026: home games at the small Alfredo Di Stéfano stadium at the training complex, Valdebebas, for about a year; first match back v Celta in September 2021; last match there before 1 March 2020) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-real-madrid-cierra-la-temporada-2025-2026-con-los-mayores-ingresos-y-el-mayor-ebitda-de-su-historia-28-07-2026 (OFF via FACTS C17: 1,407.7 million cumulative cost to 30 June 2026, works "prácticamente finalizada") ; slat count and steel maker deliberately omitted (FACTS C5, C6)
+@lang: de
+@translation: from the fact-checked English Bernabéu 002 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Das Stadion vor Ihnen besteht eigentlich aus zwei Gebäuden, eines im anderen. Das innere wurde 1947 eröffnet. Das äußere wurde darum herum gebaut, größtenteils während der Fußball weiterlief.
+
+Der Siegerentwurf im Wettbewerb kam vom deutschen Architekturbüro gmp, zusammen mit zwei spanischen Büros, L35 und Ribas und Ribas. Sie beschlossen, das alte Stadion nicht abzureißen. Stattdessen ließen sie das meiste davon stehen und schlossen es in eine neue Haut ein. Die Bauarbeiten begannen im Sommer 2019.
+
+Der Fußball ging weiter, musste aber eine Zeit lang umziehen. Mehr als ein Jahr lang, in den Spielzeiten der Pandemie, trug Real Madrid seine Heimspiele im kleinen Stadion Alfredo Di Stéfano aus. Es liegt auf dem Trainingsgelände des Vereins am Stadtrand. Dann kehrte die Mannschaft hierher zurück. Die Arbeiten liefen einfach um die Spiele herum weiter, Saison für Saison.
+
+[wry] Billig war dieser Kunstgriff nicht, und er wurde immer teurer. Laut den eigenen Zahlen des Vereins lagen die Gesamtkosten im Juni 2026 bei etwa eins Komma vier Milliarden Euro. Der Verein bezeichnet die Arbeiten als praktisch abgeschlossen.
+
+Schauen Sie sich jetzt die Haut selbst an. Sie ist keine Wand. Sie ist ein Vorhang aus Edelstahl-Lamellen, lange geschwungene Bänder mit Lücken dazwischen. Diese Lücken sind Absicht. Durch sie strömt Luft, so wird das Stadion natürlich belüftet. Über die Zahl der Bänder liest man sehr unterschiedliche Angaben, also lassen wir sie beiseite. Sehen können Sie, wie der Stahl die Farbe des Himmels annimmt. Die Architekten planten auch eine Beleuchtung, die die Fassade nachts in Licht taucht.
+
+[pause] Bleibt man lange genug hier stehen, wirkt das kaum noch wie ein Fußballstadion. Und doch steht irgendwo hinter all dem Stahl noch das Betonstadion von 1947.
+
+Bleiben Sie noch ein paar Minuten hier auf der Seite der Castellana. Die nächste Station handelt von dem Mann, dessen Name auf dem Gebäude steht.

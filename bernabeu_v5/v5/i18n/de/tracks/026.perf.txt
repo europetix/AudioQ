@@ -1,0 +1,24 @@
+@id: 026 · DE · Press room · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Press room
+@type: X
+@title: Presseraum · Extra · Der Presseraum
+@where: Nur wenn der Presseraum bei Ihrem Besuch offen ist: drinnen, an einer Stelle, von der aus Sie die Stirnseite des Raums sehen, wo die Fragen beantwortet werden.
+@what: The press room, offered by the club only as a temporary visit "subject to availability"; what a press conference here is; UEFA's Champions League rule that each club holds a press conference the day before a match with its head coach and at least one player, the visiting club normally in the match stadium.
+@listen: Why the person talking in this room the night before a big European game is often the visiting coach.
+@brief: A quick, knowing aside in a room most visitors only see on television; light, a little wry.
+@pace: medium
+@energy: 3→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu (OFF, read 23 Oct 2026: "Includes temporary visit to press room subject to availability") ; https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2025/26/Article-79-Media-activities-on-the-day-before-the-match-Online (OFF-UEFA, read 23 Oct 2026: art. 79.04 each pre-match press conference attended by the head coach and at least one player; 79.05 press conferences must take place in the stadium where the match will be played, the home club may hold its own at its training ground, visiting clubs only elsewhere in exceptional cases approved by UEFA) ; post-match regulations page could not be fetched (permission timeout), so no post-match rule is stated ; no anecdotes used
+@lang: de
+@translation: from the fact-checked English Bernabéu 026 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Am Abend vor einem großen Europapokalspiel hier ist die Person, die in diesem Gebäude Fragen beantwortet, oft gar nicht von Real Madrid.
+
+Hier ist der Grund. Nach den Regeln der UEFA für die Champions League gibt jeder Verein am Tag vor einem Spiel eine Pressekonferenz, mit dem Cheftrainer und mindestens einem Spieler. Die Gastmannschaft muss ihre Pressekonferenz normalerweise in dem Stadion abhalten, in dem gespielt wird. Der Heimverein darf seine stattdessen auf dem Trainingsgelände abhalten. Wenn also die großen Mannschaften Europas ins Bernabéu kommen, stellen sich ihre Trainer meist zuerst in diesem Stadion den Kameras.
+
+Der Verein öffnet diesen Raum nur an manchen Tagen und zeitweise für Besucher, je nach Verfügbarkeit. Wenn Sie jetzt darin stehen, sehen Sie die andere Seite eines vertrauten Bildes. Im Fernsehen sehen Sie nur, wer antwortet. Hier drinnen sehen Sie, woher die Fragen kommen.
+
+[wry] Ein Spiel dauert neunzig Minuten. Die Fragen beginnen am Tag davor, und sie gehen noch lange nach dem Schlusspfiff weiter.
+
+Wenn Sie so weit sind, gehen Sie weiter zum Store, wo die Tour endet.

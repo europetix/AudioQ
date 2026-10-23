@@ -1,0 +1,34 @@
+@id: 016 · DE · Museum · trophy hall · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum · trophy hall
+@type: W
+@title: Trophäensaal · La Décima
+@where: An der Reihe der Europapokale, bei Pokal Nummer zehn, der Trophäe von 2014, gewonnen in Lissabon.
+@what: La Décima: Lisbon, Benfica's stadium, 24 May 2014, Real Madrid 4–1 Atlético de Madrid after extra time. Godín 36'; Sergio Ramos header 93' (92:48 on the clock) from a Modrić corner; Bale 110', Marcelo 118', Cristiano Ronaldo 120' penalty. Captain Iker Casillas; coach Carlo Ancelotti.
+@listen: Twelve years of waiting, a city derby in a European final, and the header in the ninety-third minute that saved it.
+@brief: A friend retelling the night everyone in Madrid remembers, with the clock ticking in the voice; tense, then a release, then warm.
+@pace: medium
+@energy: 3→5→3
+@sources: https://www.realmadrid.com/es-ES/noticias/club/actualidad/la-decima-cumple-doce-anos-24-05-2026 (OFF, read 23 Oct 2026: 24 May 2014, Estádio do Sport Lisboa e Benfica, 4–1 Atlético; Godín 36', Ramos 93' header, Bale 110', Marcelo 118', Cristiano Ronaldo 120' penalty; coach Ancelotti; twelve years) ; Ramos at 92:48 and Modrić corner, "minuto noventa y Ramos": https://www.mediotiempo.com/futbol/champions-league/sergio-ramos-secreto-cabezazo-decima-real-madrid + https://www.tudn.com/futbol/futbol-retro-sergio-ramos-cumple-34-anos-y-recordamos-su-gol-en-lisboa (SEC2, via FACTS D5b) ; https://uefa.com/uefachampionsleague/news/0223-0e9133b4a77b-52070980c370-1000--porto-bound-casillas-best-real-madrid-moments (OFF-UEFA, read 23 Oct 2026: Casillas captain from 2010, lifted the trophy in 2014; the 2002 substitute) ; cup nine 2002: realmadrid.com la-novena-cumple-24-anos-15-05-2026 (OFF)
+@lang: de
+@translation: from the fact-checked English Bernabéu 016 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Zweiundneunzig Minuten gespielt. Ein Tor im Rückstand. Zwölf Jahre Warten, kurz davor, dreizehn zu werden.
+
+Nach Glasgow 2002 konnte Real Madrid diesen Pokal nicht mehr gewinnen. Saison für Saison schied der Verein aus. Der zehnte Europapokal, La Décima, wurde zur großen offenen Rechnung des Vereins. Jeder in Madrid wusste genau, was diese zwei Worte bedeuteten.
+
+Dann, 2014, erreichte Madrid das Finale in Lissabon. Der Gegner war der eigene Nachbar von der anderen Seite der Stadt, Atlético de Madrid. Zwei Madrider Vereine trafen in einem europäischen Finale aufeinander.
+
+In der sechsunddreißigsten Minute brachte Diego Godín Atlético in Führung. Dann verteidigte Atlético, und verteidigte, während die Minuten vergingen. Die neunzigste kam und ging.
+
+[pause] Bei zweiundneunzig Minuten und achtundvierzig Sekunden auf der Uhr schlug Luka Modrić eine Ecke herein. Sergio Ramos köpfte, und der Ball ging hinein. [long pause] Eins zu eins.
+
+Spanische Fans haben bis heute einen Namen für diesen Moment. Sie nennen ihn „minuto noventa y Ramos“, Minute neunzig und Ramos.
+
+In der Verlängerung zog Madrid davon. Gareth Bale traf, dann Marcelo, dann Cristiano Ronaldo vom Elfmeterpunkt. Vier zu eins für die Mannschaft von Carlo Ancelotti.
+
+Und hier das Detail, das viele falsch erzählen: Ramos war an diesem Abend nicht Kapitän. [warmly] Der Kapitän, der diesen Pokal in die Höhe stemmte, war Iker Casillas. Derselbe Torwart, der zwölf Jahre zuvor in Glasgow als zwanzigjähriger Ersatzmann ins Spiel gekommen war.
+
+Wenn Sie also auf Pokal Nummer zehn schauen, sehen Sie den, mit dem der Knoten platzte. Innerhalb von vier Jahren folgten drei weitere.
+
+Gehen Sie die Reihe entlang zu den Pokalen elf, zwölf und dreizehn.

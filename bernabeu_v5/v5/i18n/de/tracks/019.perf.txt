@@ -1,0 +1,30 @@
+@id: 019 · DE · Museum · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum
+@type: W
+@title: Museum · Der Ballon d'Or
+@where: Im Museum, an der Ausstellung zum Ballon d'Or: goldene Bälle in Glasvitrinen. Wenn Sie sie nicht finden, passt für diese Geschichte jede ruhige Ecke bei den Trophäen.
+@what: Ballon d'Or awards won while at Real Madrid, up to and including the 2025 award: 12 awards to 8 players (Di Stéfano 1957, 1959; Kopa 1958; Figo 2000; Ronaldo Nazário 2002; Cannavaro 2006; Cristiano Ronaldo 2013, 2014, 2016, 2017; Modrić 2018; Benzema 2022). The club's own wider list (11 players, 18 awards, incl. awards won elsewhere and Di Stéfano's 1989 Super Ballon d'Or). The 2024 ceremony the club did not attend.
+@listen: Who won football's best-known individual prize while wearing white, why you may hear two different totals, and the year the club stayed away.
+@brief: A friend sorting out a muddle of numbers with a smile, then telling one honest story about pride; light, then wry, then even.
+@pace: medium
+@energy: 2→3→3
+@sources: Twelve awards to eight players while at the club: https://www.si.com/soccer/every-real-madrid-player-to-win-the-ballon-d-or + https://www.planetfootball.com/quick-reads/real-madrid-ballon-dor-winners-cristiano-ronaldo-figo-modric-benzema (SEC2, via FACTS B6) ; club's own list incl. awards won at other clubs and the 1989 Super Balón de Oro: https://www.realmadrid.com/es-ES/el-club/historia/futbol/primer-equipo-masculino/trofeos (OFF, via FACTS B6) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/centenario-del-nacimiento-de-alfredo-di-stefano-04-07-2026 (OFF, read 23 Oct 2026: two Ballons d'Or; Súper Balón de Oro 1989 from France Football, the only player to have won it) ; display exists in the museum: https://miraespanha.com/en/the-bernabeu-tour/ (May 2026, glass case, Ronaldo's 2002 award on a mineral base) + https://studyabroad.gwu.edu/node/4501 (May 2026, "Ballon d'Ors" on display) (SEC2 visitor reports; exact position not documented) ; 2024 boycott: https://www.ewn.co.za/2024/10/29/rodri-wins-mens-ballon-dor-as-real-madrid-boycott (AFP, read 23 Oct 2026: Rodri won, delegation did not attend, "Real Madrid does not go where it is not respected") + audit S30 https://uk.sports.yahoo.com/news/ballon-d-organisers-announce-tiny-185219758.html (Vinícius second, 1,170 v 1,129) (SEC2) ; 2026 ceremony (26 Oct 2026) deliberately not mentioned
+@lang: de
+@translation: from the fact-checked English Bernabéu 019 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Nur ein einziger Fußballer hat je einen Super Ballon d'Or bekommen. Es war eine einmalige Auszeichnung, eine Art Bester der Besten. Und er spielte für diesen Verein.
+
+Es war Alfredo Di Stéfano, 1989. Die französische Zeitschrift France Football, die den Ballon d'Or ins Leben gerufen hat, verlieh ihm diesen Preis. Dazu kamen die zwei gewöhnlichen, die er hier schon gewonnen hatte.
+
+Der Ballon d'Or ist der bekannteste Preis des Fußballs für einen einzelnen Spieler. Und die Trophäe ist genau das, was der Name sagt: ein goldener Ball. Bis einschließlich der Verleihung 2025 haben Spieler ihn zwölfmal im Trikot dieses Vereins gewonnen, insgesamt acht verschiedene Männer.
+
+Di Stéfano, zweimal. Der Franzose Raymond Kopa. Luís Figo, in seiner ersten Saison hier. Ronaldo, der Brasilianer. Der italienische Verteidiger Fabio Cannavaro. Cristiano Ronaldo, viermal. Luka Modrić. Und Karim Benzema, der jüngste der zwölf.
+
+[wry] Vielleicht sehen oder hören Sie eine größere Zahl. Die eigene Liste des Vereins zählt elf Spieler und achtzehn Auszeichnungen. Denn sie enthält auch goldene Bälle, die seine Spieler bei anderen Vereinen gewonnen haben, etwa den von Zidane bei Juventus. Und sie zählt Di Stéfanos Sonderpreis mit. Beide Zahlen sind ehrlich, sie zählen nur Verschiedenes.
+
+Und noch eine Geschichte, weil sie den Stolz des Vereins von der anderen Seite zeigt. 2024 galt Vinícius Júnior weithin als Favorit. [pause] Stunden vor der Gala in Paris kündigte Real Madrid an, dass die gesamte Delegation fernbleiben würde. Der Verein sah im Ergebnis eine Brüskierung seines Spielers. Eine Quelle im Verein gab der Nachrichtenagentur AFP eine kurze Erklärung: „Real Madrid geht nicht dorthin, wo man es nicht respektiert.“ Der Preis ging an Rodri von Manchester City. Vinícius wurde Zweiter.
+
+Was immer Sie von dieser Antwort halten: Sie zeigt, wie dieser Verein sich selbst sieht.
+
+Hier im Museum gibt es zwei kurze Extra-Titel, über das andere Real Madrid und über die Meisterschafts- und Pokaltrophäen. Wenn die Kabine und die Trainerbänke heute geschlossen sind oder Sie vor dem Panoramablick ins Museum gekommen sind, spielen Sie Nummer zweiundzwanzig. Andernfalls ist die nächste Hauptstation die Kabine.

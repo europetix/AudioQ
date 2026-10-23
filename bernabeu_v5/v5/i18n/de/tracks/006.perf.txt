@@ -1,0 +1,28 @@
+@id: 006 · DE · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: W
+@title: Panorama · Das Dach und der Ring
+@where: Auf der Panoramaebene, mit Blick nach oben: das Dach über dem Stadion und, unter seiner Innenkante, das durchgehende Band aus Videobildschirmen, das das ganze Rund umläuft.
+@what: The retractable roof, 55 m above the ground, carried on supports in the towers on the Castellana and on Calle Padre Damián, closing in around a quarter of an hour; the roof steel as given by its fabricator; the 360° video scoreboard by Daktronics, 6.5 m high on the sides and corners, 11 m at the ends, tilted 8°, first used at the Clásico of 21 April 2024 (Real Madrid 3–2 Barcelona, Bellingham in stoppage time).
+@listen: How the roof stays up with no pillars in the stands, how long it takes to close, and the ring of screens that was switched on for a Clásico.
+@brief: Head tilted back beside a friend, explaining the engineering overhead in plain words; curious, a touch wry about the screen, lifting at the Clásico.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/news/club/latest-news/all-the-latest-news-at-the-santiago-bernabeu-in-the-21st-century (OFF, read 23 Oct 2026: retractable roof installed 55 m above the ground; the new towers on the Castellana are a structural support for the roof; "the other two supports for the roof are on Calle Padre Damián") ; https://www.iasoglobal.com/en/stories/iaso-covers-the-santiago-bernabeu/ + https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/con-750-millones-se-reformo-en-90-dias-asi-es-el-nuevo-estadio-del-real-madrid-nid07092023/ (SEC2 via FACTS C8: closes in under 15 / 15 to 20 minutes, scripted "around a quarter of an hour") ; https://www.constructionbriefing.com/news/building-real-madrids-new-roof-with-lightweight-steel/8049238.article + https://www.all-about-industries.com/premium-steel-for-the-estadio-santiago-bernabeu-a-327e573d119ae38fdceebbbe006b802c/ (read 23 Oct 2026; both report the fabricator Horta Coslada: about 12,000 to 13,000 t of steel for the roof, about 20,000 t with other steel grades; single origin, so attributed to the builders and given as a range, WEAK) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-santiago-bernabeu-estrena-su-espectacular-videomarcador-360-21-04-2024 (OFF via FACTS C16: 360° screen hung from the roof, 6.5 m high on sides and corners, 11 m at the ends, inclined 8°, truncated cone, Daktronics, debut at the Clásico on 21 April 2024, only two other stadiums worldwide, both in the US, have one) ; https://www.skysports.com/football/news/11095/13120680/real-madrid-3-2-barcelona-jude-bellingham-hits-stoppage-time-el-clasico-winner + https://www.beinsports.com/en-us/soccer/la-liga/articles/jude-bellingham-is-real-madrids-el-clasico-hero-to-tighten-grip-on-laliga-title-2024-04-21 (SEC2: Real Madrid 3–2 Barcelona, 21 April 2024, Bellingham stoppage-time winner) ; no Eiffel Tower comparison, no screen area, no "largest" claim
+@lang: de
+@translation: from the fact-checked English Bernabéu 006 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Kein einziger Pfeiler auf diesen Tribünen trägt das Dach über Ihnen. [pause] Das Ganze wird von den Rändern des Stadions getragen.
+
+Laut Verein ruht das Dach auf Stützen in den Türmen auf der Seite der Castellana und auf zwei weiteren gegenüber, an der Calle Padre Damián. Dazwischen spannen sich gewaltige Stahlfachwerke. Der Verein gibt die Höhe des beweglichen Dachs mit fünfundfünfzig Metern über dem Boden an. Die Firma, die diese Fachwerke gebaut hat, spricht von rund zwölftausend Tonnen Stahl. Das ist weit weniger, als gewöhnlicher Stahl gebraucht hätte.
+
+Die Mitte des Dachs kann sich über dem Spielfeld schließen und wieder öffnen. Das Schließen dauert etwa eine Viertelstunde. Ist es zu, liegt das ganze Rund unter Dach.
+
+Senken Sie jetzt den Blick ein wenig, zum Band aus Bildschirmen unter der Innenkante des Dachs. Der Verein nennt es eine Videoanzeigetafel über dreihundertsechzig Grad, einen einzigen Ring, der ganz herumläuft. Er ist nicht überall gleich hoch. An den Seiten und in den Ecken misst er sechseinhalb Meter. Hinter jedem Tor steigt er auf elf Meter. Und jede Tafel ist um acht Grad geneigt, der Ring ist also gar keine gerade Wand. Er ist ein flacher Kegel mit abgeschnittener Spitze.
+
+[wry] Der Verein ist hier vorsichtig. Er beansprucht keine Weltpremiere. Er sagt nur, dass zwei andere Stadien, beide in den Vereinigten Staaten, etwas Vergleichbares hatten. Gebaut hat ihn die amerikanische Firma Daktronics.
+
+[warmly] Sein erster Abend war der Clásico gegen Barcelona, am einundzwanzigsten April 2024. Real Madrid gewann mit drei zu zwei. Den Siegtreffer erzielte Jude Bellingham in der Nachspielzeit, und der neue Ring hatte sein erstes großes Tor zu zeigen.
+
+Schauen Sie jetzt vom Geländer hinunter auf den Boden des Stadions. Und darauf, was ihn heute bedeckt, oder eben nicht.
