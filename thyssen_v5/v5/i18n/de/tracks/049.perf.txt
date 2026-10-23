@@ -1,0 +1,26 @@
+@id: 049 · DE · Room 44 · 23 Oct 2026 edition
+@section: Level 1 · Surrealism, America and Pop
+@room: Room 44
+@type: R
+@title: Saal 44 · René Magritte — Der Schlüssel der Felder (La Clef des champs)
+@where: Saal 44, „Dada und Surrealismus“. Stellen Sie sich vor die hochformatige Leinwand mit einem zerschlagenen Fenster, das den Blick auf eine Landschaft öffnet. Auf dem Boden liegen Glasscherben, die noch Teile der Aussicht tragen.
+@what: René Magritte, The Key of the Fields (La Clef des champs), 1936, oil on canvas, 80 × 60 cm. Also: Kurt Schwitters, Merzbild Kijkduin, 1923, oil, pencil and wood assemblage on cardboard, Room 44.
+@listen: What Dada and Surrealism wanted, and a broken window that makes you doubt what you just saw.
+@brief: A guide opening the door to a stranger world; crisp on the history, playful and conspiratorial at the broken glass.
+@pace: medium
+@energy: 3→4
+@sources: https://www.museothyssen.org/en/collection/artists/magritte-rene/key-fields-clef-des-champs (OFF: Room 44, Level 1; 1936; oil on canvas 80 × 60 cm; inv. 657; a landscape framed by a window broken by an impact, the shards on the ground painted with fragments of the same landscape; what we saw through the window was an image painted on the glass, illusion and reality the same; continues The Human Condition of three years earlier; 1934 letter to Breton: eliminate the difference between the view from outside and from inside the window; Breton saw window and mirror as images of liberation; "la clef des champs" colloquially means freedom) ; https://www.museothyssen.org/en/collection/artists/schwitters-kurt/merzbild-kijkduin (OFF: Room 44; 1923; made in Holland from objects found on the beach at Kijkduin near The Hague, driftwood and debris; "Dada tour" with Theo and Petro van Doesburg; Merz his invented word; owned until 1957 by Hannah Höch, who hid her collection in a dried-up well in her garden until 1945) ; Dada and Surrealism intro: audit grade OK (standard), no load-bearing detail ; Dalí in the temporary show "The Freudian Universe of Dalí", ground floor, until 24 Jan 2027: research/CURRENT_LOCATIONS_OCT2026.md (page label "Temporary Exhibition Rooms") — removable sentence, no date or details
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 049 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Etwas ist mitten durch dieses Fenster gekracht. Das Glas liegt in Scherben am Boden. Und jede Scherbe zeigt noch ein Stück der Landschaft.
+
+Dieser Saal heißt „Dada und Surrealismus“. Dada entstand aus Abscheu vor dem Ersten Weltkrieg. Künstler antworteten auf das Gemetzel mit Unsinn, Zufall und Abfall. [pause] Daraus wuchs in den 1920er-Jahren in Paris der Surrealismus, angeführt vom Dichter André Breton. Der Surrealismus suchte nach Träumen und dem verborgenen Geist.
+
+[pause] Sehen Sie nun noch einmal René Magrittes Fenster an. Wenn die Scherben am Boden die Aussicht tragen, dann war das, was Sie durch das Glas sahen, nie die echte Landschaft. Es war ein Bild, auf das Fenster gemalt. Magritte schrieb an Breton, das Wesentliche sei, den Unterschied aufzuheben zwischen dem, was man von außerhalb eines Fensters sieht, und dem, was man von innen sieht. Der Titel hilft. Auf Französisch bedeutet la clé des champs, der Schlüssel der Felder, Freiheit. Zerbrechen Sie das Glas, und Sie sind draußen.
+
+Das Dalí-Traumbild des Museums ist in der Wechselausstellung Das freudsche Universum Dalís zu sehen, im Erdgeschoss, bis zum vierundzwanzigsten Januar 2027.
+
+[amused] Bevor Sie gehen, suchen Sie das Merzbild Kijkduin von Kurt Schwitters. 1923, auf einer Dada-Tournee durch Holland, sammelte er Treibholz und anderes Strandgut an einem Strand bei Den Haag. Daraus baute er dieses Bild. [pause] Jahrelang gehörte es der Künstlerin Hannah Höch. Sie hielt ihre Sammlung in der Nazizeit in einem trockenen Brunnen in ihrem Garten versteckt.
+
+Weiter geht es in Saal 45, „Realismen der Zwischenkriegszeit“: Hoppers Frau auf einem Hotelbett, die einen Zugfahrplan liest.

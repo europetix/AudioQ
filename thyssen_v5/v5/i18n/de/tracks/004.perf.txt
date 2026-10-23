@@ -1,0 +1,30 @@
+@id: 004 · DE · Room 3 · 23 Oct 2026 edition
+@section: Level 2 · The first faces
+@room: Room 3
+@type: W
+@title: Saal 3 · Gerard David — Die Kreuzigung
+@where: Saal 3, „15. Jahrhundert. Frühe niederländische Malerei“. Suchen Sie die hochformatige Tafel, etwa 88 mal 56 Zentimeter: Christus am Kreuz knapp neben der Mitte, links die Jungfrau, der heilige Johannes und Maria Magdalena, rechts eine Schar von Schaulustigen mit einem Mann in leuchtend gestreifter Kleidung vorn, alles in scharfem Orange, Grün und Gelb.
+@what: Gerard David, The Crucifixion (La Crucifixión), ca. 1475, oil on panel, 88 × 56 cm, inv. 125 (1928.3). Also: Follower of Dirck Bouts, The Virgin and Child (La Virgen con el Niño), ca. 1465, oil on panel, 28.5 × 20 cm, inv. 60 (1933.10), Room 3. Jan van Eyck, The Annunciation Diptych, named only as away on loan.
+@listen: A Crucifixion that holds back the pain, the striped onlooker with a twin in a famous prayer book, and how Van Eyck is still present in a room he has left for the season.
+@brief: Standing with a friend in front of an early, quiet Crucifixion; calm and close-looking, a small pleasure at the borrowed figures, plain and brief about the loan, tender on the little Virgin.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/david-gerard/crucifixion (OFF, re-read 23 Oct 2026: "Room 3" / Level 2; The Crucifixion, La Crucifixión; ca. 1475; oil on panel; 88 × 56 cm; inv. 125 (1928.3); David born in Oudewater in the northern Low Countries, documented in Bruges from 1484, no information on his training; placed in his earliest phase around 1475, chronology much debated; Christ slightly off-centre marking the central axis; Virgin, Saint John and the Magdalen on diagonal lines, looking back to Rogier van der Weyden; spectators on the right, foreground figure in brightly coloured striped clothes, parallels with Campin; narrative structure compared to a miniature in the Book of Hours of Catherine of Cleves, Morgan Library, New York, around 1440, with two figures identical to the man in the striped tunic and the one beside him; "acid orange, green and yellow"; avoids the most physically dramatic moments of the Passion, little emphasis on the wounds; his most important contribution the development of landscape, leading towards Patinir; Augustinian monastery of Saint Florian near Linz, Paul Cassirer, Berlin, Thyssen 1928) ; https://www.museothyssen.org/en/collection/artists/bouts-dirck-follower/virgin-and-child (OFF, re-read 23 Oct 2026: "Room 3"; ca. 1465; 28.5 × 20 cm; inv. 60 (1933.10); follows Van Eyck's Virgin and Child at the Fountain, 1439, Antwerp; richly embroidered ceremonial cloth and low wall of regular blocks kept; angels holding the cloth not included; flower garden replaced by plants and grass; apple on the Child's leg, Redeemer and Mary as the New Eve; size and subject suggest private devotion) ; https://www.museothyssen.org/en/collection/artists/daret-jacques/nativity (re-read 23 Oct 2026: "Not exhibited", so the Daret is no longer described) ; https://www.museothyssen.org/en/collection/artists/eyck-jan-van/annunciation-diptych (page still says Room 3; loan to The Hague per research/AUDIT_V5_001-035.md and CURRENT_LOCATIONS, Mauritshuis show 15 Oct 2026 – 17 Jan 2027: removable sentence)
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 004 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Hier ist eine Kreuzigung, die den Schmerz zurückhält. Gerard David verweilt kaum bei den Wunden an Händen und Füßen. Er gibt Ihnen stattdessen eine Menschenmenge, und Farbe.
+
+David wurde in Oudewater geboren, in den nördlichen Niederlanden, und machte Karriere in Brügge. Dort ist er erstmals 1484 belegt. Diese Tafel gilt als eines seiner frühesten Werke, um 1475, auch wenn ihre Datierung viel diskutiert wurde.
+
+[pause] Christus hängt knapp neben der Mitte und teilt das Bild in zwei Hälften. Links stehen die Jungfrau, der heilige Johannes und Maria Magdalena auf diagonalen Linien. Diese Gruppe blickt zurück auf Rogier van der Weyden, den großen flämischen Maler der Generation davor. [pause] Rechts stehen die Schaulustigen. Suchen Sie den Mann vorn, in leuchtend gestreifter Kleidung. Fachleute sehen darin den Einfluss von Robert Campin, denn Campin liebte gestreifte Gewänder.
+
+[amused] Und er hat einen Zwilling. Er und der Mann neben ihm gleichen genau zwei Figuren in einem berühmten illuminierten Gebetbuch, dem Stundenbuch der Katharina von Kleve. Es entstand um 1440 und befindet sich heute in New York.
+
+Nun zur Farbe. Dieses scharfe, fast säuerliche Orange, Grün und Gelb ist Davids Handschrift. Seine eigentliche Begabung war am Ende die Landschaft, und sie führt weiter zu Patinir, dem Sie in Saal 10 begegnen.
+
+Ein ehrlicher Hinweis. Jan van Eycks winzige Verkündigung, die sonst in diesem Saal hängt, ist bis Januar 2027 an das Mauritshuis in Den Haag ausgeliehen.
+
+[warmly] Und doch ist Van Eyck auf gewisse Weise hier. Suchen Sie die kleine Madonna mit Kind eines Nachfolgers von Dirck Bouts, um 1465 für das private Gebet gemalt. Sie beruht auf Van Eycks Madonna am Brunnen, mit demselben bestickten Tuch hinter Maria und derselben niedrigen Mauer aus Steinblöcken. [pause] Die Engel, die das Tuch hielten, sind verschwunden, und Van Eycks Blumengarten ist zu Gras geworden. Auf dem Bein des Kindes liegt ein kleiner Apfel. Er weist das Kind als Erlöser aus, und Maria als neue Eva.
+
+In Saal 4 gibt es einen kurzen Extra-Titel über Bramantinos bleichen auferstandenen Christus mit den geröteten Augen. Die nächste Hauptstation ist Saal 5, der Porträtsaal.

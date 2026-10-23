@@ -1,0 +1,24 @@
+@id: 008 · DE · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: X
+@title: Saal 5 · Extra · Hans Memling — Bildnis eines betenden jungen Mannes
+@where: Saal 5, „15. und 16. Jahrhundert. Porträtmalerei der Renaissance“. Suchen Sie eine kleine Tafel, etwa 29 mal 22 Zentimeter: ein junger Mann im Dreiviertelprofil mit zum Gebet gefalteten Händen, in einer Loggia, die sich auf eine Landschaft öffnet, vor ihm auf der Brüstung ein gemusterter Teppich.
+@what: Hans Memling, Portrait of a Young Man praying (recto), ca. 1485, oil on panel, 29.2 × 22.5 cm, inv. 284.a (1938.1.a). On the reverse: Flowers in a Jug.
+@listen: The missing Virgin this young man was praying to, and the jug of flowers on the back that is one of the first still lifes in art.
+@brief: A quick, delighted aside to a friend; gentle on the prayer, lightly excited about the back of the panel, honest that it may not be visible.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/memling-hans/portrait-young-man-praying-recto (OFF: "Room 5" / Level 2; ca. 1485; oil on panel; 29.2 × 22.5 cm; part of a larger ensemble, "If the work had formed part of a triptych there would have been a figure of a female donor on the right wing", central Virgin and Child; sitter unidentified, perhaps of the Italian community in Bruges, others suggest a Spanish client; loggia onto a landscape with an oriental rug on the ledge; Memling "contributed in a crucial manner to disseminating this model in Flemish art"; reverse "one of the first independent still lifes known in art", jug with Christ's monogram, lilies for purity, irises for Queen of Heaven and mater dolorosa, aquilegias for the Holy Spirit; Hamilton collection, Thyssen 1938) ; PLAN.md B (CHECK on site whether the back is visible: hedged in the script)
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 008 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieser junge Mann betet zu jemandem, der nicht mehr hier ist.
+
+Die Haltung verrät es: Seine Hände sind gefaltet, und sein Blick ruht auf etwas jenseits des Rahmens. Das Museum vermutet, dass er ein Flügel eines kleinen Triptychons war. In der Mitte eine Madonna mit Kind. Auf dem anderen Flügel wahrscheinlich eine Stifterin, ebenfalls betend. [pause] Nur seine Tafel ist hier, und niemand kennt seinen Namen. Vielleicht gehörte er zur italienischen Gemeinde in Brügge, wo Memling arbeitete. Einige Fachleute haben aber auch einen spanischen Auftraggeber vermutet.
+
+[pause] Sehen Sie, was ihn umgibt. Eine Loggia öffnet sich auf eine sanfte Landschaft, und auf der Brüstung liegt ein orientalischer Teppich. Memling hat diese Art offenen Hintergrunds nicht erfunden, aber er hat viel zu ihrer Verbreitung beigetragen.
+
+[lightly] Nun die Überraschung. Auf die Rückseite dieser Tafel malte Memling einen Krug mit Blumen, versehen mit dem Monogramm Christi. Lilien für Marias Reinheit, Iris für sie als Himmelskönigin und Akeleien für den Heiligen Geist. [pause] Es ist eines der ersten bekannten eigenständigen Stillleben der Kunst. Wenn die Tafel so gezeigt wird, dass man ihre Rückseite sehen kann, gehen Sie herum und schauen Sie.
+
+Treten Sie in die lange Villahermosa-Galerie, Saal 6: Suchen Sie eine Venezianerin mit Rosen und einem Affen an einer Kette.

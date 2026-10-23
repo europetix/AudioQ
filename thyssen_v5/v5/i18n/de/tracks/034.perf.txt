@@ -1,0 +1,26 @@
+@id: 034 · DE · Room 31 · 23 Oct 2026 edition
+@section: Level 1 · America and the Impressionists
+@room: Room 31
+@type: W
+@title: Saal 31 · Frederic Edwin Church — Kreuz in der Wildnis
+@where: Saal 31, „19. Jahrhundert. Amerikanische Landschaft und Umweltbewusstsein“. Suchen Sie eine kleine, breite Leinwand, etwa 60 Zentimeter breit: ein einsames, mit Girlanden behängtes Kreuz in einer felsigen Landschaft, rechts davon ein Wasserfall und ein See, unter einem weiten Abendhimmel. Thomas Coles größere, dunklere Szene mit einer Steinbrücke und einem leuchtenden Bogen über einem Abgrund hängt im selben Saal.
+@what: Frederic Edwin Church, Cross in the Wilderness, 1857, oil on canvas, 41.3 × 61.5 cm, inv. 508. Also: Thomas Cole, Expulsion. Moon and Firelight (Expulsión. Luna y luz de fuego), ca. 1828, oil on canvas, 91.4 × 122 cm, inv. 95.
+@listen: A landscape painted in memory of a dead child, the Andean roadside crosses behind it, and the teacher who saw America as an Eden at risk.
+@brief: Gentle and respectful before a memorial picture, then more animated about Cole and the room's idea; quiet at the start, warm at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/church-frederic-edwin/cross-wilderness (OFF: Room 31 / Level 1; 1857; 41.3 × 61.5; commissioned by the family of William Harmon Brown after the death of one of their children; travels in Ecuador and Colombia, preparing a second expedition; garlanded cross; waterfall and calm lake, rock formation, faint peaks, vast evening sky; 1865, two of Church's young children died of diphtheria and he painted two small pictures on the theme; Manthorne links the cross to the Andean "paraderos de los difuntos", roadside places where the dead were laid and marked with a simple cross of twigs) ; https://www.museothyssen.org/en/collection/artists/cole-thomas/expulsion-moon-and-firelight (OFF: Room 31 / Level 1; ca. 1828; "considered the founder of North American landscape painting"; bridge over a deep drop seen in the White Mountains in 1827; Expulsion with neither figure shown; Paradise on the right, glowing light in the arch; bridge, waterfall, volcano, moon; feared rapid industrialisation; quotation from his essay, "we are still in Eden; the wall that shuts us out of the garden is our own ignorance and folly", spoken with a full stop for the semicolon) ; https://www.metmuseum.org/en/essays/the-hudson-river-school (Met: Cole usually called the founder; taught Church 1844–1846; "America's first true artistic fraternity")
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 034 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Eine Familie hatte ein Kind verloren. Sie bat Frederic Church um ein Gemälde zur Erinnerung, und 1857 gab er ihr dieses.
+
+Es gibt kein Bildnis und keinen Engel. Im Vordergrund steht ein schlichtes Kreuz, mit Girlanden behängt. Rechts davon stürzt ein Wasserfall in einen stillen See, unter einer großen Felswand. [pause] Die fernen Gipfel haben sich fast aufgelöst, und über allem breitet sich ein weiter Abendhimmel.
+
+Church war durch Ecuador und Kolumbien gereist und wollte bald zurückkehren. In den Anden beschrieben Reisende Orte am Weg, wo man die Toten niederlegte. Jeder war mit einem schlichten Kreuz aus Zweigen markiert. Ein Fachmann hat dieses Kreuz mit jenen Orten in Verbindung gebracht. [pause] Church lernte diese Trauer selbst kennen. Acht Jahre später starben zwei seiner eigenen kleinen Kinder an Diphtherie, und er malte zwei kleine Bilder zu genau diesem Thema.
+
+Seine Kunst hatte er bei Thomas Cole gelernt, der meist als Gründer der Hudson River School gilt, der ersten echten Künstlergemeinschaft Amerikas. Coles Vertreibung, hier im selben Saal, ist eine Bühnenkulisse. [pause] Eine Steinbrücke über einem Abgrund, ein Wasserfall, ein Vulkan, der Mond. Das Bild zeigt, wie Adam und Eva aus dem Paradies vertrieben werden, doch keiner von beiden ist zu sehen. Eden leuchtet einfach durch den Bogen rechts.
+
+[warmly] Cole sorgte sich darum, was die rasche Industrialisierung den wilden Orten Amerikas antat. Er schrieb: „Wir sind noch in Eden. Die Mauer, die uns aus dem Garten aussperrt, ist unsere eigene Unwissenheit und Torheit.“ Darum heißt dieser Saal Amerikanische Landschaft und Umweltbewusstsein. [pause] Die Wildnis hier ist schön, und sie ist auch etwas, das verloren gehen kann.
+
+Weiter geht es in Saal 32: Sargents ganzfiguriges Bildnis von Millicent, Herzogin von Sutherland.
