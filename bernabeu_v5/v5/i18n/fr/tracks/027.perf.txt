@@ -1,0 +1,28 @@
+@id: 027 · FR · Store · 23 Oct 2026 edition
+@section: Store and closing
+@room: Store
+@type: W
+@title: Boutique · Le maillot blanc
+@where: Dans la boutique officielle, à la fin de la visite, à n'importe quel endroit d'où l'on voit les portants et les murs de maillots blancs à domicile.
+@what: Why Real Madrid plays in white (the Corinthian story, told as a story; the club's own history of its early years doesn't explain it); the shirt as identity and business: record revenue of 1,221 million euros in 2025-26 per the club's July 2026 accounts; top of the Deloitte Football Money League for the third year running (January 2026); stadium revenue 363 million euros; a club owned by its members.
+@listen: How a colour borrowed, the story goes, from English amateurs became the uniform of one of the richest clubs in the world.
+@brief: Relaxed and conversational among the racks, a touch amused about the shopping, honest about the money, warm at the close.
+@pace: medium
+@energy: 3→3→3
+@sources: https://www.realmadrid.com/static/sobre-el-real-madrid/historia/futbol/1902-1910 (OFF, read 23 Oct 2026: the club's history page does not say why the shirt is white) ; Corinthian story: https://www.goal.com/es/noticias/corinthian-el-club-de-londres-por-el-que-el-real-madrid-viste-de-blanco/366ulmi0s9qo1tpa6ih3pkofv (Goal, 31 Oct 2017, read 23 Oct 2026: white chosen in honour of Corinthian F.C., the London amateur club founded 1882) + https://www.flashscore.es/noticias/futbol-laliga-real-madrid-blanco-corinthians-descubre-historia/27DsWUJD/ (Flashscore, read 23 Oct 2026: "según la teoría más aceptada", Corinthian a byword for elegance and fair play) = SEC2 that this is the commonly told story; told as a story, details that differ between them (who proposed it, when) left out ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-real-madrid-cierra-la-temporada-2025-2026-con-los-mayores-ingresos-y-el-mayor-ebitda-de-su-historia-28-07-2026 (OFF, read 23 Oct 2026: 2025-26 operating revenue 1,221 million euros, highest in its history, the first time over 1,200 million, which the club says no other sports entity has reached; stadium revenue 363 million; "un club propiedad de sus socios") ; https://www.deloitte.com/fi/fi/about/press-room/real-madrid-tops-deloitte-football-money-league.html (Deloitte, 22 Jan 2026, read 23 Oct 2026: Real Madrid retains top spot, close to 1.2 billion euros in 2024/25) + https://www.realmadrid.com/en-US/news/club/latest-news/real-madrid-informe-2026-01-01-2026 (OFF, headline: "For the third year in a row, Real Madrid is the highest earning football club in the world according to Deloitte") ; racks of shirts in the store: assumed for a club store, not otherwise sourced
+@lang: fr
+@translation: from the fact-checked English Bernabéu 027 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Depuis plus d'un siècle, ce club joue en blanc. Et l'histoire officielle de ses premières années ne dit pas pourquoi.
+
+Voici l'histoire qu'on raconte le plus souvent. Aux débuts du football à Madrid, ceux qui portaient le club admiraient le Corinthian, une équipe amateur de Londres. Le Corinthian était célèbre pour son esprit sportif, et jouait en maillot blanc. Madrid, dit-on, aurait adopté cette couleur en son honneur. C'est une jolie histoire. Retenez que ce n'est qu'une histoire, absente des pages historiques du club.
+
+[pause] Quelle qu'en soit la raison, le blanc est devenu un nom. Dans le monde entier, l'équipe s'appelle tout simplement Los Blancos, les Blancs.
+
+Regardez cette boutique, et vous verrez l'autre moitié de ce que veut dire cette couleur. Le maillot est une identité, et c'est aussi une affaire d'argent. Les comptes du Real Madrid pour la saison terminée en juin 2026 affichent un chiffre d'affaires d'un peu plus d'un milliard deux cents millions d'euros, un record dans son histoire. Le club affirme qu'aucune autre organisation sportive au monde n'a atteint ce chiffre. En janvier 2026, le classement annuel de Deloitte des clubs aux plus gros revenus plaçait le Real Madrid en tête pour la troisième année de suite. Le stade, à lui seul, en a rapporté trois cent soixante-trois millions d'euros.
+
+[quietly] Et voici ce qui surprend. Tout cet argent appartient à un club détenu par ses membres, les socios. À l'automne 2026, il n'a aucun actionnaire. Chaque maillot sur ces murs est, en un sens, vendu en leur nom.
+
+[warmly] Une couleur choisie, dit-on, par admiration pour une équipe d'amateurs anglais. Aujourd'hui, elle habille l'un des clubs les plus riches du monde.
+
+Quand vous le souhaitez, suivez le chemin de sortie de la boutique jusqu'à la rue, et le chemin du retour.

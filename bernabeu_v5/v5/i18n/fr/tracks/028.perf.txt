@@ -1,0 +1,28 @@
+@id: 028 · FR · Exit · 23 Oct 2026 edition
+@section: Closing
+@room: Exit
+@type: CLOSE
+@title: La sortie, et au revoir
+@where: Au bout de la boutique, en quittant le stade. Si la plaque de rue dehors indique Calle Padre Damián, vous êtes du côté est du stade, à l'opposé du côté Castellana par où vous avez commencé.
+@what: The tour ends in the store; the exit street, likely Calle Padre Damián (on-site check); Metro Line 10 suspended between Cuzco and Nuevos Ministerios, including the stadium's station, until the end of 2026, new station due in early 2027; the free S10 replacement bus on the Paseo de la Castellana by Plaza de Lima; Cercanías and Metro lines 6 and 8 at Nuevos Ministerios; a short send-off.
+@listen: How to get away from the stadium while its metro station is closed, and a last look back at the visit.
+@brief: A host walking a guest to the door: clear and practical first, then unhurried and warm for the goodbye.
+@pace: medium-slow
+@energy: 3→2
+@sources: tour ends at the store: brochure July 2026 https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF, via TOUR_ROUTE §1) ; flagship store on Calle Padre Damián, east side: https://www.realmadrid.com/es-ES/noticias/club/actualidad/nueva-tienda-05-06-2024 (OFF, via TOUR_ROUTE §1, §5); that visitors exit there is an inference (on-site check), so spoken conditionally ; https://www.crtm.es/alternativas-transporte-corte-linea-10-cuzco-nuevos-ministerios (OFF*, page "Actualizado: septiembre 2026", read 23 Oct 2026: Line 10 Cuzco–Nuevos Ministerios closed from 28 March 2026 until the end of the year, Santiago Bernabéu station being renewed; S10 replacement bus Plaza de Castilla–Cuzco–Santiago Bernabéu–Nuevos Ministerios, no extra cost for Metro travellers; stops Castellana 93 southbound and 136/140 northbound; Cercanías between Nuevos Ministerios and Chamartín) ; new station due Q1 2027: https://www.comunidad.madrid/node/68200 (OFF*, via TOUR_ROUTE §5) ; S10 free and at Plaza de Lima: TOUR_ROUTE §1 and §5 (OFF* + SEC2) ; Metro lines 6 and 8 at Nuevos Ministerios: AUDIT track 020 row (CRTM) ; first stone 27 October 1944 (FACTS A6b, SEC2) and name from 1955 (FACTS A10, OFF) ; grass underground except for matches (OFF) ; half-time limit (Laws of the Game, see 023)
+@lang: fr
+@translation: from the fact-checked English Bernabéu 028 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Votre visite a commencé dehors, avec un homme et un pari. Une première pierre posée en 1944, et un stade qui a pris son nom onze ans plus tard. Vous la terminez ici, à la porte, parmi les maillots blancs.
+
+D'abord, le chemin du retour. Le personnel vous indiquera la sortie de la boutique. Si la plaque de rue dehors indique Calle Padre Damián, vous êtes du côté est du stade, à l'opposé de votre entrée.
+
+À l'automne 2026, la station de métro du stade est fermée pour travaux. La ligne dix est suspendue sur ce tronçon jusqu'à la fin de l'année, et la nouvelle station est attendue début 2027. Donc, pas de train juste devant.
+
+Faites plutôt le tour du stade jusqu'à la Castellana, la grande avenue où votre visite a commencé. Le bus de remplacement S10, sans surcoût pour les usagers du métro, s'y arrête près de la Plaza de Lima, des deux côtés de l'avenue. Vers le sud, il vous mène à Nuevos Ministerios. Vers le nord, à Plaza de Castilla. Ou descendez la Castellana à pied jusqu'à Nuevos Ministerios, pour les trains de banlieue Cercanías et les lignes six et huit du métro.
+
+[pause] Avant de partir, repensez à ce que vous avez vu. Une pelouse qui reste sous terre, sauf pour les matchs. Une pièce où quinze minutes peuvent renverser une soirée. Un banc que peu d'entraîneurs gardent longtemps. Et quinze Coupes d'Europe, avec un trou de trente-deux ans au milieu.
+
+[quietly] Le prochain soir de grand match, sur votre écran, vous verrez ce stade autrement. Vous saurez où va ce gazon entre les matchs, qui regarde depuis le banc, et ce que signifie l'horloge à la fin.
+
+[warmly] Merci d'avoir fait ce chemin avec moi. Hasta la próxima, à la prochaine.

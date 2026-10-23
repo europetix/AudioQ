@@ -34,3 +34,4 @@ AFTER 26 OCT 2026
 LISTENING CHECKS (after rendering on the Mac)
 [ ] Spanish names sound right in English: Bernabeu, Di Stefano, Puskas, Mijatovic, Gento, Valdano, Llull.
 [ ] Scores and minutes read naturally ("two goals to nil", "the ninety-third minute").
+[ ] ES / FR / DE: "S10" (track 28), "1931-1932" (track 21), "gmp" and "L35" (track 2) read correctly.

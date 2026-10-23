@@ -1,0 +1,30 @@
+@id: 015 · FR · Museum · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum
+@type: W
+@title: Musée · Les Galácticos
+@where: Toujours au musée, près de la salle des trophées. Pas besoin d'une vitrine précise pour cette histoire : tout endroit d'où l'on voit la rangée de coupes fera l'affaire.
+@what: Florentino Pérez elected July 2000, beating Lorenzo Sanz, on a promise to sign Luís Figo from Barcelona; Zidane (2001, from Juventus), Ronaldo Nazário (2002, from Inter), Beckham (2003, from Manchester United); resigned 2006, returned 2009; contested re-election 7 June 2026, 65% to Enrique Riquelme's 35%, proclaimed 11 June 2026 for an eighth term to 2030 (dated).
+@listen: How one election promise started the era of the Galácticos, and the man who has shaped the club, and this stadium, ever since.
+@brief: A friend telling a tale of ambition and showmanship with a raised eyebrow; lively in the middle, even-handed at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/the-club/history/presidents/florentino-perez (OFF, read 23 Oct 2026: "took up the presidency in July 2000 after beating Lorenzo Sanz"; star signings of his first term Figo, Zidane, Beckham, Ronaldo; re-elected 2004, resigned voluntarily two years later; returned 2009; engineer and businessman) ; https://sites.duke.edu/wcwp/2020/04/13/figos-transfer/ (read 23 Oct 2026: "Perez's campaign was based on the promise that he would sign Figo if elected president") + audit S9 New Straits Times (Pérez first elected 2000 promising Figo): SEC2 ; signing years and previous clubs: https://footballwriters.co.uk/news/before-they-became-galacticos/ + https://www.flashscore.com/news/kylian-mbappe-becomes-the-latest-in-a-long-line-of-real-madrid-galacticos/Ms286WlA (SEC2, read 23 Oct 2026: Figo 2000 Barcelona, Zidane 2001 Juventus, Ronaldo 2002 Inter, Beckham 2003 Manchester United) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/comunicado-oficial-de-la-junta-electoral-resultado-elecciones-07-06-2026 and https://www.realmadrid.com/es-ES/noticias/club/actualidad/florentino-perez-proclamado-presidente-11-06-2026 (OFF, via FACTS D9: 21,741 votes, 65%, v Riquelme 11,814, 35%; 8th term to 2030) ; first contested vote in twenty years: audit S10 (ESPN, title) + FACTS D9 history of terms (unopposed 2013, 2017, 2021, 2025) ; "Galácticos" as a nickname, not attributed to Pérez (audit: media label)
+@lang: fr
+@translation: from the fact-checked English Bernabéu 015 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] À l'été 2000, un homme a remporté la présidence du Real Madrid grâce à une promesse sur un seul footballeur.
+
+C'était Florentino Pérez, ingénieur et homme d'affaires. Le footballeur, c'était Luís Figo, la star de Barcelone, le grand rival de Madrid. Pérez a dit que s'il était élu, Figo viendrait. [pause] Il a été élu en juillet, face au président sortant, Lorenzo Sanz. Et Figo est venu.
+
+Puis c'est devenu une habitude : chaque été arrivait une autre des plus grandes stars de la planète. Zinedine Zidane, de la Juventus. Ronaldo, le Brésilien, de l'Inter. David Beckham, de Manchester United. On a surnommé l'équipe les Galácticos, les galactiques, et le nom est resté.
+
+L'idée était simple : les meilleurs joueurs du monde, dans le maillot le plus célèbre du monde. Et pendant un temps, ça a marché. La coupe numéro neuf, celle de la volée de Zidane, appartient à ces années-là.
+
+[wry] Les critiques disaient qu'une collection de stars ne fait pas une équipe. En 2006, Pérez a démissionné, de sa propre initiative. Trois ans plus tard, il était de retour, et les recrutements ont repris, cette fois avec Cristiano Ronaldo.
+
+Il est président depuis. Ce stade a été reconstruit sous sa présidence. Puis, en juin 2026, les socios ont connu leur première élection présidentielle disputée depuis vingt ans, un vrai choix entre Pérez et l'homme d'affaires Enrique Riquelme. Pérez a obtenu environ deux tiers des voix. À l'automne 2026, il effectue son huitième mandat.
+
+Qu'on l'aime ou non, bien des choses que vous voyez ici, des recrues jusqu'à l'acier du dehors, portent sa marque.
+
+Retournez maintenant à la rangée de coupes, pour la coupe numéro dix, celle gagnée à Lisbonne.

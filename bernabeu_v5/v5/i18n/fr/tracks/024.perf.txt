@@ -1,0 +1,28 @@
+@id: 024 · FR · Benches · pitchside · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Benches · pitchside
+@type: W
+@title: Bancs de touche · La vue depuis le banc
+@where: Au niveau du terrain, près des bancs de touche au bord de l'aire de jeu, avec les tribunes qui s'élèvent tout autour de vous.
+@what: Miguel Muñoz, captain of the first European Cup winners, then coach for 14 consecutive years from 1960 (605 matches, 14 titles); Carlo Ancelotti matching that record on 14 August 2024 and leaving in May 2025 with 15, the most in club history; Xabi Alonso (June 2025 to January 2026), Álvaro Arbeloa (January to June 2026); José Mourinho, coach since June 2026, second spell (first 2010–13); the stadium seen from pitch level.
+@listen: Who has sat on this bench, how long the seat has been kept, and what the stadium looks like from the bottom.
+@brief: Standing at the touchline with a friend, looking up; respectful about the long-serving names, wry about how quickly the seat changes hands.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/es-ES/noticias/club/actualidad/36-anos-sin-miguel-munoz-16-07-2026 (OFF, read 23 Oct 2026: player 1948–1958, captain who lifted the first Copa de Europa; coach 1960–1974, "14 años consecutivos"; 605 matches, club record; 14 titles incl. two Copas de Europa and nine Ligas) ; https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/ancelotti-iguala-a-miguel-munoz-como-el-entrenador-con-mas-titulos-en-el-real-madrid-14-08-2024 (OFF, read 23 Oct 2026: 14 August 2024, UEFA Super Cup, Ancelotti equals Muñoz as the coach with most trophies) ; Ancelotti 15 titles, most in club history, left May 2025: FACTS D8 (OFF) ; Xabi Alonso June 2025 to 12 January 2026, Arbeloa January to June 2026: FACTS D10 (SEC2) ; Mourinho appointed 11 June 2026, second spell, first 2010–13: FACTS D11 (SEC2: PA via irishnews.com, guardian.ng) ; benches "a pie de campo": https://www.realmadrid.com/es-ES/tour-bernabeu/individual/classic-individual (OFF) ; grass underground except for matches, other elements may be on the pitch: https://www.realmadrid.com/en-US/tour-bernabeu (OFF) ; 360° screen ring hung from the roof: FACTS C16 (OFF)
+@lang: fr
+@translation: from the fact-checked English Bernabéu 024 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Pendant quatorze années d'affilée, un homme a dirigé ce club depuis le banc. Miguel Muñoz avait déjà été le capitaine du Real Madrid lors de la toute première Coupe d'Europe. Puis, à partir de 1960, il l'a entraîné. Six cent cinq matchs, toujours un record au club. Deux Coupes d'Europe de plus, neuf titres de champion, quatorze trophées en tout.
+
+Ce total de quatorze a été le record du club pendant un demi-siècle. En août 2024, Carlo Ancelotti l'a égalé. Quand il est parti, en mai suivant, il en avait quinze, record absolu pour un entraîneur du Real Madrid.
+
+Depuis, le poste a été tout sauf stable. Xabi Alonso est arrivé cet été-là, et parti dès janvier. Álvaro Arbeloa a pris le relais pour le reste de la saison. Et à l'automne 2026, l'entraîneur est José Mourinho, de retour depuis juin 2026 pour un second passage ici. Le premier s'était achevé plus de dix ans plus tôt.
+
+[pause] Levez maintenant les yeux. Depuis la tribune supérieure, le stade plonge sous vous. Ici, c'est l'inverse. Les tribunes montent au-dessus de vous, étage après étage, jusqu'au toit et au long anneau d'écrans qui y est suspendu. C'est la vue d'un entraîneur pendant quatre-vingt-dix minutes, et chacun de ces sièges a vue sur lui.
+
+Regardez aussi le sol devant vous. Il est peut-être nu, ou couvert de matériel. Le club garde le gazon sous terre, dans sa propre réserve, et ne le remonte que pour les matchs. Les soirs de match, un entraîneur se tient à cet endroit, le gazon à ses pieds et tout le stade au-dessus de lui.
+
+[warmly] La vue est belle depuis ce banc. Le plus dur, c'est de la garder.
+
+Restez ici, aux bancs de touche, pour les soirées que ce stade a renversées tout à la fin.
