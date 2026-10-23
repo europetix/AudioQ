@@ -47,7 +47,8 @@ def bridge_text(cur, nxt):
     subject = subject.replace("Extra · ", "").replace(" — ", ", ")
     lc, ln = level_of(tracks[cur]["room"]), level_of(t["room"])
     level = TXT[2].format(n=ln) if (ln is not None and ln != lc) else ""
-    return TXT[0].format(place=place, level=level, subject=subject)
+    out = TXT[0].format(place=place, level=level, subject=subject)
+    return out[:-1] if out.endswith(("?.", "!.", "..")) else out
 
 
 async def _say(text, mp3):
