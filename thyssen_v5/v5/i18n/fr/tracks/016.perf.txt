@@ -1,0 +1,30 @@
+@id: 016 · FR · Room 12 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 12
+@type: W
+@title: Salle 12 · Le Caravage — Sainte Catherine d'Alexandrie
+@where: Salle 12, « 17e siècle. Le Caravage et la peinture baroque ». Trouvez la grande toile sombre, environ 173 sur 133 cm : une jeune femme en riche robe bleu-violet, agenouillée sur un coussin rouge, appuyée sur une roue à pointes brisée, une épée en travers des genoux, éclairée par la droite.
+@what: Caravaggio (Michelangelo Merisi), Saint Catherine of Alexandria, ca. 1598–99, oil on canvas, 173 × 133 cm, inv. 81 (1934.37). Also: Jose de Ribera, The Pietà, 1633, oil on canvas, 157 × 210 cm, Room 12.
+@listen: A celebrated Roman courtesan posed as a royal martyr, the cardinal who commissioned her, and why the light comes from the wrong side.
+@brief: Telling a friend about the painter who changed everything; a jolt of energy at the start, curious on the light, warm and direct on the woman herself.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museothyssen.org/en/collection/artists/caravaggio-michelangelo-merisi/saint-catherine-alexandria (OFF: "Room 12" / Level 2; ca. 1598-99; oil on canvas; 173 × 133 cm; "almost certainly commissioned in Rome" by Cardinal Francesco Maria del Monte, his first patron; Bellori: "a kneeling saint Catherine, leaning on a wheel"; model Fillide Melandroni, "a celebrated courtesan of the time"; light "from the right", "unusual in Caravaggio's oeuvre", perhaps adapted to a specific location; broken spiked wheel, sword, palm, "costly red damask cushion", dress "as befitting a princess" in blues and violets; sold 1628 to pay the heir's debts, likely to Cardinal Antonio Barberini, Barberini inventories 1644, 1671, 1817; Thyssen 1934 from Lucerne; powerful chiaroscuro before the Contarelli chapel) ; https://www.museothyssen.org/en/collection/artists/ribera-jose/pieta (OFF: "Room 12"; 1633; 157 × 210 cm; signed "Jusepe de Ribera español 1633" on the stone lower right; lighter palette, "a new interest in colour is evident") ; https://www.museothyssen.org/en/collection/artists/ribera-jose/saint-jerome-penitence (EN "Not exhibited", ES "No expuesta", 23 Oct 2026: NOT mentioned) ; https://www.museothyssen.org/en/collection/artists/lorraine-claude/pastoral-landscape-flight-egypt and https://www.museothyssen.org/en/collection/artists/vouet-simon/rape-europa (OFF: both "Room 13" / Level 2, for the cue) ; old/017.txt (Baroque intro, general)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 016 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Le modèle de cette sainte a été identifié : une courtisane célèbre, Fillide Melandroni. À Rome, vers 1598, elle a posé pour le Caravage en princesse et martyre.
+
+Voici l'arrivée du dix-septième siècle. Le Caravage peignait de vraies personnes d'après nature. Il les plaçait dans une obscurité profonde, saisies par une lumière forte. Des peintres de toute l'Europe l'ont suivi.
+
+Le tableau fut presque certainement peint pour le cardinal Francesco Maria del Monte, premier protecteur du Caravage. L'héritier du cardinal s'étant endetté, il fut vendu et passa à la famille Barberini. Il est entré dans cette collection en 1934.
+
+[pause] Catherine d'Alexandrie fut condamnée à être rompue sur une roue à pointes. Voici la roue, fendue et éclatée. Voici l'épée qui lui ôta finalement la vie, et la palme du martyre. Elle s'agenouille sur un précieux coussin de damas rouge, dans une riche robe de bleus et de violets, comme il sied à une princesse.
+
+Voyez d'où vient la lumière. Elle tombe de la droite. C'est inhabituel chez le Caravage. D'où l'idée que le tableau fut conçu pour un lieu précis, avec une vraie lumière venant de ce côté.
+
+[warmly] Et regardez son visage. Votre œil suit les diagonales, la roue, l'épée, la torsion du corps, et arrive à son regard. [pause] Une vraie femme de la Rome du Caravage, qui vous regarde avec un calme parfait.
+
+Trouvez ensuite la large Pietà de Jusepe de Ribera, l'Espagnol qui fit carrière à Naples. Il l'a signée sur la pierre, en bas à droite : Jusepe de Ribera, español, avec la date 1633. [pause] Ici, l'obscurité commence à céder à la couleur.
+
+Gagnez la salle 13, au bout de la longue galerie, avec le paysage pastoral de Claude Lorrain et l'Europe de Vouet sur le taureau blanc. Puis entrez dans la salle 14 : une immense toile où un bébé est tenu en l'air par une cheville.

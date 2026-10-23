@@ -1,0 +1,26 @@
+@id: 009 · FR · Room 6 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 6
+@type: R
+@title: Salle 6 · Paris Bordone — Portrait d'une jeune femme
+@where: Salle 6, « 16e siècle. Galerie Villahermosa », la longue galerie qui va de la salle 5 vers la salle 13. Trouvez la Vénitienne à mi-corps, environ 103 sur 83 cm, dans une robe coûteuse et décolletée, tenant deux roses, avec à côté d'elle un petit singe enchaîné qui mange sur un rebord.
+@what: Paris Bordone, Portrait of a Young Woman, ca. 1543–1550, oil on canvas, 103 × 83 cm, inv. 55 (1936.5). Also: Pier Francesco Mola, Saint John the Baptist Preaching in the Desert, ca. 1650–1655, oil on canvas, 73.5 × 99 cm, Room 6. The building: Palacio de Villahermosa.
+@listen: The palace you are walking through, and a Venetian beauty who keeps temptation on a very short chain.
+@brief: Pointing out the building to a friend, then sharing a painting with a wink; warm and easy, a little conspiratorial about the monkey.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.museothyssen.org/en/node/22243 (OFF: palace of the Dukes of Villahermosa after 1771; extension entrusted in 1805 to Antonio López Aguado, who gave it "the dimensions and sober façades it has today"; corner of the Paseo del Prado and the Carrera de San Jerónimo; Moneo conversion 1989–1992) ; https://www.museothyssen.org/en/about-us/history-building/life-villahermosa-palace-until-middle-20th-century (OFF: Artistic and Literary Lyceum on the main floor from 1839; Liszt concert 1844, commemorative plaque on the exterior; looted in 1808) ; https://www.museothyssen.org/en/collection/artists/bordone-paris/portrait-young-woman (OFF: "Room 6" / Level 2, "Villahermosa Gallery"; ca. 1543–1550; oil on canvas; 103 × 83 cm; trained in Titian's workshop; costly low-cut dress; two roses "associated with Venus", probably taken from the vessel with satyrs; fine chain in her left hand to a small monkey "peacefully eating, seated on a cornice"; the monkey, "whom she controls with the chain, is associated with vice and lust"; "should be read in an amorous key"; type from Titian and Palma) ; https://www.museothyssen.org/en/collection/artists/mola-pier-francesco/saint-john-baptist-preaching-desert (OFF: "Room 6"; ca. 1650–1655; desert turned into "a green setting in which a crowd is seated at the foot of a mountain"; Baptist points to the sky) ; research/LEVEL2_ROOMS_OCT2026.md (Room 6: only 3 works confirmed) ; research/map/p-2.png (Rooms 7–10 open off the gallery's long side)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 009 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1844, Franz Liszt a donné un concert dans ce bâtiment. Une plaque, dehors, le rappelle encore. C'était alors un palais, la demeure des ducs de Villahermosa. Son étage noble abritait le Lycée artistique et littéraire, rendez-vous des écrivains et artistes romantiques madrilènes.
+
+Les sobres façades du palais ont pris leur forme actuelle au début des années 1800, avec l'architecte Antonio López Aguado. Le plan du musée appelle cette longue salle la galerie Villahermosa, du nom du palais où vous êtes. Elle mêle aujourd'hui les siècles. [pause] Une Vénitienne du seizième siècle y côtoie un peintre du dix-septième qui travaillait à Rome.
+
+[conspiratorial] Trouvez la jeune femme aux deux roses. Paris Bordone s'est formé dans l'atelier de Titien. Elle incarne un type que Titien et Palma avaient mis à la mode : belle et sûre d'elle, dans une robe coûteuse très décolletée. Les roses appartiennent à Vénus. Elle vient sans doute de les prendre dans ce beau vase orné de satyres.
+
+Suivez la fine chaîne de sa main gauche. Elle longe son bras, passe dans son dos, jusqu'à un petit singe qui mange sur un rebord. Dans le langage de l'époque, le singe symbolisait le vice et la luxure. [pause] Et c'est elle qui tient la chaîne. Le musée lit tout le tableau sur un registre amoureux. L'amour, sous contrôle. Ou presque.
+
+Dans cette galerie, cherchez aussi le Saint Jean-Baptiste prêchant de Mola : le désert y est devenu vert, et une foule est assise au pied d'une montagne.
+
+Les salles 7 à 10 s'ouvrent sur le grand côté de cette galerie. Commencez par la salle 7 : un jeune chevalier debout, en pied, dans un paysage plein de plantes et d'animaux.

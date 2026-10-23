@@ -1,0 +1,26 @@
+@id: 066 · FR · Room G · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room G
+@type: X
+@title: Salle G · Extra · Vassily Kandinsky — La Ludwigskirche à Munich
+@where: Dans la salle G, « Le néo-impressionnisme et son sillage ». Le Kandinsky est un tableau large sur carton, d'environ un mètre : une foule en touches de couleur comme des joyaux, sous les arcs sombres du porche d'une église. Port-en-Bessin, la plage de Signac est la vue de bord de mer, plus petite et plus calme.
+@what: Wassily Kandinsky, The Ludwigskirche in Munich, 1908, oil on cardboard, 67.3 × 96 cm, CTB.1977.101, Room G, Level 0. Also: Paul Signac, Port-en-Bessin, The Beach, 1884, oil on canvas, 46 × 64.5 cm, CTB.2000.60, Room G.
+@listen: A procession outside Kandinsky's front door, and how its patches of colour were already halfway to abstraction.
+@brief: A quick, bright aside connecting the dots of a story the listener has followed upstairs; curious and pleased.
+@pace: medium
+@energy: 3→3
+@sources: https://www.museothyssen.org/en/collection/artists/kandinsky-wassily/ludwigskirche-munich (OFF, read 23 Oct 2026: 1908; oil on cardboard 67.3 × 96; CTB.1977.101; Room G, Level 0; crowd under the porch of St Ludwig as a religious procession passes, a few metres from his apartment; rented a flat and studio nearby in Schwabing in September 1908; sketched in a notebook with colour notes "red", "rose pink", "green", "violet", "blue"; banners and priests in yellow vestments; sunshine throws the porch into deep shadow; small patches of colour, many non-figurative, against a black ground, an "abstract-decorative quality" new in his work; Signac's influence since 1904; Matisse and the Fauves seen in Paris 1906–1907; text Peter Vergo) ; https://www.museothyssen.org/en/collection/artists/signac-paul/port-bessin-beach (OFF: 1884; CTB.2000.60; Room G; still under Monet's influence, before the neo-Impressionist method; signed with a wrong date of 1883) ; Murnau in Room 37 and In the Bright Oval in Room 39: research/LEVEL1_ROOMS_OCT2026.md
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 066 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] À l'automne 1908, Kandinsky s'installe dans un appartement-atelier à Schwabing, le quartier des artistes de Munich. À quelques mètres se dresse l'église Saint-Ludwig. Au passage d'une procession religieuse, il la croque dans un carnet.
+
+Le croquis subsiste, couvert de notes de couleur. Rouge et rose au-dessus du porche. Vert, violet et bleu sous les arcs. [pause] Il voulait des contrastes clairs en tête avant de peindre.
+
+[pause] Regardez ce qu'il en a fait. Le soleil est si vif que le porche plonge dans une ombre profonde. Contre cette obscurité, la foule devient de petites taches de couleur lumineuses, bannières et prêtres en habits jaunes compris. Beaucoup ne représentent rien. Juste de la couleur. C'était nouveau pour lui.
+
+À l'étage, dans la salle 37, vous avez vu une rue lumineuse de Murnau, de la même année. Et dans la salle 39, des années plus tard, l'abstraction pure de Dans l'ovale clair. Ici, vous voyez le premier pas de l'une à l'autre.
+
+[lightly] La plage plus calme, tout près, est de Paul Signac, dont la technique par points fascinait Kandinsky depuis des années. Jeune, Signac peint encore comme Monet. La toile porte même une date fausse près de la signature.
+
+Ensuite, la salle H, « Premières avant-gardes » : La Pêche de Natalia Gontcharova.

@@ -1,0 +1,30 @@
+@id: 018 · FR · Room 15 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 15
+@type: W
+@title: Salle 15 · Francisco de Zurbarán — Le Christ en croix
+@where: Salle 15, « 17e siècle. Peinture italienne, française et espagnole ». Placez-vous devant la haute toile, plus de deux mètres, du Christ seul sur la croix, pâle et vivement éclairé sur un fond noir. Le grand retable de Murillo aux couleurs douces, avec une jeune sainte et la Vierge à l'Enfant, est dans la même salle.
+@what: Francisco de Zurbarán, Christ on the Cross, ca. 1630, oil on canvas, 214 × 143.5 cm, inv. 447. Also: Bartolomé Esteban Murillo, The Virgin and Child with Saint Rose of Viterbo, ca. 1670, oil on canvas, 190 × 147 cm, inv. 296.
+@listen: Why Zurbarán paints Christ still alive, the four nails of the Seville tradition, and Murillo's softer way of praying forty years later.
+@brief: Standing quietly with a friend before a devotional image; hushed at first, gently explanatory on the details, warm at the Murillo contrast.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/zurbaran/christ-cross (OFF: Room 15 / Level 2; ca. 1630; 214 × 143.5; early phase in Seville, era of San Pablo el Real and Merced Calzada series; 1627 Chicago version "serenely dead", this one alive; eyes "raised in supplication", mouth "half-open", head "inclined to one side"; frontal, strongly lit, dark background; four nails and plinth, Sevillian convention promoted by Pacheco, "Velázquez's father-in-law"; unpublished until Kehrer 1918, then in Munich; bought by Hans Heinrich from Knoedler, New York, April 1956) ; https://www.museothyssen.org/en/collection/artists/murillo-bartolome-esteban/virgin-and-child-saint-rose-viterbo (OFF: Room 15 / Level 2; ca. 1670; 190 × 147; bought in Spain by Stanhope, later Lord Harrington, British ambassador in Madrid; in England by 1729 until sold 1926; formerly misidentified as Saint Rosalia; Rose of Viterbo, Franciscan tertiary, usually shown with roses; preaching scene on the left; four virgin martyrs in white with palms; size suggests an altar; soft, loose brushwork)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 018 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] La plupart des Crucifixions montrent le moment d'après. La tête est tombée, tout est fini. Zurbarán peint le moment d'avant. Ce Christ est encore vivant.
+
+Il l'a peint vers 1630, au début de sa carrière. Il se faisait alors un nom à Séville, peignant de grandes séries pour les monastères de la ville. La toile dépasse deux mètres de haut, et ne contient presque rien. Une croix, un corps, et l'obscurité.
+
+[pause] Regardez d'abord le visage. La tête penche sur le côté. Les yeux sont levés, la bouche entrouverte, comme dans une dernière prière. Quelques années plus tôt, dans une toile désormais à Chicago, Zurbarán avait montré le Christ mort, serein. Ici, il a choisi la supplication.
+
+Puis suivez la lumière sur le corps. Elle vient de face et détache nettement la figure pâle de ce fond noir. Comptez les clous. Il y en a quatre, un pour chaque pied comme pour chaque main. [pause] C'était la manière sévillane de peindre la Crucifixion. Son grand défenseur était le peintre et écrivain Francisco Pacheco, beau-père de Velázquez. Zurbarán s'y tint presque toujours.
+
+[wry] Pendant près de trois siècles, le tableau est resté inédit. Il fut publié pour la première fois en 1918, dans une collection privée de Munich. Le baron Hans Heinrich Thyssen l'a acheté à New York en 1956.
+
+Tournez-vous vers le grand Murillo, peint une quarantaine d'années plus tard, sans doute pour un autel. Tout s'adoucit. Rose de Viterbe, une jeune sainte franciscaine, partage le premier plan avec la Vierge et l'Enfant. [pause] Longtemps, on l'a confondue avec une autre sainte, Rosalie de Palerme. Derrière elle, quatre jeunes martyrs en blanc portent des palmes. À gauche, dans une petite scène à part, elle prêche à une foule. Acheté en Espagne par un ambassadeur britannique, le tableau est resté deux siècles en Angleterre.
+
+[warmly] Deux peintres de Séville, deux façons de prier. Zurbarán vous demande de rester immobile. Murillo vous invite à entrer.
+
+Ensuite, salle 16, la peinture italienne du dix-huitième siècle : cherchez une jeune femme de profil, tenant un petit masque de carnaval.

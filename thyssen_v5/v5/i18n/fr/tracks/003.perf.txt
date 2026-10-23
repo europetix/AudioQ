@@ -1,0 +1,26 @@
+@id: 003 · FR · Room 2 · 23 Oct 2026 edition
+@section: Level 2 · The first faces
+@room: Room 2
+@type: X
+@title: Salle 2 · Extra · Artiste allemand anonyme actif à Constance — La Naissance de la Vierge
+@where: Salle 2, « 15e siècle. Peinture allemande et espagnole ». Cherchez un panneau haut et étroit, environ 85 sur 35 cm : une chambre avec un lit placé en biais, sainte Anne assise dedans, et des femmes affairées tout autour d'elle.
+@what: Anonymous German artist, active in Konstanz, ca. 1430, The Birth of the Virgin, ca. 1430, panel, 84.5 × 34.7 cm, inv. 262 (1967.1.1). Also: Joan Mates, Saint John the Baptist and Saint John the Evangelist with a Donor, ca. 1410, oil on panel, 191 × 121 cm, Room 2.
+@listen: A medieval lying-in room, where everyone is working except the new mother, and a Catalan panel that waited centuries for its painter's name.
+@brief: A quick, smiling aside to a friend about a crowded domestic scene; light and amused, then brisk.
+@pace: medium
+@energy: 3→3
+@sources: https://www.museothyssen.org/en/collection/artists/anonymous-german-artist-active-konstanz-ca-1430/birth-virgin (OFF: "Room 2" / Level 2; ca. 1430; panel; 84.5 × 34.7 cm; Saint Anne in bed, fully dressed with headdress and halo; young woman on a bench who has bathed and swaddled the infant Mary; Anne washes her hands before eating, helped by a woman; a woman carries food in two covered dishes; bed on a diagonal dividing the room; scene from the Apocryphal Gospels; "a certain clumsiness"; panels cut down, hands at the right edge may belong to a praying figure; entered the collection 1967) ; https://www.museothyssen.org/en/collection/artists/mates-joan/saint-john-baptist-and-saint-john-evangelist-donor (OFF: "Room 2" / Level 2; ca. 1410; 191 × 121 cm; catalogued until 1989 as an anonymous International Gothic master; Mates documented in Barcelona from 1391; kneeling donor of high rank; Baptist with lamb, Evangelist with chalice and small dragon)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 003 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Autour de ce lit, tout le monde s'active, sauf la jeune mère. Et même elle se prépare à dîner.
+
+Les Évangiles ne disent rien de la naissance de la Vierge Marie. L'histoire vient des évangiles apocryphes. Vers 1430, un peintre inconnu de Constance, dans le sud de l'Allemagne, l'a imaginée dans une maison de son temps.
+
+[pause] Sainte Anne est assise dans son lit, tout habillée, avec sa coiffe et son auréole. Elle se lave les mains avant de manger, aidée par une femme. Une autre entre, portant des mets dans deux plats couverts. Devant, sur un banc, une jeune femme berce le bébé, déjà baigné et bien emmailloté. Le lit coupe la pièce en biais et la divise en petits espaces d'activité. La perspective vacille un peu. Personne ne semble s'en soucier.
+
+Le panneau a été coupé sur le bord droit. Il y reste une paire de mains, peut-être d'une personne agenouillée en prière.
+
+Dans cette salle se trouve aussi le grand panneau catalan des deux saints Jean, avec un donateur agenouillé. Il a été peint vers 1410 par un artiste actif à Barcelone. Jusqu'en 1989, il était catalogué comme œuvre d'un maître anonyme. [pause] Aujourd'hui, il porte le nom de Joan Mates.
+
+Dans la salle voisine, la salle 3, celle des primitifs flamands, cherchez la Crucifixion de Gérard David, aux orange, verts et jaunes vifs.

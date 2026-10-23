@@ -1,0 +1,26 @@
+@id: 015 · FR · Room 11 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 11
+@type: X
+@title: Salle 11 · Extra · Titien — Saint Jérôme pénitent
+@where: Salle 11, « Tiziano, Tintoretto, Bassano et le Greco ». Cherchez une scène nocturne sombre, environ 137 sur 97 cm : un vieux saint à demi nu, agenouillé parmi les rochers dans une tunique rouge, une pierre à la main, un crucifix sur une branche et un lion dans le coin inférieur droit.
+@what: Titian (Tiziano Vecellio), The Penitent Saint Jerome, ca. 1575, oil on canvas, 137 × 97 cm, inv. 406 (1933.4).
+@listen: The hidden moon, the one splash of red, and what Titian left out in his last years.
+@brief: Speaking softly to a friend in front of a dark, moving late work; hushed and reverent, one honest hedge about the legend.
+@pace: slow
+@energy: 2→2
+@sources: https://www.museothyssen.org/en/collection/artists/titian/penitent-saint-jerome (OFF: "Room 11" / Level 2; ca. 1575; oil on canvas; 137 × 97 cm; final period; Brera version, mid-1550s, the prototype, with skull, hourglass, books and ivy, dropped here about twenty years later; nocturnal, the moon hidden behind thick trunks lights the sky; lion lower right, head lost in the background; crucifix on a long branch; stone in the right hand; book under the left hand; flail of branches; narrow, nearly monochrome palette, bare canvas showing; red tunic the only strong patch of colour, rapidly painted on the left leg; drawing on the back found at the 1965 relining) ; Titian's death, 27 Aug 1576 during a plague outbreak, cause uncertain: research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md citing museodelprado.es ; finger-painting anecdote: NOT on the official page, framed as "the story goes"
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 015 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Ce tableau a une lune, mais vous ne la voyez pas. Elle se cache derrière les gros troncs d'arbres, et pourtant elle éclaire le ciel nocturne.
+
+Titien l'a peint dans ses dernières années, vers 1575. Vingt ans plus tôt, il avait peint le même saint pour une église de Venise. Il l'entourait de symboles : un crâne, un sablier, des livres, du lierre sur les rochers. Ici, il abandonne presque tout cela. [pause] Reste un vieil homme. Dans sa main droite, une pierre pour se frapper la poitrine. Ses yeux fixent un crucifix posé sur une longue branche.
+
+[pause] Regardez la couleur. Presque tout est brun, couleur de terre, et par endroits la toile nue apparaît. La seule couleur forte est le rouge de sa tunique, jeté vite sur sa jambe. Et en bas à droite, un lion, la tête presque perdue dans l'ombre.
+
+On raconte qu'à la fin de sa vie, Titien peignait plus avec ses doigts qu'avec ses pinceaux. Vrai ou non, on comprend pourquoi on l'a dit.
+
+[reverent] Il meurt en 1576, pendant une épidémie de peste à Venise. [pause] C'est l'œuvre d'un homme qui n'avait plus besoin de rien expliquer.
+
+De retour dans la longue galerie, la porte suivante est celle de la salle 12, « Le Caravage et la peinture baroque » : sainte Catherine agenouillée près de sa roue à pointes brisée.

@@ -1,0 +1,28 @@
+@id: 011 · FR · Room 7 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 7
+@type: X
+@title: Salle 7 · Extra · Titien — Portrait du doge Francesco Venier
+@where: Salle 7, « 16e siècle. Peinture italienne ». Cherchez un vieil homme en robe et bonnet de doge de brocart d'or, environ 113 sur 99 cm, debout devant un rideau, avec à gauche une fenêtre où un bateau brûle sur l'eau.
+@what: Titian (Tiziano Vecellio), Portrait of Doge Francesco Venier, ca. 1554–1556, oil on canvas, 113 × 99 cm, inv. 405 (1930.116).
+@listen: The official portrait that burned with the Doge's Palace, the replica Titian made himself, and a frail ruler with a sharp eye.
+@brief: A short, intrigued aside to a friend; quiet on the frail doge, curious about the burning boat, a nod back to the central hall.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/titian/portrait-doge-francesco-venier (OFF: "Room 7" / Level 2; ca. 1554–1556; oil on canvas; 113 × 99 cm; born 1489, Doge from 11 June 1554 to his death on 2 June 1556; poor health, needed help moving; fragile body against a sharp gaze; Titian as Official Painter painted doges for the frieze of the Sala del Maggior Consiglio, lost in the 1577 fire; "an autograph portrait, a replica of the official image lost during the fire", perhaps for his brother Pietro; gold brocade; curtain; window on the left with a burning boat "has not been identified"; Trivulzio, Thyssen before 1930) ; https://www.museothyssen.org/en/collection/artists/tintoretto/paradise (OFF: Central hall; fire of 1577 in the Doge's Palace; new decoration of the hall)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 011 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Francesco Venier ne fut doge de Venise que deux ans. Il était si malade qu'il fallait l'aider à se déplacer.
+
+Regardez comment Titien le montre. Le corps, sous le brocart d'or, semble fragile, presque calé. Mais les yeux sont vifs. Rien n'échappe à cet homme.
+
+Peintre officiel de la République vénitienne, Titien peignait chaque nouveau doge. [pause] Ils formaient une longue frise dans la grande salle du Conseil du palais des Doges. Puis, en 1577, un incendie ravage le palais. Cette galerie de visages disparaît, avec le portrait officiel de Venier.
+
+[pause] Cette toile a survécu parce qu'elle n'y a jamais été. C'est une réplique de l'image perdue, de la main de Titien, peut-être pour le frère du doge ou l'un des offices de la ville. C'est donc aujourd'hui le visage de Venier.
+
+[curious] Par la fenêtre de gauche, sur l'eau, un bateau brûle. Personne n'a identifié l'épisode. Il symbolise peut-être simplement la puissance de la ville.
+
+Si vous avez vu le long Paradis du Tintoret, en bas dans le hall central, il relève de la même histoire : après l'incendie, il fallait au palais de nouveaux tableaux.
+
+Continuez par la salle 8, la peinture allemande, où la Vierge de Cranach tient une grappe de raisin, jusqu'à la salle 9, pour l'empereur Charles Quint de Cranach.

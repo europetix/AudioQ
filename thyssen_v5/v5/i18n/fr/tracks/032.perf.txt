@@ -1,0 +1,22 @@
+@id: 032 · FR · Room 29 · 23 Oct 2026 edition
+@section: Level 2 · Goya's century without Goya
+@room: Room 29
+@type: X
+@title: Salle 29 · Extra · Eugène Delacroix — Cavalier arabe
+@where: Salle 29. Cherchez un petit panneau vertical, d'environ 35 centimètres de haut : un homme qui se repose au sol près d'un feu, un cheval noir agité debout derrière lui. L'autre petit tableau de Delacroix montre un duc soulevant un drap près d'un lit à rideaux.
+@what: Eugène Delacroix, Arab Rider (Jinete árabe), ca. 1854, oil on panel, 35 × 26.5 cm, inv. 126. Also: Delacroix, The Duke of Orleans showing his Lover, ca. 1825–1826, oil on canvas, 35 × 25.5 cm, inv. 127.
+@listen: A memory of Delacroix's 1832 journey to Morocco, noted in his diary more than twenty years later, and a much earlier, scandalous tale beside it.
+@brief: A short, vivid aside before going downstairs; curious, then wry, then clear and practical on the directions.
+@pace: medium
+@energy: 3→3
+@sources: https://www.museothyssen.org/en/collection/artists/delacroix-eugene/arab-rider (OFF: Room 29 / Level 2; ca. 1854; oil on panel 35 × 26.5; 1832 official mission with Count de Mornay, January to July, Morocco, Algeria and southern Spain; material for the rest of his career, many sketches and drawings; horses praised for energy and spirit, presence through colour and movement; Arab seated on the ground before a fire, sword at his belt; fiery black horse with a long mane; Diary, 23 April 1854: "a small Arab seated and his horse behind him") ; https://www.museothyssen.org/en/collection/artists/delacroix-eugene/duke-orleans-showing-his-lover (OFF: Room 29 / Level 2; ca. 1825–1826; the Duke of Orleans shows the naked body of his lover, face hidden, to her husband, who does not recognise her) ; route: research/map/p-2.png and p-3.png (lift beside Room 29, stairs at the east end of the Room 24 gallery; on Level 1 lift and stairs beside Room 30)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 032 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1832, Delacroix accompagne six mois une mission diplomatique française au Maroc. Il multiplie les croquis, et vivra de ce voyage jusqu'à la fin de sa carrière.
+
+Ce petit panneau vient plus de vingt ans après. Le vingt-trois avril 1854, il mentionne dans son journal un petit Arabe assis, et son cheval derrière lui. [pause] C'est ce que vous voyez. Un homme se repose au sol près d'un feu, une épée à la ceinture. Derrière lui se dresse un cheval noir fougueux, à longue crinière. Delacroix aimait les chevaux pour leur énergie et leur ardeur. Il tenait moins à les décrire qu'à vous les faire sentir.
+
+[wry] L'autre Delacroix de cette salle est bien plus ancien, et bien plus scandaleux. Un duc médiéval soulève un drap pour montrer à un visiteur le corps de sa maîtresse, visage caché. Le visiteur est son mari. Il ne la reconnaît pas.
+
+Descendez d'un étage, au niveau 1, par l'ascenseur à côté de cette salle ou l'escalier au bout est de la galerie de la salle 24. [pause] La salle 30, « Relations transatlantiques », est juste à côté de l'ascenseur : cherchez des portraits de l'Amérique coloniale.

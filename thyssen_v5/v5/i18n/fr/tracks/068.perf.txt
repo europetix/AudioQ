@@ -1,0 +1,26 @@
+@id: 068 · FR · Room I · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room I
+@type: W
+@title: Salle I · Juan Gris — Femme assise
+@where: Dans la salle I, « Peinture de l'entre-deux-guerres. Cubisme, abstraction et surréalisme ». Femme assise est le haut panneau de plus d'un mètre : une femme en cape plissée et robe de soirée, dont la figure est construite de triangles qui se chevauchent et de plans obliques.
+@what: Juan Gris, Seated Woman (Mujer sentada), 1917, oil on panel, 116 × 73 cm, CTB.1986.23, Carmen Thyssen Collection, Room I, Level 0.
+@listen: A Madrid-born Cubist in wartime Paris, his partner Josette in her best dress, and the old master Gris was quietly looking at.
+@brief: Telling a friend about a hometown painter far from home; warm, a little conspiratorial about the dress, admiring at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/gris-juan/seated-woman (OFF, read 23 Oct 2026: dated "5-17"; oil on panel 116 × 73; CTB.1986.23; Room I, Level 0; from 1916 Gris turned to figures and to old masters, drawings after Raphael, Velázquez and Cézanne, three oils after Corot; curves against straight lines and chiaroscuro from Corot; high viewpoint and oblique structure recall Cézanne's portraits of women; pair to the Portrait of Josette Gris, 1916; Josette wears a party dress; Gris traded a small picture for a dress made for her by Madame Bongard, Paul Poiret's sister; as a Spaniard a non-combatant, foreigners under suspicion, food and fuel erratic; Kahnweiler in exile, poverty; contract with Léonce Rosenberg, April 1916; sold to Rosenberg for 350 francs; letter of 5 May 1917, an evening with Picasso just back from Rome; Gris at the Parade premiere; Douglas Cooper calls it a portrait of Josette, without evidence; 1917 a move towards a "purified" Cubism; text Christopher Green) ; Gris born in Madrid and The Smoker in Room 41: research/LEVEL1_ROOMS_OCT2026.md (Room 41 page)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 068 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Juan Gris est né ici, à Madrid. Quand ce tableau a été peint, au printemps 1917, il était à Paris, au milieu d'une guerre qui n'était pas la sienne.
+
+Espagnol, il n'avait pas à combattre. Mais la vie était dure. Les étrangers étaient suspects, et la nourriture comme le chauffage allaient et venaient. Son marchand, Kahnweiler, était en exil, et Gris fut un temps vraiment pauvre. Puis un nouveau marchand, Léonce Rosenberg, l'a pris sous contrat. [pause] Ce tableau est parti chez Rosenberg pour trois cent cinquante francs.
+
+La femme est sans doute Josette, sa compagne. Rien ne le prouve, mais ce tableau fait pendant à un portrait d'elle de l'année précédente. [conspiratorial] Ici, elle s'est faite belle, en robe de soirée. Gris a un jour échangé un petit tableau contre une robe faite pour elle par la sœur du couturier Paul Poiret. Est-ce cette robe ? L'idée est jolie. Personne ne le sait.
+
+[pause] Regardez comment il la construit. Des triangles qui se chevauchent, une cape plissée, des obliques appuyées les unes aux autres. Vue d'en haut, comme Cézanne regardait ses femmes assises. Mais un maître plus ancien est là aussi. Gris avait étudié Corot et peint d'après lui. Le jeu des courbes contre les droites, le clair-obscur doux, vient de Corot. À cette époque, Picasso et lui étaient particulièrement proches, et le cubisme apprenait à regarder en arrière.
+
+Vous avez rencontré Gris à l'étage, dans la salle 41, avec Le Fumeur. Ici, quatre ans plus tard, il va vers un cubisme plus calme, plus pur. [warmly] Un peintre madrilène, loin de chez lui, peint sa compagne dans sa plus belle robe.
+
+La salle J, la dernière, propose un court Extra sur le flipper géant de Charles Bell. Ensuite, la sortie.

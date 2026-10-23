@@ -1,0 +1,26 @@
+@id: 070 · FR · Entrance hall · 23 Oct 2026 edition
+@section: Closing
+@room: Entrance hall
+@type: CLOSE
+@title: Dehors, sur le Paseo del Arte
+@where: Dans le hall central, près de l'entrée principale sur le Paseo del Prado, ou juste devant les portes, sur le trottoir.
+@what: Closing: the walk in review, from Duccio in Room 1 to Pop in Room 52 and the Carmen Thyssen rooms A to J; where to go next on the Paseo del Arte.
+@listen: Looking back over two generations and a second collection, and pointing you to the Prado, the Reina Sofía and the Retiro.
+@brief: Saying goodbye to a friend at the door after a long, good walk; warm, unhurried, a little proud, practical at the end.
+@pace: medium-slow
+@energy: 3→2
+@sources: https://museothyssen.org/en/node/22022 (OFF, read 23 Oct 2026: collection passed from Heinrich to his son Hans Heinrich, 1921–2002; first modern purchases 1961; Palacio de Villahermosa refurbished by Moneo; opened October 1992; June 1993 sale to the State; Carmen Cervera the decisive influence in choosing Spain) ; AUDIT museum-history table (two generations, Heinrich 1875–1947 and Hans Heinrich; 775 works in 1993) ; https://museothyssen.org/en/node/24067 (OFF: "today you can enter and leave the museum as many times as you like", except the ground-floor temporary exhibition) ; https://www.museothyssen.org/en/node/21678 (OFF: Cafe-Restaurant on the ground floor, with the Terraza italiana open the same days and hours; seasonal Terrazas not promised) ; geography per PLAN 070 and AUDIT 070 (Prado south across Plaza de Cánovas del Castillo; Reina Sofía towards Atocha; Retiro to the east)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 070 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Vous avez commencé cette visite tout en haut du bâtiment, dans la salle 1, avec l'or de Duccio. Puis, en descendant, Venise et Amsterdam, l'aube de Friedrich et l'ombre de Rothko, jusqu'à un flipper qui brille au rez-de-chaussée.
+
+Ce voyage, deux générations l'ont construit. Heinrich Thyssen-Bornemisza l'a lancé, en achetant des maîtres anciens. Son fils, Hans Heinrich, l'a poursuivi, et a acheté en 1961 ses premiers tableaux modernes. À l'étage, vous l'avez vu en personne, dans le portrait de Freud, assis à la place du Pierrot de Watteau. [pause] En 1993, l'État espagnol a acheté le cœur de la collection, 775 œuvres, pour ce palais. Puis une seconde collection a grandi à côté, celle que vous venez de parcourir, façonnée par le regard de Carmen Thyssen.
+
+[pause] Ce n'est donc pas une seule histoire. Ce sont les goûts de trois personnes, un père, un fils, puis Carmen Thyssen, réunis dans un même bâtiment, du quatorzième siècle aux années 1980.
+
+Pour prolonger un moment, le café-restaurant est ici, au rez-de-chaussée, avec une terrasse en plein air. Et si quelque chose vous rappelle, vous pouvez entrer et ressortir encore aujourd'hui. Seule exception : l'exposition temporaire du rez-de-chaussée.
+
+Dehors, vous êtes sur le Paseo del Prado, l'axe du Paseo del Arte de Madrid. Le Prado est à quelques minutes au sud, de l'autre côté de la Plaza de Cánovas del Castillo. Le Reina Sofía est plus bas, vers Atocha. [pause] Le parc du Retiro est à deux pas, à l'est, si vos pieds préfèrent les arbres aux tableaux. Yo Tours propose aussi des audioguides de promenade pour le Prado et le Reina Sofía, conçus comme celui-ci.
+
+[warmly] Merci d'avoir fait ce chemin avec nous. Sept siècles, deux collections, une visite. Bonne fin de journée à Madrid.

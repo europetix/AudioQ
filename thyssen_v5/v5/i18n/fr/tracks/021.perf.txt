@@ -1,0 +1,22 @@
+@id: 021 · FR · Room 17 · 23 Oct 2026 edition
+@section: Level 2 · The 18th century in Italy
+@room: Room 17
+@type: X
+@title: Salle 17 · Extra · Giambattista Tiepolo — La Mort d'Hyacinthe
+@where: Salle 17. Trouvez l'immense toile, près de trois mètres de haut : un jeune homme étendu au sol, Apollon angoissé penché sur lui, une raquette de tennis et des balles sur le carrelage.
+@what: Giambattista Tiepolo, The Death of Hyacinthus, ca. 1752–1753, oil on canvas, 287 × 232 cm, inv. 394. Cue only: Giambattista Piazzetta, Portrait of Giulia Lama, ca. 1715–1720, oil on canvas, inv. 316, Room 18.
+@listen: Why Tiepolo turned Ovid's fatal discus into a game of tennis, and the smiling statue that watches it all.
+@brief: Pointing out a sly joke inside a tragedy; amused, then quick and visual on the details, gentle at the flower.
+@pace: medium
+@energy: 3→3
+@sources: https://www.museothyssen.org/en/node/16655 = Tiepolo, The Death of Hyacinthus (OFF: Room 17 / Level 2; ca. 1752–1753; 287 × 232; Würzburg period; Ovid, Metamorphoses X; discus replaced by a tennis ball, following Anguillara's 1561 translation; pallacorda popular with the nobility; racquet and balls, a third ball rolled to the left over the tiled floor, part of a net behind the onlookers; bruise on Hyacinthus's cheek; anguished Apollo; statue of Pan with a malicious smile turning his head; the flower in a clump in the right-hand corner; "subtle sense of irony") ; https://www.museothyssen.org/en/collection/artists/piazzetta-giambattista/portrait-giulia-lama (OFF: Room 18 / Level 2; Giulia Lama, 1681–1747, Venetian painter and Piazzetta's pupil, shown holding palette and brushes) ; Rooms 19–21 temporary show: research/CURRENT_LOCATIONS_OCT2026.md (Mauritshuis show until 10 Jan 2027)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 021 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Dans le poème d'Ovide, le dieu Apollon tue d'un coup de disque le garçon qu'il aime. Tiepolo a remplacé le disque par une balle de tennis.
+
+Il avait une raison. Une traduction italienne d'Ovide, de 1561, avait déjà changé le disque en balle. Et ce jeu de cour restait très à la mode chez les nobles. Tiepolo a peint cette immense toile vers 1752, pendant ses années à Wurtzbourg, en Allemagne.
+
+[pause] Regardez le sol. Voici la raquette avec ses balles, et une troisième balle a roulé vers la gauche. Derrière les spectateurs, on aperçoit un bout du filet. Hyacinthe gît, une ecchymose sur la joue, les yeux levés vers Apollon. Et le dieu Pan, en pierre, semble avoir tourné la tête en souriant, pour ne rien manquer. [pause] Dans le coin droit, les fleurs poussent déjà.
+
+Revenez dans la salle 16 et continuez vers le nord par la salle 18. Vous y trouverez le portrait de Giulia Lama par Piazzetta, une peintre vénitienne à part entière, palette en main. [pause] Droit devant, la salle 22 propose un court Extra sur Crespi. Le prochain arrêt principal est la salle 23. Jusqu'au 10 janvier 2027, les salles classiques 19 à 21, le long du couloir à votre gauche, accueillent une exposition venue du Mauritshuis, hors de ce guide.
