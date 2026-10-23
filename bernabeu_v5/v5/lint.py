@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reina Sofía V5 lint: python3 lint.py [NNN ...]  -> one line per track, 'OK' or the problems."""
+"""Bernabéu V5 lint: python3 lint.py [NNN ...]  -> one line per track, 'OK' or the problems."""
 import sys, os, re, glob
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "pipeline"))
 import v5_direction as V
@@ -27,7 +27,7 @@ for f in files:
     if re.search(r"\b(tickets?\b|opening hours|euros?\b)|€", c, re.I): p.append("tickets/hours/prices")
     if "!" in c: p.append("exclamation mark")
     last = c.split("\n\n")[-1]
-    if meta.get("type") != "CLOSE" and not re.search(r"Room \d|Floor \d|hall|Rooms \d|terrace", last): p.append("last paragraph has no room cue")
+    if meta.get("type") != "CLOSE" and not re.search(r"museum|panoramic|trophy|row|dressing room|bench|press room|store|exit|outside|steel|stairs|lift|tier|rail|model|roof|floor|cups?\b|display|Extra|Castellana", last, re.I): p.append("last paragraph has no zone cue")
     if re.match(r"^(Stand|Look|Walk|Turn|Go|Find|Step|Come|Move)\b", c): p.append("opens with a command")
     print(n, "OK" if not p else "; ".join(p), f"({w}w)")
     bad += bool(p)

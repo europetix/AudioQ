@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# Yo Tours - Museo Reina Sofia - Spanish / French / German audio guides (same launcher shape as English).
+# Yo Tours - Estadio Santiago Bernabeu - Spanish / French / German audio guides (same launcher shape as English).
 # Voices chosen 5 Oct 2026 (all female): ES Dalia (es-MX), FR Vivienne, DE Katja. Same direction layer, pauses and
 # mastering as the English guide; English name respellings are off (RESPELL=0). Scripts: languages/<lang>/.
 cd "$(dirname "$0")"
 
 echo ""
 echo "================================================================"
-echo "  Yo Tours - Museo Reina Sofia  (57 tracks: 43 main + 14 Extras, 17 Oct 2026 edition)"
+echo "  Yo Tours - Estadio Santiago Bernabeu  (28 tracks: 23 main + 5 Extras, 23 Oct 2026 edition)"
 echo "================================================================"
 echo ""
 echo "Choose a language:"
@@ -23,14 +23,14 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The full guide (57 tracks: 43 main stops + 14 Extras)"
-echo "  2) Two voice samples only: 023 Guernica + 044 Juan Munoz (a few minutes)"
-echo "  3) Main stops only (43 tracks; they mention the Extras, just skip those)"
+echo "  1) The full guide (28 tracks: 23 main stops + 5 Extras)"
+echo "  2) Two voice samples only: 016 La Decima + 025 The late comebacks (a few minutes)"
+echo "  3) Main stops only (23 tracks; they mention the Extras, just skip those)"
 printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
-OUTPUT_DIR="$HOME/Desktop/ReinaSofia_YoTours_${TAG}_${VOICE_NAME}"
-if [ "$SCOPE" = "2" ]; then export ONLY="023 044"; OUTPUT_DIR="$HOME/Desktop/ReinaSofia_YoTours_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
-if [ "$SCOPE" = "3" ]; then export ONLY="001 003 004 005 007 009 010 011 012 013 014 017 018 019 021 023 024 025 027 028 030 031 032 033 034 035 036 037 038 039 041 042 043 044 045 047 049 051 052 054 055 056 057"; OUTPUT_DIR="$HOME/Desktop/ReinaSofia_YoTours_${TAG}_${VOICE_NAME}_MainStops"; fi
+OUTPUT_DIR="$HOME/Desktop/Bernabeu_YoTours_${TAG}_${VOICE_NAME}"
+if [ "$SCOPE" = "2" ]; then export ONLY="016 025"; OUTPUT_DIR="$HOME/Desktop/Bernabeu_YoTours_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
+if [ "$SCOPE" = "3" ]; then export ONLY="001 002 003 004 005 006 007 009 010 011 012 013 014 015 016 017 018 019 023 024 025 027 028"; OUTPUT_DIR="$HOME/Desktop/Bernabeu_YoTours_${TAG}_${VOICE_NAME}_MainStops"; fi
 export RESPELL=0
 
 [ -d "languages/$L/scripts" ] || { echo "ERROR: languages/$L is missing from this bundle."; read -p "Press enter..."; exit 1; }
@@ -51,7 +51,7 @@ if ! ( cd "languages/$L" && python3 ../../render_edge.py "$OUTPUT_DIR" ); then
     read -p "Press enter..."; exit 1
 fi
 python3 tag_tracks.py "$OUTPUT_DIR" "languages/$L" "$L"
-if [ "$SCOPE" != "2" ]; then cp ReinaSofia_Audio_Guide_Route.pdf "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] route map"; fi
+if [ "$SCOPE" != "2" ]; then cp Bernabeu_Audio_Guide_Route.pdf "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] route map"; fi
 
 echo ""
 echo "================================================================"
