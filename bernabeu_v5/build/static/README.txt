@@ -1,56 +1,56 @@
-YO TOURS - MUSEO REINA SOFIA, MADRID
-Audio guide, edition of 17 Oct 2026 (57 tracks: 43 main stops + 14 short Extras)
+YO TOURS - ESTADIO SANTIAGO BERNABEU, MADRID (Tour Bernabeu)
+Audio guide, edition of 23 Oct 2026 (28 tracks: 23 main stops + 5 short Extras)
 English, Spanish, French, German
 
 WHY THIS EDITION
 ================
-The previous guide was written for an older hang. Since then the museum has rearranged its
-collection: Floor 4 was rehung on 18 Feb 2026, the post-war rooms on Floor 1 are gone, Floor 3
-is closed until 2027, and many rooms on Floor 2 were renumbered. Of the 49 works in the old
-guide, only 22 are still on display. So this edition was rebuilt from scratch:
-1. Every work's room was read on its own page on museoreinasofia.es (17 Oct 2026) and checked
-   against the museum's official plans (easy-read plan Oct 2026 - Feb 2027, the Floor 4 map,
-   the Floor 2 collection-room plan). Guernica is in Room 205.10.
-2. The route has no zig-zag: Floor 1 (welcome, the cloister garden, Richard Serra), up to
-   Floor 2 for one loop round the cloister (Bohemia, Cubism, the Civil War, Guernica,
-   Surrealism), up to Floor 4 for one loop through Rooms 1 to 21 (from 1975 to now), then
-   across to the Nouvel building for the roof terrace and the closing words.
-3. Every track ends by naming the next room number and its title.
-4. 14 short optional Extras in rooms the route already walks through (hollow circles on the map).
-5. An independent fact check of all 57 tracks against the museum's own pages.
+The stadium was rebuilt between 2019 and 2025 and the Tour Bernabeu changed with it. The previous
+guide still sent visitors to places the public tour no longer visits (the presidential box, the
+players' tunnel), quoted famous players without any source, and had about twenty factual errors.
+This edition was rebuilt from scratch:
+1. The route follows today's official Tour Bernabeu (realmadrid.com and the club's July 2026
+   brochure): outside, the panoramic view from the top tier, the museum and trophy hall, the
+   first team's dressing room, the benches, the press room when it is open, the store.
+2. Every fact was checked on realmadrid.com, UEFA/FIFA or two independent reputable sources, and an
+   independent reviewer re-checked all 28 tracks. Facts that change (coach, captain, recent seasons)
+   are few and dated "as of autumn 2026".
+3. Every track ends by saying where the route goes next and what to look for.
+4. Three cases are built in:
+   A  Full tour: play 1 to 28 in order.
+   B  Match day or the day before: the dressing room and benches are closed. After the museum,
+      play 22, then 27 and 28.
+   C  Museum first (if staff send you there before the view): play 1-3, then 9-22, then 4-8,
+      then 23 onwards. The tracks themselves remind you at each junction.
+5. Honest about what you will see: the pitch is usually stored underground, so the floor is bare.
 6. The Yo Tours sound: voice finishing, a soft room tone and a short chime before each track.
-   MP3s are labelled for phones (title, album, track n/57, Yo Tours, cover picture).
+   MP3s are labelled for phones (title, album, track n/28, Yo Tours, cover picture).
 
 WHAT YOU GET
 ============
-57 tracks in walking order: 43 main stops (about 1 h 45 of listening, about 2 h with walking)
-and 14 short Extras (about 1 to 2 min each, titles contain "Extra"). Every main stop tells you
-how to reach the next main stop, so the Extras can be skipped. One folder per section:
-  00_Welcome/                                  1 track
-  01_Floor1_Serra_and_Garden/                  2 tracks (1 Extra)
-  02_Floor2_Bohemia_Cities_Cubism/            11 tracks (2 Extras)
-  03_Floor2_War_Guernica_Surrealism/          20 tracks (6 Extras)
-  04_Floor4_Transition_to_Grief/              10 tracks (1 Extra)
-  05_Floor4_Sculpture_Institutions_Images/    11 tracks (4 Extras)
-  06_Nouvel_Roof_Terrace/                      1 track
-  07_Closing/                                  1 track
-plus ReinaSofia_Audio_Guide_Route.pdf: a 5-page map made for phones. Page 1 shows the whole visit
-on a cross-section of the two buildings; then one plan per part of the route with every stop
-numbered. Share it with the MP3s.
-
-Track files are named  <play-order>_<room>_<title>.mp3
-  e.g.  023_Room-205-10_Pablo_Picasso_Guernica.mp3
+28 tracks in walking order: 23 main stops (about 55 min of listening) and 5 short Extras (about
+1 to 2 min each, titles contain "Extra"). Allow about two hours for the visit: many stairs.
+  00_Welcome/                               1 track
+  01_Outside/                               2 tracks
+  02_Panoramic_View/                        5 tracks (1 Extra)
+  03_Museum_Origins_and_First_Cups/         5 tracks
+  04_Museum_Galacticos_to_Now/              9 tracks (3 Extras)
+  05_Dressing_Room_and_Benches/             4 tracks (1 Extra)
+  06_Store/                                 1 track
+  07_Closing/                               1 track
+plus Bernabeu_Audio_Guide_Route.pdf: a 2-page route sheet for phones (the route by zone with every
+stop number and the three cases, then the stop list). The club publishes no floor plan of the tour,
+so it is a schematic, not a plan.
 
 HOW TO MAKE THE AUDIO (on a Mac)
 ================================
 English:               double-click generate_audio.command  (voice 1 = Ava)
-                       option 2 = two voice samples (023 Guernica + 044 Juan Munoz), try this first
+                       option 2 = two voice samples (016 La Decima + 025 The late comebacks)
                        option 3 = main stops only
 Spanish/French/German: double-click generate_audio_ES_FR_DE.command and pick the language.
-Needs internet, python3 and ffmpeg (brew install ffmpeg). If it stops, run it again:
-finished tracks are skipped.
+Needs internet, python3, ffmpeg (brew install ffmpeg) and an up-to-date edge-tts:
+  python3 -m pip install --user --upgrade edge-tts
+If it stops, run it again: finished tracks are skipped.
 
 ON-SITE CHECKS BEFORE RELEASE
 =============================
-See ONSITE_CHECKLIST.txt (room numbers at doorways, the way to the lifts on Floor 2, the
-Gargallo statue in the garden, Room 102 on Floor 1, Room 205.08, the Nouvel roof terrace).
+See ONSITE_CHECKLIST.txt.

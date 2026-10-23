@@ -151,3 +151,16 @@ Key:
 3. Does it include wayfinding, closure notices, or a bare-pitch explanation?
 4. What is the Bernabéu Infinito price for non-members, its duration, and its languages?
 5. How long is the panoramic audiovisual show, and in which languages?
+
+## Yo Tours (built, 23 Oct 2026) — the column the lead filled in
+- Coverage: 28 tracks along today's Classic route (outside, panoramic, museum, dressing room, benches, press room if open,
+  store, way out); nothing on the presidential box or tunnel.
+- Directions: every track ends with the next zone and one thing to look for; three cases built in (full tour, match day,
+  museum first) with spoken jumps ("play number twenty-two").
+- Languages: EN, ES, FR, DE (the club's device claims 12, unlisted).
+- Length: about 62 min of listening (23 main stops ≈ 55 min + 5 Extras).
+- Depth: stories from 1947 to 2026, checked against realmadrid.com, UEFA/FIFA or two reputable sources; independent re-check.
+- Honesty: bare pitch, closures, the 32-year gap, the concerts dispute; dated lines for anything that changes.
+- Price/device: on the visitor's own phone, MP3s offline; no device to collect or return; usable before and after the tour.
+- Voice: Yo Tours sound (voice finishing, room tone, chime), labelled MP3s with cover.
+- Where the club's device is stronger: more languages, synchronised with the museum's screens, video and images.
