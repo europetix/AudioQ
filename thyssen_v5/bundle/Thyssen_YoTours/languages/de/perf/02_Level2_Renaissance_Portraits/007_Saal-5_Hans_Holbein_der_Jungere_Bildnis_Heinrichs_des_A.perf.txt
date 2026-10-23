@@ -1,0 +1,28 @@
+@id: 007 · DE · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: W
+@title: Saal 5 · Hans Holbein der Jüngere — Bildnis Heinrichs des Achten von England
+@where: Saal 5, „15. und 16. Jahrhundert. Porträtmalerei der Renaissance“. Suchen Sie das kleinste königliche Gesicht im Saal, eine Tafel von nur etwa 28 mal 20 Zentimetern: Heinrich der Achte frontal, mit flachem Barett und juwelenbesetztem Anhänger, darunter seine Hände.
+@what: Hans Holbein the Younger, Portrait of Henry VIII of England, ca. 1537, oil on panel, 28 × 20 cm, inv. 191 (1934.39). Also: Robert Campin, Portrait of a Stout Man. Robert de Masmines (?), ca. 1425, oil on panel, 35.4 × 23.7 cm, Room 5.
+@listen: How a picture smaller than a school notebook carries the weight of a king, and why the Henry we all picture comes from a wall that no longer exists.
+@brief: Standing close with a friend over a tiny, powerful object; quietly impressed, a little wry about the propaganda, clear on what is and isn't the famous image.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/holbein-hans-joven/portrait-henry-viii-england (OFF: "Room 5" / Level 2; ca. 1537; oil on panel; 28 × 20 cm; Holbein back in England 1532, in Henry's service in 1536, valued for lifelike faces; painted Jane Seymour 1537, Christina of Denmark, Anne of Cleves; Henry 1491–1547, break with Rome, supreme head of the Church 1534; "markedly linear"; frontal pose, distance and hands convey authority; Pope-Hennessy, the head's "architectural solidity and strength"; related to the fresco for a private room in Whitehall Palace, "destroyed in 1698", known through Remigius Leemput's copy in the National Portrait Gallery, Henry full-length with Henry VII, Elizabeth of York and Jane Seymour, same head, hat and "splendid pendant jewel"; Earl of Sutherland, Earl Spencer c. 1933, Thyssen 1934) ; https://www.museothyssen.org/en/collection/artists/campin-robert/portrait-stout-man-robert-masmines (OFF: "Room 5"; ca. 1425; "great detail and realism"; wrinkles, stubble, double chin) ; research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md (HEDGE: most copies derive from the Whitehall type, not this panel)
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 007 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Einer der mächtigsten Männer Europas, und er würde in ein Schulheft passen. Diese Tafel ist nur etwa achtundzwanzig Zentimeter hoch.
+
+Hans Holbein kam 1532 nach England zurück, nach schweren Jahren in Basel. Viele seiner alten Auftraggeber waren tot oder in Ungnade gefallen. Binnen weniger Jahre arbeitete er für den König. Man schätzte ihn vor allem für eines: Gesichter, die lebendig wirkten. [pause] Er malte Heinrichs Königinnen und mögliche Königinnen, und er malte Heinrich.
+
+Dieses kleine Bildnis entstand um 1537. Heinrich hatte schon mit Rom gebrochen und sich selbst zum Oberhaupt der Kirche von England gemacht. [pause] Sehen Sie nun, wie Holbein diese Macht aufbaut. Der Körper steht Ihnen frontal gegenüber und füllt die Tafel. Man spürt Abstand, als würden Sie empfangen. Die Hände liegen fest im Blick. Ein Fachmann sprach von der architektonischen Festigkeit des Kopfes, und man sieht, was er meinte. Er ist gebaut wie eine Mauer.
+
+[wry] Und jetzt die Wendung. Der Heinrich, den wir meist vor Augen haben, die riesige Gestalt, die einen Raum zu füllen scheint, stammt meist von anderswo. Holbein malte ein großes Wandbild für einen privaten Raum im Palast von Whitehall. Heinrich stand dort in ganzer Figur neben seinen Eltern und Jane Seymour. [pause] Es wurde 1698 zerstört. Wir kennen es von einer Kopie, heute in London. Und der Kopf in dieser Kopie ist dieser Kopf, mit demselben Hut und demselben prächtigen Juwelenanhänger.
+
+Diese Tafel ist also die Nahaufnahme einer verlorenen Ikone. Vergleichen Sie sie mit Campins beleibtem Mann in der Nähe, etwa ein Jahrhundert früher gemalt. Verschiedene Welten, dieselbe Weigerung zu schmeicheln.
+
+[quietly] Klein genug, um es in zwei Händen zu halten. Stark genug, um Sie innehalten zu lassen.
+
+In Saal 5 gibt es einen kurzen Extra-Titel über Memlings betenden jungen Mann und die Blumen auf der Rückseite seiner Tafel. Die nächste Hauptstation ist die lange Galerie nebenan, Saal 6.

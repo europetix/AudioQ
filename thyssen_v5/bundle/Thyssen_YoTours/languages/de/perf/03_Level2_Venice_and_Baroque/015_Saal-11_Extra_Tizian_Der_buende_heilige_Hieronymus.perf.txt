@@ -1,0 +1,26 @@
+@id: 015 · DE · Room 11 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 11
+@type: X
+@title: Saal 11 · Extra · Tizian — Der büßende heilige Hieronymus
+@where: Saal 11, „Tiziano, Tintoretto, Bassano und El Greco“. Suchen Sie eine dunkle Nachtszene, etwa 137 mal 97 Zentimeter: ein alter, halbnackter Heiliger in roter Tunika kniet zwischen Felsen, einen Stein in der Hand, dazu ein Kruzifix an einem Ast und rechts unten in der Ecke ein Löwe.
+@what: Titian (Tiziano Vecellio), The Penitent Saint Jerome, ca. 1575, oil on canvas, 137 × 97 cm, inv. 406 (1933.4).
+@listen: The hidden moon, the one splash of red, and what Titian left out in his last years.
+@brief: Speaking softly to a friend in front of a dark, moving late work; hushed and reverent, one honest hedge about the legend.
+@pace: slow
+@energy: 2→2
+@sources: https://www.museothyssen.org/en/collection/artists/titian/penitent-saint-jerome (OFF: "Room 11" / Level 2; ca. 1575; oil on canvas; 137 × 97 cm; final period; Brera version, mid-1550s, the prototype, with skull, hourglass, books and ivy, dropped here about twenty years later; nocturnal, the moon hidden behind thick trunks lights the sky; lion lower right, head lost in the background; crucifix on a long branch; stone in the right hand; book under the left hand; flail of branches; narrow, nearly monochrome palette, bare canvas showing; red tunic the only strong patch of colour, rapidly painted on the left leg; drawing on the back found at the 1965 relining) ; Titian's death, 27 Aug 1576 during a plague outbreak, cause uncertain: research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md citing museodelprado.es ; finger-painting anecdote: NOT on the official page, framed as "the story goes"
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 015 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] In diesem Gemälde gibt es einen Mond, aber Sie können ihn nicht sehen. Er ist hinter den dicken Baumstämmen verborgen und erhellt doch den Nachthimmel.
+
+Tizian malte dies in seinen letzten Jahren, um 1575. Zwanzig Jahre zuvor hatte er denselben Heiligen für eine Kirche in Venedig gemalt. Dort war er von Symbolen umgeben: ein Schädel, eine Sanduhr, Bücher, Efeu auf den Felsen. [pause] Hier lässt er fast all das los. Es bleibt ein alter Mann. In der Rechten hält er einen Stein, um sich an die Brust zu schlagen. Sein Blick ruht auf einem Kruzifix an einem langen Ast.
+
+[pause] Sehen Sie die Farbe an. Fast alles ist Braun und Erde, und stellenweise scheint die nackte Leinwand durch. Die einzige kräftige Farbe ist das Rot seiner Tunika, schnell über sein Bein gestrichen. Und in der Ecke unten rechts ein Löwe, dessen Kopf sich fast im Dunkel verliert.
+
+[pause] Man erzählt, Tizian habe in seinen letzten Jahren mehr mit den Fingern als mit dem Pinsel gemalt. Ob das stimmt oder nicht, Sie sehen, warum man es sagte.
+
+[reverent] Er starb 1576, während einer Pestepidemie in Venedig. Dies ist das Werk eines Mannes, der nichts mehr erklären musste.
+
+Zurück in der langen Galerie führt die nächste Tür in Saal 12, „Caravaggio und die Barockmalerei“: die heilige Katharina, kniend neben ihrem zerbrochenen Rad mit Stacheln.

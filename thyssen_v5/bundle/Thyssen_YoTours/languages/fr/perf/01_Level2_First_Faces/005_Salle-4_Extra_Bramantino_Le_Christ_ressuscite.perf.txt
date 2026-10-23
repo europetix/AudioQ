@@ -1,0 +1,26 @@
+@id: 005 · FR · Room 4 · 23 Oct 2026 edition
+@section: Level 2 · The first faces
+@room: Room 4
+@type: X
+@title: Salle 4 · Extra · Bramantino — Le Christ ressuscité
+@where: Salle 4, « 15e siècle. Peinture italienne ». Cherchez un panneau vertical, environ 109 sur 73 cm : un Christ pâle, de face jusque sous la taille, les plaies aux mains et au flanc, les yeux rougis, un fond sombre et, à gauche, une petite vue de rivière avec un navire aux hauts mâts.
+@what: Bramantino (Bartolomeo Suardi), The Risen Christ, ca. 1490, mixed media on panel, 109 × 73 cm, inv. 61 (1937.1). Also: Paolo Uccello, The Crucifixion with the Virgin, Saint John the Baptist, Saint John the Evangelist and Saint Francis, ca. 1460–1465, tempera on panel, 45 × 67 cm, Room 4.
+@listen: A picture that had the wrong painter and the wrong title, and a Christ who has come back from death without any sense of triumph.
+@brief: A quiet word with a friend in front of an unsettling face; hushed, curious about the detective story, gently wry at Uccello.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/bramantino-bartolomeo-suardi/risen-christ (OFF: "Room 4" / Level 2; ca. 1490; mixed media on panel; 109 × 73 cm; Müller Walde 1898 and early Thyssen catalogues gave it to Bramante; Suida 1905 first suggested Bartolomeo Suardi, Bramantino; formerly called Ecce Homo or Man of Sorrows; crown of thorns, reed, bound hands and cloak absent; wounds on hands and ribcage; dark structure may be the tomb; "has little to do with" triumphant Christs; red eyes, "almost ghostly pallor"; river landscape with tall-masted ship and two tents topped by golden balls; Pusterla della Porta family, Milan, from 1590; Thyssen 1937) ; https://www.museothyssen.org/en/collection/artists/uccello-paolo/crucifixion-virgin-saint-john-baptist-saint-john-evangelist-and (OFF: "Room 4"; ca. 1460–1465; "totally absorbed in his studies of perspective"; Vasari: "ending up as poor as he was famous")
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 005 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Voici le Christ après la Résurrection. Et il n'a pas l'air d'un vainqueur.
+
+Longtemps, le tableau a eu le mauvais peintre et le mauvais titre. À sa première publication, en 1898, on l'a donné au grand architecte Bramante. Quelques années plus tard, un spécialiste a proposé son élève, Bartolomeo Suardi, dit Bramantino. Aujourd'hui, le musée le compte parmi les chefs-d'œuvre de Bramantino.
+
+Le titre a changé aussi. On l'appelait un Ecce Homo, le Christ montré à la foule avant sa mort. Mais ici, pas de couronne d'épines, pas de roseau, pas de mains liées. [pause] Regardez plutôt les plaies de ses mains et de son flanc. Nous sommes après la Crucifixion, et la forme sombre derrière lui est peut-être le tombeau.
+
+Regardez ses yeux. Ils sont rouges, comme s'il avait pleuré. Son corps a une pâleur presque spectrale, mais son visage, ses cheveux et ses mains sont plus chauds. [pause] Et à gauche, un petit monde paisible continue sans lui : une rivière, un navire aux hauts mâts, deux tentes coiffées de boules dorées.
+
+[wry] Dans cette salle, voyez aussi une petite Crucifixion de Paolo Uccello. Selon Vasari, Uccello était si absorbé par la perspective qu'il finit aussi pauvre que célèbre.
+
+Ensuite, la salle 5, « Le portrait de la Renaissance » : cherchez la jeune Florentine de profil, l'image de couverture du plan du musée.

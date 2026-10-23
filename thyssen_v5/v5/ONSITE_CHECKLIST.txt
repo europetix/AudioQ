@@ -27,6 +27,9 @@ AFTER 10/17 JANUARY 2027
 [ ] Rooms 19-21 (Mauritshuis display ends 10 Jan) and the Van Eyck/Dürer/El Greco return (17 Jan): remove the dated lines in 4, 12, 14, 21, 28.
 
 LISTENING CHECKS (after rendering on the Mac)
-[ ] "Room I" (English: "Room Eye"; DE "Saal I" must not sound like "eins"), "Henry the Eighth", "Brown and Silver One", "la clé des champs", psyché (psee-SHAY).
+[ ] "Room I" in 067: EN "Room Eye"; DE "Saal I, wie Ida"; FR "la salle I, comme Irène"; ES "la sala de la letra i" — none may sound like one/eins/un/uno.
+[ ] "Henry the Eighth" (FR "Henri huit"), "Brown and Silver One" (DE "zwei"/FR "deux"/ES in 052), "la clé des champs", psyché (psee-SHAY).
+[ ] 056/057 "J.Y.M.": EN/FR/DE read as letters; ES spoken "jota, i griega, eme".
 [ ] Names: Ghirlandaio, Tornabuoni, Saenredam, Ruisdael, Kirchner, Münter, Popova, Rozanova, Goncharova.
 [ ] Shorter versions: the spoken "next stop" lines name the right room and level.
+[ ] After the first full render, check the total running time of each folder against what 001 says (2 h 30 / 1 h 15 / 40 min, including walking); adjust 001 if far off.

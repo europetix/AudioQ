@@ -1,0 +1,26 @@
+@id: 059 · ES · Room 52 · 23 Oct 2026 edition
+@section: Level 1 · Surrealism, America and Pop
+@room: Room 52
+@type: W
+@title: Sala 52 · Roy Lichtenstein — Mujer en el baño, y David Hockney — En memoria de Cecchino Bracci
+@where: En la sala 52, «Arte Pop», la última sala de esta planta. Mujer en el baño es el gran lienzo cuadrado, de 1,7 metros por lado, de una sonriente mujer de cómic ante una pared de azulejos, en puntos rojos, amarillos y azules. En memoria de Cecchino Bracci, de Hockney, es el lienzo alto y estrecho, de más de dos metros, con forma de tumba.
+@what: Roy Lichtenstein, Woman in Bath, 1963, oil and Magna on canvas, 173.3 × 173.3 cm, inv. 648, Room 52, Level 1. David Hockney, In Memoriam of Cecchino Bracci, 1962, oil on canvas, 213.3 × 91.4 cm, inv. 584, Room 52, Level 1.
+@listen: How Pop painted the comics by hand, and how a young Hockney turned a Renaissance epitaph into a joke and a lament.
+@brief: Brisk and amused with a friend in the brightest room of the floor; a little tender on Cecchino; clear and practical on the way down.
+@pace: medium-fast
+@energy: 3→4→3
+@sources: https://www.museothyssen.org/en/collection/artists/lichtenstein-roy/woman-bath (OFF, read 23 Oct 2026: 1963; oil and Magna on canvas 173.3 × 173.3; inv. 648; Room 52, Level 1; inspired by a romantic comic strip; primary colours blue, yellow, red; Benday dots, invented 1879 by Benjamin Day for printing comics; thick black outlines; tiled wall; mechanical reproduction replaced by the painter's hand; bathing woman = Toilet of Venus theme; Gail Levin pairs it with Drowning Girl; she gazes at the viewer with a broad smile; Lichtenstein, Warhol, Wesselmann, Rosenquist reacting against Abstract Expressionism; Lichtenstein on women and make-up, paraphrased) ; https://www.museothyssen.org/en/collection/artists/hockney-david/memoriam-cecchino-bracci (OFF: 1962; oil on canvas 213.3 × 91.4; inv. 584; Room 52; Cecchino Bracci, nephew of Luigi del Riccio, "an extremely beautiful youth closely linked to Michelangelo", died aged fifteen in January 1544; Michelangelo designed his tomb in Santa Maria in Aracoeli and wrote epitaphs; painted in London, autumn 1962; in his coffin with arms crossed, wearing a bowler hat, "an incongruous" touch; laurel wreath around "CECCHINO"; first lines of a Michelangelo epigram in tiny lettering lower right; canvas shaped like a tomb, so he could "ignore the concept of illusionistic space and paint merrily in a flat style") ; Postpop rooms / Kenny Scharf until 17 Jan 2027: research/LEVEL1_ROOMS_OCT2026.md (https://www.museothyssen.org/en/exhibitions/kenny-scharf) ; stairs and lift by Room 52 and Carmen Thyssen access: research/map/p-3.png, p-4.png, PLAN cue
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 059 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] A comienzos de la década de 1960, unos jóvenes estadounidenses se hartaron del expresionismo abstracto, de tanta pintura heroica y angustia privada. Lichtenstein, Warhol, Wesselmann y Rosenquist miraron lo que todos ya miraban: cómics, anuncios, vallas. Eso era el pop.
+
+Roy Lichtenstein probablemente encontró a esta mujer en un cómic romántico. Mire qué poco usa. Tres primarios: rojo, amarillo y azul. Gruesos contornos negros en cara y manos. Detrás, azulejos planos como papel milimetrado. [pause] Y esos puntos. Los impresores de cómics los usaban para sombrear barato. Los inventó un impresor, Benjamin Day. [amused] Lichtenstein pintó cada uno a mano. Trabajo de máquina, hecho por el artista.
+
+Además, el tema es antiquísimo. Una mujer en el baño es un viejo motivo pictórico, Venus en su tocador. [pause] Esta Venus le sonríe de frente. Lichtenstein dijo que las mujeres se dibujan así, y que eso es en realidad el maquillaje.
+
+[pause] Ahora, el lienzo alto. En 1962, el joven David Hockney, aún en Londres, pintó un lamento por Cecchino Bracci, un bello muchacho cercano a Miguel Ángel, muerto a los quince años en enero de 1544. Miguel Ángel diseñó su tumba en Roma y le escribió epitafios. Hockney dio al lienzo forma de ataúd. Dentro yace Cecchino, amortajado, con los brazos cruzados y un bombín. [quietly] Busque la corona de laurel en torno a su nombre y, muy pequeñas, abajo a la derecha, las primeras líneas de un epitafio de Miguel Ángel. La forma de ataúd, dijo Hockney, le dejaba pintar «alegremente, en un estilo plano».
+
+Las salas Post-Pop, de la 53 a la 56, acogen una exposición de Kenny Scharf hasta el 17 de enero de 2027, y no forman parte de esta guía.
+
+Tome las escaleras o el ascensor junto a la sala 52 y baje a la planta 0. Saldrá al fondo del hall central. Recorra el hall hacia la entrada y gire a la derecha, por el acceso a la colección Carmen Thyssen, hasta la sala A. Allí está El Jardín del Edén de Brueghel, lleno de animales.

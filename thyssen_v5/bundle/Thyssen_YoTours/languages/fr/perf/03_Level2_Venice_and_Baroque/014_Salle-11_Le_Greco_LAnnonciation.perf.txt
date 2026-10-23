@@ -1,0 +1,28 @@
+@id: 014 · FR · Room 11 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 11
+@type: R
+@title: Salle 11 · Le Greco — L'Annonciation
+@where: Salle 11, « Tiziano, Tintoretto, Bassano et le Greco ». Trouvez la toile d'environ 117 sur 98 cm : la Vierge à son prie-Dieu à gauche, l'ange qui arrive à droite, un sol en damier, un rideau rose et, en haut, des anges dans une nuée de lumière.
+@what: El Greco (Domenikos Theotokopoulos), The Annunciation, ca. 1576, oil on canvas, 117 × 98 cm, inv. 172 (1975.35). Also: Tintoretto, The Meeting of Tamar and Judah, and The Annunciation to Manoah's Wife, both ca. 1555–1559, oil on canvas, 150 × 155 cm, Room 11.
+@listen: Venice's lesson in colour, and El Greco before Toledo, borrowing from three great Venetians at once.
+@brief: Introducing the Venetian room to a friend; warm and appreciative, a little playful about the borrowing, clear about which Annunciation this is.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/greco-domenikos-theotokopoulos/annunciation-0 (OFF: "Room 11" / Level 2; ca. 1576; oil on canvas; 117 × 98 cm; "one of the last versions executed in Italy"; Archangel "very much in the style of Veronese"; light and colouring "owe much to Titian"; figures from Tintoretto's composition in the Scuola di San Rocco; checkerboard floor, pink curtain, balustrade; Virgin at a prayer-stool on the left; foreshortened angels in the clouds herald the Spanish works; the later Annunciation, ca. 1596–1600, listed as a related work; Thyssen 1975) ; https://www.museothyssen.org/en/collection/artists/tintoretto/meeting-tamar-and-judah (OFF: "Room 11"; ca. 1555–1559; Genesis; Judah: "She hath been more righteous than I"; pair with Manoah's Wife) ; https://www.museothyssen.org/en/collection/artists/tintoretto/annunciation-manoahs-wife (OFF: "Room 11"; angel announces Samson's birth) ; research/CURRENT_LOCATIONS_OCT2026.md (the later El Greco Annunciation is at the Mauritshuis until 17 Jan 2027: removable sentence; no Bassano confirmed in the room) ; old/014.txt (Venice and colour, general)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 014 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] À Florence, les peintres partaient du dessin. À Venise, de la couleur et de la lumière, et la peinture elle-même portait l'émotion. Cette salle, c'est le seizième siècle vénitien, et son titre nomme ses héros.
+
+Et un étranger. Avant de devenir le Greco de Tolède, Domenikos Theotokopoulos était un peintre crétois en Italie, qui absorbait tout ce que Venise pouvait lui apprendre. Cette Annonciation, vers 1576, est l'une des dernières versions qu'il peignit en Italie, avant de partir pour l'Espagne.
+
+[amused] Voyez combien de maîtres s'y cachent. L'ange élégant rappelle fortement Véronèse. La lumière et la couleur doivent beaucoup à Titien. Et la disposition des deux figures vient d'une composition du Tintoret, à Venise. [pause] Marie est assise à son prie-Dieu, à gauche, très attentive. Un sol en damier s'enfonce vers le fond, avec un rideau rose et une balustrade.
+
+Levez les yeux. Dans la nuée lumineuse, de petits anges sont vus nettement d'en dessous. C'est un aperçu du peintre qu'il va devenir en Espagne.
+
+Le musée possède une seconde Annonciation du Greco, bien plus tardive, peinte en Espagne. Celle-là est prêtée à La Haye jusqu'en janvier 2027.
+
+Avant de partir, trouvez la paire de grandes toiles du Tintoret : dans chacune, une femme à gauche, puis un paysage ouvert. [pause] Dans l'une, la veuve Tamar trompe son beau-père Juda, qui finit par admettre : « Elle est plus juste que moi. »
+
+La salle 11 propose un court Extra sur le tardif Saint Jérôme pénitent de Titien. Le prochain arrêt principal est la salle 12 : la sainte Catherine du Caravage, près de sa roue à pointes.

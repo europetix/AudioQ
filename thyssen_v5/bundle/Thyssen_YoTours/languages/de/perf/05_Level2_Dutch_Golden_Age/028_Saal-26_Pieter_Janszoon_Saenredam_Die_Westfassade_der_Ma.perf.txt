@@ -1,0 +1,28 @@
+@id: 028 · DE · Room 26 · 23 Oct 2026 edition
+@section: Level 2 · The Dutch Golden Age and the French salon
+@room: Room 26
+@type: W
+@title: Saal 26 · Pieter Janszoon Saenredam — Die Westfassade der Marienkirche in Utrecht
+@where: Saal 26, „17. Jahrhundert. Holländische Malerei. Landschaft“. Suchen Sie eine helle, hochformatige Tafel, etwa 65 Zentimeter hoch: eine schlichte romanische Kirchenfassade zwischen Bäumen, mit drei winzigen Figuren an ihrem Fuß. Cuyps goldener Sonnenuntergang mit Kuhhirte und Holzbrücke hängt im selben Saal.
+@what: Pieter Jansz. Saenredam, The West Façade of the Church of Saint Mary in Utrecht, 1662, oil on panel, 65.1 × 51.2 cm, inv. 362. Also: Aelbert Jacobsz. Cuyp, Landscape with a Sunset, ca. 1655, oil on panel, 48.3 × 74.9 cm, inv. 117.
+@listen: How Saenredam measured a church in 1636, painted it a quarter of a century later, and quietly improved it.
+@brief: Letting a friend in on an artist's small deceptions; curious, then conspiratorial, warm at Cuyp's evening light.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/saenredam-pieter-jansz/west-facade-church-saint-mary-utrecht (OFF: Room 26 / Level 2; 1662; oil on panel 65.1 × 51.2; first architecture painter to depict existing buildings; measured and sketched on site, construction drawings, paintings years later; de Bie 1662, "the first architectural portraitist"; Romanesque Mariakerk demolished in the 19th century; in Utrecht June–October 1636; drawing dated 30 August 1636; removed two ruined structures at the ends of the façade, altered the rose window, added three small figures for scale) ; https://www.museothyssen.org/en/collection/artists/cuyp-aelbert-jacobsz/landscape-sunset (OFF: Room 26 / Level 2; ca. 1655; cowherd leading the herd home, path to a rustic wooden bridge, pink sunset; "the soft, golden light of the Mediterranean evening"; probably never visited Italy; Jan Both; favourite of 18th-century British collectors) ; Mauritshuis Saenredam of the same church in the Classical rooms: research/LEVEL2_ROOMS_OCT2026.md (removable line)
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 028 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Diese Kirche gibt es nicht mehr. Und das Gemälde zeigt sie auch nicht ganz so, wie sie war.
+
+Pieter Saenredam war der erste Maler, der echte Porträts realer Gebäude schuf. Eine Biografie, zu seinen Lebzeiten erschienen, nannte ihn „den ersten Architekturporträtisten“. Er maß vor Ort, zeichnete, ging nach Hause und fertigte sorgfältige Konstruktionszeichnungen an. Dann wartete er manchmal jahrelang, bevor er malte.
+
+So war es auch hier. Im Sommer 1636 verbrachte er vier Monate in Utrecht und zeichnete die Kirchen der Stadt. Seine Zeichnung dieser Kirche, der romanischen Marienkirche, ist auf den dreißigsten August datiert. [pause] Diese Tafel malte er sechsundzwanzig Jahre später. Die Kirche selbst wurde im neunzehnten Jahrhundert abgerissen.
+
+[conspiratorial] Vergleichen Sie das Bild nun mit der Wirklichkeit, denn er hat sie verbessert. An beiden Enden der Fassade stand früher ein verfallener Bau. Er entfernte beide. Er veränderte die Größe des runden Fensters in der Mitte. Und am Fuß des Gebäudes fügte er drei kleine Figuren hinzu. [pause] Suchen Sie sie. Sie geben Ihnen den Maßstab, und sie lassen diesen hellen Stein gewaltig wirken.
+
+Bis zum zehnten Januar 2027 enthält die Gastausstellung aus dem Mauritshuis in den klassischen Sälen einen weiteren Saenredam derselben Kirche.
+
+[warmly] Für einen völligen Stimmungswechsel suchen Sie Aelbert Cuyps Landschaft bei Sonnenuntergang. Ein Kuhhirte treibt am Ende des Tages sein Vieh heim, auf einem Weg zu einer Holzbrücke, unter einem rosa Abendhimmel. Cuyp war wahrscheinlich nie in Italien. Er lernte dieses goldene Mittelmeerlicht von Malern, die dort gewesen waren. [pause] Und britische Sammler des achtzehnten Jahrhunderts konnten nicht genug davon bekommen.
+
+Weiter geht es in Saal 27, holländisches Porträt: Rembrandt mit dunklem Hut und zwei Goldketten über der Brust.

@@ -1,0 +1,26 @@
+@id: 045 · FR · Room 41 · 23 Oct 2026 edition
+@section: Level 1 · Expressionism and the avant-gardes
+@room: Room 41
+@type: W
+@title: Salle 41 · Pablo Picasso — L'Homme à la clarinette, et Georges Braque — Femme à la mandoline
+@where: Salle 41, « La tradition cubiste I ». Trouvez les deux toiles cubistes verticales, en bruns, ocres et gris : la figure en pyramide de Picasso, faite de plans éclatés, et la femme assise de Braque, un peu plus petite, dont on devine la mandoline et la main.
+@what: Pablo Picasso, Man with a Clarinet, 1911–1912, oil on canvas, 106 × 69 cm; Georges Braque, Woman with a Mandolin (Mujer con mandolina), 1910, oil on canvas, 80.5 × 54 cm. Also: Paul Cézanne, Seated Man, 1905–1906, and Juan Gris, The Smoker (Frank Haviland), 1913, both oil on canvas, Room 41.
+@listen: Where Cubism came from, how to find a figure in it, and why three of these paintings went under the hammer in 1921.
+@brief: An engaged guide helping a friend decode difficult pictures; patient on the looking, quicker and more amused on the war-time auction.
+@pace: medium
+@energy: 2→3→4
+@sources: https://www.museothyssen.org/en/collection/artists/cezanne-paul/seated-man (OFF: Room 41, Level 1; 1905–1906; one of the late plein-air works at Aix; probably the gardener Vallier, who often sat for him; areas of canvas left bare deliberately; "What I wanted was to make of Impressionism something solid and durable, like the art of museums") ; https://www.museothyssen.org/en/collection/artists/braque-georges/woman-mandolin (OFF: Room 41; spring 1910; oil on canvas 80.5 × 54 cm; Cubism arose from Braque and Picasso's joint work, starting from Cézanne; return to the figure possibly prompted by 24 Corots at the 1909 Salon d'Automne, an instrument gives a sitter the calm of a still life; mandolin and hand recognisable, head and shoulders barely; ochres, greys, browns; André Breton bought it at the 1921 sale of works confiscated from Kahnweiler) ; https://www.museothyssen.org/en/collection/artists/picasso-pablo/man-clarinet (OFF: Room 41; 1911–1912; oil on canvas 106 × 69 cm; after summer 1911 with Braque at Céret, painted in Paris; pyramid-shaped figure; instrument "perhaps a clarinet", Kachur: a tenora, used for the Catalan sardana; ochres and greys; sold by Kahnweiler to Wilhelm Uhde, a German, in 1912; confiscated in WWI as a German's property; auctioned at the Hôtel Drouot, 30 May 1921; Breton called it "a work of fabulous elegance"; Thyssen collection 1982) ; https://www.museothyssen.org/en/collection/artists/gris-juan/smoker-frank-haviland (OFF: Room 41; 1913; painted at Céret, September 1913; Frank Haviland, wealthy American friend of the Steins, stiff collar, bow tie, top hat; planes of green, blue, orange and red, colours Picasso and Braque were not using; Kahnweiler bought it back in 1921 at the sale of his confiscated property) ; https://museothyssen.org/en/node/14586 (OFF: Gris "Madrid, 1887–Boulogne-sur-Seine, 1927") ; Braque's "roped together" quote NOT used (not on an official page)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 045 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Avant les cubistes, il y a Cézanne. Son Homme assis, sans doute son vieux jardinier, date des dernières années de sa vie. Des parties de la toile restent simplement nues. Cézanne disait vouloir faire de l'impressionnisme quelque chose de solide et de durable, comme l'art des musées. Picasso et Braque sont partis de là, et cette salle le place en tête de l'histoire.
+
+[pause] Voici les deux partenaires. Braque peint sa Femme à la mandoline au printemps 1910. Il avait regardé les femmes paisibles de Corot et leurs instruments. Il a compris qu'un instrument donne au modèle le calme d'une nature morte. La femme s'est brisée en petits plans d'ocre, de gris et de brun. Cherchez d'abord la mandoline, puis la main qui la tient. La tête et les épaules ont presque disparu.
+
+L'Homme à la clarinette de Picasso vient un an et demi plus tard, après un été de travail aux côtés de Braque, à Céret, dans les Pyrénées françaises. [pause] Repérez une pyramide, large à la base. C'est l'homme. Le cylindre au centre est son instrument, peut-être une clarinette. Un spécialiste pense plutôt à une tenora, l'instrument à anche des orchestres de sardane catalans.
+
+[wry] Puis la guerre a fait de ces deux tableaux des biens ennemis. Le Picasso appartenait à un collectionneur allemand de Paris, le Braque au marchand allemand Kahnweiler. La France a confisqué leurs biens, vendus aux enchères à Paris en 1921. Le poète André Breton est allé aux ventes. Il a acheté le Braque, et il a qualifié le Picasso d'œuvre d'une élégance fabuleuse.
+
+Un autre peintre de cette salle est né à Madrid : Juan Gris. Son Fumeur est sans doute un riche ami américain, en haut-de-forme et nœud papillon, peint à Céret deux ans après le Picasso. Gris emploie des plans de vert, de bleu, d'orange et de rouge, des couleurs que les deux inventeurs n'utilisaient pas alors. Quand le stock confisqué de Kahnweiler fut vendu, le marchand racheta celui-ci.
+
+Ensuite, la salle 42, « La tradition cubiste deux » : Contrastes simultanés de Sonia Delaunay, un tableau fait de couleur pure.

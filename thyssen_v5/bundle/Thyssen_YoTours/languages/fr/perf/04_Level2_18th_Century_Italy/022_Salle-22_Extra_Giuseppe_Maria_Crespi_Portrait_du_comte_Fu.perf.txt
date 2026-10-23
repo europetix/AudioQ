@@ -1,0 +1,24 @@
+@id: 022 · FR · Room 22 · 23 Oct 2026 edition
+@section: Level 2 · The 18th century in Italy
+@room: Room 22
+@type: X
+@title: Salle 22 · Extra · Giuseppe Maria Crespi — Portrait du comte Fulvio Grati, et deux scènes paysannes sur cuivre
+@where: Salle 22, « 18e siècle. Peinture italienne ». Placez-vous devant le haut portrait, presque grandeur nature, d'un noble assis, un luth sur les genoux, un rideau derrière lui et un page noir à droite. Les deux petits tableaux sur cuivre de la vie paysanne sont du même peintre, dans la même salle.
+@what: Giuseppe Maria Crespi, Portrait of Count Fulvio Grati, ca. 1720–1723, oil on canvas, 228 × 153 cm, inv. 116. Also: Crespi, Peasants with Donkeys (Campesinos con asnos) and Interior with a Family of Peasants (Interior con familia de campesinos), both ca. 1709, oil on copper, 39.4 × 31.1 cm, Carmen Thyssen Collection, CTB.1994.1.2 and CTB.1994.1.1.
+@listen: One Bolognese painter at both ends of society: a count dressed for music, and peasants painted without mockery.
+@brief: A quick, warm aside between two rooms; light at the start, admiring at the end.
+@pace: medium
+@energy: 3→2
+@sources: https://www.museothyssen.org/en/collection/artists/crespi-giuseppe-maria/portrait-count-fulvio-grati (OFF: Room 22 / Level 2; ca. 1720–1723; 228 × 153; most important late Baroque artist in Bologna; large scale, theatrical light; lute on his lap, other hand on a small mandolin; servant holding up a curtain; richly dressed Black page with music scores; still life with lute case, music, book; small dog looking at the viewer; theme of music) ; https://www.museothyssen.org/en/collection/artists/crespi-giuseppe-maria/peasants-donkeys and https://www.museothyssen.org/en/collection/artists/crespi-giuseppe-maria/interior-family-peasants (OFF: Room 22 / Level 2; ca. 1709; oil on copper 39.4 × 31.1; Carmen Thyssen Collection; peasants with donkeys; woman cooking, two boys playing cappelletto; 1708–1709 Florence visits to Grand Prince Ferdinando de' Medici, Bamboccianti; the poor shown "without any social prejudice", no satire)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 022 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Un peintre, deux bouts de la société.
+
+Sur un mur, le comte Fulvio Grati, peint presque grandeur nature vers 1720. Un luth sur les genoux, les doigts effleurant une petite mandoline. Derrière lui, un serviteur soulève un grand rideau. Un page noir richement vêtu apporte la musique. Un petit chien pointe le nez derrière l'étui du luth et vous fixe. [pause] Le message est clair. Ce comte est un homme de musique.
+
+Trouvez les deux cuivres, à peine plus grands qu'un gros livre. Dans l'un, des paysans avec leurs ânes. Dans l'autre, une famille est chez elle : une femme cuisine, et deux garçons jouent. Crespi les a peints vers 1709, après des séjours à la cour des Médicis, à Florence. Il y avait étudié les Bamboccianti, peintres de la vie humble et quotidienne.
+
+[warmly] Ce qui frappe, c'est le respect. Ni moquerie, ni sermon. Juste des gens, peints avec autant de soin que le comte.
+
+Ensuite, la salle 23, le paysage hollandais : le groupe familial de Frans Hals, devant un paysage.

@@ -1,0 +1,28 @@
+@id: 001 · ES · Entrance hall · 23 Oct 2026 edition
+@section: Opening
+@room: Entrance hall
+@type: ANCHOR
+@title: Bienvenida — un palacio, dos barones y siete siglos
+@where: En el hall central de la planta 0, justo después de la entrada desde el Paseo del Prado, antes de caminar hasta el fondo del hall y subir.
+@what: Welcome and how the guide works: the Thyssen-Bornemisza collection, built by Heinrich (1875–1947) and Hans Heinrich Thyssen-Bornemisza (1921–2002); 1988 loan of 775 works; opened 8 October 1992 in the Palacio de Villahermosa, converted by Rafael Moneo; 1993 purchase by the Spanish State; Carmen Thyssen collection on Level 0. In passing: Tintoretto, Paradise, ca. 1588, oil on canvas, Central hall.
+@listen: How a family's private collection became a national museum, how the walk runs from the top of the building down, and how to use the three lengths of this guide.
+@brief: A friendly guide meeting a visitor at the door; warm and clear, a little wry about the loan, practical and calm on the instructions.
+@pace: medium
+@energy: 3→3→2
+@sources: https://museothyssen.org/en/node/22022 (OFF: Hans Heinrich 1921–2002 inherited from Heinrich in 1947; 1988 contract for the loan of 775 works "with a view to their subsequent sale"; Moneo refurbished the Palacio de Villahermosa; opened October 1992, caption 8 Oct 1992; June 1993 sale agreement) ; https://www.museothyssen.org/sites/default/files/document/2017-03/Folleto_INGLES_ES.pdf (OFF: "Acquired over two generations", Heinrich 1875–1947 and Hans Heinrich 1921–2002; opened 8 Oct 1992; Moneo conversion; 2004 extension for the Carmen Thyssen collection; tour begins on Level 2) ; https://museothyssen.org/en/node/24067 (OFF: "We recommend that you start on the second floor, room 1"; "go to the end of the central hall and go up the stairs or take the lift"; Carmen Thyssen collection on the ground floor) ; https://www.museothyssen.org/en/collection/artists/tintoretto/paradise (OFF: label "Central hall"; ca. 1588; 174.5 × 494 cm; fire of December 1577 in the Doge's Palace; "Tintoretto's new proposal for the decoration of the main wall after Veronese's death") ; research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md (775 works bought in 1993; never "the whole thing", never "the last Baron") ; source/map.txt (loans notice; level and room titles) ; PLAN.md (three lengths)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 001 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Este museo empezó siendo un préstamo. En 1988, el barón Hans Heinrich Thyssen-Bornemisza prestó a España 775 obras de su colección familiar, con vistas a venderlas después. En 1993, el Estado español las compró. Son el corazón de lo que verá hoy. Las reunieron dos generaciones: su padre, Heinrich, y luego el propio Hans Heinrich.
+
+Para albergarlas, el arquitecto Rafael Moneo transformó un antiguo palacio aristocrático del Paseo del Prado, el palacio de Villahermosa. El museo abrió en otoño de 1992. Hoy la planta baja acoge también la colección de su esposa, Carmen Thyssen.
+
+[pause] Lo recorreremos de arriba abajo. En la planta 2 empieza con tablas de fondo dorado de la Italia medieval, y avanza en el tiempo, sala a sala. La planta 1 sigue la historia hasta el arte pop. Luego, la colección Carmen Thyssen en la planta 0, y la salida al Paseo del Prado. [pause] Cada parada da el número de sala del plano del museo, a menudo con su título.
+
+La guía tiene tres duraciones. La visita completa dura unas dos horas y media, la esencial, una hora y cuarto, y la de obras maestras, unos cuarenta minutos. Tenga la que tenga en su teléfono, escúchela en orden. Los números pueden saltar, y cada parada le dice adónde ir después.
+
+Algunas paradas son breves Extras, para saltar cuando quiera. [wry] Y una advertencia sincera. El museo presta mucho, y el propio plano avisa de que suele haber obras prestadas. A veces quizá encuentre un aviso donde debería haber un cuadro. [pause] Las exposiciones temporales no entran en esta guía.
+
+Por el camino, busque en este hall un lienzo largo y abarrotado del cielo. Es El Paraíso de Tintoretto, su propuesta para la gran sala del consejo del Palacio Ducal de Venecia tras un incendio. Ese palacio volverá a salir arriba.
+
+Camine hasta el fondo del hall central, lejos de las puertas del Paseo del Prado, y suba por las escaleras o en el ascensor a la planta 2. El plano marca la sala 1 como inicio recomendado de la visita. [pause] Busque pequeñas tablas de fondo dorado de la Siena del siglo catorce.

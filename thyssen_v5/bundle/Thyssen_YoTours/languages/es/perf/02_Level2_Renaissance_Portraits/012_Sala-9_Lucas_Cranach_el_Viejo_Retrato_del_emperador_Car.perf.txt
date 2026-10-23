@@ -1,0 +1,28 @@
+@id: 012 · ES · Room 9 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 9
+@type: W
+@title: Sala 9 · Lucas Cranach el Viejo — Retrato del emperador Carlos V
+@where: Sala 9, «Siglos XV y XVI. Pintura alemana», después de la sala 8. Busque el retrato de medio cuerpo, de unos 51 por 36 centímetros, de un hombre girado hacia la izquierda, de cara alargada y mandíbula prominente, con una cadena de oro de la que cuelga un pequeño toisón de oro.
+@what: Lucas Cranach the Elder, Portrait of the Emperor Charles V, 1533, oil on panel, 51.2 × 36 cm, inv. 112 (1933.7). Also: Hans Holbein the Elder, Portrait of a Woman, ca. 1518–1520, oil on panel, 23.6 × 17 cm, Room 9; Albrecht Altdorfer, Portrait of a young Woman, ca. 1522, oil on panel, 59 × 45 cm, Room 9; passed in Room 8: Lucas Cranach the Elder, The Virgin and Child with a Bunch of Grapes, ca. 1509–1510, oil on panel.
+@listen: Spain's emperor painted by the great painter of the Reformation, and two women who have been given the wrong names.
+@brief: A friend who loves the irony of history; brisk and amused on the German rooms, attentive on the face, wry on the mistaken identities.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/cranach-lucas-elder/portrait-emperor-charles-v (OFF: "Room 9" / Level 2; 1533; oil on panel; 51.2 × 36 cm; lost 1508 portrait of "the eight-year old future emperor"; met again in 1547 after Mühlberg, interceding for John Frederick of Saxony; court painter at Wittenberg; "long face with its protruding jaw", large nose, fleshy lower lip, unlike Titian's official portraits; only sign of rank the Golden Fleece chain, flame and flint links; hypothesis: one of a series "commissioned by the Reformers as a present for the Emperor"; faces left; Von Wallenberg, Thyssen 1933) ; https://www.museothyssen.org/en/collection/artists/cranach-lucas-elder/virgin-and-child-bunch-grapes (OFF: "Room 8" / Level 2; "the great painter of the Reformation", "a personal friend of Melanchthon and Luther"; grape refers to the Eucharist) ; https://www.museothyssen.org/en/collection/artists/holbein-hans-elder/portrait-woman (OFF: "Room 9"; 23.6 × 17 cm; with its pair "incorrectly identified as Martin Luther and his wife Katharina von Bora"; no headdress, so unmarried; father of Holbein the Younger) ; https://www.museothyssen.org/en/collection/artists/altdorfer-albrecht/portrait-young-woman (OFF: "Room 9"; ca. 1522; Altdorfer's wife theory "romantic and sentimental"; Barbara Blomberg, mother of Don Juan of Austria, born 1527, "both have been rejected on grounds of insufficient proof") ; research/CURRENT_LOCATIONS_OCT2026.md (Dürer, Jesus Among the Doctors, in The Hague until 17 Jan 2027: removable sentence)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 012 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Aquí tiene al emperador católico que reinó en España, pintado por el gran pintor de la Reforma. La historia tiene sentido del humor.
+
+Tras la sala 8, está en las salas alemanas. Lucas Cranach, cuya Virgen de las uvas vio al lado, era pintor de la corte en Wittenberg y amigo personal de Martín Lutero. Y aquí pinta en 1533 a Carlos Quinto, el emperador que combatió a los príncipes de Lutero.
+
+Se conocían. Cranach pintó primero a Carlos de niño, a los ocho años, en un retrato hoy perdido. Años después, cuando Carlos derrotó a los príncipes protestantes en Mühlberg, el viejo pintor intercedió ante él por su príncipe cautivo. [pause] Una teoría dice incluso que esta tabla era de una serie de retratos reales que los reformadores regalaron al emperador. Es solo una teoría, pero tentadora.
+
+[pause] Ahora mire la cara. Los retratos oficiales de Tiziano la suavizan. Cranach no. La cara alargada, la mandíbula saliente, la nariz grande y el labio inferior carnoso están ahí. Y casi nada indica que sea emperador. Solo una cadena de oro, con eslabones en forma de llamas y pedernales, de la que cuelga el pequeño toisón de su orden de caballería.
+
+[amused] Dos mujeres de esta sala recibieron nombres equivocados. Holbein el Viejo, padre del pintor de Enrique Octavo, pintó este diminuto perfil, que con su pareja se identificó con Lutero y su esposa. Hoy se descarta. Y de la joven de Altdorfer se dijo que era Barbara Blomberg, luego madre del hijo de Carlos, don Juan de Austria. Pero Barbara no nació hasta 1527.
+
+Una nota para esta temporada: Jesús entre los doctores, de Durero, que suele estar en estas salas, está prestado a La Haya hasta enero de 2027.
+
+A continuación, la sala 10, de pintura neerlandesa del siglo dieciséis: el amplio paisaje de Patinir, con una diminuta Sagrada Familia descansando.

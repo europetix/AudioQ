@@ -1,0 +1,24 @@
+@id: 008 · ES · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: X
+@title: Sala 5 · Extra · Hans Memling — Retrato de un hombre joven orante
+@where: Sala 5, «Siglos XV y XVI. El retrato en el Renacimiento». Busque una tabla pequeña, de unos 29 por 22 centímetros: un joven de tres cuartos con las manos juntas en oración, en una logia abierta a un paisaje, con una alfombra estampada sobre el pretil delante de él.
+@what: Hans Memling, Portrait of a Young Man praying (recto), ca. 1485, oil on panel, 29.2 × 22.5 cm, inv. 284.a (1938.1.a). On the reverse: Flowers in a Jug.
+@listen: The missing Virgin this young man was praying to, and the jug of flowers on the back that is one of the first still lifes in art.
+@brief: A quick, delighted aside to a friend; gentle on the prayer, lightly excited about the back of the panel, honest that it may not be visible.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/memling-hans/portrait-young-man-praying-recto (OFF: "Room 5" / Level 2; ca. 1485; oil on panel; 29.2 × 22.5 cm; part of a larger ensemble, "If the work had formed part of a triptych there would have been a figure of a female donor on the right wing", central Virgin and Child; sitter unidentified, perhaps of the Italian community in Bruges, others suggest a Spanish client; loggia onto a landscape with an oriental rug on the ledge; Memling "contributed in a crucial manner to disseminating this model in Flemish art"; reverse "one of the first independent still lifes known in art", jug with Christ's monogram, lilies for purity, irises for Queen of Heaven and mater dolorosa, aquilegias for the Holy Spirit; Hamilton collection, Thyssen 1938) ; PLAN.md B (CHECK on site whether the back is visible: hedged in the script)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 008 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Este joven reza a alguien que ya no está aquí.
+
+La postura lo delata: tiene las manos juntas y los ojos fijos en algo fuera del marco. El museo cree que era un ala de un pequeño tríptico. En el centro, una Virgen con el Niño. En la otra ala, probablemente una donante, rezando también. [pause] Aquí solo está su tabla, y nadie sabe su nombre. Quizá perteneciera a la comunidad italiana de Brujas, donde trabajaba Memling, aunque algunos especialistas han propuesto un cliente español.
+
+Mire lo que le rodea. Una logia se abre a un paisaje suave, y hay una alfombra oriental sobre el pretil. Memling no inventó este tipo de fondo abierto, pero contribuyó mucho a difundirlo.
+
+[lightly] Ahora, la sorpresa. En el reverso de esta tabla, Memling pintó un jarro de flores con el monograma de Cristo. Lirios por la pureza de María, iris por ella como Reina del Cielo, y aguileñas por el Espíritu Santo. Es uno de los primeros bodegones independientes conocidos en el arte. [pause] Si la tabla está expuesta de modo que se vea el reverso, rodéela y mírelo.
+
+Pase a la larga galería Villahermosa, la sala 6: busque a una veneciana con rosas y un mono encadenado.

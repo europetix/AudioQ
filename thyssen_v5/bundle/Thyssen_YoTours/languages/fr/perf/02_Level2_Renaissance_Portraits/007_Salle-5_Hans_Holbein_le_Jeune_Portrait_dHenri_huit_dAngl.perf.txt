@@ -1,0 +1,28 @@
+@id: 007 · FR · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: W
+@title: Salle 5 · Hans Holbein le Jeune — Portrait d'Henri huit d'Angleterre
+@where: Salle 5, « 15e et 16e siècles. Le portrait de la Renaissance ». Cherchez le plus petit visage royal de la salle, un panneau d'environ 28 sur 20 cm seulement : Henri huit de face, coiffé d'un béret plat, avec un pendentif orné de pierres, les mains visibles en bas.
+@what: Hans Holbein the Younger, Portrait of Henry VIII of England, ca. 1537, oil on panel, 28 × 20 cm, inv. 191 (1934.39). Also: Robert Campin, Portrait of a Stout Man. Robert de Masmines (?), ca. 1425, oil on panel, 35.4 × 23.7 cm, Room 5.
+@listen: How a picture smaller than a school notebook carries the weight of a king, and why the Henry we all picture comes from a wall that no longer exists.
+@brief: Standing close with a friend over a tiny, powerful object; quietly impressed, a little wry about the propaganda, clear on what is and isn't the famous image.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/holbein-hans-joven/portrait-henry-viii-england (OFF: "Room 5" / Level 2; ca. 1537; oil on panel; 28 × 20 cm; Holbein back in England 1532, in Henry's service in 1536, valued for lifelike faces; painted Jane Seymour 1537, Christina of Denmark, Anne of Cleves; Henry 1491–1547, break with Rome, supreme head of the Church 1534; "markedly linear"; frontal pose, distance and hands convey authority; Pope-Hennessy, the head's "architectural solidity and strength"; related to the fresco for a private room in Whitehall Palace, "destroyed in 1698", known through Remigius Leemput's copy in the National Portrait Gallery, Henry full-length with Henry VII, Elizabeth of York and Jane Seymour, same head, hat and "splendid pendant jewel"; Earl of Sutherland, Earl Spencer c. 1933, Thyssen 1934) ; https://www.museothyssen.org/en/collection/artists/campin-robert/portrait-stout-man-robert-masmines (OFF: "Room 5"; ca. 1425; "great detail and realism"; wrinkles, stubble, double chin) ; research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md (HEDGE: most copies derive from the Whitehall type, not this panel)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 007 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] L'un des hommes les plus puissants d'Europe, et il tiendrait dans un cahier d'écolier. Ce panneau ne mesure qu'environ vingt-huit centimètres de haut.
+
+Hans Holbein revient en Angleterre en 1532, après des années difficiles à Bâle. Beaucoup de ses anciens protecteurs sont morts ou en disgrâce. En quelques années, il travaille pour le roi. On l'apprécie surtout pour une chose : des visages qui semblent vivants. Il peint les reines d'Henri et ses reines possibles, et il peint Henri.
+
+Ce petit portrait date d'environ 1537. Henri a déjà rompu avec Rome et s'est fait chef de l'Église d'Angleterre. [pause] Regardez comment Holbein construit ce pouvoir. Le corps vous fait face et remplit le panneau. On sent une distance, comme si l'on vous recevait en audience. Les mains sont bien en vue. Un spécialiste parlait de la solidité architecturale de la tête. On comprend pourquoi. Elle est bâtie comme un mur.
+
+[wry] Et voici le rebondissement. L'Henri que nous imaginons presque tous, ce géant qui semble remplir une pièce, vient surtout d'ailleurs. Holbein avait peint une grande peinture murale pour une pièce privée du palais de Whitehall : Henri en pied, près de ses parents et de Jane Seymour. Elle a été détruite en 1698. [pause] On la connaît par une copie, aujourd'hui à Londres. Et la tête de cette copie, c'est celle-ci, avec le même chapeau et le même splendide pendentif.
+
+Ce panneau est donc le gros plan d'une icône perdue. Comparez-le avec l'homme corpulent de Campin, tout près, peint environ un siècle plus tôt. Deux mondes, le même refus de flatter.
+
+[quietly] Assez petit pour tenir dans vos deux mains. Assez fort pour vous arrêter net.
+
+La salle 5 propose un court Extra sur le jeune homme en prière de Memling, et les fleurs peintes au dos de son panneau. Le prochain arrêt principal est la longue galerie voisine, la salle 6.

@@ -1,0 +1,26 @@
+@id: 064 · ES · Room E · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room E
+@type: W
+@title: Sala E · Claude Monet — La casa entre las rosas
+@where: En la sala E, «Monet y el impresionismo norteamericano». El Monet es un lienzo vertical de casi un metro de alto: la fachada de su casa de Giverny entre dos grandes rosales en flor, el de la izquierda cortado por el borde del cuadro. Plaza de la Merced, Ronda, de Hassam, es la plaza española más pequeña y soleada, vista desde arriba.
+@what: Claude Monet, The House among the Roses, 1925, oil on canvas, 92.3 × 73.3 cm, CTB.1998.52, Room E, Level 0. Also: Childe Hassam, Plaza de la Merced, Ronda, 1910, oil on panel, 64.6 × 52 cm, CTB.1996.22, Room E.
+@listen: The summer Monet got his colours back after years of cataracts, and an American Impressionist who painted Andalusia without the clichés.
+@brief: Sharing a quietly joyful late story with a friend; tender on the cataracts, delighted at the 1925 letter, light and local on Ronda.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.museothyssen.org/en/collection/artists/monet-claude/house-among-roses (OFF, read 23 Oct 2026: 1925; oil on canvas 92.3 × 73.3; CTB.1998.52; Room E, Level 0; front of his Giverny house seen from the garden; slate roof tinted violet, dark window gaps; two rose trees, left in the foreground cut by the edge, right further back; blue lilies, already withered, in the foreground; Water Lilies his main work 1913 until his death in 1926; cataracts since 1912, operation 1923, colour perception changed, no improvement until spring 1925; July letter to André Barbier, sight much better, very satisfied, would wish to live to a hundred if his lenses were better; one of six, summer 1925; varied palette, short comma-shaped strokes; frontal, symmetrical, hieratic; link to new abstract painting; text Tomàs Llorens) ; https://www.museothyssen.org/en/collection/artists/hassam-childe/plaza-merced-ronda (OFF: 1910; oil on panel 64.6 × 52; CTB.1996.22; Room E; 1910 trip: Madrid, Toledo, Cordova, Seville, Ronda; Montross Galleries show, the "Spanish set"; critics praised strong light and blue sky, "portraits of places", "artistic, not operatic"; avoided the romantic Spain of Manet and Gautier; view probably from the hotel across the plaza; often painted from above)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 064 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Durante más de diez años, Claude Monet había ido perdiendo sus colores. Las cataratas le nublaban la vista. Una operación en 1923 cambió su forma de ver el color, y durante mucho tiempo nada parecía ayudar.
+
+Entonces, en la primavera de 1925, volvieron. Empezó a trabajar con intensidad. Aquel julio escribió a un amigo disculpándose por no poder verle por las mañanas, porque tenía que pintar. Veía mucho mejor, decía, y estaba muy contento con su trabajo. [warmly] Si sus lentes fueran aún mejores, le gustaría vivir hasta los cien años.
+
+Este es uno de los seis cuadros de aquel verano. Es su casa de Giverny, vista desde el jardín. El tejado de pizarra atrapa la luz y se vuelve violeta. Las ventanas de arriba son huecos oscuros. [pause] Y dos grandes rosales en flor enmarcan la fachada, el de la izquierda tan cerca que el borde del lienzo lo corta.
+
+[pause] Mire la pincelada. Trazos cortos, como comas, en muchos más colores que algunas de sus vistas anteriores del jardín, que tienden a un solo tono. La casa está justo en el centro, casi simétrica, casi solemne. Hay quien ve en ella un anuncio de la pintura abstracta del nuevo siglo. [pause] Monet murió al año siguiente.
+
+[lightly] Cerca, una plaza española. El estadounidense Childe Hassam recorrió España en 1910, pintando en Madrid, Toledo, Córdoba, Sevilla y Ronda. Al parecer, miró esta plaza de Ronda desde la ventana de su hotel. De vuelta en Nueva York, a los críticos les encantaron la luz intensa y el cielo azul, y elogiaron los cuadros como «artísticos, no operísticos». Ni corridas, ni castañuelas. Solo un lugar, y el sol sobre él.
+
+A continuación, la sala F, «Gauguin y el postimpresionismo»: Mata Mua, mujeres tahitianas bajo un gran ídolo de piedra.

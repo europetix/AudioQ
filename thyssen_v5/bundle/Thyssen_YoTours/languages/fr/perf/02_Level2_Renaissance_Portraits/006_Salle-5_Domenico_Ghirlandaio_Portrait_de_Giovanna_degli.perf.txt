@@ -1,0 +1,26 @@
+@id: 006 · FR · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: R
+@title: Salle 5 · Domenico Ghirlandaio — Portrait de Giovanna degli Albizzi Tornabuoni
+@where: Salle 5, « 15e et 16e siècles. Le portrait de la Renaissance ». Trouvez la jeune femme au profil strict, richement vêtue, devant une niche sombre où l'on voit un bijou, un petit livre, un chapelet et un petit billet écrit : l'image de couverture du plan du musée, environ 77 sur 49 cm.
+@what: Domenico Ghirlandaio (Domenico Bigordi), Portrait of Giovanna degli Albizzi Tornabuoni, 1489–1490, mixed media on panel, 77 × 49 cm, inv. 158 (1935.6). Also named: Robert Campin, Portrait of a Stout Man. Robert de Masmines (?), ca. 1425, Room 5; Francesco del Cossa, Portrait of a Man with a Ring, ca. 1472–1477, Room 5.
+@listen: The young bride behind the museum's signature image, the debate over whether she was already dead, and how the portrait was born in this room.
+@brief: Introducing the portrait room to a friend through its most famous face; quiet and tender at the start, clear on the debate, warm on the verse.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/ghirlandaio-domenico/portrait-giovanna-degli-albizzi-tornabuoni (OFF: "Room 5" / Level 2; 1489–1490; mixed media on panel; 77 × 49 cm; strict profile, half-length, hands clasped; born 18 Dec 1468, married Lorenzo Tornabuoni 15 June 1486, died 7 Oct 1488 during childbirth; also painted full-length in the Visitation fresco, Tornabuoni chapel, Santa Maria Novella; Lauts: before the fresco, perhaps its modello; Pope-Hennessy: later, posthumous, the cartellino date being the date of her death; Martial epigram, "Art, if only you could reproduce the character and the spirit. There would be no finer portrait in the world."; dragon jewel with two pearls and a ruby, prayer book, coral rosary; Morgan, Thyssen 1935) ; https://www.museothyssen.org/en/collection/artists/campin-robert/portrait-stout-man-robert-masmines (OFF: "Room 5"; ca. 1425; wrinkles, stubble and double chin; sitter fills the panel) ; https://www.museothyssen.org/en/collection/artists/cossa-francesco/portrait-man-ring (OFF: "Room 5"; Italian type that "abandoned the use of a rigid profile and presented sitters almost full-face"; diamond in the ring) ; source/map.txt (front cover: this portrait, "Level 2, Room 5")
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 006 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Derrière cette jeune femme, un petit billet peint porte un vers latin et une date en chiffres romains. La date est 1488. C'est l'année de sa mort.
+
+Elle s'appelait Giovanna degli Albizzi. Elle épouse le Florentin Lorenzo Tornabuoni en 1486. Deux ans plus tard, elle meurt en couches. Ghirlandaio l'a aussi peinte en pied dans une fresque de l'église Santa Maria Novella. [pause] Ce panneau fut-il peint d'après nature, ou en mémoire d'elle ? Les spécialistes divergent. L'un pensait qu'il précédait la fresque, un autre y voyait un portrait posthume.
+
+Regardez la niche derrière elle. Un bijou avec un dragon, deux perles et un rubis, pour sa vie publique. Un livre de prières et un collier de perles de corail, un rosaire, pour sa vie intérieure. Et entre les deux, ce vers, adapté du poète romain Martial. [warmly] « Art, si seulement tu pouvais reproduire le caractère et l'esprit. Il n'y aurait pas plus beau portrait au monde. »
+
+C'est la salle des portraits, et elle montre comment le portrait est né. En Italie, les peintres gardaient le profil strict, comme une effigie sur une pièce. Au nord, ils tournaient leurs modèles vers vous. [pause] Trouvez l'homme corpulent de Robert Campin, chaque ride et chaque poil de barbe en vue. Puis l'homme de Francesco del Cossa qui montre une bague, presque de face. Un Italien qui s'est tourné vers vous.
+
+Le profil de Giovanna est l'image emblématique du musée. Vous savez maintenant pourquoi il semble si immobile.
+
+Restez dans la salle 5 pour le minuscule portrait d'Henri huit par Holbein.

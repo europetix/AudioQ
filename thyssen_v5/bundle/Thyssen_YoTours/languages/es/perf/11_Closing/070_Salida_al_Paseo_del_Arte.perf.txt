@@ -1,0 +1,26 @@
+@id: 070 · ES · Entrance hall · 23 Oct 2026 edition
+@section: Closing
+@room: Entrance hall
+@type: CLOSE
+@title: Salida al Paseo del Arte
+@where: En el hall central, junto a la entrada principal del Paseo del Prado, o justo fuera de las puertas, en la acera.
+@what: Closing: the walk in review, from Duccio in Room 1 to Pop in Room 52 and the Carmen Thyssen rooms A to J; where to go next on the Paseo del Arte.
+@listen: Looking back over two generations and a second collection, and pointing you to the Prado, the Reina Sofía and the Retiro.
+@brief: Saying goodbye to a friend at the door after a long, good walk; warm, unhurried, a little proud, practical at the end.
+@pace: medium-slow
+@energy: 3→2
+@sources: https://museothyssen.org/en/node/22022 (OFF, read 23 Oct 2026: collection passed from Heinrich to his son Hans Heinrich, 1921–2002; first modern purchases 1961; Palacio de Villahermosa refurbished by Moneo; opened October 1992; June 1993 sale to the State; Carmen Cervera the decisive influence in choosing Spain) ; AUDIT museum-history table (two generations, Heinrich 1875–1947 and Hans Heinrich; 775 works in 1993) ; https://museothyssen.org/en/node/24067 (OFF: "today you can enter and leave the museum as many times as you like", except the ground-floor temporary exhibition) ; https://www.museothyssen.org/en/node/21678 (OFF: Cafe-Restaurant on the ground floor, with the Terraza italiana open the same days and hours; seasonal Terrazas not promised) ; geography per PLAN 070 and AUDIT 070 (Prado south across Plaza de Cánovas del Castillo; Reina Sofía towards Atocha; Retiro to the east)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 070 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Empezó este recorrido en lo alto del edificio, en la sala 1, con el oro de Duccio. Ha bajado por Venecia y Ámsterdam, el amanecer de Friedrich y la oscuridad de Rothko, hasta una máquina de pinball que brilla en la planta baja.
+
+Ese viaje es obra de dos generaciones. Heinrich Thyssen-Bornemisza lo empezó, con maestros antiguos. Su hijo, Hans Heinrich, lo continuó, y en 1961 compró sus primeros cuadros modernos. Arriba lo conoció en persona, en el retrato de Freud, sentado donde el Pierrot de Watteau. [pause] En 1993, el Estado español compró el núcleo de la colección, 775 obras, para este palacio. Luego creció a su lado una segunda colección, la que acaba de recorrer, fruto de la mirada de Carmen Thyssen.
+
+[pause] Así que no es una sola historia. Es el gusto de tres personas, un padre, un hijo y después Carmen Thyssen, juntos en un mismo edificio, del siglo catorce a la década de 1980.
+
+Para asimilarlo con calma, el café-restaurante está aquí, en la planta baja, con terraza al aire libre. Y si algo le llama a volver, hoy puede entrar y salir de nuevo. La única excepción es la exposición temporal de la planta baja.
+
+Fuera está el Paseo del Prado, el eje del Paseo del Arte de Madrid. El Prado queda a pocos minutos al sur, cruzando la plaza de Cánovas del Castillo. El Reina Sofía está más abajo, hacia Atocha. Y el parque del Retiro, a un corto paseo al este, si sus pies prefieren árboles a cuadros. [pause] Yo Tours también tiene audioguías a pie para el Prado y el Reina Sofía, hechas igual que esta.
+
+[warmly] Gracias por recorrerlo con nosotros. Siete siglos, dos colecciones, una visita. Disfrute del resto de su día en Madrid.

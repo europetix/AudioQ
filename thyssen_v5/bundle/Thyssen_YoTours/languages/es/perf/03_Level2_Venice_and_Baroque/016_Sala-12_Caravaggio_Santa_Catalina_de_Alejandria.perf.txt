@@ -1,0 +1,30 @@
+@id: 016 · ES · Room 12 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 12
+@type: W
+@title: Sala 12 · Caravaggio — Santa Catalina de Alejandría
+@where: Sala 12, «Siglo XVII. Caravaggio y el Barroco». Busque el gran lienzo oscuro, de unos 173 por 133 centímetros: una joven con un rico vestido azul violáceo, arrodillada sobre un cojín rojo y apoyada en una rueda de pinchos rota, con una espada sobre el regazo y la luz que le llega desde la derecha.
+@what: Caravaggio (Michelangelo Merisi), Saint Catherine of Alexandria, ca. 1598–99, oil on canvas, 173 × 133 cm, inv. 81 (1934.37). Also: Jose de Ribera, The Pietà, 1633, oil on canvas, 157 × 210 cm, Room 12.
+@listen: A celebrated Roman courtesan posed as a royal martyr, the cardinal who commissioned her, and why the light comes from the wrong side.
+@brief: Telling a friend about the painter who changed everything; a jolt of energy at the start, curious on the light, warm and direct on the woman herself.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museothyssen.org/en/collection/artists/caravaggio-michelangelo-merisi/saint-catherine-alexandria (OFF: "Room 12" / Level 2; ca. 1598-99; oil on canvas; 173 × 133 cm; "almost certainly commissioned in Rome" by Cardinal Francesco Maria del Monte, his first patron; Bellori: "a kneeling saint Catherine, leaning on a wheel"; model Fillide Melandroni, "a celebrated courtesan of the time"; light "from the right", "unusual in Caravaggio's oeuvre", perhaps adapted to a specific location; broken spiked wheel, sword, palm, "costly red damask cushion", dress "as befitting a princess" in blues and violets; sold 1628 to pay the heir's debts, likely to Cardinal Antonio Barberini, Barberini inventories 1644, 1671, 1817; Thyssen 1934 from Lucerne; powerful chiaroscuro before the Contarelli chapel) ; https://www.museothyssen.org/en/collection/artists/ribera-jose/pieta (OFF: "Room 12"; 1633; 157 × 210 cm; signed "Jusepe de Ribera español 1633" on the stone lower right; lighter palette, "a new interest in colour is evident") ; https://www.museothyssen.org/en/collection/artists/ribera-jose/saint-jerome-penitence (EN "Not exhibited", ES "No expuesta", 23 Oct 2026: NOT mentioned) ; https://www.museothyssen.org/en/collection/artists/lorraine-claude/pastoral-landscape-flight-egypt and https://www.museothyssen.org/en/collection/artists/vouet-simon/rape-europa (OFF: both "Room 13" / Level 2, for the cue) ; old/017.txt (Baroque intro, general)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 016 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] La modelo de esta santa ha sido identificada como una célebre cortesana, Fillide Melandroni. En Roma, hacia 1598, posó para Caravaggio como princesa y mártir.
+
+Aquí llega el siglo diecisiete. Caravaggio pintaba a gente real, del natural, sobre una oscuridad profunda, recortada por una luz intensa. Pintores de toda Europa lo siguieron.
+
+El cuadro se hizo casi con seguridad para el cardenal Francesco Maria del Monte, el primer protector de Caravaggio. Cuando el heredero del cardenal se endeudó, se vendió, y pasó a la familia Barberini. Llegó a esta colección en 1934.
+
+[pause] Catalina de Alejandría fue condenada a morir en una rueda de pinchos. Aquí está la rueda, rota y astillada. Aquí, la espada que la mató en su lugar, y la palma del martirio. [pause] Se arrodilla sobre un costoso cojín de damasco rojo, con un rico vestido de azules y violetas, como corresponde a una princesa.
+
+Ahora mire de dónde viene la luz. Cae desde la derecha. Es raro en Caravaggio, y ha hecho pensar que el cuadro se pintó para un lugar concreto, con luz real por ese lado.
+
+[warmly] Y mire su cara. Siga con la vista las diagonales, la rueda, la espada, el giro del cuerpo, hasta llegar a su mirada. Una mujer real de la Roma de Caravaggio, que le mira con total serenidad.
+
+Luego busque la ancha Piedad de Jusepe de Ribera, el español que hizo carrera en Nápoles. La firmó en la piedra, abajo a la derecha, Jusepe de Ribera, español, con la fecha 1633. Aquí la oscuridad empieza a ceder ante el color.
+
+Diríjase a la sala 13, al final de la larga galería, con el paisaje pastoral de Claudio de Lorena y la Europa de Vouet a lomos del toro blanco. Luego entre en la sala 14: un lienzo enorme donde un bebé cuelga sujeto por un tobillo.

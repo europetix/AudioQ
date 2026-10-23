@@ -1,0 +1,28 @@
+@id: 060 · ES · Room A · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room A
+@type: W
+@title: Sala A · Jan Brueghel el Viejo — El Jardín del Edén
+@where: En la sala A, «Maestros antiguos», la primera sala de la colección Carmen Thyssen. El Jardín del Edén es una tabla pequeña, de un metro de ancho, llena de animales: busque un caballo, un león y una leona a la izquierda, y dos figuras diminutas al fondo.
+@what: Jan Brueghel the Elder, The Garden of Eden, ca. 1610–1612, oil on panel, 59.4 × 95.6 cm, CTB.1988.29, Carmen Thyssen Collection, Room A, Level 0. Collection intro: Carmen Thyssen collection, ground floor.
+@listen: Whose collection this floor is, and how Brueghel filled Paradise with animals borrowed from Rubens.
+@brief: Welcoming a friend into a second, more personal collection; warm and clear on the history, then delighted and a little conspiratorial over the borrowed animals.
+@pace: medium
+@energy: 3→3→4
+@sources: https://www.museothyssen.org/en/collection/carmen-thyssen and https://www.museothyssen.org/en/node/18882 (OFF, read 23 Oct 2026: core is family inheritance not in the group the State acquired in 1993; purchases by the Baron and Baroness from 1993, later by Carmen Thyssen alone; her taste for landscape, Impressionism, German Expressionism; installed in the extension in 2004; now a new display on the ground floor with its own entrance from the main hall, chronological from 17th-century Dutch painting to the 20th century; leased for 15 years with a purchase option at the end; owners Barons Carmen and Borja Thyssen-Bornemisza; 328 works in the loan) ; https://museothyssen.org/en/node/22022 (OFF: Carmen Cervera, Hans Heinrich's Spanish wife, the decisive influence in bringing the collection to Spain) ; lease since 2022, "until the late 2030s", "about 330 works": research/LEVEL0_CARMEN_OCT2026.md and AUDIT (cultura.gob.es 29 Jan 2021) ; https://www.museothyssen.org/en/collection/artists/brueghel-jan-elder/garden-eden (OFF: ca. 1610–1612; oil on panel 59.4 × 95.6; CTB.1988.29; Room A, Level 0; among the earliest of his countless Paradise scenes; Adam and Eve in the background; horse probably from Rubens's lost equestrian portrait of Archduke Albert; lion and lioness on the left from Rubens's Daniel in the Lions' Den; leopards from a lost Rubens known from an engraving; close collaboration, not plagiarism; younger son of Pieter Bruegel; with Rubens the leading painter in Antwerp; infrared shows changes to the horse and camel)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 060 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Todo lo de arriba empezó con una familia. Esta planta pertenece a la mirada de una mujer.
+
+Carmen Cervera, la esposa española del barón Hans Heinrich, fue la voz decisiva para traer su colección a Madrid. Cuando el Estado compró el núcleo en 1993, la familia se quedó con otras obras. Fueron la base de su propia colección, y siguió comprando, sobre todo paisaje, impresionismo y expresionismo alemán. [pause] Desde 2022, unas 330 de sus obras están arrendadas al Estado español hasta finales de la década de 2030, con opción de compra final para el Estado. Se cuelga en orden, del siglo diecisiete al veinte, y algunas obras se prestan o rotan a veces.
+
+[pause] Empezamos en el Paraíso. Jan Brueghel, hijo menor del gran Pieter Bruegel, lo pintó hacia 1610. Es uno de los primeros de sus muchos Jardines del Edén. En su tiempo, él y Rubens lideraban la pintura en Amberes.
+
+Ahora busque a Adán y Eva. No en primer plano. Están lejos, al fondo, dos figuritas en un mundo exótico y abarrotado. El verdadero tema son los animales.
+
+[conspiratorial] Y algunos son prestados. El caballo probablemente viene de un retrato ecuestre perdido de Rubens. El león y la leona de la izquierda, de su Daniel en el foso de los leones. Los leopardos repiten dos de otro Rubens perdido, conocido solo por un grabado. [pause] No es un robo. Los dos trabajaban codo con codo, y en otra versión del tema, Brueghel pintó paisaje y animales, y Rubens las figuras.
+
+[lightly] Las fotografías infrarrojas muestran que Brueghel cambió de idea sobre el caballo y el camello mientras trabajaba. Hasta en el Paraíso hubo que ordenar los detalles.
+
+La sala B, «Paisajismo norteamericano», tiene un breve Extra sobre la Puesta de sol en Yosemite de Bierstadt. La siguiente parada principal es la sala C: el ancho Molino de agua en Gennep de Van Gogh.

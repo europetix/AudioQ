@@ -1,0 +1,26 @@
+@id: 006 · ES · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: R
+@title: Sala 5 · Domenico Ghirlandaio — Retrato de Giovanna degli Albizzi Tornabuoni
+@where: Sala 5, «Siglos XV y XVI. El retrato en el Renacimiento». Busque a la joven de perfil estricto, ricamente vestida, ante un nicho oscuro con una joya, un librito, una sarta de cuentas y un papelito escrito: es la imagen de la portada del plano del museo, de unos 77 por 49 centímetros.
+@what: Domenico Ghirlandaio (Domenico Bigordi), Portrait of Giovanna degli Albizzi Tornabuoni, 1489–1490, mixed media on panel, 77 × 49 cm, inv. 158 (1935.6). Also named: Robert Campin, Portrait of a Stout Man. Robert de Masmines (?), ca. 1425, Room 5; Francesco del Cossa, Portrait of a Man with a Ring, ca. 1472–1477, Room 5.
+@listen: The young bride behind the museum's signature image, the debate over whether she was already dead, and how the portrait was born in this room.
+@brief: Introducing the portrait room to a friend through its most famous face; quiet and tender at the start, clear on the debate, warm on the verse.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/ghirlandaio-domenico/portrait-giovanna-degli-albizzi-tornabuoni (OFF: "Room 5" / Level 2; 1489–1490; mixed media on panel; 77 × 49 cm; strict profile, half-length, hands clasped; born 18 Dec 1468, married Lorenzo Tornabuoni 15 June 1486, died 7 Oct 1488 during childbirth; also painted full-length in the Visitation fresco, Tornabuoni chapel, Santa Maria Novella; Lauts: before the fresco, perhaps its modello; Pope-Hennessy: later, posthumous, the cartellino date being the date of her death; Martial epigram, "Art, if only you could reproduce the character and the spirit. There would be no finer portrait in the world."; dragon jewel with two pearls and a ruby, prayer book, coral rosary; Morgan, Thyssen 1935) ; https://www.museothyssen.org/en/collection/artists/campin-robert/portrait-stout-man-robert-masmines (OFF: "Room 5"; ca. 1425; wrinkles, stubble and double chin; sitter fills the panel) ; https://www.museothyssen.org/en/collection/artists/cossa-francesco/portrait-man-ring (OFF: "Room 5"; Italian type that "abandoned the use of a rigid profile and presented sitters almost full-face"; diamond in the ring) ; source/map.txt (front cover: this portrait, "Level 2, Room 5")
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 006 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Detrás de esta joven hay un papelito pintado con un verso latino y una fecha en números romanos. La fecha es 1488, el año de su muerte.
+
+Se llamaba Giovanna degli Albizzi. Se casó con Lorenzo Tornabuoni, de Florencia, en 1486, y dos años después murió de parto. Ghirlandaio también la pintó de cuerpo entero en un fresco de la iglesia de Santa Maria Novella. [pause] ¿Se pintó esta tabla del natural, o como recuerdo? Los especialistas discrepan: para uno es anterior al fresco, para otro, un retrato póstumo.
+
+Mire el nicho detrás de ella. Una joya con un dragón, dos perlas y un rubí, para su vida pública. Un libro de oraciones y un rosario de coral, para su vida interior. Y entre ellos, ese verso, adaptado del poeta romano Marcial. [warmly] «Arte, si pudieras reproducir el carácter y el alma, no habría en el mundo retrato más bello».
+
+Esta es la sala de los retratos, y muestra cómo nació el retrato. En Italia, los pintores mantenían el perfil estricto, como una cara en una moneda. En el norte, giraban a sus modelos hacia usted. Busque al hombre corpulento de Robert Campin, con cada arruga y cada pelo de barba a la vista. Luego, el hombre de Francesco del Cossa que muestra un anillo, casi de frente. Un italiano que se ha girado para mirarle.
+
+El perfil de Giovanna es la imagen emblemática del museo, y ahora sabe por qué parece tan quieto.
+
+Quédese en la sala 5 para el diminuto retrato de Enrique Octavo, de Holbein.

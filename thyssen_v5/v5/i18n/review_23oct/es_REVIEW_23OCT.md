@@ -68,3 +68,4 @@ I compared every track sentence by sentence against the English in /home/claude/
 Verdict: **ready**, subject to the audio checks in point 1.
 
 - Lead, after review: 056/057 body "J. Y. M." spoken as "jota, i griega, eme" so the voice cannot read "Y" as "and".
+- Lead: 065 title accent «Érase una vez».

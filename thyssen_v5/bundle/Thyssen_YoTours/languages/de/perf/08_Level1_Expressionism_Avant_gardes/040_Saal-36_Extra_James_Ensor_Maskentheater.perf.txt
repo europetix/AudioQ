@@ -1,0 +1,24 @@
+@id: 040 · DE · Room 36 · 23 Oct 2026 edition
+@section: Level 1 · Expressionism and the avant-gardes
+@room: Room 36
+@type: X
+@title: Saal 36 · Extra · James Ensor — Maskentheater
+@where: Saal 36, „Die Sprache des Körpers“. Suchen Sie das querformatige Bild einer hell erleuchteten Bühne voller grotesker Maskengesichter, in einem vergoldeten Rahmen in Form eines kleinen Theaters.
+@what: James Ensor, Theatre of Masks, 1908, oil on canvas, 72 × 86 cm. Also: Mikhail Larionov, Blue Nude, about 1908, oil on canvas, Room 36.
+@listen: A boy who grew up among carnival masks, and the crowd that turns into one.
+@brief: Wry and a little conspiratorial about the masked crowd; brisk on Larionov; a clear, careful cue past the temporary show.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/ensor-james/theatre-masks (OFF: Room 36, Level 1; 1908; oil on canvas 72 × 86 cm; inv. 534; born in Ostend, masks sold in his parents' shop for the carnival; masks as metaphor for "solitude of the individual in the new society of masses"; lit stage, actors' masks blend with the audience's; per previous owner Dr Fritz Trüssel the stage-shaped gilt frame was made on Ensor's instructions; Verhaeren likened these theatres of masks to Watteau's fêtes galantes) ; https://www.museothyssen.org/en/collection/artists/larionov-mikhail/blue-nude (OFF: Room 36; ca. 1908; reaction to Gauguin's Polynesian paintings in the Shchukin collection; companion and later wife Natalia Goncharova) ; Kenny Scharf show, Postpop rooms 53–56, until 17 Jan 2027: research/LEVEL1_ROOMS_OCT2026.md (https://www.museothyssen.org/en/exhibitions/kenny-scharf) ; cue per PLAN 040
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 040 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] James Ensor wuchs zwischen Masken auf. Seine Eltern führten einen Laden in Ostende, an der belgischen Küste. Jedes Jahr verkauften sie dort Masken für den Karneval der Stadt.
+
+Er kam nie von ihnen los. Masken ziehen sich durch sein ganzes Werk, mal komisch, mal teuflisch. Er sagte damit etwas über das moderne Leben: die Einsamkeit des Einzelnen in der neuen Massengesellschaft. [pause] Sehen Sie sich diese Bühne an. Die Schauspieler im Scheinwerferlicht tragen Masken, das Publikum ebenso. Und die beiden Mengen verschmelzen zu einer. [pause] Wer spielt hier, und wer schaut zu?
+
+[wry] Sogar der Rahmen spielt mit. Er ist vergoldet und hat die Form einer Bühne. Laut einem früheren Besitzer wurde er nach Ensors eigenen Anweisungen gefertigt. Ein belgischer Dichter verglich diese Maskentheater mit Watteaus eleganten Festen, etwa dem oben in Saal 24.
+
+Im selben Saal hängt Michail Larionows Blauer Akt. Er war die Antwort eines jungen Russen auf die Gauguins, die er im Haus eines Moskauer Sammlers sah. Seine Gefährtin und spätere Frau war die Malerin Natalja Gontscharowa. Ihr Werk begegnet Ihnen auf Ebene 0.
+
+Gehen Sie geradeaus weiter in Saal 37. Rechts passieren Sie den Zugang zu den Postpop-Sälen 53 bis 56. Dort ist bis zum siebzehnten Januar 2027 die Wechselausstellung Kenny Scharf zu sehen. Sie ist nicht Teil dieses Audioguides. [pause] In Saal 37 suchen Sie die rote Metropolis von Grosz.

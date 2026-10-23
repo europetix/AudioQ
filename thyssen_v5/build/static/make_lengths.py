@@ -18,6 +18,7 @@ TXT = {
     "fr": ("Prochaine étape de cette version courte : {place}{level}. {subject}.", "Prochaine étape de cette version courte : la sortie.", ", au niveau {n}"),
     "de": ("Nächste Station dieser Kurzfassung: {place}{level}. {subject}.", "Nächste Station dieser Kurzfassung: der Ausgang.", ", auf Ebene {n}"),
 }[LANG if LANG in ("en", "es", "fr", "de") else "en"]
+ONE = {"en": "One", "es": "uno", "fr": "un", "de": "eins"}.get(LANG, "One")
 
 
 def level_of(room):
@@ -45,6 +46,8 @@ def bridge_text(cur, nxt):
         return TXT[1]
     place, subject = t["title"].split(" · ", 1)
     subject = subject.replace("Extra · ", "").replace(" — ", ", ")
+    subject = re.sub(r" \((.*?)\)", r", \1", subject)  # brackets read badly: "Untitled (Green on Maroon)" -> "Untitled, Green on Maroon"
+    subject = re.sub(r" I$", " " + ONE, subject)  # "Brown and Silver I": a lone I would be read as a letter
     lc, ln = level_of(tracks[cur]["room"]), level_of(t["room"])
     level = TXT[2].format(n=ln) if (ln is not None and ln != lc) else ""
     out = TXT[0].format(place=place, level=level, subject=subject)

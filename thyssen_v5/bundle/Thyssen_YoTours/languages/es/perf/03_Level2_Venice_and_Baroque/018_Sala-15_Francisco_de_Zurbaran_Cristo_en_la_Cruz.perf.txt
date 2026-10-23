@@ -1,0 +1,30 @@
+@id: 018 · ES · Room 15 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 15
+@type: W
+@title: Sala 15 · Francisco de Zurbarán — Cristo en la Cruz
+@where: Sala 15, «Siglo XVII. Pintura italiana, francesa y española». Colóquese ante el lienzo alto, de más de dos metros, de Cristo solo en la cruz, pálido y muy iluminado sobre un fondo negro. El gran retablo de Murillo, de colores suaves, con una joven santa y la Virgen con el Niño, está en la misma sala.
+@what: Francisco de Zurbarán, Christ on the Cross, ca. 1630, oil on canvas, 214 × 143.5 cm, inv. 447. Also: Bartolomé Esteban Murillo, The Virgin and Child with Saint Rose of Viterbo, ca. 1670, oil on canvas, 190 × 147 cm, inv. 296.
+@listen: Why Zurbarán paints Christ still alive, the four nails of the Seville tradition, and Murillo's softer way of praying forty years later.
+@brief: Standing quietly with a friend before a devotional image; hushed at first, gently explanatory on the details, warm at the Murillo contrast.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/zurbaran/christ-cross (OFF: Room 15 / Level 2; ca. 1630; 214 × 143.5; early phase in Seville, era of San Pablo el Real and Merced Calzada series; 1627 Chicago version "serenely dead", this one alive; eyes "raised in supplication", mouth "half-open", head "inclined to one side"; frontal, strongly lit, dark background; four nails and plinth, Sevillian convention promoted by Pacheco, "Velázquez's father-in-law"; unpublished until Kehrer 1918, then in Munich; bought by Hans Heinrich from Knoedler, New York, April 1956) ; https://www.museothyssen.org/en/collection/artists/murillo-bartolome-esteban/virgin-and-child-saint-rose-viterbo (OFF: Room 15 / Level 2; ca. 1670; 190 × 147; bought in Spain by Stanhope, later Lord Harrington, British ambassador in Madrid; in England by 1729 until sold 1926; formerly misidentified as Saint Rosalia; Rose of Viterbo, Franciscan tertiary, usually shown with roses; preaching scene on the left; four virgin martyrs in white with palms; size suggests an altar; soft, loose brushwork)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 018 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Casi todas las Crucifixiones muestran el momento posterior. La cabeza ha caído, y todo ha terminado. Zurbarán pinta el momento anterior. Este Cristo aún está vivo.
+
+Lo pintó hacia 1630, al principio de su carrera, cuando se hacía un nombre en Sevilla con grandes series para los conventos de la ciudad. El lienzo mide más de dos metros, y casi no contiene nada. Una cruz, un cuerpo y oscuridad.
+
+[pause] Mire primero la cara. La cabeza se inclina hacia un lado. Los ojos se alzan, la boca entreabierta, como en una última oración. Unos años antes, en un lienzo hoy en Chicago, Zurbarán había mostrado a Cristo serenamente muerto. Aquí eligió la súplica.
+
+Luego siga la luz por el cuerpo. Llega de frente y despega la figura pálida de ese fondo negro. Cuente los clavos. Son cuatro, uno en cada pie y en cada mano. [pause] Era la manera sevillana de pintar la Crucifixión, y su gran defensor fue el pintor y tratadista Francisco Pacheco, suegro de Velázquez. Zurbarán la siguió casi siempre.
+
+[wry] Durante casi tres siglos, el cuadro permaneció inédito. Se publicó por primera vez en 1918, cuando estaba en una colección privada de Múnich, y el barón Hans Heinrich Thyssen lo compró en Nueva York en 1956.
+
+Ahora vuélvase hacia el gran Murillo, pintado unos cuarenta años después, probablemente para un altar. Todo se suaviza. Rosa de Viterbo, una joven santa franciscana, comparte el primer plano con la Virgen y el Niño. Durante años se la confundió con otra santa, Rosalía de Palermo. Detrás, cuatro jóvenes mártires de blanco llevan palmas. A la izquierda, en una pequeña escena aparte, ella predica a una multitud. Un embajador británico compró el cuadro en España, y estuvo en Inglaterra dos siglos.
+
+[warmly] Dos pintores de Sevilla, dos maneras de rezar. Zurbarán le pide que se quede quieto. Murillo le invita a entrar.
+
+A continuación, la sala 16, de pintura italiana del siglo dieciocho: busque a una joven de perfil con una pequeña máscara de carnaval.

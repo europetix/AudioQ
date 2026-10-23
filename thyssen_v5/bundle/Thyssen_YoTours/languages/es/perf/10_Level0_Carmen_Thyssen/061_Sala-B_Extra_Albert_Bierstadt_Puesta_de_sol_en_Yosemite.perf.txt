@@ -1,0 +1,24 @@
+@id: 061 · ES · Room B · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room B
+@type: X
+@title: Sala B · Extra · Albert Bierstadt — Puesta de sol en Yosemite
+@where: En la sala B, «Paisajismo norteamericano». Puesta de sol en Yosemite es un pequeño boceto al óleo, de unos cuarenta centímetros de ancho: un atardecer que se abre paso entre las paredes de granito de un valle. La Orquídea y colibrí de Heade es el cuadro con una orquídea rosa en primer plano y un pajarito al lado.
+@what: Albert Bierstadt, Sundown at Yosemite, ca. 1863, oil on canvas, 30.5 × 40.6 cm, CTB.1980.9, Room B, Level 0. Also: Martin Johnson Heade, Orchid and Hummingbird near a Mountain Waterfall, 1902, oil on canvas, 38.2 × 51.5 cm, CTB.1979.44, Room B.
+@listen: A quick sunset sketch from 1863, a valley called the Garden of Eden, and an eighty-three-year-old painter's pet hummingbirds.
+@brief: A short, bright aside to a friend; amused at the Eden echo, then warm about the old painter.
+@pace: medium
+@energy: 3→3
+@sources: https://www.museothyssen.org/en/collection/artists/bierstadt-albert/sundown-yosemite (OFF, read 23 Oct 2026: ca. 1863; oil on canvas 30.5 × 40.6; CTB.1980.9; Room B, Level 0; Yosemite the main goal of his second Western journey, 1863, with the writer Fitz Hugh Ludlow; Ludlow: "If report was true, we were going to the original site of the Garden of Eden"; small, quickly worked oil sketches during seven weeks in the Valley, colour studies "on the spot"; sunset through granite walls, used again in larger works; the West's "millenial destiny"; revealed in the dark years of the Civil War) ; https://www.museothyssen.org/en/collection/artists/heade-martin-johnson/orchid-and-hummingbird-near-mountain-waterfall (OFF: 1902; 38.2 × 51.5; CTB.1979.44; Room B; pink Cattleya orchid; hummingbirds kept as pets in Florida; painted at eighty-three) ; American landscape upstairs in Room 31: PLAN
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 061 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Acaba de dejar un Jardín del Edén en la sala A. Aquí tiene otro. En 1863, el escritor Fitz Hugh Ludlow viajó al oeste con Albert Bierstadt, hasta Yosemite. Si los relatos eran ciertos, escribió, iban al lugar original del Jardín del Edén.
+
+Pasaron siete semanas en el valle. Bierstadt trabajaba rápido, con pequeños bocetos al óleo del natural. Este es uno de ellos. [pause] Mire el sol abriéndose paso entre las paredes de granito. Repitió ese efecto, mucho más grande, en cuadros posteriores basados en estos estudios.
+
+Para los estadounidenses de entonces, un atardecer sobre el Oeste simbolizaba el destino del país. [pause] Y el valle se dio a conocer en los años oscuros de la Guerra Civil, lo que dio al símbolo más fuerza. Ya vio esta naturaleza salvaje norteamericana arriba, en la sala 31.
+
+[warmly] Cerca, una orquídea rosa y un colibrí. Martin Johnson Heade lo pintó en 1902, a los ochenta y tres años, viviendo en Florida. [pause] Allí tenía colibríes como mascotas, y se nota cuánto los había observado.
+
+A continuación, la sala C, «Paisaje naturalista francés»: el Molino de agua en Gennep, de Van Gogh, largo y oscuro.

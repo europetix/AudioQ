@@ -3,7 +3,7 @@
 @room: Room 33
 @type: W
 @title: Room 33 · Berthe Morisot — The Psyche mirror
-@where: Room 33, "The Impressionist Period". Stand in front of the medium-sized canvas of a young woman in a white dressing gown, standing in her bedroom before a tall, tilting mirror on a stand.
+@where: Room 33, "The Impressionist Period". Stand in front of the medium-sized canvas of a half-dressed young woman standing in her bedroom before a tall, tilting mirror on a stand.
 @what: Berthe Morisot, The Psyche mirror (El espejo psiqué), 1876, oil on canvas, 65 × 54 cm. Also: Édouard Manet, Horsewoman, Full-Face (L'Amazone), about 1882, oil on canvas, and Edgar Degas, Swaying Dancer (Dancer in Green), 1877–1879, pastel and gouache on paper, both in Room 33.
 @listen: How a sneering review named a movement, and how one of its founders painted a private room with her own mirror in it.
 @brief: A friend at your shoulder in the bright Impressionist room; amused at the critic, warm on Morisot, brisk and curious on Manet and Degas.
@@ -15,10 +15,10 @@
 
 Berthe Morisot was one of the founders of that group. She showed with them almost every time they exhibited, alongside Monet, Renoir and Degas.
 
-[warmly] Her painting here is from 1876. A young woman stands in her bedroom in a white dressing gown, in front of a tall mirror that tilts on its stand. The French call that kind of mirror a psyché. The title plays on both meanings: a piece of furniture, and Psyche, the girl loved by Eros in the old myth. The mirror was Morisot's own. Now look at the whites and soft greys of the fabrics. When the painting was shown at the group's third exhibition, Émile Zola praised exactly those greys and whites.
+[warmly] Her painting here is from 1876. A young woman stands in her bedroom, half dressed, in front of a tall mirror that tilts on its stand. The French call that kind of mirror a psyché. The title plays on both meanings: a piece of furniture, and Psyche, the girl loved by Eros in the old myth. The mirror was Morisot's own. Now look at the whites and soft greys of the fabrics. When the painting was shown at the group's third exhibition, Émile Zola praised exactly those greys and whites.
 
 [pause] Two men in this room complete the picture. Édouard Manet, the older rebel, never exhibited with the group. His horsewoman looks straight out at you, but she is no rider. The model was a bookseller's daughter, and the riding habit was borrowed from a painter friend. Manet meant the picture for the Salon of 1883. He died that spring, and it stayed unfinished.
 
-[curious] And then Degas. His dancer in green spins on one leg while the others are cut off by the edge, as if you were watching through opera glasses from a high side box. One of its first owners was the English painter Walter Sickert.
+[curious] And then Degas. His dancer in green spins on one leg while the others are cut off by the edge, as if you were watching through opera glasses from a high side box. One of its first owners was the British painter Walter Sickert.
 
 Room 33 has a short Extra on Pissarro's rainy Rue Saint-Honoré. The next main stop is Room 34, next door: Van Gogh's coal barge at sunset.

@@ -1,0 +1,28 @@
+@id: 014 · ES · Room 11 · 23 Oct 2026 edition
+@section: Level 2 · Venice and the Baroque
+@room: Room 11
+@type: R
+@title: Sala 11 · El Greco — La Anunciación
+@where: Sala 11, «Tiziano, Tintoretto, Bassano y El Greco». Busque el lienzo de unos 117 por 98 centímetros: la Virgen ante un reclinatorio a la izquierda, el ángel que llega por la derecha, un suelo ajedrezado, una cortina rosa y, arriba, ángeles en una nube de luz.
+@what: El Greco (Domenikos Theotokopoulos), The Annunciation, ca. 1576, oil on canvas, 117 × 98 cm, inv. 172 (1975.35). Also: Tintoretto, The Meeting of Tamar and Judah, and The Annunciation to Manoah's Wife, both ca. 1555–1559, oil on canvas, 150 × 155 cm, Room 11.
+@listen: Venice's lesson in colour, and El Greco before Toledo, borrowing from three great Venetians at once.
+@brief: Introducing the Venetian room to a friend; warm and appreciative, a little playful about the borrowing, clear about which Annunciation this is.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/greco-domenikos-theotokopoulos/annunciation-0 (OFF: "Room 11" / Level 2; ca. 1576; oil on canvas; 117 × 98 cm; "one of the last versions executed in Italy"; Archangel "very much in the style of Veronese"; light and colouring "owe much to Titian"; figures from Tintoretto's composition in the Scuola di San Rocco; checkerboard floor, pink curtain, balustrade; Virgin at a prayer-stool on the left; foreshortened angels in the clouds herald the Spanish works; the later Annunciation, ca. 1596–1600, listed as a related work; Thyssen 1975) ; https://www.museothyssen.org/en/collection/artists/tintoretto/meeting-tamar-and-judah (OFF: "Room 11"; ca. 1555–1559; Genesis; Judah: "She hath been more righteous than I"; pair with Manoah's Wife) ; https://www.museothyssen.org/en/collection/artists/tintoretto/annunciation-manoahs-wife (OFF: "Room 11"; angel announces Samson's birth) ; research/CURRENT_LOCATIONS_OCT2026.md (the later El Greco Annunciation is at the Mauritshuis until 17 Jan 2027: removable sentence; no Bassano confirmed in the room) ; old/014.txt (Venice and colour, general)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 014 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En Florencia, los pintores empezaban por el dibujo. En Venecia, por el color y la luz, y dejaban que la propia pintura llevara el sentimiento. Esta sala es el siglo dieciséis veneciano, y su título nombra a sus héroes.
+
+Y a un forastero. Antes de ser El Greco de Toledo, Doménikos Theotokópoulos era un pintor cretense en Italia, que absorbía cuanto Venecia podía enseñarle. Esta Anunciación, de hacia 1576, es una de las últimas versiones que pintó en Italia antes de irse a España.
+
+[amused] Mire cuántos maestros contiene. El elegante ángel recuerda mucho a Veronés. La luz y el color deben mucho a Tiziano. Y la colocación de las dos figuras viene de una composición de Tintoretto en Venecia. [pause] María, en su reclinatorio, a la izquierda, escucha atenta. Un suelo ajedrezado se aleja, con una cortina rosa y una balaustrada detrás.
+
+Ahora mire arriba. En la nube de luz, unos angelitos se ven en fuerte escorzo desde abajo. Ahí asoma el pintor que pronto será en España.
+
+El museo posee una segunda Anunciación de El Greco, muy posterior, pintada en España, que está prestada a La Haya hasta enero de 2027.
+
+Antes de irse, busque los dos grandes lienzos de Tintoretto: en cada uno, una mujer a la izquierda y un paisaje abierto en medio. En uno, la viuda Tamar engaña a su suegro Judá, que al final debe admitir: «Ella es más justa que yo».
+
+La sala 11 tiene un breve Extra sobre el San Jerónimo penitente del último Tiziano. La siguiente parada principal es la sala 12: la Santa Catalina de Caravaggio junto a su rueda de pinchos.

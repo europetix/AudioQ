@@ -1,0 +1,30 @@
+@id: 010 · DE · Room 7 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 7
+@type: W
+@title: Saal 7 · Vittore Carpaccio — Junger Ritter in einer Landschaft
+@where: Saal 7, „16. Jahrhundert. Italienische Malerei“, einer der Säle an der Längsseite von Saal 6. Suchen Sie die hohe Leinwand, über zwei Meter hoch: ein junger Mann in Rüstung, stehend in ganzer Figur auf einer Wiese voller Pflanzen und Blumen, ein Hirsch an einem See, im Hintergrund ein Reiter und ein kleines Wiesel nahe einem beschrifteten Spruchband.
+@what: Vittore Carpaccio, Young Knight in a Landscape, ca. 1505 (cartellino dated M.D.X.), oil on canvas, 218.5 × 151.5 cm, inv. 82 (1935.3).
+@listen: How a saint turned into a knight, why he may be the first full-length portrait we know, and the motto that says better to die than be defiled.
+@brief: Unpacking a puzzle picture with a friend; curious and lively in the middle, careful with the names, quietly admiring at the end.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.museothyssen.org/en/collection/artists/carpaccio-vittore/young-knight-landscape (OFF: "Room 7" / Level 2; ca. 1505; oil on canvas; 218.5 × 151.5 cm; "it would be the first known example in which the sitter is depicted full-length"; motto "Malo mori quam foedari", "better to die than be defiled"; may be a knight of the Order of the Ermine, "short-tailed weasel" beside the motto; cartellino "VICTOR CARPATHIUS / FINXIT / M.D.X."; Francesco Maria della Rovere, Weiss 1963, most generally accepted; other proposals Saint Eustace, Christie's 1919 sale title, from the deer by the lake; Ferdinand II of Aragon; Marco Gabriel, Venetian captain; minute flowers once led to a Dürer attribution; horseman in black and gold in the background; Vernon-Wentworth, Otto H. Kahn, acquired 1935 by Heinrich Thyssen-Bornemisza) ; research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md (date as "about 1505 to 1510"; motto wording)
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 010 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Als dieses Gemälde 1919 in London verkauft wurde, hieß es Der heilige Eustachius. Am See steht ein Hirsch, und der Hirsch ist das Zeichen des heiligen Eustachius. Eine Zeit lang war dieser junge Mann also ein Heiliger.
+
+Heute ist er ein Ritter. Und falls er eine reale Person ist, ist er ein Pionier. Das Museum formuliert es vorsichtig: Falls es tatsächlich ein Bildnis ist, wäre es das erste bekannte Beispiel, in dem das Modell in ganzer Figur dargestellt ist. [pause] Carpaccio gibt Ihnen einen ganzen Mann, vom Haar bis zu den gepanzerten Füßen, auf einer über zwei Meter hohen Leinwand.
+
+Wann wurde es gemalt? Das Museum datiert es um 1505. Doch ein kleiner Zettel auf der Leinwand ist mit Victor Carpathius signiert und in römischen Ziffern datiert: 1510. Also irgendwann dazwischen.
+
+[pause] Dann ist da der Wahlspruch. Auf einem kleinen Spruchband in der Landschaft stehen die lateinischen Worte Malo mori quam foedari. Lieber sterben als entehrt werden. Daneben sitzt ein kleines Wiesel, ein Hermelin. Das waren Wahlspruch und Sinnbild des Hermelinordens. Vielleicht war er also einer seiner Ritter.
+
+Aber wer? Viele Namen wurden vorgeschlagen, von einem König von Aragón bis zu einem venezianischen Hauptmann, der gegen die Türken kämpfte. [pause] Die meistakzeptierte Antwort ist Francesco Maria della Rovere, später Herzog von Urbino. Doch auch das ist nicht entschieden.
+
+Sehen Sie die Pflanzen um ihn herum. Jede Blume und jedes Blatt ist so fein gemalt, dass man das Bild einst für ein Werk Dürers hielt. Suchen Sie dann den Reiter in Schwarz und Gold im Hintergrund, und den Hirsch am See, der ihn einst zum Heiligen machte.
+
+[quietly] Ein Heiliger, ein Herzog oder ein Hauptmann. Wer er auch war, er hält noch immer stand.
+
+In Saal 7 gibt es einen kurzen Extra-Titel über Tizians Bildnis des Dogen Francesco Venier. Die nächste Hauptstation ist Saal 9, durch Saal 8 hindurch.

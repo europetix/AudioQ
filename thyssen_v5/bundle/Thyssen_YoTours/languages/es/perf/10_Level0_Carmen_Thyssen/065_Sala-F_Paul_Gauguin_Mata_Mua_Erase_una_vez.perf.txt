@@ -1,0 +1,28 @@
+@id: 065 · ES · Room F · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room F
+@type: W
+@title: Sala F · Paul Gauguin — Mata Mua (Érase una vez)
+@where: En la sala F, «Gauguin y el postimpresionismo». Mata Mua es el lienzo vertical, de unos noventa centímetros de alto, en color plano y luminoso: un tronco gigante en el centro, una mujer que toca la flauta delante, bailarinas alrededor de un gran ídolo de piedra y montañas rosas y moradas detrás. Idas y venidas, Martinica es el paisaje más ancho, con mujeres que llevan cestas en la cabeza.
+@what: Paul Gauguin, Mata Mua (In Olden Times) (Mata Mua, Erase una vez), 1892, oil on canvas, 91 × 69 cm, CTB.1984.8, Room F, Level 0. Also: Paul Gauguin, Coming and Going, Martinique, 1887, oil on canvas, 72.5 × 92 cm, CTB.1979.88, Room F.
+@listen: The golden age Gauguin went looking for in Tahiti, the one he invented instead, and the painting's own journey out of Madrid and back.
+@brief: Telling a friend about the star of the floor, with honesty about the dream behind it; warm, then thoughtful, a smile at its comings and goings.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museothyssen.org/en/collection/artists/gauguin-paul/mata-mua-olden-times (OFF, read 23 Oct 2026: 1892; oil on canvas 91 × 69; CTB.1984.8; Room F, Level 0; women worship Hina, the moon goddess; "giant stone idol"; flute player in the foreground; dancers around the idol; tree trunk divides the picture like a hinge; pink and purple mountains; read bottom to top like a Japanese print; a re-composition, not a real place; left for Tahiti in 1891 seeking peoples untouched by the West, found only remnants of a past doomed by colonisation and Christianisation; an elegy for a lost Golden Age; no buyer at his 1895 auction at 500 francs; May 1984 bought in equal shares by Baron Hans Heinrich and Jaime Ortiz-Patiño at a record price, sole owner 1989) ; https://www.cultura.gob.es/actualidad/2021/01/210129-acuerdo-thyssen.html (official: left with a 2019 export licence; returns with the lease agreement) ; return in Feb 2022: research/LEVEL0_CARMEN_OCT2026.md ; https://www.museothyssen.org/en/collection/artists/gauguin-paul/coming-and-going-martinique (OFF: 1887; 72.5 × 92; CTB.1979.88; Room F; nearly four months on Martinique, June to October 1887, with Charles Laval; women carrying fruit to market at Saint-Pierre; owned by Degas from 1891 for the rest of his life)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 065 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cuando Paul Gauguin zarpó hacia Tahití en 1891, buscaba un mundo que Europa no hubiera tocado. No lo encontró. Encontró los restos de una antigua cultura maorí, ya desgastada por el dominio colonial y por los misioneros.
+
+Así que pintó el mundo que había esperado. Mata Mua significa «en tiempos antiguos». Es una elegía a una edad de oro perdida, o que quizá nunca existió del todo así. [pause] La escena no es un lugar real. La compuso con trozos de otros cuadros, como un decorado.
+
+[pause] Ahora léalo como un grabado japonés, de abajo arriba. Delante, una mujer toca la flauta. Un enorme tronco baja por el centro, como una bisagra. Más allá, unas mujeres bailan alrededor de un gigantesco ídolo de piedra de Hina, la diosa de la luna. Y detrás de todo se alzan montañas rosas y moradas. Ningún color intenta ser natural. Cada uno queda plano, en su propia mancha, junto al siguiente.
+
+[wry] París no lo entendió. Cuando Gauguin subastó su obra para pagar su segundo viaje al Pacífico, nadie compró este cuadro, ni por los quinientos francos que pedía. [pause] En 1984, el barón Hans Heinrich lo compró por un precio récord, primero compartido con un socio, y después como único dueño.
+
+Desde entonces ha viajado. Salió de Madrid con una licencia de exportación, y volvió en 2022 con el arrendamiento que mantiene aquí esta colección.
+
+[lightly] Al lado cuelga el Gauguin de antes de Tahití. Unos años antes pasó casi cuatro meses en Martinica con el pintor Charles Laval, y pintó a mujeres que llevaban fruta al mercado. Busque las cestas sobre sus cabezas. Edgar Degas tuvo ese cuadro el resto de su vida.
+
+La sala G tiene un breve Extra sobre La Ludwigskirche en Múnich, de Kandinsky. La siguiente parada principal es la sala H, «Primeras vanguardias»: Pesca, de Natalia Goncharova.

@@ -1,0 +1,26 @@
+@id: 068 · DE · Room I · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room I
+@type: W
+@title: Saal I · Juan Gris — Sitzende Frau
+@where: In Saal I, „Malerei der Zwischenkriegszeit. Kubismus, Abstraktion und Surrealismus“. Sitzende Frau ist die hohe Tafel, über einen Meter hoch: eine Frau in plissiertem Umhang und Festkleid, ihre Gestalt aus sich überlagernden Dreiecken und schrägen Flächen gebaut.
+@what: Juan Gris, Seated Woman (Mujer sentada), 1917, oil on panel, 116 × 73 cm, CTB.1986.23, Carmen Thyssen Collection, Room I, Level 0.
+@listen: A Madrid-born Cubist in wartime Paris, his partner Josette in her best dress, and the old master Gris was quietly looking at.
+@brief: Telling a friend about a hometown painter far from home; warm, a little conspiratorial about the dress, admiring at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/gris-juan/seated-woman (OFF, read 23 Oct 2026: dated "5-17"; oil on panel 116 × 73; CTB.1986.23; Room I, Level 0; from 1916 Gris turned to figures and to old masters, drawings after Raphael, Velázquez and Cézanne, three oils after Corot; curves against straight lines and chiaroscuro from Corot; high viewpoint and oblique structure recall Cézanne's portraits of women; pair to the Portrait of Josette Gris, 1916; Josette wears a party dress; Gris traded a small picture for a dress made for her by Madame Bongard, Paul Poiret's sister; as a Spaniard a non-combatant, foreigners under suspicion, food and fuel erratic; Kahnweiler in exile, poverty; contract with Léonce Rosenberg, April 1916; sold to Rosenberg for 350 francs; letter of 5 May 1917, an evening with Picasso just back from Rome; Gris at the Parade premiere; Douglas Cooper calls it a portrait of Josette, without evidence; 1917 a move towards a "purified" Cubism; text Christopher Green) ; Gris born in Madrid and The Smoker in Room 41: research/LEVEL1_ROOMS_OCT2026.md (Room 41 page)
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 068 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Juan Gris wurde hier in Madrid geboren. Als dieses Bild im Frühjahr 1917 entstand, war er in Paris, mitten in einem Krieg, der nicht seiner war.
+
+Als Spanier musste er nicht kämpfen. Aber das Leben war hart. Ausländer standen unter Verdacht, und Lebensmittel und Brennstoff gab es mal, mal nicht. Sein Händler Kahnweiler war im Exil, und eine Zeit lang war Gris wirklich arm. [pause] Dann nahm ihn ein neuer Händler unter Vertrag, Léonce Rosenberg. Dieses Bild ging für dreihundertfünfzig Francs an Rosenberg.
+
+Die Frau ist wahrscheinlich Josette, seine Lebensgefährtin. Bewiesen hat das niemand. Aber dieses Bild ist das Gegenstück zu einem Porträt von ihr aus dem Vorjahr. [conspiratorial] Hier ist sie herausgeputzt, in einem Festkleid. Gris tauschte einmal ein kleines Bild gegen ein Kleid, das die Schwester des Modeschöpfers Paul Poiret für sie genäht hatte. [pause] Ist es dieses Kleid? Ein schöner Gedanke. Niemand weiß es.
+
+[pause] Sehen Sie nun, wie er sie aufbaut. Sich überlagernde Dreiecke, ein plissierter Umhang, schräge Linien, die sich aneinanderlehnen. Von oben gesehen, so wie Cézanne auf seine sitzenden Frauen hinabblickte. Doch auch ein älterer Meister steckt darin. Gris hatte Corot studiert und Bilder nach ihm gemalt. Das Spiel von Kurven gegen gerade Kanten, das weiche Hell und Dunkel, kommt von Corot. Damals standen er und Picasso sich besonders nah, und der Kubismus lernte zurückzublicken.
+
+Gris sind Sie oben in Saal 41 begegnet, mit dem Raucher. Hier, vier Jahre später, bewegt er sich auf einen ruhigeren, reineren Kubismus zu. [warmly] Ein Madrider Maler, fern der Heimat, malt die Frau, mit der er lebte, in ihrem besten Kleid.
+
+In Saal J, dem letzten Saal, gibt es einen kurzen Extra-Titel über Charles Bells riesigen Flipperautomaten. Danach geht es zum Ausgang.

@@ -1,0 +1,24 @@
+@id: 008 · FR · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: X
+@title: Salle 5 · Extra · Hans Memling — Portrait d'un jeune homme en prière
+@where: Salle 5, « 15e et 16e siècles. Le portrait de la Renaissance ». Cherchez un petit panneau, environ 29 sur 22 cm : un jeune homme de trois quarts, les mains jointes en prière, dans une loggia ouverte sur un paysage, un tapis à motifs posé sur le rebord devant lui.
+@what: Hans Memling, Portrait of a Young Man praying (recto), ca. 1485, oil on panel, 29.2 × 22.5 cm, inv. 284.a (1938.1.a). On the reverse: Flowers in a Jug.
+@listen: The missing Virgin this young man was praying to, and the jug of flowers on the back that is one of the first still lifes in art.
+@brief: A quick, delighted aside to a friend; gentle on the prayer, lightly excited about the back of the panel, honest that it may not be visible.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/memling-hans/portrait-young-man-praying-recto (OFF: "Room 5" / Level 2; ca. 1485; oil on panel; 29.2 × 22.5 cm; part of a larger ensemble, "If the work had formed part of a triptych there would have been a figure of a female donor on the right wing", central Virgin and Child; sitter unidentified, perhaps of the Italian community in Bruges, others suggest a Spanish client; loggia onto a landscape with an oriental rug on the ledge; Memling "contributed in a crucial manner to disseminating this model in Flemish art"; reverse "one of the first independent still lifes known in art", jug with Christ's monogram, lilies for purity, irises for Queen of Heaven and mater dolorosa, aquilegias for the Holy Spirit; Hamilton collection, Thyssen 1938) ; PLAN.md B (CHECK on site whether the back is visible: hedged in the script)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 008 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ce jeune homme prie quelqu'un qui n'est plus là.
+
+Sa pose le trahit : ses mains sont jointes, et ses yeux fixent quelque chose au-delà du cadre. Le musée pense qu'il formait un volet d'un petit triptyque. Au centre, une Vierge à l'Enfant. Sur l'autre volet, sans doute une donatrice, en prière elle aussi. [pause] Seul son panneau est ici, et personne ne connaît son nom. Il appartenait peut-être à la communauté italienne de Bruges, où travaillait Memling. Certains spécialistes ont suggéré un client espagnol.
+
+Regardez ce qui l'entoure. Une loggia s'ouvre sur un doux paysage, et un tapis oriental couvre le rebord. Memling n'a pas inventé ce genre de fond ouvert, mais il a beaucoup fait pour le répandre.
+
+[lightly] Maintenant, la surprise. Au dos de ce panneau, Memling a peint un pichet de fleurs, marqué du monogramme du Christ. Des lys pour la pureté de Marie, des iris pour Marie reine du Ciel, et des ancolies pour le Saint-Esprit. C'est l'une des premières natures mortes indépendantes connues de l'histoire de l'art. [pause] Si l'accrochage laisse voir le revers du panneau, faites le tour et regardez.
+
+Entrez dans la longue galerie Villahermosa, la salle 6 : cherchez une Vénitienne avec des roses et un singe au bout d'une chaîne.

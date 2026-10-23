@@ -1,0 +1,24 @@
+@id: 051 · FR · Room 45 · 23 Oct 2026 edition
+@section: Level 1 · Surrealism, America and Pop
+@room: Room 45
+@type: X
+@title: Salle 45 · Extra · Balthus — La Partie de cartes
+@where: Salle 45, « Réalismes de l'entre-deux-guerres ». Cherchez la toile large de près de deux mètres : un garçon et une fille jouent aux cartes à une table avec un chandelier, dans une pièce nue et austère éclairée par la droite.
+@what: Balthus (Balthazar Klossowski de Rola), The Card Game, 1948–1950, oil on canvas, 140 × 194 cm. Also: Max Beckmann, Quappi in Pink Jumper, 1932–1934, oil on canvas, Room 45.
+@listen: A card game in which the girl always wins, and a portrait whose smile was turned down as the Nazis came to power.
+@brief: Amused and knowing about the game, then quieter and more serious on Beckmann's wife.
+@pace: medium
+@energy: 3→2
+@sources: https://www.museothyssen.org/en/collection/artists/balthus/card-game (OFF: Room 45, Level 1; 1948–1950; oil on canvas 140 × 194 cm; inv. 460; isolated from trends, "a timeless realism", old-master techniques; painted when he resumed painting after the war; boy and girl playing cards at a table with a candlestick in a simple, stark room; austerity, monumentality, geometry and colouring show his admiration for Piero della Francesca; light from the right; girls are "queens", always winners, boys usually lose; the boy prepared to cheat, the girl's veiled smile says she will win; boy's pose from his Wuthering Heights drawings; X-radiography shows changes, including a hidden hat) ; https://www.museothyssen.org/en/collection/artists/beckmann-max/quappi-pink-jumper (OFF: Room 45; 1932–1934; Mathilde von Kaulbach, "Quappi", his second wife from 1925; seated in a blue armchair with a cigarette, pink V-neck jumper and matching hat just bought in Frankfurt; nearly finished in Frankfurt in 1932, changed two years later in Berlin and the date altered; per Stephan Lackner, the first version showed more of a smile; the Nazis forced him from his teaching post, the couple lived unnoticed in Berlin)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 051 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Chez Balthus, les filles gagnent toujours. Les garçons ont beau tout tenter, ils perdent presque toujours.
+
+Ici, un garçon et une fille jouent aux cartes à une table avec un chandelier, dans une pièce nue et austère. La lumière entre, froide, par la droite. [pause] Regardez le garçon, le corps tordu, vu en partie de face et en partie de profil. Il s'apprête à tricher. Et regardez le sourire à demi caché de la fille. Il laisse deviner qu'elle finira par gagner.
+
+Balthus l'a peint juste après la Seconde Guerre mondiale, quand il s'est remis à peindre avec une énergie nouvelle. Il se tenait à l'écart de tous les mouvements modernes et regardait vers les maîtres anciens. Surtout Piero della Francesca, pour l'austérité, la géométrie et la couleur. Les radiographies montrent qu'il a beaucoup changé en cours de route, et qu'il a même effacé un chapeau.
+
+[quietly] Trouvez le portrait de Quappi, l'épouse de Max Beckmann, en pull rose vif et chapeau assorti, une cigarette à la main. Il l'a presque terminé à Francfort en 1932. [pause] Deux ans plus tard, les nazis l'avaient chassé de son poste d'enseignant. Il l'a repris à Berlin, en a changé la date et, selon un ami, a un peu atténué son sourire.
+
+Ensuite, la salle 46, « Abstraction américaine un » : le sombre Brown and Silver un, de Pollock.

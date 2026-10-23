@@ -1,0 +1,26 @@
+@id: 023 · FR · Room 23 · 23 Oct 2026 edition
+@section: Level 2 · The Dutch Golden Age and the French salon
+@room: Room 23
+@type: R
+@title: Salle 23 · Frans Hals — Groupe familial dans un paysage
+@where: Salle 23, « 17e siècle. Peinture hollandaise. Paysage ». Placez-vous devant l'immense toile, environ deux mètres de haut et près de trois de large : une famille posant en plein air, mari et femme se tenant la main, un chien près d'une petite fille, et un vaste paysage qui s'ouvre à droite. La petite scène de rivière gelée de van Goyen est dans la même salle.
+@what: Frans Hals, Family Group in a Landscape (Grupo familiar ante un paisaje), 1645–1648, oil on canvas, 202 × 285 cm, inv. 179. Also: Jan Josephsz. van Goyen, Winter Landscape with Figures on Ice (Paisaje invernal con figuras en el hielo), 1643, oil on panel, inv. 167.
+@listen: An introduction to the Dutch rooms through a family portrait in a landscape room, and the second painter who may have painted its view.
+@brief: Opening the Dutch chapter with a friend; a curious question first, clear orientation, a small reveal about who painted what, light at the ice scene.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/hals-frans/family-group-landscape (OFF: Room 23 / Level 2, "17th Century. Dutch Painting. Landscape"; 1645–1648; 202 × 285; couple holding hands, Alciati emblem of the fidelity of spouses; dog beside the girl as loyalty; bold fluid strokes in the figures, smoother faces; Slive gives the landscape on the right to Pieter de Molijn) ; https://www.museothyssen.org/en/collection/artists/goyen-jan-josephsz-van/winter-landscape-figures-ice (OFF: Room 23 / Level 2; signed and dated 1643; Dordrecht, Grote Kerk; frozen Oude Maas; figures carrying merchandise, a kneeling figure about to fish, boys with long poles preparing a game) ; Rooms 24–28 layout: source/map.txt and research/map/p-2.png (Dec 2025 map: Dutch rooms 25–28 open off the Room 24 gallery)
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 023 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pourquoi un portrait de famille dans une salle de paysages ? La réponse est à droite de la toile, et elle n'est peut-être pas du tout de Frans Hals.
+
+Vous entrez dans le dix-septième siècle hollandais. Une petite république riche, sans roi, dont l'Église ne voulait pas de retables, achetait des tableaux pour ses maisons. Des visages, des intérieurs, des natures mortes et, surtout, son pays plat sous des ciels immenses. [pause] Voici la première salle hollandaise. Puis vient la salle 24, longue galerie de peinture française et anglaise. Les autres salles hollandaises, 25 à 28, s'ouvrent sur elle.
+
+Hals a peint cet immense Groupe familial entre 1645 et 1648. Mari et femme se tiennent la main, vieil emblème du mariage fidèle. Le chien près de leur petite fille symbolise la loyauté. Approchez-vous des vêtements : la touche de Hals y est rapide, fluide. Les visages sont plus lisses, plus soignés.
+
+[pause] Et le paysage à droite ? Seymour Slive, spécialiste de Hals, a suggéré la main d'un autre : le paysagiste Pieter de Molijn. Hals, les personnages. Un confrère, la vue.
+
+[lightly] Pour un paysage entièrement hollandais, trouvez la petite scène d'hiver de van Goyen, de 1643. À Dordrecht, le fleuve est tout gelé. On tire des marchandises sur la glace. Un homme pêche à genoux. Des garçons armés de longues perches lancent une partie.
+
+Ensuite, la salle 24, la longue galerie de la peinture française et anglaise du dix-huitième siècle : cherchez les enfants de Fragonard qui jouent à la bascule dans un bois.

@@ -1,0 +1,28 @@
+@id: 062 · FR · Room C · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room C
+@type: W
+@title: Salle C · Vincent van Gogh — Moulin à eau à Gennep
+@where: Dans la salle C, « Paysage naturaliste français ». Le Van Gogh est la longue toile sombre d'un mètre cinquante de large : un moulin à eau en bois à deux roues sur une rivière, une ferme derrière, et des rayons de soleil qui percent les nuages gris. L'Étang dans la forêt de Degas est le petit tableau sombre de sous-bois, tout près.
+@what: Vincent van Gogh, Watermill at Gennep, 1884, oil on canvas, 85 × 151 cm, CTB.1996.32, Room C, Level 0. Also: Edgar Degas, The Pond in the Forest, ca. 1867–1868, oil on canvas, 33.5 × 41.2 cm, CTB.2000.65, Room C.
+@listen: Van Gogh painting outdoors in a freezing Dutch November, the sky that melted, and why this Van Gogh hangs among the landscape painters.
+@brief: Telling a friend a small disaster story with a happy ending; lively on the melting sky, close and attentive on the traces that remain.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.museothyssen.org/en/collection/artists/gogh-vincent-van/watermill-gennep (OFF, read 23 Oct 2026: 1884; oil on canvas 85 × 151; CTB.1996.32; Room C, Level 0; Nuenen 1883–85, near his parents' home; painted entirely outdoors in "the cold month of November 1884", third week; letter to Theo about a large study of the Gennep mill, probably his last outdoor work that year; largest of his 1884 watermills; mill on the Dommel with two wheels, farmhouse that was the miller's home; Anton Kerssemakers recalled too much copaiva balsam, the sky melted, scraped off with a palette knife and repainted; traces of the first sky in a bluish reflection on the right and blue near the wheel; Theo had found his work too dark; first pure touches of colour, closer to Impressionism; sunbeams above the mill; text Fred Leeman) ; https://www.museothyssen.org/en/collection/artists/degas-edgar/pond-forest (OFF: ca. 1867–1868; 33.5 × 41.2; CTB.2000.65; Room C; part of the "prehistory" of his landscapes; dark, scraped with a palette knife; linked to the ballet La Source and its real water) ; Stevedores in Arles, Room 34: PLAN 038
+@lang: fr
+@translation: from the fact-checked English Thyssen-Bornemisza 062 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] La troisième semaine de novembre 1884, la température passe sous zéro dans la campagne hollandaise. Vincent van Gogh, lui, peint encore ce tableau dehors.
+
+Il vit chez ses parents à Nuenen, et le moulin de Gennep est à distance de marche. Il écrit à son frère Théo qu'il travaille en plein air à une grande étude du moulin, malgré le froid. Ce sera sans doute sa dernière œuvre en plein air de l'année. C'est le plus grand des moulins à eau peints cette année-là, un mètre cinquante de large.
+
+[amused] Puis quelque chose tourne mal. Un nouvel ami d'Eindhoven, Anton Kerssemakers, le regarde travailler. Il se souvient que Vincent a mis trop de baume de copahu, un médium qui ralentit le séchage. Le ciel a fondu. Van Gogh l'a donc gratté au couteau, puis repeint.
+
+[pause] Regardez bien : le premier ciel est encore là. Un reflet bleuté dans l'eau, à droite, et des touches de bleu près de la roue. Les nuages gris sont sans doute venus plus tard. Au-dessus du moulin, des rayons percent, et la lumière sur l'eau projette de longs reflets vers vous.
+
+Théo s'était plaint que ses tableaux étaient trop sombres. Vincent voyait dans celui-ci un progrès. Ici, pour la première fois, il pose de petites touches de couleur pure, un pas vers l'impressionnisme. [pause] Mais au fond, c'est un paysage hollandais. D'où sa place ici, parmi les paysagistes naturalistes, et non avec les postimpressionnistes. C'est le Van Gogh hollandais, des années avant la péniche flamboyante au coucher du soleil de la salle 34.
+
+Tout près, une rareté : un paysage de Degas, une mare sombre en forêt, raclée finement au couteau. Il étudiait peut-être l'eau pour un tableau sur un ballet, La Source.
+
+Ensuite, la salle D, l'impressionnisme : la Bergère nue couchée de Berthe Morisot.

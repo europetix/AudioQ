@@ -1,0 +1,28 @@
+@id: 060 · DE · Room A · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room A
+@type: W
+@title: Saal A · Jan Brueghel der Ältere — Der Garten Eden
+@where: In Saal A, „Alte Meister“, dem ersten Saal der Sammlung Carmen Thyssen. Der Garten Eden ist eine kleine Tafel, etwa einen Meter breit, voller Tiere: Suchen Sie links ein Pferd, einen Löwen und eine Löwin, und ganz hinten zwei winzige Figuren.
+@what: Jan Brueghel the Elder, The Garden of Eden, ca. 1610–1612, oil on panel, 59.4 × 95.6 cm, CTB.1988.29, Carmen Thyssen Collection, Room A, Level 0. Collection intro: Carmen Thyssen collection, ground floor.
+@listen: Whose collection this floor is, and how Brueghel filled Paradise with animals borrowed from Rubens.
+@brief: Welcoming a friend into a second, more personal collection; warm and clear on the history, then delighted and a little conspiratorial over the borrowed animals.
+@pace: medium
+@energy: 3→3→4
+@sources: https://www.museothyssen.org/en/collection/carmen-thyssen and https://www.museothyssen.org/en/node/18882 (OFF, read 23 Oct 2026: core is family inheritance not in the group the State acquired in 1993; purchases by the Baron and Baroness from 1993, later by Carmen Thyssen alone; her taste for landscape, Impressionism, German Expressionism; installed in the extension in 2004; now a new display on the ground floor with its own entrance from the main hall, chronological from 17th-century Dutch painting to the 20th century; leased for 15 years with a purchase option at the end; owners Barons Carmen and Borja Thyssen-Bornemisza; 328 works in the loan) ; https://museothyssen.org/en/node/22022 (OFF: Carmen Cervera, Hans Heinrich's Spanish wife, the decisive influence in bringing the collection to Spain) ; lease since 2022, "until the late 2030s", "about 330 works": research/LEVEL0_CARMEN_OCT2026.md and AUDIT (cultura.gob.es 29 Jan 2021) ; https://www.museothyssen.org/en/collection/artists/brueghel-jan-elder/garden-eden (OFF: ca. 1610–1612; oil on panel 59.4 × 95.6; CTB.1988.29; Room A, Level 0; among the earliest of his countless Paradise scenes; Adam and Eve in the background; horse probably from Rubens's lost equestrian portrait of Archduke Albert; lion and lioness on the left from Rubens's Daniel in the Lions' Den; leopards from a lost Rubens known from an engraving; close collaboration, not plagiarism; younger son of Pieter Bruegel; with Rubens the leading painter in Antwerp; infrared shows changes to the horse and camel)
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 060 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Alles oben begann mit einer Familie. Diese Ebene gehört dem Blick einer Frau.
+
+Carmen Cervera, die spanische Ehefrau von Baron Hans Heinrich, gab den Ausschlag dafür, dass seine Sammlung nach Madrid kam. Als der Staat 1993 deren Kern kaufte, behielt die Familie andere Werke. Sie wurden der Grundstock ihrer eigenen Sammlung, und sie kaufte weiter, vor allem Landschaften, Impressionismus und deutschen Expressionismus. [pause] Seit 2022 sind rund 330 ihrer Werke an den spanischen Staat vermietet, bis Ende der 2030er-Jahre. Am Ende hat der Staat eine Kaufoption. Die Sammlung hängt chronologisch, vom siebzehnten bis zum zwanzigsten Jahrhundert. Einzelne Werke werden manchmal verliehen oder ausgetauscht.
+
+[pause] Wir beginnen im Paradies. Jan Brueghel, der jüngere Sohn des großen Pieter Bruegel, malte dies um 1610. Es ist einer der frühesten seiner vielen Gärten Eden. Zu seiner Zeit waren er und Rubens die führenden Maler in Antwerpen.
+
+Suchen Sie nun Adam und Eva. Nicht im Vordergrund. Sie sind weit hinten, zwei kleine Figuren in einer dichten, exotischen Welt. Das eigentliche Thema sind die Tiere.
+
+[conspiratorial] Und manche davon sind geliehen. Das Pferd stammt wahrscheinlich aus einem verlorenen Reiterbildnis von Rubens. Löwe und Löwin links stammen aus dem Daniel in der Löwengrube von Rubens. Die Leoparden wiederholen zwei aus einem anderen verlorenen Rubens, der nur als Stich erhalten ist. [pause] Das ist kein Diebstahl. Die beiden Männer arbeiteten Seite an Seite. Bei einer anderen Fassung desselben Themas malte Brueghel Landschaft und Tiere, und Rubens die Figuren.
+
+[lightly] Infrarotaufnahmen zeigen, dass Brueghel seine Meinung über das Pferd und das Kamel während der Arbeit änderte. Selbst im Paradies mussten die Details erst zurechtgerückt werden.
+
+In Saal B, nordamerikanische Landschaft, gibt es einen kurzen Extra-Titel über Bierstadts Sonnenuntergang im Yosemite. Die nächste Hauptstation ist Saal C, mit Van Goghs breiter Wassermühle in Gennep.

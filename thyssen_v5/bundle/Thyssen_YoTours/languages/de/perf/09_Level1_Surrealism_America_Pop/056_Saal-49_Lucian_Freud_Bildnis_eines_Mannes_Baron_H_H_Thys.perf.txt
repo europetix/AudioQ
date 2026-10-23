@@ -1,0 +1,30 @@
+@id: 056 · DE · Room 49 · 23 Oct 2026 edition
+@section: Level 1 · Surrealism, America and Pop
+@room: Room 49
+@type: W
+@title: Saal 49 · Lucian Freud — Bildnis eines Mannes (Baron H.H. Thyssen-Bornemisza)
+@where: In Saal 49, „Europäische figurative Kunst der Nachkriegszeit“. Das Porträt des Barons ist klein, etwa einen halben Meter hoch: ein Mann in kariertem Jackett, weißem Hemd und dunkler Krawatte, den Kopf nach vorn geneigt, die Augen gesenkt. Spiegelung mit zwei Kindern ist die quadratische Leinwand in der Nähe: Freud von unten gesehen, mit zwei winzigen Kindern in der unteren Ecke.
+@what: Lucian Freud, Portrait of a Man (Baron H.H. Thyssen-Bornemisza), 1981–1982, oil on canvas, 51 × 40 cm, inv. 551, Room 49, Level 1. Also: Lucian Freud, Reflection with Two Children (Self-Portrait), 1965, oil on canvas, 91 × 91 cm, inv. 550, Room 49.
+@listen: The collector who had never sat for a portrait, nearly two years in Freud's studio, and the Watteau hidden over his shoulder.
+@brief: Letting a friend in on the most personal picture in the building; amused at the start, then close and observant, with a quiet smile at the Watteau.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/freud-lucian/portrait-man-baron-hh-thyssen-bornemisza (OFF, read 23 Oct 2026: 1981–1982; oil on canvas 51 × 40; inv. 551; Room 49, Level 1; first sitting 26 July 1981 in Freud's London studio near Notting Hill Gate; finished October 1982; the Baron had never posed before; attended punctually for nearly two years; "long, endless" sittings; checked jacket, white shirt, dark tie; head tilted forward, gaze down; no preliminary drawings, charcoal straight on the canvas, layers and palette knife; fragment of Watteau's Pierrot Content barely sketched above the sitter's right shoulder; Baron owned the Watteau since 1977; Freud had a reproduction pinned in his studio; the Baron sits where Pierrot sits and seems to take his pose and expression; Freud quote "I try to enter as far as possible into their feelings, so the picture will be about them, not me"; text Paloma Alarcó) ; https://www.museothyssen.org/en/collection/artists/freud-lucian/reflection-two-children-self-portrait (OFF: 1965; 91 × 91; Room 49; mirror at his feet; his children Rose and Ali in the lower left corner) ; Watteau in Room 24: PLAN 026 and research/LEVEL2_ROOMS_OCT2026.md
+@lang: de
+@translation: from the fact-checked English Thyssen-Bornemisza 056 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Baron Hans Heinrich Thyssen-Bornemisza verbrachte sein Leben damit, Porträts auszuwählen, zu kaufen und mit ihnen zu leben. Bis 1981 hatte er nie für eines Modell gesessen.
+
+Im Juli jenes Jahres kam er zur ersten Sitzung in Lucian Freuds Londoner Atelier, nahe Notting Hill Gate. Freud arbeitete langsam, und die Sitzungen waren lang, fast endlos. [pause] Der Baron kam immer wieder, pünktlich, fast zwei Jahre lang. Im Oktober 1982 war das Porträt fertig.
+
+Freud machte keine Vorzeichnungen. Er begann direkt auf der Leinwand mit einer Kohleskizze. Dann baute er das Gesicht Farbschicht um Farbschicht auf, teils mit dem Spachtel. Über seine Modelle sagte er: „Ich versuche, mich so weit wie möglich in ihre Gefühle hineinzuversetzen, damit das Bild von ihnen handelt, nicht von mir.“
+
+[pause] Sehen Sie nun, was er sah. Die Leinwand ist klein, und er rückte den Baron ganz nah heran. Kariertes Jackett, weißes Hemd, dunkle Krawatte. Der Kopf neigt sich nach vorn, die Augen blicken nach unten, von Ihnen weg. Das ist nicht das Gesicht eines Mannes, der seine Schätze vorführt. Es ist düsterer, privater.
+
+[conspiratorial] Sehen Sie nun hinter ihn, über seine Schulter. Dort hat Freud das Fragment eines anderen Gemäldes kaum angedeutet. Es ist Watteaus Bild Der zufriedene Pierrot. Es gehörte dem Baron seit 1977. Freud hatte eine Reproduktion an seine Atelierwand geheftet. [pause] Der Baron sitzt genau dort, wo bei Watteau Pierrot sitzt. Er scheint dessen Haltung und Ausdruck zu übernehmen. Diesen Pierrot haben Sie oben gesehen, in Saal 24.
+
+In der Nähe richtet Freud den prüfenden Blick auf sich selbst. In Spiegelung mit zwei Kindern ragt er über einem Spiegel zu seinen Füßen auf. Seine Kinder Rose und Ali erscheinen winzig in der unteren Ecke.
+
+[warmly] Ein Sammler, der sein Leben lang wählte, was er ansah. Endlich sitzt er still und wird selbst angesehen, in der Pose eines Bildes, das er liebte.
+
+In Saal 50, „Informalismen“, gibt es einen kurzen Extra-Titel über Frank Auerbachs pastosen Kopf von J.Y.M. Die nächste Hauptstation ist Saal 52, Pop Art.
