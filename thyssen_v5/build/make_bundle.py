@@ -82,7 +82,7 @@ for p in ('v5_direction.py', 'render_edge.py'):
 # hand-maintained bundle files (launcher, README, extended pronunciation, user-test docs)
 ST = ROOT + '/build/static'
 for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'README.txt', 'pronunciation.py',
-          'tag_tracks.py', 'cover.jpg'):
+          'tag_tracks.py', 'cover.jpg', 'make_lengths.py', 'levels.txt'):
     shutil.copy(f'{ST}/{p}', B)
 if os.path.isdir(f'{ST}/USER_TEST'):
     shutil.copytree(f'{ST}/USER_TEST', f'{B}/USER_TEST')

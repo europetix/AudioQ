@@ -55,14 +55,9 @@ python3 tag_tracks.py "$OUTPUT_DIR" "languages/$L" "$L"
 if [ "$SCOPE" != "2" ]; then cp Thyssen_Audio_Guide_Route.pdf "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] route map"; fi
 ESSENTIAL="001 002 006 007 010 014 016 020 023 024 029 031 035 036 038 039 043 045 049 050 052 054 056 059 065 070"
 HIGHLIGHTS="001 002 006 007 010 016 029 031 038 050 052 056 065 070"
-make_length () {   # copy a shorter version out of the full render (no re-recording): $1 = name, $2 = track numbers
-    dst="${OUTPUT_DIR}_$1"; mkdir -p "$dst"
-    for n in $2; do
-        f=$(find "$OUTPUT_DIR" -name "${n}_*.mp3" | head -1)
-        [ -n "$f" ] && { d="$dst/$(basename "$(dirname "$f")")"; mkdir -p "$d"; cp "$f" "$d/"; }
-    done
-    cp Thyssen_Audio_Guide_Route.pdf "$dst/" 2>/dev/null
-    echo "  [length] $1: $(echo $2 | wc -w | tr -d ' ') tracks -> $dst"
+make_length () {   # a shorter version out of the full render (no re-recording), with spoken "next stop" bridges: $1 = name, $2 = tracks
+    python3 make_lengths.py "$OUTPUT_DIR" "languages/$L" "$L" "$1" "$2" && python3 tag_tracks.py "${OUTPUT_DIR}_$1" "languages/$L" "$L" >/dev/null
+    cp Thyssen_Audio_Guide_Route.pdf "${OUTPUT_DIR}_$1/" 2>/dev/null
 }
 if [ "$SCOPE" != "2" ] && [ "$SCOPE" != "3" ]; then make_length Essential "$ESSENTIAL"; make_length Highlights "$HIGHLIGHTS"; fi
 

@@ -72,14 +72,9 @@ command -v ffmpeg >/dev/null 2>&1 || { HAVE_FFMPEG=0; echo "WARNING: ffmpeg not 
 
 ESSENTIAL="001 002 003 004 007 009 010 011 013 014 016 019 022 023 024 025 028"
 HIGHLIGHTS="001 003 007 010 016 022 023 025 028"
-make_length () {   # copy a shorter version out of the full render (no re-recording): $1 = name, $2 = track numbers
-    dst="${OUTPUT_DIR}_$1"; mkdir -p "$dst"
-    for n in $2; do
-        f=$(find "$OUTPUT_DIR" -name "${n}_*.mp3" | head -1)
-        [ -n "$f" ] && { d="$dst/$(basename "$(dirname "$f")")"; mkdir -p "$d"; cp "$f" "$d/"; }
-    done
-    cp Bernabeu_Audio_Guide_Route.pdf "$dst/" 2>/dev/null
-    echo "  [length] $1: $(echo $2 | wc -w | tr -d ' ') tracks -> $dst"
+make_length () {   # a shorter version out of the full render (no re-recording), with spoken "next stop" bridges: $1 = name, $2 = tracks
+    python3 make_lengths.py "$OUTPUT_DIR" "." "en" "$1" "$2" && python3 tag_tracks.py "${OUTPUT_DIR}_$1" "." "en" >/dev/null
+    cp Bernabeu_Audio_Guide_Route.pdf "${OUTPUT_DIR}_$1/" 2>/dev/null
 }
 # navigation PDF + guides into the tour folder (not for voice samples)
 echo ""
