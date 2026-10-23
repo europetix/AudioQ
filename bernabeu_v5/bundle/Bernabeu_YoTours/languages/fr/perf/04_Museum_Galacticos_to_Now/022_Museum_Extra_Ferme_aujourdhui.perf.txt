@@ -1,0 +1,24 @@
+@id: 022 · FR · Museum · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum
+@type: X
+@title: Musée · Extra · Fermé aujourd'hui ?
+@where: À la fin du musée, avant de continuer. Écoutez ceci si le personnel ou la signalétique indique que le vestiaire et les bancs de touche sont fermés aujourd'hui, ou si votre parcours vous a d'abord fait passer par le musée.
+@what: The club closes the dressing rooms and benches on match days and the day before; a short picture of the first-team dressing room (the 15-minute half-time interval in the Laws of the Game) and of the benches at pitch level; where the route goes instead.
+@listen: What lies behind the two doors that close on match days, and where to go from here.
+@brief: A calm, reassuring companion explaining a closed door without fuss, painting the missing rooms in a few honest strokes.
+@pace: medium
+@energy: 2→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu (OFF, read 23 Oct 2026: "the locker rooms and benches will not be accessible on match days or the day before"; "the First Team dressing room") ; https://www.realmadrid.com/es-ES/tour-bernabeu/individual/classic-individual (OFF, read 23 Oct 2026: "Vestuarios, el lugar por donde han pasado los mejores jugadores del mundo"; "Banquillos, siente la emoción a pie de campo") ; https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match (OFF, Laws of the Game published by The FA, read 23 Oct 2026: "Players are entitled to an interval at half-time, not exceeding 15 minutes") ; 360° screen ring hung from the roof: FACTS C16 (OFF) ; tour ends at the store: brochure July 2026 (OFF, TOUR_ROUTE §1) ; case B and C routing per PLAN
+@lang: fr
+@translation: from the fact-checked English Bernabéu 022 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Les jours de match, et la veille, deux portes de cette visite restent closes. Le club ferme le vestiaire et les bancs de touche. Ces jours-là, ils redeviennent des lieux de travail. Voici ce qu'il y a derrière.
+
+Le vestiaire est celui de l'équipe première, l'équipe à domicile. Les joueurs s'y changent avant un match, et y reviennent à la mi-temps. Les Lois du jeu leur accordent au maximum quinze minutes pour cette pause. Ce qui se dit pendant ce quart d'heure reste dans la pièce. Le club ne le publie pas, et ce guide ne l'inventera pas.
+
+Les bancs de touche sont en bas, au niveau du terrain, au bord de l'aire de jeu. C'est là que s'assoient l'entraîneur et les remplaçants. De là, les tribunes ne plongent pas sous vous, comme depuis la tribune supérieure. Elles s'élèvent au-dessus de vous, étage après étage, jusqu'au toit et au long anneau d'écrans qui y est suspendu.
+
+[warmly] Un autre jour, vous pourrez vous y tenir vous-même.
+
+Si vous n'avez pas encore vu la tribune supérieure, montez-y maintenant, et écoutez le numéro quatre. Si vous l'avez déjà vue, et que le vestiaire et les bancs de touche sont fermés aujourd'hui, le parcours continue vers la boutique : écoutez le numéro vingt-sept. Sinon, continuez vers le vestiaire.

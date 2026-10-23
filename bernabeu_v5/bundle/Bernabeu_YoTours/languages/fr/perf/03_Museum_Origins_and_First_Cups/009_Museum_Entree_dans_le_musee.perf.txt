@@ -1,0 +1,24 @@
+@id: 009 · FR · Museum · 23 Oct 2026 edition
+@section: Museum · Origins and the first Cups
+@room: Museum
+@type: R
+@title: Musée · Entrée dans le musée
+@where: La première partie du musée, où commence l'histoire du club : vieilles photographies, premiers maillots et écrans d'images d'archives, avant que le parcours n'atteigne la salle des trophées.
+@what: The club's founding as Madrid Football Club, 6 March 1902; the royal title "Real" and the crown on the badge, granted by Alfonso XIII on 29 June 1920; ownership by the members, the socios; what kind of museum this is.
+@listen: How a plain Madrid Football Club became Real Madrid, who owns it, and how to get the best from a museum that is the club telling its own story.
+@brief: A friend at the museum door, setting the scene in one easy breath; curious at the start, warm at the end.
+@pace: medium
+@energy: 2→3
+@sources: https://www.realmadrid.com/static/sobre-el-real-madrid/historia/futbol/1902-1910 (OFF, via FACTS A1: constituted as a society 6 March 1902, board chaired by Juan Padrós) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/se-cumplen-106-anos-desde-que-el-club-recibio-el-titulo-de-real-29-06-2026 (OFF, read 23 Oct 2026: 29 June 1920, King Alfonso XIII granted the title by letter, club previously "Madrid Football Club", right to the royal crown on the badge) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-real-madrid-cierra-la-temporada-2025-2026-con-los-mayores-ingresos-y-el-mayor-ebitda-de-su-historia-28-07-2026 (OFF, via FACTS A12: "un club propiedad de sus socios") ; https://www.realmadrid.com/tour-bernabeu/flexible (OFF, via TOUR_ROUTE: museum is "un viaje audiovisual e interactivo a través de la mayor colección de trofeos") ; history section first, then trophies: miraespanha.com/en/the-bernabeu-tour (May 2026) + studyabroad.gwu.edu/node/4501 (May 2026), WEAK/SEC2 visitor reports, used only in @where
+@lang: fr
+@translation: from the fact-checked English Bernabéu 009 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pendant ses dix-huit premières années, ce club n'avait rien de « Real ». Il s'appelait tout simplement Madrid Football Club.
+
+Il a été officiellement constitué le 6 mars 1902, avec un conseil présidé par Juan Padrós. Le titre royal est venu plus tard. Le 29 juin 1920, le roi Alphonse treize l'a accordé par lettre, et avec lui le droit de placer une couronne royale sur l'écusson. [pause] Plus d'un siècle plus tard, cette couronne coiffe toujours l'écusson.
+
+Deuxième chose à savoir : à qui appartient tout cela ? Ni à un milliardaire, ni à une entreprise. Selon les termes du club, le Real Madrid est un club qui appartient à ses membres. On les appelle les socios, et ce sont eux qui élisent le président.
+
+Troisième chose : le genre de musée où vous êtes. Le club parle d'un parcours audiovisuel et interactif à travers ses trophées. Autrement dit, c'est le Real Madrid qui raconte sa propre histoire, avec fierté, sur des écrans, en vieux films et dans des vitrines. C'est bien fait, et ce n'est pas neutre. [warmly] Inutile de lire chaque panneau. Laissez-vous porter par les images, et je vous raconterai les histoires qui comptent, dont une ou deux que les murs ont tendance à oublier.
+
+Tout ici mène vers une seule salle. Avancez jusqu'à la salle des trophées, et cherchez la longue rangée de Coupes d'Europe.

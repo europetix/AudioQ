@@ -1,0 +1,30 @@
+@id: 025 · ES · Benches · pitchside · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Benches · pitchside
+@type: W
+@title: Banquillos · Las remontadas de última hora
+@where: Todavía a ras de campo, junto a los banquillos, mirando al otro lado del terreno de juego, hacia las gradas de enfrente.
+@what: Champions League nights at the Bernabéu: v Paris Saint-Germain, 9 March 2022 (Benzema 61', 76', 78', 3–1, through 3–2 on aggregate); v Manchester City, 4 May 2022 (Rodrygo 90' and 90+1', Benzema penalty 95' in extra time, 6–5 on aggregate); v Bayern Munich, 8 May 2024 (Davies 68', Joselu 88' and 90+1', 2–1, 4–3 on aggregate); v Manchester City, 11 March 2026 (Valverde first-half hat-trick, 3–0); 2025-26 ended without a trophy; Valverde captain as of autumn 2026.
+@listen: Four famous nights in this stadium, most of them turned around late, and an honest word on what comebacks don't guarantee.
+@brief: Telling the best stories in the stadium to a friend at the touchline; building pace through the comebacks, then slowing for the honest turn.
+@pace: medium-fast
+@energy: 3→5→3
+@sources: https://www.uefa.com/uefachampionsleague/news/0273-14a076282e68-eac8f8c8c071-1000--real-madrid-3-1-paris-agg-3-2-benzema-hat-trick-earns-comeback-/ (OFF-UEFA, read 23 Oct 2026: 9 March 2022, Paris led 2-0 on aggregate, Mbappé 39', Benzema 61', 76', 78', 3-2 aggregate) + https://www.theweek.in/news/sports/2022/03/10/benzema-scores-hat-trick-madrid-rallies-to-oust-psg-from-cl.html (AP, read 23 Oct 2026: at the Santiago Bernabéu; 61st, 76th, 78th) ; https://uefa.com/uefachampionsleague/news/0275-1511132895f4-1744cbc9329e-1000--real-madrid-3-1-manchester-city-agg-6-5-rodrygo-and-benzem (OFF-UEFA, read 23 Oct 2026: 4 May 2022, Santiago Bernabéu, Mahrez 73', Rodrygo 90' and 90+1', Benzema pen 95', 6-5 aggregate, two down on aggregate at 90 minutes) ; https://www.uefa.com/uefachampionsleague/news/028d-1ad79abc3529-95537ff37e0b-1000--real-madrid-2-1-bayern-agg-4-3-late-joselu-double-conjures-/ (OFF-UEFA, read 23 Oct 2026: Bernabéu, Davies 68', Joselu 88' after Neuer could not hold Vinícius's shot, Joselu 90+1' from Rüdiger's cross) + https://fcbayern.com/en/news/matchreports/2024/05/match-report-champions-league-real-madrid-v-fc-bayern-080524 (club, read 23 Oct 2026: 8 May 2024, 2-1, 4-3 aggregate) ; Wembley 2024 final win: FACTS B1 (OFF + SEC2) ; https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-rm-city-ida-octavos-champions-11-03-2026 (OFF, read 23 Oct 2026: 3-0 v Manchester City at the Bernabéu, round of 16 first leg, Valverde 20', second soon after, 42'; first-half hat-trick) + https://www.thescore.com/news/3497619 (read 23 Oct 2026: 11 March 2026, Estadio Santiago Bernabéu) ; 2025-26 without a trophy: FACTS B10 (SEC2: AFP via nampa.org, malaymail.com) ; Valverde first captain for 2026-27: FACTS D12 (SEC2) ; works 2019–2025 with football carrying on: FACTS C1 + PLAN 002
+@lang: es
+@translation: from the fact-checked English Bernabéu 025 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Si alguna vez ve aquí una noche de Champions, no pierda de vista el reloj. En este estadio, los últimos minutos lo han cambiado todo más de una vez.
+
+Recuerde aquella noche contra el Paris Saint-Germain, en marzo de 2022. Al descanso, el Madrid perdía por dos goles en el global. Luego, entre los minutos sesenta y uno y setenta y ocho, Karim Benzema marcó tres. Esa noche acabó tres goles a uno, y el Madrid pasó a cuartos.
+
+Dos meses después vino el Manchester City, para la vuelta de la semifinal. En el minuto noventa, el Madrid perdía por dos en la eliminatoria. Rodrygo marcó en el noventa, y otra vez un minuto después. En la prórroga marcó Benzema de penalti, y el Madrid pasó por seis a cinco en el global.
+
+Y en mayo de 2024 fue el Bayern de Múnich. Ganaba aquí hasta el minuto ochenta y ocho. Entonces Manuel Neuer soltó un disparo de Vinícius Júnior, y Joselu llegó primero. En el tiempo añadido, Joselu volvió a marcar, y el Madrid ganó la copa ese año en Wembley.
+
+Todo esto ocurrió con el estadio todavía en obras.
+
+[pause] No todas las grandes noches llegan tarde. En marzo de 2026, Federico Valverde le marcó tres al Manchester City antes del descanso. En otoño de 2026, es el capitán del club.
+
+[quietly] Y la parte honesta: esa misma temporada, la que Valverde iluminó en marzo, terminó sin ningún título. Las remontadas hacen la leyenda. No garantizan la copa.
+
+Aquí hay un breve Extra sobre la sala de prensa, el número veintiséis, si hoy está abierta. La siguiente parada principal es la tienda, donde termina el tour.

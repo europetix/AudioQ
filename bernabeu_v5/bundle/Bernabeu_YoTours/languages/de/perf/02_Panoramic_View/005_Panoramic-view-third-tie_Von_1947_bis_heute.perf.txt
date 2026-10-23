@@ -1,0 +1,28 @@
+@id: 005 · DE · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: W
+@title: Panorama · Von 1947 bis heute
+@where: Auf der Panoramaebene, beim maßstabsgetreuen Modell des Stadions und den Bildschirmen mit dem Film über seine Verwandlung. Kommen Sie wegen des Andrangs nicht hin, bleiben Sie am Geländer mit Blick ins Rund.
+@what: The scale model and the club's audiovisual show on the stadium's transformation since 1947; finals played here: European Cup finals 1957 (Real Madrid 2–0 Fiorentina), 1969 and 1980; the 1964 European Championship final (Spain beat the USSR); the 1982 World Cup final (Italy 3–1 West Germany); the 2010 Champions League final (Inter 2–0 Bayern, coach José Mourinho, unveiled at Real Madrid days later); the 2018 Copa Libertadores final (River Plate v Boca Juniors).
+@listen: The model and film of the stadium's changes, and the great finals this ground has hosted, only one of them with Real Madrid on the pitch.
+@brief: Standing by the model with a friend, ticking off the great nights this ground has seen; lively and curious, with a wry turn at Mourinho.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu/individual (OFF via OFFICIAL_AUDIO_COMPARISON 1.3: panoramic level has an audiovisual display of the stadium's transformation) ; https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF: maqueta; "Descubre todos los cambios que se han producido en la renovación") ; https://uefa.com/uefachampionsleague/news/01e1-0e73ace8307d-e674fa5b207b-1000--santiago-bernabeu (OFF-UEFA, read 23 Oct 2026: European Cup finals 1957, 1969, 1980; finals of the 1964 European Championship and the 1982 World Cup; 2010 Champions League final on 22 May 2010) + https://www.laliga.com/noticias/historia-santiago-bernabeu-estadio-real-madrid (same list plus the 2018 Copa Libertadores final) ; https://www.uefa.com/uefachampionsleague/news/0250-0c51077e88f5-16d1b98c88fc-1000--madrid-s-european-cup-finals (OFF-UEFA, read 23 Oct 2026: 1957 Real Madrid 2–0 Fiorentina at the Bernabéu, "home advantage", Di Stéfano penalty, Gento) ; https://uefa.com/uefaeuro/history/news/0253-0d7b2fe55184-528b8a894544-1000--marcelino-heads-spain-to-euro-1964-final-win-against-ussr (OFF-UEFA headline: Spain beat the USSR in the 1964 final) ; https://www.11v11.com/matches/italy-v-germany-11-july-1982-237276/ + https://footballhistory.org/world-cup/1982-spain.html (SEC2: 1982 final Italy 3–1 West Germany, 11 July 1982) ; https://www.cbssports.com/soccer/news/bayern-munich-vs-inter-looking-back-at-historic-2010-champions-league-final-diego-militos-heroics (read 23 Oct 2026: Inter 2–0 Bayern at the Bernabéu, Milito twice, coach Mourinho stayed in Madrid and was unveiled as Real Madrid coach a few days later) + https://tribune.com.pk/story/15554/entertainment (headline: "Inter lift Champions League as Mourinho walks out for Real") (SEC2) ; https://www.aljazeera.com/sports/2018/12/10/river-plate-beat-argentine-rivals-boca-to-win-copa-libertadores + https://www.tntsports.co.uk/football/copa-libertadores/2018/football-news-santiago-bernabeu-to-host-delayed-copa-libertadores-final_sto7030695/story.shtml (SEC2: 2018 Libertadores final River v Boca moved to the Bernabéu, River won)
+@lang: de
+@translation: from the fact-checked English Bernabéu 005 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieses Stadion war Schauplatz eines Weltmeisterschaftsfinales, eines Europameisterschaftsfinales und von vier Endspielen im Europapokal. [pause] Nur in einem davon spielte Real Madrid tatsächlich selbst.
+
+Das war 1957. Real Madrid gewann das Finale im eigenen Stadion, gegen die Fiorentina. Es war der zweite der fünfzehn Europapokale des Vereins, gewonnen genau hier.
+
+Die anderen großen Abende gehörten anderen. Spanien schlug hier die Sowjetunion und gewann seine erste Europameisterschaft. Drei weitere Europapokalendspiele fanden hier statt, alle zwischen anderen Vereinen. Im Finale der Weltmeisterschaft schlug Italien Westdeutschland mit drei zu eins. Und vor nicht allzu langer Zeit wurde das größte Vereinsfinale Südamerikas über den Atlantik in dieses Stadion verlegt. Es hieß River Plate gegen Boca Juniors, zwei Rivalen aus Buenos Aires. River gewann.
+
+[wry] Eines dieser Europapokalendspiele fand 2010 statt. Inter Mailand schlug hier Bayern München mit zwei zu null und gewann die Champions League. Inters Trainer an diesem Abend war José Mourinho. Er flog nicht mit seiner Mannschaft nach Hause. Er blieb in Madrid, und neun Tage später wurde er als neuer Trainer von Real Madrid vorgestellt. So kann man ein Stadion auch kennenlernen.
+
+Suchen Sie jetzt das Modell und die Bildschirme daneben. Der Verein nennt das seine audiovisuelle Show über den Wandel des Stadions seit 1947. Nutzen Sie das Modell zur Orientierung. Es zeigt das ganze Stadion von außen auf einen Blick. Die Stahlhaut, die Sie von der Straße aus gesehen haben, liegt um das Rund, in dem Sie gerade stehen. Dann nehmen Sie sich ein paar Minuten für den Film.
+
+[pause] Jedes dieser Finale wurde vor dem Umbau gespielt. Das Gebäude hat sich fast bis zur Unkenntlichkeit verändert. Die Gewohnheit, die größten Abende auszurichten, ist geblieben.
+
+Bleiben Sie auf dieser Ebene und schauen Sie nach oben, zum Dach und zum Ring aus Bildschirmen, der ganz um die Tribünen läuft.

@@ -1,0 +1,30 @@
+@id: 011 · ES · Museum · trophy hall · 23 Oct 2026 edition
+@section: Museum · Origins and the first Cups
+@room: Museum · trophy hall
+@type: W
+@title: Sala de trofeos · Di Stéfano y las cinco primeras
+@where: En la fila de Copas de Europa, junto a los cinco trofeos más antiguos, los ganados en años consecutivos de 1956 a 1960.
+@what: Five European Cups in a row, 1956–1960; Alfredo Di Stéfano (born Buenos Aires 1926, at the club 1953–1964, 308 goals in 396 matches) scoring in all five finals; the 1957 final played at this stadium, 2–0 v Fiorentina; Glasgow, 18 May 1960, 7–3 v Eintracht Frankfurt, Puskás 4, Di Stéfano 3, 127,000 crowd.
+@listen: The club's first golden age, the man at its centre, and the night in Glasgow that crowned it.
+@brief: Telling a friend about the greatest team of the 1950s with real affection; steady at the start, lifting at Glasgow, settling at the end.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.realmadrid.com/en-US/news/club/latest-news/se-cumplen-69-anos-de-la-primera-copa-de-europa-13-06-2025 and https://www.uefa.com/uefachampionsleague/news/0250-0c51077e88f5-16d1b98c88fc-1000--madrid-s-european-cup-finals (OFF + OFF-UEFA, via FACTS D1, D2; UEFA page re-read 23 Oct 2026: 1956 Parc des Princes 4–3 Reims; 1957 at the Santiago Bernabéu 2–0 Fiorentina, Di Stéfano penalty and Gento; 1958 Heysel 3–2 Milan aet; 1959 Stuttgart 2–0 Reims; 1960 Hampden Park 7–3 Eintracht, Puskás 4, Di Stéfano 3; Di Stéfano scored in all five finals; crowd 127,000) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/centenario-del-nacimiento-de-alfredo-di-stefano-04-07-2026 (OFF, read 23 Oct 2026: born 4 July 1926 Buenos Aires; "Saeta Rubia"; at the club 1953–1964; 396 matches, 308 goals; club calls him "el mejor jugador de todos los tiempos") ; https://uefa.com/uefachampionsleague/news/0275-1541637ad1db-88aeeefefefd-1000--all-time-honours-board-which-teams-have-won-the-european-cup (OFF-UEFA: five in a row "still a record for the most consecutive victories") ; Franco-era sentence: framing only, no factual claim beyond the dictatorship itself
+@lang: es
+@translation: from the fact-checked English Bernabéu 011 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cuando nació la Copa de Europa, el Real Madrid la ganó. Luego volvió a ganarla al año siguiente, y al otro. [pause] Cinco veces seguidas. Ningún club ha igualado esa racha desde entonces.
+
+En el centro de todo estaba Alfredo Di Stéfano. Nació en Buenos Aires y llegó a Madrid tres años antes de aquella primera final. Lo llamaban la Saeta Rubia, y el club no oculta su admiración: lo llama el mejor jugador de todos los tiempos.
+
+Las cifras lo explican. En once temporadas aquí marcó trescientos ocho goles en trescientos noventa y seis partidos. Y marcó en cada una de esas cinco finales.
+
+La segunda no se jugó en una capital lejana. Se jugó aquí mismo, en este estadio, en 1957, contra la Fiorentina. Di Stéfano marcó de penalti, Paco Gento hizo el segundo, y el Madrid ganó por dos goles a cero ante su público.
+
+Fueron también los años de la dictadura del general Franco, y todavía se discute hasta qué punto estaba el club cerca del régimen.
+
+[warmly] Luego llegó Glasgow. La quinta final, en Hampden Park, contra el Eintracht de Fráncfort, ante unas ciento veintisiete mil personas. El Real Madrid ganó por siete goles a tres. El húngaro Ferenc Puskás marcó cuatro, y Di Stéfano los otros tres.
+
+Ahora mire juntas estas cinco copas. [pause] Aquí empieza la leyenda europea del club.
+
+Quédese en la fila y busque la copa número seis, la de 1966. La ganó un equipo nuevo, con una cara conocida todavía en el once.

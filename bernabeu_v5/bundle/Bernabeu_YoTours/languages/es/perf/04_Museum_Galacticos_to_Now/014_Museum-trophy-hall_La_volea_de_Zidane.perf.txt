@@ -1,0 +1,30 @@
+@id: 014 · ES · Museum · trophy hall · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum · trophy hall
+@type: W
+@title: Sala de trofeos · La volea de Zidane
+@where: En la fila de Copas de Europa, junto a la copa número nueve, el trofeo de 2002 ganado en Glasgow.
+@what: Cup eight, Paris 2000, 3–0 v Valencia; cup nine, Hampden Park, Glasgow, 15 May 2002, 2–1 v Bayer Leverkusen: Raúl 9', Lúcio 14', Zidane 44' left-foot volley from Roberto Carlos's looping cross from the left; the club's centenary year; Casillas on for the injured César at 68' and his late saves.
+@listen: One of the most celebrated goals in the club's history, scored on the same ground as the seven-three of 1960, and the young substitute keeper who saved the night.
+@brief: A friend replaying a favourite goal in words, almost in slow motion; building to the volley, then a quieter, warm turn to Casillas.
+@pace: medium
+@energy: 2→5→3
+@sources: https://www.realmadrid.com/es-ES/noticias/club/actualidad/la-novena-cumple-24-anos-15-05-2026 (OFF, read 23 Oct 2026: 15 May 2002, Hampden Park, centenary year; Raúl 9', Lúcio 14' header from a corner, Zidane 44' volley from Roberto Carlos's "centro bombeado desde la banda izquierda" to the edge of the box; France Football chose it in 2020 as the most beautiful goal in Champions League history; César injured, Casillas on at 68', decisive late) ; https://www.uefa.com/uefachampionsleague/news/0239-0e9c7f74cced-4d02500f3f8e-1000--15-years-on-from-zidane-s-final-wonder-goal (OFF-UEFA, read 23 Oct 2026: "supposedly weaker left foot"; cross "looped to the edge of the penalty area") ; https://uefa.com/uefachampionsleague/news/0223-0e9133b4a77b-52070980c370-1000--porto-bound-casillas-best-real-madrid-moments (OFF-UEFA, read 23 Oct 2026: the 20-year-old Casillas made fine saves from successive corners; captain from 2010, lifted the 2014 trophy) ; https://www.uefa.com/uefachampionsleague/news/0250-0c51077e88f5-16d1b98c88fc-1000--madrid-s-european-cup-finals (OFF-UEFA: 1999/2000 Stade de France 3–0 Valencia; 1960 and 2002 finals both at Hampden Park) ; Zidane joined from Juventus in 2001: https://footballwriters.co.uk/news/before-they-became-galacticos/ + https://www.flashscore.com/news/kylian-mbappe-becomes-the-latest-in-a-long-line-of-real-madrid-galacticos/Ms286WlA (SEC2)
+@lang: es
+@translation: from the fact-checked English Bernabéu 014 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Algunos goles se recuerdan por lo que ganaron. Este se recuerda por su belleza.
+
+Antes, un repaso. Dos años después de La Séptima, llegó en París la octava, por tres goles a cero ante el Valencia. Luego, en 2002, el club cumplió cien años. Y la final de ese año fue en Glasgow, en Hampden Park, el mismo campo donde Di Stéfano y Puskás habían vencido al Eintracht por siete goles a tres.
+
+El rival era el Bayer Leverkusen. Raúl marcó pronto, y el Leverkusen empató cinco minutos después. Y justo antes del descanso llegó el momento.
+
+[pause] Roberto Carlos, desde la izquierda, colgó un balón alto hacia la frontal del área. Zinedine Zidane, llegado de la Juventus el año anterior, lo esperó. Acomodó el cuerpo y le pegó de volea con la izquierda, en teoría su pierna mala. [long pause] Gol.
+
+La revista francesa France Football lo eligió después el gol más bonito de la historia de la Champions League.
+
+Pero la final no había terminado. [quietly] En la segunda parte se lesionó César, el portero del Madrid. Entró un suplente de veinte años llamado Iker Casillas. En los últimos minutos el Leverkusen tuvo ocasión tras ocasión, y él hizo las paradas que salvaron la ventaja. Doce años después, ese mismo portero sería el capitán que levantaría la copa número diez.
+
+Así que, ante la copa número nueve, imagine dos cosas: una volea que aún se repite, y un portero de veinte años que la hizo valer.
+
+Quédese cerca, aquí en el museo, para la época de esa volea: los Galácticos.

@@ -1,0 +1,28 @@
+@id: 001 · DE · Outside · Castellana · 23 Oct 2026 edition
+@section: Opening
+@room: Outside · Castellana
+@type: ANCHOR
+@title: Willkommen im Bernabéu
+@where: Draußen vor dem Stadion, auf der Seite des Paseo de la Castellana, nahe der Ecke zur Avenida de Concha Espina, wo der Tour-Eingang des Vereins liegt. Jeder Platz mit Blick auf die geschwungenen Stahlbänder der Fassade ist gut.
+@what: What the Tour Bernabéu covers as of October 2026: the top-tier panoramic view, the museum, the home dressing room, the benches, the store; about two hours, many stairs; the two kinds of day that change the order; the pitch kept underground except for matches.
+@listen: What this visit is, the order it usually runs in, and what to do if your day is different.
+@brief: A warm, unhurried host meeting a guest at the gate, getting the practical things said clearly before the stories begin.
+@pace: medium
+@energy: 3→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu/individual (OFF, via research/TOUR_ROUTE_OCT2026.md: entrance directly on Avda. Concha Espina; route "includes numerous staircases"; dressing rooms and benches closed on match day and the day before; grass "will remain underground in its maintenance area and will only be installed on the surface for matches") ; https://www.realmadrid.com/es-ES/tour-bernabeu (OFF, FACTS F2: "el césped permanece bajo tierra salvo en día de partido"; 15 European Cups) ; https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF: zones museum, panoramic, dressing rooms, benches, store; tour ends at the store) ; https://www.esmadrid.com/informacion-turistica/estadio-santiago-bernabeu + https://www.civitatis.com/es/madrid/tour-estadio-santiago-bernabeu/ (SEC2: entrance at the Castellana / Concha Espina corner) ; route order panoramic first then museum: SEC2 visitor evidence (TOUR_ROUTE §1) ; about two hours: SEC2 2026 visitor reports (TOUR_ROUTE §4), framed as "most people"
+@lang: de
+@translation: from the fact-checked English Bernabéu 001 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Die meisten, die dieses Stadion besuchen, erwarten vor allem eines: einen perfekten grünen Rasen. An den meisten Tagen gibt es ihn nicht. [pause] Der Rasen liegt unter der Erde, und genau das ist eine der besten Geschichten dieses Gebäudes. Willkommen im Bernabéu, der Heimat von Real Madrid.
+
+Dieser Audioguide begleitet Sie durch die Tour Bernabéu des Vereins. Die meisten Besuche dauern etwa zwei Stunden, und der Verein weist darauf hin, dass der Weg sehr viele Treppen hat. Sie gehen am Tour-Eingang an der Avenida de Concha Espina hinein, nahe der Ecke zum Paseo de la Castellana. Meist führt der Weg zuerst nach oben, in den obersten Rang, zum Blick über das ganze Stadion. Dann geht es hinunter durch das Museum mit seinen fünfzehn Europapokalen. Danach folgen die Heimkabine, die Trainerbänke auf Spielfeldhöhe und schließlich der Store, wo die Tour endet.
+
+Spielen Sie den Guide der Reihe nach, und jede Station sagt Ihnen, wohin es weitergeht. [pause] Zwei Arten von Tagen ändern diese Reihenfolge. Hier sind sie, einmal und ganz klar.
+
+An einem Spieltag und am Tag davor schließt der Verein die Kabine und die Trainerbänke. Den Panoramablick und das Museum sehen Sie trotzdem. Am Ende des Museums sagt Ihnen der Guide, was Sie stattdessen spielen.
+
+Und an manchen Tagen schickt das Personal die Besucher vor dem Panoramablick ins Museum. Wenn das passiert, spielen Sie die ersten drei Stationen hier draußen und springen dann zu Nummer neun. Der Guide bringt Sie danach hinauf zum Panoramablick.
+
+[lightly] Noch ein letztes Wort zum Rasen. Laut Verein bleibt das Spielfeld außer bei Spielen unter der Erde. Erwarten Sie von oben also einen kahlen Boden statt einer Wiese. Sie erfahren noch genau, warum er dort unten liegt und wohin er fährt.
+
+Bevor Sie hineingehen, bleiben Sie kurz draußen auf der Seite der Castellana. Schauen Sie hinauf zum Stahl, der das Stadion umhüllt.

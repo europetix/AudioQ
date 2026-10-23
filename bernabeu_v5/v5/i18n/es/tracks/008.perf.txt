@@ -1,0 +1,24 @@
+@id: 008 · ES · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: X
+@title: Panorámica · Extra · Miedo escénico
+@where: En cualquier punto de la barandilla panorámica con las gradas empinadas a la vista, antes de dejar la grada superior para ir al museo.
+@what: "Miedo escénico", stage fright: the phrase Jorge Valdano popularised for what the Bernabéu does to visiting teams, borrowed from Gabriel García Márquez; his essay in Revista de Occidente, 1986; the UEFA Cup comeback against Borussia Mönchengladbach, round of 16, 1985–86 (lost 5–1 away; return leg 11 December 1985, won 4–0 here, through on away goals; Valdano 2, Santillana 2).
+@listen: Where the Bernabéu's famous "stage fright" comes from, and the comeback night behind it.
+@brief: A short aside at the rail, half-conspiratorial, telling the story behind a phrase every fan here knows; quick and lively, landing softly.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.publico.es/deportes/dictadura-miedo-escenico.html (read 23 Oct 2026: Valdano borrowed "miedo escénico" from García Márquez; essay published in 1986 in Occidente while still a player; applied to Madrid's European comeback nights of the 1980s) + https://diariodeavisos.elespanol.com/2019/11/suenos-de-futbol-25-anos-despues/ (read 23 Oct 2026: essay in Revista de Occidente titled "El miedo escénico", from a García Márquez expression about the ordeal of speaking in public, applied to the panic of visiting teams at the Bernabéu) (SEC2, FACTS F1) ; https://www.realmadrid.com/en-US/news/club/latest-news/se-cumplen-40-anos-de-la-remontada-al-borussia-monchengladbach-11-12-2025 (OFF, read 23 Oct 2026: 11 Dec 1985, UEFA Cup, lost 5–1, won 4–0; Valdano 6' and 18', both headers; Santillana 77' and 89') + https://www.uefa.com/uefaeuropaleague/news/00c6-0e6a0c0550af-336d9d81fb43-1000--1985-86-madrid-the-comeback-kings (OFF-UEFA, read 23 Oct 2026: 5–1 down, won 4–0 at home, through on away goals; "their greatest comeback") ; Valdano's own essay wording not quoted (only one source found for it)
+@lang: es
+@translation: from the fact-checked English Bernabéu 008 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] El fútbol español tiene un nombre para lo que este estadio provoca en los visitantes. Miedo escénico.
+
+La expresión la hizo famosa Jorge Valdano, un delantero argentino del Real Madrid en la década de 1980. No la inventó: la tomó del novelista Gabriel García Márquez, que la había usado para hablar del pavor a enfrentarse al público. Más tarde, Valdano escribió un ensayo con ese título para la española Revista de Occidente.
+
+Sabía de qué hablaba: lo había vivido en el campo. En el otoño de 1985, el Real Madrid perdió por cinco goles a uno en casa del Borussia Mönchengladbach, en la Copa de la UEFA. De vuelta aquí, en diciembre, Valdano marcó dos de cabeza en los primeros veinte minutos. Santillana añadió otros dos, el último en el minuto ochenta y nueve. Cuatro goles a cero, y el Madrid pasó por los goles en campo contrario.
+
+[pause] Mire esas gradas empinadas, e imagínelas llenas y rugiendo, desde el lado del rival. Esa era la idea de Valdano.
+
+El recorrido baja ahora al museo. Si ya ha visto el museo hoy, siga al vestuario y reproduzca el número veintitrés. Si el vestuario está cerrado hoy, vaya a la tienda y reproduzca el número veintisiete.

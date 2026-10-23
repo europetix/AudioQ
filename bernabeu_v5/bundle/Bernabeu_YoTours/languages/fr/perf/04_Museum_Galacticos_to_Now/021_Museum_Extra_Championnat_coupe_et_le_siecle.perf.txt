@@ -1,0 +1,24 @@
+@id: 021 · FR · Museum · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum
+@type: X
+@title: Musée · Extra · Championnat, coupe et le siècle
+@where: Au musée, là où se trouvent les trophées de championnat et de coupe, ou le trophée FIFA du meilleur club du vingtième siècle, avant de quitter le musée.
+@what: 36 Ligas (first 1931–32, unbeaten, under the name Madrid F.C.) and 20 Copas del Rey (first 1905) as of autumn 2026; nine world club titles in the club's own count; the FIFA trophy for the best club of the 20th century, presented in Rome on 11 December 2000.
+@listen: The everyday trophies behind the European Cups, and the one award that covers a whole century.
+@brief: A quick, slightly wry aside in front of the less famous silverware, landing on a proud fact told plainly.
+@pace: medium
+@energy: 3→3
+@sources: https://www.realmadrid.com/es-ES/el-club/palmares/futbol (OFF, read 23 Oct 2026: 36 Ligas, first 1931-32, last 2023-24; 20 Copas del Rey, first 1905, last 2022-23; 9 "Mundiales de Clubes"; "Trofeo FIFA al mejor club del siglo XX", 11 December 2000) ; https://www.realmadrid.com/static/sobre-el-real-madrid/historia/futbol/1931-1940 (OFF, read 23 Oct 2026: April 1931, with the Second Republic, the crown disappears from the badge and the club is again called Madrid F.C.; 1931-32 league won "campeón invicto") ; https://www.realmadrid.com/en-US/news/club/latest-news/hace-25-anos-el-real-madrid-fue-elegido-mejor-club-del-siglo-xx-11-12-2025 (OFF, read 23 Oct 2026: 11 December 2000, gala in Rome, more than 42% of the votes, Manchester United 9.69%, Bayern 9.18%, collected by Florentino Pérez and Alfredo Di Stéfano) ; world club titles wording per FACTS B4 (OFF: the club's nine merges Intercontinental Cups and FIFA club competitions) ; https://www.realmadrid.com/en-US/tour-bernabeu (OFF: "You will be able to see the FIFA Trophy for the best club of the 20th century"; photo stop optional purchase per https://www.realmadrid.com/es-ES/tour-bernabeu/individual/classic-individual)
+@lang: fr
+@translation: from the fact-checked English Bernabéu 021 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Dans ce musée, les Coupes d'Europe sont sous les projecteurs. Mais ce qui remplit les saisons ordinaires d'un club, c'est le championnat et la coupe.
+
+À l'automne 2026, le Real Madrid compte trente-six titres de champion d'Espagne et vingt Copas del Rey, la Coupe du Roi. La première coupe date de 1905. Le premier titre de champion est arrivé lors de la saison 1931-1932, sans la moindre défaite. Et sous un nom plus simple. L'année précédente, quand l'Espagne était devenue une république, la couronne avait quitté l'écusson, et le club était redevenu simplement Madrid Football Club.
+
+Ajoutez neuf titres mondiaux des clubs, selon le décompte du club, qui associe l'ancienne Coupe intercontinentale aux compétitions de clubs de la FIFA.
+
+[pause] Puis vient l'intrus. Le 11 décembre 2000, lors d'un gala à Rome, la FIFA a désigné le Real Madrid meilleur club du vingtième siècle, avec plus de quarante-deux pour cent des voix. Manchester United suivait, avec moins de dix. Florentino Pérez et Alfredo Di Stéfano ont reçu le trophée ensemble. Aucune autre pièce de ce musée ne couvre un siècle entier.
+
+En quittant le musée, le parcours passe par un stand photo, où l'achat de la photo est libre, puis mène au vestiaire. Si le vestiaire est fermé aujourd'hui, ou si vous n'avez pas encore visité la tribune supérieure, écoutez le numéro vingt-deux.

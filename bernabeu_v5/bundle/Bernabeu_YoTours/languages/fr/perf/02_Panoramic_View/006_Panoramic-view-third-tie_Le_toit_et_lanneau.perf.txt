@@ -1,0 +1,28 @@
+@id: 006 · FR · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: W
+@title: Panorama · Le toit et l'anneau
+@where: Au niveau panoramique, en levant les yeux : le toit qui couvre le stade et, suspendu sous son bord intérieur, l'anneau continu d'écrans vidéo qui fait le tour de l'enceinte.
+@what: The retractable roof, 55 m above the ground, carried on supports in the towers on the Castellana and on Calle Padre Damián, closing in around a quarter of an hour; the roof steel as given by its fabricator; the 360° video scoreboard by Daktronics, 6.5 m high on the sides and corners, 11 m at the ends, tilted 8°, first used at the Clásico of 21 April 2024 (Real Madrid 3–2 Barcelona, Bellingham in stoppage time).
+@listen: How the roof stays up with no pillars in the stands, how long it takes to close, and the ring of screens that was switched on for a Clásico.
+@brief: Head tilted back beside a friend, explaining the engineering overhead in plain words; curious, a touch wry about the screen, lifting at the Clásico.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/news/club/latest-news/all-the-latest-news-at-the-santiago-bernabeu-in-the-21st-century (OFF, read 23 Oct 2026: retractable roof installed 55 m above the ground; the new towers on the Castellana are a structural support for the roof; "the other two supports for the roof are on Calle Padre Damián") ; https://www.iasoglobal.com/en/stories/iaso-covers-the-santiago-bernabeu/ + https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/con-750-millones-se-reformo-en-90-dias-asi-es-el-nuevo-estadio-del-real-madrid-nid07092023/ (SEC2 via FACTS C8: closes in under 15 / 15 to 20 minutes, scripted "around a quarter of an hour") ; https://www.constructionbriefing.com/news/building-real-madrids-new-roof-with-lightweight-steel/8049238.article + https://www.all-about-industries.com/premium-steel-for-the-estadio-santiago-bernabeu-a-327e573d119ae38fdceebbbe006b802c/ (read 23 Oct 2026; both report the fabricator Horta Coslada: about 12,000 to 13,000 t of steel for the roof, about 20,000 t with other steel grades; single origin, so attributed to the builders and given as a range, WEAK) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-santiago-bernabeu-estrena-su-espectacular-videomarcador-360-21-04-2024 (OFF via FACTS C16: 360° screen hung from the roof, 6.5 m high on sides and corners, 11 m at the ends, inclined 8°, truncated cone, Daktronics, debut at the Clásico on 21 April 2024, only two other stadiums worldwide, both in the US, have one) ; https://www.skysports.com/football/news/11095/13120680/real-madrid-3-2-barcelona-jude-bellingham-hits-stoppage-time-el-clasico-winner + https://www.beinsports.com/en-us/soccer/la-liga/articles/jude-bellingham-is-real-madrids-el-clasico-hero-to-tighten-grip-on-laliga-title-2024-04-21 (SEC2: Real Madrid 3–2 Barcelona, 21 April 2024, Bellingham stoppage-time winner) ; no Eiffel Tower comparison, no screen area, no "largest" claim
+@lang: fr
+@translation: from the fact-checked English Bernabéu 006 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Aucun pilier de ces tribunes ne soutient le toit au-dessus de vous. [pause] Tout est porté depuis les bords du stade.
+
+Selon le club, le toit s'appuie sur des supports intégrés aux tours côté Castellana, et sur deux autres en face, rue Padre Damián. Entre eux passent d'énormes poutres en treillis d'acier. Le club place le toit mobile à cinquante-cinq mètres du sol. L'entreprise qui a construit ces poutres affirme que le toit a demandé environ douze mille tonnes d'acier, bien moins qu'avec un acier ordinaire.
+
+Le centre du toit peut se fermer au-dessus de l'aire de jeu, puis se rouvrir. La fermeture prend environ un quart d'heure. Une fois fermé, toute l'enceinte est à couvert.
+
+Baissez maintenant un peu les yeux, vers l'anneau d'écrans suspendu sous le bord intérieur du toit. Le club parle d'un tableau d'affichage vidéo à trois cent soixante degrés, un seul anneau qui fait tout le tour. Sa hauteur varie. Sur les côtés et dans les angles, il mesure six mètres et demi. Derrière chaque but, il monte à onze mètres. Et chaque panneau est incliné de huit degrés, si bien que l'anneau n'est pas du tout un mur droit. C'est un cône très ouvert, tronqué au sommet.
+
+[wry] Le club reste prudent. Il ne revendique pas une première mondiale. Il dit que seuls deux autres stades, tous deux aux États-Unis, avaient quelque chose de comparable. L'anneau a été construit par l'entreprise américaine Daktronics.
+
+[warmly] Sa première soirée, ce fut le Clásico contre Barcelone, le 21 avril 2024. Le Real Madrid a gagné trois buts à deux. Le but de la victoire est signé Jude Bellingham, dans le temps additionnel, et le nouvel anneau tenait son premier grand but.
+
+Regardez maintenant en bas, depuis la rambarde, le sol du stade, et ce qui le couvre, ou non, aujourd'hui.

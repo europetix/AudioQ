@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built)
 
 Paste this into the new session to start:
 
@@ -21,6 +21,7 @@ Paste this into the new session to start:
 | `orsay_v5/` | Musée d'Orsay, V5: 75 tracks, EN only so far. Handshake: `ORSAY_V5_HANDSHAKE.md` |
 | `prado_v5/` | Museo del Prado, V5: 81 tracks, EN + ES/FR/DE. Handshake: `PRADO_V5_HANDSHAKE.md` |
 | `reina_v5/` | Museo Reina Sofía, V5: 57 tracks (43 main + 14 Extras), EN + ES/FR/DE. Handshake: `REINA_V5_HANDSHAKE.md` |
+| `bernabeu_v5/` | Tour Bernabéu (stadium), V5: 28 tracks (23 main + 5 Extras), EN + ES/FR/DE, three cases. Handshake: `BERNABEU_V5_HANDSHAKE.md` |
 | `deliverables/` | Everything sent to the user: zips, route PDFs, scripts (.md), snapshots, image kit |
 
 The same structure is used inside each guide folder:
@@ -125,6 +126,9 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
   part, Extras as hollow circles). The user approved the map design after a redesign ("map looks good").
 - **Reina Sofía (17 Oct):** built "like the Prado": ~2 h main route + short Extras, 4 languages, Yo Tours sound and labels,
   phone route map. The museum's Floor 2 room plan is an image; it was read in the user's Chrome (one page).
+- **Bernabéu (23 Oct):** 60–75 min of audio covering three cases (full tour, match day, museum first); facts that change
+  few and dated; EN/ES/FR/DE; compared with the club's own loan-device guide.
+- **edge-tts (20 Oct):** Microsoft changed the service; edge-tts ≥ 7.3.0 is required (`python3 -m pip install --user --upgrade edge-tts`).
 - **Never complete CAPTCHAs / "verify you are human"** — the user clicks them. Never burst requests to a museum site (the Prado
   firewall blocked the user's browser once); one page at a time.
 
@@ -163,7 +167,10 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 | Reina Sofía V5 | 57 tracks (43 main + 14 Extras), 15,971 words; built 17 Oct from scratch (old guide 22/49 works still shown) | done + independent review per language | 5-page phone PDF (overview, Floor 1 + terrace, Floor 2 ×2, Floor 4) | stand-in: EN + ES samples, DE main stops | on-site checklist (doorway numbers, Room 102 wing, Gargallo, 205.08, way to the lifts from 206.03, Nouvel terrace); listening checks |
 
 Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
+| Bernabéu V5 | 28 tracks (23 main + 5 Extras), ~7,800 words, ~62 min; three cases (full / match day / museum first) | done + independent review per language | 2-page route sheet by zone (no official plan) | stand-in: EN full, ES samples, FR main stops | on-site checklist; 019 after 26 Oct Ballon d'Or; 028 re-record when the metro reopens (Q1 2027) |
+
 Reina Sofía detail: see `reina_v5/REINA_V5_HANDSHAKE.md`.
+Bernabéu detail: see `bernabeu_v5/BERNABEU_V5_HANDSHAKE.md`.
 Orsay detail: see `orsay_v5/ORSAY_V5_HANDSHAKE.md`.
 - **Official plan:** `orsay_v5/source/Planguide_Orsay_ete_2026.pdf`, read out in `orsay_v5/findings/M_planguide_ete_2026.md`.
 - **Numbering:** history in `orsay_v5/v5/notes/RENUMBER_75.md`. `v5/PLAN.md` still has the OLD numbering, so use the tracks or

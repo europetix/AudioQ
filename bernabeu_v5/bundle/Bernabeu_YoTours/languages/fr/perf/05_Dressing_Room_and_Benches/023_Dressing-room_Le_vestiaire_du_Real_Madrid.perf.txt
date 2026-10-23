@@ -1,0 +1,30 @@
+@id: 023 · FR · Dressing room · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Dressing room
+@type: W
+@title: Vestiaire · Le vestiaire du Real Madrid
+@where: Dans le vestiaire de l'équipe première, celui de l'équipe à domicile, à n'importe quel endroit d'où l'on voit les places des joueurs le long des murs.
+@what: The Vestuario del Primer Equipo (first-team, home dressing room), closed to visitors on match days and the day before; the half-time interval of at most 15 minutes in the Laws of the Game; half-time here on 9 March 2022, Real Madrid one down to Paris Saint-Germain, two down on aggregate.
+@listen: The one room on the tour that still has a job to do, and what fifteen minutes in it can mean.
+@brief: Speaking a little lower than before, as if the team might walk back in; honest about what nobody outside knows, then warm.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.realmadrid.com/es-ES/tour-bernabeu/individual/classic-individual (OFF, read 23 Oct 2026: "¡Descubre además el vestuario del Primer Equipo!"; "Vestuarios, el lugar por donde han pasado los mejores jugadores del mundo") ; https://www.realmadrid.com/en-US/tour-bernabeu (OFF, read 23 Oct 2026: locker rooms and benches not accessible on match days or the day before) ; https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match (OFF, Laws of the Game, read 23 Oct 2026: half-time interval "not exceeding 15 minutes"; two halves of 45 minutes) ; https://www.uefa.com/uefachampionsleague/news/0273-14a076282e68-eac8f8c8c071-1000--real-madrid-3-1-paris-agg-3-2-benzema-hat-trick-earns-comeback-/ (OFF-UEFA, read 23 Oct 2026: 9 March 2022, round of 16 second leg in Madrid, Mbappé 39', Paris led 2-0 on aggregate) + https://www.theweek.in/news/sports/2022/03/10/benzema-scores-hat-trick-madrid-rallies-to-oust-psg-from-cl.html (AP, read 23 Oct 2026: at the Santiago Bernabéu) ; players' names and shirts on display: WEAK (miradormadrid, TOUR_ROUTE §1), on-site check, so spoken conditionally
+@lang: fr
+@translation: from the fact-checked English Bernabéu 023 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] De toutes les salles de cette visite, c'est la seule qui sert encore. [pause] C'est pour cela qu'elle ferme. Les jours de match, et la veille, le club la ferme aux visiteurs, et elle appartient de nouveau à l'équipe.
+
+Le club parle du vestiaire de l'équipe première. C'est ici que les joueurs du Real Madrid enfilent le maillot blanc avant un match à domicile, et ici qu'ils reviennent à la fin de la première période. Vous trouverez peut-être la place de chaque joueur marquée de son nom et de son maillot. Si c'est le cas aujourd'hui, cherchez les noms que vous connaissez, et regardez qui est assis à côté de qui.
+
+Pensez maintenant à la mi-temps. Les Lois du jeu n'accordent pas plus de quinze minutes entre les deux périodes. Pendant ce temps, les joueurs rentrent du terrain, s'assoient à ces places, et écoutent. Puis ils ressortent.
+
+[curious] Que se dit-il ici ? Honnêtement, personne de l'extérieur ne le sait. Le club ne le publie pas, et ce guide ne l'inventera pas. Mais parfois, le tableau d'affichage dit comment s'est passée une mi-temps.
+
+Le 9 mars 2022, le Real Madrid est rentré dans cette partie du stade à la mi-temps, mené d'un but par le Paris Saint-Germain. Kylian Mbappé avait marqué pour Paris six minutes avant la pause. Sur l'ensemble des deux matchs, Madrid avait deux buts de retard, et quarante-cinq minutes pour sauver sa saison européenne. [pause] La suite, c'est une histoire pour les bancs de touche, en bas, au niveau du terrain.
+
+Pour l'instant, regardez la pièce telle qu'elle est aujourd'hui. Imaginez chaque place occupée, la porte fermée, et quinze minutes au chronomètre.
+
+[warmly] Un quart d'heure, et une pièce comme celle-ci. Certains soirs, dans ce stade, cela a suffi.
+
+D'ici, le parcours vous fait descendre au niveau du terrain, vers les bancs de touche.

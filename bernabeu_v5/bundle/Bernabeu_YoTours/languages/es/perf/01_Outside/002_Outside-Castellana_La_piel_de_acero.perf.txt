@@ -1,0 +1,28 @@
+@id: 002 · ES · Outside · Castellana · 23 Oct 2026 edition
+@section: Outside · The building and the man
+@room: Outside · Castellana
+@type: W
+@title: Exterior · La piel de acero
+@where: Fuera, del lado del Paseo de la Castellana, lo bastante lejos del estadio para ver las largas bandas curvas de acero inoxidable que lo rodean por completo.
+@what: The 2019 to 2026 rebuild of the 1947 stadium: gmp with L35 and Ribas & Ribas, competition won 2014, works from June 2019; home games at the Alfredo Di Stéfano stadium at the training ground until September 2021; the old building largely kept and wrapped in a stainless-steel louvre facade with gaps for natural ventilation; cost of about 1.4 billion to 30 June 2026 in the club's accounts.
+@listen: How the old stadium was kept and wrapped in a new steel skin while football went on, and what it cost.
+@brief: Standing on the pavement with a friend, looking up at the building and explaining the trick behind it; curious, then frank about the bill, then quietly pleased at the last line.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.gmp.de/en/bernabeu (OFF, the architects, read 23 Oct 2026: 2014 competition won by gmp with L35 Arquitectos and Ribas & Ribas; curved outer shell of stainless steel louvres; horizontal gaps for natural ventilation; LEDs planned to light the facade at night; existing building largely retained and enclosed by the new facade; construction began June 2019; stadium opened 1947) ; https://arquitecturaviva.com/obras/remodelacion-del-estadio-santiago-bernabeu (SEC2 via FACTS C1/C3: architects, louvres) ; https://www.si.com/soccer/2021/09/09/real-madrid-bernabeu-stadium-return + https://www.football-espana.net/2021/08/26/real-madrid-santiago-bernabeu-return (SEC2, read 23 Oct 2026: home games at the small Alfredo Di Stéfano stadium at the training complex, Valdebebas, for about a year; first match back v Celta in September 2021; last match there before 1 March 2020) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-real-madrid-cierra-la-temporada-2025-2026-con-los-mayores-ingresos-y-el-mayor-ebitda-de-su-historia-28-07-2026 (OFF via FACTS C17: 1,407.7 million cumulative cost to 30 June 2026, works "prácticamente finalizada") ; slat count and steel maker deliberately omitted (FACTS C5, C6)
+@lang: es
+@translation: from the fact-checked English Bernabéu 002 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] El estadio que tiene delante son, en realidad, dos edificios, uno dentro del otro. El de dentro se inauguró en 1947. El de fuera se construyó a su alrededor, casi siempre mientras seguía el fútbol.
+
+El proyecto que ganó el concurso fue del estudio alemán de arquitectos ge eme pe, junto con dos estudios españoles, ele treinta y cinco y Ribas y Ribas. Decidieron no derribar el viejo estadio. Mantuvieron en pie casi todo, y lo encerraron en una piel nueva. Las obras empezaron en el verano de 2019.
+
+El fútbol siguió, pero durante un tiempo tuvo que mudarse. Durante más de un año, en las temporadas de la pandemia, el Real Madrid jugó como local en el pequeño estadio Alfredo Di Stéfano. Está en el centro de entrenamiento del club, en las afueras de la ciudad. Luego el equipo volvió aquí, y las obras siguieron alrededor de los partidos, temporada tras temporada.
+
+[wry] No fue un truco barato, y se encareció por el camino. Al cierre de junio de 2026, las cuentas del propio club situaban el coste total en unos mil cuatrocientos millones de euros. El club da las obras por prácticamente terminadas.
+
+Ahora mire la piel. No es un muro. Es una cortina de lamas de acero inoxidable, largas bandas curvas con huecos entre ellas. Esos huecos están ahí a propósito. Dejan pasar el aire, para que el estadio se ventile de forma natural. Leerá cifras muy distintas sobre cuántas bandas hay, así que dejaremos el número en paz. Lo que sí se ve es cómo el acero toma el color del cielo. Los arquitectos también previeron iluminar la fachada de noche.
+
+[pause] Si se queda aquí un rato, apenas parece un campo de fútbol. Y sin embargo, detrás de todo ese acero, sigue en pie el estadio de hormigón de 1947.
+
+Quédese unos minutos más aquí, del lado de la Castellana. La siguiente parada trata del hombre que da nombre al edificio.

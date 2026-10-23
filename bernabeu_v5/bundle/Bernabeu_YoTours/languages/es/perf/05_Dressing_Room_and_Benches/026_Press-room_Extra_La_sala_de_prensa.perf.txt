@@ -1,0 +1,24 @@
+@id: 026 · ES · Press room · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Press room
+@type: X
+@title: Sala de prensa · Extra · La sala de prensa
+@where: Solo si la sala de prensa está abierta durante su visita: dentro, en cualquier punto desde donde vea la parte delantera de la sala, donde se responden las preguntas.
+@what: The press room, offered by the club only as a temporary visit "subject to availability"; what a press conference here is; UEFA's Champions League rule that each club holds a press conference the day before a match with its head coach and at least one player, the visiting club normally in the match stadium.
+@listen: Why the person talking in this room the night before a big European game is often the visiting coach.
+@brief: A quick, knowing aside in a room most visitors only see on television; light, a little wry.
+@pace: medium
+@energy: 3→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu (OFF, read 23 Oct 2026: "Includes temporary visit to press room subject to availability") ; https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2025/26/Article-79-Media-activities-on-the-day-before-the-match-Online (OFF-UEFA, read 23 Oct 2026: art. 79.04 each pre-match press conference attended by the head coach and at least one player; 79.05 press conferences must take place in the stadium where the match will be played, the home club may hold its own at its training ground, visiting clubs only elsewhere in exceptional cases approved by UEFA) ; post-match regulations page could not be fetched (permission timeout), so no post-match rule is stated ; no anecdotes used
+@lang: es
+@translation: from the fact-checked English Bernabéu 026 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] La víspera de un gran partido europeo aquí, quien responde a las preguntas en este edificio a menudo ni siquiera es del Real Madrid.
+
+Le explico por qué. Según las normas de la UEFA para la Champions League, cada club da una rueda de prensa el día antes del partido. Comparecen su primer entrenador y al menos un jugador. El equipo visitante normalmente tiene que darla en el estadio del partido. El club local puede dar la suya en su centro de entrenamiento. Así que, cuando los grandes de Europa vienen al Bernabéu, sus entrenadores suelen ponerse primero ante las cámaras en este estadio.
+
+El club abre esta sala a los visitantes solo algunos días, como visita temporal, sujeta a disponibilidad. Si está dentro ahora, ve el otro lado de una imagen conocida. En televisión, solo se ve a quien responde. Aquí dentro, puede ver de dónde vienen las preguntas.
+
+[wry] Un partido dura noventa minutos. Las preguntas empiezan el día antes, y siguen mucho después del pitido final.
+
+Cuando quiera, siga hasta la tienda, donde termina el tour.

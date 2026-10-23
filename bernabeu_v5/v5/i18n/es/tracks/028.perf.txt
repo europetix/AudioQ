@@ -1,0 +1,28 @@
+@id: 028 · ES · Exit · 23 Oct 2026 edition
+@section: Closing
+@room: Exit
+@type: CLOSE
+@title: La salida y la despedida
+@where: Al final de la tienda, al salir del estadio. Si el letrero de la calle dice Calle Padre Damián, está en el lado este del estadio, frente al lado de la Castellana, por donde entró.
+@what: The tour ends in the store; the exit street, likely Calle Padre Damián (on-site check); Metro Line 10 suspended between Cuzco and Nuevos Ministerios, including the stadium's station, until the end of 2026, new station due in early 2027; the free S10 replacement bus on the Paseo de la Castellana by Plaza de Lima; Cercanías and Metro lines 6 and 8 at Nuevos Ministerios; a short send-off.
+@listen: How to get away from the stadium while its metro station is closed, and a last look back at the visit.
+@brief: A host walking a guest to the door: clear and practical first, then unhurried and warm for the goodbye.
+@pace: medium-slow
+@energy: 3→2
+@sources: tour ends at the store: brochure July 2026 https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF, via TOUR_ROUTE §1) ; flagship store on Calle Padre Damián, east side: https://www.realmadrid.com/es-ES/noticias/club/actualidad/nueva-tienda-05-06-2024 (OFF, via TOUR_ROUTE §1, §5); that visitors exit there is an inference (on-site check), so spoken conditionally ; https://www.crtm.es/alternativas-transporte-corte-linea-10-cuzco-nuevos-ministerios (OFF*, page "Actualizado: septiembre 2026", read 23 Oct 2026: Line 10 Cuzco–Nuevos Ministerios closed from 28 March 2026 until the end of the year, Santiago Bernabéu station being renewed; S10 replacement bus Plaza de Castilla–Cuzco–Santiago Bernabéu–Nuevos Ministerios, no extra cost for Metro travellers; stops Castellana 93 southbound and 136/140 northbound; Cercanías between Nuevos Ministerios and Chamartín) ; new station due Q1 2027: https://www.comunidad.madrid/node/68200 (OFF*, via TOUR_ROUTE §5) ; S10 free and at Plaza de Lima: TOUR_ROUTE §1 and §5 (OFF* + SEC2) ; Metro lines 6 and 8 at Nuevos Ministerios: AUDIT track 020 row (CRTM) ; first stone 27 October 1944 (FACTS A6b, SEC2) and name from 1955 (FACTS A10, OFF) ; grass underground except for matches (OFF) ; half-time limit (Laws of the Game, see 023)
+@lang: es
+@translation: from the fact-checked English Bernabéu 028 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Empezó esta visita fuera, con un hombre y una apuesta. Una primera piedra colocada en 1944, y un estadio que tomó su nombre once años después. La termina aquí, en la puerta, entre camisetas blancas.
+
+Primero, el camino de vuelta. El personal le indicará la salida de la tienda. Si el letrero dice Calle Padre Damián, está en el lado este del estadio, el lado opuesto a donde entró.
+
+En otoño de 2026, la estación de metro del estadio está cerrada por obras. La línea diez está suspendida en este tramo hasta final de año, y la nueva estación se espera a principios de 2027. Así que no hay tren aquí mismo.
+
+En su lugar, rodee el estadio hasta la Castellana, la gran avenida donde empezó la visita. El autobús sustitutorio ese diez no tiene coste adicional para los viajeros de Metro. Tiene parada allí, junto a la plaza de Lima, a ambos lados de la avenida. Hacia el sur, le lleva a Nuevos Ministerios. Hacia el norte, a Plaza de Castilla. O baje a pie por la Castellana hasta Nuevos Ministerios, para los trenes de Cercanías y las líneas seis y ocho de Metro.
+
+[pause] Antes de irse, repase lo que ha visto. Un césped bajo tierra salvo para los partidos. Una sala donde quince minutos pueden cambiar una noche. Un banquillo que pocos entrenadores conservan mucho tiempo. Y quince Copas de Europa, con un hueco de treinta y dos años en medio.
+
+[quietly] La próxima vez que este estadio salga en su pantalla, en una gran noche, lo verá distinto. Sabrá adónde va ese césped entre partidos, quién mira desde el banquillo, y qué significa el reloj al final.
+
+[warmly] Gracias por recorrerlo conmigo. Hasta la próxima.

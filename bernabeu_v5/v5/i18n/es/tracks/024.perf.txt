@@ -1,0 +1,28 @@
+@id: 024 · ES · Benches · pitchside · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Benches · pitchside
+@type: W
+@title: Banquillos · La vista desde el banquillo
+@where: A ras de campo, junto a los banquillos, al lado del terreno de juego, con las gradas alzándose a su alrededor.
+@what: Miguel Muñoz, captain of the first European Cup winners, then coach for 14 consecutive years from 1960 (605 matches, 14 titles); Carlo Ancelotti matching that record on 14 August 2024 and leaving in May 2025 with 15, the most in club history; Xabi Alonso (June 2025 to January 2026), Álvaro Arbeloa (January to June 2026); José Mourinho, coach since June 2026, second spell (first 2010–13); the stadium seen from pitch level.
+@listen: Who has sat on this bench, how long the seat has been kept, and what the stadium looks like from the bottom.
+@brief: Standing at the touchline with a friend, looking up; respectful about the long-serving names, wry about how quickly the seat changes hands.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/es-ES/noticias/club/actualidad/36-anos-sin-miguel-munoz-16-07-2026 (OFF, read 23 Oct 2026: player 1948–1958, captain who lifted the first Copa de Europa; coach 1960–1974, "14 años consecutivos"; 605 matches, club record; 14 titles incl. two Copas de Europa and nine Ligas) ; https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/ancelotti-iguala-a-miguel-munoz-como-el-entrenador-con-mas-titulos-en-el-real-madrid-14-08-2024 (OFF, read 23 Oct 2026: 14 August 2024, UEFA Super Cup, Ancelotti equals Muñoz as the coach with most trophies) ; Ancelotti 15 titles, most in club history, left May 2025: FACTS D8 (OFF) ; Xabi Alonso June 2025 to 12 January 2026, Arbeloa January to June 2026: FACTS D10 (SEC2) ; Mourinho appointed 11 June 2026, second spell, first 2010–13: FACTS D11 (SEC2: PA via irishnews.com, guardian.ng) ; benches "a pie de campo": https://www.realmadrid.com/es-ES/tour-bernabeu/individual/classic-individual (OFF) ; grass underground except for matches, other elements may be on the pitch: https://www.realmadrid.com/en-US/tour-bernabeu (OFF) ; 360° screen ring hung from the roof: FACTS C16 (OFF)
+@lang: es
+@translation: from the fact-checked English Bernabéu 024 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Durante catorce años seguidos, un hombre dirigió este club desde el banquillo. Miguel Muñoz ya había sido el capitán del Real Madrid en la primera Copa de Europa. Luego, desde 1960, fue su entrenador. Seiscientos cinco partidos, todavía récord del club. Otras dos Copas de Europa, nueve Ligas, catorce títulos en total.
+
+Esos catorce títulos fueron el récord del club durante medio siglo. En agosto de 2024, Carlo Ancelotti lo igualó. Cuando se fue, en mayo del año siguiente, tenía quince, más que ningún otro entrenador en la historia del Real Madrid.
+
+Desde entonces, el puesto ha sido todo menos estable. Xabi Alonso llegó ese verano y se fue en enero. Álvaro Arbeloa se hizo cargo el resto de la temporada. Y en otoño de 2026, el entrenador es José Mourinho, de vuelta desde junio de 2026 para una segunda etapa. La primera había terminado más de una década antes.
+
+[pause] Ahora mire hacia arriba. Desde la grada superior, el estadio cae bajo sus pies. Aquí abajo ocurre lo contrario. Las gradas se alzan sobre usted, una tras otra, hasta la cubierta y el largo anillo de pantallas que cuelga de ella. Esta es la vista de un entrenador durante noventa minutos, y desde cada uno de esos asientos lo están mirando.
+
+Mire también el suelo que tiene delante. Puede estar desnudo, o con maquinaria encima. El club guarda el césped bajo tierra, en su propio almacén, y solo lo sube para los partidos. Las noches de partido, un entrenador está en este mismo sitio, con el césped a sus pies y todo el estadio encima.
+
+[warmly] La vista desde este banquillo es magnífica. Lo difícil es conservarla.
+
+Quédese aquí, en los banquillos, para las noches en que este estadio remontó en el último momento.

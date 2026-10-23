@@ -1,0 +1,28 @@
+@id: 018 · DE · Museum · trophy hall · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum · trophy hall
+@type: W
+@title: Trophäensaal · 2022 und 2024
+@where: An der Reihe der Europapokale, bei den Pokalen vierzehn und fünfzehn, den Trophäen von 2022 und 2024.
+@what: The 2022 run: comebacks against Paris Saint-Germain, Chelsea and Manchester City; final, Stade de France, Paris, 28 May 2022, 1–0 v Liverpool, Vinícius Júnior 59', Courtois player of the match. Wembley, 1 June 2024, 2–0 v Borussia Dortmund, Carvajal and Vinícius. Carlo Ancelotti: first coach to win four, then five; 15 titles with the club, the most of any coach; left May 2025.
+@listen: A season of impossible comebacks, two finals won, and the coach who won more with this club than anyone.
+@brief: A friend recalling a run of nights that felt unreal, smiling at the memory; lively, then steady and warm for Ancelotti.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/news/club/latest-news/cuarto-aniversario-de-la-decimocuarta-28-05-2026 (OFF, read 23 Oct 2026: 28 May 2022, Stade de France, 1–0 Liverpool, Vinícius 59'; Courtois MVP; PSG: lost in Paris, won at the Bernabéu with a Benzema hat-trick; Chelsea: Rodrygo 80' forced extra time, Benzema winner; City: lost first leg 4–3, behind 1–0 in the 89th minute, Rodrygo twice in two minutes, Benzema penalty in extra time; Ancelotti first coach to win the European Cup four times) ; Wembley 1 June 2024, 2–0 Dortmund, Carvajal and Vinícius late: FACTS B1 (OFF list + SEC2: dailydispatch.co.za, soccerway.com) ; https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/ancelotti-250-victorias-con-el-real-madrid-24-05-2025 (OFF, via FACTS D8: 15 titles, most in club history; 3 Champions Leagues with Madrid 2014, 2022, 2024; left May 2025) ; fifth as coach derived from "first to win four" (2022) + 2024 win; also audit S34 (UEFA)
+@lang: de
+@translation: from the fact-checked English Bernabéu 018 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Im Frühjahr 2022 war Real Madrid immer wieder auf dem Weg aus der Champions League. Und blieb dann, irgendwie, immer wieder drin.
+
+Gegen Paris Saint-Germain, gegen Chelsea, gegen Manchester City stand Madrid vor dem Aus. Jedes Mal drehte die Mannschaft das Spiel spät, hier in diesem Stadion. [pause] Zwei dieser Abende bekommen unten bei den Trainerbänken ihre eigene Geschichte, dort, wo sie passiert sind.
+
+Als Madrid das Finale in Paris gegen Liverpool erreichte, schien diese Mannschaft jeden Rückstand drehen zu können. Am Ende musste sie das gar nicht. Vinícius Júnior traf kurz vor der sechzigsten Minute. Torwart Thibaut Courtois hielt Ball um Ball, genug, um zum Spieler des Spiels gewählt zu werden. Eins zu null. Pokal vierzehn.
+
+Zwei Jahre später kam Wembley, gegen Borussia Dortmund. Zwei späte Tore, von Dani Carvajal und wieder von Vinícius, und Pokal fünfzehn. Stand Herbst 2026 ist er noch immer der jüngste.
+
+[warmly] Hinter beiden Pokalen stand derselbe Trainer, Carlo Ancelotti. In Paris gewann er als erster Trainer überhaupt zum vierten Mal den Europapokal. In Wembley folgte der fünfte. In seinen zwei Amtszeiten gewann er mit Real Madrid fünfzehn Titel, mehr als jeder andere Trainer der Vereinsgeschichte. Im Mai 2025 ging er.
+
+Schauen Sie auf diese letzten zwei Pokale. [pause] Sie gehören einer Mannschaft, die das Unmögliche zur Gewohnheit machte, und dem erfolgreichsten Trainer, den der Verein je hatte.
+
+Suchen Sie als Nächstes, noch im Museum, die goldenen Bälle in ihren Vitrinen: die Ausstellung zum Ballon d'Or.

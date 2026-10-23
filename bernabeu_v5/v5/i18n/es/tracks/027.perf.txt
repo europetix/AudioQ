@@ -1,0 +1,28 @@
+@id: 027 · ES · Store · 23 Oct 2026 edition
+@section: Store and closing
+@room: Store
+@type: W
+@title: Tienda · La camiseta blanca
+@where: En la tienda oficial al final del tour, en cualquier punto desde donde vea los percheros y las paredes de camisetas blancas de local.
+@what: Why Real Madrid plays in white (the Corinthian story, told as a story; the club's own history of its early years doesn't explain it); the shirt as identity and business: record revenue of 1,221 million euros in 2025-26 per the club's July 2026 accounts; top of the Deloitte Football Money League for the third year running (January 2026); stadium revenue 363 million euros; a club owned by its members.
+@listen: How a colour borrowed, the story goes, from English amateurs became the uniform of one of the richest clubs in the world.
+@brief: Relaxed and conversational among the racks, a touch amused about the shopping, honest about the money, warm at the close.
+@pace: medium
+@energy: 3→3→3
+@sources: https://www.realmadrid.com/static/sobre-el-real-madrid/historia/futbol/1902-1910 (OFF, read 23 Oct 2026: the club's history page does not say why the shirt is white) ; Corinthian story: https://www.goal.com/es/noticias/corinthian-el-club-de-londres-por-el-que-el-real-madrid-viste-de-blanco/366ulmi0s9qo1tpa6ih3pkofv (Goal, 31 Oct 2017, read 23 Oct 2026: white chosen in honour of Corinthian F.C., the London amateur club founded 1882) + https://www.flashscore.es/noticias/futbol-laliga-real-madrid-blanco-corinthians-descubre-historia/27DsWUJD/ (Flashscore, read 23 Oct 2026: "según la teoría más aceptada", Corinthian a byword for elegance and fair play) = SEC2 that this is the commonly told story; told as a story, details that differ between them (who proposed it, when) left out ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-real-madrid-cierra-la-temporada-2025-2026-con-los-mayores-ingresos-y-el-mayor-ebitda-de-su-historia-28-07-2026 (OFF, read 23 Oct 2026: 2025-26 operating revenue 1,221 million euros, highest in its history, the first time over 1,200 million, which the club says no other sports entity has reached; stadium revenue 363 million; "un club propiedad de sus socios") ; https://www.deloitte.com/fi/fi/about/press-room/real-madrid-tops-deloitte-football-money-league.html (Deloitte, 22 Jan 2026, read 23 Oct 2026: Real Madrid retains top spot, close to 1.2 billion euros in 2024/25) + https://www.realmadrid.com/en-US/news/club/latest-news/real-madrid-informe-2026-01-01-2026 (OFF, headline: "For the third year in a row, Real Madrid is the highest earning football club in the world according to Deloitte") ; racks of shirts in the store: assumed for a club store, not otherwise sourced
+@lang: es
+@translation: from the fact-checked English Bernabéu 027 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Desde hace más de un siglo, este club juega de blanco. Y la historia oficial de sus primeros años no dice por qué.
+
+La versión más contada es esta. En los primeros tiempos del fútbol en Madrid, quienes impulsaban el club admiraban al Corinthian, un equipo aficionado de Londres. El Corinthian era famoso por su deportividad, y jugaba con camiseta blanca. El Madrid, según cuentan, adoptó el color en su honor. Es una historia preciosa. Pero recuerde que es solo eso, una historia, y las páginas de historia del club no la recogen.
+
+[pause] Fuera cual fuera el motivo, el blanco se convirtió en su nombre. En todo el mundo, el equipo es simplemente Los Blancos.
+
+Mire esta tienda: verá la otra mitad de lo que significa ese color. La camiseta es identidad, y también negocio. Las cuentas del club de la temporada que terminó en junio de 2026 muestran unos ingresos de algo más de mil doscientos millones de euros. Son los mayores de su historia. El club dice que ninguna otra entidad deportiva del mundo ha alcanzado esa cifra. La clasificación anual de Deloitte de los clubes que más ingresan ha puesto al Real Madrid en cabeza tres años seguidos, a enero de 2026. De todo eso, solo el estadio aportó trescientos sesenta y tres millones de euros.
+
+[quietly] Y esto es lo que sorprende. Todo ese dinero es de un club propiedad de sus socios. En otoño de 2026, no tiene accionistas. Cada camiseta de estas paredes, en cierto modo, se vende en su nombre.
+
+[warmly] Un color elegido, según cuentan, por admiración a un equipo de aficionados ingleses. Hoy viste a uno de los clubes más ricos del mundo.
+
+Cuando quiera, siga la salida de la tienda hasta la puerta, y a casa.

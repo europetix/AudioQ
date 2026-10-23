@@ -1,0 +1,28 @@
+@id: 005 · FR · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: W
+@title: Panorama · De 1947 à aujourd'hui
+@where: Au niveau panoramique, près de la maquette du stade et des écrans qui projettent le film de sa transformation. Si la foule vous empêche d'y accéder, restez à la rambarde, face au stade.
+@what: The scale model and the club's audiovisual show on the stadium's transformation since 1947; finals played here: European Cup finals 1957 (Real Madrid 2–0 Fiorentina), 1969 and 1980; the 1964 European Championship final (Spain beat the USSR); the 1982 World Cup final (Italy 3–1 West Germany); the 2010 Champions League final (Inter 2–0 Bayern, coach José Mourinho, unveiled at Real Madrid days later); the 2018 Copa Libertadores final (River Plate v Boca Juniors).
+@listen: The model and film of the stadium's changes, and the great finals this ground has hosted, only one of them with Real Madrid on the pitch.
+@brief: Standing by the model with a friend, ticking off the great nights this ground has seen; lively and curious, with a wry turn at Mourinho.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu/individual (OFF via OFFICIAL_AUDIO_COMPARISON 1.3: panoramic level has an audiovisual display of the stadium's transformation) ; https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF: maqueta; "Descubre todos los cambios que se han producido en la renovación") ; https://uefa.com/uefachampionsleague/news/01e1-0e73ace8307d-e674fa5b207b-1000--santiago-bernabeu (OFF-UEFA, read 23 Oct 2026: European Cup finals 1957, 1969, 1980; finals of the 1964 European Championship and the 1982 World Cup; 2010 Champions League final on 22 May 2010) + https://www.laliga.com/noticias/historia-santiago-bernabeu-estadio-real-madrid (same list plus the 2018 Copa Libertadores final) ; https://www.uefa.com/uefachampionsleague/news/0250-0c51077e88f5-16d1b98c88fc-1000--madrid-s-european-cup-finals (OFF-UEFA, read 23 Oct 2026: 1957 Real Madrid 2–0 Fiorentina at the Bernabéu, "home advantage", Di Stéfano penalty, Gento) ; https://uefa.com/uefaeuro/history/news/0253-0d7b2fe55184-528b8a894544-1000--marcelino-heads-spain-to-euro-1964-final-win-against-ussr (OFF-UEFA headline: Spain beat the USSR in the 1964 final) ; https://www.11v11.com/matches/italy-v-germany-11-july-1982-237276/ + https://footballhistory.org/world-cup/1982-spain.html (SEC2: 1982 final Italy 3–1 West Germany, 11 July 1982) ; https://www.cbssports.com/soccer/news/bayern-munich-vs-inter-looking-back-at-historic-2010-champions-league-final-diego-militos-heroics (read 23 Oct 2026: Inter 2–0 Bayern at the Bernabéu, Milito twice, coach Mourinho stayed in Madrid and was unveiled as Real Madrid coach a few days later) + https://tribune.com.pk/story/15554/entertainment (headline: "Inter lift Champions League as Mourinho walks out for Real") (SEC2) ; https://www.aljazeera.com/sports/2018/12/10/river-plate-beat-argentine-rivals-boca-to-win-copa-libertadores + https://www.tntsports.co.uk/football/copa-libertadores/2018/football-news-santiago-bernabeu-to-host-delayed-copa-libertadores-final_sto7030695/story.shtml (SEC2: 2018 Libertadores final River v Boca moved to the Bernabéu, River won)
+@lang: fr
+@translation: from the fact-checked English Bernabéu 005 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ce stade a accueilli une finale de Coupe du monde, une finale de Championnat d'Europe et quatre finales de Coupe d'Europe. [pause] Le Real Madrid n'en a joué qu'une.
+
+C'était en 1957. Le Real Madrid l'a gagnée à domicile, contre la Fiorentina. La deuxième de ses quinze Coupes d'Europe, gagnée ici même.
+
+Les autres grandes soirées ont appartenu à d'autres. Ici, l'Espagne a battu l'Union soviétique pour gagner son premier Championnat d'Europe. Trois autres finales de Coupe d'Europe s'y sont jouées, toutes entre d'autres clubs. En finale de la Coupe du monde, l'Italie a battu l'Allemagne de l'Ouest trois buts à un. Et plus récemment, la plus grande finale de clubs sud-américaine a traversé l'Atlantique jusqu'ici. River Plate contre Boca Juniors, deux rivaux de Buenos Aires. River a gagné.
+
+[wry] L'une de ces finales de Coupe d'Europe a eu lieu en 2010. L'Inter Milan a battu le Bayern Munich ici, deux buts à zéro, pour gagner la Ligue des champions. Ce soir-là, l'Inter était entraînée par José Mourinho. Il n'est pas rentré en avion avec son équipe. Il est resté à Madrid, et neuf jours plus tard, il était présenté comme le nouvel entraîneur du Real Madrid. Une façon comme une autre de découvrir un stade.
+
+Cherchez maintenant la maquette, et les écrans à côté. Le club parle de son spectacle audiovisuel sur l'évolution du stade depuis 1947. Servez-vous de la maquette pour vous repérer. Elle montre d'un coup d'œil tout le stade vu de dehors : la peau d'acier de la rue, enroulée autour de l'enceinte où vous êtes. Puis accordez quelques minutes au film.
+
+[pause] Toutes ces finales ont été jouées avant le début de la rénovation. Le bâtiment est devenu presque méconnaissable. L'habitude d'accueillir les plus grandes soirées, elle, demeure.
+
+Restez à ce niveau, et levez les yeux vers le toit et l'anneau d'écrans qui fait le tour des tribunes.

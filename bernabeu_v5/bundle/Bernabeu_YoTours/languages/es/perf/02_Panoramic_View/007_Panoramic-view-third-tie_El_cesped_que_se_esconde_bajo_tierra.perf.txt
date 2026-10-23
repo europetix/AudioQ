@@ -1,0 +1,28 @@
+@id: 007 · ES · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: W
+@title: Panorámica · El césped que se esconde bajo tierra
+@where: En la barandilla del nivel panorámico, mirando directamente al suelo del estadio, que la mayoría de los días de visita está desnudo o cubierto, no verde.
+@what: The retractable pitch: natural grass kept in six trays in the "hipogeo", the club's underground greenhouse, raised only for matches, a few hours to move; the floor used for other events, such as the first NFL regular-season game in Spain in November 2025; the 2024 concerts, the noise complaints, the suspension in September 2024 and the May 2026 Audiencia Provincial ruling.
+@listen: Why the floor below is usually bare, where the grass goes, and how the plan to fill this stadium with concerts ran into its neighbours.
+@brief: Leaning on the rail with a friend who expected grass; patient and curious about the machine, plain and even-handed about the noise dispute, a dry last line.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu/individual (OFF: the grass "will remain underground in its maintenance area and will only be installed on the surface for matches"; other elements may be on the pitch) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/ancelotti-en-el-hipogeo-del-bernabeu (OFF, read 23 Oct 2026: "el gran invernadero bajo tierra en el que se conserva el césped... por bandejas"; operating from the start of 2023-24) ; https://www.group.sener/wp-content/uploads/2022/06/20211209NPSENERconcibeelcEspedretrActildelRealMadrid.pdf (supplier, via FACTS C9/C15: trays move horizontally and vertically into the store; ventilation, climate control, lighting and irrigation; hipogeo named after the Colosseum's) ; https://www.eldebate.com/deportes/futbol/20240208/cesped-retractil-bernabeu-espectaculo-producira-450-millones-anuales_172264.html + La Nación + ICE (SEC2 via FACTS C10: six trays) ; move time scripted "a few hours" (FACTS C12) ; https://www.realmadrid.com/en-US/news/club/latest-news/cronica-bernabeu-miami-dolphins-washington-commanders-16-11-2025 + https://www.fox5dc.com/news/commanders-fall-dolphins-16-13-overtime-first-nfl-regular-season-game-spain (OFF + SEC2: Dolphins v Commanders, 16 Nov 2025, first NFL regular-season game in Spain) ; https://emisorasunidas.com/deportes/2026/05/13/justicia-absuelve-al-real-madrid-por-conciertos-en-el-bernabeu/ + https://www.iqmagazine.com/?p=382729 + https://video.thescore.com/topsn/news/3539983/real-madrid-win-legal-battle-over-bernabeu-concert-noise (SEC2 via FACTS C19 to C22: Taylor Swift 29–30 May 2024, Karol G four nights July 2024; residents' complaints; concerts suspended September 2024 to improve soundproofing; May 2026 Audiencia Provincial de Madrid: no criminal responsibility for Real Madrid Estadio SL, responsibility for sound levels lies with promoters; no announced return found) ; no hypogeum depth, no tray weight, no system cost, no fines figure
+@lang: es
+@translation: from the fact-checked English Bernabéu 007 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Si esperaba ahí abajo un césped verde perfecto, seguramente ve un suelo desnudo. [pause] El césped no se ha ido lejos. Está debajo.
+
+El club guarda el césped en lo que llama un gran invernadero subterráneo. Lo llama el hipogeo, el nombre de las galerías bajo la arena del Coliseo de Roma. El césped es natural. Crece en seis bandejas enormes, y cada una puede desplazarse de lado y bajar al almacén inferior. Allí recibe luz, aire, riego y un clima controlado. Cuando se acerca un partido, las bandejas suben a su sitio. El cambio completo lleva unas horas. El club dice claramente que el césped permanece bajo tierra salvo para los partidos.
+
+¿Para qué tanto esfuerzo? Para liberar el suelo. Con el césped a salvo, el estadio puede acoger otras cosas sin destrozar la hierba. En noviembre de 2025, por ejemplo, acogió el primer partido de temporada regular de la NFL jugado en España.
+
+[pause] El otro gran plan era la música. En la primavera y el verano de 2024, el nuevo estadio acogió varios conciertos enormes, entre ellos los de Taylor Swift y Karol G. Los vecinos se quejaron del ruido, y una asociación vecinal registró unas ciento cincuenta mediciones durante los eventos. Ese septiembre, el Real Madrid suspendió aquí los conciertos para mejorar el aislamiento acústico.
+
+El conflicto llegó a los tribunales. En mayo de 2026, un tribunal de apelación de Madrid resolvió que la sociedad del club que gestiona el estadio no tenía responsabilidad penal. Consideró que respetar los límites de sonido era sobre todo tarea de los promotores. En otoño de 2026, no se ha anunciado la vuelta de los conciertos.
+
+[wry] Así que mire otra vez ese suelo. No le falta nada. Está esperando un partido.
+
+Aquí hay un breve Extra sobre el famoso miedo escénico del estadio. Después, la siguiente parada principal es el museo, bajando desde esta grada. Si ya ha recorrido el museo hoy, siga al vestuario y reproduzca el número veintitrés. Si el vestuario está cerrado hoy, vaya a la tienda y reproduzca el número veintisiete.

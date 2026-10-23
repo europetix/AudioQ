@@ -1,0 +1,28 @@
+@id: 004 · ES · Panoramic view · third tier · 23 Oct 2026 edition
+@section: Panoramic view · The bowl
+@room: Panoramic view · third tier
+@type: W
+@title: Panorámica · La vista desde arriba
+@where: En la vista panorámica de la grada superior, la del tercer anfiteatro según el folleto, junto a la barandilla desde donde se abre todo el estadio: las gradas empinadas, la cubierta encima y el suelo muy abajo, en el centro.
+@what: The bowl seen from the third tier; steep stands with no pillar in the way; no official capacity published, "around 80,000" (architects: access for up to about 83,000 at major events); the 125,000 of 1954 for comparison.
+@listen: Why nobody outside the club can tell you exactly how many people this bowl holds, and what you can see from the top of it.
+@brief: Arriving at the top with a friend and letting the view land first; a quiet opening, curious and a little amused over the capacity riddle, then simply looking together.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF: panoramic view from "la grada del tercer anfiteatro") ; https://stadiumdb.com/news/2026/03/spain_what_is_the_capacity_of_the_new_bernabeu_uncovering_the_secret_of_real_madrids_stadium + https://footballgroundguide.com/news/new-report-hints-at-the-true-capacity-of-santiago-bernabeu-after-renovation-amid-real-madrid-silence.html (SEC2 via FACTS C18 and AUDIT 013: no official capacity published; Pérez at the 2023 assembly, about 80,000 give or take a thousand) ; https://www.gmp.de/en/bernabeu (OFF, the architects, read 23 Oct 2026: previous capacity about 80,000; circulation routes allow up to around 83,000 spectators at major events) ; https://www.realmadrid.com/en-US/the-club/history/stadium/santiago-bernabeu (OFF, read 23 Oct 2026: 125,000 from June 1954) ; https://www.realmadrid.com/en-US/tour-bernabeu/individual (OFF: grass kept underground except for matches) ; no rake angle, no height, no record crowd (unverified, AUDIT 013)
+@lang: es
+@translation: from the fact-checked English Bernabéu 004 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] He aquí una pregunta que el club nunca ha respondido en público. ¿Cuántas personas caben aquí? [pause] El Real Madrid no ha publicado un aforo oficial del estadio renovado.
+
+Eso no ha impedido los cálculos. Los arquitectos dicen que el nuevo estadio puede acoger hasta unos ochenta y tres mil espectadores en grandes eventos. La Liga ha dado más de una cifra con los años. Y el presidente, ante los socios del club en 2023, habló de unos ochenta mil, mil arriba o mil abajo. [amused] Así que unos ochenta mil es la respuesta honesta, y la cifra exacta sigue en el cajón del club.
+
+Para comparar, recuerde la historia de fuera. En 1954, este mismo estadio podía acoger a ciento veinticinco mil personas. Hoy caben menos, y todos tienen asiento.
+
+Ahora contemple la vista. Está en la tercera grada, muy por encima del terreno de juego. Mire con qué pendiente caen los asientos bajo sus pies, fila tras fila, hasta el fondo del estadio. Luego mire al otro lado. Ningún pilar corta la vista. Cada asiento que ve mira directamente al mismo rectángulo.
+
+Sobre usted está la cubierta y, colgando bajo su borde, una franja de pantallas que da toda la vuelta. Las dos tienen su propia parada enseguida. Y abajo, en el centro, lo más probable es que el suelo esté desnudo. No es un error. El club guarda el césped bajo tierra salvo para los partidos, y sabrá exactamente cómo.
+
+[pause] Por ahora, simplemente disfrute de lo que ve. Imagine cada uno de esos asientos ocupado, en una noche en que el resultado importa de verdad.
+
+Quédese aquí, en la barandilla de la grada superior. Luego busque la maqueta del estadio, y las pantallas con el audiovisual de su transformación.

@@ -1,0 +1,34 @@
+@id: 016 · ES · Museum · trophy hall · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum · trophy hall
+@type: W
+@title: Sala de trofeos · La Décima
+@where: En la fila de Copas de Europa, junto a la copa número diez, el trofeo de 2014 ganado en Lisboa.
+@what: La Décima: Lisbon, Benfica's stadium, 24 May 2014, Real Madrid 4–1 Atlético de Madrid after extra time. Godín 36'; Sergio Ramos header 93' (92:48 on the clock) from a Modrić corner; Bale 110', Marcelo 118', Cristiano Ronaldo 120' penalty. Captain Iker Casillas; coach Carlo Ancelotti.
+@listen: Twelve years of waiting, a city derby in a European final, and the header in the ninety-third minute that saved it.
+@brief: A friend retelling the night everyone in Madrid remembers, with the clock ticking in the voice; tense, then a release, then warm.
+@pace: medium
+@energy: 3→5→3
+@sources: https://www.realmadrid.com/es-ES/noticias/club/actualidad/la-decima-cumple-doce-anos-24-05-2026 (OFF, read 23 Oct 2026: 24 May 2014, Estádio do Sport Lisboa e Benfica, 4–1 Atlético; Godín 36', Ramos 93' header, Bale 110', Marcelo 118', Cristiano Ronaldo 120' penalty; coach Ancelotti; twelve years) ; Ramos at 92:48 and Modrić corner, "minuto noventa y Ramos": https://www.mediotiempo.com/futbol/champions-league/sergio-ramos-secreto-cabezazo-decima-real-madrid + https://www.tudn.com/futbol/futbol-retro-sergio-ramos-cumple-34-anos-y-recordamos-su-gol-en-lisboa (SEC2, via FACTS D5b) ; https://uefa.com/uefachampionsleague/news/0223-0e9133b4a77b-52070980c370-1000--porto-bound-casillas-best-real-madrid-moments (OFF-UEFA, read 23 Oct 2026: Casillas captain from 2010, lifted the trophy in 2014; the 2002 substitute) ; cup nine 2002: realmadrid.com la-novena-cumple-24-anos-15-05-2026 (OFF)
+@lang: es
+@translation: from the fact-checked English Bernabéu 016 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Noventa y dos minutos jugados. Perdiendo por un gol. Doce años de espera a punto de ser trece.
+
+Tras Glasgow en 2002, el Real Madrid no volvió a ganar esta copa, y caía temporada tras temporada. La décima Copa de Europa, La Décima, se convirtió en la gran asignatura pendiente del club. Todo Madrid sabía qué significaban esas dos palabras.
+
+Luego, en 2014, llegó a la final de Lisboa, y el rival era su vecino de ciudad, el Atlético de Madrid. Dos clubes de Madrid en una final europea.
+
+En el minuto treinta y seis, Diego Godín adelantó al Atlético, que defendió y defendió mientras pasaban los minutos. Llegó el noventa, y pasó.
+
+[pause] Con noventa y dos minutos y cuarenta y ocho segundos en el reloj, Luka Modrić botó un córner. Sergio Ramos remató de cabeza, y el balón entró. [long pause] Empate a uno.
+
+La afición todavía tiene un nombre para ese momento. Lo llama "minuto noventa y Ramos".
+
+En la prórroga, el Madrid arrasó. Marcó Gareth Bale, luego Marcelo, y luego Cristiano Ronaldo de penalti. Cuatro goles a uno para el equipo de Carlo Ancelotti.
+
+Y aquí, el detalle que muchos confunden: Ramos no era el capitán esa noche. [warmly] El capitán que levantó esta copa fue Iker Casillas, el mismo portero que había entrado de suplente con veinte años en Glasgow, doce años antes.
+
+La copa número diez es la que abrió la puerta a todo lo demás. En cuatro años llegaron tres más.
+
+Siga por la fila hasta las copas once, doce y trece.

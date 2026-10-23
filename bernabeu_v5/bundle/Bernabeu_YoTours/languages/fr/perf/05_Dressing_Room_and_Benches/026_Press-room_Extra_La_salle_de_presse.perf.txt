@@ -1,0 +1,24 @@
+@id: 026 · FR · Press room · 23 Oct 2026 edition
+@section: Dressing room and benches
+@room: Press room
+@type: X
+@title: Salle de presse · Extra · La salle de presse
+@where: Seulement si la salle de presse est ouverte lors de votre visite : à l'intérieur, à n'importe quel endroit d'où l'on voit l'avant de la salle, là où l'on répond aux questions.
+@what: The press room, offered by the club only as a temporary visit "subject to availability"; what a press conference here is; UEFA's Champions League rule that each club holds a press conference the day before a match with its head coach and at least one player, the visiting club normally in the match stadium.
+@listen: Why the person talking in this room the night before a big European game is often the visiting coach.
+@brief: A quick, knowing aside in a room most visitors only see on television; light, a little wry.
+@pace: medium
+@energy: 3→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu (OFF, read 23 Oct 2026: "Includes temporary visit to press room subject to availability") ; https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2025/26/Article-79-Media-activities-on-the-day-before-the-match-Online (OFF-UEFA, read 23 Oct 2026: art. 79.04 each pre-match press conference attended by the head coach and at least one player; 79.05 press conferences must take place in the stadium where the match will be played, the home club may hold its own at its training ground, visiting clubs only elsewhere in exceptional cases approved by UEFA) ; post-match regulations page could not be fetched (permission timeout), so no post-match rule is stated ; no anecdotes used
+@lang: fr
+@translation: from the fact-checked English Bernabéu 026 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] La veille d'un grand match européen ici, la personne qui répond aux questions dans ce bâtiment n'est souvent pas du Real Madrid.
+
+Voici pourquoi. Selon le règlement de l'UEFA pour la Ligue des champions, chaque club tient une conférence de presse la veille d'un match, avec son entraîneur principal et au moins un joueur. L'équipe visiteuse doit normalement tenir la sienne dans le stade où le match se jouera. Le club qui reçoit peut, lui, la tenir à son centre d'entraînement. Alors, quand les grandes équipes européennes viennent au Bernabéu, leurs entraîneurs font d'habitude face aux caméras d'abord dans ce stade.
+
+Le club n'ouvre cette salle aux visiteurs que certains jours, en visite temporaire, sous réserve de disponibilité. Si vous y êtes en ce moment, vous voyez l'envers d'une image familière. À la télévision, on ne voit que la personne qui répond. Ici, vous voyez d'où viennent les questions.
+
+[wry] Un match dure quatre-vingt-dix minutes. Les questions commencent la veille, et elles continuent longtemps après le coup de sifflet final.
+
+Quand vous le souhaitez, continuez vers la boutique, où la visite se termine.
