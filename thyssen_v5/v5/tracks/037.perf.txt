@@ -3,7 +3,7 @@
 @room: Room 33
 @type: X
 @title: Room 33 · Extra · Camille Pissarro — Rue Saint-Honoré in the Afternoon. Effect of Rain
-@where: Room 33, "The Impressionist Period". Look for the upright canvas of a long Paris street seen from high above just after rain, with horse-drawn carriages, a few umbrellas and the corner of a square in the foreground.
+@where: Room 33, "The Impressionist Period". Look for the upright canvas of a long Paris street seen from high above as the rain stops, with horse-drawn carriages, a few umbrellas and the corner of a square in the foreground.
 @what: Camille Pissarro, Rue Saint-Honoré in the Afternoon. Effect of Rain, 1897, oil on canvas, 81 × 65 cm.
 @listen: A country painter in a hotel room, painting every view from his window through one Paris winter.
 @brief: Quiet companionable storytelling at a window; lightly amused by the old man's delight in "ugly" streets.
@@ -15,7 +15,7 @@
 
 In the winter of 1897, he took a hotel room on a square in the heart of Paris. His dealer, Durand-Ruel, promised to show whatever came of it. Pissarro painted every view the room could give him: the avenue de l'Opéra, the square beside the hotel, and this street, the rue Saint-Honoré. He made fifteen pictures that winter.
 
-[pause] He painted this exact view three times, in three kinds of light. One has bright morning sun. One has the dim light of dusk. This one is early afternoon, and it has just stopped raining. Look at the street after the rain, the carriages, and the people picked out one by one, some still holding their umbrellas. You are looking down at them from high up, the way Monet had looked down on a Paris boulevard back at the first Impressionist exhibition.
+[pause] He painted this exact view three times, in three kinds of light. One has bright morning sun. One has the dim light of dusk. This one is early afternoon, and the rain is only just stopping. Look at the street, the carriages, and the people picked out one by one, some still holding their umbrellas. You are looking down at them from high up, the way Monet had looked down on a Paris boulevard back at the first Impressionist exhibition.
 
 [amused] Pissarro knew some people found these streets ugly. He wrote that perhaps it was not aesthetic, but he was delighted to paint them anyway.
 
