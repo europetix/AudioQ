@@ -2,17 +2,21 @@ import sys, os, re, json, shutil, glob, unicodedata
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT + '/v5/pipeline'); import v5_direction as V
 SRC = ROOT + '/v5/tracks'
-B = ROOT + '/bundle/ReinaSofia_YoTours'
+B = ROOT + '/bundle/Thyssen_YoTours'
 shutil.rmtree(B, ignore_errors=True); os.makedirs(B)
 SECTIONS = [  # (@section value, display, folder)
- ("Opening", "Opening", "00_Welcome"),
- ("Floor 1 · Serra and the Garden", "Floor 1 · Serra and the Garden", "01_Floor1_Serra_and_Garden"),
- ("Floor 2 · Bohemia, Cities and Cubism", "Floor 2 · Bohemia, Cities and Cubism", "02_Floor2_Bohemia_Cities_Cubism"),
- ("Floor 2 · War, Guernica and Surrealism", "Floor 2 · War, Guernica and Surrealism", "03_Floor2_War_Guernica_Surrealism"),
- ("Floor 4 · From the Transition to Grief", "Floor 4 · From the Transition to Grief", "04_Floor4_Transition_to_Grief"),
- ("Floor 4 · Sculpture, Institutions and Images", "Floor 4 · Sculpture, Institutions and Images", "05_Floor4_Sculpture_Institutions_Images"),
- ("Nouvel Roof Terrace", "Nouvel Roof Terrace", "06_Nouvel_Roof_Terrace"),
- ("Closing", "Closing", "07_Closing"),
+ ('Opening', 'Opening', '00_Welcome'),
+ ('Level 2 · The first faces', 'Level 2 · The first faces', '01_Level2_First_Faces'),
+ ('Level 2 · Renaissance portraits and the Villahermosa Gallery', 'Level 2 · Renaissance portraits and the Villahermosa Gallery', '02_Level2_Renaissance_Portraits'),
+ ('Level 2 · Venice and the Baroque', 'Level 2 · Venice and the Baroque', '03_Level2_Venice_and_Baroque'),
+ ('Level 2 · The 18th century in Italy', 'Level 2 · The 18th century in Italy', '04_Level2_18th_Century_Italy'),
+ ('Level 2 · The Dutch Golden Age and the French salon', 'Level 2 · The Dutch Golden Age and the French salon', '05_Level2_Dutch_Golden_Age'),
+ ("Level 2 · Goya's century without Goya", "Level 2 · Goya's century without Goya", '06_Level2_Romanticism'),
+ ('Level 1 · America and the Impressionists', 'Level 1 · America and the Impressionists', '07_Level1_America_Impressionists'),
+ ('Level 1 · Expressionism and the avant-gardes', 'Level 1 · Expressionism and the avant-gardes', '08_Level1_Expressionism_Avant_gardes'),
+ ('Level 1 · Surrealism, America and Pop', 'Level 1 · Surrealism, America and Pop', '09_Level1_Surrealism_America_Pop'),
+ ('Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes', 'Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes', '10_Level0_Carmen_Thyssen'),
+ ('Closing', 'Closing', '11_Closing'),
 ]
 SEC = {s[0]: s for s in SECTIONS}
 
@@ -26,7 +30,7 @@ def short_title(title, room):
     """The title without a leading room name (Palatine titles start with the door sign; the room is already in the file name)."""
     if room and title.startswith(room):
         return title[len(room):].lstrip(" ·—-")
-    m = re.match(r"^(Sala|Salle|Saal|Room) \d+(?:\.\d+)?(?: bis)?\s?[A-C]? · ", title)   # translated titles start with the local room word
+    m = re.match(r"^(Sala|Salle|Saal|Room) (?:\d+|[A-J]) · ", title)   # translated titles start with the local room word
     return title[m.end():] if m else title
 
 def room_label(sec, room):
@@ -55,7 +59,7 @@ for f in sorted(glob.glob(SRC + '/*.perf.txt')):
         script=f"scripts/{folder}/{base}.txt", perf=f"perf/{folder}/{base}.perf.txt",
         mp3=f"{folder}/{base}.mp3"))
 tw = sum(t['words'] for t in tracks)
-plan = dict(tour_number=0, tour_slug="Museo_Reina_Sofia", format="V5 Yo Tours 17 Oct 2026", language="EN",
+plan = dict(tour_number=0, tour_slug="Museo_Thyssen_Bornemisza", format="V5 Yo Tours 23 Oct 2026", language="EN",
     voices={"1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
             "2": "en-US-AndrewMultilingualNeural (trial)", "3": "en-US-BrianMultilingualNeural (earlier test voice)"},
     wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 64 kbps mono",
