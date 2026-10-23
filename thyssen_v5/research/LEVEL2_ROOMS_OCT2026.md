@@ -1,5 +1,7 @@
 # Thyssen-Bornemisza, Level 2 (rooms 1–29): what is on the walls, room by room (research of 23 Oct 2026)
 
+> **Update 23 Oct 2026 (audit):** Daret's *The Nativity* (inv. 124) now reads "Not exhibited" (EN) / "No expuesta" (ES). Track 004 was rebuilt on Gerard David's *The Crucifixion* (Room 3) and the Bouts follower's *The Virgin and Child* (Room 3).
+
 **Purpose:** a menu for the lead to choose 2–4 stops per room for the new Yo Tours guide.
 **Builds on:** `CURRENT_LOCATIONS_OCT2026.md`. Works already checked there are reused, not re-researched. They are marked "(known)".
 

@@ -1,5 +1,7 @@
 # THYSSEN-BORNEMISZA — PLAN (23 Oct 2026). The route follows the museum's official visitor map (Dec 2025: source/map.txt, research/map/p-2.png Level 2, p-3.png Level 1, p-4.png Level 0). It runs top down from the map's "Recommended start of the visit" in Level 2, Room 1.
 
+> **Update 23 Oct 2026 (audit):** Daret's *The Nativity* (inv. 124) now reads "Not exhibited" (EN) / "No expuesta" (ES). Track 004 was rebuilt on Gerard David's *The Crucifixion* (Room 3) and the Bouts follower's *The Virgin and Child* (Room 3).
+
 **Rooms.** Every room string is the location label on the work's own museothyssen.org page, read on 23 Oct 2026. The pages are logged in research/LEVEL2_ROOMS_OCT2026.md, LEVEL1_ROOMS_OCT2026.md, LEVEL0_CARMEN_OCT2026.md and CURRENT_LOCATIONS_OCT2026.md. Museum-history facts come from research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md. The old guide (old/NNN.txt) is used for stories and tone only; never copy its rooms, dates or descriptions without checking them against the audit.
 
 **Directions.** Each cue gives the room number and one thing to look for. Where it helps, it also gives the room title from the map, because a third-party app broke when the museum renumbered its rooms.
