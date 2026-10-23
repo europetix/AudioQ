@@ -1,0 +1,26 @@
+@id: 027 · Store · 23 Oct 2026 edition
+@section: Store and closing
+@room: Store
+@type: W
+@title: Store · The white shirt
+@where: In the official store at the end of the tour, anywhere you can see the racks and walls of white home shirts.
+@what: Why Real Madrid plays in white (the Corinthian story, told as a story; the club's own history of its early years doesn't explain it); the shirt as identity and business: record revenue of 1,221 million euros in 2025-26 per the club's July 2026 accounts; top of the Deloitte Football Money League for the third year running (January 2026); stadium revenue 363 million euros; a club owned by its members.
+@listen: How a colour borrowed, the story goes, from English amateurs became the uniform of one of the richest clubs in the world.
+@brief: Relaxed and conversational among the racks, a touch amused about the shopping, honest about the money, warm at the close.
+@pace: medium
+@energy: 3→3→3
+@sources: https://www.realmadrid.com/static/sobre-el-real-madrid/historia/futbol/1902-1910 (OFF, read 23 Oct 2026: the club's history page does not say why the shirt is white) ; Corinthian story: https://www.goal.com/es/noticias/corinthian-el-club-de-londres-por-el-que-el-real-madrid-viste-de-blanco/366ulmi0s9qo1tpa6ih3pkofv (Goal, 31 Oct 2017, read 23 Oct 2026: white chosen in honour of Corinthian F.C., the London amateur club founded 1882) + https://www.flashscore.es/noticias/futbol-laliga-real-madrid-blanco-corinthians-descubre-historia/27DsWUJD/ (Flashscore, read 23 Oct 2026: "según la teoría más aceptada", Corinthian a byword for elegance and fair play) = SEC2 that this is the commonly told story; told as a story, details that differ between them (who proposed it, when) left out ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/el-real-madrid-cierra-la-temporada-2025-2026-con-los-mayores-ingresos-y-el-mayor-ebitda-de-su-historia-28-07-2026 (OFF, read 23 Oct 2026: 2025-26 operating revenue 1,221 million euros, highest in its history, the first time over 1,200 million, which the club says no other sports entity has reached; stadium revenue 363 million; "un club propiedad de sus socios") ; https://www.deloitte.com/fi/fi/about/press-room/real-madrid-tops-deloitte-football-money-league.html (Deloitte, 22 Jan 2026, read 23 Oct 2026: Real Madrid retains top spot, close to 1.2 billion euros in 2024/25) + https://www.realmadrid.com/en-US/news/club/latest-news/real-madrid-informe-2026-01-01-2026 (OFF, headline: "For the third year in a row, Real Madrid is the highest earning football club in the world according to Deloitte") ; racks of shirts in the store: assumed for a club store, not otherwise sourced
+---
+[amused] For more than a century, this club has played in white. And the club's own history of its early years doesn't say why.
+
+The story most often told goes like this. In the early days of football in Madrid, the people behind the club admired Corinthian, an amateur team from London. Corinthian were famous for playing in the right spirit, and they played in white shirts. Madrid, the story goes, took the colour in their honour. It's a lovely story. Just remember that it is a story, and the club itself doesn't tell it.
+
+[pause] Whatever the reason, white became the name. Around the world, the team is simply Los Blancos, the Whites.
+
+Look around this store, and you'll see the other half of what that colour means. The shirt is identity, and it's also business. Real Madrid's accounts for the season that ended in June 2026 show revenue of just over one point two billion euros, the most in its history. The club says no other sports organisation in the world has reached that figure. Deloitte's annual ranking of football's biggest earners has put Real Madrid at the top three years running, as of January 2026. Of that, the stadium alone brought in three hundred and sixty-three million euros.
+
+[quietly] And here's the part that surprises people. All that money belongs to a club owned by its members, the socios. There are no shareholders. Every shirt on these walls, in a sense, is sold on their behalf.
+
+[warmly] A colour chosen, the story goes, out of admiration for a team of English amateurs. Today it dresses one of the richest clubs in the world.
+
+When you're ready, follow the way out of the store to the exit, and the way home.
