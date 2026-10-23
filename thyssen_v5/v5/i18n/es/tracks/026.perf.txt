@@ -1,0 +1,24 @@
+@id: 026 · ES · Room 24 · 23 Oct 2026 edition
+@section: Level 2 · The Dutch Golden Age and the French salon
+@room: Room 24
+@type: X
+@title: Sala 24 · Extra · Jean Antoine Watteau — Pierrot contento
+@where: Sala 24. Busque uno de los cuadros más pequeños de la galería, de unos 35 centímetros de alto: un rincón de jardín bajo árboles oscuros, con Pierrot vestido de blanco sentado entre dos mujeres y dos hombres, y una de ellas tocando la guitarra.
+@what: Jean Antoine Watteau, Pierrot Content (Pierrot contento), ca. 1712, oil on canvas, 35 × 31 cm, inv. 432.
+@listen: Watteau's little scene from the Italian comedy, the figures that have faded into the trees, and its afterlife in Lucian Freud's portrait of Baron Thyssen.
+@brief: A quick, affectionate aside; light, then conspiratorial about the hidden figures, warm at the Freud link.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/watteau-jean-antoine/pierrot-content (OFF: Room 24 / Level 2; ca. 1712; 35 × 31; fête galante recalling the commedia dell'arte, which Watteau knew through his master Claude Gillot; garden corner with dense foliage and a statue of Pan; Pierrot at the centre between two men and two women, one with a guitar, one with a fan, the man on the left as Mezzetin; figures self-absorbed and pensive; Jeaurat's 1728 engraving shows two more figures in the trees, now darkened and barely visible; canvas cropped on both sides; Lucian Freud chose it as the background for his portrait of Baron Hans Heinrich Thyssen-Bornemisza, and it inspired his Large Interior W11) ; Freud portrait in Room 49: research/LEVEL1_ROOMS_OCT2026.md and PLAN 056
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 026 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Es uno de los cuadros más pequeños de esta galería, y viaja más lejos de lo que parece.
+
+Watteau pintó Pierrot contento hacia 1712. Había conocido el mundo de la comedia italiana en París, con su maestro Claude Gillot. En un rincón de jardín, bajo árboles densos y una estatua de Pan, Pierrot se sienta en el centro, entre dos hombres y dos mujeres. Una toca la guitarra, la otra sostiene un abanico, y el hombre de la izquierda va de Mezzetino, otro personaje fijo. [pause] Nadie mira del todo a nadie. Todos parecen ensimismados.
+
+[conspiratorial] Mire entre las hojas oscuras, detrás de ellos. Un grabado de 1728 muestra otras dos figuras que asoman entre los árboles. Siguen ahí, pero la pintura se ha oscurecido y casi han desaparecido. El lienzo también se recortó por ambos lados.
+
+[warmly] Más de dos siglos y medio después, Lucian Freud eligió este cuadrito como fondo de su retrato del barón Thyssen. También inspiró un gran cuadro suyo. [pause] Conocerá al barón en la sala 49, en la planta 1.
+
+La sala 25 se abre a esta galería: El tamborilero desobediente de Maes, una madre que alza una varita ante su hijo tamborilero.

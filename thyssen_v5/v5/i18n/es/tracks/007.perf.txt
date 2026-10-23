@@ -1,0 +1,28 @@
+@id: 007 · ES · Room 5 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 5
+@type: W
+@title: Sala 5 · Hans Holbein el Joven — Retrato de Enrique VIII de Inglaterra
+@where: Sala 5, «Siglos XV y XVI. El retrato en el Renacimiento». Busque el rostro real más pequeño de la sala, una tabla de apenas unos 28 por 20 centímetros: Enrique VIII de frente, con una gorra plana y un colgante enjoyado, y las manos visibles abajo.
+@what: Hans Holbein the Younger, Portrait of Henry VIII of England, ca. 1537, oil on panel, 28 × 20 cm, inv. 191 (1934.39). Also: Robert Campin, Portrait of a Stout Man. Robert de Masmines (?), ca. 1425, oil on panel, 35.4 × 23.7 cm, Room 5.
+@listen: How a picture smaller than a school notebook carries the weight of a king, and why the Henry we all picture comes from a wall that no longer exists.
+@brief: Standing close with a friend over a tiny, powerful object; quietly impressed, a little wry about the propaganda, clear on what is and isn't the famous image.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/holbein-hans-joven/portrait-henry-viii-england (OFF: "Room 5" / Level 2; ca. 1537; oil on panel; 28 × 20 cm; Holbein back in England 1532, in Henry's service in 1536, valued for lifelike faces; painted Jane Seymour 1537, Christina of Denmark, Anne of Cleves; Henry 1491–1547, break with Rome, supreme head of the Church 1534; "markedly linear"; frontal pose, distance and hands convey authority; Pope-Hennessy, the head's "architectural solidity and strength"; related to the fresco for a private room in Whitehall Palace, "destroyed in 1698", known through Remigius Leemput's copy in the National Portrait Gallery, Henry full-length with Henry VII, Elizabeth of York and Jane Seymour, same head, hat and "splendid pendant jewel"; Earl of Sutherland, Earl Spencer c. 1933, Thyssen 1934) ; https://www.museothyssen.org/en/collection/artists/campin-robert/portrait-stout-man-robert-masmines (OFF: "Room 5"; ca. 1425; "great detail and realism"; wrinkles, stubble, double chin) ; research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md (HEDGE: most copies derive from the Whitehall type, not this panel)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 007 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Uno de los hombres más poderosos de Europa, y cabría en un cuaderno escolar. La tabla mide solo unos veintiocho centímetros de alto.
+
+Hans Holbein volvió a Inglaterra en 1532, tras años difíciles en Basilea. Muchos de sus antiguos clientes habían muerto o caído en desgracia. En pocos años trabajaba para el rey, y se le valoraba sobre todo por una cosa: rostros que parecían vivos. Pintó a las reinas y posibles reinas de Enrique, y pintó a Enrique.
+
+Este pequeño retrato es de hacia 1537. Enrique ya había roto con Roma y se había proclamado jefe de la Iglesia inglesa. [pause] Ahora mire cómo construye Holbein ese poder. El cuerpo está de frente y llena la tabla. Hay distancia, como si le recibiera en audiencia. Las manos, bien a la vista. Un especialista habló de la solidez arquitectónica de la cabeza, y se entiende. Está construida como un muro.
+
+[wry] Aquí viene el giro. El Enrique que casi todos imaginamos, ese gigante que parece llenar una sala, viene sobre todo de otro lugar. Holbein pintó un gran mural para una estancia privada del palacio de Whitehall, con Enrique de cuerpo entero junto a sus padres y Jane Seymour. Fue destruido en 1698. [pause] Lo conocemos por una copia, hoy en Londres, y su cabeza es esta, con el mismo sombrero y la misma espléndida joya colgante.
+
+Así que esta tabla es un primer plano de un icono perdido. Compárela con el hombre corpulento de Campin, aquí cerca, pintado unos cien años antes. Mundos distintos, el mismo rechazo a halagar.
+
+[quietly] Tan pequeño que cabe en dos manos. Tan firme que le deja clavado en el sitio.
+
+La sala 5 tiene un breve Extra sobre el joven orante de Memling y las flores pintadas en el reverso de su tabla. La siguiente parada principal es la larga galería de al lado, la sala 6.

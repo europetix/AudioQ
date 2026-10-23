@@ -1,0 +1,28 @@
+@id: 011 · ES · Room 7 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 7
+@type: X
+@title: Sala 7 · Extra · Tiziano — Retrato del dux Francesco Venier
+@where: Sala 7, «Siglo XVI. Pintura italiana». Busque a un anciano con el manto y el gorro de brocado de oro del dux, de unos 113 por 99 centímetros, de pie ante una cortina, con una ventana a la izquierda donde arde un barco sobre el agua.
+@what: Titian (Tiziano Vecellio), Portrait of Doge Francesco Venier, ca. 1554–1556, oil on canvas, 113 × 99 cm, inv. 405 (1930.116).
+@listen: The official portrait that burned with the Doge's Palace, the replica Titian made himself, and a frail ruler with a sharp eye.
+@brief: A short, intrigued aside to a friend; quiet on the frail doge, curious about the burning boat, a nod back to the central hall.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/titian/portrait-doge-francesco-venier (OFF: "Room 7" / Level 2; ca. 1554–1556; oil on canvas; 113 × 99 cm; born 1489, Doge from 11 June 1554 to his death on 2 June 1556; poor health, needed help moving; fragile body against a sharp gaze; Titian as Official Painter painted doges for the frieze of the Sala del Maggior Consiglio, lost in the 1577 fire; "an autograph portrait, a replica of the official image lost during the fire", perhaps for his brother Pietro; gold brocade; curtain; window on the left with a burning boat "has not been identified"; Trivulzio, Thyssen before 1930) ; https://www.museothyssen.org/en/collection/artists/tintoretto/paradise (OFF: Central hall; fire of 1577 in the Doge's Palace; new decoration of the hall)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 011 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Francesco Venier gobernó Venecia como dux solo dos años. Estaba tan enfermo que necesitaba ayuda para moverse.
+
+Mire cómo lo muestra Tiziano. El cuerpo bajo el brocado de oro parece frágil, casi apuntalado. Pero los ojos son agudos. Nada se le escapa.
+
+Como pintor oficial de la República veneciana, Tiziano retrataba a cada nuevo dux para un largo friso en la gran sala del consejo del Palacio Ducal. En 1577, un incendio arrasó el palacio, y esa galería de rostros se perdió, con el retrato oficial de Venier.
+
+[pause] Este lienzo sobrevivió porque nunca estuvo allí. Es una réplica de la imagen perdida, del propio Tiziano, quizá para el hermano del dux, o para alguna oficina de la ciudad. Hoy, este es el rostro de Venier.
+
+[curious] Por la ventana de la izquierda, sobre el agua, arde un barco. Nadie ha identificado el episodio. Quizá simboliza sin más el poder de la ciudad.
+
+[pause] Si vio el largo Paraíso de Tintoretto en el hall central, abajo, era parte de la misma historia: tras aquel incendio, el palacio necesitó pinturas nuevas.
+
+Siga por la sala 8, de pintura alemana, donde la Virgen de Cranach sostiene un racimo de uvas, hasta la sala 9: el retrato del emperador Carlos Quinto, de Cranach.

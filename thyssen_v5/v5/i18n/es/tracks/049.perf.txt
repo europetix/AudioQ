@@ -1,0 +1,26 @@
+@id: 049 · ES · Room 44 · 23 Oct 2026 edition
+@section: Level 1 · Surrealism, America and Pop
+@room: Room 44
+@type: R
+@title: Sala 44 · René Magritte — La llave de los campos (La Clef des champs)
+@where: Sala 44, «Dadá y surrealismo». Colóquese ante el lienzo vertical de una ventana rota que da a un paisaje, con trozos de cristal en el suelo que aún conservan fragmentos de la vista.
+@what: René Magritte, The Key of the Fields (La Clef des champs), 1936, oil on canvas, 80 × 60 cm. Also: Kurt Schwitters, Merzbild Kijkduin, 1923, oil, pencil and wood assemblage on cardboard, Room 44.
+@listen: What Dada and Surrealism wanted, and a broken window that makes you doubt what you just saw.
+@brief: A guide opening the door to a stranger world; crisp on the history, playful and conspiratorial at the broken glass.
+@pace: medium
+@energy: 3→4
+@sources: https://www.museothyssen.org/en/collection/artists/magritte-rene/key-fields-clef-des-champs (OFF: Room 44, Level 1; 1936; oil on canvas 80 × 60 cm; inv. 657; a landscape framed by a window broken by an impact, the shards on the ground painted with fragments of the same landscape; what we saw through the window was an image painted on the glass, illusion and reality the same; continues The Human Condition of three years earlier; 1934 letter to Breton: eliminate the difference between the view from outside and from inside the window; Breton saw window and mirror as images of liberation; "la clef des champs" colloquially means freedom) ; https://www.museothyssen.org/en/collection/artists/schwitters-kurt/merzbild-kijkduin (OFF: Room 44; 1923; made in Holland from objects found on the beach at Kijkduin near The Hague, driftwood and debris; "Dada tour" with Theo and Petro van Doesburg; Merz his invented word; owned until 1957 by Hannah Höch, who hid her collection in a dried-up well in her garden until 1945) ; Dada and Surrealism intro: audit grade OK (standard), no load-bearing detail ; Dalí in the temporary show "The Freudian Universe of Dalí", ground floor, until 24 Jan 2027: research/CURRENT_LOCATIONS_OCT2026.md (page label "Temporary Exhibition Rooms") — removable sentence, no date or details
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 049 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Algo ha atravesado esta ventana de golpe. El cristal está en pedazos en el suelo. Y cada trozo sigue mostrando un fragmento del paisaje.
+
+Esta sala es «Dadá y surrealismo». Dadá nació del asco ante la Primera Guerra Mundial: artistas que respondieron a la matanza con disparates, azar y desechos. El surrealismo surgió de él en París en la década de 1920, guiado por el poeta André Breton, y buscó los sueños y la mente oculta.
+
+[pause] Mire otra vez la ventana de René Magritte. Si los trozos llevan la vista, lo que veía a través del cristal nunca fue el paisaje real. Era una imagen pintada en la ventana. [pause] Magritte escribió a Breton que lo esencial era borrar la diferencia entre ver desde fuera de una ventana y desde dentro. El título ayuda. En francés, la clé des champs, la llave de los campos, significa libertad. Rompa el cristal, y estará fuera.
+
+El cuadro onírico de Dalí del museo está en la planta baja, hasta el 24 de enero de 2027. Forma parte de la exposición temporal El universo freudiano de Dalí.
+
+[amused] Antes de irse, busque el Merzbild Kijkduin de Kurt Schwitters. En 1923, de gira dadá por Holanda, recogió madera de deriva y otros restos en una playa cerca de La Haya. Con ellos hizo este cuadro. [pause] Durante años fue de la artista Hannah Höch, que bajo el nazismo escondió su colección en un pozo seco de su jardín.
+
+A continuación, la sala 45, «Realismos de entreguerras»: la mujer de Hopper en una cama de hotel, leyendo un horario de trenes.

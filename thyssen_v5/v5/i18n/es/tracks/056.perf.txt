@@ -1,0 +1,30 @@
+@id: 056 · ES · Room 49 · 23 Oct 2026 edition
+@section: Level 1 · Surrealism, America and Pop
+@room: Room 49
+@type: W
+@title: Sala 49 · Lucian Freud — Retrato de hombre (Barón H. H. Thyssen-Bornemisza)
+@where: En la sala 49, «Figuración europea de posguerra». El retrato del barón es pequeño, de medio metro de alto: un hombre con chaqueta de cuadros, camisa blanca y corbata oscura, la cabeza inclinada hacia delante y los ojos bajos. Reflejo con dos niños es el lienzo cuadrado de al lado, Freud visto desde abajo, con dos niños diminutos en la esquina inferior.
+@what: Lucian Freud, Portrait of a Man (Baron H.H. Thyssen-Bornemisza), 1981–1982, oil on canvas, 51 × 40 cm, inv. 551, Room 49, Level 1. Also: Lucian Freud, Reflection with Two Children (Self-Portrait), 1965, oil on canvas, 91 × 91 cm, inv. 550, Room 49.
+@listen: The collector who had never sat for a portrait, nearly two years in Freud's studio, and the Watteau hidden over his shoulder.
+@brief: Letting a friend in on the most personal picture in the building; amused at the start, then close and observant, with a quiet smile at the Watteau.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/freud-lucian/portrait-man-baron-hh-thyssen-bornemisza (OFF, read 23 Oct 2026: 1981–1982; oil on canvas 51 × 40; inv. 551; Room 49, Level 1; first sitting 26 July 1981 in Freud's London studio near Notting Hill Gate; finished October 1982; the Baron had never posed before; attended punctually for nearly two years; "long, endless" sittings; checked jacket, white shirt, dark tie; head tilted forward, gaze down; no preliminary drawings, charcoal straight on the canvas, layers and palette knife; fragment of Watteau's Pierrot Content barely sketched above the sitter's right shoulder; Baron owned the Watteau since 1977; Freud had a reproduction pinned in his studio; the Baron sits where Pierrot sits and seems to take his pose and expression; Freud quote "I try to enter as far as possible into their feelings, so the picture will be about them, not me"; text Paloma Alarcó) ; https://www.museothyssen.org/en/collection/artists/freud-lucian/reflection-two-children-self-portrait (OFF: 1965; 91 × 91; Room 49; mirror at his feet; his children Rose and Ali in the lower left corner) ; Watteau in Room 24: PLAN 026 and research/LEVEL2_ROOMS_OCT2026.md
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 056 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] El barón Hans Heinrich Thyssen-Bornemisza pasó la vida eligiendo retratos, comprándolos y viviendo con ellos. Hasta 1981, nunca había posado para uno.
+
+Aquel julio fue al estudio de Lucian Freud en Londres, cerca de Notting Hill Gate, para la primera sesión. Freud trabajaba despacio, y las sesiones eran largas, casi interminables. [pause] El barón siguió volviendo, puntual, durante casi dos años. El retrato se terminó en octubre de 1982.
+
+Freud no hacía dibujos preparatorios. Empezaba directamente sobre el lienzo con un boceto al carboncillo. Luego construía la cara capa a capa, con parte de la pintura aplicada con espátula. De sus modelos decía: «Intento entrar todo lo posible en sus sentimientos, para que el cuadro trate de ellos, no de mí».
+
+[pause] Ahora mire lo que vio. El lienzo es pequeño, y colocó al barón muy cerca. Una chaqueta de cuadros, una camisa blanca, una corbata oscura. La cabeza se inclina hacia delante y los ojos miran abajo, lejos de usted. No es la cara de un hombre que presume de sus tesoros. Es más sombría, más íntima.
+
+[conspiratorial] Y ahora mire detrás de él, sobre su hombro. Freud apenas ha esbozado un fragmento de otro cuadro. [pause] Es Pierrot contento, de Watteau, que el barón tenía desde 1977, y cuya reproducción Freud tenía clavada en la pared del estudio. El barón se sienta justo donde se sienta Pierrot en el Watteau, y parece tomar prestadas su pose y su expresión. Usted vio ese Pierrot arriba, en la sala 24.
+
+Cerca, Freud se examina a sí mismo. En Reflejo con dos niños se alza sobre un espejo a sus pies, y sus hijos Rose y Ali aparecen diminutos en la esquina inferior.
+
+[warmly] Un coleccionista que pasó la vida eligiendo qué mirar, quieto por fin, y mirado, en la pose de un cuadro que amaba.
+
+La sala 50, «Informalismos», tiene un breve Extra sobre la Cabeza de jota, i griega, eme de Frank Auerbach, de pintura espesa. La siguiente parada principal es la sala 52, Arte Pop.

@@ -1,0 +1,28 @@
+@id: 028 · ES · Room 26 · 23 Oct 2026 edition
+@section: Level 2 · The Dutch Golden Age and the French salon
+@room: Room 26
+@type: W
+@title: Sala 26 · Pieter Jansz. Saenredam — La fachada occidental de la iglesia de Santa María de Utrecht
+@where: Sala 26, «Siglo XVII. Pintura holandesa. Paisaje». Busque una tabla vertical y pálida, de unos 65 centímetros de alto, con la sencilla fachada románica de una iglesia entre árboles y tres figuras diminutas a sus pies. La dorada puesta de sol de Cuyp, con un vaquero y un puente de madera, está en la misma sala.
+@what: Pieter Jansz. Saenredam, The West Façade of the Church of Saint Mary in Utrecht, 1662, oil on panel, 65.1 × 51.2 cm, inv. 362. Also: Aelbert Jacobsz. Cuyp, Landscape with a Sunset, ca. 1655, oil on panel, 48.3 × 74.9 cm, inv. 117.
+@listen: How Saenredam measured a church in 1636, painted it a quarter of a century later, and quietly improved it.
+@brief: Letting a friend in on an artist's small deceptions; curious, then conspiratorial, warm at Cuyp's evening light.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/saenredam-pieter-jansz/west-facade-church-saint-mary-utrecht (OFF: Room 26 / Level 2; 1662; oil on panel 65.1 × 51.2; first architecture painter to depict existing buildings; measured and sketched on site, construction drawings, paintings years later; de Bie 1662, "the first architectural portraitist"; Romanesque Mariakerk demolished in the 19th century; in Utrecht June–October 1636; drawing dated 30 August 1636; removed two ruined structures at the ends of the façade, altered the rose window, added three small figures for scale) ; https://www.museothyssen.org/en/collection/artists/cuyp-aelbert-jacobsz/landscape-sunset (OFF: Room 26 / Level 2; ca. 1655; cowherd leading the herd home, path to a rustic wooden bridge, pink sunset; "the soft, golden light of the Mediterranean evening"; probably never visited Italy; Jan Both; favourite of 18th-century British collectors) ; Mauritshuis Saenredam of the same church in the Classical rooms: research/LEVEL2_ROOMS_OCT2026.md (removable line)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 028 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Esta iglesia ya no existe. Y el cuadro tampoco la muestra exactamente como era.
+
+Pieter Saenredam fue el primer pintor que hizo verdaderos retratos de edificios reales. Una biografía publicada en vida suya lo llamó «el primer retratista arquitectónico». Medía sobre el terreno, dibujaba, volvía a casa, hacía minuciosos dibujos de construcción, y a veces esperaba años antes de pintar.
+
+Así ocurrió aquí. En el verano de 1636 pasó cuatro meses en Utrecht, dibujando sus iglesias. Su dibujo de esta, la iglesia románica de Santa María, está fechado el treinta de agosto. Pintó esta tabla veintiséis años después. La iglesia fue demolida en el siglo diecinueve.
+
+[conspiratorial] Ahora compárelo con la realidad, porque la mejoró. En cada extremo de la fachada había una estructura en ruinas. Quitó las dos. Cambió el tamaño del rosetón central. Y al pie del edificio añadió tres figuritas. [pause] Búsquelas. Dan la escala, y hacen que esa piedra pálida parezca enorme.
+
+Hasta el 10 de enero de 2027, la exposición del Mauritshuis en las Salas Clásicas incluye otro Saenredam de esta misma iglesia.
+
+[warmly] Para un cambio total de ánimo, busque el paisaje con puesta de sol de Aelbert Cuyp. Un vaquero lleva su ganado a casa al final del día, por un camino hacia un puente de madera, bajo un cielo rosado. Cuyp probablemente nunca fue a Italia. Aprendió esa luz dorada mediterránea de pintores que sí habían ido, y los coleccionistas británicos del siglo dieciocho no se cansaban de ella.
+
+A continuación, la sala 27, de retrato holandés: Rembrandt con una gorra oscura y dos cadenas de oro sobre el pecho.

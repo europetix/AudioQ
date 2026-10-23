@@ -1,0 +1,30 @@
+@id: 010 · ES · Room 7 · 23 Oct 2026 edition
+@section: Level 2 · Renaissance portraits and the Villahermosa Gallery
+@room: Room 7
+@type: W
+@title: Sala 7 · Vittore Carpaccio — Joven caballero en un paisaje
+@where: Sala 7, «Siglo XVI. Pintura italiana», una de las salas que se abren en el lado largo de la sala 6. Busque el lienzo alto, de más de dos metros: un joven con armadura, de cuerpo entero, en un prado lleno de plantas y flores, un ciervo junto a un lago, un jinete al fondo y una pequeña comadreja junto a una cartela con una inscripción.
+@what: Vittore Carpaccio, Young Knight in a Landscape, ca. 1505 (cartellino dated M.D.X.), oil on canvas, 218.5 × 151.5 cm, inv. 82 (1935.3).
+@listen: How a saint turned into a knight, why he may be the first full-length portrait we know, and the motto that says better to die than be defiled.
+@brief: Unpacking a puzzle picture with a friend; curious and lively in the middle, careful with the names, quietly admiring at the end.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.museothyssen.org/en/collection/artists/carpaccio-vittore/young-knight-landscape (OFF: "Room 7" / Level 2; ca. 1505; oil on canvas; 218.5 × 151.5 cm; "it would be the first known example in which the sitter is depicted full-length"; motto "Malo mori quam foedari", "better to die than be defiled"; may be a knight of the Order of the Ermine, "short-tailed weasel" beside the motto; cartellino "VICTOR CARPATHIUS / FINXIT / M.D.X."; Francesco Maria della Rovere, Weiss 1963, most generally accepted; other proposals Saint Eustace, Christie's 1919 sale title, from the deer by the lake; Ferdinand II of Aragon; Marco Gabriel, Venetian captain; minute flowers once led to a Dürer attribution; horseman in black and gold in the background; Vernon-Wentworth, Otto H. Kahn, acquired 1935 by Heinrich Thyssen-Bornemisza) ; research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md (date as "about 1505 to 1510"; motto wording)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 010 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cuando este cuadro se vendió en Londres en 1919, se llamaba San Eustaquio. Hay un ciervo junto al lago, y el ciervo es el atributo de san Eustaquio. Así que, por un tiempo, este joven fue santo.
+
+Hoy es un caballero, y si es una persona real, es un pionero. El museo lo dice con cautela: si de verdad es un retrato, sería el primer ejemplo conocido de un modelo de cuerpo entero. Carpaccio le da un hombre completo, del pelo a los pies con armadura, en un lienzo de más de dos metros.
+
+¿Cuándo se pintó? El museo lo fecha hacia 1505. Pero un papelito pintado en el lienzo lleva la firma Victor Carpathius y una fecha en números romanos: 1510. Así que, en algún momento entre ambas.
+
+[pause] Luego está el lema. En una pequeña cartela del paisaje se leen las palabras latinas Malo mori quam foedari. Antes morir que ser deshonrado. A su lado hay una pequeña comadreja, un armiño. Era el lema y el emblema de la Orden del Armiño, así que quizá fue uno de sus caballeros.
+
+Pero ¿quién? Se han propuesto muchos nombres, desde un rey de Aragón hasta un capitán veneciano que luchó contra los turcos. La respuesta más aceptada es Francesco Maria della Rovere, luego duque de Urbino, aunque ni eso está resuelto.
+
+Mire las plantas que le rodean. Cada flor y cada hoja están pintadas con tanto detalle que el cuadro se atribuyó en su día a Durero. [pause] Luego busque al jinete de negro y oro al fondo, y el ciervo junto al lago que un día lo hizo santo.
+
+[quietly] Santo, duque o capitán. Fuera quien fuera, sigue firme en su sitio.
+
+La sala 7 tiene un breve Extra sobre el retrato del dux Francesco Venier, de Tiziano. La siguiente parada principal es la sala 9, pasando por la sala 8.

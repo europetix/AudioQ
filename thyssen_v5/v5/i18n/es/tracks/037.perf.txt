@@ -1,0 +1,24 @@
+@id: 037 · ES · Room 33 · 23 Oct 2026 edition
+@section: Level 1 · America and the Impressionists
+@room: Room 33
+@type: X
+@title: Sala 33 · Extra · Camille Pissarro — Rue Saint-Honoré por la tarde. Efecto de lluvia
+@where: Sala 33, «La época impresionista». Busque el lienzo vertical de una larga calle de París vista desde muy arriba cuando deja de llover, con coches de caballos, algunos paraguas y la esquina de una plaza en primer plano.
+@what: Camille Pissarro, Rue Saint-Honoré in the Afternoon. Effect of Rain, 1897, oil on canvas, 81 × 65 cm.
+@listen: A country painter in a hotel room, painting every view from his window through one Paris winter.
+@brief: Quiet companionable storytelling at a window; lightly amused by the old man's delight in "ugly" streets.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/pissarro-camille/rue-saint-honore-afternoon-effect-rain (OFF: Room 33, Level 1; 1897; oil on canvas 81 × 65 cm; inv. 712; series of fifteen painted from his hotel window on the place du Théâtre Français, winter 1897–98; mainly a landscape painter, moved to the city late in life for health reasons; Durand-Ruel encouraged the series and promised a show; painted every view from the room, the rue Saint-Honoré, the avenue de l'Opéra and the square, and repeated them in different light; three of the rue Saint-Honoré, morning sun, dusk and this early afternoon just after rain, umbrellas; high viewpoint after Monet's Boulevard des Capucines, 1874; quotation "Perhaps it is not aesthetic, but I am delighted to be able to paint these Paris streets that people have come to call ugly") ; Cassirer v. Thyssen case deliberately left out (status not verified; see notes)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 037 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Camille Pissarro pasó casi toda su vida en el campo, pintando paisajes. Luego, ya mayor y por su salud, se mudó a la ciudad. [pause] Y empezó a pintar desde las ventanas.
+
+En el invierno de 1897 tomó una habitación de hotel en una plaza del centro de París. Su marchante, Durand-Ruel, prometió exponer lo que saliera de allí. Pissarro pintó todas las vistas que le ofrecía la habitación: la avenida de la Ópera, la plaza junto al hotel, y esta calle, la rue Saint-Honoré. [pause] Aquel invierno hizo quince cuadros.
+
+[pause] Pintó esta misma vista tres veces, con tres luces distintas. Una tiene un sol brillante de mañana. Otra, la luz débil del anochecer. Esta es a primera hora de la tarde, y la lluvia apenas está parando. Mire la calle, los coches de caballos y la gente, destacada una a una, algunos todavía con su paraguas. Usted los mira desde lo alto, como Monet había mirado un bulevar de París en la primera exposición impresionista.
+
+[amused] Pissarro sabía que a algunos estas calles les parecían feas. Escribió que quizá no fuera muy estético, pero que estaba encantado de pintarlas.
+
+Al lado está la sala 34, «Paisajes expresionistas». Busque Los descargadores en Arlés, de Van Gogh: barcas oscuras contra un cielo naranja.

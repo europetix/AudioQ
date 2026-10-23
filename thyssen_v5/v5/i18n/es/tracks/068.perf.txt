@@ -1,0 +1,26 @@
+@id: 068 · ES · Room I · 23 Oct 2026 edition
+@section: Level 0 · Carmen Thyssen collection · From Old Masters to the avant-gardes
+@room: Room I
+@type: W
+@title: Sala I · Juan Gris — Mujer sentada
+@where: En la sala I, «Pintura de entreguerras. Cubismo, abstracción y surrealismo». Mujer sentada es la tabla alta, de más de un metro, de una mujer con capa plisada y vestido de fiesta, con la figura hecha de triángulos superpuestos y planos inclinados.
+@what: Juan Gris, Seated Woman (Mujer sentada), 1917, oil on panel, 116 × 73 cm, CTB.1986.23, Carmen Thyssen Collection, Room I, Level 0.
+@listen: A Madrid-born Cubist in wartime Paris, his partner Josette in her best dress, and the old master Gris was quietly looking at.
+@brief: Telling a friend about a hometown painter far from home; warm, a little conspiratorial about the dress, admiring at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.museothyssen.org/en/collection/artists/gris-juan/seated-woman (OFF, read 23 Oct 2026: dated "5-17"; oil on panel 116 × 73; CTB.1986.23; Room I, Level 0; from 1916 Gris turned to figures and to old masters, drawings after Raphael, Velázquez and Cézanne, three oils after Corot; curves against straight lines and chiaroscuro from Corot; high viewpoint and oblique structure recall Cézanne's portraits of women; pair to the Portrait of Josette Gris, 1916; Josette wears a party dress; Gris traded a small picture for a dress made for her by Madame Bongard, Paul Poiret's sister; as a Spaniard a non-combatant, foreigners under suspicion, food and fuel erratic; Kahnweiler in exile, poverty; contract with Léonce Rosenberg, April 1916; sold to Rosenberg for 350 francs; letter of 5 May 1917, an evening with Picasso just back from Rome; Gris at the Parade premiere; Douglas Cooper calls it a portrait of Josette, without evidence; 1917 a move towards a "purified" Cubism; text Christopher Green) ; Gris born in Madrid and The Smoker in Room 41: research/LEVEL1_ROOMS_OCT2026.md (Room 41 page)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 068 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Juan Gris nació aquí, en Madrid. Cuando pintó este cuadro, en la primavera de 1917, estaba en París, en medio de una guerra que no era la suya.
+
+Como español, no tenía que combatir. Pero la vida era dura. Los extranjeros despertaban sospechas, y la comida y el combustible iban y venían. Su marchante, Kahnweiler, estaba en el exilio, y durante un tiempo Gris fue realmente pobre. [pause] Luego un nuevo marchante, Léonce Rosenberg, lo contrató. Este cuadro fue a Rosenberg por trescientos cincuenta francos.
+
+La mujer es probablemente Josette, su compañera. Nadie lo ha probado, pero este cuadro forma pareja con un retrato de ella del año anterior. [conspiratorial] Aquí va arreglada, con vestido de fiesta. Gris cambió una vez un cuadrito por un vestido que le hizo la hermana del modisto Paul Poiret. [pause] ¿Es este ese vestido? Es una idea preciosa. Nadie lo sabe.
+
+[pause] Ahora mire cómo la construye. Triángulos superpuestos, una capa plisada, líneas oblicuas que se apoyan unas en otras. Vista desde arriba, como Cézanne miraba a sus mujeres sentadas. Pero aquí hay también un maestro más antiguo. Gris había estudiado a Corot, y pintaba obras a partir de él. El juego de curvas contra rectas, el suave claroscuro, viene de Corot. Era una época en que él y Picasso estaban muy unidos, y el cubismo aprendía a mirar atrás.
+
+Ya conoció a Gris arriba, en la sala 41, con El fumador. Aquí, cuatro años después, avanza hacia un cubismo más sereno y puro. [warmly] Un pintor madrileño, lejos de casa, pintando a la mujer con la que vivía, con su mejor vestido.
+
+La sala J, la última, tiene un breve Extra sobre la gigantesca máquina de pinball de Charles Bell. Después, la salida.

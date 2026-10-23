@@ -1,0 +1,24 @@
+@id: 040 · ES · Room 36 · 23 Oct 2026 edition
+@section: Level 1 · Expressionism and the avant-gardes
+@room: Room 36
+@type: X
+@title: Sala 36 · Extra · James Ensor — Teatro de máscaras
+@where: Sala 36, «El lenguaje del cuerpo». Busque el cuadro horizontal de un escenario muy iluminado, lleno de caras grotescas con máscaras, en un marco dorado con forma de pequeño teatro.
+@what: James Ensor, Theatre of Masks, 1908, oil on canvas, 72 × 86 cm. Also: Mikhail Larionov, Blue Nude, about 1908, oil on canvas, Room 36.
+@listen: A boy who grew up among carnival masks, and the crowd that turns into one.
+@brief: Wry and a little conspiratorial about the masked crowd; brisk on Larionov; a clear, careful cue past the temporary show.
+@pace: medium
+@energy: 2→3
+@sources: https://www.museothyssen.org/en/collection/artists/ensor-james/theatre-masks (OFF: Room 36, Level 1; 1908; oil on canvas 72 × 86 cm; inv. 534; born in Ostend, masks sold in his parents' shop for the carnival; masks as metaphor for "solitude of the individual in the new society of masses"; lit stage, actors' masks blend with the audience's; per previous owner Dr Fritz Trüssel the stage-shaped gilt frame was made on Ensor's instructions; Verhaeren likened these theatres of masks to Watteau's fêtes galantes) ; https://www.museothyssen.org/en/collection/artists/larionov-mikhail/blue-nude (OFF: Room 36; ca. 1908; reaction to Gauguin's Polynesian paintings in the Shchukin collection; companion and later wife Natalia Goncharova) ; Kenny Scharf show, Postpop rooms 53–56, until 17 Jan 2027: research/LEVEL1_ROOMS_OCT2026.md (https://www.museothyssen.org/en/exhibitions/kenny-scharf) ; cue per PLAN 040
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 040 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] James Ensor creció rodeado de máscaras. Sus padres tenían una tienda en Ostende, en la costa belga, y cada año vendían máscaras para el carnaval.
+
+Nunca las dejó. Recorren toda su carrera, a veces graciosas, a veces diabólicas. Con ellas hablaba de la vida moderna: la soledad del individuo en la nueva sociedad de masas. [pause] Mire este escenario. Los actores bajo las luces llevan máscaras, y el público también, y las dos multitudes se funden en una. [pause] ¿Quién actúa, y quién mira?
+
+[wry] Hasta el marco participa. Es dorado, con forma de escenario, y según un antiguo dueño se hizo siguiendo instrucciones del propio Ensor. Un poeta belga comparó estos teatros de máscaras con las elegantes fiestas de Watteau, como la de arriba, en la sala 24.
+
+Aquí mismo, el Desnudo azul de Mijaíl Larionov fue la respuesta de un joven ruso a los Gauguin que vio en casa de un coleccionista moscovita. Su compañera, y luego esposa, fue la pintora Natalia Goncharova. Verá su obra en la planta 0.
+
+Siga recto hasta la sala 37. A su derecha pasará la entrada a las salas Post-Pop, de la 53 a la 56. Acogen la exposición temporal de Kenny Scharf hasta el 17 de enero de 2027, y no forman parte de esta guía. [pause] En la sala 37, busque la Metrópolis roja de Grosz.

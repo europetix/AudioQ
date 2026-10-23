@@ -1,0 +1,26 @@
+@id: 033 · ES · Room 30 · 23 Oct 2026 edition
+@section: Level 1 · America and the Impressionists
+@room: Room 30
+@type: W
+@title: Sala 30 · Círculo de sir Joshua Reynolds (?) — Retrato de un hombre de la isla de Dominica (?)
+@where: Sala 30, «Siglos XVIII-XIX. Relaciones trasatlánticas», junto al ascensor y las escaleras. Busque un retrato de busto, de menos de un metro de alto, de un hombre negro vestido de blanco, con un sombrero poco común, dentro de un óvalo pintado. El retrato de Copley de la esposa de un comerciante de Boston, de rosa, con perlas y un chal azul, está en la misma sala.
+@what: Circle of Sir Joshua Reynolds (?), Portrait of a Man from the Island of Dominica (?), ca. 1770–1780, oil on canvas, 76 × 63.5 cm, inv. 383. Also: John Singleton Copley, Portrait of Mrs. Joshua Henshaw II (Catherine Hill), ca. 1772, oil on canvas, 77 × 56 cm, inv. 97.
+@listen: An introduction to Level 1 and Baron Hans Heinrich's American collection, through a portrait whose sitter, painter and hat are still a mystery.
+@brief: Arriving on a new floor with a friend; brisk orientation, then a careful detective story told with respect for a man whose name is lost.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.museothyssen.org/en/collection/artists/reynolds-circle-sir-joshua/portrait-man-island-dominica (OFF: Room 30 / Level 1; ca. 1770–1780, the text suggests about 1780; 76 × 63.5; man in white; possible servant, visitor from Africa or its diaspora, or free West Indian from Dominica; hat closest to a free West Indian's in a Brunias painting of about 1770; possible move to England before the French took Dominica in 1778; neckpiece, coat and style point to about 1780; canvas size and painted oval suggest England; broad strokes in Reynolds's manner, "clearly talented"; chef's toque only from the 1820s; for about forty years published as Gilbert Stuart's portrait of George Washington's cook, both rejected; may remain partly a mystery) ; https://www.museothyssen.org/sites/default/files/document/2023-03/Ventanas7_eng_Ruiz%20del%20%C3%81rbol_collecting.pdf (OFF: Hans Heinrich began buying 19th-century American painting in 1979 after reading Barbara Novak; "a rara avis in European collecting"; childhood fascination with the American West through Karl May's novels) ; https://www.museothyssen.org/en/node/21991 (OFF: the collection "an essential point of reference in Europe") ; https://www.museothyssen.org/en/collection/artists/copley-john-singleton/portrait-mrs-joshua-henshaw-ii-catherine-hill (OFF: Room 30 / Level 1; ca. 1772; wife of the merchant Joshua Henshaw II; Boston's leading portraitist until 1774; pink dress, pearls, brocade, blue shawl; "direct, calm gaze") ; Level 1 white walls and 19th–20th centuries: research/CURRENT_LOCATIONS_OCT2026.md (2021 reinstallation); Rodin room omitted (no on-site confirmation)
+@lang: es
+@translation: from the fact-checked English Thyssen-Bornemisza 033 (23 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Durante unos cuarenta años, este retrato se publicó como el cocinero de George Washington, pintado por Gilbert Stuart. No es de Stuart, y él no era el cocinero de Washington.
+
+Esta es la planta 1. Aquí las paredes son blancas, y la historia pasa a los siglos diecinueve y veinte. Empieza en América, gracias al barón Hans Heinrich. De niño devoraba las novelas del Oeste de Karl May, y en 1979 empezó a comprar pintura norteamericana del siglo diecinueve, cuando casi ningún coleccionista europeo lo hacía. [pause] Uno de los autores del museo lo llama una rara avis del coleccionismo europeo. Hoy el museo llama a esta colección un referente esencial en Europa.
+
+Ahora, el hombre de blanco. Su sombrero poco común recuerda un poco a un gorro de cocinero. Pero ese gorro llegó décadas después, y su casaca y su corbatín apuntan hacia 1780. [pause] Entonces, ¿quién es? Pudo ser un criado de una casa británica acomodada. Pudo ser un visitante de África. El mejor indicio es el sombrero. El más parecido lo lleva un antillano libre, en un cuadro de la isla de Dominica de pocos años antes. Si era de Dominica, quizá llegó a Inglaterra justo antes de que los franceses tomaran la isla en 1778.
+
+El pintor también es desconocido. Las pinceladas amplias siguen la manera de sir Joshua Reynolds, y la mano tiene un talento claro. [quietly] Su ficha admite que quizá siga siendo siempre, en parte, un misterio. Así que mírelo bien. Un rostro seguro, pintado con belleza, y un nombre que hemos perdido.
+
+Cerca está John Singleton Copley, el principal retratista de Boston en vísperas de la Revolución americana. Pintó a Catherine Hill, esposa de un comerciante, de rosa y con perlas, con una mirada directa y serena.
+
+A continuación, la sala 31, de paisajismo norteamericano: la cruz de Church, sola en un paisaje salvaje.
