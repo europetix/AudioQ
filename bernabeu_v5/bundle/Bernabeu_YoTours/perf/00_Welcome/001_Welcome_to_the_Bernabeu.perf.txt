@@ -1,0 +1,26 @@
+@id: 001 · Outside · Castellana · 23 Oct 2026 edition
+@section: Opening
+@room: Outside · Castellana
+@type: ANCHOR
+@title: Welcome to the Bernabéu
+@where: Outside the stadium on the Paseo de la Castellana side, near the corner with Avenida de Concha Espina, where the club's tour entrance is. Anywhere you can see the curved steel bands of the facade will do.
+@what: What the Tour Bernabéu covers as of October 2026: the top-tier panoramic view, the museum, the home dressing room, the benches, the store; about two hours, many stairs; the two kinds of day that change the order; the pitch kept underground except for matches.
+@listen: What this visit is, the order it usually runs in, and what to do if your day is different.
+@brief: A warm, unhurried host meeting a guest at the gate, getting the practical things said clearly before the stories begin.
+@pace: medium
+@energy: 3→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu/individual (OFF, via research/TOUR_ROUTE_OCT2026.md: entrance directly on Avda. Concha Espina; route "includes numerous staircases"; dressing rooms and benches closed on match day and the day before; grass "will remain underground in its maintenance area and will only be installed on the surface for matches") ; https://www.realmadrid.com/es-ES/tour-bernabeu (OFF, FACTS F2: "el césped permanece bajo tierra salvo en día de partido"; 15 European Cups) ; https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF: zones museum, panoramic, dressing rooms, benches, store; tour ends at the store) ; https://www.esmadrid.com/informacion-turistica/estadio-santiago-bernabeu + https://www.civitatis.com/es/madrid/tour-estadio-santiago-bernabeu/ (SEC2: entrance at the Castellana / Concha Espina corner) ; route order panoramic first then museum: SEC2 visitor evidence (TOUR_ROUTE §1) ; about two hours: SEC2 2026 visitor reports (TOUR_ROUTE §4), framed as "most people"
+---
+[warmly] Most people who come to see this stadium expect one thing above all, a perfect green pitch. On most days, there isn't one. [pause] The grass is underground, and that turns out to be one of the best stories in the building. Welcome to the Bernabéu, the home of Real Madrid.
+
+This guide walks with you through the club's own Tour Bernabéu. Most visits take around two hours, and the club warns that the route has a great many stairs. You go in at the tour entrance on Avenida de Concha Espina, close to its corner with the Paseo de la Castellana. The route usually climbs first, to the top tier, for the view over the whole stadium. Then it comes down through the museum and its fifteen European Cups. After that, the home dressing room, the benches at pitch level, and finally the store, where the tour ends.
+
+Play the guide in order, and every stop will tell you where to go next. [pause] Two kinds of day change that order, so here they are, once and plainly.
+
+On a match day, and on the day before one, the club closes the dressing room and the benches. You still get the view and the museum. When you reach the end of the museum, the guide will tell you what to play instead.
+
+And on some days the staff send visitors into the museum before the view. If that happens, play the first three stops here outside, then jump to number nine. The guide will bring you back up to the view afterwards.
+
+[lightly] One last word about that grass. The club says the pitch stays underground except for matches. So when you look down from the top, expect a bare floor rather than a lawn. You'll hear exactly why it's down there, and where it goes.
+
+Before you go in, stay outside on the Castellana side for a moment, and look up at the steel wrapped around the stadium.

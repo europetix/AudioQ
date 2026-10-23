@@ -1,0 +1,26 @@
+@id: 028 · Exit · 23 Oct 2026 edition
+@section: Closing
+@room: Exit
+@type: CLOSE
+@title: The way out, and goodbye
+@where: At the end of the store, as you leave the stadium. If the street sign outside says Calle Padre Damián, you are on the stadium's east side, opposite the Castellana side where you came in.
+@what: The tour ends in the store; the exit street, likely Calle Padre Damián (on-site check); Metro Line 10 suspended between Cuzco and Nuevos Ministerios, including the stadium's station, until the end of 2026, new station due in early 2027; the free S10 replacement bus on the Paseo de la Castellana by Plaza de Lima; Cercanías and Metro lines 6 and 8 at Nuevos Ministerios; a short send-off.
+@listen: How to get away from the stadium while its metro station is closed, and a last look back at the visit.
+@brief: A host walking a guest to the door: clear and practical first, then unhurried and warm for the goodbye.
+@pace: medium-slow
+@energy: 3→2
+@sources: tour ends at the store: brochure July 2026 https://assets.realmadrid.com/is/content/realmadrid/Folleto-Tour-JULIO2026pdf (OFF, via TOUR_ROUTE §1) ; flagship store on Calle Padre Damián, east side: https://www.realmadrid.com/es-ES/noticias/club/actualidad/nueva-tienda-05-06-2024 (OFF, via TOUR_ROUTE §1, §5); that visitors exit there is an inference (on-site check), so spoken conditionally ; https://www.crtm.es/alternativas-transporte-corte-linea-10-cuzco-nuevos-ministerios (OFF*, page "Actualizado: septiembre 2026", read 23 Oct 2026: Line 10 Cuzco–Nuevos Ministerios closed from 28 March 2026 until the end of the year, Santiago Bernabéu station being renewed; S10 replacement bus Plaza de Castilla–Cuzco–Santiago Bernabéu–Nuevos Ministerios, no extra cost for Metro travellers; stops Castellana 93 southbound and 136/140 northbound; Cercanías between Nuevos Ministerios and Chamartín) ; new station due Q1 2027: https://www.comunidad.madrid/node/68200 (OFF*, via TOUR_ROUTE §5) ; S10 free and at Plaza de Lima: TOUR_ROUTE §1 and §5 (OFF* + SEC2) ; Metro lines 6 and 8 at Nuevos Ministerios: AUDIT track 020 row (CRTM) ; first stone 27 October 1944 (FACTS A6b, SEC2) and name from 1955 (FACTS A10, OFF) ; grass underground except for matches (OFF) ; half-time limit (Laws of the Game, see 023)
+---
+[warmly] You began this visit outside, with a man and a bet. A first stone laid in 1944, and a stadium that took his name eleven years later. You end it here, at the door, with the white shirt still all around you.
+
+First, the way home. Staff will show you the way out of the store. If the street sign outside says Calle Padre Damián, you're on the stadium's east side, the opposite side from where you came in.
+
+As of autumn 2026, the stadium's own metro station is closed for rebuilding. Line 10 is suspended through this stretch until the end of the year, and the new station is due in early 2027. So there's no train from right outside.
+
+Instead, walk round the stadium to the Castellana, the wide avenue on the side where your visit began. The free S10 replacement bus stops there by Plaza de Lima, on both sides of the avenue. Heading south, it takes you to Nuevos Ministerios. Heading north, to Plaza de Castilla. Or walk south down the Castellana to Nuevos Ministerios yourself, for the Cercanías local trains and Metro lines 6 and 8.
+
+[pause] Before you go, think back over what you've seen. A pitch that stays underground except for matches. A room where fifteen minutes can turn a night around. A bench that few coaches keep for long. And fifteen European Cups, with a gap of thirty-two years in the middle.
+
+[quietly] The next time this stadium is on your screen, on a big night, you'll see it differently. You'll know where that grass goes between matches, who's watching from the bench, and what the clock means at the end.
+
+[warmly] Thank you for walking it with me. Hasta la próxima, until next time.

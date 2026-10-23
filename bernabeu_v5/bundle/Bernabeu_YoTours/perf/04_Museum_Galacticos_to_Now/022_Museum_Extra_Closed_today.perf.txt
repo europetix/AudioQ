@@ -1,0 +1,22 @@
+@id: 022 · Museum · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum
+@type: X
+@title: Museum · Extra · Closed today?
+@where: At the end of the museum, before you move on. Play this if staff or the signs say the dressing room and benches are closed today, or if your route took you through the museum first.
+@what: The club closes the dressing rooms and benches on match days and the day before; a short picture of the first-team dressing room (the 15-minute half-time interval in the Laws of the Game) and of the benches at pitch level; where the route goes instead.
+@listen: What lies behind the two doors that close on match days, and where to go from here.
+@brief: A calm, reassuring companion explaining a closed door without fuss, painting the missing rooms in a few honest strokes.
+@pace: medium
+@energy: 2→3
+@sources: https://www.realmadrid.com/en-US/tour-bernabeu (OFF, read 23 Oct 2026: "the locker rooms and benches will not be accessible on match days or the day before"; "the First Team dressing room") ; https://www.realmadrid.com/es-ES/tour-bernabeu/individual/classic-individual (OFF, read 23 Oct 2026: "Vestuarios, el lugar por donde han pasado los mejores jugadores del mundo"; "Banquillos, siente la emoción a pie de campo") ; https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match (OFF, Laws of the Game published by The FA, read 23 Oct 2026: "Players are entitled to an interval at half-time, not exceeding 15 minutes") ; 360° screen ring hung from the roof: FACTS C16 (OFF) ; tour ends at the store: brochure July 2026 (OFF, TOUR_ROUTE §1) ; case B and C routing per PLAN
+---
+[quietly] On a match day, and on the day before one, two doors on this tour stay shut. The club closes the dressing room and the benches. On those days they go back to being working rooms. Here is what lies behind them.
+
+The dressing room is the first team's, the home side's room. The players change there before a game, and they come back to it at half-time. The Laws of the Game give them no more than fifteen minutes for that break. Whatever is said in that quarter of an hour stays in the room. The club doesn't publish it, and this guide won't invent it.
+
+The benches are down at pitch level, beside the playing area. That's where the coach and the substitutes sit. From there, the stands don't fall away beneath you, as they do from the top tier. They rise over you, tier upon tier, up to the roof and the long ring of screen that hangs from it.
+
+[warmly] You've seen this stadium from its highest seats. The players see it from its lowest.
+
+If the dressing room and benches are closed today, the route goes on to the store: play number twenty-seven. If you came through the museum first today, head back up to the panoramic view on the top tier, and play number four. Otherwise, carry on to the dressing room.

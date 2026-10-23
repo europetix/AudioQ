@@ -1,0 +1,26 @@
+@id: 003 · Outside · Castellana · 23 Oct 2026 edition
+@section: Outside · The building and the man
+@room: Outside · Castellana
+@type: W
+@title: Outside · Don Santiago's bet
+@where: Still outside on the Castellana side, with the steel facade in view. The stadium carries the name of the man in this story.
+@what: Santiago Bernabéu: player from boyhood to the late 1920s, president from 1943 until his death in 1978; the old Chamartín ground of about 25,000; first stone 27 October 1944; opening as Nuevo Chamartín on 14 December 1947, 3–1 v Os Belenenses, first goal Sabino Barinaga; 125,000 by 1954; named after him in 1955; six European Cups and sixteen league titles in his time; "Bernabéu" branding since late 2025.
+@listen: How a former player turned president built a stadium four times the size of the old one, and ended up giving it his name.
+@brief: Telling a friend the founding story of the place they are about to enter; steady and factual about the hard years, warmer as the bet pays off, a small smile at the last line.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.realmadrid.com/es-ES/el-club/historia/estadio/nuevo-chamartin (OFF, read 23 Oct 2026: old Chamartín held 25,000 after successive works; Bernabéu, president from 1943, launched a "proyecto faraónico" for 100,000; opened December 1947, 3–1 v Os Belenenses, champions of Portugal; Barinaga scored the first goal) ; https://www.realmadrid.com/static/sobre-el-real-madrid/historia/futbol/1941-1950 (OFF via FACTS A4/A7: president from 15 Sept 1943; opened 14 Dec 1947 as Nuevo Chamartín) ; https://www.laliga.com/noticias/historia-santiago-bernabeu-estadio-real-madrid (read 23 Oct 2026: first stone 27 Oct 1944; Sabino Barinaga, 15th minute; 125,000 in 1954) + https://www.elindependiente.com/deportes/2022/12/14/el-ultimo-aniversario-del-santiago-bernabeu-antes-de-su-salto-al-siglo-xxii/amp/ (SEC2 via FACTS A6b/A9: first stone, Barinaga) ; https://www.realmadrid.com/en-US/the-club/history/stadium/santiago-bernabeu (OFF, read 23 Oct 2026: second phase from 1952 for 125,000, inaugurated June 1954; named after Bernabéu in 1955) ; https://www.realmadrid.com/en-US/the-club/history/football-legends/santiago-bernabeu-de-yeste (OFF via FACTS A3: player from youth to late 1920s) ; https://www.realmadrid.com/en-US/news/club/latest-news/48-anos-sin-santiago-bernabeu-02-06-2026 (OFF via FACTS A5: died 2 June 1978; six European Cups and sixteen Ligas under him) ; https://www.eldebate.com/opinion/20230421/cabo-bernabeu_109322.html + https://naciodigital.cat/opinio/el-caporal-franquista.html (SEC2, columns from opposite sides, both state he fought on the Nationalist side in the Civil War) ; https://www.football-espana.net/2025/11/12/real-madrid-make-new-stadium-name-official-with-new-branding + https://www.reasonwhy.es/actualidad/identidad-visual-estadio-bernabeu-marca-global (SEC2 via FACTS A11: "Bernabéu" brand from November 2025) ; no "temple" quote, no bonds story, Barinaga's nationality not given (AUDIT 003)
+---
+[quietly] In the early 1940s, Real Madrid's ground held about twenty-five thousand people. The club's new president wanted one for a hundred thousand. [pause] The club's own history calls the plan pharaonic.
+
+His name was Santiago Bernabéu. He had played for the club from boyhood until the late 1920s, and he became its president during the Second World War. Spain was only a few years out of its own civil war, in which he had fought on Franco's side. Even so, the first stone of a new stadium was laid here on the 27th of October, 1944.
+
+It opened on the 14th of December, 1947, under the name Nuevo Chamartín, the New Chamartín. Real Madrid beat the champions of Portugal, Os Belenenses, three goals to one. The first goal ever scored in this stadium came from Sabino Barinaga, in the fifteenth minute.
+
+[warmly] And the dream of a hundred thousand? The stadium kept growing upwards. Less than seven years after it opened, the club says it could hold a hundred and twenty-five thousand people, more than it has ever held since. A year later, the club gave the stadium his name, while he was still in charge.
+
+He stayed president for almost thirty-five years, until his death. In that time the club won six European Cups and sixteen Spanish league titles. You'll meet several of those cups in the museum.
+
+[lightly] One more thing about that name. Since late 2025, the club has branded the stadium with a single word. Not the full name. Just his surname, Bernabéu.
+
+Head now for the tour entrance on Concha Espina. The route takes you up to the top tier, for the view over the whole stadium. If the staff send you into the museum first, play number nine instead.
