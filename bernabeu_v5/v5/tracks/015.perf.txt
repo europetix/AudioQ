@@ -1,0 +1,28 @@
+@id: 015 · Museum · 23 Oct 2026 edition
+@section: Museum · Galácticos to now
+@room: Museum
+@type: W
+@title: Museum · The Galácticos
+@where: Still in the museum, close to the trophy hall. No single display is needed for this story: any spot with a view of the row of cups will do.
+@what: Florentino Pérez elected July 2000, beating Lorenzo Sanz, on a promise to sign Luís Figo from Barcelona; Zidane (2001, from Juventus), Ronaldo Nazário (2002, from Inter), Beckham (2003, from Manchester United); resigned 2006, returned 2009; contested re-election 7 June 2026, 65% to Enrique Riquelme's 35%, proclaimed 11 June 2026 for an eighth term to 2030 (dated).
+@listen: How one election promise started the era of the Galácticos, and the man who has shaped the club, and this stadium, ever since.
+@brief: A friend telling a tale of ambition and showmanship with a raised eyebrow; lively in the middle, even-handed at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.realmadrid.com/en-US/the-club/history/presidents/florentino-perez (OFF, read 23 Oct 2026: "took up the presidency in July 2000 after beating Lorenzo Sanz"; star signings of his first term Figo, Zidane, Beckham, Ronaldo; re-elected 2004, resigned voluntarily two years later; returned 2009; engineer and businessman) ; https://sites.duke.edu/wcwp/2020/04/13/figos-transfer/ (read 23 Oct 2026: "Perez's campaign was based on the promise that he would sign Figo if elected president") + audit S9 New Straits Times (Pérez first elected 2000 promising Figo): SEC2 ; signing years and previous clubs: https://footballwriters.co.uk/news/before-they-became-galacticos/ + https://www.flashscore.com/news/kylian-mbappe-becomes-the-latest-in-a-long-line-of-real-madrid-galacticos/Ms286WlA (SEC2, read 23 Oct 2026: Figo 2000 Barcelona, Zidane 2001 Juventus, Ronaldo 2002 Inter, Beckham 2003 Manchester United) ; https://www.realmadrid.com/es-ES/noticias/club/actualidad/comunicado-oficial-de-la-junta-electoral-resultado-elecciones-07-06-2026 and https://www.realmadrid.com/es-ES/noticias/club/actualidad/florentino-perez-proclamado-presidente-11-06-2026 (OFF, via FACTS D9: 21,741 votes, 65%, v Riquelme 11,814, 35%; 8th term to 2030) ; first contested vote in twenty years: audit S10 (ESPN, title) + FACTS D9 history of terms (unopposed 2013, 2017, 2021, 2025) ; "Galácticos" as a nickname, not attributed to Pérez (audit: media label)
+---
+[curious] In the summer of 2000, a man won the presidency of Real Madrid with a promise about one footballer.
+
+The man was Florentino Pérez, an engineer and businessman. The footballer was Luís Figo, the star of Barcelona, Madrid's great rivals. Pérez said that if he was elected, Figo would come. [pause] He was elected in July, beating the sitting president, Lorenzo Sanz. And Figo came.
+
+Then it became a habit, with another of the most famous players on earth arriving every summer. Zinedine Zidane from Juventus. Ronaldo, the Brazilian, from Inter. David Beckham from Manchester United. The nickname for the team was the Galácticos, the galactic ones, and it stuck.
+
+The idea was simple: the best players in the world, in the most famous shirt in the world. And for a while, it won. Cup number nine, the Zidane volley you just heard about, belongs to these years.
+
+[wry] Critics said that a collection of stars is not the same thing as a team. In 2006 Pérez resigned, by his own decision. Three years later he was back, and the signings started again, this time with Cristiano Ronaldo.
+
+He has been president ever since. The stadium around you was rebuilt under him. Then, in June 2026, the socios had their first contested presidential election in twenty years, a real choice between Pérez and the businessman Enrique Riquelme. Pérez won about two thirds of the vote. As of autumn 2026, he is serving his eighth term.
+
+Love him or not, much of what you see on this tour, from the signings to the steel outside, carries his mark.
+
+Head back to the row of cups now, for cup number ten, the one won in Lisbon.
