@@ -1,0 +1,26 @@
+@id: 001 · Entrance hall · 23 Oct 2026 edition
+@section: Opening
+@room: Entrance hall
+@type: ANCHOR
+@title: Welcome — a palace, two barons and seven centuries
+@where: In the central hall on Level 0, just inside the entrance from the Paseo del Prado, before you walk to the far end of the hall and go up.
+@what: Welcome and how the guide works: the Thyssen-Bornemisza collection, built by Heinrich (1875–1947) and Hans Heinrich Thyssen-Bornemisza (1921–2002); 1988 loan of 775 works; opened 8 October 1992 in the Palacio de Villahermosa, converted by Rafael Moneo; 1993 purchase by the Spanish State; Carmen Thyssen collection on Level 0. In passing: Tintoretto, Paradise, ca. 1588, oil on canvas, Central hall.
+@listen: How a family's private collection became a national museum, how the walk runs from the top of the building down, and how to use the three lengths of this guide.
+@brief: A friendly guide meeting a visitor at the door; warm and clear, a little wry about the loan, practical and calm on the instructions.
+@pace: medium
+@energy: 3→3→2
+@sources: https://museothyssen.org/en/node/22022 (OFF: Hans Heinrich 1921–2002 inherited from Heinrich in 1947; 1988 contract for the loan of 775 works "with a view to their subsequent sale"; Moneo refurbished the Palacio de Villahermosa; opened October 1992, caption 8 Oct 1992; June 1993 sale agreement) ; https://www.museothyssen.org/sites/default/files/document/2017-03/Folleto_INGLES_ES.pdf (OFF: "Acquired over two generations", Heinrich 1875–1947 and Hans Heinrich 1921–2002; opened 8 Oct 1992; Moneo conversion; 2004 extension for the Carmen Thyssen collection; tour begins on Level 2) ; https://museothyssen.org/en/node/24067 (OFF: "We recommend that you start on the second floor, room 1"; "go to the end of the central hall and go up the stairs or take the lift"; Carmen Thyssen collection on the ground floor) ; https://www.museothyssen.org/en/collection/artists/tintoretto/paradise (OFF: label "Central hall"; ca. 1588; 174.5 × 494 cm; fire of December 1577 in the Doge's Palace; "Tintoretto's new proposal for the decoration of the main wall after Veronese's death") ; research/AUDIT_OLD_GUIDE_FACTS_OCT2026.md (775 works bought in 1993; never "the whole thing", never "the last Baron") ; source/map.txt (loans notice; level and room titles) ; PLAN.md (three lengths)
+---
+[warmly] This museum began as a loan. In 1988, Baron Hans Heinrich Thyssen-Bornemisza lent Spain 775 works from his family's collection, with a view to selling them later. In 1993 the Spanish State bought them. They are the heart of what you'll see today, gathered over two generations, by his father Heinrich and then by Hans Heinrich himself.
+
+To house the collection, the architect Rafael Moneo converted an old aristocratic palace on the Paseo del Prado, the Palacio de Villahermosa. The museum opened in the autumn of 1992. Today the ground floor also holds his wife Carmen Thyssen's collection.
+
+[pause] We'll walk it from the top down. On Level 2 you start with gold-ground panels from medieval Italy and move forward in time, room by room. Level 1 carries the story on to Pop Art. Then the Carmen Thyssen collection on Level 0, and out onto the Paseo del Prado. Every stop gives the room number from the museum's map, often with the room's title.
+
+This guide comes in three lengths. The full tour takes about two and a half hours, the essential version about an hour and a quarter, and the highlights about forty minutes. Whichever one is on your phone, play it in order. The numbers may jump, and every stop tells you where to go next.
+
+Some stops are short Extras, to skip whenever you like. [wry] And one honest warning. This museum lends a great deal, and the map itself warns that works are often out on loan. Now and then you may find a note where a painting should be. The temporary exhibitions are not part of this guide.
+
+On your way, look out in this hall for a long, crowded canvas of heaven. It's Tintoretto's Paradise, his proposal for the great council hall of the Doge's Palace in Venice after a fire. That palace comes back upstairs.
+
+Walk to the far end of the central hall, away from the Paseo del Prado doors, and take the stairs or the lift up to Level 2. Room 1 is where the map marks "Recommended start of the visit". Look for small gold-ground panels from 14th-century Siena.
