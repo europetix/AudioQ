@@ -1,0 +1,26 @@
+@id: 001 · FR · Outside · 24 Oct 2026 edition
+@section: Opening
+@room: Outside
+@type: ANCHOR
+@title: Bienvenue aux Offices
+@where: Dehors, sur le Piazzale degli Uffizi : la longue cour de pierre, étroite, entre les deux ailes du bâtiment, avec des statues de Toscans célèbres dans les niches des piliers et le fleuve tout au bout.
+@what: The Uffizi building, designed by Giorgio Vasari for Cosimo I de' Medici, built 1560–1580 and completed after 1574 by Francesco I and Bernardo Buontalenti; the gallery's opening to the public on 24 June 1769; the Family Pact of 1737; how the guide works.
+@listen: How a block of government offices became one of the world's first public museums, why the collection never left Florence, and how to use the three lengths of this guide.
+@brief: A warm, unhurried welcome to a friend at the door; one wry smile at the pact's last words, then plain, confident practical guidance.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/ll-palazzo-degli-uffizi (OFF: Vasari commissioned by Cosimo I to bring the administrative offices, the "uffizi", under one roof; Cosimo I and Vasari died 1574; Francesco I and Buontalenti finished it) ; https://www.uffizi.it/en/the-uffizi (OFF: building "constructed between 1560 and 1580 and designed by Giorgio Vasari"; lifts available; mod. 20 Oct 2026) ; https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF: Francesco I in the 1580s adorned the loggia crowning the courtyard with statues and paintings, a collection "initially intended exclusively for him and his court"; the Gallery "gradually opened to a select number of visitors from outside the court"; opened to the public by Peter Leopold in 1769) ; https://www.uffizi.it/en/news/rinasce-lingresso-storico-degli-uffizi (OFF: opened 24 June 1769 by Peter Leopold, "one of the world's first museums created with a modern concept") ; SEC https://www.sma.unifi.it/index.php?func=viewpage&module=CMpro&newlang=eng&pageid=518 (Family Pact after Gian Gastone's death in 1737, with the Habsburg-Lorraine; nothing to leave "the capital and State of the Grand Duchy"; "ornament of the State, for the benefit of the public and to attract the curiosity of foreign visitors") ; SEC https://www.finestresullarte.info/attualita/firenze-celebra-elettrice-palatina-alle-cappelle-medicee (pact signed 31 Oct 1737; "a ornamento dello Stato, per utilità del Pubblico e per attirare la curiosità dei Forestieri") ; MAP source/map.txt and research/map/p-1.png, p-3.png (museum entrance, Granducal staircase with lift, A1 Lorenese Vestibule, A2 Eastern Corridor) ; lengths from WRITER_BRIEF (O40 to confirm)
+@lang: fr
+@translation: from the fact-checked English Uffizi 001 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] La plus célèbre galerie d'art de Florence fut d'abord un immeuble de bureaux. Uffizi, les Offices, veut simplement dire « bureaux ».
+
+Autour de vous, le Piazzale degli Uffizi, la longue cour de pierre entre les deux ailes. Dans les niches, des statues de Toscans célèbres. En 1560, le duc Cosme premier de Médicis lança ce bâtiment, sur un projet de Giorgio Vasari. Il voulait y réunir les bureaux de l'État florentin. Vasari et Cosme moururent tous deux en 1574. Le fils de Cosme, François, et l'architecte Bernardo Buontalenti l'achevèrent.
+
+François installa dans la loggia du dernier étage des statues antiques et des tableaux. C'était une galerie privée, pour lui et sa cour. Au siècle suivant, quelques visiteurs choisis, venus de l'extérieur de la cour, y furent admis. [pause] Puis, le 24 juin 1769, le grand-duc Pierre-Léopold l'ouvrit au public. Pour le musée, c'est l'un des premiers musées au monde de conception moderne.
+
+[pause] Pourquoi tout est-il encore ici ? À la mort du dernier grand-duc Médicis, sa sœur, Anne-Marie-Louise, conclut un Pacte de famille avec la nouvelle maison régnante de Lorraine. Rien ne devait jamais quitter Florence et l'État. Les collections resteraient, selon les termes du pacte, pour l'ornement de l'État, l'utilité du public, et pour attirer la curiosité des étrangers. [amused] Autrement dit, aujourd'hui, vous.
+
+Ce guide existe en trois longueurs. La visite complète dure environ deux heures trois quarts. La version essentielle, environ deux heures. Celle des incontournables, environ une heure et quart. Quelle que soit la version sur votre téléphone, écoutez-la dans l'ordre. [pause] Les numéros peuvent sauter, et chaque arrêt vous dit où aller ensuite. Nous commençons au deuxième étage et finissons au premier.
+
+Passez l'entrée du musée et montez l'escalier Granducal jusqu'au deuxième étage. Il y a un ascenseur à côté. En haut, traversez le vestibule, la salle A1, jusqu'au long corridor bordé de statues de marbre : la salle A2, le corridor est.

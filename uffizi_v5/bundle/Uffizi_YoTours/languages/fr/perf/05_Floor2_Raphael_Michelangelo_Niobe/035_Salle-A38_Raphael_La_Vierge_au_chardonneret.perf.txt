@@ -1,0 +1,28 @@
+@id: 035 · FR · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Raphaël — La Vierge au chardonneret
+@where: Salle A38. Placez-vous devant le panneau vertical, d'environ un mètre de haut : la Vierge en rouge et bleu, assise dans un doux paysage avec un petit livre, et deux petits garçons à ses genoux, dont l'un tend un minuscule oiseau à l'autre.
+@what: Raphael, Mary, Christ and the young John the Baptist, known as the "Madonna of the Goldfinch", before February 1506, oil on wood, 107 × 77.2 cm, 1890 n. 1447.
+@listen: A wedding present, a landslide that broke it into seventeen pieces, and the small bird that carries the whole story.
+@brief: Gentle and warm after the Michelangelo, with a real sense of the disaster in the middle; tender at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/mary-christ-and-the-young-john-the-baptist-known-as-the-madonna-of-the-goldfinch (OFF, mod. 22 Nov 2023: Location "A38. Raphael and Michelangelo Room"; before February 1506; oil on wood; 107 × 77.2 cm; Raphael's Florentine period 1504–1508; Vasari: commissioned for the marriage of Lorenzo Nasi and Sandra di Matteo Canigiani, 23 Feb 1506; the Nasi home destroyed by a landslide in 1547, painting broken into seventeen fragments, "probably given to Michele di Ridolfo del Ghirlandaio for restoration"; history unknown until Cardinal Giovan Carlo de' Medici's collection, 1646–47; pyramid after Leonardo's lost cartoon of the Virgin and Child with St Anne shown at Santissima Annunziata, and Michelangelo's Bruges Madonna; sfumato; John holds out the goldfinch for the Child to touch, "innocently fragile", foreshadowing Christ's sacrifice; Mary's small book signifies faith and foreshadows the sacrifice) ; AUDIT Mand-gold (SNIP): modern restoration 2002–2008, spoken only as "early in this century"
+@lang: fr
+@translation: from the fact-checked English Uffizi 035 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Un cadeau de mariage. Vasari raconte que Raphaël l'a peint pour Lorenzo Nasi, qui s'est marié à Florence en février 1506.
+
+Raphaël avait à peine plus de vingt ans. Tout juste arrivé en ville, il absorbait tout. Regardez le groupe. La Vierge en haut, les deux enfants à ses genoux : une pyramide calme et stable. [pause] Le musée rattache cette forme à un dessin perdu de Léonard, la Vierge avec sainte Anne, exposé dans une église florentine, et à une Madone de marbre de Michel-Ange. Et la douceur, ces visages fondus dans l'ombre, ces collines dissoutes dans la brume, c'est le sfumato de Léonard.
+
+[pause] Maintenant, l'oiseau. Le petit saint Jean tend un chardonneret, et l'Enfant Jésus avance la main pour le toucher. On dirait un jeu. Mais le chardonneret était lié à la Passion. Cet oiseau fragile annonce donc le sacrifice du Christ. Même le petit livre de Marie va dans ce sens.
+
+[quietly] Puis, la catastrophe. En 1547, un glissement de terrain détruit la maison des Nasi, et le panneau se brise en dix-sept morceaux. On le confie probablement au peintre Michele di Ridolfo del Ghirlandaio, pour le reconstituer. [pause] Puis il disparaît des archives pendant un siècle, jusqu'à la collection d'un cardinal Médicis.
+
+Il a été restauré à nouveau au début de ce siècle. Quelqu'un, il y a longtemps, a ramassé les morceaux d'un cadeau de mariage, et n'a pas voulu y renoncer.
+
+[warmly] Un tableau sur un avenir fragile, qui a bien failli ne pas en avoir.
+
+De retour dans le corridor, tournez à gauche. La porte suivante, la salle A39, c'est la longue salle de Niobé : une galerie de figures de marbre en fuite.

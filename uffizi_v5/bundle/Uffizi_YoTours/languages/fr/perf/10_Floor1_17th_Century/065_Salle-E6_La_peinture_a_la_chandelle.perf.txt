@@ -1,0 +1,26 @@
+@id: 065 · FR · Room E6 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E6
+@type: R
+@title: E6 · La peinture à la chandelle
+@where: Salle E6, « La peinture à la chandelle ». Cherchez la large scène nocturne, d'environ 1,3 mètre : la Vierge, Joseph appuyé sur son bâton et deux anges penchés sur une crèche, tous éclairés par l'Enfant nouveau-né.
+@what: Gerrit van Honthorst, Adoration of the Child, about 1619–1620, oil on canvas, 95.5 × 131 cm, inv. 1890 no. 739.
+@listen: Gerard of the Nights, and a Nativity where the only light comes from the baby.
+@brief: Hushed, as if the room were dark; warm and tender in the looking.
+@pace: slow
+@energy: 1→2→2
+@sources: https://www.uffizi.it/en/artworks/adoration_of_the_child_gherrit_van_honthorst (OFF: Gerrit Van Honthorst, Utrecht 1590–1656; 1619–1620 c.; oil on canvas 95.5 × 131; inv. 1890 no. 739; Location "E6. Painting by Candlelight"; Virgin, St Joseph leaning on his cane, two angels bending over the manger; "The divine light spread from the newborn's body softens each feature, in particular the facial ones of the Virgin"; Gherardo delle Notti, "Gerard of the nights", nocturnal lighting influenced by Caravaggio, met in Rome in the first decades of the 17th century; Cosimo II "bought some of his works in 1620", this one probably among them) ; https://www.uffizi.it/en/artworks/sacrifice-of-isaac (OFF: bought by Fairfax Murray as a work by Gherardo delle Notti). NOT used: the bomb-damaged Adoration of the Shepherds, because its room is not confirmed (O36; see notes for a held sentence).
+@lang: fr
+@translation: from the fact-checked English Uffizi 065 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Dans cette salle, la lumière n'entre pas par une fenêtre. Elle vient de l'intérieur des tableaux.
+
+Gerrit van Honthorst était un peintre hollandais, d'Utrecht. Au début du dix-septième siècle, il est allé à Rome, et il y a vu ce que le Caravage avait fait de l'obscurité. Il a pris ce projecteur dur et l'a rendu plus chaud, plus intime : bougies, lampes, visages qui luisent dans la nuit. Les Italiens lui ont donné un surnom : Gherardo delle Notti, Gérard des Nuits. [wry] Vous avez déjà croisé ce nom, sur le Caravage qu'un collectionneur avait acheté en le croyant de lui.
+
+Son Adoration de l'Enfant a été peinte vers 1619 ou 1620. Il n'y a aucune bougie. [pause] La lumière jaillit du corps du nouveau-né. Elle adoucit le visage de la Vierge penchée sur lui. Elle saisit Joseph, appuyé sur son bâton, et deux anges penchés sur la crèche. Tout ce qui est hors de ce petit cercle retombe dans la nuit.
+
+Le grand-duc Cosme deux a acheté des œuvres de Honthorst en 1620, et celle-ci en faisait probablement partie. Elle est donc peut-être arrivée chez les Médicis presque aussitôt peinte.
+
+[warmly] Le Caravage se servait de l'obscurité pour choquer. Dans cette salle, elle sert à rapprocher les gens.
+
+Salle suivante, la salle E7. Cherchez le portrait par Rembrandt d'un vieil homme barbu, perdu dans ses pensées, sur un fond sombre.

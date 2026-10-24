@@ -1,0 +1,28 @@
+@id: 030 · DE · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: W
+@title: A35 · Leonardo — Verkündigung
+@where: Saal A35. Stellen Sie sich vor die lange, niedrige Tafel, über zwei Meter breit und unter einem Meter hoch: Links kniet der Engel auf einer Blumenwiese, rechts sitzt die Jungfrau an einem gemeißelten Marmorpult, dazwischen öffnen sich dunkle Bäume und eine dunstige Ferne.
+@what: Leonardo da Vinci, Annunciation, c. 1472, oil on wood, 90 × 222 cm, 1890 n. 1618; at the Uffizi since 1867, from San Bartolomeo a Monteoliveto.
+@listen: A painting nobody can trace to its first church, made by a young man already looking harder than anyone around him.
+@brief: Close and attentive, a friend pointing out details one by one; curious, then quietly delighted at the arm.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/annunciation (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A35. Leonardo da Vinci"; 1472 c.; oil on wood; 90 × 222 cm; brought to the Uffizi in 1867 from San Bartolomeo a Monteoliveto outside Porta San Frediano; "nothing is known about its original location or who commissioned it"; a youthful work painted while in Verrocchio's studio; angel "proffering a lily"; wings "based on those of a mighty bird of prey"; lectern reproduces a Verrocchio invention inspired by the tomb of Piero the Gouty in San Lorenzo; enclosed garden before a Renaissance palace, hortus conclusus; dark tree shapes, crepuscular light; the Virgin's right arm "appears too long", possibly reflecting early optical studies and a viewpoint from the right; lowered partly because the painting once hung over a side altar) ; AUDIT: drop "hung high" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: "nothing is known about its original location or who commissioned it" and "a lateral viewpoint (from the right) and lowered, due to the original location of the painting, over a side altar" (spoken: the side altar only as the museum's suggestion)
+@lang: de
+@translation: from the fact-checked English Uffizi 030 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Niemand weiß, wer dieses Bild bestellt hat. 1867 kam es in die Uffizien, aus einer kleinen Kirche gleich vor den Stadttoren. Sicher ist: Leonardo war etwa zwanzig und arbeitete noch in Verrocchios Werkstatt.
+
+Die Szene ist die Verkündigung. Der Engel Gabriel kniet links und reicht eine Lilie. Die Jungfrau rechts blickt von ihrem Buch auf. [pause] Zwischen ihnen liegt ein umschlossener Garten, das alte Sinnbild ihrer Reinheit, vor einem Palast.
+
+Schauen Sie nun so, wie Leonardo schaute. Beginnen Sie mit den Flügeln des Engels. Das sind nicht die üblichen dekorativen Federn. Das Museum sagt, sie gehen auf die Flügel eines mächtigen Greifvogels zurück. Dann der Rasen unter dem Engel, voller einzelner Blumen, jede genau beobachtet. [pause] Dann die weite Ferne hinter den dunklen Bäumen, wo alles in ein blasses, dunstiges Blau übergeht.
+
+[pause] Sehen Sie das Marmorpult vor der Jungfrau. Es kopiert einen Entwurf seines Meisters Verrocchio, angeregt vom Grabmal Pieros de' Medici, genannt Piero der Gichtige, in der Kirche San Lorenzo. Ein echtes florentinisches Denkmal, in eine heilige Szene geschmuggelt.
+
+[lightly] Dann das berühmte Problem. Sehen Sie den rechten Arm der Jungfrau, der nach dem Buch greift. Er wirkt zu lang. War der junge Maler nachlässig? Vielleicht nicht. Das Museum vermutet, dass das Bild von rechts und von weiter unten gesehen werden sollte, über einem Seitenaltar. [pause] Gehen Sie also ein paar Schritte nach rechts und schauen Sie noch einmal. Prüfen Sie, ob der Arm sich fügt.
+
+Kaum zwanzig, stellte er schon eigene Fragen dazu, wie unsere Augen wirklich sehen.
+
+Bleiben Sie in Saal A35 für Leonardos unvollendete Anbetung der Könige, die große braune Tafel.

@@ -1,0 +1,28 @@
+@id: 026 · FR · Room A27 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A27
+@type: R
+@title: A27 · Le Pérugin
+@where: Salle A27, « Pietro Perugino ». Deux grands retables presque carrés, chacun d'environ un mètre soixante-quinze de large : la Pietà, où sa mère tient le Christ mort sous un portique de pierre grise, et la Prière au jardin, avec le Christ agenouillé sur un rocher et trois apôtres endormis en dessous.
+@what: Perugino (Pietro di Cristoforo Vannucci), Pietà, c. 1493–1496, oil on wood, 168 × 176 cm, 1890 no. 8365; and Oration in the Garden, c. 1493–1496, oil on wood, 166 × 171 cm, 1890 n. 8367; both painted for San Giusto alle Mura, Florence.
+@listen: The best-paid painter of his day, the church that vanished, and the calm that Raphael learned.
+@brief: Even and gentle, like the pictures; a wry beat on Vasari, warm on Raphael.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/pieta-perugino-uffizi-en (OFF, texts Giulia Mancini and Daniela Parenti: Location "A27. Pietro Perugino"; 1493–1496 c.; oil on wood; 168 × 176 cm; for San Giusto alle Mura, destroyed in 1529 before the siege ordered by Charles V; Mary holds her dead son, John the Evangelist supports him on the left, Mary Magdalene prays on the right, Joseph of Arimathea and perhaps Nicodemus behind; Renaissance portico with pillars in pietra serena; "intimate meditative atmosphere"; painted with the Oration for the same church) ; https://www.uffizi.it/en/artworks/oration-in-the-garden (OFF: A27; 1493–1496 c.; oil on wood; 166 × 171 cm; Jesus kneels on a rocky outcrop, turns to the angel holding the chalice; John, Peter and James asleep; soldiers in two symmetrical troops led by Judas on the left; placid landscape; payments from the Jesuate Fathers; at the Uffizi since 1919) ; AUDIT (general, hedged): named after Perugia, born at Città della Pieve; one of the best-paid painters by 1500; "traditionally Raphael's teacher, and certainly his model"; Vasari: mocked late in life for repeating himself ; NOT named: Francesco delle Opere (ONSITE O13)
+@lang: fr
+@translation: from the fact-checked English Uffizi 026 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Vers 1500, peu de peintres en Italie étaient mieux payés que lui. Et selon Vasari, à la fin de sa vie, on se moquait de lui car il peignait toujours la même chose.
+
+Il s'appelait Pietro Vannucci. On le surnommait le Pérugin, d'après la ville de Pérouse, bien qu'il fût né dans la petite ville de Città della Pieve. Au milieu des années 1490, il peignit ces deux retables pour l'église San Giusto alle Mura, près des remparts. [pause] L'église n'a pas survécu. Elle fut démolie en 1529, avant un siège.
+
+Regardez d'abord la Pietà. Marie tient son fils mort. Jean le soutient d'un côté, Marie-Madeleine prie de l'autre. Personne ne crie ni ne déchire ses vêtements. Tous sont immobiles, sous les piliers de pierre grise d'un portique calme et mesuré.
+
+[pause] Puis la Prière au jardin. Le Christ, agenouillé sur un rocher, se tourne vers un ange qui tient une coupe. Sous lui, trois apôtres dorment. Et loin derrière, des soldats arrivent, menés par Judas, en deux groupes nets et symétriques.
+
+[wry] Cet équilibre était son grand don. Si Vasari a raison, il devint aussi son piège.
+
+[warmly] Mais un jeune peintre l'étudia de près. Selon la tradition, le Pérugin fut le maître de Raphaël, et sûrement son modèle. [pause] Retenez ces visages doux et ces paysages calmes pour Raphaël, quelques salles plus loin.
+
+Continuez tout droit dans la salle A28 : l'Adoration des mages, foisonnante, de Filippino Lippi.

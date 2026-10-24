@@ -1,0 +1,26 @@
+@id: 023 · FR · Room A23 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A23
+@type: R
+@title: A23 · Le corridor sud
+@where: Le court corridor sud, salle A23, au bout du bâtiment côté fleuve. Allez aux hautes fenêtres : l'Arno est en contrebas, avec le Ponte Vecchio un peu plus loin sur le fleuve. Une louve de porphyre rouge se dresse au milieu du corridor.
+@what: The South Corridor (or Second Corridor), ceiling frescoes 1696–1699 for Cosimo III; ancient sculpture including the so-called Dying Alexander (a Greek original head, 2nd century BC), a porphyry she-wolf (2nd century AD) and a Muse signed by Atticus of Aphrodisias (late 4th century AD). View of the Arno, the Ponte Vecchio and the Vasari Corridor.
+@listen: The view of the river and the bridge, the Medici's private passage over it, and the night in 1966 when the river came into the city.
+@brief: A pause by the window with a friend; easy and warm, then quiet for the flood.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/il-corridoio-di-mezzogiorno (OFF, mod. 10 Jun 2026: "the second and shortest corridor"; "overlooks the Arno River and Ponte Vecchio"; ceiling 1696–1699 for Cosimo III, religious subjects; "head actually depicting a Triton or another sea divinity", the so-called Dying Alexander, a rare Greek original, 2nd c. BC; porphyry she-wolf at the centre, 2nd c. AD; Muse signed by Atticus of Aphrodisias, late 4th c. AD) ; https://www.uffizi.it/en/corridoio-vasariano (OFF: built by Vasari in 1565; about 750 m; connects the Uffizi with Pitti and the Boboli Gardens over the Ponte Vecchio) ; https://www.uffizi.it/en/artworks/1966-flood-damages-to-art-in-florence (OFF, text Chiara Ulivi: Arno overflowed about 2.30 a.m. on 4 Nov 1966; Superintendent with curators and attendants went to the Uffizi very early; works moved to the upper floors; paintings removed from the Vasari Corridor, which seemed "on the edge of collapse together with Ponte Vecchio") ; AUDIT VT-ponte (SEC, audit fix): goldsmiths since 1593, when Ferdinando I moved out the butchers ; AUDIT: Palazzo Vecchio – Uffizi – Ponte Vecchio – Pitti ; rooms A17–A21 closed: notice 15 Sep 2026 and map ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): MAP legend: A17-A20 "Renaissance beyond the Alps", A21 "15th Century in Siena"; "It held" cut (unsourced)
+@lang: fr
+@translation: from the fact-checked English Uffizi 023 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] C'est le plus court corridor de la galerie, et celui qui a la plus belle vue. Prenez une minute aux fenêtres.
+
+En bas, l'Arno. Un peu plus loin sur le fleuve, le Ponte Vecchio et ses petites boutiques suspendues au-dessus de l'eau. Depuis 1593, quand le grand-duc Ferdinand en chassa les bouchers, elles appartiennent aux orfèvres. [pause] Regardez maintenant le haut du pont. Cette longue rangée de fenêtres, c'est le corridor de Vasari, le passage privé et surélevé des Médicis. Il relie le Palazzo Vecchio, ce bâtiment, le pont et le palais Pitti, sur l'autre rive.
+
+[quietly] Aux petites heures du 4 novembre 1966, l'Arno sortit de son lit et inonda la ville. Très tôt ce matin-là, le directeur des musées vint ici avec conservateurs et gardiens. Ils montèrent des œuvres aux étages supérieurs. [pause] Et ils décrochèrent les tableaux du corridor de Vasari. Selon les mots du musée, il semblait « au bord de l'effondrement avec le Ponte Vecchio ».
+
+La louve de pierre rouge, au milieu, est taillée dans le porphyre. Et la tête de marbre dite Alexandre mourant est en réalité un dieu marin, l'un des rares originaux grecs du musée.
+
+Les salles A17 à A21, que vous avez longées, montrent d'ordinaire la peinture d'au-delà des Alpes et la Sienne du quinzième siècle. Elles sont fermées pour réaménagement.
+
+[pause] Engagez-vous dans le long corridor ouest. La première porte à votre gauche, du côté opposé aux fenêtres de la cour, est la salle A25. Cherchez un retable de quatre saints sous une loggia rose et verte.

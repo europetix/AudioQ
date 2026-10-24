@@ -1,0 +1,28 @@
+@id: 035 · ES · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Rafael — La Virgen del jilguero
+@where: Sala A38. Colóquese ante la tabla vertical, de un metro de alto aproximadamente: la Virgen de rojo y azul, sentada en un paisaje suave con un librito, y dos niños pequeños a sus rodillas. Uno le tiende al otro un pajarito.
+@what: Raphael, Mary, Christ and the young John the Baptist, known as the "Madonna of the Goldfinch", before February 1506, oil on wood, 107 × 77.2 cm, 1890 n. 1447.
+@listen: A wedding present, a landslide that broke it into seventeen pieces, and the small bird that carries the whole story.
+@brief: Gentle and warm after the Michelangelo, with a real sense of the disaster in the middle; tender at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/mary-christ-and-the-young-john-the-baptist-known-as-the-madonna-of-the-goldfinch (OFF, mod. 22 Nov 2023: Location "A38. Raphael and Michelangelo Room"; before February 1506; oil on wood; 107 × 77.2 cm; Raphael's Florentine period 1504–1508; Vasari: commissioned for the marriage of Lorenzo Nasi and Sandra di Matteo Canigiani, 23 Feb 1506; the Nasi home destroyed by a landslide in 1547, painting broken into seventeen fragments, "probably given to Michele di Ridolfo del Ghirlandaio for restoration"; history unknown until Cardinal Giovan Carlo de' Medici's collection, 1646–47; pyramid after Leonardo's lost cartoon of the Virgin and Child with St Anne shown at Santissima Annunziata, and Michelangelo's Bruges Madonna; sfumato; John holds out the goldfinch for the Child to touch, "innocently fragile", foreshadowing Christ's sacrifice; Mary's small book signifies faith and foreshadows the sacrifice) ; AUDIT Mand-gold (SNIP): modern restoration 2002–2008, spoken only as "early in this century"
+@lang: es
+@translation: from the fact-checked English Uffizi 035 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Fue un regalo de bodas. Vasari cuenta que Rafael lo pintó para Lorenzo Nasi, casado en Florencia en febrero de 1506.
+
+Rafael, de poco más de veinte años, recién llegado a la ciudad, lo absorbía todo. Mire la forma del grupo. La Virgen arriba, los dos niños a sus rodillas: los tres forman una pirámide serena y estable. [pause] El museo vincula esa forma a un dibujo perdido de Leonardo, la Virgen con santa Ana, expuesto en una iglesia florentina. Y también a una Virgen de mármol de Miguel Ángel. Y la suavidad, caras que se funden en la sombra, colinas que se disuelven en la bruma, es el sfumato de Leonardo.
+
+[pause] Ahora, el pájaro. El pequeño san Juan ofrece un jilguero, y el Niño alarga la mano para tocarlo. Parece un juego. Pero el jilguero se asociaba a la Pasión: este frágil pájaro anuncia el sacrificio de Cristo. Hasta el librito en manos de María apunta en esa dirección.
+
+[quietly] Luego, el desastre. En 1547, un corrimiento de tierra destruyó la casa de los Nasi, y esta tabla se rompió en diecisiete pedazos. Probablemente se confió al pintor Michele di Ridolfo del Ghirlandaio para recomponerla. [pause] Después desaparece de los registros un siglo, hasta aparecer en la colección de un cardenal Médici.
+
+Se restauró de nuevo a principios de este siglo. Alguien, hace mucho, recogió los pedazos de un regalo de bodas y se negó a perderlo.
+
+[warmly] Un cuadro sobre un futuro frágil, que casi no tuvo ninguno.
+
+De vuelta en el corredor, gire a la izquierda. La siguiente puerta, la sala A39, es la larga sala de Níobe: figuras de mármol en fuga.

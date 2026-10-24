@@ -1,0 +1,26 @@
+@id: 055 · FR · Room D19 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D19
+@type: R
+@title: D19 · La porte du corridor de Vasari
+@where: Salle D19, « Entrée du corridor de Vasari », la salle étroite derrière la deuxième porte du mur du fond de la salle D15, en partant de la salle D14. Cherchez le panneau du point de rendez-vous du corridor de Vasari. Restez dans la salle : ce guide ne franchit pas la porte du corridor.
+@what: Room D19, the Vasari Corridor entrance and meeting point. The Vasari Corridor, 1565, about 750 metres, from the Uffizi over the Ponte Vecchio to the Pitti Palace and the Boboli Gardens.
+@listen: A private walkway built in five months for a Medici wedding, where the self-portraits once hid, and how it is visited today.
+@brief: Practical and warm, with a sense of the secret passage beyond the wall; clear about what is and is not part of this visit.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/notices/rules-for-accessing-the-vasari-corridor (OFF, mod. 11 Sep 2026: "The entrance to the Vasari Corridor is at the Room D19 Meeting Point on the first floor of the Uffizi"; reservation of the Corridor supplement required; one way only, Uffizi to Pitti; groups leave by the Buontalenti Grotto in the Boboli Garden; staff accompany groups but give no guided tours; prices and times NOT used) ; https://www.uffizi.it/en/corridoio-vasariano/history (OFF: commissioned by Cosimo I in 1565 for the wedding of Francesco and Joanna of Austria; "the construction works lasted just five months"; for the grand dukes to move safely between Pitti Palace and Palazzo Vecchio; 760 m; to the Buontalenti Grotto; bypasses the Mannelli Tower; overlooks Santa Felicita; 73 windows; self-portraits there until 2016) ; https://www.uffizi.it/en/news/vasari-corridor-reopens (OFF: closed since 2016, reopened 21 Dec 2024; returned to its plain original state; anti-seismic work; "more than seven hundred metres long"; fully accessible) ; https://www.uffizi.it/en/news/vasari-corridor-welcomes-historical-figures (OFF, 7 Jul 2025: more than fifty Roman portrait busts in the section above the Ponte Vecchio; in storage since 1993) ; https://www.uffizi.it/en/news/selfportraits_uffizi (OFF: self-portraits in the Corridor 1973–2016) ; length "about 750 metres": audit wording
+@lang: fr
+@translation: from the fact-checked English Uffizi 055 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Quelque part au-delà de cette salle étroite, un corridor sort du musée, passe au-dessus des rues, franchit un pont, et rejoint un jardin sur l'autre rive.
+
+Ici commencent les visites du corridor de Vasari. Le duc Cosme premier l'a commandé en 1565 pour le mariage de son fils François avec Jeanne d'Autriche. Giorgio Vasari l'a bâti en cinq mois seulement. Il mesure environ 750 mètres. Il part du Palazzo Vecchio et traverse ce bâtiment. [pause] Puis il franchit l'Arno au-dessus du Ponte Vecchio, et plonge le regard dans l'église Santa Felicita. Il finit près de la grotte de Buontalenti, dans les jardins de Boboli, à côté du palais Pitti. Les grands-ducs passaient ainsi de leur demeure au siège du gouvernement sans mettre un pied dans la rue.
+
+[pause] Vous avez déjà rencontré certains de ses anciens occupants. De 1973 à 2016, une partie des autoportraits y était accrochée, vue de très peu de gens. Le corridor a fermé cette année-là. Il a rouvert en décembre 2024, ramené à ses simples murs d'origine et à ses soixante-treize fenêtres.
+
+Aujourd'hui, plus de cinquante bustes romains occupent la partie au-dessus du Ponte Vecchio.
+
+[lightly] Le corridor se visite à part, sur réservation, en groupes accompagnés qui partent du point de rendez-vous de cette salle. Il est à sens unique, vers les jardins de Boboli : on ne peut pas revenir par là au musée. Ce guide reste dans les galeries.
+
+La salle D20, la chapelle vénitienne, s'ouvre sur cette salle, près de son extrémité côté corridor. Cherchez la Suzanne et les vieillards de Lotto. Ne franchissez pas la porte du corridor de Vasari.

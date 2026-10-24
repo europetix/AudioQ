@@ -1,0 +1,26 @@
+@id: 037 · FR · Room A24 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A24
+@type: R
+@title: A24 · Descente par l'escalier Lanzi
+@where: Au bout du corridor ouest, salle A24, en haut de l'escalier Lanzi, avant de descendre. La terrasse panoramique se trouve aussi à cette extrémité de l'étage.
+@what: The Western Corridor (Third Corridor), ancient statues in facing pairs, ceilings painted over the two centuries after the first bay of 1581; the Lanzi staircase down to the first floor; the panoramic terrace with the café, second floor.
+@listen: The most important direction in the guide: one floor down, not out to the street.
+@brief: Calm and clear, a friend making sure you don't miss the turning; warm about what is still to come.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF, mod. 10 Jun 2026, text Antonio Godoli: ceilings of the second and third corridors painted "over the next two centuries"; "pairs of full-length statues facing one another"; Peter Leopold opened the Gallery to the public in 1769; "On that occasion was built the large monumental entrance still in use today"; "the original route, previously accessed through a small entrance in the third corridor, was reversed") ; https://www.uffizi.it/en/the-uffizi (OFF: the cafeteria is on the second floor and has a terrace with a panoramic view; a visitors' map PDF) ; https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (OFF map, Oct 2026, as source/map.txt and research/map/hi-3.png, p-2.png: panoramic terrace with café icons at the west end of the second floor; Lanzi staircase with a lift; "ONCE OUT, IT IS NO LONGER POSSIBLE TO ACCESS THE CLOACKROOM AND AUDIOGUIDE DESK"; Complete itinerary continues on the first floor from the Lanzi staircase; Info Point at the first-floor stair foot; B1–B8 Contini Bonacossi, C1–C5 self-portraits, D rooms 16th century) ; café mention: WRITER_BRIEF allows it plainly in 037; lead decision 24 Oct 2026: keep the plain line (PLAN row said "no café") ; terrace: the spoken instruction is conditional ("if reaching it means going through an exit, skip it"), because hi-3 draws the terrace off the stair-head landing next to the exit icon: ONSITE O17 and O17b ; B1/B2 cue: p-2 at 300 dpi draws no B1→B2 doorway (B2 is open to B4 and faces the landing), so the cue names B2's position only: ONSITE O19 ; lift: ONSITE O38
+@lang: fr
+@translation: from the fact-checked English Uffizi 037 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Avant 1769, les visiteurs entraient dans la galerie par une petite porte de ce corridor. Cette année-là, le grand-duc l'a ouverte au public. Le parcours a été inversé, et l'on a construit une nouvelle grande entrée, celle qui sert encore aujourd'hui.
+
+Jetez un dernier regard le long du corridor ouest, avec ses statues antiques qui se font face deux à deux, sous des plafonds peints. C'est la fin du deuxième étage.
+
+[lightly] Avant de descendre : la terrasse panoramique, avec le café du musée, se trouve à cette extrémité de l'étage. Le parcours ne revient pas ici. Si vous voulez la vue, allez-y maintenant, puis revenez à cet escalier. Si, pour l'atteindre, il faut passer par une sortie, renoncez-y.
+
+[pause] Voici maintenant l'indication la plus importante de ce guide. Prenez l'escalier Lanzi pour descendre d'*un* seul étage, jusqu'au premier étage, et non jusqu'à la rue. Il y a aussi un ascenseur près de l'escalier. [pause] L'escalier continue jusqu'à une sortie sur la rue. Ne le suivez pas. Une fois dans la rue, vous ne pourrez plus revenir au vestiaire ni au comptoir des audioguides, qui sont de l'autre côté du bâtiment.
+
+[warmly] En bas, bien des choses vous attendent : une collection privée donnée à l'État, une longue série d'autoportraits d'artistes, et le seizième siècle, avec Bronzino et Titien.
+
+Descendez d'un seul étage, et quittez l'escalier au premier étage, près du point info. Au pied de l'escalier, la galerie de la collection Contini Bonacossi, la salle B1, s'éloigne de l'escalier. [pause] La salle B2 est à son extrémité la plus proche, du côté opposé au point info. Cherchez un grand retable doré, la Madone des Neiges.

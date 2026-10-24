@@ -1,0 +1,30 @@
+@id: 052 · DE · Room D15 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D15
+@type: W
+@title: D15 · Bronzino — Eleonora di Toledo mit ihrem Sohn Giovanni
+@where: Saal D15, der Saal der Dynastien, am Korridor neben Saal D14. Suchen Sie das Bildnis, etwa 1,15 Meter hoch: eine sitzende Frau in einem weiß-goldenen Brokatkleid vor leuchtend blauem Hintergrund, die Hand auf der Schulter eines kleinen Jungen. Mit diesem Bild zeigt der Plan des Museums den Saal.
+@what: Bronzino, Portrait of Eleonora di Toledo with her son Giovanni, c. 1545, oil on wood, 115 × 96 cm, inv. 1890 no. 748.
+@listen: A duchess who ran the state, a gown that tells the world she will give the family heirs, and a legend about her burial that is not true.
+@brief: Admiring and clear-eyed, correcting an old myth with a light touch, then quiet and tender for the ending.
+@pace: medium-slow
+@energy: 2→3→1
+@sources: https://www.uffizi.it/en/artworks/eleonora-di-toledo (OFF: Location "D15. Room of the Dynasties"; Bronzino, Florence 1503–1572; c. 1545; oil on wood 115 × 96; inv. 1890 no. 748; "a stateswoman, a capable administrator, the Duke's most important collaborator"; had already served three times as head of state during Cosimo's absences; Giovanni her second son, born 1543, destined for the Church; silk brocade, "a speciality of the Florentine textile industry"; pomegranate and pinecone motifs "Christian symbols of resurrection and regeneration", alluding to her fertility; the blue field in lapis lazuli, the costliest pigment, traditionally for the Virgin's cloak, an aura of sacrality; celebrates her dynastic role and presents her as a powerful, independent woman; curators Bruce Edelstein, Patrizia Naldini) ; SEC https://research.aub.ac.uk/id/eprint/558 (S. Hall, Costume 2025: body exhumed in 1857; the burial-dress identification a "widespread myth", long dispelled because "the two dresses are not similar") ; deaths of Giovanni (20 Nov 1562) and Eleonora (17 Dec 1562) of malaria, within weeks, and Garzia that December: audit (SEC Pisa-eleo and standard reference) ; map (OFF): D15 highlight picture "D15 Bronzino"
+@lang: de
+@translation: from the fact-checked English Uffizi 052 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dies ist das Bildnis eines Staatsoberhaupts. Dreimal regierte Eleonora di Toledo an Stelle ihres Mannes, während er abwesend war.
+
+Sie war Spanierin, die Frau von Herzog Cosimo dem Ersten. Das Museum nennt sie eine Staatsfrau, eine fähige Verwalterin und die wichtigste Mitarbeiterin des Herzogs. Agnolo Bronzino malte sie um 1545 mit ihrem zweiten Sohn Giovanni, damals etwa zwei Jahre alt.
+
+[pause] Sehen Sie zuerst das Kleid an. Es ist Seidenbrokat, eine Spezialität der Florentiner Textilindustrie. Das Kleid ist also auch eine Werbung. Folgen Sie dem Muster: Granatäpfel und Pinienzapfen. Sie waren christliche Symbole der Auferstehung und des neuen Lebens. Hier sprechen sie auch von ihrer Fruchtbarkeit.
+
+Dann das Blau hinter ihr. Es ist aus Lapislazuli, dem teuersten Pigment überhaupt, meist dem Mantel der Jungfrau vorbehalten. Bronzino umgibt eine Herzogin mit der Farbe der Madonna. [pause] Und ihre Hand ruht leicht auf der Schulter ihres Sohnes. Mutter, Herrscherin, fast heilig.
+
+[wry] Vielleicht hören Sie, Eleonora sei in genau diesem Kleid begraben worden. Das stimmt nicht. Als man ihr Grab 1857 öffnete, trug sie ein anderes Kleid. Die Legende ist längst widerlegt und wird trotzdem weitererzählt, weil sie so eine gute Geschichte ist.
+
+Das wahre Ende ist trauriger. Im Winter 1562 traf die Malaria die Familie. Giovanni starb im November. Sein Bruder Garzia starb im Dezember, und Eleonora starb im selben Monat in Pisa, wenige Wochen nach ihrem Sohn.
+
+[quietly] So wurde dieses Bild einer sicheren Zukunft am Ende ein Denkmal für die Mutter und den Jungen an ihrer Seite.
+
+In diesem Saal gibt es einen kurzen Extra-Titel über Tizians Herzog und Herzogin von Urbino, und in den Sälen dahinter, D16 bis D18, einen über die Gegenreformation. Die nächste Hauptstation ist Saal D19, wo der Vasari-Korridor beginnt. [pause] Das ist der schmale Saal hinter der zweiten Tür in der Rückwand, der Tür, die weiter entfernt ist von Saal D14, durch den Sie hereingekommen sind.

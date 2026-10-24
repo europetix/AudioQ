@@ -1,0 +1,30 @@
+@id: 034 · FR · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Michel-Ange — Le Tondo Doni
+@where: Salle A38. Placez-vous devant le tableau rond, de 120 centimètres de diamètre, dans son profond cadre sculpté et doré : Marie se retourne pour prendre l'Enfant des mains de Joseph, dans des couleurs dures et vives, avec une rangée de jeunes hommes nus derrière un muret.
+@what: Michelangelo Buonarroti, Holy Family, known as the "Doni Tondo", about 1505–1507 (page: 1505–1506), tempera grassa on wood, diameter 120 cm, 1890 n. 1456; frame carved by Francesco del Tasso, probably to Michelangelo's design.
+@listen: A sculptor's painting for a merchant's family, the ancient statue hidden in it, and the bride's emblem hidden in the frame.
+@brief: Energetic and admiring, a friend who loves this picture; conspiratorial about the half-moons, then a quiet landing.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo (OFF, mod. 6 Mar 2024: Location "A38. Raphael and Michelangelo"; 1505–1506; tempera grassa on wood; diameter 120 cm; for the Florentine merchant Agnolo Doni, married to Maddalena Strozzi in 1504; marriage and birth of the first child celebrated with works by Raphael and Michelangelo; "the only finished panel painting by the artist to survive"; earlier marble tondi, the Pitti and Taddei Tondi; conceived like a sculpture; pyramidal group like a dome, Child passed between Joseph and Mary; Hellenistic marble sculpture; the Laocoön, excavated in January 1506, appears among the nudes, dating it to the time of Maria Doni's birth in September 1507; nudes as pagan humanity; the wall as original sin; the infant St John beyond the wall suggests a christening; frame probably designed by Michelangelo and carved by Francesco del Tasso, head of Christ and four prophets among grotesques; Strozzi half-moons hidden at the top left) ; https://www.uffizi.it/en/artworks/signorelli-madonna-with-child (OFF: nude background figures compared with Michelangelo's Holy Family) ; AUDIT: "about 1505–07"; drop "original frame"
+@lang: fr
+@translation: from the fact-checked English Uffizi 034 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Michel-Ange sculptait le marbre. Quand il acceptait de peindre, il peignait en sculpteur. Vous le voyez ici, dans sa seule peinture sur panneau achevée qui nous reste.
+
+Elle fut faite pour Agnolo Doni, riche marchand florentin, qui épousa Maddalena Strozzi en 1504. Le musée la relie à leur mariage et à la naissance de leur premier enfant. Michel-Ange avait déjà sculpté des reliefs ronds de la Vierge en marbre. Cette fois, il le fit en peinture.
+
+Regardez la famille. Marie, agenouillée devant, se retourne par-dessus son épaule. L'Enfant passe entre elle et Joseph, et les trois corps s'emboîtent comme une coupole. Son bras nu est fort comme celui d'un athlète. Les couleurs sont dures et vives, comme de la pierre polie.
+
+[pause] Regardez ensuite derrière eux. Un muret traverse le tableau, et au-delà se prélassent de jeunes hommes nus. Ils semblent figurer le monde païen, avant le Christ. Le muret figure peut-être le péché originel. Et là, entre les deux mondes, le petit Jean-Baptiste, peut-être le signe que le tableau célébrait un baptême. [pause] La Madone de Signorelli, dans la salle A32, a aussi des nus à l'arrière-plan. Michel-Ange l'avait regardée de près.
+
+L'un de ces nus donne une date. La célèbre statue antique du Laocoon fut déterrée à Rome en janvier 1506, et son écho apparaît parmi ces figures. Cela concorde avec la naissance de la fille du couple, Maria, en septembre 1507.
+
+[conspiratorial] Maintenant, le cadre. Il fut probablement dessiné par Michel-Ange lui-même, et sculpté par Francesco del Tasso. La tête du Christ et quatre prophètes surgissent parmi les feuillages. [pause] Et en haut à gauche, cachés dans la sculpture, des croissants de lune : l'emblème de la famille de la mariée, les Strozzi.
+
+[warmly] Un tableau de sculpteur, pour les plus belles années d'une famille.
+
+Restez dans la salle A38 pour la Vierge au chardonneret de Raphaël : le petit saint Jean tend un oiseau à l'Enfant.

@@ -1,0 +1,24 @@
+@id: 010 · DE · Room A6 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A6
+@type: X
+@title: A6 · Extra · Florenz im vierzehnten Jahrhundert
+@where: Saal A6, „14. Jahrhundert“, durch die Tür an der Rückseite von Saal A5. Suchen Sie Pietro Lorenzettis hohes goldenes Altarbild einer Nonne im dunklen Habit, in ganzer Gestalt in der Mitte, umgeben von kleinen Erzählszenen.
+@what: Pietro Lorenzetti, Saint Humility and scenes from her life, c. 1335–1340, tempera on wood, gold background, 257 × 168 cm, inv. 1890 nn. 6120–6126, 6129–6131, 8347. Not on display (restoration, no return date): Giovanni da Milano, Ognissanti Polyptych, and Giottino, Pietà di San Remigio.
+@listen: A Sienese painting of a Florentine founder, the nuns who carried it through a siege, and two works that are away for now.
+@brief: A short, friendly aside in a side room; light and curious, one plain sentence about what is missing.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/saint-humility-and-scenes-from-her-life (OFF: Location "A6. 14th Century"; Pietro Lorenzetti; 1335-1340 ca.; tempera on wood, gold background; 257 x 168 cm; Humility "a noblewoman from Faenza who became a nun late in life", 1226-1310; travelled to Florence to found a Vallombrosan monastery, San Giovanni Evangelista, 1282, "just outside the city walls"; habit, book and palm "a symbol of glory"; head covered with sheepskin, "an emblem of humility"; kneeling woman at bottom left "most likely representing the customer who commissioned the work"; scenes from taking the habit, miracles at Faenza, the journey to Florence, death and funeral; the nuns left the convent around 1529 during the imperial siege of Florence and took the painting with them; text Daniela Parenti) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF, as logged in research/NOTICES_OCT2026.md: A6 Giovanni da Milano, Ognissanti Polyptych, 1890 n. 459, and Giottino, Pietà di San Remigio, 1890 n. 454, restoration, no dates) ; DATED sentence (no return date), ONSITE O5
+@lang: de
+@translation: from the fact-checked English Uffizi 010 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] In diesem Saal geht es um Florenz nach Giotto. Doch das eindrucksvollste Bild, das heute hier hängt, stammt von einem Sienesen, und seine Heldin kam aus Faenza.
+
+Pietro Lorenzetti malte die heilige Humilitas und Szenen aus ihrem Leben um 1335. Humilitas war eine Adlige, die spät im Leben Nonne wurde. Sie kam nach Florenz, um ein Kloster zu gründen. [pause] Sie steht in ganzer Gestalt in der Mitte, mit Buch und Ruhmespalme. [lightly] Auf dem Kopf trägt sie ein Schafsfell, das Zeichen der Demut. Die kleine Kniende unten links hat das Bild wahrscheinlich bezahlt.
+
+Die kleinen Szenen ringsum folgen ihrem Leben, von der Einkleidung über Wunder in ihrem Kloster bis zur Reise nach Florenz und zum Begräbnis. [pause] Als ein kaiserliches Heer 1529 Florenz belagerte, verließen die Nonnen ihr Kloster und nahmen dieses Bild mit.
+
+[quietly] Zwei Hauptwerke dieses Saals sind zur Restaurierung fort: Giovanni da Milanos Polyptychon von Ognissanti und Giottinos Pietà von San Remigio.
+
+Saal A7, Gentile da Fabriano, liegt nebenan. Wenn die Tür an der Rückseite dieses Saals, von Saal A5 abgewandt, in Saal A7 führt, nehmen Sie sie. [pause] Andernfalls gehen Sie zurück durch Saal A5 in Saal A4. Nehmen Sie dort von den beiden Türen auf der hinteren Seite diejenige, die in Saal A7 führt. Suchen Sie den riesigen goldenen Zug.

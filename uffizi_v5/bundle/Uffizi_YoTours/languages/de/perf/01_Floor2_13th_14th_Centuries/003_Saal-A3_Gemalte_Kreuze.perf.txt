@@ -1,0 +1,26 @@
+@id: 003 · DE · Room A3 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A3
+@type: R
+@title: A3 · Gemalte Kreuze
+@where: Saal A3, der erste Gemäldesaal, am kurzen Ende des Ostkorridors zum Palazzo Vecchio hin, vom Vestibül aus auf der dem übrigen Rundgang entgegengesetzten Seite. Suchen Sie das große gemalte Kreuz auf Goldgrund, fast drei Meter hoch: Christus aufrecht und mit offenen Augen, kleine Szenen zu beiden Seiten.
+@what: Pisan painter, Painted cross, 12th century (dating "highly uncertain"), tempera on wood, gold ground, 276 × 231 cm, Uffizi inv. 1890 no. 432; with the other early gold-ground panels of the room.
+@listen: The oldest room in the gallery: what a twelfth-century cross was for, why it is painted on gold, and three things to carry into the next room.
+@brief: Hushed and simple, as in a dim church; reverent at the start, warmer at the hand-over to the Maestà room.
+@pace: medium-slow
+@energy: 2→2→3
+@sources: https://www.uffizi.it/en/artworks/cross_432 (OFF: Location "A3. Medieval Painting"; "Pisan painter", possibly "a master active in the mid-12th century in Pisa"; 12th century, "dating highly uncertain"; tempera on wood, gold background; 276 x 231 cm; inv. 1890 no. 432; Christ "triumphant over death, with eyes open and head raised", the type common in Italy until the early 13th century; Passion scenes including the washing of the feet, the capture, the flagellation, the way to Calvary; the descent from the cross, the entombment and the descent into limbo; read top to bottom and left to right; "the origin of the Cross is unknown"; text Daniela Parenti) ; gold as divine light, Byzantine inheritance, frontal figures: interpretive, audit 003 OK (general) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): cross_432 re-read: the scenes run on to "the descent into limbo of Christ resurrected"
+@lang: de
+@translation: from the fact-checked English Uffizi 003 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Dies ist der älteste Saal der Galerie. Sein großes Kreuz ist über achthundert Jahre alt. Niemand weiß, wer es gemalt hat oder für welche Kirche.
+
+Das Museum nennt seinen Schöpfer einfach einen pisanischen Maler, vielleicht tätig um die Mitte des zwölften Jahrhunderts. Doch selbst diese Datierung ist unsicher. [pause] Pisa war damals eine reiche Seemacht.
+
+Sehen Sie Christus an. Seine Augen sind offen, sein Kopf ist erhoben. Er leidet nicht. Er triumphiert über den Tod. So malte man ihn in Italien gewöhnlich bis in die frühen 1200er-Jahre. [pause] Ringsum erzählen kleine Szenen die Passion und was danach geschah, von der Fußwaschung der Jünger bis zu Christi Abstieg in die Vorhölle. Man liest sie von oben nach unten und von links nach rechts, wie einen Bildstreifen.
+
+[pause] Und alles ruht auf Gold. Gold ist hier keine Dekoration. Es steht für göttliches Licht, für einen Himmel, der sich nie verändert. Diese Idee stammt aus der byzantinischen Malerei des christlichen Ostens. Die Figuren blicken Sie frontal an. Niemand hat Gewicht. Niemand steht in einem Raum, den man betreten könnte. Das waren Bilder für das Gebet, die im Kerzenlicht leuchteten.
+
+[warmly] Merken Sie sich drei Dinge: flaches Gold, frontale Figuren, kein Gewicht. Im nächsten Saal beginnen drei riesige Madonnen, diese Tradition aufzubrechen.
+
+Gehen Sie zurück in den Korridor und am Vestibül vorbei, durch das Sie gekommen sind. [pause] Die nächste Tür auf derselben Seite ist Saal A4, der große Saal mit drei riesigen goldenen Madonnen.

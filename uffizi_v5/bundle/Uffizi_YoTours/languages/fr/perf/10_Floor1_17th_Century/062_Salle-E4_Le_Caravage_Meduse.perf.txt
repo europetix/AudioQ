@@ -1,0 +1,26 @@
+@id: 062 · FR · Room E4 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E4
+@type: W
+@title: E4 · Le Caravage — Méduse
+@where: Salle E4, « Le Caravage, la Méduse ». Cherchez le bouclier rond peint avec la tête tranchée de Méduse, la bouche grande ouverte dans un cri, des serpents pour chevelure et le sang qui jaillit du cou.
+@what: Caravaggio, Medusa, 1595–1598, oil on canvas applied to a wooden shield (a parade shield), inv. 1890 no. 1351. No uffizi.it artwork page; placement from the October 2026 map, "E4 Caravaggio The Medusa".
+@listen: A shield that sat unattributed in the Medici armoury, rode on a wooden horse, and catches the instant between life and death.
+@brief: A friend with a good story and a slightly macabre sense of humour; vivid in the looking, conspiratorial at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: OFF map https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (E4 "Caravaggio The Medusa", E4 highlight picture) ; SEC (Uffizi partner text) https://artsandculture.google.com/asset/medusa/FAFPqU12CekL8Q?hl=en (Medusa, 1595–1598, oil on canvas, "scudo da parata"; "In 1598 Cardinal Francesco Maria del Monte gave this painted shield to the Grand Duke Ferdinando I"; "painted on canvas applied to a wooden shield"; put in the Uffizi Armory "without any attribution"; "in 1631 it was registered as a work by Caravaggio"; "part of a suit of Persian Armor worn by a mannequin seated on a wooden horse"; Athena's shield used Medusa's power to petrify; image used by the Medici for their military power; "the passing moment between life and death") ; https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: del Monte as Caravaggio's early patron; Medusa inv. 1890 no. 1351) ; self-portrait tradition: hedged as "a long tradition", not sourced (PLAN, audit) ; Perseus and the mirror: general mythology. The curve of the shield: PLAN and audit say convex; the GAC text says only "wooden shield" (see notes).
+@lang: fr
+@translation: from the fact-checked English Uffizi 062 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pendant plus de trente ans, ce ne fut pas un Caravage célèbre. C'était une pièce d'apparat de l'armurerie des Médicis, et personne n'avait noté qui l'avait peinte.
+
+En 1598, le cardinal Francesco Maria del Monte, protecteur du Caravage à Rome, a offert ce bouclier peint au grand-duc Ferdinand premier. Il est entré à l'armurerie des Offices sans attribution. Ce n'est qu'en 1631 qu'on l'a inscrit comme une œuvre du Caravage. Et on l'exposait avec une armure persane, portée par un mannequin assis sur un cheval de bois. [amused] Imaginez : vous entrez dans l'armurerie, et vous croisez ce cavalier, cette tête au bras.
+
+C'était un cadeau bien choisi. Méduse était la Gorgone dont le regard changeait les gens en pierre. Le héros Persée lui a coupé la tête, et la déesse Athéna l'a placée sur son bouclier, pour que son pouvoir pétrifie ses ennemis. Les Médicis aimaient cette image, signe de leur propre force militaire.
+
+[pause] Regardez maintenant le visage. Le Caravage a peint l'instant entre la vie et la mort. La tête est déjà tranchée, et elle vit encore assez pour en être horrifiée. Sa bouche est grande ouverte. Ses yeux fixent. Le sang jaillit du cou, et les serpents de sa chevelure se tordent encore. Il l'a peinte sur une toile tendue sur un bouclier de bois, si bien que la tête épouse la courbe.
+
+[conspiratorial] Selon une longue tradition, ce visage serait celui du Caravage, étudié dans un miroir. Personne ne peut le prouver. Mais souvenez-vous comment Persée a survécu. Il n'a jamais regardé Méduse en face, seulement son reflet dans son bouclier poli. Un peintre qui observe son propre cri dans un miroir, et le pose sur un bouclier : ce serait bien une plaisanterie à la Caravage.
+
+Restez dans la salle E4 pour la Judith décapitant Holopherne d'Artemisia Gentileschi : deux femmes qui maintiennent un général sur un lit.

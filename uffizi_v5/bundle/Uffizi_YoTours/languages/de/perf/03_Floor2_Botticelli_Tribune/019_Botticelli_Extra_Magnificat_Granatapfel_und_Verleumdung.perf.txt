@@ -1,0 +1,24 @@
+@id: 019 · DE · Room A12 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A12
+@type: X
+@title: Botticelli-Säle · Extra · Magnificat, Granatapfel und Verleumdung
+@where: Im Venus-Saal der Botticelli-Säle. Die Magnificat-Madonna ist das große Rundbild neben der Venus, auf dem Maria in ein Buch schreibt. Die Madonna mit dem Granatapfel ist das Rundbild auf der anderen Seite der Venus. Die Verleumdung ist eine kleine Tafel voller Figuren, unter einem Meter breit, in einer Marmorhalle am Meer.
+@what: Sandro Botticelli, Virgin and Child, and Angels (Madonna of the Magnificat), c. 1483, tempera on wood, diameter 118 cm, inv. 1890 n. 1609; Madonna of the Pomegranate (named in the June 2026 news; no page read); Calumny of Apelles, c. 1495, tempera on wood, 62 × 91 cm, inv. 1890 no. 1496.
+@listen: A Madonna writing her own hymn, and the dark little allegory that closes Botticelli's story.
+@brief: A short, intimate aside; tender on the Madonna, then quietly serious on the Calumny.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/botticelli-madonna-of-the-magnificat (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1483 c.; tempera on wood; diameter 118 cm; inv. 1890 n. 1609; Mary writes "Magnificat anima mea Dominum" "under the guidance of her son"; Jesus "touching a pomegranate", red seeds recalling his blood; "crowned by two angels", without wings, in late-15th-century Florentine elite fashion; round paintings usually for noble settings, this large one perhaps for a tribunal of the Florentine Republic; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/calumny-botticelli (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1495 ca.; tempera on wood; 62 x 91 cm; inv. 1890 no. 1496; after a lost painting by Apelles known through Lucian; read right to left; king with donkey ears like Midas; Ignorance and Suspicion; Calumny with a torch pulling the victim "by the hair"; Rancour; Fraud and Deceit adorn her hair; Penitence in black turns toward Truth, "a naked young lady and ignored by the other characters"; portico over the sea with statues and reliefs; the Republic "inspired by Girolamo Savonarola") ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: Magnificat and Pomegranate flank the Venus; the sequence closes with the Calumny (1495)) ; Pallas and the Centaur NOT mentioned (PLAN)
+@lang: de
+@translation: from the fact-checked English Uffizi 019 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Zwei runde Madonnen rahmen die Venus. Auf der Magnificat-Madonna schreibt Maria.
+
+Sie schreibt den Anfang ihres eigenen Lobgesangs, Magnificat anima mea Dominum, „meine Seele preist den Herrn“, und ihr Sohn führt sie. Seine Hand ruht auf einem Granatapfel, dessen rote Kerne an das Blut erinnern, das er vergießen wird. [pause] Zwei Engel halten eine Krone über ihren Kopf. Sie haben keine Flügel und sind gekleidet wie modische junge Florentiner. Ein Rundbild dieser Größe, mehr als einen Meter breit, hing vielleicht in einem Gericht der Florentiner Republik. Seine Madonna mit dem Granatapfel hängt auf der anderen Seite der Venus.
+
+[pause] Suchen Sie dann die Verleumdung des Apelles, eine kleine Tafel voller Figuren. Um 1495 im Florenz Savonarolas gemalt, beschließt sie hier Botticellis Geschichte. Er schuf ein verlorenes Bild des antiken griechischen Malers Apelles neu, bekannt nur aus einer schriftlichen Beschreibung.
+
+Lesen Sie es von rechts. Ein König mit Eselsohren sitzt zu Gericht, beraten von Unwissenheit und Argwohn. Die Verleumdung mit einer Fackel zerrt ihr Opfer an den Haaren, während Betrug und Täuschung ihr das Haar richten. [pause] Die Reue in Schwarz wendet sich der Wahrheit zu. [quietly] Die Wahrheit ist nackt, und niemand sonst im Bild sieht sie an.
+
+Gehen Sie durch die Tür am Ende der Botticelli-Säle in Saal A13: das große flämische Triptychon.

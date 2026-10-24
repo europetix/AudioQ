@@ -1,0 +1,24 @@
+@id: 016 · FR · Room A11 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A11
+@type: X
+@title: Salles Botticelli · Extra · Botticelli — L'Adoration des mages
+@where: Dans les salles Botticelli, devant l'Adoration des mages, un panneau d'un peu plus d'un mètre de large : la Sainte Famille surélevée au centre, et une foule de Florentins richement vêtus réunie de chaque côté. Elle ouvre la séquence Botticelli, après la salle des Vertus.
+@what: Sandro Botticelli, Adoration of the Magi (the Del Lama altarpiece), 1470–1475, tempera grassa on wood, 111 × 137 cm, inv. 1890 no. 882.
+@listen: A patron who painted himself in and then fell into disgrace, the Medici as kings, and a young man who may be Botticelli looking straight at you.
+@brief: A gossip's aside in front of a crowd scene; conspiratorial, then warm at the self-portrait.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.uffizi.it/en/artworks/boticelli-adoration-lami (OFF: Location "A11. Botticelli - Spring", mod. 28 May 2026, before the rehang: ONSITE O7; 1470-1475; tempera grassa on wood; 111 x 137 cm; inv. 1890 no. 882; patron Gaspare di Zanobi del Lama, the white-haired man in light blue in the right group, pointing to himself; agent for the Guild of Cambio; in 1469 founded a chapel in Santa Maria Novella dedicated to the Magi; convicted of fraud in 1476, "fell into disgrace"; the painting overlooked the chapel's altar; Vasari: the kneeling Magus "looks like Cosimo the Elder"; Piero kneeling in red in the centre foreground, probably; Lorenzo probably the young man with black hair on the right, in black and red, about 25; the possible self-portrait, "the young blond man on the right who seeks our gaze"; text Daniela Parenti) ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: the sequence "opens with" the Del Lama Adoration, "a true family portrait of Medici power")
+@lang: fr
+@translation: from the fact-checked English Uffizi 016 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] L'homme qui a payé ce tableau y figure, et se désigne lui-même. Quelques années plus tard, il fut condamné pour fraude.
+
+C'était Gaspare del Lama, homme d'affaires et agent de la guilde des banquiers. En 1469, il fonda à Santa Maria Novella une chapelle dédiée aux mages, et ce tableau dominait son autel. [pause] Trouvez-le dans le groupe de droite : l'homme aux cheveux blancs, en bleu clair.
+
+[pause] Puis les rois. Selon Vasari, le vieux roi agenouillé aux pieds de l'Enfant ressemble à Cosme l'Ancien de Médicis. Agenouillé en rouge au centre, c'est probablement son fils Pierre. Le jeune homme aux cheveux noirs, à droite, en noir et rouge, est probablement Laurent le Magnifique, qui avait alors une vingtaine d'années. Le musée appelle l'ensemble un véritable portrait de famille du pouvoir des Médicis.
+
+[warmly] Et regardez tout à droite le jeune homme blond qui vous fixe. C'est peut-être Botticelli lui-même. [pause] Les peintres se plaçaient souvent ainsi.
+
+Continuez, toujours dans les salles Botticelli, jusqu'à la Primavera, le large bosquet sombre aux neuf figures.

@@ -1,0 +1,24 @@
+@id: 059 · ES · Room D26 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D26
+@type: R
+@title: D26 · El Veronés
+@where: Sala D26, «Veronese». Busque el lienzo alto, de unos dos metros y medio, de un noble con una túnica negra forrada de piel y una espada, con un guante quitado y la mano desnuda sobre el hombro de su hijo pequeño.
+@what: Paolo Caliari, known as Veronese, Portrait of Count Giuseppe da Porto with his son, Adriano, about 1555, oil on canvas, 247 × 133 cm, Contini Bonacossi no. 16 (page "D25" = map D26). Also: Veronese, Holy Family with Young St John and St Catherine, about 1565, oil on canvas, 86 × 122 cm (page "D26. Veronese Corridor" = map D27).
+@listen: How Veronese answered the Inquisition by changing a title, and a father's bare hand on his son's shoulder.
+@brief: A storyteller enjoying a famous act of cheek, then softening in front of a father and son.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/veronese-portrait-of-count-giuseppe-da-porto (OFF: 1555 c.; oil on canvas 247 × 133; Contini Bonacossi no. 16; Location "D25. Veronese" = map D26; Count Giuseppe or Iseppo da Porto with his first-born son Adriano, "one of the seven children he had from his marriage with noblewoman Livia Thiene" (re-read 24 Oct 2026); married Livia Thiene in 1545; heavy black tunic lined with fur, sword, one glove, removed the other to place his hand on his son's shoulder; Adriano's ermine-lined jacket with gold embroidery; pendant of Livia and Porzia in the Walters Art Museum, Baltimore) ; https://www.uffizi.it/en/artworks/veronese-holy-family (OFF: 1565 c.; oil on canvas 86 × 122; inv. 1890 n. 1433; Location "D26. Veronese Corridor" = map D27; "a regal St Catherine"; Widmann collection in Venice; bought in 1654 by Leopoldo and Giovan Carlo de' Medici on Paolo del Sera's advice for "the astronomical sum of 1000 scudos"; carved frame with cupid-angels holding the instruments of the Passion) ; OFF (Accademia) https://www.gallerieaccademia.it/en/opera/convito-in-casa-di-levi/ (1573; canvas 560 × 1309 cm; refectory of Santi Giovanni e Paolo, replacing a burnt Titian; Holy Office objected to a Last Supper without decorum; ordered to correct the errors within three months; changed the subject to the Feast in the House of Levi, Luke 5; jester-dwarf with parrot, servant bleeding from the nose, halberdiers "armed in the German fashion"; on display in the Gallerie dell'Accademia, Venice). No Tintoretto line (no source).
+@lang: es
+@translation: from the fact-checked English Uffizi 059 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1573, Paolo Veronés fue llamado ante la Inquisición en Venecia. Parte del problema era un enano con un loro.
+
+Había pintado una enorme Última Cena para el refectorio de un convento dominico. A los inquisidores les molestó lo que había amontonado alrededor de Cristo: un bufón enano con un loro, un criado al que le sangra la nariz y alabarderos vestidos de alemanes. Le ordenaron corregirlo en tres meses. [wry] El Veronés no lo repintó. Cambió el título. La Última Cena se convirtió en el Banquete en casa de Leví, otro banquete del Evangelio de Lucas. [pause] Ese lienzo, de unos trece metros de largo, está en las Gallerie dell'Accademia de Venecia.
+
+Aquí lo encuentra en un día más tranquilo. El conde Giuseppe da Porto está con Adriano, su primogénito, uno de sus siete hijos. El conde lleva una pesada túnica negra forrada de piel, y una espada. [pause] Mire sus manos. Lleva un guante puesto. Se ha quitado el otro, para que su mano desnuda descanse en el hombro del niño. Adriano lleva una chaqueta forrada de armiño y bordada en oro. El retrato tuvo pareja: la esposa del conde con su hija. Hoy está en Baltimore.
+
+La Sagrada Familia con santa Catalina del Veronés, de hacia 1565, consta en el corredor del Veronés, la sala D27, que cruzará ahora. [pause] En 1654, dos príncipes Médici la compraron en Venecia por lo que el museo llama una suma astronómica: mil escudos.
+
+Salga al corredor del Veronés, la sala D27, y siga el largo corredor junto al río hasta el Verone, la sala D28. Busque la estatua de Sileno con el niño Baco en brazos.

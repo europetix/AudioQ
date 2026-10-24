@@ -1,0 +1,24 @@
+@id: 013 · DE · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: R
+@title: A8 · Masolino, Masaccio und Fra Angelico
+@where: Saal A8, „Masaccio, Beato Angelico, P. Uccello“. Die Anna selbdritt ist die Goldtafel, auf der die heilige Anna hoch hinter der Jungfrau sitzt, die das Kind auf dem Schoß hält. Uccellos breite Schlachtszene hängt ebenfalls in diesem Saal.
+@what: Masolino and Masaccio, Saint Anne, Madonna and Child, five angels ("Sant'Anna Metterza"), c. 1424–1425, tempera on wood, 175 × 103 cm, inv. 1890 no. 8386; Fra Angelico, Glorification of Mary, 1431–1435, with its predella, inv. 1890 no. 1612; Fra Angelico, Madonna and Child Enthroned with Angels, 1435, from Pontassieve, Deposits no. 143.
+@listen: Two painters called Tommaso, a Child built like Hercules, Fra Angelico's crowded heaven, and Uccello's love of perspective.
+@brief: An enthusiast at a turning point in the story; curious, then lingering on the Child's weight, a smile at Uccello.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/saint-anne-masaccio (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; Masolino, Tommaso di Cristofano Fini, and Masaccio, Tommaso di ser Giovanni, 1401–1428; 1424-1425 ca.; tempera on wood; 175 x 103 cm; for Sant'Ambrogio, as Vasari specified; Vasari gave it all to Masaccio, Longhi in 1940 gave part to Masolino; Masolino the "monastic and stern" Saint Anne, Masaccio Mary and the "herculean" Child of "solid and full volumes"; "Metterza", "she is in the third position"; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/angelico-glorification (OFF: Location A8; 1431-1435; "over forty figures" of saints; Christ "about to adorn the diadem with a precious stone"; predella separated in the second half of the 16th century, "reunification in Spring 2024") ; https://www.uffizi.it/en/artworks/madonna-child-pontassieve (OFF: Location A8; 1435; centrepiece of a polyptych for San Michele Arcangelo, Pontassieve; the Child's pale skin appears to glow) ; Masaccio died at 26, Fra Angelico a Dominican: audit 012 OK ; Uccello and "what a sweet thing this perspective is": VASARI ; no "rooms 10–12 closed" (NEVER) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF saint-anne-masaccio re-read: "for the Sant'Ambrogio Church in Florence, as specified in the Lives by Giorgio Vasari"; OFF angelico-glorification re-read: predella separated "in the second half of the 16th century", reunited Spring 2024
+@lang: de
+@translation: from the fact-checked English Uffizi 013 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] In diesem Saal beginnt das Gold zu schwinden, und eine neue Art von Raum zieht ein. Es beginnt mit zwei Malern, die beide Tommaso hießen.
+
+Masolino und Masaccio malten die heilige Anna mit Jungfrau und Kind gemeinsam, um 1424, laut Vasari für die Kirche Sant'Ambrogio. Der alte Name, Sant'Anna Metterza, bedeutet Anna „an dritter Stelle“: Großmutter, Mutter und Sohn, übereinander. Vasari schrieb die ganze Tafel Masaccio zu. Heute gibt man die strenge heilige Anna Masolino, Jungfrau und Kind dagegen Masaccio. [pause] Sehen Sie sich dieses Kind an. Es ist massiv und schwer, fast ein kleiner Herkules. Masaccio war Anfang zwanzig. Er starb mit sechsundzwanzig.
+
+Fra Angelico, ein Dominikanerbruder, führt Sie an einen sanfteren Ort. Seine Verherrlichung Mariens ist dicht gefüllt mit mehr als vierzig Heiligen, jeder ein eigener Mensch. Christus krönt seine Mutter nicht. Er setzt einen Edelstein in ihr Diadem. [pause] Die Predella wurde vor mehr als vier Jahrhunderten davon getrennt und 2024 hier wieder mit ihr vereint. Suchen Sie auch seine Madonna aus Pontassieve von 1435, auf der die blasse Haut des Kindes fast leuchtet.
+
+[amused] Und Paolo Uccello? Vasari erzählt, er habe die ganze Nacht über seiner Perspektive gesessen. [pause] Als seine Frau ihn ins Bett rief, antwortete er: „Was für eine süße Sache ist doch diese Perspektive.“
+
+Bleiben Sie in Saal A8 für Paolo Uccellos Schlacht von San Romano, die breite Tafel mit Pferden und zerbrochenen Lanzen.

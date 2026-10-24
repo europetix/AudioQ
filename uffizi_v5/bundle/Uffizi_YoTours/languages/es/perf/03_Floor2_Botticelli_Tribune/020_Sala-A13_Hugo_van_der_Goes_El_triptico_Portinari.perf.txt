@@ -1,0 +1,28 @@
+@id: 020 · ES · Room A13 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A13
+@type: W
+@title: A13 · Hugo van der Goes — El tríptico Portinari
+@where: Sala A13, «Hugo van der Goes». Aléjese un poco del enorme retablo en tres partes que llena la sala, de más de seis metros de ancho abierto: un Niño recién nacido sobre el suelo desnudo en el centro, una familia arrodillada con santos gigantes en las alas, y un jarrón de flores delante.
+@what: Hugo van der Goes, Adoration of the Shepherds with angels and Saint Thomas, Saint Anthony, Saint Margaret, Mary Magdalen and the Portinari family (recto); Annunciation (verso), known as the Portinari Triptych, c. 1477–1478, oil on wood, 274 × 652 cm open, 1890 nn. 3191, 3192, 3193.
+@listen: How a banker's altarpiece from Bruges crossed the sea to Florence, and what the city's painters saw in it.
+@brief: A friend at your shoulder, curious and precise, slowing down for the flowers, a quiet wry note about Ghirlandaio.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/adoration-of-the-shepherds-with-angels-and-saints-recto-annunciation-verso (OFF, mod. 3 Apr 2024, text Daniela Parenti: Location "A13. Hugo van der Goes"; 1477–1478 c.; oil on wood; 274 × 652 cm open; Tommaso Portinari, Medici bank representative in Bruges; for the Portinari chapel in the church of Saint Giles (Sant'Egidio) at the hospital of Santa Maria Nuova; Tommaso married Maria Baroncelli in 1470; Tommaso with sons Antonio and Pigello and Saints Thomas and Anthony; Maria and daughter Margherita with Saints Margaret and Mary Magdalen; sizes reflect rank; reached Pisa by sea, Florence 1483; Florentine painters found it highly innovative; Child on the ground in rays of light, Light of the World; white iris and red lily = purity and Christ's blood; purple columbine = the Virgin's sorrow; carnations = the Trinity; closed, a black-and-white Annunciation; the page does NOT mention Ghirlandaio) ; AUDIT GHI-sass (SNIP): Ghirlandaio's Sassetti Chapel Adoration of 1485 borrows its shepherds, hedged in speech as "seems to borrow" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: "arrival in Florence in 1483, having first reached Pisa by sea"; no commission year, Date "1477-1478 c."; painters "particularly praised the realistic likeness of the objects, landscape and facial features"
+@lang: es
+@translation: from the fact-checked English Uffizi 020 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1483 llegó a Florencia, desde Flandes y por mar hasta Pisa, un cuadro que dejó asombrados a todos sus pintores. Es este.
+
+Tommaso Portinari dirigía el banco Médici en Brujas, y allí encargó este enorme retablo a Hugo van der Goes, que lo pintó hacia 1477 o 1478. Era para su capilla familiar en Sant'Egidio, iglesia del hospital florentino de Santa Maria Nuova. A los pintores florentinos les pareció novedosísimo, y el museo dice que alabaron sobre todo su realismo.
+
+La familia se arrodilla en las alas, con ropas flamencas. A la izquierda, Tommaso y sus hijos, Antonio y Pigello, con santo Tomás y san Antonio detrás. A la derecha, su esposa, Maria Baroncelli, y su hija Margherita, con santa Margarita y la Magdalena. Fíjese en los tamaños: los santos superan con mucho a la familia. [pause] Aquí el tamaño indica rango, no distancia.
+
+[pause] El centro. El Niño yace sobre el suelo desnudo, entre rayos de luz: la Luz del Mundo. Delante hay un bodegón. Un lirio blanco y una azucena roja, por la pureza y la sangre de Cristo. Aguileñas moradas, por los dolores de la Virgen. Claveles rojos, por la Trinidad. Cada pétalo es exacto.
+
+Mire a la derecha del centro, a los pastores. Rudos trabajadores boquiabiertos que llegan corriendo del campo. [wry] Florencia se fijó en ellos. La Adoración de Ghirlandaio en la capilla Sassetti, pintada dos años después, parece copiar a estos mismos pastores.
+
+[warmly] Un hito en el encuentro de Florencia con el óleo flamenco, y nació para la capilla de una familia.
+
+La sala A14, la sala de los Mapas, que se abre desde aquí, tiene un breve Extra sobre mapas y matemáticas. La siguiente parada principal es la Tribuna, la sala A16, octogonal, justo después de la sala A15: busque las paredes rojas y la cúpula de nácar.

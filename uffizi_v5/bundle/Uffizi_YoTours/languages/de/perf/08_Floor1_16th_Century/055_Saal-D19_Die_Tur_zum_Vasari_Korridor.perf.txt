@@ -1,0 +1,26 @@
+@id: 055 · DE · Room D19 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D19
+@type: R
+@title: D19 · Die Tür zum Vasari-Korridor
+@where: Saal D19, „Eingang zum Vasari-Korridor“, der schmale Saal hinter der zweiten Tür in der Rückwand von Saal D15, von Saal D14 aus gezählt. Suchen Sie das Schild für den Treffpunkt des Vasari-Korridors. Bleiben Sie im Saal: Dieser Audioguide führt nicht durch die Tür des Korridors.
+@what: Room D19, the Vasari Corridor entrance and meeting point. The Vasari Corridor, 1565, about 750 metres, from the Uffizi over the Ponte Vecchio to the Pitti Palace and the Boboli Gardens.
+@listen: A private walkway built in five months for a Medici wedding, where the self-portraits once hid, and how it is visited today.
+@brief: Practical and warm, with a sense of the secret passage beyond the wall; clear about what is and is not part of this visit.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/notices/rules-for-accessing-the-vasari-corridor (OFF, mod. 11 Sep 2026: "The entrance to the Vasari Corridor is at the Room D19 Meeting Point on the first floor of the Uffizi"; reservation of the Corridor supplement required; one way only, Uffizi to Pitti; groups leave by the Buontalenti Grotto in the Boboli Garden; staff accompany groups but give no guided tours; prices and times NOT used) ; https://www.uffizi.it/en/corridoio-vasariano/history (OFF: commissioned by Cosimo I in 1565 for the wedding of Francesco and Joanna of Austria; "the construction works lasted just five months"; for the grand dukes to move safely between Pitti Palace and Palazzo Vecchio; 760 m; to the Buontalenti Grotto; bypasses the Mannelli Tower; overlooks Santa Felicita; 73 windows; self-portraits there until 2016) ; https://www.uffizi.it/en/news/vasari-corridor-reopens (OFF: closed since 2016, reopened 21 Dec 2024; returned to its plain original state; anti-seismic work; "more than seven hundred metres long"; fully accessible) ; https://www.uffizi.it/en/news/vasari-corridor-welcomes-historical-figures (OFF, 7 Jul 2025: more than fifty Roman portrait busts in the section above the Ponte Vecchio; in storage since 1993) ; https://www.uffizi.it/en/news/selfportraits_uffizi (OFF: self-portraits in the Corridor 1973–2016) ; length "about 750 metres": audit wording
+@lang: de
+@translation: from the fact-checked English Uffizi 055 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Irgendwo hinter diesem schmalen Saal führt ein Korridor aus dem Museum hinaus, über den Straßen, über eine Brücke und in einen Garten auf der anderen Seite des Flusses.
+
+Hier beginnen die Besuche des Vasari-Korridors. Herzog Cosimo der Erste ließ ihn 1565 zur Hochzeit seines Sohnes Francesco mit Johanna von Österreich bauen. Giorgio Vasari errichtete ihn in nur fünf Monaten. Er ist etwa 750 Meter lang. [pause] Er beginnt am Palazzo Vecchio und führt durch dieses Gebäude. Dann überquert er den Arno oben auf dem Ponte Vecchio und blickt hinunter in die Kirche Santa Felicita. Er endet bei der Buontalenti-Grotte im Boboli-Garten, neben dem Palazzo Pitti. So konnten die Großherzöge zwischen ihrem Wohnsitz und dem Regierungssitz wechseln, ohne die Straße zu betreten.
+
+[pause] Einigen seiner früheren Bewohner sind Sie schon begegnet. Von 1973 bis 2016 hing ein Teil der Selbstbildnis-Sammlung im Korridor, von sehr wenigen gesehen. In jenem Jahr wurde er geschlossen. Im Dezember 2024 öffnete er wieder, zurückgeführt auf seine schlichten ursprünglichen Wände und seine dreiundsiebzig Fenster.
+
+Heute stehen mehr als fünfzig römische Porträtbüsten im Abschnitt über dem Ponte Vecchio.
+
+[lightly] Der Korridor wird separat besichtigt, mit Reservierung, in begleiteten Gruppen, die am Treffpunkt in diesem Saal beginnen. Er führt nur in eine Richtung, zum Boboli-Garten. Sie können also nicht durch ihn ins Museum zurückkehren. Dieser Audioguide bleibt in den Galerien.
+
+Saal D20, die Venezianische Kapelle, geht von diesem Saal ab, nahe seinem Ende zum Korridor hin. Suchen Sie Lottos Susanna und die beiden Alten. [pause] Gehen Sie nicht durch die Tür des Vasari-Korridors.

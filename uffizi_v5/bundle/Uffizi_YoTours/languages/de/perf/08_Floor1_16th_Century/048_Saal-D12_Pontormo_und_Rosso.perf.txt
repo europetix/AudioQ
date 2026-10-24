@@ -1,0 +1,28 @@
+@id: 048 · DE · Room D12 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D12
+@type: R
+@title: D12 · Pontormo und Rosso
+@where: Saal D12, „Pontormo - Rosso Fiorentino“, am kurzen Gang D9. Stellen Sie sich vor Rossos Altarbild, etwa 1,7 Meter hoch: die thronende Jungfrau mit dem Kind, ein hagerer, finster blickender heiliger Hieronymus und drei weitere Heilige um sie herum, und zwei kleine Kinderengel, die auf den Stufen des Throns lesen.
+@what: Room D12. Rosso Fiorentino, Enthroned Madonna and Child with four saints, 1518, oil on panel, 172 × 141 cm, inv. 1890 n. 3190. On loan: Pontormo, Supper at Emmaus, Madonna with Child and the young Saint John, and Portrait of Maria Salviati, at the Scuderie del Quirinale, Rome, until 7 Feb 2027 (cuttable sentence).
+@listen: Two young rebels from the same workshop, a patron who said the saints looked like devils, and a painter who took him to court.
+@brief: Telling a lively piece of gossip about an angry patron, with a wry edge; brisk and amused, then pointing at the evidence.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/rosso-fiorentino-madonna-and-child (OFF: Location "D12. Pontormo - Rosso Fiorentino"; Enthroned Madonna and Child with four saints; Rosso, Florence 1495 – Paris 1540; 1518; oil on panel 172 × 141; inv. 1890 n. 3190; commissioned 1518 by Leonardo Buonafede, prior of Santa Maria Nuova, for the bequest of Francesca de' Ripoi, for Ognissanti; contract named the Baptist, Benedict, Leonard and Jerome; Buonafede dissatisfied, the work sent to Santo Stefano in Grezzano; "Vasari reports" he called it sketchy and said the saints looked like "cruel, desperate" devils; Rosso sued for nine of the twenty-five florins; studies found an earlier version, Leonard repainted as Stephen with a stone on his forehead, Benedict changed to Anthony Abbot with a Tau; Jerome gaunt and scowling, the anti-classical early style; two child angels on the throne steps absorbed in Scripture) ; https://www.uffizi.it/en/artworks/pontormo-supper-emmaus (OFF: "Jacopo Carucci, known as Pontormo (Pontorme, Empoli, 1494 – …)"; Location D12; trained in several workshops before "joining that of Andrea del Sarto", where he worked alongside Rosso Fiorentino) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF: three Pontormos from D12 on loan to the Scuderie del Quirinale, Rome, 8 Oct 2026 – 7 Feb 2027) ; https://www.uffizi.it/en/artworks/rosso-fiorentino-moses (OFF: Rosso born 1495, later at Fontainebleau) ; "Rosso" = red-haired: audit (general, OK)
+@lang: de
+@translation: from the fact-checked English Uffizi 048 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Zwei junge Männer, ausgebildet in derselben Florentiner Werkstatt, der von Andrea del Sarto. Zusammen brachen sie fast jede Regel, die sie dort lernten.
+
+Jacopo Carucci wurde 1494 in Pontorme bei Empoli geboren und nahm den Namen des Dorfes an: Pontormo. Giovanni Battista di Jacopo, ein Jahr jünger, hieß Rosso, der Rotschopf. [pause] Sie gehören zu den ersten Malern dessen, was wir heute Manierismus nennen: elegant, verstörend, bewusst seltsam.
+
+Bis zum 7. Februar 2027 sind drei Gemälde Pontormos aus diesem Saal an eine Ausstellung in Rom ausgeliehen.
+
+Rossos Altarbild hier zeigt, worum es bei der Aufregung ging. 1518 bestellte es der Prior des Spitals Santa Maria Nuova für den Altar einer katalanischen Witwe, die in der Kirche Ognissanti begraben war. Als er es sah, war er alles andere als erfreut. Vasari berichtet, er habe es skizzenhaft genannt und gesagt, die Heiligen sähen aus wie grausame, verzweifelte Teufel. Das Bild wurde in eine Dorfkirche abgeschoben. [wry] Rosso verklagte ihn auf das Geld, das man ihm noch schuldete.
+
+[pause] Betrachten Sie nun den heiligen Hieronymus, hager und finster. Sie ahnen, was den Prior störte. Dann schauen Sie tiefer, zu den beiden Kinderengeln auf den Stufen des Throns, in ihr Buch versunken. Rosso konnte auch zärtlich sein.
+
+Untersuchungen unter der Farbe fanden eine weitere Änderung. Zwei der Heiligen wurden für die neue Kirche übermalt. [pause] Einer hat nun einen Stein auf der Stirn: der Märtyrer Stephanus.
+
+Bleiben Sie in Saal D12 für Rossos Moses verteidigt die Töchter des Jethro, ein Gewirr nackter, kämpfender Männer.

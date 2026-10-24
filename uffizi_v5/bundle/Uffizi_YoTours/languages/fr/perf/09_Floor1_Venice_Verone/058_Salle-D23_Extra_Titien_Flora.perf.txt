@@ -1,0 +1,24 @@
+@id: 058 · FR · Room D23 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D23
+@type: X
+@title: D23 · Extra · Titien — Flora
+@where: Salle D23, près de la Vénus d'Urbin. Cherchez une toile plus petite, d'environ 80 centimètres de haut : une jeune femme aux longs cheveux blond cuivré dénoués, une robe blanche qui glisse de son épaule droite, tenant quelques fleurs.
+@what: Titian, Flora, about 1517, oil on canvas, 79.7 × 63.5 cm, inv. 1890 n. 1462 (page "D22" in the old numbering = map D23).
+@listen: The hair colour named after Titian, who she might be, and how she travelled from Amsterdam and Vienna to Florence.
+@brief: A short, admiring aside, warm and light, with a smile at her long journey.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/titian-flora (OFF: Flora, 1517 ca.; oil on canvas 79.7 × 63.5; inv. 1890 n. 1462; Location "D22. Tiziano - Venus of Urbino" = map D23; identified as "Flora", the nymph bride of Zephyr; not an unequivocal allusion to the Roman Flora, read as feminine beauty combining modesty and voluptas; violets, rosebuds and jasmine; white robe sliding over her right shoulder; copper-blonde hair, "the typical hair colour of women painted by Titian (hence the term 'Titian red')", re-read 24 Oct 2026: the term is not credited to this painting; the "Belle" subgenre; Sandrart saw it about 1635 with Don Alfonso López, Spanish ambassador in Amsterdam; sold to Archduke Leopold Wilhelm; 1793 exchange between the Belvedere in Vienna and the grand dukes; many engravings from the 16th century on). Sebastiano's "Fornarina" not mentioned (not confirmed, O32).
+@lang: fr
+@translation: from the fact-checked English Uffizi 058 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Bien avant la Vénus d'Urbin, Titien a peint cette jeune femme. Elle surgit de l'ombre, vers 1517, quelques fleurs de printemps à la main.
+
+Ses cheveux ont la couleur de tant de femmes de Titien qu'elle porte son nom. Ce blond cuivré, qui tombe librement sur ses épaules, c'est la teinte qu'on appelle encore le roux titien. Sa robe blanche, coupée à l'antique, glisse de son épaule droite. Dans sa main, des violettes, des boutons de rose et du jasmin.
+
+On l'appelle Flora, la nymphe devenue l'épouse de Zéphyr, le vent d'ouest. Mais le musée y voit moins une déesse qu'une image de la beauté elle-même, à la fois pudique et sensuelle. Les peintres vénitiens adoraient ce genre de tableaux. On les appelle simplement les Belles.
+
+[amused] Elle a aussi voyagé. Vers 1635, elle était à Amsterdam, dans la collection d'un ambassadeur espagnol. Il l'a vendue à un archiduc d'Autriche. [pause] Puis en 1793, la galerie impériale de Vienne l'a échangée avec les grands-ducs de Toscane, et elle est arrivée à Florence. Les graveurs la copiaient depuis le seizième siècle.
+
+D'ici, le prochain arrêt principal est la salle D26, Véronèse. Traversez la salle D24 et la salle D25, celle du Tintoret, et entrez dans la salle D26. Cherchez le haut portrait d'un père, la main posée sur l'épaule de son jeune fils.

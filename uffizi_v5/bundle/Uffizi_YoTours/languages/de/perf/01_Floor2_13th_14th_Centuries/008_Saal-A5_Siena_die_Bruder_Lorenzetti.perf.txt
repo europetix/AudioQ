@@ -1,0 +1,26 @@
+@id: 008 · DE · Room A5 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A5
+@type: R
+@title: A5 · Siena: die Brüder Lorenzetti
+@where: Saal A5, „Lorenzetti, Simone Martini“: ein Saal sienesischer Bilder auf Goldgrund. Ambrogios Darbringung im Tempel ist die hohe Tafel mit einem Kircheninneren mit Säulen und gestirntem Gewölbe. Pietros kleinere Madonna zeigt Mutter und Kind, die sich inmitten von Engeln anblicken.
+@what: Ambrogio Lorenzetti, Presentation at the Temple, 1342, tempera on wood, gold background, 257 × 168 cm, inv. 1890 no. 8346; Pietro Lorenzetti, Virgin and Child enthroned, with angels, c. 1340, tempera on panel, 145 × 122 cm, inv. 1890 no. 445.
+@listen: Siena's answer to Florence, two brothers who probably died in the Black Death, and two tiny human details in the gold.
+@brief: Warm and a little amused, pointing out small human moments to a friend; a quiet beat for 1348.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/presentation-at-the-temple (OFF: Location "A5. Lorenzetti - Simone Martini"; Ambrogio Lorenzetti, documented 1319 to 1348; 1342; signed "AMBROSIUS LAURENTII DE SENIS FECIT HOC OPUS ANNO DOMINI MCCCXLII"; 257 x 168 cm; for the chapel of San Crescenzio in the transept of Siena Cathedral; temple shown inside and out, columns, starry vaults; converging lines of the marble floor create depth; earrings on the women; "Jesus sucking his thumb"; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/lorenzetti-madonna-majesty (OFF: Location A5; Pietro Lorenzetti, "known of between 1306-1348"; 1340 c.; 145 x 122 cm; "an intimate exchange of tender looks"; Jesus strokes his mother's face and grabs her fingers; from San Francesco, Pistoia) ; https://www.uffizi.it/en/artworks/saint-humility-and-scenes-from-her-life (OFF: Pietro Lorenzetti, Location "A6. 14th Century") ; SNIP/SEC https://artsandculture.google.com/asset/allegory-of-good-government/owH6OsVYalFGMw (Ambrogio Lorenzetti, 1338–1339, Palazzo Pubblico, Siena) ; both brothers disappear from the records in 1348, "probably" the Black Death: audit 008 HEDGE (general)
+@lang: de
+@translation: from the fact-checked English Uffizi 008 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Wählte Florenz das Gewicht, so wählte Siena die Anmut. Dieser Saal ist Sienas Antwort, aus denselben Jahrzehnten wie Giotto.
+
+Siena war die große Rivalin von Florenz, und seine Maler blieben dem Gold treu, der fließenden Linie und juwelenhellen Farben. Zwei der besten waren Brüder, Pietro und Ambrogio Lorenzetti. Ambrogio allein malte die berühmten Fresken der Guten und Schlechten Regierung im Rathaus von Siena. [quietly] Beide Brüder verschwinden 1348 aus den Quellen, im Jahr des Schwarzen Todes. [pause] Wahrscheinlich starben sie an der Pest.
+
+[pause] Suchen Sie Ambrogios Darbringung im Tempel, die hohe Tafel mit einem Kircheninneren. Signiert und 1342 datiert, entstand sie für einen Altar im Dom von Siena. Er zeigt den Tempel zugleich innen und außen, mit Säulen und gestirnten Gewölben. Die Linien des bunten Marmorbodens führen in die Tiefe. Treten Sie näher. [amused] Die Frauen tragen Ohrringe. Und das Jesuskind lutscht am Daumen.
+
+Pietros Madonna, um 1340, ist stiller. Mutter und Sohn tauschen einen langen, zärtlichen Blick. [pause] Das Kind streichelt ihr Gesicht und hält sich an ihren Fingern fest.
+
+Pietros heilige Humilitas hängt ganz in der Nähe, in Saal A6.
+
+Bleiben Sie in Saal A5 für Simone Martinis Verkündigung, mit den Worten des Engels in Gold quer durch die Luft geschrieben.

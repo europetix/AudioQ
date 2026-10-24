@@ -1,0 +1,26 @@
+@id: 053 · FR · Room D15 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D15
+@type: X
+@title: D15 · Extra · Titien — Le duc et la duchesse d'Urbin
+@where: Salle D15, la salle des Dynasties. Trouvez la paire de portraits de Titien, d'un peu plus d'un mètre de haut chacun : un chef de guerre en armure polie sur fond de velours cramoisi, avec des bâtons de commandement et un casque à cimier de dragon sur une étagère derrière lui, et une duchesse assise, un petit chien à ses côtés. Le jeune duc en armure de Barocci, la main sur un casque à plumes, est dans la même salle.
+@what: Titian, Portrait of Francesco Maria della Rovere, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 n. 926; Titian, Portrait of Eleonora Gonzaga, Duchess of Urbino, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 no. 919. Also: Federico Barocci, Portrait of Francesco Maria II della Rovere, Duke of Urbino, 1572, oil on canvas, 113 × 93 cm, inv. 1890 n. 1438. All D15.
+@listen: A duke who lent Titian his armour, a duchess painted as the faithful wife, and the son who bought the Venus of Urbino.
+@brief: A brisk, slightly amused aside about vanity and armour, ending on a forward-looking link to the Venus.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/titian-portrait-of-francesco-maria-della-rovere (OFF: Location "D15. Room of the Dynasties"; c. 1537; oil on canvas 114 × 103; inv. 1890 n. 926; Duke of Urbino 1490–1538, Captain General of Venice; in summer 1536 he asked for his parade armour back, sent to Venice months earlier so Titian could copy it; crimson velvet; Venetian baton in his fist; dragon-crested helmet, batons of the papacy, Florence and Venice and an oak branch for the della Rovere and Pope Julius II; Aretino's two sonnets) ; https://www.uffizi.it/en/artworks/portrait-of-eleonora-gonzaga-duchess-of-urbino (OFF: Location "D15. Room of the Dynasties"; c. 1537; oil on canvas 114 × 103; inv. 1890 no. 919; probably painted in the winter of 1536–37 in Venice; the faithful bride; the dog symbolises marital fidelity; companion of the duke's portrait) ; https://www.uffizi.it/en/artworks/barocci-della-rovere-portrait (OFF: Location "D15, Room of the Dynasties"; 1572; oil on canvas 113 × 93; inv. 1890 n. 1438; pose based on Titian's portrait of Francesco Maria I, studied in the ducal collections; commissioned by Duke Guidobaldo to celebrate his son's conduct at Lepanto; came to the Medici with the della Rovere inheritance of Vittoria) ; Guidobaldo's 1538 purchase of the Venus of Urbino: https://www.uffizi.it/en/artworks/venus-urbino-titian via audit (U-vurb, OFF) ; family links (Guidobaldo son of Francesco Maria I and Eleonora; Francesco Maria II son of Guidobaldo): standard genealogy, see notes
+@lang: fr
+@translation: from the fact-checked English Uffizi 053 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Pour un portrait exact, le duc d'Urbin a envoyé son armure à Venise des mois à l'avance, pour que Titien en copie chaque plaque.
+
+Francesco Maria della Rovere, soldat, commandait les armées de Venise. Titien l'a peint vers 1537 dans cette armure de parade polie, sur fond de velours cramoisi, un bâton serré dans le poing. Sur l'étagère derrière lui, un casque surmonté d'un dragon, et les bâtons des États qu'il avait servis : la papauté, Florence et Venise. [pause] Cherchez aussi la branche de chêne. Rovere veut dire chêne, et elle rappelle son oncle, le pape guerrier Jules deux.
+
+Son épouse, Éléonore de Gonzague, a été peinte comme sa partenaire : lui, l'homme d'armes, elle, l'épouse fidèle. Son petit chien symbolise la fidélité.
+
+[pause] Voici le lien. C'est leur fils Guidobaldo qui a acheté la Vénus d'Urbin de Titien, en 1538. Vous la verrez quelques salles plus loin, dans la salle D23.
+
+Et cherchez un dernier duc en armure, peint par Federico Barocci en 1572 : leur petit-fils, Francesco Maria deux. Barocci a emprunté sa pose fière au portrait du grand-père par Titien.
+
+La salle D16, par la porte du mur du fond la plus proche de la salle D14, d'où vous venez, propose un court Extra sur les salles de la Contre-Réforme. Le prochain arrêt principal est la salle D19, la salle étroite derrière l'autre porte, plus loin.

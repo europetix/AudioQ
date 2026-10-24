@@ -1,0 +1,22 @@
+@id: 028 · ES · Room A31 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A31
+@type: X
+@title: A31 · Extra · Luca Signorelli
+@where: Sala A31, «Luca Signorelli». El gran cuadro redondo, de un metro y cuarto: la Virgen con un amplio manto rojo leyendo un libro, con el Niño y José muy juntos. Una segunda Virgen de Signorelli, con pequeñas figuras desnudas al fondo, está en la sala siguiente, la sala A32.
+@what: Luca Signorelli, Holy Family, c. 1487–1488, oil on wood, diameter 124 cm, 1890 n. 1605, Room A31. Also: Luca Signorelli, Madonna with Child, c. 1490, oil on wood, 170 × 115 cm, 1890 n. 502, Room A32.
+@listen: How a painter from Cortona showed Michelangelo the way, twice.
+@brief: A quick, confident aside; curious, with a little conspiracy about what lies ahead.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-signorelli (OFF: Location "A31. Signorelli"; 1487–1488 c.; oil on wood; diameter 124 cm; Vasari: for the audience hall of the Capitani di Parte Guelfa; Virgin with pearly complexion in a wide red tunic, reading a book; Christ turns to Joseph; figures fill the space; "monumental rendering of the figures"; "served as a model for a whole generation of artists, from Michelangelo and his Tondo Doni") ; https://www.uffizi.it/en/artworks/signorelli-madonna-with-child (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A32. Signorelli"; 1490 c.; oil on wood; 170 × 115 cm; Vasari: for Lorenzo de' Medici, most likely Lorenzo di Pierfrancesco; nude figures in the background, perhaps mankind before the Law of Moses; compared with Michelangelo's Holy Family in the Uffizi; painted stone frame with prophets and a bust of John the Baptist) ; Signorelli from Cortona: AUDIT (general) ; route: map, A32 → A33 (WIP) → A34; ONSITE O13 ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF holy-family-signorelli re-read: "Vasari testifies that the painting in question was made for the Sala delle Udienze of the Capitani di Parte Guelfa"
+@lang: es
+@translation: from the fact-checked English Uffizi 028 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Recuerde este cuadro. Dentro de unas salas, verá lo que le enseñó a Miguel Ángel.
+
+Luca Signorelli era de Cortona, y pintaba los cuerpos como un escultor. Hacia 1487 pintó esta Sagrada Familia redonda, que según Vasari se hizo para la sala de audiencias del Partido Güelfo. Mire cómo las tres figuras llenan el círculo. La Virgen, con su amplio manto rojo, lee un libro. El Niño se gira hacia José. [pause] Son tan sólidos que parecen salirse del marco. El museo dice que este tondo sirvió de modelo a toda una generación, desde Miguel Ángel y su Tondo Doni en adelante.
+
+Luego pase a la sala contigua, la sala A32, para otra Virgen de Signorelli, de hacia 1490. Según Vasari, se hizo para Lorenzo de Médici, muy probablemente Lorenzo di Pierfrancesco, quizá presente en la Adoración de Filippino. Mire las figuritas desnudas tras la Virgen. [pause] Quizá representen a la humanidad antes de la ley de Moisés.
+
+Desde la sala A32, si la puerta a la sala A33 está abierta, siga por las salas A33 y A34 hasta el corredor. Si no, vuelva por donde vino, por las salas A31, A29, A28, A27, A26 y A25. En el corredor, gire a la izquierda: la sala A35 es la puerta justo después de la sala A34, con el Bautismo de Cristo y sus dos ángeles arrodillados.

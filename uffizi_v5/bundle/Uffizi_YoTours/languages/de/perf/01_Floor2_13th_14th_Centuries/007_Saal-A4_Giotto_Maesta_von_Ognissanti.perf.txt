@@ -1,0 +1,28 @@
+@id: 007 · DE · Room A4 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A4
+@type: W
+@title: A4 · Giotto — Maestà von Ognissanti
+@where: In Saal A4, vor Giottos Maestà, der kleinsten der drei mit gut drei Metern: die Jungfrau sitzt in einem spitzen Marmortabernakel, zu ihren Füßen knien zwei Engel mit Blumenvasen.
+@what: Giotto, Virgin and Child enthroned, surrounded by angels and saints (Ognissanti Maestà), c. 1300–1305, tempera on wood, gold background, 325 × 204 cm, Uffizi inv. 1890 no. 8344.
+@listen: How hidden halos and a body with weight changed painting, and why Dante had a point.
+@brief: Quietly pointing something out that, once seen, can't be unseen; growing conviction, a wry landing on Dante.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-and-saints-ognissanti-maesta (OFF: Location "A4. Giotto - Cimabue"; 1300-1305 c.; tempera on wood, gold background; 325 x 204 cm; inv. 1890 no. 8344; Mary "seated on a throne, like a queen"; "a pointed tabernacle, inlaid with different-coloured marble"; saints and angels inside it, partly covered by the architecture and halos, suggesting a solid space; kneeling angels "offer vases of roses and lilies", symbols of purity and charity; angels beside the throne "holding out a crown and a pyx", likely referring to the Passion; Child blesses and holds a rolled scroll; decoration "reduced to a minimum to bring out the full plastic nature of the bodies"; made for Ognissanti, where the Humiliati officiated; "The original position of the painting inside the church is unknown"; "For over a century, this composition was a model of inspiration for Florentine painters"; text Daniela Parenti) ; Vasari on Giotto and nature: VASARI ; "almost" kept (audit 007) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: "the Humiliati monks who officiated in the church" (spoken: "run by the religious order of the Humiliati"); Vasari's Lives 1550, about 250 years after c.1300-05
+@lang: de
+@translation: from the fact-checked English Uffizi 007 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Einige Heiligenscheine auf diesem Bild sind teilweise verdeckt, von anderen Köpfen und vom Thron selbst.
+
+Diese kleine Tatsache ist die Revolution. Wenn ein Ding ein anderes verdecken kann, ist Raum zwischen ihnen. Giotto malte dies um 1300 bis 1305 für die Kirche Ognissanti, Allerheiligen, geführt vom Orden der Humiliaten. [pause] Niemand weiß genau, wo es in der Kirche stand.
+
+Maria sitzt da wie eine Königin. Um sie erhebt sich ein spitzer Tabernakel aus eingelegtem, vielfarbigem Marmor, ein Stück gotischer Architektur, das man fast betreten könnte. Die Heiligen und Engel stehen darin, und sie überschneiden sich. [pause] Sehen Sie nun ihren Körper an. Giotto hält den Schmuck ihrer Kleidung sparsam, damit Licht und Schatten die Arbeit tun. Man spürt ihre Knie und ihren Schoß und das Gewicht, das in den Sitz sinkt.
+
+Die Engel haben Aufgaben. Die beiden, die am Fuß des Throns knien, reichen Vasen mit Rosen und Lilien, für Nächstenliebe und Reinheit. [pause] Die Engel neben dem Thron halten eine Krone und eine Pyxis, ein kleines Deckelgefäß, das wohl auf die Passion Christi verweist.
+
+Vasari sagt uns, Giotto habe die Malerei zur Natur zurückgeführt. Das ist ein Schriftsteller, der zweieinhalb Jahrhunderte später zurückblickt. Das Urteil des Museums selbst ist ebenso stark: Über ein Jahrhundert lang war diese Komposition ein Vorbild für die Maler von Florenz. Fast könnte man die moderne Malerei mit dieser Tafel beginnen lassen.
+
+[wry] Dante schrieb, jetzt nenne „alles Giottos Namen“. Der Ruhm, der einst Cimabue gehörte, ist nun seiner. [pause] Wer hier steht, kann kaum widersprechen.
+
+Saal A5 öffnet sich von diesem Saal aus: durch die Tür nahe dem Korridor, in der Wand zur Treppe hin, die Sie heraufgekommen sind. Suchen Sie eine hohe goldene Verkündigung.

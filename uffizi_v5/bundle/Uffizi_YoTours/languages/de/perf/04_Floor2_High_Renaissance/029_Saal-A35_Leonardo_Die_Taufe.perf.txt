@@ -1,0 +1,28 @@
+@id: 029 · DE · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: R
+@title: A35 · Leonardo: Die Taufe
+@where: Saal A35, „Leonardo Da Vinci“. Stellen Sie sich vor die hohe Tafel, fast zwei Meter hoch: Johannes der Täufer gießt Wasser über Christus, der in einem seichten Fluss steht. Links knien zwei Engel am Ufer.
+@what: Andrea del Verrocchio and Leonardo da Vinci, The Baptism of Christ, c. 1470–1475, tempera and oil on panel, 177 × 151 cm, 1890 n. 8358.
+@listen: A workshop picture in which a young assistant may have painted far more than one angel.
+@brief: A friend playing detective at the panel; curious, a little wry about Vasari's legend.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/verrocchio-leonardo-baptism-of-christ (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A35. Leonardo da Vinci"; 1470–1475 c.; tempera and oil on panel; 177 × 151 cm; from the Vallombrosan monastery of San Salvi, Florence; moved 1730 to Santa Verdiana, Florentine Galleries 1810, Uffizi since 1919; Vasari: Leonardo painted the left angel "with such skill that he upset the older Verrocchio"; current studies give him more: the riparian landscape, the golden light and the figure of Christ; studio head designed the work and left parts to pupils; an older unnamed painter perhaps also worked on it, given the less developed hands of God and the dove; inscription ECCE AGNUS DEI) ; AUDIT: Leonardo about 18 to 23 (born 1452); Vasari's claim that Verrocchio gave up painting, framed as "a legend, but a telling one"
+@lang: de
+@translation: from the fact-checked English Uffizi 029 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] In einer geschäftigen florentinischen Werkstatt entwarf der Meister das Bild, und die Gehilfen führten Teile davon aus. Dieses Gemälde ist berühmt, weil einer dieser Gehilfen Leonardo da Vinci war.
+
+Der Meister war Andrea del Verrocchio, Bildhauer, Goldschmied und Maler. Zwischen etwa 1470 und 1475 malte seine Werkstatt diese Taufe. Sie stammt aus dem Vallombrosaner-Kloster San Salvi in Florenz. [pause] Leonardo war damals zwischen achtzehn und dreiundzwanzig.
+
+Vasari erzählt die Geschichte. Leonardo habe den Engel ganz links so gut gemalt, dass er den älteren Verrocchio verstimmte. Und Verrocchio sei so übertroffen gewesen, dass er die Malerei ganz aufgab. [wry] Eine Legende, aber eine vielsagende.
+
+Suchen Sie diesen Engel. Er kniet, uns halb den Rücken zugewandt, und blickt nach oben, sein Gesicht weich und voller Licht. [pause] Sehen Sie nun den Engel daneben an, mit einem runderen, schlichteren Gesicht. Der Unterschied ist leicht zu erkennen.
+
+[pause] Heute glauben Fachleute, dass Leonardo mehr als den Engel malte. Das Museum schreibt ihm vielleicht die Flusslandschaft dahinter zu, das goldene Licht und sogar den Körper Christi. Und vielleicht war auch eine ältere Hand beteiligt. Schauen Sie auf die schwächeren Hände Gottes oben und auf die Taube.
+
+Dies ist also nicht das Bild eines einzigen Künstlers. Es ist eine Werkstatt auf frischer Tat, und in ihr wächst ein Genie heran.
+
+Bleiben Sie in Saal A35 für Leonardos Verkündigung, die lange, niedrige Tafel mit dem Engel, der in einem Garten kniet.

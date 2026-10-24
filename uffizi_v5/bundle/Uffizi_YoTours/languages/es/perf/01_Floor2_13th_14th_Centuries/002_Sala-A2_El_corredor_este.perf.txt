@@ -1,0 +1,26 @@
+@id: 002 · ES · Room A2 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A2
+@type: W
+@title: A2 · El corredor este
+@where: Sala A2, el corredor este, justo al salir del vestíbulo, en lo alto de la escalera: un corredor largo y luminoso, con altos ventanales sobre el patio a un lado, estatuas y bustos antiguos de mármol a lo largo de las paredes y un techo pintado.
+@what: Giorgio Vasari's Eastern Corridor, first of the three top-floor corridors (east, south, west), originally conceived as a loggia open onto the Piazzale; the Medici collection of ancient sculpture, including Roman copies of lost Greek works; the grotesque ceiling, first bay painted in 1581 for Grand Duke Francesco I, the other corridors decorated over the next two centuries.
+@listen: Why a corridor may have given us the word "gallery", what the statues and the ceiling are, and the one rule for finding every painting room in the museum.
+@brief: A friend pausing you in the corridor before the rush; curious, a light touch on the word grotesque, then a clear, practical tip.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF: East, South and West corridors designed by Vasari, "conceived as a loggia originally open onto the Piazzale degli Uffizi"; the word gallery "is widely believed to derive from this very setting"; Francesco I in the 1580s adorned the loggia with ancient statues; the original princely Gallery occupied only the East corridor, "initially intended exclusively for him and his court"; first fresco painted in the East corridor in 1581, the date appears on a ceiling bay; grotesque-style decoration; other corridors "over the next two centuries"; pairs of statues face each other between the windows; statuary "one of the main attractions of the 18th century Grand Tour", scholars and art lovers from across Europe) ; https://www.uffizi.it/en/the-uffizi (OFF: "ancient Roman copies of lost Greek sculptures") ; grotesque etymology (Domus Aurea "grottoes"): standard, audit 002 OK (general) ; MAP p-3.png / hi-3.png: rooms open on the side away from the courtyard; A3 at the short end of A2 toward Palazzo Vecchio, on the far side of the vestibule and lift block from the rest of the route, with its own corridor door (ONSITE O2)
+@lang: es
+@translation: from the fact-checked English Uffizi 002 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Antes de ser corredor, esto era una logia abierta sobre el Piazzale. Y quizá de ahí venga la palabra «galería».
+
+Vasari diseñó tres de estos corredores, este, sur y oeste, que rodean lo alto del edificio. Cuando Francisco de Médici empezó a llenar la logia, en los años 1580, este tramo oriental era toda la galería. Era su colección privada, para él y su corte.
+
+La llenó con la escultura antigua de la familia. Muchas de estas figuras son copias romanas antiguas de originales griegos perdidos. Y entre las ventanas, las estatuas se miran por parejas. [pause] En el siglo dieciocho, esta hilera de mármoles era un hito del Grand Tour. Estudiosos y amantes del arte venían de toda Europa a pasear por aquí.
+
+[pause] Ahora mire arriba. El techo está cubierto de grutescos: volutas, máscaras, pequeñas criaturas y guirnaldas. El primer tramo se pintó en 1581 para Francisco, y la fecha figura en la bóveda. Los otros corredores llevaron los dos siglos siguientes. [lightly] El curioso nombre viene de Roma. Los pintores renacentistas bajaban a las salas enterradas de la Casa Dorada de Nerón a copiar lo que veían. Esas salas subterráneas se llamaban grutas. De ahí el estilo grutesco.
+
+Una regla sencilla le servirá en todo el museo. Las ventanas dan al patio. [pause] Las salas de pintura se abren siempre al otro lado, lejos de las ventanas.
+
+La sala A3 está cerca, pero no al fondo del largo corredor. Al salir del vestíbulo, gire al otro lado, hacia el extremo corto del corredor más cercano al Palazzo Vecchio. La sala A3 es la puerta de ahí, del lado opuesto a las ventanas. Busque una alta cruz pintada sobre oro.

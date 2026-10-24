@@ -1,0 +1,26 @@
+@id: 037 · ES · Room A24 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A24
+@type: R
+@title: A24 · Bajada por la escalera Lanzi
+@where: El extremo del corredor oeste, la sala A24, en lo alto de la escalera Lanzi, antes de bajar. La terraza panorámica también está en este extremo de la planta.
+@what: The Western Corridor (Third Corridor), ancient statues in facing pairs, ceilings painted over the two centuries after the first bay of 1581; the Lanzi staircase down to the first floor; the panoramic terrace with the café, second floor.
+@listen: The most important direction in the guide: one floor down, not out to the street.
+@brief: Calm and clear, a friend making sure you don't miss the turning; warm about what is still to come.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF, mod. 10 Jun 2026, text Antonio Godoli: ceilings of the second and third corridors painted "over the next two centuries"; "pairs of full-length statues facing one another"; Peter Leopold opened the Gallery to the public in 1769; "On that occasion was built the large monumental entrance still in use today"; "the original route, previously accessed through a small entrance in the third corridor, was reversed") ; https://www.uffizi.it/en/the-uffizi (OFF: the cafeteria is on the second floor and has a terrace with a panoramic view; a visitors' map PDF) ; https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (OFF map, Oct 2026, as source/map.txt and research/map/hi-3.png, p-2.png: panoramic terrace with café icons at the west end of the second floor; Lanzi staircase with a lift; "ONCE OUT, IT IS NO LONGER POSSIBLE TO ACCESS THE CLOACKROOM AND AUDIOGUIDE DESK"; Complete itinerary continues on the first floor from the Lanzi staircase; Info Point at the first-floor stair foot; B1–B8 Contini Bonacossi, C1–C5 self-portraits, D rooms 16th century) ; café mention: WRITER_BRIEF allows it plainly in 037; lead decision 24 Oct 2026: keep the plain line (PLAN row said "no café") ; terrace: the spoken instruction is conditional ("if reaching it means going through an exit, skip it"), because hi-3 draws the terrace off the stair-head landing next to the exit icon: ONSITE O17 and O17b ; B1/B2 cue: p-2 at 300 dpi draws no B1→B2 doorway (B2 is open to B4 and faces the landing), so the cue names B2's position only: ONSITE O19 ; lift: ONSITE O38
+@lang: es
+@translation: from the fact-checked English Uffizi 037 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Antes de 1769, los visitantes entraban en la galería por una pequeña puerta de este corredor. Cuando el gran duque la abrió al público ese año, se invirtió el recorrido y se construyó una nueva gran entrada, la que aún se usa.
+
+Eche una última mirada al corredor oeste, con sus estatuas antiguas en parejas enfrentadas bajo techos pintados. [pause] Aquí termina la segunda planta.
+
+[lightly] Antes de bajar: la terraza panorámica, con la cafetería del museo, está en este extremo de la planta. El recorrido no vuelve a subir aquí. Si quiere ver la vista, vaya ahora y luego regrese a esta escalera. Si para llegar hay que cruzar una salida, renuncie a ella.
+
+[pause] Ahora, la indicación más importante de esta guía. Baje por la escalera Lanzi *una sola* planta, hasta la primera, y no hasta la calle. Junto a la escalera también hay un ascensor. [pause] La escalera sigue bajando hasta una salida a la calle. No la siga. Una vez en la calle, no podrá volver al guardarropa ni al mostrador de audioguías, que están al otro lado del edificio.
+
+[warmly] Abajo le espera mucho más: una colección privada donada al Estado, una larga serie de autorretratos de artistas y el siglo dieciséis, con Bronzino y Tiziano.
+
+Baje una sola planta y deje la escalera en la primera planta, junto al Info Point. Al pie, la galería de la colección Contini Bonacossi, la sala B1, se aleja de la escalera. [pause] La sala B2 está en su extremo más cercano, en el lado opuesto al Info Point. Busque un gran retablo dorado de la Virgen de las Nieves.

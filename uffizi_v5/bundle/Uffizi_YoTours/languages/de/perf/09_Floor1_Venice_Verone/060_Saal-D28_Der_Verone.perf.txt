@@ -1,0 +1,26 @@
+@id: 060 · DE · Room D28 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D28
+@type: R
+@title: D28 · Der Verone
+@where: Saal D28, der Verone: die lange überdachte Loggia am Flussende des ersten Stocks, mit einer Reihe von Statuen. Suchen Sie die Statue des alten Silen, der den kleinen Bacchus in den Armen wiegt.
+@what: The Verone, the covered loggia on the Arno, with ancient and Renaissance statues, among them three monumental works from the Villa Medici in Rome. Jacopo del Duca, Silenus cradling Bacchus as a child, made between 1571 and 1574, a copy after a Roman original.
+@listen: A pause between two centuries, and an old companion of the wine god holding a baby.
+@brief: A friend slowing down on purpose; light and easy, tender about the statue, then a quiet build toward Caravaggio.
+@pace: medium-slow
+@energy: 1→2→3
+@sources: https://www.uffizi.it/en/video/the-loggia-on-the-arno-river-and-the-statue-of-silenus-cradling-bacchus-as-a-child (OFF, mod. 26 Oct 2023: "Verone" is a covered loggia on the Arno River; walls "coloured in a very pale and elegant green"; gathering ancient and Renaissance statues; three monumental works from the Villa Medici in Rome; Silenus cradling Bacchus as a child, theme "Fatherhood"; Jacopo Del Duca, Cefalù c. 1520 – 1604; copy from a Roman statue, 1571–1574; the page does not state the material, so none is given) ; Silenus as Bacchus's companion and tutor: general mythology. The view is not described (O35). "A good place to rest your eyes": audit wording.
+@lang: de
+@translation: from the fact-checked English Uffizi 060 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Nach so vielen Sälen voller Farbe kommt hier ein Raum fast ganz ohne Gemälde. Genau darum geht es.
+
+Die Uffizien nennen den Verone eine überdachte Loggia am Arno, mit Wänden in einem sehr blassen, eleganten Grün, ein Ort für Statuen der Antike und der Renaissance. Drei der größten kamen aus der Villa Medici in Rom, dem prächtigen Haus der Familie in dieser Stadt. [pause] Hier können Sie Ihre Augen ausruhen, und Ihre Füße.
+
+[pause] Suchen Sie Silen, der den kleinen Bacchus wiegt. In den Mythen war Silen der alte Gefährte und Lehrer des Weingottes, meist betrunken und fröhlich dargestellt. Hier ist er sanfter: ein Ziehvater, der ein Baby hält. Das Thema passt in ein einziges Wort: Vaterschaft. Der sizilianische Bildhauer Jacopo del Duca schuf diese Fassung zwischen 1571 und 1574, als Kopie eines antiken römischen Originals.
+
+[warmly] Merken Sie sich dieses Baby. In wenigen Minuten begegnen Sie ihm wieder, erwachsen, auf einem Gemälde Caravaggios, wo er ein Glas Wein entgegenhält.
+
+[pause] Hinter Ihnen liegt jetzt das ganze sechzehnte Jahrhundert: die Lombardei, Ferrara und Bologna, Bronzinos Florentiner Hof, und Venedig mit Tizian und Veronese. Vor Ihnen liegt das siebzehnte Jahrhundert, und ein Maler, der mit einem Lichtstrahl und sehr viel Dunkelheit alles veränderte.
+
+Am Ende des Verone wenden Sie sich nach links, den Korridor entlang. Der erste Saal, E4, gehört Caravaggio. Suchen Sie den runden Schild mit dem schreienden Kopf der Medusa.

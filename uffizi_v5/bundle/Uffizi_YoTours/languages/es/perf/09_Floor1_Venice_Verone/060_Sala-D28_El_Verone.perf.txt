@@ -1,0 +1,26 @@
+@id: 060 · ES · Room D28 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D28
+@type: R
+@title: D28 · El Verone
+@where: Sala D28, el Verone: la larga logia cubierta en el extremo de la primera planta que da al río, con una hilera de estatuas. Busque la estatua del viejo Sileno que sostiene en brazos al niño Baco.
+@what: The Verone, the covered loggia on the Arno, with ancient and Renaissance statues, among them three monumental works from the Villa Medici in Rome. Jacopo del Duca, Silenus cradling Bacchus as a child, made between 1571 and 1574, a copy after a Roman original.
+@listen: A pause between two centuries, and an old companion of the wine god holding a baby.
+@brief: A friend slowing down on purpose; light and easy, tender about the statue, then a quiet build toward Caravaggio.
+@pace: medium-slow
+@energy: 1→2→3
+@sources: https://www.uffizi.it/en/video/the-loggia-on-the-arno-river-and-the-statue-of-silenus-cradling-bacchus-as-a-child (OFF, mod. 26 Oct 2023: "Verone" is a covered loggia on the Arno River; walls "coloured in a very pale and elegant green"; gathering ancient and Renaissance statues; three monumental works from the Villa Medici in Rome; Silenus cradling Bacchus as a child, theme "Fatherhood"; Jacopo Del Duca, Cefalù c. 1520 – 1604; copy from a Roman statue, 1571–1574; the page does not state the material, so none is given) ; Silenus as Bacchus's companion and tutor: general mythology. The view is not described (O35). "A good place to rest your eyes": audit wording.
+@lang: es
+@translation: from the fact-checked English Uffizi 060 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Tras tantas salas de pintura, aquí hay un espacio casi sin cuadros. Precisamente de eso se trata.
+
+Los Uffizi llaman al Verone una logia cubierta sobre el Arno, de paredes de un verde muy pálido y elegante, un lugar para estatuas antiguas y renacentistas. Tres de las mayores vinieron de la Villa Médici de Roma, la gran residencia familiar en esa ciudad. [pause] Es un buen lugar para descansar la vista, y los pies.
+
+Busque a Sileno con el niño Baco en brazos. En los mitos, Sileno era el viejo compañero y maestro del dios del vino, que suele aparecer borracho y alegre. Aquí es algo más tierno: un padre adoptivo con un bebé. Su tema cabe en una palabra: paternidad. [pause] El escultor siciliano Jacopo del Duca hizo esta versión entre 1571 y 1574, copiando un original romano antiguo.
+
+[warmly] Recuerde a ese bebé. En unos minutos lo verá de nuevo, ya adulto, en un cuadro de Caravaggio, ofreciendo una copa de vino.
+
+[pause] Tras usted queda todo el siglo dieciséis: Lombardía, Ferrara y Bolonia, la corte florentina de Bronzino, y Venecia con Tiziano y el Veronés. Delante está el siglo diecisiete, y un pintor que lo cambió todo con un rayo de luz y mucha oscuridad.
+
+Al final del Verone, gire a la izquierda por el corredor. La primera sala, la E4, es la de Caravaggio. Busque el escudo redondo con la cabeza de Medusa gritando.

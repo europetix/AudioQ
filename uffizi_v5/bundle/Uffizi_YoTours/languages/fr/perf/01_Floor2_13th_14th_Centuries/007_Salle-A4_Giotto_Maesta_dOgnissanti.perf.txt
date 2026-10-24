@@ -1,0 +1,28 @@
+@id: 007 · FR · Room A4 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A4
+@type: W
+@title: A4 · Giotto — Maestà d'Ognissanti
+@where: Salle A4, devant la Maestà de Giotto, la plus petite des trois, à peine plus de trois mètres : la Vierge assise dans un tabernacle de marbre pointu, avec deux anges agenouillés à ses pieds qui tiennent des vases de fleurs.
+@what: Giotto, Virgin and Child enthroned, surrounded by angels and saints (Ognissanti Maestà), c. 1300–1305, tempera on wood, gold background, 325 × 204 cm, Uffizi inv. 1890 no. 8344.
+@listen: How hidden halos and a body with weight changed painting, and why Dante had a point.
+@brief: Quietly pointing something out that, once seen, can't be unseen; growing conviction, a wry landing on Dante.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-and-saints-ognissanti-maesta (OFF: Location "A4. Giotto - Cimabue"; 1300-1305 c.; tempera on wood, gold background; 325 x 204 cm; inv. 1890 no. 8344; Mary "seated on a throne, like a queen"; "a pointed tabernacle, inlaid with different-coloured marble"; saints and angels inside it, partly covered by the architecture and halos, suggesting a solid space; kneeling angels "offer vases of roses and lilies", symbols of purity and charity; angels beside the throne "holding out a crown and a pyx", likely referring to the Passion; Child blesses and holds a rolled scroll; decoration "reduced to a minimum to bring out the full plastic nature of the bodies"; made for Ognissanti, where the Humiliati officiated; "The original position of the painting inside the church is unknown"; "For over a century, this composition was a model of inspiration for Florentine painters"; text Daniela Parenti) ; Vasari on Giotto and nature: VASARI ; "almost" kept (audit 007) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: "the Humiliati monks who officiated in the church" (spoken: "run by the religious order of the Humiliati"); Vasari's Lives 1550, about 250 years after c.1300-05
+@lang: fr
+@translation: from the fact-checked English Uffizi 007 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Dans ce tableau, certaines auréoles sont en partie cachées, par d'autres têtes et par le trône lui-même.
+
+Ce petit détail, c'est la révolution. Si une chose en cache une autre, il y a de l'espace entre elles. Giotto l'a peint entre 1300 et 1305 environ pour l'église d'Ognissanti, « tous les saints », tenue par l'ordre des Humiliés. On ignore où il se trouvait exactement dans l'église.
+
+Marie trône en reine. Autour d'elle s'élève un tabernacle pointu en marbres multicolores incrustés, une architecture gothique où l'on pourrait presque entrer. Saints et anges s'y tiennent, et se chevauchent. [pause] Regardez maintenant son corps. Giotto réduit au minimum le décor de ses vêtements, pour laisser agir l'ombre et la lumière. On devine ses genoux, son giron, et son poids qui s'installe sur le siège.
+
+Les anges ont chacun un rôle. Les deux agenouillés au pied du trône offrent des vases de roses et de lys : la charité et la pureté. [pause] Ceux d'à côté tendent une couronne et une pyxide, un petit vase à couvercle, qui évoque sans doute la Passion.
+
+Vasari dit que Giotto ramena la peinture à la nature. C'est un écrivain qui regarde deux siècles et demi en arrière. Le verdict du musée est aussi fort : pendant plus d'un siècle, cette composition servit de modèle aux peintres florentins. On pourrait presque dater de ce panneau la peinture moderne.
+
+[wry] Dante a écrit que Giotto « a maintenant la faveur », la gloire qui fut celle de Cimabue. [pause] Ici, difficile de lui donner tort.
+
+La salle A5 donne sur celle-ci, par la porte près du corridor, dans le mur tourné vers l'escalier que vous avez monté. Cherchez une haute Annonciation d'or.

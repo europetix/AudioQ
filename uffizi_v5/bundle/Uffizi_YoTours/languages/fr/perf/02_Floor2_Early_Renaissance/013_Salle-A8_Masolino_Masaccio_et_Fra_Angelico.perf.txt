@@ -1,0 +1,24 @@
+@id: 013 · FR · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: R
+@title: A8 · Masolino, Masaccio et Fra Angelico
+@where: Salle A8, « Masaccio, Beato Angelico, P. Uccello ». La Sainte Anne est le panneau d'or où sainte Anne trône en hauteur derrière la Vierge, qui tient l'Enfant sur ses genoux. La large scène de bataille d'Uccello est aussi dans cette salle.
+@what: Masolino and Masaccio, Saint Anne, Madonna and Child, five angels ("Sant'Anna Metterza"), c. 1424–1425, tempera on wood, 175 × 103 cm, inv. 1890 no. 8386; Fra Angelico, Glorification of Mary, 1431–1435, with its predella, inv. 1890 no. 1612; Fra Angelico, Madonna and Child Enthroned with Angels, 1435, from Pontassieve, Deposits no. 143.
+@listen: Two painters called Tommaso, a Child built like Hercules, Fra Angelico's crowded heaven, and Uccello's love of perspective.
+@brief: An enthusiast at a turning point in the story; curious, then lingering on the Child's weight, a smile at Uccello.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/saint-anne-masaccio (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; Masolino, Tommaso di Cristofano Fini, and Masaccio, Tommaso di ser Giovanni, 1401–1428; 1424-1425 ca.; tempera on wood; 175 x 103 cm; for Sant'Ambrogio, as Vasari specified; Vasari gave it all to Masaccio, Longhi in 1940 gave part to Masolino; Masolino the "monastic and stern" Saint Anne, Masaccio Mary and the "herculean" Child of "solid and full volumes"; "Metterza", "she is in the third position"; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/angelico-glorification (OFF: Location A8; 1431-1435; "over forty figures" of saints; Christ "about to adorn the diadem with a precious stone"; predella separated in the second half of the 16th century, "reunification in Spring 2024") ; https://www.uffizi.it/en/artworks/madonna-child-pontassieve (OFF: Location A8; 1435; centrepiece of a polyptych for San Michele Arcangelo, Pontassieve; the Child's pale skin appears to glow) ; Masaccio died at 26, Fra Angelico a Dominican: audit 012 OK ; Uccello and "what a sweet thing this perspective is": VASARI ; no "rooms 10–12 closed" (NEVER) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF saint-anne-masaccio re-read: "for the Sant'Ambrogio Church in Florence, as specified in the Lives by Giorgio Vasari"; OFF angelico-glorification re-read: predella separated "in the second half of the 16th century", reunited Spring 2024
+@lang: fr
+@translation: from the fact-checked English Uffizi 013 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dans cette salle, l'or commence à reculer, et un espace nouveau s'installe. Tout commence avec deux peintres qui s'appelaient tous deux Tommaso.
+
+Masolino et Masaccio ont peint ensemble la Sainte Anne avec la Vierge et l'Enfant, vers 1424, pour l'église Sant'Ambrogio, selon Vasari. Son ancien nom, Sant'Anna Metterza, veut dire Anne « en troisième place » : grand-mère, mère et fils, l'un au-dessus de l'autre. Vasari donnait tout le panneau à Masaccio. Aujourd'hui, la sévère sainte Anne revient à Masolino, la Vierge et l'Enfant à Masaccio. [pause] Regardez cet Enfant. Il est solide, lourd, presque un petit Hercule. Masaccio avait un peu plus de vingt ans, et mourut à vingt-six ans.
+
+Fra Angelico, frère dominicain, vous emmène vers plus de douceur. Sa Glorification de Marie est peuplée de plus de quarante saints, tous individualisés. Le Christ ne couronne pas sa mère. Il ajoute une pierre précieuse à son diadème. [pause] La prédelle en fut séparée il y a plus de quatre siècles, et l'a retrouvée ici en 2024. Cherchez aussi sa Madone de Pontassieve, de 1435, où la peau pâle de l'Enfant semble presque briller.
+
+[pause] [amused] Et Paolo Uccello ? Vasari raconte qu'il passait des nuits entières sur sa perspective. Quand sa femme l'appelait au lit, il répondait : « Quelle douce chose que cette perspective ! »
+
+Restez dans la salle A8 pour la Bataille de San Romano de Paolo Uccello, le large panneau de chevaux et de lances brisées.

@@ -1,0 +1,26 @@
+@id: 018 · DE · Room A12 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A12
+@type: W
+@title: Botticelli-Säle · Botticelli — Die Geburt der Venus
+@where: In den Botticelli-Sälen, vor der Geburt der Venus, gegenüber der Primavera jenseits des Durchgangs: eine breite, helle Leinwand, fast drei Meter breit. Die Göttin steht auf einer Jakobsmuschel, links die Winde, rechts eine Frau, die einen Blumenmantel ausbreitet. Zu beiden Seiten hängt je eine runde Madonna.
+@what: Sandro Botticelli, Birth of Venus, c. 1485, tempera on canvas, 172.5 × 278.5 cm, Uffizi inv. 1890 n. 878; flanked by the Madonna of the Magnificat and the Madonna of the Pomegranate.
+@listen: Who is who around Venus, what Botticelli borrowed from Lorenzo the Magnificent's gem, and why the surface looks so pale.
+@brief: Quiet and close at first, as if she has just arrived; then clear and confident on the borrowings and the canvas, warm at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/birth-of-venus (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1485 ca.; tempera on canvas; 172.5 x 278.5 cm; inv. 1890 n. 878; Venus, goddess of love and beauty, arriving on Cyprus, born from sea spray, carried ashore by "Zephyr and, perhaps, Aura"; "a giant scallop shell"; young woman with a flower-covered cloak, "the Hora of spring" or one of the Graces; wind-blown roses; subject "perhaps suggested by the poet Agnolo Poliziano"; canvas "widely used throughout the 15th century for decorative works destined to noble houses"; Medici commission likely; first record Vasari 1550, "Villa of Castello"; orange trees a Medici emblem; Venus's modest pose from classical statues; the windblown pair from a Hellenistic gem owned by Lorenzo the Magnificent; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/botticelli-spring (OFF: Vasari in 1550 at Castello describes it alongside the Venus) ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: facing the Primavera; airtight display cases replacing the large protective glass; flanked by the Magnificat and Pomegranate Madonnas; the similar faces of the Virgin and Venus) ; "near-life-size nude goddess was still a rarity", Neoplatonic reading "often read through", pale matte surface: audit 015 safe wording ; cue: PLAN 018, ONSITE O7/O8 ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF botticelli-madonna-of-the-magnificat re-read: round, 118 cm, Mary "writing the canticle Magnificat"
+@lang: de
+@translation: from the fact-checked English Uffizi 018 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Sie ist gerade erst angekommen. Der Wind weht noch, die Rosen fallen noch, und ihr Haar hat sich noch nicht gelegt.
+
+Das ist Venus, die Göttin der Liebe und der Schönheit, wie sie auf der Insel Zypern an Land kommt. Sie wurde aus dem Schaum des Meeres geboren, und hier steht sie auf einer riesigen Jakobsmuschel. [pause] Links bläst der Wind Zephyr sie heran, umschlungen von einer Gefährtin, vielleicht der Brise Aura. Rechts eilt eine junge Frau herbei, um sie mit einem blumenbestreuten Mantel zu bedecken. Sie könnte die Hore des Frühlings sein oder eine der Grazien.
+
+Eine fast lebensgroße nackte Göttin war im Florenz der 1480er-Jahre noch eine Seltenheit. Das Thema schlug vielleicht der Dichter Agnolo Poliziano vor. Oft liest man das Bild im Licht der neuplatonischen Ideen des Medici-Kreises. [pause] Doch Botticelli entlieh auch. Die schamhafte Haltung der Venus stammt von antiken Statuen. Und das Paar der Winde beruht auf einer hellenistischen geschnittenen Gemme, die Lorenzo dem Prächtigen gehörte.
+
+Beachten Sie nun die Oberfläche, hell und matt. Dies ist auf Leinwand gemalt, nicht auf Holz. Das war keine kühne Premiere. Im Florenz des fünfzehnten Jahrhunderts war Leinwand für dekorative Bilder in Adelshäusern weit verbreitet. Das erklärt zum Teil den weichen, kreidigen Eindruck. [pause] Vasari sah das Bild 1550 in der Medici-Villa von Castello, neben der Primavera.
+
+[warmly] Jetzt sind die beiden wieder vereint, einander gegenüber, in neuen luftdichten Vitrinen statt des alten Glases. Schauen Sie von der Göttin zur Magnificat-Madonna, dem runden Bild neben ihr, auf dem Maria in ein Buch schreibt. Vergleichen Sie die Gesichter. Sie sind sich auffallend ähnlich.
+
+In diesem Saal gibt es einen kurzen Extra-Titel über die runden Madonnen neben der Venus und über die Verleumdung. [pause] Die nächste Hauptstation ist Saal A13, durch die Tür am Ende der Botticelli-Säle: das große flämische Triptychon mit der knienden Familie.

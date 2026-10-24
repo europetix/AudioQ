@@ -1,0 +1,26 @@
+@id: 067 · FR · Magliabechi staircase · 24 Oct 2026 edition
+@section: Closing
+@room: Magliabechi staircase
+@type: CLOSE
+@title: La sortie
+@where: En haut de l'escalier Magliabechi, là où le parcours se termine, après la salle E7, près du panneau de sortie. Il y a un ascenseur tout près.
+@what: The end of the route. Down the Magliabechi staircase to the ground floor, past the cloakroom and the audioguide desk, and out by the back way out of the building, on the Palazzo Vecchio side.
+@listen: How to leave, and a last look back at a palace of offices that became one of the world's first public museums.
+@brief: Warm, unhurried farewell from a friend who enjoyed the walk; practical first, then a short look back.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: OFF map https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (first floor: route ends at the Magliabechi staircase, "End of Complete itinerary / End of Classic itinerary", lift icon nearby; ground floor: cloakroom, audioguides and bookshop by the foot of the stairs, "Exit – back way out of the building" on the Palazzo Vecchio side; "Once out, it is no longer possible to access the cloakroom and audioguide desk"; Tribune built 1581–1583 by Buontalenti) ; https://www.uffizi.it/en/news/rinasce-lingresso-storico-degli-uffizi (OFF, 3 Mar 2026: opening to the public on 24 June 1769 under Peter Leopold of "one of the world's first museums created with a modern concept") ; Family Pact wording "the capital and State": audit ; Ponte Vecchio "a short walk": audit. No shop, café or terrace advice.
+@lang: fr
+@translation: from the fact-checked English Uffizi 067 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] C'est ici que finit le parcours. Avant de regarder en arrière, voici la sortie.
+
+Descendez l'escalier Magliabechi jusqu'au rez-de-chaussée. Si vous préférez éviter l'escalier, il y a un ascenseur tout près. En bas, vous passez devant le vestiaire et le comptoir des audioguides : récupérez ce que vous y avez laissé. Une fois la sortie franchie, vous ne pourrez plus revenir le chercher. [pause] La sortie est à l'arrière du bâtiment, du côté du Palazzo Vecchio.
+
+[pause] Repensez maintenant à votre point de départ. Vous avez grimpé jusqu'au dernier étage d'un bâtiment que Vasari a conçu comme bureaux de l'État des Médicis. « Uffizi » ne veut rien dire d'autre. Vous avez commencé par trois Madones d'or, où l'or était la lumière. Vous terminez dans des salles où la lumière est un seul rayon dans le noir, un nouveau-né, ou le visage d'un vieil homme.
+
+À mi-chemin, vous avez dépassé la Tribune, la petite salle octogonale aux murs rouges et à la coupole de nacre. Tout a commencé là. Un grand-duc y a réuni ses plus beaux trésors, pour qu'on les admire. Avec le temps, tout l'étage est devenu une galerie. [pause] Et le 24 juin 1769, elle s'est ouverte au public, comme l'un des premiers musées au monde de conception moderne, selon les mots mêmes du musée.
+
+[quietly] Si tout est encore ici, c'est grâce à une promesse. Quand la lignée des Médicis s'est éteinte, la dernière de la famille, Anne-Marie-Louise, a convenu avec les nouveaux souverains que rien ne quitterait la capitale et l'État. Voilà pourquoi vous avez pu, aujourd'hui, vous tenir devant la Vénus d'Urbin, dans la ville qui l'a gardée.
+
+[warmly] Dehors, le Ponte Vecchio est à quelques pas. Emportez une image avec vous, celle qui a arrêté vos pas. Vous verrez, c'est celle dont vous vous souviendrez. Merci d'avoir parcouru les Offices avec moi.

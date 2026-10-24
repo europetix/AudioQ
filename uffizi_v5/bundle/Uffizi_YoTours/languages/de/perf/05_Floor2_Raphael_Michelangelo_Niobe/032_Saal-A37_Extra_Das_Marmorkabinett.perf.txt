@@ -1,0 +1,26 @@
+@id: 032 · DE · Room A37 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A37
+@type: X
+@title: A37 · Extra · Das Marmorkabinett
+@where: Saal A37, das Marmorkabinett, neben dem oberen Ende der Buontalenti-Treppe: ein tiefroter Raum mit antiken Reliefs in den Wänden. Suchen Sie den Marmorjungen, knapp einen Meter groß, der auf einem Felsen sitzt und sich einen Dorn aus dem Fuß zieht.
+@what: Boy with Thorn, also known as Spinario, 1st century BC, Greek marble with additions in Carrara marble, h. 84 cm. Room rearranged in July 2024: twelve Roman reliefs back in their original places, and other ancient marbles.
+@listen: A terrace that became a sculpture room, and a boy who has been busy with his foot for two thousand years.
+@brief: Light and amused, a short breather between Leonardo and Michelangelo.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/lo-spinario-or-boy-with-thorn (OFF, mod. 29 Aug 2024, text Cristiana Barandoni: Location "A37. The Cabinet of Ancient Marbles"; 1st century BC; type probably created in Greece in the 3rd century BC; Greek marble with Carrara additions; h. 84 cm; sits on a rock removing a thorn, probably from treading grapes at the harvest; the bronze seen in Rome from the late 12th century, "or perhaps even an original", now in the Capitoline Museums) ; https://www.uffizi.it/en/news/the-uffizi-galleries-bring-the-hall-of-ancient-marbles-back-to-life (OFF news 31 Jul 2024: a terrace built in 1658 under Ferdinando II; covered in 1825 for new exhibition space; two cabinets, Egyptian and classical; "Illuminated by a large skylight"; twelve reliefs back in their original positions; Spinario one of seven known copies; Menander, one of three known copies; green basalt Doryphoros torso, "perhaps the best replica of Polykleitos' Doryphoros"; deep red walls) ; Menander and the basalt torso named in ONE cuttable sentence: ONSITE O15 (name only what is seen) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF news re-read: "twelve reliefs, almost all of Roman era"; terrace "built in 1658"; space "created in 1825"
+@lang: de
+@translation: from the fact-checked English Uffizi 032 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Dieser Junge versucht seit etwa zweitausend Jahren, einen Dorn aus seinem Fuß zu ziehen.
+
+Der Raum begann als offene Terrasse, erbaut 1658. 1825 wurde er überdacht, um Platz für weitere Altertümer zu schaffen. [pause] Im Sommer 2024 richtete das Museum ihn neu ein und setzte zwölf antike Reliefs, fast alle römisch, wieder an ihre ursprünglichen Plätze an den Wänden.
+
+Der Dornauszieher ist ein römischer Marmor aus dem ersten Jahrhundert vor Christus, nach einer griechischen Idee. Er sitzt auf einem Felsen und zupft an seiner Fußsohle. Das Museum vermutet, der Dorn stamme vom Traubentreten bei der Weinlese. [pause] Sieben Kopien von ihm sind bekannt. Die berühmteste Fassung, vielleicht sogar das Original, ist eine Bronze in den Kapitolinischen Museen in Rom, dort bewundert seit dem Mittelalter.
+
+[lightly] Sehen Sie, wie gewöhnlich dieser Moment ist. Kein Gott, kein Held, nur ein Junge und ein wunder Fuß.
+
+Die Neuordnung von 2024 brachte auch eine kleine Sitzfigur des griechischen Dichters Menander zum Vorschein, eine von nur drei bekannten Kopien. Ebenso einen dunkelgrünen Torso aus Basalt, vielleicht die schönste Kopie eines berühmten griechischen Speerträgers von Polyklet.
+
+Zurück in den Korridor und links abbiegen. Die nächste Tür ist Saal A38: Suchen Sie das runde Bild der Heiligen Familie in seinem geschnitzten Goldrahmen. [pause] Nehmen Sie nicht die Buontalenti-Treppe.

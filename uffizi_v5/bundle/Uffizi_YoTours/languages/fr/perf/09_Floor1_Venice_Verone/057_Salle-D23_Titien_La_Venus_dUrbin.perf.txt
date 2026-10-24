@@ -1,0 +1,30 @@
+@id: 057 · FR · Room D23 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D23
+@type: W
+@title: D23 · Titien — La Vénus d'Urbin
+@where: Salle D23, « Titien, la Vénus d'Urbin ». Placez-vous devant la large toile, d'environ un mètre soixante-cinq : une femme nue allongée sur des draps blancs, qui vous regarde droit dans les yeux, un petit chien endormi à ses pieds et deux servantes près d'un coffre, au fond.
+@what: Titian, Venus of Urbino, 1538, oil on canvas, 119 × 165 cm, inv. 1890 no. 1437 (page "D22" in the old numbering = map D23).
+@listen: A painting bought as "the naked woman", a wedding ritual turned into a goddess, and why it once hung beside the Medici Venus.
+@brief: A friend telling the life story of a famous picture, warm and a little wry, letting the details do the work.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/venus-urbino-titian (OFF: 1538; oil on canvas 119 × 165; inv. 1890 no. 1437; Location "Room D22, Tiziano and Venere di Urbino" = map D23; 1538 letter certifies the "naked woman" bought directly from Titian by Guidobaldo II della Rovere; sleeping dog "a reference to fidelity in marriage"; bunch of roses, emblem of Venus; pot of myrtle on the sill, constancy in love; two maids, one searching the painted chest, the other holding the wedding dress; the toccamano, at home not in church, a woman touches the groom's hand to consent, "Titian takes this as his inspiration for a seductive Venus"; gazes out "in a flirtatious, allusive manner"; taken to Florence in Vittoria della Rovere's dowry, "the last member of the family and wife of Grand Duke of Tuscany, Ferdinando II de' Medici" (re-read 24 Oct 2026: no year, nothing on how long it stayed in Urbino, so no time claim is spoken); for many years in the Tribuna close to the Medici Venus) ; SEC (SNIP) https://guide.skd.museum/en/Tour/Object?guideId=657&objectId=34173 (Giorgione's Sleeping Venus in Dresden, which Titian "may" have helped finish; audit wording) ; "heir to Urbino" and Manet's Olympia: audit wording (general). Not used: "anxious to secure it" (not on the page), "behind glass".
+@lang: fr
+@translation: from the fact-checked English Uffizi 057 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1538, un jeune noble a écrit une lettre sur un tableau acheté à Titien. Il ne l'appelait pas Vénus. Il l'appelait « la femme nue ».
+
+C'était Guidobaldo della Rovere, héritier du duché d'Urbin. Voilà d'où vient son nom. La Vénus d'Urbin.
+
+Elle est allongée sur des draps blancs et vous regarde droit dans les yeux. Le musée dit son regard aguicheur et allusif. D'une main, elle tient un bouquet de roses, la fleur de Vénus. Un chien dort au pied du lit, signe de fidélité conjugale. Sur le rebord de la fenêtre, un pot de myrte, autre plante de Vénus, et de l'amour constant. Derrière elle, deux servantes s'affairent à un coffre peint, et en sortent une robe de mariée.
+
+[pause] Alors, déesse ou épouse ? Titien est parti d'une coutume vénitienne, le toccamano. À la maison, et non à l'église, une jeune femme touchait la main de l'homme qui l'avait demandée en mariage, pour montrer son consentement. De ce petit geste intime, Titien a fait une Vénus séduisante.
+
+Il connaissait la Vénus endormie de Giorgione, aujourd'hui à Dresde, qu'il a peut-être même aidé à terminer. La déesse de Giorgione dort. Celle de Titien est bien éveillée, et sait que vous êtes là. Plus de trois siècles plus tard, Manet lui a répondu avec son Olympia.
+
+[wry] Plus tard, elle est arrivée à Florence, dans la dot de Vittoria della Rovere, dernière de sa famille, qui a épousé un grand-duc Médicis. Longtemps, elle a été accrochée dans la Tribune, près de la Vénus de Médicis en marbre. Statue antique et peinture moderne, côte à côte, comme pour un concours.
+
+[warmly] Et contrairement à la statue, elle vous regarde toujours dans les yeux.
+
+Cette salle propose un court Extra sur la Flora de Titien, la femme aux cheveux cuivrés dénoués, avec des fleurs de printemps. Le prochain arrêt principal est la salle D26, Véronèse. [pause] Passez la porte vers la salle D24, traversez tout droit la salle D25, et entrez dans la salle D26. Cherchez un haut portrait d'un père, la main sur l'épaule de son jeune fils.

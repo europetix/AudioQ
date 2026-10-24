@@ -1,0 +1,30 @@
+@id: 052 · ES · Room D15 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D15
+@type: W
+@title: D15 · Bronzino — Eleonora de Toledo con su hijo Giovanni
+@where: Sala D15, la sala de las Dinastías, en el corredor, junto a la sala D14. Busque el retrato, de 1,15 metros de alto aproximadamente, de una mujer sentada con un vestido de brocado blanco y oro sobre un fondo azul intenso, con la mano apoyada en el hombro de un niño pequeño. Es la imagen de la sala en el plano del museo.
+@what: Bronzino, Portrait of Eleonora di Toledo with her son Giovanni, c. 1545, oil on wood, 115 × 96 cm, inv. 1890 no. 748.
+@listen: A duchess who ran the state, a gown that tells the world she will give the family heirs, and a legend about her burial that is not true.
+@brief: Admiring and clear-eyed, correcting an old myth with a light touch, then quiet and tender for the ending.
+@pace: medium-slow
+@energy: 2→3→1
+@sources: https://www.uffizi.it/en/artworks/eleonora-di-toledo (OFF: Location "D15. Room of the Dynasties"; Bronzino, Florence 1503–1572; c. 1545; oil on wood 115 × 96; inv. 1890 no. 748; "a stateswoman, a capable administrator, the Duke's most important collaborator"; had already served three times as head of state during Cosimo's absences; Giovanni her second son, born 1543, destined for the Church; silk brocade, "a speciality of the Florentine textile industry"; pomegranate and pinecone motifs "Christian symbols of resurrection and regeneration", alluding to her fertility; the blue field in lapis lazuli, the costliest pigment, traditionally for the Virgin's cloak, an aura of sacrality; celebrates her dynastic role and presents her as a powerful, independent woman; curators Bruce Edelstein, Patrizia Naldini) ; SEC https://research.aub.ac.uk/id/eprint/558 (S. Hall, Costume 2025: body exhumed in 1857; the burial-dress identification a "widespread myth", long dispelled because "the two dresses are not similar") ; deaths of Giovanni (20 Nov 1562) and Eleonora (17 Dec 1562) of malaria, within weeks, and Garzia that December: audit (SEC Pisa-eleo and standard reference) ; map (OFF): D15 highlight picture "D15 Bronzino"
+@lang: es
+@translation: from the fact-checked English Uffizi 052 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Este es el retrato de una jefa de Estado. Tres veces, mientras su marido estaba fuera, Eleonora de Toledo gobernó en su lugar.
+
+Era española, esposa del duque Cosme Primero. El museo la llama estadista, administradora capaz y la colaboradora más importante del duque. Agnolo Bronzino la pintó hacia 1545 con su segundo hijo, Giovanni, que tenía entonces unos dos años.
+
+[pause] Mire primero el vestido. Es brocado de seda, especialidad de la propia industria textil florentina, así que el vestido es también un anuncio. Siga el dibujo: granadas y piñas. [pause] Eran símbolos cristianos de resurrección y vida nueva, y aquí aluden también a su fertilidad.
+
+Luego, el azul del fondo. Es lapislázuli, el pigmento más caro que existía, normalmente reservado al manto de la Virgen. Bronzino envuelve a una duquesa en el color de la Virgen. Y su mano descansa suavemente en el hombro de su hijo. Madre, gobernante, casi sagrada.
+
+[wry] Quizá oiga que Eleonora fue enterrada con este vestido. No es así. Cuando se abrió su tumba en 1857, llevaba otro vestido. La leyenda se desmintió hace mucho, y aún se repite, porque es muy buena historia.
+
+El verdadero final es más triste. En el invierno de 1562, la malaria golpeó a la familia. Giovanni murió en noviembre. Su hermano Garzia, en diciembre, y Eleonora murió en Pisa ese mismo mes, a pocas semanas de su hijo.
+
+[quietly] Así, esta imagen de un futuro seguro acabó siendo un recuerdo de la madre y del niño a su lado.
+
+Esta sala tiene un breve Extra sobre los duques de Urbino de Tiziano, y las salas de detrás, D16 a D18, otro sobre la Contrarreforma. [pause] La siguiente parada principal es la sala D19, donde empieza el Corredor Vasariano. Es la sala estrecha tras la segunda puerta de la pared del fondo, la más alejada de la sala D14, por donde entró.

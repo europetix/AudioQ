@@ -1,0 +1,28 @@
+@id: 004 · DE · Room A4 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A4
+@type: R
+@title: A4 · Drei Maestà
+@where: Saal A4, „Giotto, Cimabue“: der große Saal mit drei riesigen Altartafeln der thronenden Madonna mit Kind auf Goldgrund, jede über drei Meter hoch. Stellen Sie sich in die Mitte, wo Sie alle drei sehen.
+@what: Cimabue, Santa Trinita Maestà, c. 1290–1300, 384 × 223 cm; Duccio di Buoninsegna, Rucellai Madonna, c. 1285, 450 × 290 cm; Giotto, Ognissanti Maestà, c. 1300–1305, 325 × 204 cm; all tempera on wood, gold background. Dante, Purgatorio XI, 94–96 (Longfellow translation).
+@listen: Dante's warning about fame, and how to compare three Maestàs painted within about twenty years of one another.
+@brief: An enthusiast setting up a comparison for a friend; curious at the start, practical in the middle, a wry smile at Dante.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-and-prophets-santa-trinita-maesta (OFF: Location "A4. Giotto - Cimabue"; "1290-1300 ca."; 384 x 223 cm) ; https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-known-as-the-rucellai-madonna (OFF: A4; "1285 ca."; 450 x 290 cm; Duccio Sienese) ; https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-and-saints-ognissanti-maesta (OFF: A4; "1300-1305 c."; 325 x 204 cm) ; SEC https://www.online-literature.com/dante/purgatorio/11/ (Oderisi speaking; "In painting Cimabue thought that he / Should hold the field, now Giotto has the cry," read on the page; third line "So that the other's fame is growing dim" as given verbatim in PLAN and the audit, Longfellow) ; terrace of the proud: audit title-page row ; no wall positions (NEVER, O3)
+@lang: de
+@translation: from the fact-checked English Uffizi 004 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dante benutzte zwei der Maler in diesem Saal als Warnung vor dem Hochmut.
+
+In seinem Purgatorium, auf der Terrasse, wo die Hochmütigen geläutert werden, erzählt der Buchmaler Oderisi dem Dichter, wie schnell Ruhm vergeht. In der Übersetzung von Philalethes sagt er: „Das Feld zu halten glaubte Cimabue als Maler, jetzt nennt alles Giottos Namen, so daß den Ruhm des andern er verdunkelt.“
+
+Beide Männer sind hier. Ebenso ein dritter großer Maler, Duccio aus Siena. Alle drei malten dasselbe Thema: die thronende Jungfrau mit Kind in Herrlichkeit, eine Maestà. Alle drei sind gewaltig, von etwa dreieinviertel bis viereinhalb Metern. [pause] Nach den Datierungen des Museums entstanden sie innerhalb von etwa zwanzig Jahren, von der Mitte der 1280er-Jahre bis in die frühen 1300er-Jahre. Und die früheste ist nicht die von Cimabue. Es ist die von Duccio.
+
+[pause] Denken Sie also nicht an einen alten Meister und seine Schüler in ordentlicher Reihe. Denken Sie an drei verschiedene Ansätze, Seite an Seite. Achten Sie beim Vergleich auf drei Dinge. Erstens der Thron: Ist er eine flache Form, oder spüren Sie Raum darin? Dann die Engel: Sind sie ein Muster oder ein Gedränge? [pause] Und zuletzt die Körper: Schweben sie, oder sitzen sie mit echtem Gewicht?
+
+Lassen Sie sich Zeit zwischen den dreien. Vieles, was Sie auf diesem Stockwerk sehen, wächst aus dem, was in diesem Saal geschah.
+
+[wry] Dante hielt Ruhm für flüchtig. Sieben Jahrhunderte später ziehen alle drei Namen noch immer die Menge an.
+
+Bleiben Sie in Saal A4. Beginnen Sie mit Cimabues Tafel: die mit vier Propheten in Bögen unter dem Thron.

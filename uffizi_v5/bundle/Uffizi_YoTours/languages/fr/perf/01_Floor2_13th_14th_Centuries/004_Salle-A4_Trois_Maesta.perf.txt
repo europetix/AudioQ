@@ -1,0 +1,28 @@
+@id: 004 · FR · Room A4 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A4
+@type: R
+@title: A4 · Trois Maestà
+@where: Salle A4, « Giotto, Cimabue » : la grande salle aux trois immenses retables de la Vierge à l'Enfant en trône sur fond d'or, chacun haut de plus de trois mètres. Placez-vous au milieu, d'où vous les voyez tous les trois.
+@what: Cimabue, Santa Trinita Maestà, c. 1290–1300, 384 × 223 cm; Duccio di Buoninsegna, Rucellai Madonna, c. 1285, 450 × 290 cm; Giotto, Ognissanti Maestà, c. 1300–1305, 325 × 204 cm; all tempera on wood, gold background. Dante, Purgatorio XI, 94–96 (Longfellow translation).
+@listen: Dante's warning about fame, and how to compare three Maestàs painted within about twenty years of one another.
+@brief: An enthusiast setting up a comparison for a friend; curious at the start, practical in the middle, a wry smile at Dante.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-and-prophets-santa-trinita-maesta (OFF: Location "A4. Giotto - Cimabue"; "1290-1300 ca."; 384 x 223 cm) ; https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-known-as-the-rucellai-madonna (OFF: A4; "1285 ca."; 450 x 290 cm; Duccio Sienese) ; https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-and-saints-ognissanti-maesta (OFF: A4; "1300-1305 c."; 325 x 204 cm) ; SEC https://www.online-literature.com/dante/purgatorio/11/ (Oderisi speaking; "In painting Cimabue thought that he / Should hold the field, now Giotto has the cry," read on the page; third line "So that the other's fame is growing dim" as given verbatim in PLAN and the audit, Longfellow) ; terrace of the proud: audit title-page row ; no wall positions (NEVER, O3)
+@lang: fr
+@translation: from the fact-checked English Uffizi 004 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dante s'est servi de deux peintres de cette salle pour mettre en garde contre l'orgueil.
+
+Dans son Purgatoire, sur la corniche où les orgueilleux expient, l'enlumineur Oderisi rappelle au poète combien la gloire passe vite. Dans la traduction de Longfellow, il dit : « En peinture, Cimabue crut tenir le champ, et maintenant Giotto a la faveur, si bien que la gloire de l'autre pâlit. »
+
+Tous deux sont ici, avec un troisième grand peintre, le Siennois Duccio. Tous trois ont peint le même sujet : la Vierge à l'Enfant trônant en majesté, une Maestà. Tous trois sont gigantesques, d'environ trois mètres vingt-cinq à quatre mètres et demi. [pause] Selon les dates du musée, ils furent peints en une vingtaine d'années, du milieu des années 1280 au début des années 1300. Et le plus ancien n'est pas celui de Cimabue. C'est celui de Duccio.
+
+[pause] N'imaginez donc pas un vieux maître suivi de ses élèves, bien en rang. [pause] Pensez à trois approches différentes, côte à côte. Pour les comparer, regardez trois choses. D'abord le trône : une forme plate, ou un espace qu'on sent à l'intérieur ? Puis les anges : un motif, ou une foule ? Enfin les corps : flottent-ils, ou pèsent-ils vraiment sur leur siège ?
+
+Prenez votre temps entre eux. Une bonne part de ce que vous verrez à cet étage naît de ce qui s'est joué ici.
+
+[wry] Dante pensait la gloire éphémère. Sept siècles plus tard, les trois noms attirent toujours la foule.
+
+Restez dans la salle A4. Commencez par le panneau de Cimabue, celui des quatre prophètes dans des arcades, sous le trône.

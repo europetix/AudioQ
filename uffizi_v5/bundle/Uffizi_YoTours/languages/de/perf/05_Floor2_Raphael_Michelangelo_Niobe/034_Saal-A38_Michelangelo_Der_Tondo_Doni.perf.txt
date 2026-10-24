@@ -1,0 +1,30 @@
+@id: 034 · DE · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Michelangelo — Der Tondo Doni
+@where: Saal A38. Stellen Sie sich vor das Rundbild, 120 Zentimeter im Durchmesser, in seinem tiefen, geschnitzten und vergoldeten Rahmen: Maria dreht sich um, um das Kind von Josef zu nehmen, in harten, hellen Farben, dahinter eine Reihe nackter junger Männer hinter einer niedrigen Mauer.
+@what: Michelangelo Buonarroti, Holy Family, known as the "Doni Tondo", about 1505–1507 (page: 1505–1506), tempera grassa on wood, diameter 120 cm, 1890 n. 1456; frame carved by Francesco del Tasso, probably to Michelangelo's design.
+@listen: A sculptor's painting for a merchant's family, the ancient statue hidden in it, and the bride's emblem hidden in the frame.
+@brief: Energetic and admiring, a friend who loves this picture; conspiratorial about the half-moons, then a quiet landing.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo (OFF, mod. 6 Mar 2024: Location "A38. Raphael and Michelangelo"; 1505–1506; tempera grassa on wood; diameter 120 cm; for the Florentine merchant Agnolo Doni, married to Maddalena Strozzi in 1504; marriage and birth of the first child celebrated with works by Raphael and Michelangelo; "the only finished panel painting by the artist to survive"; earlier marble tondi, the Pitti and Taddei Tondi; conceived like a sculpture; pyramidal group like a dome, Child passed between Joseph and Mary; Hellenistic marble sculpture; the Laocoön, excavated in January 1506, appears among the nudes, dating it to the time of Maria Doni's birth in September 1507; nudes as pagan humanity; the wall as original sin; the infant St John beyond the wall suggests a christening; frame probably designed by Michelangelo and carved by Francesco del Tasso, head of Christ and four prophets among grotesques; Strozzi half-moons hidden at the top left) ; https://www.uffizi.it/en/artworks/signorelli-madonna-with-child (OFF: nude background figures compared with Michelangelo's Holy Family) ; AUDIT: "about 1505–07"; drop "original frame"
+@lang: de
+@translation: from the fact-checked English Uffizi 034 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Michelangelo meißelte in Marmor. Wenn er sich doch zum Malen bereit erklärte, malte er wie ein Bildhauer. Hier sehen Sie es, im einzigen erhaltenen vollendeten Tafelbild von ihm.
+
+Es entstand für Agnolo Doni, einen reichen florentinischen Kaufmann, der 1504 Maddalena Strozzi heiratete. Das Museum bringt es mit ihrer Hochzeit und der Geburt ihres ersten Kindes in Verbindung. [pause] Michelangelo hatte bereits runde Marienreliefs in Marmor gehauen. Nun tat er es in Farbe.
+
+Sehen Sie die Familie an. Maria kniet vorn und dreht sich über die Schulter um. Das Kind wird zwischen ihr und Josef weitergereicht, und die drei Körper fügen sich wie eine Kuppel zusammen. Ihr nackter Arm ist kräftig wie der einer Athletin. [pause] Die Farben sind hart und hell, wie polierter Stein.
+
+[pause] Dann schauen Sie hinter sie. Eine niedrige Mauer läuft quer durch das Bild, und dahinter lagern nackte junge Männer. Sie scheinen für die heidnische Welt vor Christus zu stehen. Die Mauer steht vielleicht für die Erbsünde. Und dort, zwischen den beiden Welten, ist der kleine Johannes der Täufer, vielleicht ein Hinweis, dass das Bild eine Taufe feierte. Auch Signorellis Madonna in Saal A32 hat Akte im Hintergrund. Michelangelo hatte genau hingesehen.
+
+Einer dieser Akte liefert ein Datum. Die berühmte antike Statue des Laokoon wurde im Januar 1506 in Rom ausgegraben, und ihr Echo erscheint unter diesen Figuren. Das passt zur Geburt der Tochter des Paares, Maria, im September 1507.
+
+[conspiratorial] Nun der Rahmen. Wahrscheinlich entwarf ihn Michelangelo selbst, geschnitzt hat ihn Francesco del Tasso. Der Kopf Christi und vier Propheten blicken zwischen den Blättern hervor. [pause] Und oben links, im Schnitzwerk versteckt, sind Halbmonde, das Wappenzeichen der Familie der Braut, der Strozzi.
+
+[warmly] Das Bild eines Bildhauers für die glücklichsten Jahre einer Familie.
+
+Bleiben Sie in Saal A38 für Raffaels Madonna mit dem Stieglitz: Der kleine Johannes reicht dem Kind einen kleinen Vogel.

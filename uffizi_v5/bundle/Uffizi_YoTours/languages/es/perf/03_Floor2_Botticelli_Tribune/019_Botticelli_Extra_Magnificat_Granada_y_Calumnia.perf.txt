@@ -1,0 +1,24 @@
+@id: 019 · ES · Room A12 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A12
+@type: X
+@title: Salas de Botticelli · Extra · Magnificat, Granada y Calumnia
+@where: En la sala de la Venus, dentro de las salas de Botticelli. La Virgen del Magnificat es el gran cuadro redondo junto a la Venus, con María escribiendo en un libro. La Virgen de la Granada es el cuadro redondo al otro lado de la Venus. La Calumnia es una tabla pequeña y abarrotada, de menos de un metro de ancho, con figuras en una sala de mármol junto al mar.
+@what: Sandro Botticelli, Virgin and Child, and Angels (Madonna of the Magnificat), c. 1483, tempera on wood, diameter 118 cm, inv. 1890 n. 1609; Madonna of the Pomegranate (named in the June 2026 news; no page read); Calumny of Apelles, c. 1495, tempera on wood, 62 × 91 cm, inv. 1890 no. 1496.
+@listen: A Madonna writing her own hymn, and the dark little allegory that closes Botticelli's story.
+@brief: A short, intimate aside; tender on the Madonna, then quietly serious on the Calumny.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/botticelli-madonna-of-the-magnificat (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1483 c.; tempera on wood; diameter 118 cm; inv. 1890 n. 1609; Mary writes "Magnificat anima mea Dominum" "under the guidance of her son"; Jesus "touching a pomegranate", red seeds recalling his blood; "crowned by two angels", without wings, in late-15th-century Florentine elite fashion; round paintings usually for noble settings, this large one perhaps for a tribunal of the Florentine Republic; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/calumny-botticelli (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1495 ca.; tempera on wood; 62 x 91 cm; inv. 1890 no. 1496; after a lost painting by Apelles known through Lucian; read right to left; king with donkey ears like Midas; Ignorance and Suspicion; Calumny with a torch pulling the victim "by the hair"; Rancour; Fraud and Deceit adorn her hair; Penitence in black turns toward Truth, "a naked young lady and ignored by the other characters"; portico over the sea with statues and reliefs; the Republic "inspired by Girolamo Savonarola") ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: Magnificat and Pomegranate flank the Venus; the sequence closes with the Calumny (1495)) ; Pallas and the Centaur NOT mentioned (PLAN)
+@lang: es
+@translation: from the fact-checked English Uffizi 019 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dos Vírgenes redondas enmarcan la Venus. En la Virgen del Magnificat, María escribe.
+
+Escribe el inicio de su propio himno, Magnificat anima mea Dominum, «mi alma engrandece al Señor», y su hijo la guía. Su mano descansa sobre una granada, cuyos granos rojos recuerdan la sangre que derramará. Dos ángeles sostienen una corona sobre su cabeza. No tienen alas, y visten como jóvenes florentinos a la moda. [pause] Un tondo tan grande, de más de un metro, quizá colgó en una sede de la República florentina. Su Virgen de la Granada está al otro lado de la Venus.
+
+[pause] Busque la Calumnia de Apeles, una tabla pequeña y abarrotada. Pintada hacia 1495, en la Florencia de Savonarola, cierra aquí la historia de Botticelli. Recreó un cuadro perdido del antiguo pintor griego Apeles, conocido solo por una descripción escrita.
+
+Léala desde la derecha. Un rey con orejas de burro juzga, aconsejado por la Ignorancia y la Sospecha. La Calumnia, con una antorcha, arrastra a su víctima por el pelo, mientras el Fraude y el Engaño la peinan. La Penitencia, de negro, se vuelve hacia la Verdad. [quietly] La Verdad está desnuda, y nadie más en el cuadro la mira.
+
+Cruce la puerta del final de las salas de Botticelli hacia la sala A13: el gran tríptico flamenco.

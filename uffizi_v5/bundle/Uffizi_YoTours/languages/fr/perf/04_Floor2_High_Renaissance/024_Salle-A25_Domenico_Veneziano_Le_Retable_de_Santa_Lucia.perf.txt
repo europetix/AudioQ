@@ -1,0 +1,26 @@
+@id: 024 · FR · Room A25 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A25
+@type: R
+@title: A25 · Domenico Veneziano — Le Retable de Santa Lucia
+@where: Salle A25, « Domenico Veneziano, Piero della Francesca ». Placez-vous devant le grand retable presque carré, d'environ deux mètres de côté : la Vierge à l'Enfant en trône sous une loggia légère de marbre rose et vert, deux saints de chaque côté et des orangers au-dessus.
+@what: Domenico Veneziano, Madonna and Child enthroned with St. Francis, John the Baptist, St. Zenobius and St. Lucy (Santa Lucia de' Magnoli Altarpiece), c. 1445, tempera on wood, 209 × 213 cm, 1890 n. 884; restored 2024 by the Opificio delle Pietre Dure.
+@listen: A painter from Venice who filled an altarpiece with daylight, and the murder Vasari invented for him.
+@brief: A friend setting the record straight, wry about Vasari, then pleased to point out the light.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/veneziano-madonna-and-child-enthroned (OFF, text Daniela Parenti: Location "A25. Domenico Veneziano - Piero della Francesca"; 1445 c.; tempera on wood; 209 × 213 cm; Domenico, Venice early 15th c. – Florence 1461; high altar of Santa Lucia de' Magnoli; portico with marble columns and boughs of orange trees above; pointed arches; light tones; "clear light entering from the right"; shadows on the floor "perfectly proportioned"; St Lucy holds a dish bearing her eyes; Zenobius a bishop; signed on the step of the dais "OPUS DOMINICI DE VENETIIS HO[C] MATER DEI MISERERE MEI DATUM EST"; predella now in Washington, Cambridge (Fitzwilliam) and Berlin; restored 2024) ; AUDIT IAS-cast (SNIP) + Vasari: Vasari's story that Andrea del Castagno murdered him; Castagno died in 1457, four years before Domenico ; AUDIT (general): Piero worked as his assistant in the 1430s
+@lang: fr
+@translation: from the fact-checked English Uffizi 024 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Vasari raconte une sombre histoire sur l'auteur de ce tableau. Selon lui, un rival jaloux, Andrea del Castagno, l'aurait assassiné. Le récit est captivant. Il est aussi impossible. [pause] Castagno mourut en 1457, et Domenico Veneziano lui survécut quatre ans.
+
+Domenico, venu de Venise, travaillait à Florence. Vers 1445, il peignit ce retable pour le maître-autel de la petite église de Santa Lucia de' Magnoli. Et au lieu de l'or, il lui donna la lumière du jour.
+
+[pause] Voyez comme la lumière entre par la droite. Elle traverse la loggia de marbre et pose au sol des ombres douces et exactes. Au-dessus des arcs, des branches d'orangers se détachent sur un ciel clair. Quatre saints se tiennent dans cette lumière. À gauche, saint François et Jean-Baptiste. À droite, saint Zénobe, évêque de Florence, et sainte Lucie, qui tient un plat portant ses propres yeux.
+
+[curious] Baissez ensuite les yeux vers la marche, sous le trône de la Vierge. Domenico y a signé, en ajoutant une prière : « Mère de Dieu, ayez pitié de moi ». Les petites scènes jadis placées sous le retable sont aujourd'hui dispersées entre Washington, Cambridge et Berlin.
+
+[pause] Un jeune peintre fut son assistant dans les années 1430, et apprit ce que cette lumière pouvait faire. Il s'appelait Piero della Francesca.
+
+Restez dans la salle A25 pour les deux petits profils face à face de Piero della Francesca : le duc et la duchesse d'Urbin.

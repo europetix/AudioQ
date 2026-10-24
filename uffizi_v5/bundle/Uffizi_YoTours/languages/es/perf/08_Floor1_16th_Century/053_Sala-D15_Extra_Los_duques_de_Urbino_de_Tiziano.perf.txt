@@ -1,0 +1,26 @@
+@id: 053 · ES · Room D15 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D15
+@type: X
+@title: D15 · Extra · Los duques de Urbino de Tiziano
+@where: Sala D15, la sala de las Dinastías. Busque la pareja de retratos de Tiziano, de algo más de un metro de alto cada uno: un comandante con armadura bruñida ante un terciopelo carmesí, con bastones de mando y un yelmo coronado por un dragón en un estante detrás de él, y una duquesa sentada con un perrito a su lado. El joven duque con armadura de Barocci, con la mano sobre un yelmo con penacho, está en la misma sala.
+@what: Titian, Portrait of Francesco Maria della Rovere, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 n. 926; Titian, Portrait of Eleonora Gonzaga, Duchess of Urbino, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 no. 919. Also: Federico Barocci, Portrait of Francesco Maria II della Rovere, Duke of Urbino, 1572, oil on canvas, 113 × 93 cm, inv. 1890 n. 1438. All D15.
+@listen: A duke who lent Titian his armour, a duchess painted as the faithful wife, and the son who bought the Venus of Urbino.
+@brief: A brisk, slightly amused aside about vanity and armour, ending on a forward-looking link to the Venus.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/titian-portrait-of-francesco-maria-della-rovere (OFF: Location "D15. Room of the Dynasties"; c. 1537; oil on canvas 114 × 103; inv. 1890 n. 926; Duke of Urbino 1490–1538, Captain General of Venice; in summer 1536 he asked for his parade armour back, sent to Venice months earlier so Titian could copy it; crimson velvet; Venetian baton in his fist; dragon-crested helmet, batons of the papacy, Florence and Venice and an oak branch for the della Rovere and Pope Julius II; Aretino's two sonnets) ; https://www.uffizi.it/en/artworks/portrait-of-eleonora-gonzaga-duchess-of-urbino (OFF: Location "D15. Room of the Dynasties"; c. 1537; oil on canvas 114 × 103; inv. 1890 no. 919; probably painted in the winter of 1536–37 in Venice; the faithful bride; the dog symbolises marital fidelity; companion of the duke's portrait) ; https://www.uffizi.it/en/artworks/barocci-della-rovere-portrait (OFF: Location "D15, Room of the Dynasties"; 1572; oil on canvas 113 × 93; inv. 1890 n. 1438; pose based on Titian's portrait of Francesco Maria I, studied in the ducal collections; commissioned by Duke Guidobaldo to celebrate his son's conduct at Lepanto; came to the Medici with the della Rovere inheritance of Vittoria) ; Guidobaldo's 1538 purchase of the Venus of Urbino: https://www.uffizi.it/en/artworks/venus-urbino-titian via audit (U-vurb, OFF) ; family links (Guidobaldo son of Francesco Maria I and Eleonora; Francesco Maria II son of Guidobaldo): standard genealogy, see notes
+@lang: es
+@translation: from the fact-checked English Uffizi 053 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Para que su retrato fuera exacto, el duque de Urbino envió su armadura a Venecia con meses de antelación, para que Tiziano copiara cada placa.
+
+Francesco Maria della Rovere era soldado, comandante de los ejércitos de Venecia. Tiziano lo pintó hacia 1537 con esa armadura de gala bruñida, ante terciopelo carmesí, con un bastón de mando en el puño. [pause] En el estante, detrás, un yelmo coronado por un dragón y los bastones de los estados a los que sirvió: el papado, Florencia y Venecia. Busque también la rama de roble. Rovere significa roble, y evoca a su tío, el papa guerrero Julio Segundo.
+
+Su esposa, Eleonora Gonzaga, aparece como su compañera: él, hombre de armas, ella, esposa fiel. El perrito a su lado simboliza la fidelidad.
+
+[pause] Aquí está el vínculo. Su hijo Guidobaldo compró la Venus de Urbino de Tiziano en 1538. La verá unas salas más adelante, en la sala D23.
+
+Y busque otro duque con armadura, pintado por Federico Barocci en 1572: su nieto, Francesco Maria Segundo. [pause] Barocci tomó su pose orgullosa del retrato que Tiziano hizo del abuelo.
+
+La sala D16, tras la puerta del fondo más cercana a la sala D14, por donde entró, tiene un breve Extra sobre las salas de la Contrarreforma. La siguiente parada principal es la sala D19, la estrecha, tras la otra puerta, más adelante.

@@ -1,0 +1,26 @@
+@id: 027 · DE · Room A28 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A28
+@type: R
+@title: A28 · Filippino Lippi und Piero di Cosimo
+@where: Saal A28, „Filippino Lippi, Piero di Cosimo“. Die große, fast quadratische Anbetung der Könige, etwa zweieinhalb Meter hoch, voller Könige und Reiter. In der Nähe eine lange, niedrige Tafel mit einem Seeungeheuer, einem Helden am Himmel und einer Menge am Ufer.
+@what: Filippino Lippi, Adoration of the Magi, 1496, tempera grassa on wood, 258 × 243 cm, 1890 n. 1566. Piero di Cosimo, Perseus frees Andromeda, 1510–1515, tempera grassa on wood, 70 × 120 cm, 1890 no. 1536.
+@listen: The painting that replaced Leonardo's unfinished one, a Medici in yellow with an astrolabe, and the strangest painter in Florence.
+@brief: Brisk and amused, a friend enjoying two very different characters.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/adoration-of-the-magi-filippino-lippi (OFF, text Daniela Parenti: Location "A28 - Filippino Lippi, Piero di Cosimo"; 1496; tempera grassa on wood; 258 × 243 cm; for the main altar of San Donato a Scopeto, commissioned by the Augustinian friars "in place of the one commissioned from Leonardo da Vinci several years before, but never completed"; signed on the back "FILIPPUS ME PINSIT DE LIPI FLORENTINUS ADDI 29 DI MARZO 1496"; kneeling man on the left in a fur-lined yellow robe with an astrolabe thought to be Pier Francesco de' Medici; his sons Lorenzo and Giovanni perhaps the crowned king and the young blond man with the vase) ; https://www.uffizi.it/en/artworks/perseus-frees-andromeda (OFF: A28; 1510–1515; tempera grassa on wood; 70 × 120 cm; probably for the nuptial room of Filippo Strozzi the younger and Clarice de' Medici; from Ovid; "Perseus is shown twice more in the painting"; improbable musical instruments) ; https://www.uffizi.it/en/events/leonardo-s-magic-cosmos-the-adoration-of-the-magi-restored (OFF: same canons, Filippino 1496) ; AUDIT (general): Filippino son of Fra Filippo and Botticelli's pupil; Vasari on Piero di Cosimo's eggs, thunder and untidy rooms (framed as Vasari) ; Leonardo's panel in A35 (map) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: signed "ADDI 29 DI MARZO 1496"; no commission year; "the Augustinian friars"
+@lang: de
+@translation: from the fact-checked English Uffizi 027 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Filippino Lippi wuchs inmitten von Malerei auf. Sein Vater war der malende Ordensbruder Filippo Lippi, sein Lehrer Botticelli.
+
+1496 vollendete Filippino diese Anbetung der Könige für die Augustiner von San Donato a Scopeto. Sie hatten einen Grund, ihn zu fragen. Jahre zuvor hatten sie dasselbe Thema bei Leonardo da Vinci bestellt, der es begann und nie vollendete. [pause] Leonardos aufgegebene Tafel ist in Saal A35, einige Säle weiter auf diesem Stockwerk.
+
+Sehen Sie den knienden Mann links, in einem gelben, pelzgefütterten Gewand, mit einem Astrolabium in der Hand. Man hält ihn für Pierfrancesco de' Medici. Vielleicht sind auch seine Söhne hier, etwa der gekrönte König und der junge Blonde mit der Vase. [pause] Einer dieser Söhne, Lorenzo, ist der Medici, dessen Erben die Primavera in ihrem Haus hatten.
+
+[curious] Nun die lange, niedrige Tafel von Piero di Cosimo. Sie erzählt, wie Perseus Andromeda von einem Seeungeheuer befreit, und Perseus erscheint dreimal. Versuchen Sie, alle drei zu finden. Und achten Sie auf die seltsamen Musikinstrumente am Ufer. Wahrscheinlich entstand sie für ein Hochzeitszimmer.
+
+[wry] Vasari beschreibt Piero als Sonderling. Er kochte seine Eier gleich in großen Mengen, fürchtete sich schrecklich vor Gewitter und ließ nie jemanden seine Zimmer aufräumen.
+
+In Saal A31 gibt es einen kurzen Extra-Titel über Signorelli: Gehen Sie weiter durch Saal A29 und biegen Sie in Saal A31 ein. Die nächste Hauptstation ist Saal A35, Leonardo. [pause] Wenn Sie den Extra-Titel auslassen, gehen Sie zurück durch die Säle A27, A26 und A25 zum Korridor. Biegen Sie links ab, gehen Sie an der Tür von Saal A34 vorbei und in Saal A35.

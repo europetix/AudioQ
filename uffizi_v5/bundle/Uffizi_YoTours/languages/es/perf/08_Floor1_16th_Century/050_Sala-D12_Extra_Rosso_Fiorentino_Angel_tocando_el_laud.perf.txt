@@ -1,0 +1,28 @@
+@id: 050 · ES · Room D12 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D12
+@type: X
+@title: D12 · Extra · Rosso Fiorentino — Ángel tocando el laúd
+@where: Sala D12, «Pontormo - Rosso Fiorentino». Una tabla pequeña, de menos de medio metro de ancho, sobre un fondo oscuro: un ángel niño de alas rojas y blancas inclinado sobre un gran laúd. Es la imagen de la sala en el plano del museo.
+@what: Rosso Fiorentino, Angel playing the lute, 1521, oil on wood panel, 39.5 × 47 cm, inv. 1890 no. 1505, inscribed "R(u)beus florentini fe(cit?) MDXXI".
+@listen: A famous little angel turns out to be a fragment, and the big picture he came from is lost.
+@brief: Warm and a little amused at the boy and his oversized instrument; a touch of mystery about the missing altarpiece.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/angel-playing-the-lute (OFF: Location "D12. Pontormo - Rosso Fiorentino"; Rosso; 1521; oil on wood panel 39.5 × 47; inv. 1890 no. 1505; inscription "R(u)beus florentini fe (cit?) MDXXI", not certain whether in Rosso's hand or added when the altarpiece was dismantled; "a fragment of a lost altarpiece"; reflectography under the dark background revealed "part of a building"; the original composition can be inferred from a Sacred Conversation by Francesco Vanni, c. 1600, in Sant'Agata, Asciano, near Siena; "the very tender image of the child angel apparently unconfident in his effort to handle the lute"; red and white wings in the image description; "famous work") ; map (OFF): D12 highlight picture "D12 Rosso Fiorentino"
+@lang: es
+@translation: from the fact-checked English Uffizi 050 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Este angelito tiene problemas con su laúd.
+
+Es un niño, inclinado sobre un laúd que parece demasiado grande para él. El museo lo describe como aparentemente inseguro en su esfuerzo por manejarlo, y ahí está precisamente su encanto. [pause] Tiene los dedos en las cuerdas. La cabeza, baja. Se concentra tanto como cualquier niño en su primera clase de música.
+
+Rosso Fiorentino lo pintó en 1521. [curious] Pero nunca fue concebido como un cuadro independiente. Es un fragmento, cortado de un retablo mucho mayor que hoy está perdido.
+
+¿Cómo lo sabemos? Los estudios con infrarrojos bajo el fondo oscuro han encontrado parte de un edificio, así que detrás de él había arquitectura. Y hacia 1600, un pintor sienés, Francesco Vanni, parece haber repetido toda la composición en un retablo cerca de Siena. [pause] Ese retablo posterior nos permite imaginar cómo era el original perdido.
+
+[pause] La tabla lleva una inscripción con el nombre de Rosso y el año. Incluso eso es incierto. Puede ser de su propia mano, o quizá se añadió cuando se cortó el retablo.
+
+[lightly] Un retablo perdido, un recuerdo prestado, y el pequeño fragmento que todo el mundo conoce.
+
+Vuelva a subir por el pasillo, cruce la sala D13 hasta el corredor y gire a la derecha: la sala D14, los retratos Panciatichi.

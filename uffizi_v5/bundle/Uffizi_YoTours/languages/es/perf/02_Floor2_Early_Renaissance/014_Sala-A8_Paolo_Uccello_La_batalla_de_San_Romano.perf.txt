@@ -1,0 +1,28 @@
+@id: 014 · ES · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: W
+@title: A8 · Paolo Uccello — La batalla de San Romano
+@where: En la sala A8, ante la amplia tabla de batalla, de más de tres metros de ancho: jinetes con armadura, una maraña de lanzas alzadas y rotas, soldados caídos en el suelo y pequeños naranjos en las esquinas superiores.
+@what: Paolo Uccello, Battle of San Romano, c. 1435–1440, tempera on wood, 182 × 323 cm, Uffizi inv. 1890 n. 479, signed "PAULI UGIELI OPUS"; the central panel of a set of three, with the others in the National Gallery, London, and the Louvre, Paris.
+@listen: How the Medici turned someone else's battle pictures into their own, and how Uccello lets the lances tell you who wins.
+@brief: Amused storyteller at first, then sharp-eyed and admiring on the geometry; a wry last line.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/battle-of-san-romano (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; c. 1435-1440; tempera on wood; 182 x 323 cm; inv. 1890 n. 479; inscription "PAULI UGIELI OPUS", signed bottom left; one of three panels on the Florentine victory over the Sienese and their allies, led by the Duke of Milan, at San Romano (Pisa) in 1432; Niccolò da Tolentino unseating Bernardino della Carda; the Uffizi panel the central episode, London first, Louvre last; commissioned by Lionardo Bartolini Salimbeni for his palace a few years after the battle; arched tops to fit between the arches of a room; heirs sold the set to Lorenzo il Magnifico, installed in his palace on via Larga; Uccello probably changed the shape; corner additions with sour oranges, "mala medica", Medici emblem; Florentine lances and crossbows forward, the enemy's back, "foreshadows the outcome of the battle"; much metal leaf on armour and bridles; "a virtuoso in perspective", foreshortened bodies, low viewpoint; text Daniela Parenti) ; "once glittered", darkened: audit 013 HEDGE ; no pink horse, no poplar (NEVER/audit) ; cue: PLAN 014 conditional cue, ONSITE O7 (ALT-014a/b held)
+@lang: es
+@translation: from the fact-checked English Uffizi 014 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Esos naranjos de arriba, en las esquinas, no estaban en el plan original.
+
+La tabla era al principio arqueada arriba, para una sala del palacio de Lionardo Bartolini Salimbeni. Encargó tres batallas tras la victoria de Florencia sobre los sieneses y sus aliados, dirigidos por el duque de Milán, en San Romano, cerca de Pisa, en 1432. Luego sus herederos vendieron la serie a Lorenzo el Magnífico, que la colgó en el palacio Médici de la Via Larga. [pause] La forma tuvo que cambiar. Los arcos se cuadraron, probablemente por el propio Uccello, y las nuevas esquinas se llenaron de naranjas amargas. En latín, mala medica: un juego con el apellido familiar.
+
+Este es el centro de la historia. La primera tabla está en Londres, y la última, en París. Aquí, Niccolò da Tolentino, comandante del ejército florentino, desarzona al jefe enemigo, Bernardino della Carda.
+
+[pause] Lea las lanzas. Las lanzas y ballestas florentinas apuntan hacia delante. Las del enemigo se inclinan hacia atrás. La batalla ya está decidida en la geometría. Uccello era un virtuoso de la perspectiva, y los cuerpos del suelo están en escorzo, menguando hacia el fondo. Sugieren un punto de vista bajo: la tabla se hizo para verse desde abajo.
+
+Armaduras y bridas llevaban lámina metálica. Antes brillaba, y el tiempo la ha oscurecido. Abajo a la izquierda, firmó en latín: obra de Paolo Uccello.
+
+[wry] Una batalla en la que casi nadie sangra, y la verdadera ganadora es la perspectiva.
+
+Siguen las salas de Botticelli. Desde la sala A8, siga los carteles del museo hacia Botticelli. Si el paso está cerrado, vuelva por la sala A4 al corredor, siga hasta la sala A13, con su gran retablo flamenco, y entre en las salas de Botticelli por el otro extremo. En ambos casos, empiece por la sala con Virtudes pintadas en marcos dorados.
