@@ -1,0 +1,28 @@
+@id: 004 · IT · Room A4 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A4
+@type: R
+@title: A4 · Tre Maestà
+@where: Sala A4, «Giotto, Cimabue»: la grande sala con tre enormi pale della Vergine col Bambino in trono su fondo oro, ognuna alta più di tre metri. Si metta al centro, da dove può vederle tutte e tre.
+@what: Cimabue, Santa Trinita Maestà, c. 1290–1300, 384 × 223 cm; Duccio di Buoninsegna, Rucellai Madonna, c. 1285, 450 × 290 cm; Giotto, Ognissanti Maestà, c. 1300–1305, 325 × 204 cm; all tempera on wood, gold background. Dante, Purgatorio XI, 94–96 (Longfellow translation).
+@listen: Dante's warning about fame, and how to compare three Maestàs painted within about twenty years of one another.
+@brief: An enthusiast setting up a comparison for a friend; curious at the start, practical in the middle, a wry smile at Dante.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-and-prophets-santa-trinita-maesta (OFF: Location "A4. Giotto - Cimabue"; "1290-1300 ca."; 384 x 223 cm) ; https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-known-as-the-rucellai-madonna (OFF: A4; "1285 ca."; 450 x 290 cm; Duccio Sienese) ; https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-and-saints-ognissanti-maesta (OFF: A4; "1300-1305 c."; 325 x 204 cm) ; SEC https://www.online-literature.com/dante/purgatorio/11/ (Oderisi speaking; "In painting Cimabue thought that he / Should hold the field, now Giotto has the cry," read on the page; third line "So that the other's fame is growing dim" as given verbatim in PLAN and the audit, Longfellow) ; terrace of the proud: audit title-page row ; no wall positions (NEVER, O3)
+@lang: it
+@translation: from the fact-checked English Uffizi 004 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dante usò due dei pittori di questa sala come monito contro la superbia.
+
+Nel Purgatorio, sulla cornice dove si purgano i superbi, il miniatore Oderisi spiega al poeta quanto in fretta svanisca la fama. Nei versi di Dante, Oderisi dice: «Credette Cimabue ne la pittura tener lo campo, e ora ha Giotto il grido, sì che la fama di colui è scura.»
+
+Sono qui tutti e due. C'è anche un terzo grande pittore, Duccio, da Siena. Tutti e tre dipinsero lo stesso soggetto, la Vergine col Bambino in trono in maestà: una Maestà. Sono tutte gigantesche, da circa tre metri e un quarto a quattro metri e mezzo. [pause] Secondo le date del museo, nacquero nell'arco di circa vent'anni, dalla metà degli anni 1280 ai primi anni del 1300. E la più antica non è quella di Cimabue. È quella di Duccio.
+
+[pause] Non pensi quindi a un vecchio maestro seguito in fila dai suoi allievi. Pensi a tre approcci diversi, uno accanto all'altro. Per confrontarli, guardi tre cose. Prima il trono: è una forma piatta, o si sente lo spazio al suo interno? Poi gli angeli: sono un motivo, o una folla? Infine i corpi: galleggiano, o siedono con un peso reale?
+
+Se la prenda comoda, tra l'una e l'altra. [pause] Molto di ciò che vedrà su questo piano nasce da quanto accadde in questa sala.
+
+[wry] Per Dante la fama era fugace. Sette secoli dopo, tutti e tre i nomi attirano ancora la folla.
+
+Resti nella sala A4. Cominci dalla tavola di Cimabue: quella con quattro profeti negli archi sotto il trono.

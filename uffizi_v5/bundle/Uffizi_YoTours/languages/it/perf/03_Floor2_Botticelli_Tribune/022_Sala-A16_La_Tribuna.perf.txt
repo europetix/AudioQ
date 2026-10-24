@@ -1,0 +1,28 @@
+@id: 022 · IT · Room A16 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A16
+@type: W
+@title: A16 · La Tribuna
+@where: Sulla soglia della Tribuna, la sala A16: una piccola sala ottagonale con pareti di velluto rosso, una cupola che brilla di madreperla e un pavimento di marmi colorati. La dea di marmo a grandezza naturale che si copre con le mani è la Venere dei Medici.
+@what: Bernardo Buontalenti, the Tribune, 1581–1583, for Francesco I de' Medici. Medici Venus, Hellenistic art, late 2nd – early 1st century BC, Parian marble, h. 153 cm, 1914 no. 224. Also: Wrestlers, Roman art, Parian marble, 1914 no. 216; Knife Grinder (the Scythian), Roman art, 2nd century AD, 1914 no. 230.
+@listen: A treasure room built as a model of the universe, and the goddess who was taken to Paris and came back.
+@brief: Hushed wonder at the threshold, then a storyteller's relish for the Venus and her travels.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/the-tribune (OFF, mod. 22 Nov 2023, text Antonio Godoli: 1581–1583; Buontalenti; Francesco I, "to keep jewels and embellishments"; eight draws near Heaven; 5,780 mother-of-pearl pieces from the Indian Ocean = Water; red velvets = Fire; lantern open to the winds = Air; weathervane reproduced inside on a painted wind rose; lantern acts as a sundial at equinoxes and solstices; floor a flower of polychrome marbles = Earth; cabinet of curiosities; Ligozzi plants and animals around the base; page does not say whether visitors may enter) ; https://www.uffizi.it/en/artworks/medici-venus (OFF, mod. 3 Apr 2024, text Fabrizio Paolucci: Location A16; late 2nd – early 1st c. BC; Parian lychnite marble; h. 153 cm; pudica pose after Praxiteles' Aphrodite of Knidos; dolphin; Cleomenes signature "did not originally belong to this sculpture"; found in Rome, bought by Ferdinando, at Villa Medici almost a century; reached Florence 1677 with the Wrestlers and the Knife Grinder, in the Tribune 1680; confiscated by the French 1802, Musée Napoléon until early 1816, returned; Grand Tour visitors admired it) ; https://www.uffizi.it/en/artworks/wrestlers (OFF: A16; "the outcome of the match is not revealed"; found 1583 in the Tommasini vineyard) ; https://www.uffizi.it/en/artworks/knife-grinder-tribune (OFF: A16; kneeling man sharpening a knife; from a group of the flaying of Marsyas) ; https://www.uffizi.it/en/artworks/venus-urbino-titian (OFF: "For many years, the painting was on display in the Tribuna degli Uffizi, close to the Medici Venus"; now D22 on page = map D23) ; https://www.uffizi.it/en/news/new-life-for-the-stanzino-delle-matematiche (OFF: access to the Tribune closed for conservation, the Stanzino used as an observation point) ; viewing from the doorways: PLAN wording, ONSITE O9 ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF medici-venus re-read: purchased by Ferdinando de' Medici, kept at Villa Medici in Rome (bibliography: "Le collezioni del Cardinal Ferdinando"); returned "to comply with the Treaty of Vienna"
+@lang: it
+@translation: from the fact-checked English Uffizi 022 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Nel 1802 la donna più ammirata d'Europa fu imballata e portata a Parigi. È in questa sala. Nel 1816 tornò a casa.
+
+Bernardo Buontalenti costruì la Tribuna all'inizio degli anni 1580 per il granduca Francesco Primo, come luogo per i suoi gioielli e tesori. È un ottagono, perché l'otto era il numero che avvicina al Cielo. [pause] E Francesco la concepì come un intero cosmo dei quattro elementi.
+
+Alzi lo sguardo alla cupola. È rivestita di cinquemilasettecentottanta pezzi di madreperla dell'Oceano Indiano. È l'acqua. Le pareti di velluto rosso sono il fuoco. La lanterna in cima è aperta ai venti: è l'aria. Lassù una banderuola è collegata a una rosa dei venti dipinta all'interno. La lanterna è anche una meridiana, e cattura il sole ai solstizi e agli equinozi. [pause] E il pavimento, un grande fiore di marmi colorati, è la terra. Per proteggerla, i visitatori la guardano dalle soglie.
+
+[curious] Ora la dea. La Venere dei Medici è un marmo del tardo mondo ellenistico. Si ripara con le mani, e accanto ha un piccolo delfino. Ferdinando de' Medici, allora cardinale a Roma, la comprò lì. Poi venne a Firenze, con i due Lottatori e l'Arrotino inginocchiato che le vede accanto. [pause] I francesi la presero per il Musée Napoléon. Dopo la caduta di Napoleone, il Trattato di Vienna la riportò a casa.
+
+[wry] Un piccolo inganno. La base è firmata da uno scultore greco, Cleomene di Atene. Gli esperti del museo dicono che la firma in origine non apparteneva a questa statua.
+
+Per due secoli questa piccola sala fu il culmine del Grand Tour. La Venere di Urbino di Tiziano le stette vicino per anni. La incontrerà al primo piano.
+
+Prosegua lungo il corridoio di Levante fino in fondo. Le sale dopo la Tribuna, dalla A17 alla A21, sono chiuse per il riallestimento: le superi. Giri l'angolo nel corridoio breve con le finestre sul fiume: la sala A23, il corridoio di Mezzogiorno.

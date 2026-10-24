@@ -1,0 +1,28 @@
+@id: 035 · IT · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Raffaello — Madonna del Cardellino
+@where: Sala A38. Si metta davanti alla tavola verticale, alta circa un metro: la Vergine in rosso e azzurro, seduta in un paesaggio morbido con un piccolo libro, e due bambini alle sue ginocchia. Uno dei due porge all'altro un uccellino.
+@what: Raphael, Mary, Christ and the young John the Baptist, known as the "Madonna of the Goldfinch", before February 1506, oil on wood, 107 × 77.2 cm, 1890 n. 1447.
+@listen: A wedding present, a landslide that broke it into seventeen pieces, and the small bird that carries the whole story.
+@brief: Gentle and warm after the Michelangelo, with a real sense of the disaster in the middle; tender at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/mary-christ-and-the-young-john-the-baptist-known-as-the-madonna-of-the-goldfinch (OFF, mod. 22 Nov 2023: Location "A38. Raphael and Michelangelo Room"; before February 1506; oil on wood; 107 × 77.2 cm; Raphael's Florentine period 1504–1508; Vasari: commissioned for the marriage of Lorenzo Nasi and Sandra di Matteo Canigiani, 23 Feb 1506; the Nasi home destroyed by a landslide in 1547, painting broken into seventeen fragments, "probably given to Michele di Ridolfo del Ghirlandaio for restoration"; history unknown until Cardinal Giovan Carlo de' Medici's collection, 1646–47; pyramid after Leonardo's lost cartoon of the Virgin and Child with St Anne shown at Santissima Annunziata, and Michelangelo's Bruges Madonna; sfumato; John holds out the goldfinch for the Child to touch, "innocently fragile", foreshadowing Christ's sacrifice; Mary's small book signifies faith and foreshadows the sacrifice) ; AUDIT Mand-gold (SNIP): modern restoration 2002–2008, spoken only as "early in this century"
+@lang: it
+@translation: from the fact-checked English Uffizi 035 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Questo era un regalo di nozze. Vasari racconta che Raffaello lo dipinse per Lorenzo Nasi, che si sposò a Firenze nel febbraio del 1506.
+
+Raffaello aveva poco più di vent'anni. Era appena arrivato in città e assorbiva tutto. Guardi la forma del gruppo. La Vergine sta in alto, i due bambini alle sue ginocchia: una piramide calma e stabile. Il museo collega questa forma a un disegno perduto di Leonardo, la Vergine con sant'Anna, esposto in una chiesa fiorentina, e a una Madonna in marmo di Michelangelo. [pause] E la morbidezza, i volti che si sciolgono nell'ombra, le colline che svaniscono nella foschia, è lo sfumato di Leonardo.
+
+[pause] Ora l'uccellino. Il piccolo san Giovanni porge un cardellino, e Gesù Bambino allunga la mano per toccarlo. Sembra un gioco. Ma il cardellino era legato alla Passione. Questo fragile uccellino annuncia il sacrificio di Cristo. Anche il libretto in mano a Maria lo annuncia.
+
+[quietly] Poi, il disastro. Nel 1547 una frana distrusse la casa dei Nasi, e questa tavola si spezzò in diciassette pezzi. Probabilmente fu affidata al pittore Michele di Ridolfo del Ghirlandaio, perché la ricomponesse. [pause] Poi sparisce dai documenti per un secolo, finché ricompare nella collezione di un cardinale dei Medici.
+
+È stata restaurata di nuovo all'inizio di questo secolo. Qualcuno, tanto tempo fa, raccolse i pezzi di un regalo di nozze e non volle lasciarlo andare.
+
+[warmly] Un dipinto su un futuro fragile, che per poco non ne ebbe nessuno.
+
+Torni nel corridoio e giri a sinistra. La porta successiva, la sala A39, è la lunga sala della Niobe: un salone di figure di marmo in fuga.

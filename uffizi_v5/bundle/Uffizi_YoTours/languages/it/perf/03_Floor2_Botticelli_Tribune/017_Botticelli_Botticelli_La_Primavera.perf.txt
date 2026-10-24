@@ -1,0 +1,28 @@
+@id: 017 · IT · Room A11 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A11
+@type: W
+@title: Sale di Botticelli · Botticelli — La Primavera
+@where: Nelle sale di Botticelli, davanti alla Primavera: un'ampia tavola scura, larga più di tre metri, con nove figure in un boschetto di aranci su un prato fiorito e Venere al centro. Ai lati è appesa una Madonna tonda per parte, e di fronte, oltre il passaggio, c'è la Nascita di Venere.
+@what: Sandro Botticelli, Spring (Primavera), c. 1480, tempera grassa on poplar, 207 × 319 cm, Uffizi inv. 1890 n. 8360; flanked by the Madonna of the Rose Garden and the Madonna of the Cherubim.
+@listen: How to read the Primavera from right to left, the forty-two plants under their feet, and why its meaning is still a mystery.
+@brief: Slow, delighted guided looking with a friend; curious, then light and lyrical along the figures, warm at the reunion with the Venus.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/botticelli-spring (OFF: Location "A11. Botticelli, La Primavera", mod. 12 Sep 2026; 1480 c.; tempera grassa on wood, poplar; 207 x 319 cm; inv. 1890 n. 8360; nine figures on a flowery lawn "in a grove of orange and laurel trees"; Zephyrus embraces the nymph Chloris, then shown as Flora; Venus slightly back at the centre; blindfolded Cupid firing his arrow; the three Graces in a circle; Mercury with helmet and winged sandals touches a cloud with his staff; "At least 42 identifiable species", 14 green plants and 28 flowering, possibly from herbaria; meaning "remains a mystery", read as a celebration of love, peace and prosperity; end of the 15th century in the Via Larga house of the heirs of Lorenzo di Pierfrancesco de' Medici, cousin of Lorenzo the Magnificent, above a "lettuccio", "a kind of chest with back"; later at the Villa di Castello, Vasari 1550) ; https://www.uffizi.it/en/artworks/birth-of-venus (OFF: 172.5 x 278.5 cm, so the Primavera is larger) ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: Venus and Primavera "now displayed facing one another"; Primavera flanked by the Madonna of the Rose Garden and the Madonna of the Cherubim; airtight cases) ; Medici wedding only "possibly": audit 016 ; flowers at Chloris's lips: visual
+@lang: it
+@translation: from the fact-checked English Uffizi 017 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Nessuno sa con certezza che cosa significhi questo dipinto. Il museo stesso definisce il suo significato un mistero.
+
+Botticelli lo dipinse intorno al 1480, su pioppo, ed è più grande della Nascita di Venere. Alla fine di quel secolo era in una casa dei Medici in via Larga, quella degli eredi di Lorenzo di Pierfrancesco, cugino di Lorenzo il Magnifico. Stava sopra un lettuccio, una cassapanca con l'alta spalliera. Più tardi passò alla villa medicea di Castello.
+
+[pause] Lo legga da destra a sinistra. A destra, il vento Zefiro irrompe tra gli alberi e afferra la ninfa Clori. Cerchi i fiori sulle sue labbra. Accanto a lei c'è la stessa ninfa, trasformata in Flora, dea della primavera, nella sua veste fiorita. [pause] Al centro, un po' arretrata, c'è Venere. Sopra di lei, Cupido bendato punta la freccia d'amore. A sinistra, le tre Grazie danzano in cerchio. [pause] E all'estrema sinistra Mercurio, con l'elmo e i sandali alati, alza il bastone per toccare una nuvola.
+
+[lightly] Stanno in un boschetto di aranci e di allori. Ora guardi in basso il prato, fitto di fiori. Vi sono state identificate almeno quarantadue piante diverse, ventotto delle quali in fiore, forse copiate da un erbario.
+
+Allora, di che cosa parla? La lettura del museo è una celebrazione dell'amore, della pace e della prosperità. Qualcuno ha pensato a un matrimonio dei Medici, ma è solo un'ipotesi.
+
+[warmly] Con il nuovo allestimento, ha nuova compagnia. Ai suoi lati stanno due Madonne di Botticelli, quella del Roseto e quella dei Cherubini. E oltre il passaggio, la Nascita di Venere la guarda dritto.
+
+Si volti e attraversi il passaggio fino al dipinto di fronte: la Nascita di Venere, la dea sulla conchiglia. La sala A13 viene dopo.

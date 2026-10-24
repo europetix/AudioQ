@@ -1,0 +1,28 @@
+@id: 048 · IT · Room D12 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D12
+@type: R
+@title: D12 · Pontormo e Rosso
+@where: Sala D12, «Pontormo - Rosso Fiorentino», che si apre sul breve passaggio D9. Si metta davanti alla pala del Rosso, alta circa 1,7 metri: la Vergine e il Bambino in trono, un san Girolamo scarno e accigliato e altri tre santi intorno, e due piccoli angeli che leggono sui gradini del trono.
+@what: Room D12. Rosso Fiorentino, Enthroned Madonna and Child with four saints, 1518, oil on panel, 172 × 141 cm, inv. 1890 n. 3190. On loan: Pontormo, Supper at Emmaus, Madonna with Child and the young Saint John, and Portrait of Maria Salviati, at the Scuderie del Quirinale, Rome, until 7 Feb 2027 (cuttable sentence).
+@listen: Two young rebels from the same workshop, a patron who said the saints looked like devils, and a painter who took him to court.
+@brief: Telling a lively piece of gossip about an angry patron, with a wry edge; brisk and amused, then pointing at the evidence.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/rosso-fiorentino-madonna-and-child (OFF: Location "D12. Pontormo - Rosso Fiorentino"; Enthroned Madonna and Child with four saints; Rosso, Florence 1495 – Paris 1540; 1518; oil on panel 172 × 141; inv. 1890 n. 3190; commissioned 1518 by Leonardo Buonafede, prior of Santa Maria Nuova, for the bequest of Francesca de' Ripoi, for Ognissanti; contract named the Baptist, Benedict, Leonard and Jerome; Buonafede dissatisfied, the work sent to Santo Stefano in Grezzano; "Vasari reports" he called it sketchy and said the saints looked like "cruel, desperate" devils; Rosso sued for nine of the twenty-five florins; studies found an earlier version, Leonard repainted as Stephen with a stone on his forehead, Benedict changed to Anthony Abbot with a Tau; Jerome gaunt and scowling, the anti-classical early style; two child angels on the throne steps absorbed in Scripture) ; https://www.uffizi.it/en/artworks/pontormo-supper-emmaus (OFF: "Jacopo Carucci, known as Pontormo (Pontorme, Empoli, 1494 – …)"; Location D12; trained in several workshops before "joining that of Andrea del Sarto", where he worked alongside Rosso Fiorentino) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF: three Pontormos from D12 on loan to the Scuderie del Quirinale, Rome, 8 Oct 2026 – 7 Feb 2027) ; https://www.uffizi.it/en/artworks/rosso-fiorentino-moses (OFF: Rosso born 1495, later at Fontainebleau) ; "Rosso" = red-haired: audit (general, OK)
+@lang: it
+@translation: from the fact-checked English Uffizi 048 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Due giovani formati nella stessa bottega fiorentina, quella di Andrea del Sarto. Insieme, ne infransero quasi tutte le regole.
+
+Jacopo Carucci nacque nel 1494 a Pontorme, vicino a Empoli, e prese il nome dal paese: Pontormo. Giovanni Battista di Jacopo, di un anno più giovane, era detto il Rosso, per i capelli rossi. [pause] Sono tra i primi pittori di ciò che oggi chiamiamo Manierismo: eleganti, inquietanti, volutamente strani.
+
+Fino al 7 febbraio 2027, tre dipinti del Pontormo di questa sala sono in prestito a una mostra a Roma.
+
+La pala del Rosso mostra il perché di tanto scalpore. Nel 1518 il priore dell'ospedale di Santa Maria Nuova la ordinò per l'altare di una vedova catalana, sepolta nella chiesa di Ognissanti. Vedendola, ne fu tutt'altro che contento. [pause] Vasari riferisce che la giudicò abbozzata, e disse che i santi sembravano diavoli crudeli e disperati. Il quadro finì in una chiesa di campagna. [wry] Il Rosso gli fece causa per il resto del compenso.
+
+[pause] Ora guardi san Girolamo, scarno e accigliato. Si capisce cosa turbò il priore. Poi guardi più in basso, i due angioletti sui gradini del trono, assorti nel loro libro. Il Rosso sapeva essere anche tenero.
+
+Le indagini sotto la pittura rivelano un altro cambiamento. Due santi furono ridipinti per la nuova chiesa: uno ora ha una pietra sulla fronte, il martire Stefano.
+
+Resti nella sala D12 per il Mosè difende le figlie di Jetro del Rosso, un groviglio di uomini nudi che lottano.

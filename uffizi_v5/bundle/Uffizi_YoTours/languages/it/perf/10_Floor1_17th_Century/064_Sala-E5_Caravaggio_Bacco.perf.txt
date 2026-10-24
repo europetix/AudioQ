@@ -1,0 +1,28 @@
+@id: 064 · IT · Room E5 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E5
+@type: W
+@title: E5 · Caravaggio — Bacco
+@where: Sala E5, «Caravaggio - Il Bacco». Si metta davanti alla tela, alta circa un metro, con un giovane coronato di foglie di vite che porge un bicchiere di vino rosso, e una fruttiera davanti a lui.
+@what: Caravaggio, Bacchus, about 1598, oil on canvas, 95 × 85 cm, inv. 1890 n. 5312 (page "D32" in the old numbering; the map says E5).
+@listen: A Caravaggio found in the storerooms, a god with dirty fingernails, and a tiny reflection in the carafe that no visitor can see.
+@brief: Curious and amused, close to the picture, with a quiet turn at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: 1598 c.; oil on canvas 95 × 85; inv. 1890 n. 5312; Location "D32. Caravaggio - The Bacchus" = map E5; found in the Uffizi storerooms in 1913 and attributed by Roberto Longhi; early Roman career under Cardinal del Monte; donated by del Monte, with the Medusa, to Ferdinando I "on the occasion of the wedding of his son Cosimo II" (1608); the figure reproduces classical models, the portraits of Antinous; fruit and cup of wine "surprising" in naturalism; stunned look of inebriation, languid sensuality; "a Horatian invitation to frugality, conviviality and friendship"; Mina Gregori: "celebrates the freedom of senses"; text Patrizia Naldini) ; SEC https://www.theartnewspaper.com/2009/11/01/technology-reveals-caravaggio-self-portrait (found in 1922 when dirt and varnish were removed; 2009 multispectral infrared reflectography, Opificio delle Pietre Dure with INOA; "a man in contemporary clothes that can easily be linked to the painter himself"; "not visible to the naked eye") ; dirty fingernails and spoiling fruit: visible details per audit (O36). Never told to look for the reflection.
+@lang: it
+@translation: from the fact-checked English Uffizi 064 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Per anni questo dipinto restò nei depositi degli Uffizi, e nessuno sapeva cosa fosse. Poi, nel 1913, fu ritrovato, e lo storico dell'arte Roberto Longhi lo restituì a Caravaggio.
+
+È un'opera giovanile, dei primi anni a Roma, quando viveva sotto la protezione del cardinale del Monte, l'uomo che mandò la Medusa a Firenze. Secondo il museo, il cardinale donò questo quadro al granduca Ferdinando per le nozze del figlio Cosimo.
+
+Ecco dunque Bacco, dio del vino, coronato di foglie di vite. Le porge un bicchiere, come per invitarLa a bere. [pause] Ora guardi un po' più da vicino. La frutta non è tutta perfetta. Una parte è già ammaccata e si sta guastando. E guardi le mani. Le unghie sono sporche. [amused] È un dio. Ed è anche, chiaramente, un vero ragazzo in posa, con lo sguardo pesante, un po' brillo.
+
+Il corpo segue modelli classici, i ritratti antichi di Antinoo, il bel giovane amato dall'imperatore Adriano. Alcuni critici leggono il vino e la frutta come un invito all'amicizia e ai piaceri semplici. Altri vi vedono una celebrazione della libertà dei sensi. [pause] E la frutta che si guasta può essere un discreto promemoria: la maturità non dura.
+
+[conspiratorial] C'è un altro segreto, e non potrà vederlo. Quando il dipinto fu pulito, nel 1922, nella caraffa di vetro sul tavolo apparve un minuscolo riflesso. [pause] Nel 2009 le indagini all'infrarosso mostrarono cos'era: un uomo con abiti dell'epoca, molto probabilmente il pittore stesso. A occhio nudo non si vede, quindi non si sforzi di cercarlo.
+
+[warmly] Caravaggio Le offre il bicchiere. E da qualche parte nella caraffa, resta a guardare mentre Lei lo prende.
+
+Sala successiva, la sala E6, Pittura a lume di candela. Cerchi la Natività illuminata soltanto dal Bambino.

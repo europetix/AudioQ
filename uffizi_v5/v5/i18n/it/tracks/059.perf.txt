@@ -1,0 +1,24 @@
+@id: 059 · IT · Room D26 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D26
+@type: R
+@title: D26 · Veronese
+@where: Sala D26, «Veronese». Cerchi l'alta tela, di circa due metri e mezzo, con un nobile in una tunica nera foderata di pelliccia, con la spada, un guanto tolto e la mano nuda sulla spalla del figlioletto.
+@what: Paolo Caliari, known as Veronese, Portrait of Count Giuseppe da Porto with his son, Adriano, about 1555, oil on canvas, 247 × 133 cm, Contini Bonacossi no. 16 (page "D25" = map D26). Also: Veronese, Holy Family with Young St John and St Catherine, about 1565, oil on canvas, 86 × 122 cm (page "D26. Veronese Corridor" = map D27).
+@listen: How Veronese answered the Inquisition by changing a title, and a father's bare hand on his son's shoulder.
+@brief: A storyteller enjoying a famous act of cheek, then softening in front of a father and son.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/veronese-portrait-of-count-giuseppe-da-porto (OFF: 1555 c.; oil on canvas 247 × 133; Contini Bonacossi no. 16; Location "D25. Veronese" = map D26; Count Giuseppe or Iseppo da Porto with his first-born son Adriano, "one of the seven children he had from his marriage with noblewoman Livia Thiene" (re-read 24 Oct 2026); married Livia Thiene in 1545; heavy black tunic lined with fur, sword, one glove, removed the other to place his hand on his son's shoulder; Adriano's ermine-lined jacket with gold embroidery; pendant of Livia and Porzia in the Walters Art Museum, Baltimore) ; https://www.uffizi.it/en/artworks/veronese-holy-family (OFF: 1565 c.; oil on canvas 86 × 122; inv. 1890 n. 1433; Location "D26. Veronese Corridor" = map D27; "a regal St Catherine"; Widmann collection in Venice; bought in 1654 by Leopoldo and Giovan Carlo de' Medici on Paolo del Sera's advice for "the astronomical sum of 1000 scudos"; carved frame with cupid-angels holding the instruments of the Passion) ; OFF (Accademia) https://www.gallerieaccademia.it/en/opera/convito-in-casa-di-levi/ (1573; canvas 560 × 1309 cm; refectory of Santi Giovanni e Paolo, replacing a burnt Titian; Holy Office objected to a Last Supper without decorum; ordered to correct the errors within three months; changed the subject to the Feast in the House of Levi, Luke 5; jester-dwarf with parrot, servant bleeding from the nose, halberdiers "armed in the German fashion"; on display in the Gallerie dell'Accademia, Venice). No Tintoretto line (no source).
+@lang: it
+@translation: from the fact-checked English Uffizi 059 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Nel 1573 Paolo Veronese fu chiamato davanti all'Inquisizione, a Venezia. Parte del problema era un nano con un pappagallo.
+
+Aveva dipinto un'enorme Ultima Cena per il refettorio di un convento domenicano. Gli inquisitori contestavano ciò che aveva affollato intorno a Cristo: un nano buffone con un pappagallo, un servo che perde sangue dal naso, e alabardieri vestiti alla tedesca. Gli fu ordinato di correggerla entro tre mesi. [wry] Veronese non la ridipinse. Cambiò il titolo. L'Ultima Cena divenne il Convito in casa di Levi, un altro banchetto, dal Vangelo di Luca. [pause] Quella tela, lunga circa tredici metri, è a Venezia, alle Gallerie dell'Accademia.
+
+Qui lo incontra in un giorno più tranquillo. Il conte Giuseppe da Porto è in piedi con Adriano, il primogenito, uno dei suoi sette figli. Il conte indossa una pesante tunica nera foderata di pelliccia, e una spada. [pause] Guardi le sue mani. Un guanto lo tiene infilato. L'altro se l'è tolto, perché la mano nuda possa posarsi sulla spalla del ragazzo. Adriano porta una giacca foderata d'ermellino e ricamata d'oro. Il ritratto aveva un compagno, con la moglie del conte e la loro figlia. Oggi è a Baltimora.
+
+La Sacra Famiglia con santa Caterina del Veronese, del 1565 circa, è indicata nel Corridoio del Veronese, la D27, che attraverserà subito dopo. [pause] Nel 1654 due principi Medici la comprarono a Venezia per quella che il museo chiama una somma astronomica, mille scudi.
+
+Esca nel Corridoio del Veronese, la sala D27, e percorra il lungo corridoio accanto al fiume fino al Verone, la sala D28. Cerchi la statua di Sileno che culla Bacco bambino.

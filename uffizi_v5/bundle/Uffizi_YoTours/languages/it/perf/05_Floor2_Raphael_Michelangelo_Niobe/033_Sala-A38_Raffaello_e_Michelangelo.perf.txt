@@ -1,0 +1,26 @@
+@id: 033 · IT · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: R
+@title: A38 · Raffaello e Michelangelo
+@where: Sala A38, «Raffaello e Michelangelo». La prima opera da trovare è la Sacra Famiglia tonda di Michelangelo, nella sua cornice d'oro intagliata. La Madonna del Cardellino di Raffaello e la sua grande tela del piccolo San Giovanni in una grotta, con una pelle di leopardo, sono nella stessa sala, con due minuscole tavole di Fra Bartolomeo.
+@what: Overview of Room A38. Raphael, St John the Baptist as a Boy, c. 1518, oil on canvas, 163 × 147 cm. Fra Bartolomeo, Adoration of the Child and Presentation in the Temple, c. 1497, oil on wood, about 20 × 9 cm each, 1890 no. 1477. Also the Doni Tondo (034) and the Madonna of the Goldfinch (035).
+@listen: Two rivals in one room, and two smaller works that are easy to miss.
+@brief: A friend arriving at the summit and enjoying the rivalry; brisk, then pointing out the small things.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo (OFF: A38; "the only finished panel painting by the artist to survive") ; https://www.uffizi.it/en/artworks/raphael-st-john (OFF, mod. 2 Apr 2024: Location "A38. Raphael and Michelangelo"; 1518 c., perhaps 1517; oil on canvas; 163 × 147 cm; Vasari: commissioned by Cardinal Pompeo Colonna; some critics see Giulio Romano and Penni; boy in a cave in a leopard skin; scroll with "DEI"; left hand points to a radiant cross tied to an oak trunk; spring on the left) ; https://www.uffizi.it/en/artworks/adoration-of-the-child-fra-bartolomeo (OFF, text Anna Bisceglia: Location "A38. Raphael and Michelangelo"; 1497 ca.; oil on wood; 20.3 × 8.9 and 18.3 × 9.4 cm; part of a small tabernacle; closed, a monochrome Annunciation; owned and probably commissioned by Piero del Pugliese; Vasari: between the panels a marble Madonna by Donatello, now identified as the Dudley Madonna in the V&A, London) ; https://www.uffizi.it/en/artworks/portraits-doni-raffaello (OFF, mod. 3 Sep 2026: Location field says Pitti, body says Uffizi since 2018: NOT placed in this room in speech, ONSITE O16) ; https://www.uffizi.it/en/artworks/raphael-self-portrait (via FLOOR2: C1) ; AUDIT: born 1475 and 1483, "they were rivals" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF adoration-of-the-child-fra-bartolomeo re-read: Vasari's Donatello marble Madonna "now identified as the so-called Dudley Madonna, preserved in the Victoria and Albert Museum in London"
+@lang: it
+@translation: from the fact-checked English Uffizi 033 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Michelangelo nacque nel 1475, Raffaello otto anni dopo. A Firenze erano rivali. In questa sala sono a pochi passi l'uno dall'altro.
+
+Michelangelo si considerò sempre, prima di tutto, uno scultore. La Sacra Famiglia tonda, il Tondo Doni, è l'unico suo dipinto su tavola finito arrivato fino a noi. [pause] Raffaello ha il temperamento opposto: calmo, garbato, un brillante assimilatore di tutto ciò che vedeva. Qui c'è anche la sua Madonna del Cardellino. Ognuna ha la sua tappa.
+
+Prima, due opere che molti non notano. La grande tela del ragazzo in una grotta è il San Giovanni Battista di Raffaello, del 1518 circa, fatto a Roma. Secondo Vasari, lo ordinò il cardinale Pompeo Colonna. [pause] Giovanni siede avvolto in una pelle di leopardo e indica una croce luminosa legata a una quercia. Alcuni critici vi vedono anche la mano degli allievi di Raffaello.
+
+[lightly] E cerchi due tavolette piccolissime, ognuna alta circa quanto la Sua mano. Fra Bartolomeo le dipinse verso il 1497 come sportelli di un piccolo tabernacolo, con l'Adorazione del Bambino e la Presentazione al Tempio. Secondo Vasari, tra di esse c'era un tempo una Madonna di marmo di Donatello. [pause] Oggi è identificata con un rilievo del Victoria and Albert Museum di Londra.
+
+L'autoritratto di Raffaello La aspetta al primo piano, nella prima sala degli autoritratti.
+
+Resti nella sala A38 per il Tondo Doni, la Sacra Famiglia tonda con figure nude dietro un muretto.

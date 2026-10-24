@@ -1,0 +1,28 @@
+@id: 030 · IT · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: W
+@title: A35 · Leonardo — Annunciazione
+@where: Sala A35. Si metta davanti alla tavola lunga e bassa, larga più di due metri e alta meno di uno: l'angelo inginocchiato su un prato fiorito a sinistra, la Vergine seduta a un leggio di marmo scolpito a destra, e tra loro alberi scuri e una lontananza velata di foschia.
+@what: Leonardo da Vinci, Annunciation, c. 1472, oil on wood, 90 × 222 cm, 1890 n. 1618; at the Uffizi since 1867, from San Bartolomeo a Monteoliveto.
+@listen: A painting nobody can trace to its first church, made by a young man already looking harder than anyone around him.
+@brief: Close and attentive, a friend pointing out details one by one; curious, then quietly delighted at the arm.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/annunciation (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A35. Leonardo da Vinci"; 1472 c.; oil on wood; 90 × 222 cm; brought to the Uffizi in 1867 from San Bartolomeo a Monteoliveto outside Porta San Frediano; "nothing is known about its original location or who commissioned it"; a youthful work painted while in Verrocchio's studio; angel "proffering a lily"; wings "based on those of a mighty bird of prey"; lectern reproduces a Verrocchio invention inspired by the tomb of Piero the Gouty in San Lorenzo; enclosed garden before a Renaissance palace, hortus conclusus; dark tree shapes, crepuscular light; the Virgin's right arm "appears too long", possibly reflecting early optical studies and a viewpoint from the right; lowered partly because the painting once hung over a side altar) ; AUDIT: drop "hung high" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: "nothing is known about its original location or who commissioned it" and "a lateral viewpoint (from the right) and lowered, due to the original location of the painting, over a side altar" (spoken: the side altar only as the museum's suggestion)
+@lang: it
+@translation: from the fact-checked English Uffizi 030 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Nessuno sa chi abbia ordinato questo dipinto. Arrivò agli Uffizi nel 1867, da una piccola chiesa appena fuori dalle porte della città. Quello che sappiamo è che Leonardo aveva circa vent'anni, e lavorava ancora nella bottega del Verrocchio.
+
+La scena è l'Annunciazione. L'angelo Gabriele è inginocchiato a sinistra e porge un giglio. La Vergine, a destra, alza gli occhi dal libro. Tra loro c'è un giardino chiuso, antico simbolo della sua purezza, davanti a un palazzo.
+
+Ora guardi come guardava Leonardo. Cominci dalle ali dell'angelo. Non sono le solite piume decorative. Il museo dice che si ispirano alle ali di un possente rapace. [pause] Poi il prato sotto l'angelo, pieno di fiori distinti, ognuno osservato. Poi la lontananza, oltre gli alberi scuri, dove tutto sfuma in un azzurro pallido e nebbioso.
+
+[pause] Guardi il leggio di marmo davanti alla Vergine. Copia un disegno del suo maestro Verrocchio, ispirato alla tomba di Piero de' Medici, detto Piero il Gottoso, nella chiesa di San Lorenzo. Un vero monumento fiorentino, infilato in una scena sacra.
+
+[lightly] Poi il famoso problema. Guardi il braccio destro della Vergine, che si allunga verso il libro. Sembra troppo lungo. Il giovane pittore fu distratto? Forse no. Il museo suggerisce che fosse pensato per essere visto da destra e più dal basso, sopra un altare laterale. [pause] Quindi faccia qualche passo verso destra, e guardi di nuovo. Veda se il braccio si sistema.
+
+Appena ventenne, si poneva già le sue domande su come vedono davvero i nostri occhi.
+
+Resti nella sala A35 per l'Adorazione dei Magi incompiuta di Leonardo, la grande tavola bruna.

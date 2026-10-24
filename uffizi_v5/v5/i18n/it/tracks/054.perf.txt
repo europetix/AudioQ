@@ -1,0 +1,24 @@
+@id: 054 · IT · Room D16 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D16
+@type: X
+@title: D16 · Extra · Le sale della Controriforma
+@where: Sala D16, la Sala del Pilastro, oltre la porta della parete di fondo della sala D15 più vicina alla sala D14 (la prima contando dalla D14). Oltre si aprono le sale D17, «Tradizione classica», e D18, «Sala della Controriforma». Nella D17, cerchi due piccoli quadri preziosi come gioielli: l'Ercole tra le nove Muse dell'Allori, dipinto su rame, e la Fortuna alata del Ligozzi, in piedi su un globo.
+@what: Rooms D16 "Room of the Pillar", D17 "Classic tradition", D18 "Room of the Counter-Reformation". In D17: Alessandro Allori, Hercules crowned by the Muses, 1568, oil on copper, 40 × 29.5 cm, inv. 1890 n. 1544; Jacopo Ligozzi, Allegory of Fortune, 1580–1599, oil on wood, 44 × 26.5 cm, inv. 1890 n. 8023.
+@listen: What the Church asked of painters after the Council of Trent, and the private, clever pictures the Medici court kept for itself.
+@brief: A compact explainer with a turn: stern rules for the churches, playful riddles for the prince; light and clear.
+@pace: medium
+@energy: 2→3
+@sources: map (OFF): D16 "Room of the Pillar", D17 "Classic tradition", D18 "Room of the Counter-Reformation" ; https://www.uffizi.it/en/artworks/allori-hercules-muses (OFF: Location "D17. Classic tradition"; Allori, Florence 1535–1607; 1568; oil on copper 40 × 29.5; inv. 1890 n. 1544; series for Francesco I de' Medici on ideas by Vincenzo Borghini, for private viewing, few could grasp them; Hercules crowned by the nine Muses for rescuing them from the Giants, who lie on the ground; Calliope with a tablet; temple of Honour and Fame; celebrates peace under the Medici; Calliope's pale skin and pearl-threaded hair after Bronzino) ; https://www.uffizi.it/en/artworks/ligozzi-fortune (OFF: Location "D17. Classic tradition"; Ligozzi, Verona 1547 – Florence 1627; 1580–1599; oil on wood 44 × 26.5; inv. 1890 n. 8023; probably a furniture door or a mirror back; Fortune on a globe; red wings on her foot; falling crown, sceptre, books; coins sliding into a glass vase, some turning into butterflies; winged figure with hourglass; Francesco I's interest in glassmaking; Ligozzi later led the decoration of the Tribune) ; Council of Trent decree on images, 1563: audit (general, OK) ; no work confirmed in D16 or D18 (Barocci altarpieces NOT named, O28)
+@lang: it
+@translation: from the fact-checked English Uffizi 054 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Nel 1563, al Concilio di Trento, la Chiesa cattolica stabilì che le immagini sacre avevano un compito.
+
+La Riforma protestante aveva attaccato le immagini. La Chiesa rispose difendendole, a una condizione. L'arte sacra doveva essere chiara, decorosa, capace di istruire e di commuovere i fedeli comuni. [pause] La sala D18, la Sala della Controriforma, è dedicata alla pittura religiosa di quei decenni.
+
+[curious] Ma entri prima nella D17, perché la corte medicea teneva per sé un altro genere di quadri. Alessandro Allori dipinse il suo Ercole su una piccola lastra di rame, per Francesco Primo. Le nove Muse incoronano l'eroe per averle salvate dai Giganti, sconfitti a terra. Quadri così erano enigmi per pochi occhi colti. [pause] Guardi la Musa con le perle tra i riccioli. Quella pelle liscia e pallida è la lezione del maestro dell'Allori, il Bronzino.
+
+Nella stessa sala, la Fortuna di Jacopo Ligozzi sta in equilibrio su un globo. Cadono una corona, uno scettro e dei libri. Le monete scivolano in un vaso di vetro, e alcune diventano farfalle. [pause] Il Ligozzi in seguito diresse la decorazione della Tribuna, al secondo piano.
+
+Torni nella sala D16 ed entri nella sala stretta accanto, la D19, dalla porta vicino all'estremità più lontana della parete comune. Cerchi il cartello del punto di ritrovo del Corridoio Vasariano.

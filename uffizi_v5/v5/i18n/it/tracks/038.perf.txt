@@ -1,0 +1,24 @@
+@id: 038 · IT · Room B2 · 24 Oct 2026 edition
+@section: First floor · Contini Bonacossi collection
+@room: Room B2
+@type: R
+@title: B2 · La collezione Contini Bonacossi
+@where: Sala B2, all'estremità più vicina del lungo salone della collezione Contini Bonacossi, la sala B1, sul lato opposto all'Info Point, accanto alla sala B4. Si metta davanti alla grande pala d'oro quadrata, di circa due metri e mezzo per lato, con la Vergine in trono tra angeli e santi. Nella stessa sala c'è l'alto affresco di un'altra Madonna in trono, con due bambini che offrono fiori.
+@what: Stefano di Giovanni, known as Sassetta, Madonna of the Snow Altarpiece, 1432, tempera on panel, 240 × 256 cm, Contini Bonacossi no. 1. Also: Andrea del Castagno, Madonna and Child enthroned with Saints Jerome and John the Baptist, two angels, and two children from the Pazzi family, c. 1449–1450, detached fresco, 290 × 212 cm, Contini Bonacossi no. 2.
+@listen: A private collection inside the museum, an altarpiece with an angel making a snowball, and a fresco cut from a castle wall.
+@brief: A friend pointing out a small, delightful secret in a big gold picture; curious, then a light wry touch at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/events/contini-bonacossi-collection-on-view-again-in-newly-inaugurated-premises-at-the-uffizi (OFF: Contini Bonacossi died 1955; heirs respected his wish; 1969 decree made the 144 works of paintings, sculpture, ceramics and furniture Uffizi property; Meridiana rooms of the Pitti 1974–98, Via Lambertesca by appointment from 1998; fully open 2018; eight rooms: gold grounds, Castagno, Bellini, Bramantino, sculpture, furniture, maiolica, Bernini) ; https://www.uffizi.it/en/artworks/madonna-of-the-snow-altarpiece (OFF: Location "B2 Sassetta - Andrea del Castagno"; 1432; tempera on panel 240 × 256; Contini no. 1; commissioned by the Sienese widow Ludovica Bertini for the Chapel of San Bonifacio in Siena Cathedral; angels behind the throne, one holding a tray of snow, one shaping a snowball; Peter and Paul, John the Baptist and Francis kneeling; snow legend of Santa Maria Maggiore, Pope Liberius tracing the plan in August snow; Francis for the patron, who became a Franciscan nun; bought by the Contini family in 1936) ; https://www.uffizi.it/en/artworks/madonna-and-child-enthroned-with-saints-jerome-and-john-the-baptist-two-angels-and-two-children-from-the-pazzi-family (OFF: Location "B2 Sassetta - Andrea del Castagno"; c. 1449–1450; detached fresco 290 × 212; for the chapel of the Pazzi castle at Trebbio near Pontassieve; children offering a vase of flowers and a crown of roses, plausibly Pazzi, the girl usually identified as Oretta; detached 1897 under Stefano Bardini; sculptural figures linked to Donatello)
+@lang: it
+@translation: from the fact-checked English Uffizi 038 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Da qualche parte, in questa pala d'oro, un angelo sta facendo una palla di neve.
+
+È una collezione privata dentro un museo pubblico. Alessandro Contini Bonacossi la raccolse nella prima metà del ventesimo secolo. Gli eredi rispettarono la sua volontà, e nel 1969 i suoi 144 dipinti, sculture, ceramiche e mobili passarono allo Stato. [pause] Dal 2018 occupano qui otto sale, tra cui il lungo salone.
+
+Il Sassetta dipinse questa pala nel 1432 per il Duomo di Siena. Racconta la leggenda della Madonna della Neve. Si narra che un agosto nevicò su un colle di Roma, e il papa vi tracciò la pianta di una nuova chiesa, Santa Maria Maggiore. [pause] Ora cerchi i due angeli dietro il trono della Vergine. Uno regge un vassoio di neve. L'altro la sta stringendo in una palla.
+
+L'altro gigante della sala è un affresco, staccato più di un secolo fa dal muro di un castello. Andrea del Castagno lo dipinse per la cappella del castello dei Pazzi al Trebbio. I bambini che offrono fiori e una corona di rose sono probabilmente due giovani Pazzi. [pause] [wry] Da una parte l'oro di Siena, dall'altra figure fiorentine solide come sculture.
+
+La prossima è la sala B4, Giovanni Bellini, proprio accanto, sullo stesso lato del salone. Cerchi un grande dipinto con un santo e il suo leone in un deserto roccioso. Attenzione: nella stessa sala c'è un secondo San Girolamo, molto più piccolo, di Cima da Conegliano.

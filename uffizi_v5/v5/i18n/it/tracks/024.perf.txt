@@ -1,0 +1,26 @@
+@id: 024 · IT · Room A25 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A25
+@type: R
+@title: A25 · Domenico Veneziano — Pala di Santa Lucia dei Magnoli
+@where: Sala A25, «Domenico Veneziano, Piero della Francesca». Si metta davanti alla grande pala quasi quadrata, di circa due metri per lato: la Vergine col Bambino in trono sotto una leggera loggia di marmo rosa e verde, con due santi per lato e aranci in alto.
+@what: Domenico Veneziano, Madonna and Child enthroned with St. Francis, John the Baptist, St. Zenobius and St. Lucy (Santa Lucia de' Magnoli Altarpiece), c. 1445, tempera on wood, 209 × 213 cm, 1890 n. 884; restored 2024 by the Opificio delle Pietre Dure.
+@listen: A painter from Venice who filled an altarpiece with daylight, and the murder Vasari invented for him.
+@brief: A friend setting the record straight, wry about Vasari, then pleased to point out the light.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/veneziano-madonna-and-child-enthroned (OFF, text Daniela Parenti: Location "A25. Domenico Veneziano - Piero della Francesca"; 1445 c.; tempera on wood; 209 × 213 cm; Domenico, Venice early 15th c. – Florence 1461; high altar of Santa Lucia de' Magnoli; portico with marble columns and boughs of orange trees above; pointed arches; light tones; "clear light entering from the right"; shadows on the floor "perfectly proportioned"; St Lucy holds a dish bearing her eyes; Zenobius a bishop; signed on the step of the dais "OPUS DOMINICI DE VENETIIS HO[C] MATER DEI MISERERE MEI DATUM EST"; predella now in Washington, Cambridge (Fitzwilliam) and Berlin; restored 2024) ; AUDIT IAS-cast (SNIP) + Vasari: Vasari's story that Andrea del Castagno murdered him; Castagno died in 1457, four years before Domenico ; AUDIT (general): Piero worked as his assistant in the 1430s
+@lang: it
+@translation: from the fact-checked English Uffizi 024 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Vasari racconta una storia cupa sull'autore di questo dipinto. Dice che un rivale geloso, Andrea del Castagno, lo uccise. È un racconto avvincente. Ed è anche impossibile. [pause] Castagno morì nel 1457, e Domenico Veneziano gli sopravvisse di quattro anni.
+
+Domenico veniva da Venezia e lavorò a Firenze. Intorno al 1445 dipinse questa pala per l'altare maggiore della piccola chiesa di Santa Lucia dei Magnoli. E al posto dell'oro le diede la luce del giorno.
+
+Guardi come la luce entra da destra. Attraversa la loggia di marmo e posa sul pavimento ombre morbide ed esatte. Sopra gli archi, rami di aranci si spingono in un cielo limpido. [pause] Quattro santi stanno in quella luce. San Francesco e Giovanni Battista sono a sinistra. A destra ci sono san Zanobi, vescovo di Firenze, e santa Lucia, che regge un piatto con i suoi occhi.
+
+[curious] Poi abbassi lo sguardo al gradino sotto il trono della Vergine. Domenico firmò lì, e aggiunse una preghiera: «Madre di Dio, abbi pietà di me». [pause] Le piccole scene che un tempo stavano sotto la pala sono oggi divise tra Washington, Cambridge e Berlino.
+
+Un pittore più giovane lavorò come suo assistente negli anni 1430, e imparò che cosa poteva fare questa luce. Si chiamava Piero della Francesca.
+
+Resti nella sala A25 per i due piccoli profili affrontati di Piero della Francesca, i duchi di Urbino.

@@ -1,0 +1,28 @@
+@id: 014 · IT · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: W
+@title: A8 · Paolo Uccello — Battaglia di San Romano
+@where: Nella sala A8, davanti all'ampia tavola della battaglia, larga più di tre metri: cavalieri in armatura, un fitto intrico di lance alzate e spezzate, soldati caduti a terra e piccoli aranci negli angoli in alto.
+@what: Paolo Uccello, Battle of San Romano, c. 1435–1440, tempera on wood, 182 × 323 cm, Uffizi inv. 1890 n. 479, signed "PAULI UGIELI OPUS"; the central panel of a set of three, with the others in the National Gallery, London, and the Louvre, Paris.
+@listen: How the Medici turned someone else's battle pictures into their own, and how Uccello lets the lances tell you who wins.
+@brief: Amused storyteller at first, then sharp-eyed and admiring on the geometry; a wry last line.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/battle-of-san-romano (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; c. 1435-1440; tempera on wood; 182 x 323 cm; inv. 1890 n. 479; inscription "PAULI UGIELI OPUS", signed bottom left; one of three panels on the Florentine victory over the Sienese and their allies, led by the Duke of Milan, at San Romano (Pisa) in 1432; Niccolò da Tolentino unseating Bernardino della Carda; the Uffizi panel the central episode, London first, Louvre last; commissioned by Lionardo Bartolini Salimbeni for his palace a few years after the battle; arched tops to fit between the arches of a room; heirs sold the set to Lorenzo il Magnifico, installed in his palace on via Larga; Uccello probably changed the shape; corner additions with sour oranges, "mala medica", Medici emblem; Florentine lances and crossbows forward, the enemy's back, "foreshadows the outcome of the battle"; much metal leaf on armour and bridles; "a virtuoso in perspective", foreshortened bodies, low viewpoint; text Daniela Parenti) ; "once glittered", darkened: audit 013 HEDGE ; no pink horse, no poplar (NEVER/audit) ; cue: PLAN 014 conditional cue, ONSITE O7 (ALT-014a/b held)
+@lang: it
+@translation: from the fact-checked English Uffizi 014 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Quegli aranci negli angoli in alto non erano nel progetto originale.
+
+All'inizio la tavola terminava ad arco, per adattarsi a una sala del palazzo di Lionardo Bartolini Salimbeni. Lui aveva ordinato tre scene di battaglia. Celebravano la vittoria di Firenze sui senesi e i loro alleati, guidati dal duca di Milano, a San Romano, vicino a Pisa, nel 1432. Poi i suoi eredi vendettero la serie a Lorenzo il Magnifico, che la appese nel palazzo dei Medici in via Larga. [pause] La forma dovette cambiare. Gli archi furono squadrati, probabilmente dallo stesso Uccello, e i nuovi angoli si riempirono di arance amare. In latino sono mala medica, un gioco di parole sul nome della famiglia.
+
+Questo è il centro del racconto. Il primo pannello è a Londra e l'ultimo a Parigi. Qui Niccolò da Tolentino, comandante dell'esercito fiorentino, disarciona il capo nemico, Bernardino della Carda.
+
+[pause] Ora legga le lance. Lance e balestre fiorentine puntano in avanti. Quelle nemiche si inclinano all'indietro. La battaglia è già decisa nella geometria. Uccello era un virtuoso della prospettiva. I corpi a terra sono scorciati, e si rimpiccioliscono nel quadro. Suggeriscono un punto di vista basso, per una tavola da vedere dal basso.
+
+Armature e briglie erano coperte di lamina metallica. Un tempo scintillava, e col tempo si è scurita. In basso a sinistra firmò in latino: opera di Paolo Uccello.
+
+[wry] Una battaglia in cui quasi nessuno sanguina, e la vera vincitrice è la prospettiva.
+
+Ora vengono le sale di Botticelli. Dalla sala A8, segua le indicazioni del museo per Botticelli. [pause] Se il passaggio è chiuso, torni nel corridoio attraverso la sala A4, prosegua fino alla sala A13, con la grande pala fiamminga, ed entri nelle sale di Botticelli dall'altra estremità. In entrambi i casi, cominci dalla sala con le Virtù dipinte in cornici dorate.

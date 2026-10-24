@@ -1,0 +1,30 @@
+@id: 034 · IT · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Michelangelo — Il Tondo Doni
+@where: Sala A38. Si metta davanti al dipinto tondo, largo centoventi centimetri, nella sua profonda cornice intagliata e dorata: Maria che si gira per prendere il Bambino da Giuseppe, in colori duri e brillanti, con una fila di giovani nudi dietro un muretto.
+@what: Michelangelo Buonarroti, Holy Family, known as the "Doni Tondo", about 1505–1507 (page: 1505–1506), tempera grassa on wood, diameter 120 cm, 1890 n. 1456; frame carved by Francesco del Tasso, probably to Michelangelo's design.
+@listen: A sculptor's painting for a merchant's family, the ancient statue hidden in it, and the bride's emblem hidden in the frame.
+@brief: Energetic and admiring, a friend who loves this picture; conspiratorial about the half-moons, then a quiet landing.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo (OFF, mod. 6 Mar 2024: Location "A38. Raphael and Michelangelo"; 1505–1506; tempera grassa on wood; diameter 120 cm; for the Florentine merchant Agnolo Doni, married to Maddalena Strozzi in 1504; marriage and birth of the first child celebrated with works by Raphael and Michelangelo; "the only finished panel painting by the artist to survive"; earlier marble tondi, the Pitti and Taddei Tondi; conceived like a sculpture; pyramidal group like a dome, Child passed between Joseph and Mary; Hellenistic marble sculpture; the Laocoön, excavated in January 1506, appears among the nudes, dating it to the time of Maria Doni's birth in September 1507; nudes as pagan humanity; the wall as original sin; the infant St John beyond the wall suggests a christening; frame probably designed by Michelangelo and carved by Francesco del Tasso, head of Christ and four prophets among grotesques; Strozzi half-moons hidden at the top left) ; https://www.uffizi.it/en/artworks/signorelli-madonna-with-child (OFF: nude background figures compared with Michelangelo's Holy Family) ; AUDIT: "about 1505–07"; drop "original frame"
+@lang: it
+@translation: from the fact-checked English Uffizi 034 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Michelangelo scolpiva il marmo. Quando accettava di dipingere, dipingeva da scultore. Qui lo si vede, nell'unico suo dipinto su tavola finito che sia sopravvissuto.
+
+Fu fatto per Agnolo Doni, ricco mercante fiorentino, che nel 1504 sposò Maddalena Strozzi. Il museo lo collega al loro matrimonio e alla nascita del primo figlio. Michelangelo aveva già scolpito in marmo tondi con la Vergine. [pause] Ora lo faceva in pittura.
+
+Guardi la famiglia. Maria è inginocchiata davanti e si torce all'indietro, oltre la spalla. Il Bambino passa tra lei e Giuseppe, e i tre corpi si incastrano come una cupola. Il braccio nudo di Maria è forte come quello di un atleta. I colori sono duri e brillanti, come pietra levigata.
+
+[pause] Poi guardi dietro di loro. Un muretto attraversa il quadro, e al di là si stendono giovani uomini nudi. Sembrano rappresentare il mondo pagano, prima di Cristo. Il muretto potrebbe indicare il peccato originale. E lì, tra i due mondi, c'è il piccolo Giovanni Battista, forse un accenno a un battesimo celebrato dal dipinto. Anche la Madonna di Signorelli nella sala A32 ha dei nudi sullo sfondo. Michelangelo l'aveva guardata da vicino.
+
+Uno di quei nudi dà una data. La celebre statua antica del Laocoonte fu dissotterrata a Roma nel gennaio 1506, e la sua eco compare tra queste figure. [pause] Questo si accorda con la nascita della figlia della coppia, Maria, nel settembre 1507.
+
+[conspiratorial] Ora la cornice. Fu probabilmente disegnata da Michelangelo stesso, e intagliata da Francesco del Tasso. La testa di Cristo e quattro profeti si affacciano tra le foglie. E in alto a sinistra, nascoste nell'intaglio, ci sono delle mezzelune, l'emblema della famiglia della sposa, gli Strozzi.
+
+[warmly] Il dipinto di uno scultore, per gli anni più felici di una famiglia.
+
+Resti nella sala A38 per la Madonna del Cardellino di Raffaello: il piccolo San Giovanni che porge un uccellino al Bambino.

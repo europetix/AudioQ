@@ -1,0 +1,24 @@
+@id: 019 · IT · Room A12 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A12
+@type: X
+@title: Sale di Botticelli · Extra · Magnificat, Melagrana e Calunnia
+@where: Nella sala della Venere, nelle sale di Botticelli. La Madonna del Magnificat è il grande tondo accanto alla Venere, con Maria che scrive in un libro. La Madonna della Melagrana è il tondo dall'altro lato della Venere. La Calunnia è una piccola tavola affollata, larga meno di un metro, con figure in una sala di marmo sul mare.
+@what: Sandro Botticelli, Virgin and Child, and Angels (Madonna of the Magnificat), c. 1483, tempera on wood, diameter 118 cm, inv. 1890 n. 1609; Madonna of the Pomegranate (named in the June 2026 news; no page read); Calumny of Apelles, c. 1495, tempera on wood, 62 × 91 cm, inv. 1890 no. 1496.
+@listen: A Madonna writing her own hymn, and the dark little allegory that closes Botticelli's story.
+@brief: A short, intimate aside; tender on the Madonna, then quietly serious on the Calumny.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/botticelli-madonna-of-the-magnificat (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1483 c.; tempera on wood; diameter 118 cm; inv. 1890 n. 1609; Mary writes "Magnificat anima mea Dominum" "under the guidance of her son"; Jesus "touching a pomegranate", red seeds recalling his blood; "crowned by two angels", without wings, in late-15th-century Florentine elite fashion; round paintings usually for noble settings, this large one perhaps for a tribunal of the Florentine Republic; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/calumny-botticelli (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1495 ca.; tempera on wood; 62 x 91 cm; inv. 1890 no. 1496; after a lost painting by Apelles known through Lucian; read right to left; king with donkey ears like Midas; Ignorance and Suspicion; Calumny with a torch pulling the victim "by the hair"; Rancour; Fraud and Deceit adorn her hair; Penitence in black turns toward Truth, "a naked young lady and ignored by the other characters"; portico over the sea with statues and reliefs; the Republic "inspired by Girolamo Savonarola") ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: Magnificat and Pomegranate flank the Venus; the sequence closes with the Calumny (1495)) ; Pallas and the Centaur NOT mentioned (PLAN)
+@lang: it
+@translation: from the fact-checked English Uffizi 019 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Due Madonne tonde incorniciano la Venere. Nella Madonna del Magnificat, Maria sta scrivendo.
+
+Scrive le prime parole del suo inno: Magnificat anima mea Dominum, «l'anima mia magnifica il Signore». E il figlio la guida. La mano di lui posa su una melagrana, i cui chicchi rossi ricordano il sangue che verserà. Due angeli reggono una corona sopra il suo capo. Non hanno ali, e sono vestiti come giovani fiorentini alla moda. [pause] Un tondo così grande, largo più di un metro, forse stava in un tribunale della Repubblica fiorentina. La Madonna della Melagrana è dall'altro lato della Venere.
+
+[pause] Poi trovi la Calunnia di Apelle, una piccola tavola affollata. Dipinta verso il 1495, nella Firenze di Savonarola, qui chiude la storia di Botticelli. Ricrea un quadro perduto dell'antico pittore greco Apelle, noto solo da una descrizione scritta.
+
+La legga da destra. Un re con orecchie d'asino siede in giudizio, consigliato dall'Ignoranza e dal Sospetto. La Calunnia, con una torcia, trascina la vittima per i capelli, mentre la Frode e l'Inganno le acconciano la chioma. [pause] La Penitenza, vestita di nero, si volta verso la Verità. [quietly] La Verità è nuda, e nessun altro nel quadro la guarda.
+
+Attraversi la porta in fondo alle sale di Botticelli ed entri nella sala A13: il grande trittico fiammingo.

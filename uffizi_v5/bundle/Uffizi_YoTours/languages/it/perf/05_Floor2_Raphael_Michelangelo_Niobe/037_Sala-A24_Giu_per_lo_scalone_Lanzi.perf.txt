@@ -1,0 +1,26 @@
+@id: 037 · IT · Room A24 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A24
+@type: R
+@title: A24 · Giù per lo scalone Lanzi
+@where: In fondo al corridoio di Ponente, sala A24, in cima allo scalone Lanzi, prima di scendere. Anche la terrazza panoramica si trova a questa estremità del piano.
+@what: The Western Corridor (Third Corridor), ancient statues in facing pairs, ceilings painted over the two centuries after the first bay of 1581; the Lanzi staircase down to the first floor; the panoramic terrace with the café, second floor.
+@listen: The most important direction in the guide: one floor down, not out to the street.
+@brief: Calm and clear, a friend making sure you don't miss the turning; warm about what is still to come.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF, mod. 10 Jun 2026, text Antonio Godoli: ceilings of the second and third corridors painted "over the next two centuries"; "pairs of full-length statues facing one another"; Peter Leopold opened the Gallery to the public in 1769; "On that occasion was built the large monumental entrance still in use today"; "the original route, previously accessed through a small entrance in the third corridor, was reversed") ; https://www.uffizi.it/en/the-uffizi (OFF: the cafeteria is on the second floor and has a terrace with a panoramic view; a visitors' map PDF) ; https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (OFF map, Oct 2026, as source/map.txt and research/map/hi-3.png, p-2.png: panoramic terrace with café icons at the west end of the second floor; Lanzi staircase with a lift; "ONCE OUT, IT IS NO LONGER POSSIBLE TO ACCESS THE CLOACKROOM AND AUDIOGUIDE DESK"; Complete itinerary continues on the first floor from the Lanzi staircase; Info Point at the first-floor stair foot; B1–B8 Contini Bonacossi, C1–C5 self-portraits, D rooms 16th century) ; café mention: WRITER_BRIEF allows it plainly in 037; lead decision 24 Oct 2026: keep the plain line (PLAN row said "no café") ; terrace: the spoken instruction is conditional ("if reaching it means going through an exit, skip it"), because hi-3 draws the terrace off the stair-head landing next to the exit icon: ONSITE O17 and O17b ; B1/B2 cue: p-2 at 300 dpi draws no B1→B2 doorway (B2 is open to B4 and faces the landing), so the cue names B2's position only: ONSITE O19 ; lift: ONSITE O38
+@lang: it
+@translation: from the fact-checked English Uffizi 037 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Prima del 1769, i visitatori entravano nella galleria da una piccola porta in questo corridoio. Quell'anno il granduca la aprì al pubblico. Il percorso fu invertito, e fu costruito un nuovo grande ingresso, quello che si usa ancora oggi.
+
+Dia un ultimo sguardo al corridoio di Ponente, con le sue statue antiche a coppie, una di fronte all'altra, sotto i soffitti dipinti. Qui finisce il secondo piano.
+
+[lightly] Prima di scendere: la terrazza panoramica, con la caffetteria del museo, è a questa estremità del piano. Il percorso non torna quassù. [pause] Se desidera la vista, ci vada ora, poi torni a queste scale. Se per arrivarci deve passare da un'uscita, rinunci.
+
+[pause] Ora, l'indicazione più importante di questa guida. Scenda dallo scalone Lanzi di *un solo* piano, fino al primo piano, non fino alla strada. [pause] Accanto alle scale c'è anche un ascensore. Le scale continuano fino a un'uscita sulla strada. Non le segua. Una volta in strada, non potrà più tornare al guardaroba né al banco delle audioguide, che sono dall'altra parte dell'edificio.
+
+[warmly] Al primo piano La aspetta ancora moltissimo: una collezione privata donata allo Stato, una lunga serie di autoritratti di artisti, e il sedicesimo secolo, con Bronzino e Tiziano.
+
+Scenda di un solo piano e lasci le scale al primo piano, vicino all'Info Point. Ai piedi delle scale, il salone della collezione Contini Bonacossi, la sala B1, si allontana dalle scale. La sala B2 è all'estremità più vicina del salone, sul lato opposto all'Info Point: cerchi una grande pala d'oro con la Madonna della Neve.

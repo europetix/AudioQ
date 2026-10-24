@@ -1,0 +1,28 @@
+@id: 020 · IT · Room A13 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A13
+@type: W
+@title: A13 · Hugo van der Goes — Trittico Portinari
+@where: Sala A13, «Hugo van der Goes». Si tenga a distanza dall'unica, enorme pala in tre parti che riempie la sala, larga più di sei metri da aperta: un Bambino appena nato sulla nuda terra al centro, una famiglia inginocchiata con santi altissimi sulle ante e un vaso di fiori in primo piano.
+@what: Hugo van der Goes, Adoration of the Shepherds with angels and Saint Thomas, Saint Anthony, Saint Margaret, Mary Magdalen and the Portinari family (recto); Annunciation (verso), known as the Portinari Triptych, c. 1477–1478, oil on wood, 274 × 652 cm open, 1890 nn. 3191, 3192, 3193.
+@listen: How a banker's altarpiece from Bruges crossed the sea to Florence, and what the city's painters saw in it.
+@brief: A friend at your shoulder, curious and precise, slowing down for the flowers, a quiet wry note about Ghirlandaio.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/adoration-of-the-shepherds-with-angels-and-saints-recto-annunciation-verso (OFF, mod. 3 Apr 2024, text Daniela Parenti: Location "A13. Hugo van der Goes"; 1477–1478 c.; oil on wood; 274 × 652 cm open; Tommaso Portinari, Medici bank representative in Bruges; for the Portinari chapel in the church of Saint Giles (Sant'Egidio) at the hospital of Santa Maria Nuova; Tommaso married Maria Baroncelli in 1470; Tommaso with sons Antonio and Pigello and Saints Thomas and Anthony; Maria and daughter Margherita with Saints Margaret and Mary Magdalen; sizes reflect rank; reached Pisa by sea, Florence 1483; Florentine painters found it highly innovative; Child on the ground in rays of light, Light of the World; white iris and red lily = purity and Christ's blood; purple columbine = the Virgin's sorrow; carnations = the Trinity; closed, a black-and-white Annunciation; the page does NOT mention Ghirlandaio) ; AUDIT GHI-sass (SNIP): Ghirlandaio's Sassetti Chapel Adoration of 1485 borrows its shepherds, hedged in speech as "seems to borrow" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: "arrival in Florence in 1483, having first reached Pisa by sea"; no commission year, Date "1477-1478 c."; painters "particularly praised the realistic likeness of the objects, landscape and facial features"
+@lang: it
+@translation: from the fact-checked English Uffizi 020 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Nel 1483 un dipinto arrivò a Firenze dalle Fiandre, via mare fino a Pisa. Tutti i pittori della città si fermarono a guardarlo. È questo.
+
+Tommaso Portinari dirigeva il banco dei Medici a Bruges. Lì ordinò questa enorme pala a Hugo van der Goes, che la dipinse verso il 1477 o 1478. Era per la cappella di famiglia a Sant'Egidio, chiesa dell'ospedale di Santa Maria Nuova, qui a Firenze. I pittori fiorentini la trovarono straordinariamente nuova, e il museo dice che ne lodarono soprattutto il realismo.
+
+La famiglia è inginocchiata sulle ante, in abiti fiamminghi. A sinistra, Tommaso e i figli Antonio e Pigello, con san Tommaso e sant'Antonio che incombono alle spalle. A destra, la moglie Maria Baroncelli e la figlia Margherita, con santa Margherita e Maria Maddalena. Noti le dimensioni. I santi sovrastano la famiglia. Qui la grandezza indica il rango, non la distanza.
+
+[pause] Ora il centro. Il Bambino giace sulla nuda terra tra raggi di luce, la Luce del mondo. Davanti a lui, una natura morta. Un iris bianco e un giglio rosso, per la purezza e il sangue di Cristo. Aquilegie viola, per i dolori della Vergine. Garofani rossi, per la Trinità. [pause] Ogni petalo è esatto.
+
+Poi guardi a destra del centro, i pastori. Uomini rozzi, a bocca aperta, che accorrono dai campi. [wry] Firenze li notò. L'Adorazione del Ghirlandaio nella cappella Sassetti, dipinta due anni dopo, sembra riprendere proprio questi pastori.
+
+[warmly] Una pietra miliare dell'incontro tra Firenze e la pittura a olio fiamminga. E nacque come quadro per la cappella di una famiglia.
+
+Nella sala A14, il Terrazzo delle Carte geografiche, che si apre su questa sala, c'è un breve Extra su carte e matematica. [pause] La prossima tappa principale è la Tribuna, la sala A16, ottagonale, subito dopo la sala A15. Cerchi pareti rosse e una cupola di madreperla.

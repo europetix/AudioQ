@@ -1,0 +1,30 @@
+@id: 057 · IT · Room D23 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D23
+@type: W
+@title: D23 · Tiziano — Venere di Urbino
+@where: Sala D23, «Tiziano - Venere di Urbino». Si metta davanti alla tela larga circa un metro e due terzi, con una donna nuda distesa su lenzuola bianche che La guarda dritto negli occhi, un cagnolino addormentato ai suoi piedi e due ancelle a una cassapanca sullo sfondo.
+@what: Titian, Venus of Urbino, 1538, oil on canvas, 119 × 165 cm, inv. 1890 no. 1437 (page "D22" in the old numbering = map D23).
+@listen: A painting bought as "the naked woman", a wedding ritual turned into a goddess, and why it once hung beside the Medici Venus.
+@brief: A friend telling the life story of a famous picture, warm and a little wry, letting the details do the work.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/venus-urbino-titian (OFF: 1538; oil on canvas 119 × 165; inv. 1890 no. 1437; Location "Room D22, Tiziano and Venere di Urbino" = map D23; 1538 letter certifies the "naked woman" bought directly from Titian by Guidobaldo II della Rovere; sleeping dog "a reference to fidelity in marriage"; bunch of roses, emblem of Venus; pot of myrtle on the sill, constancy in love; two maids, one searching the painted chest, the other holding the wedding dress; the toccamano, at home not in church, a woman touches the groom's hand to consent, "Titian takes this as his inspiration for a seductive Venus"; gazes out "in a flirtatious, allusive manner"; taken to Florence in Vittoria della Rovere's dowry, "the last member of the family and wife of Grand Duke of Tuscany, Ferdinando II de' Medici" (re-read 24 Oct 2026: no year, nothing on how long it stayed in Urbino, so no time claim is spoken); for many years in the Tribuna close to the Medici Venus) ; SEC (SNIP) https://guide.skd.museum/en/Tour/Object?guideId=657&objectId=34173 (Giorgione's Sleeping Venus in Dresden, which Titian "may" have helped finish; audit wording) ; "heir to Urbino" and Manet's Olympia: audit wording (general). Not used: "anxious to secure it" (not on the page), "behind glass".
+@lang: it
+@translation: from the fact-checked English Uffizi 057 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Nel 1538 un giovane nobile scrisse una lettera su un dipinto che aveva comprato da Tiziano. Non lo chiamava Venere. Lo chiamava «la donna nuda».
+
+Era Guidobaldo della Rovere, erede del ducato di Urbino. Ecco da dove viene il suo nome. La Venere di Urbino.
+
+È distesa su lenzuola bianche e La guarda dritto negli occhi. Il museo definisce il suo sguardo ammiccante e allusivo. In una mano tiene un mazzetto di rose, il fiore di Venere. Un cane dorme ai piedi del letto, segno di fedeltà coniugale. [pause] Sul davanzale c'è un vaso di mirto, altra pianta di Venere, e dell'amore costante. Dietro di lei, due ancelle sono indaffarate a una cassapanca dipinta: ne tirano fuori un abito da sposa.
+
+[pause] Allora, dea o sposa? Tiziano prese l'idea da un'usanza veneziana, il toccamano. In casa, non in chiesa, una giovane toccava la mano dell'uomo che l'aveva chiesta in sposa, per mostrare il suo consenso. Da quel piccolo gesto privato, Tiziano creò una Venere seducente.
+
+Conosceva la Venere dormiente di Giorgione, oggi a Dresda, che forse aiutò perfino a finire. La dea di Giorgione dorme. Quella di Tiziano è ben sveglia, e sa che Lei è lì. Più di tre secoli dopo, Manet le rispose con la sua Olympia.
+
+[wry] Più tardi arrivò a Firenze, nella dote di Vittoria della Rovere, l'ultima della famiglia, che sposò un granduca de' Medici. E per molti anni fu esposta nella Tribuna, vicino alla Venere dei Medici di marmo. [pause] Statua antica e dipinto moderno, fianco a fianco, come se qualcuno avesse indetto una gara.
+
+[warmly] E, a differenza della statua, lei La guarda ancora negli occhi.
+
+In questa sala c'è un breve Extra sulla Flora di Tiziano, la donna dai capelli sciolti color rame con i fiori di primavera in mano. La prossima tappa principale è la sala D26, Veronese: passi dalla porta nella sala D24, prosegua dritto attraverso la sala D25 ed entri nella D26. Cerchi un alto ritratto di un padre con la mano sulla spalla del figlio piccolo.

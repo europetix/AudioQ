@@ -1,0 +1,28 @@
+@id: 029 · IT · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: R
+@title: A35 · Leonardo: il Battesimo
+@where: Sala A35, «Leonardo da Vinci». Si metta davanti all'alta tavola, di quasi due metri, con Giovanni Battista che versa l'acqua su Cristo, in piedi in un fiume poco profondo. Due angeli sono inginocchiati sulla riva, a sinistra.
+@what: Andrea del Verrocchio and Leonardo da Vinci, The Baptism of Christ, c. 1470–1475, tempera and oil on panel, 177 × 151 cm, 1890 n. 8358.
+@listen: A workshop picture in which a young assistant may have painted far more than one angel.
+@brief: A friend playing detective at the panel; curious, a little wry about Vasari's legend.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/verrocchio-leonardo-baptism-of-christ (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A35. Leonardo da Vinci"; 1470–1475 c.; tempera and oil on panel; 177 × 151 cm; from the Vallombrosan monastery of San Salvi, Florence; moved 1730 to Santa Verdiana, Florentine Galleries 1810, Uffizi since 1919; Vasari: Leonardo painted the left angel "with such skill that he upset the older Verrocchio"; current studies give him more: the riparian landscape, the golden light and the figure of Christ; studio head designed the work and left parts to pupils; an older unnamed painter perhaps also worked on it, given the less developed hands of God and the dove; inscription ECCE AGNUS DEI) ; AUDIT: Leonardo about 18 to 23 (born 1452); Vasari's claim that Verrocchio gave up painting, framed as "a legend, but a telling one"
+@lang: it
+@translation: from the fact-checked English Uffizi 029 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] In una bottega fiorentina affollata, il maestro ideava il quadro e gli assistenti ne dipingevano parti. Questo dipinto è famoso perché uno di quegli assistenti era Leonardo da Vinci.
+
+Il maestro era Andrea del Verrocchio, scultore, orafo e pittore. Tra il 1470 e il 1475 circa la sua bottega dipinse questo Battesimo, che viene dal monastero vallombrosano di San Salvi, a Firenze. [pause] Leonardo aveva allora tra i diciotto e i ventitré anni.
+
+Vasari racconta la storia. Dice che Leonardo dipinse l'angelo all'estrema sinistra così bene da turbare il più anziano Verrocchio. E sostiene che Verrocchio, superato, abbandonò del tutto la pittura. [wry] È una leggenda, ma eloquente.
+
+Trovi quell'angelo. È inginocchiato, la schiena mezzo girata verso di noi, e guarda in alto, il volto morbido e pieno di luce. [pause] Ora guardi l'angelo accanto, dal viso più tondo e più semplice. La differenza si vede facilmente.
+
+[pause] Oggi gli studiosi pensano che Leonardo abbia fatto più dell'angelo. Il museo gli attribuisce forse il paesaggio fluviale sullo sfondo, la luce dorata e perfino il corpo di Cristo. E forse c'era anche una mano più anziana. Guardi le mani più deboli di Dio, in alto, e la colomba.
+
+Quindi non è il quadro di un solo artista. È una bottega colta sul fatto, con un genio che vi cresce dentro.
+
+Resti nella sala A35 per l'Annunciazione di Leonardo, la tavola lunga e bassa con l'angelo inginocchiato in un giardino.

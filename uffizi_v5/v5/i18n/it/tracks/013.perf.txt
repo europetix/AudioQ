@@ -1,0 +1,24 @@
+@id: 013 · IT · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: R
+@title: A8 · Masolino, Masaccio e Beato Angelico
+@where: Sala A8, «Masaccio, Beato Angelico, P. Uccello». La Sant'Anna è la tavola d'oro con sant'Anna seduta in alto, dietro la Vergine, che tiene il Bambino in grembo. In questa sala c'è anche l'ampia battaglia di Paolo Uccello.
+@what: Masolino and Masaccio, Saint Anne, Madonna and Child, five angels ("Sant'Anna Metterza"), c. 1424–1425, tempera on wood, 175 × 103 cm, inv. 1890 no. 8386; Fra Angelico, Glorification of Mary, 1431–1435, with its predella, inv. 1890 no. 1612; Fra Angelico, Madonna and Child Enthroned with Angels, 1435, from Pontassieve, Deposits no. 143.
+@listen: Two painters called Tommaso, a Child built like Hercules, Fra Angelico's crowded heaven, and Uccello's love of perspective.
+@brief: An enthusiast at a turning point in the story; curious, then lingering on the Child's weight, a smile at Uccello.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/saint-anne-masaccio (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; Masolino, Tommaso di Cristofano Fini, and Masaccio, Tommaso di ser Giovanni, 1401–1428; 1424-1425 ca.; tempera on wood; 175 x 103 cm; for Sant'Ambrogio, as Vasari specified; Vasari gave it all to Masaccio, Longhi in 1940 gave part to Masolino; Masolino the "monastic and stern" Saint Anne, Masaccio Mary and the "herculean" Child of "solid and full volumes"; "Metterza", "she is in the third position"; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/angelico-glorification (OFF: Location A8; 1431-1435; "over forty figures" of saints; Christ "about to adorn the diadem with a precious stone"; predella separated in the second half of the 16th century, "reunification in Spring 2024") ; https://www.uffizi.it/en/artworks/madonna-child-pontassieve (OFF: Location A8; 1435; centrepiece of a polyptych for San Michele Arcangelo, Pontassieve; the Child's pale skin appears to glow) ; Masaccio died at 26, Fra Angelico a Dominican: audit 012 OK ; Uccello and "what a sweet thing this perspective is": VASARI ; no "rooms 10–12 closed" (NEVER) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF saint-anne-masaccio re-read: "for the Sant'Ambrogio Church in Florence, as specified in the Lives by Giorgio Vasari"; OFF angelico-glorification re-read: predella separated "in the second half of the 16th century", reunited Spring 2024
+@lang: it
+@translation: from the fact-checked English Uffizi 013 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Qui l'oro comincia a scendere, ed entra un nuovo tipo di spazio. Tutto parte da due pittori, entrambi di nome Tommaso.
+
+Masolino e Masaccio dipinsero insieme la Sant'Anna con la Vergine e il Bambino, verso il 1424. Secondo Vasari, era per la chiesa di Sant'Ambrogio. L'antico nome, Sant'Anna Metterza, vuol dire Anna messa per terza: nonna, madre e figlio, uno sopra l'altro. Vasari diede tutta la tavola a Masaccio. Oggi la severa sant'Anna è attribuita a Masolino, la Vergine e il Bambino a Masaccio. [pause] Guardi quel Bambino. È solido e pesante, quasi un piccolo Ercole. Masaccio aveva poco più di vent'anni. Morì a ventisei.
+
+Beato Angelico, frate domenicano, La porta in un luogo più dolce. La sua Glorificazione di Maria è affollata da oltre quaranta santi, ognuno con il suo volto. [pause] Cristo non incorona sua madre. Aggiunge una pietra preziosa al suo diadema. [pause] La predella ne fu separata più di quattro secoli fa, ed è tornata con lei qui nel 2024. Cerchi anche la sua Madonna di Pontassieve, del 1435, dove la pelle chiara del Bambino sembra quasi brillare.
+
+[amused] E Paolo Uccello? Vasari racconta che passava le notti sveglio sulla prospettiva. Quando la moglie lo chiamava a dormire, lui rispondeva: «Oh che dolce cosa è questa prospettiva!»
+
+Resti nella sala A8 per la Battaglia di San Romano di Paolo Uccello, l'ampia tavola di cavalli e lance spezzate.

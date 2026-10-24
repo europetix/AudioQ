@@ -1,0 +1,26 @@
+@id: 036 · IT · Room A39 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A39
+@type: W
+@title: A39 · La sala della Niobe
+@where: Sala A39, la sala della Niobe: un lungo salone bianco e oro con soffitto a cassettoni, pieno di statue di marmo di giovani che corrono, cadono e guardano in alto. Cerchi il gruppo più alto, di oltre due metri: una madre che stringe a sé la figlia piccola.
+@what: The Niobe Room, inaugurated 20 Feb 1780, architects Zanobi del Rosso and Gaspare Maria Paoletti. The Niobids, Roman marbles of the 2nd century AD after a celebrated Greek group, found in Rome in 1583. Niobe with her younger daughter, first half of the 2nd century AD, Pentelic marble, h. 228 cm, 1914 no. 294.
+@listen: A myth about a mother's pride, statues that travelled from a Roman vineyard, and the night in 1993 when this room was hit.
+@brief: A storyteller who lets the myth carry itself, then drops to a quiet, respectful voice for 1993; no drama.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: https://www.uffizi.it/en/artworks/niobe-room (OFF, mod. 25 Oct 2024, texts Fabrizio Paolucci and Patrizia Naldini: thirteen sculptures found early in 1583 in the Tomassini vineyard near St John Lateran; Niobe, wife of Amphion, king of Thebes, insulted Latona, whose children Apollo and Artemis killed her fourteen children; Niobe turned to stone, her tears a fountain; Villa Medici gardens on the Pincian from the end of the 16th century; moved to Florence in 1770 by Peter Leopold; hall made in "lo Stanzone" of the Third Corridor by Zanobi del Rosso and Gaspare Maria Paoletti, inaugurated 20 Feb 1780; ceiling with gilded roses by Giuseppe del Moro, stuccoes by the Albertolli brothers) ; https://www.uffizi.it/en/artworks/niobe-with-her-younger-daughter (OFF, mod. 7 Oct 2024: Location "A39 - Niobe Room"; first half of the 2nd century AD; Pentelic marble; h. 228 cm; Niobe trying to protect her younger daughter; the best-preserved replica of a late Hellenistic composition; both arms restored) ; https://www.uffizi.it/en/artworks/wrestlers (OFF: found in 1583 in the Tommasini vineyard, near Porta San Giovanni) ; https://www.uffizi.it/en/artworks/documentation-damage-1993-bombing-georgofili (OFF, text Chiara Ulivi: 1.04 a.m., night of 26–27 May 1993; car filled with TNT in Via dei Georgofili; dead: Fabrizio, Angela, Caterina and Nadia Nencioni and the student Dario Capolicchio; 173 paintings and 56 sculptures damaged; the Sala della Niobe and the Corridoio di Ponente on the second floor damaged) ; AUDIT: "its decoration", not "vault"; "Roman marbles of the 2nd century AD, after a celebrated Greek group" ; Rubens canvases on the room page NOT mentioned (not confirmed on view)
+@lang: it
+@translation: from the fact-checked English Uffizi 036 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Niobe, regina di Tebe, aveva quattordici figli, e se ne vantava. Derise la dea Latona, che ne aveva solo due. I due figli di Latona erano Apollo e Artemide, gli arcieri. [pause] Uccisero tutti i figli di Niobe.
+
+È il momento che La circonda. Figli e figlie corrono, inciampano, cadono, e guardano in alto verso frecce invisibili. Il gruppo più alto è Niobe stessa. Stringe a sé la figlia minore, per proteggerla. Il mito racconta che poi Niobe fu trasformata in pietra, e le sue lacrime divennero una sorgente.
+
+Queste figure furono dissotterrate insieme all'inizio del 1583, in una vigna vicino a San Giovanni in Laterano, a Roma. Dallo stesso terreno vennero i Lottatori che ha visto nella Tribuna. Sono marmi romani del secondo secolo dopo Cristo, da un celebre gruppo greco. Per quasi duecento anni rimasero nei giardini di Villa Medici, a Roma. [pause] Poi il granduca Pietro Leopoldo li portò a Firenze, e per loro fu costruita questa sala. Fu inaugurata nel 1780, tutta bianca e oro, con rose dorate nel soffitto.
+
+[quietly] In questa sala c'è una seconda storia. All'una e quattro minuti di notte del 27 maggio 1993, un'auto piena di esplosivo saltò in aria in via dei Georgofili, la strada subito dietro quest'ala. Uccise cinque persone: quattro membri della famiglia Nencioni, Fabrizio, Angela, Nadia e Caterina, e uno studente, Dario Capolicchio. Nel museo furono danneggiati 173 dipinti e 56 sculture. Questa sala fu colpita duramente.
+
+[pause] Ciò che vede è stato restaurato. Si conceda un momento con Niobe e sua figlia. Una madre che protegge la sua bambina. E, appena fuori da queste mura, una famiglia che nessuno poté proteggere.
+
+Torni nel corridoio, giri a sinistra e lo percorra fino in fondo, oltre le sale chiuse dalla A40 alla A42, fino alla cima dello scalone Lanzi. Si fermi prima delle scale.

@@ -1,0 +1,26 @@
+@id: 055 · IT · Room D19 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D19
+@type: R
+@title: D19 · La porta del Corridoio Vasariano
+@where: Sala D19, «Ingresso Corridoio Vasariano», la sala stretta oltre la seconda porta della parete di fondo della sala D15, contando dalla sala D14. Cerchi il cartello del punto di ritrovo del Corridoio Vasariano. Resti nella sala: questa guida non attraversa la porta del Corridoio.
+@what: Room D19, the Vasari Corridor entrance and meeting point. The Vasari Corridor, 1565, about 750 metres, from the Uffizi over the Ponte Vecchio to the Pitti Palace and the Boboli Gardens.
+@listen: A private walkway built in five months for a Medici wedding, where the self-portraits once hid, and how it is visited today.
+@brief: Practical and warm, with a sense of the secret passage beyond the wall; clear about what is and is not part of this visit.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/notices/rules-for-accessing-the-vasari-corridor (OFF, mod. 11 Sep 2026: "The entrance to the Vasari Corridor is at the Room D19 Meeting Point on the first floor of the Uffizi"; reservation of the Corridor supplement required; one way only, Uffizi to Pitti; groups leave by the Buontalenti Grotto in the Boboli Garden; staff accompany groups but give no guided tours; prices and times NOT used) ; https://www.uffizi.it/en/corridoio-vasariano/history (OFF: commissioned by Cosimo I in 1565 for the wedding of Francesco and Joanna of Austria; "the construction works lasted just five months"; for the grand dukes to move safely between Pitti Palace and Palazzo Vecchio; 760 m; to the Buontalenti Grotto; bypasses the Mannelli Tower; overlooks Santa Felicita; 73 windows; self-portraits there until 2016) ; https://www.uffizi.it/en/news/vasari-corridor-reopens (OFF: closed since 2016, reopened 21 Dec 2024; returned to its plain original state; anti-seismic work; "more than seven hundred metres long"; fully accessible) ; https://www.uffizi.it/en/news/vasari-corridor-welcomes-historical-figures (OFF, 7 Jul 2025: more than fifty Roman portrait busts in the section above the Ponte Vecchio; in storage since 1993) ; https://www.uffizi.it/en/news/selfportraits_uffizi (OFF: self-portraits in the Corridor 1973–2016) ; length "about 750 metres": audit wording
+@lang: it
+@translation: from the fact-checked English Uffizi 055 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Da qualche parte oltre questa sala stretta, un corridoio esce dal museo, corre sopra le strade, attraversa un ponte ed entra in un giardino, sull'altra riva del fiume.
+
+Qui cominciano le visite al Corridoio Vasariano. Il duca Cosimo Primo lo ordinò nel 1565 per le nozze del figlio Francesco con Giovanna d'Austria, e Giorgio Vasari lo costruì in soli cinque mesi. È lungo circa 750 metri. Parte da Palazzo Vecchio e attraversa questo edificio. [pause] Poi passa l'Arno sopra il Ponte Vecchio e si affaccia sulla chiesa di Santa Felicita. Finisce presso la Grotta del Buontalenti, nel Giardino di Boboli, accanto a Palazzo Pitti. Così i granduchi andavano dalla loro residenza alla sede del governo senza mettere piede in strada.
+
+[pause] Ha già incontrato alcuni dei suoi vecchi inquilini. Dal 1973 al 2016, parte della collezione degli autoritratti fu esposta nel Corridoio, vista da pochissimi. Quell'anno il Corridoio chiuse. Ha riaperto nel dicembre 2024, riportato alle semplici pareti originali e alle sue settantatré finestre.
+
+Oggi, nel tratto sopra il Ponte Vecchio, ci sono più di cinquanta busti ritratto romani.
+
+[lightly] Il Corridoio si visita a parte, su prenotazione, in gruppi accompagnati che partono dal punto di ritrovo in questa sala. Si percorre in un solo senso, verso il Giardino di Boboli, quindi non si può tornare da lì al museo. [pause] Questa guida resta nelle gallerie.
+
+La sala D20, la Cappella veneziana, si apre su questa sala, vicino all'estremità verso il corridoio della galleria. Cerchi la Susanna e i vecchioni del Lotto. Non attraversi la porta del Corridoio Vasariano.

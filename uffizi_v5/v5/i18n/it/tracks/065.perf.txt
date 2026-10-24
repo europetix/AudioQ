@@ -1,0 +1,26 @@
+@id: 065 · IT · Room E6 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E6
+@type: R
+@title: E6 · Pittura a lume di candela
+@where: Sala E6, «Pittura a lume di candela». Cerchi l'ampia scena notturna, larga circa 1,3 metri, con la Vergine, Giuseppe appoggiato al bastone e due angeli chini su una mangiatoia, tutti illuminati dal Bambino appena nato.
+@what: Gerrit van Honthorst, Adoration of the Child, about 1619–1620, oil on canvas, 95.5 × 131 cm, inv. 1890 no. 739.
+@listen: Gerard of the Nights, and a Nativity where the only light comes from the baby.
+@brief: Hushed, as if the room were dark; warm and tender in the looking.
+@pace: slow
+@energy: 1→2→2
+@sources: https://www.uffizi.it/en/artworks/adoration_of_the_child_gherrit_van_honthorst (OFF: Gerrit Van Honthorst, Utrecht 1590–1656; 1619–1620 c.; oil on canvas 95.5 × 131; inv. 1890 no. 739; Location "E6. Painting by Candlelight"; Virgin, St Joseph leaning on his cane, two angels bending over the manger; "The divine light spread from the newborn's body softens each feature, in particular the facial ones of the Virgin"; Gherardo delle Notti, "Gerard of the nights", nocturnal lighting influenced by Caravaggio, met in Rome in the first decades of the 17th century; Cosimo II "bought some of his works in 1620", this one probably among them) ; https://www.uffizi.it/en/artworks/sacrifice-of-isaac (OFF: bought by Fairfax Murray as a work by Gherardo delle Notti). NOT used: the bomb-damaged Adoration of the Shepherds, because its room is not confirmed (O36; see notes for a held sentence).
+@lang: it
+@translation: from the fact-checked English Uffizi 065 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] In questa sala, la luce non entra da una finestra. Viene da dentro i quadri.
+
+Gerrit van Honthorst era un pittore olandese di Utrecht. All'inizio del diciassettesimo secolo andò a Roma, e lì vide cosa aveva fatto Caravaggio con il buio. Prese quella luce dura da riflettore e la rese più calda e intima: candele, lanterne, volti che brillano nella notte. [pause] Per questo gli italiani lo soprannominarono Gherardo delle Notti. [wry] Ha già incontrato il suo nome una volta, sul Caravaggio che un collezionista comprò credendolo suo.
+
+La sua Adorazione del Bambino fu dipinta intorno al 1619 o al 1620. Non c'è nessuna candela. [pause] La luce sgorga dal corpo del neonato. Addolcisce il volto della Vergine, chinata su di lui. Coglie Giuseppe, appoggiato al bastone, e due angeli chini sulla mangiatoia. Tutto ciò che è fuori da quel piccolo cerchio sprofonda nella notte.
+
+Il granduca Cosimo Secondo comprò alcune opere di Honthorst nel 1620, e questa era probabilmente una di quelle. [pause] Quindi forse arrivò ai Medici quasi appena dipinta.
+
+[warmly] Caravaggio usava il buio per scuotere. In questa sala serve a tenere le persone vicine.
+
+Sala successiva, la sala E7. Cerchi il ritratto di Rembrandt di un vecchio con la barba, assorto nei suoi pensieri su un fondo scuro.

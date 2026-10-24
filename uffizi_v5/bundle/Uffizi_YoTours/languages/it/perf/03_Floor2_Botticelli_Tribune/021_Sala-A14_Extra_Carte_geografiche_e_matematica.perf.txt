@@ -1,0 +1,24 @@
+@id: 021 · IT · Room A14 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A14
+@type: X
+@title: A14 · Extra · Carte geografiche e matematica
+@where: Sala A14, il Terrazzo delle Carte geografiche, accanto alla sala A13: pareti dipinte con grandi carte della Toscana e della sua costa, con i nomi dei luoghi in oro, sotto un soffitto scuro a cassettoni. La sala A15, il piccolo Stanzino delle Matematiche, sta tra la sala A13 e la Tribuna.
+@what: Room A14, Terrazzo delle Carte geografiche: maps painted by Ludovico Buti from Stefano Bonsignori's survey, coffered ceiling by Jacopo Zucchi brought from Rome, for Ferdinando I. Room A15, Stanzino delle Matematiche: ceiling frescoed by Giulio Parigi, 1599–1600; restored 2025; small bronzes in the niches. DATED: Willem Tetrode, Venus, bronze, on loan to Oxford until 11 Apr 2027.
+@listen: A cardinal who brought his ceiling home from Rome, and a small room that celebrated Archimedes.
+@brief: A light, curious aside between two big stops; a smile at the travelling ceiling.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/news/terrazzo-carte-geografiche-reopens (OFF news 16 Jun 2022: Vasari designed it as an open loggia with views over Florence; current form toward the end of the 16th century; Ferdinando I; cartographer Stefano Bonsignori's updated map of the Grand Duchy; maps painted by Ludovico Buti; Tuscany, its sea and islands; about 1,200 place names in gold; Jacopo Zucchi's coffered ceiling moved in its entirety from Rome, where Ferdinando had been a cardinal) ; https://www.uffizi.it/en/news/new-life-for-the-stanzino-delle-matematiche (OFF news 18 Apr 2025: Ferdinando I's collection of scientific instruments, begun by his father Cosimo I; Giulio Parigi frescoed the ceiling 1599–1600 with ancient and modern inventions, Pythagoras, Ptolemy, Euclid and especially Archimedes; "beside Buontalenti's Tribune", used as an antechamber and observation point onto it; restored about two months, new lighting on the ceiling; small bronzes in niches; Tetrode bronzes housed here) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF list 21 Oct 2026, via NOTICES: Tetrode Venere, A15, loan to the Ashmolean, Oxford, 8 Oct 2026 – 11 Apr 2027) ; map: A14 Room of the Maps, A15 Room of Mathematics
+@lang: it
+@translation: from the fact-checked English Uffizi 021 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Prima di diventare granduca, Ferdinando de' Medici era cardinale a Roma. Quando tornò a governare la Toscana, si portò dietro un intero soffitto.
+
+È il soffitto scuro a cassettoni sopra di Lei, di Jacopo Zucchi. Arrivò da Roma in un solo pezzo. Vasari aveva progettato questo spazio come una loggia aperta, affacciata sulla città. Ferdinando lo chiuse e lo trasformò in un ritratto del suo Stato. [pause] Ludovico Buti dipinse le carte, da un nuovo rilievo del cartografo Stefano Bonsignori. Cerchi la Toscana, il suo mare e le sue isole. Circa milleduecento nomi di luoghi sono scritti in oro.
+
+Qui accanto c'è lo Stanzino delle Matematiche, la sala A15. Lì Ferdinando teneva gli strumenti scientifici, collezione iniziata da suo padre Cosimo. Intorno al 1600 Giulio Parigi ne dipinse il soffitto. [pause] Vi mise invenzioni antiche e moderne, con Pitagora, Tolomeo, Euclide e soprattutto Archimede. [pause] La sala, restaurata nel 2025, ha nuove luci sul soffitto e piccoli bronzi nelle nicchie.
+
+Fino ad aprile 2027, uno di essi, la Venere in bronzo di Willem Tetrode, è in prestito all'Ashmolean Museum di Oxford.
+
+Torni nella sala A13 e attraversi la sala A15, il piccolo Stanzino delle Matematiche, fino alla Tribuna, la sala A16: pareti di velluto rosso e una cupola di madreperla.

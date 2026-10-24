@@ -1,0 +1,24 @@
+@id: 015 · IT · Room A10 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A10
+@type: R
+@title: Sale di Botticelli · Pollaiolo e Botticelli — Fortezza
+@where: Nella prima delle sale di Botticelli, la sala delle Virtù dipinte: una fila di donne sedute in alte cornici dorate lungo una parete. La Fortezza di Botticelli è la giovane con l'armatura sopra la veste e uno scettro in mano.
+@what: Sandro Botticelli, Fortitude, 1470, tempera grassa on poplar, 167 × 87 cm, inv. 1890 n. 1606; with Piero del Pollaiolo's Virtues for the Tribunale di Mercanzia, among them Charity, 1469–1470, tempera grassa on wood, 168 × 90.5 cm, inv. 1890 no. 499; also in the room, Portrait of a Lady, attributed to Piero del Pollaiolo, c. 1475–1480.
+@listen: Botticelli's first documented work, the commission he was never meant to get, and how the newly rehung Botticelli rooms run.
+@brief: An insider sharing a bit of office politics; wry, then clear orientation for the rooms ahead.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/fortitude (OFF: Location "A10. Pollaiolo e Botticelli", mod. 11 Sep 2026; 1470; tempera grassa on wood, poplar panel; 167 x 87 cm; inv. 1890 n. 1606; "wearing armour over her graceful dress and holding a ruler's sceptre"; "long and sinuous", "languid, melancholy expression"; other panels of the cycle on cypress; cycle commissioned from Piero del Pollaiolo in 1469 for the Tribunal Hall of Piazza della Signoria, Tribunale di Mercanzia, seven Virtues; commission through Tommaso Soderini, of the Medici faction; Pollaiolo's protests, "understandable", limited Botticelli to this figure; to the Uffizi in 1777; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/charity-piero-pollaiolo (OFF: Location A10; 1469-1470; 168 x 90.5 cm; young woman breastfeeding a child; flame "the emblem of God's love"; first Virtue painted, drawing on the reverse; mod. 12 Sep 2026) ; https://www.uffizi.it/en/artworks/portrait-of-a-lady-pollaiolo (OFF: Location "A10. Pollaiolo, Botticelli"; attributed to Piero; not used in speech) ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF, 16 Jun 2026: Virtues "reinstalled in their nineteenth-century gilded frames"; Fortitude Botticelli's first documented work (1470), commissioned by Tommaso Soderini; sequence opens with the Lama Adoration, Primavera and Venus face one another in jewel-box rooms linked by a passage, closes with the Calumny (1495), Savonarola's Florence) ; Antonio del Pollaiolo as goldsmith NOT used (not on any page read) ; no A9–A12 in speech (Botticelli rule, O7)
+@lang: it
+@translation: from the fact-checked English Uffizi 015 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Qui la storia di Botticelli comincia con un incarico che non doveva essere suo.
+
+Nel 1469 il Tribunale di Mercanzia, la corte dei mercanti di Firenze, ordinò sette Virtù per la sua sala in piazza della Signoria. L'incarico andò a Piero del Pollaiolo. Ma Tommaso Soderini, uno dei responsabili, passò un pannello al giovane Botticelli. Pollaiolo protestò, e Botticelli ebbe solo questa figura. Il museo definisce comprensibili quelle proteste.
+
+La trovi: la Fortezza, con l'armatura sopra la veste aggraziata e uno scettro da sovrano in mano. È datata 1470, la prima opera documentata di Botticelli. Il corpo è lungo e sinuoso, il volto languido e malinconico. Ritroverà quel volto. [pause] Perfino il legno è diverso. Le Virtù di Pollaiolo sono su cipresso, la sua su pioppo. Confronti la Carità di Pollaiolo: una giovane madre che allatta un bimbo, con una fiammella tra le dita.
+
+[pause] Le sale sono state appena riallestite. Le Virtù sono tornate nelle cornici dorate del diciannovesimo secolo. Dopo questa sala, i Botticelli seguono in ordine la sua vita, a partire dall'Adorazione dei Magi. La Primavera e la Nascita di Venere si fronteggiano oltre un passaggio, in due sale come scrigni. [pause] E la sequenza si chiude con la Calunnia, dalla Firenze di Savonarola.
+
+Nella sala successiva c'è un breve Extra sull'Adorazione dei Magi, il dipinto pieno di volti dei Medici. La prossima tappa principale è la Primavera: l'ampio e scuro boschetto di aranci con nove figure. Resti nelle sale di Botticelli.

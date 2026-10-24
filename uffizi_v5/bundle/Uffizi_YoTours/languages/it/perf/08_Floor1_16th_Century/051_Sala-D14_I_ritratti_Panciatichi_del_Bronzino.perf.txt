@@ -1,0 +1,28 @@
+@id: 051 · IT · Room D14 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D14
+@type: R
+@title: D14 · I ritratti Panciatichi del Bronzino
+@where: Sala D14, «Bronzino», sul corridoio. Trovi i due ritratti gemelli, alti circa un metro ciascuno: una donna in abito rosso scuro, seduta in una stanza buia, con una catena d'oro e un libro in grembo, e un uomo dalla barba rossa vestito di nero, in piedi a una balaustra davanti a edifici di città, con un cagnolino nero ai piedi.
+@what: Bronzino, Portrait of Lucrezia Panciatichi, 1541–1545, oil on wood, 102 × 83.2 cm, inv. 1890 n. 736; Portrait of Bartolomeo Panciatichi, 1541–1545, oil on wood, 104 × 85 cm, inv. 1890 n. 741; Holy Family with young Saint John (Madonna Panciatichi), 1539–1540, oil on wood, 116.9 × 89.7 cm, inv. 1890 n. 8377. On loan: Pygmalion and Galatea, Scuderie del Quirinale, Rome, until 7 Feb 2027 (cuttable sentence).
+@listen: A husband and wife painted by the duke's court painter, a love message on a gold chain, and the secret that put them on trial.
+@brief: Cool and observant like the portraits, with a curious lean-in for the inscription and a quiet turn at the heresy trial.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/ritratto-di-lucrezia-panciatichi (OFF: Location "D.14 Bronzino"; Bronzino, Florence 1503–1572; 1541–1545; oil on wood 102 × 83.2; Lucrezia di Gismondo Pucci, wife of the banker Bartolomeo Panciatichi; Savonarola-type chair with grotesque faces; red gown; gold chain inscribed "sans fin amour dure", read as love for her husband or religiously, as God's love, supported by the prayer book on her lap; the couple lived in Lyon, drew close to heterodox and spiritual movements, and were tried for heresy after returning to Florence) ; https://www.uffizi.it/en/artworks/portrait-of-bartolomeo-panciatichi-bronzino (OFF: Location "D14. Bronzino"; 1541–1545; oil on wood 104 × 85; born in France; boyhood at the court of Francis I, where he met religious reform movements; diplomat trusted by Cosimo; stands at a balustrade, city view, family arms on the first building on the right; red beard in two points; book and glove; "black molossian puppy" at bottom right) ; https://www.uffizi.it/en/artworks/madonna-panciatichi (OFF: Location "D.14 - Bronzino"; 1539–1540; Panciatichi arms on the banner at the left; sleeping Child, cloth like a shroud, stone like a tomb; Vasari: at least five works for Panciatichi) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF: Bronzino, Pigmalione e Galatea, D14, on loan to the Scuderie del Quirinale, Rome, 8 Oct 2026 – 7 Feb 2027) ; Bronzino court painter to Cosimo I: audit (general, OK)
+@lang: it
+@translation: from the fact-checked English Uffizi 051 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Al collo, Lucrezia Panciatichi porta un messaggio in francese, inserito nella sua catena d'oro: «sans fin amour dure». L'amore dura senza fine.
+
+Agnolo Bronzino, pittore di corte del duca Cosimo Primo, ritrasse lei e il marito Bartolomeo nei primi anni 1540, in coppia. Bartolomeo, di famiglia di mercanti, era nato in Francia e aveva passato l'infanzia alla corte del re francese. Divenne uno dei diplomatici di fiducia di Cosimo.
+
+Fino al 7 febbraio 2027, il Pigmalione e Galatea del Bronzino, di questa sala, è in prestito a una mostra a Roma.
+
+[pause] Li guardi tutti e due. Lucrezia siede immobile, in rosso scuro, illuminata così forte che la pelle sembra d'alabastro. Ha in grembo un libro di preghiere. Bartolomeo, in nero, si appoggia a una balaustra, la barba rossa pettinata in due punte. [pause] Ai suoi piedi siede un cagnolino nero.
+
+Il messaggio della catena si legge di solito come una dichiarazione d'amore al marito. Alcuni studiosi lo leggono come l'amore di Dio per l'umanità, e il libro di preghiere dà loro ragione. [quietly] È importante, perché la coppia aveva un segreto. A Lione si erano avvicinati ai nuovi movimenti di riforma religiosa. [pause] Tornati a Firenze, furono processati per eresia.
+
+Il Bronzino dipinse per Bartolomeo anche una Sacra Famiglia, in questa sala. Cerchi lo stemma Panciatichi sullo stendardo a sinistra.
+
+Sala successiva lungo il corridoio: la sala D15, la Sala delle Dinastie. Cerchi Eleonora di Toledo nel suo abito di broccato, con il figlioletto.

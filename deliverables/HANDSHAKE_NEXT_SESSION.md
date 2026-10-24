@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built; 24 Oct: Uffizi Gallery built, first guide with Italian)
 
 Paste this into the new session to start:
 
@@ -23,6 +23,7 @@ Paste this into the new session to start:
 | `reina_v5/` | Museo Reina Sofía, V5: 57 tracks (43 main + 14 Extras), EN + ES/FR/DE. Handshake: `REINA_V5_HANDSHAKE.md` |
 | `bernabeu_v5/` | Tour Bernabéu (stadium), V5: 28 tracks (23 main + 5 Extras), EN + ES/FR/DE, three cases. Handshake: `BERNABEU_V5_HANDSHAKE.md` |
 | `thyssen_v5/` | Museo Nacional Thyssen-Bornemisza, V5: 70 tracks (51 main + 19 Extras), EN + ES/FR/DE, three lengths with spoken bridges. Handshake: `THYSSEN_V5_HANDSHAKE.md` |
+| `uffizi_v5/` | Uffizi Gallery, V5: 67 tracks (53 main + 14 Extras), EN + ES/FR/DE/IT, three lengths with hand-written bridges. Handshake: `UFFIZI_V5_HANDSHAKE.md` |
 | `deliverables/` | Everything sent to the user: zips, route PDFs, scripts (.md), snapshots, image kit |
 
 The same structure is used inside each guide folder:
@@ -132,6 +133,9 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 - **Thyssen (23 Oct):** "same way" as Prado/Reina, old guide only for reference (rebuilt: 26 of 47 works it named were
   misplaced); three lengths (Full / Essential / Highlights) from one recording, with short spoken "next stop" bridges.
   The three lengths also apply to the Bernabéu (user: "based on time, not three different purchases").
+- **Uffizi (24 Oct):** "same rule" as the new guides: complete research, every placement on uffizi.it vs the October 2026
+  map; three lengths Highlights 75 / Essential 120 / Full 165 min; no Vasari Corridor section; **Italian added** (voice
+  Isabella); must beat the official guide and competitors.
 - **edge-tts (20 Oct):** Microsoft changed the service; edge-tts ≥ 7.3.0 is required (`python3 -m pip install --user --upgrade edge-tts`).
 - **Never complete CAPTCHAs / "verify you are human"** — the user clicks them. Never burst requests to a museum site (the Prado
   firewall blocked the user's browser once); one page at a time.
@@ -175,6 +179,9 @@ Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
 
 | Thyssen V5 | 70 tracks (51 main + 19 Extras), ~19,600 words, ~157 min; Essential 26 / Highlights 14 with bridges | done + independent review per language | 6-page phone PDF (overview + Level 2 ×2, Level 1 ×2, Level 0) | stand-in: EN all lengths ×2, FR all lengths | on-site checklist; dated lines 10 / 17 / 24 Jan 2027 (Rooms 19–21 and 53–56 reopen: re-route) |
 
+| Uffizi V5 | 67 tracks (53 main + 14 Extras), ~17,800 words, ~143 min; Essential 40 / Highlights 19 with hand-written bridges | done + independent review per language (ES/FR/DE/IT) | 7-page phone PDF (both floors) | stand-in: EN Highlights, ES all lengths, IT Highlights | on-site checklist (CRITICAL: Botticelli entry, A33, C6–C12, D9); loans back Jan–Apr 2027 |
+
+Uffizi detail: see `uffizi_v5/UFFIZI_V5_HANDSHAKE.md`.
 Thyssen detail: see `thyssen_v5/THYSSEN_V5_HANDSHAKE.md`.
 Reina Sofía detail: see `reina_v5/REINA_V5_HANDSHAKE.md`.
 Bernabéu detail: see `bernabeu_v5/BERNABEU_V5_HANDSHAKE.md`.

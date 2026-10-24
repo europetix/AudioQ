@@ -1,0 +1,22 @@
+@id: 028 · IT · Room A31 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A31
+@type: X
+@title: A31 · Extra · Luca Signorelli
+@where: Sala A31, «Luca Signorelli». Il grande tondo, largo circa un metro e un quarto: la Vergine in un'ampia veste rossa che legge un libro, con il Bambino e Giuseppe stretti accanto. Una seconda Madonna di Signorelli, con piccole figure nude sullo sfondo, è nella sala seguente, la sala A32.
+@what: Luca Signorelli, Holy Family, c. 1487–1488, oil on wood, diameter 124 cm, 1890 n. 1605, Room A31. Also: Luca Signorelli, Madonna with Child, c. 1490, oil on wood, 170 × 115 cm, 1890 n. 502, Room A32.
+@listen: How a painter from Cortona showed Michelangelo the way, twice.
+@brief: A quick, confident aside; curious, with a little conspiracy about what lies ahead.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-signorelli (OFF: Location "A31. Signorelli"; 1487–1488 c.; oil on wood; diameter 124 cm; Vasari: for the audience hall of the Capitani di Parte Guelfa; Virgin with pearly complexion in a wide red tunic, reading a book; Christ turns to Joseph; figures fill the space; "monumental rendering of the figures"; "served as a model for a whole generation of artists, from Michelangelo and his Tondo Doni") ; https://www.uffizi.it/en/artworks/signorelli-madonna-with-child (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A32. Signorelli"; 1490 c.; oil on wood; 170 × 115 cm; Vasari: for Lorenzo de' Medici, most likely Lorenzo di Pierfrancesco; nude figures in the background, perhaps mankind before the Law of Moses; compared with Michelangelo's Holy Family in the Uffizi; painted stone frame with prophets and a bust of John the Baptist) ; Signorelli from Cortona: AUDIT (general) ; route: map, A32 → A33 (WIP) → A34; ONSITE O13 ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF holy-family-signorelli re-read: "Vasari testifies that the painting in question was made for the Sala delle Udienze of the Capitani di Parte Guelfa"
+@lang: it
+@translation: from the fact-checked English Uffizi 028 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Tenga a mente questo dipinto. Fra qualche sala, vedrà che cosa insegnò a Michelangelo.
+
+Luca Signorelli veniva da Cortona, e dipingeva i corpi come uno scultore. Intorno al 1487 dipinse questa Sacra Famiglia tonda. Secondo Vasari era per la sala delle udienze della Parte Guelfa. [pause] Guardi come le tre figure riempiono il cerchio. La Vergine, nell'ampia veste rossa, legge un libro. Il Bambino si gira verso Giuseppe. Sono così solide che sembrano uscire dalla cornice. Il museo dice che questo tondo fece da modello a un'intera generazione di artisti, da Michelangelo e il suo Tondo Doni in poi.
+
+Poi passi nella sala seguente, la sala A32, per una seconda Madonna di Signorelli, del 1490 circa. [pause] Vasari dice che fu fatta per Lorenzo de' Medici, molto probabilmente Lorenzo di Pierfrancesco, il Medici che forse compare nell'Adorazione di Filippino. Guardi le piccole figure nude dietro la Vergine. Potrebbero rappresentare l'umanità prima della legge di Mosè.
+
+Dalla sala A32, se la porta della sala A33 è aperta, prosegua attraverso la sala A33 e la sala A34 fino al corridoio. [pause] Altrimenti torni indietro per la stessa strada, attraverso le sale A31, A29, A28, A27, A26 e A25. Nel corridoio giri a sinistra. La sala A35 è la porta subito dopo la sala A34, con il Battesimo di Cristo e i suoi due angeli inginocchiati.

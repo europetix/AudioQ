@@ -1,0 +1,28 @@
+@id: 045 · IT · Room D4 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D4
+@type: R
+@title: D4 · Correggio e Parmigianino
+@where: Sala D4, «Correggio e Parmigianino», una delle due sale in fondo alla sala D1. Si metta dove può vedere per intero la tavola più alta della sala, oltre due metri: una Vergine pallida e allungata con un grande Bambino addormentato in grembo, una folla di angeli da un lato e una sola colonna che si alza dall'altro.
+@what: Room D4. Parmigianino (Francesco Mazzola), Madonna and Child with Angels (Madonna with the long neck), 1534–1540, oil on panel, 216.5 × 132.5 cm, Palatina n. 230. On loan: Correggio, Adoration of the Christ Child, 1518–1520, oil on canvas, 81 × 77 cm, 1890 no. 1453, in Dresden until 10 Jan 2027 (cuttable sentence). Passing D1, "The 16th century in Lombardia", and D2, "Dosso Dossi and his circle".
+@listen: Two painters of Parma, one of them named after the city, and a grand prince who paid for an unfinished picture and called it worthy of Raphael.
+@brief: Orientation in a calm, friendly voice, then a small reveal about the prince who bought the picture; light and clear.
+@pace: medium
+@energy: 2→3
+@sources: map (OFF): D1 "The 16th century in Lombardia", D2 "Dosso Dossi and his circle", D3 "Work in progress", D4 "Correggio and Parmigianino" ; https://www.uffizi.it/en/artworks/parmigianino-madonna-long-neck (OFF: Location "D4. Correggio and Parmigianino"; Parmigianino, Parma 1503 – Casalmaggiore 1540; 1534–1540; oil on panel 216.5 × 132.5; unfinished at his death; entered the Medici collections in 1698, bought by Grand Prince Ferdinando, who praised it as "drawn as if by Raphael, finished with the soul but without pain and marvellously coloured") ; https://www.uffizi.it/en/artworks/correggio-virgin-adoring-child (OFF: Location "D4. Correggio and Parmigianino"; Correggio, Adoration of the Christ Child, 1518–1520; gift of Ferdinando Gonzaga to Cosimo II; Tribune until 1848) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF: Correggio, D4, on loan to the Gemäldegalerie Alte Meister, Dresden, 19 Sep 2026 – 10 Jan 2027) ; https://www.uffizi.it/en/artworks/correggio-rest-on-the-flight-into-egypt (OFF: Location "D8. Correggio - Parmigianino", an old room name; NOT mentioned, O22) ; Correggio's illusionistic domes in Parma: audit (general, OK)
+@lang: it
+@translation: from the fact-checked English Uffizi 045 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Parmigianino non è proprio un nome. È un indirizzo. Significa il piccolo di Parma.
+
+Ha attraversato la sala D1, pittura lombarda del sedicesimo secolo, e superato la D2, Dosso Dossi e la sua cerchia. Questa sala è di Parma, e di due grandi pittori. Antonio Allegri prese il nome dalla sua città natale, Correggio. A Parma fece le sue opere maggiori: cupole che sembrano aprirsi sul cielo. [pause] Francesco Mazzola, il più giovane, era nato a Parma, e la città divenne il suo nome.
+
+Fino al 10 gennaio 2027, la Madonna in adorazione di Gesù Bambino del Correggio, di solito qui, è in prestito a Dresda.
+
+[pause] Ora guardi la tavola più alta, la Madonna dal collo lungo del Parmigianino. È incompiuta.
+
+[curious] Si potrebbe pensare che nessuno volesse una pala incompiuta. Oltre un secolo e mezzo dopo, un principe Medici la volle. Il gran principe Ferdinando la comprò per la sua collezione. Nelle lettere scrisse che era disegnata come da Raffaello, finita con l'anima ma senza pena. [pause] Strana, fredda e incompiuta, è stata amata proprio per questo.
+
+Prima di avvicinarsi, resti un momento a distanza. Le figure si affollano da un lato, l'altro è quasi vuoto.
+
+Resti nella sala D4 per la Madonna dal collo lungo del Parmigianino, la tavola alta con una colonna solitaria accanto a lei.
