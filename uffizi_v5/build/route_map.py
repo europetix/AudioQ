@@ -74,9 +74,9 @@ if H_SET is None:
     H_SET = set(plan_list("Highlights"))
     m = re.search(r"Full order of Essential:\s*([\d\s]+)", plan_txt)
     E_SET = {int(x) for x in m.group(1).split()} if m else set(plan_list("Essential")) | H_SET
-LENGTHS = [("Full tour", len(NUMS), "about 2 h 45", f"all {len(NUMS) - len(XS)} main stops and {len(XS)} Extras"),
-           ("Essential", len(E_SET), "about 2 h", "the main line with fewer stops per room"),
-           ("Highlights", len(H_SET), "about 1 h 15", "the great names, on both floors")]
+LENGTHS = [("Full tour", len(NUMS), "about 2 h 45 (165 min)", f"all {len(NUMS) - len(XS)} main stops and {len(XS)} Extras"),
+           ("Essential", len(E_SET), "about 2 h (120 min)", "the main line with fewer stops per room"),
+           ("Highlights", len(H_SET), "about 1 h 15 (75 min)", "the great names, on both floors")]
 
 # ---------------------------------------------------------------- palette & sections
 PAPER, INK, MUTED, LINE, CTX = "#F6F1E7", "#1F1B17", "#776E62", "#D8CEBD", "#ECE5D7"
@@ -179,10 +179,10 @@ ROOM_KEY = {**{k: "BOT" for k in ("A9", "A10", "A11", "A12")}, "D28": "D27"}
 MAIN2 = [[(581, 112), (581, 233), (1206, 233), (1206, 356), (1146, 356), (1146, 408), (1146, 450), (1146, 490),
           (1146, 531), (1126, 571), (1092, 571), (1095, 528), (1095, 484), (1083, 424), (1083, 356), (533, 356), (533, 392)]]
 SPUR2 = [[(581, 233), (494, 233)], [(1206, 233), (1213, 170)], [(930, 356), (930, 444), (946, 462)]]
-MAIN1 = [[(456, 498), (456, 574), (397, 574), (397, 386), (1000, 386), (1012, 412), (1045, 452), (1080, 477),
+MAIN1 = [[(456, 498), (456, 574), (397, 574), (397, 386), (990, 386), (998, 418), (1045, 452), (1080, 477),
           (1110, 500), (1140, 561), (1150, 510), (1150, 450), (1130, 409), (1199, 386), (1199, 239), (900, 239), (900, 64)]]
 SPUR1 = [[(456, 574), (631, 572)], [(890, 386), (890, 437), (925, 437)], [(770, 386), (770, 465), (805, 465)],
-         [(822, 386), (832, 466)], [(1012, 412), (990, 460)], [(1045, 440), (1080, 440)]]
+         [(822, 386), (832, 466)], [(998, 418), (990, 460)], [(1045, 440), (1080, 440)]]
 
 STOPS = {}
 for n in NUMS:
@@ -374,10 +374,10 @@ def stop_list(first, last):
 F2_CROP, F1_CROP = (395, 1262, 96, 598), (365, 1262, 22, 628)
 def overview_svg():
     W = 182.0
-    s2, P2, (w2, h2) = plan_svg(F2, F2_CROP, MAIN2, SPUR2, 160, 72, overview=True,
+    s2, P2, (w2, h2) = plan_svg(F2, F2_CROP, MAIN2, SPUR2, 160, 64, overview=True,
         notes=[("GRAND", "START · up the Granducal staircase", "start", 30, -2), ((533, 420), "DOWN the Lanzi staircase\nONE floor only", "down", 34, 6)],
         texts=[(820, 300, "Uffizi courtyard", "yard"), (405, 300, "Piazza della Signoria ←", "side")])
-    s1, P1, (w1, h1) = plan_svg(F1, F1_CROP, MAIN1, SPUR1, 160, 80, overview=True,
+    s1, P1, (w1, h1) = plan_svg(F1, F1_CROP, MAIN1, SPUR1, 160, 72, overview=True,
         notes=[((922, 46), "OUT · Magliabechi staircase\ndown to the ground floor", "finish", 30, 3)],
         texts=[(760, 310, "Uffizi courtyard", "yard")])
     x2 = 18 + (W - 18 - w2) / 2; x1 = 18 + (W - 18 - w1) / 2; y2 = 1.5; y1 = y2 + h2 + 7
@@ -396,6 +396,8 @@ def overview_svg():
     o.append("</svg>")
     return "".join(o)
 
+KEYS = "".join(f'<span><i style="background:{c}"></i>{esc(t)} <b>{"–".join(str(x) for x in sorted({rng(sec)[0], rng(sec)[1]}))}</b></span>'
+               for sec, (t, _, c) in SECS.items() if sec not in ("Opening", "Closing") and rng(sec)[1] >= 0)
 pages = []
 lens = "".join(f'<div class="card"><div class="cnum" style="background:{NAVY}">{i}</div>'
                f'<div class="cbody"><div class="ct">{esc(n)}</div><div class="cs"><b>{esc(m)}</b> · {k} tracks</div><div class="cs2">{esc(d)}</div></div></div>'
@@ -406,7 +408,7 @@ pages.append(f'''<section class="page">
  <div class="how"><div><b>1</b> Rooms carry the museum's codes: A on the second floor, B to E on the first. Every stop on these plans sits in its room.</div>
  <div><b>2</b> Play the stops in number order. Hollow circles are short, optional Extras. Hatched rooms are closed or work in progress.</div>
  <div><b>3</b> Each stop ends by naming the next room. In Essential and Highlights a short line tells you the next stop.</div></div>
- <div class="ov">{overview_svg()}</div>
+ <div class="ov">{overview_svg()}<div class="keys">{KEYS}</div></div>
  <div class="warn"><b>At the Lanzi staircase go down one floor only.</b> The stairs go on to the street, and once you are out you cannot come back in to the cloakroom or the audioguide desk. The way out is at the end, by the Magliabechi staircase.</div>
  <div class="cards">{lens}</div>
  <footer>{esc(FOOTER)}</footer>
@@ -456,7 +458,7 @@ pages.append(floor_page("First floor · From Contini to Bronzino",
     svg, a, b, "FIRST FLOOR"))
 # page 5: first floor, Venice, the Verone, the 17th century and out
 a, b = rng(S1[9], S1[10], "Closing")
-svg, _, _ = plan_svg(F1, (812, 1262, 18, 596), MAIN1, SPUR1, 182, 142, sy=0.6, show=(a, b),
+svg, _, _ = plan_svg(F1, (812, 1262, 18, 596), MAIN1, SPUR1, 182, 162, sy=0.69, show=(a, b),
     notes=[((922, 46), "OUT · Magliabechi staircase\n(and lift) to the ground floor", "finish", 40, 2), ((955, 386), "from D15", "info", 2, -12)],
     texts=[(1060, 320, "Uffizi courtyard", "yard")])
 pages.append(floor_page("First floor · Venice, the Verone and Caravaggio",
@@ -497,7 +499,7 @@ for i, ch in enumerate(chunks):
     pages.append(f'''<section class="page">
  <header class="fh"><div class="brand">YO TOURS · UFFIZI GALLERY · ALL STOPS</div>
  <h2>The stops{" (continued)" if i else ""}</h2>
- {"" if i else f'<p class="sub">Every track in walking order, with its room, its listening time and the lengths it belongs to: Full ({LENGTHS[0][2]}), Essential ({LENGTHS[1][2]}), Highlights ({LENGTHS[2][2]}). The lengths include walking. Rooms may be rehung: if a work is not on the wall, a notice is usually in its place.</p>'}</header>
+ {"" if i else f'<p class="sub">Every track in walking order, with its room, its listening time and the lengths it belongs to: Full, {LENGTHS[0][2]}; Essential, {LENGTHS[1][2]}; Highlights, {LENGTHS[2][2]}. The lengths include walking. Rooms may be rehung: if a work is not on the wall, a notice is usually in its place.</p>'}</header>
  <table class="tbl">{head}{"".join(trs)}</table>
  <footer>{esc(FOOTER)}</footer>
 </section>''')
@@ -519,6 +521,9 @@ h2 {{ font: 700 19pt Lora, serif; margin: 2mm 0 1.2mm }}
 .ov svg {{ display: block; margin: 0 auto }}
 .fl {{ font: 700 9px Lora; fill: {INK}; text-anchor: middle }} .fls {{ font: 600 2.2px Inter; fill: {MUTED}; text-anchor: middle; letter-spacing: .1px }}
 .up {{ font: 700 2.5px Inter; fill: {GOLD} }}
+.keys {{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 1mm 3mm; padding: 2mm 4mm 0; font: 500 6.6pt Inter; color: {INK} }}
+.keys span {{ display: flex; align-items: center; gap: 1.3mm; white-space: nowrap }} .keys b {{ color: {MUTED}; font-weight: 600 }}
+.keys i {{ width: 3mm; height: 3mm; border-radius: .6mm; flex: none; opacity: .75 }}
 .warn {{ background: #fff; border: .3mm solid {GOLD}; border-left: 1.6mm solid {GOLD}; border-radius: 2.4mm; padding: 2.2mm 3mm; font: 400 8.2pt Inter; line-height: 1.38; margin-bottom: 3mm }}
 .cards {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 2.4mm }}
 .card {{ display: grid; grid-template-columns: 10mm 1fr; align-items: center; background: #fff; border: .3mm solid {LINE}; border-radius: 3mm; overflow: hidden; padding: 2mm 2mm 2mm 0 }}

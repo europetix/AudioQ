@@ -1,0 +1,24 @@
+@id: 018 · Room A12 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A12
+@type: W
+@title: A12 · Botticelli — The Birth of Venus
+@where: In the Botticelli rooms, in front of the Birth of Venus, facing the Primavera across the passage: a wide, pale canvas almost three metres across, the goddess standing on a scallop shell between the winds on the left and a woman holding out a flowered cloak on the right. A round Madonna hangs on each side.
+@what: Sandro Botticelli, Birth of Venus, c. 1485, tempera on canvas, 172.5 × 278.5 cm, Uffizi inv. 1890 n. 878; flanked by the Madonna of the Magnificat and the Madonna of the Pomegranate.
+@listen: Who is who around Venus, what Botticelli borrowed from Lorenzo the Magnificent's gem, and why the surface looks so pale.
+@brief: Quiet and close at first, as if she has just arrived; then clear and confident on the borrowings and the canvas, warm at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/birth-of-venus (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1485 ca.; tempera on canvas; 172.5 x 278.5 cm; inv. 1890 n. 878; Venus, goddess of love and beauty, arriving on Cyprus, born from sea spray, carried ashore by "Zephyr and, perhaps, Aura"; "a giant scallop shell"; young woman with a flower-covered cloak, "the Hora of spring" or one of the Graces; wind-blown roses; subject "perhaps suggested by the poet Agnolo Poliziano"; canvas "widely used throughout the 15th century for decorative works destined to noble houses"; Medici commission likely; first record Vasari 1550, "Villa of Castello"; orange trees a Medici emblem; Venus's modest pose from classical statues; the windblown pair from a Hellenistic gem owned by Lorenzo the Magnificent; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/botticelli-spring (OFF: Vasari in 1550 at Castello describes it alongside the Venus) ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: facing the Primavera; airtight display cases replacing the large protective glass; flanked by the Magnificat and Pomegranate Madonnas; the similar faces of the Virgin and Venus) ; "near-life-size nude goddess was still a rarity", Neoplatonic reading "often read through", pale matte surface: audit 015 safe wording ; cue: PLAN 018, ONSITE O7/O8
+---
+[quietly] She's only just arrived. The wind is still blowing, the roses are still falling, and her hair hasn't settled.
+
+This is Venus, goddess of love and beauty, coming ashore on the island of Cyprus. She was born from the foam of the sea, and here she stands on a giant scallop shell. On the left, the wind Zephyr blows her in, wrapped together with a companion, perhaps the breeze Aura. On the right, a young woman hurries to cover her with a cloak scattered with flowers. She may be the Hora of spring, or one of the Graces.
+
+A near-life-size nude goddess was still a rarity in Florence in the 1480s. The subject was perhaps suggested by the poet Agnolo Poliziano. The painting is often read through the Neoplatonic ideas of the Medici circle. [pause] But Botticelli also borrowed. Venus's modest pose comes from ancient statues. And the pair of winds is based on a Hellenistic carved gem that belonged to Lorenzo the Magnificent.
+
+Now notice the surface, pale and matte. This is painted on canvas, not on wood. That wasn't a daring first: canvas was widely used in fifteenth-century Florence for decorative pictures in noble houses, and it helps explain that soft, chalky look. Vasari saw it in 1550 in the Medici villa at Castello, beside the Primavera.
+
+[warmly] Now the two are together again, facing each other across the passage, in new airtight cases instead of the old glass screens. Either side of Venus hangs a round Madonna. Look from the goddess to the Virgin of the Magnificat, and compare the faces. They are strikingly alike.
+
+This room has a short Extra on the round Madonnas beside the Venus and on the Calumny. The next main stop is Room A13, through the doorway at the end of the Botticelli rooms: the big Flemish triptych with the kneeling family.
