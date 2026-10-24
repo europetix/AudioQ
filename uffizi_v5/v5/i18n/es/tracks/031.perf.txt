@@ -1,0 +1,30 @@
+@id: 031 · ES · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: W
+@title: A35 · Leonardo — Adoración de los Magos
+@where: Sala A35. Aléjese un poco de la gran tabla casi cuadrada, de casi dos metros y medio por lado, dibujada y pintada sobre todo en marrones: la Virgen y el Niño en el centro, una multitud que gira a su alrededor, ruinas con dos escaleras a la izquierda y jinetes luchando al fondo.
+@what: Leonardo da Vinci, Adoration of the Magi (San Donato in Scopeto), c. 1482, drawing in charcoal, watercolour ink and oil on wood, 244 × 240 cm, 1890 n. 1594; restored at the Opificio delle Pietre Dure, 2011–2017.
+@listen: The painting Leonardo walked away from, and what five years of cleaning found hidden in it.
+@brief: Absorbed and slightly hushed, a friend letting you in on how a genius worked; real excitement at the restoration.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/leonardo-adoration-of-the-magi (OFF, mod. 3 Apr 2024, text Daniela Parenti: Location A35; 1482 c.; charcoal, watercolour ink and oil on wood; 244 × 240 cm; July 1481 commission from the Augustinian monks for the high altar of San Donato in Scopeto, outside the walls, to be finished within 30 months; still working in Sept 1481; left for the court of Ludovico Sforza in Milan; the friars waited in vain and commissioned Filippino Lippi, finished 1496; semicircle round the Virgin and Child; kneeling Magi; "extremely complex composition, rich with figures"; ruined buildings, clashing knights on horseback; on the left a building with two flights of stairs; unfinished, some figures barely sketched; conservation 2012–2017) ; https://www.uffizi.it/en/events/leonardo-s-magic-cosmos-the-adoration-of-the-magi-restored (OFF: commissioned 1481; left for Milan 1482; to the Opificio laboratory in Nov 2011; glue, varnish and egg-white layers made the paint lift; cleaning removed only non-original layers; revealed a "typically Leonardesque" background landscape hidden by a pigmented varnish that made it look monochrome; composition developed directly on the panel; exhibition from 27 Mar 2017) ; Gentile's Adoration: Room A7 on this floor (map) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF artwork page re-read: "A document from July 1481 states that Leonardo da Vinci had received a commission", "undertook to finish within 30 months"; OFF event page re-read: the restoration showed that, "unusually for his day", Leonardo "developed the composition directly on the panel rather than on paper"
+@lang: es
+@translation: from the fact-checked English Uffizi 031 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un documento de julio de 1481 registra que Leonardo había aceptado este retablo, y prometió terminarlo en treinta meses. Nunca lo terminó.
+
+Era para el altar mayor de San Donato a Scopeto, un monasterio agustino extramuros. Aquel septiembre aún trabajaba en él. Después dejó Florencia por Milán y la corte de Ludovico Sforza. [pause] Los agustinos acabaron contratando a Filippino Lippi. Su Adoración está en la sala A28, atrás en esta misma planta.
+
+Lo que queda es carboncillo, tinta y óleo, directamente sobre la madera. La restauración mostró que, cosa rara entonces, compuso directamente sobre la tabla.
+
+Mire el centro. La Virgen y el Niño están sentados, tranquilos, y los reyes se arrodillan con sus regalos. Todos los demás se inclinan, alargan la mano, se giran asombrados. Compárelo con la procesión ordenada de Gentile da Fabriano, antes en esta planta. Aquí toda una multitud reacciona a la vez.
+
+Detrás, el cuadro hierve. A la izquierda, un edificio en ruinas con dos escaleras que suben a ninguna parte. A la derecha, chocan jinetes.
+
+[pause] Durante mucho tiempo pareció casi todo marrón. En 2011 fue a los restauradores del Opificio delle Pietre Dure. Restauradores anteriores lo habían cubierto de cola, barniz y clara de huevo, y esas capas arrancaban la pintura de la tabla. La limpieza quitó solo lo que no era original, y bajo un viejo barniz teñido apareció un paisaje, típico de Leonardo por su profundidad y atmósfera.
+
+[warmly] Volvió a los Uffizi en 2017. Mire ahora el fondo: los visitantes anteriores apenas lo distinguían.
+
+La sala A37 tiene un breve Extra sobre el Gabinete de los Mármoles. Para llegar, gire a la izquierda en el corredor y pase la sala A36, cerrada. Luego tome el pasillo corto a su izquierda hasta la sala A37, junto a la escalera Buontalenti, sin bajar. La siguiente parada principal es la sala A38, la siguiente puerta del corredor, con el Tondo Doni de Miguel Ángel.

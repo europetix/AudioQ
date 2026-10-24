@@ -1,0 +1,30 @@
+@id: 009 · ES · Room A5 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A5
+@type: W
+@title: A5 · Simone Martini y Lippo Memmi — Anunciación
+@where: En la sala A5, ante la gran Anunciación dorada, de casi dos metros: el ángel arrodillado a un lado, la Virgen que se retrae al otro, un jarrón de lirios entre ambos y palabras en oro en relieve sobre el fondo dorado, con un santo de pie en cada panel lateral.
+@what: Simone Martini and Lippo Memmi, Annunciation with St. Maxima and St. Ansanus, 1333, tempera on wood, gold background, 184 × 168 cm, Uffizi inv. 1890 nos. 451, 452, 453.
+@listen: A painting that writes a voice across the air, a frightened young woman inside the gold, and two brothers-in-law who signed it together.
+@brief: Intimate and curious, leaning in with a friend; a wry aside about the mislabelled saint, then a warm, quiet close.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/annunciation-with-st-margaret-and-st-ansanus (OFF: heading "Annunciation with St. Maxima and St. Ansanus"; Location "A5. Lorenzetti - Simone Martini"; 1333; tempera on wood, gold background; 184 x 168 cm; inv. 1890 nos. 451, 452, 453; signed "SYMON MARTINI ET LIPPUS MEMMIS DE SENIS ME PINCXERUNT ANNO DOMINI MCCCXXXIII"; for the altar of St Ansanus in the transept of Siena Cathedral; Gabriel with fluttering cloak and spread wings; "AVE GRATIA PLENA DOMINUS TECUM" as a raised inscription; Mary distressed, drawing back, wrapping herself in her cloak, had been reading; vase of lilies for purity; Ansanus, a patron saint of Siena, with the city's banner; the other a martyr, "possibly Maxima (Ansanus's mother) or Margaret", the inscription naming her Judith "is incorrect"; critics give "most of the conception and execution" to Simone; Simone a friend of Petrarch, worked for the Anjou and the Avignon popes; shared a workshop with Lippo and married his sister; text Daniela Parenti) ; side saints "often assigned to Lippo" and the olive "a sign of peace": audit 009 HEDGE wording ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: greeting "AVE GRATIA PLENA DOMINUS TECUM" (spoken in normal case, first three words only); "the inscription at her feet, which identifies her as Judith, is incorrect" (kept)
+@lang: es
+@translation: from the fact-checked English Uffizi 009 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Simone Martini no dejó el saludo del ángel a su imaginación. Escribió las palabras en el aire, en oro en relieve.
+
+El saludo empieza «Ave gratia plena»: salve, llena de gracia, el Señor está contigo. Gabriel acaba de llegar, con el manto aún agitado y las alas abiertas. Va de sus labios a la Virgen, y usted sigue con la vista el camino del sonido.
+
+[pause] Mire a María. No es una aceptación serena. Está turbada. Se echa hacia atrás y se envuelve en su manto azul oscuro. Aún tiene el libro en la mano. [pause] Es un respingo muy humano, en el momento más solemne del arte cristiano.
+
+Simone era una estrella. Amigo del poeta Petrarca, trabajó para reyes y para los papas de Aviñón. Pintó esto en 1333 para la catedral de Siena, con Lippo Memmi. Compartían taller, y Simone se casó con la hermana de Lippo. Los dos nombres están en la firma, pero la crítica da casi toda la obra a Simone. Los dos santos laterales suelen asignarse a Lippo.
+
+Uno es Ansano, patrono de Siena, con el estandarte de la ciudad. [wry] La otra es un enigma. Puede ser Máxima, su madre, o santa Margarita. El nombre escrito a sus pies dice Judit, y es un error.
+
+Entre el ángel y la Virgen hay un jarrón de lirios, por su pureza. El ángel lleva una rama de olivo, signo de paz.
+
+[warmly] Casi setecientos años después, el saludo sigue en el aire.
+
+La sala A6 tiene un breve Extra sobre la Florencia del siglo catorce: tras la puerta del fondo de esta sala, lejos del corredor. La siguiente parada principal es la sala A7: vuelva a la sala A4, la de las Maestà. En su lado opuesto, lejos del corredor, hay dos puertas juntas. Tome la del lado de la sala A5, hacia la sala A7, con una enorme procesión dorada de reyes.

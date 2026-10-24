@@ -1,0 +1,26 @@
+@id: 003 · ES · Room A3 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A3
+@type: R
+@title: A3 · Cruces pintadas
+@where: Sala A3, la primera sala de pintura, en el extremo corto del corredor este, hacia el Palazzo Vecchio, al otro lado del vestíbulo respecto al resto del recorrido. Busque la gran cruz pintada sobre fondo de oro, de casi tres metros de alto, con Cristo erguido y con los ojos abiertos, y pequeñas escenas a ambos lados.
+@what: Pisan painter, Painted cross, 12th century (dating "highly uncertain"), tempera on wood, gold ground, 276 × 231 cm, Uffizi inv. 1890 no. 432; with the other early gold-ground panels of the room.
+@listen: The oldest room in the gallery: what a twelfth-century cross was for, why it is painted on gold, and three things to carry into the next room.
+@brief: Hushed and simple, as in a dim church; reverent at the start, warmer at the hand-over to the Maestà room.
+@pace: medium-slow
+@energy: 2→2→3
+@sources: https://www.uffizi.it/en/artworks/cross_432 (OFF: Location "A3. Medieval Painting"; "Pisan painter", possibly "a master active in the mid-12th century in Pisa"; 12th century, "dating highly uncertain"; tempera on wood, gold background; 276 x 231 cm; inv. 1890 no. 432; Christ "triumphant over death, with eyes open and head raised", the type common in Italy until the early 13th century; Passion scenes including the washing of the feet, the capture, the flagellation, the way to Calvary; the descent from the cross, the entombment and the descent into limbo; read top to bottom and left to right; "the origin of the Cross is unknown"; text Daniela Parenti) ; gold as divine light, Byzantine inheritance, frontal figures: interpretive, audit 003 OK (general) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): cross_432 re-read: the scenes run on to "the descent into limbo of Christ resurrected"
+@lang: es
+@translation: from the fact-checked English Uffizi 003 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Esta es la sala más antigua de la galería. Su gran cruz tiene más de ochocientos años, y nadie sabe quién la pintó, ni para qué iglesia.
+
+El museo llama a su autor simplemente un pintor pisano, quizá activo a mediados del siglo doce, aunque incluso esa fecha es incierta. Pisa era entonces una rica potencia marítima.
+
+Mire a Cristo. Tiene los ojos abiertos y la cabeza alzada. No sufre. Triunfa sobre la muerte, que era la forma habitual de pintarlo en Italia hasta principios del siglo trece. [pause] A su alrededor, pequeñas escenas cuentan la Pasión y lo que vino después. Van del lavatorio de los pies de los discípulos al descenso de Cristo al limbo. Se leen de arriba abajo y de izquierda a derecha, como una tira de viñetas.
+
+[pause] Y todo descansa sobre oro. Aquí el oro no es decoración. Representa la luz divina, un cielo que nunca cambia, una idea heredada de la pintura bizantina del Oriente cristiano. Las figuras le miran de frente. Nadie tiene peso. Nadie está en un espacio donde usted pudiera entrar. [pause] Eran imágenes para rezar, que brillaban a la luz de las velas.
+
+[warmly] Quédese con tres cosas: oro plano, figuras frontales, ningún peso. En la sala siguiente, tres enormes Vírgenes empiezan a desarmar esa tradición.
+
+Vuelva al corredor y pase de largo el vestíbulo por el que entró. La siguiente puerta del mismo lado es la sala A4, la gran sala con tres Vírgenes gigantes sobre oro.

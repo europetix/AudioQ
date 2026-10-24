@@ -1,0 +1,26 @@
+@id: 027 · ES · Room A28 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A28
+@type: R
+@title: A28 · Filippino Lippi y Piero di Cosimo
+@where: Sala A28, «Filippino Lippi, Piero di Cosimo». La gran Adoración de los Magos, casi cuadrada, de unos dos metros y medio de alto, llena de reyes y jinetes. Cerca, una tabla larga y baja con un monstruo marino, un héroe en el cielo y una multitud en la orilla.
+@what: Filippino Lippi, Adoration of the Magi, 1496, tempera grassa on wood, 258 × 243 cm, 1890 n. 1566. Piero di Cosimo, Perseus frees Andromeda, 1510–1515, tempera grassa on wood, 70 × 120 cm, 1890 no. 1536.
+@listen: The painting that replaced Leonardo's unfinished one, a Medici in yellow with an astrolabe, and the strangest painter in Florence.
+@brief: Brisk and amused, a friend enjoying two very different characters.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/adoration-of-the-magi-filippino-lippi (OFF, text Daniela Parenti: Location "A28 - Filippino Lippi, Piero di Cosimo"; 1496; tempera grassa on wood; 258 × 243 cm; for the main altar of San Donato a Scopeto, commissioned by the Augustinian friars "in place of the one commissioned from Leonardo da Vinci several years before, but never completed"; signed on the back "FILIPPUS ME PINSIT DE LIPI FLORENTINUS ADDI 29 DI MARZO 1496"; kneeling man on the left in a fur-lined yellow robe with an astrolabe thought to be Pier Francesco de' Medici; his sons Lorenzo and Giovanni perhaps the crowned king and the young blond man with the vase) ; https://www.uffizi.it/en/artworks/perseus-frees-andromeda (OFF: A28; 1510–1515; tempera grassa on wood; 70 × 120 cm; probably for the nuptial room of Filippo Strozzi the younger and Clarice de' Medici; from Ovid; "Perseus is shown twice more in the painting"; improbable musical instruments) ; https://www.uffizi.it/en/events/leonardo-s-magic-cosmos-the-adoration-of-the-magi-restored (OFF: same canons, Filippino 1496) ; AUDIT (general): Filippino son of Fra Filippo and Botticelli's pupil; Vasari on Piero di Cosimo's eggs, thunder and untidy rooms (framed as Vasari) ; Leonardo's panel in A35 (map) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: signed "ADDI 29 DI MARZO 1496"; no commission year; "the Augustinian friars"
+@lang: es
+@translation: from the fact-checked English Uffizi 027 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Filippino Lippi creció rodeado de pintura. Su padre era el fraile pintor Filippo Lippi, y su maestro fue Botticelli.
+
+En 1496, Filippino terminó esta Adoración de los Magos para los agustinos de San Donato a Scopeto. Tenían un motivo para pedírsela. Años antes, habían encargado el mismo tema a Leonardo da Vinci, que lo empezó y nunca lo terminó. [pause] La tabla abandonada de Leonardo está en la sala A35, unas salas más adelante en esta planta.
+
+Mire al hombre arrodillado a la izquierda, con túnica amarilla forrada de piel y un astrolabio. Se cree que es Pierfrancesco de Médici. Quizá también estén sus hijos, tal vez el rey coronado y el joven rubio del jarrón. Uno de esos hijos, Lorenzo, es el Médici cuyos herederos tenían la Primavera en su casa.
+
+[curious] Ahora, la tabla larga y baja de Piero di Cosimo. Cuenta cómo Perseo libera a Andrómeda de un monstruo marino, y Perseo aparece tres veces. A ver si encuentra las tres, y fíjese en los insólitos instrumentos musicales de la orilla. [pause] Probablemente se hizo para una cámara nupcial.
+
+[wry] Vasari describe a Piero como un excéntrico. Cocía los huevos por tandas, le aterraban los truenos, y nunca dejaba que nadie ordenara sus habitaciones.
+
+La sala A31 tiene un breve Extra sobre Signorelli: siga por la sala A29 y entre en la sala A31. La siguiente parada principal es la sala A35, Leonardo. Si se salta el Extra, vuelva por las salas A27, A26 y A25 al corredor, gire a la izquierda, pase la puerta de la sala A34 y entre en la sala A35.

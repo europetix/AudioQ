@@ -1,0 +1,24 @@
+@id: 011 · ES · Room A7 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A7
+@type: R
+@title: A7 · Lorenzo Monaco — Coronación de la Virgen
+@where: Sala A7, «Lorenzo Monaco, Gentile da Fabriano». La Coronación de Lorenzo Monaco es el enorme retablo dorado, de cuatro metros y medio de alto, con Cristo coronando a la Virgen sobre un arco iris rayado y estrellado, y dos santos de blanco arrodillados a los lados.
+@what: Lorenzo Monaco, Coronation of the Virgin, 1414 (inscribed February 1413, Florentine calendar), tempera on wood, gold background, 450 × 350 cm, inv. 1890 n. 885. Also in the room: Gentile da Fabriano, Adoration of the Magi, 1423.
+@listen: What International Gothic means, a monk who painted for his own abbey, and a date that is a year out.
+@brief: Light and easy orientation, a small amused aside on the calendar, then admiring the line of a former miniaturist.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/coronation-of-the-virgin (OFF: Location "A7. Lorenzo Monaco - Gentile da Fabriano"; Lorenzo Monaco, documented 1391-1422; 1414, the inscription reading February 1413 in the Florentine calendar; tempera on wood, gold background; 450 x 350 cm; inv. 1890 n. 885; commissioned by Zanobi di Cecco del Frasca for the high altar of the church of the Camaldolese abbey of Santa Maria degli Angeli in Florence, painted by Don Lorenzo, a monk of the abbey; Christ crowns the Virgin before angels and numerous saints; St Benedict and St Romuald in the white robes of the Camaldolese kneel at the sides; "starry rainbow", the celestial spheres; Annunciation in the pinnacles, God the Father at the centre; predella with Nativity, Adoration of the Magi and four scenes of St Benedict; strong background as a miniaturist, slender figures, linear clothing; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/adoration-of-the-magi (OFF: Location A7) ; International Gothic shared by Paris, Prague, Milan and Florence around 1400, "Lorenzo the Monk": audit 010 OK (general) ; Florentine year beginning 25 March: general
+@lang: es
+@translation: from the fact-checked English Uffizi 011 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Hacia 1400, pintores de París a Praga, Milán y Florencia compartían un estilo cortesano. Lo llamamos gótico internacional: telas ricas, figuras ondulantes, colores de joya y amor por el detalle en sí mismo.
+
+En Florencia, una de sus grandes voces fue un monje. Lorenzo Monaco significa, simplemente, Lorenzo el Monje. Pertenecía a la abadía camaldulense de Santa Maria degli Angeli, aquí en Florencia. Pintó esta Coronación para el altar mayor de su propia abadía. La inscripción dice febrero de 1413. [amused] Pero Florencia empezaba el año a finales de marzo, así que, en nuestro calendario, es febrero de 1414.
+
+[pause] Es enorme, de cuatro metros y medio. Cristo corona a su madre, en lo alto de un arco iris estrellado que representa las esferas celestes. Miran ángeles y multitudes de santos. A los lados se arrodillan san Benito y san Romualdo, con el hábito blanco de la orden de Lorenzo. Se había formado como miniaturista, y se nota en las figuras esbeltas y las líneas largas y limpias de las túnicas. [pause] Abajo, pequeñas escenas muestran la Natividad, la Adoración de los Magos y la vida de san Benito.
+
+La otra gran pintura de esta sala es una de las obras más espectaculares de todo el gótico internacional.
+
+Quédese en la sala A7 para la Adoración de los Magos de Gentile da Fabriano, donde al rey más joven le quitan las espuelas de oro.

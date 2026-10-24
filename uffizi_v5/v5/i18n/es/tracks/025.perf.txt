@@ -1,0 +1,30 @@
+@id: 025 · ES · Room A25 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A25
+@type: W
+@title: A25 · Piero della Francesca — Los duques de Urbino
+@where: Sala A25. Colóquese ante las dos tablitas en un solo marco, cada una del tamaño de un libro grande: una mujer pálida a la izquierda y un hombre con gorro rojo a la derecha, frente a frente, en estricto perfil, con un mismo paisaje amplio detrás de ambos.
+@what: Piero della Francesca, The Duke and Duchess of Urbino Federico da Montefeltro and Battista Sforza, c. 1473–1475, oil on wood, 47 × 33 cm each, 1890 nn. 1615, 3342; reverses painted with triumphs, the Virtues and Latin inscriptions.
+@listen: Why the most famous couple in the Renaissance face each other without a flicker of feeling, and why she is so pale.
+@brief: Close and unhurried, a friend who knows the sad part of the story; quiet at the turn, warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/the-duke-and-duchess-of-urbino-federico-da-montefeltro-and-battista-sforza (OFF, mod. 11 Sep 2026, text Daniela Parenti: Location "A25. Domenico Veneziano, Piero della Francesca"; 1473–1475 c.; oil on wood; 47 × 33 cm each; profile "ensured a good likeness and a faithful representation of facial details" without the sitters' feelings; Battista 1446–1472, her pallor "could also allude to her untimely death in 1472"; continuous landscape of the Marches they ruled; reverse: carried in triumph on ancient wagons with the Christian virtues, Latin inscriptions; once a diptych, now in a modern frame) ; https://www.uffizi.it/en/artworks/il-corridoio-di-mezzogiorno (OFF: Vittoria della Rovere's dowry brought della Rovere works by Piero della Francesca, Raphael and Titian to Florence) ; AUDIT Brit-urb, SH-urb (SEC): Federico had lost an eye and part of the bridge of his nose (tournament only traditional, not used); portrait very probably posthumous ; reverse visibility: ONSITE O14, so spoken only as "if you can see the backs"
+@lang: es
+@translation: from the fact-checked English Uffizi 025 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Estos dos llevan más de quinientos años frente a frente, y ninguno ha mostrado ni un atisbo de emoción. Esa era la idea.
+
+Piero della Francesca pintó a Federico da Montefeltro, duque de Urbino, y a su esposa, Battista Sforza, hacia 1473. Los puso en estricto perfil, como los gobernantes de las monedas antiguas. El museo explica por qué. El perfil da un parecido fiel del rostro, sin dejar ver los sentimientos del retratado. [pause] No son personas privadas. Son un Estado.
+
+Había también un motivo práctico. Federico perdió un ojo y parte del puente de la nariz. Por eso aparece por su lado bueno. Y mire esa nariz, con su marcada hendidura arriba. Piero deja cada lunar y cada arruga en su sitio.
+
+[quietly] Ahora mire a Battista, a la izquierda. Vea qué pálida está, casi blanca contra el cielo. Murió en 1472, a los veintiséis años. Así que este retrato es muy probablemente póstumo. El museo sugiere que su palidez podría aludir a ello. [pause] Una esposa recordada, frente a su marido para siempre.
+
+Detrás corre un paisaje continuo: colinas y ríos de las Marcas, las tierras que gobernaban. Fíjese cómo las colinas lejanas se funden en una bruma azul. Piero era también matemático, y medía hasta el aire.
+
+Si puede ver el reverso de las tablas, muestran a la pareja en triunfo sobre carros antiguos, con las Virtudes y versos latinos en su honor.
+
+[warmly] La pareja llegó a Florencia mucho después, en la dote de Vittoria della Rovere, al casarse con un Médici.
+
+Cruce la puerta a la sala siguiente, la sala A26, con Cosimo Rosselli, y siga recto hasta la sala A27: la serena Piedad de Perugino.

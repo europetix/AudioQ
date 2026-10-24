@@ -1,0 +1,26 @@
+@id: 032 · ES · Room A37 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A37
+@type: X
+@title: A37 · Extra · El Gabinete de los Mármoles
+@where: Sala A37, el Gabinete de los Mármoles, junto a lo alto de la escalera Buontalenti: una sala de rojo intenso con relieves antiguos empotrados en las paredes. Busque al niño de mármol, de algo menos de un metro, sentado en una roca, sacándose una espina del pie.
+@what: Boy with Thorn, also known as Spinario, 1st century BC, Greek marble with additions in Carrara marble, h. 84 cm. Room rearranged in July 2024: twelve Roman reliefs back in their original places, and other ancient marbles.
+@listen: A terrace that became a sculpture room, and a boy who has been busy with his foot for two thousand years.
+@brief: Light and amused, a short breather between Leonardo and Michelangelo.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/lo-spinario-or-boy-with-thorn (OFF, mod. 29 Aug 2024, text Cristiana Barandoni: Location "A37. The Cabinet of Ancient Marbles"; 1st century BC; type probably created in Greece in the 3rd century BC; Greek marble with Carrara additions; h. 84 cm; sits on a rock removing a thorn, probably from treading grapes at the harvest; the bronze seen in Rome from the late 12th century, "or perhaps even an original", now in the Capitoline Museums) ; https://www.uffizi.it/en/news/the-uffizi-galleries-bring-the-hall-of-ancient-marbles-back-to-life (OFF news 31 Jul 2024: a terrace built in 1658 under Ferdinando II; covered in 1825 for new exhibition space; two cabinets, Egyptian and classical; "Illuminated by a large skylight"; twelve reliefs back in their original positions; Spinario one of seven known copies; Menander, one of three known copies; green basalt Doryphoros torso, "perhaps the best replica of Polykleitos' Doryphoros"; deep red walls) ; Menander and the basalt torso named in ONE cuttable sentence: ONSITE O15 (name only what is seen) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF news re-read: "twelve reliefs, almost all of Roman era"; terrace "built in 1658"; space "created in 1825"
+@lang: es
+@translation: from the fact-checked English Uffizi 032 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Este niño lleva unos dos mil años intentando sacarse una espina del pie.
+
+La sala nació como una terraza abierta, construida en 1658, y en 1825 se techó para dar cabida a más antigüedades. En el verano de 2024, el museo la reordenó de nuevo y devolvió a su lugar original en las paredes doce relieves antiguos, casi todos romanos.
+
+El Spinario es un mármol romano del siglo primero antes de Cristo, que copia una idea griega. Está sentado en una roca, tirando de la planta del pie. El museo sugiere que la espina se le clavó pisando uva en la vendimia. [pause] Se conocen siete copias. La versión más famosa, quizá incluso el original, es un bronce de los Museos Capitolinos de Roma, admirado allí desde la Edad Media.
+
+[lightly] Fíjese qué momento tan corriente. Ni dios, ni héroe: solo un niño y un pie dolorido.
+
+La reordenación de 2024 también sacó a la luz una pequeña figura sentada del poeta griego Menandro, una de las tres únicas copias conocidas. Y un torso de basalto verde oscuro, quizá la mejor copia de un famoso portador de lanza del griego Policleto.
+
+Vuelva al corredor y gire a la izquierda. La siguiente puerta es la sala A38: busque el cuadro redondo de la Sagrada Familia en su marco dorado tallado. No tome la escalera Buontalenti.

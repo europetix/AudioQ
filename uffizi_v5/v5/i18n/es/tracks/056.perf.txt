@@ -1,0 +1,26 @@
+@id: 056 · ES · Room D20 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D20
+@type: R
+@title: D20 · La Capilla Veneciana y El Greco
+@where: Sala D20, la Capilla Veneciana, la pequeña sala junto a la estrecha sala del Corredor Vasariano, la D19. Busque una tabla pequeña, de unos dos tercios de metro de alto, con una mujer arrodillada que se baña en un jardín rodeado de una muralla, con palabras en latín en filacterias pintadas. El retrato de un eclesiástico con una carta, de Tiziano, está en la misma sala.
+@what: Lorenzo Lotto, Susanna and the Elders, 1517, oil on panel, 66 × 50 cm, inv. 1890 n. 9491. Also: Titian, Portrait of Bishop of Bologna, Ludovico Beccadelli, 1552, oil on canvas, 117.5 × 97 cm (D20), and El Greco, Saint John the Evangelist and Saint Francis, 1600, oil on canvas, 110 × 86.5 cm (D21).
+@listen: A painting where the people talk, a portrait that dates itself, and El Greco's cup of poison, as you cross from Florentine line into Venetian colour.
+@brief: A friend pointing out small, surprising things at the start of a new chapter; curious, lightly amused by the dragon, unhurried.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/susanna-and-the-elders (OFF: Lotto, Venice 1480 – Loreto 1557; 1517; oil on panel 66 × 50; inv. 1890 n. 9491; Location "Venetian Small Chapel" = map D20; signed "LOTUS PICTOR 1517", first Bergamo stay 1514–25; Daniel 13; elders threaten to accuse her of adultery; Daniel questions them separately and proves her innocence; Susanna's scroll "Satius duco mori, quam peccare"; landscape bordered by a fortified wall; kneeling pose echoes the Crouching Venus) ; https://www.uffizi.it/en/artworks/titian-portrait-of-bishop-of-bologna (OFF: 1552; oil on canvas 117.5 × 97; inv. 1890 n. 1457; Location "D19. Venetian Small Chapel" = map D20; writer, diplomat, biographer of humanists; tutored Ferdinand, son of Cosimo I; holds a letter documenting date and origin; inscription names the artist; painted in Venice in 1552) ; https://www.uffizi.it/en/artworks/el-greco-saints (OFF: Candia 1541 – Toledo 1614; 1600; oil on canvas 110 × 86.5; inv. 1890 no. 9493; Location "D20. El Greco" = map D21; re-read 24 Oct 2026: "carried out his apprenticeship in his birth land" (Crete), Venice 1566, Rome "four years later", Toledo 1577; elongated bodies and suffering faces; John's golden chalice with a winged dragon, Golden Legend: dared to drink a cup of poison; lead-grey clouds; Venice 1566, Rome four years later, Toledo 1577; Tintoretto's light, Titian's colour; bought by the Uffizi in 1976, no Contini mention) ; disegno/colore and "rediscovered in the late 19th and 20th centuries": audit wording (general)
+@lang: es
+@translation: from the fact-checked English Uffizi 056 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dos viejos, una joven esposa sola en su jardín, y una amenaza. Lorenzo Lotto pintó la historia en pequeño, y dejó hablar a sus personajes.
+
+Es Susana y los viejos, firmado y fechado en 1517. En el relato bíblico, dos viejos sorprenden a Susana mientras se baña. Cede, le dicen, o te acusaremos de adulterio. Busque las palabras en las filacterias pintadas. En la suya, en latín, Susana responde que prefiere morir a pecar. [pause] Al final, el joven Daniel interroga a los hombres por separado y los desenmascara.
+
+[pause] Ha entrado en Venecia. Florencia basaba sus cuadros en el dibujo, la línea y el diseño, lo que llamaba disegno. Venecia, en el colore, el color y la luz aplicados al óleo.
+
+En la misma sala, Tiziano retrató en Venecia al eclesiástico Ludovico Beccadelli, que había sido preceptor de un hijo del duque Cosme Primero. La carta en su mano registra cuándo y dónde se hizo el retrato.
+
+En la sala D21, la estrecha sala siguiente, cuelga el San Juan Evangelista y san Francisco de El Greco, pintado en 1600. Nacido en Creta, donde se formó, trabajó en Venecia y Roma, y se estableció en Toledo. [lightly] Busque la copa dorada en la mano de Juan. De ella trepa un dragoncito alado. Según la leyenda, lo retaron a beber veneno, y el veneno salió de la copa como un dragón. [pause] Sus figuras alargadas y tensas solo se redescubrieron a finales del siglo diecinueve y en el veinte.
+
+Atraviese la sala D21 y la pequeña antesala, la D22, hasta la sala D23. Busque la Venus de Urbino de Tiziano, el desnudo reclinado con un perrito dormido a sus pies.

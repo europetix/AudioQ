@@ -1,0 +1,26 @@
+@id: 062 · ES · Room E4 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E4
+@type: W
+@title: E4 · Caravaggio — Medusa
+@where: Sala E4, «Caravaggio – La Medusa». Busque el escudo redondo pintado con la cabeza cortada de Medusa, la boca abierta en un grito, serpientes por cabellos y sangre que brota del cuello.
+@what: Caravaggio, Medusa, 1595–1598, oil on canvas applied to a wooden shield (a parade shield), inv. 1890 no. 1351. No uffizi.it artwork page; placement from the October 2026 map, "E4 Caravaggio The Medusa".
+@listen: A shield that sat unattributed in the Medici armoury, rode on a wooden horse, and catches the instant between life and death.
+@brief: A friend with a good story and a slightly macabre sense of humour; vivid in the looking, conspiratorial at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: OFF map https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (E4 "Caravaggio The Medusa", E4 highlight picture) ; SEC (Uffizi partner text) https://artsandculture.google.com/asset/medusa/FAFPqU12CekL8Q?hl=en (Medusa, 1595–1598, oil on canvas, "scudo da parata"; "In 1598 Cardinal Francesco Maria del Monte gave this painted shield to the Grand Duke Ferdinando I"; "painted on canvas applied to a wooden shield"; put in the Uffizi Armory "without any attribution"; "in 1631 it was registered as a work by Caravaggio"; "part of a suit of Persian Armor worn by a mannequin seated on a wooden horse"; Athena's shield used Medusa's power to petrify; image used by the Medici for their military power; "the passing moment between life and death") ; https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: del Monte as Caravaggio's early patron; Medusa inv. 1890 no. 1351) ; self-portrait tradition: hedged as "a long tradition", not sourced (PLAN, audit) ; Perseus and the mirror: general mythology. The curve of the shield: PLAN and audit say convex; the GAC text says only "wooden shield" (see notes).
+@lang: es
+@translation: from the fact-checked English Uffizi 062 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Durante más de treinta años, esto no fue un Caravaggio famoso. Era una pieza de desfile en la armería de los Médici, y nadie había anotado quién la pintó.
+
+En 1598, el cardenal Francesco Maria del Monte, protector de Caravaggio en Roma, regaló el escudo pintado al gran duque Fernando Primero. Entró en la armería de los Uffizi sin ninguna atribución. Solo en 1631 se registró como obra de Caravaggio. [pause] Y se expuso como parte de una armadura persa, puesta a un maniquí montado en un caballo de madera. [amused] Imagine entrar en la armería y encontrarse con ese jinete, con esta cabeza en el brazo.
+
+Fue un regalo bien elegido. Medusa era la Gorgona cuya mirada convertía en piedra. El héroe Perseo le cortó la cabeza, y la diosa Atenea la puso en su escudo, para que su poder paralizara a sus enemigos. A los Médici les gustaba la imagen como signo de su propia fuerza militar.
+
+[pause] Ahora mire la cara. Caravaggio ha pintado el instante entre la vida y la muerte. La cabeza ya está cortada, y aún vive lo bastante para horrorizarse. La boca, abierta de par en par. Los ojos, fijos. [pause] La sangre brota del cuello, y las serpientes de su pelo aún se retuercen. La pintó sobre un lienzo tensado en un escudo de madera, y la cabeza descansa sobre la curva.
+
+[conspiratorial] Según una larga tradición, la cara es la del propio Caravaggio, estudiada en un espejo. Nadie puede probarlo. Pero recuerde cómo sobrevivió Perseo. Nunca miró a Medusa directamente, solo su reflejo en su escudo bruñido. Un pintor que observa su propio grito en un espejo y lo pone en un escudo sería una broma muy de Caravaggio.
+
+Quédese en la sala E4 para la Judit decapitando a Holofernes de Artemisia Gentileschi: dos mujeres sujetan a un general sobre una cama.

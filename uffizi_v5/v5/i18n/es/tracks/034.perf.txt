@@ -1,0 +1,30 @@
+@id: 034 · ES · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Miguel Ángel — El Tondo Doni
+@where: Sala A38. Colóquese ante el cuadro redondo, de 120 centímetros de diámetro, en su profundo marco tallado y dorado: María girándose para tomar al Niño de manos de José, en colores duros y brillantes, con una fila de jóvenes desnudos tras un muro bajo.
+@what: Michelangelo Buonarroti, Holy Family, known as the "Doni Tondo", about 1505–1507 (page: 1505–1506), tempera grassa on wood, diameter 120 cm, 1890 n. 1456; frame carved by Francesco del Tasso, probably to Michelangelo's design.
+@listen: A sculptor's painting for a merchant's family, the ancient statue hidden in it, and the bride's emblem hidden in the frame.
+@brief: Energetic and admiring, a friend who loves this picture; conspiratorial about the half-moons, then a quiet landing.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo (OFF, mod. 6 Mar 2024: Location "A38. Raphael and Michelangelo"; 1505–1506; tempera grassa on wood; diameter 120 cm; for the Florentine merchant Agnolo Doni, married to Maddalena Strozzi in 1504; marriage and birth of the first child celebrated with works by Raphael and Michelangelo; "the only finished panel painting by the artist to survive"; earlier marble tondi, the Pitti and Taddei Tondi; conceived like a sculpture; pyramidal group like a dome, Child passed between Joseph and Mary; Hellenistic marble sculpture; the Laocoön, excavated in January 1506, appears among the nudes, dating it to the time of Maria Doni's birth in September 1507; nudes as pagan humanity; the wall as original sin; the infant St John beyond the wall suggests a christening; frame probably designed by Michelangelo and carved by Francesco del Tasso, head of Christ and four prophets among grotesques; Strozzi half-moons hidden at the top left) ; https://www.uffizi.it/en/artworks/signorelli-madonna-with-child (OFF: nude background figures compared with Michelangelo's Holy Family) ; AUDIT: "about 1505–07"; drop "original frame"
+@lang: es
+@translation: from the fact-checked English Uffizi 034 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Miguel Ángel tallaba el mármol. Cuando aceptaba pintar, pintaba como un escultor. Aquí se ve, en su única pintura sobre tabla terminada que se conserva.
+
+Se hizo para el rico mercader florentino Agnolo Doni, casado con Maddalena Strozzi en 1504. El museo lo relaciona con su boda y el nacimiento de su primer hijo. Miguel Ángel ya había tallado relieves redondos de la Virgen en mármol. Ahora, en pintura.
+
+Mire a la familia. María se arrodilla delante y se gira por encima del hombro. El Niño pasa entre ella y José, y los tres cuerpos encajan como una cúpula. Su brazo desnudo es fuerte como el de un atleta. [pause] Los colores son duros y brillantes, como piedra pulida.
+
+[pause] Luego mire detrás. Un muro bajo cruza el cuadro, y más allá se recuestan jóvenes desnudos. Parecen representar el mundo pagano, antes de Cristo. El muro quizá represente el pecado original. Entre ambos mundos está el pequeño Juan el Bautista, quizá un indicio de que el cuadro celebraba un bautizo. La Virgen de Signorelli de la sala A32 también tiene desnudos al fondo. Miguel Ángel la había estudiado.
+
+Uno de esos desnudos da una fecha. El célebre Laocoonte antiguo se desenterró en Roma en enero de 1506, y su eco aparece entre estas figuras. Encaja con el nacimiento de Maria, la hija de la pareja, en septiembre de 1507.
+
+[conspiratorial] El marco. Probablemente lo diseñó el propio Miguel Ángel, y lo talló Francesco del Tasso. La cabeza de Cristo y cuatro profetas asoman entre las hojas. Y arriba a la izquierda, escondidas en la talla, hay medias lunas, emblema de los Strozzi, la familia de la novia.
+
+[warmly] La pintura de un escultor para los años más felices de una familia.
+
+Quédese en la sala A38 para la Virgen del jilguero de Rafael: el pequeño san Juan tiende un pajarito al Niño.

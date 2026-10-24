@@ -1,0 +1,28 @@
+@id: 063 · ES · Room E4 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E4
+@type: W
+@title: E4 · Artemisia Gentileschi — Judit decapitando a Holofernes
+@where: Sala E4. Colóquese ante el alto lienzo oscuro, de casi un metro y medio, de dos mujeres que sujetan a un hombre sobre una cama mientras una le clava una espada en el cuello, y la sangre corre por las sábanas blancas.
+@what: Artemisia Gentileschi, Judith Beheading Holofernes, about 1620, oil on canvas, 146.5 × 108 cm, inv. 1890 n. 1567 (page "D29" in the old numbering; the map puts Artemisia in E4).
+@listen: A painting that shocked Florence, the woman who painted it, and the fee she needed Galileo to collect.
+@brief: Serious and steady, never sensational; respect for Artemisia, one dry note about the unpaid bill.
+@pace: medium-slow
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/judith-beheading-holofernes (OFF: Artemisia Gentileschi, Rome 1593 – Naples 1652/53; 1620 c.; oil on canvas 146.5 × 108; inv. 1890 n. 1567; Location "D29. Caravaggio and Artemisia" = map E4; Judith, a young Jewish woman of Bethulia, kills the Assyrian general Holofernes to free Israel; "The Lord has struck him down by the hand of a woman"; the drunk general on the bed, head grabbed by the hair, sword in his neck; "blood spurting so profusely as to stain Judith's breast"; completed in Rome after seven years in Florence; payment agreed with Cosimo II, who "died in 1621 shortly after the great canvas was completed"; needed "the help of her friend Galileo Galilei"; strong reactions on its arrival in Florence; "denied the honor of being exhibited in the Gallery"; first woman admitted to the Academy of Art and Design in Florence) ; SEC https://www.nationalgallery.org.uk/exhibitions/past/artemisia/artemisia-in-her-own-words (trial of 1612; Agostino Tassi convicted of her rape; tortured to test her statement with the sibille, "cords wrapped around the fingers and pulled tight"; quote "I have told the truth and I always will, because it is true and I am here to confirm it wherever necessary") ; her father Orazio Gentileschi a painter, born in Pisa and working in Rome: audit + general reference (independent audit 24 Oct 2026: not "a Roman painter") ; the quoted line attributed in speech to the Book of Judith, as the page presents it.
+@lang: es
+@translation: from the fact-checked English Uffizi 063 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Cuando este cuadro llegó a Florencia, causó revuelo. Según el museo, se le negó el honor de exponerse en la Galería. Hoy cuelga en su corazón.
+
+La historia es de la Biblia. Judit, una joven judía, salva a su ciudad sitiada entrando en el campamento enemigo. Tras un banquete, el general asirio Holofernes cae en un sueño de borracho, y ella lo mata. Como dice el libro de Judit: «El Señor lo ha abatido por mano de una mujer».
+
+[pause] Mire cómo lo escenifica Artemisia Gentileschi. No es una heroína elegante con una espada limpia. El general está tendido en la cama, agarrado del pelo. Judit tensa los brazos y hunde la hoja en su cuello. Su criada se echa sobre él para sujetarlo. [pause] Y la sangre sale con tanta fuerza que mancha el vestido de la propia Judit.
+
+Artemisia era hija del pintor Orazio Gentileschi, que trabajaba en Roma. En 1612, un tribunal de Roma condenó a Agostino Tassi, un pintor que trabajaba con su padre, por violarla. Durante el juicio, a ella misma la torturaron para comprobar su palabra, con cordones atados a los dedos y apretados. Mantuvo su relato: «He dicho la verdad y siempre la diré, porque es verdad». [pause] Mucha gente ve esa prueba en este cuadro. Quizá. Pero fue su pintura, no su sufrimiento, lo que le dio fama.
+
+Pasó siete años en Florencia, y fue la primera mujer admitida en la Academia de Dibujo de la ciudad. Acordó el precio de este lienzo con el gran duque Cosme Segundo. Él murió en 1621, poco después de terminarse, y el pago se atascó. [wry] Para cobrar, necesitó la ayuda de su amigo Galileo Galilei.
+
+[warmly] Dos mujeres trabajando juntas, y una pintora que se negó a apartar la mirada. Florencia no estaba preparada para colgarlo. El mundo se ha puesto al día.
+
+La siguiente sala es la sala E5: el Baco de Caravaggio, el joven dios que ofrece una copa de vino.

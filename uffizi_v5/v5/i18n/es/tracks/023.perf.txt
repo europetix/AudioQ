@@ -1,0 +1,26 @@
+@id: 023 · ES · Room A23 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A23
+@type: R
+@title: A23 · El corredor sur
+@where: El corto corredor sur, la sala A23, en el extremo del edificio que da al río. Acérquese a los altos ventanales: abajo está el Arno, con el Ponte Vecchio a lo largo del río. En medio del corredor hay una loba de pórfido rojo.
+@what: The South Corridor (or Second Corridor), ceiling frescoes 1696–1699 for Cosimo III; ancient sculpture including the so-called Dying Alexander (a Greek original head, 2nd century BC), a porphyry she-wolf (2nd century AD) and a Muse signed by Atticus of Aphrodisias (late 4th century AD). View of the Arno, the Ponte Vecchio and the Vasari Corridor.
+@listen: The view of the river and the bridge, the Medici's private passage over it, and the night in 1966 when the river came into the city.
+@brief: A pause by the window with a friend; easy and warm, then quiet for the flood.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/il-corridoio-di-mezzogiorno (OFF, mod. 10 Jun 2026: "the second and shortest corridor"; "overlooks the Arno River and Ponte Vecchio"; ceiling 1696–1699 for Cosimo III, religious subjects; "head actually depicting a Triton or another sea divinity", the so-called Dying Alexander, a rare Greek original, 2nd c. BC; porphyry she-wolf at the centre, 2nd c. AD; Muse signed by Atticus of Aphrodisias, late 4th c. AD) ; https://www.uffizi.it/en/corridoio-vasariano (OFF: built by Vasari in 1565; about 750 m; connects the Uffizi with Pitti and the Boboli Gardens over the Ponte Vecchio) ; https://www.uffizi.it/en/artworks/1966-flood-damages-to-art-in-florence (OFF, text Chiara Ulivi: Arno overflowed about 2.30 a.m. on 4 Nov 1966; Superintendent with curators and attendants went to the Uffizi very early; works moved to the upper floors; paintings removed from the Vasari Corridor, which seemed "on the edge of collapse together with Ponte Vecchio") ; AUDIT VT-ponte (SEC, audit fix): goldsmiths since 1593, when Ferdinando I moved out the butchers ; AUDIT: Palazzo Vecchio – Uffizi – Ponte Vecchio – Pitti ; rooms A17–A21 closed: notice 15 Sep 2026 and map ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): MAP legend: A17-A20 "Renaissance beyond the Alps", A21 "15th Century in Siena"; "It held" cut (unsourced)
+@lang: es
+@translation: from the fact-checked English Uffizi 023 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Este es el corredor más corto de la galería, y el de mejores vistas. Dedique un minuto a las ventanas.
+
+Abajo tiene el Arno, y un poco más allá, el Ponte Vecchio, con sus tiendecitas colgadas sobre el agua. Desde 1593, cuando el gran duque Fernando echó a los carniceros, esas tiendas son de orfebres. [pause] Mire ahora lo alto del puente. Esa larga hilera de ventanas es el Corredor Vasariano, el pasaje privado y elevado de los Médici. Une el Palazzo Vecchio, este edificio, el puente y el Palacio Pitti, en la otra orilla.
+
+[quietly] De madrugada, el 4 de noviembre de 1966, el Arno se desbordó e inundó la ciudad. Muy temprano esa mañana, el director de los museos vino aquí con conservadores y vigilantes. Subieron obras a las plantas más altas. [pause] Y sacaron los cuadros del Corredor Vasariano, que, en palabras del museo, parecía «a punto de derrumbarse junto con el Ponte Vecchio».
+
+La loba de piedra roja del centro es de pórfido. Y la cabeza de mármol llamada Alejandro moribundo es en realidad un dios marino, uno de los raros originales griegos del museo.
+
+Las salas A17 a A21, que pasó de largo, suelen mostrar pintura de más allá de los Alpes y de la Siena del siglo quince. Están cerradas mientras se reorganizan.
+
+Entre en el largo corredor oeste. La primera puerta a su izquierda, en el lado opuesto a las ventanas del patio, es la sala A25: busque un retablo de cuatro santos bajo una logia rosa y verde.

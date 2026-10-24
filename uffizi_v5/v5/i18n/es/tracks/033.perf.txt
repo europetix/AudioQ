@@ -1,0 +1,26 @@
+@id: 033 · ES · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: R
+@title: A38 · Rafael y Miguel Ángel
+@where: Sala A38, «Rafael y Miguel Ángel». La Sagrada Familia redonda de Miguel Ángel, en su marco dorado tallado, es la obra que debe buscar primero. La Virgen del jilguero de Rafael y su gran lienzo del joven san Juan en una cueva, con piel de leopardo, están en la misma sala, junto con dos tablitas de Fra Bartolomeo.
+@what: Overview of Room A38. Raphael, St John the Baptist as a Boy, c. 1518, oil on canvas, 163 × 147 cm. Fra Bartolomeo, Adoration of the Child and Presentation in the Temple, c. 1497, oil on wood, about 20 × 9 cm each, 1890 no. 1477. Also the Doni Tondo (034) and the Madonna of the Goldfinch (035).
+@listen: Two rivals in one room, and two smaller works that are easy to miss.
+@brief: A friend arriving at the summit and enjoying the rivalry; brisk, then pointing out the small things.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo (OFF: A38; "the only finished panel painting by the artist to survive") ; https://www.uffizi.it/en/artworks/raphael-st-john (OFF, mod. 2 Apr 2024: Location "A38. Raphael and Michelangelo"; 1518 c., perhaps 1517; oil on canvas; 163 × 147 cm; Vasari: commissioned by Cardinal Pompeo Colonna; some critics see Giulio Romano and Penni; boy in a cave in a leopard skin; scroll with "DEI"; left hand points to a radiant cross tied to an oak trunk; spring on the left) ; https://www.uffizi.it/en/artworks/adoration-of-the-child-fra-bartolomeo (OFF, text Anna Bisceglia: Location "A38. Raphael and Michelangelo"; 1497 ca.; oil on wood; 20.3 × 8.9 and 18.3 × 9.4 cm; part of a small tabernacle; closed, a monochrome Annunciation; owned and probably commissioned by Piero del Pugliese; Vasari: between the panels a marble Madonna by Donatello, now identified as the Dudley Madonna in the V&A, London) ; https://www.uffizi.it/en/artworks/portraits-doni-raffaello (OFF, mod. 3 Sep 2026: Location field says Pitti, body says Uffizi since 2018: NOT placed in this room in speech, ONSITE O16) ; https://www.uffizi.it/en/artworks/raphael-self-portrait (via FLOOR2: C1) ; AUDIT: born 1475 and 1483, "they were rivals" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF adoration-of-the-child-fra-bartolomeo re-read: Vasari's Donatello marble Madonna "now identified as the so-called Dudley Madonna, preserved in the Victoria and Albert Museum in London"
+@lang: es
+@translation: from the fact-checked English Uffizi 033 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Miguel Ángel nació en 1475, y Rafael, ocho años después. En Florencia fueron rivales. Aquí cuelgan a pocos pasos el uno del otro.
+
+Miguel Ángel siempre se consideró ante todo escultor. La Sagrada Familia redonda de esta sala, el Tondo Doni, es su única pintura sobre tabla terminada que se conserva. Rafael, al contrario, era sereno, elegante, un brillante asimilador de todo lo que veía. [pause] Su Virgen del jilguero también está aquí. Cada obra tiene su parada.
+
+Antes, dos obras que la gente pasa de largo. El gran lienzo de un niño en una cueva es el San Juan Bautista de Rafael, de hacia 1518, hecho en Roma. Según Vasari, lo encargó el cardenal Pompeo Colonna. Juan, sobre una piel de leopardo, señala una cruz luminosa atada a un roble. Algunos críticos ven también la mano de sus alumnos.
+
+[lightly] Y busque dos tablitas, cada una de la altura de su mano. Fra Bartolomeo las pintó hacia 1497 como puertas de un pequeño tabernáculo, con la Adoración del Niño y la Presentación en el Templo. Vasari dice que entre ellas había una Virgen de mármol de Donatello. [pause] Hoy se identifica con un relieve del Victoria and Albert Museum de Londres.
+
+El autorretrato de Rafael le espera abajo, en la primera sala de autorretratos.
+
+Quédese en la sala A38 para el Tondo Doni, la Sagrada Familia redonda con desnudos tras un muro bajo.

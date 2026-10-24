@@ -1,0 +1,28 @@
+@id: 029 · ES · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: R
+@title: A35 · Leonardo: el Bautismo
+@where: Sala A35, «Leonardo Da Vinci». Colóquese ante la alta tabla, de casi dos metros, con Juan el Bautista derramando agua sobre Cristo, de pie en un río poco profundo. Dos ángeles se arrodillan en la orilla, a la izquierda.
+@what: Andrea del Verrocchio and Leonardo da Vinci, The Baptism of Christ, c. 1470–1475, tempera and oil on panel, 177 × 151 cm, 1890 n. 8358.
+@listen: A workshop picture in which a young assistant may have painted far more than one angel.
+@brief: A friend playing detective at the panel; curious, a little wry about Vasari's legend.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/verrocchio-leonardo-baptism-of-christ (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A35. Leonardo da Vinci"; 1470–1475 c.; tempera and oil on panel; 177 × 151 cm; from the Vallombrosan monastery of San Salvi, Florence; moved 1730 to Santa Verdiana, Florentine Galleries 1810, Uffizi since 1919; Vasari: Leonardo painted the left angel "with such skill that he upset the older Verrocchio"; current studies give him more: the riparian landscape, the golden light and the figure of Christ; studio head designed the work and left parts to pupils; an older unnamed painter perhaps also worked on it, given the less developed hands of God and the dove; inscription ECCE AGNUS DEI) ; AUDIT: Leonardo about 18 to 23 (born 1452); Vasari's claim that Verrocchio gave up painting, framed as "a legend, but a telling one"
+@lang: es
+@translation: from the fact-checked English Uffizi 029 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En un taller florentino activo, el maestro diseñaba el cuadro y los ayudantes pintaban partes. Este cuadro es famoso porque uno de esos ayudantes era Leonardo da Vinci.
+
+El maestro era Andrea del Verrocchio, escultor, orfebre y pintor. Entre 1470 y 1475, aproximadamente, su taller pintó este Bautismo, que procede del monasterio valombrosano de San Salvi, en Florencia. Leonardo tenía entonces entre dieciocho y veintitrés años.
+
+Vasari cuenta la historia. Dice que Leonardo pintó el ángel del extremo izquierdo tan bien que molestó al veterano Verrocchio. Y afirma que Verrocchio se sintió tan superado que dejó la pintura para siempre. [wry] Es una leyenda, pero reveladora.
+
+Busque ese ángel. Está arrodillado, medio de espaldas, mirando hacia arriba, con el rostro suave y lleno de luz. Ahora mire el ángel de al lado, de cara más redonda y sencilla. [pause] La diferencia salta a la vista.
+
+[pause] Hoy, los expertos creen que Leonardo hizo más que el ángel. El museo le atribuye quizá el paisaje del río al fondo, la luz dorada, e incluso el cuerpo de Cristo. Y quizá intervino también un pintor de más edad. Mire las manos más torpes de Dios, arriba, y la paloma.
+
+Así que no es el cuadro de un solo artista. Es un taller sorprendido en plena faena, con un genio creciendo dentro.
+
+Quédese en la sala A35 para la Anunciación de Leonardo, la tabla larga y baja con el ángel arrodillado en un jardín.
