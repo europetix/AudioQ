@@ -89,7 +89,7 @@ All URLs are https://www.uffizi.it/en/artworks/… and all were read directly (O
 | 026 | Filippino Lippi, *Adoration of the Magi* | "1496" | Tempera grassa on wood; 1890 n. 1566 | /adoration-of-the-magi-filippino-lippi | "A28 - Filippino Lippi, Piero di Cosimo" | A28 | SAME | The old guide says Leonardo's Adoration is "two rooms along". It is not: it is in A35, about seven rooms on. |
 | 026 | Piero di Cosimo, *Perseus frees Andromeda* | "1510-1515" | Tempera grassa on wood; 1890 no. 1536 | /perseus-frees-andromeda | "A28. Filippino Lippi - Piero di Cosimo" | A28 | SAME | |
 | 026 (ref.) | Filippo Lippi, *Madonna with Child and two Angels* ("Lippina") | "1460 - 1465 c." | Tempera on wood; 1890 n. 1598 | /lippi-madonna-and-child-with-two-angels | "C6" (mod. 28 Jan 2026) | "downstairs" | **CHECK** | It is on the first floor, as the old guide says. But the map marks C6–C11 "Work in progress", so it may not be visible. |
-| 027 | Luca Signorelli, *Holy Family* (tondo, 124 cm diameter) | "1487 - 1488 c." | Oil on wood; 1890 n. 1605 | /holy-family-signorelli | "A31. Signorelli" | A31 | SAME | A second Signorelli tondo, *Madonna with Child* (1890 n. 502), is in A32. |
+| 027 | Luca Signorelli, *Holy Family* (tondo, 124 cm diameter) | "1487 - 1488 c." | Oil on wood; 1890 n. 1605 | /holy-family-signorelli | "A31. Signorelli" | A31 | SAME | A second Signorelli, *Madonna with Child* (1890 n. 502, 170 × 115 cm, not a tondo: erratum 24 Oct 2026), is in A32. |
 | 028 | Andrea del Verrocchio and Leonardo da Vinci, *The Baptism of Christ* | "1470 - 1475 c." | Tempera and oil on panel; 1890 n. 8358 | /verrocchio-leonardo-baptism-of-christ | "A35. Leonardo da Vinci" | A35 | SAME | |
 | 028–029 | Leonardo da Vinci, *Annunciation* | "1472 c." | Oil on wood; 1890 n. 1618 | /annunciation | "A35. Leonardo da Vinci" | A35 | SAME | The page gives "Oil on wood"; the old guide's "oil and tempera" is wrong. |
 | 028, 030 | Leonardo da Vinci, *Adoration of the Magi (San Donato in Scopeto)* | "1482 c." | Charcoal, watercolour ink and oil on wood; 1890 n. 1594 | /leonardo-adoration-of-the-magi | "A35. Leonardo da Vinci" | A35 | SAME | The old text says "Gentile's gorgeous procession upstairs". That is wrong: A7 is on this floor. |
@@ -153,7 +153,7 @@ Map titles come from the map legend. "Light" means the plan shades the room pale
 | A29 Lorenzo di Credi | open | none found | |
 | A30 Piero di Cosimo | open | none found | |
 | A31 Luca Signorelli | open | Signorelli *Holy Family* tondo (OFF) | |
-| A32 Luca Signorelli | open | Signorelli *Madonna with Child* tondo (c.1490) (OFF) | |
+| A32 Luca Signorelli | open | Signorelli *Madonna with Child* (c.1490, 170 × 115 cm, not a tondo: erratum 24 Oct 2026) (OFF) | |
 | A33 Work in progress | WIP, light | – | |
 | A34 Botticelli, Perugino | open | **no artwork page found** (three searches) | CHECK on site. |
 | A35 Leonardo Da Vinci | open | Leonardo *Annunciation*; Leonardo *Adoration of the Magi*; Verrocchio and Leonardo *Baptism of Christ* (all OFF) | All three of the old guide's works are here. |

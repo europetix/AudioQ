@@ -3,7 +3,7 @@
 @room: Room D28
 @type: R
 @title: D28 · The Verone
-@where: Room D28, the Verone: the long covered loggia at the river end of the first floor, with very pale green walls and a row of statues. Look for the statue of the old Silenus cradling the infant Bacchus in his arms.
+@where: Room D28, the Verone: the long covered loggia at the river end of the first floor, with a row of statues (the pale green walls are from the museum's 2023 page; the Verone is in the 2026 works programme, so its look and opening are an on-site check, O35). Look for the statue of the old Silenus cradling the infant Bacchus in his arms.
 @what: The Verone, the covered loggia on the Arno, with ancient and Renaissance statues, among them three monumental works from the Villa Medici in Rome. Jacopo del Duca, Silenus cradling Bacchus as a child, made between 1571 and 1574, a copy after a Roman original.
 @listen: A pause between two centuries, and an old companion of the wine god holding a baby.
 @brief: A friend slowing down on purpose; light and easy, tender about the statue, then a quiet build toward Caravaggio.
@@ -13,9 +13,9 @@
 ---
 [lightly] After so many rooms of paint, here is a space with hardly any paintings at all. That's rather the point.
 
-The Uffizi calls the Verone a covered loggia on the Arno. Its walls are a very pale, elegant green, and it gathers ancient and Renaissance statues. Three of the biggest came from the Villa Medici in Rome, the family's grand house in that city. This is a good place to rest your eyes, and your feet.
+The Uffizi calls the Verone a covered loggia on the Arno, with walls of a very pale, elegant green, a place for ancient and Renaissance statues. Three of the biggest came from the Villa Medici in Rome, the family's grand house in that city. This is a good place to rest your eyes, and your feet.
 
-Look for Silenus cradling the infant Bacchus. In the myths, Silenus was the old companion and teacher of the wine god, usually shown drunk and cheerful. Here he is something gentler: a foster father holding a baby. The museum presents the statue under a single word, fatherhood. The Sicilian sculptor Jacopo del Duca made this version between 1571 and 1574, copying an ancient Roman original.
+Look for Silenus cradling the infant Bacchus. In the myths, Silenus was the old companion and teacher of the wine god, usually shown drunk and cheerful. Here he is something gentler: a foster father holding a baby. Its theme fits in a single word, fatherhood. The Sicilian sculptor Jacopo del Duca made this version between 1571 and 1574, copying an ancient Roman original.
 
 [warmly] Keep that baby in mind. In a few minutes you'll meet him again, grown up, in a painting by Caravaggio, holding out a glass of wine.
 

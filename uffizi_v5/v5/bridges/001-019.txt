@@ -1,8 +1,8 @@
-002 E>004: On this shorter tour, skip Room A3, the doorway right beside the vestibule. Go the other way along the corridor to the next doorway on the side away from the windows: Room A4, with three giant gold Madonnas.
-002 H>006: On this shorter tour, skip Room A3, the doorway right beside the vestibule. Go the other way along the corridor to Room A4, the room of three giant gold Madonnas, and find Duccio's, the largest, with six kneeling angels.
+002 E>004: On this shorter tour, skip Room A3. Walk down the long corridor instead, to its first doorway on the side away from the windows: Room A4, with three giant gold Madonnas.
+002 H>006: On this shorter tour, skip Room A3. Walk down the long corridor instead, to its first doorway on the side away from the windows: Room A4, with three giant gold Madonnas, and find Duccio's, the largest, with six kneeling angels.
 004 E>006: On this shorter tour, begin instead with Duccio's Rucellai Madonna, here in Room A4: the largest of the three, with six kneeling angels holding the throne.
 007 E>009: On this shorter tour, go into Room A5 and straight to Simone Martini's Annunciation, the tall gold panel with the angel's words written across the air.
-007 H>017: On this shorter tour, skip Room A5. Take the far-side doorway of Room A4 into Room A8, Masaccio's room, then follow the museum's Botticelli signs through to the Primavera, the wide, dark grove of nine figures.
-009 E>012: On this shorter tour, skip Room A6. Go back into Room A4 and through the doorway on its far side into Room A7, to Gentile's huge golden procession of kings.
+007 H>017: On this shorter tour, skip Room A5. Take the far-side doorway of Room A4 into Room A8, not the one beside it into Room A7, and follow the museum's Botticelli signs to the Primavera, the wide, dark grove of nine figures. If the way through is closed, go back through Room A4 to the corridor, on to Room A13, with its big Flemish altarpiece, and enter the Botticelli rooms from the far end.
+009 E>012: On this shorter tour, skip Room A6. Go back into Room A4 and take the far-side doorway into Room A7, not the one beside it into Room A8, to the huge golden procession of kings.
 012 E>014: On this shorter tour, go back into Room A4 and into Room A8, then go straight to Uccello's Battle of San Romano, the wide panel of horses and broken lances.
 018 H>022: On this shorter tour, walk straight through Room A13 and on through Room A15, the Room of Mathematics, to the Tribune, Room A16: the octagonal room with red walls and a mother-of-pearl dome.

@@ -3,19 +3,19 @@
 @room: Room A3
 @type: R
 @title: A3 · Painted crosses
-@where: Room A3, the first painting room, at the very start of the Eastern Corridor beside the vestibule. Look for the big painted cross on a gold ground, nearly three metres tall, with Christ upright and eyes open and small scenes on either side of him.
+@where: Room A3, the first painting room, at the short end of the Eastern Corridor toward Palazzo Vecchio, on the far side of the vestibule from the rest of the route. Look for the big painted cross on a gold ground, nearly three metres tall, with Christ upright and eyes open and small scenes on either side of him.
 @what: Pisan painter, Painted cross, 12th century (dating "highly uncertain"), tempera on wood, gold ground, 276 × 231 cm, Uffizi inv. 1890 no. 432; with the other early gold-ground panels of the room.
 @listen: The oldest room in the gallery: what a twelfth-century cross was for, why it is painted on gold, and three things to carry into the next room.
 @brief: Hushed and simple, as in a dim church; reverent at the start, warmer at the hand-over to the Maestà room.
 @pace: medium-slow
 @energy: 2→2→3
-@sources: https://www.uffizi.it/en/artworks/cross_432 (OFF: Location "A3. Medieval Painting"; "Pisan painter", possibly "a master active in the mid-12th century in Pisa"; 12th century, "dating highly uncertain"; tempera on wood, gold background; 276 x 231 cm; inv. 1890 no. 432; Christ "triumphant over death, with eyes open and head raised", the type common in Italy until the early 13th century; Passion scenes including the washing of the feet, the capture, the flagellation, the way to Calvary; the descent from the cross, the entombment and the descent into limbo; read top to bottom and left to right; "the origin of the Cross is unknown"; text Daniela Parenti) ; gold as divine light, Byzantine inheritance, frontal figures: interpretive, audit 003 OK (general)
+@sources: https://www.uffizi.it/en/artworks/cross_432 (OFF: Location "A3. Medieval Painting"; "Pisan painter", possibly "a master active in the mid-12th century in Pisa"; 12th century, "dating highly uncertain"; tempera on wood, gold background; 276 x 231 cm; inv. 1890 no. 432; Christ "triumphant over death, with eyes open and head raised", the type common in Italy until the early 13th century; Passion scenes including the washing of the feet, the capture, the flagellation, the way to Calvary; the descent from the cross, the entombment and the descent into limbo; read top to bottom and left to right; "the origin of the Cross is unknown"; text Daniela Parenti) ; gold as divine light, Byzantine inheritance, frontal figures: interpretive, audit 003 OK (general) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): cross_432 re-read: the scenes run on to "the descent into limbo of Christ resurrected"
 ---
 [reverent] This is the oldest room in the gallery. Its great cross is more than eight hundred years old, and nobody knows who painted it, or for which church.
 
 The museum calls its maker simply a Pisan painter, perhaps working in the middle of the twelfth century, though even that date is uncertain. Pisa was then a rich sea power.
 
-Look at Christ. His eyes are open and his head is raised. He isn't suffering. He is triumphant over death, which was the usual way to paint him in Italy until the early twelve hundreds. Around him, small scenes tell the story of the Passion and what came after, from the washing of the disciples' feet to the entombment. They read from top to bottom and left to right, like a strip of pictures.
+Look at Christ. His eyes are open and his head is raised. He isn't suffering. He is triumphant over death, which was the usual way to paint him in Italy until the early twelve hundreds. Around him, small scenes tell the story of the Passion and what came after, from the washing of the disciples' feet to Christ's descent into limbo. They read from top to bottom and left to right, like a strip of pictures.
 
 [pause] And everything sits on gold. Here gold isn't decoration. It stands for divine light, for a heaven that never changes, an idea inherited from the Byzantine painting of the Christian East. The figures face you straight on. Nobody has weight. Nobody stands in a space you could step into. These were images for prayer, glowing by candlelight.
 

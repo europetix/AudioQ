@@ -3,7 +3,7 @@
 @room: Room D19
 @type: R
 @title: D19 · The Vasari Corridor door
-@where: Room D19, "Vasari Corridor entrance", the narrow room through the second doorway in the back wall of Room D15. Look for the sign for the Vasari Corridor meeting point. Stay in the room: this guide does not go through the Corridor door.
+@where: Room D19, "Vasari Corridor entrance", the narrow room through the second doorway in the back wall of Room D15, counting from Room D14. Look for the sign for the Vasari Corridor meeting point. Stay in the room: this guide does not go through the Corridor door.
 @what: Room D19, the Vasari Corridor entrance and meeting point. The Vasari Corridor, 1565, about 750 metres, from the Uffizi over the Ponte Vecchio to the Pitti Palace and the Boboli Gardens.
 @listen: A private walkway built in five months for a Medici wedding, where the self-portraits once hid, and how it is visited today.
 @brief: Practical and warm, with a sense of the secret passage beyond the wall; clear about what is and is not part of this visit.
@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: https://www.uffizi.it/en/notices/rules-for-accessing-the-vasari-corridor (OFF, mod. 11 Sep 2026: "The entrance to the Vasari Corridor is at the Room D19 Meeting Point on the first floor of the Uffizi"; reservation of the Corridor supplement required; one way only, Uffizi to Pitti; groups leave by the Buontalenti Grotto in the Boboli Garden; staff accompany groups but give no guided tours; prices and times NOT used) ; https://www.uffizi.it/en/corridoio-vasariano/history (OFF: commissioned by Cosimo I in 1565 for the wedding of Francesco and Joanna of Austria; "the construction works lasted just five months"; for the grand dukes to move safely between Pitti Palace and Palazzo Vecchio; 760 m; to the Buontalenti Grotto; bypasses the Mannelli Tower; overlooks Santa Felicita; 73 windows; self-portraits there until 2016) ; https://www.uffizi.it/en/news/vasari-corridor-reopens (OFF: closed since 2016, reopened 21 Dec 2024; returned to its plain original state; anti-seismic work; "more than seven hundred metres long"; fully accessible) ; https://www.uffizi.it/en/news/vasari-corridor-welcomes-historical-figures (OFF, 7 Jul 2025: more than fifty Roman portrait busts in the section above the Ponte Vecchio; in storage since 1993) ; https://www.uffizi.it/en/news/selfportraits_uffizi (OFF: self-portraits in the Corridor 1973–2016) ; length "about 750 metres": audit wording
 ---
-[conspiratorial] Somewhere beyond this narrow room, a corridor runs out of the museum, over the roofs, across a bridge and into a garden on the far side of the river.
+[conspiratorial] Somewhere beyond this narrow room, a corridor runs out of the museum, above the streets, across a bridge and into a garden on the far side of the river.
 
 This is where visits to the Vasari Corridor begin. Duke Cosimo the First ordered it in 1565 for the wedding of his son Francesco to Joanna of Austria, and Giorgio Vasari built it in just five months. It runs for about 750 metres. It starts at Palazzo Vecchio and passes through this building. Then it crosses the Arno along the top of the Ponte Vecchio and looks down into the church of Santa Felicita. It ends by the Buontalenti Grotto in the Boboli Gardens, beside the Pitti Palace. It let the grand dukes move between their home and the seat of government without setting foot in the street.
 

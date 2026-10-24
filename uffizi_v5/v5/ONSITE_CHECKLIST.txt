@@ -4,21 +4,34 @@ different with the track number, and send it to us: we fix only that track. Item
 
 ENTRANCE AND SECOND FLOOR
 [ ] O1  Track 1: which entrance door/sign from the Piazzale; which staircase reaches A1 (Granducal on the map; Scala Lorenese reopened Mar 2026); lift.
-[ ] O2  Track 2 -> 3: A3 is the first doorway at the start of the Eastern Corridor, beside the vestibule.
+[ ] O2  Track 2 -> 3: A3 lies at the short end of the Eastern Corridor toward Palazzo Vecchio, on the far side of the vestibule and lift
+        from the rest of the route (map). Confirm the 002 cue ("turn the other way, to the short end ... nearest Palazzo Vecchio") and the
+        002 E/H bridges ("walk down the long corridor ... its first doorway: Room A4"; the map draws no corridor door for A5). [audit 24 Oct]
 [ ] O3  Tracks 4-7: which wall holds the Cimabue, the Duccio and the Giotto in A4 (do not use the old guide's right/left/centre until confirmed).
-[ ] O4  Tracks 7-13: doorways A4-A5 (near the corridor?), A5-A6, A6-A7 (none drawn), A6-vestibule, A4-A7, A4-A8, A7-A8 (none drawn).
+[ ] O4  Tracks 7-13: doorways A4-A5 (near the corridor?), A5-A6, A6-A7 (a gap IS drawn at the back of
+        their shared wall: if it is open, make 010's direct cue the only cue), A6-vestibule, A4-A7, A4-A8, A7-A8 (none drawn).
+        A4's far side: two doorways side by side, A7's on the A5 side and A8's beside it (009 cue, 010 fallback, bridges 009 E and 007 H). [audit 24 Oct]
 [ ] O5  Track 10: A6 without the Giovanni da Milano polyptych and the Giottino Pieta; Saint Humility on view.
 [ ] O7  CRITICAL Tracks 14-20: how do visitors get from A8 into the Botticelli rooms - through A9 as a passage, via A9's corridor door,
         or only from A13? What do the door labels say (A9 or A10/A11/A12)? Which room holds the Virtues/Fortitude, the Lama Adoration,
         the Primavera, the Venus, the Magnificat, the Pomegranate Madonna, the Calumny? Is Pallas and the Centaur on view?
         -> choose 014 as written, ALT-014a or ALT-014b; correct @room/@title of 015-019.
+        [audit 24 Oct] 014's cue and the 007 H>017 bridge now say: follow the Botticelli signs from A8; if the way through is closed,
+        back through A4 to the corridor, on to A13 and in from the far end. The map draws no corridor door for A8 and no way from A8
+        into the Botticelli rooms except through A9. If only the A13 entry works, record that as the primary and re-check 015
+        (the Virtues room is then at the far end), 016, 017 ("Room A13 comes after it") and 018/019 ("the doorway at the end").
 [ ] O8  Tracks 18-21: doorway from the Botticelli rooms into A13; A13 -> A14 and A13 -> A15; Tetrode Venus missing from A15; Stanzino frescoes visible.
-[ ] O9  Tracks 20-22: Tribune seen from the doorways only, or a walkway inside? Which doorways?
+        Is A14 entered, or only seen from its doorway (021: "the dark coffered ceiling above you")? A14 opens only into A13 (map): 021's cue
+        now sends people back into A13 and through A15. [audit 24 Oct]
+[ ] O9  Tracks 20-22: Tribune seen from the doorways only, or a walkway inside? Which doorways? Are the Wrestlers and the Knife Grinder
+        visible from where visitors stand (022: "the kneeling Knife Grinder you see beside her")? [audit 24 Oct]
 [ ] O10 Track 22 -> 23: A17-A21 closed; A22 open; clear walk to A23.
 [ ] O11 Track 23: from the A23 windows, how much of the Ponte Vecchio and the Vasari Corridor can you see?
 [ ] O12 Tracks 23-28: A25 is the first doorway on the left in the Western Corridor; A25 -> A26 -> A27 -> A28 -> A29 -> A31 -> A32; A30 a side room.
 [ ] O13 CRITICAL Tracks 27-29: is A33 open as a passage from A32 to A34? (If not, the walk-back cue stands.) What hangs in A34? Francesco delle Opere: A27 or A34?
 [ ] O14 Track 25: is the back of Piero's diptych (the chariots) visible?
+[ ] O14b Track 30: in front of Leonardo's Annunciation, can visitors take a few steps to the right (barrier, crowd)? If not, change
+        "take a few steps to your right, and look again". [audit 24 Oct]
 [ ] O15 Tracks 31-33: A36 closed; the passage to the Buontalenti staircase; can A37 be reached without going down?
 [ ] O16 Track 33: Raphael's Doni portraits in A38, or not.
 [ ] O17 Tracks 36-37: panoramic terrace open, and reachable from the west end of A24 before the Lanzi staircase without passing the "once out" point?
@@ -64,5 +77,35 @@ LISTENING CHECKS (after rendering on the Mac)
 [ ] Names: Cimabue, Duccio di Buoninsegna, Ognissanti, Rucellai, Laudesi, Lippo Memmi, Uccello, Bartolini Salimbeni, Pollaiolo, Portinari,
     Baroncelli, Buontalenti, Montefeltro, Verrocchio, Scopeto, Niobe, Georgofili, Capolicchio, Contini Bonacossi, Sassetta, Castagno,
     Bramantino, Foggini, Cerquozzi, Parmigianino, Baiardi Tagliaferri, Pontormo, Panciatichi, Ligozzi, Guidobaldo, Magliabechi, Honthorst.
+    [audit 24 Oct, 001-034] also: Gentile (must not sound like the English word), Gentile da Fabriano, Maestà, Masolino, Lorenzetti,
+    Ambrogio, Simone Martini, Lippo Memmi, Ansanus, Humiliati, Milanesi, Laudesi, Santa Trinita, Vallombrosan, Sant'Ambrogio, Metterza,
+    Pontassieve, Mercanzia, Pierfrancesco, Città della Pieve, Vannucci, San Giusto alle Mura, Domenico Veneziano, Santa Lucia de' Magnoli,
+    Zenobius, Perugino, Signorelli, Verrocchio, San Salvi, San Donato a Scopeto, Monteoliveto, Ludovico Sforza, Spinario, Polykleitos,
+    Menander, Laocoön, Zucchi, Bonsignori, Tetrode, Cleomenes, Bartolini Salimbeni, Niccolò da Tolentino, Bernardino della Carda,
+    mala medica, lettuccio, Poliziano, Magnificat anima mea Dominum, Ave gratia plena. Possessives (Duccio's, Gentile's, Uccello's) too.
 [ ] Shorter versions: every bridge names the right room and floor; 037 says "one floor only" in all three versions.
 [ ] After the first full render, check each folder's running time against what 001 says (about 75 / 120 / 165 min including walking).
+
+ADDED 24 OCT 2026 AFTER THE INDEPENDENT AUDIT OF 035-067 (research/AUDIT_V5_035-067.md; track numbers are the 67-track numbers)
+[ ] O17b Track 37: where is the terrace/cafe door - off the landing at the head of the Lanzi stairs, beside the exit sign? Can visitors
+        reach it and come back to the stair head without passing a one-way exit or gate? If yes, the conditional line can stay as is;
+        if the terrace is shut or only reachable by leaving, cut the terrace paragraph of 037.
+[ ] O19b Tracks 37-38: is there a doorway from the hall B1 straight into B2, or is B2 entered only through B4 or from the stair landing
+        (the map draws no B1-B2 doorway)? Confirm B2 is "at the near end of the hall, on the side away from the Info Point" and that B4
+        is "right beside it on the same side". At the foot of the Lanzi stairs: does B1 lead away from the stairs, and is C1 "the other way"
+        (037 H bridge)? Track 41: can the Bernini be walked round? (The @where line was cut; do not add it back unless yes.)
+[ ] O20b Track 43: does Bill Viola's video play its water sound aloud in C2? If yes, "and you hear the water the whole time" may go back in.
+[ ] O24b Tracks 46-47: walking down the D9 passage from the corridor, is D12's doorway on your LEFT (046 now says so)? If D9 is closed,
+        can D12 be reached any other way (e.g. through D10)? 046 now says: ask a warden; if not reachable, walk on to D14.
+        Is "the landing of the Buontalenti staircase" (047) the right word for the space between D8 and D9?
+[ ] O27b Tracks 52-54 and the 052 H bridge: in D15's back wall, is the doorway NEARER Room D14 the one into D16, and the one FARTHER
+        from D14 the one into D19 (052, 053, 054 now count from D14)? Walking through D19 to D21: do you pass the Vasari Corridor door?
+[ ] O34b Track 59: if the Veronese Holy Family is confirmed in D27, change "is listed in the Veronese Corridor" to "hangs in".
+[ ] O35b Track 60: if the Verone walls are no longer pale green, cut "with walls of a very pale, elegant green".
+[ ] O36b Track 57 H bridge and track 60 cue: at the top of the Verone, is E4 the first room along the corridor to the left?
+[ ] O7b  Track 67 now names the Venus of Urbino ("in the city that kept her") instead of the Primavera, so it no longer depends on O7.
+        If O7 confirms the Primavera on view, the old line may be restored: "...in front of the Primavera today, in the city that made it."
+[ ] Listening (035-067): "second century AD" in 036 (must not be read "ad"); "sans fin amour dure" in 051; and the names listed in
+        v5/notes/AUDIT_FIXES_035-067.md (Nasi, Ghirlandaio, Nencioni, Trebbio, Cima da Conegliano, Bambocciate, Garofalo, Perin del Vaga,
+        Salviati, Pontorme, Zipporah, Fontainebleau, Beccadelli, toccamano, da Porto, Verone, Silenus, Tomassoni, Caravaggisti,
+        Gherardo delle Notti, Holofernes, Longhi, Antinous, van Dyck...).
