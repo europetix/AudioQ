@@ -1,0 +1,28 @@
+@id: 029 · FR · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: R
+@title: A35 · Léonard : le Baptême
+@where: Salle A35, « Leonardo Da Vinci ». Placez-vous devant le haut panneau, de près de deux mètres : Jean-Baptiste verse l'eau sur le Christ, debout dans une rivière peu profonde, et deux anges sont agenouillés sur la rive, à gauche.
+@what: Andrea del Verrocchio and Leonardo da Vinci, The Baptism of Christ, c. 1470–1475, tempera and oil on panel, 177 × 151 cm, 1890 n. 8358.
+@listen: A workshop picture in which a young assistant may have painted far more than one angel.
+@brief: A friend playing detective at the panel; curious, a little wry about Vasari's legend.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/verrocchio-leonardo-baptism-of-christ (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A35. Leonardo da Vinci"; 1470–1475 c.; tempera and oil on panel; 177 × 151 cm; from the Vallombrosan monastery of San Salvi, Florence; moved 1730 to Santa Verdiana, Florentine Galleries 1810, Uffizi since 1919; Vasari: Leonardo painted the left angel "with such skill that he upset the older Verrocchio"; current studies give him more: the riparian landscape, the golden light and the figure of Christ; studio head designed the work and left parts to pupils; an older unnamed painter perhaps also worked on it, given the less developed hands of God and the dove; inscription ECCE AGNUS DEI) ; AUDIT: Leonardo about 18 to 23 (born 1452); Vasari's claim that Verrocchio gave up painting, framed as "a legend, but a telling one"
+@lang: fr
+@translation: from the fact-checked English Uffizi 029 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dans un atelier florentin animé, le maître concevait le tableau, et les assistants en peignaient des parties. Ce tableau est célèbre car l'un d'eux était Léonard de Vinci.
+
+Le maître était Andrea del Verrocchio, sculpteur, orfèvre et peintre. Entre 1470 et 1475 environ, son atelier peignit ce Baptême, qui vient du monastère vallombrosain de San Salvi, à Florence. Léonard avait alors entre dix-huit et vingt-trois ans.
+
+Vasari raconte l'histoire. Selon lui, Léonard peignit l'ange tout à gauche si bien qu'il en contraria Verrocchio, son aîné. Et il affirme que Verrocchio, ainsi surpassé, renonça tout à fait à la peinture. [wry] C'est une légende, mais révélatrice.
+
+Trouvez cet ange. Il est agenouillé, à demi tourné de dos, le regard levé, le visage doux et plein de lumière. [pause] Regardez maintenant l'ange voisin, au visage plus rond et plus ordinaire. La différence saute aux yeux.
+
+[pause] Aujourd'hui, les spécialistes pensent que Léonard a fait plus que l'ange. Le musée lui attribue peut-être le paysage de rivière, à l'arrière, la lumière dorée, et même le corps du Christ. Et il y eut peut-être aussi une main plus ancienne. [pause] Regardez les mains de Dieu, plus faibles, en haut, et la colombe.
+
+Ce n'est donc pas le tableau d'un seul artiste. C'est un atelier pris sur le vif, avec un génie qui grandit en son sein.
+
+Restez dans la salle A35 pour l'Annonciation de Léonard, le long panneau bas avec l'ange agenouillé dans un jardin.

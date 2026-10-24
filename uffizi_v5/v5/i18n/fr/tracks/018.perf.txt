@@ -1,0 +1,26 @@
+@id: 018 · FR · Room A12 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A12
+@type: W
+@title: Salles Botticelli · Botticelli — La Naissance de Vénus
+@where: Dans les salles Botticelli, devant la Naissance de Vénus, face à la Primavera de l'autre côté du passage : une large toile claire de près de trois mètres, la déesse debout sur une coquille Saint-Jacques entre les vents, à gauche, et une femme qui lui tend un manteau fleuri, à droite. Une Madone ronde est accrochée de chaque côté.
+@what: Sandro Botticelli, Birth of Venus, c. 1485, tempera on canvas, 172.5 × 278.5 cm, Uffizi inv. 1890 n. 878; flanked by the Madonna of the Magnificat and the Madonna of the Pomegranate.
+@listen: Who is who around Venus, what Botticelli borrowed from Lorenzo the Magnificent's gem, and why the surface looks so pale.
+@brief: Quiet and close at first, as if she has just arrived; then clear and confident on the borrowings and the canvas, warm at the end.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/birth-of-venus (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1485 ca.; tempera on canvas; 172.5 x 278.5 cm; inv. 1890 n. 878; Venus, goddess of love and beauty, arriving on Cyprus, born from sea spray, carried ashore by "Zephyr and, perhaps, Aura"; "a giant scallop shell"; young woman with a flower-covered cloak, "the Hora of spring" or one of the Graces; wind-blown roses; subject "perhaps suggested by the poet Agnolo Poliziano"; canvas "widely used throughout the 15th century for decorative works destined to noble houses"; Medici commission likely; first record Vasari 1550, "Villa of Castello"; orange trees a Medici emblem; Venus's modest pose from classical statues; the windblown pair from a Hellenistic gem owned by Lorenzo the Magnificent; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/botticelli-spring (OFF: Vasari in 1550 at Castello describes it alongside the Venus) ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: facing the Primavera; airtight display cases replacing the large protective glass; flanked by the Magnificat and Pomegranate Madonnas; the similar faces of the Virgin and Venus) ; "near-life-size nude goddess was still a rarity", Neoplatonic reading "often read through", pale matte surface: audit 015 safe wording ; cue: PLAN 018, ONSITE O7/O8 ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF botticelli-madonna-of-the-magnificat re-read: round, 118 cm, Mary "writing the canticle Magnificat"
+@lang: fr
+@translation: from the fact-checked English Uffizi 018 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Elle vient à peine d'arriver. Le vent souffle encore, les roses tombent encore, et ses cheveux ne sont pas retombés.
+
+Voici Vénus, déesse de l'amour et de la beauté, qui aborde l'île de Chypre. Née de l'écume de la mer, elle se tient debout sur une coquille Saint-Jacques géante. À gauche, le vent Zéphyr la pousse vers le rivage, enlacé à une compagne, peut-être la brise Aura. À droite, une jeune femme se hâte de la couvrir d'un manteau semé de fleurs. C'est peut-être l'Heure du printemps, ou l'une des Grâces.
+
+Une déesse nue presque grandeur nature était encore rare à Florence dans les années 1480. Le sujet fut peut-être suggéré par le poète Agnolo Poliziano. On lit souvent le tableau à travers le néoplatonisme du cercle des Médicis. [pause] Mais Botticelli a aussi emprunté. La pose pudique de Vénus vient de statues antiques. Et le couple des vents s'inspire d'une gemme gravée hellénistique qui appartenait à Laurent le Magnifique.
+
+Voyez la surface, pâle et mate : c'est une toile, pas du bois. Ce n'était pas une audace inédite. Au quinzième siècle, à Florence, la toile servait souvent aux tableaux décoratifs des demeures nobles. Elle explique en partie cet aspect doux, crayeux. [pause] Vasari l'a vu en 1550 dans la villa médicéenne de Castello, à côté de la Primavera.
+
+[warmly] Les voici réunis, face à face, dans de nouvelles vitrines étanches au lieu de l'ancien verre. Passez de la déesse à la Madone du Magnificat, le tableau rond voisin. Marie y écrit dans un livre. Comparez les visages : ils se ressemblent étonnamment.
+
+[pause] Cette salle propose un court Extra sur les Madones rondes qui entourent la Vénus, et sur la Calomnie. Le prochain arrêt principal est la salle A13, par la porte au bout des salles Botticelli. C'est le grand triptyque flamand à la famille agenouillée.

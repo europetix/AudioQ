@@ -1,0 +1,28 @@
+@id: 050 · FR · Room D12 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D12
+@type: X
+@title: D12 · Extra · Rosso Fiorentino — Ange jouant du luth
+@where: Salle D12, « Pontormo, Rosso Fiorentino ». Un petit panneau, moins d'un demi-mètre de large, sur fond sombre : un enfant ange aux ailes rouges et blanches, penché sur un grand luth. C'est l'image de la salle sur le plan du musée.
+@what: Rosso Fiorentino, Angel playing the lute, 1521, oil on wood panel, 39.5 × 47 cm, inv. 1890 no. 1505, inscribed "R(u)beus florentini fe(cit?) MDXXI".
+@listen: A famous little angel turns out to be a fragment, and the big picture he came from is lost.
+@brief: Warm and a little amused at the boy and his oversized instrument; a touch of mystery about the missing altarpiece.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/angel-playing-the-lute (OFF: Location "D12. Pontormo - Rosso Fiorentino"; Rosso; 1521; oil on wood panel 39.5 × 47; inv. 1890 no. 1505; inscription "R(u)beus florentini fe (cit?) MDXXI", not certain whether in Rosso's hand or added when the altarpiece was dismantled; "a fragment of a lost altarpiece"; reflectography under the dark background revealed "part of a building"; the original composition can be inferred from a Sacred Conversation by Francesco Vanni, c. 1600, in Sant'Agata, Asciano, near Siena; "the very tender image of the child angel apparently unconfident in his effort to handle the lute"; red and white wings in the image description; "famous work") ; map (OFF): D12 highlight picture "D12 Rosso Fiorentino"
+@lang: fr
+@translation: from the fact-checked English Uffizi 050 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ce petit ange a du mal avec son luth.
+
+C'est un enfant, penché sur un luth qui semble bien trop grand pour lui. Le musée le décrit comme apparemment peu sûr de lui dans son effort pour le manier, et tout le charme est là. Ses doigts sont sur les cordes. Sa tête est baissée. Il se concentre comme un enfant à sa première leçon de musique.
+
+Rosso Fiorentino l'a peint en 1521. [curious] Mais ce n'était pas censé être un tableau autonome. C'est un fragment, découpé dans un retable bien plus grand, aujourd'hui perdu.
+
+Comment le sait-on ? Des examens infrarouges sous le fond sombre ont révélé une partie de bâtiment. Il y avait donc une architecture derrière lui. [pause] Et vers 1600, un peintre siennois, Francesco Vanni, semble avoir repris toute la composition dans un retable près de Sienne. Ce retable plus tardif nous laisse deviner l'original perdu.
+
+[pause] Le panneau porte une inscription avec le nom de Rosso et l'année. Même cela est incertain. Elle est peut-être de sa main, ou a pu être ajoutée quand on a découpé le retable.
+
+[lightly] Un retable perdu, un souvenir emprunté, et le seul petit morceau que tout le monde connaît.
+
+Remontez le passage par la salle D13 jusqu'au corridor, et tournez à droite : la salle D14, les portraits Panciatichi.

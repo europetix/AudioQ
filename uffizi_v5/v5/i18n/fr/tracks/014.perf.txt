@@ -1,0 +1,28 @@
+@id: 014 · FR · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: W
+@title: A8 · Paolo Uccello — La Bataille de San Romano
+@where: Salle A8, devant le large panneau de bataille, de plus de trois mètres : des cavaliers en armure, une forêt de lances dressées et brisées, des soldats tombés au sol et de petits orangers qui remplissent les coins du haut.
+@what: Paolo Uccello, Battle of San Romano, c. 1435–1440, tempera on wood, 182 × 323 cm, Uffizi inv. 1890 n. 479, signed "PAULI UGIELI OPUS"; the central panel of a set of three, with the others in the National Gallery, London, and the Louvre, Paris.
+@listen: How the Medici turned someone else's battle pictures into their own, and how Uccello lets the lances tell you who wins.
+@brief: Amused storyteller at first, then sharp-eyed and admiring on the geometry; a wry last line.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/battle-of-san-romano (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; c. 1435-1440; tempera on wood; 182 x 323 cm; inv. 1890 n. 479; inscription "PAULI UGIELI OPUS", signed bottom left; one of three panels on the Florentine victory over the Sienese and their allies, led by the Duke of Milan, at San Romano (Pisa) in 1432; Niccolò da Tolentino unseating Bernardino della Carda; the Uffizi panel the central episode, London first, Louvre last; commissioned by Lionardo Bartolini Salimbeni for his palace a few years after the battle; arched tops to fit between the arches of a room; heirs sold the set to Lorenzo il Magnifico, installed in his palace on via Larga; Uccello probably changed the shape; corner additions with sour oranges, "mala medica", Medici emblem; Florentine lances and crossbows forward, the enemy's back, "foreshadows the outcome of the battle"; much metal leaf on armour and bridles; "a virtuoso in perspective", foreshortened bodies, low viewpoint; text Daniela Parenti) ; "once glittered", darkened: audit 013 HEDGE ; no pink horse, no poplar (NEVER/audit) ; cue: PLAN 014 conditional cue, ONSITE O7 (ALT-014a/b held)
+@lang: fr
+@translation: from the fact-checked English Uffizi 014 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Ces orangers, dans les coins du haut, ne faisaient pas partie du projet d'origine.
+
+Le panneau était d'abord cintré, pour une salle du palais de Lionardo Bartolini Salimbeni. Il avait commandé trois scènes de bataille après la victoire de Florence sur les Siennois et leurs alliés, menés par le duc de Milan, à San Romano, près de Pise, en 1432. Ses héritiers vendirent ensuite l'ensemble à Laurent le Magnifique, qui l'accrocha au palais Médicis, Via Larga. Il fallut changer la forme. [pause] Les arcs furent mis au carré, probablement par Uccello lui-même, et les coins garnis d'oranges amères. En latin, mala medica : un jeu de mots sur le nom de famille.
+
+C'est le milieu de l'histoire. Le premier panneau est à Londres, le dernier à Paris. Ici, Niccolò da Tolentino, chef de l'armée florentine, désarçonne le chef ennemi, Bernardino della Carda.
+
+[pause] Lisez maintenant les lances. Lances et arbalètes des Florentins pointent vers l'avant. Celles de l'ennemi penchent en arrière. La bataille est déjà jouée dans la géométrie. Uccello était un virtuose de la perspective. Les corps au sol sont en raccourci, ils rétrécissent vers le fond. Ils suggèrent un point de vue bas, pour un panneau à voir d'en bas.
+
+Armures et brides étaient couvertes de feuille de métal. Elle brillait autrefois, et s'est assombrie avec le temps. En bas à gauche, il a signé en latin : l'œuvre de Paolo Uccello.
+
+[wry] Une bataille où presque personne ne saigne, et dont le vrai vainqueur est la perspective.
+
+Viennent ensuite les salles Botticelli. Depuis la salle A8, suivez les indications Botticelli du musée. [pause] Si le passage est fermé, revenez par la salle A4 jusqu'au corridor, continuez jusqu'à la salle A13, avec son grand retable flamand, et entrez dans les salles Botticelli par l'autre bout. Dans les deux cas, commencez par la salle bordée de Vertus peintes dans des cadres dorés.

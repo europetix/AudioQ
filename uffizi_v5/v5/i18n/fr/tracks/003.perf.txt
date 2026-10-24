@@ -1,0 +1,26 @@
+@id: 003 · FR · Room A3 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A3
+@type: R
+@title: A3 · Les croix peintes
+@where: Salle A3, la première salle de peinture, au petit bout du corridor est, côté Palazzo Vecchio, de l'autre côté du vestibule par rapport au reste du parcours. Cherchez la grande croix peinte sur fond d'or, haute de près de trois mètres : le Christ droit, les yeux ouverts, avec de petites scènes de chaque côté.
+@what: Pisan painter, Painted cross, 12th century (dating "highly uncertain"), tempera on wood, gold ground, 276 × 231 cm, Uffizi inv. 1890 no. 432; with the other early gold-ground panels of the room.
+@listen: The oldest room in the gallery: what a twelfth-century cross was for, why it is painted on gold, and three things to carry into the next room.
+@brief: Hushed and simple, as in a dim church; reverent at the start, warmer at the hand-over to the Maestà room.
+@pace: medium-slow
+@energy: 2→2→3
+@sources: https://www.uffizi.it/en/artworks/cross_432 (OFF: Location "A3. Medieval Painting"; "Pisan painter", possibly "a master active in the mid-12th century in Pisa"; 12th century, "dating highly uncertain"; tempera on wood, gold background; 276 x 231 cm; inv. 1890 no. 432; Christ "triumphant over death, with eyes open and head raised", the type common in Italy until the early 13th century; Passion scenes including the washing of the feet, the capture, the flagellation, the way to Calvary; the descent from the cross, the entombment and the descent into limbo; read top to bottom and left to right; "the origin of the Cross is unknown"; text Daniela Parenti) ; gold as divine light, Byzantine inheritance, frontal figures: interpretive, audit 003 OK (general) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): cross_432 re-read: the scenes run on to "the descent into limbo of Christ resurrected"
+@lang: fr
+@translation: from the fact-checked English Uffizi 003 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Voici la salle la plus ancienne de la galerie. Sa grande croix a plus de huit cents ans, et personne ne sait qui l'a peinte, ni pour quelle église.
+
+Le musée appelle son auteur simplement un peintre pisan, actif peut-être vers le milieu du douzième siècle. Même cette date est incertaine. Pise était alors une riche puissance maritime.
+
+Regardez le Christ. Ses yeux sont ouverts, sa tête est levée. Il ne souffre pas. Il triomphe de la mort, comme on le peignait d'habitude en Italie jusqu'au début des années 1200. [pause] Autour de lui, de petites scènes racontent la Passion et ce qui suivit, du lavement des pieds des disciples à la descente du Christ aux limbes. Elles se lisent de haut en bas et de gauche à droite, comme une bande d'images.
+
+[pause] Et tout repose sur l'or. Ici, l'or n'est pas un décor. Il figure la lumière divine, un ciel immuable, une idée héritée de la peinture byzantine de l'Orient chrétien. Les figures vous font face. Personne n'a de poids. Personne n'habite un espace où l'on pourrait entrer. [pause] C'étaient des images pour la prière, qui brillaient à la lueur des bougies.
+
+[warmly] Retenez trois choses : l'or plat, les figures de face, l'absence de poids. Dans la salle suivante, trois immenses Madones commencent à défaire cette tradition.
+
+Retournez au corridor et dépassez le vestibule d'arrivée. La porte suivante, du même côté, est la salle A4, la grande salle aux trois Madones d'or géantes.

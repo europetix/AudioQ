@@ -1,0 +1,26 @@
+@id: 008 · FR · Room A5 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A5
+@type: R
+@title: A5 · Sienne : les frères Lorenzetti
+@where: Salle A5, « Lorenzetti, Simone Martini » : une salle de peintures siennoises sur fond d'or. La Présentation au Temple d'Ambrogio est le haut panneau qui montre un intérieur d'église, avec des colonnes et une voûte étoilée. La Madone de Pietro, plus petite, montre la mère et l'enfant qui se regardent, parmi des anges.
+@what: Ambrogio Lorenzetti, Presentation at the Temple, 1342, tempera on wood, gold background, 257 × 168 cm, inv. 1890 no. 8346; Pietro Lorenzetti, Virgin and Child enthroned, with angels, c. 1340, tempera on panel, 145 × 122 cm, inv. 1890 no. 445.
+@listen: Siena's answer to Florence, two brothers who probably died in the Black Death, and two tiny human details in the gold.
+@brief: Warm and a little amused, pointing out small human moments to a friend; a quiet beat for 1348.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/presentation-at-the-temple (OFF: Location "A5. Lorenzetti - Simone Martini"; Ambrogio Lorenzetti, documented 1319 to 1348; 1342; signed "AMBROSIUS LAURENTII DE SENIS FECIT HOC OPUS ANNO DOMINI MCCCXLII"; 257 x 168 cm; for the chapel of San Crescenzio in the transept of Siena Cathedral; temple shown inside and out, columns, starry vaults; converging lines of the marble floor create depth; earrings on the women; "Jesus sucking his thumb"; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/lorenzetti-madonna-majesty (OFF: Location A5; Pietro Lorenzetti, "known of between 1306-1348"; 1340 c.; 145 x 122 cm; "an intimate exchange of tender looks"; Jesus strokes his mother's face and grabs her fingers; from San Francesco, Pistoia) ; https://www.uffizi.it/en/artworks/saint-humility-and-scenes-from-her-life (OFF: Pietro Lorenzetti, Location "A6. 14th Century") ; SNIP/SEC https://artsandculture.google.com/asset/allegory-of-good-government/owH6OsVYalFGMw (Ambrogio Lorenzetti, 1338–1339, Palazzo Pubblico, Siena) ; both brothers disappear from the records in 1348, "probably" the Black Death: audit 008 HEDGE (general)
+@lang: fr
+@translation: from the fact-checked English Uffizi 008 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Si Florence choisit le poids, Sienne choisit la grâce. [pause] Voici la réponse de Sienne, contemporaine de Giotto.
+
+Sienne, grande rivale de Florence, avait des peintres fidèles à l'or, à la ligne souple, aux couleurs de joyau. Deux des meilleurs étaient frères, Pietro et Ambrogio Lorenzetti. Ambrogio seul peignit les célèbres fresques du Bon et du Mauvais Gouvernement, à l'hôtel de ville de Sienne. [pause] [quietly] Les deux frères disparaissent des archives en 1348, l'année de la Peste noire. Probablement emportés par la peste.
+
+[pause] Trouvez la Présentation au Temple d'Ambrogio, le haut panneau avec un intérieur d'église. Signé et daté de 1342, il fut peint pour un autel de la cathédrale de Sienne. Il montre le temple à la fois dedans et dehors, avec colonnes et voûtes étoilées. Les lignes du sol de marbre coloré filent vers la profondeur. Puis approchez-vous. [amused] Les femmes portent des boucles d'oreilles. Et l'Enfant Jésus suce son pouce.
+
+La Madone de Pietro, vers 1340, est plus calme. Mère et fils échangent un long regard tendre. L'Enfant lui caresse le visage et tient ses doigts.
+
+Pietro a aussi, tout près, une Sainte Humilité, dans la salle A6.
+
+Restez dans la salle A5 pour l'Annonciation de Simone Martini, aux paroles de l'ange écrites en or dans l'air.

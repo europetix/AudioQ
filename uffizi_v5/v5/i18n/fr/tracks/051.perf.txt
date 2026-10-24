@@ -1,0 +1,28 @@
+@id: 051 · FR · Room D14 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D14
+@type: R
+@title: D14 · Bronzino — Les portraits Panciatichi
+@where: Salle D14, « Bronzino », sur le corridor. Trouvez les deux portraits assortis, d'environ un mètre de haut chacun : une femme en robe rouge profond, assise dans une pièce sombre, avec une chaîne d'or et un livre sur les genoux, et un homme en noir à la barbe rousse, debout à une balustrade devant des bâtiments de la ville, avec un petit chiot noir à ses pieds.
+@what: Bronzino, Portrait of Lucrezia Panciatichi, 1541–1545, oil on wood, 102 × 83.2 cm, inv. 1890 n. 736; Portrait of Bartolomeo Panciatichi, 1541–1545, oil on wood, 104 × 85 cm, inv. 1890 n. 741; Holy Family with young Saint John (Madonna Panciatichi), 1539–1540, oil on wood, 116.9 × 89.7 cm, inv. 1890 n. 8377. On loan: Pygmalion and Galatea, Scuderie del Quirinale, Rome, until 7 Feb 2027 (cuttable sentence).
+@listen: A husband and wife painted by the duke's court painter, a love message on a gold chain, and the secret that put them on trial.
+@brief: Cool and observant like the portraits, with a curious lean-in for the inscription and a quiet turn at the heresy trial.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/ritratto-di-lucrezia-panciatichi (OFF: Location "D.14 Bronzino"; Bronzino, Florence 1503–1572; 1541–1545; oil on wood 102 × 83.2; Lucrezia di Gismondo Pucci, wife of the banker Bartolomeo Panciatichi; Savonarola-type chair with grotesque faces; red gown; gold chain inscribed "sans fin amour dure", read as love for her husband or religiously, as God's love, supported by the prayer book on her lap; the couple lived in Lyon, drew close to heterodox and spiritual movements, and were tried for heresy after returning to Florence) ; https://www.uffizi.it/en/artworks/portrait-of-bartolomeo-panciatichi-bronzino (OFF: Location "D14. Bronzino"; 1541–1545; oil on wood 104 × 85; born in France; boyhood at the court of Francis I, where he met religious reform movements; diplomat trusted by Cosimo; stands at a balustrade, city view, family arms on the first building on the right; red beard in two points; book and glove; "black molossian puppy" at bottom right) ; https://www.uffizi.it/en/artworks/madonna-panciatichi (OFF: Location "D.14 - Bronzino"; 1539–1540; Panciatichi arms on the banner at the left; sleeping Child, cloth like a shroud, stone like a tomb; Vasari: at least five works for Panciatichi) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF: Bronzino, Pigmalione e Galatea, D14, on loan to the Scuderie del Quirinale, Rome, 8 Oct 2026 – 7 Feb 2027) ; Bronzino court painter to Cosimo I: audit (general, OK)
+@lang: fr
+@translation: from the fact-checked English Uffizi 051 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] À son cou, Lucrezia Panciatichi porte un message en français, inscrit dans sa chaîne d'or : « sans fin amour dure ». L'amour dure sans fin.
+
+Agnolo Bronzino, peintre de cour du duc Cosme premier, l'a peinte avec son mari Bartolomeo au début des années 1540, en pendant. Bartolomeo, issu d'une famille de marchands, était né en France, et avait passé son enfance à la cour de France. Il est devenu l'un des diplomates de confiance de Cosme.
+
+Jusqu'au sept février 2027, le Pygmalion et Galatée de Bronzino, de cette salle, est prêté à une exposition à Rome.
+
+[pause] Regardez-les. Lucrezia, très immobile, en robe rouge profond, est éclairée si fort que sa peau semble d'albâtre. Un livre de prières repose sur ses genoux. Bartolomeo, en noir, s'appuie à une balustrade, sa barbe rousse peignée en deux pointes. À ses pieds, un petit chiot noir.
+
+On lit d'ordinaire le message de la chaîne comme une déclaration d'amour à son mari. Certains chercheurs y lisent autre chose, l'amour de Dieu pour les hommes, et le livre de prières leur donne raison. [quietly] C'est important, car le couple avait un secret. À Lyon, ils s'étaient rapprochés des nouveaux mouvements de réforme religieuse. [pause] De retour à Florence, ils ont été jugés pour hérésie.
+
+Bronzino a aussi peint une Sainte Famille pour Bartolomeo, dans cette salle. Cherchez les armoiries des Panciatichi sur la bannière, à gauche.
+
+Salle suivante, le long du corridor : la salle D15, la salle des Dynasties. Cherchez Éléonore de Tolède dans sa robe de brocart, avec son petit garçon.

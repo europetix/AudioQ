@@ -1,0 +1,28 @@
+@id: 064 · FR · Room E5 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E5
+@type: W
+@title: E5 · Le Caravage — Bacchus
+@where: Salle E5, « Le Caravage, le Bacchus ». Placez-vous devant la toile, d'environ un mètre de haut : un jeune homme couronné de pampres tend un verre de vin rouge, une coupe de fruits devant lui.
+@what: Caravaggio, Bacchus, about 1598, oil on canvas, 95 × 85 cm, inv. 1890 n. 5312 (page "D32" in the old numbering; the map says E5).
+@listen: A Caravaggio found in the storerooms, a god with dirty fingernails, and a tiny reflection in the carafe that no visitor can see.
+@brief: Curious and amused, close to the picture, with a quiet turn at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: 1598 c.; oil on canvas 95 × 85; inv. 1890 n. 5312; Location "D32. Caravaggio - The Bacchus" = map E5; found in the Uffizi storerooms in 1913 and attributed by Roberto Longhi; early Roman career under Cardinal del Monte; donated by del Monte, with the Medusa, to Ferdinando I "on the occasion of the wedding of his son Cosimo II" (1608); the figure reproduces classical models, the portraits of Antinous; fruit and cup of wine "surprising" in naturalism; stunned look of inebriation, languid sensuality; "a Horatian invitation to frugality, conviviality and friendship"; Mina Gregori: "celebrates the freedom of senses"; text Patrizia Naldini) ; SEC https://www.theartnewspaper.com/2009/11/01/technology-reveals-caravaggio-self-portrait (found in 1922 when dirt and varnish were removed; 2009 multispectral infrared reflectography, Opificio delle Pietre Dure with INOA; "a man in contemporary clothes that can easily be linked to the painter himself"; "not visible to the naked eye") ; dirty fingernails and spoiling fruit: visible details per audit (O36). Never told to look for the reflection.
+@lang: fr
+@translation: from the fact-checked English Uffizi 064 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pendant des années, ce tableau est resté dans les réserves des Offices, et personne ne savait ce que c'était. Puis, en 1913, on l'a retrouvé, et l'historien de l'art Roberto Longhi l'a rendu au Caravage.
+
+C'est une œuvre de jeunesse, de ses premières années à Rome, quand il vivait sous la protection du cardinal del Monte, celui qui a envoyé la Méduse à Florence. Selon le musée, le cardinal l'a offert au grand-duc Ferdinand pour le mariage de son fils Cosme.
+
+Voici donc Bacchus, dieu du vin, couronné de pampres. Il vous tend un verre, comme pour vous inviter à boire. [pause] Regardez d'un peu plus près. Les fruits de la coupe ne sont pas tous parfaits. Certains sont déjà meurtris et s'abîment. Et regardez ses mains. Les ongles sont sales. [amused] C'est un dieu. C'est aussi, de toute évidence, un vrai jeune homme qui pose, l'air lourd, un peu ivre.
+
+Le corps suit des modèles classiques, les portraits antiques d'Antinoüs, le bel adolescent aimé de l'empereur Hadrien. Certains critiques voient dans le vin et les fruits une invitation à l'amitié et aux plaisirs simples. D'autres, une célébration de la liberté des sens. Et ces fruits qui tournent rappellent peut-être, doucement, que la maturité ne dure pas.
+
+[conspiratorial] Il reste un secret, et vous ne pourrez pas le voir. Lors du nettoyage du tableau, en 1922, un minuscule reflet est apparu dans la carafe de verre posée sur la table. En 2009, l'imagerie infrarouge a montré ce que c'était : un homme vêtu à la mode du temps, très probablement le peintre lui-même. On ne le voit pas à l'œil nu, alors ne forcez pas vos yeux.
+
+[warmly] Le Caravage vous offre le verre. Et quelque part dans la carafe, il reste pour vous regarder le prendre.
+
+Salle suivante, la salle E6, la peinture à la chandelle. Cherchez la Nativité éclairée par le seul Enfant, qui rayonne.

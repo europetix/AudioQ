@@ -1,0 +1,30 @@
+@id: 066 · FR · Room E7 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E7
+@type: R
+@title: E7 · Rembrandt, Rubens et Van Dyck
+@where: Salle E7, « Rembrandt, Rubens, Van Dyck ». Cherchez la toile d'un peu plus d'un mètre de haut : un vieil homme barbu, à mi-corps, qui semble perdu dans ses pensées et émerge d'un fond sombre.
+@what: Rembrandt Harmenszoon van Rijn, Portrait of an old man (The Old Rabbi), 1665, oil on canvas, 104 × 86 cm, inv. 1890 no. 8435 (page "D34" in the old numbering; the map's E7 highlight).
+@listen: Rembrandt late in life, an old man he may have known from his own neighbourhood, and the two Flemish names on the door.
+@brief: Quiet and reflective, a friend speaking softly at the end of a long day.
+@pace: slow
+@energy: 2→2→2
+@sources: https://www.uffizi.it/en/artworks/portrait-of-an-old-man-the-old-rabbi (OFF: Leiden 1606 – Amsterdam 1669; 1665, signed and dated; oil on canvas 104 × 86; inv. 1890 no. 8435; Location "D34. Rembrandt - Rubens" = map E7; face identified as a rabbi's, a specific sitter proposed but "documents do not yet confirm this"; used neighbours and acquaintances as models; lived a long time in Amsterdam's Jewish quarter; "detached pensiveness"; "engulfed by the painting's dark background"; "textured colors spread thickly onto the canvas"; towards the end of his career; re-read 24 Oct 2026: "from 1799 to 1815 the painting was transferred to Paris", "later returning to Florence in 1834 to be displayed in the Palatine Gallery of the Pitti Palace") ; OFF map (E7 "Rembrandt - Rubens - Van Dyck") ; Saskia's death 1642, bankruptcy 1656, Van Dyck as Rubens's "brilliant assistant": audit wording (general). No Rubens or Van Dyck works named (no pages, O36); no Rembrandt self-portraits.
+@lang: fr
+@translation: from the fact-checked English Uffizi 066 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Rembrandt a peint ce vieil homme en 1665, quatre ans avant sa mort. Il avait alors beaucoup perdu.
+
+Sa femme Saskia était morte en 1642, et en 1656, il a fait faillite. Il a continué à peindre, et ses derniers portraits sont parmi ses plus profonds.
+
+Le tableau est connu comme le Vieux Rabbin. Le visage passe pour celui d'un rabbin, et un nom a été avancé, que les documents ne confirment pas. Rembrandt a longtemps vécu dans le quartier juif d'Amsterdam, et demandait souvent à des voisins et connaissances de poser pour lui. [pause] Il peut donc s'agir simplement d'un homme qu'il connaissait.
+
+[pause] Voyez comment c'est peint. La couleur, posée en épaisseur, laisse voir sa texture. Le vieil homme ne pose pas pour vous. Il semble perdu dans ses pensées, presque englouti par l'ombre qui l'entoure.
+
+Le tableau a voyagé, lui aussi. Les fonctionnaires de Napoléon, frappés par sa qualité, l'ont emporté à Paris. Il y est resté jusqu'à la chute de Napoléon, et n'est revenu à Florence que des années plus tard.
+
+La salle porte aussi deux noms flamands. Pierre Paul Rubens était le grand peintre d'Anvers la catholique, tout en mouvement et en chair chaleureuse. Antoine van Dyck a débuté comme son brillant assistant, avant de peindre les cours d'Europe.
+
+[warmly] Après tant de splendeur, il est juste de finir les tableaux sur un visage paisible.
+
+Depuis la salle E7, suivez le parcours jusqu'à l'escalier Magliabechi. Les derniers mots de ce guide sont pour le haut de l'escalier.

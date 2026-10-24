@@ -1,0 +1,24 @@
+@id: 059 · FR · Room D26 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D26
+@type: R
+@title: D26 · Véronèse
+@where: Salle D26, « Véronèse ». Cherchez la haute toile, d'environ deux mètres et demi : un noble en tunique noire doublée de fourrure, l'épée au côté, un gant ôté, la main nue posée sur l'épaule de son petit garçon.
+@what: Paolo Caliari, known as Veronese, Portrait of Count Giuseppe da Porto with his son, Adriano, about 1555, oil on canvas, 247 × 133 cm, Contini Bonacossi no. 16 (page "D25" = map D26). Also: Veronese, Holy Family with Young St John and St Catherine, about 1565, oil on canvas, 86 × 122 cm (page "D26. Veronese Corridor" = map D27).
+@listen: How Veronese answered the Inquisition by changing a title, and a father's bare hand on his son's shoulder.
+@brief: A storyteller enjoying a famous act of cheek, then softening in front of a father and son.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/veronese-portrait-of-count-giuseppe-da-porto (OFF: 1555 c.; oil on canvas 247 × 133; Contini Bonacossi no. 16; Location "D25. Veronese" = map D26; Count Giuseppe or Iseppo da Porto with his first-born son Adriano, "one of the seven children he had from his marriage with noblewoman Livia Thiene" (re-read 24 Oct 2026); married Livia Thiene in 1545; heavy black tunic lined with fur, sword, one glove, removed the other to place his hand on his son's shoulder; Adriano's ermine-lined jacket with gold embroidery; pendant of Livia and Porzia in the Walters Art Museum, Baltimore) ; https://www.uffizi.it/en/artworks/veronese-holy-family (OFF: 1565 c.; oil on canvas 86 × 122; inv. 1890 n. 1433; Location "D26. Veronese Corridor" = map D27; "a regal St Catherine"; Widmann collection in Venice; bought in 1654 by Leopoldo and Giovan Carlo de' Medici on Paolo del Sera's advice for "the astronomical sum of 1000 scudos"; carved frame with cupid-angels holding the instruments of the Passion) ; OFF (Accademia) https://www.gallerieaccademia.it/en/opera/convito-in-casa-di-levi/ (1573; canvas 560 × 1309 cm; refectory of Santi Giovanni e Paolo, replacing a burnt Titian; Holy Office objected to a Last Supper without decorum; ordered to correct the errors within three months; changed the subject to the Feast in the House of Levi, Luke 5; jester-dwarf with parrot, servant bleeding from the nose, halberdiers "armed in the German fashion"; on display in the Gallerie dell'Accademia, Venice). No Tintoretto line (no source).
+@lang: fr
+@translation: from the fact-checked English Uffizi 059 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1573, Paolo Véronèse a été convoqué devant l'Inquisition, à Venise. Le problème venait en partie d'un nain avec un perroquet.
+
+Il avait peint une immense Cène pour le réfectoire d'un couvent dominicain. Les inquisiteurs ont critiqué ce qu'il avait entassé autour du Christ : un nain bouffon avec un perroquet, un serviteur qui saigne du nez, et des hallebardiers vêtus à l'allemande. On lui a ordonné de corriger dans les trois mois. [wry] Véronèse n'a rien repeint. Il a changé le titre. La Cène est devenue le Repas chez Lévi, un autre banquet, tiré de l'Évangile de Luc. Cette toile, longue d'environ treize mètres, est à Venise, aux Gallerie dell'Accademia.
+
+Ici, vous le rencontrez un jour plus calme. Le comte Giuseppe da Porto se tient avec Adriano, son fils aîné, l'un de ses sept enfants. Le comte porte une lourde tunique noire doublée de fourrure, et une épée. [pause] Regardez ses mains. Il garde un gant. Il a ôté l'autre, pour poser sa main nue sur l'épaule de son garçon. Adriano porte une veste doublée d'hermine et brodée d'or. Le portrait avait un pendant, l'épouse du comte et leur fille. Il est aujourd'hui à Baltimore.
+
+La Sainte Famille avec sainte Catherine de Véronèse, vers 1565, est répertoriée au corridor de Véronèse, D27, que vous traversez ensuite. En 1654, deux princes Médicis l'ont achetée à Venise pour une somme que le musée dit astronomique : mille scudi.
+
+Sortez dans le corridor de Véronèse, la salle D27, et remontez le long corridor au bord du fleuve jusqu'au Verone, la salle D28. Cherchez la statue de Silène qui berce l'enfant Bacchus.

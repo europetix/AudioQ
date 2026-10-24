@@ -1,0 +1,28 @@
+@id: 006 · FR · Room A4 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A4
+@type: W
+@title: A4 · Duccio — La Madone Rucellai
+@where: Salle A4, devant la plus grande des trois Maestà, haute de quatre mètres et demi : la Vierge sur un trône élancé que tiennent six anges agenouillés, trois de chaque côté, avec de petits médaillons de saints sur le cadre.
+@what: Duccio di Buoninsegna, Virgin and Child enthroned, surrounded by angels (Rucellai Madonna), c. 1285, tempera on wood, gold background, 450 × 290 cm; on deposit from the church of Santa Maria Novella, Florence.
+@listen: The detective story of a painting credited to the wrong man for three centuries, and the line that gives Duccio away.
+@brief: Telling a good mystery to a friend; conspiratorial at the start, brisk through the evidence, then slow and admiring on the gold hem.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-known-as-the-rucellai-madonna (OFF: Location "A4. Giotto - Cimabue"; 1285 ca.; tempera on wood, gold background; 450 x 290 cm; "Held in deposit for the Church of Santa Maria Novella"; commissioned from Duccio in 1285 by the Compagnia dei Laudesi, who met in Santa Maria Novella "to sing the praises of the Virgin"; "the largest painting on wood from the 13th century known to date"; six kneeling angels "suspended in the void"; roundels of saints in the frame; Child's cloak with gold lettering, red hip cloth "woven with gold"; Dominic and Peter Martyr in Dominican black and white at the bottom; name from the Rucellai chapel, end of the 16th century; text Daniela Parenti) ; SEC https://www.finestresullarte.info/en/works-and-artists/duccio-di-buoninsegna-s-madonna-rucellai-the-greatest-panel-painting-of-the-13th-century (Vasari credited Cimabue; Milanesi 1854 recognised the published document as the commission; Wickhoff republished it 1889; the 1937 Uffizi exhibition "closed the debate once and for all"; Duccio's "gilded border of the Virgin's mantle" a sinuous line Cimabue did not use; Rucellai chapel 1591) ; "a Sienese delight in line": PLAN/audit wording ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): SEC finestresullarte re-read: "Gaetano Milanesi, who in 1854" recognised the 1790 Fineschi document as the allocation; no origin given
+@lang: fr
+@translation: from the fact-checked English Uffizi 006 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Pendant environ trois cents ans, on l'a cru de Cimabue. Il n'en est rien.
+
+En 1285, la confrérie des Laudesi commanda un grand retable à un peintre de Sienne, Duccio di Buoninsegna. Ses membres se réunissaient à Santa Maria Novella pour chanter les louanges de la Vierge. Des siècles plus tard, Vasari le décrivit en l'attribuant à Cimabue. Le nom resta collé au mauvais peintre.
+
+Puis les archives ont parlé. En 1854, le savant Gaetano Milanesi comprit qu'un vieux document publié était le contrat lui-même, au nom de Duccio. Beaucoup refusèrent encore d'y croire. Le contrat fut republié, la querelle continua. [pause] Seule une exposition ici, aux Offices, en 1937, y mit fin pour de bon. Et le surnom ? Dès la fin du seizième siècle, il était dans la chapelle des Rucellai.
+
+C'est la plus grande peinture sur bois du treizième siècle connue à ce jour. Six anges agenouillés entourent le trône, trois de chaque côté, et semblent flotter dans l'or. De petits médaillons de saints courent sur le cadre. [pause] En bas, cherchez deux figures en noir et blanc : saint Dominique et saint Pierre martyr, car Santa Maria Novella était dominicaine.
+
+[lightly] Trouvez maintenant le bord doré du manteau sombre de la Vierge, et suivez-le vers le bas. Il ne va pas droit. Il ondule et serpente sur toute sa hauteur, une ligne tracée pour le plaisir de la tracer. [pause] Cimabue n'a jamais peint un bord pareil. C'est le goût siennois de la ligne. Même le linge rouge de l'Enfant est tissé d'or.
+
+[warmly] Trois siècles sous le nom d'un autre, et la signature de Duccio était là, dans cette ligne.
+
+Restez dans la salle A4 pour la Maestà de Giotto, aux anges agenouillés tenant des vases de roses et de lys.

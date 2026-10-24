@@ -1,0 +1,26 @@
+@id: 002 · FR · Room A2 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A2
+@type: W
+@title: A2 · Le corridor est
+@where: Salle A2, le corridor est, juste à la sortie du vestibule en haut de l'escalier : un long corridor lumineux, avec d'un côté de hautes fenêtres sur la cour, des statues et des bustes antiques en marbre le long des murs, et un plafond peint au-dessus de vous.
+@what: Giorgio Vasari's Eastern Corridor, first of the three top-floor corridors (east, south, west), originally conceived as a loggia open onto the Piazzale; the Medici collection of ancient sculpture, including Roman copies of lost Greek works; the grotesque ceiling, first bay painted in 1581 for Grand Duke Francesco I, the other corridors decorated over the next two centuries.
+@listen: Why a corridor may have given us the word "gallery", what the statues and the ceiling are, and the one rule for finding every painting room in the museum.
+@brief: A friend pausing you in the corridor before the rush; curious, a light touch on the word grotesque, then a clear, practical tip.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF: East, South and West corridors designed by Vasari, "conceived as a loggia originally open onto the Piazzale degli Uffizi"; the word gallery "is widely believed to derive from this very setting"; Francesco I in the 1580s adorned the loggia with ancient statues; the original princely Gallery occupied only the East corridor, "initially intended exclusively for him and his court"; first fresco painted in the East corridor in 1581, the date appears on a ceiling bay; grotesque-style decoration; other corridors "over the next two centuries"; pairs of statues face each other between the windows; statuary "one of the main attractions of the 18th century Grand Tour", scholars and art lovers from across Europe) ; https://www.uffizi.it/en/the-uffizi (OFF: "ancient Roman copies of lost Greek sculptures") ; grotesque etymology (Domus Aurea "grottoes"): standard, audit 002 OK (general) ; MAP p-3.png / hi-3.png: rooms open on the side away from the courtyard; A3 at the short end of A2 toward Palazzo Vecchio, on the far side of the vestibule and lift block from the rest of the route, with its own corridor door (ONSITE O2)
+@lang: fr
+@translation: from the fact-checked English Uffizi 002 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Avant d'être un corridor, c'était une loggia, à l'air libre, au-dessus du Piazzale. C'est peut-être de là que vient le mot « galerie ».
+
+Vasari a conçu trois de ces corridors, est, sud et ouest, tout autour du dernier étage. Quand François de Médicis commença à remplir la loggia, dans les années 1580, ce tronçon est formait toute la galerie. C'était sa collection privée, pour lui et sa cour.
+
+Il y plaça la sculpture antique de la famille. Beaucoup de ces figures sont des copies romaines d'originaux grecs perdus. [pause] Entre les fenêtres, les statues se font face, deux par deux. Au dix-huitième siècle, cette enfilade de marbre fut l'une des grandes étapes du Grand Tour. Savants et amateurs d'art venaient de toute l'Europe s'y promener.
+
+[pause] Puis levez les yeux. Le plafond est couvert de grotesques : volutes, masques, petites créatures, guirlandes. La première travée fut peinte en 1581 pour François, et la date figure sur la voûte. Les autres corridors ont pris deux siècles de plus. [lightly] Ce drôle de nom vient de Rome. Les peintres de la Renaissance descendaient dans les salles enfouies de la Maison dorée de Néron, et copiaient ce qu'ils trouvaient. On appelait ces salles souterraines des grottes. D'où le style grotesque.
+
+Voici une règle simple, pour tout le musée. Les fenêtres donnent sur la cour. [pause] Les salles de peinture s'ouvrent toujours de l'autre côté, à l'opposé des fenêtres.
+
+La salle A3 est toute proche, mais pas dans le long corridor. En sortant du vestibule, partez dans l'autre sens, vers le petit bout du corridor côté Palazzo Vecchio. La porte de la salle A3 est là, à l'opposé des fenêtres. Cherchez une grande croix peinte sur fond d'or.

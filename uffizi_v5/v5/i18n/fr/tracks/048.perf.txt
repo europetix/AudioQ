@@ -1,0 +1,28 @@
+@id: 048 · FR · Room D12 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D12
+@type: R
+@title: D12 · Pontormo et Rosso
+@where: Salle D12, « Pontormo, Rosso Fiorentino », qui s'ouvre sur le court passage D9. Placez-vous devant le retable de Rosso, d'environ 1,7 mètre de haut : la Vierge et l'Enfant en trône, entourés d'un saint Jérôme décharné et renfrogné et de trois autres saints, avec deux petits anges qui lisent sur les marches du trône.
+@what: Room D12. Rosso Fiorentino, Enthroned Madonna and Child with four saints, 1518, oil on panel, 172 × 141 cm, inv. 1890 n. 3190. On loan: Pontormo, Supper at Emmaus, Madonna with Child and the young Saint John, and Portrait of Maria Salviati, at the Scuderie del Quirinale, Rome, until 7 Feb 2027 (cuttable sentence).
+@listen: Two young rebels from the same workshop, a patron who said the saints looked like devils, and a painter who took him to court.
+@brief: Telling a lively piece of gossip about an angry patron, with a wry edge; brisk and amused, then pointing at the evidence.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/rosso-fiorentino-madonna-and-child (OFF: Location "D12. Pontormo - Rosso Fiorentino"; Enthroned Madonna and Child with four saints; Rosso, Florence 1495 – Paris 1540; 1518; oil on panel 172 × 141; inv. 1890 n. 3190; commissioned 1518 by Leonardo Buonafede, prior of Santa Maria Nuova, for the bequest of Francesca de' Ripoi, for Ognissanti; contract named the Baptist, Benedict, Leonard and Jerome; Buonafede dissatisfied, the work sent to Santo Stefano in Grezzano; "Vasari reports" he called it sketchy and said the saints looked like "cruel, desperate" devils; Rosso sued for nine of the twenty-five florins; studies found an earlier version, Leonard repainted as Stephen with a stone on his forehead, Benedict changed to Anthony Abbot with a Tau; Jerome gaunt and scowling, the anti-classical early style; two child angels on the throne steps absorbed in Scripture) ; https://www.uffizi.it/en/artworks/pontormo-supper-emmaus (OFF: "Jacopo Carucci, known as Pontormo (Pontorme, Empoli, 1494 – …)"; Location D12; trained in several workshops before "joining that of Andrea del Sarto", where he worked alongside Rosso Fiorentino) ; https://pdf.uffizi.it/1792572271342-aggiornamento-al-21.10.26.pdf (OFF: three Pontormos from D12 on loan to the Scuderie del Quirinale, Rome, 8 Oct 2026 – 7 Feb 2027) ; https://www.uffizi.it/en/artworks/rosso-fiorentino-moses (OFF: Rosso born 1495, later at Fontainebleau) ; "Rosso" = red-haired: audit (general, OK)
+@lang: fr
+@translation: from the fact-checked English Uffizi 048 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Deux jeunes gens formés dans le même atelier florentin, celui d'Andrea del Sarto. À eux deux, ils ont enfreint presque toutes les règles qu'on y enseignait.
+
+Jacopo Carucci est né en 1494 à Pontorme, près d'Empoli, dont il a pris le nom : Pontormo. Giovanni Battista di Jacopo, d'un an son cadet, était surnommé Rosso, le rouquin. Ils sont parmi les premiers peintres de ce qu'on appelle aujourd'hui le maniérisme : élégant, troublant, délibérément étrange.
+
+Jusqu'au sept février 2027, trois tableaux de Pontormo de cette salle sont prêtés à une exposition à Rome.
+
+Ce retable de Rosso montre ce qui faisait scandale. En 1518, le prieur de l'hôpital de Santa Maria Nuova l'a commandé pour l'autel d'une veuve catalane, enterrée à l'église d'Ognissanti. En le voyant, il fut loin d'être ravi. [pause] Vasari rapporte qu'il le jugeait bâclé, et disait les saints pareils à des diables cruels et désespérés. Le tableau a été envoyé dans une église de campagne. [wry] Rosso l'a poursuivi pour l'argent encore dû.
+
+[pause] Regardez saint Jérôme, décharné et renfrogné. Vous devinez ce qui a choqué le prieur. Puis regardez plus bas, les deux petits anges sur les marches du trône, absorbés dans leur livre. Rosso savait aussi être tendre.
+
+Des études sous la peinture ont révélé un autre changement. Deux des saints ont été repeints pour la nouvelle église : l'un porte désormais une pierre au front, le martyr Étienne.
+
+Restez dans la salle D12 pour le Moïse défendant les filles de Jéthro de Rosso, un enchevêtrement d'hommes nus en lutte.

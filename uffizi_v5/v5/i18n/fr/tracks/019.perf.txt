@@ -1,0 +1,24 @@
+@id: 019 · FR · Room A12 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A12
+@type: X
+@title: Salles Botticelli · Extra · Magnificat, Grenade et Calomnie
+@where: Dans la salle de la Vénus, parmi les salles Botticelli. La Madone du Magnificat est le grand tableau rond à côté de la Vénus, où Marie écrit dans un livre. La Madone à la grenade est le tableau rond de l'autre côté de la Vénus. La Calomnie est un petit panneau foisonnant, de moins d'un mètre de large : des figures dans une salle de marbre au bord de la mer.
+@what: Sandro Botticelli, Virgin and Child, and Angels (Madonna of the Magnificat), c. 1483, tempera on wood, diameter 118 cm, inv. 1890 n. 1609; Madonna of the Pomegranate (named in the June 2026 news; no page read); Calumny of Apelles, c. 1495, tempera on wood, 62 × 91 cm, inv. 1890 no. 1496.
+@listen: A Madonna writing her own hymn, and the dark little allegory that closes Botticelli's story.
+@brief: A short, intimate aside; tender on the Madonna, then quietly serious on the Calumny.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/botticelli-madonna-of-the-magnificat (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1483 c.; tempera on wood; diameter 118 cm; inv. 1890 n. 1609; Mary writes "Magnificat anima mea Dominum" "under the guidance of her son"; Jesus "touching a pomegranate", red seeds recalling his blood; "crowned by two angels", without wings, in late-15th-century Florentine elite fashion; round paintings usually for noble settings, this large one perhaps for a tribunal of the Florentine Republic; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/calumny-botticelli (OFF: Location "A12. Botticelli, La Venere", mod. 12 Sep 2026; 1495 ca.; tempera on wood; 62 x 91 cm; inv. 1890 no. 1496; after a lost painting by Apelles known through Lucian; read right to left; king with donkey ears like Midas; Ignorance and Suspicion; Calumny with a torch pulling the victim "by the hair"; Rancour; Fraud and Deceit adorn her hair; Penitence in black turns toward Truth, "a naked young lady and ignored by the other characters"; portico over the sea with statues and reliefs; the Republic "inspired by Girolamo Savonarola") ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: Magnificat and Pomegranate flank the Venus; the sequence closes with the Calumny (1495)) ; Pallas and the Centaur NOT mentioned (PLAN)
+@lang: fr
+@translation: from the fact-checked English Uffizi 019 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Deux Madones rondes encadrent la Vénus. Dans la Madone du Magnificat, Marie écrit.
+
+Elle écrit les premiers mots de son cantique, Magnificat anima mea Dominum, « mon âme exalte le Seigneur », guidée par son fils. L'Enfant pose la main sur une grenade, dont les grains rouges rappellent le sang qu'il versera. Deux anges tiennent une couronne au-dessus d'elle. Sans ailes, ils sont vêtus comme de jeunes Florentins à la mode. [pause] Un tableau rond de plus d'un mètre a peut-être orné un tribunal de la République florentine. Sa Madone à la grenade est de l'autre côté de la Vénus.
+
+[pause] Trouvez ensuite la Calomnie d'Apelle, un petit panneau foisonnant. Peinte vers 1495, dans la Florence de Savonarole, elle clôt ici l'histoire de Botticelli. Il y recrée un tableau perdu du peintre grec antique Apelle, connu seulement par une description.
+
+Lisez-la depuis la droite. Un roi aux oreilles d'âne juge, conseillé par l'Ignorance et le Soupçon. La Calomnie, torche à la main, traîne sa victime par les cheveux, et la Fraude et la Tromperie la coiffent. [pause] La Pénitence, en noir, se tourne vers la Vérité. [quietly] La Vérité est nue, et nul autre dans le tableau ne la regarde.
+
+Passez la porte au bout des salles Botticelli pour entrer dans la salle A13 : le grand triptyque flamand.
