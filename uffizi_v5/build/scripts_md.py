@@ -5,7 +5,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT + '/v5/pipeline'); import v5_direction as V
 lang, out = sys.argv[1], sys.argv[2]
 src = ROOT + ('/v5/tracks' if lang == 'en' else f'/v5/i18n/{lang}/tracks')
-L = [f"# Yo Tours · Museo Nacional Thyssen-Bornemisza · audio guide scripts ({lang.upper()}) · 23 Oct 2026 edition", ""]
+L = [f"# Yo Tours · Uffizi Gallery · audio guide scripts ({lang.upper()}) · 24 Oct 2026 edition", ""]
 sec = None
 for f in sorted(glob.glob(src + '/*.perf.txt')):
     m, c = V.validate(f); n = os.path.basename(f)[:3]

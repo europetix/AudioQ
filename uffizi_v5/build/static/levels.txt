@@ -37,7 +37,7 @@
   }
  },
  "alias": {
-  "^A(9|1[0-2])$": {
+  "^(A(9|1[0-2])|Botticelli rooms|Salas? de Botticelli|Salles? Botticelli|Botticelli-Säle|Sale di Botticelli)$": {
    "en": "the Botticelli rooms",
    "es": "las salas de Botticelli",
    "fr": "les salles Botticelli",
