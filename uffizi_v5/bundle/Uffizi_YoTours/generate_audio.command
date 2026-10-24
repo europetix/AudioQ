@@ -88,7 +88,7 @@ fi
 
 echo ""
 echo "================================================================"
-echo "  Done. Full tour saved to: $OUTPUT_DIR"
+if [ "$SCOPE" = "3" ]; then echo "  Done. The Highlights tracks are recorded in: $OUTPUT_DIR (option 1 later adds the rest)"; else echo "  Done. Full tour saved to: $OUTPUT_DIR"; fi
 [ "$SCOPE" = "2" ] || [ "$SCOPE" = "3" ] || echo "  Shorter versions: ${OUTPUT_DIR}_Essential and ${OUTPUT_DIR}_Highlights"
 [ "$SCOPE" = "3" ] && echo "  Highlights (with the spoken 'next stop' lines): ${OUTPUT_DIR}_Highlights"
 echo "  One folder per section, tracks numbered in walking order."
