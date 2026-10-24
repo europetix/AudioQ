@@ -3,7 +3,7 @@
 @room: Room D28
 @type: R
 @title: D28 · The Verone
-@where: Room D28, the Verone: the long covered loggia at the river end of the first floor, with a row of statues (the pale green walls are from the museum's 2023 page; the Verone is in the 2026 works programme, so its look and opening are an on-site check, O35). Look for the statue of the old Silenus cradling the infant Bacchus in his arms.
+@where: Room D28, the Verone: the long covered loggia at the river end of the first floor, with a row of statues. Look for the statue of the old Silenus cradling the infant Bacchus in his arms.
 @what: The Verone, the covered loggia on the Arno, with ancient and Renaissance statues, among them three monumental works from the Villa Medici in Rome. Jacopo del Duca, Silenus cradling Bacchus as a child, made between 1571 and 1574, a copy after a Roman original.
 @listen: A pause between two centuries, and an old companion of the wine god holding a baby.
 @brief: A friend slowing down on purpose; light and easy, tender about the statue, then a quiet build toward Caravaggio.
