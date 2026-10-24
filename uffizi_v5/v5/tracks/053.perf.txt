@@ -3,7 +3,7 @@
 @room: Room D15
 @type: X
 @title: D15 · Extra · Titian's Duke and Duchess of Urbino
-@where: Room D15, the Room of the Dynasties. Find Titian's pair of portraits, each just over a metre high: a commander in polished armour against crimson velvet, with batons and a dragon-crested helmet on a shelf behind him, and a seated duchess in black and gold with a small dog beside her. Barocci's young duke in armour, his hand on a plumed helmet, is in the same room.
+@where: Room D15, the Room of the Dynasties. Find Titian's pair of portraits, each just over a metre high: a commander in polished armour against crimson velvet, with batons and a dragon-crested helmet on a shelf behind him, and a seated duchess with a small dog beside her. Barocci's young duke in armour, his hand on a plumed helmet, is in the same room.
 @what: Titian, Portrait of Francesco Maria della Rovere, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 n. 926; Titian, Portrait of Eleonora Gonzaga, Duchess of Urbino, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 no. 919. Also: Federico Barocci, Portrait of Francesco Maria II della Rovere, Duke of Urbino, 1572, oil on canvas, 113 × 93 cm, inv. 1890 n. 1438. All D15.
 @listen: A duke who lent Titian his armour, a duchess painted as the faithful wife, and the son who bought the Venus of Urbino.
 @brief: A brisk, slightly amused aside about vanity and armour, ending on a forward-looking link to the Venus.
