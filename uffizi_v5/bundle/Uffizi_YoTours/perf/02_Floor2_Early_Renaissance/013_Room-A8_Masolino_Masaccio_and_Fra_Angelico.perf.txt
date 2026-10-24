@@ -1,0 +1,22 @@
+@id: 013 · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: R
+@title: A8 · Masolino, Masaccio and Fra Angelico
+@where: Room A8, "Masaccio, Beato Angelico, P. Uccello". The Saint Anne is the gold panel with Saint Anne seated high behind the Virgin, who holds the Child on her lap; Uccello's wide battle scene is also in this room.
+@what: Masolino and Masaccio, Saint Anne, Madonna and Child, five angels ("Sant'Anna Metterza"), c. 1424–1425, tempera on wood, 175 × 103 cm, inv. 1890 no. 8386; Fra Angelico, Glorification of Mary, 1431–1435, with its predella, inv. 1890 no. 1612; Fra Angelico, Madonna and Child Enthroned with Angels, 1435, from Pontassieve, Deposits no. 143.
+@listen: Two painters called Tommaso, a Child built like Hercules, Fra Angelico's crowded heaven, and Uccello's love of perspective.
+@brief: An enthusiast at a turning point in the story; curious, then lingering on the Child's weight, a smile at Uccello.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/saint-anne-masaccio (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; Masolino, Tommaso di Cristofano Fini, and Masaccio, Tommaso di ser Giovanni, 1401–1428; 1424-1425 ca.; tempera on wood; 175 x 103 cm; for Sant'Ambrogio, as Vasari specified; Vasari gave it all to Masaccio, Longhi in 1940 gave part to Masolino; Masolino the "monastic and stern" Saint Anne, Masaccio Mary and the "herculean" Child of "solid and full volumes"; "Metterza", "she is in the third position"; text Daniela Parenti) ; https://www.uffizi.it/en/artworks/angelico-glorification (OFF: Location A8; 1431-1435; "over forty figures" of saints; Christ "about to adorn the diadem with a precious stone"; predella separated in the second half of the 16th century, "reunification in Spring 2024") ; https://www.uffizi.it/en/artworks/madonna-child-pontassieve (OFF: Location A8; 1435; centrepiece of a polyptych for San Michele Arcangelo, Pontassieve; the Child's pale skin appears to glow) ; Masaccio died at 26, Fra Angelico a Dominican: audit 012 OK ; Uccello and "what a sweet thing this perspective is": VASARI ; no "rooms 10–12 closed" (NEVER) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF saint-anne-masaccio re-read: "for the Sant'Ambrogio Church in Florence, as specified in the Lives by Giorgio Vasari"; OFF angelico-glorification re-read: predella separated "in the second half of the 16th century", reunited Spring 2024
+---
+[curious] In this room the gold begins to come down, and a new kind of space comes in. It starts with two painters who were both called Tommaso.
+
+Masolino and Masaccio painted the Saint Anne with the Virgin and Child together, around 1424, for the church of Sant'Ambrogio, according to Vasari. Its old name, Sant'Anna Metterza, means Anne "in third place": grandmother, mother and son, one above the other. Vasari gave the whole panel to Masaccio. Today the stern Saint Anne is given to Masolino, and the Virgin and Child to Masaccio. [pause] Look at that Child. He's solid and heavy, almost a little Hercules. Masaccio was in his early twenties. He died at twenty-six.
+
+Fra Angelico, a Dominican friar, takes you somewhere gentler. His Glorification of Mary is crowded with more than forty saints, each one an individual. Christ isn't crowning his mother. He's adding a precious stone to her diadem. Its predella was separated from it more than four centuries ago, and was reunited with it here in 2024. Look too for his Madonna from Pontassieve, of 1435, where the Child's pale skin almost glows.
+
+[amused] And Paolo Uccello? Vasari tells that he sat up all night over his perspective. When his wife called him to bed, he answered, "What a sweet thing this perspective is."
+
+Stay in Room A8 for Paolo Uccello's Battle of San Romano, the wide panel of horses and broken lances.

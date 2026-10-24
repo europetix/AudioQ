@@ -1,0 +1,24 @@
+@id: 024 · Room A25 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A25
+@type: R
+@title: A25 · Domenico Veneziano — Santa Lucia altarpiece
+@where: Room A25, "Domenico Veneziano, Piero della Francesca". Stand in front of the big, almost square altarpiece, about two metres each way: the Virgin and Child enthroned under a light, pink and green marble loggia, with two saints on each side and orange trees above.
+@what: Domenico Veneziano, Madonna and Child enthroned with St. Francis, John the Baptist, St. Zenobius and St. Lucy (Santa Lucia de' Magnoli Altarpiece), c. 1445, tempera on wood, 209 × 213 cm, 1890 n. 884; restored 2024 by the Opificio delle Pietre Dure.
+@listen: A painter from Venice who filled an altarpiece with daylight, and the murder Vasari invented for him.
+@brief: A friend setting the record straight, wry about Vasari, then pleased to point out the light.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/veneziano-madonna-and-child-enthroned (OFF, text Daniela Parenti: Location "A25. Domenico Veneziano - Piero della Francesca"; 1445 c.; tempera on wood; 209 × 213 cm; Domenico, Venice early 15th c. – Florence 1461; high altar of Santa Lucia de' Magnoli; portico with marble columns and boughs of orange trees above; pointed arches; light tones; "clear light entering from the right"; shadows on the floor "perfectly proportioned"; St Lucy holds a dish bearing her eyes; Zenobius a bishop; signed on the step of the dais "OPUS DOMINICI DE VENETIIS HO[C] MATER DEI MISERERE MEI DATUM EST"; predella now in Washington, Cambridge (Fitzwilliam) and Berlin; restored 2024) ; AUDIT IAS-cast (SNIP) + Vasari: Vasari's story that Andrea del Castagno murdered him; Castagno died in 1457, four years before Domenico ; AUDIT (general): Piero worked as his assistant in the 1430s
+---
+[wry] Vasari tells a dark story about the man who painted this. He says a jealous rival, Andrea del Castagno, murdered him. It's a gripping tale. It's also impossible. Castagno died in 1457, and Domenico Veneziano outlived him by four years.
+
+Domenico came from Venice and worked in Florence. Around 1445 he painted this altarpiece for the high altar of the little church of Santa Lucia de' Magnoli. And instead of gold, he gave it daylight.
+
+Look at how the light comes in from the right. It falls across the marble loggia and lays soft, exact shadows on the floor. Above the arches, branches of orange trees push into a clear sky. Four saints stand in that light. Saint Francis and John the Baptist are on the left. On the right are Saint Zenobius, a bishop of Florence, and Saint Lucy, holding a dish with her own eyes on it.
+
+[curious] Then drop your gaze to the step under the Virgin's throne. Domenico signed it there, and added a prayer: "Mother of God, have mercy on me". The small scenes that once stood beneath the altarpiece are now scattered between Washington, Cambridge and Berlin.
+
+A younger painter worked as his assistant in the 1430s, and learned what this kind of light could do. His name was Piero della Francesca.
+
+Stay in Room A25 for Piero della Francesca's two small facing profiles, the Duke and Duchess of Urbino.

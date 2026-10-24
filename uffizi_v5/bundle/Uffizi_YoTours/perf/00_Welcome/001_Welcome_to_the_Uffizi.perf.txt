@@ -1,0 +1,24 @@
+@id: 001 · Outside · 24 Oct 2026 edition
+@section: Opening
+@room: Outside
+@type: ANCHOR
+@title: Welcome to the Uffizi
+@where: Outside, in the Piazzale degli Uffizi: the long, narrow stone courtyard between the two wings of the building, with statues of famous Tuscans in the niches along the piers and the river at the far end.
+@what: The Uffizi building, designed by Giorgio Vasari for Cosimo I de' Medici, built 1560–1580 and completed after 1574 by Francesco I and Bernardo Buontalenti; the gallery's opening to the public on 24 June 1769; the Family Pact of 1737; how the guide works.
+@listen: How a block of government offices became one of the world's first public museums, why the collection never left Florence, and how to use the three lengths of this guide.
+@brief: A warm, unhurried welcome to a friend at the door; one wry smile at the pact's last words, then plain, confident practical guidance.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/ll-palazzo-degli-uffizi (OFF: Vasari commissioned by Cosimo I to bring the administrative offices, the "uffizi", under one roof; Cosimo I and Vasari died 1574; Francesco I and Buontalenti finished it) ; https://www.uffizi.it/en/the-uffizi (OFF: building "constructed between 1560 and 1580 and designed by Giorgio Vasari"; lifts available; mod. 20 Oct 2026) ; https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF: Francesco I in the 1580s adorned the loggia crowning the courtyard with statues and paintings, a collection "initially intended exclusively for him and his court"; the Gallery "gradually opened to a select number of visitors from outside the court"; opened to the public by Peter Leopold in 1769) ; https://www.uffizi.it/en/news/rinasce-lingresso-storico-degli-uffizi (OFF: opened 24 June 1769 by Peter Leopold, "one of the world's first museums created with a modern concept") ; SEC https://www.sma.unifi.it/index.php?func=viewpage&module=CMpro&newlang=eng&pageid=518 (Family Pact after Gian Gastone's death in 1737, with the Habsburg-Lorraine; nothing to leave "the capital and State of the Grand Duchy"; "ornament of the State, for the benefit of the public and to attract the curiosity of foreign visitors") ; SEC https://www.finestresullarte.info/attualita/firenze-celebra-elettrice-palatina-alle-cappelle-medicee (pact signed 31 Oct 1737; "a ornamento dello Stato, per utilità del Pubblico e per attirare la curiosità dei Forestieri") ; MAP source/map.txt and research/map/p-1.png, p-3.png (museum entrance, Granducal staircase with lift, A1 Lorenese Vestibule, A2 Eastern Corridor) ; lengths from WRITER_BRIEF (O40 to confirm)
+---
+[warmly] The most famous art gallery in Florence began life as an office block. The word Uffizi simply means "offices".
+
+Around you is the Piazzale degli Uffizi, the long stone courtyard between the two wings, with statues of famous Tuscans standing in the niches. In 1560, Duke Cosimo the First de' Medici began this building to a design by Giorgio Vasari, to bring the offices of the Florentine state under one roof. Vasari and Cosimo both died in 1574. Cosimo's son Francesco and the architect Bernardo Buontalenti finished it.
+
+Francesco filled the top-floor loggia with ancient statues and paintings, a private gallery for himself and his court. Over the next century, a select few visitors from outside the court were let in. Then, on the 24th of June 1769, Grand Duke Peter Leopold opened it to the public. The museum calls it one of the world's first museums created with a modern concept.
+
+[pause] Why is it all still here? After the last Medici grand duke died, his sister, Anna Maria Luisa, made a Family Pact with the new ruling house of Lorraine. Nothing was ever to be taken away from Florence and the State. The collections would stay, in the pact's words, for the ornament of the State, the benefit of the public, and to attract the curiosity of foreigners. [amused] Which, today, means you.
+
+This guide comes in three lengths. The full tour takes about two and three-quarter hours, the essential version about two hours, and the highlights about an hour and a quarter. Whichever one is on your phone, play it in order. The numbers may jump, and every stop tells you where to go next. We start on the second floor and finish on the first.
+
+Go in at the museum entrance and climb the Granducal staircase all the way to the second floor. There is a lift beside it. At the top, walk through the vestibule, Room A1, into the long corridor lined with marble statues: Room A2, the Eastern Corridor.

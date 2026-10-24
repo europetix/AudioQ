@@ -1,0 +1,49 @@
+{
+ "note": "Uffizi, 24 Oct 2026: floors for the spoken 'next stop' bridges (make_lengths.py). Rooms A = second floor, B to E = first floor.",
+ "rules": [
+  [
+   "^(Room|Sala|Salle|Saal) A\\d",
+   2
+  ],
+  [
+   "^(Room|Sala|Salle|Saal) [B-E]\\d",
+   1
+  ],
+  [
+   "^(Magliabechi|Scalone|Escalera|Escalier|Treppe)",
+   1
+  ]
+ ],
+ "say": {
+  "en": {
+   "1": ", on the first floor",
+   "2": ", on the second floor"
+  },
+  "es": {
+   "1": ", en la primera planta",
+   "2": ", en la segunda planta"
+  },
+  "fr": {
+   "1": ", au premier étage",
+   "2": ", au deuxième étage"
+  },
+  "de": {
+   "1": ", im ersten Stock",
+   "2": ", im zweiten Stock"
+  },
+  "it": {
+   "1": ", al primo piano",
+   "2": ", al secondo piano"
+  }
+ },
+ "alias": {
+  "^(A(9|1[0-2])|Botticelli rooms|Salas? de Botticelli|Salles? Botticelli|Botticelli-Säle|Sale di Botticelli)$": {
+   "en": "the Botticelli rooms",
+   "es": "las salas de Botticelli",
+   "fr": "les salles Botticelli",
+   "de": "die Botticelli-Säle",
+   "it": "le sale di Botticelli"
+  }
+ },
+ "skip_extras_silently": true
+}

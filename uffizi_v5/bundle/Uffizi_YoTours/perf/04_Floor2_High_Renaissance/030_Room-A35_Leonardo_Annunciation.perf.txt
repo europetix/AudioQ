@@ -1,0 +1,26 @@
+@id: 030 · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: W
+@title: A35 · Leonardo — Annunciation
+@where: Room A35. Stand in front of the long, low panel, more than two metres wide and less than one high: the angel kneels on a flowery lawn at the left, the Virgin sits at a carved marble lectern at the right, and dark trees and a misty distance open between them.
+@what: Leonardo da Vinci, Annunciation, c. 1472, oil on wood, 90 × 222 cm, 1890 n. 1618; at the Uffizi since 1867, from San Bartolomeo a Monteoliveto.
+@listen: A painting nobody can trace to its first church, made by a young man already looking harder than anyone around him.
+@brief: Close and attentive, a friend pointing out details one by one; curious, then quietly delighted at the arm.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/annunciation (OFF, mod. 22 Nov 2023, text Daniela Parenti: Location "A35. Leonardo da Vinci"; 1472 c.; oil on wood; 90 × 222 cm; brought to the Uffizi in 1867 from San Bartolomeo a Monteoliveto outside Porta San Frediano; "nothing is known about its original location or who commissioned it"; a youthful work painted while in Verrocchio's studio; angel "proffering a lily"; wings "based on those of a mighty bird of prey"; lectern reproduces a Verrocchio invention inspired by the tomb of Piero the Gouty in San Lorenzo; enclosed garden before a Renaissance palace, hortus conclusus; dark tree shapes, crepuscular light; the Virgin's right arm "appears too long", possibly reflecting early optical studies and a viewpoint from the right; lowered partly because the painting once hung over a side altar) ; AUDIT: drop "hung high" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: "nothing is known about its original location or who commissioned it" and "a lateral viewpoint (from the right) and lowered, due to the original location of the painting, over a side altar" (spoken: the side altar only as the museum's suggestion)
+---
+[curious] Nobody knows who ordered this painting. It reached the Uffizi in 1867, from a small church just outside the city gates. What we do know is that Leonardo was about twenty, and still working in Verrocchio's studio.
+
+The scene is the Annunciation. The angel Gabriel kneels on the left and holds out a lily. The Virgin, on the right, looks up from her book. Between them is an enclosed garden, the old symbol of her purity, in front of a palace.
+
+Now look the way Leonardo looked. Start with the angel's wings. They aren't the usual decorative feathers. The museum says they're based on the wings of a mighty bird of prey. Then the lawn under the angel, full of separate flowers, each one observed. Then the far distance, past the dark trees, where everything fades into a pale, misty blue.
+
+[pause] Look at the marble lectern in front of the Virgin. It copies a design by his master Verrocchio, inspired by the tomb of Piero de' Medici, known as Piero the Gouty, in the church of San Lorenzo. A real Florentine monument, slipped into a sacred scene.
+
+[lightly] Then the famous problem. Look at the Virgin's right arm, reaching for the book. It seems too long. Was the young painter careless? Perhaps not. The museum suggests it was planned to be seen from the right and from lower down, over a side altar. So take a few steps to your right, and look again. See whether the arm settles.
+
+Barely twenty, he was already asking his own questions about how our eyes really see.
+
+Stay in Room A35 for Leonardo's unfinished Adoration of the Magi, the big brown panel.

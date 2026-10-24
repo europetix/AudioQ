@@ -45,9 +45,10 @@ TR = {}
 for f in sorted(glob.glob(os.path.join(TRACKS, "[0-9][0-9][0-9].perf.txt"))):
     n = int(os.path.basename(f)[:3]); h, w = read_track(f); p = PLAN_ROWS.get(n, {})
     TR[n] = dict(type=h.get("type") or p.get("type", "R"), room=h.get("room") or p.get("room", ""),
-                 title=h.get("title") or p.get("title", ""), words=w, src="track")
+                 title=h.get("title") or p.get("title", ""), words=w, src="track", section=h.get("section", ""))
+_complete = any(v["type"] == "CLOSE" for v in TR.values())   # all tracks written: PLAN numbering no longer applies
 for n, p in PLAN_ROWS.items():
-    if n not in TR: TR[n] = dict(p, words=0)
+    if n not in TR and not _complete: TR[n] = dict(p, words=0)
 NUMS = sorted(TR)
 N_TRACK = sum(1 for n in NUMS if TR[n]["src"] == "track")
 XS = {n for n in NUMS if TR[n]["type"] == "X"}
@@ -96,6 +97,7 @@ SECS = {  # PLAN section -> (short title, subtitle, colour)
     "Closing": ("The way out", "Magliabechi staircase", "#6A3A6B"),
 }
 def section(n):
+    if TR.get(n, {}).get("section"): return TR[n]["section"]
     for a, b, s in SECRANGE:
         if a <= n <= b: return s
     return PLAN_ROWS.get(n, {}).get("section", "")
