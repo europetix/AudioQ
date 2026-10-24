@@ -1,24 +1,24 @@
-@id: 061 · Room D28 · 24 Oct 2026 edition
-@section: First floor · Venice and the Verone
-@room: Room D28
+@id: 061 · Room E4 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E4
 @type: R
-@title: D28 · The Verone
-@where: Room D28, the Verone: the long covered loggia at the river end of the first floor, with very pale green walls and a row of statues. Look for the statue of the old Silenus cradling the infant Bacchus in his arms.
-@what: The Verone, the covered loggia on the Arno, with ancient and Renaissance statues, among them three monumental works from the Villa Medici in Rome. Jacopo del Duca, Silenus cradling Bacchus as a child, made between 1571 and 1574, a copy after a Roman original.
-@listen: A pause between two centuries, and an old companion of the wine god holding a baby.
-@brief: A friend slowing down on purpose; light and easy, tender about the statue, then a quiet build toward Caravaggio.
-@pace: medium-slow
-@energy: 1→2→3
-@sources: https://www.uffizi.it/en/video/the-loggia-on-the-arno-river-and-the-statue-of-silenus-cradling-bacchus-as-a-child (OFF, mod. 26 Oct 2023: "Verone" is a covered loggia on the Arno River; walls "coloured in a very pale and elegant green"; gathering ancient and Renaissance statues; three monumental works from the Villa Medici in Rome; Silenus cradling Bacchus as a child, theme "Fatherhood"; Jacopo Del Duca, Cefalù c. 1520 – 1604; copy from a Roman statue, 1571–1574; the page does not state the material, so none is given) ; Silenus as Bacchus's companion and tutor: general mythology. The view is not described (O35). "A good place to rest your eyes": audit wording.
+@title: E4 · Caravaggio's room
+@where: Room E4, Caravaggio – The Medusa, the first room off the corridor after the Verone. Find the wide canvas, about 1.35 metres across, of an angel seizing an old man's wrist as he is about to sacrifice a boy, with a calm hilly landscape behind. Guido Reni's tall David in a red feathered hat is in the same room.
+@what: Caravaggio, Sacrifice of Isaac, about 1603, oil on canvas, 104 × 135 cm, inv. 1890 no. 4659. Also: Guido Reni, David with the Head of Goliath, about 1605, oil on canvas, 222 × 147 cm. Artemisia Gentileschi's Judith and Caravaggio's Medusa are in this room (063, 064).
+@listen: Who Caravaggio was, the angel's grip that stops a sacrifice, and how a Caravaggio reached the Uffizi under someone else's name.
+@brief: Low and serious at first, then storytelling; a wry note on the mistaken attribution.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/sacrifice-of-isaac (OFF: Caravaggio, Milan 1571 – Porto Ercole 1610; c. 1603; oil on canvas 104 × 135; inv. 1890 no. 4659; Location "E4. Caravaggio (The Medusa) e Artemisia"; theme indicated by Maffeo Barberini, later Urban VIII, payments to the painter; the angel "grasps the old man's wrist with a strong, tight grip" and points to the ram; wide hilly landscape with cottages and a village; donated to the Uffizi in July 1917 by John Fairfax Murray, who bought it as a work by Gherardo delle Notti) ; https://www.uffizi.it/en/artworks/reni-david-with-the-head-of-goliath (OFF: 1605 c.; 222 × 147; Location "E4. Caravaggio (The Medusa)"; pose of a dandy with red feathered hat; moonlike light; contemplating the head; openness to Caravaggio's methods in Rome; "elegant detachment") ; Tomassoni 1606, death 1610 aged 38, tenebrism, Caravaggisti: audit wording (general). Not mentioned: the 17th-century gallery "due to open soon".
 ---
-[lightly] After so many rooms of paint, here is a space with hardly any paintings at all. That's rather the point.
+[quietly] In Rome in 1606, Caravaggio killed a man named Ranuccio Tomassoni. He spent the rest of his life on the run, and he died in 1610, aged thirty-eight.
 
-The Uffizi calls the Verone a covered loggia on the Arno. Its walls are a very pale, elegant green, and it gathers ancient and Renaissance statues. Three of the biggest came from the Villa Medici in Rome, the family's grand house in that city. This is a good place to rest your eyes, and your feet.
+In a career that short, he changed European painting. He took real faces, ordinary and lined, and struck them with a hard light out of deep darkness. That way of painting is called tenebrism, from the Italian word for shadows. Painters all over Europe copied it, and they became known as the Caravaggisti. This room and the three after it follow them.
 
-Look for Silenus cradling the infant Bacchus. In the myths, Silenus was the old companion and teacher of the wine god, usually shown drunk and cheerful. Here he is something gentler: a foster father holding a baby. The museum presents the statue under a single word, fatherhood. The Sicilian sculptor Jacopo del Duca made this version between 1571 and 1574, copying an ancient Roman original.
+Start with the Sacrifice of Isaac. God has ordered Abraham to kill his son, and the old man has the boy pinned down. At the last instant an angel grips his wrist, hard, and points to the ram that will die instead. [pause] Look at that hand on the wrist. The whole story turns on it. Behind them stretches a wide, calm landscape of hills and a village. The subject was chosen by a powerful churchman, Maffeo Barberini, who later became Pope Urban the Eighth.
 
-[warmly] Keep that baby in mind. In a few minutes you'll meet him again, grown up, in a painting by Caravaggio, holding out a glass of wine.
+[wry] It came to the Uffizi as a gift from the collector John Fairfax Murray. He had bought it believing it was by another painter entirely, Gherardo delle Notti. You'll meet him two rooms from here.
 
-[pause] Behind you now is the whole sixteenth century: Lombardy, Ferrara and Bologna, the Florentine court of Bronzino, and Venice with Titian and Veronese. Ahead is the seventeenth century, and a painter who changed everything with a beam of light and a great deal of darkness.
+Guido Reni was in Rome in the same years, and he borrowed Caravaggio's darkness without his violence. His David poses like a dandy in a red feathered hat, calmly considering the giant's head. Artemisia Gentileschi's Judith hangs in this room too.
 
-At the end of the Verone, turn left along the corridor. The first room, E4, is Caravaggio's. Look for the round shield with Medusa's screaming head.
+Stay in Room E4 for Caravaggio's Medusa, the screaming head painted on a round shield.

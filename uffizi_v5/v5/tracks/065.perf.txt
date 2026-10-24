@@ -1,26 +1,24 @@
-@id: 065 · Room E5 · 24 Oct 2026 edition
+@id: 065 · Room E6 · 24 Oct 2026 edition
 @section: First floor · The 17th century
-@room: Room E5
-@type: W
-@title: E5 · Caravaggio — Bacchus
-@where: Room E5, Caravaggio – Il Bacco. Stand in front of the canvas, about a metre high, of a young man crowned with vine leaves who holds out a glass of red wine, with a bowl of fruit in front of him.
-@what: Caravaggio, Bacchus, about 1598, oil on canvas, 95 × 85 cm, inv. 1890 n. 5312 (page "D32" in the old numbering; the map says E5).
-@listen: A Caravaggio found in the storerooms, a god with dirty fingernails, and a tiny reflection in the carafe that no visitor can see.
-@brief: Curious and amused, close to the picture, with a quiet turn at the end.
-@pace: medium
-@energy: 2→3→3
-@sources: https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: 1598 c.; oil on canvas 95 × 85; inv. 1890 n. 5312; Location "D32. Caravaggio - The Bacchus" = map E5; found in the Uffizi storerooms in 1913 and attributed by Roberto Longhi; early Roman career under Cardinal del Monte; donated by del Monte, with the Medusa, to Ferdinando I "on the occasion of the wedding of his son Cosimo II" (1608); the figure reproduces classical models, the portraits of Antinous; fruit and cup of wine "surprising" in naturalism; stunned look of inebriation, languid sensuality; "a Horatian invitation to frugality, conviviality and friendship"; Mina Gregori: "celebrates the freedom of senses"; text Patrizia Naldini) ; SEC https://www.theartnewspaper.com/2009/11/01/technology-reveals-caravaggio-self-portrait (found in 1922 when dirt and varnish were removed; 2009 multispectral infrared reflectography, Opificio delle Pietre Dure with INOA; "a man in contemporary clothes that can easily be linked to the painter himself"; "not visible to the naked eye") ; dirty fingernails and spoiling fruit: visible details per audit (O36). Never told to look for the reflection.
+@room: Room E6
+@type: R
+@title: E6 · Painting by candlelight
+@where: Room E6, Painting by Candlelight. Look for the wide night scene, about 1.3 metres across, of the Virgin, Joseph leaning on his stick and two angels bending over a manger, all lit by the newborn Child.
+@what: Gerrit van Honthorst, Adoration of the Child, about 1619–1620, oil on canvas, 95.5 × 131 cm, inv. 1890 no. 739.
+@listen: Gerard of the Nights, and a Nativity where the only light comes from the baby.
+@brief: Hushed, as if the room were dark; warm and tender in the looking.
+@pace: slow
+@energy: 1→2→2
+@sources: https://www.uffizi.it/en/artworks/adoration_of_the_child_gherrit_van_honthorst (OFF: Gerrit Van Honthorst, Utrecht 1590–1656; 1619–1620 c.; oil on canvas 95.5 × 131; inv. 1890 no. 739; Location "E6. Painting by Candlelight"; Virgin, St Joseph leaning on his cane, two angels bending over the manger; "The divine light spread from the newborn's body softens each feature, in particular the facial ones of the Virgin"; Gherardo delle Notti, "Gerard of the nights", nocturnal lighting influenced by Caravaggio, met in Rome in the first decades of the 17th century; Cosimo II "bought some of his works in 1620", this one probably among them) ; https://www.uffizi.it/en/artworks/sacrifice-of-isaac (OFF: bought by Fairfax Murray as a work by Gherardo delle Notti). NOT used: the bomb-damaged Adoration of the Shepherds, because its room is not confirmed (O36; see notes for a held sentence).
 ---
-[curious] For years, this painting sat in the Uffizi's storerooms, and nobody knew what it was. Then in 1913 it was found, and the art historian Roberto Longhi gave it back to Caravaggio.
+[quietly] In this room, the light doesn't come in through a window. It comes from inside the pictures.
 
-It's an early work, from his first years in Rome, when he lived under the protection of Cardinal del Monte, the man who sent the Medusa to Florence. According to the museum, the cardinal gave this one to Grand Duke Ferdinando for the wedding of his son Cosimo.
+Gerrit van Honthorst was a Dutch painter from Utrecht. Early in the seventeenth century he went to Rome, and there he saw what Caravaggio had done with darkness. He took that hard spotlight and made it warmer and more intimate: candles, lamps, faces glowing in the night. The Italians gave him a nickname for it, Gherardo delle Notti, Gerard of the Nights. [wry] You've already met his name once, on the Caravaggio that a collector bought thinking it was his.
 
-So here is Bacchus, god of wine, crowned with vine leaves. He holds out a glass toward you, as if inviting you to drink. [pause] Now look a little closer. The fruit in the bowl is not all perfect. Some of it is already bruised and turning. And look at his hands. The fingernails are dirty. [amused] He is a god. He is also, quite clearly, a young man from Caravaggio's studio, with a heavy, slightly drunken look.
+His Adoration of the Child was painted around 1619 or 1620. There is no candle in it at all. [pause] The light pours out of the newborn's body. It softens the Virgin's face as she leans over him. It catches Joseph, leaning on his stick, and two angels bending over the manger. Everything outside that small circle sinks back into the night.
 
-The body follows classical models, the ancient portraits of Antinous, the beautiful youth loved by the emperor Hadrian. The face does not. Some critics read the wine and fruit as an invitation to friendship and simple pleasures. Others see a celebration of the freedom of the senses. And many notice that fruit on the turn is a quiet reminder that ripeness does not last.
+Grand Duke Cosimo the Second bought some of Honthorst's works in 1620, and this was probably one of them. So it may have reached the Medici almost as soon as it was painted.
 
-[conspiratorial] There is one more secret, and you won't be able to see it. When the painting was cleaned in 1922, a tiny reflection appeared in the glass carafe on the table. In 2009, infrared imaging showed what it was: a man in the clothes of the time, very probably the painter himself. It cannot be seen with the naked eye, so don't strain for it.
+[warmly] Caravaggio used darkness to shock. In this room it is used to hold people close together.
 
-[warmly] Caravaggio offers you the glass. And somewhere in the carafe, he stays to watch you take it.
-
-Next room along, Room E6, Painting by Candlelight. Look for the Nativity lit only by the glowing Child.
+Next room along, Room E7. Look for Rembrandt's portrait of an old bearded man, lost in thought against a dark background.

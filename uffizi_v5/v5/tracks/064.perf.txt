@@ -1,26 +1,26 @@
-@id: 064 · Room E4 · 24 Oct 2026 edition
+@id: 064 · Room E5 · 24 Oct 2026 edition
 @section: First floor · The 17th century
-@room: Room E4
+@room: Room E5
 @type: W
-@title: E4 · Artemisia Gentileschi — Judith Beheading Holofernes
-@where: Room E4. Stand in front of the tall dark canvas, almost one and a half metres high, of two women holding a man down on a bed while one drives a sword into his neck, blood running onto the white sheets.
-@what: Artemisia Gentileschi, Judith Beheading Holofernes, about 1620, oil on canvas, 146.5 × 108 cm, inv. 1890 n. 1567 (page "D29" in the old numbering; the map puts Artemisia in E4).
-@listen: A painting that shocked Florence, the woman who painted it, and the fee she needed Galileo to collect.
-@brief: Serious and steady, never sensational; respect for Artemisia, one dry note about the unpaid bill.
-@pace: medium-slow
-@energy: 3→4→3
-@sources: https://www.uffizi.it/en/artworks/judith-beheading-holofernes (OFF: Artemisia Gentileschi, Rome 1593 – Naples 1652/53; 1620 c.; oil on canvas 146.5 × 108; inv. 1890 n. 1567; Location "D29. Caravaggio and Artemisia" = map E4; Judith, a young Jewish woman of Bethulia, kills the Assyrian general Holofernes to free Israel; "The Lord has struck him down by the hand of a woman"; the drunk general on the bed, head grabbed by the hair, sword in his neck; "blood spurting so profusely as to stain Judith's breast"; completed in Rome after seven years in Florence; payment agreed with Cosimo II, who "died in 1621 shortly after the great canvas was completed"; needed "the help of her friend Galileo Galilei"; strong reactions on its arrival in Florence; "denied the honor of being exhibited in the Gallery"; first woman admitted to the Academy of Art and Design in Florence) ; SEC https://www.nationalgallery.org.uk/exhibitions/past/artemisia/artemisia-in-her-own-words (trial of 1612; Agostino Tassi convicted of her rape; tortured to test her statement with the sibille, "cords wrapped around the fingers and pulled tight"; quote "I have told the truth and I always will, because it is true and I am here to confirm it wherever necessary") ; her father Orazio a painter: audit (general).
+@title: E5 · Caravaggio — Bacchus
+@where: Room E5, Caravaggio – Il Bacco. Stand in front of the canvas, about a metre high, of a young man crowned with vine leaves who holds out a glass of red wine, with a bowl of fruit in front of him.
+@what: Caravaggio, Bacchus, about 1598, oil on canvas, 95 × 85 cm, inv. 1890 n. 5312 (page "D32" in the old numbering; the map says E5).
+@listen: A Caravaggio found in the storerooms, a god with dirty fingernails, and a tiny reflection in the carafe that no visitor can see.
+@brief: Curious and amused, close to the picture, with a quiet turn at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: 1598 c.; oil on canvas 95 × 85; inv. 1890 n. 5312; Location "D32. Caravaggio - The Bacchus" = map E5; found in the Uffizi storerooms in 1913 and attributed by Roberto Longhi; early Roman career under Cardinal del Monte; donated by del Monte, with the Medusa, to Ferdinando I "on the occasion of the wedding of his son Cosimo II" (1608); the figure reproduces classical models, the portraits of Antinous; fruit and cup of wine "surprising" in naturalism; stunned look of inebriation, languid sensuality; "a Horatian invitation to frugality, conviviality and friendship"; Mina Gregori: "celebrates the freedom of senses"; text Patrizia Naldini) ; SEC https://www.theartnewspaper.com/2009/11/01/technology-reveals-caravaggio-self-portrait (found in 1922 when dirt and varnish were removed; 2009 multispectral infrared reflectography, Opificio delle Pietre Dure with INOA; "a man in contemporary clothes that can easily be linked to the painter himself"; "not visible to the naked eye") ; dirty fingernails and spoiling fruit: visible details per audit (O36). Never told to look for the reflection.
 ---
-[quietly] When this painting reached Florence, it caused a stir. According to the museum, it was denied the honour of being shown in the Gallery. Today it hangs at the heart of it.
+[curious] For years, this painting sat in the Uffizi's storerooms, and nobody knew what it was. Then in 1913 it was found, and the art historian Roberto Longhi gave it back to Caravaggio.
 
-The story is from the Bible. Judith, a young Jewish woman, saves her besieged town by going into the enemy camp. After a banquet, the Assyrian general Holofernes falls into a drunken sleep, and she kills him. "The Lord has struck him down by the hand of a woman."
+It's an early work, from his first years in Rome, when he lived under the protection of Cardinal del Monte, the man who sent the Medusa to Florence. According to the museum, the cardinal gave this one to Grand Duke Ferdinando for the wedding of his son Cosimo.
 
-[pause] Look at how Artemisia Gentileschi stages it. This is no graceful heroine holding a tidy sword. The general lies across the bed, his head gripped by the hair. Judith braces her arms and works the blade into his neck. Her maid leans on him to hold him down. And the blood spurts so hard it stains Judith's own dress.
+So here is Bacchus, god of wine, crowned with vine leaves. He holds out a glass toward you, as if inviting you to drink. [pause] Now look a little closer. The fruit in the bowl is not all perfect. Some of it is already bruised and turning. And look at his hands. The fingernails are dirty. [amused] He is a god. He is also, quite clearly, a young man from Caravaggio's studio, with a heavy, slightly drunken look.
 
-Artemisia was the daughter of a Roman painter, Orazio. In 1612 a court in Rome convicted Agostino Tassi, a painter who worked with her father, of raping her. During the trial she herself was tortured to test her word, with cords wrapped round her fingers and pulled tight. She held to her account. "I have told the truth and I always will, because it is true." Many people read that ordeal into this picture. Perhaps. But it was her painting, not her suffering, that made her name.
+The body follows classical models, the ancient portraits of Antinous, the beautiful youth loved by the emperor Hadrian. The face does not. Some critics read the wine and fruit as an invitation to friendship and simple pleasures. Others see a celebration of the freedom of the senses. And many notice that fruit on the turn is a quiet reminder that ripeness does not last.
 
-She spent seven years in Florence, and she became the first woman admitted to the city's Academy of Drawing. She agreed the fee for this canvas with Grand Duke Cosimo the Second. He died in 1621, soon after it was finished, and the money stalled. [wry] To get paid, she needed help from her friend Galileo Galilei.
+[conspiratorial] There is one more secret, and you won't be able to see it. When the painting was cleaned in 1922, a tiny reflection appeared in the glass carafe on the table. In 2009, infrared imaging showed what it was: a man in the clothes of the time, very probably the painter himself. It cannot be seen with the naked eye, so don't strain for it.
 
-[warmly] Two women working together, and a painter who refused to look away. Florence wasn't ready to hang it. The world has caught up.
+[warmly] Caravaggio offers you the glass. And somewhere in the carafe, he stays to watch you take it.
 
-Next room along, Room E5: Caravaggio's Bacchus, the young god holding out a glass of wine.
+Next room along, Room E6, Painting by Candlelight. Look for the Nativity lit only by the glowing Child.

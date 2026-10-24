@@ -1,24 +1,28 @@
-@id: 066 · Room E6 · 24 Oct 2026 edition
+@id: 066 · Room E7 · 24 Oct 2026 edition
 @section: First floor · The 17th century
-@room: Room E6
+@room: Room E7
 @type: R
-@title: E6 · Painting by candlelight
-@where: Room E6, Painting by Candlelight. Look for the wide night scene, about 1.3 metres across, of the Virgin, Joseph leaning on his stick and two angels bending over a manger, all lit by the newborn Child.
-@what: Gerrit van Honthorst, Adoration of the Child, about 1619–1620, oil on canvas, 95.5 × 131 cm, inv. 1890 no. 739.
-@listen: Gerard of the Nights, and a Nativity where the only light comes from the baby.
-@brief: Hushed, as if the room were dark; warm and tender in the looking.
+@title: E7 · Rembrandt, Rubens and Van Dyck
+@where: Room E7, Rembrandt – Rubens – Van Dyck. Look for the canvas, just over a metre high, of an old bearded man, half-length, who seems lost in thought as he emerges from a dark background.
+@what: Rembrandt Harmenszoon van Rijn, Portrait of an old man (The Old Rabbi), 1665, oil on canvas, 104 × 86 cm, inv. 1890 no. 8435 (page "D34" in the old numbering; the map's E7 highlight).
+@listen: Rembrandt late in life, an old man he may have known from his own neighbourhood, and the two Flemish names on the door.
+@brief: Quiet and reflective, a friend speaking softly at the end of a long day.
 @pace: slow
-@energy: 1→2→2
-@sources: https://www.uffizi.it/en/artworks/adoration_of_the_child_gherrit_van_honthorst (OFF: Gerrit Van Honthorst, Utrecht 1590–1656; 1619–1620 c.; oil on canvas 95.5 × 131; inv. 1890 no. 739; Location "E6. Painting by Candlelight"; Virgin, St Joseph leaning on his cane, two angels bending over the manger; "The divine light spread from the newborn's body softens each feature, in particular the facial ones of the Virgin"; Gherardo delle Notti, "Gerard of the nights", nocturnal lighting influenced by Caravaggio, met in Rome in the first decades of the 17th century; Cosimo II "bought some of his works in 1620", this one probably among them) ; https://www.uffizi.it/en/artworks/sacrifice-of-isaac (OFF: bought by Fairfax Murray as a work by Gherardo delle Notti). NOT used: the bomb-damaged Adoration of the Shepherds, because its room is not confirmed (O36; see notes for a held sentence).
+@energy: 2→2→2
+@sources: https://www.uffizi.it/en/artworks/portrait-of-an-old-man-the-old-rabbi (OFF: Leiden 1606 – Amsterdam 1669; 1665, signed and dated; oil on canvas 104 × 86; inv. 1890 no. 8435; Location "D34. Rembrandt - Rubens" = map E7; face identified as a rabbi's, a specific sitter proposed but "documents do not yet confirm this"; used neighbours and acquaintances as models; lived a long time in Amsterdam's Jewish quarter; "detached pensiveness"; "engulfed by the painting's dark background"; "textured colors spread thickly onto the canvas"; towards the end of his career; in Paris 1799–1815, later back in Florence, shown in the Palatine Gallery) ; OFF map (E7 "Rembrandt - Rubens - Van Dyck") ; Saskia's death 1642, bankruptcy 1656, Van Dyck as Rubens's "brilliant assistant": audit wording (general). No Rubens or Van Dyck works named (no pages, O36); no Rembrandt self-portraits.
 ---
-[quietly] In this room, the light doesn't come in through a window. It comes from inside the pictures.
+[quietly] Rembrandt painted this old man in 1665, four years before his own death. By then he had lost a great deal.
 
-Gerrit van Honthorst was a Dutch painter from Utrecht. Early in the seventeenth century he went to Rome, and there he saw what Caravaggio had done with darkness. He took that hard spotlight and made it warmer and more intimate: candles, lamps, faces glowing in the night. The Italians gave him a nickname for it, Gherardo delle Notti, Gerard of the Nights. [wry] You've already met his name once, on the Caravaggio that a collector bought thinking it was his.
+His wife Saskia had died in 1642, and in 1656 he went bankrupt. He kept on painting, and his late portraits are among his deepest.
 
-His Adoration of the Child was painted around 1619 or 1620. There is no candle in it at all. [pause] The light pours out of the newborn's body. It softens the Virgin's face as she leans over him. It catches Joseph, leaning on his stick, and two angels bending over the manger. Everything outside that small circle sinks back into the night.
+The picture is known as the Old Rabbi. The face has been identified as a rabbi's, and a name has been suggested, though the documents don't confirm it. Rembrandt lived for many years in Amsterdam's Jewish quarter, and he often asked neighbours and acquaintances to sit for him. So this may simply be a man he knew.
 
-Grand Duke Cosimo the Second bought some of Honthorst's works in 1620, and this was probably one of them. So it may have reached the Medici almost as soon as it was painted.
+[pause] Look at how it's painted. The colour is laid on thick, and you can see the texture of the paint. The old man isn't posing for you. He seems lost in his own thoughts, almost swallowed by the dark around him.
 
-[warmly] Caravaggio used darkness to shock. In this room it is used to hold people close together.
+The painting has travelled too. Napoleon's officials noticed how good it was, and it was carried off to Paris. It came back to Florence after his fall.
 
-Next room along, Room E7. Look for Rembrandt's portrait of an old bearded man, lost in thought against a dark background.
+The room also carries two Flemish names. Peter Paul Rubens was the great painter of Catholic Antwerp, all movement and warm flesh. Anthony van Dyck began as his brilliant assistant and went on to paint the courts of Europe.
+
+[warmly] After so much splendour, it's fitting to end the paintings with a quiet face.
+
+From Room E7, follow the route out to the Magliabechi staircase. The last words of this guide are for the top of the stairs.

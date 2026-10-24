@@ -112,6 +112,10 @@ for i, n in enumerate(NUMS):
         continue
     nxt = NUMS[i + 1] if i + 1 < len(NUMS) else None
     skips = nxt is not None and order.index(nxt) != order.index(n) + 1
+    if skips and (n, NAME[0].upper(), nxt) not in OVERRIDE and CFG.get("skip_extras_silently"):
+        between = order[order.index(n) + 1:order.index(nxt)]   # only Extras skipped: the track's own cue already names the next main stop
+        if all(tracks[b]["type"] == "X" for b in between):
+            skips = False
     if not skips:
         shutil.copy(src, dst); made += 1; continue
     text = OVERRIDE.get((n, NAME[0].upper(), nxt)) or bridge_text(n, nxt)

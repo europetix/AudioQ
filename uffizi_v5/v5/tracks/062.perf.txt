@@ -1,24 +1,24 @@
 @id: 062 · Room E4 · 24 Oct 2026 edition
 @section: First floor · The 17th century
 @room: Room E4
-@type: R
-@title: E4 · Caravaggio's room
-@where: Room E4, Caravaggio – The Medusa, the first room off the corridor after the Verone. Find the wide canvas, about 1.35 metres across, of an angel seizing an old man's wrist as he is about to sacrifice a boy, with a calm hilly landscape behind. Guido Reni's tall David in a red feathered hat is in the same room.
-@what: Caravaggio, Sacrifice of Isaac, about 1603, oil on canvas, 104 × 135 cm, inv. 1890 no. 4659. Also: Guido Reni, David with the Head of Goliath, about 1605, oil on canvas, 222 × 147 cm. Artemisia Gentileschi's Judith and Caravaggio's Medusa are in this room (063, 064).
-@listen: Who Caravaggio was, the angel's grip that stops a sacrifice, and how a Caravaggio reached the Uffizi under someone else's name.
-@brief: Low and serious at first, then storytelling; a wry note on the mistaken attribution.
+@type: W
+@title: E4 · Caravaggio — Medusa
+@where: Room E4, Caravaggio – The Medusa. Look for the round painted shield with the severed head of Medusa, mouth wide open in a scream, snakes for hair and blood pouring from the neck.
+@what: Caravaggio, Medusa, 1595–1598, oil on canvas applied to a wooden shield (a parade shield), inv. 1890 no. 1351. No uffizi.it artwork page; placement from the October 2026 map, "E4 Caravaggio The Medusa".
+@listen: A shield that sat unattributed in the Medici armoury, rode on a wooden horse, and catches the instant between life and death.
+@brief: A friend with a good story and a slightly macabre sense of humour; vivid in the looking, conspiratorial at the end.
 @pace: medium
-@energy: 2→4→3
-@sources: https://www.uffizi.it/en/artworks/sacrifice-of-isaac (OFF: Caravaggio, Milan 1571 – Porto Ercole 1610; c. 1603; oil on canvas 104 × 135; inv. 1890 no. 4659; Location "E4. Caravaggio (The Medusa) e Artemisia"; theme indicated by Maffeo Barberini, later Urban VIII, payments to the painter; the angel "grasps the old man's wrist with a strong, tight grip" and points to the ram; wide hilly landscape with cottages and a village; donated to the Uffizi in July 1917 by John Fairfax Murray, who bought it as a work by Gherardo delle Notti) ; https://www.uffizi.it/en/artworks/reni-david-with-the-head-of-goliath (OFF: 1605 c.; 222 × 147; Location "E4. Caravaggio (The Medusa)"; pose of a dandy with red feathered hat; moonlike light; contemplating the head; openness to Caravaggio's methods in Rome; "elegant detachment") ; Tomassoni 1606, death 1610 aged 38, tenebrism, Caravaggisti: audit wording (general). Not mentioned: the 17th-century gallery "due to open soon".
+@energy: 3→4→3
+@sources: OFF map https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (E4 "Caravaggio The Medusa", E4 highlight picture) ; SEC (Uffizi partner text) https://artsandculture.google.com/asset/medusa/FAFPqU12CekL8Q?hl=en (Medusa, 1595–1598, oil on canvas, "scudo da parata"; "In 1598 Cardinal Francesco Maria del Monte gave this painted shield to the Grand Duke Ferdinando I"; "painted on canvas applied to a wooden shield"; put in the Uffizi Armory "without any attribution"; "in 1631 it was registered as a work by Caravaggio"; "part of a suit of Persian Armor worn by a mannequin seated on a wooden horse"; Athena's shield used Medusa's power to petrify; image used by the Medici for their military power; "the passing moment between life and death") ; https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: del Monte as Caravaggio's early patron; Medusa inv. 1890 no. 1351) ; self-portrait tradition: hedged as "a long tradition", not sourced (PLAN, audit) ; Perseus and the mirror: general mythology. The curve of the shield: PLAN and audit say convex; the GAC text says only "wooden shield" (see notes).
 ---
-[quietly] In Rome in 1606, Caravaggio killed a man named Ranuccio Tomassoni. He spent the rest of his life on the run, and he died in 1610, aged thirty-eight.
+[curious] For more than thirty years, this was not a famous Caravaggio. It was a piece of parade equipment in the Medici armoury, and nobody had written down who painted it.
 
-In a career that short, he changed European painting. He took real faces, ordinary and lined, and struck them with a hard light out of deep darkness. That way of painting is called tenebrism, from the Italian word for shadows. Painters all over Europe copied it, and they became known as the Caravaggisti. This room and the three after it follow them.
+In 1598 Cardinal Francesco Maria del Monte, Caravaggio's patron in Rome, gave the painted shield to Grand Duke Ferdinando the First. It went into the Uffizi armoury without any attribution. Only in 1631 was it recorded as a work by Caravaggio. And it was put on show as part of a suit of Persian armour, worn by a mannequin sitting on a wooden horse. [amused] Picture walking into the armoury and meeting that rider, with this head on his arm.
 
-Start with the Sacrifice of Isaac. God has ordered Abraham to kill his son, and the old man has the boy pinned down. At the last instant an angel grips his wrist, hard, and points to the ram that will die instead. [pause] Look at that hand on the wrist. The whole story turns on it. Behind them stretches a wide, calm landscape of hills and a village. The subject was chosen by a powerful churchman, Maffeo Barberini, who later became Pope Urban the Eighth.
+It was a well-chosen gift. Medusa was the Gorgon whose gaze turned people to stone. The hero Perseus cut off her head, and the goddess Athena set it on her shield, so its power would freeze her enemies. The Medici liked the image as a sign of their own military strength.
 
-[wry] It came to the Uffizi as a gift from the collector John Fairfax Murray. He had bought it believing it was by another painter entirely, Gherardo delle Notti. You'll meet him two rooms from here.
+[pause] Now look at the face. Caravaggio has painted the moment between life and death. The head is already cut off, and she is still alive enough to be horrified by it. Her mouth is wide open. Her eyes stare. Blood pours from the neck, and the snakes in her hair are still writhing. He painted it on canvas stretched over a wooden shield, so the head sits on the curve and seems to push out toward you.
 
-Guido Reni was in Rome in the same years, and he borrowed Caravaggio's darkness without his violence. His David poses like a dandy in a red feathered hat, calmly considering the giant's head. Artemisia Gentileschi's Judith hangs in this room too.
+[conspiratorial] There's a long tradition that the face is Caravaggio's own, studied in a mirror. Nobody can prove it. But remember how Perseus survived. He never looked at Medusa directly, only at her reflection in his polished shield. A painter watching his own scream in a mirror, and putting it on a shield, would be a very Caravaggio kind of joke.
 
-Stay in Room E4 for Caravaggio's Medusa, the screaming head painted on a round shield.
+Stay in Room E4 for Artemisia Gentileschi's Judith Beheading Holofernes: two women holding a general down on a bed.

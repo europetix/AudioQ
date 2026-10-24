@@ -2,23 +2,25 @@
 @section: First floor · The 17th century
 @room: Room E4
 @type: W
-@title: E4 · Caravaggio — Medusa
-@where: Room E4, Caravaggio – The Medusa. Look for the round painted shield with the severed head of Medusa, mouth wide open in a scream, snakes for hair and blood pouring from the neck.
-@what: Caravaggio, Medusa, 1595–1598, oil on canvas applied to a wooden shield (a parade shield), inv. 1890 no. 1351. No uffizi.it artwork page; placement from the October 2026 map, "E4 Caravaggio The Medusa".
-@listen: A shield that sat unattributed in the Medici armoury, rode on a wooden horse, and catches the instant between life and death.
-@brief: A friend with a good story and a slightly macabre sense of humour; vivid in the looking, conspiratorial at the end.
-@pace: medium
+@title: E4 · Artemisia Gentileschi — Judith Beheading Holofernes
+@where: Room E4. Stand in front of the tall dark canvas, almost one and a half metres high, of two women holding a man down on a bed while one drives a sword into his neck, blood running onto the white sheets.
+@what: Artemisia Gentileschi, Judith Beheading Holofernes, about 1620, oil on canvas, 146.5 × 108 cm, inv. 1890 n. 1567 (page "D29" in the old numbering; the map puts Artemisia in E4).
+@listen: A painting that shocked Florence, the woman who painted it, and the fee she needed Galileo to collect.
+@brief: Serious and steady, never sensational; respect for Artemisia, one dry note about the unpaid bill.
+@pace: medium-slow
 @energy: 3→4→3
-@sources: OFF map https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (E4 "Caravaggio The Medusa", E4 highlight picture) ; SEC (Uffizi partner text) https://artsandculture.google.com/asset/medusa/FAFPqU12CekL8Q?hl=en (Medusa, 1595–1598, oil on canvas, "scudo da parata"; "In 1598 Cardinal Francesco Maria del Monte gave this painted shield to the Grand Duke Ferdinando I"; "painted on canvas applied to a wooden shield"; put in the Uffizi Armory "without any attribution"; "in 1631 it was registered as a work by Caravaggio"; "part of a suit of Persian Armor worn by a mannequin seated on a wooden horse"; Athena's shield used Medusa's power to petrify; image used by the Medici for their military power; "the passing moment between life and death") ; https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: del Monte as Caravaggio's early patron; Medusa inv. 1890 no. 1351) ; self-portrait tradition: hedged as "a long tradition", not sourced (PLAN, audit) ; Perseus and the mirror: general mythology. The curve of the shield: PLAN and audit say convex; the GAC text says only "wooden shield" (see notes).
+@sources: https://www.uffizi.it/en/artworks/judith-beheading-holofernes (OFF: Artemisia Gentileschi, Rome 1593 – Naples 1652/53; 1620 c.; oil on canvas 146.5 × 108; inv. 1890 n. 1567; Location "D29. Caravaggio and Artemisia" = map E4; Judith, a young Jewish woman of Bethulia, kills the Assyrian general Holofernes to free Israel; "The Lord has struck him down by the hand of a woman"; the drunk general on the bed, head grabbed by the hair, sword in his neck; "blood spurting so profusely as to stain Judith's breast"; completed in Rome after seven years in Florence; payment agreed with Cosimo II, who "died in 1621 shortly after the great canvas was completed"; needed "the help of her friend Galileo Galilei"; strong reactions on its arrival in Florence; "denied the honor of being exhibited in the Gallery"; first woman admitted to the Academy of Art and Design in Florence) ; SEC https://www.nationalgallery.org.uk/exhibitions/past/artemisia/artemisia-in-her-own-words (trial of 1612; Agostino Tassi convicted of her rape; tortured to test her statement with the sibille, "cords wrapped around the fingers and pulled tight"; quote "I have told the truth and I always will, because it is true and I am here to confirm it wherever necessary") ; her father Orazio a painter: audit (general).
 ---
-[curious] For more than thirty years, this was not a famous Caravaggio. It was a piece of parade equipment in the Medici armoury, and nobody had written down who painted it.
+[quietly] When this painting reached Florence, it caused a stir. According to the museum, it was denied the honour of being shown in the Gallery. Today it hangs at the heart of it.
 
-In 1598 Cardinal Francesco Maria del Monte, Caravaggio's patron in Rome, gave the painted shield to Grand Duke Ferdinando the First. It went into the Uffizi armoury without any attribution. Only in 1631 was it recorded as a work by Caravaggio. And it was put on show as part of a suit of Persian armour, worn by a mannequin sitting on a wooden horse. [amused] Picture walking into the armoury and meeting that rider, with this head on his arm.
+The story is from the Bible. Judith, a young Jewish woman, saves her besieged town by going into the enemy camp. After a banquet, the Assyrian general Holofernes falls into a drunken sleep, and she kills him. "The Lord has struck him down by the hand of a woman."
 
-It was a well-chosen gift. Medusa was the Gorgon whose gaze turned people to stone. The hero Perseus cut off her head, and the goddess Athena set it on her shield, so its power would freeze her enemies. The Medici liked the image as a sign of their own military strength.
+[pause] Look at how Artemisia Gentileschi stages it. This is no graceful heroine holding a tidy sword. The general lies across the bed, his head gripped by the hair. Judith braces her arms and works the blade into his neck. Her maid leans on him to hold him down. And the blood spurts so hard it stains Judith's own dress.
 
-[pause] Now look at the face. Caravaggio has painted the moment between life and death. The head is already cut off, and she is still alive enough to be horrified by it. Her mouth is wide open. Her eyes stare. Blood pours from the neck, and the snakes in her hair are still writhing. He painted it on canvas stretched over a wooden shield, so the head sits on the curve and seems to push out toward you.
+Artemisia was the daughter of a Roman painter, Orazio. In 1612 a court in Rome convicted Agostino Tassi, a painter who worked with her father, of raping her. During the trial she herself was tortured to test her word, with cords wrapped round her fingers and pulled tight. She held to her account. "I have told the truth and I always will, because it is true." Many people read that ordeal into this picture. Perhaps. But it was her painting, not her suffering, that made her name.
 
-[conspiratorial] There's a long tradition that the face is Caravaggio's own, studied in a mirror. Nobody can prove it. But remember how Perseus survived. He never looked at Medusa directly, only at her reflection in his polished shield. A painter watching his own scream in a mirror, and putting it on a shield, would be a very Caravaggio kind of joke.
+She spent seven years in Florence, and she became the first woman admitted to the city's Academy of Drawing. She agreed the fee for this canvas with Grand Duke Cosimo the Second. He died in 1621, soon after it was finished, and the money stalled. [wry] To get paid, she needed help from her friend Galileo Galilei.
 
-Stay in Room E4 for Artemisia Gentileschi's Judith Beheading Holofernes: two women holding a general down on a bed.
+[warmly] Two women working together, and a painter who refused to look away. Florence wasn't ready to hang it. The world has caught up.
+
+Next room along, Room E5: Caravaggio's Bacchus, the young god holding out a glass of wine.
