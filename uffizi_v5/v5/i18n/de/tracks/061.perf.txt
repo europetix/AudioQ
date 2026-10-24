@@ -1,0 +1,26 @@
+@id: 061 · DE · Room E4 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E4
+@type: R
+@title: E4 · Der Caravaggio-Saal
+@where: Saal E4, Caravaggio – Die Medusa, der erste Saal am Korridor nach dem Verone. Suchen Sie die breite Leinwand, etwa 1,35 Meter breit: ein Engel packt das Handgelenk eines alten Mannes, der gerade einen Jungen opfern will, dahinter eine ruhige Hügellandschaft. Guido Renis hoher David mit rotem Federhut ist im selben Saal.
+@what: Caravaggio, Sacrifice of Isaac, about 1603, oil on canvas, 104 × 135 cm, inv. 1890 no. 4659. Also: Guido Reni, David with the Head of Goliath, about 1605, oil on canvas, 222 × 147 cm. Artemisia Gentileschi's Judith and Caravaggio's Medusa are in this room (062, 063).
+@listen: Who Caravaggio was, the angel's grip that stops a sacrifice, and how a Caravaggio reached the Uffizi under someone else's name.
+@brief: Low and serious at first, then storytelling; a wry note on the mistaken attribution.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/sacrifice-of-isaac (OFF: Caravaggio, Milan 1571 – Porto Ercole 1610; c. 1603; oil on canvas 104 × 135; inv. 1890 no. 4659; Location "E4. Caravaggio (The Medusa) e Artemisia"; theme indicated by Maffeo Barberini, later Urban VIII, payments to the painter; the angel "grasps the old man's wrist with a strong, tight grip" and points to the ram; wide hilly landscape with cottages and a village; donated to the Uffizi in July 1917 by John Fairfax Murray, who bought it as a work by Gherardo delle Notti) ; https://www.uffizi.it/en/artworks/reni-david-with-the-head-of-goliath (OFF: 1605 c.; 222 × 147; Location "E4. Caravaggio (The Medusa)"; pose of a dandy with red feathered hat; moonlike light; contemplating the head; openness to Caravaggio's methods in Rome; "elegant detachment") ; Tomassoni 1606, death 1610 aged 38, tenebrism, Caravaggisti: audit wording (general). Not mentioned: the 17th-century gallery "due to open soon".
+@lang: de
+@translation: from the fact-checked English Uffizi 061 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] 1606 tötete Caravaggio in Rom einen Mann namens Ranuccio Tomassoni. Den Rest seines Lebens verbrachte er auf der Flucht. Er starb 1610, mit achtunddreißig.
+
+In dieser kurzen Laufbahn veränderte er die europäische Malerei. Er nahm echte Gesichter, gewöhnlich und zerfurcht, und traf sie mit hartem Licht aus tiefer Dunkelheit. [pause] Diese Malweise heißt Tenebrismus, nach dem italienischen Wort für Dunkelheit. Maler in ganz Europa ahmten sie nach und wurden als Caravaggisten bekannt. Dieser Saal und die drei folgenden führen die Geschichte durch das siebzehnte Jahrhundert.
+
+Beginnen Sie mit der Opferung Isaaks. Gott hat Abraham befohlen, seinen Sohn zu töten, und der alte Mann drückt den Jungen nieder. Im letzten Augenblick packt ein Engel sein Handgelenk, fest, und zeigt auf den Widder, der an seiner Stelle sterben wird. [pause] Sehen Sie diese Hand am Handgelenk. Die ganze Geschichte hängt an ihr. Dahinter erstreckt sich eine weite, ruhige Landschaft mit Hügeln und einem Dorf. Das Thema wählte ein mächtiger Kirchenmann, Maffeo Barberini, der später Papst Urban der Achte wurde.
+
+[wry] Es kam als Geschenk des Sammlers John Fairfax Murray in die Uffizien. Er hatte es gekauft, weil er es für das Werk eines ganz anderen Malers hielt, Gherardo delle Notti. Ihm begegnen Sie zwei Säle weiter.
+
+[pause] Guido Reni war in denselben Jahren in Rom und übernahm Caravaggios Dunkelheit ohne seine Gewalt. Sein David posiert wie ein Dandy mit rotem Federhut und betrachtet gelassen den Kopf des Riesen. Artemisia Gentileschis Judith hängt ebenfalls in diesem Saal.
+
+Bleiben Sie in Saal E4 für Caravaggios Medusa, den schreienden Kopf, auf einen runden Schild gemalt.

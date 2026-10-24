@@ -1,0 +1,26 @@
+@id: 002 · DE · Room A2 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A2
+@type: W
+@title: A2 · Der Ostkorridor
+@where: Saal A2, der Ostkorridor, direkt vor dem Vestibül oben an der Treppe: ein langer, heller Korridor mit hohen Fenstern zum Hof auf der einen Seite, antiken Marmorstatuen und Büsten an den Wänden und einer bemalten Decke.
+@what: Giorgio Vasari's Eastern Corridor, first of the three top-floor corridors (east, south, west), originally conceived as a loggia open onto the Piazzale; the Medici collection of ancient sculpture, including Roman copies of lost Greek works; the grotesque ceiling, first bay painted in 1581 for Grand Duke Francesco I, the other corridors decorated over the next two centuries.
+@listen: Why a corridor may have given us the word "gallery", what the statues and the ceiling are, and the one rule for finding every painting room in the museum.
+@brief: A friend pausing you in the corridor before the rush; curious, a light touch on the word grotesque, then a clear, practical tip.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/i-corridoi-di-galleria (OFF: East, South and West corridors designed by Vasari, "conceived as a loggia originally open onto the Piazzale degli Uffizi"; the word gallery "is widely believed to derive from this very setting"; Francesco I in the 1580s adorned the loggia with ancient statues; the original princely Gallery occupied only the East corridor, "initially intended exclusively for him and his court"; first fresco painted in the East corridor in 1581, the date appears on a ceiling bay; grotesque-style decoration; other corridors "over the next two centuries"; pairs of statues face each other between the windows; statuary "one of the main attractions of the 18th century Grand Tour", scholars and art lovers from across Europe) ; https://www.uffizi.it/en/the-uffizi (OFF: "ancient Roman copies of lost Greek sculptures") ; grotesque etymology (Domus Aurea "grottoes"): standard, audit 002 OK (general) ; MAP p-3.png / hi-3.png: rooms open on the side away from the courtyard; A3 at the short end of A2 toward Palazzo Vecchio, on the far side of the vestibule and lift block from the rest of the route, with its own corridor door (ONSITE O2)
+@lang: de
+@translation: from the fact-checked English Uffizi 002 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Bevor dies ein Korridor war, war es eine Loggia, offen über dem Piazzale. Und vielleicht kommt genau daher das Wort „Galerie“.
+
+Vasari entwarf drei dieser Korridore, im Osten, Süden und Westen, rund um das oberste Stockwerk des Gebäudes. Als Francesco de' Medici in den 1580er-Jahren begann, die Loggia zu füllen, war dieser östliche Abschnitt die ganze Galerie. [pause] Es war seine private Sammlung, für ihn und seinen Hof.
+
+Er füllte sie mit den antiken Skulpturen der Familie. Viele dieser Figuren sind antike römische Kopien verlorener griechischer Originale. Zwischen den Fenstern stehen sich Statuen paarweise gegenüber. Im achtzehnten Jahrhundert war diese Reihe aus Marmor einer der großen Höhepunkte der Grand Tour. [pause] Gelehrte und Kunstliebhaber kamen aus ganz Europa, um hier entlangzugehen.
+
+[pause] Schauen Sie nun nach oben. Die Decke ist voller Grotesken: Ranken, Masken, kleine Wesen und Girlanden. Das erste Joch wurde 1581 für Francesco bemalt, und die Jahreszahl steht am Gewölbe. Die anderen Korridore brauchten die nächsten zwei Jahrhunderte. [lightly] Der seltsame Name kommt aus Rom. Maler der Renaissance stiegen in die verschütteten Räume von Neros Goldenem Haus hinab und kopierten, was sie fanden. Diese unterirdischen Räume nannte man Grotten, also hieß der Stil grotesk.
+
+Eine einfache Regel trägt Sie durch das ganze Museum. Die Fenster gehen auf den Hof. Die Gemäldesäle öffnen sich immer auf der anderen Seite, von den Fenstern abgewandt.
+
+Saal A3 ist ganz nah, aber nicht den langen Korridor hinunter. Wenn Sie das Vestibül verlassen, wenden Sie sich in die andere Richtung, zum kurzen Ende des Korridors, das dem Palazzo Vecchio am nächsten liegt. [pause] A3 ist die Tür dort, auf der den Fenstern abgewandten Seite. Suchen Sie ein hohes gemaltes Kreuz auf Goldgrund.

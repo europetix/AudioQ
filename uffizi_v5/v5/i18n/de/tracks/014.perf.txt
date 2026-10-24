@@ -1,0 +1,28 @@
+@id: 014 · DE · Room A8 · 24 Oct 2026 edition
+@section: Second floor · Early Renaissance
+@room: Room A8
+@type: W
+@title: A8 · Paolo Uccello — Die Schlacht von San Romano
+@where: In Saal A8, vor der breiten Schlachtentafel, mehr als drei Meter breit: gepanzerte Reiter, ein Dickicht aus erhobenen und zerbrochenen Lanzen, gefallene Soldaten am Boden und kleine Orangenbäume in den oberen Ecken.
+@what: Paolo Uccello, Battle of San Romano, c. 1435–1440, tempera on wood, 182 × 323 cm, Uffizi inv. 1890 n. 479, signed "PAULI UGIELI OPUS"; the central panel of a set of three, with the others in the National Gallery, London, and the Louvre, Paris.
+@listen: How the Medici turned someone else's battle pictures into their own, and how Uccello lets the lances tell you who wins.
+@brief: Amused storyteller at first, then sharp-eyed and admiring on the geometry; a wry last line.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/battle-of-san-romano (OFF: Location "A8. Masaccio - Beato Angelico - Paolo Uccello"; c. 1435-1440; tempera on wood; 182 x 323 cm; inv. 1890 n. 479; inscription "PAULI UGIELI OPUS", signed bottom left; one of three panels on the Florentine victory over the Sienese and their allies, led by the Duke of Milan, at San Romano (Pisa) in 1432; Niccolò da Tolentino unseating Bernardino della Carda; the Uffizi panel the central episode, London first, Louvre last; commissioned by Lionardo Bartolini Salimbeni for his palace a few years after the battle; arched tops to fit between the arches of a room; heirs sold the set to Lorenzo il Magnifico, installed in his palace on via Larga; Uccello probably changed the shape; corner additions with sour oranges, "mala medica", Medici emblem; Florentine lances and crossbows forward, the enemy's back, "foreshadows the outcome of the battle"; much metal leaf on armour and bridles; "a virtuoso in perspective", foreshortened bodies, low viewpoint; text Daniela Parenti) ; "once glittered", darkened: audit 013 HEDGE ; no pink horse, no poplar (NEVER/audit) ; cue: PLAN 014 conditional cue, ONSITE O7 (ALT-014a/b held)
+@lang: de
+@translation: from the fact-checked English Uffizi 014 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Die Orangenbäume in den oberen Ecken waren nie Teil des ursprünglichen Plans.
+
+Die Tafel hatte zuerst einen gewölbten Abschluss, passend für einen Raum im Palast von Lionardo Bartolini Salimbeni. Er bestellte drei Schlachtenbilder, nachdem Florenz 1432 bei San Romano nahe Pisa die Sienesen und ihre Verbündeten unter Führung des Herzogs von Mailand besiegt hatte. [pause] Später verkauften seine Erben die Serie an Lorenzo den Prächtigen, der sie im Medici-Palast an der Via Larga aufhängte. Die Form musste sich ändern. Die Bögen wurden begradigt, wahrscheinlich von Uccello selbst, und die neuen Ecken mit Bitterorangen gefüllt. Auf Latein heißen sie mala medica, ein Wortspiel mit dem Familiennamen.
+
+Dies ist die Mitte der Geschichte. Die erste Tafel ist in London, die letzte in Paris. Hier wirft Niccolò da Tolentino, Befehlshaber des florentinischen Heeres, den feindlichen Anführer Bernardino della Carda aus dem Sattel.
+
+[pause] Lesen Sie nun die Lanzen. Die Lanzen und Armbrüste der Florentiner zeigen nach vorn. Die des Feindes neigen sich zurück. Die Schlacht ist in der Geometrie schon entschieden. [pause] Uccello war ein Virtuose der Perspektive, und die Körper am Boden sind verkürzt, sie schrumpfen ins Bild hinein. Sie deuten auf einen tiefen Blickpunkt, für eine Tafel, die man von unten sehen sollte.
+
+Rüstungen und Zaumzeug waren mit Blattmetall bedeckt. Einst glitzerte es, mit der Zeit ist es nachgedunkelt. Unten links signierte er auf Latein: das Werk des Paolo Uccello.
+
+[wry] Eine Schlacht, in der kaum jemand blutet, und der wahre Sieger ist die Perspektive.
+
+Als Nächstes kommen die Botticelli-Säle. Folgen Sie ab Saal A8 den Botticelli-Schildern des Museums. [pause] Wenn der Durchgang geschlossen ist, gehen Sie zurück durch Saal A4 in den Korridor und weiter bis zu Saal A13 mit seinem großen flämischen Altarbild. Betreten Sie die Botticelli-Säle dann vom anderen Ende her. In beiden Fällen beginnen Sie in dem Saal mit den gemalten Tugenden in vergoldeten Rahmen.

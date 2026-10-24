@@ -1,0 +1,28 @@
+@id: 006 · DE · Room A4 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A4
+@type: W
+@title: A4 · Duccio — Rucellai-Madonna
+@where: In Saal A4, vor der größten der drei Maestà, viereinhalb Meter hoch: die Jungfrau auf einem schlanken Thron, gehalten von sechs knienden Engeln, drei auf jeder Seite, mit kleinen Medaillons von Heiligen am Rahmen.
+@what: Duccio di Buoninsegna, Virgin and Child enthroned, surrounded by angels (Rucellai Madonna), c. 1285, tempera on wood, gold background, 450 × 290 cm; on deposit from the church of Santa Maria Novella, Florence.
+@listen: The detective story of a painting credited to the wrong man for three centuries, and the line that gives Duccio away.
+@brief: Telling a good mystery to a friend; conspiratorial at the start, brisk through the evidence, then slow and admiring on the gold hem.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.uffizi.it/en/artworks/virgin-and-child-enthroned-surrounded-by-angels-known-as-the-rucellai-madonna (OFF: Location "A4. Giotto - Cimabue"; 1285 ca.; tempera on wood, gold background; 450 x 290 cm; "Held in deposit for the Church of Santa Maria Novella"; commissioned from Duccio in 1285 by the Compagnia dei Laudesi, who met in Santa Maria Novella "to sing the praises of the Virgin"; "the largest painting on wood from the 13th century known to date"; six kneeling angels "suspended in the void"; roundels of saints in the frame; Child's cloak with gold lettering, red hip cloth "woven with gold"; Dominic and Peter Martyr in Dominican black and white at the bottom; name from the Rucellai chapel, end of the 16th century; text Daniela Parenti) ; SEC https://www.finestresullarte.info/en/works-and-artists/duccio-di-buoninsegna-s-madonna-rucellai-the-greatest-panel-painting-of-the-13th-century (Vasari credited Cimabue; Milanesi 1854 recognised the published document as the commission; Wickhoff republished it 1889; the 1937 Uffizi exhibition "closed the debate once and for all"; Duccio's "gilded border of the Virgin's mantle" a sinuous line Cimabue did not use; Rucellai chapel 1591) ; "a Sienese delight in line": PLAN/audit wording ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): SEC finestresullarte re-read: "Gaetano Milanesi, who in 1854" recognised the 1790 Fineschi document as the allocation; no origin given
+@lang: de
+@translation: from the fact-checked English Uffizi 006 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Rund dreihundert Jahre lang hielt man dies für einen Cimabue. Das ist es nicht.
+
+1285 bestellte eine Bruderschaft namens Laudesi ein großes Altarbild bei einem Maler aus Siena, Duccio di Buoninsegna. Sie traf sich in der Kirche Santa Maria Novella, um das Lob der Jungfrau zu singen. [pause] Jahrhunderte später beschrieb Vasari das Bild und schrieb es Cimabue zu. Der Name blieb am falschen Mann hängen.
+
+Dann tauchten die Akten auf. 1854 erkannte der Gelehrte Gaetano Milanesi, dass ein altes gedrucktes Dokument der eigentliche Vertrag war, ausgestellt auf Duccio. Viele glaubten es trotzdem nicht. Der Vertrag wurde erneut veröffentlicht, der Streit ging weiter. Erst eine Ausstellung hier in den Uffizien beendete 1937 die Debatte endgültig. [pause] Und der Beiname? Ab den späten 1500er-Jahren hing das Bild in der Kapelle der Familie Rucellai.
+
+Es ist das größte heute bekannte Holztafelbild des dreizehnten Jahrhunderts. Sechs Engel knien um den Thron, drei auf jeder Seite, und sie scheinen im Gold zu schweben. Kleine Medaillons mit Heiligen laufen um den Rahmen. [pause] Suchen Sie unten zwei Figuren in Schwarz und Weiß: den heiligen Dominikus und den heiligen Petrus Martyr. Denn Santa Maria Novella war eine Dominikanerkirche.
+
+[lightly] Folgen Sie nun dem vergoldeten Saum am dunklen Mantel der Jungfrau nach unten. Er verläuft nicht gerade. Er kräuselt und wellt sich über ihre ganze Gestalt, eine Linie, gezogen aus Freude am Zeichnen. Cimabue hat nie einen solchen Saum gemalt. Das ist sienesische Lust an der Linie. Sogar das rote Tuch des Kindes ist mit Gold durchwirkt.
+
+[warmly] Drei Jahrhunderte unter dem Namen eines anderen, und Duccios Handschrift lag die ganze Zeit in dieser Linie.
+
+Bleiben Sie in Saal A4 für Giottos Maestà, auf der Engel knien und Vasen mit Rosen und Lilien halten.

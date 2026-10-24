@@ -1,0 +1,26 @@
+@id: 062 · DE · Room E4 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E4
+@type: W
+@title: E4 · Caravaggio — Medusa
+@where: Saal E4, Caravaggio – Die Medusa. Suchen Sie den runden bemalten Schild mit dem abgeschlagenen Kopf der Medusa: der Mund weit zum Schrei geöffnet, Schlangen statt Haaren, Blut strömt aus dem Hals.
+@what: Caravaggio, Medusa, 1595–1598, oil on canvas applied to a wooden shield (a parade shield), inv. 1890 no. 1351. No uffizi.it artwork page; placement from the October 2026 map, "E4 Caravaggio The Medusa".
+@listen: A shield that sat unattributed in the Medici armoury, rode on a wooden horse, and catches the instant between life and death.
+@brief: A friend with a good story and a slightly macabre sense of humour; vivid in the looking, conspiratorial at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: OFF map https://www.datocms-assets.com/103094/1791457668-mappauffizien_ottobre2026.pdf (E4 "Caravaggio The Medusa", E4 highlight picture) ; SEC (Uffizi partner text) https://artsandculture.google.com/asset/medusa/FAFPqU12CekL8Q?hl=en (Medusa, 1595–1598, oil on canvas, "scudo da parata"; "In 1598 Cardinal Francesco Maria del Monte gave this painted shield to the Grand Duke Ferdinando I"; "painted on canvas applied to a wooden shield"; put in the Uffizi Armory "without any attribution"; "in 1631 it was registered as a work by Caravaggio"; "part of a suit of Persian Armor worn by a mannequin seated on a wooden horse"; Athena's shield used Medusa's power to petrify; image used by the Medici for their military power; "the passing moment between life and death") ; https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: del Monte as Caravaggio's early patron; Medusa inv. 1890 no. 1351) ; self-portrait tradition: hedged as "a long tradition", not sourced (PLAN, audit) ; Perseus and the mirror: general mythology. The curve of the shield: PLAN and audit say convex; the GAC text says only "wooden shield" (see notes).
+@lang: de
+@translation: from the fact-checked English Uffizi 062 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Mehr als dreißig Jahre lang war dies kein berühmter Caravaggio. Es war ein Stück Prunkausrüstung in der Rüstkammer der Medici, und niemand hatte aufgeschrieben, wer es gemalt hatte.
+
+1598 schenkte Kardinal Francesco Maria del Monte, Caravaggios Gönner in Rom, den bemalten Schild Großherzog Ferdinando dem Ersten. Er kam ohne Zuschreibung in die Rüstkammer der Uffizien. Erst 1631 wurde er als Werk Caravaggios verzeichnet. [pause] Und man stellte ihn als Teil einer persischen Rüstung aus, getragen von einer Figur, die auf einem Holzpferd saß. [amused] Stellen Sie sich vor, Sie betreten die Rüstkammer und treffen auf diesen Reiter, mit diesem Kopf am Arm.
+
+Es war ein gut gewähltes Geschenk. Medusa war die Gorgo, deren Blick Menschen zu Stein werden ließ. Der Held Perseus schlug ihr den Kopf ab, und die Göttin Athene setzte ihn auf ihren Schild, damit seine Macht ihre Feinde erstarren ließ. Die Medici mochten das Bild als Zeichen ihrer eigenen militärischen Stärke.
+
+[pause] Sehen Sie nun das Gesicht an. Caravaggio hat den Moment zwischen Leben und Tod gemalt. Der Kopf ist schon abgeschlagen, und sie lebt noch genug, um darüber entsetzt zu sein. Ihr Mund ist weit offen. Ihre Augen starren. Blut strömt aus dem Hals, und die Schlangen in ihrem Haar winden sich noch. Er malte sie auf Leinwand, über einen Holzschild gespannt. So sitzt der Kopf auf der Wölbung.
+
+[conspiratorial] Einer langen Überlieferung nach ist das Gesicht Caravaggios eigenes, im Spiegel studiert. Niemand kann es beweisen. Aber denken Sie daran, wie Perseus überlebte. Er sah Medusa nie direkt an, nur ihr Spiegelbild in seinem polierten Schild. [pause] Ein Maler, der seinen eigenen Schrei im Spiegel beobachtet und ihn auf einen Schild setzt: Das wäre ein Scherz ganz nach Caravaggios Art.
+
+Bleiben Sie in Saal E4 für Artemisia Gentileschis Judith enthauptet Holofernes: zwei Frauen, die einen Feldherrn auf einem Bett niederhalten.

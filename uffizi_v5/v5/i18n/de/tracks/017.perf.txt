@@ -1,0 +1,28 @@
+@id: 017 · DE · Room A11 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A11
+@type: W
+@title: Botticelli-Säle · Botticelli — Primavera
+@where: In den Botticelli-Sälen, vor der Primavera: eine breite, dunkle Tafel, über drei Meter breit, neun Figuren in einem Orangenhain auf einer Blumenwiese, Venus in der Mitte. Zu beiden Seiten hängt je eine runde Madonna, und gegenüber, jenseits des Durchgangs, die Geburt der Venus.
+@what: Sandro Botticelli, Spring (Primavera), c. 1480, tempera grassa on poplar, 207 × 319 cm, Uffizi inv. 1890 n. 8360; flanked by the Madonna of the Rose Garden and the Madonna of the Cherubim.
+@listen: How to read the Primavera from right to left, the forty-two plants under their feet, and why its meaning is still a mystery.
+@brief: Slow, delighted guided looking with a friend; curious, then light and lyrical along the figures, warm at the reunion with the Venus.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/botticelli-spring (OFF: Location "A11. Botticelli, La Primavera", mod. 12 Sep 2026; 1480 c.; tempera grassa on wood, poplar; 207 x 319 cm; inv. 1890 n. 8360; nine figures on a flowery lawn "in a grove of orange and laurel trees"; Zephyrus embraces the nymph Chloris, then shown as Flora; Venus slightly back at the centre; blindfolded Cupid firing his arrow; the three Graces in a circle; Mercury with helmet and winged sandals touches a cloud with his staff; "At least 42 identifiable species", 14 green plants and 28 flowering, possibly from herbaria; meaning "remains a mystery", read as a celebration of love, peace and prosperity; end of the 15th century in the Via Larga house of the heirs of Lorenzo di Pierfrancesco de' Medici, cousin of Lorenzo the Magnificent, above a "lettuccio", "a kind of chest with back"; later at the Villa di Castello, Vasari 1550) ; https://www.uffizi.it/en/artworks/birth-of-venus (OFF: 172.5 x 278.5 cm, so the Primavera is larger) ; https://www.uffizi.it/en/news/the-new-permanent-installation-of-the-botticelli-rooms (OFF: Venus and Primavera "now displayed facing one another"; Primavera flanked by the Madonna of the Rose Garden and the Madonna of the Cherubim; airtight cases) ; Medici wedding only "possibly": audit 016 ; flowers at Chloris's lips: visual
+@lang: de
+@translation: from the fact-checked English Uffizi 017 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Niemand weiß genau, was dieses Bild bedeutet. Das Museum selbst nennt seine Bedeutung ein Geheimnis.
+
+Botticelli malte es um 1480 auf Pappelholz, und es ist größer als die Geburt der Venus. Ende jenes Jahrhunderts hing es in einem Haus der Medici an der Via Larga, dem Heim der Erben von Lorenzo di Pierfrancesco, einem Vetter Lorenzos des Prächtigen. [pause] Es hing über einem Lettuccio, einer Truhe mit hoher Lehne. Später kam es in die Medici-Villa von Castello.
+
+[pause] Lesen Sie es von rechts nach links. Rechts bricht der Wind Zephyr durch die Bäume und packt die Nymphe Chloris. Achten Sie auf die Blumen an ihren Lippen. Neben ihr steht dieselbe Nymphe, verwandelt in Flora, die Göttin des Frühlings, in ihrem Blumenkleid. In der Mitte, etwas zurückgesetzt, steht Venus. Über ihr zielt Amor mit verbundenen Augen mit seinem Liebespfeil. Links tanzen die drei Grazien im Reigen. [pause] Und ganz links greift Merkur mit Helm und Flügelsandalen nach oben und berührt mit seinem Stab eine Wolke.
+
+[lightly] Sie stehen in einem Hain aus Orangen- und Lorbeerbäumen. Schauen Sie nun hinunter auf die Wiese, dicht voller Blumen. Mindestens zweiundvierzig verschiedene Pflanzen hat man dort bestimmt, achtundzwanzig davon blühend, vielleicht aus einem Kräuterbuch kopiert.
+
+Worum geht es also? Das Museum selbst liest es als Feier von Liebe, Frieden und Wohlstand. Manche vermuten eine Hochzeit der Medici, doch das ist nur eine Möglichkeit.
+
+[warmly] Seit der Neuhängung hat es neue Gesellschaft. Zwei Madonnen Botticellis hängen zu beiden Seiten, die Madonna im Rosenhag und die Madonna der Cherubim. Und gegenüber, jenseits des Durchgangs, blickt die Geburt der Venus direkt zurück.
+
+Drehen Sie sich um und gehen Sie durch den Durchgang zu dem Bild gegenüber: die Geburt der Venus, die Göttin auf ihrer Muschel. Danach kommt Saal A13.

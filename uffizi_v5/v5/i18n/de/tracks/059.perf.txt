@@ -1,0 +1,24 @@
+@id: 059 · DE · Room D26 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D26
+@type: R
+@title: D26 · Veronese
+@where: Saal D26, Veronese. Suchen Sie die hohe Leinwand, etwa zweieinhalb Meter hoch: ein Adliger in schwarzem, pelzgefüttertem Wams mit Schwert, einen Handschuh ausgezogen, die bloße Hand auf der Schulter seines kleinen Sohnes.
+@what: Paolo Caliari, known as Veronese, Portrait of Count Giuseppe da Porto with his son, Adriano, about 1555, oil on canvas, 247 × 133 cm, Contini Bonacossi no. 16 (page "D25" = map D26). Also: Veronese, Holy Family with Young St John and St Catherine, about 1565, oil on canvas, 86 × 122 cm (page "D26. Veronese Corridor" = map D27).
+@listen: How Veronese answered the Inquisition by changing a title, and a father's bare hand on his son's shoulder.
+@brief: A storyteller enjoying a famous act of cheek, then softening in front of a father and son.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.uffizi.it/en/artworks/veronese-portrait-of-count-giuseppe-da-porto (OFF: 1555 c.; oil on canvas 247 × 133; Contini Bonacossi no. 16; Location "D25. Veronese" = map D26; Count Giuseppe or Iseppo da Porto with his first-born son Adriano, "one of the seven children he had from his marriage with noblewoman Livia Thiene" (re-read 24 Oct 2026); married Livia Thiene in 1545; heavy black tunic lined with fur, sword, one glove, removed the other to place his hand on his son's shoulder; Adriano's ermine-lined jacket with gold embroidery; pendant of Livia and Porzia in the Walters Art Museum, Baltimore) ; https://www.uffizi.it/en/artworks/veronese-holy-family (OFF: 1565 c.; oil on canvas 86 × 122; inv. 1890 n. 1433; Location "D26. Veronese Corridor" = map D27; "a regal St Catherine"; Widmann collection in Venice; bought in 1654 by Leopoldo and Giovan Carlo de' Medici on Paolo del Sera's advice for "the astronomical sum of 1000 scudos"; carved frame with cupid-angels holding the instruments of the Passion) ; OFF (Accademia) https://www.gallerieaccademia.it/en/opera/convito-in-casa-di-levi/ (1573; canvas 560 × 1309 cm; refectory of Santi Giovanni e Paolo, replacing a burnt Titian; Holy Office objected to a Last Supper without decorum; ordered to correct the errors within three months; changed the subject to the Feast in the House of Levi, Luke 5; jester-dwarf with parrot, servant bleeding from the nose, halberdiers "armed in the German fashion"; on display in the Gallerie dell'Accademia, Venice). No Tintoretto line (no source).
+@lang: de
+@translation: from the fact-checked English Uffizi 059 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] 1573 wurde Paolo Veronese in Venedig vor die Inquisition geladen. Ein Teil des Ärgers war ein Zwerg mit einem Papagei.
+
+Er hatte ein riesiges Abendmahl für den Speisesaal eines Dominikanerklosters gemalt. Die Inquisitoren störten sich an dem, was er um Christus herum gedrängt hatte: einen Narren-Zwerg mit Papagei, einen Diener mit Nasenbluten und Hellebardiere, gekleidet wie Deutsche. Man befahl ihm, es binnen drei Monaten zu korrigieren. [wry] Veronese malte es nicht um. Er änderte den Titel. Aus dem Abendmahl wurde das Gastmahl im Hause des Levi, ein anderes Festmahl aus dem Lukasevangelium. [pause] Diese Leinwand, etwa dreizehn Meter lang, ist in Venedig, in den Gallerie dell'Accademia.
+
+Hier begegnen Sie ihm an einem ruhigeren Tag. Graf Giuseppe da Porto steht mit Adriano, seinem erstgeborenen Sohn, einem von sieben Kindern. Der Graf trägt ein schweres, pelzgefüttertes schwarzes Wams und ein Schwert. [pause] Sehen Sie seine Hände an. Einen Handschuh behält er an. Den anderen hat er ausgezogen, damit seine bloße Hand auf der Schulter seines Jungen ruhen kann. Adriano trägt eine hermelingefütterte, goldbestickte Jacke. Das Bildnis hatte einst ein Gegenstück, mit der Frau des Grafen und ihrer Tochter. Das ist heute in Baltimore.
+
+[pause] Veroneses Heilige Familie mit der heiligen Katharina, um 1565, ist im Veronese-Korridor verzeichnet, D27, durch den Sie als Nächstes gehen. 1654 kauften zwei Medici-Prinzen sie in Venedig für eine Summe, die das Museum astronomisch nennt: tausend Scudi.
+
+Gehen Sie hinaus in den Veronese-Korridor, Saal D27, und dann den langen Korridor am Fluss entlang bis zum Verone, Saal D28. Suchen Sie die Statue des Silen, der den kleinen Bacchus wiegt.

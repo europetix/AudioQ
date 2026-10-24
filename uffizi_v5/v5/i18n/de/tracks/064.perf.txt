@@ -1,0 +1,28 @@
+@id: 064 · DE · Room E5 · 24 Oct 2026 edition
+@section: First floor · The 17th century
+@room: Room E5
+@type: W
+@title: E5 · Caravaggio — Bacchus
+@where: Saal E5, Caravaggio – Il Bacco. Stellen Sie sich vor die Leinwand, etwa einen Meter hoch: ein mit Weinlaub bekränzter junger Mann hält ein Glas Rotwein entgegen, vor ihm eine Obstschale.
+@what: Caravaggio, Bacchus, about 1598, oil on canvas, 95 × 85 cm, inv. 1890 n. 5312 (page "D32" in the old numbering; the map says E5).
+@listen: A Caravaggio found in the storerooms, a god with dirty fingernails, and a tiny reflection in the carafe that no visitor can see.
+@brief: Curious and amused, close to the picture, with a quiet turn at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uffizi.it/en/artworks/caravaggio-bacchus (OFF: 1598 c.; oil on canvas 95 × 85; inv. 1890 n. 5312; Location "D32. Caravaggio - The Bacchus" = map E5; found in the Uffizi storerooms in 1913 and attributed by Roberto Longhi; early Roman career under Cardinal del Monte; donated by del Monte, with the Medusa, to Ferdinando I "on the occasion of the wedding of his son Cosimo II" (1608); the figure reproduces classical models, the portraits of Antinous; fruit and cup of wine "surprising" in naturalism; stunned look of inebriation, languid sensuality; "a Horatian invitation to frugality, conviviality and friendship"; Mina Gregori: "celebrates the freedom of senses"; text Patrizia Naldini) ; SEC https://www.theartnewspaper.com/2009/11/01/technology-reveals-caravaggio-self-portrait (found in 1922 when dirt and varnish were removed; 2009 multispectral infrared reflectography, Opificio delle Pietre Dure with INOA; "a man in contemporary clothes that can easily be linked to the painter himself"; "not visible to the naked eye") ; dirty fingernails and spoiling fruit: visible details per audit (O36). Never told to look for the reflection.
+@lang: de
+@translation: from the fact-checked English Uffizi 064 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Jahrelang lag dieses Gemälde in den Depots der Uffizien, und niemand wusste, was es war. 1913 wurde es dann gefunden, und der Kunsthistoriker Roberto Longhi gab es Caravaggio zurück.
+
+Es ist ein Frühwerk aus seinen ersten Jahren in Rom, als er unter dem Schutz von Kardinal del Monte lebte, dem Mann, der die Medusa nach Florenz schickte. Laut dem Museum schenkte der Kardinal dieses Bild Großherzog Ferdinando zur Hochzeit seines Sohnes Cosimo.
+
+Hier ist also Bacchus, der Gott des Weines, mit Weinlaub bekränzt. Er hält Ihnen ein Glas entgegen, als lade er Sie zum Trinken ein. [pause] Schauen Sie nun etwas genauer hin. Das Obst in der Schale ist nicht ganz makellos. Manches hat schon Druckstellen und verdirbt. Und sehen Sie seine Hände an. Die Fingernägel sind schmutzig. [amused] Er ist ein Gott. Er ist aber auch ganz offensichtlich ein echter junger Mann, der Modell sitzt, mit einem schweren, leicht betrunkenen Blick.
+
+Der Körper folgt klassischen Vorbildern, den antiken Bildnissen des Antinoos, des schönen Jünglings, den Kaiser Hadrian liebte. Manche Kritiker lesen Wein und Obst als Einladung zu Freundschaft und einfachen Freuden. Andere sehen darin eine Feier der Freiheit der Sinne. [pause] Und das verderbende Obst ist vielleicht eine leise Mahnung, dass Reife nicht währt.
+
+[conspiratorial] Es gibt noch ein Geheimnis, und das werden Sie nicht sehen können. Als das Gemälde 1922 gereinigt wurde, erschien in der gläsernen Karaffe auf dem Tisch eine winzige Spiegelung. [pause] 2009 zeigten Infrarotaufnahmen, was es war: ein Mann in der Kleidung der Zeit, sehr wahrscheinlich der Maler selbst. Mit bloßem Auge ist es nicht zu erkennen. Strengen Sie sich also nicht an.
+
+[warmly] Caravaggio reicht Ihnen das Glas. Und irgendwo in der Karaffe bleibt er, um zuzusehen, wie Sie es nehmen.
+
+Der nächste Saal ist Saal E6, Malerei bei Kerzenlicht. Suchen Sie die Geburt Christi, die nur vom leuchtenden Kind erhellt wird.

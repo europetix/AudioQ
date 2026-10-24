@@ -1,0 +1,28 @@
+@id: 050 · DE · Room D12 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D12
+@type: X
+@title: D12 · Extra · Rosso Fiorentino — Lautespielender Engel
+@where: Saal D12, „Pontormo - Rosso Fiorentino“. Eine kleine Tafel, keinen halben Meter breit, vor dunklem Hintergrund: ein Kinderengel mit rot-weißen Flügeln, über eine große Laute gebeugt. Mit diesem Bild zeigt der Plan des Museums den Saal.
+@what: Rosso Fiorentino, Angel playing the lute, 1521, oil on wood panel, 39.5 × 47 cm, inv. 1890 no. 1505, inscribed "R(u)beus florentini fe(cit?) MDXXI".
+@listen: A famous little angel turns out to be a fragment, and the big picture he came from is lost.
+@brief: Warm and a little amused at the boy and his oversized instrument; a touch of mystery about the missing altarpiece.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/angel-playing-the-lute (OFF: Location "D12. Pontormo - Rosso Fiorentino"; Rosso; 1521; oil on wood panel 39.5 × 47; inv. 1890 no. 1505; inscription "R(u)beus florentini fe (cit?) MDXXI", not certain whether in Rosso's hand or added when the altarpiece was dismantled; "a fragment of a lost altarpiece"; reflectography under the dark background revealed "part of a building"; the original composition can be inferred from a Sacred Conversation by Francesco Vanni, c. 1600, in Sant'Agata, Asciano, near Siena; "the very tender image of the child angel apparently unconfident in his effort to handle the lute"; red and white wings in the image description; "famous work") ; map (OFF): D12 highlight picture "D12 Rosso Fiorentino"
+@lang: de
+@translation: from the fact-checked English Uffizi 050 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieser kleine Engel hat Mühe mit seiner Laute.
+
+Er ist ein Kind, über eine Laute gebeugt, die viel zu groß für ihn scheint. Das Museum beschreibt ihn als offenbar unsicher bei dem Versuch, mit ihr umzugehen. Genau das ist sein Charme. [pause] Seine Finger liegen auf den Saiten. Sein Kopf ist gesenkt. Er konzentriert sich so sehr wie jedes Kind in seiner ersten Musikstunde.
+
+Rosso Fiorentino malte ihn 1521. [curious] Aber er war nie als eigenständiges Bild gedacht. Es ist ein Fragment, aus einem viel größeren Altarbild geschnitten, das heute verloren ist.
+
+Woher wissen wir das? Infrarotuntersuchungen unter dem dunklen Hintergrund fanden einen Teil eines Gebäudes. Hinter ihm war also einmal Architektur. [pause] Und um 1600 hat ein Maler aus Siena, Francesco Vanni, offenbar die ganze Komposition in einem Altarbild bei Siena wiederholt. Dieses spätere Altarbild lässt uns erahnen, wie das verlorene Original aussah.
+
+[pause] Die Tafel trägt eine Inschrift mit Rossos Namen und der Jahreszahl. Selbst die ist unsicher. Vielleicht stammt sie von seiner Hand, vielleicht kam sie hinzu, als man das Altarbild zerschnitt.
+
+[lightly] Ein verlorenes Altarbild, eine geborgte Erinnerung, und das eine kleine Stück davon, das jeder kennt.
+
+Gehen Sie den Gang wieder hinauf, durch Saal D13, zum Korridor, und wenden Sie sich nach rechts: Saal D14, die Bildnisse der Panciatichi.

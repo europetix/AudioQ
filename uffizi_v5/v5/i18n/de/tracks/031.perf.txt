@@ -1,0 +1,30 @@
+@id: 031 · DE · Room A35 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A35
+@type: W
+@title: A35 · Leonardo — Anbetung der Könige
+@where: Saal A35. Treten Sie zurück vor die große, fast quadratische Tafel, fast zweieinhalb Meter hoch und breit, meist in Brauntönen gezeichnet und gemalt: Jungfrau und Kind in der Mitte, ringsum eine wirbelnde Menge, links Ruinen mit zwei Treppen, dahinter kämpfende Reiter.
+@what: Leonardo da Vinci, Adoration of the Magi (San Donato in Scopeto), c. 1482, drawing in charcoal, watercolour ink and oil on wood, 244 × 240 cm, 1890 n. 1594; restored at the Opificio delle Pietre Dure, 2011–2017.
+@listen: The painting Leonardo walked away from, and what five years of cleaning found hidden in it.
+@brief: Absorbed and slightly hushed, a friend letting you in on how a genius worked; real excitement at the restoration.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/leonardo-adoration-of-the-magi (OFF, mod. 3 Apr 2024, text Daniela Parenti: Location A35; 1482 c.; charcoal, watercolour ink and oil on wood; 244 × 240 cm; July 1481 commission from the Augustinian monks for the high altar of San Donato in Scopeto, outside the walls, to be finished within 30 months; still working in Sept 1481; left for the court of Ludovico Sforza in Milan; the friars waited in vain and commissioned Filippino Lippi, finished 1496; semicircle round the Virgin and Child; kneeling Magi; "extremely complex composition, rich with figures"; ruined buildings, clashing knights on horseback; on the left a building with two flights of stairs; unfinished, some figures barely sketched; conservation 2012–2017) ; https://www.uffizi.it/en/events/leonardo-s-magic-cosmos-the-adoration-of-the-magi-restored (OFF: commissioned 1481; left for Milan 1482; to the Opificio laboratory in Nov 2011; glue, varnish and egg-white layers made the paint lift; cleaning removed only non-original layers; revealed a "typically Leonardesque" background landscape hidden by a pigmented varnish that made it look monochrome; composition developed directly on the panel; exhibition from 27 Mar 2017) ; Gentile's Adoration: Room A7 on this floor (map) ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF artwork page re-read: "A document from July 1481 states that Leonardo da Vinci had received a commission", "undertook to finish within 30 months"; OFF event page re-read: the restoration showed that, "unusually for his day", Leonardo "developed the composition directly on the panel rather than on paper"
+@lang: de
+@translation: from the fact-checked English Uffizi 031 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ein Dokument vom Juli 1481 hält fest, dass Leonardo dieses Altarbild übernommen und versprochen hatte, es binnen dreißig Monaten zu vollenden. Er hat es nie vollendet.
+
+Es war für den Hochaltar von San Donato a Scopeto bestimmt, einem Augustinerkloster gleich vor den Mauern. Im September jenes Jahres arbeitete er noch daran. Dann verließ er Florenz und ging nach Mailand, an den Hof von Ludovico Sforza. [pause] Die Augustiner beauftragten schließlich Filippino Lippi. Seine Anbetung hängt in Saal A28, ein Stück zurück auf diesem Stockwerk.
+
+Was bleibt, ist Kohle, Tinte und Öl, direkt auf dem Holz. Die Restaurierung zeigte, dass er die Komposition, ungewöhnlich für seine Zeit, direkt auf der Tafel entwickelte.
+
+Sehen Sie in die Mitte. Jungfrau und Kind sitzen ruhig, und die Könige knien mit ihren Gaben. Alle anderen beugen sich vor, strecken die Hände aus, wenden sich staunend um. [pause] Vergleichen Sie Gentile da Fabrianos geordneten Zug, früher auf diesem Stockwerk. Hier reagiert eine ganze Menge auf einmal.
+
+Dahinter kocht das Bild über. Links ein verfallenes Gebäude mit zwei Treppen, die ins Nichts steigen. Rechts prallen Reiter aufeinander.
+
+[pause] Lange wirkte es fast ganz braun. 2011 kam es zu den Restauratoren des Opificio delle Pietre Dure. Frühere Restauratoren hatten es mit Leim, Firnis und Eiweiß überzogen, und diese Schichten lösten die Farbe von der Tafel. Die Reinigung entfernte nur, was nicht original war. Und unter einem getönten alten Firnis erschien eine Landschaft, typisch Leonardo in ihrer Tiefe und Atmosphäre.
+
+[warmly] 2017 kehrte es in die Uffizien zurück. Schauen Sie jetzt in den Hintergrund: Besucher vor dieser Zeit konnten ihn kaum erkennen.
+
+In Saal A37 gibt es einen kurzen Extra-Titel über das Marmorkabinett: Biegen Sie im Korridor links ab, gehen Sie am geschlossenen Saal A36 vorbei und nehmen Sie den kurzen Durchgang links zu Saal A37, neben der Buontalenti-Treppe, ohne hinunterzugehen. [pause] Die nächste Hauptstation ist Saal A38, die nächste Tür am Korridor, mit Michelangelos rundem Tondo Doni.

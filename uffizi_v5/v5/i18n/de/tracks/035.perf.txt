@@ -1,0 +1,28 @@
+@id: 035 · DE · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: W
+@title: A38 · Raffael — Madonna mit dem Stieglitz
+@where: Saal A38. Stellen Sie sich vor die hochformatige Tafel, etwa einen Meter hoch: die Jungfrau in Rot und Blau, mit einem kleinen Buch in einer sanften Landschaft sitzend, und zu ihren Knien zwei kleine Jungen. Einer hält dem anderen einen winzigen Vogel hin.
+@what: Raphael, Mary, Christ and the young John the Baptist, known as the "Madonna of the Goldfinch", before February 1506, oil on wood, 107 × 77.2 cm, 1890 n. 1447.
+@listen: A wedding present, a landslide that broke it into seventeen pieces, and the small bird that carries the whole story.
+@brief: Gentle and warm after the Michelangelo, with a real sense of the disaster in the middle; tender at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/mary-christ-and-the-young-john-the-baptist-known-as-the-madonna-of-the-goldfinch (OFF, mod. 22 Nov 2023: Location "A38. Raphael and Michelangelo Room"; before February 1506; oil on wood; 107 × 77.2 cm; Raphael's Florentine period 1504–1508; Vasari: commissioned for the marriage of Lorenzo Nasi and Sandra di Matteo Canigiani, 23 Feb 1506; the Nasi home destroyed by a landslide in 1547, painting broken into seventeen fragments, "probably given to Michele di Ridolfo del Ghirlandaio for restoration"; history unknown until Cardinal Giovan Carlo de' Medici's collection, 1646–47; pyramid after Leonardo's lost cartoon of the Virgin and Child with St Anne shown at Santissima Annunziata, and Michelangelo's Bruges Madonna; sfumato; John holds out the goldfinch for the Child to touch, "innocently fragile", foreshadowing Christ's sacrifice; Mary's small book signifies faith and foreshadows the sacrifice) ; AUDIT Mand-gold (SNIP): modern restoration 2002–2008, spoken only as "early in this century"
+@lang: de
+@translation: from the fact-checked English Uffizi 035 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dies war ein Hochzeitsgeschenk. Vasari berichtet, dass Raffael es für Lorenzo Nasi malte, der im Februar 1506 in Florenz heiratete.
+
+Raffael war Anfang zwanzig, gerade in der Stadt angekommen, und nahm alles in sich auf. Sehen Sie sich die Form der Gruppe an. Die Jungfrau sitzt oben, die beiden Kinder schmiegen sich an ihre Knie. So bilden die drei eine ruhige, feste Pyramide. [pause] Das Museum führt diese Form auf eine verlorene Zeichnung Leonardos zurück, die Jungfrau mit der heiligen Anna, gezeigt in einer Florentiner Kirche. Und auf eine Marmormadonna von Michelangelo. Und die Weichheit, mit der Gesichter in Schatten und Hügel in Dunst übergehen, ist Leonardos Sfumato.
+
+[pause] Nun zum Vogel. Der kleine heilige Johannes hält einen Stieglitz hin, und das Christuskind will ihn berühren. Es sieht aus wie ein Spiel. Aber der Stieglitz war mit der Passion verbunden. Dieser zerbrechliche Vogel deutet also auf Christi Opfer voraus. Sogar das kleine Buch in Marias Hand weist in dieselbe Richtung.
+
+[quietly] Dann das Unglück. 1547 zerstörte ein Erdrutsch das Haus der Familie Nasi, und diese Tafel zerbrach in siebzehn Stücke. [pause] Wahrscheinlich gab man sie dem Maler Michele di Ridolfo del Ghirlandaio, zum Zusammensetzen. Dann verschwindet sie ein Jahrhundert lang aus den Quellen, bis sie in der Sammlung eines Medici-Kardinals auftaucht.
+
+Zu Beginn dieses Jahrhunderts wurde sie erneut restauriert. [pause] Jemand hat vor langer Zeit die Stücke eines Hochzeitsgeschenks aufgesammelt und wollte es nicht verloren geben.
+
+[warmly] Ein Gemälde über eine zerbrechliche Zukunft, das selbst beinahe keine gehabt hätte.
+
+Zurück im Korridor gehen Sie nach links. Die nächste Tür führt in Saal A39, den langen Niobe-Saal: eine Halle voller fliehender Marmorfiguren.

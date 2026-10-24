@@ -1,0 +1,28 @@
+@id: 026 · DE · Room A27 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A27
+@type: R
+@title: A27 · Perugino
+@where: Saal A27, „Pietro Perugino“. Zwei große, fast quadratische Altarbilder, jedes etwa eindreiviertel Meter breit: die Pietà, in der die Mutter den toten Christus unter einer grauen Steinvorhalle hält, und das Gebet im Garten, mit Christus kniend auf einem Felsen und drei schlafenden Aposteln darunter.
+@what: Perugino (Pietro di Cristoforo Vannucci), Pietà, c. 1493–1496, oil on wood, 168 × 176 cm, 1890 no. 8365; and Oration in the Garden, c. 1493–1496, oil on wood, 166 × 171 cm, 1890 n. 8367; both painted for San Giusto alle Mura, Florence.
+@listen: The best-paid painter of his day, the church that vanished, and the calm that Raphael learned.
+@brief: Even and gentle, like the pictures; a wry beat on Vasari, warm on Raphael.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/pieta-perugino-uffizi-en (OFF, texts Giulia Mancini and Daniela Parenti: Location "A27. Pietro Perugino"; 1493–1496 c.; oil on wood; 168 × 176 cm; for San Giusto alle Mura, destroyed in 1529 before the siege ordered by Charles V; Mary holds her dead son, John the Evangelist supports him on the left, Mary Magdalene prays on the right, Joseph of Arimathea and perhaps Nicodemus behind; Renaissance portico with pillars in pietra serena; "intimate meditative atmosphere"; painted with the Oration for the same church) ; https://www.uffizi.it/en/artworks/oration-in-the-garden (OFF: A27; 1493–1496 c.; oil on wood; 166 × 171 cm; Jesus kneels on a rocky outcrop, turns to the angel holding the chalice; John, Peter and James asleep; soldiers in two symmetrical troops led by Judas on the left; placid landscape; payments from the Jesuate Fathers; at the Uffizi since 1919) ; AUDIT (general, hedged): named after Perugia, born at Città della Pieve; one of the best-paid painters by 1500; "traditionally Raphael's teacher, and certainly his model"; Vasari: mocked late in life for repeating himself ; NOT named: Francesco delle Opere (ONSITE O13)
+@lang: de
+@translation: from the fact-checked English Uffizi 026 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Um 1500 wurden in Italien nur wenige Maler besser bezahlt als dieser. Und Vasari berichtet, dass man ihn im Alter verspottete, weil er immer wieder dasselbe malte.
+
+Er hieß Pietro Vannucci. Man nannte ihn Perugino, nach der Stadt Perugia, obwohl er im Städtchen Città della Pieve geboren war. Mitte der 1490er-Jahre malte er diese beiden Altarbilder für die Kirche San Giusto alle Mura an der Stadtmauer. [pause] Die Kirche ist nicht erhalten. Sie wurde 1529 abgerissen, vor einer Belagerung.
+
+Sehen Sie zuerst die Pietà an. Maria hält ihren toten Sohn. Johannes stützt ihn auf der einen Seite, Maria Magdalena betet auf der anderen. Niemand schreit oder zerreißt seine Kleider. [pause] Alle sind still, unter den grauen Steinpfeilern einer ruhigen, maßvollen Vorhalle.
+
+Dann das Gebet im Garten. Christus kniet auf einem Felsen und wendet sich einem Engel mit einem Kelch zu. Unter ihm sind drei Apostel eingeschlafen. Und weit hinten nahen Soldaten, angeführt von Judas, in zwei ordentlichen, gleichen Gruppen.
+
+[wry] Dieses Gleichgewicht war seine große Gabe. Wenn Vasari recht hat, wurde es auch seine Falle.
+
+[warmly] Doch ein junger Maler studierte es genau. Perugino gilt traditionell als Raffaels Lehrer, und sein Vorbild war er ganz sicher. [pause] Erinnern Sie sich an diese sanften Gesichter und stillen Landschaften, wenn Sie einige Säle weiter Raffael erreichen.
+
+Geradeaus weiter in Saal A28: Filippino Lippis figurenreiche Anbetung der Könige.

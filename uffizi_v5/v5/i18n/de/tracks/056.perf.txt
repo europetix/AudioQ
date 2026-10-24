@@ -1,0 +1,26 @@
+@id: 056 · DE · Room D20 · 24 Oct 2026 edition
+@section: First floor · Venice and the Verone
+@room: Room D20
+@type: R
+@title: D20 · Die Venezianische Kapelle und El Greco
+@where: Saal D20, die Venezianische Kapelle, der kleine Saal neben dem schmalen Saal des Vasari-Korridors, D19. Suchen Sie eine kleine Tafel, etwa zwei Drittel Meter hoch: eine kniende Frau, die in einem von einer Festungsmauer umschlossenen Garten badet, mit lateinischen Worten auf gemalten Spruchbändern. Tizians Bildnis eines Geistlichen mit einem Brief ist im selben Saal.
+@what: Lorenzo Lotto, Susanna and the Elders, 1517, oil on panel, 66 × 50 cm, inv. 1890 n. 9491. Also: Titian, Portrait of Bishop of Bologna, Ludovico Beccadelli, 1552, oil on canvas, 117.5 × 97 cm (D20), and El Greco, Saint John the Evangelist and Saint Francis, 1600, oil on canvas, 110 × 86.5 cm (D21).
+@listen: A painting where the people talk, a portrait that dates itself, and El Greco's cup of poison, as you cross from Florentine line into Venetian colour.
+@brief: A friend pointing out small, surprising things at the start of a new chapter; curious, lightly amused by the dragon, unhurried.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/susanna-and-the-elders (OFF: Lotto, Venice 1480 – Loreto 1557; 1517; oil on panel 66 × 50; inv. 1890 n. 9491; Location "Venetian Small Chapel" = map D20; signed "LOTUS PICTOR 1517", first Bergamo stay 1514–25; Daniel 13; elders threaten to accuse her of adultery; Daniel questions them separately and proves her innocence; Susanna's scroll "Satius duco mori, quam peccare"; landscape bordered by a fortified wall; kneeling pose echoes the Crouching Venus) ; https://www.uffizi.it/en/artworks/titian-portrait-of-bishop-of-bologna (OFF: 1552; oil on canvas 117.5 × 97; inv. 1890 n. 1457; Location "D19. Venetian Small Chapel" = map D20; writer, diplomat, biographer of humanists; tutored Ferdinand, son of Cosimo I; holds a letter documenting date and origin; inscription names the artist; painted in Venice in 1552) ; https://www.uffizi.it/en/artworks/el-greco-saints (OFF: Candia 1541 – Toledo 1614; 1600; oil on canvas 110 × 86.5; inv. 1890 no. 9493; Location "D20. El Greco" = map D21; re-read 24 Oct 2026: "carried out his apprenticeship in his birth land" (Crete), Venice 1566, Rome "four years later", Toledo 1577; elongated bodies and suffering faces; John's golden chalice with a winged dragon, Golden Legend: dared to drink a cup of poison; lead-grey clouds; Venice 1566, Rome four years later, Toledo 1577; Tintoretto's light, Titian's colour; bought by the Uffizi in 1976, no Contini mention) ; disegno/colore and "rediscovered in the late 19th and 20th centuries": audit wording (general)
+@lang: de
+@translation: from the fact-checked English Uffizi 056 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Zwei alte Männer, eine junge Ehefrau allein im Garten, und eine Drohung. Lorenzo Lotto malte die Geschichte klein und ließ die Menschen darin sprechen.
+
+Dies ist Susanna und die beiden Alten, signiert und datiert 1517. In der biblischen Geschichte überraschen zwei Älteste Susanna beim Baden. Gib nach, sagen sie, oder wir beschuldigen dich des Ehebruchs. Suchen Sie die Worte auf den gemalten Spruchbändern. Auf ihrem antwortet Susanna auf Latein, sie wolle lieber sterben als sündigen. [pause] Am Ende verhört der junge Daniel die Männer getrennt und überführt sie.
+
+[pause] Hier betreten Sie Venedig. Florenz baute seine Bilder auf der Zeichnung auf, auf Linie und Entwurf, was es disegno nannte. Venedig baute sie auf colore, auf Farbe und Licht, in Öl aufgetragen.
+
+Im selben Saal malte Tizian den Geistlichen Ludovico Beccadelli in Venedig. Er war einst Lehrer eines Sohnes von Herzog Cosimo dem Ersten. Der Brief in seiner Hand hält fest, wann und wo das Bildnis entstand.
+
+In Saal D21, dem schmalen Saal dahinter, hängt El Grecos Heiliger Johannes der Evangelist und heiliger Franziskus, gemalt 1600. Er wurde auf Kreta geboren und ausgebildet, arbeitete in Venedig und Rom und ließ sich dann in Toledo nieder. [lightly] Suchen Sie den goldenen Kelch in der Hand des Johannes. Ein kleiner geflügelter Drache klettert heraus. Der Legende nach forderte man ihn heraus, Gift zu trinken, und das Gift verließ den Kelch als Drache. [pause] Seine langen, gespannten Figuren wurden erst im späten neunzehnten und im zwanzigsten Jahrhundert wiederentdeckt.
+
+Gehen Sie weiter durch Saal D21 und durch das kleine Vorzimmer D22 in Saal D23. Suchen Sie Tizians Venus von Urbino, den liegenden Akt, zu dessen Füßen ein kleiner Hund schläft.

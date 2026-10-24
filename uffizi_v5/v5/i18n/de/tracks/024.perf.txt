@@ -1,0 +1,26 @@
+@id: 024 · DE · Room A25 · 24 Oct 2026 edition
+@section: Second floor · High Renaissance
+@room: Room A25
+@type: R
+@title: A25 · Domenico Veneziano — Der Altar von Santa Lucia
+@where: Saal A25, „Domenico Veneziano, Piero della Francesca“. Stellen Sie sich vor das große, fast quadratische Altarbild, etwa zwei Meter hoch und breit: die thronende Jungfrau mit Kind unter einer hellen Loggia aus rosa und grünem Marmor, zwei Heilige auf jeder Seite, darüber Orangenbäume.
+@what: Domenico Veneziano, Madonna and Child enthroned with St. Francis, John the Baptist, St. Zenobius and St. Lucy (Santa Lucia de' Magnoli Altarpiece), c. 1445, tempera on wood, 209 × 213 cm, 1890 n. 884; restored 2024 by the Opificio delle Pietre Dure.
+@listen: A painter from Venice who filled an altarpiece with daylight, and the murder Vasari invented for him.
+@brief: A friend setting the record straight, wry about Vasari, then pleased to point out the light.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/veneziano-madonna-and-child-enthroned (OFF, text Daniela Parenti: Location "A25. Domenico Veneziano - Piero della Francesca"; 1445 c.; tempera on wood; 209 × 213 cm; Domenico, Venice early 15th c. – Florence 1461; high altar of Santa Lucia de' Magnoli; portico with marble columns and boughs of orange trees above; pointed arches; light tones; "clear light entering from the right"; shadows on the floor "perfectly proportioned"; St Lucy holds a dish bearing her eyes; Zenobius a bishop; signed on the step of the dais "OPUS DOMINICI DE VENETIIS HO[C] MATER DEI MISERERE MEI DATUM EST"; predella now in Washington, Cambridge (Fitzwilliam) and Berlin; restored 2024) ; AUDIT IAS-cast (SNIP) + Vasari: Vasari's story that Andrea del Castagno murdered him; Castagno died in 1457, four years before Domenico ; AUDIT (general): Piero worked as his assistant in the 1430s
+@lang: de
+@translation: from the fact-checked English Uffizi 024 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Vasari erzählt eine düstere Geschichte über den Maler dieses Bildes. Ein eifersüchtiger Rivale, Andrea del Castagno, habe ihn ermordet. Eine packende Geschichte. Und eine unmögliche. [pause] Castagno starb 1457, und Domenico Veneziano überlebte ihn um vier Jahre.
+
+Domenico kam aus Venedig und arbeitete in Florenz. Um 1445 malte er dieses Altarbild für den Hochaltar der kleinen Kirche Santa Lucia de' Magnoli. Und statt Gold schenkte er ihm Tageslicht.
+
+Sehen Sie, wie das Licht von rechts einfällt. Es streicht über die Marmorloggia und legt weiche, genaue Schatten auf den Boden. Über den Bögen drängen Zweige von Orangenbäumen in einen klaren Himmel. [pause] Vier Heilige stehen in diesem Licht. Links der heilige Franziskus und Johannes der Täufer. Rechts der heilige Zenobius, ein Bischof von Florenz, und die heilige Lucia mit einer Schale, auf der ihre eigenen Augen liegen.
+
+[curious] Senken Sie dann den Blick auf die Stufe unter dem Thron der Jungfrau. Dort signierte Domenico und fügte ein Gebet hinzu: „Mutter Gottes, erbarme dich meiner“. [pause] Die kleinen Szenen, die einst unter dem Altarbild standen, sind heute auf Washington, Cambridge und Berlin verstreut.
+
+Ein jüngerer Maler arbeitete in den 1430er-Jahren als sein Gehilfe und lernte, was diese Art von Licht vermag. Sein Name war Piero della Francesca.
+
+Bleiben Sie in Saal A25 für Piero della Francescas zwei kleine, einander zugewandte Profile, den Herzog und die Herzogin von Urbino.

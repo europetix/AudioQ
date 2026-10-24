@@ -1,0 +1,26 @@
+@id: 033 · DE · Room A38 · 24 Oct 2026 edition
+@section: Second floor · Raphael, Michelangelo and the Niobe Room
+@room: Room A38
+@type: R
+@title: A38 · Raffael und Michelangelo
+@where: Saal A38, „Raffael und Michelangelo“. Suchen Sie zuerst Michelangelos runde Heilige Familie in ihrem geschnitzten Goldrahmen. Raffaels Madonna mit dem Stieglitz und seine große Leinwand mit dem jungen Johannes in einer Höhle, in einem Leopardenfell, hängen im selben Saal, dazu zwei winzige Tafeln von Fra Bartolomeo.
+@what: Overview of Room A38. Raphael, St John the Baptist as a Boy, c. 1518, oil on canvas, 163 × 147 cm. Fra Bartolomeo, Adoration of the Child and Presentation in the Temple, c. 1497, oil on wood, about 20 × 9 cm each, 1890 no. 1477. Also the Doni Tondo (034) and the Madonna of the Goldfinch (035).
+@listen: Two rivals in one room, and two smaller works that are easy to miss.
+@brief: A friend arriving at the summit and enjoying the rivalry; brisk, then pointing out the small things.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo (OFF: A38; "the only finished panel painting by the artist to survive") ; https://www.uffizi.it/en/artworks/raphael-st-john (OFF, mod. 2 Apr 2024: Location "A38. Raphael and Michelangelo"; 1518 c., perhaps 1517; oil on canvas; 163 × 147 cm; Vasari: commissioned by Cardinal Pompeo Colonna; some critics see Giulio Romano and Penni; boy in a cave in a leopard skin; scroll with "DEI"; left hand points to a radiant cross tied to an oak trunk; spring on the left) ; https://www.uffizi.it/en/artworks/adoration-of-the-child-fra-bartolomeo (OFF, text Anna Bisceglia: Location "A38. Raphael and Michelangelo"; 1497 ca.; oil on wood; 20.3 × 8.9 and 18.3 × 9.4 cm; part of a small tabernacle; closed, a monochrome Annunciation; owned and probably commissioned by Piero del Pugliese; Vasari: between the panels a marble Madonna by Donatello, now identified as the Dudley Madonna in the V&A, London) ; https://www.uffizi.it/en/artworks/portraits-doni-raffaello (OFF, mod. 3 Sep 2026: Location field says Pitti, body says Uffizi since 2018: NOT placed in this room in speech, ONSITE O16) ; https://www.uffizi.it/en/artworks/raphael-self-portrait (via FLOOR2: C1) ; AUDIT: born 1475 and 1483, "they were rivals" ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF adoration-of-the-child-fra-bartolomeo re-read: Vasari's Donatello marble Madonna "now identified as the so-called Dudley Madonna, preserved in the Victoria and Albert Museum in London"
+@lang: de
+@translation: from the fact-checked English Uffizi 033 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Michelangelo wurde 1475 geboren, Raffael acht Jahre später. In Florenz waren sie Rivalen. In diesem Saal hängen sie nur wenige Schritte voneinander entfernt.
+
+Michelangelo sah sich immer zuerst als Bildhauer. Die runde Heilige Familie hier, der Tondo Doni, ist das einzige erhaltene vollendete Tafelbild von ihm. [pause] Raffael ist das Gegenteil: ruhig, anmutig, einer, der alles Gesehene glänzend in sich aufnahm. Seine Madonna mit dem Stieglitz ist ebenfalls in diesem Saal. Jedes der beiden Werke hat seine eigene Station.
+
+Vorher zwei Werke, an denen viele vorbeigehen. Die große Leinwand mit einem Jungen in einer Höhle ist Raffaels Johannes der Täufer, um 1518 in Rom entstanden. Vasari sagt, ein Kardinal, Pompeo Colonna, habe es bestellt. [pause] Johannes sitzt in einem Leopardenfell und zeigt auf ein leuchtendes Kreuz, das an eine Eiche gebunden ist. Manche Kritiker sehen darin auch die Hände von Raffaels Schülern.
+
+[lightly] Und suchen Sie zwei sehr kleine Tafeln, jede etwa so hoch wie Ihre Hand. Fra Bartolomeo malte sie um 1497 als Türen eines kleinen Schreins, mit der Anbetung des Kindes und der Darbringung im Tempel. Vasari sagt, zwischen ihnen habe einst eine Marmormadonna von Donatello gestanden. [pause] Man identifiziert sie heute mit einem Relief im Victoria and Albert Museum in London.
+
+Raffaels eigenes Selbstbildnis wartet unten, im ersten Saal der Selbstbildnisse.
+
+Bleiben Sie in Saal A38 für den Tondo Doni, die runde Heilige Familie mit nackten Figuren hinter einer niedrigen Mauer.

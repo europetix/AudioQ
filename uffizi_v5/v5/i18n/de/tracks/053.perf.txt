@@ -1,0 +1,26 @@
+@id: 053 · DE · Room D15 · 24 Oct 2026 edition
+@section: First floor · The 16th century
+@room: Room D15
+@type: X
+@title: D15 · Extra · Tizians Herzog und Herzogin von Urbino
+@where: Saal D15, der Saal der Dynastien. Suchen Sie Tizians Bildnispaar, jedes gut einen Meter hoch: ein Feldherr in polierter Rüstung vor karmesinrotem Samt, hinter ihm auf einem Bord Kommandostäbe und ein Helm mit Drachenkamm, und eine sitzende Herzogin mit einem kleinen Hund neben sich. Baroccis junger Herzog in Rüstung, die Hand auf einem Federhelm, ist im selben Saal.
+@what: Titian, Portrait of Francesco Maria della Rovere, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 n. 926; Titian, Portrait of Eleonora Gonzaga, Duchess of Urbino, c. 1537, oil on canvas, 114 × 103 cm, inv. 1890 no. 919. Also: Federico Barocci, Portrait of Francesco Maria II della Rovere, Duke of Urbino, 1572, oil on canvas, 113 × 93 cm, inv. 1890 n. 1438. All D15.
+@listen: A duke who lent Titian his armour, a duchess painted as the faithful wife, and the son who bought the Venus of Urbino.
+@brief: A brisk, slightly amused aside about vanity and armour, ending on a forward-looking link to the Venus.
+@pace: medium
+@energy: 2→3
+@sources: https://www.uffizi.it/en/artworks/titian-portrait-of-francesco-maria-della-rovere (OFF: Location "D15. Room of the Dynasties"; c. 1537; oil on canvas 114 × 103; inv. 1890 n. 926; Duke of Urbino 1490–1538, Captain General of Venice; in summer 1536 he asked for his parade armour back, sent to Venice months earlier so Titian could copy it; crimson velvet; Venetian baton in his fist; dragon-crested helmet, batons of the papacy, Florence and Venice and an oak branch for the della Rovere and Pope Julius II; Aretino's two sonnets) ; https://www.uffizi.it/en/artworks/portrait-of-eleonora-gonzaga-duchess-of-urbino (OFF: Location "D15. Room of the Dynasties"; c. 1537; oil on canvas 114 × 103; inv. 1890 no. 919; probably painted in the winter of 1536–37 in Venice; the faithful bride; the dog symbolises marital fidelity; companion of the duke's portrait) ; https://www.uffizi.it/en/artworks/barocci-della-rovere-portrait (OFF: Location "D15, Room of the Dynasties"; 1572; oil on canvas 113 × 93; inv. 1890 n. 1438; pose based on Titian's portrait of Francesco Maria I, studied in the ducal collections; commissioned by Duke Guidobaldo to celebrate his son's conduct at Lepanto; came to the Medici with the della Rovere inheritance of Vittoria) ; Guidobaldo's 1538 purchase of the Venus of Urbino: https://www.uffizi.it/en/artworks/venus-urbino-titian via audit (U-vurb, OFF) ; family links (Guidobaldo son of Francesco Maria I and Eleonora; Francesco Maria II son of Guidobaldo): standard genealogy, see notes
+@lang: de
+@translation: from the fact-checked English Uffizi 053 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Damit sein Bildnis gelang, schickte der Herzog von Urbino seine Rüstung Monate im Voraus nach Venedig. So konnte Tizian jede Platte abmalen.
+
+Francesco Maria della Rovere war Soldat, Oberbefehlshaber der Heere Venedigs. Tizian malte ihn um 1537 in dieser polierten Prunkrüstung, vor karmesinrotem Samt, einen Kommandostab in der Faust. [pause] Auf dem Bord hinter ihm liegen ein Helm mit Drachenkamm und die Kommandostäbe der Staaten, denen er gedient hatte: des Papsttums, von Florenz und Venedig. Suchen Sie auch den Eichenzweig. Rovere bedeutet Eiche. Der Zweig erinnert an seinen Onkel, den Kriegerpapst Julius den Zweiten.
+
+Seine Frau, Eleonora Gonzaga, wurde als seine Partnerin gemalt: er der Mann der Waffen, sie die treue Gattin. Der kleine Hund neben ihr steht für Treue.
+
+[pause] Und nun die Verbindung. Ihr Sohn Guidobaldo kaufte 1538 Tizians Venus von Urbino. Sie begegnen ihr ein paar Säle weiter, in Saal D23.
+
+Suchen Sie noch einen Herzog in Rüstung, 1572 von Federico Barocci gemalt: ihren Enkel, Francesco Maria den Zweiten. Barocci entlehnte seine stolze Pose Tizians Bildnis des Großvaters.
+
+In Saal D16 gibt es einen kurzen Extra-Titel über die Säle der Gegenreformation. Sie erreichen ihn durch die Tür in der Rückwand, die näher an Saal D14 liegt, durch den Sie hereingekommen sind. [pause] Die nächste Hauptstation ist Saal D19, der schmale Saal hinter der anderen, weiter entfernten Tür.

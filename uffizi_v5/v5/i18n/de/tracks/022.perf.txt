@@ -1,0 +1,28 @@
+@id: 022 · DE · Room A16 · 24 Oct 2026 edition
+@section: Second floor · The Botticelli rooms and the Tribune
+@room: Room A16
+@type: W
+@title: A16 · Die Tribuna
+@where: An einer Tür der Tribuna, Saal A16: ein kleiner achteckiger Saal mit roten Samtwänden, einer Kuppel, die von Perlmutt glänzt, und einem Boden aus farbigem Marmor. Die lebensgroße Marmorgöttin, die sich mit den Händen bedeckt, ist die Venus Medici.
+@what: Bernardo Buontalenti, the Tribune, 1581–1583, for Francesco I de' Medici. Medici Venus, Hellenistic art, late 2nd – early 1st century BC, Parian marble, h. 153 cm, 1914 no. 224. Also: Wrestlers, Roman art, Parian marble, 1914 no. 216; Knife Grinder (the Scythian), Roman art, 2nd century AD, 1914 no. 230.
+@listen: A treasure room built as a model of the universe, and the goddess who was taken to Paris and came back.
+@brief: Hushed wonder at the threshold, then a storyteller's relish for the Venus and her travels.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://www.uffizi.it/en/artworks/the-tribune (OFF, mod. 22 Nov 2023, text Antonio Godoli: 1581–1583; Buontalenti; Francesco I, "to keep jewels and embellishments"; eight draws near Heaven; 5,780 mother-of-pearl pieces from the Indian Ocean = Water; red velvets = Fire; lantern open to the winds = Air; weathervane reproduced inside on a painted wind rose; lantern acts as a sundial at equinoxes and solstices; floor a flower of polychrome marbles = Earth; cabinet of curiosities; Ligozzi plants and animals around the base; page does not say whether visitors may enter) ; https://www.uffizi.it/en/artworks/medici-venus (OFF, mod. 3 Apr 2024, text Fabrizio Paolucci: Location A16; late 2nd – early 1st c. BC; Parian lychnite marble; h. 153 cm; pudica pose after Praxiteles' Aphrodite of Knidos; dolphin; Cleomenes signature "did not originally belong to this sculpture"; found in Rome, bought by Ferdinando, at Villa Medici almost a century; reached Florence 1677 with the Wrestlers and the Knife Grinder, in the Tribune 1680; confiscated by the French 1802, Musée Napoléon until early 1816, returned; Grand Tour visitors admired it) ; https://www.uffizi.it/en/artworks/wrestlers (OFF: A16; "the outcome of the match is not revealed"; found 1583 in the Tommasini vineyard) ; https://www.uffizi.it/en/artworks/knife-grinder-tribune (OFF: A16; kneeling man sharpening a knife; from a group of the flaying of Marsyas) ; https://www.uffizi.it/en/artworks/venus-urbino-titian (OFF: "For many years, the painting was on display in the Tribuna degli Uffizi, close to the Medici Venus"; now D22 on page = map D23) ; https://www.uffizi.it/en/news/new-life-for-the-stanzino-delle-matematiche (OFF: access to the Tribune closed for conservation, the Stanzino used as an observation point) ; viewing from the doorways: PLAN wording, ONSITE O9 ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF medici-venus re-read: purchased by Ferdinando de' Medici, kept at Villa Medici in Rome (bibliography: "Le collezioni del Cardinal Ferdinando"); returned "to comply with the Treaty of Vienna"
+@lang: de
+@translation: from the fact-checked English Uffizi 022 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] 1802 wurde die meistbewunderte Frau Europas eingepackt und nach Paris gebracht. Sie steht in diesem Saal. 1816 kehrte sie heim.
+
+Bernardo Buontalenti baute die Tribuna Anfang der 1580er-Jahre für Großherzog Francesco den Ersten, als Ort für seine Juwelen und Schätze. Sie ist ein Achteck, denn die Acht galt als die Zahl, die dem Himmel nahekommt. [pause] Und Francesco plante sie als ganzen Kosmos der vier Elemente.
+
+Schauen Sie hinauf zur Kuppel. Sie ist mit 5780 Perlmuttstücken aus dem Indischen Ozean besetzt. Das ist das Wasser. Die roten Samtwände sind das Feuer. Die Laterne oben ist den Winden offen, also die Luft, und eine Wetterfahne darauf ist mit einer innen gemalten Windrose verbunden. [pause] Die Laterne ist auch eine Sonnenuhr, die zu Sonnenwenden und Tagundnachtgleichen die Sonne einfängt. Und der Boden, eine große Blume aus farbigem Marmor, ist die Erde. Zum Schutz betrachtet man ihn von den Türen aus.
+
+[curious] Nun die Göttin. Die Venus Medici ist ein Marmor aus der späthellenistischen Welt. Sie schirmt sich mit den Händen ab, ein kleiner Delfin neben ihr. Ferdinando de' Medici, damals Kardinal in Rom, kaufte sie dort. Später kam sie nach Florenz, mit den beiden Ringern und dem knienden Messerschleifer, die Sie neben ihr sehen. [pause] Die Franzosen holten sie für das Musée Napoléon. Nach Napoleons Sturz schickte der Vertrag von Wien sie nach Hause.
+
+[wry] Eine kleine Täuschung. Der Sockel ist von einem griechischen Bildhauer signiert, Kleomenes von Athen. Die Experten des Museums sagen, die Signatur gehörte ursprünglich nicht zu dieser Statue.
+
+Zwei Jahrhunderte lang war dieser kleine Saal der Höhepunkt der Grand Tour. Tizians Venus von Urbino hing jahrelang in ihrer Nähe. Ihr begegnen Sie unten.
+
+Gehen Sie den Ostkorridor entlang bis zu seinem Ende. Die Säle nach der Tribuna, A17 bis A21, sind geschlossen, solange sie neu eingerichtet werden. Gehen Sie also an ihnen vorbei. [pause] Biegen Sie um die Ecke in den kurzen Korridor mit Fenstern zum Fluss: Saal A23, der Südkorridor.

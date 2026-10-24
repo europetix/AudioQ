@@ -1,0 +1,30 @@
+@id: 009 · DE · Room A5 · 24 Oct 2026 edition
+@section: Second floor · The 13th and 14th centuries
+@room: Room A5
+@type: W
+@title: A5 · Simone Martini und Lippo Memmi — Verkündigung
+@where: In Saal A5, vor der großen goldenen Verkündigung, fast zwei Meter hoch: auf der einen Seite der kniende Engel, auf der anderen die zurückweichende Jungfrau, dazwischen eine Vase mit Lilien. Worte in erhabenem Gold laufen über den Goldgrund, und in jeder Seitentafel steht ein Heiliger.
+@what: Simone Martini and Lippo Memmi, Annunciation with St. Maxima and St. Ansanus, 1333, tempera on wood, gold background, 184 × 168 cm, Uffizi inv. 1890 nos. 451, 452, 453.
+@listen: A painting that writes a voice across the air, a frightened young woman inside the gold, and two brothers-in-law who signed it together.
+@brief: Intimate and curious, leaning in with a friend; a wry aside about the mislabelled saint, then a warm, quiet close.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.uffizi.it/en/artworks/annunciation-with-st-margaret-and-st-ansanus (OFF: heading "Annunciation with St. Maxima and St. Ansanus"; Location "A5. Lorenzetti - Simone Martini"; 1333; tempera on wood, gold background; 184 x 168 cm; inv. 1890 nos. 451, 452, 453; signed "SYMON MARTINI ET LIPPUS MEMMIS DE SENIS ME PINCXERUNT ANNO DOMINI MCCCXXXIII"; for the altar of St Ansanus in the transept of Siena Cathedral; Gabriel with fluttering cloak and spread wings; "AVE GRATIA PLENA DOMINUS TECUM" as a raised inscription; Mary distressed, drawing back, wrapping herself in her cloak, had been reading; vase of lilies for purity; Ansanus, a patron saint of Siena, with the city's banner; the other a martyr, "possibly Maxima (Ansanus's mother) or Margaret", the inscription naming her Judith "is incorrect"; critics give "most of the conception and execution" to Simone; Simone a friend of Petrarch, worked for the Anjou and the Avignon popes; shared a workshop with Lippo and married his sister; text Daniela Parenti) ; side saints "often assigned to Lippo" and the olive "a sign of peace": audit 009 HEDGE wording ; AUDIT FIX 24 Oct 2026 (WebFetch, one page at a time): OFF page re-read: greeting "AVE GRATIA PLENA DOMINUS TECUM" (spoken in normal case, first three words only); "the inscription at her feet, which identifies her as Judith, is incorrect" (kept)
+@lang: de
+@translation: from the fact-checked English Uffizi 009 (24 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Simone Martini überließ den Gruß des Engels nicht Ihrer Fantasie. Er schrieb genau diese Worte quer durch die Luft, in erhabenem Gold.
+
+Der Gruß beginnt mit „Ave gratia plena“: Gegrüßet seist du, voll der Gnade, der Herr ist mit dir. Gabriel ist gerade angekommen, sein Mantel flattert noch, seine Flügel sind ausgebreitet. [pause] Der Gruß läuft von seinen Lippen zur Jungfrau, und Ihr Auge folgt dem Weg des Klangs.
+
+[pause] Sehen Sie nun Maria an. Das ist keine ruhige Hinnahme. Sie ist bestürzt. Sie weicht zurück und hüllt sich in ihren dunkelblauen Mantel. Ihr Buch hält sie noch in der Hand. Ein sehr menschliches Zurückzucken, im feierlichsten Moment der christlichen Kunst.
+
+Simone war ein Star. Er war ein Freund des Dichters Petrarca und arbeitete für Könige und für die Päpste in Avignon. 1333 malte er dies mit Lippo Memmi für den Dom von Siena. Die beiden teilten eine Werkstatt, und Simone heiratete Lippos Schwester. [pause] Beide Namen stehen in der Signatur, doch die Kritik schreibt den größten Teil Simone zu. Die zwei seitlichen Heiligen gibt man oft Lippo.
+
+Einer dieser Heiligen ist Ansanus, ein Schutzpatron Sienas, mit dem Banner der Stadt. [wry] Die andere ist ein Rätsel. Sie könnte Maxima sein, seine Mutter, oder die heilige Margareta. Der Name zu ihren Füßen lautet Judith, und der ist falsch.
+
+Zwischen Engel und Jungfrau steht eine Vase mit Lilien, für ihre Reinheit. Der Engel hält einen Olivenzweig, ein Zeichen des Friedens.
+
+[warmly] Fast siebenhundert Jahre später hängt der Gruß noch immer in der Luft.
+
+In Saal A6 gibt es einen kurzen Extra-Titel über Florenz im vierzehnten Jahrhundert. Er liegt hinter der Tür an der Rückseite dieses Saals, vom Korridor abgewandt. [pause] Die nächste Hauptstation ist Saal A7: Gehen Sie zurück in den Maestà-Saal, Saal A4. Auf seiner hinteren Seite, vom Korridor abgewandt, liegen zwei Türen nebeneinander. Nehmen Sie die auf der Seite von Saal A5, in Saal A7, mit einem riesigen goldenen Zug von Königen.
