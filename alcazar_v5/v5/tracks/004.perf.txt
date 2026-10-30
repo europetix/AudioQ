@@ -1,0 +1,24 @@
+@id: 004 · No. 2 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 2 · Sala de la Justicia
+@type: R
+@title: 2 · Sala de la Justicia — Alfonso XI's hall
+@where: Inside the Sala de la Justicia, off the Patio del León: a small square hall with plaster-covered walls and a fountain set into the middle of the floor.
+@what: Sala de la Justicia, a square Mudéjar hall built at the time of Alfonso XI of Castile, 14th century (around the 1340s); plasterwork with plant motifs and heraldic shields; floor fountain.
+@listen: A king's victory, a Christian hall in Islamic dress, and the first step towards Pedro's palace.
+@brief: A friend telling the backstory of a small room; curious at the battle, careful with the doubt, quietly pleased at the fountain.
+@pace: medium
+@energy: 2→3→2
+@sources: https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF, Ayuntamiento de Sevilla / Real Alcázar: "the earliest Mudéjar building in the Royal Alcázar", "built in around the 14th century", "at the time of Alfonso XI of Castile"; "traditional Islamic plasterwork featuring plant-like motifs and heraldic shields") ; https://www.britannica.com/print/article/504287 (SEC, Britannica, Battle of Río Salado: 30 Oct 1340; Alfonso XI and Afonso IV of Portugal against the Marinids; the Marinids' last attempt to invade the peninsula) ; https://andalucia.com/cities/seville/alcazar/moorish.htm (SEC: Alfonso XI reconstructed it in the 14th century; central fountain) ; Salado link "possibly": audit HEDGE ; Pedro son of Alfonso XI: audit SNIP
+---
+[curious] In 1340, at the Río Salado, Alfonso the Eleventh of Castile and Afonso the Fourth of Portugal defeated a great Marinid army from Morocco. It was the Marinids' last attempt to invade the peninsula, and the last time Castile and Portugal fought them side by side.
+
+This hall was built in Alfonso's time, in the fourteenth century, possibly to mark that victory. Nobody can prove the link. But the room tells another story, and that one is certain.
+
+Alfonso was a Christian king, and he was Pedro's father. Yet look at what he chose: a square hall in the Islamic tradition, its walls covered in plasterwork of plant-like patterns and heraldic shields. The city's own description calls it the earliest Mudéjar building in the Alcázar. Mudéjar is the word for this mix: Islamic forms of art, made for Christian patrons. So a Castilian king's hall speaks the artistic language of al-Andalus.
+
+[pause] Then look down, at the fountain set into the floor. Water in the middle of a room, a piece of garden brought indoors.
+
+[warmly] Within a generation, his son Pedro would take this taste and build a whole palace in it. This small room is where that story starts.
+
+Through to number 3 on the Alcázar map, the Patio del Yeso: a lattice of arches over a long pool.
