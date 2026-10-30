@@ -3,7 +3,7 @@
 @room: No. 32 · Salón de los Tapices y Capilla
 @type: W
 @title: 32 · Salón de los Tapices — The conquest of Tunis
-@where: In number 32, the Salón de los Tapices: a long, high hall in the Gothic palace, its walls hung with very large tapestries full of ships, armies and coastline. The chapel opens off this hall.
+@where: In number 32, the Salón de los Tapices: a long, high hall in the Gothic palace, its walls hung with very large tapestries of a sea campaign. The chapel opens off this hall.
 @what: Tapestries of Charles V's conquest of Tunis, 1535: 18th-century replicas woven in Madrid by the Vandergoten family's royal manufactory for Felipe V, after the twelve-panel set designed by Jan Cornelisz Vermeyen and Pieter Coecke van Aelst and woven by Willem de Pannemaker in Brussels, 1548–1554 (gold, silver, silk and wool). Originals (ten survive) and the replica set belong to Patrimonio Nacional. Number of panels on view: count on site (O15).
 @listen: Why these famous tapestries are copies, who drew the campaign as it happened, and what the pictures leave out.
 @brief: A friend walking you along the walls, curious about the story behind the weaving, then plain and honest at the end.
@@ -13,7 +13,7 @@
 ---
 [curious] The tapestries in this hall are copies. And that was the whole point of making them.
 
-In 1535 Charles the Fifth led a great expedition across the sea against the corsair Barbarossa, who had seized Tunis. The painter Jan Cornelisz Vermeyen sailed with him and recorded the campaign as an eyewitness. Back in the Low Countries, Vermeyen's pictures, with Pieter Coecke's help, became the designs for twelve enormous tapestries. Willem de Pannemaker wove them in Brussels over six years, in wool and silk, with gold and silver thread.
+In 1535 Charles the Fifth led a great expedition across the sea against the corsair Barbarossa, who had seized Tunis. The painter Jan Cornelisz Vermeyen went with him and recorded the campaign as an eyewitness. Vermeyen's pictures, with Pieter Coecke's help, became the designs for twelve enormous tapestries. Willem de Pannemaker wove them in Brussels over six years, in wool and silk, with gold and silver thread.
 
 Ten of those originals survive, in the Spanish royal collection. In the eighteenth century, King Felipe the Fifth wanted them preserved. So he turned to the Vandergoten family, weavers he had brought from Antwerp to run a new royal tapestry works in Madrid, and had them weave a full replica set. The tapestries around you come from that set. They are royal property too.
 
