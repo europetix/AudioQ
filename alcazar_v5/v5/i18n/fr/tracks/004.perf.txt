@@ -1,0 +1,26 @@
+@id: 004 · FR · No. 2 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 2 · Sala de la Justicia
+@type: R
+@title: 2 · Sala de la Justicia — La salle d'Alphonse XI
+@where: Dans la Sala de la Justicia, dans l'angle gauche du fond du Patio del León quand vous faites face au triple arc : une petite salle carrée aux murs couverts de stuc, avec une fontaine encastrée au milieu du sol.
+@what: Sala de la Justicia, a square Mudéjar hall built at the time of Alfonso XI of Castile, 14th century (around the 1340s); plasterwork with plant motifs and heraldic shields; floor fountain.
+@listen: A king's victory, a Christian hall in Islamic dress, and the first step towards Pedro's palace.
+@brief: A friend telling the backstory of a small room; curious at the battle, careful with the doubt, quietly pleased at the fountain.
+@pace: medium
+@energy: 2→3→2
+@sources: https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF, Ayuntamiento de Sevilla / Real Alcázar: "the earliest Mudéjar building in the Royal Alcázar", "built in around the 14th century", "at the time of Alfonso XI of Castile"; "traditional Islamic plasterwork featuring plant-like motifs and heraldic shields") ; https://www.britannica.com/print/article/504287 (SEC, Britannica, Battle of Río Salado: 30 Oct 1340; Alfonso XI and Afonso IV of Portugal against the Marinids; the Marinids' last attempt to invade the peninsula) ; https://andalucia.com/cities/seville/alcazar/moorish.htm (SEC: Alfonso XI reconstructed it in the 14th century; central fountain) ; Salado link "possibly": audit HEDGE ; Pedro son of Alfonso XI: audit SNIP
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 004 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1340, au Río Salado, Alphonse onze de Castille et Alphonse quatre de Portugal battirent une grande armée mérinide venue du Maroc. Ce fut la dernière tentative des Mérinides pour envahir la péninsule. Et la dernière fois que la Castille et le Portugal les combattirent côte à côte.
+
+Cette salle fut construite à l'époque d'Alphonse, au quatorzième siècle, peut-être pour célébrer cette victoire. Personne ne peut prouver ce lien. Mais la salle raconte une autre histoire, et celle-là est certaine.
+
+Alphonse était un roi chrétien, et le père de Pierre. Pourtant, voyez ce qu'il a choisi : une salle carrée de tradition islamique. [pause] Ses murs sont couverts de stucs à motifs végétaux et d'écus héraldiques. La description de la ville en fait le plus ancien édifice mudéjar de l'Alcázar. Mudéjar, c'est le mot pour ce mélange : des formes d'art islamiques, faites pour des commanditaires chrétiens. [pause] La salle d'un roi castillan parle donc la langue artistique d'al-Andalus.
+
+[pause] Puis baissez les yeux vers la fontaine du sol. De l'eau au milieu d'une pièce, un morceau de jardin amené à l'intérieur.
+
+[warmly] En moins d'une génération, son fils Pierre bâtirait tout un palais dans ce goût. Cette histoire commence dans cette petite salle.
+
+Sortez par le fond de cette salle vers le numéro 3 du plan de l'Alcázar, le Patio del Yeso : un treillis d'arcs au-dessus d'un long bassin.

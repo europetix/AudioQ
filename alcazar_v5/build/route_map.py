@@ -399,10 +399,10 @@ lens = "".join(f'<div class="card"><div class="cnum" style="background:{NAVY}">{
                for i, (n, k, m, d) in enumerate(LENGTHS, 1))
 MAIN_NUMS = sorted({TR[n]["num"] for n in NUMS if TR[n]["num"] is not None and n not in CRA})
 ov, _, _ = plan_svg((1110, 3400, 640, 2262), 182, 140, nums=MAIN_NUMS, show=[], filled=set(MAIN_NUMS), overview=True, tag_fs=1.8,
-    notes=[(START_PT, "IN · Puerta del León", "start", 2, 13), (EXIT_PT, "OUT · to the Patio de Banderas", "finish", 9, -8),
-           ((1716, 1424), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -12, 17)],
-    texts=[(1440, 700, "Patio de Banderas", "yard", 0), (1150, 1170, "Plaza del Triunfo", "side", 0),
-           (2318, 742, "Callejón del Agua", "side", -62), (2900, 1560, "The gardens", "zl", 0)])
+    notes=[(START_PT, "IN · Puerta del León", "start", 3, -9), (EXIT_PT, "OUT · to the Patio de Banderas", "finish", 9, -8),
+           ((1716, 1424), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -23, 21)],
+    texts=[(1440, 700, "Patio de Banderas", "yard", 0), (1215, 1112, "Plaza del Triunfo", "side", 0),
+           (2318, 742, "Callejón del Agua", "side", -62), (2700, 1010, "The gardens", "zl", 0)])
 KEYS = []
 for sec, nums_ in (("The first courtyards", "1–5"), ("Casa de la Contratación", "6–7"), ("Palace of King Pedro", "10–18"),
                    ("Gothic palace", "31–34"), ("The gardens", "35–51"), ("Closing", "53")):
@@ -436,17 +436,15 @@ def map_page(title, sub, svg, ns, kicker, legend=True):
 
 # ---------------------------------------------------------------- page 2: the palaces
 PAL = [n for n in NUMS if TR[n]["section"] in ("Opening", "The first courtyards", "Casa de la Contratación", "Palace of King Pedro", "Gothic palace")]
-svg, _, _ = plan_svg((1128, 2215, 790, 1800), 182, 138, nums=list(range(1, 20)) + [31, 32, 33, 34, 35, 36, 37, 38, 39, 52, 53], show=PAL, tag_fs=2.3,
-    dots_off={("dir", 7): "left", ("dir", 6): "left", 10: (0, -3.2), 15: (-3.6, 3.2), ("dir", 18): "left", 18: (-1.6, -.3), 16: (0, .6),
-              32: (-2.2, -3.4), 33: (.4, .6), 1: (0, 0), 2: (-6.6, -3.4), 31: (0, 0), 34: (-.4, -3.4), 13: (0, 0), 5: (-.5, 1.2)},
-    notes=[(START_PT, "START\nPuerta del León", "start", 3, 13), ((1736, 1438), "19 · stair to the\nCuarto Real Alto", "cra", -22, 7),
-           ((2150, 1300), "to the gardens\npage 3", "info", 9, 9), ((1700, 860), "OUT at the end\nto the Patio de Banderas", "finish", -13, -3)],
-    texts=[(1475, 690, "", "yard", 0), (1150, 1185, "Plaza del Triunfo", "side", 0)])
+svg, _, _ = plan_svg((1150, 2205, 800, 1640), 182, 112, nums=list(range(1, 20)) + [31, 32, 33, 34, 53], show=PAL, tag_fs=2.3,
+    dots_off={("dir", 7): "left", ("dir", 6): "left", 10: (0, -3.2), ("dir", 18): "left", ("dir", 2): "left", 5: (-.5, 1.2), 32: (-2.2, -3.4)},
+    notes=[(START_PT, "START\nPuerta del León", "start", 4, 12), ((1736, 1438), "19 · stair to the\nCuarto Real Alto", "cra", -24, 4),
+           ((2150, 1300), "to the gardens · page 3", "info", -2, 13), ((1700, 860), "OUT at the end\nto the Patio de Banderas", "finish", -12, 2)],
+    texts=[(1222, 1112, "Plaza del Triunfo", "side", 0)])
 pages.append(map_page("The palaces · 1 to 19 and 31 to 34",
-    "Through the Patio del León (1) to the Sala de la Justicia (2) and the Patio del Yeso (3), back to the Patio de la Montería (4) and the palace front (5). "
-    "The Cuarto del Almirante (6) runs along the right-hand side, with its chapel (7) at the far end. Then in by the palace door to the Patio de las Doncellas (10), "
-    "the Embajadores (15) and the Muñecas (18), and back out to the Montería; at its corner a range leads into the Patio del Crucero (31) and the Gothic palace (32, 33). "
-    "You come out on the garden side, where the Baths (34) open.", svg, PAL, "THE PALACES"))
+    "Patio del León (1), Sala de la Justicia (2), Patio del Yeso (3) and back; the Montería (4) with the palace front (5) facing you and the Cuarto del Almirante (6, 7) on the right. "
+    "Through the palace door to the Doncellas (10), the Embajadores (15) and the Muñecas (18); back out, and at the Montería's corner into the Crucero (31) and the Gothic palace (32, 33). "
+    "You come out on the garden side by the Baths (34).", svg, PAL, "THE PALACES"))
 
 # ---------------------------------------------------------------- page 3: the gardens
 GAR = [n for n in NUMS if TR[n]["section"] in ("The gardens", "Closing")]
@@ -501,7 +499,7 @@ for i, ch in enumerate(chunks):
     pages.append(f'''<section class="page">
  <header class="fh"><div class="brand">YO TOURS · REAL ALCÁZAR · ALL STOPS</div>
  <h2>The stops{" (continued)" if i else ""}</h2>
- {"" if i else f'<p class="sub">Every track in walking order: its number on your player, the Alcázar number where it plays, its listening time and the lengths it belongs to. Full, {LENGTHS[0][2]}; Essential, {LENGTHS[1][2]}; Highlights, {LENGTHS[2][2]}; the lengths include walking. The Cuarto Real Alto Extras are optional and outside the lengths.</p>'}</header>
+ {"" if i else f'<p class="sub">Every track in walking order: # on your player, No. on the Alcázar\'s leaflet, minutes of listening, and the lengths it belongs to (Full, {LENGTHS[0][2]}; Essential, {LENGTHS[1][2]}; Highlights, {LENGTHS[2][2]}; walking included). The Cuarto Real Alto Extras are optional.</p>'}</header>
  <table class="tbl">{head}{"".join(trs)}</table>
  <footer>{esc(FOOTER)}</footer>
 </section>''')
@@ -546,22 +544,22 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .ldot {{ width: 4.4mm; height: 4.4mm; border-radius: 50%; color: #fff; font: 700 6pt Inter; display: inline-flex; align-items: center; justify-content: center }}
 .tag {{ display: inline-flex; min-width: 6mm; height: 4.4mm; padding: 0 1mm; border-radius: 1.2mm; background: {RED}; color: #fff; font: 800 7.4pt Inter; align-items: center; justify-content: center; box-sizing: border-box }}
 .tag.ol {{ background: #fff; color: {RED}; border: .3mm solid {RED} }} .tag.out {{ background: #fff; color: {MUTED}; border: .3mm solid {LINE}; font-weight: 600; font-size: 6.4pt }}
-.list .row {{ display: grid; grid-template-columns: 7.5mm 9.5mm 1fr; align-items: center; padding: .7mm 0; border-bottom: .25mm solid {LINE} }}
+.list .row {{ display: grid; grid-template-columns: 7.5mm 9.5mm 1fr; align-items: center; padding: .5mm 0; border-bottom: .25mm solid {LINE} }}
 .dot {{ width: 6mm; height: 6mm; border-radius: 50%; color: #fff; font: 700 7.6pt Inter; display: inline-flex; align-items: center; justify-content: center }}
 .hol {{ background: #fff; border: .45mm solid; box-sizing: border-box }}
 .row.x .tt {{ color: {MUTED} }} .tt i {{ font-style: normal; font-weight: 700; font-size: 7pt; letter-spacing: .04em; margin-right: 1mm }}
-.tt {{ font: 500 7.7pt Inter; line-height: 1.25 }} .tt b {{ font-weight: 700; color: {INK} }}
+.tt {{ font: 500 7.6pt Inter; line-height: 1.2 }} .tt b {{ font-weight: 700; color: {INK} }}
 .tbl {{ width: 100%; border-collapse: collapse; background: #fff; border: .3mm solid {LINE}; border-radius: 3mm }}
 .tbl th {{ font: 700 6.6pt Inter; color: {MUTED}; text-align: left; padding: 1.6mm 1.2mm 1.2mm; border-bottom: .35mm solid {INK}; letter-spacing: .04em; text-transform: uppercase }}
 .tbl th:nth-child(n+4) {{ text-align: center; width: 13mm }} .tbl th:first-child {{ width: 9mm; padding-left: 2mm }} .tbl th:nth-child(2) {{ width: 11mm }}
-.tbl td {{ padding: .35mm 1.2mm; line-height: 1.15; border-bottom: .2mm solid {LINE}; vertical-align: middle }}
+.tbl td {{ padding: .12mm 1.2mm; line-height: 1.1; border-bottom: .2mm solid {LINE}; vertical-align: middle }}
 .tbl td:first-child {{ padding-left: 2mm }} .tbl td:nth-child(n+4) {{ text-align: center }}
-.tbl .dot {{ width: 4.4mm; height: 4.4mm; font-size: 6.2pt; vertical-align: middle }}
-.tbl .tag {{ min-width: 5.6mm; height: 3.9mm; font-size: 6.6pt }}
+.tbl .dot {{ width: 4mm; height: 4mm; font-size: 6pt; vertical-align: middle }}
+.tbl .tag {{ min-width: 5.4mm; height: 3.5mm; font-size: 6.3pt }}
 .tbl .tt {{ font: 500 7.5pt Inter }} .tbl tr.x .tt {{ color: {MUTED} }}
 .tbl .mn {{ font: 600 7.4pt Inter; color: {INK} }} .mk {{ color: {NAVY}; font-size: 8.4pt }} .no {{ color: #C9BFAE }}
 .opt {{ font: 600 5.8pt Inter; color: #5B4A8A; letter-spacing: .02em }}
-.tbl tr.sh td {{ font: 700 7.4pt Inter; padding: 1.5mm 2mm .5mm; border-bottom: .3mm solid; letter-spacing: .02em }}
+.tbl tr.sh td {{ font: 700 7.3pt Inter; padding: 1.2mm 2mm .4mm; border-bottom: .3mm solid; letter-spacing: .02em }}
 .tbl tr.tot td {{ font: 700 7.6pt Inter; border-top: .35mm solid {INK}; border-bottom: none; padding: 1.6mm 1.2mm 1.6mm 2mm }} .tbl tr.tot span {{ font-weight: 500; color: {MUTED} }}
 '''
 

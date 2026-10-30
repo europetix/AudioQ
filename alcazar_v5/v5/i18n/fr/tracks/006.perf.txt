@@ -1,0 +1,28 @@
+@id: 006 · FR · No. 4 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 4 · Patio de la Montería
+@type: R
+@title: 4 · Patio de la Montería — Lire la cour
+@where: Dans le Patio de la Montería, juste après le triple arc du Patio del León : la plus grande cour ouverte de l'Alcázar, dominée par la haute façade richement décorée du palais du roi Pierre, en face de vous. Le Cuarto del Almirante longe le côté droit.
+@what: Patio de la Montería, the Alcázar's main courtyard; the façade of Pedro I's palace (begun from 1356); the Cuarto del Almirante, seat of the Casa de la Contratación 1503–1717; the porticoed gallery to the Patio del Crucero.
+@listen: Your bearings in the main courtyard: the palace front, the House of Trade, the way to the Gothic palace, and what the name means.
+@brief: A host orienting a friend in a big open space; light and clear, unhurried, a touch of wonder at the façade.
+@pace: medium
+@energy: 2→3→3
+@sources: https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF, Ayuntamiento / Real Alcázar: "the Royal Alcázar's main courtyard, which leads to the palace buildings"; the façade "resembles an enormous altarpiece"; "split into three parts") ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: Pedro I's change "a partir de 1356"; his palace "el corazón del Alcázar actual"; legend nos. 5, 6, 31) ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF: the Lion Gate was always called the Puerta de la Montería) ; https://andalucia.com/cities/seville/alcazar/moorish.htm (SEC: the Gothic palace courtyard "is connected to the Patio de la Monteria by a porticoed gallery") ; https://cisneros.web.uah.es/carpeta/images/pdfs/093_real.pdf (OFF: Casa in the Cuarto de los Almirantes until 1717) ; montería = royal hunt: PLAN wording (see notes on ITIN) ; AUDIT FIX 30 Oct, re-read ITIN (OFF school notes: "el Patio de la Montería tiene ese nombre ya que era el lugar donde se citaba la partida de caza del rey y su corte"; used attributed only)
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 006 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Une grande partie de l'Alcázar s'ouvre, tôt ou tard, sur cette cour. La description de la ville l'appelle la cour principale, celle qui mène aux bâtiments du palais.
+
+Son nom rappelle la chasse royale, la montería. Selon les notes de l'Alcázar pour les écoles, le roi et sa cour s'y réunissaient avant une chasse. La porte du Lion, celle de votre entrée, s'est longtemps appelée Puerta de la Montería, et la cour partage ce nom.
+
+Orientez-vous maintenant. La haute façade décorée en face de vous est le numéro 5 du plan de l'Alcázar, la Fachada del Palacio del Rey Don Pedro, la façade du palais du roi Pierre. Pierre commença son palais en 1356, et le plan de l'Alcázar l'appelle le cœur de l'ensemble. [pause] La ville compare cette façade à un immense retable, et l'on comprend pourquoi : elle est divisée en trois parties, couche après couche d'ornements.
+
+À votre droite, derrière une rangée de colonnes, se trouve le numéro 6 du plan de l'Alcázar, le Cuarto del Almirante, le quartier de l'Amiral. Pendant deux siècles, il abrita la Casa de la Contratación, la Maison du commerce de l'Espagne avec les Amériques.
+
+[pause] Et dans l'angle gauche du fond, près de la façade du palais, une galerie à portique mène au numéro 31 du plan de l'Alcázar, le Patio del Crucero, la cour du palais gothique. Vous y reviendrez plus tard.
+
+[warmly] Rois, marchands et visiteurs ont tous dû traverser cet espace. [pause] Prenez un moment au milieu avant de continuer.
+
+Avancez jusqu'au numéro 5, la Fachada del Palacio del Rey Don Pedro, assez près pour voir les bandeaux d'inscriptions en haut de la façade.

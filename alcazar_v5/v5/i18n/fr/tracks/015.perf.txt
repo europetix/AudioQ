@@ -1,0 +1,26 @@
+@id: 015 · FR · No. 16 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 16 · Salón del Techo de Felipe II
+@type: X
+@title: 16 · Extra · L'arc des Paons et deux plafonds
+@where: Dans le numéro 16, le Salón del Techo de Felipe II, à côté du Salón de los Embajadores : une longue salle sous un plafond de bois courbe. Le numéro 17, la Sala de los Reyes Católicos, se trouve sur le chemin du Patio de las Muñecas.
+@what: Salón del Techo de Felipe II, named after its semi-barrel wooden ceiling; the Peacock Arch (Arco de los Pavones) leading to the Salón de los Embajadores; Sala de los Reyes Católicos, with a wooden ceiling of ribbons and heraldic emblems. No dates or makers sourced.
+@listen: Two rooms named after what is over your head, and an arch named after birds.
+@brief: A light, playful aside while walking between two rooms; amused, never lecturing.
+@pace: medium
+@energy: 2→3→2
+@sources: https://andalucia.com/cities/seville/alcazar/mudejar.htm (SEC, mod. 9 Apr 2026: Felipe II room "The name refers to its semi-barrelled wooden ceiling"; "Look out for the Peacock Arch leading to the Ambassador's Hall", with "the peacock, swan and other birds in gold"; "Salon de los Reyes Católicos", also "Dormitorio de los Reyes Moros", next to the Dolls' Courtyard, "beautiful wooden ceiling, comprised of ribbons and heraldic emblems") ; describe only what O10 confirms on site
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 015 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Ici, les salles portent souvent le nom de ce qui est au-dessus de votre tête. Le numéro 13, le Salón del Techo de Carlos Quinto, doit son nom à un plafond. La salle des Ambassadeurs fut longtemps nommée d'après sa coupole, la demi-orange. [pause] Celle-ci de même.
+
+Voici le numéro 16, le Salón del Techo de Felipe Segundo, la salle du plafond de Philippe deux. Son nom vient de son plafond de bois, courbé comme un demi-tonneau. [pause] Levez les yeux et suivez la courbe d'un mur à l'autre.
+
+Ici, un arc ramène à la salle des Ambassadeurs. On l'appelle l'arc des Paons, d'après les oiseaux de son décor. [curious] Essayez de les trouver.
+
+Le numéro 17 du plan de l'Alcázar, la Sala de los Reyes Católicos, doit son nom aux Rois catholiques, Ferdinand et Isabelle. [pause] Son plafond de bois est orné de rubans et d'emblèmes héraldiques.
+
+[amused] Ici, levez les yeux, et le plafond vous dit souvent à qui était la salle.
+
+Continuez jusqu'au numéro 18, le Patio de las Muñecas : la petite cour aux galeries étagées au-dessus de ses arcs.

@@ -1,0 +1,28 @@
+@id: 025 · FR · No. 39 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 39 · Estanque de Mercurio
+@type: W
+@title: 39 · Estanque de Mercurio — Mercure et son jumeau
+@where: Au bord du numéro 39, l'Estanque de Mercurio : le grand bassin surélevé, avec au milieu un Mercure de bronze doré debout sur une sphère, et un long mur de galerie peinte sur le côté opposé à la montée depuis la Danza.
+@what: Mercury group, designed by Diego de Pesquera and cast in bronze by Bartolomé Morel, added in 1576; the figure in the pool today is a gilded bronze replica made during the 2022–2024 restoration. Pool of Islamic origin, redesigned in the 16th century, fed by the Carmona aqueduct.
+@listen: Why the god in the pool is a faithful twin of the 1576 bronze, and the gold that the cleaners found on the original.
+@brief: A friend at the poolside sharing a restoration secret; curious, then delighted by the gold, light on the Dorne aside.
+@pace: medium
+@energy: 2→4→3
+@sources: https://alcazarsevilla.org/wp-content/uploads/2025/01/EXPO-MERCURIO-FINAL.pdf (OFF: pool of Muslim origin integrated into a Renaissance redesign under Charles I and Felipe II; hydraulic system fed by the Acueducto de Carmona; statue "añadida en 1576", designed by Diego de Pesquera, cast by Bartolomé Morel, who worked for the Casa de la Moneda; Mercury on a sphere with caduceus and winged helmet; child figures and finials; cleaning showed the figures and finials were gilded; replica: 3D scan, PLA print, lost-wax bronze by FundirMetal Amando, electrolytic gilding; works from Nov 2022, pool refilled after Feb 2024; no location given for the original) ; https://alcazarsevilla.org/restauracion-estanque-mercurio/ (OFF: "El Estanque de Mercurio recupera su esplendor", firms named; mod. 20 Mar 2025) ; https://repositorio.iaph.es/bitstream/11532/332787/3/IAPH_63_1998_PRO_025_TD99_FICHA_TCA_GIRALDILLO_SE.pdf (OFF, IAPH Junta de Andalucía: the Giraldillo "fundida en bronce por Bartolomé Morel", 1565–1568) ; https://www.andaluciadestinodecine.com/en/localizacion/reales-alcazares/ (OFF: Doran Martell, Areo Hotah and Ellaria Sand at the Galería del Grutesco in front of the Mercury pool) ; AUDIT FIX 30 Oct, re-read EXPO (works "comenzó en noviembre de 2022"; the pool emptied and cleaned in the later phase)
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 025 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Le dieu au milieu de ce bassin est un jumeau. C'est une copie fidèle du bronze installé ici en 1576. Mais ce n'est pas ce bronze.
+
+Le bassin lui-même est plus ancien que la statue. Il remonte au palais islamique. Au seizième siècle, sous Charles Quint et son fils Philippe deux, il devint la pièce maîtresse d'un nouveau jardin Renaissance. Son eau venait du vieil aqueduc de Carmona. [pause] En 1576, on ajouta la statue. Elle fut dessinée par le sculpteur Diego de Pesquera et fondue par Bartolomé Morel, un fondeur qui travaillait pour la Monnaie de Séville. Quelques années plus tôt, Morel avait fondu le Giraldillo, la girouette de bronze au sommet de la Giralda.
+
+[pause] Puis, en novembre 2022, la restauration commença. En nettoyant le vieux bronze, on trouva quelque chose sous la crasse. Des traces d'or. Mercure, les figures d'enfants et les fleurons avaient autrefois été dorés.
+
+La figure que vous voyez est donc une réplique, faite de façon très moderne. L'original fut numérisé en trois dimensions. Chaque pièce fut imprimée en plastique. [pause] Ces tirages partirent dans une fonderie, où on les coula en bronze selon la vieille méthode de la cire perdue. Puis le nouveau bronze fut doré par électrolyse. [lightly] Voilà pourquoi ce Mercure brille.
+
+Regardez-le. Il se tient sur une sphère, avec son casque ailé et son caducée, le bâton du messager. Le bassin fut rempli à nouveau en 2024 et présenté restauré en 2025.
+
+[amused] Les fans de Game of Thrones connaissent peut-être cette vue. Des scènes avec le prince Doran de Dorne furent tournées à la galerie peinte, devant ce bassin.
+
+La galerie peinte est le prochain arrêt : le numéro 40 du plan de l'Alcázar, la Galería del Grutesco, le long mur peint de l'autre côté de ce bassin, en face de votre montée.

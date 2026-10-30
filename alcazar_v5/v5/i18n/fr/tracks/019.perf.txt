@@ -1,0 +1,26 @@
+@id: 019 · FR · No. 32 · 30 Oct 2026 edition
+@section: Gothic palace
+@room: No. 32 · Salón de los Tapices y Capilla
+@type: W
+@title: 32 · Salón de los Tapices — La conquête de Tunis
+@where: Dans le numéro 32, le Salón de los Tapices : une longue et haute salle du palais gothique, aux murs tendus de très grandes tapisseries d'une campagne navale. La chapelle s'ouvre sur cette salle.
+@what: Tapestries of Charles V's conquest of Tunis, 1535: 18th-century replicas woven in Madrid by the Vandergoten family's royal manufactory for Felipe V, after the twelve-panel set designed by Jan Cornelisz Vermeyen and Pieter Coecke van Aelst and woven by Willem de Pannemaker in Brussels, 1548–1554 (gold, silver, silk and wool). Originals (ten survive) and the replica set belong to Patrimonio Nacional. Number of panels on view: count on site (O15).
+@listen: Why these famous tapestries are copies, who drew the campaign as it happened, and how they frame the sack of Tunis.
+@brief: A friend walking you along the walls, curious about the story behind the weaving, then plain and honest at the end.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.accioncultural.es/media/DefaultFiles/flipbook/ElArtedelPoder/files/basic-html/page106.html (SEC, El arte del poder catalogue: 1535 expedition against Barbarossa; Pannemaker contract 20 Feb 1545, woven 1548–1554; twelve huge panels after Vermeyen and Pieter Coeck van Aelst; gold, silver, silk and wool; Philip V, "in order to ensure the conservation of Charles's tapestry set", commissioned a copy from the Vandergoten family, brought from Antwerp in 1720 to set up the Madrid royal manufactory; "the ten surviving panels of Charles V's original series and the twelve of Philip V's set of replicas belong to the Patrimonio Nacional") ; https://muse.mechelen.be/collection/museum-highlights/the-battle-of-tunis (SEC museum: Vermeyen "had accompanied the Emperor to North Africa and was therefore able to record the battle as an eyewitness"; woven in Pannemaker's Brussels workshop; series meant to stress Charles's role as defender of the Christian faith) ; https://militarymaps.rct.uk/ottoman-habsburg-wars-1521-1791/tunis-captured-by-charles-v-1535-tunis-tunisia-36deg4908n-10deg0956e-tunis-tunisia-36deg4905n (SEC, Royal Collection Trust: the army captured Tunis and reinstated Mulai Hassan; Spanish protectorate 1535–1574) ; https://storiamediterranea.it/wp-content/uploads/flipbook/9/files/basic-html/page101.html (SEC, Mediterranea ricerche storiche 49, 2020: Charles "went on to sack the city itself before handing it back to its ruler") ; https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC: the tapestries in this hall depict the Tunis campaign and are copies of the originals) ; AUDIT FIX 30 Oct, read CALV, A. F. Calvert, The Spanish Royal Tapestries (1921), https://www.gutenberg.org/cache/epub/60790/pg60790-images.html (panel 10 "the sack of Tunis, hostilities against those who offer resistance"; panel 9 "the Emperor allows it to be sacked")
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 019 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Les tapisseries de cette salle sont des copies. Et c'était bien le but.
+
+En 1535, Charles Quint mena une grande expédition par-delà la mer contre le corsaire Barberousse, qui s'était emparé de Tunis. Le peintre Jan Cornelisz Vermeyen l'accompagnait et fixa la campagne en témoin oculaire. [pause] Ses images, avec l'aide de Pieter Coecke, devinrent les modèles de douze immenses tapisseries. Willem de Pannemaker les tissa à Bruxelles en six ans, en laine et soie, avec des fils d'or et d'argent.
+
+Dix de ces originaux subsistent, dans la collection royale espagnole. Au dix-huitième siècle, le roi Philippe cinq voulut les préserver. Il fit appel aux Vandergoten, des tisserands qu'il avait fait venir d'Anvers pour diriger une nouvelle manufacture royale à Madrid, et leur fit tisser une réplique complète. [pause] Les tapisseries qui vous entourent en viennent. Elles aussi sont propriété royale.
+
+[pause] Suivez-les le long des murs. Navires et côtes, camps et combats, scène après scène, comme l'empereur voulait qu'on raconte l'histoire. Choisissez un panneau et cherchez-y les plus petites figures.
+
+[quietly] Et souvenez-vous de leur but. Elles devaient montrer Charles en défenseur de la foi chrétienne. Son armée prit Tunis, puis mit la ville à sac, et la rendit à son souverain déchu, Mulay Hasan, qui régna désormais sous protection espagnole. [pause] La série ne cache pas le sac : l'une de ses douze scènes le montre. Mais chaque scène est présentée comme une victoire de la foi.
+
+La chapelle du palais gothique, qui fait partie du numéro 32, a un court Extra. Le prochain arrêt principal est le numéro 33 du plan de l'Alcázar, la Sala de las Bóvedas, la salle parallèle côté jardin : des murs couverts de carreaux sur environ deux mètres, sous des voûtes gothiques.

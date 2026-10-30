@@ -1,0 +1,28 @@
+@id: 023 · FR · No. 35 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 35 · Jardín del Príncipe
+@type: W
+@title: 35 · Jardín del Príncipe — Le roi poète
+@where: Dans le numéro 35, le Jardín del Príncipe, le jardin aux quatre parterres autour d'une petite fontaine, au pied du palais, où l'on entre par une colonnade. Le numéro 36, la Columna de Al-Mutamid, est signalé dans l'étroit jardin que vous avez traversé, le long du palais. Le passage restauré venant du Patio de las Muñecas débouche ici.
+@what: Jardín del Príncipe; Columna de Al-Mutamid (no. 36; describe only as seen, O19); al-Mu'tamid (1040–1095), third and last Abbadid king of Seville, poet; his court at the palace of al-Mubarak, "the Blessed"; exile to Aghmat; the gardens' Islamic origins and Renaissance redesign under Charles I and Felipe II; more than 20,000 plants of at least 187 species.
+@listen: The poet king of Seville, the wife he freed, and the exile he never came back from.
+@brief: A warm storyteller on a garden bench, tender about the poet, then quietly sad; plain about the garden facts.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://alcazarsevilla.org/historia/ (OFF: "el Alcázar Nuevo de los abbadíes … Este Palacio de al-Mubarak, el Bendito, fue ya el centro de la vida oficial y literaria de la ciudad, con los poetas, como el soberano al-Mutamid") ; https://archive.aramcoworld.com/issue/199301/the.poet-king.of.seville.htm (SEC, AramcoWorld 1993: 1040–1095; third and last of the Abbadids; I'timad, a young poet he met by the river, whose freedom he bought and whom he married; the almond trees on the Sierra of Córdoba to look like snow; Almoravids invited, Yusuf ibn Tashufin's victory over Alfonso VI in 1086, then turned on the Andalusian kings; Seville taken, al-Mu'tamid surrendered to spare his family; banished to Aghmat near Marrakech; died there in 1095; no translator named, so NO verse quoted) ; https://www.legadoandalusi.es/magazine/al-mutamid-a-politician-behind-the-poet/?lang=en (SEC, Fundación Pública Andaluza El legado andalusí: exile and death at Aghmat, near Marrakesh, "where his remains rest") ; https://alcazarsevilla.org/wp-content/uploads/2025/01/EXPO-MERCURIO-FINAL.pdf (OFF: Renaissance redesign of the gardens under Carlos I and Felipe II integrating Islamic elements) ; https://artsandculture.google.com/asset/gardens-of-the-real-alcázar-palace/MgFCSyKAIgoNew (OFF, Ayuntamiento: "From their Moorish origins, they underwent continual transformations") ; https://www.spain.info/en/activities/alcazar-vegetal-species-travel/ (SEC: "more than 21,000 plants of 187 different species"; audit T16: Ayuntamiento GA&C "over 20,000 plants… at least 187 species", OFF) ; https://alcazarsevilla.org/restauracion-estanque-mercurio/ (OFF: passage from the Patio de las Muñecas to the Jardín del Príncipe reopened, mod. 20 Mar 2025) ; 1091 not confirmed, NOT used ; AUDIT FIX 30 Oct, re-read ARAM https://archive.aramcoworld.com/issue/199301/the.poet-king.of.seville.htm (I'timad "suddenly burst into tears" at the snow, called him cruel not to give her that sight every winter; the Sierra of Córdoba "planted thick with almond trees")
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 023 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Bien avant le roi Pierre, Séville eut un roi qui écrivait des poèmes. Il s'appelait al-Mutamid, et le numéro 36, la Columna de Al-Mutamid, lui rend hommage ici, dans sa propre ville.
+
+Il vécut au onzième siècle, troisième et dernier des rois abbadides de Séville. [pause] Selon l'histoire de l'Alcázar, leur palais d'ici s'appelait al-Mubarak, le Béni. C'était le centre de la vie officielle et littéraire de la ville, avec des poètes comme le souverain lui-même.
+
+On raconte surtout l'histoire de son épouse, I'timad. Il rencontra cette jeune poétesse au bord du fleuve. Il acheta sa liberté et l'épousa. [amused] Un jour, dit-on, elle fondit en larmes en regardant tomber la neige. Elle le traita de cruel, lui qui ne lui offrait pas ce spectacle chaque hiver. [pause] Alors il fit planter d'amandiers les collines de Cordoue, pour que chaque printemps leurs fleurs ressemblent à de la neige.
+
+[quietly] Cela finit mal. Les rois andalous avaient appelé les Almoravides d'Afrique du Nord pour combattre la Castille. Après leur grande victoire de 1086, les Almoravides se retournèrent contre les rois qui les avaient invités. Séville tomba. [pause] Al-Mutamid se rendit pour épargner sa famille, et fut exilé à Aghmat, près de Marrakech. Il y mourut en exil en 1095, et ses restes y reposent.
+
+[pause] Les jardins qui vous entourent sont nés dans ce monde islamique. Ils furent redessinés à la Renaissance sous Charles Quint et Philippe deux, et n'ont jamais cessé de changer. Ils comptent aujourd'hui plus de vingt mille plantes d'au moins 187 espèces.
+
+Ici débouche aussi le passage restauré venant du Patio de las Muñecas, rouvert depuis 2025.
+
+Revenez sur vos pas par la colonnade, le palais maintenant sur votre gauche. Passez le numéro 36 et traversez le numéro 37, la Fuente de Troya, jusqu'au numéro 38, le Jardín de la Danza. Deux colonnes se dressent sur son niveau supérieur.

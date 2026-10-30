@@ -1,0 +1,26 @@
+@id: 035 · FR · No. 23 · 30 Oct 2026 edition
+@section: Optional: Cuarto Real Alto
+@room: No. 23 · Comedor de Gala
+@type: X
+@title: CRA 23 · Extra · Une maison royale toujours habitée
+@where: Pendant la visite du Cuarto Real Alto, au numéro 23, le Comedor de Gala, la salle à manger d'apparat, ou au pied de l'escalier ensuite si l'écoute n'est pas permise à l'étage. Cette piste couvre aussi le numéro 22, l'Antecomedor, et le numéro 24, la Sala de Fumar.
+@what: Cuarto Real Alto rooms 22 Antecomedor, 23 Comedor de Gala and 24 Sala de Fumar; 19th-century Bourbon additions and refurbishments with tapestries, crystal lamps from La Granja, clocks, furniture and paintings; the upper floor as the head of state's official residence in Andalucía.
+@listen: Why these upper rooms look nineteenth-century, and how they still serve the King today.
+@brief: A discreet, warm aside in a lived-in palace; respectful, lightly amused at the clash of centuries.
+@pace: medium
+@energy: 2→3→2
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: 22 Antecomedor, 23 Comedor de Gala, 24 Sala de Fumar) ; https://andalucia.org/en/sevilla-visitas-real-alcazar-de-sevilla (OFF: the 19th-century Bourbon monarchs added "spaces in the top floor of the building, where old rooms were refurbished", with tapestries, "crystal lamps from La Granja", clocks, furniture and paintings) ; https://www.eldiario.es/viajes/alcazar-espacio-reservado-realeza-palacio-antiguo-europa-pm_1_12280672.amp.html (SEC, 8 May 2025: "la residencia oficial del jefe del Estado en Andalucía"; "dormitorios, sala de estar, despacho, oratorio y piezas originales del mobiliario real"; "el monarca pernocta y mantiene actos institucionales cuando visita Andalucía"; reserved for the Casa del Rey) ; La Granja as the royal glassworks: standard (SNIP)
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 035 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cette salle à manger d'apparat appartient à une maison encore habitée, par un roi, lors de ses visites.
+
+Le Cuarto Real Alto est l'étage d'un palais médiéval, mais beaucoup de ce qu'il montre est bien plus récent. Au dix-neuvième siècle, les monarques Bourbons ajoutèrent des salles à cet étage et rénovèrent les anciennes. [pause] Ils y apportèrent tapisseries, horloges, meubles et tableaux, et des lampes de cristal de La Granja, la verrerie royale.
+
+Trois salles vont ensemble ici. Le numéro 22, l'Antecomedor, est l'antichambre. Le numéro 23 est le Comedor de Gala, la salle à manger d'apparat. Et le numéro 24 est la Sala de Fumar, le fumoir, une pièce très dix-neuvième siècle.
+
+[pause] L'étage n'est pas qu'une vitrine. C'est la résidence officielle du chef de l'État en Andalousie, avec chambres, salon, bureau, oratoire et mobilier royal d'origine. [pause] Le roi y dort lors de ses visites et y tient des actes officiels.
+
+[lightly] Les salles que vous traversez ne sont donc pas figées dans le passé. Un palais médiéval, une rénovation Bourbon et une monarchie moderne, sur un seul étage.
+
+C'est la fin des arrêts du Cuarto Real Alto. De retour en bas, reprenez la visite principale là où vous l'avez laissée. Le plan de l'Alcázar indique l'escalier, le numéro 19, dans l'angle du Patio de la Montería, à côté de la façade du palais.

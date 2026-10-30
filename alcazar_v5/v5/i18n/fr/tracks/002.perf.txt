@@ -1,0 +1,28 @@
+@id: 002 · FR · No. 1 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 1 · Patio del León
+@type: W
+@title: 1 · Patio del León — La porte du Lion et un théâtre disparu
+@where: Juste après la porte du Lion, dans le Patio del León : une cour à ciel ouvert avec quatre parterres, entre le mur d'entrée et le mur du fond, percé d'un triple arc qui mène à la grande cour suivante.
+@what: Puerta del León and the León–Montería portal: gate, wall and tower casing of one building campaign under Pedro I, 1350s (radiocarbon centred on 1368); later tile lion (maker and date not established); site of the Corral de la Montería theatre, 1620s–1691; largely cleared 1936–37 to designs by Juan Talavera.
+@listen: Why the Lion Gate is Pedro's and not Almohad, how this courtyard was a theatre for sixty years, and why the triple arch is off-centre.
+@brief: A friend sharing archaeology's surprises at the entrance; curious, then a little conspiratorial at the arch, warm at the end.
+@pace: medium
+@energy: 2→4→3
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF, Tabales AAA 2016: gate, tower lining and wall "forman un único proceso", "Fechado en la década de los 50 del siglo XIV"; C-14 "1368 +/- 58"; Romero Murube: always the Puerta de la Montería, now "del León" from the ceramic panel over the arch; corral de comedias from 1625/1626; fire 3 May 1691 starting in the asistente's stables; afterwards "cuadras, almacenes y casa habitación"; cleared 1936–37 "con las trazas de Juan Talavera y Heredia"; León–Montería portal: "asimetría del muro… de sus tres vanos", central arch displaced, probably "para facilitar la visión directa entre la puerta del León y la del palacio mudéjar", larger niche on one side) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF: name from the tile lion over the arch) ; AUDIT FIX 30 Oct, re-read TAB16 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF: "Forro de torre, lienzo de tapia y puerta del León… forman un único proceso"; sightline only reported, "Se ha querido ver en esto…", authors read the side spaces as "independientes y cerrados"; 1936–37 clearance partial: mirador and two houses kept)
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 002 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pendant plus de soixante ans, cette cour fut un théâtre. On s'y pressait pour voir des pièces, jusqu'à ce qu'un incendie, en 1691, mette fin au spectacle.
+
+D'abord, la porte que vous venez de franchir. On l'a longtemps crue almohade, du douzième siècle. L'archéologie dit autre chose. Miguel Ángel Tabales et son équipe ont établi que la porte, le mur voisin et le revêtement de sa tour furent élevés en une seule campagne, sous le roi Pierre premier, au milieu du quatorzième siècle. [pause] Une datation au radiocarbone du mur va dans le même sens.
+
+Le nom est venu plus tard. Pendant des siècles, ce fut la Puerta de la Montería, la porte de la chasse royale. On l'a ensuite appelée porte du Lion, à cause du lion en faïence au-dessus de l'arc. Qui a fait ce lion, et quand, n'a pas été établi.
+
+[pause] À l'intérieur, la cour a eu une seconde vie. À partir des années 1620, un théâtre se dressait ici, le Corral de la Montería, un des théâtres de la ville. En mai 1691, un incendie éclata dans les écuries voisines et le détruisit. Puis vinrent des écuries, des entrepôts et des maisons. Dans les années 1930, sur des plans de l'architecte Juan Talavera, la plupart furent démolis pour l'entrée que vous avez prise.
+
+[conspiratorial] Regardez maintenant le triple arc qui mène plus loin. Ses trois ouvertures ne sont pas régulières. L'arc central est décalé, si bien qu'un côté du mur est plus large que l'autre. [pause] Selon une interprétation, c'était voulu, pour ouvrir une vue directe de la porte du Lion à la porte du nouveau palais de Pierre.
+
+[warmly] Ce que vous avez franchi en premier n'est donc pas une relique des Almohades. C'est l'œuvre d'un roi, peut-être pointée vers sa propre porte d'entrée.
+
+Restez dans le numéro 1, le Patio del León, pour un bref regard sur onze siècles avant d'entrer.
