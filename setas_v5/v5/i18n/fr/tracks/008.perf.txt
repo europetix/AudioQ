@@ -1,0 +1,32 @@
+@id: 008 · FR · Lift and first walkway · 30 Oct 2026 edition
+@section: Going up
+@room: Lift and first walkway
+@type: W
+@title: Setas — Des champignons de bois
+@where: Lancez cette piste dans l'ascenseur quand les portes se ferment. La seconde moitié s'écoute quand vous sortez sur le premier tronçon de passerelle, parmi le bois des parasols. Avancez avec le flot, et ne vous arrêtez à la rambarde que là où vous ne gênez personne.
+@what: Metropol Parasol by J. MAYER H. (Jürgen Mayer H.), winner of the 2004 international competition (65 entries); engineered with Arup; Kerto laminated veneer lumber made in Finland, about 3,400 elements made at Aichach near Munich, 2–3 mm polyurethane coating; concrete trunks with the lifts; the "largest wooden structure" claim and what the engineers say.
+@listen: How a competition, a nickname nobody planned and thousands of pieces of Finnish wood made the Setas.
+@brief: A guide riding up with the listener; storytelling in the lift without pointing at anything, then a lift in energy as the doors open onto the timber, ending with a fair word on the record claim.
+@pace: medium
+@energy: 3→4→3
+@sources: https://setasdesevilla.com/en/history-and-construction (OFF: "Out of 65 proposals, the international jury chose the innovative Metropol Parasol project"; citizens "renamed us Las Setas") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC PUBSP: 2004 competition, 65 entries; reinforced-concrete stalks with lift shafts) ; https://www.publico.es/actualidad/legado-monteseirin.html (SEC: "aunque al final él también ha aceptado el concepto de setas") ; https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC INHAB, Mayer: references to the Seville Cathedral's "undulating stone roof"; "some big trees on a neighboring plaza") ; https://visitasevilla.es/en/?p=1477 (OFF VS-SET: inspired by the cathedral's vaults and by the ficus trees near Plaza del Cristo de Burgos; "2 concrete columns") ; https://www.moma.org/collection/works/100411 (OFF: "Taking its cues from the vaults of Seville's cathedral") ; https://www.jmayerh.de/metropol-parasol (OFF: engineers Arup; bonded timber with polyurethane coating) ; https://www.arup.com/projects/metropol-parasol (OFF: Kerto from 3 mm veneers glued together; pre-assembly in Germany; waterproof polyurethane coating; "one of the largest timber structures ever built") ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF: Kerto LVL "manufactured in Finland … made of softwood veneer by gluing"; about 3,400 elements made at Aichach near Munich and trucked to Seville; 2–3 mm two-component polyurethane) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF: "2 concrete columns housing lifts") ; record wording: FACTS §5 (GWR lists Osaka's Expo 2025 Grand Ring since 4 Mar 2025)
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 2004, Séville a demandé aux architectes du monde entier que faire d'une place restée parking, puis fouille, pendant une trentaine d'années. Soixante-cinq projets sont arrivés.
+
+Le lauréat fut Jürgen Mayer H., de Berlin. Son projet s'appelait Metropol Parasol : une immense ombrelle au-dessus de la place, portée par quelques troncs, avec une passerelle au sommet.
+
+[amused] Il ne voulait pas construire des champignons. Mais les Sévillans l'ont quand même appelé las Setas. Le surnom est resté, et même l'architecte a fini par l'adopter.
+
+Alors, d'où viennent ces formes ? Mayer a dit s'être inspiré des voûtes de la cathédrale et des grands arbres d'ombre d'une place voisine. [pause] Pour la ville, ce sont les figuiers géants de la Plaza del Cristo de Burgos. Des arbres et des voûtes, donc, pas des champignons.
+
+[pause] En sortant, le bois vous entoure. Conçu avec les ingénieurs d'Arup, c'est du bois lamellé-placage fabriqué en Finlande : de fines feuilles de bois collées en grands panneaux. Les pièces, quelque trois mille quatre cents, ont été usinées en Bavière puis acheminées par camion à Séville. [pause] Et chaque poutre porte une peau imperméable de polyuréthane, épaisse de quelques millimètres.
+
+[curious] Mais tout n'est pas en bois. L'ascenseur que vous avez pris circule dans un tronc de béton.
+
+Vous avez peut-être entendu une affirmation plus forte. Longtemps présentées comme la plus grande structure en bois du monde, les Setas comptent assurément parmi les plus grandes. Ses ingénieurs parlent de « l'une des plus grandes structures en bois jamais construites ».
+
+[warmly] Un concours, un surnom que personne n'avait prévu, et des milliers de pièces de bois finlandais. Voilà ce qui vous entoure.
+
+Continuez sur la passerelle jusqu'à ce que la Giralda, la haute tour de la cathédrale, soit bien visible au-dessus des toits. L'arrêt suivant est La cathédrale et la Giralda.

@@ -1,0 +1,32 @@
+@id: 007 · ES · Level −1 lifts · 30 Oct 2026 edition
+@section: Going up
+@room: Level −1 · by the lifts
+@type: W
+@title: Plaza de la Encarnación — Una plaza de muchas vidas
+@where: En la planta menos uno, junto a los ascensores que suben al Mirador, al lado de la entrada del Antiquarium. Escúchela mientras espera. No hace falta mirar nada.
+@what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville.
+@listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
+@brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.
+@pace: medium
+@energy: 3→3→3
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF AAA99: convent founded "en 1591"; "decreto napoleónico de 1810"; market built "1831-42"; "1948 con la creación del eje de comunicación Osario-La Campana"; "en 1973 con la demolición") ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF AAA91: convent of Augustinian nuns founded 1591) ; https://setasdesevilla.com/en/history-and-construction (OFF: market "Designed by the major architect of Seville, Melchor Cano"; 1973 "structural problems in the market's vegetable and fish stalls") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC PUBSP: convent demolished during the Napoleonic invasion; site later "a car park or bus depot") ; https://visitasevilla.es/en/?p=1576 (OFF: 1990s excavation "to build a subway parking", project aborted after the discovery) ; FG2009 via FACTS §1 (Joseph Bonaparte's decree of 20 Apr 1810; wooden market from 1820; Cano's hall approved 1832, built 1833–37; not re-read) ; "fenced, dusty car park": FACTS §1 (PUBSP, MERCASA)
+@lang: es
+@translation: from the fact-checked English Setas de Sevilla 007 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta plaza existe gracias al hermano de Napoleón.
+
+Toma su nombre del convento de la Encarnación, un convento de monjas fundado aquí a finales del siglo dieciséis. Las monjas se quedaron más de dos siglos. Luego llegaron los franceses. [pause] Durante la ocupación, en 1810, el gobierno de José Bonaparte mandó derribar el convento para abrir una plaza.
+
+En Sevilla, una plaza rara vez queda vacía mucho tiempo. Pronto, los comerciantes montaron aquí un mercado de madera. Después la ciudad levantó uno permanente, diseñado por el arquitecto Melchor Cano, en la década de 1830. Durante bastante más de un siglo, este fue el mercado central de Sevilla.
+
+[pause] No duró. Hacia mediados del siglo pasado, una nueva gran avenida le cortó una parte al mercado. En 1973 se derribó el resto, sobre todo por problemas estructurales. Los comerciantes pasaron a puestos provisionales, y durante décadas la plaza fue un estacionamiento vallado y polvoriento.
+
+Más tarde, la ciudad proyectó un estacionamiento subterráneo. Las obras toparon con la Sevilla romana, y se abandonó el plan. Lo que encontraron está en el Antiquarium, junto a estos ascensores.
+
+[wry] Así que el hueco que abrió el hermano de Napoleón se ha llenado una y otra vez. Primero con un mercado, luego con vehículos estacionados, después con arqueólogos y, por fin, con las Setas.
+
+¿Y los comerciantes? Su historia le espera al final, encima del mercado.
+
+[warmly] El ascensor que va a tomar atraviesa todos esos capítulos, desde debajo de las viejas calles hasta muy por encima de los tejados.
+
+[pause] Suba en el ascensor. Empiece la siguiente parada cuando se cierren las puertas. Continúa mientras sale a la pasarela: Setas de madera.

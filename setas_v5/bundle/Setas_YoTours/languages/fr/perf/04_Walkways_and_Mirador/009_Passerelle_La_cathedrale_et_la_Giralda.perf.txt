@@ -1,0 +1,30 @@
+@id: 009 · FR · Walkway, Giralda view · 30 Oct 2026 edition
+@section: Walkways and Mirador
+@room: Walkway · south side (where the Giralda is in clear view)
+@type: W
+@title: Passerelle — La cathédrale et la Giralda
+@where: N'importe où sur la passerelle, ou au Mirador, là où la Giralda, la haute tour de la cathédrale, et la cathédrale à côté sont bien visibles au-dessus des toits. Arrêtez-vous à la rambarde, là où vous ne gênez personne.
+@what: The Giralda: minaret of the Almohad Great Mosque, begun 1184, the cathedral's bell tower since the conquest of 1248, about 97.5 m to the top of the weathervane. Seville Cathedral: new church decided in 1401; called by UNESCO the largest Gothic building in Europe; World Heritage with the Alcázar and the Archivo de Indias. Link to the Setas: the cathedral's vaulting as a design cue; MoMA's 1:200 model (2004–07) and its "cathedral without walls".
+@listen: The tower and the church that gave the Setas one of its first ideas, seen across the rooftops.
+@brief: A guide at the rail with the listener, pointing across the city; curious at the hook, a little reverent about the tower, warm and light at the comparison.
+@pace: medium-slow
+@energy: 3→4→3
+@sources: https://www.seville-trip.com/es/guias/guia-metropol-parasol-setas/ (SEC STRIP, mod. 10 Jul 2026: "La silueta de la Giralda aparece al sur") ; BEAR, research VISIT_ROUTE §4.2 (≈0.8 km, used only for "less than a kilometre") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF CAT-FACTS §1.4: "1248 The Sevillian mosque is transformed into the church of Santa Maria"; §1.7: 1401, "the canons decided to build a new cathedral") ; https://whc.unesco.org/en/list/383/ (OFF CAT-FACTS §1.13, §1.18: "Cathedral, Alcázar and Archivo de Indias in Seville"; "the largest Gothic building in Europe"; the Giralda "was the former minaret of the mosque") ; CAT-FACTS §2.1 (minaret begun 1184), §2.10 (bell tower after 1248), §2.13 ("close to a hundred metres", Cabildo 97.52 m) as cited in cathedral_seville_v5 FACTS, not re-read ; https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC INHAB, Mayer: references to the cathedral's "undulating stone roof") ; https://www.moma.org/collection/works/100411 (OFF: "Taking its cues from the vaults of Seville's cathedral"; a "cathedral without walls" that would be "democratic"; model 2004–2007, 442.2006) ; Setas height "close to 30 metres": FACTS §5
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 009 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] L'architecte des Setas a dit que l'un de ses points de départ n'était pas du tout un champignon. C'était la cathédrale, à moins d'un kilomètre d'ici.
+
+C'est par là, au sud. La haute tour est la Giralda, la cathédrale se dresse à côté.
+
+La Giralda était d'abord un minaret. Sa construction a commencé en 1184, pour la Grande Mosquée des Almohades, la même Séville maure que la maison trouvée sous cette place. [pause] Quand le roi Ferdinand trois a pris la ville en 1248, la mosquée est devenue la cathédrale, et le minaret son clocher. [pause] [reverent] La Giralda s'élève à près de cent mètres jusqu'à la pointe de sa girouette. Les Setas font près de trente mètres de haut. La tour est plus de trois fois plus haute.
+
+La cathédrale elle-même est venue plus tard. En 1401, le chapitre de la cathédrale a voté la démolition de l'ancienne mosquée et la construction d'une nouvelle église. Le résultat est immense. [pause] L'UNESCO la désigne comme le plus grand édifice gothique d'Europe, et l'inscrit au patrimoine mondial, avec l'Alcázar et les Archives des Indes.
+
+Maintenant, le lien. Mayer a cité les voûtes de pierre de la cathédrale parmi ses références. Le musée d'Art moderne de New York conserve une maquette des Setas, et décrit le projet comme une « cathédrale sans murs », démocratique.
+
+[lightly] Attardez-vous un instant sur cette idée. Dans la cathédrale, les voûtes de pierre ferment le ciel. Ici, les voûtes sont en bois, et le ciel entre directement.
+
+[warmly] Deux cathédrales, donc, à des siècles d'écart. L'une de pierre, avec des murs. L'autre de bois, sans.
+
+Trouvez maintenant un endroit sur la passerelle face à l'ouest, vers le fleuve : placez-vous avec la Giralda sur votre gauche. L'arrêt suivant est Le fleuve et l'Aljarafe.

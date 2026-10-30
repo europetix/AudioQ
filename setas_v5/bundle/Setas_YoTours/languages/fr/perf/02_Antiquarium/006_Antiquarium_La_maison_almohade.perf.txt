@@ -1,0 +1,26 @@
+@id: 006 · FR · Antiquarium · 30 Oct 2026 edition
+@section: Antiquarium
+@room: Level −1 · Antiquarium, Almohad house
+@type: R
+@title: Antiquarium — La maison almohade
+@where: Dans l'Antiquarium, au cartel de la casa almohade, la maison almohade, la partie maure de la fouille.
+@what: An Islamic house of the Almohad period, 12th–13th centuries, with traces of the surrounding Almohad neighbourhood; found about 3 m below the street in the 1991–92 test dig, against about 7 m for the Roman level. Context: the Almohad Great Mosque of Seville (ordered 1172) and its minaret, begun 1184, today's Giralda.
+@listen: How a house from Almohad Seville sits a thousand years and only a few metres above the Roman city, in the age of the Giralda.
+@brief: A guide closing the museum visit; curious at the hook, warm when the Giralda appears, practical and clear at the exit.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://visitasevilla.es/en/?p=1576 (OFF: "an Islamic Almohad house", Andalusian period XII–XIII c.) ; https://andalucia.org/en/sevilla-visitas-antiquarium (OFF: "a Moorish house dating from the XII and XIII centuries") ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF AAA91: Almohad structures, Islamic level "entre los -3,14 y -3,60" m; Roman pavement at 6.96 m) ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF AAA99: "en época almohade se documenta una potente ocupación") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, CAT-FACTS §1.1: "1172: Abu Yaqub orders the construction of the Great Mosque of Seville") ; CAT-FACTS §2.1 (minaret begun 1184; AramcoWorld, Archnet as cited in cathedral_seville_v5 FACTS) ; capital of Muslim Spain: FACTS §6 safe wording
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 006 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ici, en bas, mille ans peuvent tenir dans quelques mètres de terre.
+
+Voici la maison almohade, de l'époque almohade, aux douzième et treizième siècles, quand Séville était une capitale de l'Espagne musulmane. [pause] Les fouilles ont mis au jour ici une maison maure, et des traces du quartier almohade qui l'entourait.
+
+Lors du premier sondage, les archéologues ont atteint ce niveau maure à environ trois mètres sous la rue. Les sols romains étaient environ deux fois plus profonds. Cette maison se dressait donc bien au-dessus de la ville romaine, sur un sol que les siècles avaient lentement accumulé par-dessus. [pause] Si vous venez des maisons romaines, vous avez traversé mille ans en quelques minutes.
+
+Ce furent de grandes décennies pour Séville. Le calife almohade Abu Ya'qub Yusuf fit construire la Grande Mosquée de la ville. En 1184, on commença son minaret. Aujourd'hui, on l'appelle la Giralda. [warmly] Vous la verrez d'en haut.
+
+Plus tard encore, un couvent s'éleva sur ce terrain. Son histoire, et celle de la place au-dessus, vous attendent près des ascenseurs.
+
+[pause] C'est la fin de l'Antiquarium. Suivez les panneaux de sortie, puis allez aux ascenseurs à côté de son entrée, l'accès au Mirador. L'arrêt suivant s'écoute près des ascenseurs, avant de monter : Une place aux nombreuses vies.

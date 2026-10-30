@@ -27,10 +27,10 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The guide in all three lengths: Full (18 tracks, about 1 h 35), Essential (11 tracks, about 1 h 15)"
-echo "     and Highlights (4 tracks, about 45 min). Records once, then makes the three folders."
+echo "  1) The guide in all three lengths: Full (18 tracks, just under 1 h with the Antiquarium), Essential (11 tracks, about 35 min)"
+echo "     and Highlights (4 tracks, about 25 min). Records once, then makes the three folders."
 echo "  2) Two voice samples only: 008 Mushrooms of wood + 012 the Mirador (a few minutes)"
-echo "  3) Highlights only (4 tracks, about 45 min; quickest to make; option 1 later reuses them)"
+echo "  3) Highlights only (4 tracks, about 25 min; quickest to make; option 1 later reuses them)"
 printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then

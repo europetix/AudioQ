@@ -1,0 +1,26 @@
+@id: 014 · DE · Walkway · Extra · 30 Oct 2026 edition
+@section: Walkways and Mirador
+@room: Walkway (anywhere)
+@type: X
+@title: Rundweg · Extra · Aurora, die Setas bei Nacht
+@where: Irgendwo auf dem Rundweg oder am Mirador, bei Tag oder nach Einbruch der Dunkelheit. Halten Sie am Geländer, wo Sie anderen nicht im Weg sind.
+@what: Metropol Parasol Aurora (2021, for the tenth anniversary): a light and sound installation built into the timber; concept and software by Skandal Technologien; responds to visitor numbers and movement, weather, wind and season, with special programmes for days such as Semana Santa and the Feria; under 30% of the lights on at once.
+@listen: The light show built into the timber, and how it reacts to the crowd, the weather and the calendar.
+@brief: A friend letting the listener in on what the building does at night; curious, light, unhurried.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.jmayerh.de/metropol-parasol-aurora (OFF architects: LED lighting infrastructure in the timber parasol; 2021, "Tenth Anniversary"; "a tribute to the light of Seville"; Skandal Technologien "Aurora Concept and Software"; special programming for days such as Feria de Sevilla and Semana Santa) ; https://sacyr.com/-/10-aniversario-setas-sevilla (OFF Sacyr, 16 Jul 2021: "experiencia inmersiva de luz y sonido"; reacts to "la ocupación y el movimiento de los visitantes… la climatología, el viento o el momento del año") ; https://sacyr.com/en/-/setas-de-sevilla (OFF, modified 30 Mar 2026: same reactions) ; https://digitalavmagazine.com/en/2021/07/19/setas-de-sevilla-transforman-creativas-experiencias-inmersivas-decimo-aniversario (SEC trade, 19 Jul 2021: "less than the 30% of the total number of luminaires at each moment", to generate movement and reduce light pollution) ; no times or months: PLAN §4, DATED (homepage "Abril a Octubre" vs architects "every night, from sunset")
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 014 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Das Holz um Sie herum ist für Licht verkabelt. Nach Sonnenuntergang kann ein System in den Schirmen die Setas in eine langsame Licht- und Klangschau verwandeln. Es heißt Aurora.
+
+Es kam 2021 hinzu, zum zehnten Jahrestag des Gebäudes, und die Architekten nennen es eine Hommage an das Licht Sevillas. [pause] Konzept und Software stammen von einem Designstudio namens Skandal Technologien.
+
+Das Besondere ist, dass es zuhört. Der Betreiber sagt, es reagiere darauf, wie viele Menschen hier oben sind und wie sie sich bewegen, auf Wetter und Wind und auf die Jahreszeit. [pause] Sonderprogramme markieren Tage wie die Semana Santa, die Karwoche, und die Feria, Sevillas Frühlingsfest.
+
+[lightly] Es ist auch zurückhaltend. Laut einem Fachbericht sind meist weniger als dreißig Prozent der Leuchten gleichzeitig an. Ziel ist ein Gefühl von Bewegung, mit weniger Licht, das in den Nachthimmel strahlt.
+
+Wenn Sie tagsüber hier sind, stellen Sie es sich vor. Wenn Sie nach Einbruch der Dunkelheit hier sind und Aurora läuft, stehen Sie mittendrin.
+
+Gehen Sie weiter zum Weg nach unten. Wenn Sie in den Film Feeling Sevilla gehen, spielen Sie den nächsten Extra-Titel, bevor Sie hineingehen. [pause] Wenn nicht, spielen Sie Von der Baustelle zum Wahrzeichen, während Sie hinuntergehen, vorbei an der Ausstellung.

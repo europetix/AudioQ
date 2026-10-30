@@ -1,0 +1,30 @@
+@id: 016 · FR · The way down · 30 Oct 2026 edition
+@section: Coming down
+@room: The way down · the exhibition
+@type: R
+@title: La descente — Du chantier au symbole de la ville
+@where: Sur la descente, des passerelles vers la Plaza Mayor, là où l'exposition sur l'histoire de la Plaza de la Encarnación borde le parcours. Écoutez cette piste en descendant.
+@what: The official exhibition on the way down, showing the evolution of the Plaza de la Encarnación up to today (contents not yet photographed); building the Setas from June 2005; the opening on Sunday 27 March 2011 by Mayor Alfredo Sánchez Monteseirín, the Antiquarium the same evening; Arup's project director José de la Peña; Sacyr's concession and the 2021 renewal; DATED: 15th anniversary in 2026.
+@listen: How a building site Seville argued over became a city symbol, as you walk down past the exhibition.
+@brief: A friend walking down with the listener, telling the opening story with a smile; warm, unhurried, a light wry touch at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://setasdesevilla.com/planifica-tu-visita (OFF: "exposición única que muestra la evolución de la Plaza de la Encarnación hasta la actualidad"; "Finaliza tu recorrido en la emblemática Plaza Mayor") ; https://setasdesevilla.com/experiencia-general (OFF: "exposición única mientras desciendes") ; https://www.defensordelpueblo.es/noticias/el-defensor-del-pueblo-suspende-su-investigacion-sobre-las-setas-de-la-encarnacion-tras-la-informacion-remitida-por-el-ayuntamiento-de-sevilla-2/ (OFF: works "se iniciaron en junio de 2005"; operator says 2006, so FACTS HEDGE "mid-2000s") ; https://www.arup.com/news-and-events/sevilles-la-plaza-de-la-encarnacion-opens (OFF Arup: opened "Sunday 27 March" by Mayor Alfredo Sánchez Monteseirín; Antiquarium opened the same evening; José de la Peña, Project Director: "Constructions of this nature always create a great impact, and are always debated in the respective cities"; cited the Eiffel Tower; confident Seville is proud of its new symbol of modernity and technology) ; https://www.publico.es/actualidad/legado-monteseirin.html (SEC, 28 Mar 2011: the opening; Sacyr built it and helped finance it in exchange for running it; years not used) ; https://www.dezeen.com/?p=2314624 (SEC: opposition from the 2004 announcement to the 2011 opening) ; https://setasdesevilla.com/en/history-and-construction (OFF: full inauguration 6 May 2011 → "in stages through that spring") ; https://sacyr.com/-/10-aniversario-setas-sevilla (OFF: 2021 renewal, Aurora and Feeling Sevilla) ; https://setasdesevilla.com/ (OFF: "Campaña 15 Aniversario", read 30 Oct 2026)
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 016 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un dimanche du printemps 2011, le maire de Séville a inauguré un bâtiment dont la ville débattait depuis sept ans.
+
+L'exposition qui vous entoure, selon l'exploitant, montre l'évolution de la Plaza de la Encarnación jusqu'à aujourd'hui.
+
+La construction a commencé au milieu des années 2000, sur une place tour à tour couvent, marché et parking. [pause] Le 27 mars 2011, le maire Alfredo Sánchez Monteseirín l'a inauguré, et le musée des vestiges romains, en dessous, a ouvert le soir même. Le reste a suivi par étapes ce printemps-là.
+
+[pause] José de la Peña, directeur du projet pour les ingénieurs d'Arup, voyait venir les débats. Les bâtiments de ce genre, disait-il, « ont toujours un grand impact, et font toujours débat ». Il citait la tour Eiffel, elle aussi débattue jadis à Paris, et ajoutait que Séville pouvait être fière d'un nouveau symbole de modernité et de technologie.
+
+Sacyr, l'entreprise qui l'a construit, a aidé à le financer, et l'exploite dans le cadre d'une longue concession de la ville. Dix ans après l'ouverture, elle l'a rénové, ajoutant les lumières d'Aurora et la salle Feeling Sevilla.
+
+En 2026, les Setas ont quinze ans.
+
+[wry] Chantier, querelle, symbole. La tour Eiffel a suivi le même chemin.
+
+En bas, vous arrivez sur la Plaza Mayor, la grande place surélevée sous les parasols. [pause] Trouvez un coin tranquille, avec le marché juste sous vos pieds, et écoutez-y l'arrêt suivant : Le marché qui a attendu trente-sept ans.

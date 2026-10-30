@@ -1,0 +1,32 @@
+@id: 007 · FR · Level −1 lifts · 30 Oct 2026 edition
+@section: Going up
+@room: Level −1 · by the lifts
+@type: W
+@title: Plaza de la Encarnación — Une place aux nombreuses vies
+@where: Au niveau moins un, près des ascenseurs qui montent au Mirador, à côté de l'entrée de l'Antiquarium. Écoutez cette piste en attendant : il n'y a rien de particulier à regarder.
+@what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville.
+@listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
+@brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.
+@pace: medium
+@energy: 3→3→3
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF AAA99: convent founded "en 1591"; "decreto napoleónico de 1810"; market built "1831-42"; "1948 con la creación del eje de comunicación Osario-La Campana"; "en 1973 con la demolición") ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF AAA91: convent of Augustinian nuns founded 1591) ; https://setasdesevilla.com/en/history-and-construction (OFF: market "Designed by the major architect of Seville, Melchor Cano"; 1973 "structural problems in the market's vegetable and fish stalls") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC PUBSP: convent demolished during the Napoleonic invasion; site later "a car park or bus depot") ; https://visitasevilla.es/en/?p=1576 (OFF: 1990s excavation "to build a subway parking", project aborted after the discovery) ; FG2009 via FACTS §1 (Joseph Bonaparte's decree of 20 Apr 1810; wooden market from 1820; Cano's hall approved 1832, built 1833–37; not re-read) ; "fenced, dusty car park": FACTS §1 (PUBSP, MERCASA)
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 007 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cette place existe à cause du frère de Napoléon.
+
+Elle tient son nom du couvent de l'Incarnation, l'Encarnación, un couvent de religieuses fondé ici à la fin du seizième siècle. Les religieuses y restèrent plus de deux siècles. Puis vinrent les Français. [pause] Pendant l'occupation, en 1810, le gouvernement de Joseph Bonaparte fit raser le couvent pour ouvrir une place.
+
+À Séville, une place reste rarement vide longtemps. Bientôt, des marchands y tenaient un marché en bois. Puis la ville bâtit une vraie halle, permanente, dessinée par l'architecte Melchor Cano et élevée dans les années 1830. Pendant bien plus d'un siècle, ce fut le marché central de Séville.
+
+[pause] Cela n'a pas duré. Vers le milieu du siècle dernier, une nouvelle artère a tranché une partie du marché. En 1973, le reste a été démoli, surtout pour des problèmes de structure. [pause] Les marchands ont été relogés dans des étals provisoires, et des décennies durant, la place a été un parking clôturé et poussiéreux.
+
+Plus tard, la ville y prévit un parking souterrain. Les travaux tombèrent sur la Séville romaine, et le projet fut abandonné. Les trouvailles sont dans l'Antiquarium, à côté de ces ascenseurs.
+
+[wry] Le vide créé par le frère de Napoléon a donc été sans cesse comblé. D'abord un marché, puis des voitures garées, puis des archéologues, et enfin les Setas.
+
+Et les marchands ? Leur histoire vous attend à la fin, au-dessus du marché.
+
+[warmly] L'ascenseur que vous allez prendre traverse tous ces chapitres, de sous les vieilles rues jusqu'à bien au-dessus des toits.
+
+Montez en ascenseur. Lancez l'arrêt suivant quand les portes se ferment. Il continue quand vous sortez sur la passerelle : Des champignons de bois.

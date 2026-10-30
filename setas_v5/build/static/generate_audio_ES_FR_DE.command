@@ -23,10 +23,10 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The guide in all three lengths: Full (@@N_FULL@@ tracks, about 1 h 35), Essential (@@N_ESS@@ tracks, about 1 h 15)"
-echo "     and Highlights (@@N_HI@@ tracks, about 45 min). Records once, then makes the three folders."
+echo "  1) The guide in all three lengths: Full (@@N_FULL@@ tracks, just under 1 h with the Antiquarium), Essential (@@N_ESS@@ tracks, about 35 min)"
+echo "     and Highlights (@@N_HI@@ tracks, about 25 min). Records once, then makes the three folders."
 echo "  2) Two voice samples only: 008 Mushrooms of wood + 012 the Mirador (a few minutes)"
-echo "  3) Highlights only (@@N_HI@@ tracks, about 45 min; quickest to make; option 1 later reuses them)"
+echo "  3) Highlights only (@@N_HI@@ tracks, about 25 min; quickest to make; option 1 later reuses them)"
 printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 OUTPUT_DIR="$HOME/Desktop/Setas_YoTours_${TAG}_${VOICE_NAME}"

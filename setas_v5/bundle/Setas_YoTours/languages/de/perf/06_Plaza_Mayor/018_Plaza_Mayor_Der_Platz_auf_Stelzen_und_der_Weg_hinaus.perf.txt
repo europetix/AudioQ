@@ -1,0 +1,30 @@
+@id: 018 · DE · Plaza Mayor · 30 Oct 2026 edition
+@section: Plaza Mayor
+@room: Plaza Mayor
+@type: CLOSE
+@title: Plaza Mayor — Der Platz auf Stelzen, und der Weg hinaus
+@where: Auf der Plaza Mayor, dem großen erhöhten Platz auf dem Dach der Markthalle, unter den Schirmen. Stellen Sie sich irgendwohin, wo Sie niemandem im Weg sind, am besten dorthin, wo Sie die Schirme über sich sehen.
+@what: The Plaza Mayor of Metropol Parasol (J. Mayer H., opened 2011): the raised public square over the Mercado de la Encarnación, open to the sky and used for events; the 2011 indignados (15-M) protests and camp here; finalist, European Prize for Urban Public Space 2012; Mayer's "urban, democratic, open cathedral"; Aurora after sunset; the way out to the street.
+@listen: Why the raised square is the heart of the design, how protesters made it theirs in its first weeks, and how to leave.
+@brief: A friend saying goodbye in the middle of the square; curious at the start, warm and a little proud of the place, gentle and practical at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF Junta: the raised, shaded Plaza Mayor under the parasols, "open to the sky and used for events of different types"; market at ground level) ; https://www.jmayerh.de/metropol-parasol (OFF: archaeological museum, farmers' market, elevated plaza, panorama terrace; meant to act as "the new contemporary urban center") ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF: Mayer, potential of the square to become "the new contemporary urban centre") ; https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC: Mayer, "an urban, democratic, open cathedral that is held together by the people and the life in the center of the city") ; https://papiro.unizar.es/ojs/index.php/zarch/en/article/view/5097 (SEC academic, P. Mena Vega, ZARCH 16, 2021: the 15-M demonstrations "continually held in the Plaza", architecture's capacity "to decisively transform the occupation of public space") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC European Prize for Urban Public Space archive: "FINALIST 2012"; the "Indignados" movement chose the site for its camp in 2011) ; https://setasdesevilla.com/en/history-and-construction (OFF: Plaza Mayor opened about three months after the market, Dec 2010; full inauguration 6 May 2011) ; https://www.jmayerh.de/metropol-parasol-aurora (OFF: Aurora from sunset; no times said) ; way out by stairs or escalators: https://www.headout.com/setas-de-sevilla/official-tickets-to-setas-de-sevilla-e-41691/ (SEC: escalators connecting level −1 and the Plaza Mayor), TRAVCH SEC per research §1.6
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 018 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Wenige Wochen nach seiner Eröffnung war dieser Platz voller Demonstranten, und einige schlugen hier ihr Lager auf. In gewisser Weise hat das Gebäude damit seine erste Prüfung bestanden.
+
+Dies ist die Plaza Mayor, der erhöhte Platz. Er liegt auf dem Dach der Markthalle, unter den Schirmen, offen zum Himmel, und wird für Veranstaltungen genutzt. Er ist eine der vier Schichten des Entwurfs. [pause] Sein Architekt, Jürgen Mayer H., hoffte, die Plaza de la Encarnación werde zum neuen, zeitgenössischen Zentrum der Stadt.
+
+[pause] Im Frühjahr 2011 machten Sevillas Indignados, die Protestbewegung, die in jenem Jahr ganz Spanien erfasste, diesen Platz zu ihrem Treffpunkt. Eine wissenschaftliche Studie über diese Demonstrationen argumentiert, dass die Architektur veränderte, wie Menschen einen öffentlichen Raum nutzen konnten. [pause] Ein Jahr später war der Platz Finalist beim Europäischen Preis für den städtischen öffentlichen Raum.
+
+[warmly] Mayer selbst nannte ihn „eine urbane, demokratische, offene Kathedrale, die von den Menschen und dem Leben im Zentrum der Stadt zusammengehalten wird“. Schauen Sie sich um. Um die Menschen ging es immer.
+
+Unter Ihnen geht das Markttreiben weiter. Und wenn Aurora läuft, leuchtet das Holz über Ihnen nach Sonnenuntergang auf.
+
+Um hinauszugehen, folgen Sie den Schildern hinunter zur Straße, über die Treppe oder die Rolltreppen. Von dort können Sie auch die Markthalle besuchen.
+
+[quietly] Sie haben unter der Straße begonnen, neben den Resten des römischen und maurischen Sevilla. Sie sind bis zum höchsten Punkt der Schirme gestiegen und enden jetzt hier in der Mitte, wo die Stadt zusammenkommt.
+
+[warmly] Danke, dass Sie die Setas de Sevilla mit uns erkundet haben. Wir hoffen, der Blick bleibt Ihnen in Erinnerung.
