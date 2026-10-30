@@ -3,7 +3,7 @@
 @room: No. 34 · Baños de Doña María de Padilla
 @type: W
 @title: 34 · Baños de Doña María de Padilla — A garden underground
-@where: Inside number 34, the Baños de Doña María de Padilla, entered from the Jardín de la Danza: a long, dim pool under Gothic vaults, below the Patio del Crucero. Stand where you can see along the length of the water.
+@where: Inside number 34, the Baños de Doña María de Padilla, entered from the garden through the palace wall at the head of the Jardín de la Danza: a long, dim pool under Gothic vaults, below the Patio del Crucero. Stand where you can see along the length of the water.
 @what: Lower level of the Patio del Crucero: a sunken summer garden, its vaults made Gothic under Alfonso X (13th century), remodelled under Felipe III with a Mannerist fountain (remains at one end of the pool) and an opening to the Jardín de la Danza. Named after María de Padilla by legend only. Game of Thrones: Ellaria Sand's arrest.
 @listen: Why this is neither a bath nor a cistern, and why the name is a love story that never happened here.
 @brief: A friend in a cool, echoing space, voice lowered at first, gently debunking, a smile at the television aside.
@@ -23,4 +23,4 @@ So why is it called after María de Padilla? She was King Pedro's companion, the
 
 Look along the water to the far vaults. Islamic courtyard above, a Gothic king's vaults, a later king's fountain. And a love story that belongs to somewhere else.
 
-Back out into the Danza and along the garden front, through the small Italianate gardens, to number 35, the Jardín del Príncipe: look for number 36 on the Alcázar map, the Columna de Al-Mutamid.
+Back out into the Danza and walk to its far end, keeping the palace on your right. Go on through the little courtyard of number 37 on the Alcázar map, the Fuente de Troya, and through the garden of number 36 on the Alcázar map, the Columna de Al-Mutamid: look for the column. In the garden beyond, number 35, the Jardín del Príncipe, opens through the colonnade on your right.

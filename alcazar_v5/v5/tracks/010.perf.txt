@@ -3,7 +3,7 @@
 @room: No. 10 · Patio de las Doncellas
 @type: W
 @title: 10 · Patio de las Doncellas — The king hailed as sultan
-@where: At the near end of the Patio de las Doncellas, just inside the palace: a large arcaded courtyard with a long central pool between sunken garden beds, its walls lined with tile and carved plaster.
+@where: At the near end of the Patio de las Doncellas, in the corner where the bent passage from the palace door brings you in: a large arcaded courtyard with a long central pool between sunken garden beds, its walls lined with tile and carved plaster.
 @what: Patio de las Doncellas, central courtyard of the palace of Pedro I (begun from 1356, finished by 1366); Arabic dado inscriptions naming Pedro "sultan"; the life and death of Pedro I (1334–1369) and his remains' journey to Seville Cathedral.
 @listen: How a Christian king came to be greeted as sultan on his own walls, how he lost his throne and his life, and the long road his body took back to Seville.
 @brief: A storyteller in the heart of the palace; conspiratorial at the start, brisk through the civil war, wry at the nicknames, warm and quiet at the homecoming.

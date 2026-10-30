@@ -1,97 +1,138 @@
 YO TOURS - REAL ALCAZAR DE SEVILLA - ON-SITE + MAP CHECKLIST (30 Oct 2026 edition, 35 tracks: 33 main + 2 Cuarto Real Alto;
 O-numbers and track numbers as in PLAN.md sections 2 and 5)
 Walk the Full route once with the guide before recording. Tick each item, note anything different with the track number, and send it
-to us: we fix only that track. Items marked CRITICAL decide which cue or which route is recorded. Until the map items are done, every
-left/right in the scripts is PROVISIONAL: the cues name the map number + Spanish name + one thing to look for.
+to us: we fix only that track. Items marked CRITICAL decide which cue or which route is recorded. MAP PASS DONE 30 Oct 2026
+(v5/notes/MAP_PASS_30OCT.md): every left/right now in the scripts was read off the leaflet's drawing ("MAP OK" below). On the walk,
+check that each one is TRUE ON THE GROUND (one tick per track at the end, "DIRECTIONS"). Parts marked "STILL" need the site.
 Photograph every official information panel you pass (front and any English side): panels are how the held Extras come back.
 
-MAP (desk, as soon as the official leaflet image arrives; save it in research/map/)
-[ ] MAP-1 CRITICAL Is the Nov 2024 leaflet (triptico, spaces 1-53) still the current edition? Is it handed out on paper at the Puerta
-        del Leon, or only online ("Prepara la visita" says to print it)? If visitors may not hold it, the app must show the plan (ask
-        the Patronato for permission) and track 1 must say where the numbers are. A new edition that renumbers = re-check every track.
-        (Audit 30 Oct) 001 now says: "the route map that comes with this guide uses the same numbers". Before release, confirm that
-        the Yo Tours route map really ships with the guide and uses the leaflet numbers 1-53 (and, if it reproduces the leaflet plan,
-        that the Patronato has allowed it). If not, cut that clause from 001.
-[ ] MAP-2 Read off the drawing every relation the cues need:
-        - Monteria: the side of the Cuarto del Almirante (6) (research says west, right when facing the facade); the gallery to the
-          Crucero (31); does the Apeadero (53) open off the Monteria?;
-        - the doors from the Doncellas to 13 and 15; the order 15 > 16 > 17 > 18; the stair 19;
-        - the Munecas > Jardin del Principe passage; the Bovedas garden door; Danza (38) <> Banos (34);
-        - 35 > 36 > 37 > 38 > 39; the Grutesco's side of the pool; where Fama (41) is;
-        - 44 > 45 > 46 > 47 > 48-52 > 53; the ENTRADA / SALIDA labels.
-        Then rewrite the [Oxx] cues with left/right where the drawing is unambiguous.
-[ ] MAP-3 The number 11 is printed twice on the drawing: which space carries the second one? (Cues never say "number 11".)
-[ ] MAP-4 Lifts, toilets, cafeteria and shop icons: positions (step-free notes only; shop and cafe never in speech).
+MAP (desk) - DONE IN THE MAP PASS OF 30 OCT 2026 (drawing: source/triptico_alcazar_sevilla.pdf; renders in research/map/)
+[~] MAP-1 CRITICAL PARTLY SETTLED. The drawing is an Illustrator file of 14 Mar 2016 (page 1 still gives the old
+        patronato-alcazarsevilla.es address), re-uploaded Nov 2024; it does NOT show the 2025 Munecas passage.
+        STILL: is a paper copy handed out at the Puerta del Leon, and is there a newer edition? If visitors may not hold it, the app
+        must show the plan (ask the Patronato for permission) and track 1 must say where the numbers are. A new edition that
+        renumbers = re-check every track. (Audit 30 Oct) 001 says: "the route map that comes with this guide uses the same numbers".
+        Before release, confirm the Yo Tours route map ships with the guide and uses the leaflet numbers 1-53 (and, if it reproduces
+        the leaflet plan, that the Patronato has allowed it). If not, cut that clause from 001.
+[x] MAP-2 SETTLED except where marked; written into the cues:
+        - Monteria: facade (5) facing you from the triple arch; Cuarto del Almirante (6) along the RIGHT-hand side behind a row of
+          columns, 7 at its far end; gallery to the Crucero (31) in the FAR LEFT-HAND corner by the facade (a range with doorways
+          into 31); the Apeadero (53) does NOT open off the Monteria (a corridor beside the Crucero leads to it).
+        - 2 off the far left-hand corner of the Leon (facing the triple arch); 3 reached only through 2.
+        - Palace door -> bent passage -> a corner of the Doncellas; 13 = long room along the long side on your LEFT from that corner;
+          15 at the FAR END. STILL: the exact door of 13 (O8).
+        - 15 > 16 > 17 > 18: drawn as a loop, doorways NOT legible. STILL: O10.
+        - Stair 19: arrow to the corner of the Monteria where the facade meets the Cuarto del Almirante (not by the Munecas).
+        - Munecas > Jardin del Principe passage: NOT on the 2016 drawing. STILL: O11.
+        - Bovedas (33): its garden front is drawn open. STILL: the exact door (O17).
+        - Banos (34): arrow to an opening in the palace wall at the head of the Danza (38), on the garden side of 33.
+        - 38 > 37 > 36 > unnumbered garden > colonnade > 35: all openings drawn. The column itself (36): not drawn (O19).
+        - Grutesco (40) = the long wall on the FAR side of the Mercury pool from the Danza; Fama (41) = a semicircular niche in the
+          same wall beyond the pool. STILL: the path from 41 to 44 (cue names the destination only).
+        - 44 > 45 > 46 > 47 > 48 > 49 > 50 > 51 > 52 > 53: 45 closes the open space round 44; 46 lies beyond 45; 47 on its other side;
+          48 in the far corner; 49-50 back along the outer side; 51 near the head of the Grutesco wall; 52 just beyond 51.
+        - ENTRADA at the Puerta del Leon gatehouse; SALIDA at the outer end of the Apeadero (53), towards the Patio de Banderas.
+[x] MAP-3 SETTLED. The second "11" is printed in the Cuarto Real Alto inset, on the open courtyard the upper rooms are drawn round.
+        Cues still never say "number 11".
+[x] MAP-4 SETTLED (no lifts on the drawing). Shops: Puerta del Leon gatehouse and beside the Apeadero (closed; never in speech).
+        Toilets: range between the Monteria and the Crucero; by the Callejon del Agua wall near no. 50; by no. 48. Cafeteria: by the
+        Callejon del Agua wall. For step-free notes only.
 
 ENTRANCE AND FIRST COURTYARDS
 [ ] O1  Track 1: can a listener stand outside the Puerta del Leon and play 001 without blocking the entry line? Is the tile lion
         above the arch visible from there? Where does the visitor come out after the security area? Paper map given out (MAP-1)?
-[ ] O2  Tracks 1-4: Patio del Leon - the triple arch through to the Monteria; the door into no. 2 Sala de la Justicia; its floor
-        fountain; the Order of the Band shield (004 names it only if seen); any visible trace of the 17th-century theatre (002 claims
-        none unless seen); does no. 2 lead straight into no. 3 Patio del Yeso? (Audit 30 Oct) 002: can a visitor SEE that the middle
-        arch of the triple arch is off-centre, one side of the wall wider than the other? If not, soften the "Now look" sentence.
-[ ] O3  Track 5: Patio del Yeso - the brick lattice (sebka) arcade over the long pool; the way back out (through no. 2 only?).
-[ ] O4  CRITICAL Tracks 5-10, 16-17: Patio de la Monteria - is the facade (5) in front of you as you come through the triple arch?
-        Where is the door of the Cuarto del Almirante (6)? Is the central door of the facade the visitors' way into the palace? Where
-        is the gallery to the Patio del Crucero (31)? Does the Apeadero (53) open off this courtyard (006: "you'll leave this way")?
-[ ] O5  Tracks 8-9: Cuarto del Almirante - the way from 6 into 7 (the chapel); are 8 Patio del Asistente and 9 Patio de Levies open?
-        (Photograph the panels: held Extra.) The Virgin of the Navigators on view in 7, with its side panels and the ships below?
+[ ] O2  Tracks 1-4: Patio del Leon - MAP OK: triple arch at the far end; no. 2 off the far LEFT-hand corner (facing the arch);
+        no. 2 leads straight into no. 3. STILL: the door into no. 2 open and signed; its floor fountain; the Order of the Band
+        shield (004 names it only if seen); any visible trace of the 17th-century theatre (002 claims none unless seen).
+        (Audit 30 Oct) 002: can a visitor SEE that the middle arch of the triple arch is off-centre, one side of the wall wider
+        than the other? If not, soften the "Now look" sentence.
+[ ] O3  Track 5: Patio del Yeso - the brick lattice (sebka) arcade over the long pool. MAP OK: the way back out is through no. 2
+        only, and the triple arch is then on your LEFT (005 cue).
+[ ] O4  Tracks 5-10, 16-17: Patio de la Monteria - MAP OK (no longer CRITICAL): facade facing you through the triple arch; the
+        Cuarto del Almirante (6) on the RIGHT behind a row of columns; the palace door in the middle of the facade; the way to the
+        Crucero (31) in the FAR LEFT corner by the facade; the Apeadero does NOT open here (006 no longer mentions it).
+        STILL: which door of the colonnade visitors use into no. 6; is the central facade door open as the way in.
+[ ] O5  Tracks 8-9: Cuarto del Almirante - MAP OK: 7 at the far end of the range. STILL: the way from 6 into 7 (the chapel);
+        are 8 Patio del Asistente and 9 Patio de Levies open? (Photograph the panels: held Extra.) The Virgin of the Navigators
+        on view in 7, with its side panels and the ships below?
         Tapestries, bench, painted ceiling: describe only what you see. (Audit 30 Oct) 007 cue now says "Look for the sign Casa de la
         Contratacion": is there a sign with exactly that name at the door of no. 6? If the sign says something else, use its wording.
 [ ] O6  Track 7: facade - where are the Gothic Castilian band of lettering and the blue-and-white Kufic tiles? Readable from the courtyard?
 
 PALACE OF KING PEDRO
-[ ] O7  CRITICAL Tracks 9-11: the way in through the facade door and the vestibule to no. 10 Patio de las Doncellas. SCAFFOLDING or
+[ ] O7  CRITICAL Tracks 9-11: MAP OK: facade door > bent passage > a corner of no. 10 Patio de las Doncellas; the courtyard runs
+        away from that corner to no. 15 at the far end. STILL: is that the way visitors go in (009 cue)? SCAFFOLDING or
         closed galleries (the restoration's plaster and tile phases are next)? Is the sunken garden visible? Any panel or label for the
         Arabic "sultan Don Pedro" bands? Where to stand at the near end (010).
-[ ] O8  Tracks 11-12: the door from the Doncellas into no. 13 Salon del Techo de Carlos V; the coffered ceiling with busts; any
+[ ] O8  Tracks 11-12: the door from the Doncellas into no. 13 Salon del Techo de Carlos V (MAP: in the long side on your LEFT as
+        you look down the courtyard from the entry corner; 011 now says so - confirm); the coffered ceiling with busts; any
         Arabic "malik" inscription; is no. 14 Sala de los Infantes open? Are 11 Alcoba Real and 12 Pasos Perdidos open? (Panels: held.)
 [ ] O9  Tracks 13-14: no. 15 Salon de los Embajadores - the iron balconies; the frieze of kings' portraits; the doors with the 1366
         inscription (visible?); any concert or event set-up.
-[ ] O10 Tracks 14-16: the way 15 > 16 > 17 > 18 (or 15 > 18 direct); where the Peacock Arch is; the ribbons-and-shields ceiling of 17.
-[ ] O11 CRITICAL Tracks 16-17, 23: no. 18 Patio de las Munecas - which arch has the small carved heads? Is the Cuarto del Principe
-        open and signed? Is the restored passage to the Jardin del Principe open, and is it TWO-WAY, or a ONE-WAY exit out of the
-        palace? If one-way and the palace cannot be re-entered: ALT-B, tell the lead (tracks 18-24 must be re-sequenced).
+[ ] O10 Tracks 14-16: the way 15 > 16 > 17 > 18 (or 15 > 18 direct) - the drawing shows a loop but its doorways are NOT legible, so
+        014-016 stay number-and-name; where the Peacock Arch is; the ribbons-and-shields ceiling of 17.
+[ ] O11 Tracks 16-17, 23 (no longer CRITICAL after the map pass): no. 18 Patio de las Munecas - which arch has the small
+        carved heads? Is the Cuarto del Principe
+        open and signed? Is the restored passage to the Jardin del Principe open, and is it TWO-WAY or ONE-WAY? (Map pass: route A
+        does not use the passage in either direction, so this now affects only 017/023 wording and the DATED list. ALT-B was
+        rejected on the drawing; it returns only if A cannot be walked at O12/O17.)
 [ ] O12 CRITICAL Tracks 16-18 and the 016 Highlights bridge: how do visitors get from the Munecas to no. 31 Patio del Crucero?
-        Back through the Doncellas and the facade door to the Monteria and its gallery (the default cue), or directly from the
-        Doncellas (ALT-C)? What do the signs say?
-[ ] O13 Tracks 16, 34-35 (Cuarto Real Alto): where is the stair no. 19? Where does the upstairs visit start and end? Is commentary
+        MAP OK for the default now in 016/017: out of the palace door, turn right, palace front on your RIGHT, to the corner; a range
+        there has doorways into 31, and the Gothic palace runs along 31's right-hand side as you come in (018 @where). The drawing
+        ALSO shows an inner link from the palace's entrance passage (at the Doncellas corner) into that range (ALT-C).
+        STILL: which way do the signs send people? Is the palace door usable as a way out?
+[ ] O13 Tracks 16, 34-35 (Cuarto Real Alto): MAP OK: the drawing marks stair 19 in the corner of the Monteria where the facade
+        meets the Cuarto del Almirante (016 and 035 now say so). STILL: is that the door visitors use?
+        Where does the upstairs visit start and end? Is commentary
         given upstairs (a guide or official audio)? May visitors listen to their own audio upstairs? Room order 20-30; is Niculoso
         Pisano's tiled altar (the Visitation) in no. 21? Photograph the official panels for 25-30 (held Extras). (Audit 30 Oct) 012 now
         says Pisano's 1504 altar for the queen "survives upstairs": confirm it is on the upper floor (room 21).
 
 GOTHIC PALACE AND BATHS
-[ ] O14 Track 18: no. 31 Patio del Crucero - what visitors see (raised courtyard, walkways); the Baroque front.
+[ ] O14 Track 18: no. 31 Patio del Crucero - MAP OK: four garden beds; the portico on the Gothic palace side leads into 32.
+        STILL: what visitors see (raised courtyard, walkways); the Baroque front.
 [ ] O15 Track 19: no. 32 Salon de los Tapices - how many Tunis tapestries are on view; their labels (Vandergoten, dates).
         (Audit 30 Oct) Is the panel of the SACK of Tunis among those hung? 019 says only that one of the twelve scenes shows it.
 [ ] O16 Tracks 19-20: the chapel of the Gothic palace - where is it (off 32?); the Virgen de la Antigua copy and Domingo Martinez's
         Virgen de los Reyes (1742) on view?
-[ ] O17 Track 21: no. 33 Sala de las Bovedas - tiles to about 2 m; the two 1929 naval tapestries; the restored painted cloths
-        (sargas); the view through the glass gallery; WHERE ITS GARDEN DOOR LEADS (the Mercury terrace? the Danza?). No door: ALT-D.
-[ ] O18 CRITICAL Tracks 21-22 and the 016 Highlights bridge: are the Banos (34) entered from no. 38 Jardin de la Danza (default) or
-        from the Crucero (ALT-E)? Open? The same door in and out? Steps (step-free note)? (Audit 30 Oct) 022: are the remains of the
+[ ] O17 Track 21: no. 33 Sala de las Bovedas - MAP OK: 33 is the parallel hall on the garden side of 32; its garden front is drawn
+        open onto the terrace at the head of the Danza, below the Mercury pool. STILL: tiles to about 2 m; the two 1929 naval
+        tapestries; the restored painted cloths (sargas); the glass gallery; WHICH DOOR visitors go out by (021 says "out into the
+        gardens on the hall's garden side"). No door: ALT-D (now unlikely).
+[ ] O18 CRITICAL Tracks 21-22 and the 016 Highlights bridge: MAP OK: the arrow for 34 points to an opening in the palace wall at the
+        head of the Danza, on your RIGHT as you come out of 33 (021 cue). ALT-E (entry from the Crucero) now unlikely.
+        STILL: open? The same door in and out? Steps (step-free note)? (Audit 30 Oct) 022: are the remains of the
         Mannerist fountain visible at one end of the pool?
 
 GARDENS
-[ ] O19 Tracks 22-24: the walk 38 > 37 > (Galera, Flores) > 35 and back. The Columna de Al-Mutamid (36): what is it? Photograph any
+[ ] O19 Tracks 22-24: MAP OK: the walk 38 > 37 (small courtyard, fountain) > 36 > unnumbered garden > colonnade on your RIGHT > 35,
+        palace on your RIGHT going out and on your LEFT coming back (022, 023 cues). STILL: are those openings open?
+        The Columna de Al-Mutamid (36): what is it? Photograph any
         inscription or panel (a verse may be quoted only from a credited translation). The Fuente de Troya (37). Can the garden end
         of the Munecas passage be seen from the Jardin del Principe?
-[ ] O20 Tracks 23-25: the two columns on the upper level of the Danza; the Baths' opening; the steps up to the Mercury pool.
+[ ] O20 Tracks 23-25: the two columns on the upper level of the Danza; the Baths' opening (MAP OK: at the head of the Danza); the
+        steps up to the Mercury pool (not drawn; 024 says "at the head of the Danza").
         (Audit 30 Oct) 024: is one column visibly on a new pedestal (EXPO: the left one, "junto a la escalinata")?
 [ ] O21 Track 25: the bronze Mercury on the pool is the 2024 replica - any panel saying where the ORIGINAL is (on show anywhere)?
-[ ] O22 Tracks 25-27: the Grutesco - on the pool's east side? Is the upper walkway open? What do the paintings show? Where is the
-        Fuente de la Fama (41)? Does the water organ sound? (Never script times.)
+[ ] O22 Tracks 25-27: the Grutesco - MAP OK: the long wall on the FAR side of the pool from the Danza (025-026 say so; no compass
+        point spoken); the Fama (41) is a semicircular niche in the same wall beyond the pool (026-027). STILL: is the upper walkway
+        open? What do the paintings show? Does the water organ sound? (Never script times.) The path from 41 to 44.
 [ ] O23 Fuente de Neptuno (42), Gruta de las Sultanas (43): photograph the panels (held Extra).
 [ ] O24 CRITICAL Tracks 26-29: no. 44 Pabellon de Carlos V - restoration finished? Interior open? Screens or scaffolding? Are the
         Polido tiles and the labyrinth floor visible? -> record 028(a) "open" or 028(b) "behind screens" (ALT-F).
         (Audit 30 Oct) 028 now carries (b). If the pavilion is open, swap in the (a) sentence kept in v5/notes/AUDIT_FIXES_001-035.md.
-[ ] O25 Tracks 28-30: no. 45 Cenador del Leon - the lion and the pool in front; the painted interior visible?
-[ ] O26 Tracks 30-31: no. 46 Jardin Ingles and no. 47 Laberinto - what can be seen; can the maze be walked; order 45 > 46 > 47 > 48.
-[ ] O27 Tracks 30-32: the order 48 > 49 > 50 > 51 > 52 on the ground; on no. 51 Puerta de Marchena, the carved wild men holding
+[ ] O25 Tracks 28-30: no. 45 Cenador del Leon - MAP OK: closes the open space round no. 44, pool in front. STILL: the lion and the
+        pool; the painted interior visible?
+[ ] O26 Tracks 30-31: no. 46 Jardin Ingles and no. 47 Laberinto - MAP OK: 46 (winding paths) beyond the Cenador, 47 on its other
+        side, so 031 sends people "back past the Cenador" to 47. STILL: what can be seen; can the maze be walked.
+[ ] O27 Tracks 30-32: MAP OK: 48 in the far corner, 49-50 back along the outer side, 52 just beyond 51. STILL: the order on the
+        ground; on no. 51 Puerta de Marchena, the carved wild men holding
         shields; photograph the panels at 48 Puerta de la Alcoba, 49 Jardin de los Poetas, 52 Jardin de la Alcubilla (held Extras).
 
 EXIT
-[ ] O28 CRITICAL Tracks 25, 28, 32-33 and the Highlights/Essential bridges: do visitors leave through no. 53 Apeadero into the
+[ ] O28 CRITICAL Tracks 25, 28, 32-33 and the Highlights/Essential bridges: MAP OK: SALIDA is printed at the outer end of the
+        Apeadero (a columned hall), towards the Patio de Banderas; the drawing shows a passage from the corner of the Mercury pool along
+        the Gothic palace towards 52-53. STILL: do visitors leave through no. 53 Apeadero into the
         Patio de Banderas? The Salida signs; the shortest signed way from the Mercury pool (Highlights) and from the Pabellon
         (Essential) to the Apeadero. One-way, no re-entry (never scripted). What to look for in the Apeadero? From the Patio de
         Banderas, can the Giralda be seen (033)? Is the Patio de Banderas "the square just east of where you came in"?
@@ -111,6 +152,21 @@ AFTER THESE DATES / TRIGGERS (see PLAN.md section 6)
 [ ] The Munecas passage changes (one-way, closed) -> 017, 023, ALT-B.
 [ ] A new leaflet edition -> every @room, @title and cue.
 [ ] Seville-residents' entrance (Casas 7 y 8) opens -> re-check O1/O28.
+
+DIRECTIONS (map pass 30 Oct): walk each cue and tick it TRUE ON THE GROUND, or note what is different
+[ ] 001 triple arch at the far end of the Patio del Leon       [ ] 003, 002E bridge: no. 2 off the far left-hand corner
+[ ] 004 no. 3 through the far side of no. 2                    [ ] 005 triple arch on your left coming out of no. 2
+[ ] 006 facade facing you, no. 6 on the right, gallery far left [ ] 007 no. 6 on the right as you face the facade, columns
+[ ] 008 no. 7 at the far end of the range                      [ ] 009 palace door to your right coming out; bent passage
+[ ] 010 entry at a corner of the Doncellas                     [ ] 011 no. 13 long side on the left; no. 15 at the far end
+[ ] 012 no. 15 at the far end of the courtyard                 [ ] 016/017 palace door, turn right, facade on right, corner
+[ ] 016 stair 19 in the Monteria corner by the Almirante       [ ] 018 portico on the Gothic palace side; 32 behind it
+[ ] 019/020 no. 33 the parallel hall on the garden side        [ ] 021 Banos opening on your right, at the head of the Danza
+[ ] 022 Danza far end, palace on right, 37, 36, colonnade right [ ] 023 back through colonnade, palace on left, 37, 38
+[ ] 024 steps at the head of the Danza                         [ ] 025/026 Grutesco on the far side of the pool
+[ ] 026/027 Fama in the same wall beyond the pool; 44 at the far end of the formal gardens
+[ ] 028/029 no. 45 just beyond, at the end of the open space    [ ] 030/031 no. 46 beyond the Cenador; 47 back past it
+[ ] 032 Alcubilla beds just beyond the Marchena gateway         [ ] 035 stair 19 in the Monteria corner
 
 LISTENING CHECKS (after rendering)
 [ ] BEFORE ANY RENDER: build/static/pronunciation.py does not exist, but v5/pipeline/render_edge.py imports apply_respelling from

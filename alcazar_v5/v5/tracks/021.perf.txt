@@ -3,7 +3,7 @@
 @room: No. 33 · Sala de las Bóvedas
 @type: R
 @title: 33 · Sala de las Bóvedas — The vaulted hall
-@where: In number 33, the Sala de las Bóvedas, also called the Salón Gótico: a long hall under Gothic vaults, its walls tiled to about two metres with figures and plants, with a glass-panelled gallery looking into the garden.
+@where: In number 33, the Sala de las Bóvedas, also called the Salón Gótico, the hall on the garden side of the Salón de los Tapices: a long hall under Gothic vaults, its walls tiled to about two metres with figures and plants, with a glass-panelled gallery looking into the garden.
 @what: Sala de las Bóvedas (Salón Gótico, Sala de Fiestas) of Alfonso X's Gothic palace; Mannerist tile dado of the 16th century to about 2 m, figures and plants, many on a yellow ground; two naval tapestries made for the 1929 Ibero-American Exposition.
 @listen: The hall of celebrations, its tiles, and two tapestries far younger than they look.
 @brief: Warm and inviting, a friend pointing out details on the walls; light at the end as the garden comes into view.
@@ -21,4 +21,4 @@ Two more tapestries hang here, with scenes of the sea. They are much younger tha
 
 [lightly] Through the long glass-panelled gallery, the garden is already in view. That is where you are going next.
 
-Out into the gardens and down into number 38 on the Alcázar map, the Jardín de la Danza. Number 34, the Baños de Doña María de Padilla, opens off it under the palace: a doorway into a long pool under Gothic vaults.
+Out into the gardens on the hall's garden side, and down into number 38 on the Alcázar map, the Jardín de la Danza. Number 34, the Baños de Doña María de Padilla, opens in the palace wall on your right as you come out, at the head of the Danza: a doorway into a long pool under Gothic vaults.

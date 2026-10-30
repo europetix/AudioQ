@@ -3,7 +3,7 @@
 @room: No. 31 · Patio del Crucero
 @type: W
 @title: 31 · Patio del Crucero — Alfonso X's Gothic palace
-@where: In number 31, the Patio del Crucero, the courtyard in front of the Gothic palace. Look for the stone Baroque portico that leads into the Gothic halls.
+@where: In number 31, the Patio del Crucero, the courtyard of four garden beds beside the Gothic palace, reached from the corner of the Patio de la Montería. The Gothic palace runs along its right-hand side as you come in. Look for the stone Baroque portico that leads into the Gothic halls.
 @what: Patio del Crucero, largely of the Islamic period; the Gothic palace built by Alfonso X in the 13th century over the remains of the Almohad palace; its lower level survives as the "Baños de Doña María de Padilla" (no. 34); damaged in the 1755 Lisbon earthquake, repaired (the Salón de los Tapices, no. 32, lost its vaults to late Baroque arches), with a stone Baroque portico added in the later 18th century.
 @listen: How a learned Castilian king built a Gothic palace over an Islamic one, and the three ages you can read in one courtyard.
 @brief: A friend setting the scene in a quieter courtyard after the glitter of Pedro's palace; curious, clear, a light touch at the end.
@@ -21,4 +21,4 @@ But this courtyard is older than his palace. According to the same map, much of 
 
 [lightly] So this one courtyard holds three ages at once. Islamic underneath, Gothic within, and an eighteenth-century face.
 
-Into number 32, the Salón de los Tapices: a great hall hung with huge tapestries of a sea campaign.
+Through the portico on the Gothic palace side of this courtyard, into number 32, the Salón de los Tapices: a great hall hung with huge tapestries of a sea campaign.

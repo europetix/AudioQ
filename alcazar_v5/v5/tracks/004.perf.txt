@@ -3,7 +3,7 @@
 @room: No. 2 · Sala de la Justicia
 @type: R
 @title: 2 · Sala de la Justicia — Alfonso XI's hall
-@where: Inside the Sala de la Justicia, off the Patio del León: a small square hall with plaster-covered walls and a fountain set into the middle of the floor.
+@where: Inside the Sala de la Justicia, off the far left-hand corner of the Patio del León as you face the triple arch: a small square hall with plaster-covered walls and a fountain set into the middle of the floor.
 @what: Sala de la Justicia, a square Mudéjar hall built at the time of Alfonso XI of Castile, 14th century (around the 1340s); plasterwork with plant motifs and heraldic shields; floor fountain.
 @listen: A king's victory, a Christian hall in Islamic dress, and the first step towards Pedro's palace.
 @brief: A friend telling the backstory of a small room; curious at the battle, careful with the doubt, quietly pleased at the fountain.
@@ -21,4 +21,4 @@ Alfonso was a Christian king, and he was Pedro's father. Yet look at what he cho
 
 [warmly] Within a generation, his son Pedro would take this taste and build a whole palace in it. This small room is where that story starts.
 
-Through to number 3 on the Alcázar map, the Patio del Yeso: a lattice of arches over a long pool.
+Through the far side of this hall to number 3 on the Alcázar map, the Patio del Yeso: a lattice of arches over a long pool.

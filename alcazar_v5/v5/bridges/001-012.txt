@@ -1,5 +1,5 @@
-001 H>007: On this shorter tour, go through number 1, the Patio del León, and its triple arch into number 4, the Patio de la Montería, up to number 5, the Fachada del Palacio del Rey Don Pedro, with bands of lettering.
-002 E>004: On this shorter tour, skip that look at the centuries: number 2 on the Alcázar map, the Sala de la Justicia, opens off this courtyard, a small square hall with a fountain in its floor.
-005 E>007: On this shorter tour, don't stop in the Montería: walk on up to number 5 on the Alcázar map, the Fachada del Palacio del Rey Don Pedro, close enough to see the bands of lettering on its front.
-007 H>009: On this shorter tour, go into number 6, the Cuarto del Almirante, and on through to number 7, the Capilla de la Virgen de los Navegantes: the Virgin spreading her cloak over a crowd, with ships at her feet.
+001 H>007: On this shorter tour, go through the triple arch of number 1, the Patio del León, and across number 4, the Patio de la Montería, to number 5, the Fachada del Palacio del Rey Don Pedro, facing you.
+002 E>004: On this shorter tour, skip that look at the centuries: number 2 on the Alcázar map, the Sala de la Justicia, opens off the left-hand corner by the triple arch, a small square hall with a fountain in its floor.
+005 E>007: On this shorter tour, don't stop in the Montería: walk on across it to number 5 on the Alcázar map, the Fachada del Palacio del Rey Don Pedro, close enough to see the bands of lettering on its front.
+007 H>009: On this shorter tour, go into number 6, the Cuarto del Almirante, and through to its far end, number 7, the Capilla de la Virgen de los Navegantes, with the Virgin spreading her cloak over a crowd.
 009 H>011: On this shorter tour, walk on into number 10, the Patio de las Doncellas, to the edge of the long pool in the middle.

@@ -3,7 +3,7 @@
 @room: No. 13 · Salón del Techo de Carlos V
 @type: X
 @title: 13 · Extra · The chapel under the emperor's ceiling
-@where: Inside the Salón del Techo de Carlos V, through its door off the Patio de las Doncellas: a long hall under a dark Renaissance coffered ceiling, with carved busts among the coffers.
+@where: Inside the Salón del Techo de Carlos V, through its door in the long side of the Patio de las Doncellas: a long hall under a dark Renaissance coffered ceiling, with carved busts among the coffers.
 @what: Salón del Techo de Carlos V, in the palace of Pedro I: the king's oratory, designed as a chapel; Renaissance coffered ceiling installed in the early 1540s (1542 Pleguezuelo; 1543 andalucia.com), with busts of human figures; a tiled altarpiece of 1504 by Niculoso Pisano, now lost except for fragments. Next door, no. 14, Sala de los Infantes.
 @listen: A royal chapel inside Pedro's palace, a lost tiled altarpiece, and a ceiling named after an emperor who was not there to see it.
 @brief: A short, amused aside between two great rooms; light, a little wry about the emperor's absence.
@@ -21,4 +21,4 @@ The historian Alfonso Pleguezuelo identifies this room as the place where, after
 
 Next door is number 14 on the Alcázar map, the Sala de los Infantes, rooms said to have been used by the king's daughters.
 
-Back into number 10, the Patio de las Doncellas, and on to number 15, the Salón de los Embajadores: look up for the gilded wooden dome.
+Back into number 10, the Patio de las Doncellas, and on to number 15, the Salón de los Embajadores, at the far end of the courtyard: look up for the gilded wooden dome.

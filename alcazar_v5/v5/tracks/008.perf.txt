@@ -3,7 +3,7 @@
 @room: No. 6 · Cuarto del Almirante
 @type: W
 @title: 6 · Cuarto del Almirante — The Casa de la Contratación
-@where: Inside the Cuarto del Almirante, the range off the Patio de la Montería signed as the Casa de la Contratación: the first rooms of the Admiral's Quarter, before the old audience hall with the painting of the Virgin.
+@where: Inside the Cuarto del Almirante, the range behind a row of columns along the right-hand side of the Patio de la Montería as you face the palace front, signed as the Casa de la Contratación: the first rooms of the Admiral's Quarter, before the old audience hall with the painting of the Virgin.
 @what: Cuarto del Almirante (Cuarto de los Almirantes), seat of the Casa de la Contratación from its founding by Real Provisión of the Catholic Monarchs, Alcalá de Henares, 20 January 1503, until its move to Cádiz in 1717.
 @listen: How the trade and shipping of the Spanish Atlantic were run from these rooms for two centuries, including the slave trade.
 @brief: A thoughtful storyteller in an office of empire; engaged and clear, plain and quiet on the slave trade, a measured payoff.
@@ -23,4 +23,4 @@ What did it do? Almost everything the Atlantic trade needed. It dealt with trade
 
 [warmly] For two centuries, then, a royal palace was also the office of an ocean. And the officials who met here commissioned a painting that still hangs in their old audience hall.
 
-Through to number 7 on the Alcázar map, the Capilla de la Virgen de los Navegantes, the old audience hall: the Virgin spreading her cloak over a crowd, with ships at her feet.
+Through to number 7 on the Alcázar map, the Capilla de la Virgen de los Navegantes, the old audience hall at the far end of this range: the Virgin spreading her cloak over a crowd, with ships at her feet.

@@ -3,7 +3,7 @@
 @room: No. 3 · Patio del Yeso
 @type: W
 @title: 3 · Patio del Yeso — What the Almohads left
-@where: In the Patio del Yeso, reached through the Sala de la Justicia: a small courtyard with a long pool, small garden beds beside it, and a portico of arches carrying a lattice of interlaced plaster arches.
+@where: In the Patio del Yeso, reached only through the Sala de la Justicia: a small courtyard with a long pool, small garden beds beside it, and a portico of arches carrying a lattice of interlaced plaster arches.
 @what: Patio del Yeso, part of an Almohad residence of about 1190 (the Islamic "Palacio del Yeso"); sebka lattice; residence of Pedro I in 1358; rediscovered 1855; restored 1918–20 and 1969–71.
 @listen: The courtyard where Pedro lived before his palace was ready, and the Almohad lattice he lived under.
 @brief: A quiet, close storyteller in a small courtyard; hushed at the start, curious at the lattice, warm at the end.
@@ -23,4 +23,4 @@ The richness here is all in the pattern itself, repeated until the wall seems wo
 
 [warmly] Picture Pedro here, a young Christian king of Castile, living under Almohad arches. Soon his own palace, a few steps away, would speak the same language. The Alcázar's school notes call this courtyard a forerunner of the Mudéjar style. You are standing in the first draft.
 
-Back the way you came, through number 1, the Patio del León, and its triple arch into number 4 on the Alcázar map, the Patio de la Montería: the big open courtyard with a tall decorated palace front.
+Back the way you came, through number 2, the Sala de la Justicia. The triple arch of number 1, the Patio del León, is on your left as you come out. Go through it into number 4 on the Alcázar map, the Patio de la Montería: the big open courtyard, with a tall decorated palace front facing you across it.

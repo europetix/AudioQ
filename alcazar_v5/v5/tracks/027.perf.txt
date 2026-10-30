@@ -3,7 +3,7 @@
 @room: No. 41 · Fuente de la Fama
 @type: X
 @title: 41 · Extra · The water organ
-@where: Beside number 41, the Fuente de la Fama: the fountain that the signs name Fuente de la Fama, the next number on the map after the Grutesco.
+@where: Beside number 41, the Fuente de la Fama: the fountain in a semicircular niche set into the same long wall as the Grutesco, beyond the end of the Mercury pool.
 @what: Fuente de la Fama, a 17th-century organ fountain with a hydraulic chamber, restored in 2006 by Leonardo Lombardi with Rodney Briscoe.
 @listen: The only 17th-century organ fountain preserved in Spain, and the two men who made it work again.
 @brief: A short, curious aside, half a secret; quietly pleased, never promising a performance.
@@ -19,4 +19,4 @@ The Alcázar calls it the only seventeenth-century organ fountain preserved in S
 
 [lightly] The restored organ was made to run on its own, on the air pressure that the water produces. Whether it is playing as you pass is up to the water. If you hear it, you know what it is.
 
-On to number 44, the Pabellón de Carlos Quinto: the small tiled pavilion.
+On to number 44, the Pabellón de Carlos Quinto: the small square tiled pavilion at the far end of these formal gardens.
