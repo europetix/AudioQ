@@ -8,3 +8,4 @@
 - User feedback: the Setas guide felt degraded in research and quality. Raise the bar: deeper research (100+ graded
   facts), lead reads every track and personally verifies anything a writer flags, two independent audits (facts;
   route + listening), tell the user about thin spots before delivery.
+- 30 Oct: the user sent the Guggenheim NEW YORK visitor guide (Sept 2026–Jan 2027) and the NY digital-guide link by mistake; confirmed the guide is for BILBAO. NY files set aside in source/_new_york_not_used/. Still waiting for the Bilbao floor plan.
