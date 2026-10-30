@@ -1,0 +1,22 @@
+@id: 012 · No. 13 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 13 · Salón del Techo de Carlos V
+@type: X
+@title: 13 · Extra · The chapel under the emperor's ceiling
+@where: Inside the Salón del Techo de Carlos V, through its door off the Patio de las Doncellas: a long hall under a dark Renaissance coffered ceiling, with carved busts among the coffers.
+@what: Salón del Techo de Carlos V, in the palace of Pedro I: the king's oratory, designed as a chapel; Renaissance coffered ceiling installed in the early 1540s (1542 Pleguezuelo; 1543 andalucia.com), with busts of human figures; a tiled altarpiece of 1504 by Niculoso Pisano, now lost except for fragments. Next door, no. 14, Sala de los Infantes.
+@listen: A royal chapel inside Pedro's palace, a lost tiled altarpiece, and a ceiling named after an emperor who was not there to see it.
+@brief: A short, amused aside between two great rooms; light, a little wry about the emperor's absence.
+@pace: medium
+@energy: 2→3→2
+@sources: https://core.ac.uk/download/51386392.pdf (OFF, A. Pleguezuelo, "Niculoso Francisco Pisano y el Real Alcázar de Sevilla", Apuntes del Alcázar de Sevilla, year not shown: the king's oratory was "situado en la planta baja del palacio del rey don Pedro", in the room "que ahora denominamos Sala del techo de Carlos V", at its eastern end; "el escenario de la misa de esponsales del emperador Carlos I con Isabel de Portugal"; "al instalarse su espléndido artesonado renacentista en 1542"; Niculoso's retablo for it signed "Pisan me fecit anno de 1504", only a small fraction surviving as possible fragments) ; https://andalucia.com/cities/seville/alcazar/mudejar.htm (SEC, mod. 9 Apr 2026: "Originally designed as a chapel, this has a Renaissance coffered ceiling from 1543 with busts of human figures"; Infantes' suite "occupied by the king's daughters") ; https://sammlung.mak.at/de/collect/fotografie-der-tuer-zum-salon-von-carl-v-im-patio-de-las-doncellas-im-alcazar-in-sevilla_297102 (SEC, placement only, read for PLAN: door from the Patio de las Doncellas) ; Charles not in Seville after 1526: audit (T17) ; Marquer's malik passage NOT used: her "antigua capilla" is not named (see notes)
+---
+[lightly] This room was a royal chapel before it was named after an emperor. And you are still inside King Pedro's palace, not in the Gothic palace, whatever some old guides say.
+
+It was the king's oratory, his private chapel, on the ground floor of the palace. In 1504 the ceramic artist Niculoso Pisano made a tiled altarpiece for it. Only a few scattered tiles that may come from it survive. The historian Alfonso Pleguezuelo also identifies this room as the setting of the Mass for the marriage of Charles the Fifth and Isabel of Portugal.
+
+[amused] Now look up. The ceiling was put in during the early 1540s: a Renaissance coffered ceiling, with busts of human figures looking down from it. That is why the room carries the emperor's name. Yet Charles had left Seville long before, and he never came back to see it.
+
+Next door is number 14 on the Alcázar map, the Sala de los Infantes, rooms once used by the king's daughters.
+
+Back into number 10, the Patio de las Doncellas, and on to number 15, the Salón de los Embajadores: look up for the gilded wooden dome.
