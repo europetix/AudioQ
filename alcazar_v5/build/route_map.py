@@ -450,7 +450,7 @@ def map_page(title, sub, svg, ns, kicker, legend=True, extra=""):
 PAL = [n for n in NUMS if TR[n]["section"] in ("Opening", "The first courtyards", "Casa de la Contratación", "Palace of King Pedro", "Gothic palace")]
 svg, _, _ = plan_svg((1150, 2205, 800, 1640), 178, 124, nums=list(range(1, 20)) + [31, 32, 33, 34, 53], show=PAL, tag_fs=2.3,
     dots_off={("dir", 7): "left", ("dir", 6): "left", 10: (0, -3.2), ("dir", 18): "left", ("dir", 2): "left", 5: (-.5, 1.2), 32: (-2.2, -3.4)},
-    notes=[(START_PT, "START\nPuerta del León", "start", 4, 12), ((1736, 1438), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -42, 17),
+    notes=[(START_PT, "START\nPuerta del León", "start", 4, 12), ((1736, 1438), "19 · stair to the\nCuarto Real Alto · page 4", "cra", -59, 16),
            ((1700, 860), "OUT at the end\nto the Patio de Banderas", "finish", -12, 2)],
     texts=[(1225, 1225, "Plaza del Triunfo", "side", 0)])
 pages.append(map_page("The palaces · 1 to 19 and 31 to 34",
@@ -535,7 +535,7 @@ h2 {{ font: 700 19pt Lora, serif; margin: 2mm 0 1.2mm }}
 .how div {{ background: #fff; border: .3mm solid {LINE}; border-radius: 3mm; padding: 2.2mm 2.8mm; font: 500 7.9pt Inter; line-height: 1.34 }}
 .how b {{ display: inline-flex; width: 5mm; height: 5mm; border-radius: 50%; background: {INK}; color: #fff; font: 700 7.5pt Inter; align-items: center; justify-content: center; margin-right: 1.2mm }}
 .how strong {{ color: {RED} }}
-.ov {{ background: #fff; border: .3mm solid {LINE}; border-radius: 4mm; padding: 1.5mm 1mm; margin-bottom: 3mm }}
+.ov {{ background: #FDFBF7; border: .3mm solid {LINE}; border-radius: 4mm; padding: 1.5mm 1mm; margin-bottom: 3mm }}
 .ov svg {{ display: block; margin: 0 auto }}
 .keys {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 1mm 3mm; padding: 2mm 4mm 0; font: 500 6.9pt Inter; color: {INK} }}
 .keys span {{ display: flex; align-items: center; gap: 1.3mm; white-space: nowrap }} .keys b {{ color: {MUTED}; font-weight: 600 }}
@@ -550,7 +550,7 @@ h2 {{ font: 700 19pt Lora, serif; margin: 2mm 0 1.2mm }}
 .cs2 {{ font: 400 7pt Inter; color: {MUTED}; margin-top: .4mm; line-height: 1.3 }}
 footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7pt Inter; color: {MUTED}; border-top: .3mm solid {LINE}; padding-top: 2mm }}
 .stack .plan {{ margin-bottom: 3mm }} .stack .list {{ columns: 2; column-gap: 7mm }} .stack .row {{ break-inside: avoid }}
-.plan {{ background: #fff; border: .3mm solid {LINE}; border-radius: 4mm; padding: 2mm }}
+.plan {{ background: #FDFBF7; border: .3mm solid {LINE}; border-radius: 4mm; padding: 2mm }}
 .plan svg {{ display: block; margin: 0 auto }}
 .loc {{ display: grid; grid-template-columns: 110mm 1fr; gap: 4mm; margin-top: 4mm; align-items: start }}
 .loct h3 {{ font: 700 12pt Lora; margin: 1mm 0 1.5mm }} .loct p {{ font: 400 8.4pt Inter; line-height: 1.4; margin: 0 0 2mm; color: {INK} }}
