@@ -11,7 +11,7 @@ Usage: python3 v5/i18n/assemble.py <workdir> [lang ...]      Check only: python3
 import json, os, re, sys, glob
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.join(ROOT, "v5", "pipeline")); import v5_direction as V
-EN = os.path.join(ROOT, "v5", "tracks"); OUT = os.path.join(ROOT, "v5", "i18n"); N_TRACKS = 28
+EN = os.path.join(ROOT, "v5", "tracks"); OUT = os.path.join(ROOT, "v5", "i18n"); N_TRACKS = 18
 dt = lambda b: [t for t in re.findall(r"\[([^\]]+)\]", b) if "pause" not in t]
 pz = lambda b: len(re.findall(r"\[(?:long )?pause\]", b))
 
