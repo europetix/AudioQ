@@ -1,0 +1,24 @@
+@id: 005 · Giralda · bell level · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · bell level
+@type: X
+@title: Giralda · Extra · Twenty-four bells
+@where: Still on the bell level of the Giralda, in the Renaissance bell chamber at the top of the ramps [O5]. Stand back from the openings and out of the way of the ramps.
+@what: The Giralda's 24 bells; the largest, Santa María la Mayor, "la Gorda", cast 1588 by Juan de Balabarca, about 5,362 kg; seven bells cast by Bartolomé Morel; DATED: Phase VI rebuilding six bell frames with damping and replacing the bell's 2021 emergency shoring.
+@listen: The biggest bell in the tower, her nickname, and the works that are giving her a new support.
+@brief: A short, affectionate aside about a heavy old bell; amused at the nickname, plain on the works, quiet at the end.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "its 24 bells") ; https://www.campaners.com/php/campanapdf.php?numer=363 (SEC: "Santa María, la Mayor, la Gorda", Juan de Balabarca, 1588, about 5,362 kg, in the bell chamber of the cathedral) ; https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta: Morel's name appears in "la fundición de siete campanas de la Giralda") ; https://www.catedraldesevilla.es/en/phase-vi-of-the-giralda-intervention-begins/ (OFF: six bells need work on their support structures, new frames with damping systems; the 2021 emergency shoring of the Santa María la Mayor bell to be replaced by a permanent structure) ; no bell is pointed out until O5
+---
+[amused] The biggest bell in this tower has a nickname. She's called la Gorda, the Fat One.
+
+Her proper name is Santa María la Mayor. Juan de Balabarca cast her in 1588, and she weighs over five tonnes. She is the largest of the twenty-four bells that the cathedral counts in the Giralda.
+
+Some of her companions came from a famous workshop. Bartolomé Morel, the founder who cast the bronze figure that turns on top of this tower, also cast seven of the Giralda's bells.
+
+Bells this heavy shake whatever holds them. Since 2021 la Gorda has hung on emergency shoring. The current works are rebuilding the frames of six bells, with dampers to soften the vibration, and are giving her a permanent support.
+
+[quietly] Think of the timing. She was cast for a tower that had already stood over Seville for almost four hundred years.
+
+Now head back down the ramps of the Giralda, keeping to the right. The next stop plays on the way down.
