@@ -196,7 +196,7 @@ These sources were blocked or could not be fetched: ABC Sevilla, Diario de Sevil
 | Claim | Status | Source / grade | Safe wording |
 |---|---|---|---|
 | Finalist, Mies van der Rohe Award (EU Prize for Contemporary Architecture) 2013 | OK | JMH OFF, S-HIST OFF | as stated |
-| Red Dot "Best of the Best" 2012 | OK | JMH OFF, S-HIST OFF | as stated |
+| Red Dot "Best of the Best" 2012 | OK | JMH OFF, red-dot.org OFF (corrected 30 Oct 2026, see note below; not S-HIST) | as stated |
 | Finalist, European Prize for Urban Public Space 2012 | OK | PUBSP | as stated |
 | Civic Trust Award 2014, Urban Intervention Award Berlin 2013, Holcim awards (2006 finalist; "2015") | HEDGE | JMH OFF only | Optional, attributed to the architects. |
 | Strong local opposition from 2004 to the 2011 opening, over cost and how it looks in the historic centre. Citizens protested at the opening | OK | DEZ26 SEC, PUBLICO SEC, PUBSP SEC | "For years it was the most argued-about building in Seville." |
@@ -207,6 +207,8 @@ These sources were blocked or could not be fetched: ABC Sevilla, Diario de Sevil
 | "Third most visited monument in Seville" | HEDGE/DATED (2021, operator) | SACYR OFF, DAV | "The operator ranks it among the city's most visited sights." |
 | The raised plaza was a base for Seville's 15-M ("Indignados") protests in 2011, weeks after opening | OK | ZARCH SEC (academic). PUBSP (camp) | "Within weeks of opening, the new plaza became the meeting place for Seville's 2011 *indignados* protests." |
 | Free for residents / a privatised public space (political criticism) | HEDGE | THE OBJECTIVE 2024 | Avoid. Politically charged. |
+
+**Correction, 30 Oct 2026 (independent audit V5 001–018):** this row first cited S-HIST for Red Dot "Best of the Best". S-HIST does not say that: it says "bronze in the 'Sustainable Construction' category at the Reddot Award 2012". The "Best of the Best" award (Product Design 2012, "Urban design and public spaces") is confirmed by red-dot.org: https://www.red-dot.org/project/metropol-parasol-29871 (OFF). The status and the script wording (013) are unchanged; only the citation was wrong.
 
 ---
 

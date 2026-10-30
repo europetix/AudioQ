@@ -82,6 +82,11 @@ THE ANTIQUARIUM (Full only)
         - Screens or VR reconstructions?
         - Where is the exit, and how far is it from the lifts?
         - If fewer than three house labels are usable, 005 is folded into 004 (tell the lead).
+        - 005 BEFORE RELEASE (lead decision, 30 Oct 2026): 005 is now a walk-along track with no fixed
+          spot. Check every name it gives against the label photos: Casa de Baco, Casa de la Ninfa,
+          the Patio del Oceano and its mural, the Hospitium de los Delfines. If those labels aren't
+          there, fold 005 into 004 and tell the lead. Also check that 005's last cue (play 006 at the
+          casa almohade label, or straight away if already passed) suits the real order (ALT-A).
 
 GOING UP
 [ ] O5  CRITICAL Tracks 7-8 (ALT-B, ALT-D): the lifts.
@@ -105,6 +110,9 @@ WALKWAYS AND MIRADOR
           both? Photograph it.
         - Other landmarks to the south you can name for sure: El Salvador? the Alcazar? Plaza de
           Espana? (List only.)
+        - From the Mirador, is the BODY of the cathedral clearly visible, not just the Giralda? If
+          not, 012 says "with the cathedral beside it" instead of "with the great bulk of the
+          cathedral beside it".
 [ ] O8  CRITICAL Tracks 10, 12 (ALT-F): the west view.
         - Can you see the RIVER ITSELF, or only its direction?
         - Is the Aljarafe (the high ground) on the horizon?
@@ -204,8 +212,8 @@ LISTENING CHECKS (after rendering)
 [ ] People and terms:
     Jurgen Mayer H., Arup, Melchor Cano, Joseph Bonaparte, Fernando Amores, Alfredo Sanchez
     Monteseirin, Rowan Moore, Mika Kallio, Dirk Kruse, Fraunhofer, Finnforest, Bavaria, Skandal
-    Technologien, Jose de la Pena, Sacyr, Abu Ya'qub Yusuf, Almohad, Tiberius, Hispalis, Baetica,
-    garum, Medusa, Bacchus, hospitium, Mies van der Rohe, Red Dot.
+    Technologien, Jose de la Pena, Sacyr, King Fernando the Third, Abu Ya'qub Yusuf, Almohad,
+    Tiberius, Hispalis, Baetica, garum, Medusa, Bacchus, hospitium, Mies van der Rohe, Red Dot.
 [ ] Years read correctly: 1184, 1248, 1401, 1591, 1810, 1820, 1830s, 1940s, 1973, 1987, 1990s,
     2004, 2007, 2010, 2011, 2012, 2013, 2021, 2026.
 [ ] Walking tracks:
@@ -213,6 +221,7 @@ LISTENING CHECKS (after rendering)
     - 008 has no visual reference before "as you step out".
     - 011 and 013 refer only to the timber.
     - 016 refers only to what O12 photographed.
+    - 005 never says "here", "in front of you" or where a house is.
 [ ] Shorter versions:
     - every bridge names the right place;
     - 001 and 018 are in all three lengths;

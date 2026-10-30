@@ -556,3 +556,11 @@ Playing orders:
 | Fish-salting tanks on show (SEC 2026) | Held X; restore only after O4 | held |
 | 1720 fountain | Held X; restore only after O14 | held |
 | A new official plan, signage or a one-way circuit | Re-check every cue and the MAP items | all |
+
+## Lead's decisions after the audit (30 Oct 2026) — these override the rows above
+- 005 is a position-free walk-along track (names to look for on the labels); check against the O4 label photos before
+  release, and fold into 004 if the labels aren't there.
+- 001 says "the track numbers on your phone may jump": that is about track numbers, not place numbers, so it stands.
+- The Antiquarium 8.5 million figure is cut from 013; Rowan Moore is quoted without naming the paper (Observer unconfirmed).
+- 001 keeps the planned durations until the O17 stopwatch walk.
+- See v5/notes/AUDIT_FIXES_001-018.md for every change.
