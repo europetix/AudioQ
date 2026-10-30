@@ -260,7 +260,7 @@ def section_svg():
     s.text(124, 82.4, "Mercado de la Encarnación\nthe market, at street level", "plm", "middle", 2.6)
     s.text(97, 64.2, "Plaza Mayor · the raised square", "plb", "middle", 3.0)
     s.text(152.5, 39.4, "Feeling Sevilla room", "plm", "middle", 2.4)
-    s.text(152.5, 42.6, "about 21 m up · where?", "pls", "middle", 2.2)
+    s.text(152.5, 42.6, "about 21 m up", "pls", "middle", 2.2)
     s.text(118, 5.2, "Mirador 360º · the highest point", "plb", "middle", 2.9)
     s.text(35, 104.6, "taquilla", "pl", "middle", 2.4)
     s.text(126, 101.6, "Antiquarium · Roman and Moorish remains", "plb", "middle", 2.7, fill=at)
@@ -268,14 +268,13 @@ def section_svg():
     s.text(55.5, 125, "two lifts, in the concrete trunks", "pls", "middle", 2.1)
     # level tags (left)
     for y, t, sub in ((18, "TOP", "walkways and Mirador,\nclose to 30 m"), (40, "INSIDE", "experiences level,\nabout 21 m"),
-                      (DECK + 2.5, "PLAZA MAYOR", "on the market's roof"), (STREET - 2.4, "STREET", "Plaza de la\nEncarnación"),
+                      (DECK + 2.5, "PLAZA MAYOR", "on the market's roof"), (STREET - 7.6, "STREET", "Plaza de la\nEncarnación"),
                       (100, "LEVEL −1", "under the street")):
         s.text(2.6, y, t, "lvt", "start", 2.3); s.text(2.6, y + 2.9, sub, "pls", "start", 2.05)
     # the route
     s.route([(22, STREET - 1), (25, 98), (29, 108)], "unc", mid=False)                     # ramp beside the escalators [O1]
     s.route([(41, 110.5), (72, 110.5), (79, 110.5)], "unc", mid=False)                     # into the Antiquarium [O3, O4]
-    s.route([(92, 110.5), (166, 110.5)], "unc", mid=False, end=False)                      # its walkway [O4]
-    s.route([(170, 110.5), (174, 110.5), (174, 117.4), (66, 117.4)], "unc", mid=True)      # out, to the lifts [O4]
+    s.route([(92, 110.5), (174, 110.5), (174, 117.4), (66, 117.4)], "unc", mid=True, minlen=40)  # its walkway, out, to the lifts [O4]
     s.route([(60.3, 116), (60.3, 33)], "main", minlen=20)                                 # the lift, up to the top
     s.route([(64, 27), (78, 17), (98, 15.5)], "unc", mid=True, end=True)                   # the walkway [O6]
     s.route([(130, 14.5), (140, 17), (150, 17.5), (168, 22)], "unc", mid=False, end=False)
@@ -484,8 +483,7 @@ def down_svg():
     # the route: walkway -> (film room) -> the way down -> the Plaza Mayor -> the street
     s.route([(6, 26), (30, 18), (70, 9.5), (104, 7.5), (134, 10), (144, 15)], "unc", mid=True, minlen=24)
     s.route([(162, 17), (170, 24), (170, 36), (159.5, 39)], "unc", mid=False)
-    s.route([(160, dk - 3), (153.5, dk - 3)], "unc", mid=False)
-    s.route([(141, dk - 3), (60, dk - 3), (10, dk - 3), (6, dk + 6), (6, st_ - 1)], "unc", mid=True, minlen=30)
+    s.route([(160, dk - 2.4), (60, dk - 2.4), (10, dk - 2.4), (6, dk + 6), (6, st_ - 1)], "unc", mid=True, minlen=30)
     # labels
     s.text(68, dk - 9.4, "Plaza Mayor · the raised square", "plb", "middle", 3.3)
     s.text(68, dk - 5.6, "on the market's roof · the visit ends here", "pls", "middle", 2.4)
@@ -495,7 +493,7 @@ def down_svg():
     s.dots(149, 15, ds("Walkway · toward") + ds("Walkway (anywhere)"), "r", rad=2.7)
     s.dots(156, 39, ds("Feeling Sevilla"), rad=2.7)
     s.dots(173, 62, ds("The way down"), rad=2.7)
-    s.dots(150.5, dk - 3, sec_ns("Plaza Mayor"), "l", rad=2.7)
+    s.dots(136, dk - 8.2, sec_ns("Plaza Mayor"), "r", rad=2.7)
     s.note(6, st_ - 2, "OUT · stairs or escalators to the street", "finish", 40, 121, 2.6)
     return s.done()
 
