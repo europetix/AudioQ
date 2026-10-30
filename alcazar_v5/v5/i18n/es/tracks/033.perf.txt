@@ -1,0 +1,26 @@
+@id: 033 · ES · No. 53 · 30 Oct 2026 edition
+@section: Closing
+@room: No. 53 · Apeadero
+@type: CLOSE
+@title: 53 · Apeadero — La salida
+@where: Dentro del número 53, el Apeadero, o justo después: la sala de columnas al final de la visita que sale al Patio de Banderas.
+@what: Apeadero, by Vermondo Resta, 1607; from the 17th century the Alcázar's main access, today the visitors' exit. Patio de Banderas: within the oldest walled enclosure; Roman building of 60–30 BC found about 5 m down in the 2009–2013 excavations.
+@listen: Leaving through the Alcázar's old front door, over the oldest ground of all, with a last look back at the layers.
+@brief: A friend at the door at the end of a long walk; warm, reflective, quietly proud of the place, unhurried.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: https://alcazarsevilla.org/wp-content/uploads/2015/apuntes-16-2015/files/assets/basic-html/page274.html (OFF, Apuntes del Alcázar 16, 2015: the Apeadero by Vermondo Resta, 1607; three large spaces separated by engaged columns carrying semicircular arches; organised like a church rather than a civil building) ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF, Tabales, AAA 2016: in the 17th century the main access moved "al Apeadero, actual punto de salida de los visitantes"; Recinto I wall "levantada durante el siglo XI, sin que pueda descartarse una datación almorávide") ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: "Al periodo islámico pertenecen las murallas que rodean el Patio de Banderas"; SALIDA beside PATIO DE BANDERAS) ; https://divisare.com/projects/306060-francisco-reina-fernando-alda-protection-of-the-archaeological-excavation-in-the-patio-de-banderas (SEC: 2009–2013 campaigns; late-Republican Roman building, 60–30 BC, about 5 m below the square) ; https://alcazarsevilla.org/prepara-la-visita/ (OFF: the Puerta del Apeadero opens on the Patio de Banderas) ; Pedro's remains in Seville Cathedral: Diputación de Badajoz via audit (OFF) ; Contratación papers in the Archivo de Indias: Real Provisión 1503, AGI Patronato 251, via UAH (OFF) ; "apeadero" from "apearse": dictionary sense
+@lang: es
+@translation: from the fact-checked English Real Alcázar 033 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Sale usted del Alcázar por su antigua puerta principal. Durante mucho tiempo, esta sala fue la entrada.
+
+La construyó en 1607 Vermondo Resta, el arquitecto que disfrazó el muro pintado del Grutesco junto al estanque de Mercurio. Un apeadero es un lugar para bajar del caballo o del carruaje. [pause] Desde el siglo diecisiete fue la entrada principal del palacio. Fíjese en su planta: tres grandes espacios, divididos por columnas que sostienen arcos de medio punto. Un estudio señala que está planteada menos como un edificio civil que como una iglesia. Hoy hace lo contrario: es la salida de los visitantes.
+
+[pause] Más allá está el Patio de Banderas, en el recinto amurallado más antiguo del Alcázar. Las murallas que rodean esa plaza son del periodo islámico. Su muralla es la más antigua hallada aquí por los arqueólogos, probablemente del siglo once, quizá almorávide. [pause] Y más abajo, a unos cinco metros, se excavó un edificio romano del siglo primero antes de Cristo.
+
+[reverent] Recuerde el paseo. Un patio almohade de celosía de yeso. El palacio gótico de Alfonso Décimo y su jardín hundido. El palacio del rey don Pedro, donde una inscripción árabe llama sultán a un rey cristiano. Una pintura de los navegantes, en la casa que autorizaba el comercio atlántico, incluida la trata de esclavos. La boda de un emperador bajo una cúpula dorada. Jardines renacentistas, y otros más nuevos más allá. [pause] Cada época conservó lo que encontró y añadió lo suyo.
+
+La historia sigue fuera. En la Catedral reposan los restos del rey don Pedro, que tardó siglos en volver a Sevilla. Y al otro lado de la plaza, el Archivo de Indias guarda los papeles de la Casa de la Contratación.
+
+[quietly] Gracias por recorrer con nosotros estos once siglos. Disfrute de Sevilla.

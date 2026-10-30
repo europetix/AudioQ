@@ -1,0 +1,26 @@
+@id: 001 · ES · Outside · 30 Oct 2026 edition
+@section: Opening
+@room: Outside · Puerta del León
+@type: ANCHOR
+@title: Bienvenidos al Real Alcázar
+@where: Ante la Puerta del León, en la plaza del Triunfo, la entrada principal de visitantes: una muralla almenada con una puerta en arco y un panel de azulejos con un león sobre el arco. Apártese de la fila de entrada.
+@what: Real Alcázar de Sevilla, Puerta del León (Lion Gate), 14th-century gateway of Pedro I's time with a later tile lion; overview of the site and of how this guide works.
+@listen: What the Alcázar is, eleven centuries in one breath, and how the numbers, the three lengths and the Extras of this guide work.
+@brief: A warm, composed host at the gate, welcoming a friend; unhurried and clear on the practical part, a smile at the lion.
+@pace: medium
+@energy: 2→3→2
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF: "La entrada principal es conocida como la Puerta del León… Debe su nombre al azulejo con la representación de un león, situado sobre el arco de acceso") ; https://alcazarsevilla.org/historia/ (OFF: "ordenó, en el 913, el levantamiento de un nuevo recinto de gobierno"; "hace once siglos"; Gothic palace of Alfonso X; Mudéjar palace of Pedro I "a mitad del siglo XIV") ; https://www.alcazarsevilla.org/ (OFF: banner "El Palacio Real en uso más antiguo de Europa"; tagline "Residencia Real") ; https://www.eldiario.es/viajes/alcazar-espacio-reservado-realeza-palacio-antiguo-europa-pm_1_12280672.amp.html (SEC, 8 May 2025: Cuarto Alto = official residence of the head of state in Andalucía, used when the King is in the city) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: legend 1–53; Palacio del Yeso Islamic; English garden "inicios del siglo XX") ; https://whc.unesco.org/en/list/383/ (OFF UNESCO: property name "Cathedral, Alcázar and Archivo de Indias in Seville"; year not shown, so not spoken) ; al-qasr etymology: standard (audit OK) ; Abd al-Rahman III emir in 913, caliph from 929: audit SNIP
+@lang: es
+@translation: from the fact-checked English Real Alcázar 001 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Sobre esta puerta vigila un león de azulejos. De él toma su nombre la entrada, la Puerta del León. Detrás, un palacio que es sede del poder desde hace once siglos.
+
+La palabra alcázar viene del árabe al-qasr, el palacio o la fortaleza. En 913, Abderramán Tercero, entonces emir de Córdoba, ordenó levantar aquí una nueva sede de gobierno. Gobernante tras gobernante construyó aquí, y gran parte de su obra se conserva lado a lado. [pause] Verá parte de un patio almohade, un palacio gótico del siglo trece y el palacio mudéjar del rey don Pedro, del siglo catorce. Luego vienen jardines renacentistas y otros trazados a principios del siglo veinte.
+
+[pause] Sigue siendo un palacio real. El Alcázar se presenta como el palacio real en uso más antiguo de Europa. Su planta alta es la residencia oficial de la Familia Real en Sevilla. Junto con la Catedral y el Archivo de Indias, es Patrimonio Mundial.
+
+Ahora, cómo funciona esta guía. Casi todas las paradas tienen un número. Son los del mapa del propio Alcázar, del 1 al 53. El plano de ruta de esta guía usa los mismos. [pause] Los carteles usan los nombres en español, y siempre oirá el número junto a su nombre.
+
+Hay tres duraciones. El recorrido completo dura unas dos horas, la versión esencial, cerca de una hora y cuarto, y la de imprescindibles, unos cuarenta y cinco minutos, todas caminando. [pause] Sea cual sea la versión de su teléfono, escúchela en orden. Los números pueden saltar, y cada parada le indica adónde ir después. Algunas paradas tienen un breve Extra, y siempre lo anunciaremos antes. El Cuarto Real Alto, las estancias reales de la planta alta, es una visita aparte con horario. Tiene dos breves pistas opcionales al final de esta guía.
+
+Cruce la puerta y entre en el número 1 del mapa del Alcázar, el Patio del León: el patio que hay nada más entrar, con un triple arco al fondo.

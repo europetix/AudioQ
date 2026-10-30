@@ -1,0 +1,30 @@
+@id: 014 · ES · No. 15 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 15 · Salón de los Embajadores
+@type: W
+@title: 15 · Salón de los Embajadores — La noche en que se casó el emperador
+@where: Todavía en el número 15, el Salón de los Embajadores, bajo la cúpula dorada. Quédese donde estaba en la parada anterior.
+@what: The marriage of Charles V (Charles I of Spain) and Isabel of Portugal, Seville, night of 10–11 March 1526: betrothal by words of present consent by Cardinal Salviati in the "media naranja"; nuptial Mass after midnight by the Archbishop of Toledo at an altar set up in a chamber of the palace (Sandoval; Pleguezuelo places it in no. 13); godparents the Duke of Calabria and the Countess of Haro.
+@listen: How an emperor married a cousin he had never met on the night he reached Seville, and how the marriage ended.
+@brief: Telling a true love story to a friend in the very room; warm, a little conspiratorial in the middle, quiet at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://dialnet.unirioja.es/descarga/articulo/7042473.pdf (SEC, García Parody & Caballero, Revista de Estudios Taurinos 42, 2018: Isabel entered Seville 3 March; Charles left Toledo 20 Feb, via Alcalá del Río, entered Seville Saturday 10 March; received by Cardinal Salviati, papal legate; Sandoval: espoused "por palabras de presente" in "la cuadra grande, que llaman media naranja"; after midnight the Archbishop of Toledo "dijo allí la misa y los veló"; godparents Duke of Calabria and Countess of Haro; "soberbios arcos triunfales en los que se ensalzaban las virtudes que deberían adornar a los príncipes"; proxy ceremony repeated 20 January "por insuficiencia de la primera dispensa pontificia"; news of the death of Isabel, queen of Denmark, interrupted the festivities; about two months in Seville, departure date disputed; then Córdoba and Granada. Its "23 años" is contradicted by the birth date below; its dowry is "900.000 doblas", not used) ; https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-of-portugal/0ea9d2ad-559c-10cd-eec5-15caabf98435 (OFF, Patrimonio Nacional: born Lisbon 24 Oct 1503, so 22 in March 1526; daughter of Manuel I and Maria of Aragón; marriage arranged 1525, celebrated in Seville 11 March 1526; died Toledo 1 May 1539 from complications of her last childbirth; Charles "refused to remarry"; Charles I 1500–1558) ; 500th anniversary: research notice OFF 2 Mar 2026 (V Centenario programme), DATED ; AUDIT FIX 30 Oct, re-read GPC https://dialnet.unirioja.es/descarga/articulo/7042473.pdf (arrival "sábado 10 de marzo", no time of day; "fué aderezado un altar en una cámara del alcázar" after midnight; proxy esponsales 1 Nov 1525, repeated 20 Jan 1526)
+@lang: es
+@translation: from the fact-checked English Real Alcázar 014 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Carlos Quinto entró a caballo en Sevilla el 10 de marzo de 1526. Esa misma noche, en esta sala, se casó en persona con una mujer que nunca había visto.
+
+Era Isabel de Portugal, hija del rey Manuel y de María de Aragón. Era también su prima hermana. Ella tenía veintidós años, él veintiséis. [pause] Por ser parientes tan cercanos, la Iglesia tuvo que conceder dispensa.
+
+Isabel llegó una semana antes, el 3 de marzo. La ciudad la recibió con arcos triunfales que ensalzaban las virtudes propias de un príncipe. Carlos bajó desde Toledo.
+
+[conspiratorial] Llegó ese día, y nadie esperó. Esa noche, el legado papal, el cardenal Salviati, los desposó por palabras de presente. El cronista Sandoval lo sitúa en «la cuadra grande, que llaman media naranja». [pause] Esta sala. Pasada la medianoche, ya 11 de marzo, se preparó un altar en una cámara del palacio. Allí el arzobispo de Toledo dijo misa y dio a los novios la bendición nupcial. [pause] Un historiador del Alcázar sitúa esa misa en el antiguo oratorio del rey, el número 13, el Salón del Techo de Carlos Quinto. Sus padrinos fueron el duque de Calabria y la condesa de Haro.
+
+Las fiestas duraron poco. Llegó la noticia de la muerte de la hermana de Carlos, Isabel, reina de Dinamarca, y los festejos se interrumpieron. La pareja siguió un tiempo en Sevilla y luego viajó a Granada.
+
+[quietly] Mire arriba. Aquella noche, la cúpula tenía ya casi un siglo. El matrimonio se concertó por razones de Estado, y duró trece años. [pause] Isabel murió en 1539, tras su último parto. Carlos se negó a casarse de nuevo.
+
+En 2026, Sevilla celebró el quinto centenario de esta boda.
+
+El número 16 del mapa del Alcázar, el Salón del Techo de Felipe Segundo, tiene un breve Extra sobre el Arco de los Pavones y dos techos de madera. La siguiente parada principal es el número 18 del mapa del Alcázar, el Patio de las Muñecas, el patio más pequeño de su visita.

@@ -1,0 +1,28 @@
+@id: 013 · ES · No. 15 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 15 · Salón de los Embajadores
+@type: W
+@title: 15 · Salón de los Embajadores — La cúpula de 1427
+@where: Dentro del número 15, el Salón de los Embajadores: una sala cuadrada bajo una cúpula dorada de madera, con muros de azulejos y yeserías, balcones de hierro forjado en lo alto y, bajo la cúpula, un friso pintado de retratos reales. Colóquese cerca del centro, sin estorbar las puertas.
+@what: Salón de los Embajadores (Salón de la Media Naranja), main hall and throne room of Pedro I's palace, finished 1366 (Arabic door inscription, era 1404 / year 767); gilded wooden dome by Diego Ruiz, 1427, said to replace an earlier dome; wrought-iron balconies under Felipe II, late 16th century; frieze of portraits of the monarchs by Diego de Esquivel, 1599.
+@listen: Why the gold overhead is sixty years younger than the hall, and how the doors date the room in two calendars.
+@brief: A friend looking up beside you, curious and unhurried, with a wry smile at the two calendars and a hush at the end before the next story.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://artsandculture.google.com/asset/hall-of-ambassadors-dome/QAH411pnwu8KDg (OFF, Ayuntamiento de Sevilla: main hall, throne room of Pedro I, "where he received important personalities of his time"; square like the Muslim qubba, square = earth, dome = universe; muqarnas forming a star join square and circle; wrought-iron balconies under Philip II, end of the 16th century; frieze portraits of the Spanish monarchs by Diego de Esquivel, 1599) ; https://www.architecture.com/image-library/RIBApix/image-information/poster/alcazar-seville-the-ceiling-of-the-salon-de-embajadores-hall-of-the-ambassadors/posterid/RIBA108125.html (SEC, RIBA: ceiling and dome designed by Diego Ruiz in 1427, replacing an earlier mid-14th-century dome) ; https://revistas.ucm.es/index.php/ANHA/article/download/42850/40706/62639 (OFF, Marquer 2013: inscription "en las puertas del Salón de la Media Naranja" gives the date "en los dos calendarios", era 1404 and year 767; "se terminó la construcción de esta fortaleza con la gracia de Dios") ; audit T11 (Diego Ruiz 1427 on the Ayuntamiento GA&C page, OFF; not re-found this session)
+@lang: es
+@translation: from the fact-checked English Real Alcázar 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] El oro sobre su cabeza no es del rey don Pedro. Se colocó unos sesenta años después de terminarse esta sala.
+
+Era el corazón del palacio de Pedro, su sala principal y salón del trono. Aquí recibía a los personajes importantes de su tiempo. La descripción de la propia ciudad lee la sala como una qubba musulmana. [pause] El suelo cuadrado representa la tierra. La cúpula, el universo. Y una franja de mocárabes tallados, plegados en estrella, une el cuadrado con el círculo.
+
+[pause] A la cúpula se la llama media naranja, y la sala se conoció mucho tiempo como Sala de la Media Naranja. La hizo en 1427 un maestro llamado Diego Ruiz. Se dice que sustituyó a una cúpula anterior, del tiempo de Pedro. Está, pues, en una sala del siglo catorce bajo un cielo del quince.
+
+¿Cómo sabemos cuándo se terminó la sala? Ella misma lo dice. Una inscripción árabe en sus puertas recuerda que la obra de esta fortaleza se completó por la gracia de Dios. Y da el año dos veces. Una, en la antigua era hispánica: el año 1404. Otra, en el cómputo musulmán: el año 767. En nuestro calendario, 1366. [wry] Un rey cristiano que fecha su salón del trono en árabe, en dos calendarios a la vez.
+
+Reyes posteriores añadieron sus propias capas. Los balcones de hierro forjado de lo alto se hicieron con Felipe Segundo, a finales del siglo dieciséis. [pause] Por las mismas fechas, el pintor Diego de Esquivel llenó el friso bajo la cúpula con retratos de los monarcas de España.
+
+[quietly] Una noche en esta sala importó más que todas las demás.
+
+Quédese en el número 15, el Salón de los Embajadores. Imagínelo una noche de marzo, casi un siglo después de que Diego Ruiz terminara la cúpula.

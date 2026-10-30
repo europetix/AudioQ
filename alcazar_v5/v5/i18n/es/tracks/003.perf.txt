@@ -1,0 +1,28 @@
+@id: 003 · ES · No. 1 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 1 · Patio del León
+@type: R
+@title: 1 · Patio del León — Once siglos en un mismo lugar
+@where: Todavía en el Patio del León, el primer patio tras la Puerta del León, con el triple arco que da paso al siguiente.
+@what: A timeline of the Alcázar: 913 (Abd al-Rahman III), the Abbadid palace al-Mubarak, the Almohad residence, 1248, Alfonso X's Gothic palace, Pedro I's palace, the Casa de la Contratación, the 1526 wedding, the 19th-century Bourbon rooms, the 1931 cession to the city, the royal residence today.
+@listen: Eleven centuries in two minutes, so you can tell whose wall is whose as you walk.
+@brief: A light, brisk storyteller sketching the big picture before going in; brisk and clear, a wry smile at the end.
+@pace: medium-fast
+@energy: 3→3→3
+@sources: https://alcazarsevilla.org/historia/ (OFF: 913 order for a new seat of government; "Palacio de al-Mubarak, el Bendito"; Almohads in the 12th century; "La conquista castellana del territorio en 1248-49"; Alfonso X's Gothic palace; Pedro I's Mudéjar palace mid-14th century) ; https://www.archnet.org/sites/20835 (OFF: Almohad residence, attested from 1190) ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF: Recinto I wall 11th century, "sin que pueda descartarse una datación almorávide") ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: Pedro I's change "a partir de 1356") ; https://cisneros.web.uah.es/carpeta/images/pdfs/093_real.pdf (OFF: Casa de la Contratación founded by the Catholic Monarchs, housed in the Alcázar) ; https://andalucia.org/en/sevilla-visitas-real-alcazar-de-sevilla (OFF: 19th-century Bourbon top-floor rooms) ; https://publicaciones.ucuenca.edu.ec/ojs/index.php/estoa/article/download/2051/1582/6771 (SEC, Bañasco & Barrero, Estoa 2019: ceded "mediante Decreto de 22 de abril de 1931") ; https://www.eldiario.es/viajes/alcazar-espacio-reservado-realeza-palacio-antiguo-europa-pm_1_12280672.amp.html (SEC: run by the Ayuntamiento "a través de un patronato propio"; Cuarto Alto official residence of the head of state) ; Abd al-Rahman III caliph from 929, Fernando III, siege of more than a year, Alfonso X his son, 1526 wedding: audit SNIP / see 014
+@lang: es
+@translation: from the fact-checked English Real Alcázar 003 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Once siglos es mucho peso para un palacio. Aquí va la versión corta.
+
+Todo empieza en 913. Abderramán Tercero, entonces emir de Córdoba y después su primer califa, ordenó aquí una nueva sede de gobierno. [pause] En el siglo once, los reyes abadíes de Sevilla tuvieron aquí un palacio llamado al-Mubarak, el Bendito. El muro más antiguo hallado aquí por los arqueólogos es de ese siglo, quizá almorávide.
+
+A finales del siglo doce, los almohades construyeron aquí una residencia. Parte se conserva a pocos pasos.
+
+En 1248, tras un asedio de más de un año, Fernando Tercero de Castilla tomó Sevilla. Su hijo, Alfonso Décimo, llamado el Sabio, construyó un palacio gótico. A mediados del siglo catorce, el rey Pedro Primero comenzó el palacio central de esta visita. [pause] Los Reyes Católicos instalaron aquí su Casa de la Contratación de Indias. Carlos Quinto se casó aquí. Y en el siglo diecinueve, los monarcas Borbones añadieron y renovaron las estancias de arriba.
+
+[pause] En 1931, la nueva República cedió el Alcázar a la ciudad de Sevilla, que aún lo gestiona mediante su propio organismo, el Patronato. Aun así, la planta alta sigue siendo la residencia oficial del Rey cuando está en Sevilla.
+
+[wry] Mientras camina, pregunte a cada muro: ¿de quién eres? La respuesta suele tener más de un nombre.
+
+El número 2 del mapa del Alcázar, la Sala de la Justicia, se abre en la esquina del fondo a la izquierda de este patio, mirando hacia el triple arco: una pequeña sala cuadrada con una fuente en el suelo.

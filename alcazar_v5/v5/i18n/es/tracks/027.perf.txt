@@ -1,0 +1,24 @@
+@id: 027 · ES · No. 41 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 41 · Fuente de la Fama
+@type: X
+@title: 41 · Extra · El órgano de agua
+@where: Junto al número 41, la Fuente de la Fama: la fuente en un nicho semicircular del mismo muro largo del Grutesco, pasado el final del estanque de Mercurio.
+@what: Fuente de la Fama, a 17th-century organ fountain with a hydraulic chamber, restored in 2006 by Leonardo Lombardi with Rodney Briscoe.
+@listen: The only 17th-century organ fountain preserved in Spain, and the two men who made it work again.
+@brief: A short, curious aside, half a secret; quietly pleased, never promising a performance.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.alcazarsevilla.org/?p=11076 (OFF: "la única fuente órgano del siglo XVII que se conserva en España"; "una de las cuatro que se conservan en el mundo"; original hydraulic mechanisms produced sound from transmitted air; 2006: Italian archaeology professor Leonardo Lombardi restored the hydraulic chamber; British craftsman Rodney Briscoe took part, "el único artesano capaz de restaurar la maquinaria de una fuente órgano de estas características"; restored organ "automático que funciona con la presión del aire producida por el agua", after the fountains of Italian Renaissance and Baroque villas). No description of the fountain's figures on the page: none given.
+@lang: es
+@translation: from the fact-checked English Real Alcázar 027 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta fuente esconde un instrumento musical. Dentro hay un órgano que toca el agua.
+
+El Alcázar la presenta como la única fuente órgano del siglo diecisiete que se conserva en España, y una de las cuatro que quedan en el mundo. [pause] Estas fuentes estaban de moda en las villas de la Italia renacentista y barroca. La maquinaria original usaba el agua para mover aire, y el aire en movimiento producía el sonido.
+
+[pause] En 2006, dos especialistas la devolvieron a su funcionamiento. Uno fue Leonardo Lombardi, profesor italiano de arqueología, que restauró su cámara hidráulica. El otro fue Rodney Briscoe, un artesano británico. Se decía que era el único artesano capaz de restaurar la maquinaria de una fuente órgano de este tipo.
+
+[lightly] El órgano restaurado se hizo para funcionar solo, con la presión del aire que produce el agua. Que suene cuando usted pase depende del agua. Si lo oye, ya sabe qué es.
+
+Siga hasta el número 44, el Pabellón de Carlos Quinto: el pequeño pabellón cuadrado de azulejos al fondo de estos jardines geométricos.

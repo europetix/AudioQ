@@ -1,0 +1,26 @@
+@id: 019 · ES · No. 32 · 30 Oct 2026 edition
+@section: Gothic palace
+@room: No. 32 · Salón de los Tapices y Capilla
+@type: W
+@title: 32 · Salón de los Tapices — La conquista de Túnez
+@where: En el número 32, el Salón de los Tapices: un salón largo y alto del Palacio Gótico, con enormes tapices de una campaña naval en sus muros. La capilla se abre a este salón.
+@what: Tapestries of Charles V's conquest of Tunis, 1535: 18th-century replicas woven in Madrid by the Vandergoten family's royal manufactory for Felipe V, after the twelve-panel set designed by Jan Cornelisz Vermeyen and Pieter Coecke van Aelst and woven by Willem de Pannemaker in Brussels, 1548–1554 (gold, silver, silk and wool). Originals (ten survive) and the replica set belong to Patrimonio Nacional. Number of panels on view: count on site (O15).
+@listen: Why these famous tapestries are copies, who drew the campaign as it happened, and how they frame the sack of Tunis.
+@brief: A friend walking you along the walls, curious about the story behind the weaving, then plain and honest at the end.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.accioncultural.es/media/DefaultFiles/flipbook/ElArtedelPoder/files/basic-html/page106.html (SEC, El arte del poder catalogue: 1535 expedition against Barbarossa; Pannemaker contract 20 Feb 1545, woven 1548–1554; twelve huge panels after Vermeyen and Pieter Coeck van Aelst; gold, silver, silk and wool; Philip V, "in order to ensure the conservation of Charles's tapestry set", commissioned a copy from the Vandergoten family, brought from Antwerp in 1720 to set up the Madrid royal manufactory; "the ten surviving panels of Charles V's original series and the twelve of Philip V's set of replicas belong to the Patrimonio Nacional") ; https://muse.mechelen.be/collection/museum-highlights/the-battle-of-tunis (SEC museum: Vermeyen "had accompanied the Emperor to North Africa and was therefore able to record the battle as an eyewitness"; woven in Pannemaker's Brussels workshop; series meant to stress Charles's role as defender of the Christian faith) ; https://militarymaps.rct.uk/ottoman-habsburg-wars-1521-1791/tunis-captured-by-charles-v-1535-tunis-tunisia-36deg4908n-10deg0956e-tunis-tunisia-36deg4905n (SEC, Royal Collection Trust: the army captured Tunis and reinstated Mulai Hassan; Spanish protectorate 1535–1574) ; https://storiamediterranea.it/wp-content/uploads/flipbook/9/files/basic-html/page101.html (SEC, Mediterranea ricerche storiche 49, 2020: Charles "went on to sack the city itself before handing it back to its ruler") ; https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC: the tapestries in this hall depict the Tunis campaign and are copies of the originals) ; AUDIT FIX 30 Oct, read CALV, A. F. Calvert, The Spanish Royal Tapestries (1921), https://www.gutenberg.org/cache/epub/60790/pg60790-images.html (panel 10 "the sack of Tunis, hostilities against those who offer resistance"; panel 9 "the Emperor allows it to be sacked")
+@lang: es
+@translation: from the fact-checked English Real Alcázar 019 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Los tapices de esta sala son copias. Y para eso mismo se hicieron.
+
+En 1535, Carlos Quinto encabezó una gran expedición por mar contra el corsario Barbarroja, que se había apoderado de Túnez. El pintor Jan Cornelisz Vermeyen lo acompañó y registró la campaña como testigo. [pause] Sus imágenes, con ayuda de Pieter Coecke, sirvieron de diseño para doce enormes tapices. Willem de Pannemaker los tejió en Bruselas durante seis años, en lana y seda, con hilo de oro y plata.
+
+De aquellos originales se conservan diez, en la colección real española. En el siglo dieciocho, el rey Felipe Quinto quiso preservarlos. Recurrió a la familia Vandergoten, tejedores que había traído de Amberes para dirigir una nueva real fábrica de tapices en Madrid. Les encargó una serie completa de réplicas. [pause] Los tapices que le rodean proceden de esa serie. También son propiedad real.
+
+[pause] Ahora sígalos por los muros. Barcos y costas, campamentos y combates, escena tras escena, tal como el emperador quería que se contara la historia. Elija un paño y busque sus figuras más pequeñas.
+
+[quietly] Y recuerde para qué son estas imágenes. Se hicieron para mostrar a Carlos como defensor de la fe cristiana. Su ejército tomó Túnez, luego saqueó la ciudad y se la devolvió a su gobernante depuesto, Muley Hasán, que pasó a reinar bajo protección española. [pause] La serie no oculta el saqueo: una de sus doce escenas lo muestra. Pero cada escena se presenta como una victoria de la fe.
+
+La capilla del Palacio Gótico, parte del número 32, tiene un breve Extra. La siguiente parada principal es el número 33 del mapa del Alcázar, la Sala de las Bóvedas, el salón paralelo del lado del jardín: muros con azulejos hasta unos dos metros, bajo bóvedas góticas.

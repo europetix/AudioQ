@@ -114,6 +114,11 @@ BLD = [
 INNER = [  # thin inner lines: the wall between the two Gothic halls (32 | 33); the triple arch between 1 and 4
     ([(2122, 1108), (2012, 1338)], "#C08550", .5),
 ]
+FEATURES = {  # drawn on top of the garden beds: the maze (47), the Pabellón de Carlos V (44)
+    "maze": [(2797, 1665), (2905, 1798), (2690, 1970), (2580, 1835)],
+    "pavilion": [(2586, 1693), (2532, 1637), (2587, 1585), (2641, 1641)],
+}
+CRA_GALLERY = [(2196, 270), (2296, 323), (2246, 450), (2225, 460), (2125, 408), (2178, 280)]
 PILLARS = [[(1592, 1168), (1608, 1176), (1596, 1196), (1580, 1188)], [(1566, 1214), (1584, 1222), (1572, 1242), (1555, 1234)],
            [(1540, 1258), (1558, 1266), (1546, 1286), (1529, 1278)]]
 # where the leaflet prints each number (its own label positions; 19, 34 and the upper floor moved onto the space)
@@ -304,6 +309,13 @@ def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=()
         for pts, c, w in INNER:
             o.append(f'<path d="M{" L".join(f"{P(*p)[0]:.2f},{P(*p)[1]:.2f}" for p in pts)}" stroke="{c}" stroke-width="{max(.2, w * S * 10):.2f}" fill="none"/>')
         for pl in PILLARS: o.append(f'<path d="{path([pl])}" fill="#6E665B"/>')
+        mz = FEATURES["maze"]; cxm = sum(p[0] for p in mz) / 4; cym = sum(p[1] for p in mz) / 4
+        for f_ in (1, .78, .56, .34):
+            ring = [(cxm + (x - cxm) * f_, cym + (y - cym) * f_) for x, y in mz]
+            o.append(f'<path d="{path([ring])}" fill="{"#E4EDD3" if f_ == 1 else "none"}" stroke="#7FAF7A" stroke-width="{max(.15, 3 * S):.2f}"/>')
+        o.append(f'<path d="{path([FEATURES["pavilion"]])}" fill="#EFE8DA" stroke="#8F8473" stroke-width="{max(.18, 4 * S):.2f}"/>')
+    else:
+        o.append(f'<path d="{path([CRA_GALLERY])}" fill="none" stroke="#8C7DB5" stroke-width=".7" stroke-dasharray="0,1.6" stroke-linecap="round"/>')
     for x, y, t, cls, rot in texts:
         X, Y = P(x, y)
         tr = f' transform="rotate({rot} {X:.2f} {Y:.2f})"' if rot else ""
@@ -336,7 +348,7 @@ def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=()
         for i, l in enumerate(lines):
             o.append(f'<text x="{bx + fs * .8:.2f}" y="{by + fs * 1.22 + i * fs * 1.38:.2f}" class="note" style="font-size:{fs:.2f}px">{esc(l)}</text>')
     # map numbers: red tag = a stop of this guide plays here; outlined = walk past
-    stopnums = filled if filled is not None else {TR[n]["num"] for n in show if TR[n]["num"] is not None}
+    stopnums = filled if filled is not None else {TR[n]["num"] for n in NUMS if TR[n]["num"] is not None}
     tags = []
     for num in nums:
         if num not in TAG: continue
@@ -398,7 +410,7 @@ lens = "".join(f'<div class="card"><div class="cnum" style="background:{NAVY}">{
                f'<div class="cbody"><div class="ct">{esc(n)}</div><div class="cs"><b>{esc(m)}</b> · {k} tracks</div><div class="cs2">{esc(d)}</div></div></div>'
                for i, (n, k, m, d) in enumerate(LENGTHS, 1))
 MAIN_NUMS = sorted({TR[n]["num"] for n in NUMS if TR[n]["num"] is not None and n not in CRA})
-ov, _, _ = plan_svg((1110, 3400, 640, 2262), 182, 140, nums=MAIN_NUMS, show=[], filled=set(MAIN_NUMS), overview=True, tag_fs=1.8,
+ov, _, _ = plan_svg((1110, 3400, 640, 2262), 180, 140, nums=MAIN_NUMS, show=[], filled=set(MAIN_NUMS), overview=True, tag_fs=1.8,
     notes=[(START_PT, "IN · Puerta del León", "start", 3, -9), (EXIT_PT, "OUT · to the Patio de Banderas", "finish", 9, -8),
            ((1716, 1424), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -23, 21)],
     texts=[(1440, 700, "Patio de Banderas", "yard", 0), (1215, 1112, "Plaza del Triunfo", "side", 0),
@@ -426,21 +438,21 @@ LEGEND = (f'<div class="legend"><span><span class="tag">15</span> Alcázar numbe
           f'<span><svg width="9mm" height="3mm" viewBox="0 0 9 3"><path d="M.5,1.5 L8.5,1.5" stroke="{INK}" stroke-opacity=".6" stroke-width=".55" stroke-dasharray="1.4,.9"/></svg> route</span>'
           f'<span><svg width="9mm" height="3mm" viewBox="0 0 9 3"><path d="M.5,1.5 L8.5,1.5" stroke="{INK}" stroke-opacity=".5" stroke-width=".45" stroke-dasharray=".2,.8" stroke-linecap="round"/></svg> there and back</span></div>')
 
-def map_page(title, sub, svg, ns, kicker, legend=True):
+def map_page(title, sub, svg, ns, kicker, legend=True, extra=""):
     return f'''<section class="page">
  <header class="fh"><div class="brand">YO TOURS · REAL ALCÁZAR · {esc(kicker)}</div>
  <h2>{esc(title)}</h2><p class="sub">{sub}</p></header>
- <div class="stack"><div class="plan">{svg}{LEGEND if legend else ""}</div><div class="list">{stop_list(ns)}</div></div>
+ <div class="stack"><div class="plan">{svg}{LEGEND if legend else ""}</div><div class="list">{stop_list(ns)}</div></div>{extra}
  <footer>{esc(FOOTER)}</footer>
 </section>'''
 
 # ---------------------------------------------------------------- page 2: the palaces
 PAL = [n for n in NUMS if TR[n]["section"] in ("Opening", "The first courtyards", "Casa de la Contratación", "Palace of King Pedro", "Gothic palace")]
-svg, _, _ = plan_svg((1150, 2205, 800, 1640), 182, 112, nums=list(range(1, 20)) + [31, 32, 33, 34, 53], show=PAL, tag_fs=2.3,
+svg, _, _ = plan_svg((1150, 2205, 800, 1640), 178, 124, nums=list(range(1, 20)) + [31, 32, 33, 34, 53], show=PAL, tag_fs=2.3,
     dots_off={("dir", 7): "left", ("dir", 6): "left", 10: (0, -3.2), ("dir", 18): "left", ("dir", 2): "left", 5: (-.5, 1.2), 32: (-2.2, -3.4)},
-    notes=[(START_PT, "START\nPuerta del León", "start", 4, 12), ((1736, 1438), "19 · stair to the\nCuarto Real Alto", "cra", -24, 4),
-           ((2150, 1300), "to the gardens · page 3", "info", -2, 13), ((1700, 860), "OUT at the end\nto the Patio de Banderas", "finish", -12, 2)],
-    texts=[(1222, 1112, "Plaza del Triunfo", "side", 0)])
+    notes=[(START_PT, "START\nPuerta del León", "start", 4, 12), ((1736, 1438), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -42, 17),
+           ((1700, 860), "OUT at the end\nto the Patio de Banderas", "finish", -12, 2)],
+    texts=[(1225, 1225, "Plaza del Triunfo", "side", 0)])
 pages.append(map_page("The palaces · 1 to 19 and 31 to 34",
     "Patio del León (1), Sala de la Justicia (2), Patio del Yeso (3) and back; the Montería (4) with the palace front (5) facing you and the Cuarto del Almirante (6, 7) on the right. "
     "Through the palace door to the Doncellas (10), the Embajadores (15) and the Muñecas (18); back out, and at the Montería's corner into the Crucero (31) and the Gothic palace (32, 33). "
@@ -448,10 +460,10 @@ pages.append(map_page("The palaces · 1 to 19 and 31 to 34",
 
 # ---------------------------------------------------------------- page 3: the gardens
 GAR = [n for n in NUMS if TR[n]["section"] in ("The gardens", "Closing")]
-svg, _, _ = plan_svg((1650, 3395, 680, 2258), 182, 172, nums=list(range(34, 54)), show=GAR, tag_fs=2.4,
+svg, _, _ = plan_svg((1650, 3395, 680, 2258), 178, 172, nums=list(range(34, 54)), show=GAR, tag_fs=2.4,
     dots_off={("dir", 35): "left", 51: (0, -.2)},
     notes=[(EXIT_PT, "OUT · Apeadero (53)\nto the Patio de Banderas", "finish", 13, -3)],
-    texts=[(2318, 742, "Callejón del Agua", "side", -62), (3300, 1500, "Jardines de Murillo", "side", 87)])
+    texts=[(2282, 860, "Callejón del Agua", "side", -62), (3362, 1500, "Jardines de Murillo", "side", 87)])
 pages.append(map_page("The gardens · 35 to 53",
     "From the Baths, down the Jardín de la Danza (38) through 37 and 36 to the Jardín del Príncipe (35) and back (Full only). Up to the Mercury pool (39), the Galería del Grutesco (40) and the Fuente de la Fama (41), "
     "through the formal gardens to the Pabellón de Carlos V (44) and the Cenador del León (45), round the outer gardens (46–50) and back to the Puerta de Marchena (51) and the Apeadero (53). "
@@ -459,13 +471,18 @@ pages.append(map_page("The gardens · 35 to 53",
 
 # ---------------------------------------------------------------- page 4: the Cuarto Real Alto
 CR = sorted(CRA)
-svg, _, _ = plan_svg((1690, 2400, 140, 640), 182, 140, nums=list(range(20, 31)), show=CR, cra=True, route=False, tag_fs=3.0,
+svg, _, _ = plan_svg((1690, 2400, 140, 640), 178, 118, nums=list(range(20, 31)), show=CR, cra=True, route=False, tag_fs=3.0,
     texts=[(2212, 372, "courtyard", "yard", 0), (1880, 245, "Colección Carranza", "side", 38)])
+loc, _, _ = plan_svg((1430, 2090, 1150, 1620), 104, 74, nums=[4, 5, 6, 7, 10, 15, 18, 19], show=[], filled={19}, route=False, tag_fs=2.6,
+    notes=[((1712, 1432), "19 · stair up", "cra", -18, 15)])
+LOC = f'''<div class="loc"><div class="plan">{loc}</div><div class="loct"><h3>Where the stair is</h3>
+ <p>Number 19 on the leaflet is the stair to the upper floor. It is in the corner of the Patio de la Montería (4) where the front of the palace (5) meets the Cuarto del Almirante (6).</p>
+ <p>Play {CR[0]} at number {TR[CR[0]]["num"]}, the {esc(TR[CR[0]]["space"])}, and {CR[-1]} at number {TR[CR[-1]]["num"]}, the {esc(TR[CR[-1]]["space"])}.</p>
+ <p>The leaflet prints a second 11 up here, on the open courtyard; the guide never uses it.</p></div></div>'''
 pages.append(map_page("Optional · The Cuarto Real Alto, 20 to 30",
-    "The upper floor of the palace of King Pedro, still a royal residence, is a separate, timed visit with its own guide. You reach it by the stair (19) in the corner of the Patio de la Montería, "
-    f"where the palace front meets the Cuarto del Almirante. Our two Extras, {CR[0]} and {CR[-1]}, play there and are outside the three lengths. The second 11 the leaflet prints here is the open courtyard.",
-    svg, CR, "UPPER FLOOR", legend=False))
-
+    "The upper floor of the palace of King Pedro, still a royal residence, is a separate, timed visit. "
+    f"Our two Extras, {CR[0]} and {CR[-1]}, play there and are outside the three lengths.",
+    svg, CR, "UPPER FLOOR", legend=False, extra=LOC))
 # ---------------------------------------------------------------- pages 5+: the stop table
 rows = []; last_sec = None
 for n in NUMS:
@@ -535,6 +552,8 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .stack .plan {{ margin-bottom: 3mm }} .stack .list {{ columns: 2; column-gap: 7mm }} .stack .row {{ break-inside: avoid }}
 .plan {{ background: #fff; border: .3mm solid {LINE}; border-radius: 4mm; padding: 2mm }}
 .plan svg {{ display: block; margin: 0 auto }}
+.loc {{ display: grid; grid-template-columns: 110mm 1fr; gap: 4mm; margin-top: 4mm; align-items: start }}
+.loct h3 {{ font: 700 12pt Lora; margin: 1mm 0 1.5mm }} .loct p {{ font: 400 8.4pt Inter; line-height: 1.4; margin: 0 0 2mm; color: {INK} }}
 .tg {{ font-family: Inter; font-weight: 800; text-anchor: middle }} .sn {{ font-family: Inter; font-weight: 700; fill: #fff; text-anchor: middle }}
 .note {{ font-family: Inter; font-weight: 600; fill: #fff }}
 .yard {{ font: 600 2.3px Inter; fill: #A39886; text-anchor: middle; letter-spacing: .4px; text-transform: uppercase }}
@@ -542,7 +561,7 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .legend {{ display: flex; flex-wrap: wrap; gap: 1.2mm 4mm; justify-content: center; padding: 2mm 1mm .4mm; font: 500 7pt Inter; color: {MUTED}; align-items: center }}
 .legend > span {{ display: inline-flex; align-items: center; gap: 1.3mm }}
 .ldot {{ width: 4.4mm; height: 4.4mm; border-radius: 50%; color: #fff; font: 700 6pt Inter; display: inline-flex; align-items: center; justify-content: center }}
-.tag {{ display: inline-flex; min-width: 6mm; height: 4.4mm; padding: 0 1mm; border-radius: 1.2mm; background: {RED}; color: #fff; font: 800 7.4pt Inter; align-items: center; justify-content: center; box-sizing: border-box }}
+.tag {{ vertical-align: middle; display: inline-flex; min-width: 6mm; height: 4.4mm; padding: 0 1mm; border-radius: 1.2mm; background: {RED}; color: #fff; font: 800 7.4pt Inter; align-items: center; justify-content: center; box-sizing: border-box }}
 .tag.ol {{ background: #fff; color: {RED}; border: .3mm solid {RED} }} .tag.out {{ background: #fff; color: {MUTED}; border: .3mm solid {LINE}; font-weight: 600; font-size: 6.4pt }}
 .list .row {{ display: grid; grid-template-columns: 7.5mm 9.5mm 1fr; align-items: center; padding: .5mm 0; border-bottom: .25mm solid {LINE} }}
 .dot {{ width: 6mm; height: 6mm; border-radius: 50%; color: #fff; font: 700 7.6pt Inter; display: inline-flex; align-items: center; justify-content: center }}

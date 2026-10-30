@@ -1,0 +1,28 @@
+@id: 005 · ES · No. 3 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 3 · Patio del Yeso
+@type: W
+@title: 3 · Patio del Yeso — Lo que dejaron los almohades
+@where: En el Patio del Yeso, al que solo se llega por la Sala de la Justicia: un pequeño patio con una larga alberca, pequeños parterres a su lado y un pórtico de arcos que sostiene una celosía de arcos entrelazados de yeso.
+@what: Patio del Yeso, part of an Almohad residence of about 1190 (the Islamic "Palacio del Yeso"); sebka lattice; residence of Pedro I in 1358; rediscovered 1855; restored 1918–20 and 1969–71.
+@listen: The courtyard where Pedro lived before his palace was ready, and the Almohad lattice he lived under.
+@brief: A quiet, close storyteller in a small courtyard; hushed at the start, curious at the lattice, warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.archnet.org/sites/20835 (OFF, Almagro & Ramón-Laca: "part of an Almohad residence"; dates of attested life from 1190; "After the reform, a large pool occupied most of the courtyard and was flanked by two small garden areas"; "the residence of Pedro I in 1358 before the construction of his new palace"; "rediscovered in 1855 and restored in 1918–20 and 1969–71") ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: the "Palacio del Yeso" belongs to the Islamic period) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF: "Este patio es almohade"; considered an antecedent of Mudéjar) ; https://andalucia.com/cities/seville/alcazar/moorish.htm (SEC: "The lattice designs are called sebqa"; the Almohads also built the Giralda) ; https://www.album-online.com/detail/en/ZWUyM2ZmMA/patio-yesos-arquerias-lobuladas-pa-sebka-siglo-xii-arquitectura-almohade-alb6615102 (SEC, caption: "paño de sebka, siglo XII") ; sebka also on the Giralda: standard fact, SNIP (see notes)
+@lang: es
+@translation: from the fact-checked English Real Alcázar 005 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] El rey don Pedro vivió en este patio antes de que su famoso palacio estuviera listo. En 1358 esta era su residencia. Y ya entonces era antigua.
+
+Es lo que queda de una residencia almohade de hacia 1190. Los almohades fueron una dinastía bereber del norte de África. Gobernaron al-Ándalus desde el siglo doce hasta comienzos del trece. [pause] También construyeron el alminar que hoy llamamos la Giralda. El propio mapa del Alcázar lo llama sencillamente el Palacio del Yeso, del periodo islámico.
+
+Casi todo su palacio ha desaparecido, barrido por palacios posteriores. Pero este patio sobrevivió. Olvidado durante siglos, se redescubrió en 1855 y se restauró dos veces en el siglo veinte.
+
+[curious] Ahora mire el pórtico. Sobre los arcos trepa por el muro una red de arcos entrelazados, cada uno fluyendo en el siguiente. Este motivo se llama sebka. Es la misma familia de ornamento que se ve en lo alto de la Giralda. [pause] Debajo, una larga alberca ocupa casi todo el patio, con una pequeña zona ajardinada a cada lado.
+
+Toda la riqueza está en el propio dibujo, repetido hasta que el muro parece tejido.
+
+[warmly] Imagine aquí a Pedro, un joven rey cristiano de Castilla, viviendo bajo arcos almohades. Pronto su propio palacio, a pocos pasos, hablaría el mismo lenguaje. [pause] Las notas escolares del Alcázar llaman a este patio un precursor del estilo mudéjar. Está usted en el primer borrador.
+
+Vuelva por donde vino, por el número 2, la Sala de la Justicia. Al salir, el triple arco del número 1, el Patio del León, queda a su izquierda. Crúcelo y entre en el número 4 del mapa del Alcázar, el Patio de la Montería: el gran patio abierto, con una alta fachada decorada enfrente, al otro lado.

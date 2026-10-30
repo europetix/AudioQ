@@ -1,0 +1,28 @@
+@id: 010 · ES · No. 10 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 10 · Patio de las Doncellas
+@type: W
+@title: 10 · Patio de las Doncellas — El rey aclamado como sultán
+@where: En el extremo cercano del Patio de las Doncellas, en la esquina por la que entra desde el pasillo en recodo de la puerta del palacio: un gran patio porticado con una larga alberca central entre parterres hundidos, y muros cubiertos de azulejos y yeserías.
+@what: Patio de las Doncellas, central courtyard of the palace of Pedro I (begun from 1356, finished by 1366); Arabic dado inscriptions naming Pedro "sultan"; the life and death of Pedro I (1334–1369) and his remains' journey to Seville Cathedral.
+@listen: How a Christian king came to be greeted as sultan on his own walls, how he lost his throne and his life, and the long road his body took back to Seville.
+@brief: A storyteller in the heart of the palace; conspiratorial at the start, brisk through the civil war, wry at the nicknames, warm and quiet at the homecoming.
+@pace: medium
+@energy: 2→4→2
+@sources: https://revistas.ucm.es/index.php/ANHA/article/download/42850/40706/62639 (OFF, J. Marquer, Anales de Historia del Arte 23, 2013: "'izz li-mawlana al-sultan don bidru ayyadahu Allah", "Gloria a nuestro señor el sultán Don Pedro ayúdele Dios", p. 504; on "casi todos los zócalos del palacio") ; https://turismoapps.dip-badajoz.es/sites/default/files/2026-05/PUEBLA%20DE%20ALCOCER%20Iglesia%20de%20Santiago%20ap%C3%B3stol%20ENG.pdf (OFF, Diputación de Badajoz 2026: died 1369 at Montiel in the conflict with his brother Enrique; first buried in this church; 1446 to Santo Domingo el Real, Madrid; after the convent's demolition to the National Archaeological Museum; finally Seville Cathedral, "where they remain today") ; https://www.archnet.org/sites/20755 (OFF: Peter I of Castile, 1334–1369) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: from 1356) ; https://core.ac.uk/download/51402338.pdf (SEC, Cabeza: finished 1366) ; king at 15; deposed 1366, restored 1367; "by most accounts" killed by Enrique himself; Trastámara; "el Cruel" / "el Justiciero": audit SNIP / HEDGE
+@lang: es
+@translation: from the fact-checked English Real Alcázar 010 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] En este palacio, a un rey cristiano de Castilla lo llaman sultán. Una y otra vez, en árabe, en casi todos los zócalos.
+
+Dicen: «Gloria a nuestro señor el sultán don Pedro, ayúdele Dios». La historiadora Julie Marquer las ha rastreado por el palacio. [pause] Donde vea franjas de letras árabes en lo bajo de estos muros, probablemente esté ese saludo. Pedro lo construyó desde la década de 1350 y lo terminó en la de 1360.
+
+Su reinado fue breve y violento. Fue rey a los quince años y pasó gran parte del reinado en guerra, al final contra su hermanastro Enrique. Pedro perdió el trono, lo recuperó y, en 1369, en Montiel, lo mataron. Según la mayoría de los relatos, el propio Enrique dio el golpe. La familia de Enrique, los Trastámara, se quedó con la corona.
+
+[wry] La historia le dio a Pedro dos apodos. Sus enemigos lo llamaron el Cruel, y una de sus acusaciones era favorecer a musulmanes y judíos. Otros lo llamaron el Justiciero. [pause] Ambos nombres son propaganda, de los dos bandos de una guerra civil.
+
+[pause] Lo que pasó después es aún más extraño. Lo enterraron lejos de aquí, en la iglesia de Puebla de Alcocer, en Extremadura. Setenta y siete años después lo llevaron a un convento madrileño, Santo Domingo el Real. Al derribarse el convento, sus restos pasaron al Museo Arqueológico Nacional. Solo entonces llegaron a la catedral de Sevilla, donde hoy reposan.
+
+[warmly] El rey aclamado como sultán en estos muros tardó siglos en volver a casa.
+
+Quédese en el número 10, el Patio de las Doncellas, y acérquese al borde de la larga alberca.

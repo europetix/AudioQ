@@ -1,0 +1,30 @@
+@id: 011 · ES · No. 10 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 10 · Patio de las Doncellas
+@type: W
+@title: 10 · Patio de las Doncellas — El jardín enterrado
+@where: Al borde de la larga alberca central del Patio de las Doncellas: la alberca recorre el centro del patio entre dos parterres hundidos, por debajo del nivel de los andenes y las galerías.
+@what: The sunken garden of Pedro I's Patio de las Doncellas: walks, pool and beds found on 22 Aug 2002 under a 16th-century level (excavations 2002 and 2004, directed by M. Á. Tabales); pool gone by 1584, courtyard paved with a central fountain under Felipe II; garden restoration by the Patronato, 2004–05; 16th-century Renaissance columns.
+@listen: How a garden buried for four centuries came back to light, and why King Pedro may never have walked in it.
+@brief: A friend at the water's edge telling a detective story; curious, then quietly amazed, ending on a gentle irony.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://core.ac.uk/download/51402338.pdf (SEC, J. M. Cabeza Méndez, Director of the Patronato del Real Alcázar: "Durante la jornada del 22 de agosto de aquel 2002" elements appeared, "andenes, estanque y arriates"; research project by Dr Miguel Ángel Tabales; removal of the Renaissance level and the marble paving; "basas de las columnas renacentistas colocadas en el siglo XVI en sustitución de las primitivas"; works March 2004 to March 2005, concluded "en la primavera de 2005") ; https://www.archnet.org/sites/20755 (OFF, Almagro & Ramón-Laca: "a garden with a long pool and two flowerbeds one meter beneath the pavement"; "buried after the assassination of Peter I"; "it seems that it was never used"; "the pool finally disappeared in 1584"; excavations 2002 and 2004) ; https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF: under Philip II "the center of the courtyard was dominated by a fountain") ; name from a legend of a tribute of a hundred maidens: audit SNIP, told as legend ; AUDIT FIX 30 Oct, re-read CAB https://core.ac.uk/download/51402338.pdf (SEC: "levantar la solería de mármol" and remove "el nivel renacentista"; 22 Aug 2002; Tabales; finished spring 2005)
+@lang: es
+@translation: from the fact-checked English Real Alcázar 011 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] El 22 de agosto de 2002, los arqueólogos que excavaban este patio empezaron a hallar algo que nadie vivo había visto: el jardín del rey don Pedro.
+
+El equipo lo dirigía Miguel Ángel Tabales. Bajo la solería de mármol posterior y un nivel del siglo dieciséis, hallaron andenes, una alberca y arriates, dispuestos como un jardín hundido. [pause] Había estado oculto más de cuatrocientos años.
+
+¿Cómo desaparece un jardín real? En 1584 la alberca ya no existía. Con Felipe Segundo, el patio se pavimentó, con una fuente en el centro. También se reformaron las galerías. [pause] Las columnas que le rodean son renacentistas, puestas en el siglo dieciséis en lugar de las originales.
+
+[pause] Y aquí viene el giro. Los investigadores Antonio Almagro y Luis Ramón-Laca creen que el jardín se enterró poco después del asesinato de Pedro. Hasta donde pueden saber, nunca se usó. Quizá ni siquiera llegó a terminarse.
+
+[warmly] Mírelo ahora. Una larga alberca recorre el centro, con un parterre hundido a cada lado, cerca de un metro por debajo del andén. El propio Patronato del Alcázar lo restauró tras las excavaciones, y la obra se terminó en 2005.
+
+¿Y el nombre, Patio de las Doncellas? Viene de una leyenda medieval sobre un tributo de cien doncellas. [pause] Es solo una leyenda.
+
+[quietly] Quizá este sea un jardín que el rey don Pedro planeó y nunca pisó.
+
+El número 13 del mapa del Alcázar, el Salón del Techo de Carlos Quinto, tiene un breve Extra sobre la capilla del palacio y su techo renacentista. Su puerta se abre a este patio, en el lado largo que queda a su izquierda cuando mira el patio a lo largo desde la esquina por la que entró. La siguiente parada principal es el número 15 del mapa del Alcázar, el Salón de los Embajadores, la sala bajo la cúpula dorada, al fondo del patio.
