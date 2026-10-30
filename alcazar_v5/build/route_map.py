@@ -280,7 +280,7 @@ for n in NUMS:
     STOPS_AT.setdefault(k, []).append(n)
 
 def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=(), texts=(), overview=False, cra=False,
-             tag_fs=2.3, route=True):
+             tag_fs=2.3, route=True, filled=None, spurs=True):
     """crop = (x0, x1, y0, y1) in leaflet px. nums: map numbers to label. show: track numbers to draw as dots."""
     _uid[0] += 1; u = _uid[0]
     cx0, cx1, cy0, cy1 = crop; pad = 1.2
@@ -291,7 +291,7 @@ def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=()
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W:.2f} {H:.2f}" width="{W:.2f}mm" height="{H:.2f}mm">',
          f'<defs><clipPath id="c{u}"><rect x="0" y="0" width="{W:.2f}" height="{H:.2f}" rx="2"/></clipPath></defs>',
          f'<g clip-path="url(#c{u})"><rect x="0" y="0" width="{W:.2f}" height="{H:.2f}" fill="#FDFBF7"/>']
-    sw = max(.18, 7 * S)
+    sw = min(.75, max(.18, 7 * S))
     if not cra:
         for poly in _dec(GEO_GREEN): o.append(f'<path d="{path(poly)}" fill="#CFDFB4" fill-rule="evenodd"/>')
         for poly in _dec(GEO_WATER): o.append(f'<path d="{path(poly)}" fill="#AED3E6"/>')
@@ -321,7 +321,7 @@ def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=()
         else:
             o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-opacity=".5" stroke-width=".42" stroke-dasharray=".2,.85" stroke-linecap="round"/>')
     if route:
-        for s in SPURS: poly(s, False)
+        for s in (SPURS if spurs else []): poly(s, False)
         for m_ in MAIN: poly(m_, True)
     # notes (callouts), under the tags so they never hide a number
     for key, text, kind, dx, dy in notes:
@@ -336,7 +336,7 @@ def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=()
         for i, l in enumerate(lines):
             o.append(f'<text x="{bx + fs * .8:.2f}" y="{by + fs * 1.22 + i * fs * 1.38:.2f}" class="note" style="font-size:{fs:.2f}px">{esc(l)}</text>')
     # map numbers: red tag = a stop of this guide plays here; outlined = walk past
-    stopnums = {TR[n]["num"] for n in show if TR[n]["num"] is not None}
+    stopnums = filled if filled is not None else {TR[n]["num"] for n in show if TR[n]["num"] is not None}
     tags = []
     for num in nums:
         if num not in TAG: continue
@@ -398,21 +398,24 @@ lens = "".join(f'<div class="card"><div class="cnum" style="background:{NAVY}">{
                f'<div class="cbody"><div class="ct">{esc(n)}</div><div class="cs"><b>{esc(m)}</b> · {k} tracks</div><div class="cs2">{esc(d)}</div></div></div>'
                for i, (n, k, m, d) in enumerate(LENGTHS, 1))
 MAIN_NUMS = sorted({TR[n]["num"] for n in NUMS if TR[n]["num"] is not None and n not in CRA})
-ov, _, _ = plan_svg((1110, 3400, 640, 2262), 182, 128, nums=MAIN_NUMS, show=[n for n in NUMS if n not in CRA], overview=True,
-    tag_fs=1.75, dots_off={("dir", 7): "left", ("dir", 6): "left", 10: (0, -2.6), 13: (0, 0), 15: (-1.0, 2.9), 16: (-3.3, 2.6), 18: (-6.9, -.5),
-                           ("dir", 18): "left", 31: (0, -1.6), 32: (-1.5, -2.9), 33: (.6, 1.0), 34: (1.5, 2.2), ("dir", 2): "left", 2: (0, -1.2),
-                           3: (0, -.6), 4: (0, 0), 5: (-.4, .9), 1: (0, 0), 35: (0, 0), 38: (0, 0)},
-    notes=[(START_PT, "IN · Puerta del León", "start", 2, 13), (EXIT_PT, "OUT · to the Patio de Banderas", "finish", 8, -9),
-           ((1716, 1424), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -13, 16)],
+ov, _, _ = plan_svg((1110, 3400, 640, 2262), 182, 140, nums=MAIN_NUMS, show=[], filled=set(MAIN_NUMS), overview=True, tag_fs=1.8,
+    notes=[(START_PT, "IN · Puerta del León", "start", 2, 13), (EXIT_PT, "OUT · to the Patio de Banderas", "finish", 9, -8),
+           ((1716, 1424), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -12, 17)],
     texts=[(1440, 700, "Patio de Banderas", "yard", 0), (1150, 1170, "Plaza del Triunfo", "side", 0),
-           (2520, 760, "Callejón del Agua", "side", -55), (1830, 1310, "", "yard", 0)])
+           (2318, 742, "Callejón del Agua", "side", -62), (1640, 1590, "Palace of", "zl", 0), (1640, 1622, "King Pedro", "zl", 0),
+           (2010, 1012, "Gothic", "zl", 0), (2010, 1044, "palace", "zl", 0), (2900, 1560, "The gardens", "zl", 0)])
+KEYS = []
+for sec, nums_ in (("The first courtyards", "1–5"), ("Casa de la Contratación", "6–7"), ("Palace of King Pedro", "10–18"),
+                   ("Gothic palace", "31–34"), ("The gardens", "35–51"), ("Closing", "53")):
+    KEYS.append(f'<span><i style="background:{SECS[sec][1]}"></i>{esc(SECS[sec][0])} <b>{nums_}</b></span>')
+KEYS = "".join(KEYS)
 pages.append(f'''<section class="page">
  <header><div class="brand">YO TOURS · AUDIO GUIDE</div><h1>Real Alcázar de Sevilla</h1>
  <p class="lede">Eleven centuries in one walk: the first courtyards, the palace of King Pedro, the Gothic palace and the gardens, {len(F_SET) - FX} main stops plus {FX} short Extras in one walking order. The guide comes in three lengths.</p></header>
  <div class="how"><div><b>1</b> <strong>The numbers are the Alcázar's own.</strong> The red numbers are the ones on its official leaflet, 1 to 53. The guide speaks them with the Spanish name: "number 15, the Salón de los Embajadores".</div>
  <div><b>2</b> The coloured circle beside a number is the track to play there, in track order. Hollow circles are short, optional Extras. A filled red number means a track plays there; an outlined one, you walk past.</div>
  <div><b>3</b> Each track ends by naming the next number. In Essential and Highlights a short line tells you where to go next. The plan is drawn simply, not to scale.</div></div>
- <div class="ov">{ov}</div>
+ <div class="ov">{ov}<div class="keys">{KEYS}</div><div class="ovn">Red numbers: a track plays there. Pages 2 to 4 show every track beside its number.</div></div>
  <div class="warn"><b>In at the Puerta del León, out through the Apeadero (53) into the Patio de Banderas.</b> Once you are out you cannot come back in, so finish the gardens first. The Cuarto Real Alto upstairs (20–30) is a separate, timed visit; its two Extras are on page 4.</div>
  <div class="cards">{lens}</div>
  <footer>{esc(FOOTER)}</footer>
@@ -448,10 +451,11 @@ pages.append(map_page("The palaces · 1 to 19 and 31 to 34",
 
 # ---------------------------------------------------------------- page 3: the gardens
 GAR = [n for n in NUMS if TR[n]["section"] in ("The gardens", "Closing")]
-svg, _, _ = plan_svg((1650, 3395, 680, 2258), 182, 172, nums=list(range(31, 54)), show=GAR, tag_fs=2.4,
+svg, _, _ = plan_svg((1650, 3395, 680, 2258), 182, 172, nums=list(range(34, 54)), show=GAR, tag_fs=2.4,
     dots_off={("dir", 35): "left", 51: (0, -.2)},
-    notes=[((2112, 1262), "from the Baths (34)", "info", -14, -13), (EXIT_PT, "OUT · Apeadero (53)\nto the Patio de Banderas", "finish", 13, -3)],
-    texts=[(2520, 760, "Callejón del Agua", "side", -55)])
+    notes=[(EXIT_PT, "OUT · Apeadero (53)\nto the Patio de Banderas", "finish", 13, -3)],
+    texts=[(2318, 742, "Callejón del Agua", "side", -62), (3300, 1500, "Jardines de Murillo", "side", 87),
+           (1880, 1560, "Palace of King Pedro", "zl", 0), (2050, 1040, "", "zl", 0)])
 pages.append(map_page("The gardens · 35 to 53",
     "From the Baths, down the Jardín de la Danza (38) through 37 and 36 to the Jardín del Príncipe (35) and back (Full only). Up to the Mercury pool (39), the Galería del Grutesco (40) and the Fuente de la Fama (41), "
     "through the formal gardens to the Pabellón de Carlos V (44) and the Cenador del León (45), round the outer gardens (46–50) and back to the Puerta de Marchena (51) and the Apeadero (53). "
@@ -520,6 +524,11 @@ h2 {{ font: 700 19pt Lora, serif; margin: 2mm 0 1.2mm }}
 .how strong {{ color: {RED} }}
 .ov {{ background: #fff; border: .3mm solid {LINE}; border-radius: 4mm; padding: 1.5mm 1mm; margin-bottom: 3mm }}
 .ov svg {{ display: block; margin: 0 auto }}
+.keys {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 1mm 3mm; padding: 2mm 4mm 0; font: 500 6.9pt Inter; color: {INK} }}
+.keys span {{ display: flex; align-items: center; gap: 1.3mm; white-space: nowrap }} .keys b {{ color: {MUTED}; font-weight: 600 }}
+.keys i {{ width: 3mm; height: 3mm; border-radius: 50%; flex: none }}
+.ovn {{ font: 500 6.8pt Inter; color: {MUTED}; text-align: center; padding: 1.4mm 0 .3mm }}
+.zl {{ font: 700 2.6px Lora; fill: #8F8473; text-anchor: middle; letter-spacing: .1px }}
 .warn {{ background: #fff; border: .3mm solid {GOLD}; border-left: 1.6mm solid {GOLD}; border-radius: 2.4mm; padding: 2.2mm 3mm; font: 400 8.2pt Inter; line-height: 1.38; margin-bottom: 3mm }}
 .cards {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 2.4mm }}
 .card {{ display: grid; grid-template-columns: 10mm 1fr; align-items: center; background: #fff; border: .3mm solid {LINE}; border-radius: 3mm; overflow: hidden; padding: 2mm 2mm 2mm 0 }}
@@ -539,7 +548,7 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .ldot {{ width: 4.4mm; height: 4.4mm; border-radius: 50%; color: #fff; font: 700 6pt Inter; display: inline-flex; align-items: center; justify-content: center }}
 .tag {{ display: inline-flex; min-width: 6mm; height: 4.4mm; padding: 0 1mm; border-radius: 1.2mm; background: {RED}; color: #fff; font: 800 7.4pt Inter; align-items: center; justify-content: center; box-sizing: border-box }}
 .tag.ol {{ background: #fff; color: {RED}; border: .3mm solid {RED} }} .tag.out {{ background: #fff; color: {MUTED}; border: .3mm solid {LINE}; font-weight: 600; font-size: 6.4pt }}
-.list .row {{ display: grid; grid-template-columns: 7.5mm 8.5mm 1fr; align-items: center; padding: .7mm 0; border-bottom: .25mm solid {LINE} }}
+.list .row {{ display: grid; grid-template-columns: 7.5mm 9.5mm 1fr; align-items: center; padding: .7mm 0; border-bottom: .25mm solid {LINE} }}
 .dot {{ width: 6mm; height: 6mm; border-radius: 50%; color: #fff; font: 700 7.6pt Inter; display: inline-flex; align-items: center; justify-content: center }}
 .hol {{ background: #fff; border: .45mm solid; box-sizing: border-box }}
 .row.x .tt {{ color: {MUTED} }} .tt i {{ font-style: normal; font-weight: 700; font-size: 7pt; letter-spacing: .04em; margin-right: 1mm }}
