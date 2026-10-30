@@ -24,7 +24,7 @@ for f in files:
     if c.count("—") > 2: p.append(f"{c.count('—')} em-dashes")
     if re.search(r"next track|track \d|play track", c, re.I): p.append("says 'next track'")
     if len(re.findall(r"the museum says", c, re.I)) > 1: p.append("'the museum says' >1")
-    if re.search(r"\b(tickets?\b|opening hours|euros?\b)|€", c, re.I): p.append("tickets/hours/prices")
+    if re.search(r"\b(tickets?\b|opening hours|(?<!billion )(?<!million )euros?\b)|€", c, re.I): p.append("tickets/hours/prices")
     if "!" in c: p.append("exclamation mark")
     last = c.split("\n\n")[-1]
     if meta.get("type") != "CLOSE" and not re.search(r"Antiquarium|[Ww]alkway|Mirador|Plaza Mayor|[Ll]ifts?|[Ss]teps|[Ll]evel|[Ss]tairs|Encarnación|exhibition|Feeling|[Ee]xit|way out", last): p.append("last paragraph has no room cue")
