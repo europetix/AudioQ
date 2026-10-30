@@ -67,7 +67,7 @@ v5/bridges/<first>-<last>.txt, one per line: `NNN E>MMM: text` or `NNN H>MMM: te
 @room: exactly as PLAN ("No. 15 · Salón de los Embajadores")
 @type: ANCHOR | R | W | X | CLOSE
 @title: exactly as in PLAN (Extras keep "Extra · "; CRA Extras "CRA 20 · Extra · …")
-@where: <1–2 sentences: where to stand and how to recognise it>
+@where: <1–2 sentences: where to stand and how to recognise it; no internal notes or check codes>
 @what: <artist, official title, date, medium, size if useful, plus other works covered>
 @listen: <1 sentence: what the track is about>
 @brief: <one line: who is speaking, to whom, in what mood>
