@@ -1,0 +1,5 @@
+001 E>007: En esta versión corta, omita el Antiquarium: vaya a los ascensores junto a su entrada, el acceso al Mirador, y escuche allí la siguiente parada antes de subir, Una plaza de muchas vidas.
+001 H>008: En esta versión corta, omita el Antiquarium: vaya directamente a los ascensores junto a su entrada, el acceso al Mirador, suba en el ascensor y empiece la siguiente parada, Setas de madera, cuando se cierren las puertas.
+008 H>012: En esta versión corta, no se detenga en esa vista: siga por la pasarela hasta los escalones que suben al Mirador trescientos sesenta, el punto más alto, y escuche arriba la siguiente parada, El punto más alto.
+012 H>018: En esta versión corta, no se detenga en la pasarela: siga bajando, pasando junto a la exposición, hasta la Plaza Mayor, la gran plaza elevada bajo los parasoles, y escuche allí la última parada.
+013 E>016: En esta versión corta, omita los Extras: siga hacia la bajada, y escuche la siguiente parada mientras baja, pasando junto a la exposición.
