@@ -2,17 +2,18 @@ import sys, os, re, json, shutil, glob, unicodedata
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT + '/v5/pipeline'); import v5_direction as V
 SRC = ROOT + '/v5/tracks'
-B = ROOT + '/bundle/Alcazar_YoTours'
+B = ROOT + '/bundle/Cathedral_YoTours'
 shutil.rmtree(B, ignore_errors=True); os.makedirs(B)
 SECTIONS = [  # (@section value, display, folder)
  ('Opening', 'Opening', '01_Opening'),
- ('The first courtyards', 'The first courtyards', '02_The_first_courtyards'),
- ('Casa de la Contratación', 'Casa de la Contratación', '03_Casa_de_la_Contratacion'),
- ('Palace of King Pedro', 'Palace of King Pedro', '04_Palace_of_King_Pedro'),
- ('Gothic palace', 'Gothic palace', '05_Gothic_palace'),
- ('The gardens', 'The gardens', '06_The_gardens'),
- ('Closing', 'Closing', '07_Closing'),
- ('Optional: Cuarto Real Alto', 'Optional: Cuarto Real Alto (separate timed visit)', '08_Optional_Cuarto_Real_Alto'),
+ ('La Giralda', 'La Giralda', '02_La_Giralda'),
+ ('The heart of the cathedral', 'The heart of the cathedral', '03_The_heart_of_the_cathedral'),
+ ('Around the naves', 'Around the naves', '04_Around_the_naves'),
+ ('Columbus', 'Columbus', '05_Columbus'),
+ ('Sacristies and chapter house', 'Sacristies and chapter house', '06_Sacristies_and_chapter_house'),
+ ('Royal chapel and the way to the courtyard', 'Royal chapel and the way to the courtyard', '07_Royal_chapel_to_the_courtyard'),
+ ('Patio de los Naranjos', 'Patio de los Naranjos', '08_Patio_de_los_Naranjos'),
+ ('Closing', 'Closing', '09_Closing'),
 ]
 SEC = {s[0]: s for s in SECTIONS}
 
@@ -26,15 +27,12 @@ def short_title(title, room):
     """The title without a leading room name (Palatine titles start with the door sign; the room is already in the file name)."""
     if room and title.startswith(room):
         return title[len(room):].lstrip(" ·—-")
-    m = re.match(r"^(?:CRA )?\d+ · ", title)   # Alcázar titles start with the leaflet number: "15 · Salón de los Embajadores — …"
-    return title[m.end():] if m else title
+    return title   # Cathedral titles: "<Spanish space> — <title>"; the space is kept
 
 def room_label(sec, room, title=""):
     if sec in ("Opening", "Closing"):
         return ""
-    m = re.match(r"^No\. (\d+)", room)
-    if m:
-        return f"No{int(m.group(1)):02d}"   # file names carry the leaflet number
+    return ""   # the title already starts with the Spanish space name
     r = room.replace("–", "-")
     return slug(r.replace(" ", "-").replace("-", "~"), 24).replace("_", "-").replace("~", "-") .strip("-")
 
@@ -58,7 +56,7 @@ for f in sorted(glob.glob(SRC + '/*.perf.txt')):
         script=f"scripts/{folder}/{base}.txt", perf=f"perf/{folder}/{base}.perf.txt",
         mp3=f"{folder}/{base}.mp3"))
 tw = sum(t['words'] for t in tracks)
-plan = dict(tour_number=0, tour_slug="Real_Alcazar_de_Sevilla", format="V5 Yo Tours 30 Oct 2026", language="EN",
+plan = dict(tour_number=0, tour_slug="Catedral_de_Sevilla", format="V5 Yo Tours 30 Oct 2026", language="EN",
     voices={"1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
             "2": "en-US-AndrewMultilingualNeural (trial)", "3": "en-US-BrianMultilingualNeural (earlier test voice)"},
     wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 64 kbps mono",

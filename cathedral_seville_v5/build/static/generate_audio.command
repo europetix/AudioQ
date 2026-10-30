@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# Yo Tours - Real Alcázar de Sevilla - English audio guide (30 Oct 2026 edition)
+# Yo Tours - Catedral de Sevilla + Giralda - English audio guide (30 Oct 2026 edition)
 # Pick a voice at runtime: Ava (default, edge-tts), Andrew or Brian (edge-tts).
 # V5: each track is performed from its direction layer (perf/), with real pauses and mastering.
 cd "$(dirname "$0")"
 
-BASE_DIR="$HOME/Desktop/Alcazar_YoTours_EN"   # new folder name: older Alcázar renders stay untouched
+BASE_DIR="$HOME/Desktop/Cathedral_YoTours_EN"   # new folder name: older Cathedral renders stay untouched
 
 echo ""
 echo "================================================================"
-echo "  Yo Tours - Real Alcazar de Sevilla (30 Oct 2026 edition)"
-echo "  Real Alcazar - English  (@@N_FULL@@ tracks: @@N_MAIN@@ main stops + @@N_X@@ short Extras)"
+echo "  Yo Tours - Catedral de Sevilla and the Giralda (30 Oct 2026 edition)"
+echo "  Seville Cathedral - English  (@@N_FULL@@ tracks: @@N_MAIN@@ main stops + @@N_X@@ short Extras)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -27,15 +27,15 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The guide in all three lengths: Full (@@N_FULL@@ tracks, about 2 h), Essential (@@N_ESS@@ tracks, about 1 h 15)"
+echo "  1) The guide in all three lengths: Full (@@N_FULL@@ tracks, about 1 h 35), Essential (@@N_ESS@@ tracks, about 1 h 15)"
 echo "     and Highlights (@@N_HI@@ tracks, about 45 min). Records once, then makes the three folders."
-echo "  2) Two voice samples only: 007 the palace facade + 014 the emperor's wedding (a few minutes)"
+echo "  2) Two voice samples only: 008 the Retablo Mayor + 014 Columbus's tomb (a few minutes)"
 echo "  3) Highlights only (@@N_HI@@ tracks, about 45 min; quickest to make; option 1 later reuses them)"
 printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
-    export ONLY="007 014"
-    BASE_DIR="$HOME/Desktop/Alcazar_YoTours_Voice_Samples/Sample"
+    export ONLY="008 014"
+    BASE_DIR="$HOME/Desktop/Cathedral_YoTours_Voice_Samples/Sample"
 fi
 if [ "$SCOPE" = "3" ]; then
     export ONLY="@@HIGHLIGHTS@@"   # recorded into the full-tour folder (option 1 later skips them), then the Highlights folder is made
@@ -73,11 +73,11 @@ ESSENTIAL="@@ESSENTIAL@@"
 HIGHLIGHTS="@@HIGHLIGHTS@@"
 make_length () {   # a shorter version out of the full render (no re-recording), with spoken "next stop" bridges: $1 = name, $2 = tracks
     python3 make_lengths.py "$OUTPUT_DIR" "." "en" "$1" "$2" && python3 tag_tracks.py "${OUTPUT_DIR}_$1" "." "en" >/dev/null
-    cp Alcazar_Audio_Guide_Route.pdf "${OUTPUT_DIR}_$1/" 2>/dev/null
+    cp Cathedral_Audio_Guide_Route.pdf "${OUTPUT_DIR}_$1/" 2>/dev/null
 }
 # navigation PDF + guides into the tour folder (not for voice samples)
 echo ""
-[ "$SCOPE" = "2" ] || for f in Alcazar_Audio_Guide_Route.pdf README.txt; do
+[ "$SCOPE" = "2" ] || for f in Cathedral_Audio_Guide_Route.pdf README.txt; do
     cp "$f" "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] $f"
 done
 if [ "$SCOPE" != "2" ] && [ "$SCOPE" != "3" ]; then make_length Essential "$ESSENTIAL"; make_length Highlights "$HIGHLIGHTS"; fi
@@ -92,6 +92,6 @@ if [ "$SCOPE" = "3" ]; then echo "  Done. The Highlights tracks are recorded in:
 [ "$SCOPE" = "2" ] || [ "$SCOPE" = "3" ] || echo "  Shorter versions: ${OUTPUT_DIR}_Essential and ${OUTPUT_DIR}_Highlights"
 [ "$SCOPE" = "3" ] && echo "  Highlights (with the spoken 'next stop' lines): ${OUTPUT_DIR}_Highlights"
 echo "  One folder per section, tracks numbered in walking order."
-echo "  Alcazar_Audio_Guide_Route.pdf: the route and where to stand for every track."
+echo "  Cathedral_Audio_Guide_Route.pdf: the route and where to stand for every track."
 echo "================================================================"
 read -p "Press enter to close..."

@@ -1,0 +1,1 @@
+{"note": "Seville Cathedral, 30 Oct 2026: bridges are hand-written; Extras-only skips are silent.", "skip_extras_silently": true}

@@ -66,9 +66,14 @@ order = sorted(tracks)
 
 def bridge_text(cur, nxt):
     t = tracks[nxt]
-    if t["type"] == "CLOSE" or " · " not in t["title"]:
+    if t["type"] == "CLOSE":
         return TXT[1]
-    place, subject = t["title"].split(" · ", 1)
+    if " · " in t["title"]:
+        place, subject = t["title"].split(" · ", 1)
+    elif " — " in t["title"]:                         # Seville Cathedral titles: "<Spanish space> — <title>"
+        place, subject = t["title"].split(" — ", 1)
+    else:
+        return TXT[1]
     for rx, names in CFG.get("alias", {}).items():   # e.g. the Botticelli rooms: never speak their (uncertain) numbers
         if re.match(rx, place):
             place = names.get(LANG, names["en"]); break

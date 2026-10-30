@@ -7,7 +7,7 @@ Usage (from the bundle folder):  python3 tag_tracks.py <output folder> <script f
 import glob, json, os, re, subprocess, sys
 
 BRAND = "Yo Tours"
-MUSEUM = "Real Alcázar de Sevilla"
+MUSEUM = "Catedral de Sevilla"
 LANGS = {"en": ("English", "eng"), "es": ("Español", "spa"), "fr": ("Français", "fra"), "de": ("Deutsch", "deu"), "it": ("Italiano", "ita")}
 GUIDE = {"en": "Audio Guide", "es": "Audioguía", "fr": "Audioguide", "de": "Audioguide", "it": "Audioguida"}
 HERE = os.path.dirname(os.path.abspath(__file__))
