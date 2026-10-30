@@ -1,0 +1,28 @@
+@id: 013 · DE · Walkway, toward the way down · 30 Oct 2026 edition
+@section: Walkways and Mirador
+@room: Walkway · toward the way down
+@type: W
+@title: Rundweg — Geliebt oder gehasst
+@where: Auf dem Rundweg, nachdem Sie vom Mirador wieder heruntergekommen sind, unterwegs zum Weg nach unten. Im Gehen oder am Geländer stehend, wo Sie anderen nicht im Weg sind.
+@what: The controversy over Metropol Parasol: protests at the opening on 27 March 2011, the critics' verdict "como a un Cristo dos pistolas", Rowan Moore's review as relayed by Dezeen, Mayor Alfredo Sánchez Monteseirín's "moderna catedral urbana"; the four-year delay and the cost the city reported to Spain's Ombudsman, without the museum figure; Red Dot "Best of the Best" 2012, Mies van der Rohe Award finalist 2013, over a million visitors in the first year by one count.
+@listen: Why Seville argued about the Setas for years, what it cost, and what it won.
+@brief: A fair-minded friend telling both sides as you walk; curious, a little wry with the quotes, straight on the money, leaving the verdict to the listener.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.publico.es/actualidad/legado-monteseirin.html (SEC Público, 28 Mar 2011: citizens "protestaron contra su inauguración", arguing its cost blocked neighbourhood rehabilitation projects; critics: it suits the historic centre "como a un Cristo dos pistolas"; Monteseirín: "Una moderna catedral urbana…", stopped there) ; https://www.dezeen.com/?p=2314624 (SEC Dezeen 2026: "fierce local opposition" from 2004 to the 2011 opening; planned opening 2007, pushed back four years; Rowan Moore: "Oh my God, it's an icon. How very last decade.", relayed, SNIP per FACTS) ; https://www.defensordelpueblo.es/noticias/el-defensor-del-pueblo-suspende-su-investigacion-sobre-las-setas-de-la-encarnacion-tras-la-informacion-remitida-por-el-ayuntamiento-de-sevilla-2/ (OFF Defensor del Pueblo, 2 Jul 2013: budget 51,206,918.25 €, final cost 102,349,992.07 €; archaeological museum +8,499,531.64 €; "modificaciones en la estructura de madera"; court cases pending) ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC: disputes with the construction company and archaeological costs among the reasons; controversy "enormous"; "More than a million people went up to the lookout the first year") ; https://www.jmayerh.de/metropol-parasol (OFF: Reddot "best of the best" 2012; Mies van der Rohe Award finalist 2013) ; https://www.red-dot.org/project/metropol-parasol-29871 (OFF: Red Dot "Best of the Best", Product Design 2012, "Urban design and public spaces"; corrected 30 Oct 2026 per audit: S-HIST says only bronze, "Sustainable Construction") ; https://setasdesevilla.com/en/history-and-construction (OFF: Mies van der Rohe finalist, Jan 2013)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Als die Setas im März 2011 eröffnet wurden, gingen einige Sevillaner zum Protest auf die Straße. Sie meinten, die Kosten hätten Geld verschlungen, das ihre eigenen Viertel brauchten.
+
+Jahrelang war es das umstrittenste Gebäude Sevillas. Man stieß sich am Geld und an seinem Aussehen mitten in der Altstadt. [pause] Kritiker sagten, die Setas passten zur Altstadt „wie zwei Pistolen zu einem Christus“. So sagt man auf Spanisch, dass etwas völlig fehl am Platz ist.
+
+[wry] Der britische Kritiker Rowan Moore blieb trocken: „Oh Gott, es ist eine Ikone. So was von letztes Jahrzehnt.“ Der Bürgermeister, der es eröffnete, Alfredo Sánchez Monteseirín, sah etwas ganz anderes: „eine moderne städtische Kathedrale“.
+
+[pause] Dann kamen die Verzögerung und die Rechnung. Eröffnet werden sollte es 2007, es dauerte vier Jahre länger. [pause] Die Stadt teilte dem spanischen Bürgerbeauftragten mit, dass sich die Kosten etwa verdoppelt hatten. Aus einem Budget von rund einundfünfzig Millionen Euro wurde eine Endabrechnung von rund hundertzwei Millionen. Änderungen am Holztragwerk, die Archäologie und Streit mit der Baufirma trugen alle dazu bei.
+
+Und doch. Es gewann eine Red-Dot-Auszeichnung „Best of the Best“ für Design. Es war Finalist beim Mies-van-der-Rohe-Preis der Europäischen Union für Architektur. [pause] Und einer Zählung zufolge stiegen im ersten Jahr über eine Million Menschen auf den Rundweg.
+
+[quietly] Sie stehen gerade darauf, also haben auch Sie eine Stimme. Ikone, Torheit, oder ein bisschen von *beidem*?
+
+Hier gibt es zwei kurze Extra-Titel: Aurora, das Licht im Holz nach Einbruch der Dunkelheit, und Feeling Sevilla, über den Filmsaal. Feeling Sevilla spielen Sie, bevor Sie hineingehen. Die nächste Hauptstation spielen Sie beim Hinuntergehen, vorbei an der Ausstellung: Von der Baustelle zum Wahrzeichen.

@@ -1,0 +1,5 @@
+001 E>007: In dieser Kurzfassung lassen Sie das Antiquarium aus: Gehen Sie zu den Aufzügen neben seinem Eingang, dem Zugang zum Mirador, und spielen Sie dort vor der Auffahrt die nächste Station, Ein Platz mit vielen Leben.
+001 H>008: In dieser Kurzfassung lassen Sie das Antiquarium aus: Gehen Sie direkt zu den Aufzügen neben seinem Eingang, dem Zugang zum Mirador. Fahren Sie hinauf und starten Sie die nächste Station, Pilze aus Holz, wenn sich die Türen schließen.
+008 H>012: In dieser Kurzfassung gehen Sie an diesem Ausblick vorbei: Gehen Sie auf dem Rundweg weiter zu den Stufen hinauf zum Mirador dreihundertsechzig, dem höchsten Punkt, und spielen Sie oben die nächste Station, Der höchste Punkt.
+012 H>018: In dieser Kurzfassung halten Sie nicht auf dem Rundweg an: Gehen Sie weiter hinunter, an der Ausstellung vorbei, zur Plaza Mayor, dem großen erhöhten Platz unter den Schirmen. Spielen Sie dort die letzte Station.
+013 E>016: In dieser Kurzfassung lassen Sie die Extra-Titel aus: Gehen Sie weiter zum Weg nach unten und spielen Sie die nächste Station beim Hinuntergehen an der Ausstellung vorbei.

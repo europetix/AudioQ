@@ -1,0 +1,32 @@
+@id: 007 · DE · Level −1 lifts · 30 Oct 2026 edition
+@section: Going up
+@room: Level −1 · by the lifts
+@type: W
+@title: Plaza de la Encarnación — Ein Platz mit vielen Leben
+@where: Auf der Ebene minus eins, an den Aufzügen, die zum Mirador hinauffahren, neben dem Eingang des Antiquariums. Spielen Sie den Titel, während Sie warten. Sie müssen dabei nichts ansehen.
+@what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville.
+@listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
+@brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.
+@pace: medium
+@energy: 3→3→3
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF AAA99: convent founded "en 1591"; "decreto napoleónico de 1810"; market built "1831-42"; "1948 con la creación del eje de comunicación Osario-La Campana"; "en 1973 con la demolición") ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF AAA91: convent of Augustinian nuns founded 1591) ; https://setasdesevilla.com/en/history-and-construction (OFF: market "Designed by the major architect of Seville, Melchor Cano"; 1973 "structural problems in the market's vegetable and fish stalls") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC PUBSP: convent demolished during the Napoleonic invasion; site later "a car park or bus depot") ; https://visitasevilla.es/en/?p=1576 (OFF: 1990s excavation "to build a subway parking", project aborted after the discovery) ; FG2009 via FACTS §1 (Joseph Bonaparte's decree of 20 Apr 1810; wooden market from 1820; Cano's hall approved 1832, built 1833–37; not re-read) ; "fenced, dusty car park": FACTS §1 (PUBSP, MERCASA)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 007 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Diesen Platz gibt es wegen Napoleons Bruder.
+
+Er ist benannt nach dem Kloster der Menschwerdung, der Encarnación, einem Nonnenkloster, das hier Ende des sechzehnten Jahrhunderts gegründet wurde. Die Nonnen blieben mehr als zwei Jahrhunderte. Dann kamen die Franzosen. [pause] Während der Besatzung, 1810, ließ die Regierung von Joseph Bonaparte das Kloster abreißen, um einen Platz zu schaffen.
+
+Ein Platz bleibt in Sevilla selten lange leer. Bald hatten Händler hier einen Markt aus Holz. Dann baute die Stadt eine richtige Markthalle, entworfen vom Architekten Melchor Cano. Sie entstand in den 1830er-Jahren. Weit über ein Jahrhundert lang war dies Sevillas zentraler Markt.
+
+[pause] Von Dauer war das nicht. Um die Mitte des letzten Jahrhunderts schnitt eine neue Verkehrsachse einen Teil der Markthalle ab. 1973 wurde der Rest abgerissen, vor allem wegen baulicher Probleme. Die Händler mussten in provisorische Stände umziehen, und jahrzehntelang war der Platz ein eingezäunter, staubiger Parkplatz.
+
+Später plante die Stadt darunter eine Tiefgarage. Die Grabung stieß auf das römische Sevilla, und der Plan wurde fallen gelassen. Was man fand, liegt im Antiquarium, gleich neben diesen Aufzügen.
+
+[wry] Die Lücke, die Napoleons Bruder geschlagen hatte, wurde also immer wieder gefüllt. Erst von einem Markt, dann von parkenden Autos, dann von Archäologen und schließlich von den Setas.
+
+Und die Händler? Ihre eigene Geschichte wartet am Ende auf Sie, über der Markthalle.
+
+[warmly] Der Aufzug, in den Sie gleich steigen, fährt durch jedes Kapitel davon, von unter den alten Straßen bis hoch über die Dächer.
+
+Fahren Sie mit dem Aufzug hinauf. [pause] Starten Sie die nächste Station, wenn sich die Türen schließen. Sie läuft weiter, während Sie auf den Rundweg hinaustreten: Pilze aus Holz.
