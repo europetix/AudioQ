@@ -1,0 +1,30 @@
+@id: 004 · DE · Giralda · bell level · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · bell level
+@type: W
+@title: Giralda — Der Blick von den Glocken
+@where: Oben am Ende der Rampen, in der Glockenstube der Giralda, an einer Öffnung auf der Seite, die auf den Patio de los Naranjos hinunterblickt: Reihen von Orangenbäumen in einem ummauerten Hof tief unten [O5]. Treten Sie von den Öffnungen zurück, damit andere vorbeikommen.
+@what: The Renaissance belfry of the Giralda by Hernán Ruiz the Younger (contract 17 Dec 1557, after a competition; crowned 13 Aug 1568) on the Almohad minaret; the view of the Patio de los Naranjos and the cathedral roofs; the crossing dome's collapse in 1511; DATED: Phase VI works on the bell chamber and Renaissance crown since April 2026; the lily vase that fell in February 2026.
+@listen: Who put a Renaissance crown on a minaret, what you can see of the mosque from up here, and what has happened to the tower this year.
+@brief: Arriving at the top with the listener; warm and a little elated, then guided looking over the courtyard and roofs, quiet at the payoff.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta: the Chapter had held a design competition, Hernán Ruiz's project chosen; contract "fechado el 17 de diciembre de 1557"; figure placed "el 13 de agosto de 1568 coronando la Giralda") ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-giralda (OFF: Hernán Ruiz replaced the deteriorated last Almohad body with a Renaissance finial in the sixteenth century) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1507 inauguration 11 May; 1511 "the primitive dome over the transept collapses") ; Patio = mosque's ablutions courtyard: FACTS §3.1 (OFF Patio page), Archnet (SEC: "Court of the Oranges" enclosed by the mosque's walls) ; https://www.catedraldesevilla.es/en/phase-vi-of-the-giralda-intervention-begins/ (OFF: after Holy Week 2026, interior of the Bell Chamber and the whole Renaissance Crown, about 22 months, "cultural visits ... will not be interrupted at any time") ; https://www.catedraldesevilla.es/en/the-cathedral-maintains-its-cultural-visits-during-regular-hours/ (OFF: storm Leonardo, one bronze jar came loose, visits continued) ; https://www.elespanol.com/sevilla/20260221/catedral-sevilla-desmonta-azucenas-giralda-caer-suelo-primeros-febrero/1003744140101_0.html (SEC: one of four jarras de azucenas fell 5 Feb 2026 at 6:15; the other three taken down by crane Sat 21 Feb 2026, to supports in the Patio) ; landmarks beyond the Patio and roofs: not named until O5
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 004 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Sie sind auf ein Minarett der Almohaden gestiegen. Jetzt stehen Sie in einer Glockenstube der Renaissance, die fast vier Jahrhunderte später daraufgesetzt wurde.
+
+Ihr Architekt war Hernán Ruiz der Jüngere. Das Domkapitel schrieb einen Wettbewerb für einen neuen Turmabschluss aus, und sein Entwurf gewann. Im Dezember 1557 unterschrieb er seinen Vertrag. [pause] Der alte Abschluss der Almohaden war verfallen. Also ersetzte er ihn durch einen der Renaissance, und 1568 wurde das Werk gekrönt.
+
+Suchen Sie nun die Seite, die direkt in den Patio de los Naranjos hinunterblickt, den Hof der Orangenbäume. [pause] Diese Baumreihen stehen im einstigen Hof der Moschee, wo sich die Gläubigen vor dem Gebet wuschen. Dort endet Ihr Besuch, und Sie gehen durch sein Tor hinaus.
+
+Dann blicken Sie über die Dächer und Kuppeln der Kathedrale. Ein Bau dieser Größe hat seine Krisen erlebt. 1511, nur vier Jahre nach der Eröffnung der Kathedrale, stürzte die Kuppel über der Vierung ein und musste neu gebaut werden.
+
+Hier oben wird gerade gebaut. Seit dem Frühjahr 2026 werden die Glockenstube und die Renaissancekrone darüber restauriert. Die Kathedrale sagt, Besuche werden nicht unterbrochen.
+
+[pause] Auch das Wetter hat mitgeredet. Im Februar 2026 stürzte ein Sturm eine der vier Bronzevasen mit Lilien herab, die an den Ecken der Glockenstube standen. Die anderen drei hob man etwa zwei Wochen später mit einem Kran herunter, zur Untersuchung.
+
+[quietly] Unter Ihren Füßen ein Minarett der Almohaden. Um Sie herum eine Glockenstube der Renaissance voller christlicher Glocken. Die ganze Geschichte dieses Ortes ist in einem Turm übereinandergeschichtet.
+
+Hier gibt es einen kurzen Extra-Titel über die Glocken. Danach gehen Sie dieselben Rampen der Giralda wieder hinunter und halten sich rechts. Die nächste Hauptstation spielt auf dem Weg nach unten.

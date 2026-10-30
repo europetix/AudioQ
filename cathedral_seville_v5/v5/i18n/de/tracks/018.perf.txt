@@ -1,0 +1,28 @@
+@id: 018 · DE · Sacristía Mayor · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sacristía Mayor
+@type: W
+@title: Sacristía Mayor — Campañas Kreuzabnahme
+@where: In der Sacristía Mayor, der großen Kuppelsakristei. Stellen Sie sich vor die Mittelkapelle: Davor hängt Pedro de Campañas großes Gemälde, auf dem der Leichnam Christi vom Kreuz herabgelassen wird.
+@what: Pedro de Campaña, Descent from the Cross, 1547, painted for the chapel of Hernando de Jaén in the parish church of Santa Cruz, Seville.
+@listen: The painting Murillo could not stop looking at, and the church that both of them lost.
+@brief: Quiet, intimate storytelling in a grand room; reverent in front of the painting, tender with Murillo, a soft sigh at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF: Pedro de Campaña, 1547, "Sacristía Mayor") ; https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF: "In front of the central chapel is located the great painting of Pedro de Campaña, the Descent of Christ"; Greek-cross plan, dome) ; https://www.ge-iic.com/files/IVcongreso/30_maria_arjonillas3.pdf (SEC GE-IIC: made for the chapel of Hernando de Jaén in the former parish church of Santa Cruz, demolished 1810 during the French occupation; Ponz, Viage de España 1786: Murillo studied it continually and in his last years told the sacristan he was waiting "cuando acababan de bajar de la cruz a aquel Divino Señor"; paper dates the painting c.1570, overridden by OFF 1547) ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC: Murillo asked in his will to be buried in Santa Cruz and was; the French destroyed the church; a plaque of 1858 in the Plaza de Santa Cruz marks the approximate place)
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 018 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Die meisten Bilder sieht man sich einmal an. Einer der beliebtesten Maler Sevillas kam jahrelang immer wieder zu diesem zurück.
+
+Sie sind in der Sacristía Mayor, der großen Sakristei. Vor ihrer Mittelkapelle hängt die Kreuzabnahme von Pedro de Campaña. Er war ein flämischer Maler, der in Sevilla arbeitete, und er malte sie 1547. [pause] Sie entstand für eine Kapelle in einer der Pfarrkirchen der Stadt, Santa Cruz, der Kirche vom Heiligen Kreuz.
+
+[pause] Sehen Sie die Figuren am Kreuz, die den Leichnam abnehmen. Dieser Moment fesselte Bartolomé Esteban Murillo. Ein Schriftsteller des achtzehnten Jahrhunderts, Antonio Ponz, erzählt, wie Murillo in jener Kapelle stand und es immer wieder betrachtete. Spät im Leben sagte er dem Sakristan, er warte, bis sie unseren Herrn ganz vom Kreuz abgenommen hätten.
+
+[quietly] Eine schöne Geschichte, und wir kennen sie nur aus zweiter Hand. Aber sie zeigt, was Maler von diesem Bild hielten, mehr als ein Jahrhundert nach seiner Entstehung.
+
+Murillo wollte in derselben Kirche begraben werden, und so geschah es. Dann, während der französischen Besetzung Sevillas, wurde die Kirche Santa Cruz abgerissen. [pause] Das Gemälde überlebte und kam mit der Zeit in die Kathedrale. Murillos Grab ging mit dem Bau verloren. Heute markiert eine Tafel auf dem Platz von Santa Cruz nur ungefähr, wo er liegt.
+
+[warmly] So hängt das Bild, das er liebte, in der Kathedrale. Und der Mann, der es liebte, liegt irgendwo unter einem Platz ganz in der Nähe.
+
+Hier gibt es einen kurzen Extra-Titel über die Kuppel und zwei Bischöfe von Murillo. Die nächste Hauptstation ist ebenfalls in diesem Raum, hier in der Sacristía Mayor: die große silberne Monstranz, die Custodia de Arfe.

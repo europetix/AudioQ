@@ -1,0 +1,26 @@
+@id: 024 · DE · Puerta de la Concepción · 30 Oct 2026 edition
+@section: Royal chapel and the way to the courtyard
+@room: Puerta de la Concepción · north transept
+@type: R
+@title: Puerta de la Concepción — Zurück in den Hof der Moschee
+@where: In der Kirche, an der Stirnwand des Querschiffarms auf der Turmseite, mit Blick auf die Puerta de la Concepción: die hohe gotische Tür am Ende dieses Querschiffarms. Halten Sie Abstand zur Tür, abseits vom Strom der Menschen, die hindurchgehen.
+@what: Puerta de la Concepción, on the north front of the transept, opening onto the Patio de los Naranjos; completed in Gothic style by Adolfo Fernández Casanova (date not spoken: 1887 on the building page, 1917 on the timeline). Above it, Arnao de Flandes, The Ascension, stained glass, 1539–1541; Arnao also made thirteen windows of saints in the transept.
+@listen: A door that looks medieval but was finished in modern times, the Ascension window above it, and the courtyard of the mosque beyond.
+@brief: A friend pausing at a doorway before going out; curious, lightly wry about the door's age, then a sense of stepping back in time.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF, read 30 Oct 2026: Concepción "on the north front of the transept", opens onto the Orange Tree Courtyard, "remained so until 1887", completion designed by Adolfo Fernández Casanova in the Gothic style; Príncipe in the south arm of the transept, also by Fernández Casanova in the building's Gothic style) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, read 30 Oct 2026: "The Puerta de la Concepción is finished. (1917)", hence no date spoken; 1507 inauguration) ; https://www.catedraldesevilla.es/en/?p=53385 (OFF, read 30 Oct 2026: "LA ASCENSIÓN", Arnao de Flandes, 1539–1541, "Hastial del crucero norte sobre la puerta de la Concepción"; Arnao documented 1534–1557, "thirteen stained glass windows with saints in the transept") ; FACTS §1.10 (finished 1506, OFF [O4]) ; Altar de Plata NOT scripted (O15; ready sentence in notes)
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 024 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Die gotische Kathedrale war 1506 fertig. Diese Tür musste sehr viel länger warten.
+
+Das ist die Puerta de la Concepción, das Tor der Empfängnis, am Ende dieses Querschiffarms. Sie führt nicht auf die Straße. Sie führt in den Patio de los Naranjos, den alten Hof der Moschee.
+
+Jahrhundertelang blieb diese Fassade unvollendet. Fertig wurde sie erst in moderner Zeit, durch den Architekten Adolfo Fernández Casanova. Er baute auch die Puerta del Príncipe am anderen Ende des Querschiffs. Er arbeitete im gotischen Stil, passend zum Rest. [wry] Das hier ist also einer der jüngsten Teile des Baus, gekleidet wie einer der ältesten.
+
+[pause] Blicken Sie nun über die Tür, zum großen Himmelfahrtsfenster. Dieses Glas ist wirklich alt. Es entstand um 1540, geschaffen von Arnao de Flandes, Arnold von Flandern, einem Glasmaler, der über zwanzig Jahre an dieser Kathedrale belegt ist. [pause] Die Kathedrale schreibt ihm außerdem dreizehn Heiligenfenster hier im Querschiff zu.
+
+[pause] Die Tür ist also neu, und das Licht darüber stammt aus der Renaissance. Und der Raum dahinter ist älter als beide. Wenn Sie hindurchtreten, verlassen Sie die gotische Kirche. Sie gehen mehr als achthundert Jahre zurück, in den Hof, in dem sich einst die Gläubigen der Moschee versammelten.
+
+Gehen Sie also durch die Puerta de la Concepción hinaus in den Patio de los Naranjos: Reihen von Orangenbäumen rund um einen Brunnen.

@@ -1,0 +1,30 @@
+@id: 025 · DE · Patio de los Naranjos · 30 Oct 2026 edition
+@section: Patio de los Naranjos
+@room: Patio de los Naranjos
+@type: W
+@title: Patio de los Naranjos — Der Hof der Moschee
+@where: Im Patio de los Naranjos, dem großen offenen Hof neben der Kathedrale: Orangenbäume in einem strengen Raster, kleine Wasserrinnen dazwischen, ein Brunnen in der Mitte und an den Seiten Arkaden mit spitzen Hufeisenbögen, darüber die Giralda. Stellen Sie sich unter die Bäume oder an eine Arkade, abseits vom Weg zum Ausgang.
+@what: The former sahn (ablutions courtyard) of the Almohad Great Mosque, ordered 1172: original pillars and pointed horseshoe arches; of three galleries two remain, the third demolished for the Sagrario church (1618–1662); orange trees in a rigid grid with water channels still in use; modern fountain on the site of the old sabil, its upper bowl Visigothic and "the same as the primitive Almohad fountain" (Cathedral).
+@listen: How the mosque's washing courtyard survived the mosque, and the oldest thing in it.
+@brief: A friend sitting down in the shade after the long visit; warm and unhurried, curious at the fountain, quietly satisfied at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-patio-de-los-naranjos-and-colombian-library/ (OFF, read 30 Oct 2026: "old sahn of the mosque"; "original structure, configured with pillars supporting pointed horseshoe arches, can still be seen"; "modern fountain occupying the place of the old sabil", "the upper bowl is Visigothic and is the same as the primitive Almohad fountain", used for ablutions before entering the mosque; "Of the three original galleries … only two remain", the west one demolished for the Sagrario; "rigid arrangement of orange trees" with "a network of channels that draw geometric figures and are still used for the flow of water") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, read 30 Oct 2026: Sagrario begun 1618, finished 1662) ; FACTS §1.1 (mosque ordered 1172, OFF [O1]), §1.19 (Gothic plan follows the mosque's footprint, SEC Archnet [S1]), §2.1/2.10 (the minaret became the bell tower) ; lily vases NOT scripted (O16; dated sentence in notes)
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 025 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Vor mehr als achthundert Jahren betrat niemand die große Moschee von Sevilla mit staubigen Händen und Füßen. Zuerst wusch man sich. Und zwar genau hier.
+
+Sie sind im Patio de los Naranjos, dem Hof der Orangenbäume. Er war der Sahn der Almohaden-Moschee, ihr offener Hof, wo die Muslime Sevillas ihre Waschungen vollzogen, bevor sie zum Gebet hineingingen.
+
+Der Gebetssaal selbst ist verschwunden. Die gotische Kathedrale, durch die Sie gerade gegangen sind, steht an seiner Stelle, auf fast demselben Rechteck. Deshalb ist die Kirche so breit. [pause] Doch Teile überlebten. Einer ist dieser Hof. Ein anderer ragt darüber auf: die Giralda, einst das Minarett dieser Moschee, der Turm, der die Gläubigen zum Gebet rief.
+
+[pause] Sehen Sie sich die Arkaden an. Diese Pfeiler mit spitzen Hufeisenbögen sind die ursprüngliche Bausubstanz der Moschee. Einst gab es drei Galerien. Nur zwei sind geblieben. Die dritte wich dem Sagrario, der Pfarrkirche, die zwischen 1618 und 1662 an den Hof gebaut wurde.
+
+Nun die Bäume. Sie stehen in einem strengen Raster, und dazwischen verläuft ein Netz kleiner Rinnen, die geometrische Formen in den Boden zeichnen. Sie führen noch Wasser.
+
+[curious] Und in der Mitte der Brunnen. Er ist modern und steht dort, wo der Brunnen der Moschee stand. Doch die Kathedrale sagt, seine obere Schale sei westgotisch, dieselbe Schale, die die Almohaden benutzten. [pause] Wenn das stimmt, ist das Älteste in diesem Hof älter als die Moschee. Ein Becken aus dem christlichen Spanien vor der Ankunft der Muslime, von der Moschee wiederverwendet und von der Kathedrale bewahrt.
+
+[quietly] Der Hof einer Moschee, der Garten einer Kathedrale, und in seiner Mitte eine Schale, älter als beide.
+
+Suchen Sie sich nun einen Platz im Patio de los Naranjos, von dem aus Sie die äußerste Spitze der Giralda sehen. Dort steht die Bronzefigur, die sie krönt: der Giraldillo.

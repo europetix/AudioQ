@@ -1,0 +1,28 @@
+@id: 015 · DE · Sepulcro de Cristóbal Colón · 30 Oct 2026 edition
+@section: Columbus
+@room: Sepulcro de Cristóbal Colón
+@type: W
+@title: Sepulcro de Colón — Wessen Gebeine?
+@where: Noch am Grabmal des Kolumbus, an der Puerta del Príncipe: der Sarg, getragen von vier Herolden.
+@what: The remains in Arturo Mélida's monument; their journey from Valladolid (1506) by way of the Cartuja in Seville, Santo Domingo and Havana; the 1877 Santo Domingo find; the University of Granada DNA studies announced in 2006 and 2024; Hernando Colón, buried in the cathedral, and his library.
+@listen: Columbus's long journey after death, two countries that claim his bones, and what the DNA studies can and cannot say.
+@brief: An honest, unhurried explanation by a grave; curious, careful with the science, warm at the end with Hernando's books.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.upo.es/patio-colorado/?p=11176 (SEC low: died Valladolid 1506; moved by his son Diego to the Cartuja, Santa María de las Cuevas; around 1537 to Santo Domingo Cathedral; to Havana after 1795; back to Seville in 1898; 1877 lead box with bones and Columbus's name found in Santo Domingo Cathedral; Dominican claim) ; https://www.nbcnews.com/id/wbna12871458 (SEC NBC/AP 19 May 2006: mitochondrial DNA of his brother Diego compared; Marcial Castro: "absolute matchup"; Santo Domingo "might conceivably also hold part of the right body"; Juan Bautista Mieses, Columbus Lighthouse: "The remains have never left Dominican territory"; testing refused: "one does not bother the dead") ; https://www.ultimahora.com/investigadores-confirman-que-los-huesos-enterrados-en-sevilla-son-de-cristobal-colon (SEC EFE 10 Oct 2024: José Antonio Lorente, University of Granada, says the Seville bones are Columbus's, compared with his son Hernando and brother Diego; 2003–2005 only "compatibilidad posible"; results "will be published", not yet) ; https://www.publico.es/culturas/confirman-huesos-enterrados-catedral-sevilla-son-cristobal-colon.html (SEC 10 Oct 2024: "el esqueleto que hay en Sevilla es incompleto"; the Dominican remains "no han sido objeto de estudio") ; https://www.aljazeera.com/news/2024/10/27/what-is-the-science-behind-the-christopher-columbus-origins-discovery (SEC: origin findings "have not yet been peer-reviewed") ; https://artsandculture.google.com/asset/drawing-for-the-gravestone-by-hernando-colón-0001/hwFFECUk6oecCQ (SEC AHPS: Hernando died in Seville 12 Jul 1539, "buried in the Cathedral of that city") ; https://www.catedraldesevilla.es/en/?p=53313 (OFF: books inherited from his father, Imago Mundi, Marco Polo, Book of Prophecies; each book notes he "left this book for the use and benefit of all his fellow men")
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 015 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Christoph Kolumbus reiste immer weiter, selbst nach seinem Tod.
+
+Er starb in Valladolid. Sein Leichnam kam in ein Kloster in Sevilla, die Cartuja. Dann überquerte er den Atlantik zur Kathedrale von Santo Domingo, auf Hispaniola. [pause] Als Spanien diesen Teil der Insel aufgab, brachte man Gebeine nach Havanna. Und als Spanien Kuba verlor, kamen diese Gebeine hierher zurück, in dieses Grabmal.
+
+[pause] Doch 1877 fanden Arbeiter in der Kathedrale von Santo Domingo eine Bleikiste mit Knochen, beschriftet mit dem Namen Kolumbus. Die Dominikanische Republik sagt, er liege noch dort. 2006 sagte der Direktor ihres Kolumbus-Leuchtturms klar: Die Gebeine hätten dominikanisches Gebiet nie verlassen.
+
+Also schaltete sich die Wissenschaft ein. Ein Team der Universität Granada untersucht diese Knochen seit Anfang der 2000er Jahre. Im Mai 2006 meldete es eine Übereinstimmung mit der DNA von Kolumbus' Bruder Diego. [pause] 2024 erklärte sein Leiter, José Antonio Lorente, sie stammten von Kolumbus. Er hatte sie mit Diego und mit Kolumbus' Sohn Hernando verglichen.
+
+[quietly] Redlich lässt sich Folgendes sagen. Die Studien aus Granada stützen, dass die Knochen dieses Grabmals zumindest teilweise von Kolumbus selbst stammen. Hier liegt nur ein Teil eines Skeletts, und die Gebeine in Santo Domingo wurden nie untersucht. [pause] Die Dominikanische Republik beansprucht ihn weiterhin. Und die Behauptungen über seine Herkunft, 2024 im Fernsehen verkündet, wurden nicht wissenschaftlich veröffentlicht.
+
+[warmly] Ein Kolumbus ist sicher in dieser Kathedrale. Sein Sohn Hernando ist hier begraben. Er sammelte Tausende Bücher, manche aus dem Besitz seines Vaters, und hinterließ jedes einzelne zum Gebrauch und Nutzen all seiner Mitmenschen. Seine Bibliothek besteht noch, neben dem Hof am Ende Ihres Besuchs, ist aber nicht für Besucher geöffnet.
+
+Weiter in die Sakristeien. Gehen Sie an dieser Seite der Kirche entlang, weg von den großen Türen am anderen Ende, zur Capilla de los Dolores. Durch sie gelangen Sie in die Sacristía de los Cálices, die Kelchsakristei. Suchen Sie Goyas hohes Gemälde zweier Heiliger mit einem Löwen zu ihren Füßen und der Giralda hinter ihnen.

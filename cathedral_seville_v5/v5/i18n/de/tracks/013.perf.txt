@@ -1,0 +1,28 @@
+@id: 013 · DE · Capilla de la Antigua · 30 Oct 2026 edition
+@section: Around the naves
+@room: Capilla de la Antigua
+@type: W
+@title: Capilla de la Antigua — Die Madonna, die blieb
+@where: Auf der vom Turm abgewandten Seite der Kirche, am Gitter der Capilla de la Antigua, der größten Kapelle auf dieser Seite. Ihr Name steht über dem Gitter. Suchen Sie die mittelalterliche gemalte Madonna mit Kind über dem Altar.
+@what: Virgen de la Antigua, anonymous wall painting, 14th century, with Sienese influence; the chapel's enlargement begun 1504; tomb of Cardinal Diego Hurtado de Mendoza, placed 1510; canonical coronation 1929; San Fernando window designed by José Gestoso, made by Zettler of Munich.
+@listen: A painting older than the cathedral, the legend of the king who took Seville, and the Caribbean island named after her.
+@brief: Warm and respectful, a working chapel; curious at the start, gentle with the legend, quietly pleased at the island.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF: "Anónimo, Siglo XIV, Capilla de la Antigua") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "The expansion of the Chapel of the Virgen de la Antigua begins. (1504)"; Mendoza's tomb placed in the chapel 1510; "Coronation of the Virgen de la Antigua on the occasion of the Ibero-American Exposition in Seville. (1929)") ; https://coleccionbbva.com/en/pintura/p00631-our-lady-of-la-antigua (SEC: original from the second half of the 14th century, "evidently influenced by the Sienese tradition"; legend: the Virgin appeared to Ferdinand III during the siege and promised he would take the city under her protection; copies across Andalusia in the 16th century; devotion spread to Mexico, Peru, Panama, Colombia) ; https://www.britannica.com/topic/history-of-Antigua-and-Barbuda (SEC: Columbus visited Antigua in 1493 and "named it for the Church of Santa Maria de la Antigua in Sevilla") ; Masses in the chapel: research/VISIT_ROUTE §6 (OFF Aug 2026 list) ; wall painting kept when the old building came down: FACTS §13.1–13.2 safe wording
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Diese Madonna ist älter als die Kathedrale um sie herum. Als die Baumeister kamen, war sie schon da.
+
+Das ist die Capilla de la Antigua, die Kapelle der Jungfrau von La Antigua. Über dem Altar ist ein Wandbild der Madonna mit Kind aus dem vierzehnten Jahrhundert. Niemand weiß, wer es malte. Fachleute sehen darin den Einfluss der Sieneser Maler. [pause] Es gehörte zur alten Kathedrale, der umgewandelten Moschee. Als dieser Bau dem neuen weichen musste, bewahrte man das Bild und gab ihm eine eigene Kapelle. 1504 begann man, diese Kapelle zu erweitern.
+
+[warmly] Die Legende erzählt, die Jungfrau sei König Ferdinand dem Dritten bei seiner Belagerung Sevillas erschienen und habe ihm die Stadt unter ihrem Schutz versprochen. Das ist eine Erzählung, kein Dokument. Aber sie zeigt, wie viel sie hier bedeutet.
+
+Die Kapelle birgt auch das Grabmal von Kardinal Diego Hurtado de Mendoza, das einige Jahre nach Beginn der Erweiterung hierherkam. Und 1929, im Jahr der Iberoamerikanischen Ausstellung, wurde die Jungfrau gekrönt.
+
+[pause] Ihr Name reiste weit. 1493 stieß Christoph Kolumbus in der Karibik auf eine Insel und nannte sie Antigua, nach der Jungfrau, die hier verehrt wird. Die Insel trägt ihren Namen noch heute. [pause] Kopien dieses Bildes verbreiteten sich in ganz Andalusien, und ihre Verehrung gelangte weiter nach Mexiko, Peru, Panama und Kolumbien.
+
+[quietly] Dies ist noch immer ein Ort des Gebets. Wenn gerade Messe ist, hören Sie von außerhalb des Gitters zu.
+
+Gehen Sie weiter an dieser Seite der Kirche in den Arm des Querschiffs, zum Grabmal des Kolumbus: vier Herolde, die einen Sarg auf den Schultern tragen. Es steht gleich innen an der Puerta del Príncipe.

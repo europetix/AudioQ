@@ -1,0 +1,28 @@
+@id: 001 · DE · Entrada · Puerta del Lagarto or Puerta del Príncipe · 30 Oct 2026 edition
+@section: Opening
+@room: Entrada · Puerta del Lagarto or Puerta del Príncipe
+@type: ANCHOR
+@title: Willkommen in der Catedral de Sevilla
+@where: Gleich hinter der Eingangskontrolle, etwas abseits vom Besucherstrom. An der Puerta del Lagarto, der Tür neben der Giralda in den überdachten Gang des Patio de los Naranjos, mit einem Krokodil, das darüber hängt [O1]. An der Puerta del Príncipe, der Tür im Südarm des Querschiffs, mit dem Grabmal des Kolumbus in der Nähe, vier Herolde, die einen Sarg tragen [O2, O12].
+@what: Orientation: the mosque, the cathedral from 1248, the Gothic church after 1401; UNESCO World Heritage 1987 (Cathedral, Alcázar, Archivo de Indias); how the guide works (one route, three lengths; Extras not on the shorter versions); the Giralda first; working church; one way through; both entrances; non-climbers.
+@listen: What this place was before it was a cathedral, how the guide works, and how to get from your door to the Giralda.
+@brief: A warm, composed welcome from a friend who knows the building; unhurried but practical, clear on the route.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.catedraldesevilla.es/en/?p=53300 (OFF: Giralda once the minaret of the Great Mosque; UNESCO World Heritage 1987 to "the monumental complex formed by the Cathedral, the Royal Alcazar and the Archive of the Indies"; demolition began 1401) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1163 Abu Yaqub Yusuf moves the capital to Seville; 1172 Great Mosque ordered; 1248 mosque becomes the church of Santa Maria; 1401 canons decide to build a new cathedral) ; https://whc.unesco.org/en/list/383/ (OFF-UNESCO: property "Cathedral, Alcázar and Archivo de Indias in Seville"; year not shown in the fetch) ; https://www.catedraldesevilla.es/en/cultural-visit/schedules-and-rates/ (OFF: "The visit begins at the Giralda tower, which has its own access control"; Lagarto Gate and Prince's Gate as access doors; no exit or route given) ; https://catedraldesevilla.es/wp-content/uploads/2025/03/Normas-generales-catedral-descargable-actualizado.pdf (OFF: no re-entry once the ticket is validated; Capilla Real "reservado exclusivamente para el culto y la oración"; no wheelchairs or strollers on the Giralda) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: Prince's Gate in the south arm of the transept, current individual visit access; choir "directly in front of the Main Chapel") ; crocodile in the Nave del Lagarto: research FACTS §4.1 (SEC UPO 2024), placement O1 ; Columbus's tomb by the Príncipe: research row 4, O2/O12 ; lengths: WRITER_BRIEF wording (after O19)
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 001 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Diese Kathedrale steht dort, wo die Almohaden im zwölften Jahrhundert eine große Moschee bauten. Ihr Glockenturm war das Minarett der Moschee. Nachdem Ferdinand der Dritte 1248 Sevilla eingenommen hatte, wurde die Moschee zur Kathedrale. 1401 beschlossen die Domherren, sie durch diese gotische Kirche zu ersetzen. Seit 1987 ist sie Welterbe, zusammen mit dem Alcázar und dem Indienarchiv.
+
+Dieser Guide ist eine Route in drei Längen. Die vollständige Tour dauert gut anderthalb Stunden, die Kernversion eineinviertel Stunden, die Highlights fünfundvierzig Minuten, alle mit der Giralda. Spielen Sie die Fassung auf Ihrem Handy der Reihe nach ab. Jede Station nennt den nächsten Ort auf Spanisch, wie auf den Schildern, und etwas, worauf Sie achten können. [pause] In einer Kurzfassung springen die Nummern. Ein angekündigter Extra-Titel ist dann nicht auf Ihrem Handy. Gehen Sie einfach zur nächsten Hauptstation weiter.
+
+Der Rundgang der Kathedrale selbst beginnt an der Giralda, und unserer auch. [pause] Die Capilla Real, die Königliche Kapelle, ist dem Gebet vorbehalten und nur durch ihr Gitter zu sehen. Andere Kapellen können zur Messe schließen. Der Ausgang kommt am Ende, durch den Hof mit den Orangenbäumen. Und wenn Sie einmal draußen sind, können Sie nicht wieder hinein.
+
+Wenn Sie durch die Puerta del Lagarto hereingekommen sind, das Eidechsentor, sind Sie vielleicht unter einem hängenden Krokodil hindurchgegangen. Seine Geschichte kommt gegen Ende der vollständigen Tour. Gehen Sie zur Turmtür mit dem Schild Giralda.
+
+Sind Sie durch die Puerta del Príncipe hereingekommen, auch Puerta de San Cristóbal genannt? Dann ist das Monument in Ihrer Nähe das Grabmal des Kolumbus: vier Herolde, die einen Sarg tragen. Sie kommen dorthin zurück. [pause] Durchqueren Sie die Mitte der Kirche, zwischen dem vergoldeten Altarretabel und dem Chor, bis in den gegenüberliegenden Arm des Querschiffs. Folgen Sie dort den Giralda-Schildern zur Turmtür in der Ecke.
+
+Sie steigen nicht hinauf? Gehen Sie trotzdem zur Turmtür und beginnen Sie mit der Station „Am Fuß der Giralda“. Bei den Highlights beginnen Sie an der Capilla Mayor, dem vergoldeten Altarretabel in der Mitte der Kirche.
+
+Sie steigen hinauf? Starten Sie die nächste Station auf den ersten Rampen der Giralda.

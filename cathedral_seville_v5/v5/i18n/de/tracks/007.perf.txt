@@ -1,0 +1,24 @@
+@id: 007 · DE · Catedral · at the foot of the Giralda · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Catedral · at the foot of the Giralda
+@type: R
+@title: Das Kirchenschiff — Ein hohler Berg
+@where: In der Kirche, gleich abseits der Giralda-Tür, in der Ecke des Baus, in der der Turm steht [O7]. Reihen mächtiger Pfeiler laufen von Ihnen fort. Die großen umschlossenen Räume des Chors und der Hauptkapelle füllen die Mitte der Kirche.
+@what: The Gothic cathedral as a whole: "hollow mountain"; five naves, "the largest Gothic building in Europe" (UNESCO and the Cathedral); Guinness, the cathedral covering the greatest area (126.2 × 82.6 m); plan on the footprint of the mosque; orientation: Capilla Mayor and Coro in the central nave, Capilla Real at the head, the sacristies and chapter house.
+@listen: How big this church really is, why it is so wide, and how it is laid out, so the rest of the visit makes sense.
+@brief: Orientation from a friend standing beside you at the edge of a huge space; warm, slightly hushed by the scale, then clear and practical.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: the building as an impressive "hollow mountain") ; https://whc.unesco.org/en/list/383/ (OFF-UNESCO: "With its five naves it is the largest Gothic building in Europe") ; https://www.catedraldesevilla.es/en/?p=53300 (OFF: same wording, five naves) ; https://www.guinnessworldrecords.es/world-records/69157-largest-roman-catholic-cathedral (SEC: "covers the greatest area of any cathedral", 126.2 m long, 82.6 m wide) ; https://archnet.org/sites/2753 (SEC: "The plan of the cathedral closely follows the former footprint of the mosque") ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: altarpiece in the central nave where the main naves intersect; choir "directly in front of the Main Chapel") ; https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF: Royal Chapel "occupies the head of the temple") ; sacristies and chapter house in the corner on the far side of this end: research route file (SE block) and PLAN Conventions, provisional [O7]
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 007 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Die Menschen in Sevilla haben einen Namen für diesen Bau. Sie nennen ihn einen hohlen Berg. Lassen Sie Ihre Augen sich kurz gewöhnen, dann sehen Sie, warum.
+
+Die UNESCO nennt ihn das größte gotische Bauwerk Europas, mit seinen fünf Schiffen: einem Mittelschiff und zwei Seitenschiffen auf jeder Seite. [pause] Guinness führt ihn als die Kathedrale mit der größten Grundfläche der Welt. Beachten Sie, wie breit sie ist. Sie wurde nämlich auf dem Rechteck der alten Moschee errichtet und folgt eng deren Grundriss.
+
+[pause] So fügt sich alles zusammen. Die Giralda, der Turm, steht in dieser Ecke der Kirche. In der Mitte des Mittelschiffs stehen sich zwei große umschlossene Räume gegenüber. Der eine ist die Capilla Mayor, die Hauptkapelle, mit ihrem riesigen vergoldeten Altarretabel. Der andere ist der Coro, der Chor. Hinter der Capilla Mayor schließt die Capilla Real, die Königliche Kapelle, dieses Ende der Kirche ab. [pause] Und die Sakristeien und der Kapitelsaal füllen die Ecke auf der anderen Seite desselben Endes.
+
+Dieser Guide führt Sie zuerst in die Mitte. Dann geht es rund um die Kirche und am Ende hinaus durch den Hof der Orangenbäume.
+
+Gehen Sie in die Mitte der Kirche, wo das Querschiff das Hauptschiff kreuzt. Stellen Sie sich dort vor das riesige vergoldete Altarretabel hinter dem Eisengitter: die Capilla Mayor.

@@ -1,0 +1,26 @@
+@id: 014 · DE · Sepulcro de Cristóbal Colón · 30 Oct 2026 edition
+@section: Columbus
+@room: Sepulcro de Cristóbal Colón · south transept
+@type: W
+@title: Sepulcro de Colón — Vier Herolde
+@where: Im Arm des Querschiffs auf der vom Turm abgewandten Seite der Kirche, gleich innen an der Puerta del Príncipe. Suchen Sie vier Heroldsfiguren, die einen Sarg auf den Schultern tragen, hoch über dem Boden.
+@what: Arturo Mélida, monument to Christopher Columbus, designed for Havana Cathedral (competition 1891, installed there by March 1898), set up in Seville Cathedral 1902; the four heralds of Castile, León, Aragon and Navarre. The Puerta del Príncipe, also called the Puerta de San Cristóbal, by Adolfo Fernández Casanova in the Gothic style.
+@listen: A tomb built for Havana that ended up in Seville, and what its four heralds mean.
+@brief: Respectful and clear by a tomb, with a quiet surprise at the turn; a little wry about the empty Havana tomb.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://repositoriodigital.ohc.cu/files/original/598d896ccecc2babf710fafded931b747c410ff9.pdf (SEC Oficina del Historiador de La Habana: 1891 competition for a tomb in the crossing of Havana Cathedral; Mélida awarded by Royal Order of 11 Aug 1891; installed by 19 Mar 1898, received 17 Apr 1898; "ni ella, guardó nunca sus cenizas": after the 1898 exhumation the remains went to the sacristy; monument dismantled and packed for shipment to the Peninsula, base left in Havana; decree of 21 Sep 1898 moving remains and monument to Spain; remains taken aboard the Conde de Venadito 12 Dec 1898; Cádiz, then Seville, Jan 1899; "the new tomb never held the remains", kept in the cathedral sacristy; Mélida: Castile and León in front "ostentando trofeos", Castile's naval trophy, León the Reconquest; Aragon and Navarre behind, "si no tomaron parte en la gloria, vienen a tomarla en el duelo") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "The Columbus monument is placed in the Cathedral. (1902)") ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: Prince's Gate in the south arm of the transept, by Fernández Casanova, kept to the Gothic style) ; https://www.upo.es/patio-colorado/?p=11176 (SEC low: four figures for Castile, Aragon, Navarre and León) ; Puerta del Príncipe = Puerta de San Cristóbal: OFF HIGH page via research/VISIT_ROUTE §2
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 014 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieses Grabmal wurde für eine andere Kathedrale geschaffen, auf der anderen Seite des Atlantiks. Und dort hat es, wie es scheint, Kolumbus nie beherbergt.
+
+Das ist der Sepulcro de Colón, das Grabmal des Christoph Kolumbus. Es ist das Werk des spanischen Künstlers Arturo Mélida. 1891 gewann er einen Wettbewerb für ein Denkmal in der Kathedrale von Havanna, auf Kuba, damals noch unter spanischer Herrschaft. [pause] Deshalb steht es so hoch. Es war für die Vierung der Kathedrale von Havanna entworfen, um von allen Seiten gesehen zu werden.
+
+[pause] Es wurde gerade rechtzeitig fertig, um verloren zu gehen. Das Denkmal wurde Anfang 1898 in Havanna aufgestellt. Im selben Jahr verlor Spanien Kuba im Krieg. Nach einem alten Bericht aus Havanna, aufbewahrt im Büro des Stadthistorikers, nahm das neue Grabmal seine Gebeine nie auf. Als man die alte Nische öffnete, brachte man sie in die Sakristei. [pause] Im Dezember wurden sie über den Ozean zurückverschifft und erreichten Sevilla Anfang des folgenden Jahres. Das Denkmal folgte, in Teilen verpackt, und wurde 1902 hier aufgestellt.
+
+[reverent] Vier Herolde tragen den Sarg, einer für jedes der alten Königreiche Spaniens. Ihre Gewänder tragen die Wappen von Kastilien, León, Aragonien und Navarra. Suchen Sie die Burg und den Löwen. Nach Mélidas eigener Beschreibung tragen die beiden vorn, Kastilien und León, Trophäen der Reise nach Amerika und der Reconquista. [pause] Die beiden hinten, Aragonien und Navarra, kommen, wie er es ausdrückte, um an der Trauer teilzuhaben, wenn sie schon keinen Anteil am Ruhm hatten.
+
+Die Tür neben Ihnen ist die Puerta del Príncipe, das Prinzentor, auch Puerta de San Cristóbal genannt. Sie entstand erst in moderner Zeit, von Adolfo Fernández Casanova, im gotischen Stil des Übrigen.
+
+Bleiben Sie hier, für die Gebeine selbst: Sepulcro de Colón.

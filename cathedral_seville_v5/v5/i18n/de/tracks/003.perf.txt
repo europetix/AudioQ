@@ -1,0 +1,26 @@
+@id: 003 · DE · Giralda · ramps · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · ramps
+@type: R
+@title: Giralda — Vierunddreißig Rampen
+@where: Auf den Rampen in der Giralda, ein paar Windungen über der Tür [O4]: eine breite, sanft ansteigende Rampe zwischen Außenmauer und Mittelkern, auf der anderen Seite kommen Leute herunter. Beim Aufstieg zu hören. Bleiben Sie in Bewegung, halten Sie sich rechts.
+@what: The Almohad interior of the Giralda: 34 ramps and 7 vaulted chambers; ramps wide enough for a rider on horseback; double-walled tubular structure; more than 140 reused capitals and bases; builders' sketches found on the four faces during the 2017–2024 restoration.
+@listen: Why the tower has ramps instead of stairs, the stones it borrowed, and the builders' sketches restorers have just found.
+@brief: A companion on the climb, a little out of breath and enjoying it; light, then curious and pleased at the sketchbook discovery. No "look at" beyond the ramps and walls.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.catedraldesevilla.es/en/the-giralda-reveals-new-secrets-at-the-international-congress-turris-fortissima/ (OFF: "34 ramps and 7 chambers" of the Almohad section; "double-walled tubular structure"; "more than 140 capitals and bases" documented in 3D, taken from earlier buildings; calligraphic, geometric, vegetal and figurative sketches found during the restoration, a "drawing book" for Almohad artisans, distributed across the four façades; restoration "between 2017 and 2024", one scaffold per face; congress Nov 2025) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-giralda (OFF: ramps between the central prism and the outer walls allowed access on horseback) ; https://catedraldesevilla.es/wp-content/uploads/2025/03/Normas-generales-catedral-descargable-actualizado.pdf (OFF: up and down "de forma unidireccional, siempre por su derecha") ; https://archive.aramcoworld.com/issue/199401/the.giralda.htm (SEC: "34 gently sloping ramps")
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 003 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Die Rampen, die Sie hinaufsteigen, wurden so breit angelegt, dass ein Reiter zu Pferd hindurchpasste. Vierunddreißig davon winden sich durch den Turm der Almohaden. Er birgt außerdem sieben überwölbte Kammern. [pause] Hinauf und hinunter teilen sich dieselben Rampen. Halten Sie sich also rechts, wie die Kathedrale es wünscht.
+
+Die Bauweise ist einfach und sehr stabil. Außen läuft eine Mauer herum, in der Mitte steigt ein Kern auf, mit den sieben Kammern übereinander darin. Dazwischen winden sich die Rampen. Fachleute nennen das eine doppelwandige Röhre. [pause] Seit mehr als vier Jahrhunderten trägt sie das Gewicht der Glockenstube der Renaissance obenauf.
+
+Die Baumeister waren auch sparsam. Mehr als hundertvierzig Kapitelle und Säulenbasen aus älteren Bauten hat man wiederverwendet im Turm gefunden und einzeln verzeichnet.
+
+[curious] Dann kam eine echte Überraschung. Ab 2017 arbeiteten Restauratoren an den vier Außenseiten des Turms. Dort fanden sie Skizzen im Backstein, hinterlassen von den Männern, die ihn bauten: Buchstaben, geometrische Muster, Pflanzen und Figuren. [pause] Ein Forscher vermutet, dass sie den Handwerkern als Vorlagenbuch dienten, eine Art mittelalterliches Skizzenbuch. Die Funde wurden 2025 auf einem Kongress vorgestellt.
+
+Der Turm ist also nicht nur ein Denkmal. Er ist ein Zeugnis der Menschen, die ihn gebaut haben, eingeschrieben in seine eigenen Ziegel.
+
+Oben treten Sie hinaus in die Glockenstube der Giralda. Gehen Sie herum zu der Seite, die auf den Hof mit den Orangenbäumen hinunterblickt, den Patio de los Naranjos.

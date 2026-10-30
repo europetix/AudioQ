@@ -1,0 +1,30 @@
+@id: 008 · DE · Capilla Mayor · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Capilla Mayor
+@type: W
+@title: Capilla Mayor — Der Retablo Mayor
+@where: In der Vierung, der Mitte der Kirche, wo das Querschiff das Hauptschiff kreuzt, mit Blick auf das Eisengitter der Capilla Mayor [O8]. Dahinter erhebt sich eine Wand aus vergoldeten und bemalten Holzszenen, fast dreißig Meter hoch, ganz oben ein Kruzifix. Der Chor ist hinter Ihnen.
+@what: Retablo Mayor of the Capilla Mayor, begun 1482 under Pieter Dancart; first phase to 1529 (a second Flemish master 1497–1505, Pedro Millán, Jorge Fernández and his brother Alejo); side sections 1550–1564 (Roque Balduque, Juan Bautista Vázquez, Pedro de Heredia); polychrome and gilded wood, nearly 30 m high, almost 20 m wide; 44 reliefs, more than 200 saint figures, 8 reliefs of the Kings of Israel and Judah; 14th-century Gothic Calvary with the "Christ of the Million"; restoration completed 2014.
+@listen: Who made the great altarpiece over eighty-two years, how big it really is, and the crucifix at the top.
+@brief: Reverent, slow guided looking with a friend in front of the gold; a hush at the start, building to wonder, then quiet.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: presides over the presbytery of the Main Chapel in the central nave; "Considered the largest in Christendom"; polychrome wood; nearly 30 m high, almost 20 m wide; begun 1482 under the Flemish sculptor Pieter Dancart; second Flemish master 1497–1505; Pedro Millán; Jorge Fernández Alemán and his brother Alejo finished the first phase in 1529; 1550–1564 two side streets at right angles to the front, Roque Balduque, Juan Bautista Vázquez, Pedro de Heredia; 44 reliefs and more than 200 saint figures on the framing pilasters; 8 reliefs of the Kings of Israel and Judah on the pillars; 14th-century Gothic Calvary; crucifix traditionally called the Christ of the Million, for "the million graces granted to the people of Seville" during epidemics) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 2014 restoration of the main altarpiece completed after two years)
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Zweiundachtzig Jahre dauerte es, das zu schaffen, was Sie vor sich sehen, vom ersten Meißelschlag bis zur letzten Vergoldung. Das ist der Retablo Mayor, der Hochaltar der Capilla Mayor, der Hauptkapelle.
+
+Die Arbeit begann 1482 unter einem flämischen Bildhauer, Pieter Dancart. Nach ihm kam ein weiterer flämischer Meister, dann Pedro Millán, dann zwei Brüder, Jorge und Alejo Fernández. [pause] Sie vollendeten den ersten Abschnitt fast ein halbes Jahrhundert nach dem Beginn.
+
+Dann wollte das Domkapitel mehr. Eine Generation später fügten Bildhauer, darunter Roque Balduque und Juan Bautista Vázquez, zwei Seitenteile hinzu, im rechten Winkel zur Front. Fertig war das Ganze 1564.
+
+[pause] Das Ergebnis ist fast dreißig Meter hoch und fast zwanzig breit, alles geschnitztes und bemaltes Holz. Oft heißt es, es sei das größte Altarretabel der Christenheit. Zählen Sie ruhig nach. Es gibt vierundvierzig geschnitzte Szenen und mehr als zweihundert Heiligenfiguren an den rahmenden Pfeilern. [pause] Acht weitere Reliefs an den Pfeilern ringsum zeigen die Könige von Israel und Juda.
+
+Lassen Sie nun Ihren Blick nach oben wandern, Szene für Szene, bis ganz hinauf. Ein gotischer Kalvarienberg krönt das Ganze, älter als das Retabel selbst. Die Sevillaner nennen sein Kruzifix den Christus der Million, nach der Million Gnaden, die die Stadt in Seuchenzeiten zu empfangen glaubte.
+
+2014 wurde eine zweijährige Restaurierung des Retabels abgeschlossen.
+
+[quietly] Drei Generationen von Handwerkern. Eine einzige Wand aus vergoldetem Holz.
+
+Hier gibt es einen kurzen Extra-Titel über die Eisengitter. Die nächste Hauptstation ist hinter Ihnen: Drehen Sie sich um zum Coro, dem Chor, hinter seinem eigenen Renaissancegitter, mit Orgelpfeifen darüber.
