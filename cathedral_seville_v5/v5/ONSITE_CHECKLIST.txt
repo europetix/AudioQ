@@ -97,10 +97,33 @@ GENERAL
 [ ] O22 The day before the walk: re-read catedraldesevilla.es news (Masses, closures, special days, Giralda works, exhibitions);
         retry the Spanish official pages that were blocked in research.
 
+ADDED AFTER THE INDEPENDENT AUDIT (30 Oct 2026; research/AUDIT_V5_001-028.md, fixes in v5/notes/AUDIT_FIXES_001-028.md)
+[ ] O1  (add) 001 now says "you MAY have passed under a hanging crocodile". Restore "you walked under" only if the Lagarto
+        entry path really passes under it.
+[ ] O12 (add) 014 says "Look for the castle and the lion" on the heralds' tunics: are the arms clearly visible from where
+        listeners stand? If not, cut that sentence.
+[ ] O13 (add) CRITICAL for 017: is El Greco's Santa Maria Magdalena still in the Sala del Pabellon? Photograph its label (the
+        attribution wording: El Greco alone, or "and workshop"?). The held paragraph, title and payoff are in
+        AUDIT_FIXES_001-028.md; restore them only if it is on show, and re-read the Cathedral's news the day before (O22).
+        Also photograph the two Zurbaran labels (titles) and check whether Artemisia's Magdalena is on view (the El Greco
+        page says it hangs "next to" it; the paintings list says "En restauracion").
+[ ] O13 (add) 019: San Fernando statue "beside" one pillar at the head of the Sacristia Mayor; the Immaculate "on" the pillar
+        opposite (REN wording). Is the Immaculate a statue or a painting, and is it on or beside the pillar?
+[ ] O15 (add) CRITICAL: WHERE IS THE ASCENSION WINDOW? The Cathedral's stained-glass page contradicts itself: its listing puts
+        Arnao de Flandes's Ascension over the Puerta de la Concepcion (north transept gable), its body text on the opposite
+        gable. 023's cue no longer uses the window ("the tall doorway at its end"). 024 still says "look up above the door,
+        at the great window of the Ascension": if the window is at the other end of the transept, use the 024 fallback in
+        AUDIT_FIXES_001-028.md.
+[ ] O19 (add) 001 says the full tour takes "about an hour and three-quarters" (WRITER_BRIEF wording). PLAN estimates
+        ~96 min and the audit proposes "about an hour and a half". The stopwatch walk decides; tell the lead.
+[ ] O22 (add) The day before recording, re-check: Phase VI works (004, 005, 026); lily vases (004); Capilla Real reopening
+        (023: rests on Prensa Latina citing the Cabildo; find the Cabildo's own notice); El Greco loan (017); any
+        peer-reviewed Columbus DNA paper (015; none found 30 Oct 2026); Factum 3D recording (028); Turris Fortissima (003).
+
 AFTER THESE DATES / TRIGGERS (see PLAN.md section 6)
 [ ] Phase VI Giralda works end (~early 2028) -> works sentences in 004, 005, 026.
 [ ] 1 Jan 2027 -> lily vases "in February 2026", not "earlier this year" (004, 025).
-[ ] El Greco Magdalena returns to Paradas -> cut it from 017.
+[ ] El Greco Magdalena: held out of 017 since the audit (30 Oct 2026); restore only while O13/O22 confirm it is on show; cut again when it returns to Paradas.
 [ ] Altar de Plata back / not back -> 024 sentence in or out.
 [ ] A peer-reviewed Columbus DNA paper -> revise 015.
 [ ] Entrance doors change by ticket type -> rewrite 001's two entrance paragraphs.

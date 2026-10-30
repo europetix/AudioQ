@@ -3,7 +3,7 @@
 @room: Puerta de la Concepción · north transept
 @type: R
 @title: Puerta de la Concepción — Back to the mosque's courtyard
-@where: Inside the church, at the end wall of the arm of the transept on the tower's side, facing the Puerta de la Concepción: a tall Gothic doorway with a great stained-glass window of the Ascension above it. Stand back from the door, out of the flow of people going through.
+@where: Inside the church, at the end wall of the arm of the transept on the tower's side, facing the Puerta de la Concepción: the tall Gothic doorway at the end of this arm of the transept. Stand back from the door, out of the flow of people going through.
 @what: Puerta de la Concepción, on the north front of the transept, opening onto the Patio de los Naranjos; completed in Gothic style by Adolfo Fernández Casanova (date not spoken: 1887 on the building page, 1917 on the timeline). Above it, Arnao de Flandes, The Ascension, stained glass, 1539–1541; Arnao also made thirteen windows of saints in the transept.
 @listen: A door that looks medieval but was finished in modern times, the Ascension window above it, and the courtyard of the mosque beyond.
 @brief: A friend pausing at a doorway before going out; curious, lightly wry about the door's age, then a sense of stepping back in time.

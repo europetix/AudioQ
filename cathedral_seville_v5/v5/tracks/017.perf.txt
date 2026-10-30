@@ -2,21 +2,21 @@
 @section: Sacristies and chapter house
 @room: Sala del Pabellón
 @type: X
-@title: Sala del Pabellón · Extra · Zurbarán and a visiting El Greco
-@where: In the Sala del Pabellón, the exhibition room of the sacristies. Look for the labels naming Zurbarán, Valdés Leal and Pacheco, and, while the loan lasts, El Greco's Santa María Magdalena.
-@what: Francisco de Zurbarán, two paintings, 1635–1645 and 1645–1650; Juan de Valdés Leal, two paintings, around 1656 and 1657–1658; Francisco Pacheco, 1620; on temporary loan from early 2026, El Greco, Santa María Magdalena, from the parish of San Eutropio, Paradas.
-@listen: Where the cathedral's Zurbaráns really hang, the teacher of Velázquez, and an El Greco on a visit.
-@brief: A short, brisk aside between two great rooms; lightly corrective, then pleased to point out a guest.
+@title: Sala del Pabellón · Extra · Zurbarán and Seville's painters
+@where: In the Sala del Pabellón, the exhibition room of the sacristies. Look for the labels naming Zurbarán, Valdés Leal and Pacheco.
+@what: Francisco de Zurbarán, two paintings, 1635–1645 and 1645–1650; Juan de Valdés Leal, two paintings, around 1656 and 1657–1658; Francisco Pacheco, 1620. All five placed in this room by the Cathedral's own list, which gives no titles. El Greco loan held until O13/O22, see v5/notes/AUDIT_FIXES_001-028.md.
+@listen: Two Zurbaráns where the Cathedral's own list places them, beside Valdés Leal and the teacher of Velázquez.
+@brief: A short, brisk aside between two great rooms; light and informative, warm at the end.
 @pace: medium
 @energy: 2→3→2
-@sources: https://catedraldesevilla.es/en/?p=53309 (OFF paintings list: Zurbarán 1635–1645 and 1645–1650, "Sala del Pabellón"; Valdés Leal 1657–1658 and c.1656, "Sala del Pabellón"; Francisco Pacheco 1620, "Sala del Pabellón"; no titles given) ; https://www.britannica.com/biography/Francisco-Pacheco (SEC: Pacheco "the teacher of both Diego Velázquez and Alonso Cano"; "Velázquez became Pacheco's son-in-law") ; https://www.catedraldesevilla.es/en/the-cathedral-temporarily-hosts-el-grecos-work-santa-maria-magdalena/ (OFF, undated: El Greco's Santa María Magdalena, owned by the Parish of San Eutropio de Paradas, shown in "the exhibition area of the Cathedral Pavilion" during "the restoration work on the parish church"; temporary, no end date) ; Zurbarán not in the Cálices: FACTS §10.9, §17.16
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF paintings list: Zurbarán 1635–1645 and 1645–1650, "Sala del Pabellón"; Valdés Leal 1657–1658 and c.1656, "Sala del Pabellón"; Francisco Pacheco 1620, "Sala del Pabellón"; no titles given; re-read 30 Oct 2026 for the audit fixes: dates and room only, nothing else on Zurbarán) ; https://www.britannica.com/biography/Francisco-Pacheco (SEC: Pacheco "the teacher of both Diego Velázquez and Alonso Cano"; "Velázquez became Pacheco's son-in-law") ; El Greco loan page (OFF, undated, no end date): NOT spoken, held pending O13/O22 ; Zurbarán not in the Cálices: FACTS §10.9, §17.16
 ---
-[lightly] Plenty of guides will tell you that Zurbarán hangs in the chalice sacristy. The Cathedral's own list of its paintings puts both of its Zurbaráns here, in the Sala del Pabellón, the exhibition room.
+[lightly] Two paintings by Francisco de Zurbarán hang here, in the Sala del Pabellón, the exhibition room. That's where the Cathedral's own list of its paintings places them. The list gives no titles, only dates: one was painted between the mid-1630s and the mid-1640s, the other in the later 1640s.
 
-They share the walls with other painters of Seville's great century. There are two works by Juan de Valdés Leal, from the 1650s. And there is one by Francisco Pacheco. He is less famous today than the others, but he taught the young Diego Velázquez. Velázquez later married his daughter, so Pacheco became his father-in-law as well. Read the labels for their subjects.
+They share the walls with other painters of Seville's great century. There are two works by Juan de Valdés Leal, painted within a year or two of each other in the later 1650s. And there is one by Francisco Pacheco, from 1620, the oldest picture of the group. He is less famous today than the others, but he taught the young Diego Velázquez. Velázquez later married his daughter, so Pacheco became his father-in-law as well. Read the labels for their subjects.
 
-[pause] Since early 2026 the room has also held a visitor. El Greco's Santa María Magdalena, Saint Mary Magdalene, has come from the parish church of San Eutropio in the town of Paradas. It stays here while that church is restored. It is a loan, so enjoy it while it lasts.
+[pause] Five pictures by three painters, spanning close to forty years of one city's art.
 
-[warmly] Seville's painters, side by side, with a famous guest. A short detour, and a good one.
+[warmly] Seville's painters, side by side. A short detour, and a good one.
 
 On to the Sacristía Mayor: the great domed room, with a dome carved in rings of figures.

@@ -3,8 +3,8 @@
 @room: Sacristía Mayor
 @type: X
 @title: Sacristía Mayor · Extra · A dome of the Last Judgment
-@where: In the middle of the Sacristía Mayor, under the dome. Look up at the dome carved in three rings of figures; then find Murillo's two paintings of San Isidoro and San Leandro, and the statues on the facing pillars at the head of the room.
-@what: The Sacristía Mayor, a Greek-cross plan with very short arms and a dome on pendentives, its reliefs showing the Last Judgment and the Heavenly Court in three rings; Bartolomé Esteban Murillo, San Isidoro and San Leandro, 1655; statue of San Fernando made for his canonisation of 1671, and an Immaculate Conception on the opposite pillar.
+@where: In the middle of the Sacristía Mayor, under the dome. Look up at the dome carved in three rings of figures; then find Murillo's two paintings of San Isidoro and San Leandro, and, at the head of the room, the statue of San Fernando beside one pillar and the Immaculate Conception on the pillar opposite.
+@what: The Sacristía Mayor, a Greek-cross plan with very short arms and a dome on pendentives, its reliefs showing the Last Judgment and the Heavenly Court in three rings; Bartolomé Esteban Murillo, San Isidoro and San Leandro, 1655; statue of San Fernando made for his canonisation of 1671, next to one of the pillars at the head, and an Immaculate Conception on the opposite pillar.
 @listen: Reading a dome of the Last Judgment from the bottom ring up, and Murillo's two archbishops of Seville.
 @brief: A short guided look upward, quietly dramatic about the damned, then warm and a little amused about the choir prompter.
 @pace: medium-slow
@@ -17,6 +17,6 @@ The whole dome of the Sacristía Mayor is one great scene of the Last Judgment, 
 
 [pause] Now find Murillo's two saints, painted in 1655. They are San Isidoro and San Leandro, Saint Isidore and Saint Leander, both archbishops of Seville long ago. Isidore, the great scholar, is absorbed in his reading. [amused] For Leander, tradition says Murillo borrowed a face from the cathedral itself: the choir's prompter, a man called Alonso de Herrera.
 
-Look too at the pillars at the head of the room. On one stands a statue of King Fernando the Third, made when he was declared a saint in 1671. On the pillar opposite stands the Immaculate Conception.
+Look too at the pillars at the head of the room. Beside one stands a statue of King Fernando the Third, made when he was declared a saint in 1671. On the pillar opposite is the Immaculate Conception.
 
 Stay in the Sacristía Mayor for the Custodia de Arfe, the tall silver monstrance.
