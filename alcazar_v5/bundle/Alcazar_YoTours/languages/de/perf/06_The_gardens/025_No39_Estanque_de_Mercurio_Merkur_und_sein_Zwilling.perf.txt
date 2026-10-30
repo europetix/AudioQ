@@ -1,0 +1,28 @@
+@id: 025 · DE · No. 39 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 39 · Estanque de Mercurio
+@type: W
+@title: 39 · Estanque de Mercurio — Merkur und sein Zwilling
+@where: Am Rand von Nummer 39, dem Estanque de Mercurio: das große erhöhte Becken mit einem vergoldeten Bronzemerkur, der in der Mitte auf einer Kugel steht. An der anderen Seite verläuft eine lange bemalte Galeriewand, gegenüber dem Aufgang vom Jardín de la Danza.
+@what: Mercury group, designed by Diego de Pesquera and cast in bronze by Bartolomé Morel, added in 1576; the figure in the pool today is a gilded bronze replica made during the 2022–2024 restoration. Pool of Islamic origin, redesigned in the 16th century, fed by the Carmona aqueduct.
+@listen: Why the god in the pool is a faithful twin of the 1576 bronze, and the gold that the cleaners found on the original.
+@brief: A friend at the poolside sharing a restoration secret; curious, then delighted by the gold, light on the Dorne aside.
+@pace: medium
+@energy: 2→4→3
+@sources: https://alcazarsevilla.org/wp-content/uploads/2025/01/EXPO-MERCURIO-FINAL.pdf (OFF: pool of Muslim origin integrated into a Renaissance redesign under Charles I and Felipe II; hydraulic system fed by the Acueducto de Carmona; statue "añadida en 1576", designed by Diego de Pesquera, cast by Bartolomé Morel, who worked for the Casa de la Moneda; Mercury on a sphere with caduceus and winged helmet; child figures and finials; cleaning showed the figures and finials were gilded; replica: 3D scan, PLA print, lost-wax bronze by FundirMetal Amando, electrolytic gilding; works from Nov 2022, pool refilled after Feb 2024; no location given for the original) ; https://alcazarsevilla.org/restauracion-estanque-mercurio/ (OFF: "El Estanque de Mercurio recupera su esplendor", firms named; mod. 20 Mar 2025) ; https://repositorio.iaph.es/bitstream/11532/332787/3/IAPH_63_1998_PRO_025_TD99_FICHA_TCA_GIRALDILLO_SE.pdf (OFF, IAPH Junta de Andalucía: the Giraldillo "fundida en bronce por Bartolomé Morel", 1565–1568) ; https://www.andaluciadestinodecine.com/en/localizacion/reales-alcazares/ (OFF: Doran Martell, Areo Hotah and Ellaria Sand at the Galería del Grutesco in front of the Mercury pool) ; AUDIT FIX 30 Oct, re-read EXPO (works "comenzó en noviembre de 2022"; the pool emptied and cleaned in the later phase)
+@lang: de
+@translation: from the fact-checked English Real Alcázar 025 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Der Gott in der Mitte dieses Beckens ist ein Zwilling. Er ist eine getreue Kopie der Bronze, die hier 1576 aufgestellt wurde. Aber er ist nicht diese Bronze.
+
+Das Becken selbst ist älter als die Statue. Es geht auf den islamischen Palast zurück. Im sechzehnten Jahrhundert, unter Karl dem Fünften und seinem Sohn Philipp dem Zweiten, wurde es zum Mittelpunkt eines neuen Renaissancegartens. Sein Wasser kam über das alte Aquädukt von Carmona. [pause] 1576 kam die Statue hinzu. Entworfen hat sie der Bildhauer Diego de Pesquera, gegossen Bartolomé Morel, ein Gießer, der für die Münze von Sevilla arbeitete. Einige Jahre zuvor hatte Morel den Giraldillo gegossen, die Bronzewetterfahne auf der Spitze der Giralda.
+
+[pause] Dann, im November 2022, begann die Restaurierung. Beim Reinigen der alten Bronze fand man etwas unter dem Schmutz. Spuren von Gold. Merkur, die Kinderfiguren und die Zierspitzen waren einst vergoldet.
+
+Die Figur, die Sie jetzt sehen, ist also eine Replik, und sie entstand auf sehr moderne Weise. Das Original wurde dreidimensional gescannt. Jedes Teil wurde in Kunststoff gedruckt. Diese Drucke gingen an eine Gießerei und wurden im alten Wachsausschmelzverfahren in Bronze gegossen. Dann wurde die neue Bronze galvanisch vergoldet. [lightly] Darum glänzt dieser Merkur.
+
+[pause] Schauen Sie ihn sich jetzt an. Er steht auf einer Kugel, mit seinem Flügelhelm und seinem Caduceus, dem Botenstab. Das Becken wurde 2024 wieder gefüllt und 2025 restauriert präsentiert.
+
+[amused] Fans von Game of Thrones kennen diesen Blick vielleicht. Szenen mit Prinz Doran von Dorne wurden an der bemalten Galerie vor diesem Becken gedreht.
+
+Die bemalte Galerie ist die nächste Station: Nummer 40 auf dem Alcázar-Plan, die Galería del Grutesco, die lange bemalte Wand an der anderen Seite dieses Beckens, gegenüber dem Weg, auf dem Sie heraufkamen.

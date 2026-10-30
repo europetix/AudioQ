@@ -1,0 +1,28 @@
+@id: 013 · FR · No. 15 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 15 · Salón de los Embajadores
+@type: W
+@title: 15 · Salón de los Embajadores — La coupole de 1427
+@where: Dans le numéro 15, le Salón de los Embajadores : une salle carrée sous une coupole de bois doré, aux murs de faïence et de stuc sculpté, avec des balcons en fer forgé en hauteur et une frise peinte de portraits royaux sous la coupole. Placez-vous vers le centre, à l'écart des portes.
+@what: Salón de los Embajadores (Salón de la Media Naranja), main hall and throne room of Pedro I's palace, finished 1366 (Arabic door inscription, era 1404 / year 767); gilded wooden dome by Diego Ruiz, 1427, said to replace an earlier dome; wrought-iron balconies under Felipe II, late 16th century; frieze of portraits of the monarchs by Diego de Esquivel, 1599.
+@listen: Why the gold overhead is sixty years younger than the hall, and how the doors date the room in two calendars.
+@brief: A friend looking up beside you, curious and unhurried, with a wry smile at the two calendars and a hush at the end before the next story.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://artsandculture.google.com/asset/hall-of-ambassadors-dome/QAH411pnwu8KDg (OFF, Ayuntamiento de Sevilla: main hall, throne room of Pedro I, "where he received important personalities of his time"; square like the Muslim qubba, square = earth, dome = universe; muqarnas forming a star join square and circle; wrought-iron balconies under Philip II, end of the 16th century; frieze portraits of the Spanish monarchs by Diego de Esquivel, 1599) ; https://www.architecture.com/image-library/RIBApix/image-information/poster/alcazar-seville-the-ceiling-of-the-salon-de-embajadores-hall-of-the-ambassadors/posterid/RIBA108125.html (SEC, RIBA: ceiling and dome designed by Diego Ruiz in 1427, replacing an earlier mid-14th-century dome) ; https://revistas.ucm.es/index.php/ANHA/article/download/42850/40706/62639 (OFF, Marquer 2013: inscription "en las puertas del Salón de la Media Naranja" gives the date "en los dos calendarios", era 1404 and year 767; "se terminó la construcción de esta fortaleza con la gracia de Dios") ; audit T11 (Diego Ruiz 1427 on the Ayuntamiento GA&C page, OFF; not re-found this session)
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] L'or au-dessus de votre tête n'est pas celui du roi Pierre. Il fut posé environ soixante ans après l'achèvement de cette salle.
+
+C'était le cœur du palais de Pierre, sa grande salle et sa salle du trône. Il y recevait les grands de son temps. La description de la ville lit la salle comme une qubba musulmane. Le sol carré figure la terre. La coupole figure l'univers. [pause] Et une bande de muqarnas sculptés, repliés en étoile, relie le carré au cercle.
+
+[pause] La coupole s'appelle la media naranja, la demi-orange, et la salle fut longtemps nommée salle de la Demi-Orange. Un maître nommé Diego Ruiz la fit en 1427. Elle aurait remplacé une coupole plus ancienne, du temps de Pierre. Vous êtes donc dans une salle du quatorzième siècle, sous un ciel du quinzième.
+
+Comment sait-on quand la salle fut achevée ? Elle nous le dit. Une inscription arabe sur ses portes rapporte que la construction de cette forteresse fut achevée par la grâce de Dieu. [pause] Et elle donne l'année deux fois. Selon l'ancienne ère hispanique, l'an 1404. Selon le comput musulman, l'an 767. Dans notre calendrier, c'est 1366. [wry] Un roi chrétien qui date sa salle du trône en arabe, dans deux calendriers à la fois.
+
+Les rois suivants ajoutèrent leurs propres couches. Les balcons en fer forgé, en haut des murs, datent de Philippe deux, à la fin du seizième siècle. Vers la même époque, le peintre Diego de Esquivel remplit la frise sous la coupole de portraits des monarques d'Espagne.
+
+[quietly] Une nuit, dans cette salle, compta plus que toutes les autres.
+
+Restez dans le numéro 15, le Salón de los Embajadores. Imaginez-le une nuit de mars, près d'un siècle après l'achèvement de la coupole de Diego Ruiz.

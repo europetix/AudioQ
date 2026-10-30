@@ -1,0 +1,26 @@
+@id: 020 · DE · No. 32 · 30 Oct 2026 edition
+@section: Gothic palace
+@room: No. 32 · Salón de los Tapices y Capilla
+@type: X
+@title: 32 · Extra · Die Kapelle des Gotischen Palastes
+@where: In der Kapelle des Gotischen Palastes, die zu Nummer 32 gehört, dem Salón de los Tapices y Capilla: ein kleiner Raum unter gotischen Rippengewölben, mit gefliestem Sockel und einem Retabel mit einer gemalten Jungfrau.
+@what: Capilla del Palacio Gótico: medieval rib vaults; Renaissance tiled dado, 16th century; altarpiece with a copy of the Virgen de la Antigua (Seville Cathedral), attributed to Diego de Castillejo; Domingo Martínez, La Virgen de los Reyes entre San Hermenegildo y San Fernando, 1742; La Inmaculada con donante y Cristo como sacerdote. What is on view: O16.
+@listen: A copy of one of Seville's oldest paintings, under vaults from Alfonso X's palace.
+@brief: A quiet, respectful aside in a small sacred room; gentle curiosity at the end.
+@pace: medium-slow
+@energy: 2→2→2
+@sources: https://alcazarsevilla.org/?p=10886 (OFF: "bóvedas de crucería medievales"; Renaissance zócalo added in the 16th century; altarpiece with the Virgen de la Antigua, attributed to Diego de Castillejo, reproducing the original in the cathedral chapel of that name; described as one of the oldest paintings of the city, painted on the wall of the mosque when it passed to Catholic worship in the 13th century; Domingo Martínez, 1742, "La Virgen de los Reyes entre San Hermenegildo y San Fernando"; "La Inmaculada con donante y Cristo como sacerdote", no author or date) ; https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC: chapel keeps its original Gothic roof; the Virgin of Antiquity on the altar is a copy of a painting in the cathedral) ; SNIP: Fernando III took Seville in 1248 (standard); Virgen de los Reyes as patroness of Seville (standard) ; AUDIT FIX 30 Oct, re-read ANDG (chapel keeps its original Gothic roof; only the Salón de los Tapices lost its vaults)
+@lang: de
+@translation: from the fact-checked English Real Alcázar 020 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Die Jungfrau auf diesem Altar ist eine Kopie. Das Original gehört zu den ältesten Gemälden Sevillas.
+
+Sie ist die Virgen de la Antigua. Das Original ist in ihrer eigenen Kapelle in der Kathedrale von Sevilla. Laut Beschreibung des Alcázar wurde es auf eine Wand der alten Moschee gemalt, nachdem die Moschee im dreizehnten Jahrhundert zur Kirche geworden war. [pause] Die Kopie hier wird dem Maler Diego de Castillejo zugeschrieben.
+
+[pause] Schauen Sie hinauf. Diese kleine Kapelle bewahrt ihre mittelalterlichen Rippengewölbe aus dem Gotischen Palast von Alfons dem Weisen. Die Fliesen an den unteren Wänden kamen später, eine Ergänzung der Renaissance im sechzehnten Jahrhundert.
+
+Die Kapellenbeschreibung des Alcázar nennt noch zwei weitere Gemälde. Eines ist von Domingo Martínez, von 1742. [pause] Es zeigt die Virgen de los Reyes, die Jungfrau der Könige, Schutzpatronin Sevillas, zwischen dem heiligen Hermenegild und dem heiligen Ferdinand, dem König, der die Stadt 1248 einnahm. Das andere zeigt die Unbefleckte Jungfrau mit einem Stifter und Christus im Priestergewand.
+
+[curious] Sehen Sie nach, welche davon heute hier hängen. Dann kehren Sie zum Altar zurück, zu jener Kopie einer Jungfrau, die zuerst auf eine Moscheewand gemalt wurde.
+
+Weiter zu Nummer 33, der Sala de las Bóvedas, dem nächsten Saal zum Garten hin: geflieste Wände unter gotischen Gewölben.

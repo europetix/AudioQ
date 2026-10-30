@@ -1,0 +1,26 @@
+@id: 030 · ES · No. 45 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 45 · Cenador del León
+@type: R
+@title: 45 · Cenador del León — El pabellón del león
+@where: Junto al estanque frente al número 45, el Cenador del León, al final del espacio abierto que hay pasado el Pabellón de Carlos V: un pabellón de jardín justo detrás de un estanque presidido por un león.
+@what: Cenador del León, built 1644–1645 to designs by Diego Martín Orejuela, painted decoration by Juan de Medina, tiles supplied by Benito Valladares; its pool older, with a 14th-century phase and a 16th-century enlargement, rebuilt after the pavilion; archaeological watch during the 2017 restoration found late-medieval heraldic plaster, very probably of Pedro I's time (a working hypothesis), on the east and north walls of the pool's walkway, not on the single-phase pavilion.
+@listen: A seventeenth-century pavilion named after the lion in its pool, and the medieval heraldry archaeologists found in the walls round its pool.
+@brief: A friend sharing an archaeologist's hunch; curious, careful to call a hypothesis a hypothesis.
+@pace: medium
+@energy: 2→3→2
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/19784/1/AAA_2018_197_tabalesrodriguezmigela_cenadoryestanquedelleon_sevilla_borrador.pdf (OFF, Tabales & Vargas, AAA 2018: "se construye entre 1644 y 1645"; "trazas … Diego Martín Orejuela"; painting programme "ejecutado por Juan de Medina"; tiles "suministrados por Benito Valladares"; named "del León" "porque se alzó detrás mismo del estanque presidido por este animal"; pool with a 14th-century phase and a 16th-century enlargement, rebuilt "en su integridad" after the pavilion; plaster "muy probablemente del período de Pedro I", from only two walls, presented as hypothesis; works July–October 2017 under archaeological watch; restoration project by María Dolores Robador). The lion itself is not described in the report: not described here. ; AUDIT FIX 30 Oct, re-read TAB18 (OFF: heraldic plaster on the east and north walls of the pool's walkway, "andén de la alberca"; the cenador's masonry "es monofásica"; Pedro-era date "muy probablemente", a "hipótesis de trabajo")
+@lang: es
+@translation: from the fact-checked English Real Alcázar 030 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cuando se restauró este lugar en 2017, los arqueólogos encontraron una historia más antigua escondida en los muros del estanque.
+
+El pabellón en sí es del siglo diecisiete. Se construyó entre 1644 y 1645, con trazas de Diego Martín Orejuela. Juan de Medina pintó su rica decoración, y Benito Valladares suministró los azulejos. [pause] Su nombre es sencillo: Cenador del León, porque se alza justo detrás del estanque que preside el león.
+
+[pause] Pero el estanque es más antiguo que el pabellón. La excavación halló una fase del siglo catorce y una ampliación del dieciséis. Una vez terminado el pabellón, el estanque se reconstruyó por completo para acompañarlo.
+
+Luego llegó la sorpresa. En dos muros del antiguo andén que rodea el estanque, el equipo halló restos de decoración heráldica bajomedieval en el yeso. Los arqueólogos Miguel Ángel Tabales y Cristina Vargas la fechan, muy probablemente, en tiempos del rey don Pedro, el constructor del palacio que recorrió antes. [quietly] Con cautela, la llaman hipótesis. Pero si tienen razón, los muros del estanque son unos tres siglos más antiguos que el pabellón de detrás.
+
+[pause] Mire, pues, más allá del pabellón, al estanque. Aquí el recién llegado es el cenador del siglo diecisiete. Los muros junto al agua pueden ser mucho más antiguos.
+
+El número 46 del mapa del Alcázar, el Jardín Inglés, el jardín de senderos sinuosos tras este pabellón, tiene un breve Extra sobre los jardines del siglo veinte. La siguiente parada principal es el número 51 del mapa del Alcázar, la Puerta de Marchena: una portada gótica de piedra en medio del jardín, con salvajes tallados que sostienen escudos.

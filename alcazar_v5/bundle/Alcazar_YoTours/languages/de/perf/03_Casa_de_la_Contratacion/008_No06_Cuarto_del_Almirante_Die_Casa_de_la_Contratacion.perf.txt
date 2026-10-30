@@ -1,0 +1,28 @@
+@id: 008 · DE · No. 6 · 30 Oct 2026 edition
+@section: Casa de la Contratación
+@room: No. 6 · Cuarto del Almirante
+@type: W
+@title: 6 · Cuarto del Almirante — Die Casa de la Contratación
+@where: Im Cuarto del Almirante, dem Flügel hinter einer Säulenreihe an der rechten Seite des Patio de la Montería, wenn Sie zur Palastfront blicken. Er ist als Casa de la Contratación ausgeschildert. Sie sind in den ersten Räumen des Admiralsquartiers, vor dem alten Audienzsaal mit dem Bild der Jungfrau.
+@what: Cuarto del Almirante (Cuarto de los Almirantes), seat of the Casa de la Contratación from its founding by Real Provisión of the Catholic Monarchs, Alcalá de Henares, 20 January 1503, until its move to Cádiz in 1717.
+@listen: How the trade and shipping of the Spanish Atlantic were run from these rooms for two centuries, including the slave trade.
+@brief: A thoughtful storyteller in an office of empire; engaged and clear, plain and quiet on the slave trade, a measured payoff.
+@pace: medium
+@energy: 2→3→2
+@sources: https://cisneros.web.uah.es/carpeta/images/pdfs/093_real.pdf (OFF, Universidad de Alcalá, AGI Patronato 251: Real Provisión, "Alcalá de Henares, 20 de enero de 1503"; to handle "todo lo concerniente al comercio de Indias y al aparejo y despacho de las flotas"; passenger licences; Atarazanas rejected for "la humedad allí existente por su proximidad al río"; seat "en los Reales Alcázares, en la parte denominada Cuarto de los Almirantes" until 1717, then Cádiz) ; https://www.asu.edu/courses/rel376/total-readings/Phillips--VisualizingImperium.pdf (OFF, Phillips, Renaissance Quarterly 58, 2005: the Casa's jurisdiction over commerce, shipbuilding, navigation, mapmaking and migration) ; https://firstblacks.org/wp-content/uploads/2025/09/fb-primary-020-comment-slaves-without-license-in-1522.pdf (SEC, CUNY Dominican Studies Institute, 1522 royal letter: shipments of enslaved people to be "registered by the officials that reside in Seville at the Casa de la Contratacion de las Indias") ; https://firstblacks.org/en/?p=3468 (SEC: shipping enslaved people required a licence from the Crown) ; https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF: the Casa "to oversee trade with the Indies", in the Alcázar until 1717) ; Archivo de Indias holds its papers, "across the plaza": audit wording ; AUDIT FIX 30 Oct, re-read UAH (OFF: Atarazanas rejected "debido a la humedad allí existente por su proximidad al río"; "Cuarto de los Almirantes")
+@lang: de
+@translation: from the fact-checked English Real Alcázar 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Zweihundert Jahre lang galt: Wer legal von Spanien nach Amerika segeln wollte, dessen Papiere liefen durch dieses Haus.
+
+Es begann mit einem königlichen Erlass. Am zwanzigsten Januar 1503 gründeten die Katholischen Könige in Alcalá de Henares die Casa de la Contratación, das Handelshaus, in Sevilla. Zuerst sollte es in die Werften der Stadt am Fluss, die Atarazanas. Das wurde verworfen: Sie waren zu feucht, so nah am Fluss. [pause] Also zog die neue Behörde in den Alcázar, in diese Räume, die man Cuarto de los Almirantes nannte. Hier blieb sie bis 1717, dann zog sie nach Cádiz.
+
+Was tat sie? Fast alles, was der Atlantikhandel brauchte. Sie kümmerte sich um den Handel mit Amerika und um die Ausrüstung und Entsendung der Flotten. Sie erteilte Lizenzen für Schiffe, Ladungen und Passagiere. Ihr Bereich umfasste Schiffbau, Navigation und Kartografie.
+
+[quietly] Zu diesem Verkehr gehörten auch Menschen. Versklavte Afrikaner wurden mit königlicher Lizenz nach Amerika verschifft. Und die Krone verlangte, dass diese Transporte bei den Beamten dieses Hauses registriert wurden. [pause] Das gehört zur Geschichte dieser Räume, und es muss klar gesagt werden.
+
+[pause] Die Akten der Casa blieben nicht hier. Heute liegen sie im Archivo de Indias, auf der anderen Seite des Platzes, einem der großen Archive des spanischen Weltreichs in Amerika.
+
+[warmly] Zwei Jahrhunderte lang war ein Königspalast also auch das Büro eines Ozeans. Und die Beamten, die hier tagten, gaben ein Gemälde in Auftrag, das noch immer in ihrem alten Audienzsaal hängt.
+
+Gehen Sie weiter zu Nummer 7 auf dem Alcázar-Plan, der Capilla de la Virgen de los Navegantes, dem alten Audienzsaal am Ende dieses Flügels: Die Jungfrau breitet ihren Mantel über eine Menschenmenge, zu ihren Füßen Schiffe.

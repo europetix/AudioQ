@@ -1,0 +1,26 @@
+@id: 021 · ES · No. 33 · 30 Oct 2026 edition
+@section: Gothic palace
+@room: No. 33 · Sala de las Bóvedas
+@type: R
+@title: 33 · Sala de las Bóvedas — El salón abovedado
+@where: En el número 33, la Sala de las Bóvedas, también llamada Salón Gótico, el salón del lado del jardín junto al Salón de los Tapices: un salón alargado bajo bóvedas góticas, con azulejos de figuras y plantas hasta unos dos metros y una galería acristalada que mira al jardín.
+@what: Sala de las Bóvedas (Salón Gótico, Sala de Fiestas) of Alfonso X's Gothic palace; Mannerist tile dado of the 16th century to about 2 m, figures and plants, many on a yellow ground; two naval tapestries made for the 1929 Ibero-American Exposition.
+@listen: The hall of celebrations, its tiles, and two tapestries far younger than they look.
+@brief: Warm and inviting, a friend pointing out details on the walls; light at the end as the garden comes into view.
+@pace: medium
+@energy: 2→3→3
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF, school itineraries: the Sala Gótica is also called "la Sala de las Fiestas, ya que en ella se celebró el banquete de la boda de los reyes Carlos I e Isabel de Portugal"; walls covered with tiles "hasta unos 2 metros de altura"; "las figuras y plantas que tienen los zócalos manieristas"; "Estos azulejos pertenecen al Manierismo, período final del Renacimiento") ; https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC, mod. 9 Apr 2026: Vault Room; Renaissance tiles added in the 16th century, many with a bright yellow background, allegorical figures from classical mythology; "The two naval-themed tapestries were created for the 1929 Ibero-American Expo"; the wedding "may have been held in this room"; view into the garden through "a long glass-panelled gallery") ; restored sargas (SEC, Jul 2026) NOT used until O17 confirms them on view ; AUDIT FIX 30 Oct, re-read ITIN (banquet claim, unsourced teacher's notes) and GPC ("el Emperador y la Emperatriz se pasaron a cenar a sus aposentos")
+@lang: es
+@translation: from the fact-checked English Real Alcázar 021 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cuando Carlos Quinto se casó con Isabel de Portugal en 1526, puede que la fiesta se trasladara aquí. Las notas didácticas del propio Alcázar llaman a esta sala la Sala de las Fiestas. [pause] Dicen que aquí se celebró el banquete de boda, aunque el relato de la noche de bodas sitúa a la pareja cenando en sus propias estancias.
+
+Este es el número 33, la Sala de las Bóvedas, también conocida como Salón Gótico. Mire primero arriba, a las bóvedas góticas del palacio de Alfonso el Sabio. Luego mire los muros. Están cubiertos de azulejos hasta unos dos metros de altura.
+
+Los azulejos son obra manierista del siglo dieciséis, de la última fase del Renacimiento. Están llenos de figuras y plantas, y muchos destacan sobre un fondo amarillo intenso. [curious] Elija un panel. Busque una figura y siga las hojas y flores que la rodean.
+
+[pause] Aquí cuelgan otros dos tapices, con escenas marinas. Son mucho más recientes de lo que parecen. Se hicieron para la Exposición Iberoamericana celebrada en Sevilla en 1929.
+
+[lightly] A través de la larga galería acristalada ya se ve el jardín. Allí va ahora.
+
+Salga a los jardines por el lado del jardín de la sala y baje al número 38 del mapa del Alcázar, el Jardín de la Danza. El número 34, los Baños de Doña María de Padilla, se abre en el muro del palacio, a su derecha al salir, en la cabecera de la Danza: una puerta que da a una larga alberca bajo bóvedas góticas.

@@ -1,0 +1,26 @@
+@id: 012 · DE · No. 13 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 13 · Salón del Techo de Carlos V
+@type: X
+@title: 13 · Extra · Die Kapelle unter der Decke des Kaisers
+@where: Im Salón del Techo de Carlos V, durch seine Tür an der Längsseite des Patio de las Doncellas: ein langer Saal unter einer dunklen Kassettendecke der Renaissance, mit geschnitzten Büsten zwischen den Kassetten.
+@what: Salón del Techo de Carlos V, in the palace of Pedro I: the king's oratory, designed as a chapel; Renaissance coffered ceiling installed in the early 1540s (1542 Pleguezuelo; 1543 andalucia.com), with busts of human figures; a tiled altarpiece of 1504 by Niculoso Pisano, now lost except for fragments. Next door, no. 14, Sala de los Infantes.
+@listen: A royal chapel inside Pedro's palace, a lost tiled altarpiece, and a ceiling named after an emperor who was not there to see it.
+@brief: A short, amused aside between two great rooms; light, a little wry about the emperor's absence.
+@pace: medium
+@energy: 2→3→2
+@sources: https://core.ac.uk/download/51386392.pdf (OFF, A. Pleguezuelo, "Niculoso Francisco Pisano y el Real Alcázar de Sevilla", Apuntes del Alcázar de Sevilla, year not shown: the king's oratory was "situado en la planta baja del palacio del rey don Pedro", in the room "que ahora denominamos Sala del techo de Carlos V", at its eastern end; "el escenario de la misa de esponsales del emperador Carlos I con Isabel de Portugal"; "al instalarse su espléndido artesonado renacentista en 1542"; Niculoso's retablo for it signed "Pisan me fecit anno de 1504", only a small fraction surviving as possible fragments) ; https://andalucia.com/cities/seville/alcazar/mudejar.htm (SEC, mod. 9 Apr 2026: "Originally designed as a chapel, this has a Renaissance coffered ceiling from 1543 with busts of human figures"; Infantes' suite "occupied by the king's daughters") ; https://sammlung.mak.at/de/collect/fotografie-der-tuer-zum-salon-von-carl-v-im-patio-de-las-doncellas-im-alcazar-in-sevilla_297102 (SEC, placement only, read for PLAN: door from the Patio de las Doncellas) ; Charles not in Seville after 1526: audit (T17) ; Marquer's malik passage NOT used: her "antigua capilla" is not named (see notes) ; AUDIT FIX 30 Oct, re-read PLEG (oratory = Sala del techo de Carlos V; "escenario de la misa de esponsales", no source cited; the queen's Visitación altar of 1504 survives) and GPC (vows in the media naranja; Mass "en una cámara del alcázar")
+@lang: de
+@translation: from the fact-checked English Real Alcázar 012 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Dieser Raum war eine königliche Kapelle, bevor er nach einem Kaiser benannt wurde. Und Sie sind noch immer in König Pedros Palast, nicht im Gotischen Palast.
+
+Es war das Oratorium des Königs, seine Privatkapelle, im Erdgeschoss des Palastes. 1504 schuf der Keramikkünstler Niculoso Pisano dafür ein Fliesenretabel. [pause] Nur einige verstreute Fliesen, die vielleicht daher stammen, sind erhalten. Sein Altar für die Königin, im selben Jahr entstanden, ist oben erhalten.
+
+Der Historiker Alfonso Pleguezuelo verortet hier die Brautmesse von Karl dem Fünften und Isabella von Portugal. Sie wurde nach Mitternacht gelesen. [pause] Das Jawort selbst, so berichtet der Chronist, gaben sie sich im großen Kuppelsaal, Nummer 15, dem Salón de los Embajadores.
+
+[amused] Schauen Sie nun hinauf. Die Decke kam Anfang der 1540er-Jahre hinzu: eine Kassettendecke der Renaissance, aus der Büsten menschlicher Figuren herabblicken. Deshalb trägt der Raum den Namen des Kaisers. [pause] Doch Karl hatte Sevilla längst verlassen und kam nie zurück, um sie zu sehen.
+
+Gleich nebenan liegt Nummer 14 auf dem Alcázar-Plan, die Sala de los Infantes. Diese Räume sollen von den Töchtern des Königs genutzt worden sein.
+
+Gehen Sie zurück in Nummer 10, den Patio de las Doncellas, und weiter zu Nummer 15, dem Salón de los Embajadores, am anderen Ende des Hofs: Schauen Sie hinauf zur vergoldeten Holzkuppel.

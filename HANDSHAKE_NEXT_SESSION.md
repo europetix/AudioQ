@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built; 24 Oct: Uffizi Gallery built, first guide with Italian)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built; 24 Oct: Uffizi Gallery built, first guide with Italian; 30 Oct: Real Alcázar de Sevilla built, Seville Cathedral in progress)
 
 Paste this into the new session to start:
 
@@ -24,6 +24,8 @@ Paste this into the new session to start:
 | `bernabeu_v5/` | Tour Bernabéu (stadium), V5: 28 tracks (23 main + 5 Extras), EN + ES/FR/DE, three cases. Handshake: `BERNABEU_V5_HANDSHAKE.md` |
 | `thyssen_v5/` | Museo Nacional Thyssen-Bornemisza, V5: 70 tracks (51 main + 19 Extras), EN + ES/FR/DE, three lengths with spoken bridges. Handshake: `THYSSEN_V5_HANDSHAKE.md` |
 | `uffizi_v5/` | Uffizi Gallery, V5: 67 tracks (53 main + 14 Extras), EN + ES/FR/DE/IT, three lengths with hand-written bridges. Handshake: `UFFIZI_V5_HANDSHAKE.md` |
+| `alcazar_v5/` | Real Alcázar de Sevilla, V5: 35 tracks (33 walking order + 2 optional Cuarto Real Alto Extras), EN + ES/FR/DE, numbers of the official leaflet. Handshake: `ALCAZAR_V5_HANDSHAKE.md` |
+| `cathedral_seville_v5/` | Catedral de Sevilla + Giralda, V5: 28 tracks, in progress (audit fixes, then translations). |
 | `deliverables/` | Everything sent to the user: zips, route PDFs, scripts (.md), snapshots, image kit |
 
 The same structure is used inside each guide folder:
@@ -136,6 +138,8 @@ handshake → refresh its snapshot zip in `deliverables/` → commit and push (s
 - **Uffizi (24 Oct):** "same rule" as the new guides: complete research, every placement on uffizi.it vs the October 2026
   map; three lengths Highlights 75 / Essential 120 / Full 165 min; no Vasari Corridor section; **Italian added** (voice
   Isabella); must beat the official guide and competitors.
+- **Seville (30 Oct):** both rebuilt from scratch ("old and not great"). Alcázar 45/75/120 min + optional Cuarto Real Alto
+  Extras; Cathedral 45/75/110 min (Full lands ≈ 100 min without padding); languages EN/ES/FR/DE for both.
 - **edge-tts (20 Oct):** Microsoft changed the service; edge-tts ≥ 7.3.0 is required (`python3 -m pip install --user --upgrade edge-tts`).
 - **Never complete CAPTCHAs / "verify you are human"** — the user clicks them. Never burst requests to a museum site (the Prado
   firewall blocked the user's browser once); one page at a time.
@@ -181,6 +185,9 @@ Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
 
 | Uffizi V5 | 67 tracks (53 main + 14 Extras), ~17,800 words, ~143 min; Essential 40 / Highlights 19 with hand-written bridges | done + independent review per language (ES/FR/DE/IT) | 7-page phone PDF (both floors) | stand-in: EN Highlights, ES all lengths, IT Highlights | on-site checklist (CRITICAL: Botticelli entry, A33, C6–C12, D9); loans back Jan–Apr 2027 |
 
+| Alcázar V5 | 35 tracks, ~9,600 words, ~73 min listening; Essential 20 / Highlights 10 with hand-written bridges; 2 CRA Extras | done + independent review per language | 5-page phone PDF on the leaflet's numbers | stand-in: EN all lengths, DE Highlights | on-site checklist (Pabellón reopening, Muñecas → Crucero, last garden stretch) |
+
+Alcázar detail: see `alcazar_v5/ALCAZAR_V5_HANDSHAKE.md`.
 Uffizi detail: see `uffizi_v5/UFFIZI_V5_HANDSHAKE.md`.
 Thyssen detail: see `thyssen_v5/THYSSEN_V5_HANDSHAKE.md`.
 Reina Sofía detail: see `reina_v5/REINA_V5_HANDSHAKE.md`.

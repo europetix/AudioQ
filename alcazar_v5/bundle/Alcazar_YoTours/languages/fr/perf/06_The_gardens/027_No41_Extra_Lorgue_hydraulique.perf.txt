@@ -1,0 +1,24 @@
+@id: 027 · FR · No. 41 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 41 · Fuente de la Fama
+@type: X
+@title: 41 · Extra · L'orgue hydraulique
+@where: À côté du numéro 41, la Fuente de la Fama : la fontaine dans une niche en demi-cercle, encastrée dans le même long mur que le Grutesco, au-delà du bout du bassin de Mercure.
+@what: Fuente de la Fama, a 17th-century organ fountain with a hydraulic chamber, restored in 2006 by Leonardo Lombardi with Rodney Briscoe.
+@listen: The only 17th-century organ fountain preserved in Spain, and the two men who made it work again.
+@brief: A short, curious aside, half a secret; quietly pleased, never promising a performance.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.alcazarsevilla.org/?p=11076 (OFF: "la única fuente órgano del siglo XVII que se conserva en España"; "una de las cuatro que se conservan en el mundo"; original hydraulic mechanisms produced sound from transmitted air; 2006: Italian archaeology professor Leonardo Lombardi restored the hydraulic chamber; British craftsman Rodney Briscoe took part, "el único artesano capaz de restaurar la maquinaria de una fuente órgano de estas características"; restored organ "automático que funciona con la presión del aire producida por el agua", after the fountains of Italian Renaissance and Baroque villas). No description of the fountain's figures on the page: none given.
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 027 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cette fontaine cache un instrument de musique. À l'intérieur, un orgue joué par l'eau.
+
+L'Alcázar la présente comme la seule fontaine à orgue du dix-septième siècle conservée en Espagne, et l'une des quatre seulement qui restent au monde. [pause] Ces fontaines étaient à la mode dans les villas de l'Italie de la Renaissance et du baroque. Le mécanisme d'origine utilisait l'eau pour déplacer l'air, et l'air en mouvement produisait le son.
+
+[pause] En 2006, deux spécialistes la remirent en état de marche. L'un était Leonardo Lombardi, professeur d'archéologie italien, qui restaura sa chambre hydraulique. L'autre était Rodney Briscoe, un artisan britannique. On le disait seul capable de restaurer le mécanisme d'une fontaine à orgue de ce type.
+
+[lightly] L'orgue restauré devait fonctionner seul, grâce à la pression d'air produite par l'eau. Qu'il joue ou non à votre passage dépend de l'eau. [pause] Si vous l'entendez, vous saurez ce que c'est.
+
+Continuez jusqu'au numéro 44, le Pabellón de Carlos Quinto : le petit pavillon carré orné de carreaux, au fond de ces jardins réguliers.

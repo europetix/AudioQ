@@ -1,0 +1,30 @@
+@id: 014 · FR · No. 15 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 15 · Salón de los Embajadores
+@type: W
+@title: 15 · Salón de los Embajadores — La nuit où l'empereur se maria
+@where: Toujours dans le numéro 15, le Salón de los Embajadores, sous la coupole dorée. Restez là où vous étiez pour l'arrêt précédent.
+@what: The marriage of Charles V (Charles I of Spain) and Isabel of Portugal, Seville, night of 10–11 March 1526: betrothal by words of present consent by Cardinal Salviati in the "media naranja"; nuptial Mass after midnight by the Archbishop of Toledo at an altar set up in a chamber of the palace (Sandoval; Pleguezuelo places it in no. 13); godparents the Duke of Calabria and the Countess of Haro.
+@listen: How an emperor married a cousin he had never met on the night he reached Seville, and how the marriage ended.
+@brief: Telling a true love story to a friend in the very room; warm, a little conspiratorial in the middle, quiet at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://dialnet.unirioja.es/descarga/articulo/7042473.pdf (SEC, García Parody & Caballero, Revista de Estudios Taurinos 42, 2018: Isabel entered Seville 3 March; Charles left Toledo 20 Feb, via Alcalá del Río, entered Seville Saturday 10 March; received by Cardinal Salviati, papal legate; Sandoval: espoused "por palabras de presente" in "la cuadra grande, que llaman media naranja"; after midnight the Archbishop of Toledo "dijo allí la misa y los veló"; godparents Duke of Calabria and Countess of Haro; "soberbios arcos triunfales en los que se ensalzaban las virtudes que deberían adornar a los príncipes"; proxy ceremony repeated 20 January "por insuficiencia de la primera dispensa pontificia"; news of the death of Isabel, queen of Denmark, interrupted the festivities; about two months in Seville, departure date disputed; then Córdoba and Granada. Its "23 años" is contradicted by the birth date below; its dowry is "900.000 doblas", not used) ; https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-of-portugal/0ea9d2ad-559c-10cd-eec5-15caabf98435 (OFF, Patrimonio Nacional: born Lisbon 24 Oct 1503, so 22 in March 1526; daughter of Manuel I and Maria of Aragón; marriage arranged 1525, celebrated in Seville 11 March 1526; died Toledo 1 May 1539 from complications of her last childbirth; Charles "refused to remarry"; Charles I 1500–1558) ; 500th anniversary: research notice OFF 2 Mar 2026 (V Centenario programme), DATED ; AUDIT FIX 30 Oct, re-read GPC https://dialnet.unirioja.es/descarga/articulo/7042473.pdf (arrival "sábado 10 de marzo", no time of day; "fué aderezado un altar en una cámara del alcázar" after midnight; proxy esponsales 1 Nov 1525, repeated 20 Jan 1526)
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 014 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Charles Quint entra à cheval dans Séville le 10 mars 1526. Le soir même, dans cette salle, il épousa en personne une femme qu'il n'avait jamais vue.
+
+C'était Isabelle de Portugal, fille du roi Manuel de Portugal et de Marie d'Aragon. Et sa cousine germaine. Elle avait vingt-deux ans, lui vingt-six. Vu leur proche parenté, l'Église dut accorder une dispense.
+
+Isabelle arriva à Séville une semaine avant lui, le 3 mars. La ville l'accueillit avec des arcs de triomphe célébrant les vertus d'un prince. Charles, lui, descendait de Tolède.
+
+[conspiratorial] Il arriva ce jour-là, et personne n'attendit. Le soir même, le légat du pape, le cardinal Salviati, les maria par paroles de présent. Le chroniqueur Sandoval situe la scène dans « la grande salle qu'on appelle la demi-orange ». [pause] Cette salle. Après minuit, le 11 mars donc, on dressa un autel dans une salle du palais. L'archevêque de Tolède y dit la messe et donna aux époux la bénédiction nuptiale. [pause] Un historien de l'Alcázar situe cette messe dans l'ancien oratoire du roi, le numéro 13, le Salón del Techo de Carlos Quinto. Leurs parrains furent le duc de Calabre et la comtesse de Haro.
+
+Les fêtes furent brèves. On apprit la mort de la sœur de Charles, Isabelle, reine de Danemark, et les réjouissances furent écourtées. Le couple resta quelque temps à Séville, puis partit pour Grenade.
+
+[quietly] Levez les yeux. Cette nuit-là, la coupole avait déjà près d'un siècle. Mariage arrangé pour raison d'État, il dura treize ans. [pause] Isabelle mourut en 1539, après son dernier accouchement. Charles refusa de se remarier.
+
+En 2026, Séville a célébré le cinq-centième anniversaire de ce mariage.
+
+Le numéro 16 du plan de l'Alcázar, le Salón del Techo de Felipe Segundo, a un court Extra sur l'arc des Paons et deux plafonds de bois. Le prochain arrêt principal est le numéro 18 du plan de l'Alcázar, le Patio de las Muñecas, la plus petite cour de votre visite.

@@ -1,0 +1,26 @@
+@id: 004 · ES · No. 2 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 2 · Sala de la Justicia
+@type: R
+@title: 2 · Sala de la Justicia — La sala de Alfonso Undécimo
+@where: Dentro de la Sala de la Justicia, en la esquina del fondo a la izquierda del Patio del León, mirando hacia el triple arco: una pequeña sala cuadrada de muros cubiertos de yesería, con una fuente en el centro del suelo.
+@what: Sala de la Justicia, a square Mudéjar hall built at the time of Alfonso XI of Castile, 14th century (around the 1340s); plasterwork with plant motifs and heraldic shields; floor fountain.
+@listen: A king's victory, a Christian hall in Islamic dress, and the first step towards Pedro's palace.
+@brief: A friend telling the backstory of a small room; curious at the battle, careful with the doubt, quietly pleased at the fountain.
+@pace: medium
+@energy: 2→3→2
+@sources: https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF, Ayuntamiento de Sevilla / Real Alcázar: "the earliest Mudéjar building in the Royal Alcázar", "built in around the 14th century", "at the time of Alfonso XI of Castile"; "traditional Islamic plasterwork featuring plant-like motifs and heraldic shields") ; https://www.britannica.com/print/article/504287 (SEC, Britannica, Battle of Río Salado: 30 Oct 1340; Alfonso XI and Afonso IV of Portugal against the Marinids; the Marinids' last attempt to invade the peninsula) ; https://andalucia.com/cities/seville/alcazar/moorish.htm (SEC: Alfonso XI reconstructed it in the 14th century; central fountain) ; Salado link "possibly": audit HEDGE ; Pedro son of Alfonso XI: audit SNIP
+@lang: es
+@translation: from the fact-checked English Real Alcázar 004 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1340, junto al río Salado, Alfonso Undécimo de Castilla y Alfonso Cuarto de Portugal derrotaron a un gran ejército benimerín llegado de Marruecos. Fue el último intento benimerín de invadir la península. Y la última vez que Castilla y Portugal lucharon juntos contra ellos.
+
+Esta sala se construyó en tiempos de Alfonso, en el siglo catorce, quizá para celebrar esa victoria. Nadie puede demostrarlo. Pero la sala cuenta otra historia, y esa es segura.
+
+Alfonso era un rey cristiano, y era el padre de Pedro. [pause] Pero fíjese en lo que eligió: una sala cuadrada de tradición islámica, con los muros cubiertos de yeserías de motivos vegetales y escudos heráldicos. La descripción de la propia ciudad la llama el edificio mudéjar más antiguo del Alcázar. Mudéjar es el nombre de esta mezcla: formas del arte islámico hechas para clientes cristianos. Así, la sala de un rey castellano habla el lenguaje artístico de al-Ándalus.
+
+[pause] Luego mire abajo, a la fuente del suelo. Agua en medio de una sala, un trozo de jardín traído al interior.
+
+[warmly] En una generación, su hijo Pedro llevaría este gusto a un palacio entero. Esta pequeña sala es donde empieza esa historia.
+
+Salga por el otro lado de esta sala al número 3 del mapa del Alcázar, el Patio del Yeso: una celosía de arcos sobre una larga alberca.

@@ -1,0 +1,28 @@
+@id: 003 · FR · No. 1 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 1 · Patio del León
+@type: R
+@title: 1 · Patio del León — Onze siècles sur un même site
+@where: Toujours dans le Patio del León, la première cour après la porte du Lion, avec le triple arc qui mène plus loin.
+@what: A timeline of the Alcázar: 913 (Abd al-Rahman III), the Abbadid palace al-Mubarak, the Almohad residence, 1248, Alfonso X's Gothic palace, Pedro I's palace, the Casa de la Contratación, the 1526 wedding, the 19th-century Bourbon rooms, the 1931 cession to the city, the royal residence today.
+@listen: Eleven centuries in two minutes, so you can tell whose wall is whose as you walk.
+@brief: A light, brisk storyteller sketching the big picture before going in; brisk and clear, a wry smile at the end.
+@pace: medium-fast
+@energy: 3→3→3
+@sources: https://alcazarsevilla.org/historia/ (OFF: 913 order for a new seat of government; "Palacio de al-Mubarak, el Bendito"; Almohads in the 12th century; "La conquista castellana del territorio en 1248-49"; Alfonso X's Gothic palace; Pedro I's Mudéjar palace mid-14th century) ; https://www.archnet.org/sites/20835 (OFF: Almohad residence, attested from 1190) ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF: Recinto I wall 11th century, "sin que pueda descartarse una datación almorávide") ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: Pedro I's change "a partir de 1356") ; https://cisneros.web.uah.es/carpeta/images/pdfs/093_real.pdf (OFF: Casa de la Contratación founded by the Catholic Monarchs, housed in the Alcázar) ; https://andalucia.org/en/sevilla-visitas-real-alcazar-de-sevilla (OFF: 19th-century Bourbon top-floor rooms) ; https://publicaciones.ucuenca.edu.ec/ojs/index.php/estoa/article/download/2051/1582/6771 (SEC, Bañasco & Barrero, Estoa 2019: ceded "mediante Decreto de 22 de abril de 1931") ; https://www.eldiario.es/viajes/alcazar-espacio-reservado-realeza-palacio-antiguo-europa-pm_1_12280672.amp.html (SEC: run by the Ayuntamiento "a través de un patronato propio"; Cuarto Alto official residence of the head of state) ; Abd al-Rahman III caliph from 929, Fernando III, siege of more than a year, Alfonso X his son, 1526 wedding: audit SNIP / see 014
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 003 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Onze siècles, c'est lourd à porter pour un palais. Voici la version courte.
+
+Tout commence en 913. Abd al-Rahman trois, alors émir de Cordoue et plus tard son premier calife, ordonna ici un nouveau siège du gouvernement. Au onzième siècle, les rois abbadides de Séville y avaient un palais nommé al-Mubarak, le Béni. [pause] Le plus ancien mur trouvé ici par les archéologues date de ce siècle, et il pourrait être almoravide.
+
+À la fin du douzième siècle, les Almohades bâtirent ici une résidence. Une partie subsiste à quelques pas.
+
+En 1248, après un siège de plus d'un an, Ferdinand trois de Castille prit Séville. Son fils, Alphonse dix, dit le Sage, bâtit un palais gothique. Au milieu du quatorzième siècle, le roi Pierre premier commença le palais qui est au cœur de cette visite. [pause] Les Rois catholiques installèrent ici leur Maison du commerce pour les Amériques. Charles Quint s'y maria. Et au dix-neuvième siècle, des monarques Bourbons ajoutèrent et rénovèrent les pièces de l'étage.
+
+[pause] En 1931, la nouvelle République confia l'Alcázar à la ville de Séville. Celle-ci le gère toujours, par son propre conseil, le Patronato. Pourtant, l'étage reste la résidence officielle du roi quand il est à Séville.
+
+[wry] Alors, en marchant, demandez-vous devant chaque mur : à qui est-il ? La réponse compte souvent plus d'un nom.
+
+Le numéro 2 du plan de l'Alcázar, la Sala de la Justicia, s'ouvre dans l'angle gauche du fond de cette cour, quand vous faites face au triple arc : une petite salle carrée, avec une fontaine encastrée dans le sol.

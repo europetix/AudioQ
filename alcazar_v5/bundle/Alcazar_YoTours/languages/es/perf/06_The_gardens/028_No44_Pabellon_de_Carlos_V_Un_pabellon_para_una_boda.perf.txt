@@ -1,0 +1,30 @@
+@id: 028 · ES · No. 44 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 44 · Pabellón de Carlos V
+@type: W
+@title: 44 · Pabellón de Carlos V — Un pabellón para una boda
+@where: Ante el número 44, el Pabellón de Carlos V: un pequeño pabellón cuadrado de azulejos, en un espacio abierto al fondo de los jardines geométricos.
+@what: Pabellón (Cenador) de Carlos V, by Juan Hernández, built in honour of the 1526 marriage of Charles V and Isabel of Portugal, on the origin of a Muslim qubba; 16th-century tiles from the Polido brothers' workshop; floor tracing the old labyrinth; integral restoration reported in 2026.
+@listen: A pavilion built to honour an emperor's wedding, which the emperor himself never saw.
+@brief: A friend telling a bittersweet story in a garden; warm, then quiet at the turn, light again at the floor.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.alcazarsevilla.org/?p=11014 (OFF: origin "en una qubba musulmana"; mixes Mudéjar and Renaissance; author Juan Hernández; built "en honor del matrimonio del Emperador Carlos V e Isabel de Portugal"; 16th-century tiles "del taller de los hermanos Polido"; square room with a fountain in the centre, "magnífico artesonado", a window on each side for the air; floor shows "el trazo del antiguo laberinto") ; https://www.riarte.es/handle/20.500.12251/81 (SEC, J. M. Castro Fuertes, doctoral thesis, Univ. of Seville 2016: square plan; Polido tiles; documented works of 1543 cited from Gestoso) ; https://vivirediciones.es/sevilla/sevilla-restauracion-cenador-carlos-v-1-6-millones/ (SEC, 1 Jul 2026: integral restoration under way) ; https://vivirediciones.es/?p=1096722 (SEC, 20–21 Jul 2026: listed among completed works; reopening not stated) ; Isabel's death 1539 and Charles never remarried: Patrimonio Nacional via audit (OFF) ; Charles not in Seville after 1526: audit (OFF/SNIP) ; AUDIT FIX 30 Oct, re-read GPC ("los dos meses que la pareja imperial pasó en Sevilla"; departure 18 March per Sandoval or 13 May per Cadenas). Version (b) recorded until O24
+@lang: es
+@translation: from the fact-checked English Real Alcázar 028 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Este pequeño pabellón se construyó en honor de una boda. El novio nunca lo vio.
+
+En 1526, Carlos Quinto se casó con Isabel de Portugal en el Salón de los Embajadores. Se quedaron en Sevilla unos dos meses. Carlos nunca volvió. [pause] Aun así, este pabellón se levantó en honor de esa boda. Lo construyó Juan Hernández, y suele fecharse en la década de 1540.
+
+No partió de cero: nace de una qubba, un pequeño pabellón con cúpula de la tradición islámica. El edificio que ve mezcla el viejo estilo mudéjar con el nuevo renacentista.
+
+[quietly] Aquí hay un giro triste. Isabel murió en 1539, tras el nacimiento de su último hijo. Carlos nunca volvió a casarse. [pause] Cuando el pabellón se alzó en honor de su boda, la novia muy probablemente ya había muerto.
+
+Dentro hay una sola sala cuadrada, con una fuente en el centro, un magnífico artesonado y una ventana a cada lado para la brisa. Los azulejos son del siglo dieciséis, del taller de los hermanos Polido. Y su suelo traza el dibujo del antiguo laberinto.
+
+Si el pabellón sigue cubierto por vallas de obra, mire sus muros exteriores de azulejos. La sala, el techo y ese suelo esperan dentro.
+
+[lightly] Fans de Juego de Tronos: las Serpientes de Arena lucharon contra Jaime y Bronn justo junto a este pabellón.
+
+Quédese aquí para un breve Extra sobre Dorne, el Alcázar en la pantalla. La siguiente parada principal es el número 45 del mapa del Alcázar, el Cenador del León, un poco más allá, al final de este espacio abierto: un pabellón detrás de un estanque presidido por un león.

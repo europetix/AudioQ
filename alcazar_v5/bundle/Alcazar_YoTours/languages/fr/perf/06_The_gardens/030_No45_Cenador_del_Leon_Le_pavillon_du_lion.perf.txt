@@ -1,0 +1,26 @@
+@id: 030 · FR · No. 45 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 45 · Cenador del León
+@type: R
+@title: 45 · Cenador del León — Le pavillon du lion
+@where: Près du bassin devant le numéro 45, le Cenador del León, au bout de l'espace dégagé après le Pabellón de Carlos V : un pavillon de jardin juste derrière un bassin que préside un lion.
+@what: Cenador del León, built 1644–1645 to designs by Diego Martín Orejuela, painted decoration by Juan de Medina, tiles supplied by Benito Valladares; its pool older, with a 14th-century phase and a 16th-century enlargement, rebuilt after the pavilion; archaeological watch during the 2017 restoration found late-medieval heraldic plaster, very probably of Pedro I's time (a working hypothesis), on the east and north walls of the pool's walkway, not on the single-phase pavilion.
+@listen: A seventeenth-century pavilion named after the lion in its pool, and the medieval heraldry archaeologists found in the walls round its pool.
+@brief: A friend sharing an archaeologist's hunch; curious, careful to call a hypothesis a hypothesis.
+@pace: medium
+@energy: 2→3→2
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/19784/1/AAA_2018_197_tabalesrodriguezmigela_cenadoryestanquedelleon_sevilla_borrador.pdf (OFF, Tabales & Vargas, AAA 2018: "se construye entre 1644 y 1645"; "trazas … Diego Martín Orejuela"; painting programme "ejecutado por Juan de Medina"; tiles "suministrados por Benito Valladares"; named "del León" "porque se alzó detrás mismo del estanque presidido por este animal"; pool with a 14th-century phase and a 16th-century enlargement, rebuilt "en su integridad" after the pavilion; plaster "muy probablemente del período de Pedro I", from only two walls, presented as hypothesis; works July–October 2017 under archaeological watch; restoration project by María Dolores Robador). The lion itself is not described in the report: not described here. ; AUDIT FIX 30 Oct, re-read TAB18 (OFF: heraldic plaster on the east and north walls of the pool's walkway, "andén de la alberca"; the cenador's masonry "es monofásica"; Pedro-era date "muy probablemente", a "hipótesis de trabajo")
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 030 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 2017, pendant une restauration, des archéologues trouvèrent ici une histoire plus ancienne, cachée dans les murs du bassin.
+
+Le pavillon lui-même est du dix-septième siècle, élevé entre 1644 et 1645 sur des plans de Diego Martín Orejuela. Juan de Medina peignit son riche décor, et Benito Valladares fournit les carreaux. [pause] Son nom est simple. Cenador del León, le pavillon du lion : il est juste derrière le bassin que préside le lion.
+
+[pause] Mais le bassin est plus ancien que le pavillon. La fouille a révélé une phase du quatorzième siècle, et un agrandissement au seizième. Le pavillon achevé, on reconstruisit tout le bassin pour l'accorder.
+
+Puis vint la surprise. Sur deux murs de l'ancienne allée du bassin, l'équipe trouva dans l'enduit des traces de décor héraldique de la fin du Moyen Âge. [pause] Les archéologues Miguel Ángel Tabales et Cristina Vargas le datent très probablement de l'époque du roi Pierre, bâtisseur du palais visité plus tôt. [quietly] Ils parlent prudemment d'hypothèse. Mais s'ils ont raison, ces murs ont quelque trois siècles de plus que le pavillon.
+
+Regardez donc au-delà du pavillon, vers le bassin. La salle de jardin du dix-septième siècle est ici la nouvelle venue. Les murs autour de l'eau sont peut-être bien plus anciens.
+
+Le numéro 46 du plan de l'Alcázar, le Jardín Inglés, le jardin aux allées sinueuses au-delà de ce pavillon, a un court Extra sur les jardins du vingtième siècle. Le prochain arrêt principal est le numéro 51 du plan de l'Alcázar, la Puerta de Marchena : un portail gothique en pierre dressé dans le jardin, avec des hommes sauvages sculptés tenant des écus.

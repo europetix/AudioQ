@@ -1,0 +1,24 @@
+@id: 027 · DE · No. 41 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 41 · Fuente de la Fama
+@type: X
+@title: 41 · Extra · Die Wasserorgel
+@where: Neben Nummer 41, der Fuente de la Fama: der Brunnen in einer halbrunden Nische in derselben langen Mauer wie der Grutesco, hinter dem Ende des Merkurbeckens.
+@what: Fuente de la Fama, a 17th-century organ fountain with a hydraulic chamber, restored in 2006 by Leonardo Lombardi with Rodney Briscoe.
+@listen: The only 17th-century organ fountain preserved in Spain, and the two men who made it work again.
+@brief: A short, curious aside, half a secret; quietly pleased, never promising a performance.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.alcazarsevilla.org/?p=11076 (OFF: "la única fuente órgano del siglo XVII que se conserva en España"; "una de las cuatro que se conservan en el mundo"; original hydraulic mechanisms produced sound from transmitted air; 2006: Italian archaeology professor Leonardo Lombardi restored the hydraulic chamber; British craftsman Rodney Briscoe took part, "el único artesano capaz de restaurar la maquinaria de una fuente órgano de estas características"; restored organ "automático que funciona con la presión del aire producida por el agua", after the fountains of Italian Renaissance and Baroque villas). No description of the fountain's figures on the page: none given.
+@lang: de
+@translation: from the fact-checked English Real Alcázar 027 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieser Brunnen verbirgt ein Musikinstrument. In ihm steckt eine Orgel, die vom Wasser gespielt wird.
+
+Der Alcázar nennt sie den einzigen erhaltenen Orgelbrunnen des siebzehnten Jahrhunderts in Spanien, und einen von nur vier weltweit. Solche Brunnen waren eine Mode der Villen im Italien der Renaissance und des Barock. [pause] Die ursprüngliche Mechanik nutzte Wasser, um Luft zu bewegen, und die bewegte Luft erzeugte den Klang.
+
+[pause] 2006 brachten zwei Fachleute sie wieder zum Laufen. Der eine war Leonardo Lombardi, ein italienischer Professor für Archäologie, der ihre hydraulische Kammer restaurierte. Der andere war Rodney Briscoe, ein britischer Kunsthandwerker. Er galt als der einzige, der die Mechanik eines solchen Orgelbrunnens restaurieren konnte.
+
+[lightly] Die restaurierte Orgel sollte von selbst laufen, mit dem Luftdruck, den das Wasser erzeugt. [pause] Ob sie gerade spielt, wenn Sie vorbeikommen, entscheidet das Wasser. Wenn Sie sie hören, wissen Sie, was es ist.
+
+Weiter zu Nummer 44, dem Pabellón de Carlos Quinto: der kleine, quadratische, geflieste Pavillon am anderen Ende dieser geometrisch angelegten Gärten.

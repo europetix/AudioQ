@@ -1,0 +1,26 @@
+@id: 030 · DE · No. 45 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 45 · Cenador del León
+@type: R
+@title: 45 · Cenador del León — Der Pavillon des Löwen
+@where: Am Becken vor Nummer 45, dem Cenador del León, am Ende des offenen Platzes hinter dem Pabellón de Carlos V: ein Gartenpavillon direkt hinter einem Becken, über das ein Löwe wacht.
+@what: Cenador del León, built 1644–1645 to designs by Diego Martín Orejuela, painted decoration by Juan de Medina, tiles supplied by Benito Valladares; its pool older, with a 14th-century phase and a 16th-century enlargement, rebuilt after the pavilion; archaeological watch during the 2017 restoration found late-medieval heraldic plaster, very probably of Pedro I's time (a working hypothesis), on the east and north walls of the pool's walkway, not on the single-phase pavilion.
+@listen: A seventeenth-century pavilion named after the lion in its pool, and the medieval heraldry archaeologists found in the walls round its pool.
+@brief: A friend sharing an archaeologist's hunch; curious, careful to call a hypothesis a hypothesis.
+@pace: medium
+@energy: 2→3→2
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/19784/1/AAA_2018_197_tabalesrodriguezmigela_cenadoryestanquedelleon_sevilla_borrador.pdf (OFF, Tabales & Vargas, AAA 2018: "se construye entre 1644 y 1645"; "trazas … Diego Martín Orejuela"; painting programme "ejecutado por Juan de Medina"; tiles "suministrados por Benito Valladares"; named "del León" "porque se alzó detrás mismo del estanque presidido por este animal"; pool with a 14th-century phase and a 16th-century enlargement, rebuilt "en su integridad" after the pavilion; plaster "muy probablemente del período de Pedro I", from only two walls, presented as hypothesis; works July–October 2017 under archaeological watch; restoration project by María Dolores Robador). The lion itself is not described in the report: not described here. ; AUDIT FIX 30 Oct, re-read TAB18 (OFF: heraldic plaster on the east and north walls of the pool's walkway, "andén de la alberca"; the cenador's masonry "es monofásica"; Pedro-era date "muy probablemente", a "hipótesis de trabajo")
+@lang: de
+@translation: from the fact-checked English Real Alcázar 030 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Als hier 2017 restauriert wurde, fanden Archäologen eine ältere Geschichte, versteckt in den Mauern des Beckens.
+
+Der Pavillon selbst stammt aus dem siebzehnten Jahrhundert. Er entstand zwischen 1644 und 1645, nach Plänen von Diego Martín Orejuela. Juan de Medina malte seine reiche Dekoration. Benito Valladares lieferte die Fliesen. [pause] Sein Name ist schlicht. Er ist der Cenador del León, der Pavillon des Löwen, weil er direkt hinter dem Becken steht, über das der Löwe wacht.
+
+[pause] Aber das Becken ist älter als der Pavillon. Die Grabung fand eine Phase aus dem vierzehnten Jahrhundert und eine Erweiterung im sechzehnten. Nach Fertigstellung des Pavillons wurde das Becken passend dazu ganz neu gebaut.
+
+Dann kam die Überraschung. An zwei Mauern des alten Umgangs um das Becken fand das Team Spuren spätmittelalterlicher heraldischer Dekoration im Putz. Die Archäologen Miguel Ángel Tabales und Cristina Vargas datieren sie sehr wahrscheinlich in die Zeit von König Pedro. Er ist der Erbauer des Palastes, den Sie vorhin durchquert haben. [quietly] Sie nennen das ausdrücklich eine Hypothese. Doch wenn sie recht haben, sind die Mauern um das Becken etwa drei Jahrhunderte älter als der Pavillon dahinter.
+
+Schauen Sie also am Pavillon vorbei auf das Becken. Der Gartensaal aus dem siebzehnten Jahrhundert ist hier der Neuling. Die Mauern ums Wasser sind vielleicht viel älter.
+
+Zu Nummer 46 auf dem Alcázar-Plan, dem Jardín Inglés, dem Garten mit gewundenen Wegen hinter diesem Pavillon, gibt es einen kurzen Extra-Titel über die Gärten des zwanzigsten Jahrhunderts. [pause] Die nächste Hauptstation ist Nummer 51 auf dem Alcázar-Plan, die Puerta de Marchena: ein gotisches Steintor im Garten, mit gemeißelten wilden Männern, die Wappenschilde halten.

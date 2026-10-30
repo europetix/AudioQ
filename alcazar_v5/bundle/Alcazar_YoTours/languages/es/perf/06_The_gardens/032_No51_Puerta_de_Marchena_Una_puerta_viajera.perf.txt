@@ -1,0 +1,26 @@
+@id: 032 · ES · No. 51 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 51 · Puerta de Marchena
+@type: R
+@title: 51 · Puerta de Marchena — Una puerta viajera
+@where: Ante el número 51, la Puerta de Marchena: una portada gótica de piedra labrada, en medio del jardín, con figuras de salvajes que sostienen escudos.
+@what: Puerta de Marchena, former front of the Dukes of Arcos's palace in Marchena, built 1492 and reformed 1540; sculptures by Esteban Jamete, datable to 1544; design possibly linked to Juan Guas; bought by the Marquis de la Vega-Inclán on behalf of Alfonso XIII for the Alcázar's new gardens.
+@listen: How the front door of a ducal palace in another town ended up standing in a royal garden.
+@brief: A friend enjoying an odd object; amused at first, then reading the carving closely, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.alcazarsevilla.org/?p=11106 (OFF: former portada of the palace of the Dukes of Arcos in Marchena; raised under Isabel I; "Se construye en 1492"; reformed in 1540, changing the heraldry for a change of lineage; wild men ("salvajes") holding shields with the new lineage's arms added; sculptures by Esteban Jamete, dated 1544; authorship "podría estar vinculada" to Juan Guas; owned by the Duke of Osuna from the 18th century; bought by the Marqués de la Vega-Inclán in the King's name for the new gardens; Gothic decoration, Renaissance elements, Mudéjar traits; no purchase year) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: 50 Jardín Marqués de la Vega Inclán, French style; 52 Jardín de la Alcubilla; 53 Apeadero) ; AUDIT FIX 30 Oct, re-read MARCH https://www.alcazarsevilla.org/?p=11106 (OFF: "La reforma afectó a los elementos heráldicos que marcaron el cambio de linaje producido en el señorío")
+@lang: es
+@translation: from the fact-checked English Real Alcázar 032 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Esta portada está muy lejos de casa. Se hizo para ser la puerta principal de un palacio en otra localidad.
+
+Viene de Marchena, un pueblo al este de Sevilla, donde era la entrada al palacio de los duques de Arcos. Se construyó en 1492, en el reinado de Isabel la Católica. [pause] Su diseño podría estar vinculado al arquitecto Juan Guas.
+
+Luego la portada cambió de escudo. En 1540, tras un cambio en el linaje, la heráldica tuvo que seguirlo. Se modificaron las armas antiguas y se añadieron las figuras talladas que ve. Las hizo el escultor Esteban Jamete, y pueden fecharse en 1544.
+
+[pause] Mire de cerca esas figuras. Son salvajes, una figura muy querida del arte bajomedieval, que sostienen los escudos de los nuevos dueños. A su alrededor, la piedra mezcla tres lenguajes: decoración gótica, elementos renacentistas posteriores y toques de obra mudéjar.
+
+Desde el siglo dieciocho, la portada perteneció a los duques de Osuna. Después la compró el marqués de la Vega-Inclán, en nombre del rey Alfonso Trece, para los nuevos jardines del Alcázar. [warmly] Así, una puerta hecha para el palacio de un duque se abre hoy al jardín de un rey. [pause] El jardín de estilo francés del número 50, el Jardín Marqués de la Vega Inclán, lleva el nombre del hombre que la trajo aquí.
+
+Desde aquí, siga las señales de Salida, pasando junto a los parterres del número 52 del mapa del Alcázar, el Jardín de la Alcubilla, justo después de esta portada. Le llevarán al número 53, el Apeadero: la sala de columnas que se abre al Patio de Banderas.

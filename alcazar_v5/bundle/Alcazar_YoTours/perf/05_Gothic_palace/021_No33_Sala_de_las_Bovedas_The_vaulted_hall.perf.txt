@@ -1,0 +1,24 @@
+@id: 021 · No. 33 · 30 Oct 2026 edition
+@section: Gothic palace
+@room: No. 33 · Sala de las Bóvedas
+@type: R
+@title: 33 · Sala de las Bóvedas — The vaulted hall
+@where: In number 33, the Sala de las Bóvedas, also called the Salón Gótico, the hall on the garden side of the Salón de los Tapices: a long hall under Gothic vaults, its walls tiled to about two metres with figures and plants, with a glass-panelled gallery looking into the garden.
+@what: Sala de las Bóvedas (Salón Gótico, Sala de Fiestas) of Alfonso X's Gothic palace; Mannerist tile dado of the 16th century to about 2 m, figures and plants, many on a yellow ground; two naval tapestries made for the 1929 Ibero-American Exposition.
+@listen: The hall of celebrations, its tiles, and two tapestries far younger than they look.
+@brief: Warm and inviting, a friend pointing out details on the walls; light at the end as the garden comes into view.
+@pace: medium
+@energy: 2→3→3
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF, school itineraries: the Sala Gótica is also called "la Sala de las Fiestas, ya que en ella se celebró el banquete de la boda de los reyes Carlos I e Isabel de Portugal"; walls covered with tiles "hasta unos 2 metros de altura"; "las figuras y plantas que tienen los zócalos manieristas"; "Estos azulejos pertenecen al Manierismo, período final del Renacimiento") ; https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC, mod. 9 Apr 2026: Vault Room; Renaissance tiles added in the 16th century, many with a bright yellow background, allegorical figures from classical mythology; "The two naval-themed tapestries were created for the 1929 Ibero-American Expo"; the wedding "may have been held in this room"; view into the garden through "a long glass-panelled gallery") ; restored sargas (SEC, Jul 2026) NOT used until O17 confirms them on view ; AUDIT FIX 30 Oct, re-read ITIN (banquet claim, unsourced teacher's notes) and GPC ("el Emperador y la Emperatriz se pasaron a cenar a sus aposentos")
+---
+[warmly] When Charles the Fifth married Isabel of Portugal in 1526, the celebrating may have moved in here. The Alcázar's own teaching notes call this the Sala de las Fiestas, the hall of celebrations. They say the wedding banquet was held in this room, though the account of the wedding night has the couple dining in their own rooms.
+
+This is number 33, the Sala de las Bóvedas, the Hall of the Vaults, also known as the Salón Gótico. Look up first, at the Gothic vaults of Alfonso the Wise's palace. Then look at the walls. They are tiled to a height of about two metres.
+
+The tiles are sixteenth-century Mannerist work, from the last phase of the Renaissance. They are crowded with figures and plants, and many stand out against a bright yellow ground. [curious] Choose one panel. Find a figure, then follow the leaves and flowers around it.
+
+Two more tapestries hang here, with scenes of the sea. They are much younger than they look. They were made for the Ibero-American Exposition held in Seville in 1929.
+
+[lightly] Through the long glass-panelled gallery, the garden is already in view. That is where you are going next.
+
+Out into the gardens on the hall's garden side, and down into number 38 on the Alcázar map, the Jardín de la Danza. Number 34, the Baños de Doña María de Padilla, opens in the palace wall on your right as you come out, at the head of the Danza: a doorway into a long pool under Gothic vaults.

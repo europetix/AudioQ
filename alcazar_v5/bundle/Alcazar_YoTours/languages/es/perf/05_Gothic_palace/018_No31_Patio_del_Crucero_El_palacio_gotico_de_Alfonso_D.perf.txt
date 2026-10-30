@@ -1,0 +1,26 @@
+@id: 018 · ES · No. 31 · 30 Oct 2026 edition
+@section: Gothic palace
+@room: No. 31 · Patio del Crucero
+@type: W
+@title: 31 · Patio del Crucero — El palacio gótico de Alfonso Décimo
+@where: En el número 31, el Patio del Crucero, el patio de cuatro parterres junto al Palacio Gótico, al que se llega desde la esquina del Patio de la Montería. El Palacio Gótico ocupa su lado derecho según entra. Busque el pórtico barroco de piedra que da paso a las salas góticas.
+@what: Patio del Crucero, largely of the Islamic period; the Gothic palace built by Alfonso X in the 13th century over the remains of the Almohad palace; its lower level survives as the "Baños de Doña María de Padilla" (no. 34); damaged in the 1755 Lisbon earthquake, repaired (the Salón de los Tapices, no. 32, lost its vaults to late Baroque arches), with a stone Baroque portico added in the later 18th century.
+@listen: How a learned Castilian king built a Gothic palace over an Islamic one, and the three ages you can read in one courtyard.
+@brief: A friend setting the scene in a quieter courtyard after the glitter of Pedro's palace; curious, clear, a light touch at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF leaflet: "El Palacio Gótico escenificó la transición drástica del nuevo orden cristiano"; "Al periodo islámico pertenecen … el Palacio del Yeso y gran parte del Patio del Crucero") ; https://alcazarsevilla.org/historia/ (OFF: after the 1248–49 conquest, "palacios como el Gótico, en el que Alfonso X plasma las concepciones del nuevo marco cultural") ; https://alcazarsevilla.org/?p=10943 (OFF: Baños = lower part of the Patio del Crucero; vaults made Gothic under Alfonso X, while his palace was being built) ; https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC, mod. 9 Apr 2026: Alfonso X built these rooms in the 13th century over the old Almohad palace; reached through the Crossing Courtyard; damaged by the 1755 Lisbon earthquake, vaulted ceiling replaced by late Baroque transverse arches; "stone baroque portico, added in the later 18th century") ; SNIP: Alfonso X great-great-grandfather of Pedro I (audit T15); Cantigas, translations, Castilian prose (audit T15, standard) ; AUDIT FIX 30 Oct, re-read ANDG https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC: only the Salón de los Tapices' vaulted ceiling "was replaced by late Baroque transverse arches"; Vault Room keeps its Gothic rib vault; chapel "conserves its original Gothic roof"; stone baroque portico, later 18th century)
+@lang: es
+@translation: from the fact-checked English Real Alcázar 018 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] El palacio que acaba de dejar era de un rey aclamado en árabe como sultán. Este lo construyó su tatarabuelo, y habla otro idioma: el gótico.
+
+Castilla tomó Sevilla en 1248. En el siglo trece, Alfonso Décimo, conocido como Alfonso el Sabio, construyó aquí un palacio gótico sobre los restos del palacio almohade. Se le recuerda como un rey de las letras. Se le atribuyen las Cantigas de Santa María, cientos de canciones a la Virgen. Y reunió a sabios para traducir y escribir en castellano. [pause] El propio mapa del Alcázar resume su palacio en una línea. Según dice, escenificó la transición drástica al nuevo orden cristiano.
+
+Pero este patio es más antiguo que su palacio. Según el mismo mapa, gran parte del Patio del Crucero pertenece al periodo islámico. Tenía un nivel inferior, que aún se conserva bajo sus pies. [pause] Es el espacio que hoy llamamos los Baños, el número 34 del mapa del Alcázar, un jardín hundido cuyas bóvedas hicieron góticas los constructores de Alfonso. Bajará a él más tarde, desde los jardines.
+
+[pause] Luego llegó el siglo dieciocho. El terremoto de Lisboa de 1755 dañó el Palacio Gótico, y se reparó. Su gran salón, el número 32 del mapa del Alcázar, el Salón de los Tapices, perdió su antigua bóveda, sustituida por arcos del barroco tardío. Y la entrada recibió un pórtico barroco de piedra. [pause] Busque esa fachada barroca. Es la entrada a las salas góticas.
+
+[lightly] Así que este único patio reúne tres épocas: islámico por debajo, gótico por dentro y con una fachada del siglo dieciocho.
+
+Cruce el pórtico del lado del Palacio Gótico y entre en el número 32, el Salón de los Tapices: un gran salón con enormes tapices de una campaña naval.

@@ -1,0 +1,28 @@
+@id: 002 · DE · No. 1 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 1 · Patio del León
+@type: W
+@title: 1 · Patio del León — Das Löwentor und ein verlorenes Theater
+@where: Gleich hinter dem Löwentor, im Patio del León: ein offener Hof mit vier Gartenbeeten, zwischen der Eingangsmauer und der gegenüberliegenden Mauer. Diese öffnet sich in einem dreifachen Bogen zum größeren Hof dahinter.
+@what: Puerta del León and the León–Montería portal: gate, wall and tower casing of one building campaign under Pedro I, 1350s (radiocarbon centred on 1368); later tile lion (maker and date not established); site of the Corral de la Montería theatre, 1620s–1691; largely cleared 1936–37 to designs by Juan Talavera.
+@listen: Why the Lion Gate is Pedro's and not Almohad, how this courtyard was a theatre for sixty years, and why the triple arch is off-centre.
+@brief: A friend sharing archaeology's surprises at the entrance; curious, then a little conspiratorial at the arch, warm at the end.
+@pace: medium
+@energy: 2→4→3
+@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF, Tabales AAA 2016: gate, tower lining and wall "forman un único proceso", "Fechado en la década de los 50 del siglo XIV"; C-14 "1368 +/- 58"; Romero Murube: always the Puerta de la Montería, now "del León" from the ceramic panel over the arch; corral de comedias from 1625/1626; fire 3 May 1691 starting in the asistente's stables; afterwards "cuadras, almacenes y casa habitación"; cleared 1936–37 "con las trazas de Juan Talavera y Heredia"; León–Montería portal: "asimetría del muro… de sus tres vanos", central arch displaced, probably "para facilitar la visión directa entre la puerta del León y la del palacio mudéjar", larger niche on one side) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF: name from the tile lion over the arch) ; AUDIT FIX 30 Oct, re-read TAB16 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/9631/1/AAA_2016_242_tabalesrodr%c3%adguez_puertale%c3%b3n_sevilla_borrador.pdf (OFF: "Forro de torre, lienzo de tapia y puerta del León… forman un único proceso"; sightline only reported, "Se ha querido ver en esto…", authors read the side spaces as "independientes y cerrados"; 1936–37 clearance partial: mirador and two houses kept)
+@lang: de
+@translation: from the fact-checked English Real Alcázar 002 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Über sechzig Jahre lang war dieser Hof ein Theater. Die Menschen drängten sich hier, um Stücke zu sehen. [pause] Bis 1691 ein Feuer der Vorstellung ein Ende machte.
+
+Zuerst das Tor, durch das Sie gerade gekommen sind. Lange hielt man es für almohadisch, aus dem zwölften Jahrhundert. Die Archäologie sagt etwas anderes. Miguel Ángel Tabales und sein Team fanden heraus: Das Tor, die Mauer daneben und die Ummantelung seines Turms entstanden in einem einzigen Bauabschnitt. [pause] Und zwar unter König Peter dem Ersten, Mitte des vierzehnten Jahrhunderts. Eine Radiokarbonprobe aus der Mauer weist in dieselbe Richtung.
+
+Der Name kam später. Jahrhundertelang hieß es Puerta de la Montería, das Tor der königlichen Jagd. Nach dem Fliesenlöwen über dem Bogen nannte man es dann Löwentor. Wer diesen Löwen schuf und wann, ist nicht geklärt.
+
+[pause] Drinnen hatte der Hof ein zweites Leben. Ab den 1620er-Jahren stand hier ein Theater, der Corral de la Montería, eines der Theater der Stadt. Im Mai 1691 brach in den Ställen nebenan ein Feuer aus und zerstörte es. Ställe, Lagerräume und Häuser folgten. In den 1930er-Jahren wurden die meisten davon abgerissen, nach Plänen des Architekten Juan Talavera. [pause] So entstand der Eingang, den Sie heute benutzt haben.
+
+[conspiratorial] Schauen Sie nun auf den dreifachen Bogen, der weiterführt. Seine drei Öffnungen sind nicht gleichmäßig verteilt. Der mittlere Bogen ist zur Seite gerückt. Deshalb ist die Mauer auf einer Seite breiter als auf der anderen. Eine Deutung: Das war Absicht, um eine direkte Sichtachse vom Löwentor zur Tür von Pedros neuem Palast zu schaffen.
+
+[warmly] Das Erste, durch das Sie gegangen sind, ist also kein Relikt der Almohaden. Es ist das Werk eines Königs, vielleicht ausgerichtet auf seine eigene Haustür.
+
+Bleiben Sie in Nummer 1, dem Patio del León, für einen kurzen Blick auf elf Jahrhunderte, bevor wir hineingehen.

@@ -1,0 +1,26 @@
+@id: 032 · FR · No. 51 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 51 · Puerta de Marchena
+@type: R
+@title: 51 · Puerta de Marchena — Un portail voyageur
+@where: Devant le numéro 51, la Puerta de Marchena : un portail gothique en pierre sculptée dressé dans le jardin, avec des figures d'hommes sauvages tenant des écus.
+@what: Puerta de Marchena, former front of the Dukes of Arcos's palace in Marchena, built 1492 and reformed 1540; sculptures by Esteban Jamete, datable to 1544; design possibly linked to Juan Guas; bought by the Marquis de la Vega-Inclán on behalf of Alfonso XIII for the Alcázar's new gardens.
+@listen: How the front door of a ducal palace in another town ended up standing in a royal garden.
+@brief: A friend enjoying an odd object; amused at first, then reading the carving closely, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.alcazarsevilla.org/?p=11106 (OFF: former portada of the palace of the Dukes of Arcos in Marchena; raised under Isabel I; "Se construye en 1492"; reformed in 1540, changing the heraldry for a change of lineage; wild men ("salvajes") holding shields with the new lineage's arms added; sculptures by Esteban Jamete, dated 1544; authorship "podría estar vinculada" to Juan Guas; owned by the Duke of Osuna from the 18th century; bought by the Marqués de la Vega-Inclán in the King's name for the new gardens; Gothic decoration, Renaissance elements, Mudéjar traits; no purchase year) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: 50 Jardín Marqués de la Vega Inclán, French style; 52 Jardín de la Alcubilla; 53 Apeadero) ; AUDIT FIX 30 Oct, re-read MARCH https://www.alcazarsevilla.org/?p=11106 (OFF: "La reforma afectó a los elementos heráldicos que marcaron el cambio de linaje producido en el señorío")
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 032 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Ce portail est loin de chez lui. Il fut fait pour être la porte d'entrée d'un palais, dans une autre ville.
+
+Il vient de Marchena, une ville à l'est de Séville, où il ouvrait le palais des ducs d'Arcos. Il fut construit en 1492, sous le règne d'Isabelle la Catholique. [pause] Son dessin est peut-être lié à l'architecte Juan Guas.
+
+Puis le portail changea d'armoiries. En 1540, après un changement dans la lignée de la famille, l'héraldique dut suivre. [pause] On modifia donc les anciennes armes, et on ajouta les figures sculptées que vous voyez. Le sculpteur Esteban Jamete les réalisa, et on peut les dater de 1544.
+
+[pause] Regardez ces figures de près. Ce sont des hommes sauvages, un motif cher à l'art de la fin du Moyen Âge, qui portent les écus des nouveaux propriétaires. Autour d'eux, la pierre mêle trois langues : décor gothique, éléments Renaissance plus tardifs et touches mudéjares.
+
+À partir du dix-huitième siècle, le portail appartint aux ducs d'Osuna. Puis le marquis de la Vega-Inclán l'acheta, pour le compte du roi Alphonse treize, pour les nouveaux jardins de l'Alcázar. [warmly] Une porte faite pour le palais d'un duc ouvre donc sur le jardin d'un roi. Le jardin à la française du numéro 50, le Jardín Marqués de la Vega Inclán, porte le nom de l'homme qui l'a amenée ici.
+
+D'ici, suivez les panneaux Salida, en passant devant les parterres du numéro 52 du plan de l'Alcázar, le Jardín de la Alcubilla, juste après ce portail. Ils mènent au numéro 53, l'Apeadero : la salle à colonnes qui donne sur le Patio de Banderas.

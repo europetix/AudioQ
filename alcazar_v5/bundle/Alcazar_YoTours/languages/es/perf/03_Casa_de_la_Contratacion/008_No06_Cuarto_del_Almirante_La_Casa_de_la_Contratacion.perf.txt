@@ -1,0 +1,28 @@
+@id: 008 · ES · No. 6 · 30 Oct 2026 edition
+@section: Casa de la Contratación
+@room: No. 6 · Cuarto del Almirante
+@type: W
+@title: 6 · Cuarto del Almirante — La Casa de la Contratación
+@where: Dentro del Cuarto del Almirante, el ala tras una fila de columnas en el lado derecho del Patio de la Montería, mirando a la fachada del palacio, señalizada como Casa de la Contratación: las primeras salas del Cuarto del Almirante, antes de la antigua sala de audiencias con la pintura de la Virgen.
+@what: Cuarto del Almirante (Cuarto de los Almirantes), seat of the Casa de la Contratación from its founding by Real Provisión of the Catholic Monarchs, Alcalá de Henares, 20 January 1503, until its move to Cádiz in 1717.
+@listen: How the trade and shipping of the Spanish Atlantic were run from these rooms for two centuries, including the slave trade.
+@brief: A thoughtful storyteller in an office of empire; engaged and clear, plain and quiet on the slave trade, a measured payoff.
+@pace: medium
+@energy: 2→3→2
+@sources: https://cisneros.web.uah.es/carpeta/images/pdfs/093_real.pdf (OFF, Universidad de Alcalá, AGI Patronato 251: Real Provisión, "Alcalá de Henares, 20 de enero de 1503"; to handle "todo lo concerniente al comercio de Indias y al aparejo y despacho de las flotas"; passenger licences; Atarazanas rejected for "la humedad allí existente por su proximidad al río"; seat "en los Reales Alcázares, en la parte denominada Cuarto de los Almirantes" until 1717, then Cádiz) ; https://www.asu.edu/courses/rel376/total-readings/Phillips--VisualizingImperium.pdf (OFF, Phillips, Renaissance Quarterly 58, 2005: the Casa's jurisdiction over commerce, shipbuilding, navigation, mapmaking and migration) ; https://firstblacks.org/wp-content/uploads/2025/09/fb-primary-020-comment-slaves-without-license-in-1522.pdf (SEC, CUNY Dominican Studies Institute, 1522 royal letter: shipments of enslaved people to be "registered by the officials that reside in Seville at the Casa de la Contratacion de las Indias") ; https://firstblacks.org/en/?p=3468 (SEC: shipping enslaved people required a licence from the Crown) ; https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF: the Casa "to oversee trade with the Indies", in the Alcázar until 1717) ; Archivo de Indias holds its papers, "across the plaza": audit wording ; AUDIT FIX 30 Oct, re-read UAH (OFF: Atarazanas rejected "debido a la humedad allí existente por su proximidad al río"; "Cuarto de los Almirantes")
+@lang: es
+@translation: from the fact-checked English Real Alcázar 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Durante doscientos años, si usted quería navegar legalmente de España a las Américas, sus papeles pasaban por esta casa.
+
+Todo empezó con una orden real. El 20 de enero de 1503, en Alcalá de Henares, los Reyes Católicos fundaron en Sevilla la Casa de la Contratación. [pause] El primer plan era instalarla en las atarazanas de la ciudad, junto al río. Se descartó: eran demasiado húmedas, por estar tan cerca del río. Así que la nueva oficina se trasladó al Alcázar, a estas salas, conocidas como el Cuarto de los Almirantes. Siguió aquí hasta 1717, cuando pasó a Cádiz.
+
+¿Qué hacía? Casi todo lo que necesitaba el comercio atlántico. Se ocupaba del comercio con las Américas y de aparejar y despachar las flotas. Autorizaba barcos, cargamentos y pasajeros. Su alcance abarcaba la construcción naval, la navegación y la cartografía.
+
+[quietly] Ese tráfico incluía también seres humanos. Africanos esclavizados fueron enviados a las Américas con licencia real. La Corona exigía registrar esos envíos ante los oficiales de esta casa. [pause] Es parte de la historia de estas salas, y hay que decirlo claramente.
+
+[pause] Los papeles de la Casa no se quedaron aquí. Hoy están en el Archivo de Indias, al otro lado de la plaza, uno de los grandes archivos del imperio español en las Américas.
+
+[warmly] Durante dos siglos, un palacio real fue también la oficina de un océano. Y los oficiales que se reunían aquí encargaron una pintura que aún cuelga en su antigua sala de audiencias.
+
+Pase al número 7 del mapa del Alcázar, la Capilla de la Virgen de los Navegantes, la antigua sala de audiencias al fondo de esta ala: la Virgen que extiende su manto sobre una multitud, con barcos a sus pies.

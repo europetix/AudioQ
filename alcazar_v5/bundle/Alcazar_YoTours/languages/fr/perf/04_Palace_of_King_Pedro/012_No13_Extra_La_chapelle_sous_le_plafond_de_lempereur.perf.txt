@@ -1,0 +1,26 @@
+@id: 012 · FR · No. 13 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 13 · Salón del Techo de Carlos V
+@type: X
+@title: 13 · Extra · La chapelle sous le plafond de l'empereur
+@where: Dans le Salón del Techo de Carlos V, par sa porte dans le grand côté du Patio de las Doncellas : une longue salle sous un sombre plafond Renaissance à caissons, avec des bustes sculptés parmi les caissons.
+@what: Salón del Techo de Carlos V, in the palace of Pedro I: the king's oratory, designed as a chapel; Renaissance coffered ceiling installed in the early 1540s (1542 Pleguezuelo; 1543 andalucia.com), with busts of human figures; a tiled altarpiece of 1504 by Niculoso Pisano, now lost except for fragments. Next door, no. 14, Sala de los Infantes.
+@listen: A royal chapel inside Pedro's palace, a lost tiled altarpiece, and a ceiling named after an emperor who was not there to see it.
+@brief: A short, amused aside between two great rooms; light, a little wry about the emperor's absence.
+@pace: medium
+@energy: 2→3→2
+@sources: https://core.ac.uk/download/51386392.pdf (OFF, A. Pleguezuelo, "Niculoso Francisco Pisano y el Real Alcázar de Sevilla", Apuntes del Alcázar de Sevilla, year not shown: the king's oratory was "situado en la planta baja del palacio del rey don Pedro", in the room "que ahora denominamos Sala del techo de Carlos V", at its eastern end; "el escenario de la misa de esponsales del emperador Carlos I con Isabel de Portugal"; "al instalarse su espléndido artesonado renacentista en 1542"; Niculoso's retablo for it signed "Pisan me fecit anno de 1504", only a small fraction surviving as possible fragments) ; https://andalucia.com/cities/seville/alcazar/mudejar.htm (SEC, mod. 9 Apr 2026: "Originally designed as a chapel, this has a Renaissance coffered ceiling from 1543 with busts of human figures"; Infantes' suite "occupied by the king's daughters") ; https://sammlung.mak.at/de/collect/fotografie-der-tuer-zum-salon-von-carl-v-im-patio-de-las-doncellas-im-alcazar-in-sevilla_297102 (SEC, placement only, read for PLAN: door from the Patio de las Doncellas) ; Charles not in Seville after 1526: audit (T17) ; Marquer's malik passage NOT used: her "antigua capilla" is not named (see notes) ; AUDIT FIX 30 Oct, re-read PLEG (oratory = Sala del techo de Carlos V; "escenario de la misa de esponsales", no source cited; the queen's Visitación altar of 1504 survives) and GPC (vows in the media naranja; Mass "en una cámara del alcázar")
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 012 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Cette salle fut une chapelle royale avant de porter le nom d'un empereur. Et vous êtes toujours dans le palais du roi Pierre, pas dans le palais gothique.
+
+C'était l'oratoire du roi, sa chapelle privée, au rez-de-chaussée du palais. En 1504, le céramiste Niculoso Pisano y réalisa un retable en carreaux de faïence. [pause] Il n'en reste que quelques carreaux épars, qui en proviennent peut-être. Son autel pour la reine, fait la même année, subsiste à l'étage.
+
+L'historien Alfonso Pleguezuelo y situe la messe de mariage de Charles Quint et d'Isabelle de Portugal, dite après minuit. [pause] Les vœux eux-mêmes, selon le chroniqueur, furent échangés dans la grande salle à coupole, le numéro 15, le Salón de los Embajadores.
+
+[amused] Levez maintenant les yeux. Le plafond fut posé au début des années 1540 : un plafond Renaissance à caissons, d'où des bustes de personnages vous regardent. Voilà pourquoi la salle porte le nom de l'empereur. [pause] Pourtant, Charles avait quitté Séville depuis longtemps, et il n'est jamais revenu le voir.
+
+Juste à côté se trouve le numéro 14 du plan de l'Alcázar, la Sala de los Infantes, des salles qui auraient servi aux filles du roi.
+
+Revenez dans le numéro 10, le Patio de las Doncellas, et continuez jusqu'au numéro 15, le Salón de los Embajadores, au fond de la cour : levez les yeux vers la coupole de bois doré.

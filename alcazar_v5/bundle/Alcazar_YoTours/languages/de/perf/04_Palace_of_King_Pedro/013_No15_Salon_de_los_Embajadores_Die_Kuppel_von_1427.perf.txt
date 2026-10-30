@@ -1,0 +1,28 @@
+@id: 013 · DE · No. 15 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 15 · Salón de los Embajadores
+@type: W
+@title: 15 · Salón de los Embajadores — Die Kuppel von 1427
+@where: In Nummer 15, dem Salón de los Embajadores: ein quadratischer Saal unter einer vergoldeten Holzkuppel, mit gefliesten und gemeißelten Wänden, schmiedeeisernen Balkonen hoch oben und einem gemalten Fries mit Königsbildnissen unter der Kuppel. Stellen Sie sich nahe der Mitte hin, nicht in die Türen.
+@what: Salón de los Embajadores (Salón de la Media Naranja), main hall and throne room of Pedro I's palace, finished 1366 (Arabic door inscription, era 1404 / year 767); gilded wooden dome by Diego Ruiz, 1427, said to replace an earlier dome; wrought-iron balconies under Felipe II, late 16th century; frieze of portraits of the monarchs by Diego de Esquivel, 1599.
+@listen: Why the gold overhead is sixty years younger than the hall, and how the doors date the room in two calendars.
+@brief: A friend looking up beside you, curious and unhurried, with a wry smile at the two calendars and a hush at the end before the next story.
+@pace: medium-slow
+@energy: 2→4→3
+@sources: https://artsandculture.google.com/asset/hall-of-ambassadors-dome/QAH411pnwu8KDg (OFF, Ayuntamiento de Sevilla: main hall, throne room of Pedro I, "where he received important personalities of his time"; square like the Muslim qubba, square = earth, dome = universe; muqarnas forming a star join square and circle; wrought-iron balconies under Philip II, end of the 16th century; frieze portraits of the Spanish monarchs by Diego de Esquivel, 1599) ; https://www.architecture.com/image-library/RIBApix/image-information/poster/alcazar-seville-the-ceiling-of-the-salon-de-embajadores-hall-of-the-ambassadors/posterid/RIBA108125.html (SEC, RIBA: ceiling and dome designed by Diego Ruiz in 1427, replacing an earlier mid-14th-century dome) ; https://revistas.ucm.es/index.php/ANHA/article/download/42850/40706/62639 (OFF, Marquer 2013: inscription "en las puertas del Salón de la Media Naranja" gives the date "en los dos calendarios", era 1404 and year 767; "se terminó la construcción de esta fortaleza con la gracia de Dios") ; audit T11 (Diego Ruiz 1427 on the Ayuntamiento GA&C page, OFF; not re-found this session)
+@lang: de
+@translation: from the fact-checked English Real Alcázar 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Das Gold über Ihrem Kopf stammt nicht von König Pedro. Es kam etwa sechzig Jahre nach der Fertigstellung dieses Saals hinzu.
+
+Dies war das Herz von Pedros Palast, sein Hauptsaal und sein Thronsaal. Hier empfing er die wichtigen Menschen seiner Zeit. Die Stadt selbst liest den Raum wie eine muslimische Qubba. Der quadratische Boden steht für die Erde. Die Kuppel steht für das Universum. [pause] Und ein Band aus gemeißelten Muqarnas, zu einem Stern gefaltet, verbindet das Quadrat mit dem Kreis.
+
+[pause] Die Kuppel heißt media naranja, die halbe Orange, und der Raum hieß lange Saal der halben Orange. Ein Meister namens Diego Ruiz schuf sie 1427. Sie soll eine ältere Kuppel aus Pedros eigener Zeit ersetzt haben. Sie stehen also in einem Raum des vierzehnten Jahrhunderts unter einem Himmel des fünfzehnten.
+
+Woher wissen wir, wann der Saal selbst fertig war? Er sagt es uns. Eine arabische Inschrift auf den Türen dieses Saals berichtet, dass der Bau dieser Festung durch Gottes Gnade vollendet wurde. Und sie nennt das Jahr zweimal. [pause] Einmal nach der alten spanischen Ära, das Jahr 1404. Einmal nach muslimischer Zählung, das Jahr 767. In unserem Kalender ist das 1366. [wry] Ein christlicher König datiert seinen Thronsaal auf Arabisch, in zwei Kalendern zugleich.
+
+Spätere Könige fügten eigene Schichten hinzu. Die schmiedeeisernen Balkone hoch an den Wänden entstanden unter Philipp dem Zweiten, Ende des sechzehnten Jahrhunderts. Etwa zur selben Zeit füllte der Maler Diego de Esquivel den Fries unter der Kuppel mit Bildnissen der Monarchen Spaniens.
+
+[quietly] Eine Nacht in diesem Raum zählte mehr als alle anderen.
+
+Bleiben Sie in Nummer 15, dem Salón de los Embajadores. Stellen Sie ihn sich in einer Märznacht vor, fast ein Jahrhundert nachdem Diego Ruiz die Kuppel vollendet hatte.

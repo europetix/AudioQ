@@ -1,0 +1,26 @@
+@id: 034 · ES · No. 20 · 30 Oct 2026 edition
+@section: Optional: Cuarto Real Alto
+@room: No. 20 · Dormitorio de Isabel la Católica
+@type: X
+@title: CRA 20 · Extra · Las estancias de Isabel y un altar de azulejos
+@where: Para el pie del número 19, la Escalera al Cuarto Real Alto, antes de subir o después de bajar. Arriba, solo donde se permita escuchar. Trata del número 20, el Dormitorio de Isabel la Católica, y del número 21, su capilla.
+@what: Cuarto Real Alto, the upper floor of King Pedro's palace (map rooms 20–30); in the queen's oratory, number 21, a tiled altar signed by Niculoso Francisco Pisano and dated 1504: the Visitation framed by the Tree of Jesse.
+@listen: The upper rooms of Pedro's palace, still a royal residence, and the signed tile altar made for Isabel the Catholic in the last year of her life.
+@brief: A quiet, close aside before or after a special visit; curious about the signature, gently moved by the date.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: Cuarto Real Alto rooms 20–30, 20 Dormitorio de Isabel la Católica, 21 Capilla de Isabel la Católica) ; https://core.ac.uk/download/51386392.pdf (OFF-grade scholarship, A. Pleguezuelo, "Niculoso Francisco Pisano y el Real Alcázar de Sevilla", Apuntes del Alcázar: retablo for the oratory of Queen Isabel la Católica, dated "ANNO DEL MIL CCCCC IIII", signed "NICULOSO FRANCISCO ITALIANO ME FECIT"; central Visitation within a Tree of Jesse; yoke and arrows emblems and "TANTO MONTA"; a tiny oratory, a niche under a basket arch; "pisano" then meant "Italian" in general; the king's oratory was on the ground floor, in today's Sala del techo de Carlos V) ; https://andalucia.org/en/sevilla-visitas-real-alcazar-de-sevilla (OFF: "the spectacular tiled altar made in 1504 by Francisco Niculoso Pisano") ; https://www.architecture.com/image-library/RIBApix/image-information/poster/alcazar-seville-oratorio-de-los-reyes-catolicos-altarpiece/posterid/RIBA108556.html (SEC: Visitation framed by the Tree of Jesse, 1504) ; https://owaytours.com/en/blog/the-upper-royal-rooms-of-the-royal-alcazar-of-seville (SEC: Isabel's tiled oratory is on the upper-floor route; official residence of the Royal House in Seville) ; https://andalucia.com/cities/seville/alcazar/mudejar.htm (SEC: the Prince's suite was the queen's bedroom "until Isabel La Católica built the upper floor") ; https://www.eldiario.es/viajes/alcazar-espacio-reservado-realeza-palacio-antiguo-europa-pm_1_12280672.amp.html (SEC, 8 May 2025: "residencia oficial del jefe del Estado en Andalucía"; the monarch stays and holds institutional events) ; Isabel's death in 1504: standard date (SNIP)
+@lang: es
+@translation: from the fact-checked English Real Alcázar 034 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Arriba, este palacio sigue siendo una casa real. El Cuarto Real Alto, las estancias reales altas, es la residencia oficial del Rey en Sevilla.
+
+Este breve Extra es para el pie de la escalera, el número 19, antes de subir o tras bajar. Las estancias altas coronan el palacio de Pedro. Según la tradición, esta planta se construyó, o reconstruyó, para Isabel la Católica. [pause] Las primeras salas llevan su nombre: el número 20 del mapa del Alcázar, el Dormitorio de Isabel la Católica, y el número 21, su capilla.
+
+[curious] Esa capilla es diminuta, poco más que un nicho bajo un arco. Su muro del fondo es un altar de azulejos pintados, y el artista lo firmó: Niculoso Francisco, italiano, me hizo. Se le conoce como Niculoso Pisano. [pause] En su época, señalan los estudiosos, Pisano quería decir simplemente italiano.
+
+Busque en el centro la Visitación: María saluda a su prima Isabel. A su alrededor crece el árbol de Jesé, el árbol genealógico de Cristo. Busque también los emblemas de Isabel y Fernando, el yugo y las flechas, y el lema Tanto Monta.
+
+[pause] El altar está fechado en 1504. Fue el último año de vida de Isabel.
+
+La siguiente parada del Cuarto Real Alto es el número 23, el Comedor de Gala, con el número 22, el Antecomedor, como antesala.

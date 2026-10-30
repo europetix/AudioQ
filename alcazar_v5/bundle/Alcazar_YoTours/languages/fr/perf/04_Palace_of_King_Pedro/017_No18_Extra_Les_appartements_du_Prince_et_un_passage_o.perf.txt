@@ -1,0 +1,24 @@
+@id: 017 · FR · No. 18 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 18 · Patio de las Muñecas
+@type: X
+@title: 18 · Extra · Les appartements du Prince et un passage oublié
+@where: À côté du numéro 18, le Patio de las Muñecas, dans les salles appelées Cuarto del Príncipe, les appartements du Prince, où commence le passage restauré vers les jardins. Ne prenez pas ce passage maintenant.
+@what: Cuarto del Príncipe (not named in the leaflet legend); the historic passage from the Patio de las Muñecas to the Jardín del Príncipe, restored and reopened to the public in 2025, with its tiles, plasterwork and floors recovered. Prince Juan, son of the Catholic Monarchs, born in Seville in 1478, died 1497.
+@listen: A passage that lay unused for decades, and the prince who gave these rooms their name.
+@brief: Sharing a newly found secret, quietly pleased; a touch of sadness for the prince.
+@pace: medium
+@energy: 2→3→2
+@sources: https://alcazarsevilla.org/restauracion-estanque-mercurio/ (OFF, mod. 20 Mar 2025: "Un pasillo olvidado vuelve a la vida en el Real Alcázar"; the passage links the Patio de las Muñecas with the Jardín del Príncipe, out of use for decades, restored and reopened to the public; alicatados, yeserías and pavimentos recovered; hidden historic details revealed; a new area of Pedro I's Mudéjar palace for visitors) ; https://andalucia.com/cities/seville/alcazar/mudejar.htm (SEC, mod. 9 Apr 2026: suite used as the Queen's bedroom until Isabel la Católica built the upper floor; Prince Juan born there; its "19 days old" is an error, NOT used) ; https://www.enciclopedia.cat/gran-enciclopedia-catalana/joan-darago-0 (SEC reference: Joan d'Aragó, Sevilla 1478 – Salamanca 1497; birth in the Alcázar not stated, hence "tradition") ; LED lighting and painted colour (20 Mar 2025 news item) not re-read, NOT used
+@lang: fr
+@translation: from the fact-checked English Real Alcázar 017 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Pendant des décennies, un passage reliant ce coin du palais aux jardins est resté inutilisé. Depuis 2025, il est de nouveau ouvert.
+
+Il va du Patio de las Muñecas au Jardín del Príncipe, le jardin du Prince. En y travaillant, les restaurateurs ont retrouvé ses carreaux, ses stucs sculptés et ses sols. [pause] Ils ont aussi découvert des détails historiques longtemps cachés.
+
+Le prince de ces noms est en général identifié à Jean, fils et héritier de Ferdinand et Isabelle, les Rois catholiques. [pause] Il naquit à Séville en 1478, et la tradition place sa naissance dans ces salles. Elles auraient été la chambre de la reine avant qu'Isabelle ne bâtisse l'étage. [quietly] Jean était l'héritier des deux couronnes de ses parents. Il mourut en 1497, encore adolescent, sans avoir régné.
+
+[pause] Vous verrez plus tard où débouche le passage, au numéro 35 du plan de l'Alcázar, le Jardín del Príncipe. Pour l'instant, restez dans le palais. L'itinéraire passe d'abord par les salles gothiques.
+
+Le numéro 31, le Patio del Crucero : suivez les panneaux Palacio Gótico, revenez par le Patio de las Doncellas et sortez par la porte du palais dans le Patio de la Montería. Tournez à droite, gardez la façade du palais sur votre droite, et marchez jusqu'à l'angle. Le passage vers le numéro 31 est là.
