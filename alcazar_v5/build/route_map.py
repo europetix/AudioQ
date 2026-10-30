@@ -303,8 +303,7 @@ def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=()
         for poly in _dec(GEO_WALL): o.append(f'<path d="{path(poly)}" fill="#6E665B"/>')
     for k, fill, stroke, rings in BLD:
         if cra != k.startswith("cra"): continue
-        dbg = ' fill-opacity=".45"' if os.environ.get("RM_UNDERLAY") else ""
-        o.append(f'<path d="{path(rings)}" fill="{fill}"{dbg} fill-rule="evenodd" stroke="{stroke}" stroke-width="{sw:.2f}" stroke-linejoin="round"/>')
+        o.append(f'<path d="{path(rings)}" fill="{fill}" fill-rule="evenodd" stroke="{stroke}" stroke-width="{sw:.2f}" stroke-linejoin="round"/>')
     if not cra:
         for pts, c, w in INNER:
             o.append(f'<path d="M{" L".join(f"{P(*p)[0]:.2f},{P(*p)[1]:.2f}" for p in pts)}" stroke="{c}" stroke-width="{max(.2, w * S * 10):.2f}" fill="none"/>')
@@ -383,8 +382,6 @@ def plan_svg(crop, width_mm, max_h_mm, nums=(), show=(), dots_off=None, notes=()
             else:
                 o.append(f'<circle cx="{cx:.2f}" cy="{cy:.2f}" r="{rad:.2f}" fill="{c}" stroke="#fff" stroke-width="{rad * .12:.2f}"/>'
                          f'<text x="{cx:.2f}" y="{cy + rad * .34:.2f}" class="sn" style="font-size:{rad * .95:.2f}px">{s}</text>')
-    if os.environ.get("RM_UNDERLAY"):   # development aid: the leaflet under the drawing, to check the geometry
-        o.insert(3, f'<image href="file://{os.environ["RM_UNDERLAY"]}" x="{P(0, 0)[0]:.2f}" y="{P(0, 0)[1]:.2f}" width="{3414 * S:.2f}" height="{2375 * S:.2f}" opacity=".8"/>')
     o.append("</g></svg>")
     return "".join(o), P, (W, H)
 
@@ -411,10 +408,10 @@ lens = "".join(f'<div class="card"><div class="cnum" style="background:{NAVY}">{
                for i, (n, k, m, d) in enumerate(LENGTHS, 1))
 MAIN_NUMS = sorted({TR[n]["num"] for n in NUMS if TR[n]["num"] is not None and n not in CRA})
 ov, _, _ = plan_svg((1110, 3400, 640, 2262), 180, 140, nums=MAIN_NUMS, show=[], filled=set(MAIN_NUMS), overview=True, tag_fs=1.8,
-    notes=[(START_PT, "IN · Puerta del León", "start", 3, -9), (EXIT_PT, "OUT · to the Patio de Banderas", "finish", 9, -8),
+    notes=[(START_PT, "IN · Puerta del León", "start", 3, -9), (EXIT_PT, "OUT · to the Patio de Banderas", "finish", 24, -7),
            ((1716, 1424), "19 · stair to the Cuarto Real Alto\nseparate timed visit · page 4", "cra", -23, 21)],
-    texts=[(1440, 700, "Patio de Banderas", "yard", 0), (1215, 1112, "Plaza del Triunfo", "side", 0),
-           (2318, 742, "Callejón del Agua", "side", -62), (2700, 1010, "The gardens", "zl", 0)])
+    texts=[(1420, 790, "Patio de Banderas", "yard", 0), (1252, 1178, "Plaza del Triunfo", "side", 0),
+           (2282, 860, "Callejón del Agua", "side", -62), (2700, 1010, "The gardens", "zl", 0)])
 KEYS = []
 for sec, nums_ in (("The first courtyards", "1–5"), ("Casa de la Contratación", "6–7"), ("Palace of King Pedro", "10–18"),
                    ("Gothic palace", "31–34"), ("The gardens", "35–51"), ("Closing", "53")):
@@ -567,7 +564,7 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .dot {{ width: 6mm; height: 6mm; border-radius: 50%; color: #fff; font: 700 7.6pt Inter; display: inline-flex; align-items: center; justify-content: center }}
 .hol {{ background: #fff; border: .45mm solid; box-sizing: border-box }}
 .row.x .tt {{ color: {MUTED} }} .tt i {{ font-style: normal; font-weight: 700; font-size: 7pt; letter-spacing: .04em; margin-right: 1mm }}
-.tt {{ font: 500 7.6pt Inter; line-height: 1.2 }} .tt b {{ font-weight: 700; color: {INK} }}
+.tt {{ font: 500 7.6pt Inter; line-height: 1.2 }} .list .tt {{ padding-left: 1.6mm }} .tt b {{ font-weight: 700; color: {INK} }}
 .tbl {{ width: 100%; border-collapse: collapse; background: #fff; border: .3mm solid {LINE}; border-radius: 3mm }}
 .tbl th {{ font: 700 6.6pt Inter; color: {MUTED}; text-align: left; padding: 1.6mm 1.2mm 1.2mm; border-bottom: .35mm solid {INK}; letter-spacing: .04em; text-transform: uppercase }}
 .tbl th:nth-child(n+4) {{ text-align: center; width: 13mm }} .tbl th:first-child {{ width: 9mm; padding-left: 2mm }} .tbl th:nth-child(2) {{ width: 11mm }}
