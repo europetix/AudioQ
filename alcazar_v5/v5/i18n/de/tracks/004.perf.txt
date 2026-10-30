@@ -1,0 +1,26 @@
+@id: 004 · DE · No. 2 · 30 Oct 2026 edition
+@section: The first courtyards
+@room: No. 2 · Sala de la Justicia
+@type: R
+@title: 2 · Sala de la Justicia — Der Saal von Alfons dem Elften
+@where: In der Sala de la Justicia, in der hinteren linken Ecke des Patio del León, wenn Sie zum dreifachen Bogen blicken: ein kleiner, quadratischer Saal mit stuckverkleideten Wänden und einem Brunnen mitten im Boden.
+@what: Sala de la Justicia, a square Mudéjar hall built at the time of Alfonso XI of Castile, 14th century (around the 1340s); plasterwork with plant motifs and heraldic shields; floor fountain.
+@listen: A king's victory, a Christian hall in Islamic dress, and the first step towards Pedro's palace.
+@brief: A friend telling the backstory of a small room; curious at the battle, careful with the doubt, quietly pleased at the fountain.
+@pace: medium
+@energy: 2→3→2
+@sources: https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF, Ayuntamiento de Sevilla / Real Alcázar: "the earliest Mudéjar building in the Royal Alcázar", "built in around the 14th century", "at the time of Alfonso XI of Castile"; "traditional Islamic plasterwork featuring plant-like motifs and heraldic shields") ; https://www.britannica.com/print/article/504287 (SEC, Britannica, Battle of Río Salado: 30 Oct 1340; Alfonso XI and Afonso IV of Portugal against the Marinids; the Marinids' last attempt to invade the peninsula) ; https://andalucia.com/cities/seville/alcazar/moorish.htm (SEC: Alfonso XI reconstructed it in the 14th century; central fountain) ; Salado link "possibly": audit HEDGE ; Pedro son of Alfonso XI: audit SNIP
+@lang: de
+@translation: from the fact-checked English Real Alcázar 004 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] 1340 besiegten Alfons der Elfte von Kastilien und Alfons der Vierte von Portugal am Río Salado ein großes Heer der Meriniden aus Marokko. Es war der letzte Versuch der Meriniden, die Halbinsel zu erobern. [pause] Und das letzte Mal, dass Kastilien und Portugal Seite an Seite gegen sie kämpften.
+
+Dieser Saal entstand zur Zeit von Alfons, im vierzehnten Jahrhundert, möglicherweise zum Gedenken an diesen Sieg. Beweisen kann diesen Zusammenhang niemand. Aber der Raum erzählt eine andere Geschichte, und die ist sicher.
+
+Alfons war ein christlicher König, und er war Pedros Vater. Doch sehen Sie, was er wählte: einen quadratischen Saal in islamischer Tradition. Seine Wände sind mit Stuck aus Pflanzenmustern und Wappenschilden bedeckt. Die Stadt selbst nennt ihn den frühesten Mudéjar-Bau im Alcázar. [pause] Mudéjar heißt diese Mischung: islamische Kunstformen, geschaffen für christliche Auftraggeber. So spricht der Saal eines kastilischen Königs die Kunstsprache von al-Andalus.
+
+[pause] Dann schauen Sie nach unten, auf den Brunnen im Boden. Wasser mitten im Raum, ein Stück Garten, ins Haus geholt.
+
+[warmly] Innerhalb einer Generation sollte sein Sohn Pedro aus diesem Geschmack einen ganzen Palast bauen. In diesem kleinen Raum beginnt diese Geschichte.
+
+Gehen Sie durch die gegenüberliegende Seite dieses Saals zu Nummer 3 auf dem Alcázar-Plan, dem Patio del Yeso: ein Gitter aus Bögen über einem langen Becken.

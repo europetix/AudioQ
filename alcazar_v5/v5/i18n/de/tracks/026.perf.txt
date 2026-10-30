@@ -1,0 +1,26 @@
+@id: 026 · DE · No. 40 · 30 Oct 2026 edition
+@section: The gardens
+@room: No. 40 · Galería del Grutesco
+@type: W
+@title: 40 · Galería del Grutesco — Eine alte Mauer im Kostüm
+@where: Neben Nummer 40, der Galería del Grutesco: die lange bemalte Galeriewand an der anderen Seite des Merkurbeckens, gegenüber dem Aufgang vom Jardín de la Danza.
+@what: Galería del Grutesco, Vermondo Resta's transformation of an Islamic wall, 1613–1621; paintings by Diego de Esquivel, finished in 1629 after seven years; paintings restored from July 2023.
+@listen: How a plain wall of the Islamic Alcázar was dressed up as a Renaissance grotto, and what the painters put on it.
+@brief: A friend letting you in on a disguise; wry at first, then absorbed in the paintings, warm at the link to the way out.
+@pace: medium
+@energy: 2→3→3
+@sources: https://alcazarsevilla.org/wp-content/uploads/2025/01/EXPO-MERCURIO-FINAL.pdf (OFF: Vermondo Resta transformed the wall into the Grutesco between 1613 and 1621; Diego de Esquivel spent seven years painting it, finishing in 1629; frescoes of figures and scenes from classical mythology, angels and exotic birds; on the pool's eastern side, not spoken; restoration July 2023 by MARVE because of "deterioro crítico de las pinturas") ; https://alcazarsevilla.org/wp-content/uploads/2015/apuntes-16-2015/files/assets/basic-html/page274.html (OFF, Apuntes del Alcázar 16, 2015: the Apeadero by Vermondo Resta, 1607; Resta master of works 1603–1625) ; "grutesco" from Italian "grotta": standard etymology (RAE), not fetched
+@lang: de
+@translation: from the fact-checked English Real Alcázar 026 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Diese Galerie trägt ein Kostüm. Unter den Säulen und den Farben steckt eine schlichte alte Mauer des islamischen Alcázar.
+
+Im frühen siebzehnten Jahrhundert leitete ein Architekt namens Vermondo Resta die Bauarbeiten des Alcázar. Zwischen 1613 und 1621 machte er aus diesem Mauerabschnitt ein Stück Gartentheater. [pause] Er behielt die Mauer und kleidete sie nach der Mode des Italiens der Renaissance. Das ist der Grutesco. Der Name kommt vom italienischen Wort für Grotte und von dem fantastischen Malstil, der dazugehörte.
+
+Dann kamen die Maler. Diego de Esquivel bedeckte die Mauer sieben Jahre lang mit Farbe, fertig war er 1629. Denken Sie an das Timing. Der Merkur im Becken stand schon ein halbes Jahrhundert, und nun bekam er eine gemalte Kulisse.
+
+[pause] Schauen Sie die Mauer entlang. Das Restaurierungsdossier des Alcázar listet auf, was Esquivel malte: Figuren und Szenen aus der antiken Mythologie, Engel und exotische Vögel. Wie viele davon finden Sie? 2023 waren die Malereien in kritischem Zustand, und im Juli jenes Jahres begann eine Restaurierung.
+
+[warmly] Restas Name kommt noch einmal, bevor Sie gehen. Gegen Ende des Besuchs verlassen Sie den Alcázar durch einen anderen seiner Bauten, Nummer 53 auf dem Alcázar-Plan, den Apeadero. Diese alte Mauer im Kostüm und der Saal am Ausgang stammen also vom selben Mann.
+
+Zu Nummer 41 auf dem Alcázar-Plan, der Fuente de la Fama, gibt es einen kurzen Extra-Titel über ihre Wasserorgel. Sie sitzt in derselben langen Mauer, hinter dem Ende des Beckens. [pause] Die nächste Hauptstation ist Nummer 44 auf dem Alcázar-Plan, der Pabellón de Carlos Quinto: ein kleiner, quadratischer, gefliester Pavillon am anderen Ende der geometrisch angelegten Gärten, die sich von dieser Mauer aus erstrecken.

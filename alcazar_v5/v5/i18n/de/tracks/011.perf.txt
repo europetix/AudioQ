@@ -1,0 +1,30 @@
+@id: 011 · DE · No. 10 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 10 · Patio de las Doncellas
+@type: W
+@title: 10 · Patio de las Doncellas — Der verschüttete Garten
+@where: Am Rand des langen Beckens in der Mitte des Patio de las Doncellas: Das Becken verläuft durch die Mitte des Hofs zwischen zwei abgesenkten Gartenbeeten, tiefer als die Wege und Arkaden.
+@what: The sunken garden of Pedro I's Patio de las Doncellas: walks, pool and beds found on 22 Aug 2002 under a 16th-century level (excavations 2002 and 2004, directed by M. Á. Tabales); pool gone by 1584, courtyard paved with a central fountain under Felipe II; garden restoration by the Patronato, 2004–05; 16th-century Renaissance columns.
+@listen: How a garden buried for four centuries came back to light, and why King Pedro may never have walked in it.
+@brief: A friend at the water's edge telling a detective story; curious, then quietly amazed, ending on a gentle irony.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://core.ac.uk/download/51402338.pdf (SEC, J. M. Cabeza Méndez, Director of the Patronato del Real Alcázar: "Durante la jornada del 22 de agosto de aquel 2002" elements appeared, "andenes, estanque y arriates"; research project by Dr Miguel Ángel Tabales; removal of the Renaissance level and the marble paving; "basas de las columnas renacentistas colocadas en el siglo XVI en sustitución de las primitivas"; works March 2004 to March 2005, concluded "en la primavera de 2005") ; https://www.archnet.org/sites/20755 (OFF, Almagro & Ramón-Laca: "a garden with a long pool and two flowerbeds one meter beneath the pavement"; "buried after the assassination of Peter I"; "it seems that it was never used"; "the pool finally disappeared in 1584"; excavations 2002 and 2004) ; https://artsandculture.google.com/story/mAVxSW6XgETNJQ (OFF: under Philip II "the center of the courtyard was dominated by a fountain") ; name from a legend of a tribute of a hundred maidens: audit SNIP, told as legend ; AUDIT FIX 30 Oct, re-read CAB https://core.ac.uk/download/51402338.pdf (SEC: "levantar la solería de mármol" and remove "el nivel renacentista"; 22 Aug 2002; Tabales; finished spring 2005)
+@lang: de
+@translation: from the fact-checked English Real Alcázar 011 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Am zweiundzwanzigsten August 2002 stießen Archäologen in diesem Hof auf etwas, das kein lebender Mensch je gesehen hatte: König Pedros Garten.
+
+Das Team leitete Miguel Ángel Tabales. Unter dem späteren Marmorpflaster und einer Schicht aus dem sechzehnten Jahrhundert fanden sie Wege, ein Becken und Pflanzbeete, angelegt als abgesenkter Garten. [pause] Er war mehr als vierhundert Jahre lang verborgen gewesen.
+
+Wie verschwindet ein königlicher Garten? 1584 war das Becken schon weg. Unter Philipp dem Zweiten wurde der Hof gepflastert, mit einem Brunnen in der Mitte. Auch die Arkaden wurden umgebaut. Die Säulen um Sie herum sind Renaissancesäulen, im sechzehnten Jahrhundert anstelle der ursprünglichen aufgestellt.
+
+[pause] Dann kommt die Wendung. Die Forscher Antonio Almagro und Luis Ramón-Laca glauben, dass der Garten bald nach Pedros Ermordung verschüttet wurde. Soweit sie es beurteilen können, wurde er nie genutzt. Vielleicht wurde er nicht einmal fertig.
+
+[warmly] Schauen Sie also jetzt hinunter. Ein langes Becken verläuft durch die Mitte, mit einem abgesenkten Beet auf jeder Seite, etwa einen Meter unter dem Weg. Das Patronato des Alcázar hat den Garten nach den Grabungen restauriert. Die Arbeiten wurden 2005 abgeschlossen.
+
+Und der Name, Hof der Jungfrauen? Er stammt aus einer mittelalterlichen Legende über einen Tribut von hundert Jungfrauen. Es ist nur eine Legende.
+
+[quietly] Dies könnte also ein Garten sein, den König Pedro plante und nie betrat.
+
+Zu Nummer 13 auf dem Alcázar-Plan, dem Salón del Techo de Carlos Quinto, gibt es einen kurzen Extra-Titel über die Palastkapelle und ihre Renaissancedecke. Seine Tür geht von diesem Hof ab, an der Längsseite zu Ihrer Linken, wenn Sie von der Ecke, durch die Sie kamen, den Hof entlangblicken. [pause] Die nächste Hauptstation ist Nummer 15 auf dem Alcázar-Plan, der Salón de los Embajadores, der Saal unter der vergoldeten Kuppel, am anderen Ende des Hofs.

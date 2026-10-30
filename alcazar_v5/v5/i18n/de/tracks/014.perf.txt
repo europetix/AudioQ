@@ -1,0 +1,30 @@
+@id: 014 · DE · No. 15 · 30 Oct 2026 edition
+@section: Palace of King Pedro
+@room: No. 15 · Salón de los Embajadores
+@type: W
+@title: 15 · Salón de los Embajadores — Die Hochzeitsnacht des Kaisers
+@where: Noch in Nummer 15, dem Salón de los Embajadores, unter der vergoldeten Kuppel. Bleiben Sie, wo Sie bei der letzten Station standen.
+@what: The marriage of Charles V (Charles I of Spain) and Isabel of Portugal, Seville, night of 10–11 March 1526: betrothal by words of present consent by Cardinal Salviati in the "media naranja"; nuptial Mass after midnight by the Archbishop of Toledo at an altar set up in a chamber of the palace (Sandoval; Pleguezuelo places it in no. 13); godparents the Duke of Calabria and the Countess of Haro.
+@listen: How an emperor married a cousin he had never met on the night he reached Seville, and how the marriage ended.
+@brief: Telling a true love story to a friend in the very room; warm, a little conspiratorial in the middle, quiet at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://dialnet.unirioja.es/descarga/articulo/7042473.pdf (SEC, García Parody & Caballero, Revista de Estudios Taurinos 42, 2018: Isabel entered Seville 3 March; Charles left Toledo 20 Feb, via Alcalá del Río, entered Seville Saturday 10 March; received by Cardinal Salviati, papal legate; Sandoval: espoused "por palabras de presente" in "la cuadra grande, que llaman media naranja"; after midnight the Archbishop of Toledo "dijo allí la misa y los veló"; godparents Duke of Calabria and Countess of Haro; "soberbios arcos triunfales en los que se ensalzaban las virtudes que deberían adornar a los príncipes"; proxy ceremony repeated 20 January "por insuficiencia de la primera dispensa pontificia"; news of the death of Isabel, queen of Denmark, interrupted the festivities; about two months in Seville, departure date disputed; then Córdoba and Granada. Its "23 años" is contradicted by the birth date below; its dowry is "900.000 doblas", not used) ; https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-of-portugal/0ea9d2ad-559c-10cd-eec5-15caabf98435 (OFF, Patrimonio Nacional: born Lisbon 24 Oct 1503, so 22 in March 1526; daughter of Manuel I and Maria of Aragón; marriage arranged 1525, celebrated in Seville 11 March 1526; died Toledo 1 May 1539 from complications of her last childbirth; Charles "refused to remarry"; Charles I 1500–1558) ; 500th anniversary: research notice OFF 2 Mar 2026 (V Centenario programme), DATED ; AUDIT FIX 30 Oct, re-read GPC https://dialnet.unirioja.es/descarga/articulo/7042473.pdf (arrival "sábado 10 de marzo", no time of day; "fué aderezado un altar en una cámara del alcázar" after midnight; proxy esponsales 1 Nov 1525, repeated 20 Jan 1526)
+@lang: de
+@translation: from the fact-checked English Real Alcázar 014 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Karl der Fünfte ritt am zehnten März 1526 in Sevilla ein. In derselben Nacht heiratete er hier persönlich eine Frau, die er nie getroffen hatte.
+
+Es war Isabella von Portugal, Tochter von König Manuel von Portugal und Maria von Aragón. Sie war auch seine Cousine ersten Grades. Sie war zweiundzwanzig, er sechsundzwanzig. [pause] Weil sie so eng verwandt waren, musste die Kirche einen Dispens erteilen.
+
+Isabella erreichte Sevilla eine Woche vor ihm, am dritten März. Die Stadt empfing sie mit Triumphbögen, die die Tugenden eines Fürsten feierten. Karl kam aus Toledo in den Süden.
+
+[conspiratorial] Er kam an diesem Tag an, und niemand wartete. In jener Nacht vermählte der päpstliche Legat, Kardinal Salviati, sie mit Worten der gegenwärtigen Zustimmung. Der Chronist Sandoval verortet dies in „dem großen Saal, den sie die halbe Orange nennen“. [pause] In diesem Saal. Nach Mitternacht, nun am elften März, wurde in einem Gemach des Palastes ein Altar aufgestellt. Der Erzbischof von Toledo las dort die Messe und erteilte dem Paar den Brautsegen. [pause] Ein Historiker des Alcázar verortet diese Messe im alten Oratorium des Königs, Nummer 13, dem Salón del Techo de Carlos Quinto. Ihre Paten waren der Herzog von Kalabrien und die Gräfin von Haro.
+
+Die Feiern dauerten nicht lange. Es kam die Nachricht, dass Karls Schwester Isabella, Königin von Dänemark, gestorben war, und die Festlichkeiten wurden abgebrochen. Das Paar blieb noch eine Weile in Sevilla und reiste dann weiter nach Granada.
+
+[quietly] Schauen Sie hinauf. In jener Nacht war die Kuppel schon fast ein Jahrhundert alt. Die Ehe war aus Staatsräson geschlossen, und sie hielt dreizehn Jahre. [pause] Isabella starb 1539, nach ihrer letzten Geburt. Karl weigerte sich, wieder zu heiraten.
+
+2026 feierte Sevilla den fünfhundertsten Jahrestag dieser Hochzeit.
+
+Zu Nummer 16 auf dem Alcázar-Plan, dem Salón del Techo de Felipe Segundo, gibt es einen kurzen Extra-Titel über den Pfauenbogen und zwei Holzdecken. Die nächste Hauptstation ist Nummer 18 auf dem Alcázar-Plan, der Patio de las Muñecas, der kleinste Hof des Rundgangs.

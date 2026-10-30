@@ -1,0 +1,26 @@
+@id: 021 · DE · No. 33 · 30 Oct 2026 edition
+@section: Gothic palace
+@room: No. 33 · Sala de las Bóvedas
+@type: R
+@title: 33 · Sala de las Bóvedas — Der gewölbte Saal
+@where: In Nummer 33, der Sala de las Bóvedas, auch Salón Gótico genannt, dem Saal an der Gartenseite des Salón de los Tapices: ein langer Saal unter gotischen Gewölben, die Wände etwa zwei Meter hoch mit Figuren und Pflanzen gefliest, dazu eine verglaste Galerie mit Blick in den Garten.
+@what: Sala de las Bóvedas (Salón Gótico, Sala de Fiestas) of Alfonso X's Gothic palace; Mannerist tile dado of the 16th century to about 2 m, figures and plants, many on a yellow ground; two naval tapestries made for the 1929 Ibero-American Exposition.
+@listen: The hall of celebrations, its tiles, and two tapestries far younger than they look.
+@brief: Warm and inviting, a friend pointing out details on the walls; light at the end as the garden comes into view.
+@pace: medium
+@energy: 2→3→3
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF, school itineraries: the Sala Gótica is also called "la Sala de las Fiestas, ya que en ella se celebró el banquete de la boda de los reyes Carlos I e Isabel de Portugal"; walls covered with tiles "hasta unos 2 metros de altura"; "las figuras y plantas que tienen los zócalos manieristas"; "Estos azulejos pertenecen al Manierismo, período final del Renacimiento") ; https://andalucia.com/cities/seville/alcazar/gothic.htm (SEC, mod. 9 Apr 2026: Vault Room; Renaissance tiles added in the 16th century, many with a bright yellow background, allegorical figures from classical mythology; "The two naval-themed tapestries were created for the 1929 Ibero-American Expo"; the wedding "may have been held in this room"; view into the garden through "a long glass-panelled gallery") ; restored sargas (SEC, Jul 2026) NOT used until O17 confirms them on view ; AUDIT FIX 30 Oct, re-read ITIN (banquet claim, unsourced teacher's notes) and GPC ("el Emperador y la Emperatriz se pasaron a cenar a sus aposentos")
+@lang: de
+@translation: from the fact-checked English Real Alcázar 021 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Als Karl der Fünfte 1526 Isabella von Portugal heiratete, zog das Feiern vielleicht hierher weiter. Die Unterrichtsmaterialien des Alcázar nennen dies die Sala de las Fiestas, den Saal der Feste. [pause] Sie sagen, das Hochzeitsbankett habe in diesem Raum stattgefunden. Der Bericht über die Hochzeitsnacht lässt das Paar allerdings in seinen eigenen Gemächern speisen.
+
+Dies ist Nummer 33, die Sala de las Bóvedas, der Saal der Gewölbe, auch Salón Gótico genannt. Schauen Sie zuerst hinauf, zu den gotischen Gewölben aus dem Palast von Alfons dem Weisen. Dann auf die Wände. Sie sind bis etwa zwei Meter Höhe gefliest.
+
+Die Fliesen sind manieristische Arbeiten des sechzehnten Jahrhunderts, aus der letzten Phase der Renaissance. Sie sind voller Figuren und Pflanzen, und viele heben sich von einem leuchtend gelben Grund ab. [curious] Wählen Sie eine Tafel. Suchen Sie eine Figur und folgen Sie dann den Blättern und Blüten um sie herum.
+
+Hier hängen zwei weitere Wandteppiche, mit Meeresszenen. Sie sind viel jünger, als sie aussehen. [pause] Sie entstanden für die Iberoamerikanische Ausstellung 1929 in Sevilla.
+
+[lightly] Durch die lange verglaste Galerie ist der Garten schon zu sehen. Dorthin gehen Sie als Nächstes.
+
+Gehen Sie auf der Gartenseite des Saals hinaus in die Gärten und hinunter in Nummer 38 auf dem Alcázar-Plan, den Jardín de la Danza. [pause] Nummer 34, die Baños de Doña María de Padilla, öffnet sich beim Hinausgehen rechts in der Palastmauer, am Kopfende des Jardín de la Danza: eine Tür zu einem langen Becken unter gotischen Gewölben.

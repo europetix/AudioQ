@@ -1,0 +1,26 @@
+@id: 035 · DE · No. 23 · 30 Oct 2026 edition
+@section: Optional: Cuarto Real Alto
+@room: No. 23 · Comedor de Gala
+@type: X
+@title: CRA 23 · Extra · Ein Königshaus, das noch bewohnt wird
+@where: Für die Besichtigung des Cuarto Real Alto, bei Nummer 23, dem Comedor de Gala, dem Staatsspeisesaal, oder danach am Fuß der Treppe, falls Zuhören oben nicht erlaubt ist. Behandelt auch Nummer 22, den Antecomedor, und Nummer 24, die Sala de Fumar.
+@what: Cuarto Real Alto rooms 22 Antecomedor, 23 Comedor de Gala and 24 Sala de Fumar; 19th-century Bourbon additions and refurbishments with tapestries, crystal lamps from La Granja, clocks, furniture and paintings; the upper floor as the head of state's official residence in Andalucía.
+@listen: Why these upper rooms look nineteenth-century, and how they still serve the King today.
+@brief: A discreet, warm aside in a lived-in palace; respectful, lightly amused at the clash of centuries.
+@pace: medium
+@energy: 2→3→2
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: 22 Antecomedor, 23 Comedor de Gala, 24 Sala de Fumar) ; https://andalucia.org/en/sevilla-visitas-real-alcazar-de-sevilla (OFF: the 19th-century Bourbon monarchs added "spaces in the top floor of the building, where old rooms were refurbished", with tapestries, "crystal lamps from La Granja", clocks, furniture and paintings) ; https://www.eldiario.es/viajes/alcazar-espacio-reservado-realeza-palacio-antiguo-europa-pm_1_12280672.amp.html (SEC, 8 May 2025: "la residencia oficial del jefe del Estado en Andalucía"; "dormitorios, sala de estar, despacho, oratorio y piezas originales del mobiliario real"; "el monarca pernocta y mantiene actos institucionales cuando visita Andalucía"; reserved for the Casa del Rey) ; La Granja as the royal glassworks: standard (SNIP)
+@lang: de
+@translation: from the fact-checked English Real Alcázar 035 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Dieser Staatsspeisesaal gehört zu einem Haus, das noch bewohnt wird, von einem König, bei seinen Besuchen.
+
+Der Cuarto Real Alto ist das Obergeschoss eines mittelalterlichen Palastes, doch vieles, was er zeigt, ist weit jünger. Im neunzehnten Jahrhundert fügten die Bourbonen-Monarchen diesem obersten Stockwerk Räume hinzu und erneuerten die alten. [pause] Sie brachten Wandteppiche, Uhren, Möbel und Gemälde, dazu Kristalllüster aus La Granja, der königlichen Glasmanufaktur.
+
+[pause] Drei Räume gehören hier zusammen. Nummer 22, der Antecomedor, ist der Vorraum. Nummer 23 ist der Comedor de Gala, der Staatsspeisesaal. Und Nummer 24 ist die Sala de Fumar, das Rauchzimmer, ein sehr typischer Raum des neunzehnten Jahrhunderts.
+
+[pause] Das Obergeschoss ist nicht bloß eine Ausstellung. Es ist die offizielle Residenz des Staatsoberhaupts in Andalusien, mit Schlafzimmern, einem Salon, einem Arbeitszimmer, einem Oratorium und originalen königlichen Möbeln. Der König übernachtet hier bei seinen Besuchen und richtet offizielle Veranstaltungen aus.
+
+[lightly] Die Räume, durch die Sie gehen, sind also nicht in der Vergangenheit erstarrt. Ein mittelalterlicher Palast, eine Verwandlung durch die Bourbonen und eine moderne Monarchie, alles auf einem Stockwerk.
+
+Damit enden die Stationen im Cuarto Real Alto. Wieder unten setzen Sie die Haupttour dort fort, wo Sie sie verlassen haben. Der Alcázar-Plan zeigt die Treppe, Nummer 19, in der Ecke des Patio de la Montería neben der Palastfront.

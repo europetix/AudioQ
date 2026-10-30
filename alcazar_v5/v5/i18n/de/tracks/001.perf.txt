@@ -1,0 +1,26 @@
+@id: 001 · DE · Outside · 30 Oct 2026 edition
+@section: Opening
+@room: Outside · Puerta del León
+@type: ANCHOR
+@title: Willkommen im Real Alcázar
+@where: Vor der Puerta del León an der Plaza del Triunfo, dem Haupteingang für Besucher: eine Mauer mit Zinnen und einem Torbogen, über dem Bogen ein Fliesenbild mit einem Löwen. Halten Sie Abstand zur Warteschlange am Eingang.
+@what: Real Alcázar de Sevilla, Puerta del León (Lion Gate), 14th-century gateway of Pedro I's time with a later tile lion; overview of the site and of how this guide works.
+@listen: What the Alcázar is, eleven centuries in one breath, and how the numbers, the three lengths and the Extras of this guide work.
+@brief: A warm, composed host at the gate, welcoming a friend; unhurried and clear on the practical part, a smile at the lion.
+@pace: medium
+@energy: 2→3→2
+@sources: https://alcazarsevilla.org/wp-content/uploads/2024/11/02-Itinerarios-y-Actividades.pdf (OFF: "La entrada principal es conocida como la Puerta del León… Debe su nombre al azulejo con la representación de un león, situado sobre el arco de acceso") ; https://alcazarsevilla.org/historia/ (OFF: "ordenó, en el 913, el levantamiento de un nuevo recinto de gobierno"; "hace once siglos"; Gothic palace of Alfonso X; Mudéjar palace of Pedro I "a mitad del siglo XIV") ; https://www.alcazarsevilla.org/ (OFF: banner "El Palacio Real en uso más antiguo de Europa"; tagline "Residencia Real") ; https://www.eldiario.es/viajes/alcazar-espacio-reservado-realeza-palacio-antiguo-europa-pm_1_12280672.amp.html (SEC, 8 May 2025: Cuarto Alto = official residence of the head of state in Andalucía, used when the King is in the city) ; https://alcazarsevilla.org/wp-content/uploads/2024/11/triptico_alcazar_sevilla.pdf (OFF: legend 1–53; Palacio del Yeso Islamic; English garden "inicios del siglo XX") ; https://whc.unesco.org/en/list/383/ (OFF UNESCO: property name "Cathedral, Alcázar and Archivo de Indias in Seville"; year not shown, so not spoken) ; al-qasr etymology: standard (audit OK) ; Abd al-Rahman III emir in 913, caliph from 929: audit SNIP
+@lang: de
+@translation: from the fact-checked English Real Alcázar 001 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Über diesem Tor hält ein Löwe aus Fliesen Wache. Er gibt dem Eingang seinen Namen, Puerta del León, das Löwentor. [pause] Und dahinter liegt ein Palast, der seit elf Jahrhunderten ein Sitz der Macht ist.
+
+Das Wort Alcázar kommt vom arabischen al-qasr, der Palast oder die Festung. 913 ließ Abd al-Rahman der Dritte, damals Emir von Córdoba, hier einen neuen Regierungssitz errichten. Ein Herrscher nach dem anderen baute auf diesem Boden, und vieles davon steht noch Seite an Seite. [pause] Sie sehen einen Teil eines almohadischen Hofs, einen Gotischen Palast aus dem dreizehnten Jahrhundert und König Pedros Mudéjar-Palast aus dem vierzehnten. Dann folgen Renaissancegärten und Gärten aus dem frühen zwanzigsten Jahrhundert.
+
+[pause] Er ist noch immer ein Königspalast. Der Alcázar nennt sich den ältesten noch genutzten Königspalast Europas. Sein Obergeschoss ist die offizielle Residenz der Königsfamilie in Sevilla. Zusammen mit der Kathedrale und dem Archivo de Indias gehört er zum Welterbe.
+
+Nun dazu, wie dieser Guide funktioniert. Fast jede Station hat eine Nummer. Es sind die Nummern auf dem Alcázar-Plan, 1 bis 53, und die Routenkarte zu diesem Guide verwendet dieselben Nummern. [pause] Die Schilder vor Ort tragen die spanischen Namen. Deshalb hören Sie immer die Nummer mit ihrem spanischen Namen.
+
+Es gibt drei Längen. Die vollständige Tour dauert etwa zwei Stunden, die Kernversion etwa eineinviertel Stunden, die Highlights etwa fünfundvierzig Minuten, jeweils mit Gehzeit. Welche Version Sie auch auf dem Handy haben, spielen Sie sie der Reihe nach ab. Die Nummern können springen, und jede Station sagt Ihnen, wohin es weitergeht. [pause] Manche Stationen haben einen kurzen Extra-Titel, und das sagen wir immer vorher an. Der Cuarto Real Alto, die oberen königlichen Gemächer, ist eine eigene Besichtigung mit Zeitfenster. Dafür gibt es am Ende dieses Guides zwei kurze, optionale Titel.
+
+Gehen Sie durch das Tor in Nummer 1 auf dem Alcázar-Plan, den Patio del León: den Hof gleich hinter dem Tor, mit einem dreifachen Bogen am anderen Ende.
