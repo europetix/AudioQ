@@ -9,6 +9,9 @@ MAP (desk, as soon as the official leaflet image arrives; save it in research/ma
 [ ] MAP-1 CRITICAL Is the Nov 2024 leaflet (triptico, spaces 1-53) still the current edition? Is it handed out on paper at the Puerta
         del Leon, or only online ("Prepara la visita" says to print it)? If visitors may not hold it, the app must show the plan (ask
         the Patronato for permission) and track 1 must say where the numbers are. A new edition that renumbers = re-check every track.
+        (Audit 30 Oct) 001 now says: "the route map that comes with this guide uses the same numbers". Before release, confirm that
+        the Yo Tours route map really ships with the guide and uses the leaflet numbers 1-53 (and, if it reproduces the leaflet plan,
+        that the Patronato has allowed it). If not, cut that clause from 001.
 [ ] MAP-2 Read off the drawing every relation the cues need:
         - Monteria: the side of the Cuarto del Almirante (6) (research says west, right when facing the facade); the gallery to the
           Crucero (31); does the Apeadero (53) open off the Monteria?;
@@ -25,14 +28,16 @@ ENTRANCE AND FIRST COURTYARDS
         above the arch visible from there? Where does the visitor come out after the security area? Paper map given out (MAP-1)?
 [ ] O2  Tracks 1-4: Patio del Leon - the triple arch through to the Monteria; the door into no. 2 Sala de la Justicia; its floor
         fountain; the Order of the Band shield (004 names it only if seen); any visible trace of the 17th-century theatre (002 claims
-        none unless seen); does no. 2 lead straight into no. 3 Patio del Yeso?
+        none unless seen); does no. 2 lead straight into no. 3 Patio del Yeso? (Audit 30 Oct) 002: can a visitor SEE that the middle
+        arch of the triple arch is off-centre, one side of the wall wider than the other? If not, soften the "Now look" sentence.
 [ ] O3  Track 5: Patio del Yeso - the brick lattice (sebka) arcade over the long pool; the way back out (through no. 2 only?).
 [ ] O4  CRITICAL Tracks 5-10, 16-17: Patio de la Monteria - is the facade (5) in front of you as you come through the triple arch?
         Where is the door of the Cuarto del Almirante (6)? Is the central door of the facade the visitors' way into the palace? Where
         is the gallery to the Patio del Crucero (31)? Does the Apeadero (53) open off this courtyard (006: "you'll leave this way")?
 [ ] O5  Tracks 8-9: Cuarto del Almirante - the way from 6 into 7 (the chapel); are 8 Patio del Asistente and 9 Patio de Levies open?
         (Photograph the panels: held Extra.) The Virgin of the Navigators on view in 7, with its side panels and the ships below?
-        Tapestries, bench, painted ceiling: describe only what you see.
+        Tapestries, bench, painted ceiling: describe only what you see. (Audit 30 Oct) 007 cue now says "Look for the sign Casa de la
+        Contratacion": is there a sign with exactly that name at the door of no. 6? If the sign says something else, use its wording.
 [ ] O6  Track 7: facade - where are the Gothic Castilian band of lettering and the blue-and-white Kufic tiles? Readable from the courtyard?
 
 PALACE OF KING PEDRO
@@ -52,29 +57,34 @@ PALACE OF KING PEDRO
         Doncellas (ALT-C)? What do the signs say?
 [ ] O13 Tracks 16, 34-35 (Cuarto Real Alto): where is the stair no. 19? Where does the upstairs visit start and end? Is commentary
         given upstairs (a guide or official audio)? May visitors listen to their own audio upstairs? Room order 20-30; is Niculoso
-        Pisano's tiled altar (the Visitation) in no. 21? Photograph the official panels for 25-30 (held Extras).
+        Pisano's tiled altar (the Visitation) in no. 21? Photograph the official panels for 25-30 (held Extras). (Audit 30 Oct) 012 now
+        says Pisano's 1504 altar for the queen "survives upstairs": confirm it is on the upper floor (room 21).
 
 GOTHIC PALACE AND BATHS
 [ ] O14 Track 18: no. 31 Patio del Crucero - what visitors see (raised courtyard, walkways); the Baroque front.
 [ ] O15 Track 19: no. 32 Salon de los Tapices - how many Tunis tapestries are on view; their labels (Vandergoten, dates).
+        (Audit 30 Oct) Is the panel of the SACK of Tunis among those hung? 019 says only that one of the twelve scenes shows it.
 [ ] O16 Tracks 19-20: the chapel of the Gothic palace - where is it (off 32?); the Virgen de la Antigua copy and Domingo Martinez's
         Virgen de los Reyes (1742) on view?
 [ ] O17 Track 21: no. 33 Sala de las Bovedas - tiles to about 2 m; the two 1929 naval tapestries; the restored painted cloths
         (sargas); the view through the glass gallery; WHERE ITS GARDEN DOOR LEADS (the Mercury terrace? the Danza?). No door: ALT-D.
 [ ] O18 CRITICAL Tracks 21-22 and the 016 Highlights bridge: are the Banos (34) entered from no. 38 Jardin de la Danza (default) or
-        from the Crucero (ALT-E)? Open? The same door in and out? Steps (step-free note)?
+        from the Crucero (ALT-E)? Open? The same door in and out? Steps (step-free note)? (Audit 30 Oct) 022: are the remains of the
+        Mannerist fountain visible at one end of the pool?
 
 GARDENS
 [ ] O19 Tracks 22-24: the walk 38 > 37 > (Galera, Flores) > 35 and back. The Columna de Al-Mutamid (36): what is it? Photograph any
         inscription or panel (a verse may be quoted only from a credited translation). The Fuente de Troya (37). Can the garden end
         of the Munecas passage be seen from the Jardin del Principe?
 [ ] O20 Tracks 23-25: the two columns on the upper level of the Danza; the Baths' opening; the steps up to the Mercury pool.
+        (Audit 30 Oct) 024: is one column visibly on a new pedestal (EXPO: the left one, "junto a la escalinata")?
 [ ] O21 Track 25: the bronze Mercury on the pool is the 2024 replica - any panel saying where the ORIGINAL is (on show anywhere)?
 [ ] O22 Tracks 25-27: the Grutesco - on the pool's east side? Is the upper walkway open? What do the paintings show? Where is the
         Fuente de la Fama (41)? Does the water organ sound? (Never script times.)
 [ ] O23 Fuente de Neptuno (42), Gruta de las Sultanas (43): photograph the panels (held Extra).
 [ ] O24 CRITICAL Tracks 26-29: no. 44 Pabellon de Carlos V - restoration finished? Interior open? Screens or scaffolding? Are the
         Polido tiles and the labyrinth floor visible? -> record 028(a) "open" or 028(b) "behind screens" (ALT-F).
+        (Audit 30 Oct) 028 now carries (b). If the pavilion is open, swap in the (a) sentence kept in v5/notes/AUDIT_FIXES_001-035.md.
 [ ] O25 Tracks 28-30: no. 45 Cenador del Leon - the lion and the pool in front; the painted interior visible?
 [ ] O26 Tracks 30-31: no. 46 Jardin Ingles and no. 47 Laberinto - what can be seen; can the maze be walked; order 45 > 46 > 47 > 48.
 [ ] O27 Tracks 30-32: the order 48 > 49 > 50 > 51 > 52 on the ground; on no. 51 Puerta de Marchena, the carved wild men holding
@@ -103,13 +113,17 @@ AFTER THESE DATES / TRIGGERS (see PLAN.md section 6)
 [ ] Seville-residents' entrance (Casas 7 y 8) opens -> re-check O1/O28.
 
 LISTENING CHECKS (after rendering)
-[ ] Numbers: "number fifteen on your Alcazar map" the first time, then "number fifteen", always followed by the Spanish name.
+[ ] BEFORE ANY RENDER: build/static/pronunciation.py does not exist, but v5/pipeline/render_edge.py imports apply_respelling from
+    it. Create it (seed list at the end of v5/notes/AUDIT_FIXES_001-035.md) and ear-test each respelling, or the render fails.
+[ ] Regnal numbers are written as spoken ("Charles the Fifth", "Felipe the Second"; space names "Salon del Techo de Carlos Quinto",
+    "Salon del Techo de Felipe Segundo", "Pabellon de Carlos Quinto"): check they are read that way.
+[ ] Numbers: "number fifteen on the Alcazar map" the first time, then "number fifteen", always followed by the Spanish name.
     ES "numero quince del plano"; FR "numero quinze sur votre plan"; DE "Nummer fuenfzehn auf Ihrem Plan". Never "number eleven".
 [ ] Spanish names (EN engine): Alcazar, Puerta del Leon, Patio del Leon, Sala de la Justicia, Patio del Yeso, Monteria, Cuarto del
-    Almirante, Casa de la Contratacion, Virgen de los Navegantes / Mareantes, Alejo Fernandez, Doncellas, Salon del Techo de Carlos V,
-    Infantes, Salon de los Embajadores, media naranja, Felipe, Reyes Catolicos, Munecas, Cuarto del Principe, Patio del Crucero,
+    Almirante, Casa de la Contratacion, Virgen de los Navegantes / Mareantes, Alejo Fernandez, Doncellas, Salon del Techo de Carlos Quinto,
+    Infantes, Salon de los Embajadores, media naranja, Felipe Segundo, Reyes Catolicos, Munecas, Cuarto del Principe, Patio del Crucero,
     Salon de los Tapices, Boveda(s), Banos de Dona Maria de Padilla, Jardin del Principe, Al-Mutamid, Fuente de Troya, Jardin de la
-    Danza, Estanque de Mercurio, Galeria del Grutesco, Fuente de la Fama, Pabellon de Carlos V, Cenador del Leon, Jardin Ingles,
+    Danza, Estanque de Mercurio, Galeria del Grutesco, Fuente de la Fama, Pabellon de Carlos Quinto, Cenador del Leon, Jardin Ingles,
     Laberinto, Puerta de Marchena, Vega-Inclan, Alcubilla, Apeadero, Patio de Banderas, Cuarto Real Alto, Comedor de Gala, Salida.
 [ ] People and terms: Abd al-Rahman, al-qasr, al-Mubarak, Aghmat, Almohad, Almoravid, Abbadid, sebka, Mudejar, Alfonso, Talavera,
     Corral de la Monteria, Salado, Afonso, Marinid, conqueridor, wa-la ghaliba illa Allah, 'izz li-mawlana al-sultan don Bidru,
