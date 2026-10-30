@@ -1,0 +1,24 @@
+@id: 021 · FR · Sala Capitular · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sala Capitular
+@type: X
+@title: Sala Capitular · Extra · Un ovale pour le chapitre
+@where: Dans la Sala Capitular, à laquelle on accède depuis l'Antecabildo par un couloir courbe : une salle ovale avec des reliefs sculptés et des tableaux des Vertus sur les murs, et un anneau de tableaux ronds en haut de la voûte. Tenez-vous sur le côté, hors du passage de la porte.
+@what: The chapter house: elliptical plan, begun in the mid-16th century under Hernán Ruiz II, completed by Asensio de Maeda; programme with Latin inscriptions by Canon Francisco Pacheco; Pablo de Céspedes, the Virtues, 1592; large reliefs by Juan Bautista Vázquez el Viejo and Diego de Velasco, c. 1582; rectangular reliefs by Marcos Cabrera, c. 1590; Diego de Velasco, carved mahogany armchair, 1592.
+@listen: Why the canons' meeting room is an oval, and the moral lesson carved and painted round its walls.
+@brief: A short, hushed aside to a friend in a quiet room; curious at first, then softly practical about keeping voices down.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF, read 30 Oct 2026: entered from the antecabildo "through a curved corridor"; "conceived in an elliptical plan" for perfect visibility of all members during meetings; begun mid-16th century with Hernán Ruiz II, completed by Asensio de Maeda; acoustics "exceptional"; Canon Francisco Pacheco's programme of sculptures and paintings with Latin inscriptions, to exalt virtues and set a moral code for the canons' assemblies; Céspedes Virtues 1592; reliefs Vázquez el Viejo and Velasco c. 1582, Cabrera c. 1590; mahogany armchair carved 1592 by Velasco presides) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, read 30 Oct 2026: 1401, "the canons decided to build a new cathedral") ; https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta, read 30 Oct 2026: Hernán Ruiz architect of the bell tower's extension and crown)
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 021 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dans une cathédrale, la plupart des salles sont faites pour regarder quelque chose. Celle-ci fut faite pour que l'on puisse se voir et s'entendre.
+
+Vous êtes passé par l'Antecabildo, l'antichambre, puis par un couloir courbe. Voici la Sala Capitular, la salle capitulaire, où se réunissaient les chanoines qui dirigeaient la cathédrale. [pause] C'est ce chapitre qui décida, en 1401, de bâtir une nouvelle cathédrale à la place de la mosquée.
+
+La salle est ovale. [pause] Elle fut commencée au milieu du seizième siècle sous Hernán Ruiz le Jeune, architecte du beffroi de la Giralda. Asensio de Maeda l'acheva. Selon la cathédrale, l'ovale permettait à chacun de voir tous les autres, et donnait une acoustique exceptionnelle. [quietly] Alors parlez bas. Ici, les mots portent.
+
+Un chanoine érudit, Francisco Pacheco, à ne pas confondre avec le peintre, conçut le décor. Les vertus que le chapitre devait suivre, avec des inscriptions latines pour enfoncer la leçon. [pause] Pablo de Céspedes peignit les Vertus en 1592. Les reliefs sont de Juan Bautista Vázquez l'Ancien, Diego de Velasco et Marcos Cabrera. Velasco sculpta aussi le fauteuil d'acajou qui préside la salle.
+
+Restez dans la Sala Capitular pour l'arrêt principal : l'Immaculée de Murillo, en haut de la voûte, au-dessus de l'anneau de tableaux ronds.

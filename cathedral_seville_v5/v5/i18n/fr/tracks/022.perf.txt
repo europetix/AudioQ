@@ -1,0 +1,28 @@
+@id: 022 · FR · Sala Capitular · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sala Capitular
+@type: W
+@title: Sala Capitular — L'Immaculée de Murillo
+@where: Dans la Sala Capitular, la salle capitulaire ovale. Levez les yeux vers la voûte : un anneau de huit tableaux ronds de saints, et au-dessus, dans un cadre sculpté, le grand tableau de la Vierge.
+@what: Bartolomé Esteban Murillo, Immaculate Conception, commissioned 1667, painted 1667–68, in a carved frame, with eight Sevillian saints on round canvases around the vault. Also named: Murillo's San Isidoro and San Leandro, 1655 (Sacristía Mayor); Vision of St Anthony (Capilla de San Antonio); works in the Capilla de Santiago (1674) and at the Ángel de la Guarda altar (1665–66); Pedro de Campaña, Descent from the Cross, 1547 (Sacristía Mayor).
+@listen: The painter whose work runs all through this cathedral, and the Virgin he set above the canons' heads.
+@brief: A warm, admiring friend tracing one painter's footsteps through the building; curious at the start, gently moved at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF, read 30 Oct 2026: Murillo's works "commissioned in 1667", eight Sevillian saints on circular canvases and above them the Immaculate Conception in a carved frame, in the vault; Murillo's San Isidoro and San Leandro, 1655, and Campaña's Descent in the Sacristía Mayor) ; https://catedraldesevilla.es/en/?p=53309 (OFF, read 30 Oct 2026: Murillo, Sala Capitular "1667" once and "1668" seven times; Sacristía Mayor 1655; Capilla del Ángel de la Guarda "1665-1666"; Capilla de Santiago "1674"; Campaña 1547 Sacristía Mayor) ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC, Seville city tourism, read 30 Oct 2026: Cabildo commissioned the works in 1667; the Immaculate presides and is counted among the most beautiful he painted; eight Sevillian saints in round canvases around the vault; St Anthony in the Capilla de San Antonio; "Altar del Ángel de la Guarda") ; Murillo before Campaña's Descent: callback to 018, which tells the anecdote with its source (FACTS §9.5 HEDGE, Ponz via GE-IIC [S21])
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 022 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Pour couronner cette salle, les chanoines n'eurent pas à chercher loin. Le peintre qu'ils choisirent était déjà partout dans leur cathédrale.
+
+Il s'appelait Bartolomé Esteban Murillo. Le chapitre lui passa commande en 1667, et il travailla à cette salle jusqu'à l'année suivante. [pause] En haut de la voûte, il plaça huit saints de Séville, chacun sur une toile ronde. Et au-dessus d'eux, dans un cadre sculpté, trône l'Immaculée Conception : la Vierge Marie, conçue sans péché.
+
+[pause] Levez les yeux, suivez l'anneau des saints autour de l'ovale, puis montez jusqu'à elle. Les chanoines siégeaient au niveau du sol, parmi les Vertus et les devises latines. Au-dessus de leurs têtes, les saints de leur propre ville. Au-dessus des saints, la Vierge. L'office de tourisme de Séville la compte parmi les plus belles Immaculées de Murillo.
+
+[warmly] Murillo est le peintre qui vous retrouve partout dans cette cathédrale. La liste des peintures de la cathédrale le nomme encore et encore, de 1655 à 1674. [pause] Ses San Isidoro et San Leandro sont dans la Sacristía Mayor, la grande sacristie. Son Saint Antoine, la toile dont un voleur découpa jadis le saint, est dans la Capilla de San Antonio. D'autres œuvres de lui sont dans la Capilla de Santiago, la chapelle Saint-Jacques, et à l'autel de l'Ange gardien.
+
+Il était aussi un admirateur. Souvenez-vous de l'histoire de la Sacristía Mayor : Murillo devant la Descente de croix de Campaña, attendant qu'on ait fini de descendre Notre-Seigneur. Voici ce qu'il savait faire lui-même, avec le plafond des chanoines.
+
+[quietly] En bas, les chanoines débattaient et votaient. Au-dessus d'eux, depuis plus de trois siècles et demi, la Vierge de Murillo a le dernier mot.
+
+Retournez maintenant dans l'église, à l'extrémité derrière la Capilla Mayor : la Capilla Real, la chapelle royale, derrière sa grande grille de fer.

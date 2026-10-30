@@ -1,0 +1,30 @@
+@id: 010 · FR · Coro · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Coro
+@type: W
+@title: Coro — Le chœur et les orgues
+@where: À la croisée, maintenant dos au retable, face au Coro : un enclos fermé de murs au milieu de la nef centrale, ouvert seulement à l'avant, fermé par une haute grille Renaissance, avec des tuyaux d'orgue au-dessus des stalles [O8].
+@what: The Coro: Renaissance grille by Fray Francisco de Salamanca, 1518–1523; 117 carved seats in two tiers, Gothic-Mudéjar, misericords carved with the vices; King's chair signed by Nufro Sánchez, 1478, continued by Pieter Dancart from 1479; Renaissance lectern of wood and bronze, 1562–1565, bronze reliefs cast by Bartolomé Morel; the double organ, present organs finished 1903, electronic adaptation 1973; the left pillar of the choir collapsed in 1888 and was rebuilt.
+@listen: A carver's signature from 1478, the stalls and their hidden vices, the lectern by the Giraldillo's founder, and the twin organs.
+@brief: A friend pointing through the grille into a room within the church; curious and conversational, a touch wry at the pillar, warm at the close.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: choir in the central nave "directly in front of the Main Chapel"; masonry walls except at the front, Renaissance grille by Fray Francisco de Salamanca, 1518–1523 (crest motif relayed as "the tree of Gethsemane": not used); two tiers, 117 seats, Gothic-Mudéjar, saints and Old and New Testament scenes; misericords depict vices as monstrous figures; King's chair signed Nufro Sánchez and dated 1478; Pieter Dancart continued from 1479; Renaissance wood-and-bronze lectern by several sculptors 1562–1565, bronze reliefs cast by Bartolomé Morel; double pipe organ integrated into the stalls) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1888 "the left pillar of the choir collapses" and is rebuilt; 1903 present organs finished; 1973 electronic adaptation) ; https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta: Morel cast the Giraldillo, and worked on the lectern) ; misericords and King's chair not pointed out until O8
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 010 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Quelque part dans ces stalles se cache une signature. Le siège du roi porte le nom de son sculpteur, Nufro Sánchez, et la date de 1478. C'est presque trente ans avant l'achèvement de la cathédrale qui l'entoure.
+
+Le travail ne s'arrêta pas avec lui. Dès l'année suivante, Pieter Dancart, premier maître du grand retable derrière vous, le poursuivit. [pause] Résultat : cent dix-sept sièges sculptés sur deux rangs, de style gothique-mudéjar. La sculpture gothique y rencontre les traditions artisanales de l'Espagne musulmane. On y voit des saints et des scènes de l'Ancien et du Nouveau Testament. Et sous les sièges, les miséricordes, petits appuis pour les longs offices, montrent les vices sous forme de monstres.
+
+Voici le Coro, le chœur, une salle dans l'église. Il est muré sur trois côtés. Seul l'avant est ouvert, face à l'autel. [pause] Il est clos par une grille Renaissance de Fray Francisco de Salamanca, le religieux qui fit une grande part des ferronneries de la cathédrale.
+
+À l'intérieur se dresse un grand lutrin de bois et de bronze, œuvre Renaissance de plusieurs sculpteurs. Ses reliefs de bronze sont de Bartolomé Morel, le fondeur qui coula aussi la figure tournant au sommet de la Giralda.
+
+[pause] Au-dessus des stalles s'élèvent les tuyaux d'un double orgue, intégré aux stalles. Les orgues actuels furent achevés en 1903, et adaptés à l'électronique soixante-dix ans plus tard.
+
+[wry] Le chœur a eu son propre drame. En 1888, l'un des grands piliers à côté du chœur s'effondra. Il fallut le reconstruire.
+
+[warmly] Des murs, une grille, son propre mobilier et sa propre musique, tout tourné vers l'autel.
+
+Longez maintenant le côté du chœur jusqu'au bas-côté situé du côté où vous êtes descendu de la tour. Suivez-le vers l'autre extrémité de l'église, jusqu'à la Capilla de San Antonio. Cherchez l'immense toile de Murillo : un saint à genoux et une nuée d'anges.

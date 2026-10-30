@@ -1,0 +1,30 @@
+@id: 006 · FR · Giralda · on the way down · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · on the way down
+@type: W
+@title: Giralda — De la mosquée à la cathédrale
+@where: Sur les rampes de la Giralda, en descendant, en tenant votre droite [O6]. À écouter en marchant, inutile de s'arrêter.
+@what: The Great Mosque of Seville, ordered 1172 by the Almohad caliph Abu Ya'qub Yusuf, prayer hall 1172–76, minaret finished 1198 under his son; 1248 Fernando III takes Seville and the mosque becomes the cathedral; 1401 the chapter's decision; the "think us mad" tradition and the more sober wording handed down; building from the 1430s; finished 1506, opened 11 May 1507; what the mosque left: the minaret, the courtyard and the Puerta del Perdón.
+@listen: How a mosque became a cathedral, the famous "mad" quotation and what the decision says, as it has come down to us, and what survives of the mosque.
+@brief: A storyteller walking down beside the listener; curious at the start, wry about the quotation, warm at the end. No "look at" instructions.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1163 capital moved to Seville under Abu Yaqub Yusuf; 1172 Great Mosque ordered; 1248 mosque converted into the church of Santa Maria; 1401 canons decide to build a new cathedral; inaugurated 11 May 1507) ; https://archnet.org/sites/2753 (SEC: mosque begun 1172, construction 1172–1176; minaret 1184; consecrated as cathedral of Santa Maria de la Sede after 1248; the Court of the Oranges and the Puerta del Perdón kept) ; https://www.catedraldesevilla.es/en/?p=51926 (OFF: mosque consecrated as cathedral and adapted after 1248; "the huge gothic project began" 1433; "broadly speaking, finished in 1506"; most of the mosque demolished for the Gothic church) ; https://www.catedraldesevilla.es/en/?p=53300 (OFF: destruction began 1401; Giralda became a bell tower after 1248) ; https://archive.aramcoworld.com/issue/199401/the.giralda.htm (SEC: minaret completed 1198 under al-Mansur) ; quotation: FACTS §1.8 safe wording (LEGEND; the "mad" line is on no official page, the "none its equal" gist is HEDGE) ; 150 years as cathedral: FACTS §1.4
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 006 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1401, les chanoines de Séville prirent une décision qu'ils mettraient plus d'un siècle à réaliser. Pour la comprendre, revenons à la mosquée.
+
+Il y a huit siècles et demi, le calife almohade Abu Yaqub Yusuf commanda une grande mosquée du vendredi pour Séville, sa capitale en Espagne. La salle de prière s'éleva en quatre ans environ. [pause] Le minaret, la tour que vous descendez, fut achevé sous son fils.
+
+En 1248, le roi Ferdinand trois prit Séville. La mosquée fut consacrée cathédrale de la ville et adaptée au culte chrétien. Elle servit un siècle et demi.
+
+Puis, en 1401, les chanoines votèrent sa démolition pour bâtir une nouvelle église. [pause] Selon la tradition, un chanoine l'aurait dit ainsi : « Bâtissons une église si grande que ceux qui la verront achevée nous prendront pour des fous. » [wry] La décision elle-même, telle qu'elle nous est parvenue, est plus sobre. Elle parle d'une église « si bonne qu'aucune ne l'égale ».
+
+La construction commença vraiment une trentaine d'années plus tard. Pierre après pierre, l'église gothique s'éleva à la place de la salle de prière. Elle ouvrit en mai 1507, un siècle après ce vote.
+
+[warmly] Mais les bâtisseurs n'ont pas tout effacé. Ils ont gardé le minaret, pour en faire leur clocher. Ils ont gardé la cour où les fidèles faisaient leurs ablutions, aujourd'hui la cour des orangers. [pause] Et ils ont gardé son grand portail, la Puerta del Perdón, la porte du Pardon. C'est par là que vous sortirez, tout à la fin.
+
+[quietly] Ainsi, en descendant ces rampes, vous marchez dans la partie de la mosquée que la cathédrale n'a jamais lâchée.
+
+En bas, entrez juste dans la cathédrale, à l'écart de la porte de la tour. L'arrêt suivant se trouve au pied de la Giralda.

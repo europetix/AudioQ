@@ -1,0 +1,7 @@
+006 H>008: En esta versión corta, omita esa parada y siga hasta el centro de la iglesia, donde el crucero corta la nave: el enorme retablo dorado tras su reja de hierro es la Capilla Mayor.
+008 H>014: En esta versión corta, omita el coro y vaya al brazo del crucero del lado opuesto a la torre: el sepulcro de Colón, cuatro heraldos con un féretro, está justo por dentro de la Puerta del Príncipe.
+011 E>013: En esta versión corta, pase de largo las grandes puertas y siga por el lado opuesto a la torre hasta la Capilla de la Antigua, la mayor de ese lado, con su Virgen medieval pintada sobre el altar.
+014 H>025: En esta versión corta, omita esa parada: vuelva a cruzar el crucero hasta el brazo del lado de la torre y siga los carteles de Salida hasta el Patio de los Naranjos, con hileras de naranjos alrededor de una fuente.
+022 E>025: En esta versión corta, omita la Capilla Real: vuelva a la iglesia, al brazo del crucero del lado de la torre, y siga los carteles de Salida hasta el Patio de los Naranjos, con naranjos alrededor de una fuente.
+025 E>028: En esta versión corta, omita el Giraldillo y el cocodrilo y siga hasta la Puerta del Perdón, la alta portada en arco en el centro del lado más alejado del patio, frente a la catedral.
+025 H>028: En esta versión corta, omita el Giraldillo y el cocodrilo y siga hasta la Puerta del Perdón, la alta portada en arco en el centro del lado más alejado del patio, frente a la catedral.

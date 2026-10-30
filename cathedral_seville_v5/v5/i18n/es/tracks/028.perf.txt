@@ -1,0 +1,30 @@
+@id: 028 · ES · Puerta del Perdón · 30 Oct 2026 edition
+@section: Closing
+@room: Puerta del Perdón
+@type: CLOSE
+@title: Puerta del Perdón — La salida
+@where: En la Puerta del Perdón, la alta portada en arco en el centro del lado del Patio de los Naranjos opuesto a la catedral: la salida. Colóquese a un lado del arco, fuera del paso de quienes salen, antes de cruzarlo.
+@what: Puerta del Perdón: original Almohad gate, the main entrance to the mosque's courtyard, aligned with the mosque's central nave and mihrab; carved plaster inside the arch; front renovated 1520 with terracottas by Miguel Florentín (St Peter and St Paul at the sides, the Virgin and the Archangel Gabriel above them); Plateresque plasterwork by Bartolomé López, 1522; relief of the Expulsion of the Merchants just above the arch (which face: O18). Recorded in 3D by the Factum Foundation with the Cabildo, Nov 2025. The roofs: a separate visit.
+@listen: The mosque's own front gate, the Christian figures added to it, and the three buildings you have walked through in one.
+@brief: A friend at the gate at the end of a long morning together; warm, reflective, unhurried, a quiet thank-you at the end.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF, read 30 Oct 2026: "one of the fundamental elements of the original mosque", main entrance to the Almohad enclosure, "aligning with its central nave and the mihrab"; 1520 terracottas by Miguel Florentín, "images of St. Peter and St. Paul on the sides" and "the Virgin and the Archangel Gabriel above them"; Plateresque plasterwork "created in 1522 by Bartolomé López"; Expulsion of the Merchants "just above the arch"; "this door marks the exit for cultural and artistic visitors") ; https://factumfoundation.org/our-projects/digitisation/the-puerta-del-perdon-in-the-cathedral-of-seville/ (SEC, read 30 Oct 2026: Almohad arch, originally the principal portal of the Great Mosque; carved plaster inside the arch recorded by photogrammetry and LiDAR; completed November 2025 under an agreement with the Cabildo) ; https://www.catedraldesevilla.es/en/cultural-visit/guided-tours/visit-to-the-roofs/ (OFF, read 30 Oct 2026: a separate visit, "stroll along its rooftops") ; https://catedraldesevilla.es/wp-content/uploads/2025/03/Normas-generales-catedral-descargable-actualizado.pdf (OFF, read 30 Oct 2026: no re-entry once the ticket is validated) ; recap: FACTS §1.4, §1.10, §2.12, §11.1, REN (sacristy, chapter house)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 028 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Sale de esta catedral por donde antes entraban los fieles. Hace más de ochocientos años, esta era la puerta principal de la gran mezquita.
+
+Es la Puerta del Perdón, una puerta almohade original, la entrada principal al patio de la mezquita. Y estaba alineada con la nave central de la mezquita y con su mihrab, el nicho que indicaba la dirección de la oración. [pause] Imagine esa línea. Por este arco, a través del patio, dentro de la sala de oración, hasta el mihrab. [pause] Hoy esa misma línea va a dar de frente contra los muros de una catedral gótica.
+
+Dentro del arco, mire las yeserías talladas. En 2025, la Fundación Factum, junto con la catedral, las registró en tres dimensiones, detalle a detalle.
+
+La Sevilla cristiana no derribó esta puerta. La vistió. En 1520, Miguel Florentín añadió figuras de terracota: San Pedro y San Pablo a los lados, y encima la Virgen y el arcángel Gabriel. Dos años después, Bartolomé López añadió yeserías platerescas. [pause] Y justo encima del arco hay un gran relieve de Cristo expulsando a los mercaderes del Templo. [wry] Una elección con toda la intención, para una puerta entre un lugar sagrado y una ciudad bulliciosa.
+
+[reverent] Piense ahora en todo lo que ha visto. De la mezquita: el alminar, el patio y esta puerta. De la iglesia gótica: las inmensas naves que sustituyeron a su sala de oración. Del Renacimiento: el cuerpo de campanas sobre el viejo alminar y, si su recorrido pasó por allí, las sacristías y la Sala Capitular. [pause] Tres edificios en uno.
+
+Si quiere verlo todo desde arriba, las cubiertas se pueden recorrer en una visita aparte.
+
+Una vez que cruce esta puerta, su visita habrá terminado, y no podrá volver a entrar. [pause] Así que eche una última mirada a la Giralda, si puede verla desde donde está.
+
+[warmly] Gracias por recorrer la Catedral de Sevilla con nosotros. Esperamos que la lleve consigo.

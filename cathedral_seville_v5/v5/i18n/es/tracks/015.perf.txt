@@ -1,0 +1,28 @@
+@id: 015 · ES · Sepulcro de Cristóbal Colón · 30 Oct 2026 edition
+@section: Columbus
+@room: Sepulcro de Cristóbal Colón
+@type: W
+@title: Sepulcro de Colón — ¿De quién son los huesos?
+@where: Aún ante el sepulcro de Colón, junto a la Puerta del Príncipe: el féretro que llevan cuatro heraldos.
+@what: The remains in Arturo Mélida's monument; their journey from Valladolid (1506) by way of the Cartuja in Seville, Santo Domingo and Havana; the 1877 Santo Domingo find; the University of Granada DNA studies announced in 2006 and 2024; Hernando Colón, buried in the cathedral, and his library.
+@listen: Columbus's long journey after death, two countries that claim his bones, and what the DNA studies can and cannot say.
+@brief: An honest, unhurried explanation by a grave; curious, careful with the science, warm at the end with Hernando's books.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.upo.es/patio-colorado/?p=11176 (SEC low: died Valladolid 1506; moved by his son Diego to the Cartuja, Santa María de las Cuevas; around 1537 to Santo Domingo Cathedral; to Havana after 1795; back to Seville in 1898; 1877 lead box with bones and Columbus's name found in Santo Domingo Cathedral; Dominican claim) ; https://www.nbcnews.com/id/wbna12871458 (SEC NBC/AP 19 May 2006: mitochondrial DNA of his brother Diego compared; Marcial Castro: "absolute matchup"; Santo Domingo "might conceivably also hold part of the right body"; Juan Bautista Mieses, Columbus Lighthouse: "The remains have never left Dominican territory"; testing refused: "one does not bother the dead") ; https://www.ultimahora.com/investigadores-confirman-que-los-huesos-enterrados-en-sevilla-son-de-cristobal-colon (SEC EFE 10 Oct 2024: José Antonio Lorente, University of Granada, says the Seville bones are Columbus's, compared with his son Hernando and brother Diego; 2003–2005 only "compatibilidad posible"; results "will be published", not yet) ; https://www.publico.es/culturas/confirman-huesos-enterrados-catedral-sevilla-son-cristobal-colon.html (SEC 10 Oct 2024: "el esqueleto que hay en Sevilla es incompleto"; the Dominican remains "no han sido objeto de estudio") ; https://www.aljazeera.com/news/2024/10/27/what-is-the-science-behind-the-christopher-columbus-origins-discovery (SEC: origin findings "have not yet been peer-reviewed") ; https://artsandculture.google.com/asset/drawing-for-the-gravestone-by-hernando-colón-0001/hwFFECUk6oecCQ (SEC AHPS: Hernando died in Seville 12 Jul 1539, "buried in the Cathedral of that city") ; https://www.catedraldesevilla.es/en/?p=53313 (OFF: books inherited from his father, Imago Mundi, Marco Polo, Book of Prophecies; each book notes he "left this book for the use and benefit of all his fellow men")
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 015 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cristóbal Colón nunca dejó de viajar, ni siquiera muerto.
+
+Murió en Valladolid. Su cuerpo pasó a un monasterio sevillano, la Cartuja. Luego cruzó el Atlántico hasta la catedral de Santo Domingo, en La Española. [pause] Cuando España cedió esa parte de la isla, unos restos se llevaron a La Habana. Y cuando España perdió Cuba, esos restos volvieron aquí, a este sepulcro.
+
+[pause] Pero en 1877, unos obreros encontraron en la catedral de Santo Domingo una caja de plomo con huesos y el nombre de Colón inscrito. La República Dominicana dice que sigue allí. En 2006, el director de su Faro a Colón lo dijo sin rodeos: los restos nunca han salido de territorio dominicano.
+
+Entonces llegó la ciencia. Desde principios de los años 2000, un equipo de la Universidad de Granada estudia estos huesos. En mayo de 2006 anunció que coincidían con el ADN de Diego, hermano de Colón. [pause] En 2024, su director, José Antonio Lorente, afirmó que son de Colón, tras compararlos con su hermano Diego y su hijo Hernando.
+
+[quietly] Esto es lo que puede decirse con justicia. Los estudios de Granada respaldan que estos huesos son, al menos en parte, de Colón. Aquí solo hay parte de un esqueleto. Los restos de Santo Domingo nunca se han analizado. La República Dominicana lo sigue reclamando. Y lo dicho en televisión en 2024 sobre su origen no se ha publicado científicamente.
+
+[warmly] Un Colón está, sin duda, en esta catedral. Su hijo Hernando está enterrado aquí. Reunió miles de libros, algunos de su padre, y dejó cada uno para uso y provecho de todos sus semejantes. [pause] Su biblioteca sigue junto al patio donde acaba su visita, pero está cerrada al público.
+
+A las sacristías. Siga por este lado, alejándose de las grandes puertas del otro extremo, hasta la Capilla de los Dolores. Por ella se pasa a la Sacristía de los Cálices. Busque el alto cuadro de Goya con dos santas, un león a sus pies y la Giralda detrás.

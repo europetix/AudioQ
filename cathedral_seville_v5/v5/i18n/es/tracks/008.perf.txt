@@ -1,0 +1,30 @@
+@id: 008 · ES · Capilla Mayor · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Capilla Mayor
+@type: W
+@title: Capilla Mayor — El Retablo Mayor
+@where: En el centro de la iglesia, donde el crucero corta la nave, frente a la reja de hierro de la Capilla Mayor. Tras ella se alza un muro de escenas de madera dorada y policromada, de casi treinta metros de alto, con un crucifijo en lo más alto. El coro queda a su espalda.
+@what: Retablo Mayor of the Capilla Mayor, begun 1482 under Pieter Dancart; first phase to 1529 (a second Flemish master 1497–1505, Pedro Millán, Jorge Fernández and his brother Alejo); side sections 1550–1564 (Roque Balduque, Juan Bautista Vázquez, Pedro de Heredia); polychrome and gilded wood, nearly 30 m high, almost 20 m wide; 44 reliefs, more than 200 saint figures, 8 reliefs of the Kings of Israel and Judah; 14th-century Gothic Calvary with the "Christ of the Million"; restoration completed 2014.
+@listen: Who made the great altarpiece over eighty-two years, how big it really is, and the crucifix at the top.
+@brief: Reverent, slow guided looking with a friend in front of the gold; a hush at the start, building to wonder, then quiet.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: presides over the presbytery of the Main Chapel in the central nave; "Considered the largest in Christendom"; polychrome wood; nearly 30 m high, almost 20 m wide; begun 1482 under the Flemish sculptor Pieter Dancart; second Flemish master 1497–1505; Pedro Millán; Jorge Fernández Alemán and his brother Alejo finished the first phase in 1529; 1550–1564 two side streets at right angles to the front, Roque Balduque, Juan Bautista Vázquez, Pedro de Heredia; 44 reliefs and more than 200 saint figures on the framing pilasters; 8 reliefs of the Kings of Israel and Judah on the pillars; 14th-century Gothic Calvary; crucifix traditionally called the Christ of the Million, for "the million graces granted to the people of Seville" during epidemics) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 2014 restoration of the main altarpiece completed after two years)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Lo que tiene delante llevó ochenta y dos años, desde el primer golpe de cincel hasta el último dorado. Es el Retablo Mayor de la Capilla Mayor.
+
+La obra empezó en 1482, con un escultor flamenco, Pieter Dancart. Tras él llegó otro maestro flamenco, luego Pedro Millán, y luego dos hermanos, Jorge y Alejo Fernández. [pause] Terminaron la primera fase casi medio siglo después de empezarla.
+
+Entonces el cabildo quiso más. Una generación después, escultores como Roque Balduque y Juan Bautista Vázquez añadieron dos cuerpos laterales, en ángulo recto con el frente. El conjunto se terminó en 1564.
+
+[pause] El resultado mide casi treinta metros de alto y casi veinte de ancho, todo en madera tallada y policromada. A menudo se le llama el mayor retablo del mundo cristiano. Cuente, si quiere. Hay cuarenta y cuatro escenas talladas, y más de doscientas figuras de santos en los pilares del marco. [pause] Otros ocho relieves, en los pilares de alrededor, muestran a los reyes de Israel y Judá.
+
+Ahora suba con la mirada, escena a escena, hasta lo más alto. Lo corona todo un Calvario gótico, más antiguo que el propio retablo. Los sevillanos llaman a su crucifijo el Cristo del Millón, por el millón de gracias que la ciudad creyó recibir en tiempos de epidemia.
+
+En 2014 terminó una restauración del retablo que duró dos años.
+
+[quietly] Tres generaciones de artesanos. Un solo muro de madera dorada.
+
+Aquí hay un breve Extra sobre las rejas de hierro. La siguiente parada principal está a su espalda. Dese la vuelta hacia el Coro, tras su propia reja renacentista, con los tubos del órgano alzándose encima.

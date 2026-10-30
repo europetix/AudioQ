@@ -1,0 +1,28 @@
+@id: 022 · ES · Sala Capitular · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sala Capitular
+@type: W
+@title: Sala Capitular — La Inmaculada de Murillo
+@where: En la Sala Capitular, la sala ovalada del cabildo. Mire arriba, a la bóveda: un anillo de ocho cuadros redondos de santos y, encima, en un marco tallado, el gran cuadro de la Virgen.
+@what: Bartolomé Esteban Murillo, Immaculate Conception, commissioned 1667, painted 1667–68, in a carved frame, with eight Sevillian saints on round canvases around the vault. Also named: Murillo's San Isidoro and San Leandro, 1655 (Sacristía Mayor); Vision of St Anthony (Capilla de San Antonio); works in the Capilla de Santiago (1674) and at the Ángel de la Guarda altar (1665–66); Pedro de Campaña, Descent from the Cross, 1547 (Sacristía Mayor).
+@listen: The painter whose work runs all through this cathedral, and the Virgin he set above the canons' heads.
+@brief: A warm, admiring friend tracing one painter's footsteps through the building; curious at the start, gently moved at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF, read 30 Oct 2026: Murillo's works "commissioned in 1667", eight Sevillian saints on circular canvases and above them the Immaculate Conception in a carved frame, in the vault; Murillo's San Isidoro and San Leandro, 1655, and Campaña's Descent in the Sacristía Mayor) ; https://catedraldesevilla.es/en/?p=53309 (OFF, read 30 Oct 2026: Murillo, Sala Capitular "1667" once and "1668" seven times; Sacristía Mayor 1655; Capilla del Ángel de la Guarda "1665-1666"; Capilla de Santiago "1674"; Campaña 1547 Sacristía Mayor) ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC, Seville city tourism, read 30 Oct 2026: Cabildo commissioned the works in 1667; the Immaculate presides and is counted among the most beautiful he painted; eight Sevillian saints in round canvases around the vault; St Anthony in the Capilla de San Antonio; "Altar del Ángel de la Guarda") ; Murillo before Campaña's Descent: callback to 018, which tells the anecdote with its source (FACTS §9.5 HEDGE, Ponz via GE-IIC [S21])
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 022 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cuando los canónigos quisieron una imagen que coronara esta sala, no tuvieron que buscar lejos. El pintor que eligieron ya estaba por toda su catedral.
+
+Se llamaba Bartolomé Esteban Murillo. El cabildo se lo encargó en 1667, y trabajó en esta sala hasta el año siguiente. [pause] En la bóveda colocó a ocho santos de Sevilla, cada uno en un lienzo redondo. Y sobre ellos, en un marco tallado, preside la Inmaculada Concepción: la Virgen María, concebida sin pecado.
+
+[pause] Mire arriba, recorra el anillo de santos por el óvalo y suba hasta ella. Los canónigos se sentaban abajo, entre las Virtudes y los lemas latinos. Sobre sus cabezas, los santos de su propia ciudad. Sobre los santos, la Virgen. [pause] La propia oficina de turismo de Sevilla la cuenta entre las Inmaculadas más bellas que pintó Murillo.
+
+[warmly] Murillo es el pintor que le sale al encuentro una y otra vez en esta catedral. La lista de pinturas de la catedral lo nombra repetidamente, de 1655 a 1674. Su San Isidoro y su San Leandro cuelgan en la Sacristía Mayor. Su San Antonio, el lienzo del que un ladrón recortó al santo, está en la Capilla de San Antonio. Hay más obra suya en la Capilla de Santiago y en el altar del Ángel de la Guarda.
+
+También fue un admirador. Recuerde la historia de la Sacristía Mayor: Murillo ante el Descendimiento de Campaña, esperando a que terminaran de bajar a Nuestro Señor. Aquí ve lo que él mismo era capaz de hacer con el techo de los canónigos.
+
+[quietly] Abajo, los canónigos discutían y votaban. Sobre ellos, desde hace más de tres siglos y medio, la Virgen de Murillo tiene la última palabra.
+
+Ahora vuelva a la iglesia, al extremo situado detrás de la Capilla Mayor: la Capilla Real, tras su gran reja de hierro.

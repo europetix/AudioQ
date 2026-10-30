@@ -1,0 +1,26 @@
+@id: 020 · ES · Sacristía Mayor · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sacristía Mayor
+@type: W
+@title: Sacristía Mayor — La Custodia de Arfe
+@where: En la Sacristía Mayor, ante la Custodia de Arfe: una alta custodia de plata, más alta que una persona, formada por cuerpos de columnas que se estrechan hacia arriba.
+@what: Juan de Arfe y Villafañe, the great processional monstrance (Custodia grande), silver, model accepted 1580, completed 1587; part of a collection of about nine hundred pieces of gold and silverware.
+@listen: The silver tower that still goes out into the streets of Seville every Corpus Christi, and the goldsmith who designed it.
+@brief: Admiring and vivid, a touch of festival in the voice; warm at the procession, composed and clear at the route cue.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/artistic-heritage/goldsmithing (OFF: caption "CUSTODIA GRANDE", Juan de Arfe y Villafañe, 1580–1587, "Sacristía Mayor"; "the new processional monstrance which, completed in 1587, was considered the best of its kind"; about nine hundred pieces) ; https://catedraldesevilla.es/en/?p=53366 (OFF: "In 1580 the chapter accepted the model, which has been preserved, by Juan de Arfe"; completed 1587; considered the best of its kind; approximately nine hundred pieces of gold and silverware) ; https://digitalhistory.unite.it/en/themes/festivals/the-corpus-christi-of-seville/the-great-monstrance-of-sevilles-corpus-christi/ (SEC Univ. Teramo: used to carry the Blessed Sacrament in procession on Corpus Christi; four superimposed bodies of circular columns, narrowing, ending in a lantern; episodes and characters of Scripture and Church history; Saint Isidore, Saint Leander and Saints Justa and Rufina parade behind it; height and weight figures garbled, not used) ; https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF: the Custodia de Arfe as a representative piece of Sevillian Plateresque goldsmithing)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 020 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cada año, en la fiesta del Corpus Christi, esta torre de plata sale de la catedral y recorre las calles de Sevilla.
+
+Es la Custodia de Arfe, la gran custodia de la catedral, hecha para llevar en procesión la hostia consagrada. La diseñó el orfebre Juan de Arfe y Villafañe. [pause] En 1580, el cabildo aceptó su modelo. Ese modelo aún se conserva. La custodia se terminó en 1587, y en su tiempo se consideró la mejor de su clase.
+
+[pause] Fíjese en cómo está construida. Se eleva por cuerpos, como un pequeño edificio, hasta una linterna en lo alto. Cada anillo de columnas es más estrecho que el de abajo. Es más alta que una persona. Y lleva escenas y figuras de las Escrituras y de la historia de la Iglesia. Tómese un momento para encontrar algunas.
+
+[lightly] En el Corpus, la vería avanzar despacio por la ciudad, llevando la hostia. Y detrás, en la procesión, van imágenes de los santos de Sevilla. Isidoro y Leandro, cuyos retratos de Murillo cuelgan en esta sala. Justa y Rufina, del lienzo de Goya en la Sacristía de los Cálices. Es como si los personajes de estos cuadros salieran de paseo con ella.
+
+Es solo una pieza de un tesoro de unas novecientas obras de oro y plata. Pero es la que todavía sale al encuentro de la ciudad.
+
+En la Sala Capitular hay primero un breve Extra sobre la propia sala. La siguiente parada principal, en esa misma sala, es la Inmaculada de Murillo. [pause] Pase por el Antecabildo, la antesala, y siga el pasillo curvo hasta la Sala Capitular: la sala ovalada del cabildo, con la Virgen de Murillo presidiendo un anillo de cuadros redondos.

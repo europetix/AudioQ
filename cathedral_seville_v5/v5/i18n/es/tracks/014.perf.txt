@@ -1,0 +1,26 @@
+@id: 014 · ES · Sepulcro de Cristóbal Colón · 30 Oct 2026 edition
+@section: Columbus
+@room: Sepulcro de Cristóbal Colón · south transept
+@type: W
+@title: Sepulcro de Colón — Cuatro heraldos
+@where: En el brazo del crucero del lado de la iglesia opuesto a la torre, justo por dentro de la Puerta del Príncipe. Busque cuatro figuras de heraldos que llevan un féretro a hombros, muy por encima del suelo.
+@what: Arturo Mélida, monument to Christopher Columbus, designed for Havana Cathedral (competition 1891, installed there by March 1898), set up in Seville Cathedral 1902; the four heralds of Castile, León, Aragon and Navarre. The Puerta del Príncipe, also called the Puerta de San Cristóbal, by Adolfo Fernández Casanova in the Gothic style.
+@listen: A tomb built for Havana that ended up in Seville, and what its four heralds mean.
+@brief: Respectful and clear by a tomb, with a quiet surprise at the turn; a little wry about the empty Havana tomb.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://repositoriodigital.ohc.cu/files/original/598d896ccecc2babf710fafded931b747c410ff9.pdf (SEC Oficina del Historiador de La Habana: 1891 competition for a tomb in the crossing of Havana Cathedral; Mélida awarded by Royal Order of 11 Aug 1891; installed by 19 Mar 1898, received 17 Apr 1898; "ni ella, guardó nunca sus cenizas": after the 1898 exhumation the remains went to the sacristy; monument dismantled and packed for shipment to the Peninsula, base left in Havana; decree of 21 Sep 1898 moving remains and monument to Spain; remains taken aboard the Conde de Venadito 12 Dec 1898; Cádiz, then Seville, Jan 1899; "the new tomb never held the remains", kept in the cathedral sacristy; Mélida: Castile and León in front "ostentando trofeos", Castile's naval trophy, León the Reconquest; Aragon and Navarre behind, "si no tomaron parte en la gloria, vienen a tomarla en el duelo") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "The Columbus monument is placed in the Cathedral. (1902)") ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: Prince's Gate in the south arm of the transept, by Fernández Casanova, kept to the Gothic style) ; https://www.upo.es/patio-colorado/?p=11176 (SEC low: four figures for Castile, Aragon, Navarre and León) ; Puerta del Príncipe = Puerta de San Cristóbal: OFF HIGH page via research/VISIT_ROUTE §2
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 014 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Este sepulcro se hizo para otra catedral, al otro lado del Atlántico. Y allí, al parecer, nunca guardó a Colón.
+
+Es el Sepulcro de Colón, el sepulcro de Cristóbal Colón, obra del artista español Arturo Mélida. En 1891 ganó un concurso para un monumento en la catedral de La Habana, en Cuba, entonces aún bajo dominio español. [pause] Por eso está tan alto. Se diseñó para el crucero de la catedral de La Habana, para verse desde todos lados.
+
+[pause] Se terminó justo a tiempo para perderse. El monumento se montó en La Habana a principios de 1898. Ese mismo año, España perdió Cuba en una guerra. Según un antiguo relato habanero, que conserva la oficina del historiador de la ciudad, el nuevo sepulcro nunca guardó sus restos. Al abrirse el viejo nicho, los restos se llevaron a la sacristía. En diciembre se embarcaron de vuelta a través del océano, y llegaron a Sevilla a principios del año siguiente. [pause] El monumento los siguió, embalado en piezas, y se montó aquí en 1902.
+
+[reverent] Cuatro heraldos llevan el féretro, uno por cada uno de los antiguos reinos de España. Sus túnicas llevan las armas de Castilla, León, Aragón y Navarra. Busque el castillo y el león. Según la propia descripción de Mélida, los dos de delante, Castilla y León, llevan trofeos del viaje a América y de la Reconquista. Los dos de detrás, Aragón y Navarra, vienen, según él, a compartir el duelo, si no compartieron la gloria.
+
+La puerta que tiene al lado es la Puerta del Príncipe, también llamada Puerta de San Cristóbal. La construyó en época moderna Adolfo Fernández Casanova, en el estilo gótico del resto.
+
+Quédese aquí: la siguiente parada trata de los propios huesos, en el Sepulcro de Colón.

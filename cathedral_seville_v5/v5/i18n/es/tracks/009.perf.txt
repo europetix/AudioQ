@@ -1,0 +1,26 @@
+@id: 009 · ES · Capilla Mayor · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Capilla Mayor
+@type: X
+@title: Capilla Mayor · Extra · Las rejas de hierro
+@where: Aún en el crucero, frente a la Capilla Mayor: las altas rejas de hierro que cierran la capilla principal y a través de las cuales se ve el retablo.
+@what: The rejas (iron grilles) of the Capilla Mayor, early sixteenth century, largely by the Dominican friar Francisco de Salamanca and other Seville ironworkers; Salamanca summoned to Seville in 1518; the high-altar pulpits, 1531; his choir grille, 1518–1523.
+@listen: The friar who made the cathedral's ironwork, was paid in corn, and fixed the Giralda's clock.
+@brief: A light, amused aside about a craftsman's life; warm at the end, turning the listener round to the choir.
+@pace: medium
+@energy: 3→3→2
+@sources: https://chestofbooks.com/arts/ancient/Older-Spain-Arts-And-Crafts/Iron-Work-Part-5.html (SEC Williams 1907: "A Dominican friar, summoned to Seville in 1518, to make her cathedral rejas"; "He also made the pulpits of the high altar in 1531, and was working in this city as late as 1547"; paid sometimes "a score or so of ducats", at other times "a bushel or two of corn" (after Ceán); "put the clock of the Giralda into trim"; "built an alarum apparatus to rouse the cathedral bell-ringer at early morning"; much rejería done in the first quarter of the sixteenth century with Sancho Muñoz and others) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: the choir's Renaissance grille by Fray Francisco de Salamanca, 1518–1523) ; wording of the Capilla Mayor grilles: FACTS §6.9 HEDGE (no exact dates or makers per grille) ; pulpits named but not pointed out until O8
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 009 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Detrás de buena parte de estas rejas hubo un fraile. Según cuentan, entre encargo y encargo, también arreglaba el reloj de la Giralda.
+
+Fray Francisco de Salamanca era dominico. En 1518, la catedral lo llamó a Sevilla para hacer sus rejas. [pause] Las grandes rejas que tiene delante las hicieron en gran parte él y otros rejeros sevillanos, durante las dos décadas siguientes. Los púlpitos del altar mayor también son obra suya, terminados en 1531.
+
+[lightly] Una antigua historia de los oficios en España, basada en registros anteriores, cuenta el lado humano. A veces le pagaban en ducados. A veces, con una o dos fanegas de grano. [pause] Además de arreglar el reloj de la torre, construyó un despertador para levantar de madrugada al campanero de la catedral.
+
+Mire lo que puede hacer el hierro en buenas manos. Martillado y moldeado, forma una reja que deja verlo todo, así que el retablo queda protegido sin quedar oculto.
+
+[warmly] Él hizo también la reja del coro, entre 1518 y 1523. [pause] Es la que verá al darse la vuelta.
+
+Dese la vuelta hacia el Coro, tras su reja renacentista.

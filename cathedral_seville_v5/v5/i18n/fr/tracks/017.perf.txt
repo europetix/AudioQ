@@ -1,0 +1,24 @@
+@id: 017 · FR · Sala del Pabellón · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sala del Pabellón
+@type: X
+@title: Sala del Pabellón · Extra · Zurbarán et les peintres de Séville
+@where: Dans la Sala del Pabellón, la salle d'exposition des sacristies. Cherchez les cartels portant les noms de Zurbarán, Valdés Leal et Pacheco.
+@what: Francisco de Zurbarán, two paintings, 1635–1645 and 1645–1650; Juan de Valdés Leal, two paintings, around 1656 and 1657–1658; Francisco Pacheco, 1620. All five placed in this room by the Cathedral's own list, which gives no titles. El Greco loan held until O13/O22, see v5/notes/AUDIT_FIXES_001-028.md.
+@listen: Two Zurbaráns where the Cathedral's own list places them, beside Valdés Leal and the teacher of Velázquez.
+@brief: A short, brisk aside between two great rooms; light and informative, warm at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF paintings list: Zurbarán 1635–1645 and 1645–1650, "Sala del Pabellón"; Valdés Leal 1657–1658 and c.1656, "Sala del Pabellón"; Francisco Pacheco 1620, "Sala del Pabellón"; no titles given; re-read 30 Oct 2026 for the audit fixes: dates and room only, nothing else on Zurbarán) ; https://www.britannica.com/biography/Francisco-Pacheco (SEC: Pacheco "the teacher of both Diego Velázquez and Alonso Cano"; "Velázquez became Pacheco's son-in-law") ; El Greco loan page (OFF, undated, no end date): NOT spoken, held pending O13/O22 ; Zurbarán not in the Cálices: FACTS §10.9, §17.16
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 017 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Deux tableaux de Francisco de Zurbarán sont ici, dans la Sala del Pabellón, la salle d'exposition. C'est là que les situe la liste des peintures de la cathédrale. Pas de titres, seulement des dates. [pause] L'un fut peint entre le milieu des années 1630 et le milieu des années 1640, l'autre à la fin des années 1640.
+
+Ils partagent les murs avec d'autres peintres du grand siècle sévillan. [pause] Deux œuvres de Juan de Valdés Leal, peintes à un an ou deux d'écart, à la fin des années 1650. Et une de Francisco Pacheco, de 1620, la plus ancienne du groupe. Moins célèbre aujourd'hui que les autres, il fut le maître du jeune Diego Velázquez. Velázquez épousa ensuite sa fille, et Pacheco devint aussi son beau-père. Lisez les cartels pour les sujets.
+
+[pause] Cinq tableaux, trois peintres, près de quarante ans de l'art d'une ville.
+
+[warmly] Les peintres de Séville, côte à côte. Un petit détour, et un bon.
+
+En route vers la Sacristía Mayor : la grande salle à coupole, sculptée d'anneaux de figures.

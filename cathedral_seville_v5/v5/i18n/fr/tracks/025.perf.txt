@@ -1,0 +1,30 @@
+@id: 025 · FR · Patio de los Naranjos · 30 Oct 2026 edition
+@section: Patio de los Naranjos
+@room: Patio de los Naranjos
+@type: W
+@title: Patio de los Naranjos — La cour de la mosquée
+@where: Dans le Patio de los Naranjos, la grande cour à ciel ouvert à côté de la cathédrale : des rangées d'orangers en quadrillage, de petits canaux d'eau entre eux, une fontaine au centre et des arcades d'arcs outrepassés brisés sur les côtés, avec la Giralda qui s'élève au-dessus. Placez-vous sous les arbres ou près d'une arcade, hors du chemin de la sortie.
+@what: The former sahn (ablutions courtyard) of the Almohad Great Mosque, ordered 1172: original pillars and pointed horseshoe arches; of three galleries two remain, the third demolished for the Sagrario church (1618–1662); orange trees in a rigid grid with water channels still in use; modern fountain on the site of the old sabil, its upper bowl Visigothic and "the same as the primitive Almohad fountain" (Cathedral).
+@listen: How the mosque's washing courtyard survived the mosque, and the oldest thing in it.
+@brief: A friend sitting down in the shade after the long visit; warm and unhurried, curious at the fountain, quietly satisfied at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-patio-de-los-naranjos-and-colombian-library/ (OFF, read 30 Oct 2026: "old sahn of the mosque"; "original structure, configured with pillars supporting pointed horseshoe arches, can still be seen"; "modern fountain occupying the place of the old sabil", "the upper bowl is Visigothic and is the same as the primitive Almohad fountain", used for ablutions before entering the mosque; "Of the three original galleries … only two remain", the west one demolished for the Sagrario; "rigid arrangement of orange trees" with "a network of channels that draw geometric figures and are still used for the flow of water") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, read 30 Oct 2026: Sagrario begun 1618, finished 1662) ; FACTS §1.1 (mosque ordered 1172, OFF [O1]), §1.19 (Gothic plan follows the mosque's footprint, SEC Archnet [S1]), §2.1/2.10 (the minaret became the bell tower) ; lily vases NOT scripted (O16; dated sentence in notes)
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 025 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Il y a plus de huit cents ans, nul n'entrait dans la grande mosquée de Séville les mains et les pieds poussiéreux. D'abord, on se lavait. Et c'était ici.
+
+Vous êtes dans le Patio de los Naranjos, la cour des orangers. C'était le sahn de la mosquée almohade, sa cour à ciel ouvert, où les musulmans de Séville faisaient leurs ablutions avant d'entrer prier.
+
+La salle de prière a disparu. La cathédrale gothique que vous venez de parcourir s'élève à sa place, sur presque le même rectangle, d'où la largeur de l'église. [pause] Mais certaines parties ont survécu. L'une est cette cour. Une autre la domine : la Giralda, ancien minaret de cette mosquée, la tour qui appelait les fidèles à la prière.
+
+[pause] Regardez les arcades. Ces piliers aux arcs outrepassés brisés sont la structure d'origine de la mosquée. Il y avait trois galeries. Il en reste deux. La troisième fut abattue pour le Sagrario, l'église paroissiale bâtie contre la cour entre 1618 et 1662.
+
+Voyez maintenant les arbres, en quadrillage strict. Entre eux court un réseau de petits canaux, qui dessinent des figures géométriques au sol. [pause] Ils portent toujours de l'eau.
+
+[curious] Et au centre, la fontaine. Elle est moderne, à l'emplacement de celle de la mosquée. Mais selon la cathédrale, sa vasque supérieure est wisigothique, et c'est la vasque même des Almohades. Si c'est exact, l'objet le plus ancien de cette cour est antérieur à la mosquée. [pause] Une vasque de l'Espagne chrétienne d'avant les musulmans, réutilisée par la mosquée, et gardée par la cathédrale.
+
+[quietly] Une cour de mosquée, un jardin de cathédrale, et en son cœur une vasque plus ancienne que les deux.
+
+Trouvez maintenant un endroit du Patio de los Naranjos d'où l'on voit le sommet de la Giralda. Cherchez la figure de bronze qui la couronne : le Giraldillo.
