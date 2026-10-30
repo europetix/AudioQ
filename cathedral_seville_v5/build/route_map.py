@@ -298,14 +298,14 @@ OV_LABELS = [
     (116, -31, "Nave del\nLagarto", "middle", "plm"), (113, -5.5, "Giralda", "middle", "plb"),
     (47, 39, "Coro", "middle", "pl"), (77, 38.2, "Capilla\nMayor", "middle", "pl"), (121, 37.3, "Capilla\nReal", "middle", "pl"),
     (23, -3, "Capilla de San Antonio", "middle", "plm"), (49, 81, "Capilla de la Antigua", "middle", "plm"),
-    (62, 55, "Colón", "middle", "plm"), (101, 106.5, "Sacristías · Sala Capitular", "middle", "plm"),
+    (62, 55, "Colón", "middle", "plm"), (128, 95, "Sacristías\nSala Capitular", "start", "plm"),
     (64.5, -3, "Puerta de la Concepción", "start", "pls"), (62, 24, "transept", "middle", "pls"),
     (-2, 30, "Puerta de la\nAsunción\nnot a visitor door", "end", "pls"),
     (92, -62.5, "C/ Alemanes", "start", "pls"), (146, -19, "C/ Cardenal\nAmigo Vallejo", "middle", "pls"),
     (-12, 60, "Avenida de la\nConstitución", "middle", "pls"),
 ]
-ov = plan_svg((-22, 160, -66, 108), 132, 128, labels=OV_LABELS, lab_fs=2.3, note_fs=2.05,
-    notes=[((134, -22), "IN · Puerta del Lagarto\nonline tickets", "start", 0, -12),
+ov = plan_svg((-30, 160, -66, 108), 180, 140, labels=OV_LABELS, lab_fs=2.4, note_fs=2.2,
+    notes=[((134, -22), "IN · Puerta del Lagarto\nonline tickets", "start", 9, -19),
            ((62, 92), "IN · Puerta del Príncipe\n(San Cristóbal) · ticket office", "start", -30, 3),
            ((120, -7), "FIRST · the Giralda", "gir", 16, 3),
            ((82, -60), "OUT · Puerta del Perdón", "finish", -26, 1)])
@@ -315,11 +315,11 @@ lens = "".join(f'<div class="card"><div class="cnum" style="background:{NAVY}">{
                for i, (n, k, m, d) in enumerate(LENGTHS, 1))
 pages.append(f'''<section class="page">
  <header><div class="brand">YO TOURS · AUDIO GUIDE</div><h1>Catedral de Sevilla and the Giralda</h1>
- <p class="lede">A mosque's tower and courtyard, the largest Gothic church in Europe and the rooms the canons built round it: {len(F_SET) - FX} main stops plus {FX} short Extras in one walking order, the Giralda first, in three lengths.</p></header>
+ <p class="lede">A mosque's tower and courtyard, the largest Gothic building in Europe and the rooms the canons built round it: {len(F_SET) - FX} main stops plus {FX} short Extras in one walking order, the Giralda first, in three lengths.</p></header>
  <div class="how"><div><b>1</b> <strong>Spanish names as on the signs; look for the landmark.</strong> Every stop is named in Spanish, as on the signs, with one big thing to look for: the gilded altarpiece, four heralds carrying a coffin.</div>
  <div><b>2</b> The coloured circle is the track to play there, in track order. Hollow circles are short, optional Extras, on the Full tour only. Pages 2 to 4 show every track in its place.</div>
  <div><b>3</b> Each track ends by telling you where to go next. The plan is schematic, not to scale; dashed outlines are positions still to be confirmed on site.</div></div>
- <div class="ov"><div>{ov}</div><div class="keys"><div class="kh">Track colours</div>{KEYS}<div class="kn">The line shows the walking order, not the exact path. Dotted: the way to the tower and through the sacristies, still to be checked on site.</div></div></div>
+ <div class="ov">{ov}<div class="keys">{KEYS}</div><div class="kn">The line shows the walking order, not the exact path. Dotted: the way from each door to the tower, and through the sacristies, still to be checked on site.</div></div>
  <div class="warn"><b>Whichever door you come in by, start at the Giralda, in the corner of the church by the courtyard.</b> Then one loop round the church, and out through the Patio de los Naranjos and the Puerta del Perdón; once you are out you cannot come back in. Not climbing? Go to the tower door anyway and start at 7. The Capilla Real is for prayer only: you see it through its grille.</div>
  <div class="cards">{lens}</div>
  <footer>{esc(FOOTER)}</footer>
@@ -370,10 +370,10 @@ def giralda_svg():
         for i, (cls, t) in enumerate(lines):
             o.append(f'<text x="{x}" y="{y + i * 3.3:.2f}" class="{cls}" style="text-anchor:{anc}">{esc(t)}</text>')
     # side brackets: periods
-    def brk(xa, ya, yb, lines):
+    def brk(xa, ya, yb, lines, ly=None):
         o.append(f'<path d="M{xa},{ya} L{xa - 1.4},{ya} L{xa - 1.4},{yb} L{xa},{yb}" fill="none" stroke="{MUTED}" stroke-width=".3"/>')
-        txt(xa - 3, (ya + yb) / 2 - 1.5, lines, "end")
-    brk(x0 - 2.5, top + 1, base - 1, [("gl", "Almohad"), ("gl", "minaret"), ("gs", "1184–1198")])
+        txt(xa - 3, ly if ly else (ya + yb) / 2 - 1.5, lines, "end")
+    brk(x0 - 2.5, top + 1, base - 1, [("gl", "Almohad"), ("gl", "minaret"), ("gs", "1184–1198")], top + 14)
     brk(x0 - 2.5, fy - 1, top - 1, [("gl", "Renaissance"), ("gl", "belfry"), ("gs", "1560s")])
     txt(x1 + 3, fy - 16, [("gl", "Giraldillo"), ("gs", "bronze weathervane"), ("gs", "of Faith, 1568;"), ("gs", "seen from below:"), ("gs", "track 26")])
     txt(x1 + 3, bt + 5, [("gl", "Bell level"), ("gs", "the top of the climb")])
@@ -411,7 +411,7 @@ def giralda_svg():
 GIR_NS = [n for n in NUMS if TR[n]["section"] == "La Giralda"] + [n for n in NUMS if TR[n]["room"].startswith("Catedral · at the foot")]
 gbody = f'''<div class="gwrap"><div class="plan gplan">{giralda_svg()}</div><div class="gside">
  <div class="list one">{stop_list(GIR_NS)}</div>
- <div class="box"><h3>Ramps, not stairs</h3><p>The way up winds round the core of the tower on 34 ramps. Up and down use the same ramps, one way at a time: <b>always keep to your right</b>, going up and coming down. No wheelchairs or pushchairs.</p></div>
+ <div class="box"><h3>Ramps, not stairs</h3><p>The way up winds round the core of the tower on 34 ramps. One-way rule: going up and coming down, <b>always keep to your right</b>. No wheelchairs or pushchairs.</p></div>
  <div class="box"><h3>Listen as you go</h3><p>Start 2 on the first ramps and 3 a few turns up. 4 (and the Extra, 5) are for the bell level, the top of the climb. 6 is for the way down: no need to stop. At the bottom, step just inside the church, out of the way of the tower door, for 7.</p></div>
  <div class="box"><h3>Not climbing?</h3><p>Go to the tower door anyway and start at 7, at the foot of the Giralda.</p></div>
  <div class="box"><h3>Works on the tower</h3><p>Restoration of the bell level and the Renaissance crown began in April 2026; the visit carries on, but parts of the view may be screened.</p></div>
@@ -429,10 +429,10 @@ IN_LABELS = [
     (23, -2.2, "Capilla de San Antonio", "middle", "plm"), (49, 84.5, "Capilla de la Antigua", "middle", "plm"),
     (62, 70.5, "Sepulcro\nde Colón", "middle", "pls"), (83, 74.2, "Dolores", "middle", "pls"),
     (84, 82, "Cálices", "middle", "pls"), (84, 94, "Pabellón ?", "middle", "pls"), (100, 81.5, "Sacristía Mayor", "middle", "pls"),
-    (111, 105.5, "Antecabildo", "middle", "pls"), (126, 105.5, "Sala Capitular", "middle", "pls"),
+    (111, 105.5, "Antecabildo", "middle", "pls"), (128, 81.5, "Sala Capitular", "start", "pls"),
     (60.5, 93, "Puerta del Príncipe\n(San Cristóbal)", "end", "pls"), (62, -4, "Puerta de la Concepción", "end", "pls"),
     (-1.5, 30, "Puerta de la\nAsunción", "end", "pls"), (113, -5.5, "Giralda", "middle", "plb"),
-    (92, -8, "Patio de los Naranjos · page 4", "middle", "plm"), (62, 25, "transept", "middle", "pls"),
+    (82, -6.5, "Patio de los Naranjos · page 4", "middle", "plm"), (62, 25, "transept", "middle", "pls"),
 ]
 IN_DOTS = {
     "pri": ((66.5, 90), "r", [1]),
@@ -444,8 +444,8 @@ IN_DOTS = {
     "sm": ((95.3, 95.5), "r", ds("Sacristía Mayor")), "sc": ((130, 86), "d", ds("Sala Capitular")),
     "cr": ((123.5, 52.5), "r", ds("Capilla Real")), "conc": ((68, 4.5), "r", ds("Puerta de la Concepción")),
 }
-isvg = plan_svg((-14, 142, -13, 109), 178, 124, labels=IN_LABELS, dots=IN_DOTS, lab_fs=2.25, rad=1.85,
-    notes=[((113, -12), "2–6 · up the Giralda, page 2", "gir", 30, -3)])
+isvg = plan_svg((-14, 150, -13, 115), 178, 140, labels=IN_LABELS, dots=IN_DOTS, lab_fs=2.25, rad=1.85, note_fs=2.1,
+    notes=[((120, -5), "2–6 · the Giralda\nsee page 2", "gir", 15, 3)])
 pages.append(map_page("INSIDE THE CHURCH", "The loop inside · 7 to 24",
     "From the foot of the tower to the middle: the Capilla Mayor and the Coro. Round the church: San Antonio, the west end, the Antigua and Columbus by the Puerta del Príncipe. "
     "Through the sacristies to the Sala Capitular, back to the Capilla Real and on to the Puerta de la Concepción. The line gives the order, not the exact path.",
@@ -455,21 +455,22 @@ pages.append(map_page("INSIDE THE CHURCH", "The loop inside · 7 to 24",
 PA_NS = [n for n in NUMS if TR[n]["section"] in ("Patio de los Naranjos", "Closing")]
 PA_NS = ds("Puerta de la Concepción") + PA_NS
 PA_LABELS = [
-    (82, -29.5, "Patio de los Naranjos", "middle", "plb"), (80, -21, "fountain", "middle", "pls"),
+    (82, -29.5, "Patio de los Naranjos", "middle", "plb"), (77, -24.4, "fountain", "end", "pls"),
     (34, -16, "Sagrario\nnot on the visit", "middle", "pls"), (116, -33, "Nave del\nLagarto", "middle", "plm"),
-    (113, -5.4, "Giralda", "middle", "plb"), (60.5, 8.5, "Puerta de la\nConcepción", "end", "pls"),
+    (113, -5.4, "Giralda", "middle", "plb"), (60, -2.6, "Puerta de la Concepción", "end", "pls"),
     (88, 13, "the church", "middle", "pls"), (121, 37.5, "Capilla Real", "middle", "pls"),
     (92, -64, "C/ Alemanes", "start", "pls"), (124, -36, "C/ Cardenal\nAmigo Vallejo", "start", "pls"),
 ]
 PA_DOTS = {
-    "conc": ((66.5, 6), "r", ds("Puerta de la Concepción")), "patio": ((70, -11), "r", ds("Patio de los Naranjos")[:1]),
+    "conc": ((70.5, 4.5), "r", ds("Puerta de la Concepción")), "patio": ((70, -11), "r", ds("Patio de los Naranjos")[:1]),
     "view": ((100, -27), "d", [n for n in ds("Patio de los Naranjos") if "view" in TR[n]["room"]]),
     "lag": ((116, -41.5), "r", ds("Nave del Lagarto")), "perd": ((90, -54.5), "r", ds("Puerta del Perdón")),
     "in": ((138.5, -22), "r", [1]),
 }
-psvg = plan_svg((10, 148, -70, 20), 178, 146, labels=PA_LABELS, dots=PA_DOTS, lab_fs=2.5, rad=2.1, approach="lagarto", route="patio",
+psvg = plan_svg((14, 146, -70, 18), 178, 150, labels=PA_LABELS, dots=PA_DOTS, lab_fs=2.5, rad=2.1, approach="lagarto", route="patio",
     notes=[((82, -60), "OUT · Puerta del Perdón", "finish", -32, 0), ((134, -22), "IN · Puerta del Lagarto", "start", 2, 11)])
-pextra = '''<div class="warn"><b>The way out is the Puerta del Perdón</b>, the tall arched gateway in the middle of the far side of the courtyard, opposite the church. Once you pass through it, the visit is over and there is no way back in, so see the Giralda from the courtyard (26) and the Nave del Lagarto (27) first. If the staff send you into the courtyard by another door than the Concepción, follow the Salida signs.</div>'''
+pextra = '''<div class="warn"><b>The way out is the Puerta del Perdón</b>, the tall arched gateway in the middle of the far side of the courtyard, opposite the church. Once you pass through it, the visit is over and there is no way back in, so see the Giralda from the courtyard (26) and the Nave del Lagarto (27) first. If the staff send you into the courtyard by another door than the Concepción, follow the Salida signs.</div>
+ <div class="box"><h3>On the shorter tours</h3><p>Essential goes from the Sala Capitular (22), and Highlights from Columbus's tomb (14), straight to the courtyard (25), through the same door at the end of the transept on the tower side. Both then end at the Puerta del Perdón (28).</p></div>'''
 pages.append(map_page("THE PATIO DE LOS NARANJOS", "The courtyard and the way out · 24 to 28",
     "Through the Puerta de la Concepción, at the end of the transept on the tower side, into the mosque's old courtyard (25). Find a spot with a view of the top of the tower for the Giraldillo (26), "
     "then the covered gallery nearest the tower, the Nave del Lagarto, with the crocodile overhead (27), and out through the Puerta del Perdón (28).",
@@ -519,11 +520,11 @@ h3 {{ font: 700 10pt Lora, serif; margin: 0 0 1mm }}
 .how div {{ background: #fff; border: .3mm solid {LINE}; border-radius: 3mm; padding: 2.2mm 2.8mm; font: 500 7.9pt Inter; line-height: 1.34 }}
 .how b {{ display: inline-flex; width: 5mm; height: 5mm; border-radius: 50%; background: {INK}; color: #fff; font: 700 7.5pt Inter; align-items: center; justify-content: center; margin-right: 1.2mm }}
 .how strong {{ color: {RED} }}
-.ov {{ background: #FDFBF7; border: .3mm solid {LINE}; border-radius: 4mm; padding: 1.5mm 1mm; margin-bottom: 3mm; display: grid; grid-template-columns: 1fr 42mm; align-items: center }}
+.ov {{ background: #FDFBF7; border: .3mm solid {LINE}; border-radius: 4mm; padding: 1.5mm 1mm; margin-bottom: 3mm }}
 .ov svg {{ display: block; margin: 0 auto }}
-.keys {{ display: flex; flex-direction: column; gap: 1.5mm; padding: 2mm 3mm 2mm 1mm; font: 500 7pt Inter; color: {INK} }}
+.keys {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 1mm 3mm; padding: 1.4mm 4mm 0; font: 500 6.9pt Inter; color: {INK} }}
 .keys .kh {{ font: 700 6.6pt Inter; letter-spacing: .08em; text-transform: uppercase; color: {MUTED} }}
-.keys .kn {{ font: 400 6.6pt Inter; color: {MUTED}; line-height: 1.35; margin-top: 1.5mm }}
+.ov .kn {{ font: 500 6.8pt Inter; color: {MUTED}; text-align: center; padding: 1.4mm 0 .3mm }}
 .keys span {{ display: flex; align-items: flex-start; gap: 1.6mm }} .keys em {{ font-style: normal; line-height: 1.25 }} .keys b {{ color: {MUTED}; font-weight: 600; white-space: nowrap }}
 .keys i {{ width: 3mm; height: 3mm; border-radius: 50%; flex: none; margin-top: .2mm }}
 .warn {{ background: #fff; border: .3mm solid {GOLD}; border-left: 1.6mm solid {GOLD}; border-radius: 2.4mm; padding: 2.2mm 3mm; font: 400 8.2pt Inter; line-height: 1.38; margin-bottom: 3mm }}
