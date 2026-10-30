@@ -1,0 +1,28 @@
+@id: 022 · DE · Sala Capitular · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sala Capitular
+@type: W
+@title: Sala Capitular — Murillos Immaculata
+@where: In der Sala Capitular, dem ovalen Kapitelsaal. Blicken Sie hinauf ins Gewölbe: ein Kranz aus acht runden Heiligenbildern, und darüber, in einem geschnitzten Rahmen, das große Gemälde der Jungfrau.
+@what: Bartolomé Esteban Murillo, Immaculate Conception, commissioned 1667, painted 1667–68, in a carved frame, with eight Sevillian saints on round canvases around the vault. Also named: Murillo's San Isidoro and San Leandro, 1655 (Sacristía Mayor); Vision of St Anthony (Capilla de San Antonio); works in the Capilla de Santiago (1674) and at the Ángel de la Guarda altar (1665–66); Pedro de Campaña, Descent from the Cross, 1547 (Sacristía Mayor).
+@listen: The painter whose work runs all through this cathedral, and the Virgin he set above the canons' heads.
+@brief: A warm, admiring friend tracing one painter's footsteps through the building; curious at the start, gently moved at the end.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF, read 30 Oct 2026: Murillo's works "commissioned in 1667", eight Sevillian saints on circular canvases and above them the Immaculate Conception in a carved frame, in the vault; Murillo's San Isidoro and San Leandro, 1655, and Campaña's Descent in the Sacristía Mayor) ; https://catedraldesevilla.es/en/?p=53309 (OFF, read 30 Oct 2026: Murillo, Sala Capitular "1667" once and "1668" seven times; Sacristía Mayor 1655; Capilla del Ángel de la Guarda "1665-1666"; Capilla de Santiago "1674"; Campaña 1547 Sacristía Mayor) ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC, Seville city tourism, read 30 Oct 2026: Cabildo commissioned the works in 1667; the Immaculate presides and is counted among the most beautiful he painted; eight Sevillian saints in round canvases around the vault; St Anthony in the Capilla de San Antonio; "Altar del Ángel de la Guarda") ; Murillo before Campaña's Descent: callback to 018, which tells the anecdote with its source (FACTS §9.5 HEDGE, Ponz via GE-IIC [S21])
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 022 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Als die Domherren ein krönendes Bild für diesen Raum suchten, mussten sie nicht weit schauen. Der Maler ihrer Wahl war in ihrer Kathedrale schon überall.
+
+Sein Name war Bartolomé Esteban Murillo. Das Kapitel beauftragte ihn 1667, und er arbeitete bis ins folgende Jahr an diesem Raum. [pause] Oben im Gewölbe setzte er acht Heilige Sevillas, jeden auf eine runde Leinwand. Und über ihnen thront, in einem geschnitzten Rahmen, die Unbefleckte Empfängnis: die Jungfrau Maria, ohne Erbsünde empfangen.
+
+[pause] Blicken Sie hinauf, folgen Sie dem Kranz der Heiligen rund um das Oval, und steigen Sie dann zu ihr auf. Die Domherren saßen unten, zwischen den Tugenden und den lateinischen Wahlsprüchen. Über ihren Köpfen waren die Heiligen ihrer eigenen Stadt. Über den Heiligen die Jungfrau. Sevillas eigenes Fremdenverkehrsamt zählt sie zu den schönsten Immaculatas, die Murillo je malte.
+
+[warmly] Murillo ist der Maler, der Ihnen in dieser Kathedrale immer wieder begegnet. Ihr eigenes Gemäldeverzeichnis nennt ihn immer wieder, von 1655 bis 1674. [pause] Seine Bilder San Isidoro und San Leandro hängen in der Sacristía Mayor, der großen Sakristei. Sein heiliger Antonius, aus dessen Leinwand ein Dieb einst den Heiligen herausschnitt, ist in der Capilla de San Antonio. Weitere Werke von ihm sind in der Capilla de Santiago, der Jakobuskapelle, und am Altar des Schutzengels.
+
+Er war auch ein Bewunderer. Erinnern Sie sich an die Geschichte aus der Sacristía Mayor: Murillo vor Campañas Kreuzabnahme, wartend, bis sie unseren Herrn ganz abgenommen hätten. Hier sehen Sie, was er selbst vermochte, als die Domherren ihm ihre Decke gaben.
+
+[quietly] Unten stritten die Domherren und stimmten ab. Über ihnen hat seit mehr als dreieinhalb Jahrhunderten Murillos Madonna das letzte Wort.
+
+Nun zurück in die Kirche, an das Ende hinter der Capilla Mayor: die Capilla Real, die Königliche Kapelle, hinter ihrem großen Eisengitter.

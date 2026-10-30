@@ -1,0 +1,26 @@
+@id: 003 · FR · Giralda · ramps · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · ramps
+@type: R
+@title: Giralda — Trente-quatre rampes
+@where: Sur les rampes de la Giralda, quelques tours au-dessus de la porte [O4] : une large rampe en pente douce entre le mur extérieur et le noyau central, avec des gens qui descendent de l'autre côté. À écouter en montant. Continuez d'avancer, tenez votre droite.
+@what: The Almohad interior of the Giralda: 34 ramps and 7 vaulted chambers; ramps wide enough for a rider on horseback; double-walled tubular structure; more than 140 reused capitals and bases; builders' sketches found on the four faces during the 2017–2024 restoration.
+@listen: Why the tower has ramps instead of stairs, the stones it borrowed, and the builders' sketches restorers have just found.
+@brief: A companion on the climb, a little out of breath and enjoying it; light, then curious and pleased at the sketchbook discovery. No "look at" beyond the ramps and walls.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.catedraldesevilla.es/en/the-giralda-reveals-new-secrets-at-the-international-congress-turris-fortissima/ (OFF: "34 ramps and 7 chambers" of the Almohad section; "double-walled tubular structure"; "more than 140 capitals and bases" documented in 3D, taken from earlier buildings; calligraphic, geometric, vegetal and figurative sketches found during the restoration, a "drawing book" for Almohad artisans, distributed across the four façades; restoration "between 2017 and 2024", one scaffold per face; congress Nov 2025) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-giralda (OFF: ramps between the central prism and the outer walls allowed access on horseback) ; https://catedraldesevilla.es/wp-content/uploads/2025/03/Normas-generales-catedral-descargable-actualizado.pdf (OFF: up and down "de forma unidireccional, siempre por su derecha") ; https://archive.aramcoworld.com/issue/199401/the.giralda.htm (SEC: "34 gently sloping ramps")
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 003 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Les rampes que vous gravissez furent faites assez larges pour un cavalier. Trente-quatre rampes montent dans la tour almohade, qui abrite aussi sept salles voûtées. [pause] Montée et descente partagent les mêmes rampes. Alors tenez votre droite, comme le demande la cathédrale.
+
+Le principe est simple et très solide. [pause] Un mur fait le tour à l'extérieur. Au milieu s'élève un noyau central, où sont empilées les sept salles. Les rampes tournent entre les deux. Les spécialistes parlent d'un tube à double paroi. Il porte le beffroi Renaissance depuis plus de quatre siècles.
+
+Les bâtisseurs étaient aussi économes. Plus de cent quarante chapiteaux et bases de colonnes, pris à des édifices plus anciens, ont été retrouvés en remploi dans la tour. On les a relevés un par un.
+
+[curious] Puis vint une vraie surprise. À partir de 2017, les restaurateurs des quatre faces extérieures ont trouvé des croquis laissés dans la brique par les bâtisseurs. [pause] Des lettres, des motifs géométriques, des plantes et des figures. Un chercheur y voit un cahier de dessins pour les artisans, un carnet de croquis médiéval. Ces découvertes ont été présentées à un congrès en 2025.
+
+La tour n'est donc pas qu'un monument. [pause] C'est la trace de ceux qui l'ont bâtie, écrite dans ses propres briques.
+
+En haut, sortez sur l'étage des cloches de la Giralda. Faites le tour jusqu'au côté qui donne sur la cour des orangers, le Patio de los Naranjos.

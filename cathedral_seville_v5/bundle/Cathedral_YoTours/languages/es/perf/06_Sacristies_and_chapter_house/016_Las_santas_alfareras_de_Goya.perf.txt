@@ -1,0 +1,26 @@
+@id: 016 · ES · Sacristía de los Cálices · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sacristía de los Cálices
+@type: W
+@title: Sacristía de los Cálices — Las santas alfareras de Goya
+@where: En la Sacristía de los Cálices, a la que se llega por la Capilla de los Dolores. Busque el alto lienzo de Goya, de más de tres metros: dos jóvenes santas con vasijas, un león a sus pies, una estatua rota en el suelo y la Giralda detrás.
+@what: Francisco de Goya, Santas Justa y Rufina, 1817, oil on canvas, 309 × 177 cm, commissioned by the cathedral chapter through Juan Agustín Ceán Bermúdez, delivered 14 January 1818.
+@listen: How Goya painted Seville's two potter saints for the cathedral, the tower they are said to have saved, and why local painters were furious.
+@brief: Lively, gossipy storytelling in front of a great painting; amused at the row, curious at the details, warm at the legend.
+@pace: medium
+@energy: 3→4→3
+@sources: https://fundaciongoyaenaragon.es/eng/obra/santas-justa-y-rufina/146 (SEC Fundación Goya en Aragón: 1817, oil on canvas, 309 × 177 cm, Sacristy of the Chalices; commissioned by the Metropolitan Chapter through Ceán Bermúdez, who chose the subject, asked for sketches, wanted the saints life-size "in decorous postures which would not distract the priest"; 28,000 reales; delivered 14 Jan 1818; ceramic pots identify them as potters; the lion tamed in the amphitheatre licks Rufina's feet; the Giralda in the background for their native Seville; broken image of the goddess Salambo; local artists most hostile, rival poems and couplets around Seville) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "Goya paints Santa Justa and Santa Rufina, painting placed in the chapel of the Chalices. (1817)"; "Carmona earthquake. (1504)") ; https://www.churchtimes.co.uk/articles/2020/24-january/features/features/travel-and-retreats-strength-and-protection (SEC: the saints are "believed to have saved" the tower in the 1504 Carmona earthquake)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 016 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Cuando llegó este cuadro, los pintores de Sevilla se pusieron furiosos. Creían merecer el encargo, y la catedral se lo había dado a Goya.
+
+Es la Sacristía de los Cálices, y el alto lienzo es Santas Justa y Rufina, de Francisco de Goya, pintado en 1817. El encargo llegó por su amigo Ceán Bermúdez, estudioso del arte, que eligió el tema y vigiló cada paso. [pause] Pidió las santas a tamaño natural, en actitudes decorosas que no distrajeran al sacerdote en el altar. Goya cobró veintiocho mil reales y lo entregó a principios del año siguiente. Por la ciudad circularon poemas rivales, a favor y en contra.
+
+[curious] La tradición hace a Justa y Rufina hermanas, y alfareras. Por eso sostienen vasijas de barro. En el suelo yace una estatua pagana rota. Su historia cuenta que destrozaron la imagen de una diosa y fueron martirizadas por ello. [pause] El león que lame los pies de Rufina viene de la misma historia. Arrojada a la arena, la fiera la perdonó.
+
+[pause] Ahora mire detrás de ellas. Esa torre del fondo es la Giralda, donde empezó su visita. Representa a su ciudad.
+
+[warmly] Los sevillanos ven otra razón. La tradición local dice que estas dos santas sostuvieron la torre durante el terremoto de 1504, para que no cayera. Desde entonces son sus protectoras, en pintura y en vidriera.
+
+Hay un breve Extra en la Sala del Pabellón, la sala de exposiciones. La siguiente parada principal es la Sacristía Mayor, la gran sacristía con cúpula: mire arriba, a una cúpula tallada en anillos de figuras.

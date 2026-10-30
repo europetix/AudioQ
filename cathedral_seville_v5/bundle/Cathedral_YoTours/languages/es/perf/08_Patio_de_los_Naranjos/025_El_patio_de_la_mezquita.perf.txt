@@ -1,0 +1,30 @@
+@id: 025 · ES · Patio de los Naranjos · 30 Oct 2026 edition
+@section: Patio de los Naranjos
+@room: Patio de los Naranjos
+@type: W
+@title: Patio de los Naranjos — El patio de la mezquita
+@where: En el Patio de los Naranjos, el gran patio abierto junto a la catedral: hileras de naranjos en cuadrícula, pequeños canales de agua entre ellos, una fuente en el centro y galerías de arcos de herradura apuntados a los lados, con la Giralda alzándose encima. Colóquese bajo los árboles o junto a una galería, fuera del camino hacia la salida.
+@what: The former sahn (ablutions courtyard) of the Almohad Great Mosque, ordered 1172: original pillars and pointed horseshoe arches; of three galleries two remain, the third demolished for the Sagrario church (1618–1662); orange trees in a rigid grid with water channels still in use; modern fountain on the site of the old sabil, its upper bowl Visigothic and "the same as the primitive Almohad fountain" (Cathedral).
+@listen: How the mosque's washing courtyard survived the mosque, and the oldest thing in it.
+@brief: A friend sitting down in the shade after the long visit; warm and unhurried, curious at the fountain, quietly satisfied at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-patio-de-los-naranjos-and-colombian-library/ (OFF, read 30 Oct 2026: "old sahn of the mosque"; "original structure, configured with pillars supporting pointed horseshoe arches, can still be seen"; "modern fountain occupying the place of the old sabil", "the upper bowl is Visigothic and is the same as the primitive Almohad fountain", used for ablutions before entering the mosque; "Of the three original galleries … only two remain", the west one demolished for the Sagrario; "rigid arrangement of orange trees" with "a network of channels that draw geometric figures and are still used for the flow of water") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, read 30 Oct 2026: Sagrario begun 1618, finished 1662) ; FACTS §1.1 (mosque ordered 1172, OFF [O1]), §1.19 (Gothic plan follows the mosque's footprint, SEC Archnet [S1]), §2.1/2.10 (the minaret became the bell tower) ; lily vases NOT scripted (O16; dated sentence in notes)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 025 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Hace más de ochocientos años, nadie entraba en la gran mezquita de Sevilla con manos y pies polvorientos. Primero había que lavarse. Y se hacía aquí.
+
+Está en el Patio de los Naranjos. Era el sahn de la mezquita almohade, su patio abierto. Aquí los musulmanes de Sevilla hacían sus abluciones antes de entrar a rezar.
+
+La sala de oración ya no existe. La catedral gótica que acaba de recorrer ocupa su lugar, casi sobre el mismo rectángulo. Por eso la iglesia es tan ancha. [pause] Pero partes de la mezquita sobrevivieron. Una es este patio. Otra se alza por encima: la Giralda, que nació como su alminar, la torre que llamaba a los fieles a la oración.
+
+[pause] Mire las galerías. Esos pilares con arcos de herradura apuntados son la estructura original de la mezquita. Hubo tres galerías. Solo quedan dos. La tercera se derribó para dejar sitio al Sagrario, la parroquia construida junto al patio entre 1618 y 1662.
+
+Ahora, los árboles. Forman una cuadrícula estricta. Entre ellos corre una red de canalillos que dibujan formas geométricas en el suelo. [pause] Todavía llevan agua.
+
+[curious] Y en el centro, la fuente. Es moderna, y ocupa el lugar de la fuente de la mezquita. Pero la catedral dice que su taza superior es visigoda, y la misma que usaron los almohades. Si es así, lo más antiguo de este patio es anterior a la mezquita. Es una pila de la España cristiana de antes de los musulmanes, reutilizada por la mezquita y conservada por la catedral.
+
+[quietly] El patio de una mezquita, el jardín de una catedral y, en su corazón, una pila más antigua que ambas.
+
+Ahora busque un lugar del Patio de los Naranjos desde donde vea lo más alto de la Giralda, y la figura de bronce que la corona: el Giraldillo.

@@ -1,0 +1,26 @@
+@id: 005 · DE · Giralda · bell level · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · bell level
+@type: X
+@title: Giralda · Extra · Vierundzwanzig Glocken
+@where: Noch in der Glockenstube der Giralda, im Glockenraum der Renaissance oben am Ende der Rampen [O5]. Treten Sie von den Öffnungen zurück und halten Sie den Zugang zu den Rampen frei.
+@what: The Giralda's 24 bells; the largest, Santa María la Mayor, "la Gorda", cast 1588 by Juan de Balabarca, about 5,362 kg; Bartolomé Morel had a hand in casting seven of the bells; DATED: Phase VI rebuilding six bell frames with damping and replacing the bell's 2021 emergency shoring.
+@listen: The biggest bell in the tower, her nickname, and the works that are giving her a new support.
+@brief: A short, affectionate aside about a heavy old bell; amused at the nickname, plain on the works, quiet at the end.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "its 24 bells") ; https://www.campaners.com/php/campanapdf.php?numer=363 (SEC: "Santa María, la Mayor, la Gorda", Juan de Balabarca, 1588, about 5,362 kg, in the bell chamber of the cathedral) ; https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta: Morel's name appears in "la fundición de siete campanas de la Giralda") ; https://www.catedraldesevilla.es/en/phase-vi-of-the-giralda-intervention-begins/ (OFF: six bells need work on their support structures, new frames with damping systems; the 2021 emergency shoring of the Santa María la Mayor bell to be replaced by a permanent structure) ; no bell is pointed out until O5
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 005 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Die größte Glocke dieses Turms hat einen Spitznamen. Man nennt sie la Gorda, die Dicke.
+
+Ihr richtiger Name ist Santa María la Mayor. Juan de Balabarca goss sie 1588, und sie wiegt über fünf Tonnen. [pause] Sie ist die größte der vierundzwanzig Glocken, die die Kathedrale in der Giralda zählt.
+
+Einige ihrer Gefährtinnen stammen aus einer berühmten Werkstatt. [pause] Bartolomé Morel goss die Bronzefigur, die sich oben auf diesem Turm dreht. Er wirkte auch beim Guss von sieben Glocken der Giralda mit.
+
+Glocken dieses Gewichts erschüttern alles, was sie trägt. Seit 2021 hängt la Gorda an einer Notabstützung. [pause] Die laufenden Arbeiten erneuern die Glockenstühle von sechs Glocken, mit Dämpfern gegen die Schwingungen. Und sie geben ihr eine dauerhafte Stütze.
+
+[quietly] Bedenken Sie den Zeitpunkt. Sie wurde für einen Turm gegossen, der schon fast vierhundert Jahre über Sevilla stand.
+
+Gehen Sie nun die Rampen der Giralda wieder hinunter und halten Sie sich rechts. Die nächste Station spielt auf dem Weg nach unten.

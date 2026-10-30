@@ -1,0 +1,28 @@
+@id: 025 · Patio de los Naranjos · 30 Oct 2026 edition
+@section: Patio de los Naranjos
+@room: Patio de los Naranjos
+@type: W
+@title: Patio de los Naranjos — The mosque's courtyard
+@where: In the Patio de los Naranjos, the large open courtyard beside the cathedral: rows of orange trees in a grid, small water channels between them, a fountain in the middle, and arcades of pointed horseshoe arches along the sides, with the Giralda rising above. Stand under the trees or by an arcade, out of the path to the exit.
+@what: The former sahn (ablutions courtyard) of the Almohad Great Mosque, ordered 1172: original pillars and pointed horseshoe arches; of three galleries two remain, the third demolished for the Sagrario church (1618–1662); orange trees in a rigid grid with water channels still in use; modern fountain on the site of the old sabil, its upper bowl Visigothic and "the same as the primitive Almohad fountain" (Cathedral).
+@listen: How the mosque's washing courtyard survived the mosque, and the oldest thing in it.
+@brief: A friend sitting down in the shade after the long visit; warm and unhurried, curious at the fountain, quietly satisfied at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-patio-de-los-naranjos-and-colombian-library/ (OFF, read 30 Oct 2026: "old sahn of the mosque"; "original structure, configured with pillars supporting pointed horseshoe arches, can still be seen"; "modern fountain occupying the place of the old sabil", "the upper bowl is Visigothic and is the same as the primitive Almohad fountain", used for ablutions before entering the mosque; "Of the three original galleries … only two remain", the west one demolished for the Sagrario; "rigid arrangement of orange trees" with "a network of channels that draw geometric figures and are still used for the flow of water") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, read 30 Oct 2026: Sagrario begun 1618, finished 1662) ; FACTS §1.1 (mosque ordered 1172, OFF [O1]), §1.19 (Gothic plan follows the mosque's footprint, SEC Archnet [S1]), §2.1/2.10 (the minaret became the bell tower) ; lily vases NOT scripted (O16; dated sentence in notes)
+---
+[warmly] More than eight hundred years ago, nobody walked into the great mosque of Seville with dusty hands and feet. First, you washed. And this is where you did it.
+
+You're in the Patio de los Naranjos, the Courtyard of the Orange Trees. It was the sahn of the Almohad mosque, its open courtyard, where Seville's Muslims made their ablutions before going in to pray.
+
+The prayer hall itself is gone. The Gothic cathedral you have just walked through stands on its site, on almost the same rectangle, which is why the church is so wide. But parts of it survived. One is this courtyard. Another rises above it: the Giralda, which began life as this mosque's minaret, the tower that called the faithful to prayer.
+
+[pause] Look at the arcades. Those pillars carrying pointed horseshoe arches are the mosque's original structure. There were three galleries once. Only two remain. The third was pulled down to make room for the Sagrario, the parish church built against the courtyard between 1618 and 1662.
+
+Now the trees. They stand in a strict grid, and between them runs a network of little channels, drawing geometric shapes in the ground. They still carry water.
+
+[curious] And in the middle, the fountain. It is modern, standing where the mosque's fountain stood. But the Cathedral says its upper bowl is Visigothic, and is the same bowl the Almohads used. If so, the oldest thing in this courtyard is older than the mosque. It's a basin from Christian Spain before the Muslims came, reused by the mosque, and kept by the cathedral.
+
+[quietly] A mosque's courtyard, a cathedral's garden, and at its heart a bowl older than both.
+
+Now find a spot in the Patio de los Naranjos where you can see the very top of the Giralda, and the bronze figure that crowns it: the Giraldillo.

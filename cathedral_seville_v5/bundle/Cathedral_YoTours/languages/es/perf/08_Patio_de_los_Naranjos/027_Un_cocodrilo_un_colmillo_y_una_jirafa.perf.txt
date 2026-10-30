@@ -1,0 +1,28 @@
+@id: 027 · ES · Nave del Lagarto · 30 Oct 2026 edition
+@section: Patio de los Naranjos
+@room: Nave del Lagarto
+@type: R
+@title: Nave del Lagarto — Un cocodrilo, un colmillo y una jirafa
+@where: En la Nave del Lagarto, la galería cubierta del lado del Patio de los Naranjos más cercano a la Giralda. Mire al techo: un cocodrilo cuelga en lo alto, con un colmillo de elefante, una vara y una brida cerca.
+@what: Hanging objects: a crocodile (the "lagarto"), said to be a carved wooden copy today; an elephant tusk; a rod of command; a bridle. The embassy of the Mamluk Sultan of Egypt to Alfonso X, c. 1260 (between 1260 and 1265), with "un marfil", a giraffe ("azorafa") and a striped she-ass (zebra) in the Crónica de Alfonso X; the crocodile added by tradition and by Ortiz de Zúñiga (17th c.). Above the gallery: the Biblioteca Capitular y Colombina (not on the visit).
+@listen: The true story of a sultan's gifts to a Spanish king, the crocodile that tradition added to them, and what really hangs here now.
+@brief: A friend sharing a favourite oddity; amused and conspiratorial, careful to separate the chronicle from the legend.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.historicalsoundscapes.com/pdf/501/sevilla (SEC Ruiz Jiménez 2016, read 30 Oct 2026: embassy of the Mamluk sultan entered Seville "entre 1260 y 1265"; Crónica: "un marfil e una alimaña que decía azorafa" and "una asna que era viada, que tenía la una banda blanca y la otra prieta"; Ortiz de Zúñiga: the animals died soon, the king ordered "sus pieles llenas de paja se pusiesen en el claustro de la santa iglesia"; the one that lasted longest was a "lagarto disforme (o cocodrilo egipcio)", which gave the name "nave del Lagarto") ; https://www.upo.es/patio-colorado/2024/04/30/te-has-fijado-en-el-cocodrilo-colgado-dentro-de-la-catedral-de-sevilla (SEC UPO 2024, read 30 Oct 2026: crocodile seen overhead entering through the Puerta del Lagarto; "un colmillo de elefante, un bocado o freno de animal y un bastón de mando"; "tallado en madera", "imitación de la original"; "many stories" explain it; marriage proposal "se dice", not used) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-patio-de-los-naranjos-and-colombian-library/ (OFF, read 30 Oct 2026: the library is in part of the Nave del Lagarto, on the upper floor of the two naves at the north-east corner of the Patio; 1552 Hernando Colón's library joined the chapter's) ; FACTS §5.4 (books owned by Columbus, OFF [O12]), §5.6 (not on the visit)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 027 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Del techo de la Catedral de Sevilla cuelga un cocodrilo. Desde hace siglos se intenta explicarlo.
+
+Mire arriba en la Nave del Lagarto. En lo alto cuelgan un cocodrilo, el propio lagarto, un colmillo de elefante, una vara y una brida. [pause] Si entró por la Puerta del Lagarto, quizá ya pasó bajo ellos.
+
+La historia parte de algo real. Hacia 1260, unos enviados del sultán mameluco de Egipto llegaron ante Alfonso el Sabio, en Sevilla. La crónica de su reinado enumera sus regalos: un colmillo de marfil, una jirafa y una burra con una franja blanca y la otra oscura. [wry] Es decir, una cebra.
+
+[conspiratorial] Lo que la crónica no menciona es un cocodrilo. La tradición añade uno, un cocodrilo del Nilo entre los regalos. En el siglo diecisiete, Ortiz de Zúñiga, autor de los anales de Sevilla, escribió que los animales murieron poco después de llegar. El rey hizo rellenar de paja sus pieles y colocarlas en el claustro de la catedral. [pause] El que más duró, decía, fue un lagarto deforme, o cocodrilo egipcio, y dio nombre a esta galería.
+
+[pause] Se dice que el cocodrilo actual es una copia de madera. También se cuentan historias de la vara y la brida, pero ninguna que los documentos puedan confirmar.
+
+Sobre esta galería está la biblioteca de Hernando Colón, hijo de Colón. Guarda libros que fueron de su padre. No está abierta en esta visita.
+
+Última parada: la Puerta del Perdón, la alta portada en arco en el centro del lado más alejado del patio, frente a la catedral.

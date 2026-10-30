@@ -1,0 +1,28 @@
+@id: 013 · FR · Capilla de la Antigua · 30 Oct 2026 edition
+@section: Around the naves
+@room: Capilla de la Antigua
+@type: W
+@title: Capilla de la Antigua — La Vierge qui est restée
+@where: Du côté de l'église opposé à la tour, à la grille de la Capilla de la Antigua, la plus grande chapelle de ce côté. Son nom est inscrit au-dessus de la grille. Cherchez la Vierge à l'Enfant médiévale peinte au-dessus de l'autel.
+@what: Virgen de la Antigua, anonymous wall painting, 14th century, with Sienese influence; the chapel's enlargement begun 1504; tomb of Cardinal Diego Hurtado de Mendoza, placed 1510; canonical coronation 1929; San Fernando window designed by José Gestoso, made by Zettler of Munich.
+@listen: A painting older than the cathedral, the legend of the king who took Seville, and the Caribbean island named after her.
+@brief: Warm and respectful, a working chapel; curious at the start, gentle with the legend, quietly pleased at the island.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF: "Anónimo, Siglo XIV, Capilla de la Antigua") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "The expansion of the Chapel of the Virgen de la Antigua begins. (1504)"; Mendoza's tomb placed in the chapel 1510; "Coronation of the Virgen de la Antigua on the occasion of the Ibero-American Exposition in Seville. (1929)") ; https://coleccionbbva.com/en/pintura/p00631-our-lady-of-la-antigua (SEC: original from the second half of the 14th century, "evidently influenced by the Sienese tradition"; legend: the Virgin appeared to Ferdinand III during the siege and promised he would take the city under her protection; copies across Andalusia in the 16th century; devotion spread to Mexico, Peru, Panama, Colombia) ; https://www.britannica.com/topic/history-of-Antigua-and-Barbuda (SEC: Columbus visited Antigua in 1493 and "named it for the Church of Santa Maria de la Antigua in Sevilla") ; Masses in the chapel: research/VISIT_ROUTE §6 (OFF Aug 2026 list) ; wall painting kept when the old building came down: FACTS §13.1–13.2 safe wording
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cette peinture est plus ancienne que la cathédrale qui l'entoure. Quand les bâtisseurs arrivèrent, elle était déjà là.
+
+Voici la Capilla de la Antigua, la chapelle de la Vierge de l'Antigua. Au-dessus de l'autel, une peinture murale du quatorzième siècle représente la Vierge à l'Enfant. Personne ne sait qui l'a peinte. Les experts y voient l'influence des peintres de Sienne. [pause] Elle appartenait à l'ancienne cathédrale, la mosquée convertie. Quand cet édifice fut démoli pour faire place à celui-ci, l'image fut conservée et reçut sa propre chapelle. L'agrandissement de la chapelle commença en 1504.
+
+[warmly] La légende dit que la Vierge apparut au roi Ferdinand trois pendant le siège de Séville. Elle lui promit la ville sous sa protection. C'est un récit, pas un document. Mais il dit combien elle compte ici.
+
+La chapelle abrite aussi le tombeau du cardinal Diego Hurtado de Mendoza, placé ici quelques années après le début de l'agrandissement. Et en 1929, l'année de l'Exposition ibéro-américaine, la Vierge fut couronnée.
+
+[pause] Son nom a voyagé loin. En 1493, Christophe Colomb découvrit une île des Caraïbes et la nomma Antigua, d'après la Vierge vénérée ici. L'île porte toujours son nom. [pause] Des copies de cette peinture se répandirent en Andalousie. Sa dévotion gagna le Mexique, le Pérou, le Panama et la Colombie.
+
+[quietly] C'est toujours un lieu de prière. Si une messe a lieu, écoutez depuis l'extérieur de la grille.
+
+Continuez de ce côté de l'église jusqu'au bras du transept, vers le tombeau de Christophe Colomb : quatre hérauts portant un cercueil sur leurs épaules. Il se dresse juste à l'intérieur de la Puerta del Príncipe.

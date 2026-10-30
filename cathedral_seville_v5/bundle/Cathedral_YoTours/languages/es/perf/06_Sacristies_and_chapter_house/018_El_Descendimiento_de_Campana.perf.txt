@@ -1,0 +1,28 @@
+@id: 018 · ES · Sacristía Mayor · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sacristía Mayor
+@type: W
+@title: Sacristía Mayor — El Descendimiento de Campaña
+@where: En la Sacristía Mayor, la gran sacristía con cúpula. Colóquese frente a la capilla central: delante cuelga el gran cuadro de Pedro de Campaña en el que se baja de la cruz el cuerpo de Cristo.
+@what: Pedro de Campaña, Descent from the Cross, 1547, painted for the chapel of Hernando de Jaén in the parish church of Santa Cruz, Seville.
+@listen: The painting Murillo could not stop looking at, and the church that both of them lost.
+@brief: Quiet, intimate storytelling in a grand room; reverent in front of the painting, tender with Murillo, a soft sigh at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF: Pedro de Campaña, 1547, "Sacristía Mayor") ; https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF: "In front of the central chapel is located the great painting of Pedro de Campaña, the Descent of Christ"; Greek-cross plan, dome) ; https://www.ge-iic.com/files/IVcongreso/30_maria_arjonillas3.pdf (SEC GE-IIC: made for the chapel of Hernando de Jaén in the former parish church of Santa Cruz, demolished 1810 during the French occupation; Ponz, Viage de España 1786: Murillo studied it continually and in his last years told the sacristan he was waiting "cuando acababan de bajar de la cruz a aquel Divino Señor"; paper dates the painting c.1570, overridden by OFF 1547) ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC: Murillo asked in his will to be buried in Santa Cruz and was; the French destroyed the church; a plaque of 1858 in the Plaza de Santa Cruz marks the approximate place)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 018 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] La mayoría de los cuadros se miran una vez. Uno de los pintores más queridos de Sevilla volvió a este una y otra vez durante años.
+
+Está en la Sacristía Mayor, y ante su capilla central cuelga el Descendimiento de la Cruz de Pedro de Campaña. [pause] Era un pintor flamenco que trabajaba en Sevilla, y lo pintó en 1547. Se hizo para una capilla de una parroquia de la ciudad, Santa Cruz.
+
+[pause] Mire las figuras junto a la cruz, bajando el cuerpo. Ese momento cautivó a Bartolomé Esteban Murillo. Un escritor del siglo dieciocho, Antonio Ponz, cuenta que Murillo se quedaba en aquella capilla mirándolo, una y otra vez. Ya mayor, le dijo al sacristán que esperaba a que terminaran de bajar a Nuestro Señor de la cruz.
+
+[quietly] Es una historia preciosa, y nos llega de segunda mano. Pero revela lo que los pintores pensaban de este cuadro, más de un siglo después de pintarse.
+
+Murillo pidió ser enterrado en esa misma iglesia, y así fue. Luego, en la ocupación francesa de Sevilla, se derribó la iglesia de Santa Cruz. [pause] El cuadro sobrevivió y, con el tiempo, llegó a la catedral. La tumba de Murillo se perdió con el edificio. Hoy una placa en la plaza de Santa Cruz señala solo aproximadamente dónde yace.
+
+[warmly] Así, el cuadro que amaba cuelga en la catedral, y el hombre que lo amó yace en algún lugar bajo una plaza cercana.
+
+Aquí hay un breve Extra sobre la cúpula y dos obispos de Murillo. La siguiente parada principal está también aquí, en la Sacristía Mayor: la gran custodia de plata, la Custodia de Arfe.

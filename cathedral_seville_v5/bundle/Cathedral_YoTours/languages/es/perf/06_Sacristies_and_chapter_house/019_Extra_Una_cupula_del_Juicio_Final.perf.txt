@@ -1,0 +1,24 @@
+@id: 019 · ES · Sacristía Mayor · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sacristía Mayor
+@type: X
+@title: Sacristía Mayor · Extra · Una cúpula del Juicio Final
+@where: En el centro de la Sacristía Mayor, bajo la cúpula. Mire arriba, a la cúpula tallada en tres anillos de figuras. Luego busque los dos cuadros de Murillo de San Isidoro y San Leandro y, en la cabecera de la sala, la estatua de San Fernando junto a un pilar y la Inmaculada Concepción en el pilar de enfrente.
+@what: The Sacristía Mayor, a Greek-cross plan with very short arms and a dome on pendentives, its reliefs showing the Last Judgment and the Heavenly Court in three rings; Bartolomé Esteban Murillo, San Isidoro and San Leandro, 1655; statue of San Fernando made for his canonisation of 1671, next to one of the pillars at the head, and an Immaculate Conception on the opposite pillar.
+@listen: Reading a dome of the Last Judgment from the bottom ring up, and Murillo's two archbishops of Seville.
+@brief: A short guided look upward, quietly dramatic about the damned, then warm and a little amused about the choir prompter.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF: Greek cross "with very reduced arms"; "dome resting on pendentives"; reliefs "arranged in three rings, representing the Last Judgment and a staging of the Heavenly Court", the lower ring "the Damned"; vaults with apostles and bishops; an exhibition space "for almost two hundred years"; "San Isidoro and San Leandro de Murillo made in 1655"; San Fernando statue next to one of the pillars of the head, commissioned for his canonisation; an Immaculate on the opposite pillar) ; https://catedraldesevilla.es/en/?p=53309 (OFF: Murillo 1655, "Sacristía Mayor") ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC: San Leandro and San Isidoro, 1655, Sacristía Mayor; tradition that San Leandro's face is that of the cathedral choir's "apuntador", Alonso de Herrera; San Isidoro absorbed in reading) ; https://catedraldesevilla.es/en/?p=53366 (OFF: the canonisation of 1671) ; https://www.britannica.com/biography/Saint-Isidore-of-Sevilla (SEC: Isidore archbishop, encyclopedist) ; https://www.britannica.com/biography/Saint-Leander (SEC: Leander archbishop of Seville about 600)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 019 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Sobre su cabeza, el fin del mundo ya ha empezado, y no a todos les va a gustar el veredicto.
+
+Toda la cúpula de la Sacristía Mayor es una gran escena del Juicio Final, tallada en tres anillos. Léala desde abajo. El anillo inferior acoge a los condenados. [pause] Por encima, los anillos ascienden hacia la Corte Celestial. Abajo, en las bóvedas de los brazos cortos, hay apóstoles y obispos. Desde hace casi doscientos años, esta sala sirve también para mostrar los tesoros de la catedral.
+
+[pause] Ahora busque a los dos santos de Murillo, pintados en 1655. Son San Isidoro y San Leandro, ambos arzobispos de Sevilla hace mucho tiempo. Isidoro, el gran sabio, está absorto en su lectura. [amused] Para Leandro, dice la tradición, Murillo tomó prestado un rostro de la propia catedral: Alonso de Herrera, que trabajaba en su coro.
+
+Mire también los pilares de la cabecera de la sala. Junto a uno hay una estatua del rey Fernando Tercero, hecha cuando fue declarado santo en 1671. [pause] En el pilar de enfrente está la Inmaculada Concepción.
+
+Quédese en la Sacristía Mayor para la Custodia de Arfe, la alta custodia de plata.

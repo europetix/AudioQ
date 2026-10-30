@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built; 24 Oct: Uffizi Gallery built, first guide with Italian; 30 Oct: Real Alcázar de Sevilla built, Seville Cathedral in progress)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built; 24 Oct: Uffizi Gallery built, first guide with Italian; 30 Oct: Real Alcázar de Sevilla and Seville Cathedral built)
 
 Paste this into the new session to start:
 
@@ -25,7 +25,7 @@ Paste this into the new session to start:
 | `thyssen_v5/` | Museo Nacional Thyssen-Bornemisza, V5: 70 tracks (51 main + 19 Extras), EN + ES/FR/DE, three lengths with spoken bridges. Handshake: `THYSSEN_V5_HANDSHAKE.md` |
 | `uffizi_v5/` | Uffizi Gallery, V5: 67 tracks (53 main + 14 Extras), EN + ES/FR/DE/IT, three lengths with hand-written bridges. Handshake: `UFFIZI_V5_HANDSHAKE.md` |
 | `alcazar_v5/` | Real Alcázar de Sevilla, V5: 35 tracks (33 walking order + 2 optional Cuarto Real Alto Extras), EN + ES/FR/DE, numbers of the official leaflet. Handshake: `ALCAZAR_V5_HANDSHAKE.md` |
-| `cathedral_seville_v5/` | Catedral de Sevilla + Giralda, V5: 28 tracks, in progress (audit fixes, then translations). |
+| `cathedral_seville_v5/` | Catedral de Sevilla + Giralda, V5: 28 tracks (23 main + 5 Extras), EN + ES/FR/DE, Spanish names + landmarks, schematic map. Handshake: `CATHEDRAL_V5_HANDSHAKE.md` |
 | `deliverables/` | Everything sent to the user: zips, route PDFs, scripts (.md), snapshots, image kit |
 
 The same structure is used inside each guide folder:
@@ -187,6 +187,9 @@ Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
 
 | Alcázar V5 | 35 tracks, ~9,600 words, ~73 min listening; Essential 20 / Highlights 10 with hand-written bridges; 2 CRA Extras | done + independent review per language | 5-page phone PDF on the leaflet's numbers | stand-in: EN all lengths, DE Highlights | on-site checklist (Pabellón reopening, Muñecas → Crucero, last garden stretch) |
 
+| Cathedral V5 | 28 tracks, ~7,500 words, ~60 min listening; Essential 18 / Highlights 9 with hand-written bridges | done + independent review per language | 5-page schematic phone PDF (no official map) | stand-in: EN all lengths, FR Highlights | on-site checklist (Giralda-first for Príncipe entrants, Patio door, sacristy order, El Greco) |
+
+Cathedral detail: see `cathedral_seville_v5/CATHEDRAL_V5_HANDSHAKE.md`.
 Alcázar detail: see `alcazar_v5/ALCAZAR_V5_HANDSHAKE.md`.
 Uffizi detail: see `uffizi_v5/UFFIZI_V5_HANDSHAKE.md`.
 Thyssen detail: see `thyssen_v5/THYSSEN_V5_HANDSHAKE.md`.

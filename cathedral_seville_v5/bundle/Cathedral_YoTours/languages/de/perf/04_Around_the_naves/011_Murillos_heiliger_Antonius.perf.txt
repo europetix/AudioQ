@@ -1,0 +1,28 @@
+@id: 011 · DE · Capilla de San Antonio · 30 Oct 2026 edition
+@section: Around the naves
+@room: Capilla de San Antonio
+@type: W
+@title: Capilla de San Antonio — Murillos heiliger Antonius
+@where: Im Seitenschiff auf der Seite, wo Sie vom Turm heruntergekommen sind, in Richtung des anderen Endes der Kirche, vor dem Kapellengitter der Capilla de San Antonio, der Taufkapelle. Suchen Sie ein riesiges Gemälde über dem Altar: ein kniender Ordensbruder, der zum Jesuskind inmitten einer Schar von Engeln aufblickt, darüber ein kleineres Bild.
+@what: Bartolomé Esteban Murillo, Vision of Saint Anthony of Padua, set on this altar 21 Nov 1656, oil on canvas; above it Murillo's Baptism of Christ, 1667; the theft of the saint's figure, late 1874, recovered in New York, January 1875; stained-glass Santas Justa y Rufina by Juan Bautista de León, 1685, in this chapel.
+@listen: The night someone cut Saint Anthony out of Murillo's canvas, and how a New York dealer brought him home.
+@brief: A friend telling a true crime story in front of the painting; curious at the start, brisk through the chase, wry at the newspaper's caveat, quiet at the end.
+@pace: medium
+@energy: 2→4→2
+@sources: https://www.catedraldesevilla.es/en/?p=53385 (OFF: Santas Justa y Rufina window "in the chapel of San Antonio", Juan Bautista León, 1685, image listed as "Capilla del Bautismo") ; https://catedraldesevilla.es/en/?p=53309 (OFF: two Jordaens, 1669, "Capilla de San Antonio"; the St Anthony itself is not on this list) ; https://dialnet.unirioja.es/descarga/articulo/1343259.pdf (SEC Ferrer Garrofé 1993: "El 21 de noviembre de 1656 fue colocado en su altar el lienzo de San Antonio"; Murillo's Bautismo de Cristo for the attic, 1667; "Al restaurarse la pintura en 1875") ; https://dynamic-rsnz.natlib.govt.nz/newspapers/GLOBE18750417.2.19 (SEC The Globe 17 Apr 1875 reprinting The Nation, New York: Murillo's St Anthony; the kneeling saint cut out with a knife, under a quarter of the canvas, about 7 feet high; offered in January to William Schaus by Spanish strangers; Spanish consul checked a photograph; bought for 250 dollars; seller arrested as the sale completed; Schaus handed it over asking only his outlay; return by way of Havana; "Thus the chapel in the Seville Cathedral regains, if there is no counterfeiting in the case, its complete altar-piece", re-read 30 Oct 2026, audit fixes) ; https://www.3cat.cat/3catinfo/un-dibuix-de-murillo-i-la-historia-del-primer-robatori-mediatic-dart/noticia/3296569/ (SEC 3cat 8 Jun 2024: theft late 1874; two Spaniards at the Schaus gallery, Broadway, early January 1875; reward from Seville; arrived in Cádiz, 19 Feb 1875) ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC: La Visión de San Antonio "one of Murillo's key works", upper painting also Murillo)
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 011 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ende 1874 kam jemand mit einem Messer in diese Kapelle. Als man den Diebstahl entdeckte, war der heilige Antonius verschwunden.
+
+Das ist die Capilla de San Antonio, die Kapelle des heiligen Antonius, und zugleich die Taufkapelle der Kathedrale. Das riesige Gemälde über dem Altar stammt von Bartolomé Esteban Murillo, Sevillas eigenem Maler. 1656 wurde es hier aufgestellt. [pause] Der heilige Antonius von Padua kniet und blickt auf, während ihm das Jesuskind inmitten einer Schar von Engeln erscheint. Elf Jahre später malte Murillo das kleinere Bild darüber, die Taufe Christi.
+
+[pause] Der Dieb schnitt nur den knienden Heiligen heraus, ein Stück Leinwand, größer als ein Mann, und ließ die Engel zurück. Belohnungen wurden ausgesetzt. Dann, Anfang 1875, betraten zwei unbekannte Spanier in New York die Galerie eines Kunsthändlers, William Schaus, und boten ihm ein altes Gemälde an. Er ahnte, welches es war. [pause] Er rief den spanischen Konsul, der es mit einem Foto des Altarbilds verglich. Schaus zahlte 250 Dollar, der Verkäufer wurde bei der Übergabe verhaftet, und der Händler gab den Heiligen heraus. Er verlangte nur sein Geld zurück.
+
+[wry] Der Heilige reiste per Schiff über Havanna und Cádiz nach Hause, und das Bild wurde noch im selben Jahr restauriert. Eine New Yorker Wochenzeitschrift jener Zeit, The Nation, schloss ihren Bericht vorsichtig. Die Kapelle erhalte ihr vollständiges Altarbild zurück, hieß es, „sofern bei der Sache keine Fälschung im Spiel ist“.
+
+[quietly] Da ist er also, noch immer auf den Knien, noch immer nach oben blickend. Ein Heiliger, der verschwand, einen Ozean überquerte und in seine Kapelle heimkehrte.
+
+Die Glasfenster dieser Kapelle zeigen auch zwei Heilige aus Sevilla, Justa und Rufina. Merken Sie sich die beiden. Sie begegnen ihnen in den Sakristeien wieder, gemalt von Goya.
+
+Gehen Sie weiter ans andere Ende der Kirche, wo die großen Mitteltüren stehen: die Puerta de la Asunción, von innen gesehen.

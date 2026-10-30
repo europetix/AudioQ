@@ -1,0 +1,30 @@
+@id: 008 · FR · Capilla Mayor · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Capilla Mayor
+@type: W
+@title: Capilla Mayor — Le Retablo Mayor
+@where: À la croisée, au milieu de l'église, là où le transept croise la nef, face à la grille de fer de la Capilla Mayor [O8]. Derrière s'élève un mur de scènes en bois doré et peint, de près de trente mètres de haut, avec un crucifix tout en haut. Le chœur est derrière vous.
+@what: Retablo Mayor of the Capilla Mayor, begun 1482 under Pieter Dancart; first phase to 1529 (a second Flemish master 1497–1505, Pedro Millán, Jorge Fernández and his brother Alejo); side sections 1550–1564 (Roque Balduque, Juan Bautista Vázquez, Pedro de Heredia); polychrome and gilded wood, nearly 30 m high, almost 20 m wide; 44 reliefs, more than 200 saint figures, 8 reliefs of the Kings of Israel and Judah; 14th-century Gothic Calvary with the "Christ of the Million"; restoration completed 2014.
+@listen: Who made the great altarpiece over eighty-two years, how big it really is, and the crucifix at the top.
+@brief: Reverent, slow guided looking with a friend in front of the gold; a hush at the start, building to wonder, then quiet.
+@pace: medium-slow
+@energy: 2→4→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: presides over the presbytery of the Main Chapel in the central nave; "Considered the largest in Christendom"; polychrome wood; nearly 30 m high, almost 20 m wide; begun 1482 under the Flemish sculptor Pieter Dancart; second Flemish master 1497–1505; Pedro Millán; Jorge Fernández Alemán and his brother Alejo finished the first phase in 1529; 1550–1564 two side streets at right angles to the front, Roque Balduque, Juan Bautista Vázquez, Pedro de Heredia; 44 reliefs and more than 200 saint figures on the framing pilasters; 8 reliefs of the Kings of Israel and Judah on the pillars; 14th-century Gothic Calvary; crucifix traditionally called the Christ of the Million, for "the million graces granted to the people of Seville" during epidemics) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 2014 restoration of the main altarpiece completed after two years)
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Il a fallu quatre-vingt-deux ans pour faire ce que vous voyez, du premier coup de ciseau à la dernière dorure. Voici le Retablo Mayor, le grand retable de la Capilla Mayor, la chapelle principale.
+
+L'ouvrage commença en 1482, sous le sculpteur flamand Pieter Dancart. Vinrent ensuite un autre maître flamand, puis Pedro Millán, puis deux frères, Jorge et Alejo Fernández. [pause] Ils achevèrent la première phase près d'un demi-siècle après le début.
+
+Puis le chapitre en voulut davantage. Une génération plus tard, des sculpteurs comme Roque Balduque et Juan Bautista Vázquez ajoutèrent deux parties latérales, à angle droit avec la façade. Le tout fut achevé en 1564.
+
+[pause] Résultat : près de trente mètres de haut, presque vingt de large, tout en bois sculpté et peint. On le dit souvent le plus grand retable du monde chrétien. Comptez, si vous voulez. Quarante-quatre scènes sculptées, et plus de deux cents figures de saints sur les piliers de l'encadrement. [pause] Huit autres reliefs, sur les piliers alentour, montrent les rois d'Israël et de Juda.
+
+Laissez votre regard monter, scène après scène, jusqu'au sommet. Un calvaire gothique couronne le tout, plus ancien que le retable. [pause] Les Sévillans appellent son crucifix le Christ du Million, pour le million de grâces que la ville crut recevoir lors des épidémies.
+
+Une restauration du retable, sur deux ans, s'est achevée en 2014.
+
+[quietly] Trois générations d'artisans. Un seul mur de bois doré.
+
+Il y a ici un court Extra sur les grilles de fer. Le prochain arrêt principal est derrière vous : retournez-vous vers le Coro, le chœur, derrière sa propre grille Renaissance, surmonté de tuyaux d'orgue.

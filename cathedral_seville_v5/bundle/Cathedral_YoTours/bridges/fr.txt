@@ -1,0 +1,7 @@
+006 H>008: Dans cette version courte, sautez cet arrêt et allez au milieu de l'église, là où le transept croise la nef : l'immense retable doré derrière sa grille de fer, c'est la Capilla Mayor.
+008 H>014: Dans cette version courte, sautez le chœur et gagnez le bras du transept du côté opposé à la tour : le tombeau de Christophe Colomb, quatre hérauts portant un cercueil, se dresse juste à l'intérieur de la Puerta del Príncipe.
+011 E>013: Dans cette version courte, continuez au-delà des grandes portes et longez le côté opposé à la tour jusqu'à la Capilla de la Antigua, la plus grande chapelle de ce côté, avec sa Vierge médiévale peinte au-dessus de l'autel.
+014 H>025: Dans cette version courte, sautez la suite : retraversez la croisée jusqu'au bras du transept du côté de la tour, et suivez les panneaux Salida jusqu'au Patio de los Naranjos, des rangées d'orangers autour d'une fontaine.
+022 E>025: Dans cette version courte, sautez la Capilla Real : retournez dans l'église, jusqu'au bras du transept du côté de la tour, et suivez les panneaux Salida jusqu'au Patio de los Naranjos, des orangers autour d'une fontaine.
+025 E>028: Dans cette version courte, sautez le Giraldillo et le crocodile, et allez à la Puerta del Perdón, le haut portail en arc au milieu du côté opposé de la cour, face à la cathédrale.
+025 H>028: Dans cette version courte, sautez le Giraldillo et le crocodile, et allez à la Puerta del Perdón, le haut portail en arc au milieu du côté opposé de la cour, face à la cathédrale.

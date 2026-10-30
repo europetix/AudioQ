@@ -1,0 +1,32 @@
+@id: 023 · DE · Capilla Real · 30 Oct 2026 edition
+@section: Royal chapel and the way to the courtyard
+@room: Capilla Real · outside the grille
+@type: W
+@title: Capilla Real — Der König, der Sevilla eroberte
+@where: Vor dem großen Eisengitter der Capilla Real, am Ende der Kirche hinter der Capilla Mayor. Halten Sie Abstand zum Gitter und stellen Sie sich zur Seite, damit Betende und andere Besucher vorbeikommen. Eine Skulptur des heiligen Königs, der die Schlüssel Sevillas empfängt, krönt das Gitter.
+@what: Capilla Real (Royal Chapel): designed and directed by Martín de Gainza from 1551, dome completed about 1568 by Hernán Ruiz II, lantern rebuilt after a 1754 collapse; Virgen de los Reyes, 13th-century Gothic image "of French origin", under a silver canopy; tombs of Alfonso X and Beatriz of Swabia in the side walls; crypt with Pedro I and María de Padilla (not visible); urn of San Fernando by the silversmith Juan Laureano de Pina, made after the 1671 canonisation; entrance grille designed by Sebastián van der Borcht, paid for by Charles III, installed 1771, crowned by Jerónimo Roldán's San Fernando receiving the keys of Seville. Worship only (NORMAS).
+@listen: The king who turned the mosque into a cathedral, the family that lies with him, and why we look from the grille.
+@brief: Hushed and respectful, a friend speaking quietly at the edge of a place of prayer; reverent at the start, warmer in the middle, still at the end.
+@pace: slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF, read 30 Oct 2026: "occupies the head of the temple"; Gainza from 1551, died 1556 with all done but the dome; Hernán Ruiz II completed the dome around 1568; lantern collapsed 1754; Virgin of the Kings "a Gothic figure from the 13th century of French origin" under a silver canopy; Alfonso X and Beatriz of Swabia in niches in the side walls; crypt with Pedro I and María de Padilla; grille designed by van der Borcht, paid for by Charles III, installed 1771, topped by Roldán's St Ferdinand receiving the keys of Seville) ; https://catedraldesevilla.es/en/?p=53366 (OFF, read 30 Oct 2026: urn of San Fernando by Juan Laureano de Pina, needed on the 1671 canonisation, "today presides over the Royal Chapel") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, read 30 Oct 2026: 1248 mosque made the church of Santa María; 1671 canonisation of Fernando III; 1771 grille "paid for by the king") ; https://catedraldesevilla.es/wp-content/uploads/2025/03/Normas-generales-catedral-descargable-actualizado.pdf (OFF, read 30 Oct 2026: "reservado exclusivamente para el culto y la oración", no access on the cultural route) ; https://www.prensa-latina.cu/2026/02/18/capilla-real-de-catedral-de-sevilla-reabre-sus-espacios/ (SEC, read 30 Oct 2026: reopened 18 Feb 2026 after several months of restoration, announced by the Cabildo; silver-gilt and glass urn with the body of San Fernando before the Virgin's altar) ; St Louis gift: FACTS §14.2 LEGEND, voiced as tradition
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 023 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[reverent] Hinter diesem Gitter liegt der König, der die Moschee zur Kathedrale machte. Ferdinand der Dritte eroberte Sevilla 1248. Später wurde er heiliggesprochen, und Sevilla nennt ihn noch heute San Fernando.
+
+Das ist die Capilla Real, die Königliche Kapelle. Sie füllt das Kopfende der Kirche, hinter der Capilla Mayor. Sie ist allein dem Gottesdienst und dem Gebet vorbehalten, Besucher gehen also nicht hinein. Schauen Sie still von hier aus durch das Gitter.
+
+Martín de Gainza entwarf sie Mitte des sechzehnten Jahrhunderts. Er starb, bevor die Kuppel gebaut wurde, und Hernán Ruiz der Jüngere schloss die Kuppel einige Jahre später.
+
+Vor dem Altar steht die Urne von San Fernando, geschaffen vom Silberschmied Juan Laureano de Pina, nachdem der König heiliggesprochen worden war. Sie birgt seine Gebeine. [pause] Über dem Altar, unter einem silbernen Baldachin, steht die Virgen de los Reyes, Unsere Liebe Frau der Könige, eine gotische Figur des dreizehnten Jahrhunderts. Die Kathedrale nennt sie französischen Ursprungs. [pause] Der Überlieferung nach war sie ein Geschenk des französischen Königs, des heiligen Ludwig.
+
+[warmly] Er ist nicht allein. In Nischen der Seitenwände ruhen sein Sohn, Alfons der Weise, und dessen Mutter, Beatrix von Schwaben. Unter dem Boden, in einer Krypta, die kein Besucher sieht, ruhen Peter der Erste und María de Padilla. Eine königliche Familie, versammelt um den Eroberer.
+
+[pause] Sehen Sie sich nun das Gitter selbst an. Es wurde 1771 aufgestellt, bezahlt von König Karl dem Dritten. Oben zeigt der Bildhauer Jerónimo Roldán, wie San Fernando die Schlüssel Sevillas empfängt.
+
+Die Kapelle wurde im Februar 2026 nach mehreren Monaten Restaurierung wiedereröffnet.
+
+[quietly] Die Stadt, die er eroberte, liegt noch immer vor diesen Mauern. Und oben auf dem Gitter überreicht man ihm noch immer ihre Schlüssel.
+
+Nun zum Hof. Gehen Sie in den Arm des Querschiffs auf der Seite, wo Sie vom Turm heruntergekommen sind. An seinem Ende ist die hohe Tür der Puerta de la Concepción.

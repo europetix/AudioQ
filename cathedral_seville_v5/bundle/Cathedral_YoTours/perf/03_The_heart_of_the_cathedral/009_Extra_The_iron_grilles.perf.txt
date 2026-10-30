@@ -1,0 +1,24 @@
+@id: 009 · Capilla Mayor · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Capilla Mayor
+@type: X
+@title: Capilla Mayor · Extra · The iron grilles
+@where: Still at the crossing, facing the Capilla Mayor: the tall iron grilles, the rejas, that close off the main chapel and through which you see the altarpiece [O8].
+@what: The rejas (iron grilles) of the Capilla Mayor, early sixteenth century, largely by the Dominican friar Francisco de Salamanca and other Seville ironworkers; Salamanca summoned to Seville in 1518; the high-altar pulpits, 1531; his choir grille, 1518–1523.
+@listen: The friar who made the cathedral's ironwork, was paid in corn, and fixed the Giralda's clock.
+@brief: A light, amused aside about a craftsman's life; warm at the end, turning the listener round to the choir.
+@pace: medium
+@energy: 3→3→2
+@sources: https://chestofbooks.com/arts/ancient/Older-Spain-Arts-And-Crafts/Iron-Work-Part-5.html (SEC Williams 1907: "A Dominican friar, summoned to Seville in 1518, to make her cathedral rejas"; "He also made the pulpits of the high altar in 1531, and was working in this city as late as 1547"; paid sometimes "a score or so of ducats", at other times "a bushel or two of corn" (after Ceán); "put the clock of the Giralda into trim"; "built an alarum apparatus to rouse the cathedral bell-ringer at early morning"; much rejería done in the first quarter of the sixteenth century with Sancho Muñoz and others) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: the choir's Renaissance grille by Fray Francisco de Salamanca, 1518–1523) ; wording of the Capilla Mayor grilles: FACTS §6.9 HEDGE (no exact dates or makers per grille) ; pulpits named but not pointed out until O8
+---
+[amused] The man behind much of this ironwork was a friar who, the story goes, between commissions also mended the Giralda's clock.
+
+Fray Francisco de Salamanca was a Dominican. In 1518 the cathedral summoned him to Seville to make its rejas, its iron grilles. The great screens in front of you were made largely by him and other Seville ironworkers, over the next two decades. The pulpits of the high altar are his work too, finished in 1531.
+
+[lightly] An old history of Spanish crafts, drawing on earlier records, fills in the human side. Sometimes he was paid in ducats. Sometimes he was paid in a bushel or two of corn. Besides putting the tower clock in order, he built an alarm to wake the cathedral's bell-ringer in the early morning.
+
+Look at what iron can do in skilled hands. It is hammered and shaped into a screen you can see straight through, so the altarpiece is guarded without being hidden.
+
+[warmly] He also made the grille of the choir, between 1518 and 1523. It's the one you'll face when you turn round.
+
+Turn round to the Coro, the choir, behind its Renaissance grille.

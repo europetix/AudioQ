@@ -1,0 +1,30 @@
+@id: 010 · ES · Coro · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Coro
+@type: W
+@title: Coro — El coro y los órganos
+@where: En el crucero, ahora de espaldas al retablo, mirando al Coro: un recinto cerrado en el centro de la nave central, abierto solo por delante y cerrado por una alta reja renacentista de hierro, con tubos de órgano que se alzan sobre la sillería.
+@what: The Coro: Renaissance grille by Fray Francisco de Salamanca, 1518–1523; 117 carved seats in two tiers, Gothic-Mudéjar, misericords carved with the vices; King's chair signed by Nufro Sánchez, 1478, continued by Pieter Dancart from 1479; Renaissance lectern of wood and bronze, 1562–1565, bronze reliefs cast by Bartolomé Morel; the double organ, present organs finished 1903, electronic adaptation 1973; the left pillar of the choir collapsed in 1888 and was rebuilt.
+@listen: A carver's signature from 1478, the stalls and their hidden vices, the lectern by the Giraldillo's founder, and the twin organs.
+@brief: A friend pointing through the grille into a room within the church; curious and conversational, a touch wry at the pillar, warm at the close.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: choir in the central nave "directly in front of the Main Chapel"; masonry walls except at the front, Renaissance grille by Fray Francisco de Salamanca, 1518–1523 (crest motif relayed as "the tree of Gethsemane": not used); two tiers, 117 seats, Gothic-Mudéjar, saints and Old and New Testament scenes; misericords depict vices as monstrous figures; King's chair signed Nufro Sánchez and dated 1478; Pieter Dancart continued from 1479; Renaissance wood-and-bronze lectern by several sculptors 1562–1565, bronze reliefs cast by Bartolomé Morel; double pipe organ integrated into the stalls) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1888 "the left pillar of the choir collapses" and is rebuilt; 1903 present organs finished; 1973 electronic adaptation) ; https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta: Morel cast the Giraldillo, and worked on the lectern) ; misericords and King's chair not pointed out until O8
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 010 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En algún lugar de esta sillería hay una firma. La silla del rey lleva el nombre de su tallista, Nufro Sánchez, y la fecha 1478. Casi treinta años antes de terminarse la catedral que la rodea.
+
+La obra no acabó con él. Desde el año siguiente la continuó Pieter Dancart, el primer maestro del gran retablo que tiene a su espalda. [pause] El resultado son ciento diecisiete sitiales tallados en dos niveles. Su estilo es gótico mudéjar, donde la talla gótica se une a la artesanía de la España musulmana. Representan santos y escenas del Antiguo y Nuevo Testamento. Y bajo los asientos, las misericordias, pequeñas repisas para apoyarse en los oficios largos, muestran los vicios como figuras monstruosas.
+
+Esto es el Coro, una sala dentro de la iglesia. Está cerrado por tres lados. Solo su frente está abierto, mirando al altar. Lo cierra una reja renacentista de Fray Francisco de Salamanca, el fraile autor de buena parte de las rejas de esta catedral.
+
+Dentro hay un gran facistol de madera y bronce, hecho en el Renacimiento por varios escultores. Sus relieves de bronce son de Bartolomé Morel, que también fundió la figura que gira en lo alto de la Giralda.
+
+[pause] Sobre los asientos se alzan los tubos de un órgano doble, integrado en la sillería. Los órganos actuales se terminaron en 1903, y se adaptaron electrónicamente setenta años después.
+
+[wry] El coro ha tenido su propio drama. En 1888 se hundió uno de los grandes pilares junto al coro, y hubo que reconstruirlo.
+
+[warmly] Muros, una reja, sus propios muebles y su propia música, todo vuelto hacia el altar.
+
+Ahora camine junto al coro hasta la nave lateral del lado por donde bajó de la torre. Sígala hacia el extremo más alejado de la iglesia, hasta la Capilla de San Antonio. [pause] Busque el enorme lienzo de Murillo con un santo arrodillado y una nube de ángeles.

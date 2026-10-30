@@ -1,0 +1,24 @@
+@id: 017 · ES · Sala del Pabellón · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sala del Pabellón
+@type: X
+@title: Sala del Pabellón · Extra · Zurbarán y los pintores de Sevilla
+@where: En la Sala del Pabellón, la sala de exposiciones de las sacristías. Busque las cartelas con los nombres de Zurbarán, Valdés Leal y Pacheco.
+@what: Francisco de Zurbarán, two paintings, 1635–1645 and 1645–1650; Juan de Valdés Leal, two paintings, around 1656 and 1657–1658; Francisco Pacheco, 1620. All five placed in this room by the Cathedral's own list, which gives no titles. El Greco loan held until O13/O22, see v5/notes/AUDIT_FIXES_001-028.md.
+@listen: Two Zurbaráns where the Cathedral's own list places them, beside Valdés Leal and the teacher of Velázquez.
+@brief: A short, brisk aside between two great rooms; light and informative, warm at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF paintings list: Zurbarán 1635–1645 and 1645–1650, "Sala del Pabellón"; Valdés Leal 1657–1658 and c.1656, "Sala del Pabellón"; Francisco Pacheco 1620, "Sala del Pabellón"; no titles given; re-read 30 Oct 2026 for the audit fixes: dates and room only, nothing else on Zurbarán) ; https://www.britannica.com/biography/Francisco-Pacheco (SEC: Pacheco "the teacher of both Diego Velázquez and Alonso Cano"; "Velázquez became Pacheco's son-in-law") ; El Greco loan page (OFF, undated, no end date): NOT spoken, held pending O13/O22 ; Zurbarán not in the Cálices: FACTS §10.9, §17.16
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 017 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Aquí, en la Sala del Pabellón, la sala de exposiciones, cuelgan dos cuadros de Francisco de Zurbarán. Ahí los sitúa la propia lista de pinturas de la catedral. No da títulos, solo fechas. [pause] Uno es de mediados de los años 1630 a mediados de los 1640. El otro, de finales de los 1640.
+
+Comparten paredes con otros pintores del gran siglo de Sevilla. Hay dos obras de Juan de Valdés Leal, pintadas con uno o dos años de diferencia, a finales de los 1650. Y una de Francisco Pacheco, de 1620, la más antigua del grupo. [pause] Hoy es menos famoso que los otros, pero fue maestro del joven Diego Velázquez. Velázquez se casó luego con su hija, y Pacheco fue también su suegro. Los temas están en las cartelas.
+
+[pause] Cinco cuadros de tres pintores, en casi cuarenta años del arte de una ciudad.
+
+[warmly] Pintores de Sevilla, uno junto a otro. Un desvío corto que merece la pena.
+
+Siga hacia la Sacristía Mayor: la gran sala con una cúpula tallada en anillos de figuras.

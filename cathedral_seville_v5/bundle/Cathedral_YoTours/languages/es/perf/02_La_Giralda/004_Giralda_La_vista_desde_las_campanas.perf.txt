@@ -1,0 +1,30 @@
+@id: 004 · ES · Giralda · bell level · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · bell level
+@type: W
+@title: Giralda — La vista desde las campanas
+@where: En lo alto de las rampas, en el cuerpo de campanas de la Giralda, junto a un vano del lado que mira hacia el Patio de los Naranjos: hileras de naranjos en un patio amurallado, muy abajo. Apártese de los vanos para dejar pasar a los demás.
+@what: The Renaissance belfry of the Giralda by Hernán Ruiz the Younger (contract 17 Dec 1557, after a competition; crowned 13 Aug 1568) on the Almohad minaret; the view of the Patio de los Naranjos and the cathedral roofs; the crossing dome's collapse in 1511; DATED: Phase VI works on the bell chamber and Renaissance crown since April 2026; the lily vase that fell in February 2026.
+@listen: Who put a Renaissance crown on a minaret, what you can see of the mosque from up here, and what has happened to the tower this year.
+@brief: Arriving at the top with the listener; warm and a little elated, then guided looking over the courtyard and roofs, quiet at the payoff.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta: the Chapter had held a design competition, Hernán Ruiz's project chosen; contract "fechado el 17 de diciembre de 1557"; figure placed "el 13 de agosto de 1568 coronando la Giralda") ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-giralda (OFF: Hernán Ruiz replaced the deteriorated last Almohad body with a Renaissance finial in the sixteenth century) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1507 inauguration 11 May; 1511 "the primitive dome over the transept collapses") ; Patio = mosque's ablutions courtyard: FACTS §3.1 (OFF Patio page), Archnet (SEC: "Court of the Oranges" enclosed by the mosque's walls) ; https://www.catedraldesevilla.es/en/phase-vi-of-the-giralda-intervention-begins/ (OFF: after Holy Week 2026, interior of the Bell Chamber and the whole Renaissance Crown, about 22 months, "cultural visits ... will not be interrupted at any time") ; https://www.catedraldesevilla.es/en/the-cathedral-maintains-its-cultural-visits-during-regular-hours/ (OFF: storm Leonardo, one bronze jar came loose, visits continued) ; https://www.elespanol.com/sevilla/20260221/catedral-sevilla-desmonta-azucenas-giralda-caer-suelo-primeros-febrero/1003744140101_0.html (SEC: one of four jarras de azucenas fell 5 Feb 2026 at 6:15; the other three taken down by crane Sat 21 Feb 2026, to supports in the Patio) ; landmarks beyond the Patio and roofs: not named until O5
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 004 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Ha subido a un alminar almohade. Ahora está en un cuerpo de campanas renacentista, colocado encima casi cuatro siglos después.
+
+Su arquitecto fue Hernán Ruiz el Joven. El cabildo convocó un concurso para rematar de nuevo la torre, y ganó su proyecto. Firmó el contrato en diciembre de 1557. [pause] El viejo remate almohade se había deteriorado, así que lo sustituyó por uno renacentista. La obra se coronó en 1568.
+
+Ahora busque el lado que da directamente al Patio de los Naranjos. [pause] Esas hileras de árboles están en lo que fue el patio de la mezquita, donde los fieles se lavaban antes de rezar. Ahí termina su visita, y saldrá por su puerta.
+
+Luego mire los tejados y cúpulas de la catedral. Un edificio de este tamaño ha tenido sus crisis. En 1511, solo cuatro años después de abrirse la catedral, se hundió la cúpula del crucero y hubo que reconstruirla.
+
+Está aquí arriba en tiempo de obras. Desde la primavera de 2026, la sala de las campanas y el remate renacentista que la corona están en restauración. [pause] La catedral dice que las visitas no se interrumpen.
+
+El clima también ha dejado su huella. En febrero de 2026, una tormenta derribó una de las cuatro jarras de azucenas de bronce de las esquinas del cuerpo de campanas. Las otras tres se bajaron con grúa unas dos semanas después, para su estudio.
+
+[quietly] Bajo sus pies, un alminar almohade. A su alrededor, un cuerpo de campanas renacentista lleno de campanas cristianas. Toda la historia de este lugar está apilada en una sola torre.
+
+Aquí hay un breve Extra sobre las campanas. Después, baje por las mismas rampas de la Giralda, por su derecha. La siguiente parada principal se escucha al bajar.

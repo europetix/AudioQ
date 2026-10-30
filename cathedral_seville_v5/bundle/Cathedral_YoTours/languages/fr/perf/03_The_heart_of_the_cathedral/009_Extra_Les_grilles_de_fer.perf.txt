@@ -1,0 +1,26 @@
+@id: 009 · FR · Capilla Mayor · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Capilla Mayor
+@type: X
+@title: Capilla Mayor · Extra · Les grilles de fer
+@where: Toujours à la croisée, face à la Capilla Mayor : les hautes grilles de fer, les rejas, qui ferment la chapelle principale et à travers lesquelles on voit le retable [O8].
+@what: The rejas (iron grilles) of the Capilla Mayor, early sixteenth century, largely by the Dominican friar Francisco de Salamanca and other Seville ironworkers; Salamanca summoned to Seville in 1518; the high-altar pulpits, 1531; his choir grille, 1518–1523.
+@listen: The friar who made the cathedral's ironwork, was paid in corn, and fixed the Giralda's clock.
+@brief: A light, amused aside about a craftsman's life; warm at the end, turning the listener round to the choir.
+@pace: medium
+@energy: 3→3→2
+@sources: https://chestofbooks.com/arts/ancient/Older-Spain-Arts-And-Crafts/Iron-Work-Part-5.html (SEC Williams 1907: "A Dominican friar, summoned to Seville in 1518, to make her cathedral rejas"; "He also made the pulpits of the high altar in 1531, and was working in this city as late as 1547"; paid sometimes "a score or so of ducats", at other times "a bushel or two of corn" (after Ceán); "put the clock of the Giralda into trim"; "built an alarum apparatus to rouse the cathedral bell-ringer at early morning"; much rejería done in the first quarter of the sixteenth century with Sancho Muñoz and others) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: the choir's Renaissance grille by Fray Francisco de Salamanca, 1518–1523) ; wording of the Capilla Mayor grilles: FACTS §6.9 HEDGE (no exact dates or makers per grille) ; pulpits named but not pointed out until O8
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 009 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] L'homme derrière une bonne part de ces ferronneries était un religieux. Entre deux commandes, dit-on, il réparait aussi l'horloge de la Giralda.
+
+Fray Francisco de Salamanca était dominicain. En 1518, la cathédrale le fit venir à Séville pour ses rejas, ses grilles de fer. [pause] Les grandes grilles devant vous sont surtout de lui et d'autres ferronniers sévillans, sur les vingt années suivantes. Les chaires du maître-autel sont aussi de lui, achevées en 1531.
+
+[lightly] Une vieille histoire des métiers d'art espagnols, fondée sur des archives plus anciennes, en montre le côté humain. Parfois, on le payait en ducats. Parfois, en un boisseau ou deux de grain. [pause] Outre l'horloge de la tour, qu'il remit en état, il fabriqua une sonnerie pour réveiller le sonneur de la cathédrale au petit matin.
+
+Voyez ce que le fer devient entre des mains habiles. [pause] Martelé et façonné, c'est un écran qui laisse tout voir. Le retable est protégé sans être caché.
+
+[warmly] Il fit aussi la grille du chœur, entre 1518 et 1523. C'est celle que vous verrez en vous retournant.
+
+Retournez-vous vers le Coro, le chœur, derrière sa grille Renaissance.

@@ -1,0 +1,30 @@
+@id: 004 · FR · Giralda · bell level · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · bell level
+@type: W
+@title: Giralda — La vue depuis les cloches
+@where: En haut des rampes, à l'étage des cloches de la Giralda, à une ouverture du côté qui donne sur le Patio de los Naranjos : des rangées d'orangers dans une cour fermée, tout en bas [O5]. Restez en retrait des ouvertures pour laisser passer les autres.
+@what: The Renaissance belfry of the Giralda by Hernán Ruiz the Younger (contract 17 Dec 1557, after a competition; crowned 13 Aug 1568) on the Almohad minaret; the view of the Patio de los Naranjos and the cathedral roofs; the crossing dome's collapse in 1511; DATED: Phase VI works on the bell chamber and Renaissance crown since April 2026; the lily vase that fell in February 2026.
+@listen: Who put a Renaissance crown on a minaret, what you can see of the mosque from up here, and what has happened to the tower this year.
+@brief: Arriving at the top with the listener; warm and a little elated, then guided looking over the courtyard and roofs, quiet at the payoff.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta: the Chapter had held a design competition, Hernán Ruiz's project chosen; contract "fechado el 17 de diciembre de 1557"; figure placed "el 13 de agosto de 1568 coronando la Giralda") ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-giralda (OFF: Hernán Ruiz replaced the deteriorated last Almohad body with a Renaissance finial in the sixteenth century) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1507 inauguration 11 May; 1511 "the primitive dome over the transept collapses") ; Patio = mosque's ablutions courtyard: FACTS §3.1 (OFF Patio page), Archnet (SEC: "Court of the Oranges" enclosed by the mosque's walls) ; https://www.catedraldesevilla.es/en/phase-vi-of-the-giralda-intervention-begins/ (OFF: after Holy Week 2026, interior of the Bell Chamber and the whole Renaissance Crown, about 22 months, "cultural visits ... will not be interrupted at any time") ; https://www.catedraldesevilla.es/en/the-cathedral-maintains-its-cultural-visits-during-regular-hours/ (OFF: storm Leonardo, one bronze jar came loose, visits continued) ; https://www.elespanol.com/sevilla/20260221/catedral-sevilla-desmonta-azucenas-giralda-caer-suelo-primeros-febrero/1003744140101_0.html (SEC: one of four jarras de azucenas fell 5 Feb 2026 at 6:15; the other three taken down by crane Sat 21 Feb 2026, to supports in the Patio) ; landmarks beyond the Patio and roofs: not named until O5
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 004 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Vous avez gravi un minaret almohade. Vous voici dans un beffroi Renaissance, posé dessus presque quatre siècles plus tard.
+
+Son architecte fut Hernán Ruiz le Jeune. Le chapitre de la cathédrale organisa un concours pour un nouveau sommet, et son projet l'emporta. Il signa son contrat en décembre 1557. [pause] L'ancien sommet almohade s'était dégradé. Il le remplaça par un sommet Renaissance, couronné en 1568.
+
+Trouvez le côté qui plonge sur le Patio de los Naranjos, la cour des orangers. [pause] Ces rangées d'arbres occupent l'ancienne cour de la mosquée, où les fidèles faisaient leurs ablutions avant la prière. Votre visite se termine là, et vous sortirez par sa porte.
+
+Puis regardez les toits et les coupoles de la cathédrale. Un édifice de cette taille a connu des crises. [pause] En 1511, quatre ans à peine après l'ouverture, la coupole de la croisée s'effondra. Il fallut la reconstruire.
+
+Vous êtes ici en pleins travaux. Depuis le printemps 2026, la salle des cloches et le couronnement Renaissance au-dessus sont en restauration. Selon la cathédrale, les visites ne sont pas interrompues.
+
+Le temps aussi a eu son mot à dire. En février 2026, une tempête a fait tomber l'un des quatre vases de lys en bronze, aux angles du beffroi. [pause] Les trois autres ont été descendus à la grue environ deux semaines plus tard, pour être étudiés.
+
+[quietly] Sous vos pieds, un minaret almohade. Autour de vous, un beffroi Renaissance plein de cloches chrétiennes. Toute l'histoire du lieu tient dans une seule tour.
+
+Il y a ici un court Extra sur les cloches. Puis redescendez par les mêmes rampes de la Giralda, en tenant votre droite. Le prochain arrêt principal s'écoute pendant la descente.

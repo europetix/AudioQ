@@ -1,0 +1,28 @@
+@id: 015 · FR · Sepulcro de Cristóbal Colón · 30 Oct 2026 edition
+@section: Columbus
+@room: Sepulcro de Cristóbal Colón
+@type: W
+@title: Sepulcro de Colón — À qui sont ces ossements ?
+@where: Toujours au tombeau de Christophe Colomb, près de la Puerta del Príncipe : le cercueil porté par quatre hérauts.
+@what: The remains in Arturo Mélida's monument; their journey from Valladolid (1506) by way of the Cartuja in Seville, Santo Domingo and Havana; the 1877 Santo Domingo find; the University of Granada DNA studies announced in 2006 and 2024; Hernando Colón, buried in the cathedral, and his library.
+@listen: Columbus's long journey after death, two countries that claim his bones, and what the DNA studies can and cannot say.
+@brief: An honest, unhurried explanation by a grave; curious, careful with the science, warm at the end with Hernando's books.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.upo.es/patio-colorado/?p=11176 (SEC low: died Valladolid 1506; moved by his son Diego to the Cartuja, Santa María de las Cuevas; around 1537 to Santo Domingo Cathedral; to Havana after 1795; back to Seville in 1898; 1877 lead box with bones and Columbus's name found in Santo Domingo Cathedral; Dominican claim) ; https://www.nbcnews.com/id/wbna12871458 (SEC NBC/AP 19 May 2006: mitochondrial DNA of his brother Diego compared; Marcial Castro: "absolute matchup"; Santo Domingo "might conceivably also hold part of the right body"; Juan Bautista Mieses, Columbus Lighthouse: "The remains have never left Dominican territory"; testing refused: "one does not bother the dead") ; https://www.ultimahora.com/investigadores-confirman-que-los-huesos-enterrados-en-sevilla-son-de-cristobal-colon (SEC EFE 10 Oct 2024: José Antonio Lorente, University of Granada, says the Seville bones are Columbus's, compared with his son Hernando and brother Diego; 2003–2005 only "compatibilidad posible"; results "will be published", not yet) ; https://www.publico.es/culturas/confirman-huesos-enterrados-catedral-sevilla-son-cristobal-colon.html (SEC 10 Oct 2024: "el esqueleto que hay en Sevilla es incompleto"; the Dominican remains "no han sido objeto de estudio") ; https://www.aljazeera.com/news/2024/10/27/what-is-the-science-behind-the-christopher-columbus-origins-discovery (SEC: origin findings "have not yet been peer-reviewed") ; https://artsandculture.google.com/asset/drawing-for-the-gravestone-by-hernando-colón-0001/hwFFECUk6oecCQ (SEC AHPS: Hernando died in Seville 12 Jul 1539, "buried in the Cathedral of that city") ; https://www.catedraldesevilla.es/en/?p=53313 (OFF: books inherited from his father, Imago Mundi, Marco Polo, Book of Prophecies; each book notes he "left this book for the use and benefit of all his fellow men")
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 015 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Christophe Colomb n'a jamais cessé de voyager, même mort.
+
+Il mourut à Valladolid. Son corps fut transféré dans un monastère de Séville, la Cartuja. Puis il traversa l'Atlantique jusqu'à la cathédrale de Saint-Domingue, sur Hispaniola. [pause] Quand l'Espagne céda cette partie de l'île, des restes partirent à La Havane. Et quand l'Espagne perdit Cuba, ces restes revinrent ici, dans ce tombeau.
+
+[pause] Mais en 1877, dans la cathédrale de Saint-Domingue, des ouvriers trouvèrent une boîte de plomb pleine d'ossements, au nom de Colomb. La République dominicaine affirme qu'il y est toujours. En 2006, le directeur de son Phare de Colomb l'a dit net : les restes n'ont jamais quitté le territoire dominicain.
+
+La science s'en est donc mêlée. Une équipe de l'université de Grenade étudie ces ossements depuis le début des années 2000. [pause] En mai 2006, elle annonça une concordance avec l'ADN de Diego, frère de Colomb. En 2024, son responsable, José Antonio Lorente, les a attribués à Colomb, après comparaison avec Diego et avec Hernando, le fils de Colomb.
+
+[quietly] Voici ce qu'on peut dire honnêtement. Les études de Grenade appuient l'idée que ces os sont, au moins en partie, les siens. Le squelette d'ici est incomplet. Et les restes de Saint-Domingue n'ont jamais été analysés. [pause] La République dominicaine le revendique toujours. Quant à ses origines, les annonces télévisées de 2024 n'ont pas été publiées scientifiquement.
+
+[warmly] Un Colomb est enterré ici à coup sûr : son fils Hernando. Il réunit des milliers de livres, dont certains de son père, et légua chacun à l'usage et au profit de tous ses semblables. Sa bibliothèque survit près de la cour où finit votre visite, mais elle est fermée au public.
+
+Direction les sacristies. Longez ce côté de l'église, dos aux grandes portes du fond, jusqu'à la Capilla de los Dolores. En la traversant, on arrive à la Sacristía de los Cálices, la sacristie des calices. Cherchez le haut tableau de Goya : deux saintes, un lion à leurs pieds, et la Giralda derrière elles.

@@ -1,0 +1,30 @@
+@id: 006 · ES · Giralda · on the way down · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · on the way down
+@type: W
+@title: Giralda — De mezquita a catedral
+@where: En las rampas de la Giralda, bajando, por su derecha. Se escucha caminando, no hace falta detenerse.
+@what: The Great Mosque of Seville, ordered 1172 by the Almohad caliph Abu Ya'qub Yusuf, prayer hall 1172–76, minaret finished 1198 under his son; 1248 Fernando III takes Seville and the mosque becomes the cathedral; 1401 the chapter's decision; the "think us mad" tradition and the more sober wording handed down; building from the 1430s; finished 1506, opened 11 May 1507; what the mosque left: the minaret, the courtyard and the Puerta del Perdón.
+@listen: How a mosque became a cathedral, the famous "mad" quotation and what the decision says, as it has come down to us, and what survives of the mosque.
+@brief: A storyteller walking down beside the listener; curious at the start, wry about the quotation, warm at the end. No "look at" instructions.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1163 capital moved to Seville under Abu Yaqub Yusuf; 1172 Great Mosque ordered; 1248 mosque converted into the church of Santa Maria; 1401 canons decide to build a new cathedral; inaugurated 11 May 1507) ; https://archnet.org/sites/2753 (SEC: mosque begun 1172, construction 1172–1176; minaret 1184; consecrated as cathedral of Santa Maria de la Sede after 1248; the Court of the Oranges and the Puerta del Perdón kept) ; https://www.catedraldesevilla.es/en/?p=51926 (OFF: mosque consecrated as cathedral and adapted after 1248; "the huge gothic project began" 1433; "broadly speaking, finished in 1506"; most of the mosque demolished for the Gothic church) ; https://www.catedraldesevilla.es/en/?p=53300 (OFF: destruction began 1401; Giralda became a bell tower after 1248) ; https://archive.aramcoworld.com/issue/199401/the.giralda.htm (SEC: minaret completed 1198 under al-Mansur) ; quotation: FACTS §1.8 safe wording (LEGEND; the "mad" line is on no official page, the "none its equal" gist is HEDGE) ; 150 years as cathedral: FACTS §1.4
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 006 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1401, los canónigos de Sevilla tomaron una decisión que tardarían más de un siglo en cumplir. Para entenderla, hay que volver a la mezquita.
+
+Hace ocho siglos y medio, el califa almohade Abu Yaqub Yusuf mandó construir una gran mezquita del viernes en Sevilla, su capital en España. Su sala de oración se levantó en unos cuatro años. [pause] El alminar, la torre por la que ahora baja, se terminó en tiempos de su hijo.
+
+En 1248, el rey Fernando Tercero tomó Sevilla. La mezquita fue consagrada como catedral de la ciudad, adaptada al culto cristiano, y sirvió así durante siglo y medio.
+
+Luego, en 1401, los canónigos votaron derribarla y construir una iglesia nueva. [pause] La tradición cuenta que un canónigo propuso hacer una iglesia tan grande que quienes la vieran terminada los tomaran por locos. [wry] La decisión misma, tal como nos ha llegado, es más sobria. Habla de una iglesia tan buena que no haya otra igual.
+
+Las obras empezaron en serio unos treinta años después. Piedra a piedra, la iglesia gótica se alzó donde había estado la sala de oración. [pause] Se inauguró en mayo de 1507, un siglo después de aquella votación.
+
+[warmly] Pero los constructores no lo borraron todo. Conservaron el alminar y lo convirtieron en su campanario. Conservaron el patio donde los fieles se lavaban antes de rezar, hoy el patio de los naranjos. Y conservaron su gran portada, la Puerta del Perdón. Por ahí saldrá usted al final.
+
+[quietly] Así que, al bajar por estas rampas, camina dentro de la parte de la mezquita que la catedral nunca quiso soltar.
+
+Abajo, entre unos pasos en la catedral, sin estorbar la puerta de la torre. La siguiente parada es al pie de la Giralda.

@@ -1,0 +1,26 @@
+@id: 009 · DE · Capilla Mayor · 30 Oct 2026 edition
+@section: The heart of the cathedral
+@room: Capilla Mayor
+@type: X
+@title: Capilla Mayor · Extra · Die Eisengitter
+@where: Noch in der Vierung, mit Blick auf die Capilla Mayor: die hohen Eisengitter, die Rejas, die die Hauptkapelle abschließen und durch die Sie das Altarretabel sehen [O8].
+@what: The rejas (iron grilles) of the Capilla Mayor, early sixteenth century, largely by the Dominican friar Francisco de Salamanca and other Seville ironworkers; Salamanca summoned to Seville in 1518; the high-altar pulpits, 1531; his choir grille, 1518–1523.
+@listen: The friar who made the cathedral's ironwork, was paid in corn, and fixed the Giralda's clock.
+@brief: A light, amused aside about a craftsman's life; warm at the end, turning the listener round to the choir.
+@pace: medium
+@energy: 3→3→2
+@sources: https://chestofbooks.com/arts/ancient/Older-Spain-Arts-And-Crafts/Iron-Work-Part-5.html (SEC Williams 1907: "A Dominican friar, summoned to Seville in 1518, to make her cathedral rejas"; "He also made the pulpits of the high altar in 1531, and was working in this city as late as 1547"; paid sometimes "a score or so of ducats", at other times "a bushel or two of corn" (after Ceán); "put the clock of the Giralda into trim"; "built an alarum apparatus to rouse the cathedral bell-ringer at early morning"; much rejería done in the first quarter of the sixteenth century with Sancho Muñoz and others) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: the choir's Renaissance grille by Fray Francisco de Salamanca, 1518–1523) ; wording of the Capilla Mayor grilles: FACTS §6.9 HEDGE (no exact dates or makers per grille) ; pulpits named but not pointed out until O8
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 009 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Der Mann hinter einem Großteil dieser Schmiedekunst war ein Ordensbruder, der, so erzählt man, zwischen seinen Aufträgen auch die Uhr der Giralda reparierte.
+
+Fray Francisco de Salamanca war Dominikaner. 1518 rief ihn die Kathedrale nach Sevilla, um ihre Rejas zu schaffen, ihre Eisengitter. [pause] Die großen Gitter vor Ihnen schufen größtenteils er und andere Kunstschmiede aus Sevilla, in den folgenden zwei Jahrzehnten. Auch die Kanzeln am Hochaltar sind sein Werk, vollendet 1531.
+
+[lightly] Eine alte Geschichte des spanischen Kunsthandwerks, gestützt auf frühere Akten, ergänzt die menschliche Seite. Manchmal bekam er Dukaten. Manchmal ein, zwei Scheffel Korn. [pause] Er brachte nicht nur die Turmuhr in Ordnung, sondern baute auch einen Wecker, der den Glöckner der Kathedrale frühmorgens weckte.
+
+Sehen Sie, was Eisen in geschickten Händen vermag. [pause] Es ist zu einem Gitter gehämmert und geformt, durch das Sie direkt hindurchsehen. So ist das Retabel geschützt, ohne verborgen zu sein.
+
+[warmly] Er schuf auch das Gitter des Chors, zwischen 1518 und 1523. Vor diesem stehen Sie, wenn Sie sich umdrehen.
+
+Drehen Sie sich um zum Coro, dem Chor, hinter seinem Renaissancegitter.

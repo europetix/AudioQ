@@ -1,0 +1,26 @@
+@id: 012 · FR · Puerta de la Asunción, west end inside · 30 Oct 2026 edition
+@section: Around the naves
+@room: Puerta de la Asunción · west end, inside
+@type: R
+@title: Extrémité ouest — Les plus anciens vitraux et les grandes portes
+@where: À l'extrémité de l'église opposée à la Capilla Mayor, devant les grandes portes centrales de la Puerta de la Asunción, vues de l'intérieur. Levez les yeux vers le haut vitrail au-dessus des portes, puis le long des fenêtres de cette moitié de l'église.
+@what: Puerta de la Asunción, centre of the main front, completed 1827–1833 under Fernando Rosales, sculpture outside by Ricardo Bellver; the oldest stained glass, by Enrique Alemán, documented 1478–1483; the three windows of this front by Vicente Menardo, including the Evangelists above the main door.
+@listen: Why the cathedral's main doors waited centuries to be finished, and the oldest glass in the building.
+@brief: A calm, slightly wry pause at the quiet end of the church, then admiring as the eye rises to the glass.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: Assumption Gate "in the center of the west or main facade"; "remained unfinished for centuries"; Cardinal Cienfuegos y Jovellanos decided to complete it in 1827, finished 1833, Fernando Rosales kept the Gothic style; Ricardo Bellver's sculpture years later, Assumption relief in the tympanum) ; https://www.catedraldesevilla.es/en/?p=53385 (OFF: openings over the side chapels and the main west nave "correspond to the oldest period of the construction"; the oldest windows, seventeen, by Enrique Alemán, documented in Seville 1478–1483; Vicente Menardo "commissioned to build the three stained glass windows of the west façade"; Los Evangelistas over the main door) ; https://www.guinnessworldrecords.es/world-records/69157-largest-roman-catholic-cathedral (SEC: 126.2 m long) ; ceremonial use, not a visitors' door: research/VISIT_ROUTE row 18
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 012 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] La cathédrale fut achevée en 1506. Pas son portail principal. Pendant des siècles, la grande porte centrale de l'église resta inachevée.
+
+Vous êtes à la Puerta de la Asunción, la porte de l'Assomption, au centre de la façade principale. Un cardinal décida enfin de l'achever en 1827. L'architecte Fernando Rosales respecta le style gothique du reste. [pause] Les sculptures extérieures vinrent des années plus tard, du sculpteur Ricardo Bellver. Aujourd'hui, ces portes s'ouvrent pour les grandes cérémonies, pas pour les visiteurs.
+
+[pause] Regardez maintenant la lumière. Les fenêtres au-dessus des chapelles latérales et le long de cette partie de la nef centrale datent de la phase la plus ancienne. Les vitraux les plus anciens ici sont l'œuvre d'un maître nommé Enrique Alemán, actif à Séville vers 1480.
+
+La haute verrière au-dessus des portes est plus tardive, avec les quatre évangélistes. [pause] C'est l'une des trois de cette façade dues à Vicente Menardo, peintre verrier du seizième siècle.
+
+[lightly] D'ici, regardez toute la longueur de l'église. La cathédrale mesure quelque 126 mètres de long, et s'étend devant vous.
+
+Longez le côté de l'église opposé à la tour, jusqu'à la Capilla de la Antigua. C'est la plus grande chapelle de ce côté, avec sa Vierge médiévale peinte au-dessus de l'autel. Le nom des chapelles figure au-dessus des grilles.

@@ -1,0 +1,26 @@
+@id: 018 · Sacristía Mayor · 30 Oct 2026 edition
+@section: Sacristies and chapter house
+@room: Sacristía Mayor
+@type: W
+@title: Sacristía Mayor — Campaña's Descent
+@where: In the Sacristía Mayor, the great domed sacristy. Stand facing the central chapel: in front of it hangs Pedro de Campaña's large painting of Christ's body being lowered from the cross.
+@what: Pedro de Campaña, Descent from the Cross, 1547, painted for the chapel of Hernando de Jaén in the parish church of Santa Cruz, Seville.
+@listen: The painting Murillo could not stop looking at, and the church that both of them lost.
+@brief: Quiet, intimate storytelling in a grand room; reverent in front of the painting, tender with Murillo, a soft sigh at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://catedraldesevilla.es/en/?p=53309 (OFF: Pedro de Campaña, 1547, "Sacristía Mayor") ; https://catedraldesevilla.es/en/the-cathedral/building/renaissance-additions-royal-chapel-chapter-house-and-main-sacristy (OFF: "In front of the central chapel is located the great painting of Pedro de Campaña, the Descent of Christ"; Greek-cross plan, dome) ; https://www.ge-iic.com/files/IVcongreso/30_maria_arjonillas3.pdf (SEC GE-IIC: made for the chapel of Hernando de Jaén in the former parish church of Santa Cruz, demolished 1810 during the French occupation; Ponz, Viage de España 1786: Murillo studied it continually and in his last years told the sacristan he was waiting "cuando acababan de bajar de la cruz a aquel Divino Señor"; paper dates the painting c.1570, overridden by OFF 1547) ; https://visitasevilla.es/materiales/ruta-de-murillo.pdf (SEC: Murillo asked in his will to be buried in Santa Cruz and was; the French destroyed the church; a plaque of 1858 in the Plaza de Santa Cruz marks the approximate place)
+---
+[reverent] Most paintings you look at once. One of Seville's best-loved painters kept coming back to this one for years.
+
+You're in the Sacristía Mayor, the great sacristy, and in front of its central chapel hangs the Descent from the Cross by Pedro de Campaña. He was a Flemish painter working in Seville, and he painted it in 1547. It was made for a chapel in one of the city's parish churches, Santa Cruz, the church of the Holy Cross.
+
+[pause] Look at the figures at the cross, taking the body down. That moment caught Bartolomé Esteban Murillo. An eighteenth-century writer, Antonio Ponz, tells how Murillo would stand in that chapel looking at it, again and again. Late in life, he told the sacristan he was waiting until they finished taking Our Lord down from the cross.
+
+[quietly] It's a lovely story, and we have it secondhand. But it tells you what painters thought of this picture, more than a century after it was made.
+
+Murillo asked to be buried in that same church, and he was. Then, during the French occupation of Seville, the church of Santa Cruz was pulled down. The painting survived, and in time it came to the cathedral. Murillo's grave was lost with the building. Today a plaque in the square of Santa Cruz marks only roughly where he lies.
+
+[warmly] So the painting he loved hangs in the cathedral, and the man who loved it lies somewhere under a square nearby.
+
+There's a short Extra here on the dome and two bishops by Murillo. The next main stop is in this room too, here in the Sacristía Mayor: the great silver monstrance, the Custodia de Arfe.

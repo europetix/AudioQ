@@ -1,0 +1,28 @@
+@id: 026 · FR · Patio de los Naranjos · 30 Oct 2026 edition
+@section: Patio de los Naranjos
+@room: Patio de los Naranjos · view of the Giralda
+@type: R
+@title: Patio de los Naranjos — Le Giraldillo
+@where: Dans le Patio de los Naranjos, à un endroit sous les orangers d'où l'on voit le sommet de la Giralda : une figure féminine de bronze tenant un étendard, debout sur le point le plus haut du beffroi.
+@what: The Giraldillo, "Faith Victorious", bronze, about 4 m high and about 1,500 kg, a turning weathervane figure holding a palm and a banner (labarum); cast by Bartolomé Morel (contract 27 Aug 1566), designed by the painter Luis de Vargas (AHPS; IAPH: "no conclusive documents"); placed on the tower 13 Aug 1568; probably based on a print of Pallas Athena; taken down for study in Dec 1998, the original put back 22 July 2005.
+@listen: The bronze figure that gave the Giralda its name, the goddess she may have started as, and why the one on top is the original.
+@brief: A friend pointing up at the sky with obvious pleasure; curious, amused by her history, quietly proud at the end.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-giralda (OFF, read 30 Oct 2026: "a bronze female statue about four meters high", "the victorious faith", "called the Giraldillo, which gives its name to the tower", it "revolves") ; https://juntadeandalucia.es/cultura/archivos_html/sites/default/contenidos/archivos/ahpsevilla/documentos/Info_web_diciembre_2022.pdf (OFF-Junta, read 30 Oct 2026: contract with Bartolomé Morel 27 Aug 1566; "diseñada por el pintor Luis de Vargas"; 1,500 kg, 4 m; installed 13 Aug 1568, "dos años después de lo pactado"; contract 27 Aug 1566 "a tenerla acabada en ocho meses", so spoken as "two years after the contract was signed" (re-read 30 Oct 2026, audit fixes); names include "Veleta" and "Triunfo de la Fe Victoriosa"; internal mechanisms to turn; Morel also cast seven Giralda bells and the choir lectern) ; https://www.iaph.es/revistaph/index.php/revistaph/article/view/715/715 (SEC IAPH, read 30 Oct 2026: probably inspired by a 16th-century print, Serrera suggests Marcantonio Raimondi's Pallas Athena; designer/modeller "no existe documentación concluyente"; holds a palm and a labarum; 1684 a gale had detached the forearm, remade; restorations 1592–1981) ; https://www.iaph.es/revistaph/index.php/revistaph/article/view/2033/2033 (SEC IAPH bulletin Oct 2005, read 30 Oct 2026: back on top "desde el pasado 22 de julio", away "casi siete años", arrived at IAPH 4 Dec 1998; IAPH argued against replacing her with a replica and putting her in a museum) ; https://www.catedraldesevilla.es/en/phase-vi-of-the-giralda-intervention-begins/ (OFF, read 30 Oct 2026: works after Holy Week 2026 on the bell chamber and Renaissance crown, about 22 months; "the Giraldillo is not part of this intervention", under study by the "Giraldillo Working Group")
+@lang: fr
+@translation: from the fact-checked English Seville Cathedral 026 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] La tour la plus célèbre de Séville doit son nom à la statue qui la surmonte.
+
+Levez les yeux vers le sommet de la Giralda, à près de cent mètres. Cette figure de bronze, c'est le Giraldillo, la petite chose qui tourne. [pause] C'est la Foi victorieuse, haute d'environ quatre mètres, pesant environ une tonne et demie, avec une palme et un étendard. Girouette, elle tourne avec le vent, et toute la tour lui doit son nom.
+
+Le fondeur Bartolomé Morel la coula. Elle fut probablement dessinée par le peintre Luis de Vargas, et sa pose viendrait d'une gravure de Pallas Athéna. [amused] Une déesse païenne de la guerre et de la sagesse, convertie en Foi chrétienne. Elle fut hissée le treize août 1568, deux ans après la signature du contrat. [pause] Morel coula aussi les bronzes du grand lutrin du Coro. Si vous vous êtes arrêté au chœur, vous avez déjà vu son travail.
+
+[pause] La vie au sommet est rude. Une tempête lui arracha un jour l'avant-bras, qu'il fallut refaire. Plus tard, on la descendit pour l'étudier et la restaurer, et une réplique la remplaça près de sept ans. Les restaurateurs plaidèrent pour sa place sur la tour, pas dans un musée. [pause] Le vingt-deux juillet 2005, l'original remonta.
+
+De nouveaux travaux sur le beffroi, sous elle, ont commencé au printemps 2026. Elle n'en fait pas partie, même si des experts l'étudient à nouveau.
+
+[quietly] La figure qui tourne là-haut est donc bien celle que Morel a coulée.
+
+Allez maintenant à la galerie couverte qui longe le côté de la cour le plus proche de la tour. C'est la Nave del Lagarto, avec un crocodile suspendu au plafond.

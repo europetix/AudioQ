@@ -1,0 +1,28 @@
+@id: 027 · DE · Nave del Lagarto · 30 Oct 2026 edition
+@section: Patio de los Naranjos
+@room: Nave del Lagarto
+@type: R
+@title: Nave del Lagarto — Ein Krokodil, ein Stoßzahn und eine Giraffe
+@where: In der Nave del Lagarto, der überdachten Galerie an der Seite des Patio de los Naranjos, die der Giralda am nächsten liegt. Blicken Sie zur Decke: Dort hängt ein Krokodil, daneben ein Elefantenstoßzahn, ein Stab und ein Zaumzeug.
+@what: Hanging objects: a crocodile (the "lagarto"), said to be a carved wooden copy today; an elephant tusk; a rod of command; a bridle. The embassy of the Mamluk Sultan of Egypt to Alfonso X, c. 1260 (between 1260 and 1265), with "un marfil", a giraffe ("azorafa") and a striped she-ass (zebra) in the Crónica de Alfonso X; the crocodile added by tradition and by Ortiz de Zúñiga (17th c.). Above the gallery: the Biblioteca Capitular y Colombina (not on the visit).
+@listen: The true story of a sultan's gifts to a Spanish king, the crocodile that tradition added to them, and what really hangs here now.
+@brief: A friend sharing a favourite oddity; amused and conspiratorial, careful to separate the chronicle from the legend.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.historicalsoundscapes.com/pdf/501/sevilla (SEC Ruiz Jiménez 2016, read 30 Oct 2026: embassy of the Mamluk sultan entered Seville "entre 1260 y 1265"; Crónica: "un marfil e una alimaña que decía azorafa" and "una asna que era viada, que tenía la una banda blanca y la otra prieta"; Ortiz de Zúñiga: the animals died soon, the king ordered "sus pieles llenas de paja se pusiesen en el claustro de la santa iglesia"; the one that lasted longest was a "lagarto disforme (o cocodrilo egipcio)", which gave the name "nave del Lagarto") ; https://www.upo.es/patio-colorado/2024/04/30/te-has-fijado-en-el-cocodrilo-colgado-dentro-de-la-catedral-de-sevilla (SEC UPO 2024, read 30 Oct 2026: crocodile seen overhead entering through the Puerta del Lagarto; "un colmillo de elefante, un bocado o freno de animal y un bastón de mando"; "tallado en madera", "imitación de la original"; "many stories" explain it; marriage proposal "se dice", not used) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-patio-de-los-naranjos-and-colombian-library/ (OFF, read 30 Oct 2026: the library is in part of the Nave del Lagarto, on the upper floor of the two naves at the north-east corner of the Patio; 1552 Hernando Colón's library joined the chapter's) ; FACTS §5.4 (books owned by Columbus, OFF [O12]), §5.6 (not on the visit)
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 027 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] An der Decke der Kathedrale von Sevilla hängt ein Krokodil. Seit Jahrhunderten versucht man, das zu erklären.
+
+Blicken Sie hinauf in der Nave del Lagarto, der Galerie der Eidechse. [pause] Über Ihnen hängen ein Krokodil, der Lagarto selbst, ein Elefantenstoßzahn, ein Stab und ein Zaumzeug. Wenn Sie durch die Puerta del Lagarto hereingekommen sind, sind Sie vielleicht schon darunter hindurchgegangen.
+
+Die Geschichte beginnt mit etwas Wirklichem. Um 1260 erreichten Gesandte des Mamlukensultans von Ägypten Alfons den Weisen in Sevilla. Die Chronik seiner Herrschaft zählt ihre Geschenke auf: einen Elfenbeinzahn, eine Giraffe und eine Eselin mit einem weißen und einem dunklen Streifen. [wry] Mit anderen Worten, ein Zebra.
+
+[conspiratorial] Was die Chronik nicht erwähnt, ist ein Krokodil. Die Überlieferung fügt eines hinzu, ein Nilkrokodil unter den Geschenken. [pause] Im siebzehnten Jahrhundert schrieb Sevillas Chronist Ortiz de Zúñiga, die Tiere seien bald nach ihrer Ankunft gestorben. Der König habe ihre Häute mit Stroh ausstopfen und im Kreuzgang der Kathedrale anbringen lassen. Am längsten habe sich eine missgestaltete Eidechse gehalten, oder ein ägyptisches Krokodil, schrieb er, und sie habe dieser Galerie den Namen gegeben.
+
+[pause] Das Krokodil, das Sie heute sehen, soll eine Kopie aus Holz sein. Auch über den Stab und das Zaumzeug erzählt man Geschichten, aber keine, die die Quellen bestätigen können.
+
+Über dieser Galerie liegt die Bibliothek von Hernando Colón, dem Sohn des Kolumbus. Sie bewahrt Bücher, die einst seinem Vater gehörten. Bei diesem Besuch ist sie nicht geöffnet.
+
+Letzte Station: die Puerta del Perdón, das hohe Bogentor in der Mitte der hinteren Hofseite, gegenüber der Kathedrale.

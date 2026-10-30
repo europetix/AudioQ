@@ -1,0 +1,24 @@
+@id: 012 · Puerta de la Asunción, west end inside · 30 Oct 2026 edition
+@section: Around the naves
+@room: Puerta de la Asunción · west end, inside
+@type: R
+@title: West end — The oldest windows and the great doors
+@where: At the far end of the church from the Capilla Mayor, in front of the great central doors of the Puerta de la Asunción, seen from inside. Look up at the tall stained-glass window above the doors and along the windows of this half of the church.
+@what: Puerta de la Asunción, centre of the main front, completed 1827–1833 under Fernando Rosales, sculpture outside by Ricardo Bellver; the oldest stained glass, by Enrique Alemán, documented 1478–1483; the three windows of this front by Vicente Menardo, including the Evangelists above the main door.
+@listen: Why the cathedral's main doors waited centuries to be finished, and the oldest glass in the building.
+@brief: A calm, slightly wry pause at the quiet end of the church, then admiring as the eye rises to the glass.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: Assumption Gate "in the center of the west or main facade"; "remained unfinished for centuries"; Cardinal Cienfuegos y Jovellanos decided to complete it in 1827, finished 1833, Fernando Rosales kept the Gothic style; Ricardo Bellver's sculpture years later, Assumption relief in the tympanum) ; https://www.catedraldesevilla.es/en/?p=53385 (OFF: openings over the side chapels and the main west nave "correspond to the oldest period of the construction"; the oldest windows, seventeen, by Enrique Alemán, documented in Seville 1478–1483; Vicente Menardo "commissioned to build the three stained glass windows of the west façade"; Los Evangelistas over the main door) ; https://www.guinnessworldrecords.es/world-records/69157-largest-roman-catholic-cathedral (SEC: 126.2 m long) ; ceremonial use, not a visitors' door: research/VISIT_ROUTE row 18
+---
+[wry] The cathedral was finished in 1506. Its main doorway was not. For centuries, the great central door of the church stood unfinished.
+
+You're at the Puerta de la Asunción, the Door of the Assumption, at the centre of the cathedral's main front. A cardinal finally decided to complete it in 1827, and the architect Fernando Rosales kept to the Gothic style of the rest. The carved figures outside came years later, by the sculptor Ricardo Bellver. Today these doors open for great ceremonies, not for visitors.
+
+[pause] Now look at the light. The windows above the side chapels and along this end of the central nave belong to the oldest phase of the building. The earliest glass here is the work of a master called Enrique Alemán, who was working in Seville around 1480.
+
+The tall window high above the doors is later, with the four Evangelists. It is one of three on this front by Vicente Menardo, a glass painter of the sixteenth century.
+
+[lightly] Look back down the church from here. The whole cathedral is some 126 metres long, and it stretches away in front of you.
+
+Along the far side of the church from the tower, to the Capilla de la Antigua: the largest chapel on that side, its medieval painted Virgin above the altar. The chapel names are over the grilles.

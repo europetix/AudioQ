@@ -1,0 +1,28 @@
+@id: 001 · ES · Entrada · Puerta del Lagarto or Puerta del Príncipe · 30 Oct 2026 edition
+@section: Opening
+@room: Entrada · Puerta del Lagarto or Puerta del Príncipe
+@type: ANCHOR
+@title: Bienvenidos a la Catedral de Sevilla
+@where: Justo después del control de entrada, a un lado, fuera del paso de la gente. En la Puerta del Lagarto, la puerta junto a la Giralda que da a la galería cubierta del Patio de los Naranjos, con un cocodrilo colgado en lo alto. En la Puerta del Príncipe, la puerta del brazo sur del crucero, con el sepulcro de Colón, cuatro heraldos que llevan un féretro, muy cerca.
+@what: Orientation: the mosque, the cathedral from 1248, the Gothic church after 1401; UNESCO World Heritage 1987 (Cathedral, Alcázar, Archivo de Indias); how the guide works (one route, three lengths; Extras not on the shorter versions); the Giralda first; working church; one way through; both entrances; non-climbers.
+@listen: What this place was before it was a cathedral, how the guide works, and how to get from your door to the Giralda.
+@brief: A warm, composed welcome from a friend who knows the building; unhurried but practical, clear on the route.
+@pace: medium
+@energy: 3→3→2
+@sources: https://www.catedraldesevilla.es/en/?p=53300 (OFF: Giralda once the minaret of the Great Mosque; UNESCO World Heritage 1987 to "the monumental complex formed by the Cathedral, the Royal Alcazar and the Archive of the Indies"; demolition began 1401) ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1163 Abu Yaqub Yusuf moves the capital to Seville; 1172 Great Mosque ordered; 1248 mosque becomes the church of Santa Maria; 1401 canons decide to build a new cathedral) ; https://whc.unesco.org/en/list/383/ (OFF-UNESCO: property "Cathedral, Alcázar and Archivo de Indias in Seville"; year not shown in the fetch) ; https://www.catedraldesevilla.es/en/cultural-visit/schedules-and-rates/ (OFF: "The visit begins at the Giralda tower, which has its own access control"; Lagarto Gate and Prince's Gate as access doors; no exit or route given) ; https://catedraldesevilla.es/wp-content/uploads/2025/03/Normas-generales-catedral-descargable-actualizado.pdf (OFF: no re-entry once the ticket is validated; Capilla Real "reservado exclusivamente para el culto y la oración"; no wheelchairs or strollers on the Giralda) ; https://www.catedraldesevilla.es/en/the-cathedral/building/the-gothic-cathedral-main-altarpiece-choir-side-chapels-and-doorways (OFF: Prince's Gate in the south arm of the transept, current individual visit access; choir "directly in front of the Main Chapel") ; crocodile in the Nave del Lagarto: research FACTS §4.1 (SEC UPO 2024), placement O1 ; Columbus's tomb by the Príncipe: research row 4, O2/O12 ; lengths: WRITER_BRIEF wording (after O19)
+@lang: es
+@translation: from the fact-checked English Seville Cathedral 001 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Esta catedral se alza donde los almohades construyeron una gran mezquita en el siglo doce. Su campanario fue el alminar de la mezquita. Tras la toma de Sevilla por Fernando Tercero en 1248, la mezquita pasó a ser la catedral. En 1401, los canónigos decidieron sustituirla por esta iglesia gótica. Desde 1987 es Patrimonio Mundial, junto con el Alcázar y el Archivo de Indias.
+
+Esta guía es un solo recorrido en tres duraciones. El recorrido completo dura algo más de hora y media. La versión esencial, una hora y cuarto. La de imprescindibles, cuarenta y cinco minutos. Todas incluyen la Giralda. Sea cual sea la versión de su teléfono, escúchela en orden. [pause] Cada parada nombra el siguiente lugar como aparece en los carteles, con algo que buscar. En una versión corta, los números saltan, y los Extras que se anuncien no están en su teléfono. Siga a la siguiente parada principal.
+
+La visita de la catedral empieza por la Giralda, y la nuestra también. [pause] La Capilla Real se reserva para la oración y solo se ve a través de su reja. Otras capillas pueden cerrar por misa. La salida está al final, por el patio de los naranjos. Una vez fuera, no podrá volver a entrar.
+
+Si entró por la Puerta del Lagarto, quizá pasó bajo un cocodrilo colgado. Su historia se cuenta casi al final del recorrido completo. Vaya a la puerta de la torre, señalizada como Giralda.
+
+Si entró por la Puerta del Príncipe, también llamada Puerta de San Cristóbal, verá cerca cuatro heraldos cargando un féretro. Es el sepulcro de Colón. Volverá a él. [pause] Cruce el centro de la iglesia, entre el retablo dorado y el coro, hasta el brazo opuesto del crucero. Siga los carteles de la Giralda hasta la puerta de la torre, en la esquina.
+
+¿No va a subir? Vaya igualmente a la puerta de la torre y pase directamente a la parada siete, al pie de la Giralda. En la versión de imprescindibles, empiece por la Capilla Mayor, el retablo dorado en el centro de la iglesia.
+
+¿Va a subir? Escuche la siguiente parada en las primeras rampas de la Giralda.

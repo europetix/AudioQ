@@ -1,0 +1,30 @@
+@id: 006 · DE · Giralda · on the way down · 30 Oct 2026 edition
+@section: La Giralda
+@room: Giralda · on the way down
+@type: W
+@title: Giralda — Von der Moschee zur Kathedrale
+@where: Auf den Rampen der Giralda, beim Hinuntergehen, rechts gehalten [O6]. Im Gehen zu hören, kein Anhalten nötig.
+@what: The Great Mosque of Seville, ordered 1172 by the Almohad caliph Abu Ya'qub Yusuf, prayer hall 1172–76, minaret finished 1198 under his son; 1248 Fernando III takes Seville and the mosque becomes the cathedral; 1401 the chapter's decision; the "think us mad" tradition and the more sober wording handed down; building from the 1430s; finished 1506, opened 11 May 1507; what the mosque left: the minaret, the courtyard and the Puerta del Perdón.
+@listen: How a mosque became a cathedral, the famous "mad" quotation and what the decision says, as it has come down to us, and what survives of the mosque.
+@brief: A storyteller walking down beside the listener; curious at the start, wry about the quotation, warm at the end. No "look at" instructions.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: 1163 capital moved to Seville under Abu Yaqub Yusuf; 1172 Great Mosque ordered; 1248 mosque converted into the church of Santa Maria; 1401 canons decide to build a new cathedral; inaugurated 11 May 1507) ; https://archnet.org/sites/2753 (SEC: mosque begun 1172, construction 1172–1176; minaret 1184; consecrated as cathedral of Santa Maria de la Sede after 1248; the Court of the Oranges and the Puerta del Perdón kept) ; https://www.catedraldesevilla.es/en/?p=51926 (OFF: mosque consecrated as cathedral and adapted after 1248; "the huge gothic project began" 1433; "broadly speaking, finished in 1506"; most of the mosque demolished for the Gothic church) ; https://www.catedraldesevilla.es/en/?p=53300 (OFF: destruction began 1401; Giralda became a bell tower after 1248) ; https://archive.aramcoworld.com/issue/199401/the.giralda.htm (SEC: minaret completed 1198 under al-Mansur) ; quotation: FACTS §1.8 safe wording (LEGEND; the "mad" line is on no official page, the "none its equal" gist is HEDGE) ; 150 years as cathedral: FACTS §1.4
+@lang: de
+@translation: from the fact-checked English Seville Cathedral 006 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] 1401 trafen die Domherren von Sevilla eine Entscheidung, deren Umsetzung über ein Jahrhundert dauern sollte. Um sie zu verstehen, blicken wir zurück auf die Moschee.
+
+Vor achteinhalb Jahrhunderten gab der Almohaden-Kalif Abu Ya'qub Yusuf eine große Freitagsmoschee für Sevilla in Auftrag, seine Hauptstadt in Spanien. Ihr Gebetssaal entstand in etwa vier Jahren. Das Minarett, der Turm, den Sie gerade hinuntergehen, wurde unter seinem Sohn vollendet.
+
+1248 eroberte König Ferdinand der Dritte Sevilla. [pause] Die Moschee wurde als Kathedrale der Stadt geweiht und für den christlichen Gottesdienst umgestaltet. So diente sie anderthalb Jahrhunderte lang.
+
+Dann, 1401, stimmten die Domherren dafür, sie abzureißen und eine neue Kirche zu bauen. [pause] Der Überlieferung nach sagte es ein Domherr so: „Lasst uns eine Kirche bauen, so groß, dass alle, die sie vollendet sehen, uns für verrückt halten.“ [wry] Der Beschluss selbst, so wie er überliefert ist, klingt nüchterner. Er spricht von einer Kirche, „so gut, dass keine ihr gleichkommt“.
+
+Richtig begann der Bau etwa dreißig Jahre später. Stein um Stein wuchs die gotische Kirche dort empor, wo der Gebetssaal gestanden hatte. [pause] Im Mai 1507 wurde sie eröffnet, ein Jahrhundert nach jener Abstimmung.
+
+[warmly] Doch die Erbauer löschten nicht alles aus. Sie behielten das Minarett und machten es zu ihrem Glockenturm. Sie behielten den Hof, in dem sich die Gläubigen vor dem Gebet wuschen, heute den Hof der Orangenbäume. Und sie behielten sein großes Tor, die Puerta del Perdón, das Tor der Vergebung. Dort gehen Sie ganz am Ende hinaus.
+
+[quietly] Wenn Sie also diese Rampen hinuntergehen, gehen Sie durch den Teil der Moschee, den die Kathedrale nie aufgegeben hat.
+
+Unten treten Sie ein paar Schritte in die Kathedrale hinein, abseits der Turmtür. Die nächste Station ist am Fuß der Giralda.
