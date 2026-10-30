@@ -14,7 +14,8 @@ SECTIONS = [  # (@section value, display, folder)
 ]
 SEC = {s[0]: s for s in SECTIONS}
 
-def slug(s, n=48):
+def slug(s, n=56):
+    s = s.replace("º", "")
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     s = s.replace("'", "").replace('"', "")
     s = re.sub(r"[^A-Za-z0-9]+", "_", s).strip("_")
@@ -22,9 +23,7 @@ def slug(s, n=48):
 
 def short_title(title, room):
     """The title without a leading room name (Palatine titles start with the door sign; the room is already in the file name)."""
-    if room and title.startswith(room):
-        return title[len(room):].lstrip(" ·—-")
-    return title   # Setas titles: "<Spanish space> — <title>"; the space is kept
+    return title   # Setas: keep the whole title ("Walkway — …", "Mirador 360º — …") so file names are consistent   # Setas titles: "<Spanish space> — <title>"; the space is kept
 
 def room_label(sec, room, title=""):
     if sec in ("Opening", "Closing"):

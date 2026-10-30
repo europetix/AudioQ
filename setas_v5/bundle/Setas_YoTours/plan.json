@@ -107,9 +107,9 @@
    "what": "Roman Hispalis under the Plaza de la Encarnación: houses with mosaics built and rebuilt in several phases from the 1st century AD; the Casa de la Columna with its Medusa mosaic; in passing, the Casa Romana, Casa de las Basas, Casa del Sigma and Casa de la Noria; originals and replicas.",
    "listen": "Why this is Seville's best group of Roman mosaics, and the house of the Medusa.",
    "pace": "medium-slow",
-   "script": "scripts/02_Antiquarium/004_Antiquarium_The_House_of_the_Column_and_its_Medu.txt",
-   "perf": "perf/02_Antiquarium/004_Antiquarium_The_House_of_the_Column_and_its_Medu.perf.txt",
-   "mp3": "02_Antiquarium/004_Antiquarium_The_House_of_the_Column_and_its_Medu.mp3"
+   "script": "scripts/02_Antiquarium/004_Antiquarium_The_House_of_the_Column_and_its_Medusa.txt",
+   "perf": "perf/02_Antiquarium/004_Antiquarium_The_House_of_the_Column_and_its_Medusa.perf.txt",
+   "mp3": "02_Antiquarium/004_Antiquarium_The_House_of_the_Column_and_its_Medusa.mp3"
   },
   {
    "seq": "005",
@@ -219,9 +219,9 @@
    "what": "The timber structure of the Setas: Kerto laminated veneer lumber panels by Finnforest, engineered by Arup; more than 3,000 joints with glued-in steel bars, about 35,000 holes drilled; the Fraunhofer WKI heat study and the tempering of the glued parts; the 2007 redesign; the largest panel 16.5 m tall.",
    "listen": "How thousands of glued joints were made to survive the Seville sun, and why the structure had to be re-engineered.",
    "pace": "medium",
-   "script": "scripts/04_Walkways_and_Mirador/011_The_glue_that_had_to_be_baked.txt",
-   "perf": "perf/04_Walkways_and_Mirador/011_The_glue_that_had_to_be_baked.perf.txt",
-   "mp3": "04_Walkways_and_Mirador/011_The_glue_that_had_to_be_baked.mp3"
+   "script": "scripts/04_Walkways_and_Mirador/011_Walkway_The_glue_that_had_to_be_baked.txt",
+   "perf": "perf/04_Walkways_and_Mirador/011_Walkway_The_glue_that_had_to_be_baked.perf.txt",
+   "mp3": "04_Walkways_and_Mirador/011_Walkway_The_glue_that_had_to_be_baked.mp3"
   },
   {
    "seq": "012",
@@ -235,9 +235,9 @@
    "what": "The Mirador 360º, the highest point of Metropol Parasol (J. Mayer H., 2004–2011): close to 30 m high, about 150 × 70 m, six parasols, a walkway about 250 m long; orientation to the Giralda and cathedral to the south and toward the river and the Aljarafe to the west.",
    "listen": "How high you are, the two sure landmarks to find, and the whole building stacked up beneath you.",
    "pace": "medium-slow",
-   "script": "scripts/04_Walkways_and_Mirador/012_The_highest_point.txt",
-   "perf": "perf/04_Walkways_and_Mirador/012_The_highest_point.perf.txt",
-   "mp3": "04_Walkways_and_Mirador/012_The_highest_point.mp3"
+   "script": "scripts/04_Walkways_and_Mirador/012_Mirador_360_The_highest_point.txt",
+   "perf": "perf/04_Walkways_and_Mirador/012_Mirador_360_The_highest_point.perf.txt",
+   "mp3": "04_Walkways_and_Mirador/012_Mirador_360_The_highest_point.mp3"
   },
   {
    "seq": "013",
@@ -331,9 +331,9 @@
    "what": "The Plaza Mayor of Metropol Parasol (J. Mayer H., opened 2011): the raised public square over the Mercado de la Encarnación, open to the sky and used for events; the 2011 indignados (15-M) protests and camp here; finalist, European Prize for Urban Public Space 2012; Mayer's \"urban, democratic, open cathedral\"; Aurora after sunset; the way out to the street.",
    "listen": "Why the raised square is the heart of the design, how protesters made it theirs in its first weeks, and how to leave.",
    "pace": "medium-slow",
-   "script": "scripts/06_Plaza_Mayor/018_The_plaza_on_stilts_and_the_way_out.txt",
-   "perf": "perf/06_Plaza_Mayor/018_The_plaza_on_stilts_and_the_way_out.perf.txt",
-   "mp3": "06_Plaza_Mayor/018_The_plaza_on_stilts_and_the_way_out.mp3"
+   "script": "scripts/06_Plaza_Mayor/018_Plaza_Mayor_The_plaza_on_stilts_and_the_way_out.txt",
+   "perf": "perf/06_Plaza_Mayor/018_Plaza_Mayor_The_plaza_on_stilts_and_the_way_out.perf.txt",
+   "mp3": "06_Plaza_Mayor/018_Plaza_Mayor_The_plaza_on_stilts_and_the_way_out.mp3"
   }
  ]
 }
