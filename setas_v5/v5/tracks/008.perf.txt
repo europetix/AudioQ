@@ -1,30 +1,30 @@
-@id: 008 · Lift and first walkway · 30 Oct 2026 edition
+@id: 008 · Level −1 lifts · 31 Oct 2026 edition (V5.1)
 @section: Going up
-@room: Lift and first walkway
+@room: Level −1 · by the lifts
 @type: W
-@title: Setas — Mushrooms of wood
-@where: Start it in the lift as the doors close; the second half plays as you step out onto the first stretch of walkway, among the timber of the parasols. Keep moving with the flow and stop at the rail only where you're out of the way.
-@what: Metropol Parasol by J. MAYER H. (Jürgen Mayer H.), winner of the 2004 international competition (65 entries); engineered with Arup; Kerto laminated veneer lumber made in Finland, about 3,400 elements made at Aichach near Munich, 2–3 mm polyurethane coating; concrete trunks with the lifts; the "largest wooden structure" claim and what the engineers say.
-@listen: How a competition, a nickname nobody planned and thousands of pieces of Finnish wood made the Setas.
-@brief: A guide riding up with the listener; storytelling in the lift without pointing at anything, then a lift in energy as the doors open onto the timber, ending with a fair word on the record claim.
+@title: Plaza de la Encarnación — A plaza with many lives
+@where: On level minus one, by the lifts that go up to the Mirador, beside the Antiquarium entrance. Play it while you wait; there is nothing you need to look at [O3, O5].
+@what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville. NEW in V5.1, both attributed to the operator (S-HIST): "more than 400 stalls of fresh products" and "the first known food market in the city of Seville" (audit #9); the 1973 reasons as the operator gives them: structural problems in the vegetable and fish stalls, the Tamarguillo flood, the first supermarkets (audit #8; supersedes the PLAN 007 NOT line by PLAN_V5_1).
+@listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
+@brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.
 @pace: medium
-@energy: 3→4→3
-@sources: https://setasdesevilla.com/en/history-and-construction (OFF: "Out of 65 proposals, the international jury chose the innovative Metropol Parasol project"; citizens "renamed us Las Setas") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC PUBSP: 2004 competition, 65 entries; reinforced-concrete stalks with lift shafts) ; https://www.publico.es/actualidad/legado-monteseirin.html (SEC: "aunque al final él también ha aceptado el concepto de setas") ; https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC INHAB, Mayer: references to the Seville Cathedral's "undulating stone roof"; "some big trees on a neighboring plaza") ; https://visitasevilla.es/en/?p=1477 (OFF VS-SET: inspired by the cathedral's vaults and by the ficus trees near Plaza del Cristo de Burgos; "2 concrete columns") ; https://www.moma.org/collection/works/100411 (OFF: "Taking its cues from the vaults of Seville's cathedral") ; https://www.jmayerh.de/metropol-parasol (OFF: engineers Arup; bonded timber with polyurethane coating) ; https://www.arup.com/projects/metropol-parasol (OFF: Kerto from 3 mm veneers glued together; pre-assembly in Germany; waterproof polyurethane coating; "one of the largest timber structures ever built") ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF: Kerto LVL "manufactured in Finland … made of softwood veneer by gluing"; about 3,400 elements made at Aichach near Munich and trucked to Seville; 2–3 mm two-component polyurethane) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF: "2 concrete columns housing lifts") ; record wording: FACTS §5 (GWR lists Osaka's Expo 2025 Grand Ring since 4 Mar 2025)
+@energy: 3→3→3
+@sources: AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: convent founded "en 1591"; "decreto napoleónico de 1810"; "la construcción en 1831-42 del mercado central de Sevilla"; "1948 con la creación del eje de comunicación Osario-La Campana"; "en 1973 con la demolición") ; AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: convent founded 1591) ; S-HIST https://setasdesevilla.com/en/history-and-construction (OFF, re-read 31 Oct 2026: "Designed by the major architect of Seville, Melchor Cano, the market had more than 400 stalls of fresh products"; "The Encarnación Square Market is the first known food market in the city of Seville"; "In 1973, due to structural problems in the market's vegetable and fish stalls, the Tamarguillo flood and the appearance of the first supermarkets, the Market was demolished"; provisional facilities "for a maximum period of 3 years") ; PUBSP https://publicspace.org/works/-/project/g315-metropol-parasol (SEC: convent demolished during the Napoleonic invasion; site later "a car park or bus depot") ; VS-ANT https://visitasevilla.es/en/?p=1576 (OFF: 1990s excavation "to build a subway parking", project aborted) ; FG2009 via FACTS §1 (SEC: Joseph Bonaparte's decree of 20 Apr 1810; wooden market from 1820; Cano's hall approved 1832, built 1833–37; not re-read) ; "fenced, dusty car park": FACTS §1 (PUBSP, MERCASA) ; Tamarguillo as a stream (arroyo): general knowledge, not fetched
 ---
-[warmly] In 2004 Seville asked architects from around the world what to do with a square that had been a car park and then a dig for some thirty years. Sixty-five entries came in.
+[curious] This square exists because of Napoleon's brother.
 
-The winner was Jürgen Mayer H., from Berlin. His project was called Metropol Parasol: a huge shade over the square, standing on a handful of trunks, with a walkway across the top.
+It takes its name from the Convent of the Incarnation, the Encarnación, a nunnery founded here in the late 1500s. The nuns stayed for more than two centuries. Then came the French. During the occupation, in 1810, the government of Napoleon's brother, Joseph Bonaparte, ordered the convent pulled down to open up a square.
 
-[amused] He didn't set out to build mushrooms. But Sevillanos called it las Setas anyway. The nickname stuck, and even the architect came round to it.
+A square is rarely empty for long in Seville. Soon, traders had a wooden market here. Then the city built a proper one, a permanent market hall designed by the architect Melchor Cano, which went up in the 1830s. For well over a century, this was Seville's central market. By the operator's account, it had more than four hundred stalls, and it was the first known food market in the city.
 
-So where did the shapes come from? Mayer has said he took cues from the cathedral's vaulting and from the great shade trees of a neighbouring square. The city names them as the giant fig trees of the Plaza del Cristo de Burgos. Trees and vaults, then, not mushrooms.
+[pause] It didn't last. Around the middle of the last century, a new traffic artery sliced off part of the market. In 1973 the rest was demolished. The operator gives three reasons. There were structural problems in the fish and vegetable stalls. There was the Tamarguillo flood, when a stream on the edge of the city burst its banks. And the first supermarkets had arrived.
 
-[pause] As you step out, the timber is all around you. It was engineered with the firm Arup, and it's laminated veneer lumber made in Finland: thin sheets of wood glued into big panels. The pieces were milled in Bavaria and trucked to Seville, some 3,400 of them. And every beam wears a waterproof skin of polyurethane a few millimetres thick.
+The traders were moved out to temporary stalls, and for decades the square was a fenced, dusty car park. Later, the city planned an underground car park beneath it. The digging ran into Roman Seville, and that plan was dropped. What they found is in the Antiquarium, beside these lifts.
 
-[curious] But it isn't all wood. The lift you just rode runs inside a concrete trunk.
+[wry] So the gap that Napoleon's brother cleared has been filled again and again. First by a market, then by parked cars, then by archaeologists, and finally by the Setas.
 
-You may have heard a bigger claim. Long billed as the largest wooden structure in the world, it is certainly one of the largest. Its engineers say "one of the largest timber structures ever built".
+And the traders? Their own story waits for you near the end, above the market.
 
-[warmly] A competition, a nickname nobody planned, and thousands of pieces of Finnish wood. That's what's all around you now.
+[warmly] The lift you're about to take rises through every chapter of it, from below the old streets to high above the rooftops.
 
-Walk on along the walkway until the Giralda, the cathedral's tall tower, is in clear view above the rooftops. The next stop is The Cathedral and the Giralda.
+Take the lift up. Start the next stop as the doors close. It carries on as you step out onto the walkway: Mushrooms of wood.

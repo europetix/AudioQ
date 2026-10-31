@@ -6,7 +6,7 @@ cd "$(dirname "$0")"
 
 echo ""
 echo "================================================================"
-echo "  Yo Tours - Setas de Sevilla (Metropol Parasol) and the Antiquarium  (18 tracks: 16 main + 2 Extras, 30 Oct 2026 edition)"
+echo "  Yo Tours - Setas de Sevilla (Metropol Parasol) and the Antiquarium  (21 tracks: 18 main + 3 Extras, 30 Oct 2026 edition)"
 echo "================================================================"
 echo ""
 echo "Choose a language:"
@@ -23,15 +23,15 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The guide in all three lengths: Full (18 tracks, just under 1 h with the Antiquarium), Essential (11 tracks, about 35 min)"
+echo "  1) The guide in all three lengths: Full (21 tracks, about 1 h 10 with the Antiquarium), Essential (12 tracks, about 40 min)"
 echo "     and Highlights (4 tracks, about 25 min). Records once, then makes the three folders."
-echo "  2) Two voice samples only: 008 Mushrooms of wood + 012 the Mirador (a few minutes)"
+echo "  2) Two voice samples only: 009 Mushrooms of wood + 013 the Mirador (a few minutes)"
 echo "  3) Highlights only (4 tracks, about 25 min; quickest to make; option 1 later reuses them)"
 printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 OUTPUT_DIR="$HOME/Desktop/Setas_YoTours_${TAG}_${VOICE_NAME}"
-if [ "$SCOPE" = "2" ]; then export ONLY="008 012"; OUTPUT_DIR="$HOME/Desktop/Setas_YoTours_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
-if [ "$SCOPE" = "3" ]; then export ONLY="001 008 012 018"; fi   # into the full-tour folder; option 1 later skips them
+if [ "$SCOPE" = "2" ]; then export ONLY="009 013"; OUTPUT_DIR="$HOME/Desktop/Setas_YoTours_Voice_Samples/${TAG}_${VOICE_NAME}"; fi
+if [ "$SCOPE" = "3" ]; then export ONLY="001 009 013 020"; fi   # into the full-tour folder; option 1 later skips them
 export RESPELL=0
 
 [ -d "languages/$L/scripts" ] || { echo "ERROR: languages/$L is missing from this bundle."; read -p "Press enter..."; exit 1; }
@@ -53,8 +53,8 @@ if ! ( cd "languages/$L" && python3 ../../render_edge.py "$OUTPUT_DIR" ); then
 fi
 python3 tag_tracks.py "$OUTPUT_DIR" "languages/$L" "$L"
 if [ "$SCOPE" != "2" ]; then cp Setas_Audio_Guide_Route.pdf "$OUTPUT_DIR/" 2>/dev/null && echo "  [copy] route map"; fi
-ESSENTIAL="001 007 008 009 010 011 012 013 016 017 018"
-HIGHLIGHTS="001 008 012 018"
+ESSENTIAL="001 008 009 010 011 012 013 014 017 018 019 020"
+HIGHLIGHTS="001 009 013 020"
 make_length () {   # a shorter version out of the full render (no re-recording), with spoken "next stop" bridges: $1 = name, $2 = tracks
     python3 make_lengths.py "$OUTPUT_DIR" "languages/$L" "$L" "$1" "$2" && python3 tag_tracks.py "${OUTPUT_DIR}_$1" "languages/$L" "$L" >/dev/null
     cp Setas_Audio_Guide_Route.pdf "${OUTPUT_DIR}_$1/" 2>/dev/null

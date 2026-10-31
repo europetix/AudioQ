@@ -1,30 +1,24 @@
-@id: 007 · Level −1 lifts · 30 Oct 2026 edition
-@section: Going up
-@room: Level −1 · by the lifts
-@type: W
-@title: Plaza de la Encarnación — A plaza with many lives
-@where: On level minus one, by the lifts that go up to the Mirador, beside the Antiquarium entrance. Play it while you wait; there is nothing you need to look at.
-@what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville.
-@listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
-@brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.
-@pace: medium
-@energy: 3→3→3
-@sources: https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF AAA99: convent founded "en 1591"; "decreto napoleónico de 1810"; market built "1831-42"; "1948 con la creación del eje de comunicación Osario-La Campana"; "en 1973 con la demolición") ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF AAA91: convent of Augustinian nuns founded 1591) ; https://setasdesevilla.com/en/history-and-construction (OFF: market "Designed by the major architect of Seville, Melchor Cano"; 1973 "structural problems in the market's vegetable and fish stalls") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC PUBSP: convent demolished during the Napoleonic invasion; site later "a car park or bus depot") ; https://visitasevilla.es/en/?p=1576 (OFF: 1990s excavation "to build a subway parking", project aborted after the discovery) ; FG2009 via FACTS §1 (Joseph Bonaparte's decree of 20 Apr 1810; wooden market from 1820; Cano's hall approved 1832, built 1833–37; not re-read) ; "fenced, dusty car park": FACTS §1 (PUBSP, MERCASA)
+@id: 007 · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium, Almohad house
+@type: R
+@title: Antiquarium — The Almohad house
+@where: Inside the Antiquarium, at the label for the casa almohade, the Almohad house, the Moorish part of the excavation [O4].
+@what: An Islamic house of the Almohad period, 12th–13th centuries, with traces of the surrounding Almohad neighbourhood; found about 3 m below the street in the 1991–92 test dig, against about 7 m for the Roman level. Context: the Almohad Great Mosque of Seville (ordered 1172) and its minaret, begun 1184, today's Giralda. NEW in V5.1: the Torre del Oro, ordered by the Almohad governor Abu l-'Ula, built in 617 AH (1220–21) (Ministerio de Defensa 2023); "it survived because it was buried" (audit §2, OPINION-safe), tied to the layers above it (convent, market; AAA91). The house is not named "Casa de la Noria" (audit row 25, unresolved).
+@listen: How a house from Almohad Seville sits a thousand years and only a few metres above the Roman city, in the age of the Giralda, and why it is still here.
+@brief: A guide closing the museum visit; curious at the hook, warm when the Giralda appears, quietly struck by the payoff, practical and clear at the exit.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: VS-ANT https://visitasevilla.es/en/?p=1576 (OFF: "an Islamic Almohad house", Andalusian period XII–XIII c.) ; JA-ORG https://andalucia.org/en/sevilla-visitas-antiquarium (OFF: "a Moorish house dating from the XII and XIII centuries") ; AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: Almohad structures, Islamic level "entre los -3,14 y -3,60" m; Roman pavement at 6.96 m; convent remains above) ; AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: "en época almohade se documenta una potente ocupación"; market from 1831–42) ; CAT-FACTS §1.1 https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "1172: Abu Yaqub orders the construction of the Great Mosque of Seville") ; CAT-FACTS §2.1 (minaret begun 1184; as cited in cathedral_seville_v5 FACTS, not re-read) ; DEF-TORRE https://publicaciones.defensa.gob.es/media/downloadable/files/links/l/a/la_torre_del_oro_de_sevilla_su_historia_y_su_museo_mar_timo.pdf (OFF, Ministerio de Defensa, "La Torre del Oro: su historia y su Museo Marítimo", 2023, read 31 Oct 2026: "mandada edificar por el gobernador almohade de Isbiliya, Abu l-'Ula"; "se edificó en el período correspondiente al año 617 de la Hégira") ; capital of Muslim Spain: FACTS §6 safe wording ; "survived because it was buried": audit §2 lower-value items
 ---
-[curious] This square exists because of Napoleon's brother.
+[curious] Down here, a thousand years can be just a few metres of earth.
 
-It takes its name from the Convent of the Incarnation, the Encarnación, a nunnery founded here in the late 1500s. The nuns stayed for more than two centuries. Then came the French. During the occupation, in 1810, Joseph Bonaparte's government ordered the convent pulled down to open up a square.
+At the label for the casa almohade, you reach Moorish Seville. The house comes from the Almohad era, the 1100s and 1200s, when Seville was a capital of Muslim Spain. The excavators found a Moorish house on this site, and traces of the Almohad neighbourhood around it.
 
-A square is rarely empty for long in Seville. Soon, traders had a wooden market here. Then the city built a proper one, a permanent market hall designed by the architect Melchor Cano, which went up in the 1830s. For well over a century, this was Seville's central market.
+When the first test dig went down, the archaeologists met this Moorish level about three metres below the street. The Roman floors lay about twice as deep. So the house stood high above the Roman city, on ground that the centuries had slowly built up over it. [pause] If you've just come from the Roman houses, you've walked through a thousand years in a few minutes.
 
-[pause] It didn't last. Around the middle of the last century, a new traffic artery sliced off part of the market. In 1973 the rest was demolished, largely because of structural problems. The traders were moved out to temporary stalls, and for decades the square was a fenced, dusty car park.
+Those were great decades for Seville. The Almohad caliph Abu Ya'qub Yusuf built the city's Great Mosque. In 1184, work began on its minaret. Today we call it the Giralda. Down by the river, the Torre del Oro, the Tower of Gold, is Almohad work too. An Almohad governor had it built around 1220.
 
-Later, the city planned an underground car park beneath it. The digging ran into Roman Seville, and that plan was dropped. What they found is in the Antiquarium, beside these lifts.
+[warmly] Those towers stood in the open air, and they stand there still. You'll see the Giralda from the top. The house had a different fate. Later, a convent rose over this ground, and later still a market. [quietly] The house survived because it was buried.
 
-[wry] So the gap that Napoleon's brother cleared has been filled again and again. First by a market, then by parked cars, then by archaeologists, and finally by the Setas.
-
-And the traders? Their own story waits for you at the end, above the market.
-
-[warmly] The lift you're about to take rises through every chapter of it, from below the old streets to high above the rooftops.
-
-Take the lift up. Start the next stop as the doors close. It carries on as you step out onto the walkway: Mushrooms of wood.
+That's the end of the Antiquarium. Follow the exit signs, then go to the lifts beside its entrance, the Mirador access. The next stop plays by the lifts, before you go up: A plaza with many lives.

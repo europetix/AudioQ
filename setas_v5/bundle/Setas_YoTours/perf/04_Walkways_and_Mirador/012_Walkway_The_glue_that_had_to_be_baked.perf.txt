@@ -1,0 +1,28 @@
+@id: 012 · Walkway · 31 Oct 2026 edition
+@section: Walkways and Mirador
+@room: Walkway
+@type: R
+@title: Walkway — The glue that had to be baked
+@where: Anywhere on the walkway on the way to the steps up to the Mirador, walking slowly or stopped at the rail out of the way of others, with the timber panels of the parasols around you.
+@what: The timber structure of the Setas: Kerto laminated veneer lumber panels by Finnforest, engineered by Arup (the firm of the Sydney Opera House and Beijing's Bird's Nest stadium); more than 3,000 joints with glued-in steel bars, about 35,000 holes drilled; the joints glued with epoxy resin, tempered for heat, while polyurethane is only the 2–3 mm coating; the Fraunhofer WKI heat study; the 2007 redesign; the largest panel 16.5 m tall. ONSITE: O10 (joints and coating visible from the walkway).
+@listen: How thousands of glued joints were made to survive the Seville sun, and why the structure had to be re-engineered.
+@brief: A friend walking beside the listener, enjoying a good engineering story; curious, a little wry, warm at the end.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.architectmagazine.com/technology/architectural-detail/metropol-parasol_o/ (SEC, ARCHMAG, G. Fink Shapiro: "the world's largest building to be held together primarily by glue") ; https://www.arup.com/projects/metropol-parasol/ (OFF, ARUP: "3000 connection nodes"; "glued-in steel bars"; the hot climate needed "a new bonding process") ; https://www.arup.com/en-us/about-us/history/ (OFF, Arup history, read 31 Oct 2026: the Sydney Opera House "began in 1957", Ove Arup with Jørn Utzon; "our work on projects such as the Beijing 2008 Olympics' Bird Nest Stadium"; audit #11, spoken as "worked on") ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF, METSA, re-read 31 Oct 2026: more than 3,000 joints; about 35,000 holes drilled by hand; the "epoxy resin was tempered, thus ensuring that the connecting joints remain strong even at high temperatures"; "a waterproof but diffusion-permeable 2–3 millimetre thick 2-component polyurethane coating"; largest panel 16.5 m high; Mika Kallio, Finnforest: "perhaps the most complex timber structure ever built"; audit #31–32) ; https://www.sciencedaily.com/releases/2010/01/100118091909.htm (OFF/SEC, FRAUN, Fraunhofer WKI, 19 Jan 2010: Dirk Kruse "Our results revealed that the temperatures in the adhesive could potentially reach almost 60 degrees"; parts reheated after gluing, "tempering") ; https://www.dezeen.com/?p=2314624 (SEC, DEZ26: "Arup informed the city that the project was unfeasible in 2007"; FACTS §3 HEDGE wording, "by one account")
+---
+[curious] *Architect* magazine once called this the world's largest building held together primarily by glue. And in Seville, glue has an enemy: the summer sun.
+
+The engineers were Arup, who also worked on the Sydney Opera House and on Beijing's Bird's Nest stadium. Wherever two timber panels cross around you, there's a joint, and there are more than three thousand of them. Inside each, steel bars are glued into the wood. The timber makers say about thirty-five thousand holes were drilled for those bars, by hand.
+
+The glue is epoxy, a hard resin. The polyurethane is only the skin, a waterproof coat a few millimetres thick.
+
+The question was heat. Scientists at Germany's Fraunhofer institute for wood research simulated what the sun would do to the joints. Dirk Kruse, of the institute, put it plainly: "the temperatures in the adhesive could potentially reach almost 60 degrees." Sixty Celsius: right at the limit the glue was rated for.
+
+[pause] The fix sounds like baking. After gluing, the parts were heated again, a step called tempering, so the resin set harder. Every glued joint was baked a second time to toughen it.
+
+It wasn't the only scare. By one account, in 2007 the engineers warned it could not be built as drawn, and it was largely re-engineered. Mika Kallio, of the timber firm Finnforest, later said: "It is perhaps the most complex timber structure ever built."
+
+[warmly] The biggest single panel is sixteen and a half metres tall. And every one is still holding on, glue and steel, all around you.
+
+Go up the steps to the highest point, the Mirador 360º, the viewing platform. Play the next stop at the top: The highest point.

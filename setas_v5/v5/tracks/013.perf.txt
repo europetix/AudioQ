@@ -1,26 +1,30 @@
-@id: 013 · Walkway, toward the way down · 30 Oct 2026 edition
+@id: 013 · Mirador 360º · 31 Oct 2026 edition
 @section: Walkways and Mirador
-@room: Walkway · toward the way down
+@room: Mirador 360º
 @type: W
-@title: Walkway — Love it or hate it
-@where: On the walkway after you come back down from the Mirador, heading toward the way down; walking, or stopped at the rail out of the way of others.
-@what: The controversy over Metropol Parasol: protests at the opening on 27 March 2011, the critics' verdict "como a un Cristo dos pistolas", Rowan Moore's review as relayed by Dezeen, Mayor Alfredo Sánchez Monteseirín's "moderna catedral urbana"; the four-year delay and the cost the city reported to Spain's Ombudsman, without the museum figure; Red Dot "Best of the Best" 2012, Mies van der Rohe Award finalist 2013, over a million visitors in the first year by one count.
-@listen: Why Seville argued about the Setas for years, what it cost, and what it won.
-@brief: A fair-minded friend telling both sides as you walk; curious, a little wry with the quotes, straight on the money, leaving the verdict to the listener.
-@pace: medium
+@title: Mirador 360º — The highest point
+@where: At the top of the steps, on the Mirador 360º, the highest platform of the Setas. Find a place at the rail where you are not blocking the steps.
+@what: The Mirador 360º, the highest point of Metropol Parasol (J. Mayer H., 2004–2011): close to 30 m high, six parasols over about 150 m, the walkway across their tops; orientation in three directions for every version: the Giralda and cathedral to the south; west toward the river, Triana's rooftops and the Aljarafe beyond; north toward the Macarena district, about a kilometre away (direction only, no landmark claimed). ONSITE: O7 (cathedral body in clear view), O8 (Giralda-on-your-left cue; Triana's rooftops), O9 (north view; skyline boards; "Giralda at your back" cue).
+@listen: How high you are, the three directions to fix, and the whole building stacked up beneath you.
+@brief: Arriving at the top with the listener; warm and a little elated, clear and practical on orientation, quiet at the payoff.
+@pace: medium-slow
 @energy: 3→4→2
-@sources: https://www.publico.es/actualidad/legado-monteseirin.html (SEC Público, 28 Mar 2011: citizens "protestaron contra su inauguración", arguing its cost blocked neighbourhood rehabilitation projects; critics: it suits the historic centre "como a un Cristo dos pistolas"; Monteseirín: "Una moderna catedral urbana…", stopped there) ; https://www.dezeen.com/?p=2314624 (SEC Dezeen 2026: "fierce local opposition" from 2004 to the 2011 opening; planned opening 2007, pushed back four years; Rowan Moore: "Oh my God, it's an icon. How very last decade.", relayed, SNIP per FACTS) ; https://www.defensordelpueblo.es/noticias/el-defensor-del-pueblo-suspende-su-investigacion-sobre-las-setas-de-la-encarnacion-tras-la-informacion-remitida-por-el-ayuntamiento-de-sevilla-2/ (OFF Defensor del Pueblo, 2 Jul 2013: budget 51,206,918.25 €, final cost 102,349,992.07 €; archaeological museum +8,499,531.64 €; "modificaciones en la estructura de madera"; court cases pending) ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC: disputes with the construction company and archaeological costs among the reasons; controversy "enormous"; "More than a million people went up to the lookout the first year") ; https://www.jmayerh.de/metropol-parasol (OFF: Reddot "best of the best" 2012; Mies van der Rohe Award finalist 2013) ; https://www.red-dot.org/project/metropol-parasol-29871 (OFF: Red Dot "Best of the Best", Product Design 2012, "Urban design and public spaces"; corrected 30 Oct 2026 per audit: S-HIST says only bronze, "Sustainable Construction") ; https://setasdesevilla.com/en/history-and-construction (OFF: Mies van der Rohe finalist, Jan 2013)
+@sources: https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, INHAB, Jill Fehrenbacher interview: Mayer, on the rooftop, "like being on a cloud above the city") ; https://setasdesevilla.com/planifica-tu-visita (OFF, PLAN: Mirador 360º views "desde el punto más alto del monumento") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST: 150 × 70 m, about 28.5 m high; 250 m of walkways) ; https://visitasevilla.es/en/?p=1477 (OFF, VS-SET, re-read 31 Oct 2026: 150 × 70 m, about 26 m; five levels, basement Antiquarium, market at ground level, elevated plaza, top lookout and walkway) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF, JA-SET: six parasols; about 29 m) ; https://www.dezeen.com/?p=2314624 (SEC, DEZ26: "30-metre-high") → FACTS §5 safe wording "close to 30 metres" ; https://www.seville-trip.com/es/guias/guia-metropol-parasol-setas/ (SEC, STRIP, mod. 10 Jul 2026: Giralda "aparece al sur"; the river and Triana to the west; La Macarena named as a view, no direction) ; https://www.seville-tickets.com/setas-de-sevilla/plan-your-visit/ (SEC, low reliability, second source for the Triana rooftops to the west only; research §4.1) ; https://www.andalucia.com/blog/new-view-sevilla (SEC, ANDCOM11, 2011: "easily spot the Giralda and the Cathedral"; the Aljarafe west) ; BEAR (calc, research §4.2: Giralda ≈185°, 0.8 km → "less than a kilometre"; Basílica de la Macarena ≈10°, 1.0 km → "north… about a kilometre", direction only, per PLAN_V5_1 and audit #33/#228)
 ---
-[curious] When the Setas opened, in March 2011, some Sevillanos came out to protest. They argued that its cost had swallowed money their own neighbourhoods needed.
+[warmly] The architect, Jürgen Mayer H., said that standing up here is like being on a cloud above the city. You've reached the highest point of the Setas.
 
-For years it was the most argued-about building in Seville. People objected to the money, and to the look of it in the middle of the old town. Its critics said the Setas suited the old town "like two pistols on a Christ", a Spanish way of saying wildly out of place.
+How high is that? Sources disagree by a few metres, so let's say close to thirty metres, about the height of a nine-storey building. Below you, six parasols spread out over a hundred and fifty metres, and the walkway snakes across their tops. This platform crowns it.
 
-[wry] The British critic Rowan Moore was dry about it: "Oh my God, it's an icon. How very last decade." The mayor who opened it, Alfredo Sánchez Monteseirín, saw something else entirely: "a modern urban cathedral".
+Three directions are worth fixing, even if you found some of them on the walkway. Find the Giralda, the cathedral's tall bell tower, with the great bulk of the cathedral beside it. That way is south, less than a kilometre off.
 
-[pause] Then there was the delay, and the bill. Meant to open in 2007, it took four more years. The city told Spain's Ombudsman that the cost had roughly doubled, from a budget of about 51 million euros to a final bill of about 102 million. Changes to the timber structure, the archaeology and disputes with the builder all played a part.
+Now put the Giralda on your left. You're facing west, toward the river, the Guadalquivir, and the rooftops of Triana, the old neighbourhood across the water. Beyond them rises the Aljarafe, the higher ground on that side of the river.
 
-And yet. It won a Red Dot "Best of the Best" design award. It was a finalist for the European Union's Mies van der Rohe Award for architecture. And by one count, over a million people went up to the walkway in its first year.
+Last, put the Giralda at your back. You're looking north now, toward the Macarena district, about a kilometre away.
 
-[quietly] You're standing on it now, so you get a vote too. Icon, folly, or a bit of *both*?
+[lightly] The rest of the skyline is yours to explore, at your own pace. Take a slow turn around the rail before you go.
 
-There are two short Extras here: Aurora, the light in the timber after dark, and Feeling Sevilla, about the film room. Play that one before you go in. The next main stop plays as you walk down, past the exhibition: From building site to city symbol.
+Then think of what's stacked beneath your feet. Below the street lie the remains of Roman and Moorish Seville. At street level, the market. Above it, the Plaza Mayor, the raised square. And above that, the timber, rising all the way to this platform.
+
+[pause] [quietly] From below the street to the highest point, one building holds two thousand years of the same square. For a moment, you're on that cloud.
+
+When you're ready, go back down the steps and walk on along the walkway toward the way down. Play the next stop as you go: Love it or hate it.

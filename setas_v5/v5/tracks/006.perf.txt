@@ -1,24 +1,26 @@
-@id: 006 · Antiquarium · 30 Oct 2026 edition
+@id: 006 · Antiquarium · 31 Oct 2026 edition (V5.1)
 @section: Antiquarium
-@room: Level −1 · Antiquarium, Almohad house
+@room: Level −1 · Antiquarium, on the wall
 @type: R
-@title: Antiquarium — The Almohad house
-@where: Inside the Antiquarium, at the label for the casa almohade, the Almohad house, the Moorish part of the excavation.
-@what: An Islamic house of the Almohad period, 12th–13th centuries, with traces of the surrounding Almohad neighbourhood; found about 3 m below the street in the 1991–92 test dig, against about 7 m for the Roman level. Context: the Almohad Great Mosque of Seville (ordered 1172) and its minaret, begun 1184, today's Giralda.
-@listen: How a house from Almohad Seville sits a thousand years and only a few metres above the Roman city, in the age of the Giralda.
-@brief: A guide closing the museum visit; curious at the hook, warm when the Giralda appears, practical and clear at the exit.
+@title: Antiquarium — The two birds
+@where: Inside the Antiquarium, wherever you find a mosaic hung upright on a wall with two birds at its centre, the museum's emblem; if you haven't spotted it, play it as you walk on and keep looking. It never says where the mosaic is [O4].
+@what: NEW TRACK in V5.1 [O4]. The emblem: the "kissing birds" mosaic, the symbol of the Antiquarium, "at the centre of a large mosaic" and "reconstructed on the wall of the museum" (ACOM), "pieced together … displayed on the wall" (ACOM-B). Only these SEC facts are spoken as fact; neither source mentions a bowl. Lead decision 31 Oct 2026 (fact audit 006.1/006.2; replaces the HOLD): KRAMER describes, in the Hospitium de los Triclinia, "a perfectly executed geometric composition with two birds on a crater in a small square panel as the central motif", with two borders creating an illusory water movement and smaller zig-zag panels forming a wave effect. That this panel is the emblem is an inference (audit §2 #1), so it is spoken as a panel "that may be the same one", and its details only as what to look for "if the label matches". Dropped: "It began as part of a floor", "underfoot", "sharing a drink", "small" birds (all inferred). Why such scenes: KRAMER, mosaics alluding to the plants and animals of nature were common in Roman houses, especially in areas for passage; their meaning "always eludes us". No species, no century, no "kissing" as fact. Retitled from "Two birds and a wine bowl"; 005's cue updated.
+@listen: The mosaic of two birds that became the museum's emblem, a panel described by the study that may be the same one, and how Romans decorated their homes.
+@brief: A guide stopping with the listener at a much-loved mosaic; curious, a little amused at the nickname, careful about what we know, warm at the end.
 @pace: medium-slow
 @energy: 2→3→2
-@sources: https://visitasevilla.es/en/?p=1576 (OFF: "an Islamic Almohad house", Andalusian period XII–XIII c.) ; https://andalucia.org/en/sevilla-visitas-antiquarium (OFF: "a Moorish house dating from the XII and XIII centuries") ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF AAA91: Almohad structures, Islamic level "entre los -3,14 y -3,60" m; Roman pavement at 6.96 m) ; https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF AAA99: "en época almohade se documenta una potente ocupación") ; https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF, CAT-FACTS §1.1: "1172: Abu Yaqub orders the construction of the Great Mosque of Seville") ; CAT-FACTS §2.1 (minaret begun 1184; AramcoWorld, Archnet as cited in cathedral_seville_v5 FACTS) ; capital of Muslim Spain: FACTS §6 safe wording
+@sources: ACOM https://andalucia.com/cities/seville/museum-antiquarium.htm (SEC, published 6 Dec 2011, modified 2 Apr 2026, re-read 31 Oct 2026: "the kissing birds", "at the centre of a large mosaic", the symbol of the museum, "reconstructed on the wall of the museum") ; ACOM-B https://www.andalucia.com/blog/piecing-together-past (SEC, 19 May 2011, via audit §2 #1, not re-read: "pieced together … displayed on the wall") ; KRAMER https://acikerisim.uludag.edu.tr/bitstreams/5d489fdf-1c78-4a17-b073-8b9e36726fc6/download (SEC academic, Journal of Mosaic Research 11, 2018, re-read 31 Oct 2026: "In the Hospitium de los Triclinia … a perfectly executed geometric composition with two birds on a crater … in a small square panel as the central motif"; "In the two surrounding borders of the mat, an inner and an outer," an illusory water movement; "two smaller panels with zig-zag patterns form a similar wave effect"; "13 mosaics, in situ on the floor, or exposed as vertical panels"; "It was common in Roman houses, particularly in the so-called dynamic areas intended for passage … mosaics with figurative or decorative patterns, which alluded to the plants and animals of nature"; their role "always eludes us") ; crater = Greek and Roman wine-mixing bowl: general knowledge
 ---
-[curious] Down here, a thousand years can be just a few metres of earth.
+[curious] Of all the gods and monsters found under this square, the museum chose two birds as its emblem.
 
-This is the Almohad house. It comes from the Almohad era, the 1100s and 1200s, when Seville was a capital of Muslim Spain. The excavators found a Moorish house here, and traces of the Almohad neighbourhood around it.
+Somewhere along the way, look for a mosaic hung upright on a wall, with two birds at its centre. It was pieced back together and set on the wall, so you see it standing up.
 
-When the first test dig went down, the archaeologists met this Moorish level about three metres below the street. The Roman floors lay about twice as deep. So this house stood high above the Roman city, on ground that the centuries had slowly built up over it. [pause] If you've just come from the Roman houses, you've walked through a thousand years in a few minutes.
+[amused] Some people call them the kissing birds. Kissing, or just keeping each other company? You decide.
 
-Those were great decades for Seville. The Almohad caliph Abu Ya'qub Yusuf built the city's Great Mosque. In 1184, work began on its minaret. Today we call it the Giralda. [warmly] You'll see it from the top.
+The study of these mosaics describes a panel with two birds on a crater, the big bowl Romans mixed their wine in. It may be the same mosaic. That panel comes from the Hospitium de los Triclinia, the Hospitium of the Dining Rooms. [pause] If the label matches, look for more. On that panel, the birds sit in a small square at the centre of a geometric design. Around it, two borders are laid to look like moving water, and smaller zigzag panels add to the ripple. See if the water seems to move.
 
-Later still, a convent rose over this ground. Its story, and the story of the square above you, comes by the lifts.
+Why birds at all? Romans liked mosaics that brought nature indoors, plants and animals, especially in the parts of a house people walked through. What one image meant to the family who lived with it, the study admits, always eludes us.
 
-That's the end of the Antiquarium. Follow the exit signs, then go to the lifts beside its entrance, the Mirador access. The next stop plays by the lifts, before you go up: A plaza with many lives.
+[warmly] Out of all of it, the museum picked the gentlest image to stand for the whole.
+
+Walk on, and look for the label for the casa almohade, the Almohad house. Play the next stop in the Antiquarium there: The Almohad house. If you passed it earlier, play that stop now, before you leave the Antiquarium.

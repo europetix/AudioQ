@@ -1,5 +1,5 @@
 YO TOURS - SETAS DE SEVILLA (METROPOL PARASOL) AND THE ANTIQUARIUM
-Audio guide, edition of 30 Oct 2026 (@@N_FULL@@ tracks: @@N_MAIN@@ main stops + @@N_X@@ short Extras)
+Audio guide, edition 5.1 of 31 Oct 2026 (@@N_FULL@@ tracks: @@N_MAIN@@ main stops + @@N_X@@ short Extras)
 English, Spanish, French, German
 
 WHY THIS EDITION
@@ -7,18 +7,22 @@ WHY THIS EDITION
 Built from scratch to the Yo Tours standard. The free official audio is reached by QR codes along the route (its languages
 and length aren't stated on the official site), and the official app's description gives no languages. Neither, as far
 as they are described, guides the Antiquarium underneath. This guide:
-1. Covers the whole building, from the bottom up: the Roman and Moorish houses of the Antiquarium under the square, the
-   lifts, the walkways and the Mirador 360º at the very top, the way down past the exhibition, and the Plaza Mayor above
-   the market, where the visit ends.
-2. Says what you see, but only what has been checked: the Cathedral and the Giralda to the south, the river and the
-   Aljarafe to the west. Other landmarks are added only after an on-site check.
-3. Tells the whole story: the convent pulled down in 1810, the market that was "temporary" for 37 years, the car-park dig
-   that found Roman Seville, the 2004 competition, the timber and the glue that had to be baked, and the cost and the
-   argument, with every opinion and figure attributed to who said it.
-4. Checks every fact on official pages and reliable sources (30 Oct 2026). No prices, hours or ticket advice.
+1. Covers the whole building, from the bottom up: the Roman and Moorish houses of the Antiquarium under the square (Medusa
+   the guardian, Bacchus and the dinner party, the two birds that are the museum's emblem, the Almohad house), the lifts,
+   the walkways and the Mirador 360º at the very top, the way down past the exhibition, and the Plaza Mayor above the
+   market, where the visit ends. A short Extra for after the visit: the fig trees that inspired the design and the
+   Alameda's Roman columns.
+2. Says what you see, but only what has been checked: the Cathedral, the Giralda and its bronze Faith to the south; the
+   river, Triana's rooftops and the Aljarafe to the west; the Macarena district to the north.
+3. Tells the whole story: the convent pulled down in 1810, the market of more than 400 stalls that was "temporary" for 37
+   years, the digs that found Roman Seville (1991 to 2009), the 2004 competition, the timber and the glue that had to be
+   baked, and the cost and the argument, with every opinion and figure attributed to who said it.
+4. Checks every fact on official pages and reliable sources (30–31 Oct 2026); edition 5.1 restores every verified detail
+   of the earlier Yo Tours guide and leaves out its errors (an independent claim-by-claim check).
+   Two independent audits. No prices, hours or ticket advice.
 5. Three lengths (one recording, three folders):
-   Full tour   @@N_FULL@@ tracks, just under 1 hour with the Antiquarium (separate entrance and admission)
-   Essential   @@N_ESS@@ tracks, about 35 min:  @@ESSENTIAL@@
+   Full tour   @@N_FULL@@ tracks, about 1 h 10 with the Antiquarium (separate entrance and admission) and the after-visit Extra
+   Essential   @@N_ESS@@ tracks, about 40 min:  @@ESSENTIAL@@
    Highlights  @@N_HI@@ tracks, about 25 min:   @@HIGHLIGHTS@@
    The times include walking and the lifts, but not the Feeling Sevilla film (about a quarter of an hour).
    In the shorter versions a short spoken line at the end of a track tells you the next stop.
@@ -28,7 +32,7 @@ HOW TO MAKE THE AUDIO (on a Mac)
 ================================
 English:          double-click generate_audio.command  (voice 1 = Ava)
                   option 1 = all three lengths (records once; folders _Essential and _Highlights)
-                  option 2 = two voice samples (008 Mushrooms of wood + 012 the Mirador)
+                  option 2 = two voice samples (009 Mushrooms of wood + 013 the Mirador)
                   option 3 = Highlights only (quickest; option 1 later reuses those recordings)
 Other languages:  double-click generate_audio_ES_FR_DE.command and pick the language, then the same options.
 Needs internet, python3, ffmpeg (brew install ffmpeg) and an up-to-date edge-tts:

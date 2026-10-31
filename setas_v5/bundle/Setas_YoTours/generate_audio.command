@@ -9,7 +9,7 @@ BASE_DIR="$HOME/Desktop/Setas_YoTours_EN"   # new folder name: older Setas rende
 echo ""
 echo "================================================================"
 echo "  Yo Tours - Setas de Sevilla (Metropol Parasol) and the Antiquarium (30 Oct 2026 edition)"
-echo "  Setas de Sevilla - English  (18 tracks: 16 main stops + 2 short Extras)"
+echo "  Setas de Sevilla - English  (21 tracks: 18 main stops + 3 short Extras)"
 echo "================================================================"
 echo ""
 echo "Choose a voice:"
@@ -27,18 +27,18 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The guide in all three lengths: Full (18 tracks, just under 1 h with the Antiquarium), Essential (11 tracks, about 35 min)"
+echo "  1) The guide in all three lengths: Full (21 tracks, about 1 h 10 with the Antiquarium), Essential (12 tracks, about 40 min)"
 echo "     and Highlights (4 tracks, about 25 min). Records once, then makes the three folders."
-echo "  2) Two voice samples only: 008 Mushrooms of wood + 012 the Mirador (a few minutes)"
+echo "  2) Two voice samples only: 009 Mushrooms of wood + 013 the Mirador (a few minutes)"
 echo "  3) Highlights only (4 tracks, about 25 min; quickest to make; option 1 later reuses them)"
 printf "Enter 1, 2 or 3 [1]: "
 read SCOPE
 if [ "$SCOPE" = "2" ]; then
-    export ONLY="008 012"
+    export ONLY="009 013"
     BASE_DIR="$HOME/Desktop/Setas_YoTours_Voice_Samples/Sample"
 fi
 if [ "$SCOPE" = "3" ]; then
-    export ONLY="001 008 012 018"   # recorded into the full-tour folder (option 1 later skips them), then the Highlights folder is made
+    export ONLY="001 009 013 020"   # recorded into the full-tour folder (option 1 later skips them), then the Highlights folder is made
 fi
 
 HAVE_FFMPEG=1
@@ -69,8 +69,8 @@ command -v ffmpeg >/dev/null 2>&1 || { HAVE_FFMPEG=0; echo "WARNING: ffmpeg not 
     fi
     python3 tag_tracks.py "$OUTPUT_DIR" . en
 
-ESSENTIAL="001 007 008 009 010 011 012 013 016 017 018"
-HIGHLIGHTS="001 008 012 018"
+ESSENTIAL="001 008 009 010 011 012 013 014 017 018 019 020"
+HIGHLIGHTS="001 009 013 020"
 make_length () {   # a shorter version out of the full render (no re-recording), with spoken "next stop" bridges: $1 = name, $2 = tracks
     python3 make_lengths.py "$OUTPUT_DIR" "." "en" "$1" "$2" && python3 tag_tracks.py "${OUTPUT_DIR}_$1" "." "en" >/dev/null
     cp Setas_Audio_Guide_Route.pdf "${OUTPUT_DIR}_$1/" 2>/dev/null

@@ -68,8 +68,8 @@ J = json.load(open(LENGTHS_JSON, encoding="utf-8"))
 H_SET = {int(x) for x in J["HIGHLIGHTS"].split()}; E_SET = {int(x) for x in J["ESSENTIAL"].split()}
 F_SET = set(NUMS)
 FX = len(XS)
-LENGTHS = [("Full tour", F_SET, "just under 1 h", "with the Antiquarium; every main stop and the Extras"),
-           ("Essential", E_SET, "about 35 min", "no Antiquarium: from the lifts to the top, down to the plaza"),
+LENGTHS = [("Full tour", F_SET, "about 1 h 10", "with the Antiquarium; every main stop and the Extras"),
+           ("Essential", E_SET, "about 40 min", "no Antiquarium: from the lifts to the top, down to the plaza"),
            ("Highlights", H_SET, "about 25 min", "the welcome, the timber, the Mirador, the plaza")]
 
 # ---------------------------------------------------------------- palette & sections

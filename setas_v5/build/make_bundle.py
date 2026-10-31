@@ -11,6 +11,7 @@ SECTIONS = [  # (@section value, display, folder)
  ('Walkways and Mirador', 'Walkways and Mirador', '04_Walkways_and_Mirador'),
  ('Coming down', 'Coming down', '05_Coming_down'),
  ('Plaza Mayor', 'Plaza Mayor', '06_Plaza_Mayor'),
+ ('After your visit', 'After your visit', '07_After_your_visit'),
 ]
 SEC = {s[0]: s for s in SECTIONS}
 

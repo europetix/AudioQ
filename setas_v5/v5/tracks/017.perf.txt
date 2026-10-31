@@ -1,26 +1,28 @@
-@id: 017 · Plaza Mayor, above the market · 30 Oct 2026 edition
-@section: Plaza Mayor
-@room: Plaza Mayor · above the market
+@id: 017 · The way down · 31 Oct 2026 edition
+@section: Coming down
+@room: The way down · the exhibition
 @type: R
-@title: Plaza Mayor — The market that waited 37 years
-@where: On the Plaza Mayor, the big raised square under the parasols; find a quiet spot away from the way down. The market is directly beneath this square, at street level.
-@what: The Mercado de la Encarnación: Melchor Cano's market hall of the 1830s, demolished 1973; temporary stalls for three years that lasted 37; the new market at street level under the Plaza Mayor, reopened 19 Dec 2010; fishmongers and greengrocers today.
-@listen: How the market's "temporary" move lasted 37 years, and how it came back under your feet.
-@brief: A friend telling a small, human story of patience; curious at the start, warm and a little wry at the end.
+@title: The way down — From building site to city symbol
+@where: On the way down from the walkways to the Plaza Mayor, where the exhibition on the history of the Plaza de la Encarnación lines the route; play it as you walk down.
+@what: The official exhibition on the way down, showing the evolution of the Plaza de la Encarnación up to today (contents not yet photographed); building the Setas from June 2005; the opening on Sunday 27 March 2011 by Mayor Alfredo Sánchez Monteseirín, the Antiquarium the same evening; Arup's project director José de la Peña; Sacyr's concession and the 2021 renewal; DATED: 15th anniversary in 2026. ONSITE: O12 (exhibition contents; where the way down comes out), O14.
+@listen: How a building site Seville argued over became a city symbol, as you walk down past the exhibition.
+@brief: A friend walking down with the listener, telling the opening story with a smile; warm, unhurried, a light wry touch at the end.
 @pace: medium
 @energy: 2→3→3
-@sources: https://setasdesevilla.com/en/history-and-construction (OFF: market designed by Melchor Cano; demolished 1973 "due to structural problems"; temporary facilities "for a maximum of 3 years", extended to 37 years; "On December 19, 2010, a modern and renovated Mercado de la Encarnación reopened its doors"; Plaza Mayor and Antiquarium opened about three months later) ; https://www.mercasa.es/wp-content/uploads/2026/02/DYC_176_web-107-112.pdf (SEC, J.I. Robles Picón, Distribución y Consumo 2023 vol. 4: "uno de los mercados municipales más antiguos de Andalucía y de toda España"; "derribado por daños estructurales en 1973"; "un polvoriento parking"; provisional site 1973–2010; nine fishmongers, ten fruit and vegetable stalls, counts not used) ; https://visitasevilla.es/en/?p=1477 (OFF: market at ground level under the elevated plaza) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF: market at ground level) ; https://www.jmayerh.de/metropol-parasol (OFF: programme with farmers' market and elevated plaza) ; 1830s: FACTS §1 (FG2009) ; Roman fish salting: https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Spain-Portugal/Hispalis-Gonzalez2010.pdf (SEC academic, first-century factoría de salazones under the square)
+@sources: https://setasdesevilla.com/planifica-tu-visita (OFF: "exposición única que muestra la evolución de la Plaza de la Encarnación hasta la actualidad"; "Finaliza tu recorrido en la emblemática Plaza Mayor") ; https://setasdesevilla.com/experiencia-general (OFF: "exposición única mientras desciendes") ; https://www.defensordelpueblo.es/noticias/el-defensor-del-pueblo-suspende-su-investigacion-sobre-las-setas-de-la-encarnacion-tras-la-informacion-remitida-por-el-ayuntamiento-de-sevilla-2/ (OFF: works "se iniciaron en junio de 2005"; operator says 2006, so FACTS HEDGE "mid-2000s") ; https://www.arup.com/news-and-events/sevilles-la-plaza-de-la-encarnacion-opens (OFF Arup: opened "Sunday 27 March" by Mayor Alfredo Sánchez Monteseirín; Antiquarium opened the same evening; José de la Peña, Project Director: "Constructions of this nature always create a great impact, and are always debated in the respective cities"; cited the Eiffel Tower; confident Seville is proud of its new symbol of modernity and technology) ; https://www.publico.es/actualidad/legado-monteseirin.html (SEC, 28 Mar 2011: the opening; Sacyr built it and helped finance it in exchange for running it; years not used) ; https://www.dezeen.com/?p=2314624 (SEC: opposition from the 2004 announcement to the 2011 opening) ; https://setasdesevilla.com/en/history-and-construction (OFF: full inauguration 6 May 2011 → "in stages through that spring") ; https://sacyr.com/-/10-aniversario-setas-sevilla (OFF: 2021 renewal, Aurora and Feeling Sevilla) ; https://setasdesevilla.com/ (OFF: "Campaña 15 Aniversario", read 30 Oct 2026)
 ---
-[curious] In 1973 the traders of this square were promised a temporary home. Three years, at most. They waited thirty-seven.
+[curious] On a Sunday in the spring of 2011, Seville's mayor opened a building the city had been arguing about for seven years.
 
-Right below you, at street level, is the Mercado de la Encarnación, the Incarnation Market. A market hall had stood here since the 1830s. In 1973 it was demolished, largely because of structural problems, and the stallholders moved into makeshift stalls nearby.
+The exhibition around you, the operator says, shows how the Plaza de la Encarnación changed, up to today.
 
-The square they left behind became a fenced, dusty car park. Then the archaeologists came, and then the architects. Each time, the market waited.
+Building began in the mid-2000s, on a square that had already been a convent, a market and a car park. On the twenty-seventh of March 2011, the mayor opened it, and the museum of Roman remains below opened the same evening. The rest followed in stages through that spring.
 
-[pause] It moved back in at the end of 2010, about three months before the square you're standing on opened above it. The architect had kept its place in the plan: the market at street level, and this raised square on top of it, like a roof you can walk on.
+[pause] José de la Peña, project director for the engineers, Arup, saw the arguments coming. Buildings like this, he said, "always create a great impact, and are always debated". He pointed to the Eiffel Tower, which Paris had once argued about too. Seville, he said, could be proud of a new symbol of modernity and technology.
 
-Fishmongers and greengrocers still trade down there. A study published by Mercasa, Spain's state food-markets company, calls it one of the oldest municipal markets in Andalusia, and in all of Spain. You can visit it afterwards, from the street.
+Sacyr, the company that built it, helped finance it, and runs it under a long concession from the city. Ten years after the opening, it renewed the building, adding the Aurora lights and the Feeling Sevilla room.
 
-[wry] And there's a neat symmetry under your feet. Two thousand years ago, the Romans were salting fish on this spot. Today, the fish is sold *fresh*.
+In 2026, the Setas turns fifteen.
 
-Stay on the Plaza Mayor for the last stop: The plaza on stilts.
+[wry] Building site, quarrel, symbol. The Eiffel Tower took that road too.
+
+At the end of the way down, you come out on the Plaza Mayor, the big raised square under the parasols. Find a spot out of the way, where you can see the timber overhead, and play the next stop there: Under the timber.

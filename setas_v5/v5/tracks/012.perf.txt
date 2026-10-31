@@ -1,26 +1,28 @@
-@id: 012 · Mirador 360º · 30 Oct 2026 edition
+@id: 012 · Walkway · 31 Oct 2026 edition
 @section: Walkways and Mirador
-@room: Mirador 360º
-@type: W
-@title: Mirador 360º — The highest point
-@where: At the top of the steps, on the Mirador 360º, the highest platform of the Setas. Find a place at the rail where you are not blocking the steps.
-@what: The Mirador 360º, the highest point of Metropol Parasol (J. Mayer H., 2004–2011): close to 30 m high, about 150 × 70 m, six parasols, a walkway about 250 m long; orientation to the Giralda and cathedral to the south and toward the river and the Aljarafe to the west.
-@listen: How high you are, the two sure landmarks to find, and the whole building stacked up beneath you.
-@brief: Arriving at the top with the listener; warm and a little elated, clear and practical on orientation, quiet at the payoff.
-@pace: medium-slow
-@energy: 3→4→2
-@sources: https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, Jill Fehrenbacher interview: Mayer, on the rooftop, "like being on a cloud above the city") ; https://setasdesevilla.com/planifica-tu-visita (OFF: Mirador 360º views "desde el punto más alto del monumento") ; https://setasdesevilla.com/en/history-and-construction (OFF: 150 × 70 m, about 28.5 m high; 250 m of walkways) ; https://visitasevilla.es/en/?p=1477 (OFF city tourism: 150 × 70 m, about 26 m; five levels, basement Antiquarium, market at ground level, elevated plaza, top lookout and walkway) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF Junta: six parasols; about 29 m) ; https://www.dezeen.com/?p=2314624 (SEC: "30-metre-high") → FACTS §5 safe wording "close to 30 metres" ; https://www.seville-trip.com/es/guias/guia-metropol-parasol-setas/ (SEC: Giralda "aparece al sur"; west face looks toward the Guadalquivir) ; https://www.andalucia.com/blog/new-view-sevilla (SEC 2011: "easily spot the Giralda and the Cathedral"; the Aljarafe west) ; "less than a kilometre": research §4.2 computed bearing (BEAR)
+@room: Walkway
+@type: R
+@title: Walkway — The glue that had to be baked
+@where: Anywhere on the walkway on the way to the steps up to the Mirador, walking slowly or stopped at the rail out of the way of others, with the timber panels of the parasols around you.
+@what: The timber structure of the Setas: Kerto laminated veneer lumber panels by Finnforest, engineered by Arup (the firm of the Sydney Opera House and Beijing's Bird's Nest stadium); more than 3,000 joints with glued-in steel bars, about 35,000 holes drilled; the joints glued with epoxy resin, tempered for heat, while polyurethane is only the 2–3 mm coating; the Fraunhofer WKI heat study; the 2007 redesign; the largest panel 16.5 m tall. ONSITE: O10 (joints and coating visible from the walkway).
+@listen: How thousands of glued joints were made to survive the Seville sun, and why the structure had to be re-engineered.
+@brief: A friend walking beside the listener, enjoying a good engineering story; curious, a little wry, warm at the end.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.architectmagazine.com/technology/architectural-detail/metropol-parasol_o/ (SEC, ARCHMAG, G. Fink Shapiro: "the world's largest building to be held together primarily by glue") ; https://www.arup.com/projects/metropol-parasol/ (OFF, ARUP: "3000 connection nodes"; "glued-in steel bars"; the hot climate needed "a new bonding process") ; https://www.arup.com/en-us/about-us/history/ (OFF, Arup history, read 31 Oct 2026: the Sydney Opera House "began in 1957", Ove Arup with Jørn Utzon; "our work on projects such as the Beijing 2008 Olympics' Bird Nest Stadium"; audit #11, spoken as "worked on") ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF, METSA, re-read 31 Oct 2026: more than 3,000 joints; about 35,000 holes drilled by hand; the "epoxy resin was tempered, thus ensuring that the connecting joints remain strong even at high temperatures"; "a waterproof but diffusion-permeable 2–3 millimetre thick 2-component polyurethane coating"; largest panel 16.5 m high; Mika Kallio, Finnforest: "perhaps the most complex timber structure ever built"; audit #31–32) ; https://www.sciencedaily.com/releases/2010/01/100118091909.htm (OFF/SEC, FRAUN, Fraunhofer WKI, 19 Jan 2010: Dirk Kruse "Our results revealed that the temperatures in the adhesive could potentially reach almost 60 degrees"; parts reheated after gluing, "tempering") ; https://www.dezeen.com/?p=2314624 (SEC, DEZ26: "Arup informed the city that the project was unfeasible in 2007"; FACTS §3 HEDGE wording, "by one account")
 ---
-[warmly] The architect, Jürgen Mayer H., said that standing up here is like being on a cloud above the city. You've reached the highest point of the Setas.
+[curious] *Architect* magazine once called this the world's largest building held together primarily by glue. And in Seville, glue has an enemy: the summer sun.
 
-How high is that? Sources disagree by a few metres, so let's say close to thirty metres, about the height of a nine-storey building. Below you, six parasols spread out over a hundred and fifty metres, and the walkway snakes across their tops. This platform crowns it.
+The engineers were Arup, who also worked on the Sydney Opera House and on Beijing's Bird's Nest stadium. Wherever two timber panels cross around you, there's a joint, and there are more than three thousand of them. Inside each, steel bars are glued into the wood. The timber makers say about thirty-five thousand holes were drilled for those bars, by hand.
 
-Two landmarks are worth fixing first. Find the Giralda, the cathedral's tall bell tower, with the great bulk of the cathedral beside it. That way is south, less than a kilometre off. Now put the Giralda on your left. You're facing west, toward the river, the Guadalquivir, and beyond it the Aljarafe, the high ground west of the city.
+The glue is epoxy, a hard resin. The polyurethane is only the skin, a waterproof coat a few millimetres thick.
 
-[lightly] The rest of the skyline is yours to explore, at your own pace. Take a slow turn around the rail before you go.
+The question was heat. Scientists at Germany's Fraunhofer institute for wood research simulated what the sun would do to the joints. Dirk Kruse, of the institute, put it plainly: "the temperatures in the adhesive could potentially reach almost 60 degrees." Sixty Celsius: right at the limit the glue was rated for.
 
-Then think of what's stacked beneath your feet. Below the street lie the remains of Roman and Moorish Seville. At street level, the market. Above it, the Plaza Mayor, the raised square. And above that, the timber, rising all the way to this platform.
+[pause] The fix sounds like baking. After gluing, the parts were heated again, a step called tempering, so the resin set harder. Every glued joint was baked a second time to toughen it.
 
-[pause] [quietly] From below the street to the highest point, one building holds two thousand years of the same square. For a moment, you're on that cloud.
+It wasn't the only scare. By one account, in 2007 the engineers warned it could not be built as drawn, and it was largely re-engineered. Mika Kallio, of the timber firm Finnforest, later said: "It is perhaps the most complex timber structure ever built."
 
-When you're ready, go back down the steps and walk on along the walkway toward the way down. Play the next stop as you go: Love it or hate it.
+[warmly] The biggest single panel is sixteen and a half metres tall. And every one is still holding on, glue and steel, all around you.
+
+Go up the steps to the highest point, the Mirador 360º, the viewing platform. Play the next stop at the top: The highest point.

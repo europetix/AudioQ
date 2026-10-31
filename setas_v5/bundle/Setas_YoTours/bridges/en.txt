@@ -1,5 +1,5 @@
-001 E>007: On this shorter tour, skip the Antiquarium: go to the lifts beside its entrance, the Mirador access, and play the next stop there before you go up, A plaza with many lives.
-001 H>008: On this shorter tour, skip the Antiquarium: go straight to the lifts beside its entrance, the Mirador access, take the lift up, and start the next stop, Mushrooms of wood, as the doors close.
-008 H>012: On this shorter tour, carry on past that view: walk on along the walkway to the steps up to the Mirador 360º, the highest point, and play the next stop, The highest point, at the top.
-012 H>018: On this shorter tour, don't stop on the walkway: carry on down, past the exhibition, to the Plaza Mayor, the big raised square under the parasols, and play the last stop there.
-013 E>016: On this shorter tour, skip the Extras: walk on toward the way down, and play the next stop as you go down past the exhibition.
+001 E>008: On this shorter tour, skip the Antiquarium. Once you're down on level minus one, go to the lifts beside its entrance, the Mirador access. Play the next stop there, before you go up: A plaza with many lives.
+001 H>009: On this shorter tour, skip the Antiquarium. Once you're down on level minus one, go to the lifts beside its entrance, the Mirador access. Take the lift up, and start the next stop as the doors close: Mushrooms of wood.
+009 H>013: On this shorter tour, don't stop for that view: you'll see the Giralda from the top. Walk on along the walkway to the steps up to the Mirador 360º, and play the next stop at the top: The highest point.
+013 H>020: On this shorter tour, skip the walkway stops: follow the way down, past the exhibition, to the Plaza Mayor, the big raised square under the parasols. Play the last stop there: The plaza on stilts.
+014 E>017: On this shorter tour, the Extras aren't on your list. If you're seeing the Feeling Sevilla film, see it first. Then follow the way down, and play From building site to city symbol as you pass the exhibition.

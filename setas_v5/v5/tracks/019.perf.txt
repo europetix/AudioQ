@@ -1,0 +1,26 @@
+@id: 019 · Plaza Mayor, above the market · 31 Oct 2026 edition
+@section: Plaza Mayor
+@room: Plaza Mayor · above the market
+@type: R
+@title: Plaza Mayor — The market that waited 37 years
+@where: On the Plaza Mayor, the big raised square under the parasols; find a quiet spot away from the way down. The market is directly beneath this square, at street level.
+@what: The Mercado de la Encarnación: Melchor Cano's market hall of the 1830s, demolished 1973; temporary stalls for three years that lasted 37; the new market at street level under the Plaza Mayor, reopened 19 Dec 2010; fishmongers and greengrocers today. V5 017 kept, trimmed so it does not re-tell 008 (1830s, the 1973 reasons, "fenced, dusty car park"): 008 is always heard first (route audit S11, N9). ONSITE: O14 (where to stand).
+@listen: How the market's "temporary" move lasted 37 years, and how it came back under your feet.
+@brief: A friend telling a small, human story of patience; curious at the start, warm and a little wry at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://setasdesevilla.com/en/history-and-construction (OFF: market designed by Melchor Cano; demolished 1973 "due to structural problems"; temporary facilities "for a maximum of 3 years", extended to 37 years; "On December 19, 2010, a modern and renovated Mercado de la Encarnación reopened its doors"; Plaza Mayor and Antiquarium opened about three months later) ; https://www.mercasa.es/wp-content/uploads/2026/02/DYC_176_web-107-112.pdf (SEC, J.I. Robles Picón, Distribución y Consumo 2023 vol. 4: "uno de los mercados municipales más antiguos de Andalucía y de toda España"; "derribado por daños estructurales en 1973"; "un polvoriento parking"; provisional site 1973–2010; nine fishmongers, ten fruit and vegetable stalls, counts not used) ; https://visitasevilla.es/en/?p=1477 (OFF: market at ground level under the elevated plaza) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF: market at ground level) ; https://www.jmayerh.de/metropol-parasol (OFF: programme with farmers' market and elevated plaza) ; 1830s: FACTS §1 (FG2009) ; Roman fish salting: https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Spain-Portugal/Hispalis-Gonzalez2010.pdf (SEC academic, first-century factoría de salazones under the square)
+---
+[curious] By the lifts, you heard how the old market hall came down in 1973. Its traders were promised a temporary home. Three years, at most. They waited thirty-seven.
+
+Right below you, at street level, is the Mercado de la Encarnación, the Incarnation Market. When the old hall came down, the stallholders moved into makeshift stalls nearby.
+
+The square they left behind became a car park. Then the archaeologists came, and then the architects. Each time, the market waited.
+
+[pause] It moved back in at the end of 2010, about three months before the square you're standing on opened above it. The architect had kept its place in the plan. The market went at street level, with this square on top of it, like a roof you can walk on.
+
+Fishmongers and greengrocers still trade down there. A study published by Mercasa, Spain's state food-markets company, calls it one of the oldest municipal markets in Andalusia, and in all of Spain.
+
+[wry] And there's a neat symmetry under your feet. Two thousand years ago, the Romans were salting fish on this spot. Today, the fish is sold *fresh*.
+
+Stay on the Plaza Mayor for the last stop: The plaza on stilts.

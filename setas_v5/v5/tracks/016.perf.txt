@@ -1,28 +1,22 @@
-@id: 016 · The way down · 30 Oct 2026 edition
+@id: 016 · Feeling Sevilla · Extra · 31 Oct 2026 edition
 @section: Coming down
-@room: The way down · the exhibition
-@type: R
-@title: The way down — From building site to city symbol
-@where: On the way down from the walkways to the Plaza Mayor, where the exhibition on the history of the Plaza de la Encarnación lines the route; play it as you walk down.
-@what: The official exhibition on the way down, showing the evolution of the Plaza de la Encarnación up to today (contents not yet photographed); building the Setas from June 2005; the opening on Sunday 27 March 2011 by Mayor Alfredo Sánchez Monteseirín, the Antiquarium the same evening; Arup's project director José de la Peña; Sacyr's concession and the 2021 renewal; DATED: 15th anniversary in 2026.
-@listen: How a building site Seville argued over became a city symbol, as you walk down past the exhibition.
-@brief: A friend walking down with the listener, telling the opening story with a smile; warm, unhurried, a light wry touch at the end.
+@room: Feeling Sevilla · before you go in
+@type: X
+@title: Feeling Sevilla · Extra · The room at 21 metres
+@where: Outside the entrance to the Feeling Sevilla room, the Sala Feeling, before you go in; follow the signs for Feeling Sevilla and stand aside from the door.
+@what: Sala Feeling, the multisensory room of Feeling Sevilla (Sacyr, 2021): about 21 m above the ground, over 200 m², stands for 96 people, curved LED screen 21 × 3 m, 360º sound, floor projection, air and scent effects; film about 15 minutes. The level inside the parasols in the architects' plan, on a steel-and-concrete platform. Nothing on the film's content. ONSITE: O11 (where the room is and when it comes in the route).
+@listen: What the film room is, how it was added in 2021, and why not everything up here is wood.
+@brief: A friend at the door, amused by a coincidence of numbers, then plain and informative; says nothing about the film itself.
 @pace: medium
-@energy: 2→3→3
-@sources: https://setasdesevilla.com/planifica-tu-visita (OFF: "exposición única que muestra la evolución de la Plaza de la Encarnación hasta la actualidad"; "Finaliza tu recorrido en la emblemática Plaza Mayor") ; https://setasdesevilla.com/experiencia-general (OFF: "exposición única mientras desciendes") ; https://www.defensordelpueblo.es/noticias/el-defensor-del-pueblo-suspende-su-investigacion-sobre-las-setas-de-la-encarnacion-tras-la-informacion-remitida-por-el-ayuntamiento-de-sevilla-2/ (OFF: works "se iniciaron en junio de 2005"; operator says 2006, so FACTS HEDGE "mid-2000s") ; https://www.arup.com/news-and-events/sevilles-la-plaza-de-la-encarnacion-opens (OFF Arup: opened "Sunday 27 March" by Mayor Alfredo Sánchez Monteseirín; Antiquarium opened the same evening; José de la Peña, Project Director: "Constructions of this nature always create a great impact, and are always debated in the respective cities"; cited the Eiffel Tower; confident Seville is proud of its new symbol of modernity and technology) ; https://www.publico.es/actualidad/legado-monteseirin.html (SEC, 28 Mar 2011: the opening; Sacyr built it and helped finance it in exchange for running it; years not used) ; https://www.dezeen.com/?p=2314624 (SEC: opposition from the 2004 announcement to the 2011 opening) ; https://setasdesevilla.com/en/history-and-construction (OFF: full inauguration 6 May 2011 → "in stages through that spring") ; https://sacyr.com/-/10-aniversario-setas-sevilla (OFF: 2021 renewal, Aurora and Feeling Sevilla) ; https://setasdesevilla.com/ (OFF: "Campaña 15 Aniversario", read 30 Oct 2026)
+@energy: 2→3→2
+@sources: https://sacyr.com/-/10-aniversario-setas-sevilla (OFF, SACYR, 16 Jul 2021: Sala Inmersiva Feeling Sevilla "ubicada a 21 metros de altura y con más de 200 metros cuadrados"; "pantalla curva LED de 21 metros de largo x 3 metros de altura"; "sonido 360º, proyección en suelo"; "efecto de aire, mapas olfativos"; "renovación completa de este singular activo") ; https://sacyr.com/en/-/setas-de-sevilla (OFF, SACYR-26, modified 30 Mar 2026: room at 21 m, over 200 m²) ; https://www.digitalavmagazine.com/en/2021/07/19/setas-de-sevilla-transforman-creativas-experiencias-inmersivas-decimo-aniversario/ (SEC, DAV, re-read 31 Oct 2026: "stands with capacity for 96 personas"; audit #19) ; https://www.headout.com/setas-de-sevilla/official-tickets-to-setas-de-sevilla-e-41691/ (SEC, HEADOUT: about 15 minutes) ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF, METSA: load-bearing platform 21.5 m above ground, steel-concrete composite) ; https://visitasevilla.es/en/?p=1477 (OFF, VS-SET: about 22 m, a level inside the central parasols in the design) ; https://www.jmayerh.de/metropol-parasol (OFF, JMH: bars and restaurants beneath and inside the parasols in the programme)
 ---
-[curious] On a Sunday in the spring of 2011, Seville's mayor opened a building the city had been arguing about for seven years.
+[amused] The screen in this room is 21 metres long. And the room itself sits about 21 metres above the ground.
 
-The exhibition around you, the operator says, shows how the Plaza de la Encarnación changed, up to today.
+This is the Sala Feeling, the film room, home to Feeling Sevilla. The operator, Sacyr, gives it more than two hundred square metres. One trade report says its stands hold ninety-six people. The curved LED screen, three metres high, runs that whole 21 metres. Add sound from every side, images on the floor, moving air and even scents. It's a room built to work on all your senses. The film lasts about a quarter of an hour.
 
-Building began in the mid-2000s, on a square that had already been a convent, a market and a car park. On the twenty-seventh of March 2011, Mayor Alfredo Sánchez Monteseirín opened it, and the museum of Roman remains below opened the same evening. The rest followed in stages through that spring.
+It arrived in 2021, ten years after the opening, together with Aurora, the light show. Sacyr calls it part of a complete renewal of the building.
 
-[pause] José de la Peña, project director for the engineers, Arup, saw the arguments coming. Buildings like this, he said, "always create a great impact, and are always debated". He pointed to the Eiffel Tower, which Paris had once argued about too, and said Seville could be proud of a new symbol of modernity and technology.
+[curious] But a floor up here was always part of the plan. The architects' design put a level inside the parasols, about 21 metres up. And the timber makers record that the platform built at this height is steel and concrete, not wood. Not everything in the Setas is what it seems.
 
-Sacyr, the company that built it, helped finance it, and runs it under a long concession from the city. Ten years after the opening, it renewed the building, adding the Aurora lights and the Feeling Sevilla room.
-
-In 2026, the Setas turns fifteen.
-
-[wry] Building site, quarrel, symbol. The Eiffel Tower took that road too.
-
-At the bottom you come out on the Plaza Mayor, the big raised square under the parasols. Find a quiet spot, with the market right under your feet, and play the next stop there: The market that waited 37 years.
+After the film, or if you skip it, follow the way down, past the exhibition. Play the next stop as you go: From building site to city symbol.

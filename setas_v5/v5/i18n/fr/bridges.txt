@@ -1,5 +1,0 @@
-001 E>007: Dans cette version courte, sautez l'Antiquarium : allez aux ascenseurs à côté de son entrée, l'accès au Mirador, et écoutez-y l'arrêt suivant avant de monter, Une place aux nombreuses vies.
-001 H>008: Dans cette version courte, sautez l'Antiquarium : allez directement aux ascenseurs à côté de son entrée, l'accès au Mirador, prenez l'ascenseur pour monter, et lancez l'arrêt suivant, Des champignons de bois, quand les portes se ferment.
-008 H>012: Dans cette version courte, dépassez ce point de vue : continuez sur la passerelle jusqu'aux marches qui montent au Mirador trois cent soixante, le point le plus haut, et écoutez l'arrêt suivant, Le point le plus haut, une fois en haut.
-012 H>018: Dans cette version courte, ne vous arrêtez pas sur la passerelle : continuez à descendre, devant l'exposition, jusqu'à la Plaza Mayor, la grande place surélevée sous les parasols, et écoutez-y le dernier arrêt.
-013 E>016: Dans cette version courte, sautez les Extras : continuez vers la descente, et écoutez l'arrêt suivant en descendant devant l'exposition.

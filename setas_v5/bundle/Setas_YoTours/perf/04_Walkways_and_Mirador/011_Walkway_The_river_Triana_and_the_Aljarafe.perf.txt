@@ -1,0 +1,28 @@
+@id: 011 · Walkway, facing west · 31 Oct 2026 edition (V5.1)
+@section: Walkways and Mirador
+@room: Walkway · west side (the Giralda on your left)
+@type: W
+@title: Walkway — The river, Triana and the Aljarafe
+@where: On the walkway, at a spot on the rail where the Giralda, the cathedral's tall tower, is on your left: you are then facing west, toward the river and Triana. Stand close to the rail so others can pass [O8].
+@what: The view west toward the Guadalquivir; NEW in V5.1: toward the river, the rooftops of Triana on its far bank (STRIP, seville-tickets, SEC; PLAN_V5_1 views rule), with one general line on Triana, pottery as its main trade for centuries (JA-TRI, OFF; sailors dropped: UPO-TRI is a student article, SNIP, audit 011.1); beyond, the Aljarafe, the high ground west of the city (Triana itself is low riverside ground, not the high ground). Kept from V5: Roman Hispalis as a river port (D. González Acuña, "Hispalis, puerto romano de la Bética", 2010); the first-century fish-salting works excavated under the Plaza de la Encarnación (corridor paved with small bricks, five tanks, four of them excavated, filled on abandonment with rubbish, mostly compacted fish remains, out of use c. 70–120 AD). Not on view from here. Flamenco is not said (not in the source read).
+@listen: Why the river made Roman Seville a port, the potters' quarter across it, and the Roman fish-salting tanks found under this square.
+@brief: A friend at the rail turning the listener toward the river; curious at the start, warm about Triana, plain and careful about the evidence, a quiet payoff.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: STRIP https://www.seville-trip.com/es/guias/guia-metropol-parasol-setas/ (SEC, mod. 10 Jul 2026: "La cara oeste de la pasarela mira en la dirección del río Guadalquivir"; the river and Triana to the west; "La silueta de la Giralda aparece al sur", basis of the derived "Giralda on your left = facing west") ; seville-tickets https://www.seville-tickets.com/setas-de-sevilla/plan-your-visit/ (SEC, low reliability, via research §4.1, not re-read: Triana rooftops west; never alone) ; JA-TRI https://andalucia.org/en/a-stroll-through-triana-between-tradition-and-fervour (OFF, Junta de Andalucía tourism, via the V5.1 fact audit 011.1, not re-read: "the origins of the potteries in the neighbourhood are really ancient… it was not until the flowering of Mudéjar art that this activity became the most significant in the district") ; UPO-TRI https://www.upo.es/patio-colorado/2021/04/12/el-maravilloso-barrio-de-triana/ (SNIP, regraded by the V5.1 fact audit: a student article in El Patio Colorao, a magazine hosted by Universidad Pablo de Olavide, no sources; no longer used alone, V. Serrazanetti, 12 Apr 2021, read 31 Oct 2026: "Tradicionalmente, Triana ha sido un barrio de artesanos, artistas, marineros y sobre todo de alfareros"; "localizado al oeste de la ciudad, a la orilla del Guadalquivir") ; ANDCOM11 https://www.andalucia.com/blog/new-view-sevilla (SEC, 9 May 2011: "the Aljarafe, the high area west of the city") ; GA2010 https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Spain-Portugal/Hispalis-Gonzalez2010.pdf (SEC academic, D. González Acuña, Univ. Sevilla, Bollettino di Archeologia on line I 2010: title "Hispalis, puerto romano de la Bética"; "factoría de salazones datada en la 1ª mitad del s. I d. C."; "pasillo distribuidor pavimentado de laterculi"; "cinco piletas de las cuales se han excavado cuatro"; "grandes vertidos de abandono donde predominan los restos de pescado apelmazados"; amortización "70-120 d. C.") ; garum wording: FACTS §6 HEDGE
+---
+[curious] Some of the oldest things found under this square were Roman tanks, filled with fish remains. To see why, it helps to face the river.
+
+With the Giralda on your left, you're facing west. That is the direction of the Guadalquivir, the river that runs past the old city on its way to the Atlantic. Whether or not the water shows between the roofs from where you stand, it's out there.
+
+[warmly] Across the river, on its far bank, lie the rooftops of Triana. Its trade for centuries was pottery: the regional tourism office calls it the district's most important activity. And beyond it all rises the Aljarafe, the high ground west of the city.
+
+For the Romans, this city was Hispalis, and the river made it a port. Ships came up the river from the sea. One academic study by a University of Seville archaeologist is titled "Hispalis, Roman port of Baetica". Baetica was the Roman province of the south.
+
+[pause] Now the find. Under this square, archaeologists uncovered a fish-salting works from the first century. A corridor, floored with small Roman bricks, led to five tanks. Four have been excavated. When the works was abandoned, they were filled with rubbish, mostly compacted fish remains. Judging by that fill, they went out of use somewhere between the years 70 and 120.
+
+Was garum made here, the famous Roman fish sauce? It's tempting to say so. The careful answer is that this was the kind of works that produced salted fish and fish sauces like garum. Either way, it belonged to a city that lived by its river.
+
+[quietly] Potters across the water, fish salters under your feet. Long before the convent, the market or the parasols, the river had already put this square to *work*.
+
+Walk on along the walkway toward the steps up to the Mirador. Play the next stop on the way, walking slowly or stopped at the rail: The glue that had to be baked.
