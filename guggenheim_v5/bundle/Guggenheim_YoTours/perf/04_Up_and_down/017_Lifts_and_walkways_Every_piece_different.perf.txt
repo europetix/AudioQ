@@ -1,0 +1,28 @@
+@id: 017 · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: Glass lifts and walkways (heard moving)
+@type: W
+@title: Lifts and walkways — Every piece different
+@where: Start it in a glass lift as the doors close, or as you set off along the curved walkways and stairs toward the third floor; the second half plays as you step out among the curves and glass. Keep moving with the flow. [O8]
+@what: The building: Frank Gehry's design (1991–97), developed with CATIA; structural engineers SOM; executive architects IDOM; built by Ferrovial, October 1993 – October 1997; titanium cladding by Permasteelisa. No artwork.
+@listen: How a building with no two joints alike was drawn, engineered and put up, and the paper-crumpling joke it never deserved.
+@brief: A guide riding up with the listener, amused at the legend, then genuinely impressed by the engineering; no pointing until the doors open.
+@pace: medium
+@energy: 3→4→3
+@sources: Ferrovial blog https://www.ferrovial.com/blog/en/2024/09/frank-gehry-beyond-architecture/ (SEC, the builder's blog, T. Alonso Cascallana, 10 Sep 2024, read 31 Oct 2026: Gehry in The Simpsons episode "The Seven Beer Snitch"; "He soon finds inspiration (on a crumpled piece of paper)") ; The Real Deal https://therealdeal.com/new-york/2011/09/06/frank-gehry-says-simpsons-came-haunts-him-and-explains-8-spruce-street-design-on-fareed-zakaria-show/ (SEC, 6 Sep 2011, read 31 Oct 2026: Gehry on TV, "it has haunted me"; "People do — who've seen 'The Simpsons' — believe it") ; AD13 https://www.archdaily.com/422470 (SEC via FACTS A25: points from hand-built models digitised in CATIA) ; CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF via FACTS A24: "an advanced software initially conceived for the aerospace industry, CATIA … to faithfully translate his concept to the structure and to help construction") ; FERRO https://www.ferrovial.com/blog/en/2017/10/guggenheim-museum-construction/ (SEC via FACTS A20–A23, A26: CATIA "had only been used in the French aeronautical industry", said on the page by Marta Arzak of the museum's education department, per AUDIT_V5_FACTS S6; joints wording "with no two joints being the same in the whole building", spoken unquoted, S7; each piece's coordinates, thickness and curvature; "no two joints in the building are the same"; Pérez: "the first major project in the world built using BIM"; 665 piles averaging about 14 m) ; PERMA https://www.permasteelisagroup.com/historic-project/guggenheim-museum/ (SEC via FACTS B14: sheets designed with Catia) ; MAS https://mascontext.com/issues/bilbao/building-the-symbol-of-a-remarkable-transformation (SEC via FACTS A17: SOM's John Zils recalling Gehry, "If I had known that the structure was going to be this elegant and this beautiful, I would have exposed some of it.") ; AD17 https://www.archdaily.com/881663/the-unexpected-low-tech-solutions-that-made-the-guggenheim-bilbao-possible (SEC via FACTS A27: rope-access climbers fitted titanium panels; "at a turning point between analog and digital practice")
+---
+[amused] You may have heard that Frank Gehry designed this building by crumpling up a piece of paper. It's a good joke, and it isn't true. In an episode of The Simpsons, a cartoon Gehry finds his inspiration in a crumpled letter. Years later he said in a television interview that the joke "has haunted me".
+
+What he really did was slower. He built models by hand, and points on those models were digitised so the shapes could be worked on a computer. In the museum's words, he chose "an advanced software initially conceived for the aerospace industry, CATIA", to carry his concept faithfully into the structure and to help the builders. One of the museum's own educators put it more sharply: at the time, CATIA "had only been used in the French aeronautical industry". The titanium sheets outside were designed with it too.
+
+[pause] It mattered, because almost nothing here repeats. Each piece of steel and stone had its own coordinates, its own thickness and its own curve. As the builder puts it, no two joints in the building are the same.
+
+[curious] By now you're stepping out among the curves and the glass. Behind those curved walls hides a steel frame, engineered by the firm SOM. SOM's John Zils remembered Gehry's reaction: "If I had known that the structure was going to be this elegant and this beautiful, I would have exposed some of it."
+
+Old skills built it alongside the new software. Climbers on ropes fitted titanium panels on the facade, in a project made, as one architecture magazine put it, at "the turning point between analog and digital practice". The builder's works manager went further. He called it "the first major project in the world built using BIM", building-information modelling. That's his claim.
+
+And far below your feet, the whole thing stands on more than six hundred piles, around fourteen metres long on average.
+
+[warmly] No crumpled paper, then. Just thousands of pieces, every one of them different.
+
+On the third floor, find the balcony opposite gallery 304, which looks out over the Atrium toward the great skylight: Third floor · The metal flower.

@@ -506,3 +506,11 @@ Planning word counts use the per-track **Aim** below. The aims sit in the upper 
 | Fog and fire seasonal hours | Never times; "on the hour" / "after dark" | 001, 022–024, 029 |
 | SRGF agreement renewed 2014 (to 2034 inferred) | Never an end year | 004 |
 | A new printed plan, signage, or a changed exit or terrace rule | Re-check every cue, ALT-T and ALT-X | all |
+
+
+## Lead's decisions after the audits (31 Oct 2026) — override the rows above
+- 001 says the Full tour takes "about an hour and forty minutes" (≈ 98 min estimate); Essential about an hour and a quarter; Highlights about three quarters of an hour.
+- The fire fountains: "in the evening" everywhere (Oct 19:30–20:30, winter 18:30–19:30; museum closes 19:00).
+- 011 keeps the title "Snake waited eight years" (the gallery waited for the other seven; Snake was not alone at the opening: Irish Times 25 Oct 1997).
+- "It isn't so": a museum spokeswoman (not named in speech, to avoid a clash with Txema Agirre's name).
+- See v5/notes/AUDIT_FIXES_001-029.md and research/AUDIT_V5_*.md.

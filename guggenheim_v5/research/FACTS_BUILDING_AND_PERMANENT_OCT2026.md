@@ -301,3 +301,9 @@ Researched 30–31 October 2026 for Yo Tours. **Scope:** the building, its histo
   - Muschamp's "Marilyn Monroe" line against the NYT original.
   - Johnson's "greatest building of our time": where and when he said it.
 
+
+
+## Corrections after the independent fact audit (31 Oct 2026; research/AUDIT_V5_FACTS.md)
+- G5: the sentence "The Sydney version now stands outside the Guggenheim Museum in Bilbao" is NOT on the AGNSW page as quoted; use the facts without quotation marks. G6: "No es así" was said by the museum's Lucía Agirre to El Independiente, not by the paper.
+- A24 and related: see the audit for the exact contexts of Pérez's "financially incredibly costly" (reaching the twisted frame: scaffolding, rope access), Hal Foster's line (from Sydney Pollack's film, about the building), and the curator Carmen Giménez (not Jiménez).
+- E8/011: at the 1997 opening Snake shared gallery 104 with two Lichtensteins and a Warhol (Irish Times, 25 Oct 1997).
