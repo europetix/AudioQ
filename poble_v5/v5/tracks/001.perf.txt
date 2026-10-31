@@ -1,0 +1,30 @@
+@id: 001 · Poble Espanyol · 31 Oct 2026 edition
+@section: The gate
+@room: Plaza Castellana · just inside the gate
+@type: ANCHOR
+@title: Welcome to the Poble Espanyol
+@where: In Plaza Castellana, the square just inside the Ávila gate, a few steps in and out of the flow of people coming through. [O1, O2, O18]
+@what: The Poble Espanyol de Montjuïc ("Spanish Village"), built for the 1929 Barcelona International Exhibition; 117 full-size buildings modelled on originals all over Spain (OFF-op); construction from January 1928, opened 20 May 1929 (OFF-op); meant to be demolished, kept. Official plan Feb 2026: houses numbered 1–116, four region colours, a marked step-free route.
+@listen: What this village is, why it is an interpretation and not a set of copies, the loop we walk, the three lengths, and how the guide points you to houses.
+@brief: A friend meeting you just inside the gate; warm and unhurried, a little surprised at the central fact, practical and clear at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: PHOTO https://poble-espanyol.com/en/exhibition/a-photographic-journey/ (OFF-op via FACTS 4.1: "117 buildings that are actually full-scale recreations of other existing ones") ; HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op, re-read 31 Oct 2026: "Construction work began on the 19th of January 1928 and Poble Espanyol was inaugurated on the 20th of May 1929."; "The initial idea was for it to be demolished at the end of the Universal Exposition") ; ARCH https://poble-espanyol.com/en/?p=274649 (OFF-op, re-read 31 Oct 2026: "117 buildings reproducing the architecture of the entire country") ; ARQ61 https://www.coam.org/media/Default%20Files/fundacion/biblioteca/revista-arquitectura-100/1959-1973/docs/revista-articulos/revista-arquitectura-1961-n35-pag15-23.pdf (SEC primary press, re-read 31 Oct 2026: "la interpretación más que la reproducción de modelos concretos", ES) ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad via FACTS 1.10: "Tampoco se trataba de hacer una colección de monumentos", ES) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: four colours, numbers, step-free route) ; GIMCANA poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-ang.pdf (OFF-op via ROUTE §0.3: loop order) ; CRAFTS https://poble-espanyol.com/en/?p=109977 (OFF-op via FACTS 7.1, 7.4: artisans every day; glass, pottery, stained glass) ; PRACT /en/the-poble-espanyol/practical-information-2/ (OFF-op via ROUTE §2, §5.3: accessible-route map announced) ; times: PLAN §3 (lead's decision, option a)
+---
+[warmly] Every house in this village comes from somewhere else. In the Poble's own words, these are "117 buildings that are actually full-scale recreations of other existing ones". Full size, not miniatures.
+
+Welcome to the Poble Espanyol, the Spanish Village, on Montjuïc. It was built for the great Barcelona International Exhibition of 1929. Building began in January 1928, and the village opened about sixteen months later. The Poble's own history says that "the initial idea was for it to be demolished". [pause] It never was.
+
+[curious] So what is it? Not a museum of copies. A 1961 architecture journal put the aim, in Spanish, as "interpretation more than the reproduction of particular models". Nor, later researchers add, was it about "making a collection of monuments". It's an invented town, built from real pieces. So this guide tells you, house by house, where the original stands and what the builders changed.
+
+On the official plan the houses come in four colours: North green, Centre pink, South yellow, Mediterranean purple. Many stops name a house by its number on that plan.
+
+Our walk is one loop, uphill first. Up Calle Caballeros to Aragon's brick tower, through Catalonia to the monastery at the top and its view of Barcelona, then down through the white streets of Andalusia and the Santiago Steps to the Plaza Mayor, and out through this gate.
+
+The full tour takes about an hour and a half, walking included, nearer two hours if you also go round the art museum. The Essential version takes about an hour and a quarter, the Highlights about three quarters of an hour. In the shorter versions the track numbers on your phone may jump. Every stop tells you where to go next.
+
+The official plan marks a step-free route. Ask for it at the entrance, and this guide warns you where there are steps.
+
+Craftspeople work in the workshops here: glassblowing, pottery, stained glass. If a door is open, look in.
+
+Start with the way you came in. Stay in Plaza Castellana and face the gate, its two round towers with battlements, joined by a walkway: Plaza Castellana · The towers of Ávila.
