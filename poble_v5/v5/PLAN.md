@@ -513,3 +513,10 @@ Planning word counts use the per-track **Aim** below, at 125 words/min: upper ha
 | The official guided tour ends 22 Nov 2026 (COMP) | Never in speech | – |
 | Monastery interior opening (2013) | ALT-M only if O11 confirms day access | 017 |
 | A new official plan (Feb 2026 now), new house numbering, signage, or a changed accessible route | Re-check every number, cue and the House key | all |
+
+## Lead's decisions after the audits (31 Oct 2026) — override the rows above
+- The tracks (v5/tracks/) and bridges (v5/bridges/) are now the source of truth for cues and bridges; §2/§3 cue text above
+  is historical. See v5/notes/AUDIT_FIXES_001-025.md.
+- 025 keeps the Sangüesa porticoes line, hedged ("If this arcade is the one they mean").
+- 016 (Sculpture Garden) stays after 015 until O10; if the garden is entered by the steps at house 89, move it after 012
+  and rewrite the 012/014/015/016 cues.

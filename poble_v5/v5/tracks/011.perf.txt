@@ -3,8 +3,8 @@
 @room: Plaza de la Iglesia · by the Fran Daurel Museum door
 @type: W
 @title: Plaza de la Iglesia — A bottler's art collection
-@where: By the door of the Fran Daurel Museum on the Plaza de la Iglesia, the long grey building beside the brick tower; stand to one side of the door. [O5, O24]
-@what: The Fran Daurel Museum (Fundació Fran Daurel), founded by Francesc Daurella i Franco (born Barcelona 1927; no tense claim), in the Poble since December 2001: more than 300 works by more than 80 artists (Picasso, Miró, Dalí, Tàpies, Barceló, Chillida); twenty Picasso ceramics, two etchings and an engraving from the 1960s; Dalí's bronze "Alice au pays des merveilles" (1970s) and ink drawing "Cavalier avec son aurige"; late Miró lithographs and engravings. Grey on the official plan (no region). Works on show: [O24]. DATED (DAUREL mod. 25 Sep 2025).
+@where: By the door of the Fran Daurel Museum on the Plaza de la Iglesia; on the plan the museum is the grey block behind the church, between the brick tower and the Guinovart Space (56). Stand to one side of the door. [O5, O24]
+@what: The Fran Daurel Museum (Fundació Fran Daurel), founded by Francesc Daurella i Franco (born Barcelona 1927; no tense claim), in the Poble since December 2001: more than 300 works by more than 80 artists (Picasso, Miró, Dalí, Tàpies, Barceló, Chillida); twenty Picasso ceramics, two etchings and an engraving from the 1960s; Dalí's bronze "Alice au pays des merveilles" (1970s) and ink drawing "Cavalier avec son aurige"; late Miró lithographs and engravings. Grey on the official plan, outside the four region colours (82 and 89 are grey too; the plan has no grey legend). Works on show: [O24]. DATED (DAUREL mod. 25 Sep 2025).
 @listen: How a Coca-Cola bottler's collection of Picasso, Miró and Dalí came to sit in a 1929 village, and why it isn't as out of place as it looks.
 @brief: A friend with a good piece of gossip and a real point to make; curious, then warm.
 @pace: medium
@@ -17,10 +17,10 @@ The name on the door, Fran Daurel, is short for its founder, Francesc Daurella i
 
 The museum's own page counts more than three hundred works by more than eighty artists. Among them: Picasso, Miró, Dalí, Tàpies, Barceló and Chillida.
 
-[pause] It singles out a few. From Picasso, twenty ceramic pieces, with two etchings and an engraving from the 1960s. From Dalí, a bronze from the 1970s called *Alice au pays des merveilles*, Alice in Wonderland, and an ink drawing, *Cavalier avec son aurige*, a horseman with his charioteer. From Miró, a small selection of lithographs and engravings from his last years. What hangs on the walls can change, but the Poble's guide for school groups still promises, in Catalan, "works by Tàpies, Dalí or Miró". The same foundation also has a sculpture garden, up by the monastery at the top of the hill.
+[pause] It singles out a few. From Picasso, twenty ceramic pieces, with two etchings and an engraving from the 1960s. From Dalí, a bronze from the 1970s called Alice au pays des merveilles, Alice in Wonderland, and an ink drawing, Cavalier avec son aurige, a horseman with his charioteer. From Miró, a selection of lithographs and engravings from his last years. What hangs on the walls can change, but the Poble's guide for school groups still promises, in Catalan, "works by Tàpies, Dalí or Miró". The same foundation also has a sculpture garden, up by the monastery at the top of the hill.
 
-Now look at the long grey front of the museum. On the official plan the houses are coloured by region: green, pink, yellow or purple. This block is grey. Unlike the houses round it, it stands for no region at all.
+Now look at the museum's front. On the official plan the houses are coloured by region: green, pink, yellow or purple. This block is grey on the plan, outside the four region colours.
 
 [warmly] And here's the thing to hold on to. The village itself is twentieth-century work. Its houses were chosen on the road, marked out of ten and sketched in notebooks, and the whole place went up in about sixteen months. The tower was cast in plaster. So the modern art is less out of place than it looks. It sits in a village that is, itself, a modern work.
 
-From here, go back to Plaza Aragonesa and start up Carrer de la Davallada, the street that climbs into the Catalan quarter. Stop at house 83, just below where Carrer Mercaders comes in, where an outside stair climbs the front of the house: Carrer de la Davallada · Seven steps, not fourteen.
+From here, go back along the church to Plaza Aragonesa and start up Carrer de la Davallada, the street that climbs into the Catalan quarter. Stop at house 83, a few doors up, before Carrer Mercaders comes in. It's the house with an outside stair up its front: Carrer de la Davallada · Seven steps, not fourteen.

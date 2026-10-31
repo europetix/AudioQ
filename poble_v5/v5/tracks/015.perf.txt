@@ -3,7 +3,7 @@
 @room: Barcelona Panorama · by the Baluard, the city in view
 @type: W
 @title: Barcelona Panorama — Born under a dictatorship
-@where: At the viewpoint the plan calls Barcelona Panorama, beside the Baluard off Plaça de la Font, with the city spread below you; stand back from the edge. Speak only the landmarks ticked on site. [O8, O9]
+@where: At the viewpoint the plan calls Barcelona Panorama, beside the Baluard off Plaça de la Font, with the city spread below you; stand back from the edge. Speak only the landmarks ticked on site. The cue offers the Sculpture Garden Extra to Essential and Full only, and names the step-free path round the houses at the top of Plaça de la Font (ALT-S route). [O8, O9, O10, O18, ALT-S]
 @what: The view (operator: the Sagrada Família, the Mapfre towers, Tibidabo; each subject to O9). The 1929 International Exhibition on Montjuïc (BIE: "Industry, Art and Sport", over 100 ha, 29 nations, almost 5.8 million visitors, opened 19 May 1929; the village 20 May). The two readings of the village's politics: national unity under Primo de Rivera (Mendelson; Sirés 2010) and the Catalanist makers and earlier idea (Sirés 2010). Version-neutral Franco sentence.
 @listen: The 1929 Exhibition that filled this hill, and two honest readings of a village born under a dictatorship.
 @brief: A thoughtful friend at a view, opening wide and then lowering the voice for history told evenly; no verdict, no edge.
@@ -13,14 +13,14 @@
 ---
 [warmly] "Barcelona at your feet," says the Poble's own page, and it names three landmarks: the Sagrada Família, the Mapfre towers and Tibidabo. See how many you can find.
 
-In 1929 this whole hill was a world's fair. The International Exhibition's theme was "Industry, Art and Sport". It covered more than a hundred hectares, twenty-nine nations took part, and almost five point eight million visitors came. It opened on the nineteenth of May. The village opened the next day. A 2010 study by Sirés for the Barcelona polytechnic found that the village took up only about eight per cent of the Exhibition's built area. It cost less than half as much as the works on the Palau Nacional.
+In 1929 this whole hill was a world's fair. The International Exhibition's theme was "Industry, Art and Sport", and almost six million visitors came. It opened on the nineteenth of May. The village opened the next day. A 2010 study by Sirés for the Barcelona polytechnic found that the village took up only about eight per cent of the Exhibition's built area. It cost less than half as much as the works on the Palau Nacional.
 
-[quietly] It was also born under a dictatorship, General Primo de Rivera's. The Catalan encyclopedia says the Exhibition was "organised by the Dictatorship's city council with the help of the state", and that it left the city seriously in debt. By January 1929, Sirés counts a deficit of 140 million pesetas.
+[quietly] It was also born under a dictatorship, General Primo de Rivera's. The Catalan encyclopedia says the Exhibition was "organised by the Dictatorship's city council with the help of the state", and that it left the city seriously in debt.
 
 There are two ways to read it, and both are argued seriously. The historian Jordana Mendelson, as researchers quote her in Spanish, sees Primo de Rivera "building in Barcelona an architectural representation of a unified Spain". Sirés says, in Catalan, that the project was "accepted and ideologically swallowed" by the dictatorship. The idea of "the indissoluble unity of the Spanish nation" found favour with the regime, and there were "strong pressures from the central government".
 
-[curious] The same study gives the other side its full weight. The village's four makers were Catalanists. And Utrillo's idea for it came before the dictatorship. That, it says, "substantially complicates the simple, reductionist interpretation" that the Poble Espanyol was the dictatorship's work.
+[curious] The same study gives the other side its full weight. The village's four makers, it points out, were Catalanists, and Utrillo's idea, it argues, came before the dictatorship. That, it says, "substantially complicates the simple, reductionist interpretation" that the Poble Espanyol was the dictatorship's work.
 
 [pause] Born under one dictatorship, made by Catalanists, and later used by another regime, Franco's. All three are true.
 
-There's a short Extra in the Sculpture Garden, below the viewpoint, where the giant slides are. The next main stop is the monastery at the top of the hill. Go up the steps from the Baluard to the Romanesque church with the square bell tower: Monastery of Sant Miquel · A monastery in pieces.
+On the Essential and full tours, there's a short Extra in the Sculpture Garden, below the viewpoint, where the giant slides are. The next main stop is the monastery. A step-free path climbs to it round the houses at the top of Plaça de la Font. Otherwise, go up the steps from the Baluard to the Romanesque church with the square bell tower, at the top of the hill: Monastery of Sant Miquel · A monastery in pieces.

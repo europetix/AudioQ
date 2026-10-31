@@ -3,7 +3,7 @@
 @room: Plaza Aragonesa · the whole tower in view
 @type: W
 @title: Plaza Aragonesa — The tower they liked better
-@where: In Plaza Aragonesa, at the top of Calle Príncipe de Viana, standing where the whole brick tower is in view; it rises between Plaza Aragonesa and Plaza del Carmen, beside the church and the long grey front of the Fran Daurel Museum. [O5]
+@where: In Plaza Aragonesa, at the top of Calle Príncipe de Viana, standing where the whole brick tower is in view; it rises between Plaza Aragonesa and Plaza del Carmen, at the end of the church (57–59 on the plan). The Plaza de la Iglesia is reached along the church front; the Fran Daurel Museum is the grey block on the plan behind the church. [O5, O14]
 @what: The Poble's tower (DOC, PLAN drawing), modelled on the Mudéjar bell tower of Nuestra Señora de la Asunción, Utebo (Zaragoza), completed 1544 by Alonso de Leznes; the Poble's version slightly reduced, cast in whole plaster moulds; the church: Carmelite church of Alcañiz façade + Utebo tower + Torralba de Ribota façade (preliminary design Baroque: Amorebieta + Caldes de Montbui). DATED: FIESTA, 10 min, "inside the iconic Utebo Tower" (page mod. 3 Mar 2026).
 @listen: Why the travellers came to prefer their own tower to the real one, how one trip to Aragon changed the church, and why the tower is a cast.
 @brief: A friend looking up at the tower with the listener; wry at the hook, curious at the turn, delighted at the cast.
@@ -11,18 +11,18 @@
 @energy: 3→4→3
 @sources: POST25 https://upcommons.upc.edu/bitstreams/a65af596-4fe6-4b4f-94dd-8406ce2b35d7/download (SEC-acad, re-read 31 Oct 2026: note dated "¿?/10/1928", "(RE) Post-41": "Fem el viatge sense vela i anem molt bé. Ens agrada més el campanile de la Exp. que el de Ute- bo.", CA, presented as written on the 1928 trip when they passed Utebo again; tower "es va construir amb motlles d'escaiola sencers per a cadascuna de les quatre façanes, i es van muntar a l'obra com si es tractés d'un element prefabricat", CA) ; TMUD https://www.territoriomudejar.es/en/?p=26852 (SEC, re-read 31 Oct 2026: "completed in the year 1544"; inscription in glazed ceramic on the first frieze of the square section; "Master Alonso de Leznes"; "the bell tower of the mirrors" because of "the reflections and glints that the sun produces on the ceramics", EN) ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC via FACTS 6.20: "el campanar de l'església —d'Utebo (Aragó)—", CA) ; ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad, re-read 31 Oct 2026: p. 240 "Por contra, se sorprenderán con otras arquitecturas, especialmente las pertenecientes a Aragón: la torre de Utebo"; "en sustitución de los modelos barrocos previstos"; p. 251 Baroque fusion of Amorebieta and Caldes de Montbui; "una simbiosis entre la fachada de la iglesia de las Carmelitas de Alcañíz con la torre de Utebo" and "una fachada extraída de Torralba de Ribota"; "es una reproducción ligeramente reducida de la torre original"; "Se construyó con moldes enteros de cada una de sus paredes", ES) ; ARQ20 (SEC-acad via FACTS 6.17–6.18) ; FIESTA https://poble-espanyol.com/en/exhibition/fiesta/ (OFF-op, re-read 31 Oct 2026, mod. 2026-03-03: "Inside the iconic Utebo Tower, a unique immersive audiovisual experience awaits you."; 10 minutes)
 ---
-[wry] On a later journey, the travellers passed the real tower at Utebo again, and wrote a note. It says, in Catalan, "We like the Exhibition's campanile better than Utebo's." They meant their own design, the one in front of you. They liked their version more than the original.
+[wry] On a journey in 1928, passing the real tower at Utebo again, one of them wrote a note, in Catalan: "We like the Exhibition's campanile better than Utebo's." A campanile is a bell tower. The researchers read it as meaning their own design, the one in front of you. If they're right, the travellers liked their version more than the original.
 
 The original is the Mudéjar bell tower of the church of Nuestra Señora de la Asunción at Utebo, near Zaragoza. Its own inscription, in glazed ceramic, says it was finished in 1544, by the master builder Alonso de Leznes. It's known as "the bell tower of the mirrors", because of "the reflections and glints that the sun produces on the ceramics that cover it".
 
-[curious] Why is an Aragonese tower here at all? Because of the first trip. The famous town on the travellers' list, Santillana del Mar, let them down. Aragon surprised them, above all the tower of Utebo. So they swapped the Baroque models they had planned for Mudéjar ones.
+[curious] Why is an Aragonese tower here at all? Because of the first trip. The famous town on the travellers' list, Santillana del Mar, let them down. Aragon surprised them, above all the tower of Utebo. So they swapped the Baroque models they had planned for Mudéjar ones, in brick and glazed ceramic, like Utebo's tower.
 
 The church beside the tower changed with it. The first design was Baroque, fusing churches from Amorebieta and Caldes de Montbui. What was built instead is three Aragonese buildings made into one church: the front of the Carmelite church of Alcañiz, this tower, and a façade from Torralba de Ribota.
 
 [pause] And the tower itself is a cast. It's slightly smaller than the real one. The builders made a whole plaster mould for each of its four faces, and assembled them on site, as if it were a prefabricated piece.
 
-Now look up at it. Find the glazed ceramic set into the brick. If the sun is out, wait a moment and watch it flash. That's the effect that gave the real tower its nickname.
+Now look up at it. The real tower's ceramics flash in the sun. If the sun is out, wait a moment: does this one catch the light too? That's the effect that gave the original its nickname.
 
-The Poble's ten-minute show of Spain's festivals, FIESTA, is, in its own words, "inside the iconic Utebo Tower".
+The Poble's ten-minute show of Spain's festivals, Fiesta, is, in its own words, "inside the iconic Utebo Tower".
 
-Walk round to the Plaza de la Iglesia, the small square on the other side of the tower and the church, below the long grey front of the Fran Daurel Museum: Plaza de la Iglesia · A church from three towns.
+Walk on along the front of the church to the Plaza de la Iglesia, the small square where a wide flight of steps goes down: Plaza de la Iglesia · A church from three towns.

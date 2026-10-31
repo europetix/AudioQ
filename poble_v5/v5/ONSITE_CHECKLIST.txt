@@ -56,12 +56,16 @@ CRITICAL ITEMS (the route depends on them)
       - Bajada de Cervantes: are the eleven small trade sculptures there? Visible from Calle Príncipe de Viana?
 [ ] O5 CRITICAL  PLAZA ARAGONESA, PLAZA DEL CARMEN, PLAZA DE LA IGLESIA (008–011, 020; ALT-F)
       - A spot in Plaza Aragonesa where the whole brick tower is in view.
-      - The tower's glazed ceramic insets: visible? (008 asks people to watch them flash in the sun.)
+      - The tower's glazed ceramic insets: visible? Real glazed ceramic on the cast, or painted? (008 now only asks whether
+        the cast catches the light; restore "find the glazed ceramic… watch it flash" only if real ceramic. AUDIT N5.)
       - The church: which front is the Alcañiz Carmelite façade (57/58?) and where is the Torralba de Ribota façade?
         Signs? Photograph.
       - FIESTA: where is its door (the tower base, or the building beside it)? Does the 10-min show loop continuously;
         can people walk in mid-show; is there a queue? (ALT-F if not "in the tower".)
-      - The Fran Daurel Museum: where is its door? On the Plaza de la Iglesia? Signed?
+      - The Fran Daurel Museum: where is its door? On the Plaza de la Iglesia? Signed? Is the museum's front actually grey
+        (the plan's grey is a colour code)?
+      - From Plaza Aragonesa, is the Plaza de la Iglesia reached along the church front (the plan's blue route)? Is the
+        top of the wide steps (Gradas de Santiago) the obvious mark of the square? (AUDIT route M2; 008, 009, 011, 020 cues)
       - The Guinovart Space: open to day visitors? (held X)
       - Are the three square names signed (Plaza Aragonesa, Plaza del Carmen, Plaza de la Iglesia)?
 [ ] O6 CRITICAL  CARRER DE LA DAVALLADA, HOUSE 83 (012; bridges 008 H>012, 011 cue)
@@ -71,7 +75,8 @@ CRITICAL ITEMS (the route depends on them)
       - Any sign naming Can Banús or Rupit?
 [ ] O8 CRITICAL  PLAÇA DE LA FONT, THE BALUARD, THE STEPS TO THE MONASTERY (014–017; ALT-S)
       - Where is the fountain in the square? Any sign naming Prades?
-      - Is house 69 visible from the square?
+      - Is house 69 visible from the square? Any sign naming the Casa Son Berga (Palma)? 014 now says only that the list
+        has Son Berga and that the Poble calls 69 a "Balearic Island-style stately home" (AUDIT facts S6).
       - The Baluard: what is it on the ground (terrace, wall, gate "Portes del Baluard")? Signed?
       - THE STEPS FROM THE BALUARD UP TO THE MONASTERY PATH: open to visitors? Usable? (If not: ALT-S, via the path
         behind house 73.) Time them.
@@ -123,7 +128,8 @@ OTHER ITEMS
       - A spot at the start of the street to play 004 (a W of ≈ 2.8 min) without blocking the street.
       - Coats of arms over the doors: how many, which houses? Photograph three good ones.
       - Hanging umbrellas ("Paraguas")? Present?
-      - The purple houses 23 and 24 and the green 110: signs?
+      - The purple houses 23 and 24 and the green 110: signs? Do 23/24 front onto Calle Caballeros, or sit one row back
+        (the plan shows them behind 113)? (AUDIT route S2)
       - Workshops along the street (blacksmith, stained glass, wooden toys): open? (Never named in speech.)
       - A "stone" wall that is visibly a cast (005 asks people to find one); old roof tiles visible?
 [ ] O7  CARRER MERCADERS, HOUSE 81 (013; bridge 012 H>015)
@@ -132,16 +138,24 @@ OTHER ITEMS
       - Does Carrer Mercaders lead straight up to Plaça de la Font?
 [ ] O10  THE SCULPTURE GARDEN (016; ALT-G)
       - Open? A dead end (in and back the same way)? Time it.
+      - WHERE IS THE WAY IN: from the viewpoint/Baluard, or by the steps beside house 89 at the foot of Carrer Mercaders
+        (where the plan draws the garden path)? If by 89: ALT-G2, play 016 from the 012 stop (AUDIT route S4; see
+        notes/AUDIT_FIXES_001-025.md).
       - Labels on the sculptures: photograph five (artist, title). Writers name artists only from these photos.
       - The slides; the "vantage point at the end of the garden".
 [ ] O13  THE TABLAO DE CARMEN AND CALLE ARCOS (019; ALT-T)
       - Where is its door (house 61, "C/ Arcos, 9")? At which end of Calle Arcos? (If at the Plaza Peñaflor end: ALT-T.)
       - Any plaque or sign about Carmen Amaya or "Patio de Carmen"? Photograph; writers may quote only what it says,
         attributed.
-      - Does Calle Arcos lead down to Carrer de la Davallada, and from there across Plaza Aragonesa to the Plaza del
-        Carmen?
+      - Where does Calle Arcos come out at its foot: by the brick tower at the Plaza del Carmen (019 cue now says so), or
+        on Carrer de la Davallada?
+      - STEPS on Calle Arcos (the plan hatches them at the Plaza Peñaflor end and into the Plaza del Carmen)? 018/019
+        now warn "which has steps" (AUDIT route S11).
+      - Is "number 9" posted on the Tablao? Only then may 019 say it again (AUDIT route S10).
 [ ] O16  THE CLOSE (025)
       - The arcade at house 26 between Plaza Castellana and the Plaza Mayor: is it an arcade? A quiet spot for 025?
+      - Any sign at 26 naming Sangüesa (Las Arcadas)? 025 says "if this arcade is the one they mean"; ARQ20 calls
+        Sangüesa the central building of that side (AUDIT facts N16, HOLD).
       - The way out: the Ávila gate only? Exit signs?
 [ ] O19  STREET-NAME SIGNS: photograph every street and square sign used in a cue (Calle Caballeros, Calle Príncipe
       de Viana, Travesía del Maestrazgo, Bajada de Cervantes, Plaza Aragonesa, Plaza del Carmen, Plaza de la Iglesia,
@@ -170,12 +184,12 @@ see. The cue texts are in PLAN §2 (last column); the bridges are in PLAN §3.
 006  Junction at 102/103 ................... [ ] safe spot  [ ] Calle Príncipe de Viana "curving, climbing"     (O4)
 007  Walking up Calle Príncipe de Viana .... [ ] Arco de Maia found  [ ] opens into Plaza Aragonesa with the tower (O4, O5)
 008  Plaza Aragonesa ....................... [ ] whole tower in view  [ ] ceramics visible
-                                                [ ] Plaza de la Iglesia "on the other side of the tower and the church,
-                                                below the long grey front of the Fran Daurel Museum"           (O5)
+                                                [ ] "along the front of the church to the Plaza de la Iglesia, the small
+                                                square where a wide flight of steps goes down"                 (O5, O14)
 009  Plaza de la Iglesia, church front ..... [ ] Alcañiz front identified  [ ] FIESTA door  [ ] Fran Daurel door  (O5)
 010  FIESTA door (Extra) ................... [ ] play-before-entering spot  [ ] show length 10 min             (O5)
-011  Fran Daurel door ...................... [ ] back to Plaza Aragonesa  [ ] Carrer de la Davallada climbs
-                                                [ ] house 83 "just below where Carrer Mercaders comes in", outside stair (O6)
+011  Fran Daurel door ...................... [ ] back along the church to Plaza Aragonesa  [ ] Carrer de la Davallada climbs
+                                                [ ] house 83 "a few doors up, before Carrer Mercaders comes in", outside stair (O6)
 012  House 83 .............................. [ ] steps counted: ____  [ ] Carrer Mercaders "street of Rupit fronts"
                                                 [ ] house 81 glass furnace                                       (O6, O7)
 013  House 81 .............................. [ ] glassblower at work?  [ ] Carrer Mercaders leads up to Plaça de la Font (O7, O8)
@@ -187,11 +201,12 @@ see. The cue texts are in PLAN §2 (last column); the bridges are in PLAN §3.
 017  Monastery portal ...................... [ ] interior open?  [ ] path down to 69  [ ] between 69 and the Vidre
                                                 art gallery into Plaza de la Hermandad  [ ] walls turn white       (O11, O12)
 018  Plaza de la Hermandad ................. [ ] García de Veas balconies found (house __)  [ ] Plaza Peñaflor
-                                                [ ] Calle Arcos down to the Tablao (house 61, no. 9)              (O12, O13)
-019  Tablao de Carmen (Extra) .............. [ ] door found  [ ] Calle Arcos down to Carrer de la Davallada
-                                                [ ] across Plaza Aragonesa to the Plaza del Carmen               (O13; ALT-T)
-020  Plaza del Carmen ...................... [ ] spot at the foot of the tower  [ ] across the Plaza de la Iglesia
-                                                to the top of the Gradas de Santiago                             (O5, O14)
+                                                [ ] Calle Arcos down to the Tablao  [ ] steps on Calle Arcos      (O12, O13)
+019  Tablao de Carmen (Extra) .............. [ ] door found  [ ] down Calle Arcos, steps
+                                                [ ] "at its foot you come out by the brick tower, where the little Plaza
+                                                del Carmen opens"                                                (O13; ALT-T)
+020  Plaza del Carmen ...................... [ ] spot at the foot of the tower  [ ] past the tower and along the church
+                                                to the Plaza de la Iglesia, top of the Gradas de Santiago       (O5, O14)
 021  Top of the Gradas de Santiago ......... [ ] steps signed  [ ] Rincón del Triste "beside you" at the bottom
                                                 [ ] steps in the Plaza Mayor to sit on  [ ] arcaded town hall visible (O14, O15)
 022  Plaza Mayor, on the steps ............. [ ] whole square in view  [ ] house 14 sign + Ionic columns
@@ -202,10 +217,12 @@ see. The cue texts are in PLAN §2 (last column); the bridges are in PLAN §3.
 
 BRIDGES (Highlights / Essential):
 004 H>008 ..... [ ] Calle Caballeros → Calle Príncipe de Viana → Plaza Aragonesa, the tower in view        (O3, O4, O5)
-008 E>011 ..... [ ] Plaza de la Iglesia, Fran Daurel door                                                  (O5)
+008 E>011 ..... [ ] along the church front to the Plaza de la Iglesia, Fran Daurel door                    (O5)
 008 H>012 ..... [ ] up Carrer de la Davallada to 83                                                        (O6)
 012 H>015 ..... [ ] Carrer Mercaders past 81 → Plaça de la Font → past the Baluard → Barcelona Panorama     (O7, O8, O9)
-018 H>022 ..... [ ] Plaza Peñaflor → Calle Bulas → Plaza del Carmen → Plaza de la Iglesia → down the Gradas
-                    de Santiago past Rincón del Triste → the Plaza Mayor's steps                            (O12, O14, O15)
-019 E>021 ..... [ ] Plaza del Carmen → across the Plaza de la Iglesia → top of the Gradas de Santiago      (O13, O14)
+018 H>022 ..... [ ] Calle Bulas → Plaza del Carmen → past the tower and the church → Plaza de la Iglesia →
+                    down the Gradas de Santiago → the Plaza Mayor                                        (O12, O14, O15)
+018 E>019 ..... [ ] (new) without the Extra: Calle Bulas → Plaza del Carmen → past the tower and the church →
+                    Plaza de la Iglesia, top of the Gradas de Santiago                                   (O12, O14)
+019 E>021 ..... [ ] Plaza del Carmen → past the tower and the church → top of the Gradas de Santiago        (O13, O14)
 022 H>025 ..... [ ] the arcade at 26 by Plaza Castellana                                                   (O16)

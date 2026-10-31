@@ -476,3 +476,27 @@ Yo Tours English audio guide v5. This file holds facts, stories, quotes and thin
 8. **"An irremediably trivial idea, expressed miraculously"** (8.4–8.5).
 9. **The night it learned to party**: Mariscal and Arribas's Sun and Moon towers, 1990 (5.14–5.15).
 10. **Utrillo's name, Maurice Utrillo's surname** (1.17).
+
+---
+
+## 13. Corrections after the V5 audits (31 Oct 2026)
+
+Dated correction note, 31 Oct 2026. Source: the two independent audits (`research/AUDIT_V5_FACTS.md`, `research/AUDIT_V5_ROUTE_LISTENING.md`) and the writers' notes they confirmed. The rows above are left as written. **Where a row and this note disagree, this note wins.**
+
+| Row | What the row says | Correction | Found by |
+|---|---|---|---|
+| 1.21 | Reventós was "an inexhaustible archive" of the Poble | ARQ61 p. 23: "un inagotable archivo de la historia y las vicisitudes del 'Pueblo'", i.e. an archive of its history and ups and downs, not of the village itself. | 018–025 writer; confirmed by the facts audit |
+| 1.4 / 8.10 / story bank 7 | "Utrillo's *Iberiona* predates the dictatorship" (as a fact) | The sources conflict. Sirés p. 14 dates the draft to 1923. ACE19 p. 235 dates its presentation to the mayor to 22 Feb 1924, after the coup of 13 Sep 1923. "Predates the dictatorship" is Sirés's argument: attribute it, never state it in our voice. | facts audit S2 |
+| 2.6 | "The Balearic and Canary Islands were also excluded" | ACE19 p. 236 says only "Inicialmente se excluyeron las islas". The Canaries are not named. Say "the islands". | facts audit N11 |
+| 2.11 / story bank 1 | "A letter from Borja says the car is under repair in Tudela" | POST25: the letter is dated "(FP) LP26-28 (15/11/27)", so it belongs to the **second** trip (9–20 Nov 1927). It was written while waiting for "l'Expres de Zaragoza" ("el nostre cuartel general es a Zaragoza"). It is **not** said to be from Borja. The car is "l'auto", **not named** as the Hispano-Suiza. ACE19's breakdown "llegando a Zaragoza" (Fig. 6, caricature) is undated and may be a different incident. | facts audit M2 |
+| 2.14 / story bank 6 | The notebooks lay in "Reventós's desk drawer"; "ninety years in a drawer" | ACE19 p. 239 n. 11: "ocultas en el cajón del escritorio del despacho de J.M Reventós", the office of a J. M. Reventós, not the architect Ramon Reventós (d. 1976). EGA24 cites the "Private archive of the Reventós family". **No source gives a duration** ("hasta hoy" / "until today"), so "ninety years" is unsourced. Safe wording: "lay hidden in a desk drawer in a Reventós family office until the researchers found them". | facts audit M3 |
+| 2.19 | "At Utebo they wrote…"; "Standing under the real tower, they joked they liked their own better" | POST25 dates the note "¿?/10/1928" and calls it a third trip "per completar informació". ACE19's third trip is May 1928, in the south, so the trip count conflicts. The note is not framed as a joke. That it prefers the Poble's own tower is the authors' reading. Safe wording: "On a journey in 1928, passing the real tower at Utebo again, one of them wrote…; the researchers read it as…". | facts audit S12, N7 |
+| 2.22 | "diary of 1 Oct 1927" | POST25 tags it "(FP) LP26-15b", the same LP26 series as the November letter, so it may be a letter rather than a diary. Unverified either way. Say "a message from the trip". | facts audit N14 |
+| 2.24 | The trips shaped a "more popular, less monumental" Poble | The 018–025 writer found no "more popular, less monumental" in ACE19 (checked p. 251). The paper has "enfatizaron el carácter popular de la propuesta". Paraphrase it and do not quote it. *Writer-reported; not re-checked by the auditors.* | 018–025 writer |
+| 4.8 | Safe wording: "On concert nights over five thousand people fill this square" | SQUARE gives a **capacity** ("5200 pax"), not a typical attendance. Say "it can hold more than five thousand people for a concert". | facts audit S8 |
+| 5.2 | "Not found in the ARA list of Catalonia's 16 Francoist camps" | ARA gives a **total** of 16 (from Aram Monfort's research) but names only 14 municipalities, and it does not claim to be a full list. It covers Francoist camps only, so the Poble's absence does not test a wartime camp run by the other side. Say "a count of the Francoist camps in Catalonia, sixteen of them, published by Ara, does not mention the Poble". | facts audit S11 |
+| 5.9 | "1968: the Poble began an annual festival" | Banús: "acordà celebrar cada any una festa…": the village **agreed** to hold one each year. The first was dedicated to Rupit. That the festival was then held every year is not sourced. | facts audit S8 |
+| 5.15 | Mariscal "also created Cobi" | olympics.com gives **no year**. Cobi predates 1990 (from memory: 1987/88, unverified). Never say or imply that Cobi was created after the 1990 Torres de Ávila. | facts audit S9 |
+| 6.41 | "SEE: the Lombard-style tower" | "Lombard" is in no source (MON13 gives no style label). Say "the square bell tower". | facts audit N12 |
+| 7.4 | Crafts list incl. "blacksmithing with Japanese techniques" | The writer's own fetch saw only "blacksmithing". The qualifier is unverified, so say "blacksmithing". | facts audit §3.12 |
+| ROUTE §3.4 (VISIT_ROUTE_AND_SPACES, line ~210 vs table) | "The Balearic Casa Son Berga … It is 'Casa 69'" | The table grades it **INF**: EST says only that Casa 69 is a "Balearic Island-style stately home". The Son Berga = 69 match is a pin inference. (PLAN's House key upgraded it to DOC; that upgrade is wrong.) | facts audit S6 |
