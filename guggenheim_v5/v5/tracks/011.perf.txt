@@ -9,7 +9,7 @@
 @brief: A guide walking beside the listener along one long steel piece; curious, unhurried, with a quiet lift at the critics' praise.
 @pace: medium-slow
 @energy: 2→3
-@sources: HUGH https://www.artsjournal.org/?p=24278 (SEC, ArtsJournal digest of Robert Hughes, 21 Jun 2005, re-read 31 Oct 2026: "one old and seven new rolled steel sculptures at the Guggenheim Museum in Bilbao"; Serra "the only great one at work anywhere in the early 21st century") ; UPI05 https://www.upi.com/Entertainment_News/2005/05/06/Bilbao-museum-to-install-Serra-sculptures/UPI-12131115411044/ (SEC, re-read 31 Oct 2026: "the gallery will open June 8"; Snake "the artist's existing work"; Vidarte "This huge gallery was envisioned to hold art of the 21st century"; "makes the museum a pilgrimage site for anyone interested in the present and future state of sculpture") ; TG-SERRA https://guggenheim-bilbao.eus/en/learn/schools/teachers-guides/work-of-art-audience-relationship (OFF, re-read 31 Oct 2026: Snake "where the conical section is the basic constructive unit") ; ZWIR https://davidzwirner.com/artworks/richard-serra-the-matter-of-time-db031 (SEC via FACTS E2: Snake 1994–97; order of the eight) ; WP-SERRA https://guggenheim-bilbao.eus/en/the-collection/works/the-matter-of-time (OFF, re-read 31 Oct 2026: 1994–2005, weathering steel, credit line)
+@sources: HUGH https://www.artsjournal.org/?p=24278 (SEC, ArtsJournal digest of Robert Hughes, 21 Jun 2005, re-read 31 Oct 2026: "one old and seven new rolled steel sculptures at the Guggenheim Museum in Bilbao") ; UPI05 https://www.upi.com/Entertainment_News/2005/05/06/Bilbao-museum-to-install-Serra-sculptures/UPI-12131115411044/ (SEC, re-read 31 Oct 2026: "the gallery will open June 8"; Snake "the artist's existing work"; Vidarte "This huge gallery was envisioned to hold art of the 21st century"; "makes the museum a pilgrimage site for anyone interested in the present and future state of sculpture") ; TG-SERRA https://guggenheim-bilbao.eus/en/learn/schools/teachers-guides/work-of-art-audience-relationship (OFF, re-read 31 Oct 2026: Snake "where the conical section is the basic constructive unit") ; ZWIR https://davidzwirner.com/artworks/richard-serra-the-matter-of-time-db031 (SEC via FACTS E2: Snake 1994–97; order of the eight) ; WP-SERRA https://guggenheim-bilbao.eus/en/the-collection/works/the-matter-of-time (OFF, re-read 31 Oct 2026: 1994–2005, weathering steel, credit line)
 ---
 [curious] For eight years, this long gallery held just one work. The rest of the room was waiting.
 
@@ -17,7 +17,7 @@ This is Snake, by Richard Serra. He made it between 1994 and 1997, for the museu
 
 The museum's director then, Juan Ignacio Vidarte, said: "This huge gallery was envisioned to hold art of the 21st century." The finished work, he said, "makes the museum a pilgrimage site for anyone interested in the present and future state of sculpture".
 
-[pause] The critic Robert Hughes summed up the room as "one old and seven new rolled steel sculptures". Then he went further. On the strength of them, he called Serra the only great sculptor "at work anywhere in the early 21st century".
+[pause] The critic Robert Hughes summed up the room in one line: "one old and seven new rolled steel sculptures".
 
 Snake is the old one. The museum's guide for teachers says it is built from the conical section, "the basic constructive unit": its walls are slices of cones, cut in steel.
 

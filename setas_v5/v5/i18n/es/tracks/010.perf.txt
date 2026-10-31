@@ -1,0 +1,32 @@
+@id: 010 · ES · Walkway, Giralda view · 31 Oct 2026 edition (V5.1)
+@section: Walkways and Mirador
+@room: Walkway · south side (where the Giralda is in clear view)
+@type: W
+@title: Pasarela — La Catedral y la Giralda
+@where: En cualquier punto de la pasarela, o en el Mirador, donde se vean bien sobre los tejados la Giralda, la alta torre de la catedral, y la catedral a su lado. Deténgase en la barandilla donde no estorbe.
+@what: The Giralda: minaret of the Almohad Great Mosque, begun 1184, the cathedral's bell tower since the conquest of 1248, about 97.5 m to the top of the weathervane. NEW in V5.1: the Giraldillo, the weathervane on top, a cast-bronze figure of Faith holding a banner (lábaro) and a palm, 1565–1568, 348 cm tall, symbolising the triumph of Christianity over Islam (IAPH-GIR); the name-origin story is NOT used (no official source found). Seville Cathedral: new church decided in 1401 (spoken "early in the 1400s" to keep to three dates); called by UNESCO the largest Gothic building in Europe; World Heritage with the Alcázar and the Archivo de Indias (the Alcázar is not claimed as visible). Link to the Setas: the cathedral's vaulting as a design cue is told in 009 and only called back here (hook, and the timber-vaults line; audit M3); MoMA's 1:200 model (2004–07) and its "cathedral without walls". The Almohads glossed as the Moorish rulers, with the Moorish remains under the square stated for every version (audit M2, lead decision 3).
+@listen: The tower and the church that gave the Setas one of its first ideas, seen across the rooftops, and the bronze figure of Faith that turns on top.
+@brief: A guide at the rail with the listener, pointing across the city; curious at the hook, a little reverent about the tower, a wry beat at the Giraldillo, warm and light at the comparison.
+@pace: medium-slow
+@energy: 3→4→3
+@sources: STRIP https://www.seville-trip.com/es/guias/guia-metropol-parasol-setas/ (SEC, mod. 10 Jul 2026: "La silueta de la Giralda aparece al sur") ; BEAR, research VISIT_ROUTE §4.2 (≈0.8 km, used only for "less than a kilometre") ; CAT-FACTS §1.4 and §1.7 https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "1248 The Sevillian mosque is transformed into the church of Santa Maria"; 1401, "the canons decided to build a new cathedral") ; CAT-FACTS §1.13, §1.18 https://whc.unesco.org/en/list/383/ (OFF: "Cathedral, Alcázar and Archivo de Indias in Seville"; "the largest Gothic building in Europe"; the Giralda "was the former minaret of the mosque") ; CAT-FACTS §2.1 (minaret begun 1184), §2.10 (bell tower after 1248), §2.13 ("close to a hundred metres", Cabildo 97.52 m), as cited in cathedral_seville_v5 FACTS, not re-read ; IAPH-GIR https://repositorio.iaph.es/bitstream/11532/332787/3/IAPH_63_1998_PRO_025_TD99_FICHA_TCA_GIRALDILLO_SE.pdf (OFF, IAPH heritage record, 1998, read 31 Oct 2026: "Representa a la Fe inspirado en una Palas Atenea", holding the lábaro and a palm; "Bronce fundido"; "Cronología: 1565-1568"; 348 cm; "veleta"; "Simboliza el triunfo del Cristianismo sobre el Islam") ; INHAB https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, Mayer: the cathedral's "undulating stone roof") ; MOMA https://www.moma.org/collection/works/100411 (OFF: "Taking its cues from the vaults of Seville's cathedral"; a "cathedral without walls" that would be "democratic"; model 2004–2007, 442.2006) ; Setas height "close to 30 metres": FACTS §5
+@lang: es
+@translation: from the fact-checked English Setas de Sevilla 010 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Desde aquí se ve una de las ideas que inspiraron las Setas. Es la catedral, a menos de un kilómetro de aquí.
+
+Está hacia el sur. La torre alta es la Giralda, y la catedral está a su lado.
+
+La Giralda nació como alminar. Las obras empezaron en 1184, para la Gran Mezquita de los almohades, los gobernantes islámicos de la ciudad. Era la misma Sevilla islámica cuyos restos están bajo esta plaza. Cuando el rey Fernando Tercero tomó la ciudad en 1248, la mezquita pasó a ser la catedral, y el alminar, su campanario. [pause] [reverent] Se eleva casi cien metros hasta la punta de su veleta. Las Setas miden casi treinta metros. La torre es más de tres veces más alta.
+
+Esa veleta tiene nombre, el Giraldillo. Es una figura de bronce de la Fe, con un estandarte y una palma, fundida en la década de 1560. Desde aquí parece diminuta. En realidad mide unos tres metros y medio. [wry] Representa el triunfo del cristianismo sobre el islam, en lo alto de una torre que nació como alminar.
+
+La catedral en sí llegó después. A principios del siglo quince, el cabildo votó derribar la vieja mezquita y construir una nueva iglesia. Lo que levantaron es inmenso. [pause] La UNESCO lo llama el mayor edificio gótico de Europa, y lo declara Patrimonio Mundial, junto con el Alcázar y el Archivo de Indias.
+
+Ahora, el vínculo. El Museo de Arte Moderno de Nueva York guarda una maqueta de las Setas. El museo describe el diseño como una democrática «catedral sin muros».
+
+[lightly] Dentro de la catedral, las bóvedas de piedra cierran el cielo. Aquí arriba, las bóvedas son de madera, y el cielo entra directamente.
+
+[warmly] Dos catedrales, pues, separadas por siglos. Una de piedra, con muros. Otra de madera, sin ellos.
+
+[pause] Ahora busque un punto de la pasarela mirando al oeste, hacia el río: póngase con la Giralda a su izquierda. La siguiente parada es El río, Triana y el Aljarafe.

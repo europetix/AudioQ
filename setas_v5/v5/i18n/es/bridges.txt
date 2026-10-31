@@ -1,0 +1,5 @@
+001 E>008: En esta versión corta, omita el Antiquarium. Ya en la planta menos uno, vaya a los ascensores junto a su entrada, el acceso al Mirador. Escuche allí la siguiente parada, antes de subir: Una plaza de muchas vidas.
+001 H>009: En esta versión corta, omita el Antiquarium. Ya en la planta menos uno, vaya a los ascensores junto a su entrada, el acceso al Mirador. Suba en ascensor y empiece la siguiente parada al cerrarse las puertas: Setas de madera.
+009 H>013: En esta versión corta, no se detenga en esa vista: verá la Giralda desde arriba. Siga por la pasarela hasta los escalones que suben al Mirador trescientos sesenta, y escuche arriba la siguiente parada: El punto más alto.
+013 H>020: En esta versión corta, omita las paradas de pasarela: siga la bajada, junto a la exposición, hasta la Plaza Mayor, la gran plaza elevada bajo los parasoles. Escuche allí la última: La plaza sobre pilotes.
+014 E>017: En esta versión corta, los Extras no están en su lista. Si va a ver la película Feeling Sevilla, véala primero. Luego siga la bajada y escuche De obra a símbolo de la ciudad al pasar la exposición.
