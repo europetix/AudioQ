@@ -5,7 +5,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "pipeline"))
 import v5_direction as V
 RANGE = {"R": (180, 280), "W": (250, 360), "ANCHOR": (250, 360), "CLOSE": (250, 360), "X": (150, 230)}
 HEAD = ["id", "section", "room", "type", "title", "where", "what", "listen", "brief", "pace", "energy", "sources"]
-files = sorted(glob.glob(os.path.join(os.path.dirname(__file__), "tracks", "*.perf.txt"))) + sorted(glob.glob(os.path.join(os.path.dirname(__file__), "extras", "*.perf.txt")))
+TDIR = os.environ.get("TRACKS_DIR") or os.path.join(os.path.dirname(__file__), "tracks")
+files = sorted(glob.glob(os.path.join(TDIR, "*.perf.txt"))) + sorted(glob.glob(os.path.join(os.path.dirname(__file__), "extras", "*.perf.txt")))
 want = set(sys.argv[1:])
 bad = 0
 for f in files:
@@ -27,7 +28,7 @@ for f in files:
     if re.search(r"\b(tickets?\b|opening hours|(?<!billion )(?<!million )euros?\b)|€", c, re.I): p.append("tickets/hours/prices")
     if "!" in c: p.append("exclamation mark")
     last = c.split("\n\n")[-1]
-    if meta.get("type") != "CLOSE" and not re.search(r"Antiquarium|[Ww]alkway|Mirador|Plaza Mayor|[Ll]ifts?|[Ss]teps|[Ll]evel|[Ss]tairs|Encarnación|exhibition|Feeling|[Ee]xit|way out", last): p.append("last paragraph has no room cue")
+    if meta.get("type") != "CLOSE" and not re.search(r"Antiquarium|[Ww]alkway|Mirador|Plaza Mayor|[Ll]ifts?|[Ss]teps|[Ll]evel|[Ss]tairs|Encarnación|exhibition|Feeling|[Ee]xit|way out|Alameda|Cristo de Burgos", last): p.append("last paragraph has no room cue")
     if re.match(r"^(Stand|Look|Walk|Turn|Go|Find|Step|Come|Move)\b", c): p.append("opens with a command")
     print(n, "OK" if not p else "; ".join(p), f"({w}w)")
     bad += bool(p)
