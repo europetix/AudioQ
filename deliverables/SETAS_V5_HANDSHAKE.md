@@ -1,38 +1,33 @@
-# Setas de Sevilla (Metropol Parasol) + Antiquarium V5 (Yo Tours) — handshake, STATE 1 (30 Oct 2026)
+# Setas de Sevilla (Metropol Parasol) + Antiquarium (Yo Tours) — handshake, STATE 2: edition 5.1 (31 Oct 2026)
+
+## Why 5.1
+The user compared edition 5.0 (18 tracks, ~4,700 words, delivered 30 Oct) with their old V4 guide (source/old_v4.txt,
+source/SetasDeSevilla_EN_V4.pdf) and found 5.0 thinner. V4 was rich but often wrong. An independent claim-by-claim audit
+of V4 (research/AUDIT_OLD_V4_FACTS_OCT2026.md: 287 rows; 74 TRUE, 73 PARTLY, 32 FALSE, 57 UNVERIFIED, 26 OPINION, 10
+PRACTICAL) gave the verified rich items; 5.1 restores them and leaves out every FALSE/UNVERIFIED claim (2003 discovery,
+Mendizábal 1836, 1842 market, underground car park, Toyo Ito/Herzog jury, 2013 trademark story, €154 m study, "AI" Aurora,
+moving seats, glass floor panels, prices/hours/restaurants).
 
 ## What exists
-- **English:** `v5/tracks/001–018.perf.txt` — 16 main stops + 2 Extras (014 Aurora, 015 Feeling Sevilla), ~4,700 words
-  (~38 min of listening). Order: welcome at street level (Calle Imagen side; north entrance mentioned) → down to level −1
-  (taquilla) → Antiquarium 002–006 (Full only; own entrance and admission) → 007 by the lifts → 008 in the lift / first
-  walkway → 009 Giralda view (south) → 010 river and Aljarafe (west) → 011 timber and glue → 012 Mirador 360º (steps) →
-  013 the controversy → Extras 014–015 → 016 the way down past the exhibition → 017–018 Plaza Mayor (end; way out to the street).
-- **User decisions (30 Oct):** build from scratch; the Antiquarium as its own section; lengths 20 / 35 / 60 min;
-  EN/ES/FR/DE. Planned visit times: Full just under 1 h, Essential ~35, Highlights ~25 (the lifts and walking alone take
-  ~14 min, so Highlights can't reach 20). Times exclude the Feeling Sevilla film (~15 min).
-- **No official visitor map online:** no numbers spoken; directions by fixed features; only two views named (Cathedral +
-  Giralda south, river + Aljarafe west); anything else after the on-site check. Route map is SCHEMATIC (dashed = unconfirmed).
-- **Research:** `research/VISIT_ROUTE_AND_SPACES_OCT2026.md`, `FACTS_OCT2026.md` (Red Dot correction 30 Oct),
-  `OFFICIAL_AUDIO_COMPARISON_OCT2026.md` (free QR web audio, languages unclear; official app), `AUDIT_V5_001-018.md`
-  (independent audit: 1 MUST, 13 SHOULD, 17 NICE; fixes in `v5/notes/AUDIT_FIXES_001-018.md`; lead decisions at the end
-  of `v5/PLAN.md`).
-- **Held / provisional:** 005 is a position-free walk-along (check against the Antiquarium labels; fold into 004 if
-  needed); 001 durations until the stopwatch walk; Rowan Moore quoted without naming the paper (Observer unconfirmed);
-  Antiquarium 8.5 m € figure cut; steel reinforcement in the 2007 redesign left out.
-- **Corrections from translators/reviewers:** 013 "Its critics said…" (Público: the critics' verdict, not a saying);
-  010 "is titled" (the study has a subtitle).
-- **Lengths:** `build/static/lengths.json` (Essential 11, Highlights 4); 5 hand-written bridges (`v5/bridges/*.txt`,
-  `v5/i18n/<lang>/bridges.txt`); Extras-only skips silent except 013 E>016 (hand bridge, since 013 announces the Extras).
-- **Translations:** `v5/i18n/{es,fr,de}/tracks/` 18 each, checks pass (N_TRACKS = 18); one translator + one independent
-  reviewer per language; briefs and reviews in `v5/i18n/review_30oct/`. "Mirador 360º" is written in words in the
-  spoken text of ES/FR/DE. ES quotes Público verbatim («como a un Cristo dos pistolas», «una moderna catedral urbana»,
-  verified). DE: Rundweg (rooftop walkway) vs Steg (Antiquarium walkways); Kruse and one Mayer quote as reported speech.
-- **Build:** `bash build/build_all.sh` → `bundle/Setas_YoTours` + `/mnt/user-data/outputs/Setas_YoTours_ALL_LANGUAGES.zip`.
-  Route sheet `build/route_map.py` (5 pages: building section, Antiquarium, walkways from above, way down, stop table).
-  Cover `build/cover/make_cover.py` (abstract parasols). Pronunciation +44 names (Mirador 360º → "three-sixty").
-- **Tested (stand-in tones, not speech):** EN option 1 → 18/11/4 with 2+3 bridges; DE option 3 → 4 with 3 bridges.
-  Real voices not heard.
+- **English:** `v5/tracks/001–021.perf.txt` — 18 main stops + 3 Extras (015 Aurora, 016 Feeling Sevilla, 021 After your
+  visit), ~6,000 words (~48 min listening). Plan: `v5/PLAN_V5_1.md` (mapping old → new numbers). New: 006 The two birds
+  (emblem mosaic, scholar's description hedged), 018 Plaza Mayor — Under the timber, 021 the fig trees + the Alameda's
+  Roman columns. Expanded: Antiquarium (47 floors/33 mosaics, Medusa the guardian, Bacchus and Ariadne, the unswept floor,
+  Palomino's glass membrane, the 1991/1998/2003–09 digs), the market's 400 stalls and its fall, the 2004 competition, the
+  Giraldillo, Triana and the Macarena views, epoxy and Arup, Aurora's 14 patterns, 96 seats.
+- **Audits:** research/AUDIT_V51_FACTS.md (0 MUST, 11 SHOULD, 12 NICE) and AUDIT_V51_ROUTE_LISTENING.md (4 MUST, 22 SHOULD,
+  17 NICE); fixes in `v5/notes/AUDIT_FIXES_V51.md`. Lead read every track.
+- **Lengths:** `build/static/lengths.json` — Essential 12 (001 008–014 017–020), Highlights 4 (001 009 013 020); 5 hand
+  bridges in `v5/bridges/`. Visit times stated: Full ≈ 1 h 10 (above the user's 60: richer, not padded), Essential ≈ 40,
+  Highlights ≈ 25.
+- **Translations:** `v5/i18n/{es,fr,de}/tracks/` 21 each (N_TRACKS = 21), reusing the reviewed 5.0 sentences; one translator
+  + one independent reviewer per language; `v5/i18n/review_31oct/`. All checks pass.
+- **Held, not deleted:** `v5/held/v50/` (5.0 tracks, bridges, translations).
+- **Build:** `bash build/build_all.sh` → bundle + `/mnt/user-data/outputs/Setas_YoTours_ALL_LANGUAGES.zip`; route map
+  (5 pages) updated to 5.1 (numbers read from the tracks); README edition 5.1; samples 009 + 013.
+- **Tested (stand-in tones, not speech):** EN option 1 → 21/12/4 with 2+3 bridges; FR option 3 → 4 with 3 bridges.
+  Real voices not heard. On-site markers [O#] stripped from visible header lines.
 
-## On-site (before recording) — `v5/ONSITE_CHECKLIST.txt`
-The printed plan from the taquilla (photo requested from the user); the way to level −1 and the lifts; the Antiquarium
-route and labels (005); where the lift lets you out; which landmarks can be named from the walkway and the Mirador; the
-Feeling Sevilla room and the exhibition; the way out from the Plaza Mayor; a stopwatch walk for the times.
+## On-site (before recording) — `v5/ONSITE_CHECKLIST.txt` (renumbered to 5.1)
+CRITICAL: the two birds' label (006); the Antiquarium labels for 004/005; the printed plan; the way to the lifts; views
+from the walkway; the way out from the Plaza Mayor; a stopwatch walk for the times.

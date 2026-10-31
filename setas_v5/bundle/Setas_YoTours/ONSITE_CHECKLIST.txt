@@ -1,0 +1,239 @@
+YO TOURS - SETAS DE SEVILLA (METROPOL PARASOL) + ANTIQUARIUM - ON-SITE + MAP CHECKLIST
+(edition 5.1 of 31 Oct 2026, 21 tracks; track numbers renumbered to 5.1. O-numbers and track numbers are as in PLAN.md sections 2 and 5.)
+
+HOW TO USE THIS LIST
+- Walk the Full route once with the guide before recording, including the Antiquarium. Go on a day
+  it is open: not Monday, and not a Sunday afternoon.
+- Tick each item. Note anything different, with its track number, and send it to us. We fix only
+  that track.
+- Items marked CRITICAL decide which cue, or which route order (ALT-A to ALT-G), gets recorded.
+- There is NO official walkway map yet. So:
+  - left/right, "straight ahead", "clockwise" and distances are BANNED from the scripts;
+  - the only compass words allowed are "south, toward the Giralda" and "west, toward the river";
+  - cues name the place plus one fixed feature: the ticket office, the Antiquarium entrance, the
+    lifts, the steps up to the Mirador, the way down, the Plaza Mayor.
+- Photograph every official information panel and label you pass, front and any English side.
+  Labels are how the Antiquarium tracks get their details, and how held items come back.
+- Views: photograph each direction from the walkway and from the Mirador. We name a landmark only if
+  you can name it for sure.
+
+MAP (desk, as soon as the paper plan arrives; save it in research/map/)
+[ ] MAP-1 CRITICAL The printed "plano guia" handed out at the taquilla (the user has been asked for a
+        photo).
+        - Does it show the walkway loop, where the lift lets you out, the Mirador steps, the
+          Experiences level (Feeling Sevilla), the way down and the Plaza Mayor exits?
+        - Any one-way arrows?
+        - Any numbering? (We still never speak numbers.)
+[ ] MAP-2 Read off the drawing every relation the cues need:
+        - the two entrances and the ramp down to level -1;
+        - on level -1: the taquilla, the Antiquarium entrance "beside" it, the lifts (Mirador access);
+        - the Antiquarium's internal route;
+        - the lift exit on the walkway; the loop; the steps up to the Mirador 360;
+        - the Feeling Sevilla room;
+        - the way down and the exhibition;
+        - the Plaza Mayor and its stairs or escalators to the street.
+        Then rewrite the [Oxx] cues with left/right where the drawing is unambiguous.
+[ ] MAP-3 Open the official images the research could not read, and save them to research/map/:
+        - niveles.jpg (the level diagram);
+        - Recorrido.jpg (route and exhibition);
+        - Ascensor Experiencias.jpg;
+        - AccesoCalleImagen.jpg;
+        - acceso1.jpg;
+        - Zona de descanso en Recorrido.jpg.
+        (URLs are in research/VISIT_ROUTE_AND_SPACES_OCT2026.md section 2.)
+        Note the positions of the lift and toilet icons, for step-free notes only. Toilets are never
+        mentioned in speech.
+
+ENTRANCES AND LEVEL -1
+[ ] O1  CRITICAL Track 1: the Calle Imagen (south, main) entrance.
+        - Where can a listener stand to play 001 without blocking?
+        - Are the parasols overhead and in view? (001 says "look up" only if so.)
+        - Is the ramp beside the escalators the way down to level -1?
+        - Sign wording: "Taquilla"? "Mirador"? "Antiquarium"?
+        - Do the escalators go up to the Plaza Mayor? (Needed for ALT-D.)
+[ ] O2  Track 1: the north entrance (Calle Regina / Jose Gestoso).
+        - The path down to level -1.
+        - Does 001's line "you'll reach the same underground level" hold?
+[ ] O3  CRITICAL Tracks 1, 6, 7 and the E/H bridges: level -1.
+        - Where are the taquilla, the Antiquarium entrance and the lifts (Mirador access)? Is the
+          Antiquarium entrance really "beside" the ticket office, and the lifts beside it?
+        - Where is the ticket check before the lifts? (Never spoken.)
+        - Where can E/Full listeners stand to play 008 "by the lifts"?
+        - Does the area look newly refreshed? (Official photos are dated 10 Jul 2026.)
+
+THE ANTIQUARIUM (Full only)
+[ ] O4  CRITICAL Tracks 2-6 (ALT-A, held "Garum" Extra).
+        - Open on the walk day? Which operator is named on the signs: Ayuntamiento? ICAS?
+        - Where to play 002 at the entrance.
+        - The route through: glass walkways? one way?
+        - Is there a place where you can see HOW DEEP the dig goes, i.e. the layers (003)?
+        PHOTOGRAPH EVERY LABEL, especially:
+        - Casa de la Columna and its MEDUSA mosaic: original or replica?
+        - Casa de Baco, Casa de la Ninfa;
+        - the PATIO DEL OCEANO mural (what does it show?);
+        - Hospitium de los Delfines (what does its label say it was?);
+        - Casa de la Noria, del Sigma, de las Basas, Casa Romana;
+        - the "kissing birds" emblem mosaic.
+        Then:
+        - Which mosaics are shown only in photographs?
+        - Is the ALMOHAD HOUSE on show? Is it a reconstruction?
+        - Order: Roman houses first, or the Almohad house first? (ALT-A)
+        - ARE THE FISH-SALTING TANKS ON SHOW AND LABELLED? If yes, the held Extra comes back.
+        - Screens or VR reconstructions?
+        - Where is the exit, and how far is it from the lifts?
+        - If fewer than three house labels are usable, 005 is folded into 004 (tell the lead).
+        - 005 BEFORE RELEASE (lead decision, 30 Oct 2026): 005 is now a walk-along track with no fixed
+          spot. Check every name it gives against the label photos: Casa de Baco, Casa de la Ninfa,
+          the Patio del Oceano and its mural, the Hospitium de los Delfines. If those labels aren't
+          there, fold 005 into 004 and tell the lead. Also check that 005's last cue (play 007 at the
+          casa almohade label, or straight away if already passed) suits the real order (ALT-A).
+
+GOING UP
+[ ] O5  CRITICAL Tracks 7-8 (ALT-B, ALT-D): the lifts.
+        - Are they inside the concrete trunks?
+        - WHERE DO THEY STOP: the roof only, or also the 21 m Experiences level ("Ascensor
+          Experiencias")?
+        - TIME the wait and the ride.
+        - Do you step straight out onto the walkway?
+        - Can the first half of 009 be heard in the lift (noise, crowding)?
+
+WALKWAYS AND MIRADOR
+[ ] O6  CRITICAL Tracks 8-13 and the H bridges (ALT-E): walkway circulation.
+        - ONE-WAY or a marked circuit? Arrows? Staff directing people?
+        - Where does the lift let you out?
+        - Where are the steps up to the Mirador along the loop?
+        - Does the Mirador come BEFORE the Giralda view and the west side? (If so, ALT-E.)
+        - Where can listeners stop at the rail without blocking?
+        - TIME the walk from the lift exit to the Mirador, and from the Mirador to the way down.
+[ ] O7  CRITICAL Tracks 9, 12: the south view.
+        - From WHERE are the Giralda and the cathedral in clear view: the walkway, the Mirador, or
+          both? Photograph it.
+        - Other landmarks to the south you can name for sure: El Salvador? the Alcazar? Plaza de
+          Espana? (List only.)
+        - From the Mirador, is the BODY of the cathedral clearly visible, not just the Giralda? If
+          not, 013 says "with the cathedral beside it" instead of "with the great bulk of the
+          cathedral beside it".
+[ ] O8  CRITICAL Tracks 10, 12 (ALT-F): the west view.
+        - Can you see the RIVER ITSELF, or only its direction?
+        - Is the Aljarafe (the high ground) on the horizon?
+        - Does "stand with the Giralda on your left" put you facing the river side?
+        - Triana, Torre Sevilla, Isla Magica, the bridges: visible? (Not sourced; list only.)
+        - Photograph it.
+[ ] O9  Track 12: the Mirador 360 (the highest point).
+        - The steps up. (Never counted in speech.)
+        - ARE THE SKYLINE BOARDS AND COIN BINOCULARS STILL THERE? Photograph the boards: their names
+          can be used.
+        - Photograph each direction. List the landmarks you can name for sure: the Macarena, the
+          Torre de los Perdigones, the Alamillo bridge, the Alameda, the Iglesia de la Anunciacion,
+          the Plaza Mayor below?
+        - Anything sold at the top? (Never in speech.)
+[ ] O10 Tracks 8, 11: the timber.
+        - Can listeners see the joints and steel connections, the coating, the concrete trunks?
+        - Any construction panels on the walkway?
+
+COMING DOWN
+[ ] O11 CRITICAL Track 15 (ALT-B): Feeling Sevilla.
+        - WHERE is the room, and WHEN in the route: before or after the walkways?
+        - How do you get there: lift or stairs?
+        - Where can a listener stand to play 016 before going in?
+        - Is it on the way down, as the official stop list suggests?
+[ ] O12 CRITICAL Tracks 13-16 (ALT-C, ALT-D): the way down.
+        - Must everyone take the stairs past the exhibition to the Plaza Mayor, or is there a lift?
+        - Does any lift go back down to level -1?
+        - PHOTOGRAPH THE EXHIBITION PANELS: convent? market hall? car park? the dig? construction?
+        - Where does it come out on the Plaza Mayor?
+        - TIME the way down.
+[ ] O13 The rest area, any bar / tapas / restaurant inside the parasols, and the Tablao
+        Flamenco: where they are. This is only so that no cue sends people there by mistake.
+        NEVER in speech.
+
+PLAZA MAYOR AND EXIT
+[ ] O14 CRITICAL Tracks 16-18 (ALT-D, ALT-G): the Plaza Mayor.
+        - Where does the way down arrive?
+        - Where can listeners stand for 019 and 020?
+        - The way to the street: stairs or escalators? Which sides? Signs ("Salida")?
+        - THE 1720 FOUNTAIN: where is it (under which parasol; on the Plaza Mayor or at street
+          level)? Photograph it and its sign. If found, the held Extra or one sentence in 020 can
+          come back.
+        - Can you see the Iglesia de la Anunciacion beside the plaza?
+
+GENERAL
+[ ] O15 Tracks 14, 18: Aurora.
+        - Is it running on the date of the walk? Any sign about its season?
+        - Can the light fittings be seen in the timber by day?
+        - NEVER times or months in speech.
+[ ] O16 Competition only: the official QR audio guide and the app.
+        - Languages, number of stops, length.
+        - Any information panels on the walkway?
+[ ] O17 Time each length with a stopwatch (walking and lifts only).
+        - Planned: Highlights about 14 min, Essential about 14.5, Full about 20.5 (of which the
+          Antiquarium about 6).
+        - Correct 001 and PLAN section 3 if far off.
+        - Planned visits: H 23, E 36, Full 55 min. Feeling Sevilla is excluded (about 15 min).
+[ ] O18 Step-free notes for 001.
+        - The lifts.
+        - The steep walkway ramps.
+        - The Mirador is reached by steps only.
+        - Is the Antiquarium step-free?
+        - The Plaza Mayor to the street.
+[ ] O19 Signage.
+        - Are the Spanish names on the signs: Taquilla, Antiquarium, Mirador 360, Plaza Mayor,
+          Salida?
+        - Any numbers posted? (Never spoken.)
+[ ] O20 The day before the walk, and again before recording:
+        - re-read the setasdesevilla.com home page and notices (closures, works, Aurora season);
+        - re-read the Antiquarium page (andalucia.org / visitasevilla);
+        - sweep the local press (Diario de Sevilla, ABC Sevilla, El Correo), which the research
+          tools could not reach.
+
+AFTER THESE DATES / TRIGGERS (see PLAN.md section 6)
+[ ] 1 Jan 2027 -> cut or rewrite the "in 2026 it turns fifteen" sentence (017).
+[ ] Aurora season stated differently -> still "after sunset" only (015, 020).
+[ ] Guinness record for the largest wooden structure changes -> re-check the 009 wording.
+[ ] Antiquarium operator confirmed on signs -> 002 may say "the city's culture institute".
+[ ] Fish-salting tanks confirmed on show -> restore the held "Garum" Extra; trim 011 to two
+    sentences.
+[ ] 1720 fountain located -> restore the held Extra or add one sentence to 020.
+[ ] New exhibition on the way down -> re-photograph it and re-check 017.
+[ ] A new official plan, signage, or a one-way circuit -> re-check every cue.
+
+LISTENING CHECKS (after rendering)
+[ ] No stop numbers anywhere.
+[ ] Every cue gives the place plus one fixed feature.
+[ ] No left/right.
+[ ] No compass words except south (Giralda) and west (river).
+[ ] Spanish names (EN engine):
+    Setas de Sevilla, las Setas, Metropol Parasol, Plaza de la Encarnacion, Mercado de la
+    Encarnacion, Calle Imagen, Calle Regina, Jose Gestoso, taquilla, Antiquarium, Casa de la
+    Columna, Casa de Baco, Casa de la Ninfa, Patio del Oceano, Hospitium de los Delfines, Casa de la
+    Noria, Casa del Sigma, Casa de las Basas, casa almohade, Mirador 360, Plaza Mayor, Feeling
+    Sevilla, Aurora, Giralda, Guadalquivir, Aljarafe, Plaza del Cristo de Burgos, Semana Santa,
+    Feria, Salida, indignados.
+[ ] People and terms:
+    Jurgen Mayer H., Arup, Melchor Cano, Joseph Bonaparte, Fernando Amores, Alfredo Sanchez
+    Monteseirin, Rowan Moore, Mika Kallio, Dirk Kruse, Fraunhofer, Finnforest, Bavaria, Skandal
+    Technologien, Jose de la Pena, Sacyr, King Fernando the Third, Abu Ya'qub Yusuf, Almohad,
+    Tiberius, Hispalis, Baetica, garum, Medusa, Bacchus, hospitium, Mies van der Rohe, Red Dot.
+[ ] Years read correctly: 1184, 1248, 1401, 1591, 1810, 1820, 1830s, 1940s, 1973, 1987, 1990s,
+    2004, 2007, 2010, 2011, 2012, 2013, 2021, 2026.
+[ ] Walking tracks:
+    - 008 has no "look at".
+    - 009 has no visual reference before "as you step out".
+    - 012 and 014 refer only to the timber.
+    - 017 refers only to what O12 photographed.
+    - 005 never says "here", "in front of you" or where a house is.
+[ ] Shorter versions:
+    - every bridge names the right place;
+    - 001 and 020 are in all three lengths;
+    - the E and H 001 bridges skip the Antiquarium cleanly.
+[ ] After the first full render, check each length's running time against what 001 says.
+
+EDITION 5.1 ADDITIONS (31 Oct 2026)
+[ ] 001  Can the Antiquarium ruins be glimpsed through glass from level -1 before the ticket check? If not, cut that line.
+[ ] 004  Medusa: is it on show, in a geometric setting? Which house label? (Kramer, building D.)
+[ ] 005  Casa de Baco: is the Bacchus floor on show, and are the corner vessels visible? Casa del Sigma label: "stibadium"?
+         Hospitium de los Delfines: the "unswept floor" (asarotos oikos) motif on show?
+[ ] 006  CRITICAL  The two birds: hung on a wall? Does the label show the wine bowl (crater), the water-effect borders and
+         zigzags? Which hospitium does the label name? Where is it in the order (005/006/007 cues)?
+[ ] 018  Plaza Mayor: is the underside of the timber grid visible from the square, and the two concrete lift trunks?
+[ ] 021  Directions on foot to the Plaza del Cristo de Burgos and the Alameda de Hércules (only "nearby" is spoken).
