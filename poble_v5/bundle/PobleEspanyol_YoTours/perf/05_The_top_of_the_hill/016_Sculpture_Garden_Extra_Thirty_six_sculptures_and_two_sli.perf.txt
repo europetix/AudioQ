@@ -1,0 +1,24 @@
+@id: 016 · Poble Espanyol · 31 Oct 2026 edition
+@section: The top of the hill
+@room: Sculpture Garden · just inside
+@type: X
+@title: Sculpture Garden · Extra · Thirty-six sculptures and two slides
+@where: Just inside the Sculpture Garden, below the viewpoint, where the giant slides are; the garden is a dead end, so you come back the same way. The way in is unconfirmed: from the viewpoint and the Baluard, or by the steps beside house 89 at the foot of Carrer Mercaders, where the plan draws the garden path (if so, ALT-G2 in AUDIT_FIXES). [O10, ALT-G]
+@what: The Sculpture Garden: 36 sculptures by 27 contemporary artists, opened 2004 (operator); listed with the Fundació Fran Daurel (ENC); gentle slopes; two giant slides; a vantage point at the end. No size (sources conflict). Artists named only from labels photographed at O10.
+@listen: A garden of twentieth-century sculpture beside a Romanesque monastery, and one label to read for yourself.
+@brief: A friend in a garden, relaxed and light, nudging you to look closely at one thing.
+@pace: medium
+@energy: 3→3
+@sources: GARDEN https://poble-espanyol.com/en/exhibition/sculpture-exhibition/ and https://poble-espanyol.com/en/?p=110737 (OFF-op, both re-read 31 Oct 2026, mod. 2022-03-24: "36 sculptures by 27 different contemporary artists"; "This particular space was inaugurated in 2004."; "A stone's throw from the Monastery of Sant Miquel"; "Spanish artists of the 20th century"; "the vantage point at the end of the garden"; "a unique view over the city of Barcelona") ; SPACE-BAL https://poble-espanyol.com/espacio/baluard-y-jardin-escultorico/ (OFF-op, re-read 31 Oct 2026: "Se trata de una amplia zona con leves pendientes") ; VIEW https://poble-espanyol.com/en/?p=109703 (OFF-op, re-read 31 Oct 2026: "two giant slides where children and adults alike" "will have a wonderful time") ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC, re-read 31 Oct 2026: the Fundació Fran Daurel with "un jardí d'escultures") ; SCHOOL GAE 26-27 PDFs (OFF-op via FACTS/PLAN: classes eat "under the trees")
+---
+[curious] Modern sculpture, "a stone's throw from the Monastery of Sant Miquel". That's how the Poble's own page sets the scene, and it's a fair description of this odd and lovely corner.
+
+This is the Sculpture Garden, opened in 2004. It holds thirty-six sculptures by twenty-seven contemporary artists, whom the Poble describes as "Spanish artists of the 20th century". The Catalan encyclopedia lists the garden with the Fran Daurel foundation, the same collection as the museum down on the Plaza de la Iglesia.
+
+The ground here moves in what the Poble calls, in Spanish, leves pendientes, gentle slopes. There are two giant slides, which the Poble says are for "children and adults alike". Its guide for schools even sends classes here to eat under the trees.
+
+[lightly] Pick one sculpture, any one, and find its label. Read the artist's name, then walk round the work and look at it again from the other side.
+
+Further on, the Poble promises "a unique view over the city of Barcelona" from "the vantage point at the end of the garden".
+
+Leave the garden the way you came in, and take the steps from the Baluard up to the monastery. It's the Romanesque church with the square bell tower, at the top of the hill: Monastery of Sant Miquel · A monastery in pieces.
