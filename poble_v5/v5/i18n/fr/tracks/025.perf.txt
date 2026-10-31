@@ -1,0 +1,34 @@
+@id: 025 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Back to the Plaza Mayor
+@room: Plaza Mayor · by the arcade at 26, the gate beyond
+@type: CLOSE
+@title: Plaza Mayor — Le village qui est resté
+@where: À l'angle de la Plaza Mayor près de l'arcade de la maison 26, le passage vers la Plaza Castellana, avec la porte d'Ávila juste derrière ; ne bloquez pas le passage. La sortie se fait par la porte d'Ávila, celle de l'entrée.
+@what: Close of the tour. Anton Vidal, the Poble's director general, 2018; built as a temporary set, now a Bé Cultural d'Interès Local; the researchers' view that the trips saved it; recap of "interpretation, not copies" (version-neutral: the gate, the cast tower, the halved stair, the monastery, Andalusia, the Riaza layout); DATED: the village's hundredth in May 2029 and the Exhibition centenary; before you go (town hall photographs, the glassblower at 81, FIESTA, the Fran Daurel Museum); the arcade (ARQ20: Sangüesa's porticoes; house number not tied to it); out by the Ávila gate.
+@listen: Why a village built to be knocked down is still here, the whole visit gathered up, and the way out by the Ávila gate.
+@brief: A guide saying goodbye at the door, warm and unhurried, gathering the visit into a few images; a quiet pause, then a smile at the end.
+@pace: medium-slow
+@energy: 3→2
+@sources: AM18 https://www.spabusiness.com/spa-business-magazine/People-profile-Anton-Vidal/33006 (SEC, re-read 31 Oct 2026, Attractions Management 2018 issue 3: "You could put multimedia attractions anywhere but you cannot build a town like this."; "Director general, Poble Espanyol") ; HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op via FACTS 3.11: "The initial idea was for it to be demolished at the end of the Universal Exposition") ; COAC https://www.arquitecturacatalana.cat/ca/obres/poble-espanyol (SEC via FACTS 5.31: BCIL) ; ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad, re-read 31 Oct 2026: p. 251 "enfatizaron el carácter popular de la propuesta"; "Acaso ya no se trate de que sin el viaje el Poble Espanyol sería muy distinto: es que probablemente ya no sería, hubiera desaparecido mucho tiempo atrás.") ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad, re-read 31 Oct 2026: p. 89 "el ayuntamiento de Sangüesa, por donde se accede a la plaza a través de sus pórticos") ; FACTS 3.1 (OFF-op: opened 20 May 1929, so the hundredth is May 2029, arithmetic) ; MJC25 https://barcelona.cat/en/what-to-do-in-bcn/montjuic-park/news/a-new-montjuic-the-transformation-to-drive-barcelona-1486742 and TO23 (OFF and SEC via FACTS 5.29: Montjuïc remodelling toward the 1929 centenary; nothing Poble-specific) ; PHOTO, VITRO, FIESTA, DAUREL (OFF-op via PLAN: the town hall exhibition; the glassblower at Casa 81; FIESTA "inside the iconic Utebo Tower", 10 min; the museum on the "Placeta de la Iglesia") ; PLAN Feb 2026 (OFF-op: house 26 between Plaza Castellana and the square, the gate)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 025 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] « On pourrait mettre des attractions multimédias n'importe où, a dit en 2018 le directeur général du Poble, Anton Vidal, mais on ne peut pas construire une ville comme celle-ci. »
+
+Bâtie comme un décor temporaire, cette ville devait disparaître après l'Exposition. Elle est restée. [pause] C'est aujourd'hui un patrimoine protégé à part entière, classé Bé Cultural d'Interès Local, un bien culturel d'intérêt local.
+
+Pourquoi a-t-elle duré ? Les découvreurs des carnets répondent, en espagnol. Les voyages, écrivent-ils, ont souligné le caractère populaire du projet. Puis ils vont plus loin. Sans le voyage, le Poble Espanyol ne serait pas seulement très différent : « il n'existerait probablement plus. Il aurait disparu depuis longtemps. »
+
+[pause] Repensez à ce que vous avez vu. Une porte inspirée des remparts d'Ávila. Une tour de brique coulée dans des moules en plâtre. Un escalier extérieur de sept marches, quand celui de Rupit en a quatorze. Un monastère roman qui réunit plusieurs lieux. Un quartier que les historiens attribuent à un roi qui a demandé où était l'Andalousie. [pause] Et cette place, tracée comme celle de Riaza, aux façades venues de tout le pays. De l'interprétation, pas des copies.
+
+En mai 2029, le village aura cent ans.
+
+Le centenaire de l'Exposition approche aussi, et Montjuïc se transforme, avec des travaux calés sur cette date.
+
+Avant de partir, si vous avez le temps. Le Poble expose des photos du chantier dans l'hôtel de ville. Le souffleur de verre travaille à la maison quatre-vingt-un, dans le Carrer Mercaders. Fiesta, le spectacle de dix minutes, est dans la tour de brique de la Plaza Aragonesa, dit le Poble. Et le musée Fran Daurel est sur la Plaza de la Iglesia.
+
+[quietly] Un dernier emprunt, en partant. Selon les historiens, de ce côté de la place, on entre par les portiques de l'hôtel de ville de Sangüesa, en Navarre. Si c'est cette arcade, même l'entrée était empruntée.
+
+[warmly] La sortie, c'est la porte d'Ávila, celle de votre arrivée : traversez l'arcade jusqu'à la Plaza Castellana, et sortez entre ses deux tours.
+
+Merci d'avoir parcouru le Poble Espanyol avec Yo Tours. Au revoir.

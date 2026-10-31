@@ -1,0 +1,32 @@
+@id: 014 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Catalonia
+@room: Plaça de la Font · by the fountain
+@type: W
+@title: Plaça de la Font — La Méditerranée
+@where: Sur la Plaça de la Font, la place en haut du Carrer Mercaders, près de sa fontaine ; le Baluard s'ouvre sur la place.
+@what: The Mediterranean zone (purple on the plan): the fountain modelled on one at Prades (Baix Camp) (ENC; position [O8]); round the square, by the Poble's list, Cornudella, a house from La Garriga, the Casa dels Balbs, the house of the Marquès de la Floresta (Tàrrega) and La Jana (Castellón) (BDB, PIN+COL, numbers not spoken); house 69 described by the operator as a "Balearic Island-style stately home" (EST); its identification as Casa Son Berga, Palma de Mallorca, is a pin inference (ROUTE §3.4 INF), not spoken as certain [O2, O8]; the Prades fountain's position is not sourced [O8]. Built 1928–29.
+@listen: Why the four Catalans did Catalonia last, what this square brings together, and the Balearic house that came in after all.
+@brief: A friend on home ground, proud but light about it; curious, then warm at the colours.
+@pace: medium
+@energy: 3→3→4
+@sources: ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad, re-read 31 Oct 2026: letter of Xavier Nogués to Lluís Plandiura, 1927, "Este viaje habrá sido de gran provecho para el poble y ahora solo falta hacer Catalunya…", p. 82) ; ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad via FACTS 2.6, 2.7, 2.13: "Inicialmente se excluyeron las islas" (the islands, unnamed, per the fact audit); second trip Nov 1927, Catalonia and Aragon, 12 days; colours matched to Nogués's tone scales) ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC, re-read 31 Oct 2026: "la font —de Prades (Baix Camp)—"; "A la part catalana hi ha imitacions d'edificis de Santa Pau i Besalú, Rupit, Camprodon, Isona, Montblanc," … "Premià de Dalt, la Garriga, Cornudella, Tàrrega i altres.") ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici (OFF-op data via ROUTE §3.4: Cornudella, Casa Plandiura (La Garriga), Casa dels Balbs, Casa del Marquès de la Floresta (Tàrrega), La Jana, Morella, Catí, Casa Son Berga (Palma de Mallorca)) ; EST wp-json/wp/v2/establiment (OFF-op data via ROUTE §4.5: "Balearic Island-style stately home" = Casa 69) ; ARCHLIST /la-visita/arquitectura/ (OFF-op via ROUTE §3.2: "En la zona mediterránea del recinto conocerás la arquitectura de Cataluña y Baleares.") ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: Pl. de la Font, Baluard, Barcelona Panorama, 69, purple zone)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 014 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Les quatre hommes qui ont fait ce village étaient catalans. En 1927, l'un d'eux écrivait que la Catalogne restait à faire.
+
+Le peintre Xavier Nogués écrivait, en espagnol, à Lluís Plandiura, l'un des dirigeants de l'Exposition : « Ce voyage aura été d'un grand profit pour le poble, et il ne reste plus que la Catalogne à faire. » [pause] Chez eux, semble-t-il, cela pouvait attendre. En novembre suit un deuxième voyage, plus court : douze jours, surtout à travers la Catalogne et l'Aragon.
+
+Cette place fait partie du résultat. Plaça de la Font veut dire place de la Fontaine. L'encyclopédie catalane cite une fontaine de Prades, dans le Baix Camp, parmi les modèles du village, sans dire où elle est. [pause] La même notice cite les villes catalanes imitées ici, de Besalú et Rupit à Montblanc et Tàrrega, « et d'autres ».
+
+Autour de cette place, la liste du Poble comprend Cornudella, une maison de La Garriga, la Casa dels Balbs, et la maison du Marquès de la Floresta, de Tàrrega.
+
+Une surprise. Les premiers plans écartaient les îles. Pourtant, la liste du Poble a une maison de Palma de Mallorca, la Casa Son Berga. Et le Poble voit dans la grande maison du numéro soixante-neuf, au-dessus de la place, une « demeure seigneuriale de style baléare ».
+
+Sa description du secteur, en espagnol, est simple : « Dans la zone méditerranéenne, vous découvrirez l'architecture de la Catalogne et des Baléares. » Sur le plan officiel, tout est violet. [pause] Et ce violet comprend aussi des villes valenciennes : Morella et Catí ailleurs dans le village, et La Jana, placée par la liste autour de cette place.
+
+[warmly] Regardez les couleurs des façades alentour. Pendant les voyages, on les comparait aux gammes de tons du peintre Nogués. Il y a donc un œil de peintre dans chaque mur ici.
+
+La Catalogne est venue tard, et elle monte le plus haut. Le monastère du sommet est roman catalan.
+
+Ensuite, la vue. Dépassez le Baluard, la terrasse à côté de la place, jusqu'au belvédère que le plan appelle Barcelona Panorama : Barcelona Panorama · Né sous une dictature.

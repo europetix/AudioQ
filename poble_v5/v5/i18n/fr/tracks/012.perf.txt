@@ -1,0 +1,32 @@
+@id: 012 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Catalonia
+@room: Carrer de la Davallada · house 83, facing the outside stair
+@type: R
+@title: Carrer de la Davallada — Sept marches, pas quatorze
+@where: Dans le Carrer de la Davallada, la rue qui monte de la Plaza Aragonesa vers le quartier catalan, devant la maison 83, juste en dessous de l'arrivée du Carrer Mercaders ; la maison a un escalier extérieur sur sa façade.
+@what: House 83, Can Banús, modelled on a house in Rupit (province of Barcelona; DOC: Banús, "el 83 amb el de carrer de la Davallada"). Banús counts eight Rupit houses on five fronts (83 here; 79–82 on Carrer Mercaders, with Can Serra above Can Vázquez at 80 and 81 combining Can Rovira, Can Sallent and Ca l'Estragués) (DOC [O7]). The stair: seven steps here, fourteen in Rupit (Banús) [O6: count]. Built 1928–29.
+@listen: A writer for Rupit's local journal counts the steps of a house from Rupit, and shows the Poble is a version, not a copy.
+@brief: A friend sharing a small, telling discovery; curious at first, a dry smile at the halved stair, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: BANUS https://raco.cat/index.php/CinglesCollsacabra/article/download/255525/342454/344557 (SEC, local journal, re-read 31 Oct 2026 via WebFetch: "Al Poble Espanyol l'escala té set graons, la meitat menys d'aquí a Rupit, que en té 14."; "figuren amb el nom de carrer Mercaders en els números: 79, 80, 81 i 82" "i el 83 amb el de carrer de la Davallada"; eight houses: "can Betes, can Vázquez, can Serra, can Banús, can Lo, can Sallent, can Rovira i ca l'Estragués"; "els rètols, al pas dels anys, varen anar desapareixent") ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici (OFF-op data via ROUTE §3.4: Can Banús, Rupit (Barcelona)) ; POST25 / ACE19 (SEC-acad via FACTS 6.23, 3.9: the tower slightly reduced, cast in plaster moulds; callback to 008) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: 83 at the corner of C. Davallada and C. Mercaders; 79–82 on C. Mercaders)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 012 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Quelqu'un de Rupit s'est tenu un jour ici, et a fait une chose très simple : compter.
+
+Le journal local de Rupit place ici Can Banús, au numéro quatre-vingt-trois, version d'une maison de Rupit, village de la province de Barcelone. [pause] Il compte au Poble huit maisons de Rupit, sur cinq façades : celle-ci, et quatre juste au-dessus, dans le Carrer Mercaders.
+
+L'auteur écrit, en catalan : « Au Poble Espanyol, l'escalier a sept marches, moitié moins qu'ici à Rupit, qui en a quatorze. »
+
+[wry] Un demi-escalier. Impossible à deviner, sauf si quelqu'un de Rupit vous le dit.
+
+Comptez-les, de la première à la dernière.
+
+[pause] Ce petit chiffre répond au mieux à qui voit ici une série de répliques exactes. Vous avez vu la tour de brique, moulée dans le plâtre et un peu plus petite que la vraie, à Utebo. Ici, l'escalier est réduit de moitié. Chaque maison est la version du Poble de son original, pas une copie.
+
+Le même auteur a remarqué autre chose. Rupit avait accepté de poser un petit panneau sur chacune de ses maisons ici. Selon l'article, « au fil des années, les panneaux ont peu à peu disparu. » [pause] Si vous n'en trouvez pas aujourd'hui, vous savez pourquoi, et vous connaissez quand même son nom.
+
+[warmly] Sept marches. Gardez ce chiffre pour le reste de la promenade.
+
+Montez maintenant le Carrer Mercaders, la rue des façades de Rupit. Arrêtez-vous à la maison quatre-vingt-un, où vous verrez et entendrez peut-être un four de verrier au travail : Carrer Mercaders · La maison du souffleur de verre.

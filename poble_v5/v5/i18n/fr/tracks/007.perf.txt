@@ -1,0 +1,28 @@
+@id: 007 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Calle Caballeros
+@room: Calle Príncipe de Viana · walking up to Plaza Aragonesa (heard walking)
+@type: R
+@title: Calle Príncipe de Viana — La Navarre et les collines basques
+@where: En montant la Calle Príncipe de Viana, la rue en courbe, depuis le carrefour des maisons 102 et 103 vers la Plaza Aragonesa et la tour de brique, sur l'itinéraire sans marches ; le début ne demande rien de particulier à voir. La Bajada de Cervantes, rue latérale en escalier, est citée mais ne fait pas partie du parcours.
+@what: Calle Príncipe de Viana, by the Poble's own building list (BDB, all PIN+COL, numbers not spoken; green on the plan): Palacio de San Cristóbal (Estella), Casa de las Cadenas (Corella), pre-Romanesque reliefs (Villatuerta), the López de Goicoechea coat of arms (Olazagutía), Valle del Roncal (Navarre); Caserío Casa Arteche (Erandio, Bizkaia), Vergara (Gipuzkoa); Palacio de los Álava-Esquivel. The Arco de Maia from Amaiur (Baztán, Navarre), recorded on this street by RAH11/RAH-E, exact place [O4]. The eleven small sculptures on the Bajada de Cervantes (school guide, May 2026).
+@listen: How the village turns from Castile to Navarre and the Basque Country, with a callback to the burnt clutch, and an arch that belongs to Navarre.
+@brief: Walking uphill with the listener; easy and curious, playing the family game, precise on the arch.
+@pace: medium
+@energy: 2→3
+@sources: GIMCANA poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-cast.pdf (OFF-op via PLAN/ROUTE §3.1: "Castilla, Navarra y País Vasco", ES) ; POST25 https://upcommons.upc.edu/bitstreams/a65af596-4fe6-4b4f-94dd-8406ce2b35d7/download (SEC-acad, re-read 31 Oct 2026 and by the fact audit: the car repaired in Tudela, letter dated 15/11/27, i.e. the second trip; the car is "l'auto", not named) ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici + zone listings (OFF-op data via ROUTE §3.3–3.4 and PLAN House key) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: green houses along C. Príncipe Viana; Bajada de Cervantes drawn as steps) ; RAH11 https://core.ac.uk/download/41807295.pdf p. 53 + RAH-E https://core.ac.uk/download/39127747.pdf pp. 66–67 (SEC-acad via FACTS 6.47: Arco de Maia/Amaiur on this street; Amaiur is in Baztán, Navarre, F9.18) ; SCHOOL https://poble-espanyol.com/wp-content/uploads/2026/05/GAE_26-27_ESO-I-BATXILLERAT.pdf (OFF-op via FACTS 7.8: "Onze petites escultures us esperen al carrer Baixada de Cervantes", CA)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 007 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Le parcours familial du village propose ici un petit jeu. Il demande aux familles de comparer trois régions, en espagnol : « Castilla, Navarra y País Vasco ». La Castille, la Navarre et le Pays basque. [pause] La Castille, c'était le rose que vous venez de traverser. À partir d'ici, sur le plan, les maisons deviennent surtout vertes, pour le Nord.
+
+Et voici la Navarre, la région de l'embrayage brûlé. Au deuxième voyage, en novembre 1927, la voiture a fini chez un garagiste de Tudela, une ville navarraise.
+
+D'après la liste du Poble, les maisons navarraises d'ici comprennent le palais de San Cristóbal, d'Estella, et la Casa de las Cadenas, de Corella. [pause] Il y a une maison de la vallée de Roncal, et des reliefs sculptés préromans.
+
+Puis le Pays basque : une ferme, un caserío, de Bizkaia, et une maison de Gipuzkoa. Regardez les maisons des deux côtés en montant.
+
+[pause] Cherchez un arc. Des architectes qui ont étudié le village signalent, dans cette rue, un arc d'Amaiur, Maia en basque, dans la vallée du Baztán. Vous lirez peut-être qu'il est basque. En fait, Amaiur est en Navarre.
+
+Si vous avez des enfants, une rue latérale est à connaître. Le guide scolaire du Poble dit, en catalan, que « onze petites sculptures vous attendent » sur la Bajada de Cervantes. C'est une rue en escalier, hors de notre parcours.
+
+En haut, la rue débouche sur la Plaza Aragonesa, dominée par la haute tour de brique. Trouvez un endroit d'où vous voyez toute la tour : Plaza Aragonesa · La tour qu'ils préféraient.
