@@ -1,5 +1,5 @@
 YO TOURS - SETAS DE SEVILLA (METROPOL PARASOL) + ANTIQUARIUM - ON-SITE + MAP CHECKLIST
-(30 Oct 2026 edition, 18 tracks. O-numbers and track numbers are as in PLAN.md sections 2 and 5.)
+(edition 5.1 of 31 Oct 2026, 21 tracks; track numbers renumbered to 5.1. O-numbers and track numbers are as in PLAN.md sections 2 and 5.)
 
 HOW TO USE THIS LIST
 - Walk the Full route once with the guide before recording, including the Antiquarium. Go on a day
@@ -58,7 +58,7 @@ ENTRANCES AND LEVEL -1
         - Where are the taquilla, the Antiquarium entrance and the lifts (Mirador access)? Is the
           Antiquarium entrance really "beside" the ticket office, and the lifts beside it?
         - Where is the ticket check before the lifts? (Never spoken.)
-        - Where can E/Full listeners stand to play 007 "by the lifts"?
+        - Where can E/Full listeners stand to play 008 "by the lifts"?
         - Does the area look newly refreshed? (Official photos are dated 10 Jul 2026.)
 
 THE ANTIQUARIUM (Full only)
@@ -85,7 +85,7 @@ THE ANTIQUARIUM (Full only)
         - 005 BEFORE RELEASE (lead decision, 30 Oct 2026): 005 is now a walk-along track with no fixed
           spot. Check every name it gives against the label photos: Casa de Baco, Casa de la Ninfa,
           the Patio del Oceano and its mural, the Hospitium de los Delfines. If those labels aren't
-          there, fold 005 into 004 and tell the lead. Also check that 005's last cue (play 006 at the
+          there, fold 005 into 004 and tell the lead. Also check that 005's last cue (play 007 at the
           casa almohade label, or straight away if already passed) suits the real order (ALT-A).
 
 GOING UP
@@ -95,7 +95,7 @@ GOING UP
           Experiencias")?
         - TIME the wait and the ride.
         - Do you step straight out onto the walkway?
-        - Can the first half of 008 be heard in the lift (noise, crowding)?
+        - Can the first half of 009 be heard in the lift (noise, crowding)?
 
 WALKWAYS AND MIRADOR
 [ ] O6  CRITICAL Tracks 8-13 and the H bridges (ALT-E): walkway circulation.
@@ -111,7 +111,7 @@ WALKWAYS AND MIRADOR
         - Other landmarks to the south you can name for sure: El Salvador? the Alcazar? Plaza de
           Espana? (List only.)
         - From the Mirador, is the BODY of the cathedral clearly visible, not just the Giralda? If
-          not, 012 says "with the cathedral beside it" instead of "with the great bulk of the
+          not, 013 says "with the cathedral beside it" instead of "with the great bulk of the
           cathedral beside it".
 [ ] O8  CRITICAL Tracks 10, 12 (ALT-F): the west view.
         - Can you see the RIVER ITSELF, or only its direction?
@@ -135,7 +135,7 @@ COMING DOWN
 [ ] O11 CRITICAL Track 15 (ALT-B): Feeling Sevilla.
         - WHERE is the room, and WHEN in the route: before or after the walkways?
         - How do you get there: lift or stairs?
-        - Where can a listener stand to play 015 before going in?
+        - Where can a listener stand to play 016 before going in?
         - Is it on the way down, as the official stop list suggests?
 [ ] O12 CRITICAL Tracks 13-16 (ALT-C, ALT-D): the way down.
         - Must everyone take the stairs past the exhibition to the Plaza Mayor, or is there a lift?
@@ -150,10 +150,10 @@ COMING DOWN
 PLAZA MAYOR AND EXIT
 [ ] O14 CRITICAL Tracks 16-18 (ALT-D, ALT-G): the Plaza Mayor.
         - Where does the way down arrive?
-        - Where can listeners stand for 017 and 018?
+        - Where can listeners stand for 019 and 020?
         - The way to the street: stairs or escalators? Which sides? Signs ("Salida")?
         - THE 1720 FOUNTAIN: where is it (under which parasol; on the Plaza Mayor or at street
-          level)? Photograph it and its sign. If found, the held Extra or one sentence in 018 can
+          level)? Photograph it and its sign. If found, the held Extra or one sentence in 020 can
           come back.
         - Can you see the Iglesia de la Anunciacion beside the plaza?
 
@@ -187,14 +187,14 @@ GENERAL
           tools could not reach.
 
 AFTER THESE DATES / TRIGGERS (see PLAN.md section 6)
-[ ] 1 Jan 2027 -> cut or rewrite the "in 2026 it turns fifteen" sentence (016).
-[ ] Aurora season stated differently -> still "after sunset" only (014, 018).
-[ ] Guinness record for the largest wooden structure changes -> re-check the 008 wording.
+[ ] 1 Jan 2027 -> cut or rewrite the "in 2026 it turns fifteen" sentence (017).
+[ ] Aurora season stated differently -> still "after sunset" only (015, 020).
+[ ] Guinness record for the largest wooden structure changes -> re-check the 009 wording.
 [ ] Antiquarium operator confirmed on signs -> 002 may say "the city's culture institute".
-[ ] Fish-salting tanks confirmed on show -> restore the held "Garum" Extra; trim 010 to two
+[ ] Fish-salting tanks confirmed on show -> restore the held "Garum" Extra; trim 011 to two
     sentences.
-[ ] 1720 fountain located -> restore the held Extra or add one sentence to 018.
-[ ] New exhibition on the way down -> re-photograph it and re-check 016.
+[ ] 1720 fountain located -> restore the held Extra or add one sentence to 020.
+[ ] New exhibition on the way down -> re-photograph it and re-check 017.
 [ ] A new official plan, signage, or a one-way circuit -> re-check every cue.
 
 LISTENING CHECKS (after rendering)
@@ -217,13 +217,23 @@ LISTENING CHECKS (after rendering)
 [ ] Years read correctly: 1184, 1248, 1401, 1591, 1810, 1820, 1830s, 1940s, 1973, 1987, 1990s,
     2004, 2007, 2010, 2011, 2012, 2013, 2021, 2026.
 [ ] Walking tracks:
-    - 007 has no "look at".
-    - 008 has no visual reference before "as you step out".
-    - 011 and 013 refer only to the timber.
-    - 016 refers only to what O12 photographed.
+    - 008 has no "look at".
+    - 009 has no visual reference before "as you step out".
+    - 012 and 014 refer only to the timber.
+    - 017 refers only to what O12 photographed.
     - 005 never says "here", "in front of you" or where a house is.
 [ ] Shorter versions:
     - every bridge names the right place;
-    - 001 and 018 are in all three lengths;
+    - 001 and 020 are in all three lengths;
     - the E and H 001 bridges skip the Antiquarium cleanly.
 [ ] After the first full render, check each length's running time against what 001 says.
+
+EDITION 5.1 ADDITIONS (31 Oct 2026)
+[ ] 001  Can the Antiquarium ruins be glimpsed through glass from level -1 before the ticket check? If not, cut that line.
+[ ] 004  Medusa: is it on show, in a geometric setting? Which house label? (Kramer, building D.)
+[ ] 005  Casa de Baco: is the Bacchus floor on show, and are the corner vessels visible? Casa del Sigma label: "stibadium"?
+         Hospitium de los Delfines: the "unswept floor" (asarotos oikos) motif on show?
+[ ] 006  CRITICAL  The two birds: hung on a wall? Does the label show the wine bowl (crater), the water-effect borders and
+         zigzags? Which hospitium does the label name? Where is it in the order (005/006/007 cues)?
+[ ] 018  Plaza Mayor: is the underside of the timber grid visible from the square, and the two concrete lift trunks?
+[ ] 021  Directions on foot to the Plaza del Cristo de Burgos and the Alameda de Hércules (only "nearby" is spoken).
