@@ -1,0 +1,32 @@
+@id: 013 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The Matter of Time
+@room: Gallery 104 · the far end
+@type: W
+@title: Salle 104 — Tore et sphère
+@where: Dans la salle 104, près des deux dernières pièces de la séquence, dont les cartels indiquent « Between the Torus and the Sphere » et « Blind Spot Reversed ». Placez-vous là où vous voyez aussi toute la galerie. [O6, ALT-S]
+@what: Richard Serra (San Francisco 1938 – Long Island 2024), Between the Torus and the Sphere, 2003–05, and Blind Spot Reversed, 2003–05, weathering steel, part of The Matter of Time, 1994–2005, eight sculptures, Guggenheim Bilbao Museoa.
+@listen: The two pieces Serra cut from rings and spheres, the shipyard boy who became the sculptor, and the whole gallery in one look.
+@brief: A guide at the end of a long walk, curious about the geometry, warm about the man, then stepping back to take in the room.
+@pace: medium
+@energy: 3→4→2
+@sources: WP-SERRA https://guggenheim-bilbao.eus/en/the-collection/works/the-matter-of-time (OFF, re-read 31 Oct 2026: "The last two pieces of this sculpture are created from sections of toruses and spheres"; "The installation also includes a progression in time.") ; TG-SERRA https://guggenheim-bilbao.eus/en/learn/schools/teachers-guides/work-of-art-audience-relationship (OFF, re-read 31 Oct 2026: "The two final works of this evolution are created from toroidal sections"; "The pieces transform in unexpected ways while the visitor is going around them, creating a sensation of movement.") ; ZWIR https://davidzwirner.com/artworks/richard-serra-the-matter-of-time-db031 (SEC via FACTS E2: titles, 2003–05) ; HUGH https://www.artsjournal.org/?p=24278 and UPI05 https://www.upi.com/Entertainment_News/2005/05/06/Bilbao-museum-to-install-Serra-sculptures/UPI-12131115411044/ (SEC, re-read 31 Oct 2026: Snake the existing work, the seven new ones in 2005) ; KQED https://www.kqed.org/arts/13954850/sculptor-richard-serra-the-poet-of-iron-dies-at-85 (SEC, AP obituary 27 Mar 2024, re-read 31 Oct 2026: Carmen Jimenez [sic in AP; the curator of The Matter of Time is Carmen Giménez, Guggenheim library record https://library.guggenheim.org/bib/23116, per AUDIT_V5_FACTS S5] "beyond doubt the most important living sculptor"; died at home on Long Island, 85; "inspired by the time he spent at a shipyard where his father worked as a pipefitter"; "worked in steel foundries to help finance his education") ; R-COLL https://guggenheim-bilbao.eus/en/routes/guggenheim-collections (OFF via ROUTE §1.7: "At the far end of the gallery, there is an educational space where you can find a video showing how they were installed.")
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 013 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un tore est un anneau, comme un beignet. Une sphère est une boule. Richard Serra a découpé son acier dans les deux.
+
+Voici les deux dernières pièces de La matière du temps : Between the Torus and the Sphere, et Blind Spot Reversed, toutes deux achevées en 2005. Selon le musée, elles sont « créées à partir de sections de tores et de sphères ». Le guide du musée pour les enseignants les appelle « les deux œuvres finales de cette évolution », et prévient qu'elles « se transforment de façon inattendue quand le visiteur en fait le tour ».
+
+[pause] Alors faites-en le tour. Longez lentement l'extérieur de l'une d'elles, et regardez son bord changer de forme sur le fond de la salle. Puis entrez. Une paroi taillée dans une sphère se courbe dans deux sens à la fois, au-dessus et autour de vous. Sentez la différence avec un mur qui ne fait que pencher.
+
+Le musée dit aussi que l'installation « comprend une progression dans le temps ». Elle aboutit ici.
+
+[warmly] Serra a grandi près de l'acier. Comme l'a raconté l'agence AP, il s'est inspiré du temps passé dans un chantier naval où son père était tuyauteur. Plus tard, il a travaillé dans des fonderies d'acier pour aider à payer ses études. [pause] Et ici, son acier se dresse sur un ancien quai, dans une ville qui construisait des navires.
+
+Pour la commissaire de l'installation, Carmen Giménez, citée en anglais par l'agence AP, il était « sans aucun doute le plus important sculpteur vivant ».
+
+[pause] Avant de partir, regardez toute la galerie. Huit pièces à la suite, et les gens parmi elles, tout petits face à l'acier.
+
+Au fond de la galerie, à l'opposé de l'atrium, un espace pédagogique montre en vidéo l'installation des pièces.
+
+Si vous suivez la visite complète, un court Extra s'écoute ici ou au retour : Le Serra disparu. L'arrêt principal suivant est dehors. Retraversez la galerie jusqu'à l'atrium, puis sortez sur la terrasse, côté fleuve : Terrasse de l'atrium, Chillida et le fleuve.

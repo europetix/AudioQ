@@ -1,0 +1,28 @@
+@id: 028 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk (anywhere; ideally with a view across the water)
+@type: X
+@title: Promenade le long du fleuve · Extra · Ceux qui ont perdu
+@where: N'importe où sur la promenade le long du fleuve. Aucune vue particulière n'est nécessaire, et la piste ne désigne rien de l'autre côté de l'eau. [O17]
+@what: The 1991 invited competition: Arata Isozaki, Coop Himmelb(l)au and Frank O. Gehry; Thomas Krens on the final choice; the Isozaki Towers named on the museum's architecture route; the route's list of "internationally renowned architects" in Bilbao.
+@listen: What became of the two architects who lost the competition for this museum, and how one of them ended up in Bilbao anyway.
+@brief: A guide with a wry smile, telling the footnote to a famous win; light, a little amused, short.
+@pace: medium
+@energy: 2→3
+@sources: GBIO https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry/biography-of-frank-gehry (OFF via FACTS A14–A15: the invited competition among Isozaki, Coop Himmelb(l)au and Gehry; 1991) ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC via FACTS A16: Krens, the final choice between Gehry and Coop Himmelb(l)au, "two arduous days of deliberation") ; R-ARCH https://guggenheim-bilbao.eus/en/routes/architecture (OFF, re-read twice 31 Oct 2026: "or climb the stairs between the Isozaki Towers for brand-new views of the city."; "Contributions by internationally renowned architects include not only the Museum building by Frank Gehry" "but also those by Santiago Calatrava, Arata Isozaki, Rafael Moneo, and Álvaro Siza, among others."; the page does not tie Calatrava to Zubizuri)
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 028 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] En 1991, trois noms étaient en lice pour ce musée. Un seul a droit aux photos.
+
+Outre Gehry, ce concours sur invitation réunissait, selon la chronologie du musée, l'architecte Arata Isozaki et le studio Coop Himmelblau.
+
+Rien n'était joué d'avance. Selon Thomas Krens, qui dirigeait la Fondation Guggenheim, le choix final s'est joué entre Gehry et Coop Himmelblau, après « deux jours de délibérations ardues ».
+
+[amused] Mais Isozaki n'est pas reparti les mains vides. La ville a des tours à son nom. Le parcours d'architecture du musée recommande « les escaliers entre les tours Isozaki, pour des vues inédites sur la ville ».
+
+[pause] Ce même parcours énumère les apports « d'architectes de renommée internationale » à la ville. Il cite « non seulement le bâtiment du musée de Frank Gehry, mais aussi ceux de Santiago Calatrava, Arata Isozaki, Rafael Moneo et Álvaro Siza, entre autres ».
+
+[pause] Le perdant a donc fini dans la même phrase que le gagnant. Dans une ville qui a refait sa berge, il y avait place pour plus d'un gagnant.
+
+[pause] Pour le dernier arrêt, trouvez un endroit calme au bord du fleuve, le musée à vos côtés : Promenade le long du fleuve, Nous avons tous besoin d'amour.

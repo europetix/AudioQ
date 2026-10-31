@@ -1,0 +1,30 @@
+@id: 016 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: Second floor · balcony opposite gallery 204
+@type: R
+@title: Niveau 2 — Serra vu d'en haut
+@where: Au niveau 2, au balcon face à la salle 204, avec vue plongeante sur la salle 104 et les huit sculptures d'acier de La matière du temps. [O8, O9]
+@what: Richard Serra (San Francisco 1938 – Long Island 2024), The Matter of Time, 1994–2005, weathering steel, eight sculptures, dimensions variable, Gallery 104, Guggenheim Bilbao Museoa, seen from above.
+@listen: The Serra gallery from above: what the balcony reveals, and what it still hides.
+@brief: A guide leaning on the rail beside the listener after the walk below; curious, quietly pleased, pointing things out.
+@pace: medium
+@energy: 2→3
+@sources: R-EXP https://www.guggenheim-bilbao.eus/en/routes/express-tours (OFF via ROUTE §1.8: "Go up to the second floor of the Museum and take a look from the balcony opposite gallery 204."; "You will get a panoramic view of the eight monumental sculptures that make The Matter of Time (1994–2005)") ; TG-SERRA https://guggenheim-bilbao.eus/en/learn/schools/teachers-guides/work-of-art-audience-relationship (OFF, re-read 31 Oct 2026: "A balcony on the second floor allows a panoramic view of the whole space, revealing the exact location of the sculptures."; "Once inside the works, the viewer loses all reference and does not know what lies ahead."; "However, and as Serra himself affirms, "the way the pieces rise always remains partially hidden"."; "When you move they move too in such a way that you are always trying to get them.") ; WP-SERRA https://guggenheim-bilbao.eus/en/the-collection/works/the-matter-of-time (OFF, re-read 31 Oct 2026: "The entire room is part of the sculptural field.") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via FACTS B10: "Stretching under the bridge, gallery 104—an enormous, column-free space")
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 016 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En bas, les murs bougeaient avec vous. D'ici, ils restent immobiles.
+
+L'itinéraire express du musée vous envoie ici : « Montez au niveau deux du musée et regardez depuis le balcon face à la salle deux cent quatre. » Il promet « une vue panoramique sur les huit sculptures monumentales qui composent La matière du temps ».
+
+Le guide du musée pour les enseignants ajoute que ce balcon révèle « l'emplacement exact des sculptures ». En bas, vous l'avez vu parmi les spirales, on perd tout repère.
+
+[pause] Alors profitez de la vue. Comptez les huit. Trouvez la première spirale et les ellipses torsadées, puis Snake, puis les autres spirales, puis les deux pièces taillées dans des anneaux et des sphères. [pause] Regardez les espaces entre elles. « La salle entière fait partie du champ sculptural », selon le musée, et d'ici, les couloirs parcourus sont des lignes tracées au sol.
+
+[amused] Attendez que quelqu'un entre dans une spirale, et voyez combien de temps il met à ressortir.
+
+Vous vous rappelez la phrase de Serra ? Quand vous bougez, elles bougent aussi, et vous essayez toujours de les saisir. D'ici, enfin, vous les saisissez. Ou presque. Comme le disait Serra, « la façon dont les pièces s'élèvent reste toujours en partie cachée ».
+
+Remarquez aussi ce qui manque : pas une seule colonne.
+
+[pause] Ensuite, montez au niveau trois. Prenez un ascenseur de verre, ou les passerelles courbes et les escaliers, et lancez l'arrêt suivant en chemin : Ascenseurs et passerelles, Chaque pièce est différente.

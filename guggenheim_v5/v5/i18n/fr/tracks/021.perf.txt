@@ -1,0 +1,30 @@
+@id: 021 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: Outside · on the way to the river walk (heard walking)
+@type: R
+@title: Dehors — Des chantiers navals à la promenade
+@where: Lancez-le en quittant le musée et laissez-le jouer pendant que vous faites le tour et descendez vers la promenade le long du fleuve, au bord de l'eau, du côté fleuve du bâtiment. Il se termine quand vous atteignez le bassin à côté du bâtiment, où un grand arbre de boules argentées se dresse dans l'eau. [O11, O12, O13]
+@what: The museum's site and the riverbank of Abandoibarra: a former wharf "with port and industrial use on a curve of the Nervión" (museum); before, the Euskalduna shipyard (founded 1900, closed 1988), container storage, rail lines and docks; after, Bilbao Ría 2000 (1992) and the riverside avenue, "an open-air leisure area".
+@listen: How a working riverbank of shipyards, docks and rail lines became the promenade you are walking on, and where the museum fits in that change.
+@brief: A guide walking beside the listener, telling the story of the ground underfoot; easy and conversational, no pointing until the pond comes into view.
+@pace: medium
+@energy: 2→3
+@sources: CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF, re-read 31 Oct 2026: "on a former wharf with port and industrial use on a curve of the Nervión"; "represented recovery of the banks of the river for the city, redeveloping them for culture and leisure") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF, re-read 31 Oct 2026: "It is possible to walk all the way around the Museum, admiring different configurations from each perspective") ; ABANDO https://pro.guggenheim-bilbao.eus/en/useful-information/sightsee/explore/abando (OFF, re-read 31 Oct 2026: "open-air leisure area with a cosmopolitan atmosphere"; "an emblematic example of the urban regeneration of Bilbao") ; UPM https://blogs.upm.es/puma/2020/10/13/urban-regeneration-of-abandoibarra/ (SEC, re-read 31 Oct 2026: "a totally industrial area"; "roads, railway lines, ports, docks"; shipyards and "large container storage areas"; Astilleros Euskalduna "founded in 1900", closed 1988 after "a major crisis in the steel sector"; Bilbao Ría 2000 "appeared in 1992, with the aim of recovering degraded areas or declining industrial areas"; funded by "the sales of the plots that are transferred free of charge by the public institutions"; "about 1.1 billion euros over 16 years")
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 021 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Avant qu'il y ait un musée ici, cette berge gagnait sa vie.
+
+Continuez à marcher en écoutant. Vous allez vers la promenade le long du fleuve. Si vous sortez sur le parvis, prenez l'escalier qui descend du parvis vers le parc et la promenade, du côté opposé au grand pont routier. Si vous sortez côté fleuve, vous y êtes presque.
+
+Pendant presque tout le siècle dernier, cette partie du fleuve, Abandoibarra, était vouée à l'industrie lourde : chantiers navals et parcs à conteneurs, routes, voies ferrées et docks. Parmi eux, le chantier naval Euskalduna, fondé en 1900.
+
+[pause] Puis est venue une profonde crise industrielle, et en 1988, le chantier naval a fermé.
+
+[curious] Alors, qui a fait revivre la berge ? Pas le musée à lui seul. En 1992 naît une société publique, Bilbao Ría 2000, chargée de récupérer des terrains industriels dégradés et en déclin le long du fleuve.
+
+[pause] Le musée s'est élevé au cœur de ce changement. Selon lui, sa construction « a représenté la reconquête des berges du fleuve pour la ville, réaménagées pour la culture et les loisirs ». Aujourd'hui, il qualifie l'avenue riveraine d'« espace de loisirs en plein air » et d'« exemple emblématique de la régénération urbaine de Bilbao ».
+
+[lightly] Hier, des chantiers navals et des conteneurs. Aujourd'hui, une promenade.
+
+[pause] Au bord de l'eau, longez le fleuve vers le grand pont routier, jusqu'au bassin à côté du bâtiment, où un grand arbre de boules argentées se dresse dans l'eau : Le bassin, Grand arbre et l'œil.

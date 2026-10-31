@@ -1,0 +1,30 @@
+@id: 002 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The plaza
+@room: Museum plaza · facing Puppy
+@type: W
+@title: Parvis du musée — Puppy, le chien de garde en fleurs
+@where: Sur le parvis du musée, face à Puppy, le West Highland terrier de douze mètres couvert de plantes à fleurs. Placez-vous là où vous le voyez en entier, à l'écart du grand escalier [O1, O2, O25].
+@what: Jeff Koons, Puppy, 1992, stainless steel, soil and flowering plants, 1240 × 1240 × 820 cm, Guggenheim Bilbao Museoa (artist's proof; edition 1 at the Brant Foundation, Greenwich, Connecticut). Earlier versions: Arolsen 1992; Sydney 1995–96.
+@listen: How a dog of flowers came to Bilbao from Germany by way of Sydney, why "popular demand" is a myth, the twin in Connecticut, and how his coat is changed.
+@brief: A friend introducing a much-loved local character; curious and a little wry at the myth, warmly attentive at the flowers.
+@pace: medium
+@energy: 3→4→3
+@sources: WP-PUPPY https://guggenheim-bilbao.eus/en/la-coleccion/obras/puppy (OFF via FACTS G1–G2 and MAP text: 1992, materials, 1240 cm; "A behemoth West Highland terrier carpeted in bedding plants"; "18th-century formal European garden"; "to instill, in his own words, 'confidence and security'"; "stands guard at the museum") ; PR-PUPPY https://www.guggenheim-bilbao.eus/en/press-room/press-releases/puppy-se-viste-de-primavera (OFF via FACTS G3, 16 May 2024: "cerca de 40.000 plantas", May and October, nine days, twenty gardeners, "los diseños originales del artista", remote irrigation with moisture meters in six critical zones since 2022, begonias and petunias among the spring–summer species) ; KOONS https://jeffkoons.com/artwork/puppy (OFF via FACTS G4: edition of 1 plus AP; Bilbao has the AP; edition 1 Rockefeller Center 2000, Brant Foundation since 2002) ; AGNSW https://archive.artgallery.nsw.gov.au/exhibitions/archived/2010/kaldor_projects/projects/1995_jeff_koons/index.html (OFF via FACTS G5: baroque Arolsen castle, about 20,000 plants, wooden foundations, "the design didn't last"; Sydney about 60,000 plants, stainless-steel armature with 3D computer modelling; verbatim per AUDIT_V5_FACTS M3: the version that "now stands outside the Guggenheim museum in Bilbao, Spain, is the one designed and created" in Sydney; FACTS G5's quote was not on the page) ; EI-PUP https://www.elindependiente.com/?p=144701 (SEC single, via FACTS D10, G6: "recién llegado de Australia"; "Existe la idea de que Puppy se quedó en Bilbao por aclamación popular." "No es así.", said by the museum's Lucía Agirre per AUDIT_V5_FACTS S1; committee decided to buy before the opening) ; MAP https://plano.guggenheim-bilbao.eus/en/ (OFF: Puppy in the Museum Square)
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 002 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Il mesure plus de douze mètres. Il est vivant. Et ils sont deux.
+
+Voici Puppy, de Jeff Koons, réalisé en 1992 en acier inoxydable, terre et plantes à fleurs. Le musée l'appelle « un West Highland terrier colossal, tapissé de plantes à massif ». Il évoque les jardins classiques de l'Europe du dix-huitième siècle, et Koons voulait qu'il inspire, selon ses mots, « confiance et sécurité ». Il monte la garde devant le musée.
+
+Le premier Puppy a poussé au château baroque d'Arolsen, en Allemagne. Il portait environ vingt mille plantes sur une structure en bois, et ce modèle n'a pas duré. [pause] Il renaît à Sydney, avec environ soixante mille plantes sur une armature d'acier inoxydable calculée par ordinateur. Selon l'Art Gallery of New South Wales, le Puppy qui « se dresse aujourd'hui devant le musée Guggenheim de Bilbao » est « celui qui a été conçu et créé » à Sydney. Il a été dévoilé ici juste avant l'ouverture, « tout juste arrivé d'Australie », écrivait un journal espagnol.
+
+[wry] On lit parfois que Bilbao l'a gardé à la demande du public. « On croit que Puppy est resté à Bilbao par acclamation populaire », a dit une porte-parole du musée au même journal. « Ce n'est pas le cas. » Le comité artistique du musée avait décidé son achat avant l'ouverture. Le musée l'a acquis.
+
+[pause] Et le jumeau ? L'atelier de Koons présente Puppy comme une édition unique, plus une épreuve d'artiste. Bilbao a l'épreuve. L'autre, d'abord au Rockefeller Center, à New York, vit depuis 2002 à la Brant Foundation, dans le Connecticut.
+
+[warmly] Regardez son pelage. Environ quarante mille plantes, changées deux fois par an, en mai et octobre. Vingt jardiniers passent neuf jours sur chaque changement, selon les dessins originaux de l'artiste. Depuis 2022, il a un nouvel arrosage télécommandé, avec des capteurs d'humidité dans six zones critiques. De près, vous verrez peut-être l'acier affleurer.
+
+S'il est à moitié habillé aujourd'hui, vous avez surpris les jardiniers à l'œuvre.
+
+[pause] Avant d'entrer, un arrêt qui compte. Sur la petite place juste devant Puppy, côté ville, une plaque. Trouvez-la, et restez-y en silence : Parvis du musée, Txema Agirre.

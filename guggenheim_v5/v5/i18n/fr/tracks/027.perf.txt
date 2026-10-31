@@ -1,0 +1,32 @@
+@id: 027 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · La Salve Bridge, the tower in view
+@type: W
+@title: Pont de La Salve — Le pont, la tour et les arcs rouges
+@where: Sur la promenade le long du fleuve, près du pont de La Salve, le grand pont routier qui traverse l'extrémité du musée, à un endroit d'où le pont, la haute tour à côté et le cadre rouge sur le pont sont tous visibles. [O16]
+@what: La Salve Bridge, officially Príncipes de España, engineer Juan Batanero, built from 1968, opened 1972; Gehry's tower at the end of the building; Daniel Buren (Boulogne-Billancourt, France, 1938), Arcos rojos / Arku gorriak, 2007, for the museum's tenth anniversary, compact laminate sheets, aluminium, galvanised steel, PVC film, clear Plexiglas, LEDs and metal-halide projectors, Guggenheim Bilbao Museoa, "Currently on view (La Salve Bridge)".
+@listen: How Gehry turned a big road bridge from an obstacle into part of his building, and how Buren's red arches made it "less brutal, but more visible".
+@brief: A guide at the end of the walk, enjoying a good architectural trick with the listener; brisk and pleased, then slower for the look.
+@pace: medium
+@energy: 3→4
+@sources: BVV https://www.bilbaovisitavirtual.eus/en/bilbao-through-its-bridges/ (SEC, re-read 31 Oct 2026: "Inaugurated in 1972, its official name is Príncipes de España."; "The engineer Juan Batanero was the author and in charge of its construction in 1968."; "the first in Spain to be built with stays"; Gehry "wanted to integrate, to a certain extent, the museum with the bridge"; "designed a tower with stairs that connect the museum with the bridge") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF, re-read 31 Oct 2026: "The Museum site is crossed at one end by La Salve Bridge"; "ends in a tower, a sculpture gesture that brings the architectural design to a crescendo"; "effectively incorporates it into the building"; "Stretching under the bridge, gallery 104—an enormous, column-free space") ; WP-BUREN https://pro.guggenheim-bilbao.eus/en/the-collection/works/arcos-rojos-arku-gorriak (OFF, re-read 31 Oct 2026: "inaugurated on the occasion of the museum's Tenth Anniversary"; "less brutal, but more visible"; "a vertical piece perpendicular to the bridge"; "three circles located at equal distances from each other"; "a central circle around the road" and "two semicircles"; edges "vertically striped in black and white"; "The red color was therefore chosen to contrast with the green of the bridge"; titanium "produces a mirror-like effect"; LEDs; "plays of light at night"; "the site is located at the immediate entrance to the city center") ; WP-KAPOOR https://guggenheim-bilbao.eus/en/the-collection/works/tall-tree-and-the-eye (OFF: Buren's arches reflected in the spheres; hedged callback)
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 027 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un grand pont routier traverse un bout du site du musée. Bien des architectes l'auraient évité. Gehry a glissé dessous la longue galerie des sculptures de Serra, et dressé une tour à sa rencontre.
+
+Tout le monde l'appelle La Salve. Son nom officiel : pont Príncipes de España. L'ingénieur Juan Batanero l'a commencé en 1968, et il a ouvert en 1972. C'est un pont à haubans : ses mâts portent le tablier par des câbles.
+
+Selon un guide des ponts de Bilbao, Gehry « voulait intégrer, dans une certaine mesure, le musée au pont ». Il a donc dessiné une tour dont les escaliers relient les deux. Pour le musée, plus lyrique, le bâtiment « se termine par une tour, un geste sculptural qui porte le projet architectural à son crescendo », et « intègre effectivement » le pont « au bâtiment ».
+
+[pause] Pour les dix ans du musée, en 2007, arrive le cadre rouge. L'artiste français Daniel Buren l'a appelé Arcos rojos, en basque Arku gorriak : les arcs rouges. Buren voulait rendre la structure du pont « moins brutale, mais plus visible ».
+
+[lightly] Regardez-le. Un grand cadre rouge barre le pont, percé de trois cercles à distances égales. Celui du milieu, complet, entoure la route. Les deux autres, des demi-cercles. Les bords sont rayés noir et blanc. [pause] Et le rouge, dit le musée, a été choisi « pour contraster avec le vert du pont ».
+
+Sur la tour, le titane fait miroir : guettez un reflet rouge quand la lumière s'y prête. La nuit, des LED l'éclairent.
+
+Si vous avez regardé dans les sphères argentées de Kapoor, près du bassin, vous y avez vu ces arcs rouges.
+
+[warmly] Ce pont, note le musée, est à « l'entrée immédiate du centre-ville ». Des ingénieurs l'ont construit pour faire entrer la circulation dans Bilbao. Gehry et Buren en ont fait une partie du musée.
+
+[pause] Si vous suivez la visite complète, un court Extra s'écoute ici, sur les deux architectes qui ont perdu. Pour le dernier arrêt, trouvez un endroit calme au bord du fleuve, le musée à vos côtés : Promenade le long du fleuve, Nous avons tous besoin d'amour.
