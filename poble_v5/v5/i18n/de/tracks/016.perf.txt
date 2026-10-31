@@ -1,0 +1,26 @@
+@id: 016 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: The top of the hill
+@room: Sculpture Garden · just inside
+@type: X
+@title: Skulpturengarten · Extra · Sechsunddreißig Skulpturen und zwei Rutschen
+@where: Gleich hinter dem Eingang des Skulpturengartens, unterhalb des Aussichtspunkts, wo die Riesenrutschen sind. Der Garten ist eine Sackgasse, Sie kehren also auf demselben Weg zurück. Der Zugang ist unbestätigt: vom Aussichtspunkt und vom Baluard aus, oder über die Stufen neben Haus 89 am unteren Ende der Carrer Mercaders, wo der Plan den Gartenweg einzeichnet (falls ja, ALT-G2 in AUDIT_FIXES). [O10, ALT-G]
+@what: The Sculpture Garden: 36 sculptures by 27 contemporary artists, opened 2004 (operator); listed with the Fundació Fran Daurel (ENC); gentle slopes; two giant slides; a vantage point at the end. No size (sources conflict). Artists named only from labels photographed at O10.
+@listen: A garden of twentieth-century sculpture beside a Romanesque monastery, and one label to read for yourself.
+@brief: A friend in a garden, relaxed and light, nudging you to look closely at one thing.
+@pace: medium
+@energy: 3→3
+@sources: GARDEN https://poble-espanyol.com/en/exhibition/sculpture-exhibition/ and https://poble-espanyol.com/en/?p=110737 (OFF-op, both re-read 31 Oct 2026, mod. 2022-03-24: "36 sculptures by 27 different contemporary artists"; "This particular space was inaugurated in 2004."; "A stone's throw from the Monastery of Sant Miquel"; "Spanish artists of the 20th century"; "the vantage point at the end of the garden"; "a unique view over the city of Barcelona") ; SPACE-BAL https://poble-espanyol.com/espacio/baluard-y-jardin-escultorico/ (OFF-op, re-read 31 Oct 2026: "Se trata de una amplia zona con leves pendientes") ; VIEW https://poble-espanyol.com/en/?p=109703 (OFF-op, re-read 31 Oct 2026: "two giant slides where children and adults alike" "will have a wonderful time") ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC, re-read 31 Oct 2026: the Fundació Fran Daurel with "un jardí d'escultures") ; SCHOOL GAE 26-27 PDFs (OFF-op via FACTS/PLAN: classes eat "under the trees")
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 016 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Moderne Skulpturen, „einen Steinwurf vom Kloster Sant Miquel entfernt“. So beschreibt die Seite des Poble den Ort, und es ist eine treffende Beschreibung dieser eigenartigen, schönen Ecke.
+
+Das ist der Skulpturengarten, eröffnet 2004. Er zeigt sechsunddreißig Skulpturen von siebenundzwanzig zeitgenössischen Künstlern, die das Poble als „spanische Künstler des zwanzigsten Jahrhunderts“ beschreibt. [pause] Die katalanische Enzyklopädie ordnet den Garten der Stiftung Fran Daurel zu, derselben Sammlung wie im Museum unten auf der Plaza de la Iglesia.
+
+Der Boden hier bewegt sich in dem, was das Poble auf Spanisch leves pendientes nennt, sanfte Hänge. Es gibt zwei Riesenrutschen, laut dem Poble „für Kinder und Erwachsene gleichermaßen“. [pause] Sein Führer für Schulgruppen schickt Klassen sogar zum Essen hierher, unter die Bäume.
+
+[lightly] Suchen Sie sich eine Skulptur aus, irgendeine, und finden Sie ihr Schild. Lesen Sie den Namen des Künstlers. Dann gehen Sie um das Werk herum und betrachten Sie es noch einmal von der anderen Seite.
+
+Weiter hinten verspricht das Poble „einen einzigartigen Blick über die Stadt Barcelona“, vom „Aussichtspunkt am Ende des Gartens“.
+
+Verlassen Sie den Garten so, wie Sie hereingekommen sind, und nehmen Sie die Stufen vom Baluard hinauf zum Kloster. Es ist die romanische Kirche mit dem quadratischen Glockenturm, ganz oben auf dem Hügel: Monestir de Sant Miquel · Ein Kloster aus Einzelteilen.

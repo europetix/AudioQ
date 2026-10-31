@@ -1,0 +1,28 @@
+@id: 005 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: Calle Caballeros
+@room: Calle Caballeros · walking up, houses 113 to 103 (heard walking)
+@type: R
+@title: Calle Caballeros — Wappen
+@where: Im langsamen Gehen die Calle Caballeros hinauf, von der Plaza Castellana zur Kreuzung mit der Calle Príncipe de Viana bei den Häusern 102/103, auf dem stufenlosen Weg. Für den ersten Teil brauchen Sie keine Sicht. [O2, O3]
+@what: Calle Caballeros, by the Poble's own building list (BDB, all PIN+COL, numbers not spoken): Casa del Doncel (Sigüenza, Guadalajara); Casa de la Torre and Palacio de los Contreras (Ayllón, Segovia); Palacio Episcopal (El Burgo de Osma, Soria); Casa del Segle XV (Segovia); Casa de los Benavides and Casa D. Ramón de la Fuente (Toro, Zamora); Casa del Francés (Molinos de Duero, Soria); Casa Ramos (Vinuesa, Soria); the purple Jérica (Castellón) and Casa Desclergue (Montblanc, Tarragona), pins on 23/24, which sit one row back from the street frontage on the plan [O2, O3]; the green Casa del Marqués de Santillana (Santillana del Mar, Cantabria). The Poble's casts of stones and 800,000 old tiles. DATED: craft workshops on the street.
+@listen: Whose houses line this street, what the coats of arms were for, and two ways to catch the builders' craft.
+@brief: Walking beside the listener, pointing things out; relaxed and curious, a little conspiratorial at the cast stone.
+@pace: medium
+@energy: 2→3
+@sources: GIMCANA poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-cast.pdf (OFF-op via PLAN/ROUTE §3.1: "Los escudos en las fachadas indicaban la clase social de las familias", ES) ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici + zone listings (OFF-op data via ROUTE §3.4 and PLAN House key: names, towns, provinces, zones) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: pink, purple and green houses on the street) ; ARCH https://poble-espanyol.com/en/?p=274649 (OFF-op, re-read 31 Oct 2026: "casts of real stones were used to exactly replicate the original textures and colors of each region." — "exactly" dropped; "800,000 old tiles were brought from across the country to give the buildings an authentic, lived-in look.") ; EST/CRAFTS wp-json artesa + https://poble-espanyol.com/en/?p=109977 (OFF-op via ROUTE §4.2: blacksmithing, stained glass, wooden toys at 107–114; DATED)
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 005 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] In dieser Straße war ein Wappen über der Tür mehr als Schmuck. Der Familienrundgang des Dorfes sagt, auf Spanisch: „Die Wappen an den Fassaden zeigten die soziale Stellung der Familien.“
+
+Laut der Liste des Poble ist diese Straße überwiegend Kastilien. Die Casa del Doncel aus Sigüenza, Paläste aus Ayllón und El Burgo de Osma, Häuser aus Segovia, Toro und Soria. [pause] Alles rosa auf dem Plan, für das Zentrum.
+
+Zwei Überraschungen unterbrechen das Rosa. Gleich abseits des Straßenanfangs, eine Reihe weiter hinten, zeigt der Plan ein wenig Violett, die Farbe des Mittelmeers. Die Liste des Poble nennt hier zwei Mittelmeerhäuser: eines aus Jérica, in Castellón, und das Haus Desclergue aus Montblanc, in Katalonien. [pause] Sie nennt auch ein nördliches, grün auf dem Plan, aus Kantabrien: das Haus des Marqués de Santillana.
+
+[conspiratorial] Schauen Sie im Vorbeigehen genau auf die Mauern. Das Poble sagt, die Erbauer verwendeten „Abgüsse echter Steine“, um Textur und Farben jeder Region nachzubilden. [pause] Versuchen Sie, einen Abguss von einem echten Stein zu unterscheiden.
+
+Dann schauen Sie hinauf zu den Dächern. Laut dem Poble wurden „achthunderttausend alte Dachziegel aus dem ganzen Land herbeigeschafft“.
+
+Vielleicht kommen Sie hier an Werkstätten vorbei: ein Schmied, Glasmalerei, Holzspielzeug. Wenn eine Tür offen ist, schauen Sie hinein.
+
+Gehen Sie weiter, bis die Calle Caballeros zur Calle Príncipe de Viana wird, bei den Häusern hundertzwei und hundertdrei. Dort zweigt neben Haus einundvierzig die Travesía del Maestrazgo ab. Bleiben Sie dort ein paar Minuten: Calle Príncipe de Viana · Die Männer, die es schufen.

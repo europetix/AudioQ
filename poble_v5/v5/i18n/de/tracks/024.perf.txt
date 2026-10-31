@@ -1,0 +1,30 @@
+@id: 024 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: Back to the Plaza Mayor
+@room: Plaza Mayor · sitting on the steps
+@type: W
+@title: Plaza Mayor — Eine unheilbar triviale Idee
+@where: Auf den Stufen der Plaza Mayor sitzend, an einer ruhigen Stelle mit Blick auf den Platz (bei ALT-X irgendwo ruhig am Rand des Platzes). [O15, ALT-X]
+@what: What critics thought of the Poble, 1929 to 1961, and its later life: the 1929–30 critics in D'Ací i d'Allà (Just Cabot, Domènec Carles, Carles Soldevila); the "merry-go-round" years; the unsigned 1961 article in Arquitectura (COAM), both halves; Bohigas's "psychological habitability" (not named); 1986 municipal plan and private management (Maragall, 30-year concession); the 1990 bar in the gate; losses and the 1996 suspension of payments; the 1996 take-over; 2017 visitors (DATED).
+@listen: How the village went from admired to dismissed to studied, in the critics' own words, and how it nearly failed again before it recovered.
+@brief: A guide sitting with the listener and reading out the reviews, even-handed, enjoying the sharp phrases on both sides.
+@pace: medium
+@energy: 3→4→3
+@sources: ARQ61 https://www.coam.org/media/Default%20Files/fundacion/biblioteca/revista-arquitectura-100/1959-1973/docs/revista-articulos/revista-arquitectura-1961-n35-pag15-23.pdf (SEC primary press, re-read twice 31 Oct 2026: "He aquí una idea irremediablemente trivial expresada milagrosamente con una sensibilidad tan aguda", attributed to "un compañero nuestro"; "Just Cabot, Domingo Carles y Carlos Soldevila pedían admirativamente la conservación del 'Pueblo'" in "D'Ací i d'Allà"; "no podía considerarse más que como un tío-vivo para el turismo," "tan bien adornado como queráis por cuatro artistas sensibles, pero sólo y escuetamente como un tío-vivo", in the context "En el momento en que se inventaban el zoning o las ciudades verdes verticales"; "muy pronto el 'Pueblo Español' cayó dentro de la general desconsideración"; "ni demasiado original ni demasiado buena"; "una idea bastante descabellada y extraordinariamente peligrosa"; "perfectamente, deliciosamente 'habitable', tanto como encontramos escandalosamente 'inhabitables' tantos y tantos conjuntos del nuevo urbanismo"; "más de medio millón de visitantes") ; HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op, re-read 31 Oct 2026: "It was such a success that in the end the decision was taken not to demolish it"; 1986 "a centre for cultural, leisure and commercial activities"; "the Poble continued to accumulate significant losses"; "a group of businessmen, who could see the venue's potential, decided to take over its management in 1996"; "the Poble began to recover" via FACTS 5.18) ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad, re-read 31 Oct 2026: p. 95 "aquella habitabilidad psicológica de la que habla Bohigas") ; INDEP24 https://www.elindependiente.com/tendencias/2024/02/27/cuando-el-socialista-maragall-privatizo-el-poble-espanyol-la-plaza-de-espana-de-barcelona/ (SEC via FACTS 5.12, 5.17: Maragall, "concesión administrativa por treinta años"; "el consorcio nunca tuvo beneficios y en 1996 entró en suspensión de pagos") ; TEMPS90 (SEC via FACTS 5.14: the 1990 bar in the towers) ; OBS17 https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/110969/12/otb_IA2017_4.pdf.txt (OFF via FACTS 4.12, 4.13: 1,299,386 in 2017, 5th)
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 024 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] 1961 zitierte eine Architekturzeitschrift einen Kollegen über dieses Dorf, auf Spanisch: „Hier ist eine unheilbar triviale Idee, ausgedrückt, wie durch ein Wunder, mit so scharfer Empfindsamkeit.“
+
+So widerwillig war man nicht immer. Die Zeitschrift erinnerte daran, wie drei Kritiker aus Barcelona, Just Cabot, Domènec Carles und Carles Soldevila, „voller Bewunderung baten“, das Dorf zu erhalten. Sie schrieben in einer schönen Ausgabe der katalanischen Zeitschrift D'Ací i d'Allà. [pause] Die Chronik des Poble stimmt zu: Es war „ein solcher Erfolg“, dass es nicht abgerissen wurde.
+
+[pause] Dann änderte sich der Zeitgeschmack. Als Architekten die Zonierung und vertikale grüne Städte erfanden, so die Zeitschrift, konnte das Dorf nur als „ein Karussell für den Tourismus“ gelten. „So hübsch dekoriert, wie man will, von vier feinfühligen Künstlern“, fuhr sie fort, „aber nur, und schlicht, ein Karussell.“ Es „geriet sehr bald in allgemeine Missachtung“.
+
+Das Urteil von 1961 ist zweischneidig. Die Idee eines spanischen Dorfes auf einer Weltausstellung, hieß es, sei „weder sehr originell noch sehr gut“, sogar „eine ziemlich verrückte und außerordentlich gefährliche Idee“. [pause] Und doch fand es diese Gassen „vollkommen, köstlich bewohnbar“, so wie es viele Neubaugebiete „skandalös unbewohnbar“ fand. Im Jahr zuvor waren mehr als eine halbe Million Menschen gekommen. Spätere Kritiker studierten es als Lektion in dem, was einer „psychologische Bewohnbarkeit“ nannte.
+
+1986, als die Demokratie zurück war, wollte die Stadt daraus, in den Worten des Poble, „ein Zentrum für kulturelle, Freizeit- und kommerzielle Aktivitäten“ machen. Unter Bürgermeister Pasqual Maragall ging der Betrieb per dreißigjähriger Konzession an private Betreiber. [pause] Im Tor, durch das Sie hereingekommen sind, öffnete eine Nachtbar. Doch die Verluste hielten an, und ein Jahrzehnt später musste das Betreiberkonsortium seine Zahlungen einstellen. Dann übernahm „eine Gruppe von Unternehmern“ die Leitung, und laut der Chronik des Poble begann die Erholung.
+
+2017 kamen nach den Zahlen der Stadt etwa eins Komma drei Millionen Menschen: die fünftmeistbesuchte Sehenswürdigkeit Barcelonas.
+
+[warmly] Triviale Idee oder köstlich bewohnbar? Sie sitzen mitten im Beweismaterial. Entscheiden Sie selbst.
+
+Für die letzte Station gehen Sie zur Ecke des Platzes bei den Arkaden an Haus sechsundzwanzig, mit der Plaza Castellana und dem Tor gleich dahinter: Plaza Mayor · Das Dorf, das blieb.

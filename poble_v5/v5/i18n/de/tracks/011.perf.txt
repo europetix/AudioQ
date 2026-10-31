@@ -1,0 +1,28 @@
+@id: 011 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: The brick tower
+@room: Plaza de la Iglesia · by the Fran Daurel Museum door
+@type: W
+@title: Plaza de la Iglesia — Die Kunstsammlung eines Abfüllers
+@where: An der Tür des Museums Fran Daurel auf der Plaza de la Iglesia. Auf dem Plan ist das Museum der graue Block hinter der Kirche, zwischen dem Backsteinturm und dem Guinovart Space, 56. Stellen Sie sich neben die Tür. [O5, O24]
+@what: The Fran Daurel Museum (Fundació Fran Daurel), founded by Francesc Daurella i Franco (born Barcelona 1927; no tense claim), in the Poble since December 2001: more than 300 works by more than 80 artists (Picasso, Miró, Dalí, Tàpies, Barceló, Chillida); twenty Picasso ceramics, two etchings and an engraving from the 1960s; Dalí's bronze "Alice au pays des merveilles" (1970s) and ink drawing "Cavalier avec son aurige"; late Miró lithographs and engravings. Grey on the official plan, outside the four region colours (82 and 89 are grey too; the plan has no grey legend). Works on show: [O24]. DATED (DAUREL mod. 25 Sep 2025).
+@listen: How a Coca-Cola bottler's collection of Picasso, Miró and Dalí came to sit in a 1929 village, and why it isn't as out of place as it looks.
+@brief: A friend with a good piece of gossip and a real point to make; curious, then warm.
+@pace: medium
+@energy: 3→4→3
+@sources: DAUREL https://poble-espanyol.com/en/exhibition/contemporary-art-collection/ (OFF-op, re-read 31 Oct 2026, mod. 2025-09-25: "more than 300 works"; "more than 80 world-renowned artists"; Picasso, Miró, Dalí, Tàpies, Barceló, Chillida; "two etchings and an engraving from the 1960s, and twenty ceramic pieces"; Dalí bronze from the 1970s "Alice au pays de merveilles" [sic] and "Cavalier avec son aurige, a drawing in Chinese ink on paper"; Miró "lithographs and engravings of its final stage"; "Placeta de la Iglesia"; "inaugurated in Poble Espanyol in December 2001") ; ENC-DAUR https://www.enciclopedia.cat/EC-GEC-0519684 (SEC via FACTS 7.14: Francesc Daurella i Franco; family ran Cobega, Coca-Cola concessionaire; later its president; foundation 2001) ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC, re-read 31 Oct 2026: "la Fundació d'Art Contemporani Fran Daurel (2001), que consta d'una exposició permanent de més de 300 obres" and "un jardí d'escultures") ; SCHOOL https://poble-espanyol.com/wp-content/uploads/2026/05/GAE_26-27_ESO-I-BATXILLERAT.pdf (OFF-op via FACTS 7.10, May 2026: "Hi trobareu obres de Tàpies, Dalí o Miró") ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: the grey Fran Daurel block; region colours)
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 011 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Picasso, Miró und Dalí, in einem Dorf aus Gipsabgüssen und geliehenen Fassaden. Und ihr Sammler kam aus der Abfüllung von Coca-Cola.
+
+Der Name an der Tür, Fran Daurel, ist die Kurzform für den Gründer, Francesc Daurella i Franco. Die Firma seiner Familie, Cobega, hielt die Coca-Cola-Konzession, und mit der Zeit wurde er ihr Präsident. [pause] Seine Stiftung eröffnete hier, im Poble Espanyol, im Dezember 2001.
+
+Die Seite des Museums zählt mehr als dreihundert Werke von mehr als achtzig Künstlern. Darunter: Picasso, Miró, Dalí, Tàpies, Barceló und Chillida.
+
+[pause] Einige hebt sie hervor. Von Picasso zwanzig Keramikstücke, dazu zwei Radierungen und ein Stich aus den sechziger Jahren. Von Dalí eine Bronze aus den siebziger Jahren namens Alice au pays des merveilles, Alice im Wunderland, und eine Tuschzeichnung, Cavalier avec son aurige, ein Reiter mit seinem Wagenlenker. Von Miró eine Auswahl an Lithografien und Stichen aus seinen letzten Jahren. [pause] Was an den Wänden hängt, kann wechseln. Doch der Führer des Poble für Schulgruppen verspricht weiterhin, auf Katalanisch, „Werke von Tàpies, Dalí oder Miró“. Dieselbe Stiftung hat auch einen Skulpturengarten, oben beim Kloster auf der Hügelkuppe.
+
+Schauen Sie jetzt auf die Front des Museums. Auf dem offiziellen Plan sind die Häuser nach Region gefärbt: grün, rosa, gelb oder violett. Dieser Block ist auf dem Plan grau, außerhalb der vier Regionsfarben.
+
+[warmly] Und das sollten Sie sich merken. Das Dorf selbst ist ein Werk des zwanzigsten Jahrhunderts. Seine Häuser wurden unterwegs ausgewählt, mit bis zu zehn Punkten bewertet und in Heften skizziert. Und das Ganze entstand in rund sechzehn Monaten. [pause] Der Turm wurde in Gips gegossen. Die moderne Kunst ist also weniger fehl am Platz, als es scheint. Sie steht in einem Dorf, das selbst ein modernes Werk ist.
+
+Gehen Sie von hier an der Kirche entlang zurück zur Plaza Aragonesa und beginnen Sie den Aufstieg über die Carrer de la Davallada, die Straße, die ins katalanische Viertel hinaufführt. Bleiben Sie an Haus dreiundachtzig stehen, ein paar Türen weiter oben, bevor die Carrer Mercaders einmündet. Es ist das Haus mit einer Außentreppe an seiner Front: Carrer de la Davallada · Sieben Stufen, nicht vierzehn.

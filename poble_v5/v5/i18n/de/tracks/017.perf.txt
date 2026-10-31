@@ -1,0 +1,32 @@
+@id: 017 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: The top of the hill
+@room: Monastery of Sant Miquel · in front of the portal
+@type: W
+@title: Monestir de Sant Miquel — Ein Kloster aus Einzelteilen
+@where: Oben auf dem Hügel, vor dem Rundbogenportal des Klosters Sant Miquel, Haus 116, der romanischen Kirche mit dem quadratischen Glockenturm. Nicht stufenlos. [O8, O11, ALT-M]
+@what: The Monastery of Sant Miquel (116, DOC), a composite of Catalan Romanesque models (city 2013): portal from Santa Maria de Porqueres (Pla de l'Estany); floor inspired by Sant Sebastià de Montmajor (Caldes de Montbui); cloister modelled on the Benedictine monastery of Sant Benet de Bages (no date for the cloister); bell tower after Sant Genís de Taradell; wall paintings by Rafael Padilla (Málaga, 1878–1961). Built 1928–29 by the Poble's team; partly collapsed 1993, re-inaugurated Oct 1997; interior opened to general visitors 11 Jul 2013 (current access [O11]).
+@listen: The monastery as a collage of Catalan Romanesque churches, the twentieth-century painter behind its "medieval" walls, and the Poble's own slip about who designed it.
+@brief: A friend at the top of the climb, a little hushed at the doorway, enjoying two good corrections.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: MON13 https://www.barcelona.cat/barcelonacultura/en/recomanem/romanic-monastery-poble-espanyol-opens-its-doors-public (OFF, re-read 31 Oct 2026, 18 Jul 2013: "The portal is from Santa Maria de Porqueres, in Pla de l'Estany,"; "the floor is inspired by that of Sant Sebastià de Montmajor, in Caldes de Montbui,"; "the cloister, from the 10th century Benedictine monastery in Sant Benet de Bages"; "the bell tower is a replica of the one in Sant Genís de Taradell."; "The frescoes on the walls of the monastery are the work of Malaga-born painter Rafael Padilla (1878-1961)."; "partially collapsed in 1993 and re-inaugurated in October of 1997,"; interior open to general visitors from 11 July [2013]; the page does not name a designer) ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC, re-read 31 Oct 2026: "el monestir, una mica apartat, que condensa elements de diverses esglésies romàniques catalanes") ; SPACE-MON https://poble-espanyol.com/espacio/monasterio-de-sant-miquel/ (OFF-op via ROUTE §0: "situado en uno de los extremos del recinto") ; RAH11 https://core.ac.uk/download/41807295.pdf (SEC-acad via ROUTE §0: the monastery at the highest point) ; MON-EV https://poble-espanyol.com/en/?p=111413 (OFF-op via FACTS 6.44: "designed by the modernist architect Puig i Cadafalch" — the slip, quoted only to correct it) ; VIEW https://poble-espanyol.com/en/?p=109703 (OFF-op, re-read 31 Oct 2026: "Right in front of the Romanesque monastery of Sant Miquel is a viewpoint") ; F1.2, F9.8, F6.41 ("Lombard-style" tower)
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 017 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Die Wandmalereien in diesem Kloster wirken mittelalterlich. Der Mann, der sie malte, lebte bis 1961.
+
+Sein Name war Rafael Padilla, ein Maler aus Málaga. Die Stadt Barcelona sagt es klar: „Die Fresken an den Wänden des Klosters sind das Werk des in Málaga geborenen Malers Rafael Padilla.“ [pause] Was immer Sie über mittelalterliche Fresken hier oben lesen mögen: Sie stammen aus dem zwanzigsten Jahrhundert.
+
+Das ist das Kloster Sant Miquel, auf Katalanisch das Monestir de Sant Miquel. Es steht am höchsten Punkt des Dorfes. Die katalanische Enzyklopädie nennt es „ein wenig abseits“, ein Bauwerk, das „Elemente verschiedener romanischer Kirchen Kataloniens verdichtet“. Es ist ein Kloster aus Einzelteilen.
+
+[pause] Zählen Sie die Teile, wie die Stadt es tut. „Das Portal stammt von Santa Maria de Porqueres, im Pla de l'Estany.“ Der Boden ist von Sant Sebastià de Montmajor inspiriert, in Caldes de Montbui. Der Kreuzgang folgt dem Benediktinerkloster Sant Benet de Bages. [pause] Und „der Glockenturm ist eine Nachbildung des Turms von Sant Genís de Taradell“. Vier Orte, und ein Maler.
+
+Schauen Sie jetzt auf das Portal vor Ihnen, den Rundbogeneingang, der für Porqueres steht. Dann suchen Sie den quadratischen Glockenturm, nach dem Vorbild von Taradell.
+
+Auch das Kloster hatte sein Drama: einen teilweisen Einsturz 1993 und eine Wiedereröffnung vier Jahre später. 2013 öffnete sein Inneres zum ersten Mal für Tagesbesucher.
+
+[wry] Noch eine Korrektur, und diese kommt vom Poble selbst. Seine eigene Veranstaltungsseite sagt, das Kloster sei „vom modernistischen Architekten Puig i Cadafalch entworfen“ worden. [pause] Jede Quelle zur Urheberschaft des Dorfes nennt stattdessen dieselben vier Männer, darunter die Architekten Folguera und Reventós.
+
+[warmly] Das am ältesten wirkende Gebäude des Dorfes, und eines der am meisten entliehenen.
+
+Nehmen Sie jetzt den Weg vom Kloster hinunter zum großen Haus an Nummer neunundsechzig. Gehen Sie weiter zwischen Haus neunundsechzig und der Kunstgalerie Vidre hindurch, einer ehemaligen Glasbläserwerkstatt, ins andalusische Viertel. Bleiben Sie auf der kleinen Plaza de la Hermandad stehen, wo die Mauern weiß werden: Plaza de la Hermandad · Erst ausgelassen, dann für den König hinzugefügt.
