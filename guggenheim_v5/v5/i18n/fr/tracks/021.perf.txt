@@ -3,7 +3,7 @@
 @room: Outside · on the way to the river walk (heard walking)
 @type: R
 @title: Dehors — Des chantiers navals à la promenade
-@where: Lancez-le en quittant le musée et laissez-le jouer pendant que vous faites le tour et descendez vers la promenade le long du fleuve, au bord de l'eau, du côté fleuve du bâtiment. Il se termine quand vous atteignez le bassin à côté du bâtiment, où un grand arbre de boules argentées se dresse dans l'eau. [O11, O12, O13]
+@where: Lancez-le en quittant le musée et laissez-le jouer pendant que vous faites le tour et descendez vers la promenade le long du fleuve, au bord de l'eau, du côté fleuve du bâtiment. Il se termine quand vous atteignez le bassin à côté du bâtiment, où un grand arbre de boules argentées se dresse dans l'eau.
 @what: The museum's site and the riverbank of Abandoibarra: a former wharf "with port and industrial use on a curve of the Nervión" (museum); before, the Euskalduna shipyard (founded 1900, closed 1988), container storage, rail lines and docks; after, Bilbao Ría 2000 (1992) and the riverside avenue, "an open-air leisure area".
 @listen: How a working riverbank of shipyards, docks and rail lines became the promenade you are walking on, and where the museum fits in that change.
 @brief: A guide walking beside the listener, telling the story of the ground underfoot; easy and conversational, no pointing until the pond comes into view.

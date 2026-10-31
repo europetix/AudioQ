@@ -1,0 +1,32 @@
+@id: 026 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · beside the titanium
+@type: W
+@title: Paseo de la ría — Titanio, piedra y vidrio
+@where: En el paseo de la ría, en un punto donde la piel de titanio del edificio se acerca al camino, idealmente con piedra caliza y vidrio a la vista; mire, sin tocar.
+@what: The building's three materials: about 33,000 extremely thin titanium sheets (museum), about a third of a millimetre thick (0.38 mm, Ferrovial); limestone and glass. Gehry Partners, design; IDOM, executive architects; Frank Gehry (1929–2025).
+@listen: How a test sample pinned outside an office, a slump in the arms trade and a change to the backing made this skin, and why the Soviet-submarine story stays a legend.
+@brief: A guide close up to the wall with the listener, pointing out small things; curious and precise, with a wry moment for the legend.
+@pace: medium
+@energy: 3→4→3
+@sources: CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF, re-read 31 Oct 2026: "the architect chose titanium after ruling out other materials" "seeing the behavior of a titanium sample pinned outside his office"; "approximately 33,000 extremely thin titanium sheets"; "provides a rough and organic effect"; "adding to the material's color changes depending on the weather and light conditions"; "The other two materials used in the building, limestone and glass, harmonize perfectly") ; FERRO https://www.ferrovial.com/blog/en/2017/10/guggenheim-museum-construction/ (SEC builder, re-read 31 Oct 2026: "just 0.38 mm"; the thinness makes the panels look quilted rather than flat (paraphrase); "with no two joints being the same in the whole building") ; BW02 https://sevencycles.com/7/business-week-magazine-a-magic-metal-for-the-masses/ (SEC reprint of BusinessWeek 2002, re-read 31 Oct 2026: "In the early 1990s, the end of the Reagan-era military buildup meant fewer orders of titanium-laden jet fighters."; "Soviet-built titanium factories"; "Suddenly, all that capacity was for sale," John H. Odle of RTI International Metals; the price drop "enabled Gehry to select titanium over stainless steel, copper, or aluminum") ; APM https://www.apm.org.uk/blog/guggenheim-museum-bilbao-why-was-it-such-a-stellar-project-success/ (SEC, re-read 31 Oct 2026: "a glut of the metal on the market emanating from Russia"; the Alfa-class submarine speculation; "We'll probably never know") ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC, via FACTS B16: IDOM replaced the proposed plywood backing with galvanised sheet metal) ; INSIDE https://www.guggenheim-bilbao.eus/en/the-building/inside-the-museum (OFF via ROUTE §1.3: galleries "some orthogonally shaped … others with organic, irregular lines"; FACTS B2)
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 026 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Antes de confiarle al titanio todo un museo, Frank Gehry lo sometió a una prueba sencilla. Según el museo, eligió el titanio tras descartar otros materiales y ver cómo se comportaba una muestra puesta fuera de su estudio.
+
+Esta es la piel, de cerca. El museo cuenta unas treinta y tres mil «finísimas planchas de titanio». El constructor les da cerca de un tercio de milímetro de grosor, menos que una tarjeta de crédito. [pause] Por eso, dice el constructor, los paneles parecen suavemente acolchados, no planos.
+
+Mire el color. El museo dice que el acabado logra «un efecto rugoso y orgánico», y que su color cambia según el tiempo y la luz. ¿Hoy está plateado, gris, o algo más cálido? Mañana no se verá igual.
+
+Luego, el momento. Según BusinessWeek, «a principios de los noventa, el fin del rearme de la era Reagan supuso menos pedidos de cazas cargados de titanio». Las fábricas soviéticas de titanio sufrieron la misma caída. [pause] «De repente, toda esa capacidad estaba en venta», dijo un directivo del sector. El abaratamiento, según la oficina de Gehry, le permitió elegir titanio y no acero inoxidable, cobre o aluminio.
+
+[wry] Y ahora, la leyenda. Oirá que esta piel salió de viejos submarinos soviéticos. Incluso un autor que la cuenta termina con: «Probablemente nunca lo sabremos.» Disfrútela como leyenda.
+
+Los otros dos materiales, en palabras del museo, «piedra caliza y vidrio, armonizan perfectamente». La piedra envuelve las salas en forma de caja, y el titanio, las curvas libres. Busque dónde se unen piedra y metal, y recuerde: no hay dos juntas iguales en todo el edificio.
+
+[pause] Un cambio invisible se hizo para que esta piel durara. La oficina de Gehry propuso un soporte de contrachapado. Los arquitectos ejecutivos, IDOM, lo cambiaron por chapa galvanizada: más duradera, y más cara.
+
+[warmly] Una prueba, una caída de precios y una piel hecha para durar.
+
+Siga hacia el gran puente de carretera que pasa sobre el extremo del museo, La Salve. Deténgase donde pueda ver el puente, la alta torre junto a él y el marco rojo sobre el puente: Puente de La Salve · El puente, la torre y los arcos rojos.

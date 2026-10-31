@@ -1,0 +1,28 @@
+@id: 024 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · by the pond
+@type: X
+@title: El estanque · Extra · Fuego sobre el agua
+@where: En cualquier punto del paseo de la ría junto al estanque, con el alto árbol de bolas plateadas a la vista; las fuentes de fuego están en este mismo estanque.
+@what: Yves Klein (Nice, France, 1928), Fire Fountain, dated 1961, medium "Fire", site-specific, Guggenheim Bilbao Museoa, "Currently on view (Pond)": "a row of five fire fountains" in a pool outside the building, lit only in the evening, for about an hour, in short bursts (WP-FIRE; AUDIT_V5_FACTS S9). Also: Chillida's Advice to Space V on the terrace, "a void of fire and heat" (callback; Full only).
+@listen: How a fountain of fire that Yves Klein described in a lecture in 1959 came to stand in this pond, and how to see it lit.
+@brief: A guide sharing a secret about the pond, a little conspiratorial: something here that only wakes in the evening.
+@pace: medium
+@energy: 2→3
+@sources: WP-FIRE https://pro.guggenheim-bilbao.eus/en/the-collection/works/fire-fountain (OFF, re-read 31 Oct 2026: artist line read, death year not used per PLAN §4; "1961"; "Fire"; "Currently on view (Pond)"; "a row of five fire fountains have been installed in a pool outside the Frank Gehry building"; Sorbonne 1959: "project for a public square, of an area of water above which streams of fire would dance rather than streams of water."; Krefeld 1961: a "wall of fire" of "approximately fifty Bunsen burners" "on the lawn in front of the Mies van der Rohe villa"; "Fire for me is the future without forgetting the past."; the Bilbao fountains a "posthumous realization"; evening-only operation, times not used) ; WP-ADV https://www.guggenheim-bilbao.eus/en/the-collection/works/advice-to-space-v (OFF, planner 31 Oct via PLAN key: "a kind of chimney, a void of fire and heat")
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 024 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Hay otra obra en este estanque, y de día apenas se nota. Solo despierta al caer la tarde.
+
+En 1959, en una conferencia en la Sorbona, Yves Klein describió una fuente aún no construida. En la traducción del museo, era un «proyecto para una plaza pública, de una lámina de agua sobre la que danzarían chorros de fuego», no de agua.
+
+Dos años después, en su exposición de Krefeld, en Alemania, estuvo cerca. [pause] Una «pared de fuego» de unos cincuenta mecheros Bunsen se alzó en el césped ante una villa de Mies van der Rohe.
+
+Aquí, el sueño se convirtió en cinco fuentes de fuego en fila. La obra data de 1961, y el museo llama a estas fuentes la realización póstuma del proyecto de Klein. [pause] Sus palabras, traducidas por el museo: «El fuego es para mí el porvenir sin olvidar el pasado.»
+
+[pause] El fuego responde al fuego en este lado del edificio. En la terraza, el museo describe el acero de Chillida como «un hueco con fuego y calor».
+
+[warmly] De día no arden. Si está en Bilbao esta noche, vuelva al caer la tarde. Cerca de una hora, a ráfagas cortas, el fuego baila sobre el agua, como imaginó Klein.
+
+Siga el paseo de la ría hacia el gran puente de carretera, hasta la araña gigante junto a la pasarela: Paseo de la ría · Maman.

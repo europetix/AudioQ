@@ -1,0 +1,30 @@
+@id: 022 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · by the pond
+@type: W
+@title: Le bassin — Grand arbre et l'œil
+@where: Sur la promenade le long du fleuve, près du bassin, côté fleuve du bâtiment, à n'importe quel endroit d'où le grand arbre de boules argentées dans l'eau est bien visible.
+@what: Anish Kapoor (Bombay, India, 1954), Tall Tree & the Eye, 2009, stainless steel and carbon steel, 1297 × 442 × 440 cm, 73 reflective spheres around three axes, Guggenheim Bilbao Museoa, "Currently on view (Pond)". Also: the pond itself, "a tribute to the Nervión estuary" (architecture route).
+@listen: How seventy-three mirrored balls put the river, the bridge, the museum and you into one shifting picture, and why Kapoor thinks that matters.
+@brief: A guide standing at the water's edge with the listener, inviting them to play a looking game with the spheres; curious, light, then a quiet set-up for the fog.
+@pace: medium
+@energy: 3→4→3
+@sources: WP-KAPOOR https://guggenheim-bilbao.eus/en/the-collection/works/tall-tree-and-the-eye (OFF, re-read 31 Oct 2026: "Bombay, India, 1954"; 2009; "Stainless steel and carbon steel"; "1297 X 442 X 440 cm"; "Currently on view (Pond)"; "consists of 73 reflective spheres anchored around three axes"; "Images of the surrounding city, including the Nervión river," "Buren's sculptural intervention on La Salve Bridge" "and the museum itself, are cast into dynamic suspension."; "simultaneously creating and dissolving form and space"; "form languages"; "the instability and ephemerality of our vision-and by extension of our world") ; R-ARCH https://guggenheim-bilbao.eus/en/routes/architecture (OFF, re-read 31 Oct 2026: "The pond pays tribute to the Nervión estuary and its fundamental role in the development of the city of Bilbao.") ; MAP research/map/OFFICIAL_MAP_NOTES_30OCT2026.md (OFF: Kapoor in the pond)
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 022 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Soixante-treize miroirs, et pas deux ne vous montrent tout à fait le même Bilbao.
+
+Voici Grand arbre et l'œil, d'Anish Kapoor, de 2009. Kapoor est né à Bombay en 1954. L'arbre mesure environ treize mètres, en acier inoxydable et acier au carbone. Selon le musée, il « se compose de soixante-treize sphères réfléchissantes ancrées autour de trois axes ».
+
+Chaque boule est un miroir bombé, qui déforme le monde autour de lui. Et chacune a son propre angle, donc capte un morceau différent de la ville. Le musée énumère ce qu'on y voit. [pause] « Les images de la ville environnante, dont le fleuve Nervión, l'intervention sculpturale de Buren sur le pont de La Salve et le musée lui-même, sont projetées en suspension dynamique. »
+
+[lightly] Alors, un jeu. Choisissez une sphère et trouvez-y le fleuve. Puis le titane. Puis un éclat de rouge : les arcs de Buren sur le pont, si l'angle s'y prête. Puis trouvez-vous, minuscule, au bord de l'eau. Faites quelques pas, et regardez tout glisser de boule en boule.
+
+[pause] Les sphères se reflètent aussi entre elles, et c'est tout l'enjeu. Selon le musée, l'œuvre finit par « créer et dissoudre à la fois la forme et l'espace ». Et il en tire la leçon : Kapoor « nous rappelle l'instabilité et le caractère éphémère de notre vision, et par extension de notre monde ».
+
+Le bassin fait partie du tableau. Sur la terrasse, vous avez appris qu'il rend hommage au fleuve. Le fleuve qui a façonné la ville trouve ici un écho dans l'eau, puis un reflet dans l'acier.
+
+[warmly] La forme qui apparaît, la forme qui se dissout. Gardez cette idée. À chaque heure pile, ce même bassin le fait pour de vrai.
+
+[pause] Restez près du bassin. Le brouillard s'élève de cette eau à chaque heure pile. Qu'il soit en marche ou non, lancez l'arrêt suivant ici : Le bassin, Le brouillard de Frank O. Gehry.

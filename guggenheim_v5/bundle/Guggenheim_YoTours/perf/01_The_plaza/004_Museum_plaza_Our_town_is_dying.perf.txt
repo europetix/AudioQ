@@ -3,7 +3,7 @@
 @room: Museum plaza · facing the building, Calle Iparragirre behind you
 @type: W
 @title: Museum plaza — "Our town is dying"
-@where: On the Museum plaza, facing the whole front of the museum, with Calle Iparragirre, the long straight street into the city, at your back [O1]. The third paragraph (the competition) is cuttable for Highlights if O20 runs long.
+@where: On the Museum plaza, facing the whole front of the museum, with Calle Iparragirre, the long straight street into the city, at your back.
 @what: The 1991 agreement between the Basque institutions and the Solomon R. Guggenheim Foundation (Thomas Krens); the 1991 invited competition (Arata Isozaki, Coop Himmelb(l)au, Frank O. Gehry); the plaza and entrance on the Calle Iparragirre axis; the former wharf on the Nervión.
 @listen: How a city that said it was dying struck a hard bargain with New York, how Gehry won the job, and how his building meets the city's straight lines.
 @brief: A storyteller with a good anecdote; curious at the quote, frank and a little wry on the deal, quiet at the payoff.

@@ -3,7 +3,7 @@
 @room: Outside · on the way to the river walk (heard walking)
 @type: R
 @title: Draußen — Von den Werften zur Uferpromenade
-@where: Starten Sie den Titel, wenn Sie das Museum verlassen, und lassen Sie ihn laufen, während Sie herum und hinunter zur Uferpromenade gehen, dem Weg am Wasser auf der Flussseite des Gebäudes. Er endet, wenn Sie das Wasserbecken neben dem Gebäude erreichen, in dem ein hoher Baum aus Silberkugeln steht. [O11, O12, O13]
+@where: Starten Sie den Titel, wenn Sie das Museum verlassen, und lassen Sie ihn laufen, während Sie herum und hinunter zur Uferpromenade gehen, dem Weg am Wasser auf der Flussseite des Gebäudes. Er endet, wenn Sie das Wasserbecken neben dem Gebäude erreichen, in dem ein hoher Baum aus Silberkugeln steht.
 @what: The museum's site and the riverbank of Abandoibarra: a former wharf "with port and industrial use on a curve of the Nervión" (museum); before, the Euskalduna shipyard (founded 1900, closed 1988), container storage, rail lines and docks; after, Bilbao Ría 2000 (1992) and the riverside avenue, "an open-air leisure area".
 @listen: How a working riverbank of shipyards, docks and rail lines became the promenade you are walking on, and where the museum fits in that change.
 @brief: A guide walking beside the listener, telling the story of the ground underfoot; easy and conversational, no pointing until the pond comes into view.

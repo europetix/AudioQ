@@ -3,7 +3,7 @@
 @room: Museum plaza · facing the building, Calle Iparragirre behind you
 @type: W
 @title: Parvis du musée — « Notre ville se meurt »
-@where: Sur le parvis du musée, face à toute la façade, avec la Calle Iparragirre, la longue rue droite qui mène en ville, dans votre dos [O1].
+@where: Sur le parvis du musée, face à toute la façade, avec la Calle Iparragirre, la longue rue droite qui mène en ville, dans votre dos.
 @what: The 1991 agreement between the Basque institutions and the Solomon R. Guggenheim Foundation (Thomas Krens); the 1991 invited competition (Arata Isozaki, Coop Himmelb(l)au, Frank O. Gehry); the plaza and entrance on the Calle Iparragirre axis; the former wharf on the Nervión.
 @listen: How a city that said it was dying struck a hard bargain with New York, how Gehry won the job, and how his building meets the city's straight lines.
 @brief: A storyteller with a good anecdote; curious at the quote, frank and a little wry on the deal, quiet at the payoff.

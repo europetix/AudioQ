@@ -1,0 +1,28 @@
+@id: 004 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The plaza
+@room: Museum plaza · facing the building, Calle Iparragirre behind you
+@type: W
+@title: Plaza del Museo — «Nuestra ciudad se muere»
+@where: En la plaza del Museo, frente a toda la fachada del museo, con la calle Iparragirre, la larga calle recta que va hacia la ciudad, a su espalda.
+@what: The 1991 agreement between the Basque institutions and the Solomon R. Guggenheim Foundation (Thomas Krens); the 1991 invited competition (Arata Isozaki, Coop Himmelb(l)au, Frank O. Gehry); the plaza and entrance on the Calle Iparragirre axis; the former wharf on the Nervión.
+@listen: How a city that said it was dying struck a hard bargain with New York, how Gehry won the job, and how his building meets the city's straight lines.
+@brief: A storyteller with a good anecdote; curious at the quote, frank and a little wry on the deal, quiet at the payoff.
+@pace: medium
+@energy: 3→4→2
+@sources: GUARD https://www.inkl.com/news/the-bilbao-effect-how-frank-gehry-s-guggenheim-started-a-global-craze (SEC, Guardian reprint, re-read 31 Oct 2026: "They said: 'Mr Gehry, we need the Sydney Opera House. Our town is dying.'" recalled by Gehry) ; TAN17 https://www.theartnewspaper.com/2017/11/24/twenty-years-on-how-the-guggenheim-bilbao-came-of-age (SEC, re-read 31 Oct 2026: "no more than half an hour"; "all costs, operating and capital, would have to be borne by the Basque government"; "aesthetic decisions", including the architecture, collection and programming) ; IESE https://download.iese.edu/FH-0644-E-8270de90-5bc7-43f2-b9bf-4675fe79235f.pdf (SEC via FACTS A8: "he could show only 3%") ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC via FACTS A4, A5, A7, A16: US$20m fee, "rental fee"; US$50m acquisitions; "It was commerce, pure and simple, that brought together the Guggenheim and Bilbao."; three weeks, US$10,000, jury in Frankfurt; "provided the most unusual project"; "He was chosen for the strength of his vision.") ; GBIO https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry/biography-of-frank-gehry (OFF via FACTS A14–A15: invited competition, Isozaki, Coop Himmelb(l)au, Gehry; 1991) ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via FACTS B7–B8: "The Museum plaza and main entrance lie in a direct line with Calle Iparragirre"; not rising above the height of adjacent buildings) ; CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF via FACTS A13: "a former wharf with port and industrial use on a curve of the Nervión")
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 004 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Frank Gehry recordaba cómo le plantearon el encargo. «Me dijeron: Señor Gehry, necesitamos la Ópera de Sídney. Nuestra ciudad se muere.»
+
+Todo empezó a principios de 1991, cuando el Gobierno vasco se reunió con Thomas Krens, que dirigía la Fundación Solomon R. Guggenheim en Nueva York. Krens recordaba que la conversación que lo puso todo en marcha duró «no más de media hora». Tenía su propio problema. Según un estudio de caso de escuela de negocios, la fundación solo podía mostrar cerca del tres por ciento de su colección en Nueva York y Venecia.
+
+Sus condiciones fueron tajantes. «Todos los gastos, de funcionamiento y de capital» correrían a cargo de la parte vasca. El Guggenheim se reservaba las «decisiones estéticas»: la arquitectura, la colección, la programación. [pause] Los vascos pagaron además a la fundación veinte millones de dólares, una «tarifa de alquiler», según los críticos, y prometieron otros cincuenta millones de dólares para comprar arte. [wry] Krens nunca lo disimuló. «Fue el comercio, puro y simple, lo que unió al Guggenheim y a Bilbao.»
+
+[pause] Luego, el arquitecto. Ese mismo año se invitó a concursar a tres: Arata Isozaki, Coop Himmelblau y Frank Gehry. Cada uno tuvo tres semanas y diez mil dólares para presentar un diseño. Krens dijo que Gehry «presentó el proyecto más insólito», y que «fue elegido por la fuerza de su visión».
+
+Mire este lugar. En palabras del museo, «la plaza y la entrada principal del Museo se encuentran enfilando la calle Iparragirre». Así que la larga calle recta a su espalda apunta a la puerta. Delante, esa línea recta se encuentra con las curvas. Más allá, la ría, y la orilla portuaria que este museo sustituyó. [pause] Y fíjese en la altura: Gehry hizo algo espectacular sin superar los edificios de alrededor.
+
+[quietly] Una ciudad que se moría pidió un teatro de ópera. Lo que firmó fue un trato que su propio autor llamó comercio. Lo que obtuvo está delante de usted.
+
+Diríjase a la amplia escalinata que baja de la plaza a la entrada. Escuche la siguiente parada mientras baja: La escalinata · Bajar para entrar.

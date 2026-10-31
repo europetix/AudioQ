@@ -1,0 +1,30 @@
+@id: 003 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The plaza
+@room: Museum plaza · the Txema Agirre plaque
+@type: R
+@title: Vorplatz — Txema Agirre
+@where: Neben der Gedenktafel auf dem kleinen Platz direkt vor Puppy, wo eine Tafel und ein Monolith an Txema Agirre erinnern. Stellen Sie sich zur Seite, damit andere sie lesen können.
+@what: Memorial to José María Aguirre Larraona, "Txema Agirre", officer of the Ertzaintza (Basque police), shot on Monday 13 October 1997 beside the museum while checking a van; a plaque (installed after fourteen years) and a monolith in the small square in front of Puppy, which bears his name.
+@listen: Who Txema Agirre was, what happened here five days before the opening, and how he is remembered.
+@brief: Quiet, plain and respectful; no music sting; short factual sentences, a held silence before the cue.
+@pace: slow
+@energy: 1→2
+@sources: AP97 https://www.spokesman.com/stories/1997/oct/19/basque-museum-opens-under-tight-security (SEC via FACTS D2, D3, D6: "shot and killed Monday"; grenades hidden among the flower pots; Ardanza called him a hero, paraphrase) ; IRISH97 https://www.irishtimes.com/news/thousands-of-spaniards-protest-at-death-of-policeman-and-failed-attack-on-museum-1.116530 (SEC via FACTS D1, D3, D4: aged 35, newborn son; grenades in the forecourt meant for the inauguration; King, prime minister, Lehendakari) ; EI17 https://www.elindependiente.com/politica/2017/10/13/gobierno-vasco-ignora-recuerdo-agente-atentar-rey-inauguracion-guggenheim/amp/ (SEC via FACTS D1, D2, D4, D7; planner re-read 31 Oct: "Aquel 13 de octubre de 1997"; "Una placa le recuerda en la pequeña plaza que precede al Puppy"; fourteen years for the plaque; gardeners and planters) ; ORAIN16 https://orain.eus/es/politica/2016/02/11/la-fiscalia-pedira-95-anos-gogeaskoetxea-matar-ertzaina/ (SEC via FACTS D5a: full name José María Aguirre Larraona; posing as gardeners unloading planters from a van; two ertzainas approached to check the van; used for these points only) ; ORAIN22 https://orain.eus/es/politica/2022/10/13/recuerdan-a-txema-agirre-en-bilbao-asesinado-por-eta-hace-25-anos/ (SEC via FACTS D7: monolith; tribute 13 Oct 2022) ; ABE17 https://aboutbasquecountry.eus/en/2017/10/12/congratulations-bilbao-guggenheim-a-brilliant-20th-anniversary-a-memory-and-our-warmest-wishes-video/ (SEC via FACTS D7: the plaza in front of the museum is named after him; floral offerings "como en anteriores ocasiones" per ORAIN22, spoken as "on anniversaries" per AUDIT_V5_FACTS S3)
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 003 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Dieser kleine Platz trägt den Namen eines Polizisten. Sein voller Name war José María Aguirre Larraona. [pause] Man gedenkt seiner unter der baskischen Form seines Namens: Txema Agirre.
+
+Er war Beamter der Ertzaintza, der baskischen Polizei. Er war fünfunddreißig. Er hatte einen neugeborenen Sohn.
+
+Am Montag, dem dreizehnten Oktober 1997, fünf Tage vor der Eröffnung des Museums, luden Männer in Gärtnerkleidung neben dem Gebäude Blumenkübel aus einem Lieferwagen. [pause] Beamte der Ertzaintza gingen hin, um den Lieferwagen zu überprüfen. Txema Agirre war einer von ihnen.
+
+Auf ihn wurde geschossen. Er starb an seinen Verletzungen.
+
+[pause] In den Kübeln waren Granaten versteckt, bestimmt für die Eröffnung. Das Ziel der ETA war die Einweihung. König Juan Carlos, der spanische Ministerpräsident und der baskische Präsident sollten daran teilnehmen. [pause] Der baskische Präsident, José Antonio Ardanza, nannte Txema Agirre einen Helden.
+
+[reverent] Auf dem Platz, der seinen Namen trägt, gibt es eine Gedenktafel und einen Monolithen. Bis die Tafel angebracht wurde, dauerte es vierzehn Jahre. An Jahrestagen werden hier Blumen für ihn niedergelegt. [pause] Zum fünfundzwanzigsten Jahrestag, 2022, fand am Monolithen eine Gedenkfeier statt.
+
+Wenn Sie möchten, halten Sie hier einen Moment inne, bevor Sie weitergehen.
+
+[long pause] Wenn Sie bereit sind, suchen Sie auf dem Vorplatz eine Stelle mit Blick auf die ganze Vorderseite des Museums. Die lange gerade Straße in die Stadt, die Calle Iparragirre, sollte hinter Ihnen liegen. Die nächste Station handelt davon, wie das Museum begann: Vorplatz · Unsere Stadt stirbt.

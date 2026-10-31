@@ -3,7 +3,7 @@
 @room: Gallery 104 · Snake
 @type: R
 @title: Salle 104 — Snake a attendu huit ans
-@where: Dans la salle 104, à côté ou à une extrémité de Snake, la pièce des huit dont le cartel indique « Snake ». Placez-vous là où vous pouvez la longer sans bloquer ses ouvertures. [O6, ALT-S]
+@where: Dans la salle 104, à côté ou à une extrémité de Snake, la pièce des huit dont le cartel indique « Snake ». Placez-vous là où vous pouvez la longer sans bloquer ses ouvertures.
 @what: Richard Serra (San Francisco 1938 – Long Island 2024), Snake, 1994–97, weathering steel, part of The Matter of Time, 1994–2005, eight sculptures, dimensions variable, Guggenheim Bilbao Museoa.
 @listen: Why the oldest of Serra's eight pieces was the only part of The Matter of Time in this gallery for eight years, what shared the room with it at the opening, and what came after it.
 @brief: A guide walking beside the listener along one long steel piece; curious, unhurried, with a quiet lift at the critics' praise.

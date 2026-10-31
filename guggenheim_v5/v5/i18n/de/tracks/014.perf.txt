@@ -3,7 +3,7 @@
 @room: Gallery 104 (anywhere, e.g. the walk back)
 @type: X
 @title: Saal 104 · Extra · Der verschwundene Serra
-@where: Irgendwo in Saal 104, zum Beispiel auf dem Rückweg zum Atrium. Sie brauchen keine bestimmte Aussicht. [O6]
+@where: Irgendwo in Saal 104, zum Beispiel auf dem Rückweg zum Atrium. Sie brauchen keine bestimmte Aussicht.
 @what: Richard Serra, Equal-Parallel: Guernica-Bengasi (Igual-paralelo: Guernica-Bengasi), made for the Museo Reina Sofía, Madrid, 1986, lost; replica 2009. Also Snake, 1994–97, The Matter of Time, Guggenheim Bilbao Museoa.
 @listen: The Serra that really did go missing, and why it wasn't the one in this gallery.
 @brief: A guide sharing a good story on the walk back, a little conspiratorial, with one dry aside and a gentle correction.

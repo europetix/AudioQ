@@ -3,7 +3,7 @@
 @room: Gallery 104 · just inside the entrance
 @type: W
 @title: Salle 104 — La galerie sous le pont
-@where: Juste après l'entrée de la salle 104, la longue galerie qui donne sur l'atrium et passe sous le pont, là où vous voyez la salle sur toute sa longueur, au-delà des grands murs courbes en acier Corten [O6].
+@where: Juste après l'entrée de la salle 104, la longue galerie qui donne sur l'atrium et passe sous le pont, là où vous voyez la salle sur toute sa longueur, au-delà des grands murs courbes en acier Corten.
 @what: Richard Serra (San Francisco 1938 – Long Island 2024), The Matter of Time, 1994–2005, weathering steel, eight sculptures, dimensions variable, about 1,034 tonnes in all, Guggenheim Bilbao Museoa, gallery 104 (about 130 × 30 m, column-free, under La Salve Bridge).
 @listen: The room built under a bridge, the eight steel sculptures that fill it, and how Serra meant you to walk them.
 @brief: A guide at the threshold of something big; a hushed curiosity at the hook, clear on the facts, an encouraging warmth as the listener is sent in.

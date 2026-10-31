@@ -3,7 +3,7 @@
 @room: Gallery 104 · the first sculptures
 @type: W
 @title: Saal 104 — Wände, die sich neigen
-@where: In oder neben den ersten Skulpturen am Atrium-Ende von Saal 104, den verdrehten Stahlwänden nahe dem Eingang. Am besten im Gang zwischen den beiden verdrehten Ellipsen [O6, ALT-S].
+@where: In oder neben den ersten Skulpturen am Atrium-Ende von Saal 104, den verdrehten Stahlwänden nahe dem Eingang. Am besten im Gang zwischen den beiden verdrehten Ellipsen.
 @what: Richard Serra, The Matter of Time, 1994–2005, Guggenheim Bilbao Museoa: the pieces nearest the Atrium end in David Zwirner's "foreground to rear" order, Torqued Spiral (Closed Open Closed Open Closed), 2003; Torqued Ellipse, 2003–04; Double Torqued Ellipse, 2003–04 (order and labels to confirm at O6).
 @listen: What "torqued" means, how Serra wanted these walls to be understood, and how to walk them.
 @brief: A guide walking in with the listener; curious and close, slowing at the look-prompts, a quiet lift at the payoff.

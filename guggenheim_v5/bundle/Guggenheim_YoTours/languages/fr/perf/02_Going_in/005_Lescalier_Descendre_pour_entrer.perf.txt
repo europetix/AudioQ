@@ -1,0 +1,24 @@
+@id: 005 · FR · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Going in
+@room: The broad stairway down to the Hall (heard walking)
+@type: R
+@title: L'escalier — Descendre pour entrer
+@where: Lancez-le en haut du grand escalier qui descend du parvis vers l'entrée, et écoutez-le en descendant jusqu'au hall. Aucune vue n'est nécessaire.
+@what: The descending entrance stairway (OUTSIDE); construction October 1993 – October 1997; executive architects IDOM (Bilbao); director Juan Ignacio Vidarte; main contractor Ferrovial; construction budget about US$100 million, delivered on time and on budget.
+@listen: Why you go down to go in, and how a building with no easy shapes was built in four years for the money agreed.
+@brief: A companion walking down the steps beside the listener; easy and conversational, a little brisk on the numbers, a raised eyebrow at the last quote.
+@pace: medium
+@energy: 2→3
+@sources: OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via ROUTE §1.1: "visitors access the Hall by making their way down a broad stairway," "an unusual feature that successfully overcomes the height difference") ; MAP https://plano.guggenheim-bilbao.eus/en/ (OFF via FACTS B9: the plaza at floor-2 level, the Hall at floor 1) ; CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF via FACTS A19: October 1993 – October 1997) ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC via FACTS A6, A18: IDOM of Bilbao executive architect, re-priced every change, design halted three times for full re-estimation, Vidarte's rule; US$100m budget) ; AP97 https://www.spokesman.com/stories/1997/oct/19/basque-museum-opens-under-tight-security (SEC via FACTS A6: "$100 million tab for construction") ; APM https://www.apm.org.uk/blog/guggenheim-museum-bilbao-why-was-it-such-a-stellar-project-success/ (SEC via FACTS A39: delivered on time, on budget) ; DEZ22 https://www.dezeen.com/2022/05/18/frank-gehry-guggenheim-museum-bilbao-deconstructivism/ (SEC via FACTS A39: on time and on budget) ; FERRO https://www.ferrovial.com/blog/en/2017/10/guggenheim-museum-construction/ (SEC, builder, via FACTS A20: Ferrovial main contractor; Juan Ramón Pérez, works manager: "20 years ahead of its time", "It was indeed difficult, and financially incredibly costly", his answer about working on the twisted frame: platforms, cranes, rope access, scaffolding close to 50 m, per AUDIT_V5_FACTS M2)
+@lang: fr
+@translation: from the fact-checked English Guggenheim Bilbao 005 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] La plupart des grands musées vous font monter des marches pour atteindre l'art. Celui-ci vous fait descendre. Selon le musée, « les visiteurs accèdent au hall en descendant un large escalier », « une particularité qui surmonte avec succès la différence de hauteur ». Le parvis est un étage entier au-dessus du hall : on entre donc en descendant.
+
+Ce bâtiment a été construit en quatre ans, d'octobre 1993 à octobre 1997. Et sous contrôle serré. Les architectes exécutifs étaient IDOM, un cabinet de Bilbao, et ils chiffraient chaque modification du projet. [pause] Trois fois, la conception a été arrêtée pour un nouveau chiffrage complet. Le directeur du projet, Juan Ignacio Vidarte, avait une règle simple. Rien n'était approuvé sans pouvoir être construit dans le budget et dans les délais.
+
+[pause] Sa construction a coûté environ cent millions de dollars. Et c'est là que l'histoire est d'ordinaire mal racontée. On lit souvent qu'il a coûté moins que prévu. Aucune des sources auxquelles nous nous fions ne le dit. Ce qu'elles disent vaut mieux qu'une vantardise : il a été livré dans les délais et dans le budget.
+
+[curious] Le constructeur était Ferrovial. Son directeur des travaux, Juan Ramón Pérez, a fait au bâtiment un compliment célèbre. Il l'a jugé « en avance de vingt ans sur son temps ». Il a aussi admis que le simple fait d'atteindre l'ossature tordue du bâtiment pour y travailler était « vraiment difficile, et incroyablement coûteux ».
+
+[pause] En bas, dans le hall, cherchez ZERO, la petite salle d'introduction. Lancez l'arrêt suivant devant sa porte, avant d'entrer : ZERO, La salle qui se démultiplie.

@@ -3,7 +3,7 @@
 @room: The broad stairway down to the Hall (heard walking)
 @type: R
 @title: Die Treppe — Hinunter, um hineinzugehen
-@where: Starten Sie den Titel oben an der breiten Treppe, die vom Vorplatz zum Eingang hinunterführt, und hören Sie ihn, während Sie in die Eingangshalle hinuntergehen. Sie brauchen dafür keine bestimmte Aussicht [O3, O4].
+@where: Starten Sie den Titel oben an der breiten Treppe, die vom Vorplatz zum Eingang hinunterführt, und hören Sie ihn, während Sie in die Eingangshalle hinuntergehen. Sie brauchen dafür keine bestimmte Aussicht.
 @what: The descending entrance stairway (OUTSIDE); construction October 1993 – October 1997; executive architects IDOM (Bilbao); director Juan Ignacio Vidarte; main contractor Ferrovial; construction budget about US$100 million, delivered on time and on budget.
 @listen: Why you go down to go in, and how a building with no easy shapes was built in four years for the money agreed.
 @brief: A companion walking down the steps beside the listener; easy and conversational, a little brisk on the numbers, a raised eyebrow at the last quote.

@@ -3,7 +3,7 @@
 @room: The Hall
 @type: X
 @title: The Hall · Extra · Opening day, 1997
-@where: In the Hall, the entrance hall at the foot of the broad stairway, somewhere out of the flow of people coming in. [O11]
+@where: In the Hall, the entrance hall at the foot of the broad stairway, somewhere out of the flow of people coming in.
 @what: The royal inauguration of the Guggenheim Museum Bilbao, Saturday 18 October 1997, and the public opening on 19 October 1997. No artwork.
 @listen: The day a king flipped a switch, who was there, who marched against it, and what one great architect is reported to have said.
 @brief: A guide telling a short, vivid story in the Hall; warm, with one respectful moment for the officer remembered on the plaza.

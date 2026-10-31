@@ -1,0 +1,30 @@
+@id: 017 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: Glass lifts and walkways (heard moving)
+@type: W
+@title: Ascensores y pasarelas — Cada pieza, distinta
+@where: Iníciela en un ascensor de cristal cuando se cierren las puertas, o al ponerse en marcha por las pasarelas curvas y las escaleras hacia la tercera planta; la segunda mitad suena mientras sale entre las curvas y el vidrio. Siga el flujo de gente.
+@what: The building: Frank Gehry's design (1991–97), developed with CATIA; structural engineers SOM; executive architects IDOM; built by Ferrovial, October 1993 – October 1997; titanium cladding by Permasteelisa. No artwork.
+@listen: How a building with no two joints alike was drawn, engineered and put up, and the paper-crumpling joke it never deserved.
+@brief: A guide riding up with the listener, amused at the legend, then genuinely impressed by the engineering; no pointing until the doors open.
+@pace: medium
+@energy: 3→4→3
+@sources: Ferrovial blog https://www.ferrovial.com/blog/en/2024/09/frank-gehry-beyond-architecture/ (SEC, the builder's blog, T. Alonso Cascallana, 10 Sep 2024, read 31 Oct 2026: Gehry in The Simpsons episode "The Seven Beer Snitch"; "He soon finds inspiration (on a crumpled piece of paper)") ; The Real Deal https://therealdeal.com/new-york/2011/09/06/frank-gehry-says-simpsons-came-haunts-him-and-explains-8-spruce-street-design-on-fareed-zakaria-show/ (SEC, 6 Sep 2011, read 31 Oct 2026: Gehry on TV, "it has haunted me"; "People do — who've seen 'The Simpsons' — believe it") ; AD13 https://www.archdaily.com/422470 (SEC via FACTS A25: points from hand-built models digitised in CATIA) ; CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF via FACTS A24: "an advanced software initially conceived for the aerospace industry, CATIA … to faithfully translate his concept to the structure and to help construction") ; FERRO https://www.ferrovial.com/blog/en/2017/10/guggenheim-museum-construction/ (SEC via FACTS A20–A23, A26: CATIA "had only been used in the French aeronautical industry", said on the page by Marta Arzak of the museum's education department, per AUDIT_V5_FACTS S6; joints wording "with no two joints being the same in the whole building", spoken unquoted, S7; each piece's coordinates, thickness and curvature; "no two joints in the building are the same"; Pérez: "the first major project in the world built using BIM"; 665 piles averaging about 14 m) ; PERMA https://www.permasteelisagroup.com/historic-project/guggenheim-museum/ (SEC via FACTS B14: sheets designed with Catia) ; MAS https://mascontext.com/issues/bilbao/building-the-symbol-of-a-remarkable-transformation (SEC via FACTS A17: SOM's John Zils recalling Gehry, "If I had known that the structure was going to be this elegant and this beautiful, I would have exposed some of it.") ; AD17 https://www.archdaily.com/881663/the-unexpected-low-tech-solutions-that-made-the-guggenheim-bilbao-possible (SEC via FACTS A27: rope-access climbers fitted titanium panels; "at a turning point between analog and digital practice")
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 017 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Quizá haya oído que Frank Gehry diseñó este edificio arrugando un papel. Es un buen chiste, y no es verdad. En un episodio de Los Simpson, un Gehry de dibujos animados encuentra la inspiración en una carta arrugada. Años después dijo en una entrevista de televisión que el chiste «me ha perseguido».
+
+Lo que hizo de verdad fue más lento. Construyó maquetas a mano, y se digitalizaron puntos de ellas para trabajar las formas digitalmente. En palabras del museo, eligió un «avanzado software inicialmente utilizado en la industria aeroespacial, CATIA», para «trasladar fielmente su concepto a la estructura y facilitar su construcción». [pause] Una educadora del propio museo lo dijo con más precisión: entonces, CATIA solo se había usado en la industria aeronáutica francesa. Las planchas de titanio del exterior también se diseñaron con él.
+
+[pause] Importaba, porque aquí casi nada se repite. Cada pieza de acero y de piedra tenía sus propias coordenadas, su propio grosor y su propia curva. Como dice el constructor, en todo el edificio no hay dos juntas iguales.
+
+[curious] Ya sale entre las curvas y el vidrio. Tras esos muros curvos se esconde una estructura de acero, diseñada por la firma SOM. John Zils, de SOM, recordaba la reacción de Gehry: «Si hubiera sabido que la estructura iba a ser tan elegante y tan bonita, habría dejado parte de ella a la vista.»
+
+Las viejas destrezas lo construyeron junto al nuevo software. Escaladores con cuerdas colocaron paneles de titanio en la fachada, en un proyecto hecho, como dijo una revista de arquitectura, en «el punto de inflexión entre la práctica analógica y la digital». [pause] El jefe de obra del constructor fue más allá. Lo llamó el primer gran proyecto del mundo hecho con BIM, modelado de información de construcción. Eso dice él.
+
+Y muy por debajo de sus pies, todo descansa sobre más de seiscientos pilotes, de unos catorce metros de longitud media.
+
+[warmly] Nada de papel arrugado. Solo miles de piezas, todas distintas.
+
+En la tercera planta, busque el balcón frente a la sala trescientos cuatro, que da al Atrio y al gran lucernario: Tercera planta · La flor metálica.

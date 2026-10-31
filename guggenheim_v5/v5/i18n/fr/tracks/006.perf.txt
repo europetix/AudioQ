@@ -3,7 +3,7 @@
 @room: The Hall · outside ZERO
 @type: R
 @title: ZERO — La salle qui se démultiplie
-@where: Dans le hall, juste devant la porte de ZERO, la petite salle d'introduction du hall. Écoutez-le avant d'entrer, sans bloquer la porte [O4].
+@where: Dans le hall, juste devant la porte de ZERO, la petite salle d'introduction du hall. Écoutez-le avant d'entrer, sans bloquer la porte.
 @what: ZERO, the museum's introductory gallery and immersive optical device in the lobby, a commission of the Guggenheim Museum Bilbao created by Local Projects; curved projection with mirrors, a 300-degree view multiplying the room fourteen times; original soundtrack using the txalaparta; opened December 2018.
 @listen: How an underused lounge became a kaleidoscope, what it shows you about Bilbao and the building, and what to listen for.
 @brief: A friend at the door of a small surprise; curious, light, briefly inviting the listener to use their ears.

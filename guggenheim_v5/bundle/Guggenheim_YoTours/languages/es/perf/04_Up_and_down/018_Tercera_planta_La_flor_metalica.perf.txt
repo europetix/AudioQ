@@ -1,0 +1,32 @@
+@id: 018 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: Third floor · balcony opposite gallery 304
+@type: W
+@title: Tercera planta — La flor metálica
+@where: En la tercera planta, en el balcón frente a la sala 304, asomado al Atrio, con el lucernario en forma de flor arriba y las pasarelas y los ascensores de cristal abajo.
+@what: The building: the Atrium and its skylight "in the shape of a metal flower", Frank Gehry (Toronto 1929 – Santa Monica 2025), Guggenheim Bilbao Museoa, 1991–97. No artwork.
+@listen: The flower over the Atrium, the fish behind Gehry's curves, and his boast about straight lines.
+@brief: A guide at the top of the building with the listener, warm about the boy and the fish, wry about the boast, then quiet at the drop.
+@pace: medium
+@energy: 3→4→3
+@sources: R-EXP https://www.guggenheim-bilbao.eus/en/routes/express-tours (OFF via ROUTE §1.8: "The balcony opposite gallery 304 affords breathtaking views of the Atrium") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via FACTS B5: "a large skylight in the shape of a metal flower covering the Atrium") ; R-ARCH https://guggenheim-bilbao.eus/en/routes/architecture (OFF via ROUTE §1.3: third-floor skylights, light "reaches the spaces on the floor below as well") ; NPR15 https://www.npr.org/2015/09/10/438944405/frank-gehrys-lifelong-challenge-to-create-buildings-that-move (SEC, re-read 31 Oct 2026: carp in the grandmother's bathtub before they became gefilte fish, NPR's paraphrase; Gehry "The curves were from the fish", continuing "a sense of movement with inert materials") ; DEZ22 https://www.dezeen.com/2022/05/18/frank-gehry-guggenheim-museum-bilbao-deconstructivism/ (SEC via FACTS B23: "when a fish moves it's so beautiful") ; GBIO https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry/biography-of-frank-gehry (OFF via FACTS A35, A37: born Toronto as Frank Owen Goldberg; died 5 Dec 2025; fish lamps; Barcelona fish 1992) ; GEHRY https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry (OFF via FACTS A36: Pritzker 1989) ; CBS https://www.cbsnews.com/news/frank-gehry-dies-age-96-architect (SEC via FACTS A35: died aged 96) ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC via FACTS A34: "does not have a single straight line…It is not artistry, it is precision.") ; INSIDE https://www.guggenheim-bilbao.eus/en/the-building/inside-the-museum (OFF via ROUTE §1.3: galleries "some orthogonally shaped and with classical proportions")
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 018 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] La ruta del propio museo promete desde este balcón «una vista espectacular del Atrio». Juzgue usted.
+
+Sobre usted está lo que el museo llama «un gran lucernario en forma de flor metálica que cubre el Atrio». Las salas de esta planta tienen lucernarios propios, y su luz natural, según el museo, llega también a las salas de la planta de abajo.
+
+[pause] ¿Por qué tantas curvas? La respuesta de Gehry se remontaba a su infancia. Cuenta la historia que, de niño en Toronto, veía nadar carpas vivas en la bañera de su abuela antes de que se convirtieran en gefilte fish. Nació allí, en la familia Goldberg. [pause] Décadas después dijo: «Las curvas venían de los peces.» Habló de «una sensación de movimiento con materiales inertes». Y dijo que «cuando un pez se mueve, es precioso».
+
+Los peces nadaban por su obra antes de este edificio: lámparas de peces en 1984, y una escultura de pez de acero inoxidable para el puerto olímpico de Barcelona en 1992.
+
+[wry] También presumía de que este edificio «no tiene ni una sola línea recta». «No es virtuosismo», dijo, «es precisión.» Era una fanfarronada, no una medición. El propio museo describe algunas de sus salas como ortogonales, de proporciones clásicas. Es decir, ángulos rectos.
+
+[curious] Así que busque las curvas. Siga los pétalos de la flor sobre su cabeza. Busque las pasarelas tendidas sobre el espacio abierto, y los ascensores de cristal que se mueven entre las plantas. Luego mire abajo, hasta el suelo del Atrio donde estuvo antes.
+
+[pause] Había ganado el Premio Pritzker, el máximo galardón de la arquitectura, en 1989.
+
+[warmly] Un niño que miraba peces en una bañera y, toda una vida después, un techo de pétalos de metal sobre todo esto.
+
+Ahora vuelva a bajar al vestíbulo en ascensor o por las escaleras. Escuche la siguiente parada mientras baja: De bajada · El efecto Bilbao.

@@ -1,0 +1,32 @@
+@id: 027 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · La Salve Bridge, the tower in view
+@type: W
+@title: Puente de La Salve — El puente, la torre y los arcos rojos
+@where: En el paseo de la ría cerca del puente de La Salve, el gran puente de carretera que cruza el extremo del museo, en un punto desde el que se vean el puente, la alta torre junto a él y el marco rojo sobre el puente.
+@what: La Salve Bridge, officially Príncipes de España, engineer Juan Batanero, built from 1968, opened 1972; Gehry's tower at the end of the building; Daniel Buren (Boulogne-Billancourt, France, 1938), Arcos rojos / Arku gorriak, 2007, for the museum's tenth anniversary, compact laminate sheets, aluminium, galvanised steel, PVC film, clear Plexiglas, LEDs and metal-halide projectors, Guggenheim Bilbao Museoa, "Currently on view (La Salve Bridge)".
+@listen: How Gehry turned a big road bridge from an obstacle into part of his building, and how Buren's red arches made it "less brutal, but more visible".
+@brief: A guide at the end of the walk, enjoying a good architectural trick with the listener; brisk and pleased, then slower for the look.
+@pace: medium
+@energy: 3→4
+@sources: BVV https://www.bilbaovisitavirtual.eus/en/bilbao-through-its-bridges/ (SEC, re-read 31 Oct 2026: "Inaugurated in 1972, its official name is Príncipes de España."; "The engineer Juan Batanero was the author and in charge of its construction in 1968."; "the first in Spain to be built with stays"; Gehry "wanted to integrate, to a certain extent, the museum with the bridge"; "designed a tower with stairs that connect the museum with the bridge") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF, re-read 31 Oct 2026: "The Museum site is crossed at one end by La Salve Bridge"; "ends in a tower, a sculpture gesture that brings the architectural design to a crescendo"; "effectively incorporates it into the building"; "Stretching under the bridge, gallery 104—an enormous, column-free space") ; WP-BUREN https://pro.guggenheim-bilbao.eus/en/the-collection/works/arcos-rojos-arku-gorriak (OFF, re-read 31 Oct 2026: "inaugurated on the occasion of the museum's Tenth Anniversary"; "less brutal, but more visible"; "a vertical piece perpendicular to the bridge"; "three circles located at equal distances from each other"; "a central circle around the road" and "two semicircles"; edges "vertically striped in black and white"; "The red color was therefore chosen to contrast with the green of the bridge"; titanium "produces a mirror-like effect"; LEDs; "plays of light at night"; "the site is located at the immediate entrance to the city center") ; WP-KAPOOR https://guggenheim-bilbao.eus/en/the-collection/works/tall-tree-and-the-eye (OFF: Buren's arches reflected in the spheres; hedged callback)
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 027 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Un gran puente de carretera cruza un extremo del terreno del museo. Muchos arquitectos habrían guardado las distancias. Gehry deslizó por debajo la sala alargada de las esculturas de Serra, y levantó una torre para alcanzarlo.
+
+Todo el mundo lo llama La Salve. Oficialmente es el puente Príncipes de España. El ingeniero Juan Batanero empezó a construirlo en 1968, y se abrió en 1972. Es un puente atirantado: los cables de sus mástiles sostienen el tablero.
+
+Gehry, según una guía de los puentes de Bilbao, quería integrar en cierta medida el museo con el puente. Así que diseñó una torre con escaleras que conectan ambos. El museo lo dice con más grandeza. El edificio termina en una torre, un gesto escultórico que lleva el diseño a su clímax. Y al puente, «lo integra, de forma eficaz, en el edificio».
+
+[pause] Por el décimo aniversario del museo, en 2007, llegó el marco rojo. El artista francés Daniel Buren lo llamó Arcos rojos, en euskera Arku gorriak. Buren se propuso hacer la estructura del puente «menos brutal pero más visible».
+
+[lightly] Ahora mírelo. Un alto marco rojo atraviesa el puente, con tres círculos recortados a la misma distancia. El del centro es un círculo completo alrededor de la calzada. Los otros dos son semicírculos. [pause] Los bordes tienen rayas blancas y negras. Y el rojo, dice el museo, se eligió para contrastar con el verde del puente.
+
+En la torre, el titanio funciona como un espejo: busque un reflejo rojizo cuando la luz acompañe. De noche, el marco se ilumina con luces led.
+
+Si se asomó a las esferas plateadas de Kapoor junto al estanque, estos son los arcos rojos que encontró en ellas.
+
+[warmly] Este puente, señala el museo, está en la entrada inmediata al centro de la ciudad. Los ingenieros hicieron un puente para llevar el tráfico a Bilbao. Gehry y Buren lo hicieron parte del museo.
+
+Si hace el recorrido completo, aquí hay un breve Extra, sobre los dos arquitectos que perdieron. Para la última parada, busque un lugar tranquilo junto a la ría, con el museo a su lado: Paseo de la ría · «Todos necesitamos amor».

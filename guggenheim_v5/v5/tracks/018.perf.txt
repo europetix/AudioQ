@@ -3,7 +3,7 @@
 @room: Third floor · balcony opposite gallery 304
 @type: W
 @title: Third floor — The metal flower
-@where: On the third floor, at the balcony opposite gallery 304, looking out over the Atrium, with the flower-shaped skylight above and the walkways and glass lifts below. [O10]
+@where: On the third floor, at the balcony opposite gallery 304, looking out over the Atrium, with the flower-shaped skylight above and the walkways and glass lifts below.
 @what: The building: the Atrium and its skylight "in the shape of a metal flower", Frank Gehry (Toronto 1929 – Santa Monica 2025), Guggenheim Bilbao Museoa, 1991–97. No artwork.
 @listen: The flower over the Atrium, the fish behind Gehry's curves, and his boast about straight lines.
 @brief: A guide at the top of the building with the listener, warm about the boy and the fish, wry about the boast, then quiet at the drop.

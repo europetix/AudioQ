@@ -1,0 +1,28 @@
+@id: 024 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · by the pond
+@type: X
+@title: Wasserbecken · Extra · Feuer auf dem Wasser
+@where: Irgendwo auf der Uferpromenade am Wasserbecken, mit dem hohen Baum aus Silberkugeln im Blick. Die Feuerfontänen stehen in demselben Becken.
+@what: Yves Klein (Nice, France, 1928), Fire Fountain, dated 1961, medium "Fire", site-specific, Guggenheim Bilbao Museoa, "Currently on view (Pond)": "a row of five fire fountains" in a pool outside the building, lit only in the evening, for about an hour, in short bursts (WP-FIRE; AUDIT_V5_FACTS S9). Also: Chillida's Advice to Space V on the terrace, "a void of fire and heat" (callback; Full only).
+@listen: How a fountain of fire that Yves Klein described in a lecture in 1959 came to stand in this pond, and how to see it lit.
+@brief: A guide sharing a secret about the pond, a little conspiratorial: something here that only wakes in the evening.
+@pace: medium
+@energy: 2→3
+@sources: WP-FIRE https://pro.guggenheim-bilbao.eus/en/the-collection/works/fire-fountain (OFF, re-read 31 Oct 2026: artist line read, death year not used per PLAN §4; "1961"; "Fire"; "Currently on view (Pond)"; "a row of five fire fountains have been installed in a pool outside the Frank Gehry building"; Sorbonne 1959: "project for a public square, of an area of water above which streams of fire would dance rather than streams of water."; Krefeld 1961: a "wall of fire" of "approximately fifty Bunsen burners" "on the lawn in front of the Mies van der Rohe villa"; "Fire for me is the future without forgetting the past."; the Bilbao fountains a "posthumous realization"; evening-only operation, times not used) ; WP-ADV https://www.guggenheim-bilbao.eus/en/the-collection/works/advice-to-space-v (OFF, planner 31 Oct via PLAN key: "a kind of chimney, a void of fire and heat")
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 024 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] In diesem Becken gibt es noch ein Werk, und bei Tag würden Sie es kaum bemerken. Es erwacht erst am Abend.
+
+1959 beschrieb Yves Klein in einem Vortrag an der Sorbonne einen Brunnen, den noch niemand gebaut hatte. In der englischen Fassung des Museums war es ein „Projekt für einen öffentlichen Platz, eine Wasserfläche, über der statt Wasserstrahlen Feuerstrahlen tanzen würden“.
+
+Zwei Jahre später, bei seiner Ausstellung im deutschen Krefeld, kam er der Idee nahe. [pause] Eine „Feuerwand“ aus etwa fünfzig Bunsenbrennern stand auf dem Rasen vor einer Villa von Mies van der Rohe.
+
+Hier, in diesem Becken, wurde der Traum zu „einer Reihe von fünf Feuerfontänen“. Das Werk ist auf 1961 datiert, und das Museum nennt die Fontänen hier eine „posthume Verwirklichung“ von Kleins Projekt. [pause] Übersetzt lauten seine eigenen Worte: „Feuer ist für mich die Zukunft, ohne die Vergangenheit zu vergessen.“
+
+[pause] Auf dieser Seite des Gebäudes antwortet Feuer auf Feuer. Auf der Terrasse beschreibt das Museum Chillidas Stahl als „eine Leere aus Feuer und Hitze“.
+
+[warmly] Bei Tag sehen Sie sie nicht brennen. Wenn Sie heute Abend in Bilbao sind, kommen Sie am frühen Abend wieder. Etwa eine Stunde lang tanzt dann in kurzen Stößen Feuer auf dem Wasser, wie Klein es sich vorgestellt hat.
+
+Folgen Sie jetzt der Uferpromenade in Richtung der großen Straßenbrücke, zur Riesenspinne an der Fußgängerbrücke: Uferpromenade · Maman.

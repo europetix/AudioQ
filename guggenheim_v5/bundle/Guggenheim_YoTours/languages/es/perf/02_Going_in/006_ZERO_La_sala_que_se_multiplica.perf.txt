@@ -1,0 +1,26 @@
+@id: 006 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Going in
+@room: The Hall · outside ZERO
+@type: R
+@title: ZERO — La sala que se multiplica
+@where: En el vestíbulo, justo ante la puerta de ZERO, la pequeña sala introductoria del vestíbulo; escúchela antes de entrar, sin bloquear la puerta.
+@what: ZERO, the museum's introductory gallery and immersive optical device in the lobby, a commission of the Guggenheim Museum Bilbao created by Local Projects; curved projection with mirrors, a 300-degree view multiplying the room fourteen times; original soundtrack using the txalaparta; opened December 2018.
+@listen: How an underused lounge became a kaleidoscope, what it shows you about Bilbao and the building, and what to listen for.
+@brief: A friend at the door of a small surprise; curious, light, briefly inviting the listener to use their ears.
+@pace: medium
+@energy: 2→3
+@sources: ZERO https://guggenheim-bilbao.eus/en/zero (OFF, planner re-read 31 Oct via PLAN §2: "introductory gallery and immersive optical device"; "The history, cityscape, and industrial past of Bilbao and the region of Biscay"; "a new approach to Frank O. Gehry's building"; works from the collection; 300º; txalaparta "a traditional percussion instrument" with electronic sound; "begin their experience in the Museum's lobby") ; LOCALP https://localprojects.com/?p=259 (SEC via ROUTE §1.6: "We transformed a small, underused lounge in the lobby into ZERO", projection-mapped mirrors) ; EUSK turismo.euskadi.eus Guggenheim page (SEC via ROUTE §1.6: opened December 2018; curved screen; "una visión de 300º que multiplica 14 veces el espacio real de la galería") ; R-ARCH https://guggenheim-bilbao.eus/en/routes/architecture and R-COLL https://guggenheim-bilbao.eus/en/routes/guggenheim-collections (OFF via ROUTE §1.8: "We suggest you start your tour of the Museum at ZERO")
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 006 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta sala empezó siendo un pequeño salón que casi nadie usaba. El estudio de diseño que la transformó, Local Projects, lo dice sin rodeos: «Transformamos un pequeño salón infrautilizado del vestíbulo en ZERO.»
+
+Lo que crearon, el museo lo llama una galería introductoria y un dispositivo óptico inmersivo. Una proyección curva y un juego de espejos crean a su alrededor una vista de trescientos grados. Los espejos multiplican la sala catorce veces. [pause] Es un caleidoscopio, y usted está dentro.
+
+Las imágenes hablan de este lugar. En palabras del museo, muestran «la historia, el paisaje y el pasado industrial de Bilbao y del territorio de Bizkaia». Ofrecen una nueva «aproximación al edificio» de Frank Gehry, e imágenes de obras de la colección.
+
+[lightly] Escuche, además de mirar. La banda sonora parte de la txalaparta, un instrumento de percusión tradicional del País Vasco, mezclada con sonido electrónico. [pause] Un instrumento tradicional, dentro de un caleidoscopio.
+
+ZERO abrió en diciembre de 2018, y el museo sugiere empezar aquí cada visita. Piense en ello como una obertura: primero la ciudad y su pasado, luego el edificio, antes de encontrarse con lo auténtico.
+
+[pause] Entre y eche un vistazo. Después, siga hasta el Atrio, el corazón alto y luminoso del edificio. Colóquese cerca del centro, donde pueda mirar directamente hacia arriba: Atrio · El corazón del edificio.

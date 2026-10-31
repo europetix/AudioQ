@@ -3,7 +3,7 @@
 @room: Atrium · floor 1, near the middle
 @type: W
 @title: Atrium — Das Herz des Gebäudes
-@where: Nahe der Mitte des Atriums, des hohen, lichtdurchfluteten Raums hinter der Eingangshalle, an einer Stelle, von der Sie senkrecht hinauf zum Oberlicht schauen und möglichst auch die Säulen aus roten und blauen Wörtern in Saal 101 sehen [O5, O10].
+@where: Nahe der Mitte des Atriums, des hohen, lichtdurchfluteten Raums hinter der Eingangshalle, an einer Stelle, von der Sie senkrecht hinauf zum Oberlicht schauen und möglichst auch die Säulen aus roten und blauen Wörtern in Saal 101 sehen.
 @what: The Atrium (55 m high, about 900 m²), with glass curtain walls, curved walkways, titanium-and-glass lifts and the metal-flower skylight; about twenty galleries, orthogonal and organic; Jenny Holzer's Installation for Bilbao, 1997/2017, gallery 101, Guggenheim Bilbao Museoa (named in one version-neutral sentence).
 @listen: How tall the Atrium really is, how the whole building hangs on it, and what to look for when you look up.
 @brief: A guide who loves this room; curious at the number, then slowing down to let the listener look up; a dry smile at the critic.

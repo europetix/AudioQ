@@ -3,7 +3,7 @@
 @room: Museum plaza · the Txema Agirre plaque
 @type: R
 @title: Parvis du musée — Txema Agirre
-@where: À côté de la plaque, sur la petite place juste devant Puppy, où une plaque et un monolithe rappellent Txema Agirre. Tenez-vous sur le côté pour que d'autres puissent la lire [O2, ALT-P].
+@where: À côté de la plaque, sur la petite place juste devant Puppy, où une plaque et un monolithe rappellent Txema Agirre. Tenez-vous sur le côté pour que d'autres puissent la lire.
 @what: Memorial to José María Aguirre Larraona, "Txema Agirre", officer of the Ertzaintza (Basque police), shot on Monday 13 October 1997 beside the museum while checking a van; a plaque (installed after fourteen years) and a monolith in the small square in front of Puppy, which bears his name.
 @listen: Who Txema Agirre was, what happened here five days before the opening, and how he is remembered.
 @brief: Quiet, plain and respectful; no music sting; short factual sentences, a held silence before the cue.

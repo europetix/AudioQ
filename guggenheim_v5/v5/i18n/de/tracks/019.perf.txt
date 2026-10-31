@@ -3,7 +3,7 @@
 @room: Going down to the Hall (heard moving)
 @type: W
 @title: Auf dem Weg nach unten — Der Bilbao-Effekt
-@where: Starten Sie den Titel, wenn Sie sich von Ebene 3 mit einem Glasaufzug oder über die Treppe auf den Weg nach unten machen. Sie brauchen erst gegen Ende einen Blick, wenn Sie zwischen den Menschen im Atrium oder in der Eingangshalle sind. [O8, O11]
+@where: Starten Sie den Titel, wenn Sie sich von Ebene 3 mit einem Glasaufzug oder über die Treppe auf den Weg nach unten machen. Sie brauchen erst gegen Ende einen Blick, wenn Sie zwischen den Menschen im Atrium oder in der Eingangshalle sind.
 @what: The museum and the "Bilbao effect": visitor figures, the museum's own impact studies, its critics, Frank Gehry's verdict and Juan Ignacio Vidarte's. No artwork.
 @listen: The numbers behind the "Bilbao effect", as the museum counts them, and the people who doubted it, including its architect.
 @brief: A guide on the way down, brisk with the numbers, fair to the critics, wry at Gehry's apology, then landing on the listener.

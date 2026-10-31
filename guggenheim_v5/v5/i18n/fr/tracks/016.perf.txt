@@ -3,7 +3,7 @@
 @room: Second floor · balcony opposite gallery 204
 @type: R
 @title: Niveau 2 — Serra vu d'en haut
-@where: Au niveau 2, au balcon face à la salle 204, avec vue plongeante sur la salle 104 et les huit sculptures d'acier de La matière du temps. [O8, O9]
+@where: Au niveau 2, au balcon face à la salle 204, avec vue plongeante sur la salle 104 et les huit sculptures d'acier de La matière du temps.
 @what: Richard Serra (San Francisco 1938 – Long Island 2024), The Matter of Time, 1994–2005, weathering steel, eight sculptures, dimensions variable, Gallery 104, Guggenheim Bilbao Museoa, seen from above.
 @listen: The Serra gallery from above: what the balcony reveals, and what it still hides.
 @brief: A guide leaning on the rail beside the listener after the walk below; curious, quietly pleased, pointing things out.

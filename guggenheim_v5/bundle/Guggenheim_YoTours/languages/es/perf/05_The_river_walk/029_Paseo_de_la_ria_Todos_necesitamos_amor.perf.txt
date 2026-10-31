@@ -1,0 +1,32 @@
+@id: 029 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · by La Salve Bridge
+@type: CLOSE
+@title: Paseo de la ría — «Todos necesitamos amor»
+@where: Un lugar tranquilo del paseo de la ría cerca del puente de La Salve, apartado de los transeúntes, con el museo a su lado.
+@what: Close of the tour. Frank Gehry (Toronto, 1929 – Santa Monica, 2025) on Bilbao, NPR 2015; the museum's visitors against the feasibility study; the collection's credit line, Guggenheim Bilbao Museoa; the fog, the fire and the walk round the building.
+@listen: The man who called the "Bilbao effect" nonsense explains what Bilbao gave him, and the whole visit is gathered up by the river.
+@brief: A guide saying goodbye at the water's edge, warm and unhurried, gathering the visit into a few images; a smile at the end.
+@pace: medium-slow
+@energy: 3→2
+@sources: NPR15 https://www.npr.org/2015/09/10/438944405/frank-gehrys-lifelong-challenge-to-create-buildings-that-move (SEC, re-read 31 Oct 2026: "I love going to Bilbao and people come out and hug me. We all need love." followed by "And it's nice to get it for doing things like that.") ; GUARD (SEC via FACTS A33: Gehry on the "Bilbao effect", coarse word paraphrased) ; TAN17 https://www.theartnewspaper.com/2017/11/24/twenty-years-on-how-the-guggenheim-bilbao-came-of-age (SEC via FACTS C1: 400,000 visitors a year needed) ; PR-2017 https://prensa.guggenheim-bilbao.eus/src/uploads/2018/01/NP_Balance-2017-Museo-Guggenheim-Bilbao.pdf (OFF via FACTS C2: 1998 ≈ 1,307,200, derived) ; ONDA-25 https://www.ondavasca.com/el-guggenehim-ha-recibido-casi-25-millones-de-visitas-en-sus-25-anos-mas-del-doble-de-las-previsiones-iniciales/ (SEC via FACTS C10: 24,710,000 at 25 years, "más del doble de las estimaciones iniciales", ES, translated) ; WP pages (OFF: credit line "Guggenheim Bilbao Museoa" on Puppy, The Matter of Time, Maman; FACTS C19) ; GBIO / CBS (OFF/SEC via FACTS A35: died 5 Dec 2025, aged 96) ; WP-FOG / WP-FIRE (OFF, re-read 31 Oct 2026: on the hour; evening-only) ; OUTSIDE (OFF, re-read 31 Oct 2026: "It is possible to walk all the way around the Museum") ; R-ARCH (OFF, re-read 31 Oct 2026: "Walk under the La Salve Bridge")
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 029 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Frank Gehry no soportaba que se hablara de un «efecto Bilbao». Pero sobre la ciudad en sí, dijo esto: «Me encanta ir a Bilbao, y la gente sale a abrazarme. Todos necesitamos amor.» Y luego: «Y es bonito recibirlo por hacer cosas así.» Hablaba de por qué hacía su trabajo.
+
+Piense en la plaza, donde empezó todo: una ciudad que decía estar muriéndose le pidió su propia Ópera de Sídney. Lo que obtuvo está a su lado, en lo que fue un muelle portuario.
+
+[pause] En visitantes, al menos, la apuesta salió bien. El estudio de viabilidad decía que el museo necesitaba cuatrocientos mil visitantes al año, y en su primer año completo llegaron cerca de un millón trescientos mil. Al cumplir veinticinco años había recibido casi veinticinco millones, más del doble de las primeras estimaciones, según la prensa vasca.
+
+Y lo que ha visto aquí es de aquí. Puppy, el acero de Serra, Maman y el resto llevan la mención Guggenheim Bilbao Museoa. Son de este museo.
+
+[pause] Lo ha recorrido por dentro y por fuera. Un perro de flores que guarda la plaza. Una escalinata que le hace bajar para entrar. El Atrio, alzándose a su alrededor. Acero que se podía atravesar, y una flor de metal en lo alto. Luego, fuera, el agua: una araña junto a la pasarela, y este puente que el edificio se estira para abrazar.
+
+[quietly] Gehry murió en diciembre de 2025. Una ciudad que decía estar muriéndose le dio sus abrazos. Él le dio esto.
+
+En octubre de 2027, el museo cumple treinta años.
+
+[warmly] Antes de irse: si se perdió la niebla, vuelve cada hora en punto. El fuego llega un rato al caer la tarde, así que vale la pena volver a ver el paseo de la ría esta noche. [pause] Y puede rodear todo el edificio, o pasar bajo el puente, y verlo desde todos los lados.
+
+Gracias por recorrer el Guggenheim con Yo Tours. Adiós.

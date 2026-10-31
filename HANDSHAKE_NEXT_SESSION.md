@@ -1,4 +1,4 @@
-# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built; 24 Oct: Uffizi Gallery built, first guide with Italian; 30 Oct: Real Alcázar de Sevilla, Seville Cathedral and Setas de Sevilla built; 31 Oct: Setas edition 5.1, Guggenheim Bilbao in progress)
+# AudioQ: handshake for the next session (written 5 Oct 2026; updated 10 Oct 2026: Prado rebuilt; 17 Oct: Orangerie gets the Yo Tours sound and labels; Museo Reina Sofía built; 23 Oct: Estadio Santiago Bernabéu built; Museo Nacional Thyssen-Bornemisza built; 24 Oct: Uffizi Gallery built, first guide with Italian; 30 Oct: Real Alcázar de Sevilla, Seville Cathedral and Setas de Sevilla built; 31 Oct: Setas edition 5.1, Guggenheim Bilbao built)
 
 Paste this into the new session to start:
 
@@ -187,10 +187,13 @@ Prado detail: see `prado_v5/PRADO_V5_HANDSHAKE.md`.
 
 | Alcázar V5 | 35 tracks, ~9,600 words, ~73 min listening; Essential 20 / Highlights 10 with hand-written bridges; 2 CRA Extras | done + independent review per language | 5-page phone PDF on the leaflet's numbers | stand-in: EN all lengths, DE Highlights | on-site checklist (Pabellón reopening, Muñecas → Crucero, last garden stretch) |
 
+| Guggenheim Bilbao V5 | 29 tracks (25 main + 4 Extras), ~8,640 words, ~69 min listening; core only (building + permanent works); Essential 19 / Highlights 9 with hand-written bridges | done + independent review per language | 5-page schematic phone PDF (official interactive map read) | stand-in: EN all lengths, ES Highlights | on-site checklist (exit to the river, terrace, Serra start, balcony, plaque, pond/Maman order) |
+
 | Setas V5.1 | 21 tracks (18 main + 3 Extras), ~6,000 words, ~48 min listening; Essential 12 / Highlights 4 with hand-written bridges; rebuilt 31 Oct from verified V4 material (user found 5.0 thin) | done + independent review per language | 5-page schematic phone PDF (5.1 numbering) | stand-in: EN all lengths, FR Highlights | on-site checklist (two-birds label, Antiquarium labels, views, stopwatch walk) |
 
 | Cathedral V5 | 28 tracks, ~7,500 words, ~60 min listening; Essential 18 / Highlights 9 with hand-written bridges | done + independent review per language | 5-page schematic phone PDF (no official map) | stand-in: EN all lengths, FR Highlights | on-site checklist (Giralda-first for Príncipe entrants, Patio door, sacristy order, El Greco) |
 
+Guggenheim detail: see `guggenheim_v5/GUGGENHEIM_V5_HANDSHAKE.md`.
 Setas detail: see `setas_v5/SETAS_V5_HANDSHAKE.md`.
 Cathedral detail: see `cathedral_seville_v5/CATHEDRAL_V5_HANDSHAKE.md`.
 Alcázar detail: see `alcazar_v5/ALCAZAR_V5_HANDSHAKE.md`.

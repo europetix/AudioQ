@@ -1,0 +1,26 @@
+@id: 006 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Going in
+@room: The Hall · outside ZERO
+@type: R
+@title: ZERO — Der Raum, der sich vervielfacht
+@where: In der Eingangshalle, direkt vor der Tür von ZERO, dem kleinen Einführungsraum im Foyer. Spielen Sie den Titel, bevor Sie hineingehen, und halten Sie den Eingang frei.
+@what: ZERO, the museum's introductory gallery and immersive optical device in the lobby, a commission of the Guggenheim Museum Bilbao created by Local Projects; curved projection with mirrors, a 300-degree view multiplying the room fourteen times; original soundtrack using the txalaparta; opened December 2018.
+@listen: How an underused lounge became a kaleidoscope, what it shows you about Bilbao and the building, and what to listen for.
+@brief: A friend at the door of a small surprise; curious, light, briefly inviting the listener to use their ears.
+@pace: medium
+@energy: 2→3
+@sources: ZERO https://guggenheim-bilbao.eus/en/zero (OFF, planner re-read 31 Oct via PLAN §2: "introductory gallery and immersive optical device"; "The history, cityscape, and industrial past of Bilbao and the region of Biscay"; "a new approach to Frank O. Gehry's building"; works from the collection; 300º; txalaparta "a traditional percussion instrument" with electronic sound; "begin their experience in the Museum's lobby") ; LOCALP https://localprojects.com/?p=259 (SEC via ROUTE §1.6: "We transformed a small, underused lounge in the lobby into ZERO", projection-mapped mirrors) ; EUSK turismo.euskadi.eus Guggenheim page (SEC via ROUTE §1.6: opened December 2018; curved screen; "una visión de 300º que multiplica 14 veces el espacio real de la galería") ; R-ARCH https://guggenheim-bilbao.eus/en/routes/architecture and R-COLL https://guggenheim-bilbao.eus/en/routes/guggenheim-collections (OFF via ROUTE §1.8: "We suggest you start your tour of the Museum at ZERO")
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 006 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dieser Raum war anfangs eine kleine Lounge, die kaum jemand nutzte. Das Designstudio, das ihn umgestaltet hat, Local Projects, sagt es ganz offen: „Wir haben eine kleine, wenig genutzte Lounge in der Lobby in ZERO verwandelt.“
+
+Was daraus wurde, nennt das Museum „eine Einführungsgalerie und ein immersives optisches Instrument“. Eine gewölbte Projektionsfläche und Spiegel umgeben Sie, mit einem Blickfeld von dreihundert Grad. Die Spiegel vervielfachen den Raum vierzehnfach. [pause] Ein Kaleidoskop, in dem Sie stehen.
+
+Die Bilder handeln von diesem Ort. In den Worten des Museums zeigen sie „die Geschichte, das Stadtbild und die industrielle Vergangenheit von Bilbao und der Region Biskaya“. [pause] Es gibt „einen neuen Zugang zu Frank O. Gehrys Gebäude“, und Bilder von Werken aus der Sammlung.
+
+[lightly] Hören Sie auch hin. Der Soundtrack nutzt die Txalaparta, ein traditionelles Schlaginstrument des Baskenlands, gemischt mit elektronischen Klängen. [pause] Ein traditionelles Instrument, in einem Kaleidoskop.
+
+ZERO wurde im Dezember 2018 eröffnet, und das Museum empfiehlt, jeden Besuch hier zu beginnen. Sehen Sie es als Ouvertüre: zuerst die Stadt und ihre Vergangenheit, dann das Gebäude, bevor Sie dem Original begegnen.
+
+Gehen Sie hinein und schauen Sie sich um. Danach gehen Sie weiter ins Atrium, das hohe, lichtdurchflutete Herz des Gebäudes. Stellen Sie sich irgendwo nahe der Mitte hin, wo Sie senkrecht nach oben schauen können: Atrium · Das Herz des Gebäudes.

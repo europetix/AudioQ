@@ -3,7 +3,7 @@
 @room: River walk · by the pond
 @type: X
 @title: Le bassin · Extra · Le feu sur l'eau
-@where: N'importe où sur la promenade le long du fleuve, près du bassin, avec le grand arbre de boules argentées en vue. Les fontaines de feu sont dans ce même bassin. [O13, O19]
+@where: N'importe où sur la promenade le long du fleuve, près du bassin, avec le grand arbre de boules argentées en vue. Les fontaines de feu sont dans ce même bassin.
 @what: Yves Klein (Nice, France, 1928), Fire Fountain, dated 1961, medium "Fire", site-specific, Guggenheim Bilbao Museoa, "Currently on view (Pond)": "a row of five fire fountains" in a pool outside the building, lit only in the evening, for about an hour, in short bursts (WP-FIRE; AUDIT_V5_FACTS S9). Also: Chillida's Advice to Space V on the terrace, "a void of fire and heat" (callback; Full only).
 @listen: How a fountain of fire that Yves Klein described in a lecture in 1959 came to stand in this pond, and how to see it lit.
 @brief: A guide sharing a secret about the pond, a little conspiratorial: something here that only wakes in the evening.

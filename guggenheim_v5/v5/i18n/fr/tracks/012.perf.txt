@@ -3,7 +3,7 @@
 @room: Gallery 104 · the spirals
 @type: W
 @title: Salle 104 — Se perdre exprès
-@where: Dans la salle 104, à côté des deux Torqued Spirals, les pièces dont les cartels indiquent « Torqued Spiral (Right Left) » et « Torqued Spiral (Open Left Closed Right) ». Écoutez-le à une ouverture, puis entrez. [O6, ALT-S]
+@where: Dans la salle 104, à côté des deux Torqued Spirals, les pièces dont les cartels indiquent « Torqued Spiral (Right Left) » et « Torqued Spiral (Open Left Closed Right) ». Écoutez-le à une ouverture, puis entrez.
 @what: Richard Serra (San Francisco 1938 – Long Island 2024), Torqued Spiral (Right Left), 2003–04, and Torqued Spiral (Open Left Closed Right), 2003–04, weathering steel, part of The Matter of Time, 1994–2005, eight sculptures, Guggenheim Bilbao Museoa.
 @listen: What happens to your sense of direction, and of time, inside Serra's two spirals.
 @brief: A guide at the mouth of a spiral, quiet and a little conspiratorial, inviting the listener to get lost and notice it.

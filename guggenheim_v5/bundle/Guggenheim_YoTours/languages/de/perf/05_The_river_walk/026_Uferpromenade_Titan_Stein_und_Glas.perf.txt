@@ -1,0 +1,32 @@
+@id: 026 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk · beside the titanium
+@type: W
+@title: Uferpromenade — Titan, Stein und Glas
+@where: Auf der Uferpromenade an einer Stelle, wo die Titanhaut des Gebäudes nah an den Weg heranreicht, am besten mit Kalkstein und Glas im selben Blick. Schauen, nicht anfassen.
+@what: The building's three materials: about 33,000 extremely thin titanium sheets (museum), about a third of a millimetre thick (0.38 mm, Ferrovial); limestone and glass. Gehry Partners, design; IDOM, executive architects; Frank Gehry (1929–2025).
+@listen: How a test sample pinned outside an office, a slump in the arms trade and a change to the backing made this skin, and why the Soviet-submarine story stays a legend.
+@brief: A guide close up to the wall with the listener, pointing out small things; curious and precise, with a wry moment for the legend.
+@pace: medium
+@energy: 3→4→3
+@sources: CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF, re-read 31 Oct 2026: "the architect chose titanium after ruling out other materials" "seeing the behavior of a titanium sample pinned outside his office"; "approximately 33,000 extremely thin titanium sheets"; "provides a rough and organic effect"; "adding to the material's color changes depending on the weather and light conditions"; "The other two materials used in the building, limestone and glass, harmonize perfectly") ; FERRO https://www.ferrovial.com/blog/en/2017/10/guggenheim-museum-construction/ (SEC builder, re-read 31 Oct 2026: "just 0.38 mm"; the thinness makes the panels look quilted rather than flat (paraphrase); "with no two joints being the same in the whole building") ; BW02 https://sevencycles.com/7/business-week-magazine-a-magic-metal-for-the-masses/ (SEC reprint of BusinessWeek 2002, re-read 31 Oct 2026: "In the early 1990s, the end of the Reagan-era military buildup meant fewer orders of titanium-laden jet fighters."; "Soviet-built titanium factories"; "Suddenly, all that capacity was for sale," John H. Odle of RTI International Metals; the price drop "enabled Gehry to select titanium over stainless steel, copper, or aluminum") ; APM https://www.apm.org.uk/blog/guggenheim-museum-bilbao-why-was-it-such-a-stellar-project-success/ (SEC, re-read 31 Oct 2026: "a glut of the metal on the market emanating from Russia"; the Alfa-class submarine speculation; "We'll probably never know") ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC, via FACTS B16: IDOM replaced the proposed plywood backing with galvanised sheet metal) ; INSIDE https://www.guggenheim-bilbao.eus/en/the-building/inside-the-museum (OFF via ROUTE §1.3: galleries "some orthogonally shaped … others with organic, irregular lines"; FACTS B2)
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 026 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Bevor Frank Gehry einem ganzen Museum Titan anvertraute, machte er einen einfachen Test. In den Worten des Museums „wählte er Titan, nachdem er andere Materialien ausgeschlossen und das Verhalten einer Titanprobe beobachtet hatte, die draußen vor seinem Büro befestigt war“.
+
+Das ist die Haut aus der Nähe. Das Museum zählt „rund dreiunddreißigtausend extrem dünne Titanbleche“. Die Baufirma gibt ihre Dicke mit etwa einem Drittel Millimeter an, dünner als eine Kreditkarte. [pause] Deshalb, sagt die Baufirma, wirken die Platten sanft gesteppt statt flach.
+
+Schauen Sie sich jetzt die Farbe an. Das Museum sagt, die Oberfläche „erzeugt einen rauen und organischen Effekt“, und die Farbe des Metalls ändert sich „je nach Wetter und Lichtverhältnissen“. Ist es heute silbern, grau oder etwas Wärmeres? Morgen wird es nicht ganz gleich aussehen.
+
+Dann war da das Timing. Wie die BusinessWeek erzählte: „Anfang der 1990er-Jahre bedeutete das Ende der militärischen Aufrüstung der Reagan-Ära weniger Aufträge für titanreiche Kampfjets.“ Sowjetische Titanfabriken traf derselbe Einbruch. „Plötzlich stand all diese Kapazität zum Verkauf“, sagte ein Manager aus der Titanbranche. [pause] Der Preisverfall, so Gehrys Büro, erlaubte ihm, Titan statt Edelstahl, Kupfer oder Aluminium zu wählen.
+
+[wry] Womit wir bei der Legende sind. Man hört, diese Haut stamme von alten sowjetischen U-Booten. Sogar ein Autor, der diese Geschichte erzählt, endet mit: „Wir werden es wohl nie erfahren.“ Genießen Sie es als Legende.
+
+Die anderen beiden Materialien, in den Worten des Museums, „Kalkstein und Glas, harmonieren perfekt“. Der Stein umhüllt die kastenförmigen Säle, das Titan die freien Kurven. Suchen Sie die Stelle, wo Stein auf Metall trifft, und denken Sie daran: Im ganzen Gebäude sind keine zwei Fugen gleich.
+
+[pause] Eine Änderung, die man nicht sieht, sollte dieser Haut ein langes Leben sichern. Gehrys Büro schlug eine Unterlage aus Sperrholz vor. Die ausführenden Architekten, IDOM, ersetzten sie durch verzinktes Blech: haltbarer, und teurer.
+
+[warmly] Eine Probe zum Test, ein Preissturz und eine Haut, die halten soll.
+
+Gehen Sie weiter zur großen Straßenbrücke, die über das Ende des Museums führt, La Salve. Bleiben Sie stehen, wo Sie die Brücke sehen, den hohen Turm daneben und den roten Rahmen auf der Brücke: La-Salve-Brücke · Die Brücke, der Turm und die roten Bögen.

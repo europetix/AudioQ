@@ -1,0 +1,32 @@
+@id: 019 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: Going down to the Hall (heard moving)
+@type: W
+@title: De bajada — El efecto Bilbao
+@where: Iníciela al empezar a bajar desde la tercera planta en un ascensor de cristal o por las escaleras; no necesita ver nada hasta casi el final, cuando esté entre la gente del Atrio o del vestíbulo.
+@what: The museum and the "Bilbao effect": visitor figures, the museum's own impact studies, its critics, Frank Gehry's verdict and Juan Ignacio Vidarte's. No artwork.
+@listen: The numbers behind the "Bilbao effect", as the museum counts them, and the people who doubted it, including its architect.
+@brief: A guide on the way down, brisk with the numbers, fair to the critics, wry at Gehry's apology, then landing on the listener.
+@pace: medium
+@energy: 3→4→3
+@sources: TAN17 https://www.theartnewspaper.com/2017/11/24/twenty-years-on-how-the-guggenheim-bilbao-came-of-age (SEC via FACTS C1, C11, C14, C16: feasibility study 400,000 a year; €4.3bn to Basque GDP by end-2016 "according to annual studies commissioned by the museum"; "McGuggenheim"; Vidarte "For a cultural project to be transformative, it needs to have a number of ingredients… [it] cannot be isolated." and "Despite the fact that we share the family name, we are a distinct institution.") ; PR-2017 https://prensa.guggenheim-bilbao.eus/src/uploads/2018/01/NP_Balance-2017-Museo-Guggenheim-Bilbao.pdf (OFF via FACTS C2: 1998 ≈ 1,307,200, derived) ; AD13 https://www.archdaily.com/422470 (SEC via FACTS C12: almost 4 million in the first three years) ; PR-2023 https://guggenheim-bilbao.eus/en/press-room/press-releases/the-guggenheim-museum-bilbao-has-its-best-year-in-history (OFF via FACTS C3: 1,324,221 in 2023, record) ; PR-2025 https://www.guggenheim-bilbao.eus/en/press-room/press-releases/1305003-people-visited-the-guggenheim-museum-bilbao-in-2025 (OFF via FACTS C5–C6: 1,305,003, 69% foreign; 14,319 jobs maintained) ; MPRA https://mpra.ub.uni-muenchen.de/12681/ (SEC via FACTS C13: Plaza, critics "objected to squandering so much public money on something so irrelevant and exclusive") ; AP97 https://www.spokesman.com/stories/1997/oct/19/basque-museum-opens-under-tight-security/ (SEC, re-read 31 Oct 2026: "It is a symbol of cultural imperialism, not Basque pride," said by a Basque painter, not named) ; GUARD https://www.inkl.com/news/the-bilbao-effect-how-frank-gehry-s-guggenheim-started-a-global-craze (SEC via FACTS A33: coarse word paraphrased; "I blame your journalist brethren for that."; "I apologise for having anything to do with it.") ; TAN-DIR https://theartnewspaper.com/2024/11/13/guggenheim-bilbao-appoints-miren-arzalluz-as-director (SEC via FACTS C17: Vidarte led the museum "more than 30 years")
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 019 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cuatrocientos mil. Esa era la cifra a batir. El estudio de viabilidad decía que el museo necesitaba cuatrocientos mil visitantes al año para justificar su costo.
+
+En su primer año completo, 1998, llegaron cerca de un millón trescientos mil. En sus tres primeros años, casi cuatro millones.
+
+Su año récord hasta ahora fue 2023. En 2025, casi siete de cada diez visitantes vinieron del extranjero.
+
+El dinero es más difícil de contar. Los propios estudios del museo le atribuyen más de cuatro mil millones de euros aportados a la economía vasca en sus primeros veinte años. [pause] Según esos mismos estudios, mantuvo unos catorce mil empleos en 2025.
+
+[pause] No todos estaban convencidos. La economista Beatriz Plaza recogió que los críticos se oponían a despilfarrar tanto dinero público en algo tan irrelevante y exclusivo. Los críticos locales lo llamaban McGuggenheim. Y en la apertura, un pintor vasco dijo a la Associated Press que era un símbolo del imperialismo cultural, no del orgullo vasco.
+
+[wry] El arquitecto tenía su propio veredicto. Gehry despachó la idea misma de un «efecto Bilbao» con una palabra que no repetiremos, y culpó a los periodistas. También dijo: «Pido perdón por haber tenido algo que ver con ello.»
+
+El veterano director del museo, Juan Ignacio Vidarte, fue más prudente. Para que un proyecto cultural sea transformador, dijo, necesita una serie de ingredientes. Un proyecto así, advirtió, no puede estar aislado. [pause] Y a quien viera en Bilbao una simple sucursal de Nueva York, le respondió que, aunque comparten apellido, son una institución distinta.
+
+[warmly] Al bajar entre la gente del Atrio y del vestíbulo, mire alrededor. Cada una de esas personas cuenta en esa cifra. Cuatrocientos mil era el objetivo. Usted es parte de los muchos más que vinieron.
+
+Si hace el recorrido completo, hay un breve Extra que puede escuchar aquí, en el vestíbulo, antes de salir: El día de la inauguración, 1997. La siguiente parada principal está fuera. Salga del museo y escúchela mientras camina. Le indica el camino al paseo de la ría: Exterior · De los astilleros al paseo de la ría.

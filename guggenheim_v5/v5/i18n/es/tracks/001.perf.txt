@@ -1,0 +1,28 @@
+@id: 001 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The plaza
+@room: Museum plaza · Puppy in view
+@type: ANCHOR
+@title: Bienvenida al Guggenheim Bilbao
+@where: En la plaza del Museo, con Puppy, el terrier gigante de flores, a la vista, apartándose de la amplia escalinata para dejar pasar a la gente.
+@what: Guggenheim Museum Bilbao (Guggenheim Bilbao Museoa), architect Frank O. Gehry (Toronto 1929 – Santa Monica 2025); opened October 1997 (royal inauguration 18 Oct, public 19 Oct); one of the Guggenheim museums with New York and Venice, run by Basque institutions with the Solomon R. Guggenheim Foundation. Guide scope: the building and the works on long-term view (Koons, Serra, Holzer, Chillida, Bourgeois, Kapoor, Nakaya, Klein, Buren), all credited Guggenheim Bilbao Museoa.
+@listen: Where you are, who built it and why, what this guide covers, the route in three lengths, and the only two timings you need.
+@brief: A warm, unhurried host meeting the listener on the plaza; curious at the hook, clear and practical on the route, a light touch on the timings.
+@pace: medium
+@energy: 2→3
+@sources: CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF via FACTS A13: "a former wharf with port and industrial use on a curve of the Nervión") ; TAN17 https://www.theartnewspaper.com/2017/11/24/twenty-years-on-how-the-guggenheim-bilbao-came-of-age (SEC, re-read 31 Oct 2026: "all costs, operating and capital, would have to be borne by the Basque government") ; MUSEUM https://www.guggenheim-bilbao.eus/en/about-the-museum/the-museum (OFF via FACTS A10–A11: founding trustees Basque Government, Bizkaia Provincial Council, SRGF; network New York, Venice, Bilbao) ; PR-25M https://www.guggenheim-bilbao.eus/en/press-room/press-releases/el-museo-guggenheim-bilbao-recibe-a-su-visitante-25-millones-en-el-ano-de-su-25-aniversario (OFF via FACTS A29: opened 19 Oct 1997) ; GBIO https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry/biography-of-frank-gehry (OFF via FACTS A35: died 5 Dec 2025) ; CBS https://www.cbsnews.com/news/frank-gehry-dies-age-96-architect (SEC via FACTS A35: aged 96) ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via ROUTE §1.1: broad stairway; "walk all the way around") ; WP-FOG https://guggenheim-bilbao.eus/en/the-collection/works/fog-sculpture-08025-f-o-g (OFF via FACTS G19: on the hour) ; WP-FIRE https://pro.guggenheim-bilbao.eus/en/the-collection/works/fire-fountain (OFF via FACTS G23: evening only, after closing) ; ACCESS https://www.guggenheim-bilbao.eus/en/useful-information/accessibility (OFF via ROUTE §1.1, §4: plaza lift, riverside ramp, lifts between floors) ; Basque name: FACTS I1 (work-page credit lines, OFF)
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 001 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta plaza fue antes una orilla en plena actividad. El museo describe el lugar como «un antiguo muelle de uso portuario e industrial», en una curva de la ría del Nervión. A principios de los noventa, los vascos decidieron construir aquí algo muy distinto.
+
+[warmly] Bienvenidos al Museo Guggenheim Bilbao, en euskera, Guggenheim Bilbao Museoa. Es uno de los museos Guggenheim, con Nueva York y Venecia. Pero lo gestionan desde aquí instituciones vascas con la fundación neoyorquina. Abrió en octubre de 1997. Su arquitecto, Frank Gehry, murió en diciembre de 2025, a los noventa y seis años.
+
+Esta guía trata del edificio, por dentro y por fuera, y de las obras que viven aquí. En el recorrido completo las verá todas. Puppy. El acero de Richard Serra en la sala alargada. Las columnas de luz de Jenny Holzer. Dos esculturas de Eduardo Chillida. Una araña llamada Maman, un árbol de bolas plateadas de Anish Kapoor, una escultura de niebla, fuentes de fuego y los arcos rojos de Daniel Buren. [pause] Las exposiciones temporales no entran en esta guía. Pasará junto a algunas.
+
+[pause] El recorrido: primero, la plaza. Luego, bajar la amplia escalinata, cruzar el Atrio hasta la sala de Serra y subir a los balcones. Después, salir y rodear el edificio hasta la ría, y por la orilla hasta el puente.
+
+Hay tres duraciones, en un mismo recorrido. El completo dura cerca de una hora y cuarenta. La esencial, cerca de una hora y cuarto, y los imprescindibles, unos tres cuartos de hora, con los trayectos. Escuche las paradas en su teléfono, en orden. En las versiones cortas, los números de pista pueden saltar, y cada parada le indica adónde ir después.
+
+[lightly] La niebla del estanque junto a la ría sale cada hora en punto. Las fuentes de fuego arden solo al caer la tarde. [pause] Para un acceso sin escalones, hay un ascensor para sillas de ruedas desde la plaza, una rampa del lado de la ría y ascensores entre todas las plantas.
+
+Empiece por el perro. Acérquese a Puppy, el terrier gigante de flores, y busque desde dónde verlo entero: Plaza del Museo · Puppy, el perro guardián en flor.

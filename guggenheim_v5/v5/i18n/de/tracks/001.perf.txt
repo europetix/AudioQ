@@ -3,7 +3,7 @@
 @room: Museum plaza · Puppy in view
 @type: ANCHOR
 @title: Willkommen im Guggenheim Bilbao
-@where: Auf dem Vorplatz des Museums, mit Puppy, dem riesigen Terrier aus Blumen, im Blick. Stellen Sie sich abseits der breiten Treppe, damit andere vorbeikommen [O1, O20, O21].
+@where: Auf dem Vorplatz des Museums, mit Puppy, dem riesigen Terrier aus Blumen, im Blick. Stellen Sie sich abseits der breiten Treppe, damit andere vorbeikommen.
 @what: Guggenheim Museum Bilbao (Guggenheim Bilbao Museoa), architect Frank O. Gehry (Toronto 1929 – Santa Monica 2025); opened October 1997 (royal inauguration 18 Oct, public 19 Oct); one of the Guggenheim museums with New York and Venice, run by Basque institutions with the Solomon R. Guggenheim Foundation. Guide scope: the building and the works on long-term view (Koons, Serra, Holzer, Chillida, Bourgeois, Kapoor, Nakaya, Klein, Buren), all credited Guggenheim Bilbao Museoa.
 @listen: Where you are, who built it and why, what this guide covers, the route in three lengths, and the only two timings you need.
 @brief: A warm, unhurried host meeting the listener on the plaza; curious at the hook, clear and practical on the route, a light touch on the timings.

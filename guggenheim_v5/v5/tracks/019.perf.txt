@@ -3,7 +3,7 @@
 @room: Going down to the Hall (heard moving)
 @type: W
 @title: Going down — The Bilbao effect
-@where: Start it as you set off down from the third floor by a glass lift or the stairs; it needs no view until near the end, when you're among the people in the Atrium or the Hall. [O8, O11]
+@where: Start it as you set off down from the third floor by a glass lift or the stairs; it needs no view until near the end, when you're among the people in the Atrium or the Hall.
 @what: The museum and the "Bilbao effect": visitor figures, the museum's own impact studies, its critics, Frank Gehry's verdict and Juan Ignacio Vidarte's. No artwork.
 @listen: The numbers behind the "Bilbao effect", as the museum counts them, and the people who doubted it, including its architect.
 @brief: A guide on the way down, brisk with the numbers, fair to the critics, wry at Gehry's apology, then landing on the listener.

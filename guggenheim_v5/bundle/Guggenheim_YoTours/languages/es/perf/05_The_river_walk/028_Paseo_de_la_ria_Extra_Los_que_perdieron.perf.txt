@@ -1,0 +1,28 @@
+@id: 028 · ES · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: River walk (anywhere; ideally with a view across the water)
+@type: X
+@title: Paseo de la ría · Extra · Los que perdieron
+@where: En cualquier punto del paseo de la ría; no necesita ninguna vista en particular ni señala nada al otro lado del agua.
+@what: The 1991 invited competition: Arata Isozaki, Coop Himmelb(l)au and Frank O. Gehry; Thomas Krens on the final choice; the Isozaki Towers named on the museum's architecture route; the route's list of "internationally renowned architects" in Bilbao.
+@listen: What became of the two architects who lost the competition for this museum, and how one of them ended up in Bilbao anyway.
+@brief: A guide with a wry smile, telling the footnote to a famous win; light, a little amused, short.
+@pace: medium
+@energy: 2→3
+@sources: GBIO https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry/biography-of-frank-gehry (OFF via FACTS A14–A15: the invited competition among Isozaki, Coop Himmelb(l)au and Gehry; 1991) ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC via FACTS A16: Krens, the final choice between Gehry and Coop Himmelb(l)au, "two arduous days of deliberation") ; R-ARCH https://guggenheim-bilbao.eus/en/routes/architecture (OFF, re-read twice 31 Oct 2026: "or climb the stairs between the Isozaki Towers for brand-new views of the city."; "Contributions by internationally renowned architects include not only the Museum building by Frank Gehry" "but also those by Santiago Calatrava, Arata Isozaki, Rafael Moneo, and Álvaro Siza, among others."; the page does not tie Calatrava to Zubizuri)
+@lang: es
+@translation: from the fact-checked English Guggenheim Bilbao 028 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] En 1991 había tres nombres en liza para este museo. Solo uno sale en las fotos.
+
+El concurso fue por invitación. Junto a Gehry, la cronología del museo nombra a los otros dos: el arquitecto Arata Isozaki y el estudio Coop Himmelblau.
+
+No fue un paseo. Thomas Krens, que dirigía la Fundación Guggenheim, dijo después que la elección final quedó entre Gehry y Coop Himmelblau, tras, en sus palabras, «dos arduos días de deliberación».
+
+[amused] Pero Isozaki no se fue con las manos vacías. La ciudad tiene torres con su nombre. [pause] La ruta de arquitectura del museo recomienda subir «la escalinata situada entre las Torres Isozaki para descubrir nuevas perspectivas de la ciudad».
+
+Y la misma ruta enumera las aportaciones de «arquitectos de renombre internacional». Nombra no solo el museo de Gehry, sino también los de Santiago Calatrava, Arata Isozaki, Rafael Moneo y Álvaro Siza, entre otros.
+
+[pause] El que perdió el concurso acabó en la misma frase que el que lo ganó. En una ciudad que rehízo su orilla, hubo sitio para más de un ganador.
+
+Para la última parada, busque un lugar tranquilo junto a la ría, con el museo a su lado: Paseo de la ría · «Todos necesitamos amor».

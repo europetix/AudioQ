@@ -1,0 +1,28 @@
+@id: 007 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Going in
+@room: Atrium · floor 1, near the middle
+@type: W
+@title: Atrium — Das Herz des Gebäudes
+@where: Nahe der Mitte des Atriums, des hohen, lichtdurchfluteten Raums hinter der Eingangshalle, an einer Stelle, von der Sie senkrecht hinauf zum Oberlicht schauen und möglichst auch die Säulen aus roten und blauen Wörtern in Saal 101 sehen.
+@what: The Atrium (55 m high, about 900 m²), with glass curtain walls, curved walkways, titanium-and-glass lifts and the metal-flower skylight; about twenty galleries, orthogonal and organic; Jenny Holzer's Installation for Bilbao, 1997/2017, gallery 101, Guggenheim Bilbao Museoa (named in one version-neutral sentence).
+@listen: How tall the Atrium really is, how the whole building hangs on it, and what to look for when you look up.
+@brief: A guide who loves this room; curious at the number, then slowing down to let the listener look up; a dry smile at the critic.
+@pace: medium-slow
+@energy: 3→4→3
+@sources: ATRIUM https://guggenheim-bilbao.eus/en/atrium (OFF via FACTS B4: "With a height of 55m"; access to all galleries and to the outside terrace) ; FERRO https://www.ferrovial.com/blog/en/2017/10/guggenheim-museum-construction/ (SEC via FACTS B4: scaffolding "close to 50 metres" at the atrium, the likely source of the popular figure) ; INSIDE https://www.guggenheim-bilbao.eus/en/the-building/inside-the-museum (OFF via ROUTE §1.3: "With curved volumes and large glass curtain walls that connect the inside and the outside, the Atrium is an ample space flooded with light and covered by a great skylight."; "The three levels of the building are organized around the Atrium and are connected by means of curved walkways, titanium and glass elevators, and staircases."; 20 galleries, "some orthogonally shaped and with classical proportions and others with organic, irregular lines") ; TIPS https://www.guggenheim-bilbao.eus/en/useful-information/tips (OFF via ROUTE §1.3: "the heart and soul of the Museum and serves as a point of reference for visitors") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via FACTS B5: skylight "in the shape of a metal flower") ; WP-HOLZER https://www.guggenheim-bilbao.eus/en/the-collection/works/installation-for-bilbao and R-COLL https://guggenheim-bilbao.eus/en/routes/guggenheim-collections (OFF via FACTS F1, F5: site-specific, red and blue LED, seen from the Atrium) ; GUARD https://www.inkl.com/news/the-bilbao-effect-how-frank-gehry-s-guggenheim-started-a-global-craze (SEC, re-read 31 Oct 2026: Hal Foster, in Sydney Pollack's film Sketches of Frank Gehry, on the building trumping the art it serves: Gehry gave his clients "a sublime space that overwhelms the viewer", per AUDIT_V5_FACTS S4)
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 007 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Oft liest man, dieses Atrium sei fünfzig Meter hoch. Das Museum nennt eine andere Zahl: eine Höhe von fünfundfünfzig Metern. Die Fünfzig stammt wohl vom Baugerüst, das hier fast fünfzig Meter hoch reichte. Der Raum selbst ist höher.
+
+Das Museum beschreibt es als „einen weiten, lichtdurchfluteten Raum, bedeckt von einem großen Oberlicht“. Es hat „geschwungene Volumen und große gläserne Vorhangfassaden, die Innen und Außen verbinden“. Es nennt das Atrium „Herz und Seele des Museums“ und „einen Orientierungspunkt für die Besucher“. [pause] Das ist auch ein praktischer Rat. Von hier aus erreichen Sie jeden Saal, und die Terrasse draußen.
+
+[pause] Alles hängt an diesem Raum. „Die drei Ebenen des Gebäudes sind um das Atrium angeordnet und durch geschwungene Stege, Aufzüge aus Titan und Glas und Treppen verbunden.“ Ringsum öffnen sich etwa zwanzig Säle, von zweierlei Art. Manche sind „orthogonal geformt und mit klassischen Proportionen“: Kästen, mit Stein verkleidet. Andere haben „organische, unregelmäßige Linien“, die Titankurven, die Sie vom Vorplatz gesehen haben.
+
+Schauen Sie jetzt nach oben, und lassen Sie sich Zeit. Folgen Sie den Glaswänden, wo Innen auf Außen trifft. Suchen Sie die Stege, die über der Leere hängen, und die Glasaufzüge, die zwischen den Ebenen gleiten. [pause] Ganz oben ist das große Oberlicht, das alles überdeckt. Aus der Nähe sehen Sie es von der obersten Ebene.
+
+[lightly] Achten Sie noch auf etwas. Die Säulen aus wandernden roten und blauen Wörtern in Saal hunderteins, die Sie vom Atrium aus sehen, sind ein Werk von Jenny Holzer, geschaffen für dieses Gebäude.
+
+Nicht alle waren überzeugt. In Sydney Pollacks Film über Gehry argumentierte der Kritiker Hal Foster, das Gebäude stelle die Kunst in den Schatten, der es dienen soll. Gehry, so Foster, habe seinen Auftraggebern etwas gegeben: „einen erhabenen Raum, der den Betrachter überwältigt“. [wry] Bleiben Sie eine Minute stehen, und entscheiden Sie, ob Sie zustimmen.
+
+Suchen Sie jetzt im Atrium die Stelle, von der aus Sie in Saal hunderteins und seine hohen Säulen aus wanderndem rotem und blauem Licht sehen: Atrium · Holzers Säulen aus Licht.

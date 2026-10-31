@@ -3,7 +3,7 @@
 @room: River walk · Maman
 @type: W
 @title: Promenade le long du fleuve — Maman
-@where: Sur la promenade le long du fleuve, près de la passerelle piétonne, à un endroit d'où l'on voit toute l'araignée géante de bronze, pattes et corps ensemble. Restez sur le chemin autour d'elle. [O14]
+@where: Sur la promenade le long du fleuve, près de la passerelle piétonne, à un endroit d'où l'on voit toute l'araignée géante de bronze, pattes et corps ensemble. Restez sur le chemin autour d'elle.
 @what: Louise Bourgeois (Paris, 1911 / New York, 2010), Maman, 1999, cast 2001, Edition 2/6 + A.P., bronze, marble and stainless steel, 927 × 891 × 1023 cm ("Almost 9 meters tall"), Guggenheim Bilbao Museoa, "Currently on view (Exterior next to the footbridge)". Conceived as the inaugural commission for Tate Modern's Turbine Hall, May 2000; another cast in Ottawa (National Gallery of Canada).
 @listen: Why the most frightening creature on the river walk is a love letter to a mother, and why the museum reads her as protector and predator at once.
 @brief: A guide standing near the spider with the listener, warm and close, letting Bourgeois speak for herself, with a darker turn in the middle.

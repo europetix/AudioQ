@@ -3,7 +3,7 @@
 @room: Gallery 104 · the far end
 @type: W
 @title: Salle 104 — Tore et sphère
-@where: Dans la salle 104, près des deux dernières pièces de la séquence, dont les cartels indiquent « Between the Torus and the Sphere » et « Blind Spot Reversed ». Placez-vous là où vous voyez aussi toute la galerie. [O6, ALT-S]
+@where: Dans la salle 104, près des deux dernières pièces de la séquence, dont les cartels indiquent « Between the Torus and the Sphere » et « Blind Spot Reversed ». Placez-vous là où vous voyez aussi toute la galerie.
 @what: Richard Serra (San Francisco 1938 – Long Island 2024), Between the Torus and the Sphere, 2003–05, and Blind Spot Reversed, 2003–05, weathering steel, part of The Matter of Time, 1994–2005, eight sculptures, Guggenheim Bilbao Museoa.
 @listen: The two pieces Serra cut from rings and spheres, the shipyard boy who became the sculptor, and the whole gallery in one look.
 @brief: A guide at the end of a long walk, curious about the geometry, warm about the man, then stepping back to take in the room.
