@@ -3,8 +3,8 @@
 @room: Plaza Mayor · on the steps, the whole square in view
 @type: W
 @title: Plaza Mayor — A square from Riaza
-@where: On the steps across the Plaza Mayor, the big square with the arcaded town hall (house 21) on one side and the bandstand at the opposite corner; sit or stand where the whole square is in view. [O15, ALT-X]
-@what: The Plaza Mayor: laid out like the square of Riaza (Segovia), with its changes of level (ACE19, ARQ20); fronts from many towns. On the Plaza Castellana side the town halls of Graus, La Fresneda (Teruel), Sangüesa (Navarre) and Sigüenza (ARQ20; BDB 25–28 PIN+COL, not spoken); on the opposite side, seven models including Riaza's La Casona (most likely house 14, PIN+COL [O15], not spoken); Alquézar (Huesca); Santillana del Mar's Casa de Águila and Casa Barreda (BDB, PIN+COL). Town hall, house 21, modelled on Valderrobres (DOC). About 2,000 m²; concert capacity 5,200 (SQUARE); 1968: the village agreed to hold a yearly festival (BANUS).
+@where: On the steps across the Plaza Mayor, the big square with the arcaded town hall (house 21) on one side and the bandstand at the opposite corner; sit or stand where the whole square is in view.
+@what: The Plaza Mayor: laid out like the square of Riaza (Segovia), with its changes of level (ACE19, ARQ20); fronts from many towns. On the Plaza Castellana side the town halls of Graus, La Fresneda (Teruel), Sangüesa (Navarre) and Sigüenza (ARQ20; BDB 25–28 PIN+COL, not spoken); on the opposite side, seven models including Riaza's La Casona (most likely house 14, PIN+COL, not spoken); Alquézar (Huesca); Santillana del Mar's Casa de Águila and Casa Barreda (BDB, PIN+COL). Town hall, house 21, modelled on Valderrobres (DOC). About 2,000 m²; concert capacity 5,200 (SQUARE); 1968: the village agreed to hold a yearly festival (BANUS).
 @listen: Reventós's delighted note on a house in Riaza, what the square really took from Riaza, and the towns whose fronts surround you.
 @brief: A guide settling the listener on the steps of the big square, amused by the note, then pointing round the square with real pleasure.
 @pace: medium

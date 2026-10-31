@@ -1,0 +1,30 @@
+@id: 008 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: The brick tower
+@room: Plaza Aragonesa · the whole tower in view
+@type: W
+@title: Plaza Aragonesa — La torre que preferían
+@where: En la Plaza Aragonesa, al final de la Calle Príncipe de Viana, donde se vea entera la torre de ladrillo; se alza entre la Plaza Aragonesa y la Plaza del Carmen, al extremo de la iglesia (57–59 en el plano). A la Plaza de la Iglesia se llega a lo largo de la fachada de la iglesia; el Museo Fran Daurel es el bloque gris del plano detrás de la iglesia.
+@what: The Poble's tower (DOC, PLAN drawing), modelled on the Mudéjar bell tower of Nuestra Señora de la Asunción, Utebo (Zaragoza), completed 1544 by Alonso de Leznes; the Poble's version slightly reduced, cast in whole plaster moulds; the church: Carmelite church of Alcañiz façade + Utebo tower + Torralba de Ribota façade (preliminary design Baroque: Amorebieta + Caldes de Montbui). DATED: FIESTA, 10 min, "inside the iconic Utebo Tower" (page mod. 3 Mar 2026).
+@listen: Why the travellers came to prefer their own tower to the real one, how one trip to Aragon changed the church, and why the tower is a cast.
+@brief: A friend looking up at the tower with the listener; wry at the hook, curious at the turn, delighted at the cast.
+@pace: medium
+@energy: 3→4→3
+@sources: POST25 https://upcommons.upc.edu/bitstreams/a65af596-4fe6-4b4f-94dd-8406ce2b35d7/download (SEC-acad, re-read 31 Oct 2026: note dated "¿?/10/1928", "(RE) Post-41": "Fem el viatge sense vela i anem molt bé. Ens agrada més el campanile de la Exp. que el de Ute- bo.", CA, presented as written on the 1928 trip when they passed Utebo again; tower "es va construir amb motlles d'escaiola sencers per a cadascuna de les quatre façanes, i es van muntar a l'obra com si es tractés d'un element prefabricat", CA) ; TMUD https://www.territoriomudejar.es/en/?p=26852 (SEC, re-read 31 Oct 2026: "completed in the year 1544"; inscription in glazed ceramic on the first frieze of the square section; "Master Alonso de Leznes"; "the bell tower of the mirrors" because of "the reflections and glints that the sun produces on the ceramics", EN) ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC via FACTS 6.20: "el campanar de l'església —d'Utebo (Aragó)—", CA) ; ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad, re-read 31 Oct 2026: p. 240 "Por contra, se sorprenderán con otras arquitecturas, especialmente las pertenecientes a Aragón: la torre de Utebo"; "en sustitución de los modelos barrocos previstos"; p. 251 Baroque fusion of Amorebieta and Caldes de Montbui; "una simbiosis entre la fachada de la iglesia de las Carmelitas de Alcañíz con la torre de Utebo" and "una fachada extraída de Torralba de Ribota"; "es una reproducción ligeramente reducida de la torre original"; "Se construyó con moldes enteros de cada una de sus paredes", ES) ; ARQ20 (SEC-acad via FACTS 6.17–6.18) ; FIESTA https://poble-espanyol.com/en/exhibition/fiesta/ (OFF-op, re-read 31 Oct 2026, mod. 2026-03-03: "Inside the iconic Utebo Tower, a unique immersive audiovisual experience awaits you."; 10 minutes)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 008 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] En un viaje de 1928, uno de ellos pasó otra vez junto a la torre real de Utebo. Escribió una nota en catalán: «Nos gusta más el campanile de la Exposición que el de Utebo». Un campanile es un campanario. Los investigadores entienden que habla de su propio diseño, el que tiene delante. [pause] Si tienen razón, los viajeros preferían su versión al original.
+
+El original es el campanario mudéjar de la iglesia de Nuestra Señora de la Asunción de Utebo, cerca de Zaragoza. Su propia inscripción, en cerámica vidriada, dice que lo terminó en 1544 el maestro de obras Alonso de Leznes. Se le conoce como la torre de los espejos, por los reflejos y destellos del sol en la cerámica que lo cubre.
+
+[curious] ¿Por qué hay aquí una torre aragonesa? Por el primer viaje. El pueblo famoso de la lista, Santillana del Mar, los decepcionó. Aragón los sorprendió, sobre todo la torre de Utebo. Así que cambiaron los modelos barrocos previstos por otros mudéjares, de ladrillo y cerámica vidriada, como esa torre.
+
+La iglesia junto a la torre cambió con ella. El primer diseño era barroco, una fusión de las iglesias de Amorebieta y Caldes de Montbui. Lo que se construyó son tres edificios aragoneses en una sola iglesia. La fachada de las Carmelitas de Alcañiz, esta torre y una fachada de Torralba de Ribota.
+
+[pause] Y la torre en sí es un vaciado. Es algo más pequeña que la real. Los constructores hicieron un molde entero de yeso para cada una de sus cuatro caras. Luego los montaron en la obra, como una pieza prefabricada.
+
+Ahora mírela. La cerámica de la torre real destella al sol. Si hace sol, espere un momento: ¿también esta atrapa la luz? Ese efecto dio su apodo al original.
+
+Fiesta, el espectáculo de diez minutos del Poble sobre las fiestas de España, está, según el Poble, dentro de la emblemática torre de Utebo.
+
+Siga a lo largo de la fachada de la iglesia hasta la Plaza de la Iglesia, la placita donde baja una amplia escalinata: Plaza de la Iglesia · Una iglesia de tres pueblos.

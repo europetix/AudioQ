@@ -1,0 +1,28 @@
+@id: 005 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Calle Caballeros
+@room: Calle Caballeros · walking up, houses 113 to 103 (heard walking)
+@type: R
+@title: Calle Caballeros — Les blasons
+@where: En montant lentement la Calle Caballeros depuis la Plaza Castellana vers le carrefour avec la Calle Príncipe de Viana, aux maisons 102 et 103, sur l'itinéraire sans marches ; le début ne demande rien de particulier à voir.
+@what: Calle Caballeros, by the Poble's own building list (BDB, all PIN+COL, numbers not spoken): Casa del Doncel (Sigüenza, Guadalajara); Casa de la Torre and Palacio de los Contreras (Ayllón, Segovia); Palacio Episcopal (El Burgo de Osma, Soria); Casa del Segle XV (Segovia); Casa de los Benavides and Casa D. Ramón de la Fuente (Toro, Zamora); Casa del Francés (Molinos de Duero, Soria); Casa Ramos (Vinuesa, Soria); the purple Jérica (Castellón) and Casa Desclergue (Montblanc, Tarragona), pins on 23/24, which sit one row back from the street frontage on the plan; the green Casa del Marqués de Santillana (Santillana del Mar, Cantabria). The Poble's casts of stones and 800,000 old tiles. DATED: craft workshops on the street.
+@listen: Whose houses line this street, what the coats of arms were for, and two ways to catch the builders' craft.
+@brief: Walking beside the listener, pointing things out; relaxed and curious, a little conspiratorial at the cast stone.
+@pace: medium
+@energy: 2→3
+@sources: GIMCANA poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-cast.pdf (OFF-op via PLAN/ROUTE §3.1: "Los escudos en las fachadas indicaban la clase social de las familias", ES) ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici + zone listings (OFF-op data via ROUTE §3.4 and PLAN House key: names, towns, provinces, zones) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: pink, purple and green houses on the street) ; ARCH https://poble-espanyol.com/en/?p=274649 (OFF-op, re-read 31 Oct 2026: "casts of real stones were used to exactly replicate the original textures and colors of each region." — "exactly" dropped; "800,000 old tiles were brought from across the country to give the buildings an authentic, lived-in look.") ; EST/CRAFTS wp-json artesa + https://poble-espanyol.com/en/?p=109977 (OFF-op via ROUTE §4.2: blacksmithing, stained glass, wooden toys at 107–114; DATED)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 005 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dans cette rue, un blason au-dessus d'une porte était plus qu'un décor. Le parcours familial le dit, en espagnol : « les blasons des façades montraient la classe sociale des familles. »
+
+D'après la liste du Poble, cette rue est surtout castillane. [pause] La Casa del Doncel de Sigüenza, des palais d'Ayllón et d'El Burgo de Osma, des maisons de Ségovie, Toro et Soria. Tout en rose sur le plan, pour le Centre.
+
+Deux surprises interrompent le rose. Juste à côté du début de la rue, une rangée en retrait, le plan montre un peu de violet, la couleur méditerranéenne. [pause] La liste du Poble place ici deux maisons méditerranéennes, de Jérica, province de Castellón, et la maison Desclergue de Montblanc, en Catalogne. Et une maison du Nord, verte sur le plan, de Cantabrie : celle du Marqués de Santillana.
+
+[conspiratorial] Regardez bien les murs en passant. Selon le Poble, les bâtisseurs ont utilisé des « moulages de vraies pierres » pour copier les textures et couleurs de chaque région. Saurez-vous reconnaître un moulage ?
+
+[pause] Puis regardez les toits. « Huit cent mille tuiles anciennes, dit le Poble, ont été apportées de tout le pays. »
+
+Vous croiserez peut-être des ateliers : forgeron, vitrail, jouets en bois. Si une porte est ouverte, jetez un œil.
+
+Continuez jusqu'où la Calle Caballeros devient la Calle Príncipe de Viana, aux maisons cent deux et cent trois, la Travesía del Maestrazgo partant à côté de la maison quarante et un. Arrêtez-vous là quelques minutes : Calle Príncipe de Viana · Les hommes qui l'ont fait.

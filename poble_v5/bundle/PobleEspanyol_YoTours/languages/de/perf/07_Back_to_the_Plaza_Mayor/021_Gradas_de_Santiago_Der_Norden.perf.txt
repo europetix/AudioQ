@@ -1,0 +1,28 @@
+@id: 021 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: Back to the Plaza Mayor
+@room: Gradas de Santiago · at the top
+@type: R
+@title: Gradas de Santiago — Der Norden
+@where: Oben an den Gradas de Santiago, der breiten Treppe, die von der Plaza de la Iglesia zur Plaza Mayor hinabführt. Stellen Sie sich zur Seite, aus dem Weg derer, die die Treppe benutzen. Nicht stufenlos: Der stufenlose Weg zur Plaza Mayor führt zurück über die Plaza Aragonesa, die Calle Príncipe de Viana hinunter zur Kreuzung bei 102/103 und über die Calle Alcalde de Móstoles auf den Platz.
+@what: The Gradas de Santiago (the EN plan's "Santiago Stands"; no documented model) and the green houses round them. Towns from the official list (BDB; numbers PIN+COL, not spoken): Cambados and the Pazo de Fefiñáns (Pontevedra), Betanzos (A Coruña), Villanueva de Lourenzá (Lugo), Cangas de Onís (Asturias), Arcos de la Lonja (Sos del Rey Católico, Zaragoza), Maluenda (Zaragoza); Caldas de Reyes (Pontevedra) on the list but unplaceable (PIN). No Galician model is documented by the historians (F6.51).
+@listen: The least documented corner of the village, said plainly: what the steps are called, which northern towns the Poble's list names, and what nobody has yet matched.
+@brief: An honest guide owning up to a gap, curious and a little rueful, then warm.
+@pace: medium
+@energy: 2→3
+@sources: GIMCANA https://poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-ang.pdf (OFF-op via PLAN/ROUTE §0: stop 7 "Gradas de Santiago – Camino de Santiago") ; FILM https://www.bcncatfilmcommission.com/en/node/5141 (SEC via PLAN: "the bleachers of Santiago") ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici (OFF-op data via ROUTE §3.4: the Galician, Asturian and Aragonese records and pins; Caldas de Reyes shares Graus's pin; zone Nord covers Aragon, Navarre, the Basque Country, Cantabria, Asturias and Galicia) ; ACE19 (SEC-acad via FACTS 2.5: the first trip, September–October 1927, crossed Galicia, Asturias and Cantabria; F6.51: no Galician models named) ; TO20 https://www.timeout.es/barcelona/es/noticias/un-centenar-de-fotos-historicas-muestran-la-creacion-del-poble-espanyol-111020 (SEC via FACTS 2.23: Folguera's photograph of San Miguel de Lillo, Oviedo) ; PLAN Feb 2026 (OFF-op: "Santiago Stands", the green houses 30–37 and 55, Rincón del Triste, the accessible route)
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 021 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Das ist die am schlechtesten dokumentierte Ecke des Dorfes, und das sagen wir lieber, als etwas zu erfinden.
+
+Das Poble nennt diese Stufen Gradas de Santiago, die Santiago-Stufen, und sein Familienrundgang verbindet sie mit dem Camino de Santiago, dem Pilgerweg. Das Filmbüro der Stadt nennt sie „die Tribünen von Santiago“. [pause] Was ihr Vorbild war, falls es eines gab, sagt keine Quelle, die wir fanden.
+
+Rund um diese Stufen nennt die Liste des Poble Häuser aus Galicien, darunter aus Cambados und Betanzos. Aus Asturien Cangas de Onís. Und aus Aragonien Bögen aus Sos del Rey Católico.
+
+[pause] Jetzt der ehrliche Teil. Die Historiker, die die Hefte der Schöpfer fanden, nennen keine galicischen Vorbilder. Wir kennen diese Orte aus der Liste des Poble, aber nicht, welche Fassade welche ist.
+
+Die Reise führte aber durch diese Gegend. Im September 1927 durchquerte die erste Reise Galicien, Asturien und Kantabrien. [pause] Erhalten ist etwa Francesc Folgueras Foto der vorromanischen Kirche San Miguel de Lillo bei Oviedo.
+
+[warmly] Wenn Sie den offiziellen Plan haben, schauen Sie auf die Häuser oben an diesen Stufen: Sie sind grün, die Planfarbe für den Norden. Und der Norden des Plans ist großzügig. Er umfasst auch Aragonien und Navarra.
+
+Gehen Sie die Gradas de Santiago hinunter. Unten liegt neben Ihnen die Ecke, die der Plan Rincón del Triste nennt. Gehen Sie weiter auf die Plaza Mayor und suchen Sie auf ihren Stufen eine Stelle mit Blick über den ganzen Platz und das Rathaus mit seinen Arkaden: Plaza Mayor · Ein Platz aus Riaza.

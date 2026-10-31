@@ -3,7 +3,7 @@
 @room: Plaza Castellana · facing the gate's two towers
 @type: W
 @title: Plaza Castellana — The towers of Ávila
-@where: In Plaza Castellana, facing the inner side of the Ávila gate: two round towers with battlements, joined by a walkway; stand back far enough to see both towers and the walkway, clear of people coming in. [O1, O2]
+@where: In Plaza Castellana, facing the inner side of the Ávila gate: two round towers with battlements, joined by a walkway; stand back far enough to see both towers and the walkway, clear of people coming in.
 @what: The gate, modelled on the Puerta de San Vicente in the medieval walls of Ávila (DOC, PLAN drawing); 1928 archive caption; the 1929 opening by Alfonso XIII and Victoria Eugenia. Around the square, by the Poble's own list: Casa del Sol, Cáceres = house 3 (DOC, EST); Golfines de Abajo, Carvajal, Mayoralgo, Hernando de Ovando (Cáceres), Almaraz (Plasencia), Palacio del Obispo (Miajadas) (PIN+COL, numbers not spoken).
 @listen: Who posed in front of these towers in 1929, which gate in Ávila they represent, why you have to come in through them, and the Extremadura palaces round the square.
 @brief: Standing with the listener in front of the gate; curious and lively at the hook, attentive at the look, lightly amused at the 1992 correction.

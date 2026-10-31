@@ -1,0 +1,32 @@
+@id: 006 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Calle Caballeros
+@room: Junction of Calle Caballeros and Calle Príncipe de Viana · houses 102/103
+@type: W
+@title: Calle Príncipe de Viana — Les hommes qui l'ont fait
+@where: Là où la Calle Caballeros devient la Calle Príncipe de Viana, près des maisons 102 et 103, avec la Travesía del Maestrazgo qui part à côté de la maison 41 (repère d'itinéraire accessible sur le plan) ; mettez-vous sur le côté quelques minutes. Aucune position précise.
+@what: The four makers: Miquel Utrillo (1862–1934), Xavier Nogués (1873–1941), Francesc Folguera (1891–1960), Ramon Reventós (1892–1976); Iberiona (early 1920s), halted by Primo de Rivera's coup of 1923, re-presented in 1926; Maricel (Sitges); Maurice Utrillo's surname; the Teatre Grec; the leftover plot; Mirador, 5 Dec 1929; Arquitectura, 1961. Puig i Cadafalch drew the Exhibition's general plan, not the village.
+@listen: Who really made the Poble Espanyol, why even their contemporaries argued about it, and what each of the four brought.
+@brief: A friend on a pause between climbs, telling the cast of characters; warm, amused at the gossip, plain at the correction.
+@pace: medium
+@energy: 3→4→3
+@sources: SIRES https://upcommons.upc.edu/bitstreams/5cbfba16-9d23-492d-b994-fe43b8c850b0/download (SEC-acad, re-read 31 Oct 2026: p. 13 n. 7, Soldevila in D'Ací i d'Allà via Bengoechea 2004: "Tant complicat com esbrinar els orígens de la Gran Guerra és d´escatir a qui pertany la glòria", CA; many claimed the idea; p. 14 Iberiona "avantprojecte documentat l´any 1923", presented to the mayor) ; HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op, re-read 31 Oct 2026: "Miquel Utrillo, engineer, painter and project leader,") ; ENC-UTR https://www.enciclopedia.cat/gran-enciclopedia-catalana/miquel-utrillo-i-morlius (SEC via FACTS 1.16–1.17: engineer, then artistic promoter and painter; Maricel for Charles Deering; gave his name to Suzanne Valadon's son) ; ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad, re-read 31 Oct 2026: p. 235 n. 5 "la última de las obras adjudicadas para la exposición", "un solar residual"; p. 236 Reventós "lo que realmente cambió con nuestra intervención fue que las ideas vagas sobre el trazado de las calles se volvieran concretas", ES; FACTS 1.5 coup and 1926) ; ARQ61 https://www.coam.org/media/Default%20Files/fundacion/biblioteca/revista-arquitectura-100/1959-1973/docs/revista-articulos/revista-arquitectura-1961-n35-pag15-23.pdf (SEC primary press, re-read 31 Oct 2026: "una especie de primer 'Pueblo Español', construido con elementos bastante auténticos"; Reventós "es un inagotable archivo de la historia y las vicisitudes del 'Pueblo'", ES) ; MNAC-NOG https://www.museunacional.cat/en/node/146161 (SEC: Nogués painter) ; ENC-FOLG https://www.enciclopedia.cat/EC-GEC-0027326 (SEC, re-read by the fact audit: "Es feu càrrec de la urbanització de s'Agaró el 1935", took charge of planning S'Agaró) ; BNF https://catalogue.bnf.fr/ark:/12148/cb12784941b (SEC: Reventós 1892–1976) ; GREC https://www.barcelona.cat/en/what-to-do-in-bcn/parks-and-gardens/jardins-del-teatre-grec-99329085040 (OFF via FACTS 1.22: "designed by the architect Ramon Reventós", former quarry) ; MIR29 https://ddd.uab.cat/pub/mirador/mirador_a1929m12n45.pdf (SEC primary press, re-read 31 Oct 2026: "Ara resulta que l'autor del Poble Espanyol fou, també, si no el primer, un dels primers excavadors de Montjuïc.", CA) ; COAC https://www.arquitecturacatalana.cat/ca/obres/poble-espanyol (SEC via FACTS 1.15: Puig's general plan)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 006 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] L'auteur de l'idée n'a jamais vraiment fait l'unanimité. L'écrivain Carles Soldevila plaisantait, en catalan, que trouver à qui revenait la gloire était « aussi compliqué que de découvrir les origines de la Grande Guerre ».
+
+L'histoire du Poble nomme quatre hommes. Miquel Utrillo, « ingénieur, peintre et chef de projet ». Au début des années 1920, il proposait déjà au maire une Espagne en un seul lieu, baptisée Iberiona. [pause] L'Exposition a calé après le coup d'État du général Primo de Rivera, en 1923. Utrillo a ensuite ressorti son idée.
+
+Il avait un précédent, à Maricel, à Sitges, pour l'Américain Charles Deering. Une revue d'architecture de 1961 qualifiait Maricel, en espagnol, de « sorte de premier Village espagnol, construit avec des éléments assez authentiques ». [pause] Utrillo a aussi donné son nom au fils de son amie parisienne Suzanne Valadon, le peintre Maurice Utrillo.
+
+Xavier Nogués était le peintre et dessinateur. Puis deux jeunes architectes. Francesc Folguera, futur responsable du plan de la station de S'Agaró. Et Ramon Reventós, auteur aussi du Teatre Grec de Montjuïc, dans une ancienne carrière. [pause] Reventós se souvenait, en espagnol, que « ce qui a vraiment changé avec notre participation, c'est que les idées vagues sur le tracé des rues sont devenues concrètes. » Regardez la rue qui s'éloigne en courbe devant vous. Ce tracé est le leur.
+
+Dernier projet attribué de l'Exposition, le village a reçu un terrain délaissé.
+
+[wry] En décembre 1929, une chronique mondaine du magazine catalan Mirador s'en prenait à Utrillo. « Il s'avère maintenant, commençait-elle, que l'auteur du Poble Espanyol a aussi été, sinon le premier, l'un des premiers excavateurs de Montjuïc. »
+
+Reventós a survécu aux autres. La revue de 1961 l'appelait « une archive inépuisable de l'histoire et des vicissitudes » du village.
+
+On lit parfois que l'idée venait de Josep Puig i Cadafalch. Il a dessiné le plan d'ensemble de l'Exposition. Le village est l'œuvre de ces quatre-là.
+
+Montez la Calle Príncipe de Viana, la rue en courbe qui grimpe vers la tour de brique d'Aragon. Lancez l'arrêt suivant en marchant, et regardez les maisons des deux côtés : Calle Príncipe de Viana · La Navarre et les collines basques.

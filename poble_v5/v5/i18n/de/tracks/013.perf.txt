@@ -3,7 +3,7 @@
 @room: Carrer Mercaders · house 81
 @type: R
 @title: Carrer Mercaders — Das Haus des Glasbläsers
-@where: In der Carrer Mercaders, der Straße der Rupit-Fassaden, die von Haus 83 zur Plaça de la Font hinaufführt, vor Haus 81, wo vielleicht ein Glasofen in Betrieb ist. Halten Sie die Tür frei. [O7, O2]
+@where: In der Carrer Mercaders, der Straße der Rupit-Fassaden, die von Haus 83 zur Plaça de la Font hinaufführt, vor Haus 81, wo vielleicht ein Glasofen in Betrieb ist. Halten Sie die Tür frei.
 @what: House 81, the composite Rupit house (Banús: elements of several Rupit houses, among them Can Rovira and Can Sallent, and the doorway of Ca l'Estragués; DOC); the glassblower, "House 81" (operator; DATED, mod. 18 Mar 2026; no brand). The crafts (CRAFTS mod. 4 Sep 2026; DATED). Built 1928–29.
 @listen: A glass furnace inside a house blended from several in Rupit, and why living crafts were part of the village's idea.
 @brief: A friend at an open workshop door, lively and a little hushed so as not to disturb the work.

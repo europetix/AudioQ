@@ -1,0 +1,30 @@
+@id: 010 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: The brick tower
+@room: The FIESTA door, by the tower (play before going in)
+@type: X
+@title: Tour d'Utebo · Extra · FIESTA
+@where: À la porte de FIESTA, près de la tour de brique, avant d'entrer ; écoutez-le dehors, il n'y a rien à entendre pendant le spectacle.
+@what: FIESTA, a ten-minute show of light and sound on Spain's festivals (the Castellers, La Patum, the Sanfermines, Andalusian Holy Week), "inside the iconic Utebo Tower" (operator), in a room of about 150 m² and 7 m high; made in 2018 by Mediapro Exhibitions. DATED (FIESTA page mod. 3 Mar 2026).
+@listen: The 1929 village as a permanent fiesta, and the ten-minute show that carries that idea today.
+@brief: A friend at the door of a show, lively and brief, setting it up and then letting you go in.
+@pace: medium
+@energy: 3→4
+@sources: HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op via FACTS 3.19: "folk festivals with dances, regional dances, open-air dances, pageants and even horse-riding competitions") ; FIESTA https://poble-espanyol.com/en/exhibition/fiesta/ (OFF-op, re-read 31 Oct 2026, mod. 2026-03-03: "For 10 minutes"; "Inside the iconic Utebo Tower"; the Castellers, La Patum, the Sanfermines, Andalusian Holy Week) ; VISIT /en/the-visit/ + /ca/la-visita/ (OFF-op via ROUTE §1.3: 150 m², 7 m high) ; HOST18 https://www.hosteltur.com/127154_pueblo-espanol-barcelona-se-moderniza-inversion-103-m.html (SEC, re-read 31 Oct 2026, 19 Mar 2018: "desarrollados por Mediapro Exhibitions, del grupo audiovisual Mediapro"; "en un espacio 150 metros cuadrados"; "la Patum de Berga"; "los Sanfermines de Pamplona") ; DAV18 digitalavmagazine.com 16 Mar 2018 (SEC via ROUTE §1.3: projection on two walls of 8 x 7 m; not re-read)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 010 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1929, ce village devait être une longue fête.
+
+L'histoire du Poble énumère ce qui s'y passait pendant l'Exposition : « des fêtes folkloriques avec danses, danses régionales, bals en plein air, défilés et même concours d'équitation. » [pause] Toutes les fêtes d'un pays, mises en scène dans un village qui était lui-même une sorte de décor.
+
+Aujourd'hui, la fête tient en dix minutes. Le Poble place son spectacle, Fiesta, « à l'intérieur de l'emblématique tour d'Utebo », avec une promesse simple : « Pendant dix minutes, laissez-vous emporter par un voyage de lumière et de son. »
+
+[lightly] Parmi les fêtes évoquées, les tours humaines des Castellers, la Patum de Berga, les Sanfermines de Pampelune et la Semaine sainte andalouse.
+
+Le spectacle a été créé en 2018 par Mediapro, le groupe audiovisuel. [pause] La salle fait sept mètres de haut, et les images couvrent deux grands murs, d'environ huit mètres sur sept chacun.
+
+Avant d'entrer, levez encore les yeux vers la tour qui abrite le spectacle. C'est le moulage en plâtre, celui qu'ils disaient préférer à l'original.
+
+[pause] Une fois les lumières éteintes, ce guide n'a rien à ajouter.
+
+En sortant, le prochain arrêt principal est la porte du musée Fran Daurel, sur la Plaza de la Iglesia : Plaza de la Iglesia · La collection d'un embouteilleur.

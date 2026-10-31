@@ -3,7 +3,7 @@
 @room: The FIESTA door, by the tower (play before going in)
 @type: X
 @title: Utebo tower · Extra · FIESTA
-@where: At the door of FIESTA by the brick tower, before you go in; play it outside, as there is nothing to hear during the show. [O5, ALT-F]
+@where: At the door of FIESTA by the brick tower, before you go in; play it outside, as there is nothing to hear during the show.
 @what: FIESTA, a ten-minute show of light and sound on Spain's festivals (the Castellers, La Patum, the Sanfermines, Andalusian Holy Week), "inside the iconic Utebo Tower" (operator), in a room of about 150 m² and 7 m high; made in 2018 by Mediapro Exhibitions. DATED (FIESTA page mod. 3 Mar 2026).
 @listen: The 1929 village as a permanent fiesta, and the ten-minute show that carries that idea today.
 @brief: A friend at the door of a show, lively and brief, setting it up and then letting you go in.

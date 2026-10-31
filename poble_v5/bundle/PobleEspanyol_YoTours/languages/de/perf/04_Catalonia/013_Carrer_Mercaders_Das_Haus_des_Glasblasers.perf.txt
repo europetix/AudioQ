@@ -1,0 +1,28 @@
+@id: 013 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: Catalonia
+@room: Carrer Mercaders · house 81
+@type: R
+@title: Carrer Mercaders — Das Haus des Glasbläsers
+@where: In der Carrer Mercaders, der Straße der Rupit-Fassaden, die von Haus 83 zur Plaça de la Font hinaufführt, vor Haus 81, wo vielleicht ein Glasofen in Betrieb ist. Halten Sie die Tür frei.
+@what: House 81, the composite Rupit house (Banús: elements of several Rupit houses, among them Can Rovira and Can Sallent, and the doorway of Ca l'Estragués; DOC); the glassblower, "House 81" (operator; DATED, mod. 18 Mar 2026; no brand). The crafts (CRAFTS mod. 4 Sep 2026; DATED). Built 1928–29.
+@listen: A glass furnace inside a house blended from several in Rupit, and why living crafts were part of the village's idea.
+@brief: A friend at an open workshop door, lively and a little hushed so as not to disturb the work.
+@pace: medium
+@energy: 3→4→3
+@sources: BANUS https://raco.cat/index.php/CinglesCollsacabra/article/download/255525/342454/344557 (SEC, re-read 31 Oct 2026 via WebFetch: 79–82 on Carrer Mercaders; house 81 "ha agafat elements arquitectònics de diferents cases de Rupit", from Can Rovira and Can Sallent plus the doorway of ca l'Estragués, as relayed) ; VITRO https://poble-espanyol.com/en/artisan/vitromarce/ (OFF-op, re-read 31 Oct 2026, mod. 2026-03-18: "a professional with over 45 years of experience in the craft"; "Location: House 81"; glassblowing workshop, working live) ; CRAFTS https://poble-espanyol.com/en/?p=109977 (OFF-op, re-read 31 Oct 2026, mod. 2026-09-04: "Every day, more than 15 artisans hone their craft in the enclosure's workshops"; crafts listed) ; FACTS 7.4 (OFF-op: pottery on the wheel, leaded stained glass, glass painting, engraving and printmaking, classical guitars, blacksmithing with Japanese techniques, hand embroidery, wooden toys) ; GIMCANA wp-content/uploads/2025/07/PDF-respostes-cast.pdf (OFF-op via PLAN: "En la zona de Cataluña hay gran concentración de artesanos") ; RAH11 https://core.ac.uk/download/41807295.pdf (SEC-acad via FACTS 1.11, 7.9: "como en una sórdida exposición arqueológica", p. 7; a modest living village with crafts)
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 013 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] In einem Haus aus Rupit steht ein Glasofen. Und das Haus selbst ist eine Mischung.
+
+Die Lokalzeitschrift von Rupit verortet hier, unter der Nummer einundachtzig in der Carrer Mercaders, ein zusammengesetztes Rupit-Haus. Es besteht aus Teilen mehrerer Rupit-Häuser: Can Rovira und Can Sallent, und dem Eingang eines dritten, Ca l'Estragués. Selbst hier, in einem Dorf der Versionen, ist das eine Version aus mehreren.
+
+[pause] Heute ist es das Haus des Glasbläsers. Die Seite des Poble beschreibt den Glasbläser als „einen Profi mit über fünfundvierzig Jahren Erfahrung im Handwerk“. Wenn die Tür offen ist, schauen Sie hinein. [pause] Achten Sie auf das Glühen des Ofens und die lange Glasmacherpfeife, und hören Sie der Arbeit zu.
+
+In diesem Viertel arbeitet das Dorf. „Jeden Tag“, sagt das Poble, „verfeinern mehr als fünfzehn Kunsthandwerker ihr Können in den Werkstätten der Anlage.“ Sein Familienrundgang sagt es auch, auf Spanisch: „Im Bereich Katalonien gibt es eine große Konzentration von Kunsthandwerkern.“ [pause] Die aktuelle Liste des Poble nennt Töpfern an der Scheibe, Glasmalerei, Gitarrenbau, Schmiedekunst, Stickerei und Holzspielzeug.
+
+[warmly] Das Handwerk gehörte von Anfang an zur Idee. Laut einer Architekturstudie von 2011 drohte die erste Idee auszusehen, so ihr spanischer Ausdruck, „wie eine schäbige archäologische Ausstellung“. Die Schöpfer steuerten auf etwas anderes zu: ein bescheidenes, lebendiges Dorf, das Handwerk aufnehmen konnte.
+
+Der Ofen ist also keine Dekoration. Er ist das lebendige Dorf, das sie sich erhofften.
+
+Gehen Sie weiter die Carrer Mercaders hinauf zum Platz ganz oben, der Plaça de la Font mit ihrem Brunnen: Plaça de la Font · Das Mittelmeer.

@@ -3,7 +3,7 @@
 @room: Town hall (21) · under the arcade, by the exhibition door
 @type: W
 @title: Rathaus — Valderrobres und eine Baustelle
-@where: Unter den Arkaden an der Front des Rathauses, Haus 21, dem großen Gebäude mit Arkaden an der Plaza Mayor, neben der Tür der Fotoausstellung. [O15, ALT-X]
+@where: Unter den Arkaden an der Front des Rathauses, Haus 21, dem großen Gebäude mit Arkaden an der Plaza Mayor, neben der Tür der Fotoausstellung.
 @what: House 21 (DOC): the town hall, modelled on the Ayuntamiento of Valderrobres / Vall-de-roures (Matarranya, Teruel, Aragon), Mannerist, finished 1599 (date on the coat of arms), by Antonio de Champanyach (LPMB; not spoken). The Poble's version is clearly larger and freestanding, with a staircase from the monastery of Orihuela and a ceiling pattern from the Audiencia of Valencia (ACE19, ARQ20). Inside: "A photographic journey. The construction of Poble Espanyol" (PHOTO; open status O15). Building site: contract to Material y Obras (Jan 1928), about 2.5 million pesetas (not spoken), work from 19 Jan 1928, over 1,000 workers, opened 20 May 1929.
 @listen: The last stage of the first trip, how the Poble's town hall differs from Valderrobres, and how the village was built in little more than a year.
 @brief: A guide at a doorway, brisk and enjoying the facts of a building job, warm at the callback.

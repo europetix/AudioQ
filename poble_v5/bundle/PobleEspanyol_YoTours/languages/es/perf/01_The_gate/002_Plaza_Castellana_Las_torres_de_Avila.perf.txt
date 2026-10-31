@@ -1,0 +1,30 @@
+@id: 002 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: The gate
+@room: Plaza Castellana · facing the gate's two towers
+@type: W
+@title: Plaza Castellana — Las torres de Ávila
+@where: En la Plaza Castellana, frente a la cara interior de la puerta de Ávila: dos torres redondas almenadas, unidas por una pasarela. Aléjese lo bastante para ver las dos torres y la pasarela, sin estorbar a la gente que entra.
+@what: The gate, modelled on the Puerta de San Vicente in the medieval walls of Ávila (DOC, PLAN drawing); 1928 archive caption; the 1929 opening by Alfonso XIII and Victoria Eugenia. Around the square, by the Poble's own list: Casa del Sol, Cáceres = house 3 (DOC, EST); Golfines de Abajo, Carvajal, Mayoralgo, Hernando de Ovando (Cáceres), Almaraz (Plasencia), Palacio del Obispo (Miajadas) (PIN+COL, numbers not spoken).
+@listen: Who posed in front of these towers in 1929, which gate in Ávila they represent, why you have to come in through them, and the Extremadura palaces round the square.
+@brief: Standing with the listener in front of the gate; curious and lively at the hook, attentive at the look, lightly amused at the 1992 correction.
+@pace: medium
+@energy: 3→4→3
+@sources: HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op, re-read 31 Oct 2026: "Several official photos were taken in front of the Torres de Ávila."; its caption naming "Streseman, the German Chancellor" deliberately not used) ; TO20 https://www.timeout.es/barcelona/es/noticias/un-centenar-de-fotos-historicas-muestran-la-creacion-del-poble-espanyol-111020 (SEC, re-read 31 Oct 2026: inauguration "con la visita del rey Alfonso XIII y la reina Victoria Eugenia") ; AVILA https://poble-espanyol.com/en/?p=113289 (OFF-op via FACTS 6.1: "Poble Espanyol's main entrance is a representation of this monument.") ; AFB https://www.barcelona.cat/barcelonacultura/en/recomanem/viatge-fotografic-construccio-poble-espanyol-exhibition-arxiu-barcelona-2020-2021 (OFF, re-read 31 Oct 2026: caption "Main entrance to the Poble Espanyol site. Gate of San Vicente of the wall of Avila. 1928.") ; PCAT https://www.poblesdecatalunya.cat/element.php?e=10182 (SEC, re-read 31 Oct 2026: "La porta està flanquejada per dues grans torres cilíndriques coronades amb merlets i unides entre elles per un pont.", CA; its "finals del segle XII" for the original not used, F6.3) ; RAH11 https://core.ac.uk/download/41807295.pdf (SEC-acad via ROUTE §1.1: "Nuestra visita obliga a que entremos por la puerta de San Vicente, hecho que la dota de entrada principal", ES; gate at the lowest point) ; EST/BDB poble-espanyol.com wp-json establiment + edifici (OFF-op data via ROUTE §3.3–3.4: Casa del Sol = Casa 3; the Cáceres, Plasencia and Miajadas houses in the Plaza Castellana area) ; F9.1 (1992 error)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 002 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1929, los visitantes oficiales de la Exposición se fotografiaron justo aquí. Lo cuenta la historia del Poble: delante de las Torres de Ávila se hicieron varias fotos oficiales. Los reyes, Alfonso Trece y Victoria Eugenia, vinieron a la inauguración del pueblo.
+
+¿Delante de qué posaban? El Poble llama a esta puerta una representación de la Puerta de San Vicente, en las murallas medievales de Ávila, en Castilla. [pause] El archivo fotográfico de la ciudad guarda una imagen de 1928. Su pie la identifica como la entrada principal del recinto, la puerta de San Vicente de la muralla de Ávila.
+
+Ahora mírela. Un catálogo catalán de patrimonio la describe, en catalán, como «flanqueada por dos grandes torres cilíndricas coronadas de merlones y unidas entre sí por un puente». Busque los merlones, los dientes cuadrados de lo alto. [pause] Luego busque la pasarela que une las dos torres.
+
+Aquí empieza también la cuesta. Al pueblo se entra por su punto más bajo, y desde aquí sube. Según un estudio de arquitectura sobre el pueblo, la visita obliga a entrar por la puerta de San Vicente. Eso la convierte en la entrada principal.
+
+A su alrededor está la Plaza Castellana, con palacios de Extremadura. La lista del Poble sitúa la Casa del Sol, de Cáceres, en la casa tres. Alrededor de esta plaza sitúa además otras casas nobles de Cáceres, una de Plasencia y un palacio episcopal de Miajadas. [pause] En el plano son rosas, el color del Centro.
+
+[lightly] Hay quien cree que el pueblo se construyó para los Juegos Olímpicos de 1992. Es sesenta y tres años más antiguo.
+
+Esta puerta fue una entrada escenográfica para la Exposición. Sigue siendo la entrada. Al final del paseo, será su salida.
+
+Si hace el recorrido completo, aquí hay un breve Extra sobre lo que estas torres pasaron a ser en 1990. La siguiente parada principal es el comienzo de la Calle Caballeros, que sube desde la Plaza Castellana entre las casas ciento quince y dos. Deténgase donde empieza: Calle Caballeros · Cuatro hombres y un Hispano-Suiza.

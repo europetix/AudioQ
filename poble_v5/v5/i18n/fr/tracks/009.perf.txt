@@ -4,7 +4,7 @@
 @type: R
 @title: Plaza de la Iglesia — Une église de trois villes
 @where: Sur la Plaza de la Iglesia, atteinte depuis la Plaza Aragonesa en longeant la façade de l'église (57 à 59 sur le plan), la petite place d'où descendent les larges marches des Gradas de Santiago ; face à la façade de l'église, avec la tour de brique à son autre bout.
-@what: The Poble's church, a composite of three Aragonese models: the façade of the Carmelite church of Alcañiz (Teruel; BDB pin by 57/58, PIN+COL, number not spoken), the Mudéjar bell tower of Nuestra Señora de la Asunción at Utebo (Zaragoza; DOC, plan drawing) and a façade from Torralba de Ribota (near Calatayud, Zaragoza; position not known, [O5]). The preliminary design was a Baroque church fusing Amorebieta and Caldes de Montbui. Built 1928–29.
+@what: The Poble's church, a composite of three Aragonese models: the façade of the Carmelite church of Alcañiz (Teruel; BDB pin by 57/58, PIN+COL, number not spoken), the Mudéjar bell tower of Nuestra Señora de la Asunción at Utebo (Zaragoza; DOC, plan drawing) and a façade from Torralba de Ribota (near Calatayud, Zaragoza; position not known,). The preliminary design was a Baroque church fusing Amorebieta and Caldes de Montbui. Built 1928–29.
 @listen: How one trip to Aragon turned a planned Baroque church into a "symbiosis" of three Aragonese buildings, and the three small squares round it.
 @brief: A friend pointing at a building and letting you in on how it was put together; curious, unhurried, a small warm payoff.
 @pace: medium

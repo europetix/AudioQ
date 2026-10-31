@@ -1,0 +1,28 @@
+@id: 007 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: Calle Caballeros
+@room: Calle Príncipe de Viana · walking up to Plaza Aragonesa (heard walking)
+@type: R
+@title: Calle Príncipe de Viana — Navarra y los montes vascos
+@where: Mientras sube por la curva de la Calle Príncipe de Viana desde el cruce de las casas 102/103 hacia la Plaza Aragonesa y la torre de ladrillo, por el recorrido sin escalones; para la primera parte no hace falta mirar nada. Se menciona la Bajada de Cervantes, una calle lateral de escalones, que no forma parte del recorrido.
+@what: Calle Príncipe de Viana, by the Poble's own building list (BDB, all PIN+COL, numbers not spoken; green on the plan): Palacio de San Cristóbal (Estella), Casa de las Cadenas (Corella), pre-Romanesque reliefs (Villatuerta), the López de Goicoechea coat of arms (Olazagutía), Valle del Roncal (Navarre); Caserío Casa Arteche (Erandio, Bizkaia), Vergara (Gipuzkoa); Palacio de los Álava-Esquivel. The Arco de Maia from Amaiur (Baztán, Navarre), recorded on this street by RAH11/RAH-E, exact place. The eleven small sculptures on the Bajada de Cervantes (school guide, May 2026).
+@listen: How the village turns from Castile to Navarre and the Basque Country, with a callback to the burnt clutch, and an arch that belongs to Navarre.
+@brief: Walking uphill with the listener; easy and curious, playing the family game, precise on the arch.
+@pace: medium
+@energy: 2→3
+@sources: GIMCANA poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-cast.pdf (OFF-op via PLAN/ROUTE §3.1: "Castilla, Navarra y País Vasco", ES) ; POST25 https://upcommons.upc.edu/bitstreams/a65af596-4fe6-4b4f-94dd-8406ce2b35d7/download (SEC-acad, re-read 31 Oct 2026 and by the fact audit: the car repaired in Tudela, letter dated 15/11/27, i.e. the second trip; the car is "l'auto", not named) ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici + zone listings (OFF-op data via ROUTE §3.3–3.4 and PLAN House key) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: green houses along C. Príncipe Viana; Bajada de Cervantes drawn as steps) ; RAH11 https://core.ac.uk/download/41807295.pdf p. 53 + RAH-E https://core.ac.uk/download/39127747.pdf pp. 66–67 (SEC-acad via FACTS 6.47: Arco de Maia/Amaiur on this street; Amaiur is in Baztán, Navarre, F9.18) ; SCHOOL https://poble-espanyol.com/wp-content/uploads/2026/05/GAE_26-27_ESO-I-BATXILLERAT.pdf (OFF-op via FACTS 7.8: "Onze petites escultures us esperen al carrer Baixada de Cervantes", CA)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 007 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] El recorrido familiar del pueblo propone un pequeño juego en este tramo. Pide a las familias que comparen tres regiones: «Castilla, Navarra y País Vasco». Castilla era el rosa por el que acaba de pasar. [pause] Desde aquí, en el plano, las casas se vuelven casi todas verdes, el color del Norte.
+
+Y esto es Navarra, la región del embrague quemado. En el segundo viaje, en noviembre de 1927, el coche acabó en un taller de Tudela, una ciudad navarra.
+
+Según la lista del Poble, las casas navarras de este tramo incluyen el palacio de San Cristóbal, de Estella, y la Casa de las Cadenas, de Corella. Hay una casa del valle del Roncal, y también relieves prerrománicos tallados.
+
+Luego, el País Vasco: una casa de labranza, un caserío, de Bizkaia, y una casa de Gipuzkoa. Mire las casas a ambos lados mientras sube.
+
+[pause] Busque también un arco. Los arquitectos que estudiaron el pueblo registran en esta calle un arco de Amaiur, Maia en euskera, en el valle de Baztán. Quizá lea que es vasco. En realidad, Amaiur está en Navarra.
+
+Si viaja con niños, conviene conocer una calle lateral. La guía escolar del Poble dice, en catalán, que «once pequeñas esculturas les esperan» en la Bajada de Cervantes. [pause] Es una calle de escalones, fuera de nuestro recorrido.
+
+Arriba, la calle se abre a la Plaza Aragonesa, con la alta torre de ladrillo que se eleva sobre ella. Busque un sitio desde donde vea la torre entera: Plaza Aragonesa · La torre que preferían.

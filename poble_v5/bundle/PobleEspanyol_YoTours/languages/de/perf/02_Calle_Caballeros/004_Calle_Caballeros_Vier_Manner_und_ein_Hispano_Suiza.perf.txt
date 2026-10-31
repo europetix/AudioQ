@@ -1,0 +1,30 @@
+@id: 004 · DE · Poble Espanyol · 31 Oct 2026 edition
+@section: Calle Caballeros
+@room: Calle Caballeros · at its start, by Plaza Castellana
+@type: W
+@title: Calle Caballeros — Vier Männer und ein Hispano-Suiza
+@where: Am Anfang der Calle Caballeros, wo sie zwischen den Häusern 115 und 2 die Plaza Castellana verlässt, auf dem stufenlosen Weg. Stellen Sie sich zur Seite, damit die Straße frei bleibt.
+@what: The research trips of 1927–28: Miquel Utrillo, Xavier Nogués, Francesc Folguera and Ramon Reventós; first trip 2 Sep – 2 Oct 1927 in a Hispano-Suiza (almost 700 towns passed, 137 studied); trips 2 and 3 (Nov 1927, May 1928); the method; the burnt clutch; only 9 preliminary models kept; the five travel notebooks, hidden in a desk drawer in the office of J. M. Reventós (ACE19 p. 239 n. 11; "Private archive of the Reventós family", EGA24), no duration sourced; about a thousand 1927 negatives in the Arxiu Fotogràfic.
+@listen: How four men in one car rewrote the village after one month on the road, and how their notebooks stayed hidden in a drawer until researchers found them.
+@brief: A storyteller at the start of a street; lively and amused at the road trip, quietly delighted at the notebooks.
+@pace: medium
+@energy: 3→4→3
+@sources: ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad, re-read 31 Oct 2026: Utrillo's letter "el viaje es tan indispensable que buena parte del trabajo realizado este mes se verá lógicamente modificado ante las cosas vivas que los arquitectos y el amigo Nogués verán recorriendo España", pp. 236–237, ES; "Nogués dibujaba su silueta"; "se formaban dos equipos de arquitecto y pintor"; "que clasificaban del 1 al 10 por votación"; "unas gamas definidas por Nogués"; "se les avería el coche y Utrillo deja constancia del momento con una caricatura"; "sólo hay 9 modelos que se mantendrán", "3 se mantendrán intactos"; p. 239 n. 11, re-read by the fact audit: notebooks "ocultas en el cajón del escritorio del despacho de J.M Reventós", "hasta hoy", no duration) ; POST25 https://upcommons.upc.edu/bitstreams/a65af596-4fe6-4b4f-94dd-8406ce2b35d7/download (SEC-acad, re-read 31 Oct 2026: "entre el 2 de setembre i el 2 d'octubre, amb una durada total de 31 dies i 30 nits, a bord d'un Hispano-Suiza"; "200 de mitjana"; "gairebé 700 poblacions, de les quals van visitar 137"; letter of 15/11/27 (second trip; writer not named; "l'auto", car not named), waiting for "l'Expres de Zaragoza", "tenim l'auto a Tudela en reparació per haverse cremat l'embrague", team working by train from Zaragoza; Graus "presa des d'una benzinera a peu de carretera"; 2024 "quatre furgonetes de nou places, en rememoració de l'Hispano-Suiza", CA) ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad via FACTS 2.3, 2.15: "más de un centenar de fotografías y apuntes distribuidos en cinco libretas de viaje", ES) ; EGA24 https://link.springer.com/chapter/10.1007/978-3-031-57579-2_26 (SEC-acad via FACTS 2.14: "These notebooks, which have remained hidden until today, constitute unpublished material", EN) ; AFB https://www.barcelona.cat/barcelonacultura/en/recomanem/viatge-fotografic-construccio-poble-espanyol-exhibition-arxiu-barcelona-2020-2021 (OFF, re-read 31 Oct 2026: "the thousand negatives from the AFB archive that were collected in 1927") ; SIRES https://upcommons.upc.edu/bitstreams/5cbfba16-9d23-492d-b994-fe43b8c850b0/download (SEC-acad, re-read 31 Oct 2026: "3 viatges", about 1600 places; safe wording F2.4)
+@lang: de
+@translation: from the fact-checked English Poble Espanyol 004 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Im Juli 1927 schrieb Miquel Utrillo, Ingenieur, Maler und Leiter des Projekts, an Lluís Plandiura, einen der Leiter der Ausstellung. Er schrieb, auf Spanisch, die Reise sei „so unverzichtbar, dass ein guter Teil der in diesem Monat geleisteten Arbeit logischerweise geändert wird“. [pause] Geändert „durch das Lebendige, das die Architekten und unser Freund Nogués sehen werden“.
+
+Im September brachen vier Männer in einem Auto auf, einem Hispano-Suiza: Utrillo, der Maler Xavier Nogués und zwei Architekten, Francesc Folguera und Ramon Reventós. Einen Monat unterwegs. Sie kamen durch fast siebenhundert Orte und studierten hundertsiebenunddreißig davon vor Ort. [pause] Zwei weitere Reisen folgten. Auf allen dreien kamen sie durch rund 1600 Orte.
+
+Sie hatten eine Methode. In kleinen Orten skizzierte Nogués die Umrisse, während die beiden Architekten mit der Kamera bereitstanden. In den wichtigen Orten teilten sie sich in zwei Teams, je ein Architekt und ein Maler. Und dann [amused] stimmten sie über jeden Fund ab, mit bis zu zehn Punkten. Die Farben wurden mit Tonskalen abgeglichen, die Nogués angelegt hatte.
+
+Es lief nicht alles glatt. Bei Zaragoza hatte das Auto eine Panne, und Utrillo hielt den Moment in einer Karikatur fest. Auf der zweiten Reise, im November, entstand ein Brief, während sie auf den Zaragoza-Express warteten. Darin heißt es, auf Katalanisch: „Das Auto ist in Tudela zur Reparatur, weil die Kupplung durchgebrannt ist.“
+
+[pause] War die Reise wichtig? Von den Vorbildern des ersten Plans überlebten nur neun bis ins fertige Dorf. Und nur drei davon unverändert.
+
+[quietly] Dann verschwand die Dokumentation der Reise in einer Schublade. Mehr als hundert Fotos und Skizzen, in fünf Reiseheften, lagen dort verborgen, in einem Schreibtisch in einem Büro der Familie Reventós. Bis die Forscher sie fanden. Sie schrieben: „Diese Hefte, die bis heute verborgen geblieben sind, bilden unveröffentlichtes Material.“ [pause] Das Fotoarchiv der Stadt bewahrt außerdem rund tausend Negative aus jenem Jahr.
+
+Schauen Sie die Straße hinauf: Das haben all diese Abstimmungen hervorgebracht.
+
+Gehen Sie die Calle Caballeros weiter hinauf, langsam, und spielen Sie die nächste Station im Gehen. Achten Sie auf die Hauseingänge und die Wappen darüber: Calle Caballeros · Wappen.

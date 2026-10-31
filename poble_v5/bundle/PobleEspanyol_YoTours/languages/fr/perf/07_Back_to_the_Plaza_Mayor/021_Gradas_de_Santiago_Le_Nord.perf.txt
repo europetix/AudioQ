@@ -1,0 +1,28 @@
+@id: 021 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Back to the Plaza Mayor
+@room: Gradas de Santiago · at the top
+@type: R
+@title: Gradas de Santiago — Le Nord
+@where: En haut des Gradas de Santiago, le large escalier qui descend de la Plaza de la Iglesia vers la Plaza Mayor ; tenez-vous sur le côté, hors du passage. Accès avec marches : pour rejoindre la Plaza Mayor sans marches, retraversez la Plaza Aragonesa, descendez la Calle Príncipe de Viana jusqu'au carrefour des maisons 102 et 103, puis suivez la Calle Alcalde de Móstoles jusqu'à la place.
+@what: The Gradas de Santiago (the EN plan's "Santiago Stands"; no documented model) and the green houses round them. Towns from the official list (BDB; numbers PIN+COL, not spoken): Cambados and the Pazo de Fefiñáns (Pontevedra), Betanzos (A Coruña), Villanueva de Lourenzá (Lugo), Cangas de Onís (Asturias), Arcos de la Lonja (Sos del Rey Católico, Zaragoza), Maluenda (Zaragoza); Caldas de Reyes (Pontevedra) on the list but unplaceable (PIN). No Galician model is documented by the historians (F6.51).
+@listen: The least documented corner of the village, said plainly: what the steps are called, which northern towns the Poble's list names, and what nobody has yet matched.
+@brief: An honest guide owning up to a gap, curious and a little rueful, then warm.
+@pace: medium
+@energy: 2→3
+@sources: GIMCANA https://poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-ang.pdf (OFF-op via PLAN/ROUTE §0: stop 7 "Gradas de Santiago – Camino de Santiago") ; FILM https://www.bcncatfilmcommission.com/en/node/5141 (SEC via PLAN: "the bleachers of Santiago") ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici (OFF-op data via ROUTE §3.4: the Galician, Asturian and Aragonese records and pins; Caldas de Reyes shares Graus's pin; zone Nord covers Aragon, Navarre, the Basque Country, Cantabria, Asturias and Galicia) ; ACE19 (SEC-acad via FACTS 2.5: the first trip, September–October 1927, crossed Galicia, Asturias and Cantabria; F6.51: no Galician models named) ; TO20 https://www.timeout.es/barcelona/es/noticias/un-centenar-de-fotos-historicas-muestran-la-creacion-del-poble-espanyol-111020 (SEC via FACTS 2.23: Folguera's photograph of San Miguel de Lillo, Oviedo) ; PLAN Feb 2026 (OFF-op: "Santiago Stands", the green houses 30–37 and 55, Rincón del Triste, the accessible route)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 021 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] C'est le coin le moins documenté du village, et nous préférons le dire plutôt qu'inventer.
+
+Le Poble appelle ces marches les Gradas de Santiago, et son parcours familial les relie au Camino de Santiago, le chemin des pèlerins. Le bureau du cinéma de la ville les appelle « les gradins de Santiago ». [pause] Sur quel modèle, s'il y en a un, aucune source trouvée ne le dit.
+
+Autour de ces marches, la liste du Poble comprend des maisons galiciennes, de Cambados et Betanzos entre autres. Des Asturies, Cangas de Onís. Et d'Aragon, des arcs de Sos del Rey Católico.
+
+[pause] Soyons honnêtes. Les historiens qui ont trouvé les carnets ne citent aucun modèle galicien. Nous connaissons ces villes par la liste du Poble, sans savoir quelle façade est laquelle.
+
+Le voyage est bien passé par là : en septembre 1927, le premier a traversé la Galice, les Asturies et la Cantabrie. Parmi les photos conservées, celle de l'église préromane de San Miguel de Lillo, près d'Oviedo, par Francesc Folguera.
+
+[warmly] Si vous avez le plan officiel, regardez les maisons autour du haut de ces marches : elles sont vertes, couleur du Nord. Et ce Nord est généreux : il englobe aussi l'Aragon et la Navarre.
+
+Descendez les Gradas de Santiago. En bas, le coin que le plan appelle Rincón del Triste est juste à côté. Entrez sur la Plaza Mayor et trouvez un endroit sur ses marches d'où vous voyez toute la place et l'hôtel de ville à arcades : Plaza Mayor · Une place venue de Riaza.

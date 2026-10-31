@@ -1,0 +1,26 @@
+@id: 019 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Andalusia
+@room: Calle Arcos · outside the Tablao de Carmen (house 61, C. Arcos 9)
+@type: X
+@title: Calle Arcos · Extra · La maison du flamenco
+@where: Dans la Calle Arcos, dans le quartier andalou, devant la porte du Tablao de Carmen, maison 61 sur le plan (la rue compte plusieurs 61) ; mettez-vous à côté de la porte. La Calle Arcos a des marches.
+@what: The Tablao de Carmen, house 61, C/ Arcos 9 (DOC; TABLAO-OP, FILM-T), flamenco shows since 1988, created as a tribute to Carmen Amaya (died 1963). The venue's story that she danced for Alfonso XIII at the 1929 opening (LEGEND, attributed). The street: Calle Arcos, from Arcos de la Frontera, Cádiz (BDB).
+@listen: The flamenco house's story of a girl dancing for the King, told as its story, and what is certain about Carmen Amaya.
+@brief: A guide passing on a good story with a smile and an honest caveat, then warm about the dancer herself.
+@pace: medium
+@energy: 3→3
+@sources: TABLAO-OP https://poble-espanyol.com/en/establishment/tablao-de-carmen/ (OFF-op, re-read 31 Oct 2026, mod. 2025-07-30: "has been putting on an authentic Flamenco show since 1988."; "Created to pay tribute to the legendary flamenco dancer Carmen Amaya."; "Location: House 61") ; FILM-T https://www.bcncatfilmcommission.com/en/location/tablao-de-carmen (SEC, re-read 31 Oct 2026, updated 12/12/2023: "When the Universal Exposition in Barcelona was inaugurated in 1929, a very young Carmen Amaya danced" for "King Alphonse XIII"; "She did it in this courtyard"; "it is known as 'Patio de Carmen'"; "C/ Arcos, 9 (Poble Espanyol)") ; AMAYA https://ajuntament.barcelona.cat/barcelonallibres/en/books/carmen-amaya (OFF, re-read 31 Oct 2026: Madridejos and Pérez Merinero, Barcelona City Council with Bellaterra, 2013: "this Catalan bailaora"; "from her birth in the Somorrostro shantytown to her death in a village on the Costa Brava in 1963."; "her artistic beginnings in Barcelona and Madrid, her film appearances,"; "her success in Argentina"; "her boundless fame in New York and Hollywood"; "as the most famous Romani flamenco dancer ever.") ; TO20 (SEC via FACTS 3.14: the King and Queen at the Poble's inauguration) ; BDB (OFF-op data via ROUTE §3.4: "Carrer Arcos", Arcos de la Frontera, Cádiz)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 019 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Cette maison raconte l'histoire d'une fillette et d'un roi.
+
+Le Tablao de Carmen « présente un authentique spectacle de flamenco depuis 1988 », dit le Poble, et fut « créé pour rendre hommage à la légendaire danseuse de flamenco Carmen Amaya ». Le bureau du cinéma de la ville relaie son récit. À l'ouverture de l'Exposition, en 1929, dit-il, « une très jeune Carmen Amaya a dansé » pour le roi Alphonse treize, dans sa cour. D'où, dit-on, le nom de Patio de Carmen.
+
+[pause] Belle histoire, mais nous ne l'avons trouvée que dans cette fiche. Le couple royal a bien inauguré le village cette année-là.
+
+Sa vie est mieux connue. Une biographie de la mairie de Barcelone en fait une bailaora catalane, danseuse de flamenco. Elle la suit « de sa naissance dans le bidonville du Somorrostro à sa mort dans un village de la Costa Brava en 1963 ». [pause] Entre-temps, « son succès en Argentine » et « sa gloire immense à New York et Hollywood ». Le livre l'appelle « la plus célèbre danseuse de flamenco rom de tous les temps ».
+
+[warmly] Regardez ce Tablao de Carmen. La rue elle-même vient d'Arcos de la Frontera.
+
+Descendez la Calle Arcos, qui a des marches. En bas, près de la tour de brique, s'ouvre la petite Plaza del Carmen : Plaza del Carmen · Guerre, prisonniers et musée populaire.

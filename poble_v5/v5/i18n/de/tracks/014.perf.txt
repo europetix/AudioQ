@@ -3,8 +3,8 @@
 @room: Plaça de la Font · by the fountain
 @type: W
 @title: Plaça de la Font — Das Mittelmeer
-@where: Auf der Plaça de la Font, dem Platz oben an der Carrer Mercaders, bei seinem Brunnen. Der Baluard öffnet sich vom Platz aus. [O8, O2]
-@what: The Mediterranean zone (purple on the plan): the fountain modelled on one at Prades (Baix Camp) (ENC; position [O8]); round the square, by the Poble's list, Cornudella, a house from La Garriga, the Casa dels Balbs, the house of the Marquès de la Floresta (Tàrrega) and La Jana (Castellón) (BDB, PIN+COL, numbers not spoken); house 69 described by the operator as a "Balearic Island-style stately home" (EST); its identification as Casa Son Berga, Palma de Mallorca, is a pin inference (ROUTE §3.4 INF), not spoken as certain [O2, O8]; the Prades fountain's position is not sourced [O8]. Built 1928–29.
+@where: Auf der Plaça de la Font, dem Platz oben an der Carrer Mercaders, bei seinem Brunnen. Der Baluard öffnet sich vom Platz aus.
+@what: The Mediterranean zone (purple on the plan): the fountain modelled on one at Prades (Baix Camp) (ENC; position); round the square, by the Poble's list, Cornudella, a house from La Garriga, the Casa dels Balbs, the house of the Marquès de la Floresta (Tàrrega) and La Jana (Castellón) (BDB, PIN+COL, numbers not spoken); house 69 described by the operator as a "Balearic Island-style stately home" (EST); its identification as Casa Son Berga, Palma de Mallorca, is a pin inference (ROUTE §3.4 INF), not spoken as certain; the Prades fountain's position is not sourced. Built 1928–29.
 @listen: Why the four Catalans did Catalonia last, what this square brings together, and the Balearic house that came in after all.
 @brief: A friend on home ground, proud but light about it; curious, then warm at the colours.
 @pace: medium

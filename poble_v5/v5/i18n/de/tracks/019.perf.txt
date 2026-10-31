@@ -3,7 +3,7 @@
 @room: Calle Arcos · outside the Tablao de Carmen (house 61, C. Arcos 9)
 @type: X
 @title: Calle Arcos · Extra · Das Flamenco-Haus
-@where: In der Calle Arcos, im andalusischen Viertel, vor der Tür des Tablao de Carmen, Haus 61 auf dem Plan (eine von mehreren 61 entlang der Straße) und laut Adresse „C/ Arcos, 9“ (FILM-T); beides erst nach Prüfung bei O13 sprechen. Stellen Sie sich neben die Tür. Die Calle Arcos hat Stufen. [O13, O18, ALT-T]
+@where: In der Calle Arcos, im andalusischen Viertel, vor der Tür des Tablao de Carmen, Haus 61 auf dem Plan (eine von mehreren 61 entlang der Straße) und laut Adresse „C/ Arcos, 9“ (FILM-T); beides erst nach Prüfung bei O13 sprechen. Stellen Sie sich neben die Tür. Die Calle Arcos hat Stufen.
 @what: The Tablao de Carmen, house 61, C/ Arcos 9 (DOC; TABLAO-OP, FILM-T), flamenco shows since 1988, created as a tribute to Carmen Amaya (died 1963). The venue's story that she danced for Alfonso XIII at the 1929 opening (LEGEND, attributed). The street: Calle Arcos, from Arcos de la Frontera, Cádiz (BDB).
 @listen: The flamenco house's story of a girl dancing for the King, told as its story, and what is certain about Carmen Amaya.
 @brief: A guide passing on a good story with a smile and an honest caveat, then warm about the dancer herself.

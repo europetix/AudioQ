@@ -3,7 +3,7 @@
 @room: Plaza Castellana · just inside the gate
 @type: ANCHOR
 @title: Willkommen im Poble Espanyol
-@where: Auf der Plaza Castellana, dem Platz gleich hinter dem Ávila-Tor, ein paar Schritte hinein und abseits des Besucherstroms. [O1, O2, O18]
+@where: Auf der Plaza Castellana, dem Platz gleich hinter dem Ávila-Tor, ein paar Schritte hinein und abseits des Besucherstroms.
 @what: The Poble Espanyol de Montjuïc ("Spanish Village"), built for the 1929 Barcelona International Exhibition; 117 full-size buildings modelled on originals all over Spain (OFF-op); construction from January 1928, opened 20 May 1929 (OFF-op); meant to be demolished, kept. Official plan Feb 2026: houses numbered 1–116, four region colours, a marked step-free route.
 @listen: What this village is, why it is an interpretation and not a set of copies, the loop we walk, the three lengths, and how the guide points you to houses.
 @brief: A friend meeting you just inside the gate; warm and unhurried, a little surprised at the central fact, practical and clear at the end.

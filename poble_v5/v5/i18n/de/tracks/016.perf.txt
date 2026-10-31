@@ -3,7 +3,7 @@
 @room: Sculpture Garden · just inside
 @type: X
 @title: Skulpturengarten · Extra · Sechsunddreißig Skulpturen und zwei Rutschen
-@where: Gleich hinter dem Eingang des Skulpturengartens, unterhalb des Aussichtspunkts, wo die Riesenrutschen sind. Der Garten ist eine Sackgasse, Sie kehren also auf demselben Weg zurück. Der Zugang ist unbestätigt: vom Aussichtspunkt und vom Baluard aus, oder über die Stufen neben Haus 89 am unteren Ende der Carrer Mercaders, wo der Plan den Gartenweg einzeichnet (falls ja, ALT-G2 in AUDIT_FIXES). [O10, ALT-G]
+@where: Gleich hinter dem Eingang des Skulpturengartens, unterhalb des Aussichtspunkts, wo die Riesenrutschen sind. Der Garten ist eine Sackgasse, Sie kehren also auf demselben Weg zurück. Der Zugang ist unbestätigt: vom Aussichtspunkt und vom Baluard aus, oder über die Stufen neben Haus 89 am unteren Ende der Carrer Mercaders, wo der Plan den Gartenweg einzeichnet (falls ja, ALT-G2 in AUDIT_FIXES).
 @what: The Sculpture Garden: 36 sculptures by 27 contemporary artists, opened 2004 (operator); listed with the Fundació Fran Daurel (ENC); gentle slopes; two giant slides; a vantage point at the end. No size (sources conflict). Artists named only from labels photographed at O10.
 @listen: A garden of twentieth-century sculpture beside a Romanesque monastery, and one label to read for yourself.
 @brief: A friend in a garden, relaxed and light, nudging you to look closely at one thing.

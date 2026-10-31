@@ -1,0 +1,26 @@
+@id: 003 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: The gate
+@room: Plaza Castellana · facing the gate (Extra)
+@type: X
+@title: Plaza Castellana · Extra · Le Soleil et la Lune
+@where: Sur la Plaza Castellana, n'importe où avec les deux tours de la porte en vue ; aucune position précise.
+@what: The Torres de Ávila night venue inside the gate's towers, designed by Alfredo Arribas and Javier Mariscal, as reported by El Temps, 30 Jul 1990 (the Sun and the Moon; the fibre-optic wall; the terrace); Mariscal's Cobi, the Barcelona 1992 mascot (no creation year spoken: unverified, AUDIT_V5_FACTS S9). The venue's present status is NOT stated.
+@listen: How the village tried to learn to live at night in 1990, and the one real thread between this gate and the 1992 Olympics.
+@brief: A friend sharing a bit of nightlife history by the gate; conspiratorial and lively, never selling the place.
+@pace: medium
+@energy: 3→4
+@sources: TEMPS90 https://www.eltemps.cat/documents/el-temps_1990_08_0319_0045_0047.pdf (SEC primary press, re-read 31 Oct 2026: "Es tracta de les Torres de Àvila, la porta del Poble Espanyol, i el lloc turístic que, de nit, no acaba de rutllar."; "Molta enveja envoltava l'afer, tothom volia dir la darrera paraula. Però van ser Arribas i Mariscal els herois de la gesta."; "El sol i la Lluna"; "La part de la dona, o sigui la Lluna, té una paret gegant mòbil folrada de fibres òptiques"; "Dalt de tot hi ha la terrassa." "Es aquí on les torres prenen la seva dimensió més desconeguda."; Kadokawa "la primera xifra va ser de quasi mil mil.lions de pessetes", CA) ; COBI https://olympics.com/en/olympic-games/barcelona-1992/mascot (OFF, IOC, via PLAN planner 31 Oct 2026: Cobi by "Javier Mariscal", a "humanised Pyrenean mountain dog", EN)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 003 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] En 1990, le village avait un point faible. Le magazine catalan El Temps y voyait l'attraction touristique qui, « la nuit, ne marchait jamais vraiment ».
+
+La solution était dans ces tours. Leur intérieur est devenu un lieu nocturne, les Torres de Ávila. [pause] Le magazine écrivait, en catalan : « Il y a eu beaucoup d'envie dans l'affaire, chacun voulait le dernier mot. Mais ce sont Arribas et Mariscal les héros de l'exploit. » Alfredo Arribas et Javier Mariscal, deux designers.
+
+Ils l'ont divisé en Soleil et Lune. « La partie de la femme, c'est-à-dire la Lune, écrivait le magazine, a un mur mobile géant tapissé de fibres optiques. » [pause] Et « tout en haut, il y a la terrasse », où, disait-il, « les tours prennent leur dimension la moins connue ».
+
+Regardez le haut des tours, parmi les créneaux. Le magazine y situait la terrasse.
+
+[pause] Mariscal est le seul vrai lien du village avec les Jeux de 1992. Il en a créé la mascotte, Cobi, un « chien de montagne des Pyrénées humanisé », selon le mouvement olympique.
+
+Le prochain arrêt principal est le début de la Calle Caballeros, la rue qui monte depuis la Plaza Castellana entre les maisons cent quinze et deux : Calle Caballeros · Quatre hommes et une Hispano-Suiza.

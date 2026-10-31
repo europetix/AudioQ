@@ -4,7 +4,7 @@
 @type: R
 @title: Carrer de la Davallada — Sept marches, pas quatorze
 @where: Dans le Carrer de la Davallada, la rue qui monte de la Plaza Aragonesa vers le quartier catalan, devant la maison 83, juste en dessous de l'arrivée du Carrer Mercaders ; la maison a un escalier extérieur sur sa façade.
-@what: House 83, Can Banús, modelled on a house in Rupit (province of Barcelona; DOC: Banús, "el 83 amb el de carrer de la Davallada"). Banús counts eight Rupit houses on five fronts (83 here; 79–82 on Carrer Mercaders, with Can Serra above Can Vázquez at 80 and 81 combining Can Rovira, Can Sallent and Ca l'Estragués) (DOC [O7]). The stair: seven steps here, fourteen in Rupit (Banús) [O6: count]. Built 1928–29.
+@what: House 83, Can Banús, modelled on a house in Rupit (province of Barcelona; DOC: Banús, "el 83 amb el de carrer de la Davallada"). Banús counts eight Rupit houses on five fronts (83 here; 79–82 on Carrer Mercaders, with Can Serra above Can Vázquez at 80 and 81 combining Can Rovira, Can Sallent and Ca l'Estragués) (DOC). The stair: seven steps here, fourteen in Rupit (Banús). Built 1928–29.
 @listen: A writer for Rupit's local journal counts the steps of a house from Rupit, and shows the Poble is a version, not a copy.
 @brief: A friend sharing a small, telling discovery; curious at first, a dry smile at the halved stair, warm at the end.
 @pace: medium

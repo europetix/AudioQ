@@ -3,8 +3,8 @@
 @room: Plaza de la Iglesia · by the Fran Daurel Museum door
 @type: W
 @title: Plaza de la Iglesia — Die Kunstsammlung eines Abfüllers
-@where: An der Tür des Museums Fran Daurel auf der Plaza de la Iglesia. Auf dem Plan ist das Museum der graue Block hinter der Kirche, zwischen dem Backsteinturm und dem Guinovart Space, 56. Stellen Sie sich neben die Tür. [O5, O24]
-@what: The Fran Daurel Museum (Fundació Fran Daurel), founded by Francesc Daurella i Franco (born Barcelona 1927; no tense claim), in the Poble since December 2001: more than 300 works by more than 80 artists (Picasso, Miró, Dalí, Tàpies, Barceló, Chillida); twenty Picasso ceramics, two etchings and an engraving from the 1960s; Dalí's bronze "Alice au pays des merveilles" (1970s) and ink drawing "Cavalier avec son aurige"; late Miró lithographs and engravings. Grey on the official plan, outside the four region colours (82 and 89 are grey too; the plan has no grey legend). Works on show: [O24]. DATED (DAUREL mod. 25 Sep 2025).
+@where: An der Tür des Museums Fran Daurel auf der Plaza de la Iglesia. Auf dem Plan ist das Museum der graue Block hinter der Kirche, zwischen dem Backsteinturm und dem Guinovart Space, 56. Stellen Sie sich neben die Tür.
+@what: The Fran Daurel Museum (Fundació Fran Daurel), founded by Francesc Daurella i Franco (born Barcelona 1927; no tense claim), in the Poble since December 2001: more than 300 works by more than 80 artists (Picasso, Miró, Dalí, Tàpies, Barceló, Chillida); twenty Picasso ceramics, two etchings and an engraving from the 1960s; Dalí's bronze "Alice au pays des merveilles" (1970s) and ink drawing "Cavalier avec son aurige"; late Miró lithographs and engravings. Grey on the official plan, outside the four region colours (82 and 89 are grey too; the plan has no grey legend). Works on show:. DATED (DAUREL mod. 25 Sep 2025).
 @listen: How a Coca-Cola bottler's collection of Picasso, Miró and Dalí came to sit in a 1929 village, and why it isn't as out of place as it looks.
 @brief: A friend with a good piece of gossip and a real point to make; curious, then warm.
 @pace: medium

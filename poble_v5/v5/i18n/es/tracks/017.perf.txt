@@ -1,0 +1,32 @@
+@id: 017 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: The top of the hill
+@room: Monastery of Sant Miquel · in front of the portal
+@type: W
+@title: Monasterio de Sant Miquel — Un monasterio por piezas
+@where: En lo alto de la colina, delante de la portada en arco del Monasterio de Sant Miquel, casa 116, la iglesia románica con el campanario cuadrado; no es accesible sin escalones.
+@what: The Monastery of Sant Miquel (116, DOC), a composite of Catalan Romanesque models (city 2013): portal from Santa Maria de Porqueres (Pla de l'Estany); floor inspired by Sant Sebastià de Montmajor (Caldes de Montbui); cloister modelled on the Benedictine monastery of Sant Benet de Bages (no date for the cloister); bell tower after Sant Genís de Taradell; wall paintings by Rafael Padilla (Málaga, 1878–1961). Built 1928–29 by the Poble's team; partly collapsed 1993, re-inaugurated Oct 1997; interior opened to general visitors 11 Jul 2013 (current access).
+@listen: The monastery as a collage of Catalan Romanesque churches, the twentieth-century painter behind its "medieval" walls, and the Poble's own slip about who designed it.
+@brief: A friend at the top of the climb, a little hushed at the doorway, enjoying two good corrections.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: MON13 https://www.barcelona.cat/barcelonacultura/en/recomanem/romanic-monastery-poble-espanyol-opens-its-doors-public (OFF, re-read 31 Oct 2026, 18 Jul 2013: "The portal is from Santa Maria de Porqueres, in Pla de l'Estany,"; "the floor is inspired by that of Sant Sebastià de Montmajor, in Caldes de Montbui,"; "the cloister, from the 10th century Benedictine monastery in Sant Benet de Bages"; "the bell tower is a replica of the one in Sant Genís de Taradell."; "The frescoes on the walls of the monastery are the work of Malaga-born painter Rafael Padilla (1878-1961)."; "partially collapsed in 1993 and re-inaugurated in October of 1997,"; interior open to general visitors from 11 July [2013]; the page does not name a designer) ; ENC https://www.enciclopedia.cat/EC-GEC-0051639 (SEC, re-read 31 Oct 2026: "el monestir, una mica apartat, que condensa elements de diverses esglésies romàniques catalanes") ; SPACE-MON https://poble-espanyol.com/espacio/monasterio-de-sant-miquel/ (OFF-op via ROUTE §0: "situado en uno de los extremos del recinto") ; RAH11 https://core.ac.uk/download/41807295.pdf (SEC-acad via ROUTE §0: the monastery at the highest point) ; MON-EV https://poble-espanyol.com/en/?p=111413 (OFF-op via FACTS 6.44: "designed by the modernist architect Puig i Cadafalch" — the slip, quoted only to correct it) ; VIEW https://poble-espanyol.com/en/?p=109703 (OFF-op, re-read 31 Oct 2026: "Right in front of the Romanesque monastery of Sant Miquel is a viewpoint") ; F1.2, F9.8, F6.41 ("Lombard-style" tower)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 017 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Las pinturas murales de este monasterio parecen medievales. El hombre que las pintó vivió hasta 1961.
+
+Era Rafael Padilla, un pintor nacido en Málaga. El Ayuntamiento de Barcelona lo dice claramente: los frescos de los muros del monasterio son obra del pintor malagueño Rafael Padilla. [pause] Así que, lea lo que lea sobre frescos medievales aquí arriba, son obra del siglo veinte.
+
+Este es el Monasterio de Sant Miquel, en catalán, el Monestir de Sant Miquel. Ocupa el punto más alto del pueblo. La enciclopedia catalana lo describe, en catalán, como «un poco apartado», un edificio que «condensa elementos de diversas iglesias románicas catalanas». Un monasterio por piezas.
+
+[pause] Cuente las piezas, como la ciudad. La portada procede de Santa Maria de Porqueres, en el Pla de l'Estany. El suelo se inspira en Sant Sebastià de Montmajor, en Caldes de Montbui. El claustro sigue el modelo del monasterio benedictino de Sant Benet de Bages. Y el campanario es réplica del de Sant Genís de Taradell. [pause] Cuatro lugares, y un pintor.
+
+Mire la portada que tiene delante, la puerta en arco que representa a Porqueres. Luego busque el campanario cuadrado, inspirado en el de Taradell.
+
+También tuvo su drama: un derrumbe parcial en 1993, y una reapertura cuatro años después. En 2013, su interior se abrió por primera vez a los visitantes de día.
+
+[wry] Una corrección más, y viene del propio Poble. Su página de eventos dice que el monasterio lo diseñó el arquitecto modernista Puig i Cadafalch. Todas las fuentes sobre la autoría del pueblo nombran a los mismos cuatro hombres, entre ellos los arquitectos Folguera y Reventós.
+
+[warmly] El edificio de aspecto más antiguo del pueblo, y uno de los más prestados.
+
+Tome el camino que baja del monasterio hacia la gran casa del número sesenta y nueve. Siga entre la sesenta y nueve y la galería de arte Vidre, un antiguo taller de vidrio soplado, hasta el barrio andaluz. Deténgase en la pequeña Plaza de la Hermandad, donde los muros se vuelven blancos: Plaza de la Hermandad · Excluida, y añadida después para el rey.

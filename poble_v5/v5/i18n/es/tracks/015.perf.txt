@@ -1,0 +1,28 @@
+@id: 015 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: The top of the hill
+@room: Barcelona Panorama · by the Baluard, the city in view
+@type: W
+@title: Barcelona Panorama — Nacido bajo una dictadura
+@where: En el mirador que el plano llama Barcelona Panorama, junto al Baluard, saliendo de la Plaça de la Font, con la ciudad a sus pies; no se acerque al borde. Nombrar solo los puntos de referencia confirmados en el lugar. El aviso ofrece el Extra del Jardín Escultórico solo a la versión esencial y al recorrido completo, y nombra el camino sin escalones que rodea las casas de lo alto de la Plaça de la Font (ruta ALT-S).
+@what: The view (operator: the Sagrada Família, the Mapfre towers, Tibidabo; each subject to O9). The 1929 International Exhibition on Montjuïc (BIE: "Industry, Art and Sport", over 100 ha, 29 nations, almost 5.8 million visitors, opened 19 May 1929; the village 20 May). The two readings of the village's politics: national unity under Primo de Rivera (Mendelson; Sirés 2010) and the Catalanist makers and earlier idea (Sirés 2010). Version-neutral Franco sentence.
+@listen: The 1929 Exhibition that filled this hill, and two honest readings of a village born under a dictatorship.
+@brief: A thoughtful friend at a view, opening wide and then lowering the voice for history told evenly; no verdict, no edge.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: VIEW https://poble-espanyol.com/en/?p=109703 (OFF-op, re-read 31 Oct 2026, mod. 2026-01-29: "Take some time out there to marvel at what is in front of you: La Sagrada Familia, the Mapfre towers, Tibidabo..." "and Barcelona at your feet") ; BIE https://bie-paris.org/site/en/1929-barcelona (SEC, re-read 31 Oct 2026: "Industry, Art and Sport"; "over 100 hectares"; 29 nations officially; "almost 5.8 million visitors"; "the official inauguration of the Expo on 19 May") ; HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op via FACTS 3.1: inaugurated 20 May 1929) ; ENC-EXPO https://www.enciclopedia.cat/EC-GEC-0025657 (SEC, re-read 31 Oct 2026: "Organitzada per l'ajuntament de la Dictadura amb l'ajuda de l'estat"; "Representà un endeutament greu per a la ciutat") ; SIRES https://upcommons.upc.edu/bitstreams/5cbfba16-9d23-492d-b994-fe43b8c850b0/download (SEC-acad, re-read 31 Oct 2026: "ocupa només el 8% de la superfície construïda a l'Exposició"; "costar menys de la meitat del valor de les obres per a aixecar el Palau Nacional"; "El gener de 1929 el dèficit provocat per l'Exposició pujava a 140 milions de pessetes"; "acceptada i fagocitada ideològicament per la dictadura de Primo de Rivera"; "la unitat indisoluble de la nació Espanyola"; "hi van haver fortes pressions del Govern Central"; "complica substancialment la interpretació reduccionista i senzilla de que el Poble Espanyol fou una obra de la dictadura") ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad, re-read 31 Oct 2026, citing Mendelson: "Al construir en Barcelona una representación arquitectónica de la España unificada, Primo de Rivera…") ; F8.10, 8.11 (the version-neutral payoff)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 015 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Barcelona a sus pies, dice la página del Poble, que nombra tres hitos: la Sagrada Família, las torres Mapfre y el Tibidabo. ¿Cuántos encuentra?
+
+En 1929, toda esta montaña era una feria mundial. El lema de la Exposición Internacional era industria, arte y deporte, y vinieron casi seis millones de visitantes. Se inauguró el diecinueve de mayo, y el pueblo, al día siguiente. [pause] Un estudio de Sirés de 2010 para la politécnica de Barcelona calculó que el pueblo ocupaba solo un ocho por ciento de lo construido en la Exposición. Costó menos de la mitad que las obras del Palau Nacional.
+
+[quietly] También nació bajo una dictadura, la del general Primo de Rivera. La enciclopedia catalana dice, en catalán, que la Exposición fue «organizada por el ayuntamiento de la Dictadura con la ayuda del Estado». Y que endeudó gravemente a la ciudad.
+
+Hay dos lecturas, ambas serias. La historiadora Jordana Mendelson, citada en español por unos investigadores, habla de Primo de Rivera «al construir en Barcelona una representación arquitectónica de la España unificada». Sirés dice, en catalán, que el proyecto fue «aceptado y fagocitado ideológicamente» por la dictadura. La idea de «la unidad indisoluble de la nación española» gustó al régimen. Y hubo «fuertes presiones del Gobierno central».
+
+[curious] El mismo estudio da todo su peso a la otra lectura. Los cuatro creadores, señala, eran catalanistas, y la idea de Utrillo, sostiene, era anterior a la dictadura. Eso, dice, «complica sustancialmente la interpretación reduccionista y sencilla» de que el Poble Espanyol fue obra de la dictadura.
+
+[pause] Nacido bajo una dictadura, hecho por catalanistas, y usado después por otro régimen, el de Franco. Las tres cosas son ciertas.
+
+En el recorrido completo y en la versión esencial, hay un breve Extra en el Jardín Escultórico, bajo el mirador, donde están los toboganes gigantes. La siguiente parada principal es el monasterio. Un camino sin escalones sube hasta él rodeando las casas de lo alto de la Plaça de la Font. [pause] Si no, suba los escalones del Baluard hasta la iglesia románica con el campanario cuadrado, en lo alto de la colina: Monasterio de Sant Miquel · Un monasterio por piezas.

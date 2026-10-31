@@ -1,0 +1,32 @@
+@id: 018 · FR · Poble Espanyol · 31 Oct 2026 edition
+@section: Andalusia
+@room: Plaza de la Hermandad · white walls round you
+@type: W
+@title: Plaza de la Hermandad — Écartée, puis ajoutée pour le roi
+@where: Sur la petite Plaza de la Hermandad, en haut du quartier andalou, là où les murs deviennent blancs, par le chemin qui descend du monastère en passant la maison 69 ; la galerie d'art Vidre (67 et 68) est sur la place.
+@what: The Andalusian quarter (the plan's yellow South): left out of the first trip because of Seville's 1929 Ibero-American Exhibition, added and moved within the plan after Alfonso XIII asked about it and the third trip (May 1928, 21 days). Houses from the official list (BDB; numbers PIN+COL, not spoken): Casa-Palacio García de Veas (Arcos de la Frontera, Cádiz; VEAS, three balconies, place by O12), Casa de Nínca (Úbeda, Jaén), Iglesia del Santo Ángel and a patio (Córdoba), Palacio del Marqués de Peñaflor (Écija, Sevilla), Posada de las Ánimas (Ronda, Málaga), Casa de los Celdrán (Murcia). Vidre art gallery, 67/68 (DOC), since Feb 2024 (DATED).
+@listen: Why the south was left out of the village, how a king's question brought it in, and what to look for: blue pots and three balconies from Arcos de la Frontera.
+@brief: A guide telling a good-natured story of a late addition, curious at the start, warm at the looking.
+@pace: medium
+@energy: 2→4→3
+@sources: ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad, re-read 31 Oct 2026: p. 237 Andalusia and Murcia left out "al celebrarse al mismo tiempo la Exposición Iberoamericana de Sevilla", "Inicialmente se excluyeron las islas"; p. 242 "los muros encalados y los interiores agrupados en patios"; third trip May 1928, 21 days, via FACTS 2.8) ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad, re-read 31 Oct 2026: p. 81 "preguntó por la representación andaluza e hizo ver cómo sería echada de menos"; the paper flags the chronology, FACTS 2.9) ; SIRES (SEC-acad via FACTS 2.9: "amb gran indignació") ; VEAS https://poble-espanyol.com/en/?p=112880 (OFF-op, re-read 31 Oct 2026: "In Poble Espanyol, the façade and the three balconies have been recreated," "the two lateral ones with their enclosed railings" "and the central one with a wrought iron railing."; the seven surnames) ; ARCHLIST https://poble-espanyol.com/la-visita/arquitectura/ (OFF-op via ROUTE §3.2: "Pasea por las típicas calles con casitas blancas y macetas azules de los pueblos de Andalucía…") ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici (OFF-op data via ROUTE §3.4: the Sud zone's nine buildings and their towns) ; VIDRE https://poble-espanyol.com/en/exhibition/vidre-art-gallery/ (OFF-op via PLAN: "the iconic former glassblowing workshop") ; TO24 (SEC via ROUTE §5.1: opened 21 Feb 2024) ; PLAN Feb 2026 (OFF-op: Plaza de la Hermandad, Vidre art gallery 67/68, Plaza Peñaflor, Calle Arcos, 61 and 93 at the Davallada corner)
+@lang: fr
+@translation: from the fact-checked English Poble Espanyol 018 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] L'Andalousie, que tant de gens imaginent en pensant à l'Espagne, a été écartée exprès.
+
+En 1929, Séville avait sa propre Exposition ibéro-américaine. Pour leur premier grand voyage, écrivent les historiens, les quatre créateurs ont écarté l'Andalousie et Murcie, pour éviter la concurrence. Les îles aussi, d'abord.
+
+Puis le roi s'y est intéressé. Alphonse treize, écrivent en espagnol les découvreurs des carnets, « s'est enquis de la représentation andalouse » et « a bien dit combien elle manquerait ». [pause] Sur la date exacte, les sources divergent.
+
+[pause] En mai 1928, le chantier déjà ouvert ici, l'équipe repart pour un troisième voyage : vingt et un jours dans le Sud. Un quartier andalou a été ajouté et déplacé dans le plan, avec, disent les historiens, « des murs blanchis à la chaux, et des intérieurs groupés autour de cours ». Murcie aussi.
+
+[warmly] Regardez alentour. Le Poble, en espagnol, promet « des rues typiques avec des petites maisons blanches et des pots de fleurs bleus ». Repérez les pots bleus, puis une façade à trois balcons. De la Casa-Palacio García de Veas, à Arcos de la Frontera, « la façade et les trois balcons ont été recréés », dit le Poble. [pause] Ceux des côtés ont des balustrades fermées, celui du milieu une rambarde en fer forgé. Sa façade d'origine, en province de Cadix, porte sept noms de famille, dont García et Veas.
+
+La liste du Poble ajoute Úbeda, Cordoue, Écija et Ronda : avec Arcos, cinq provinces andalouses. C'est donc le quartier andalou, jamais sévillan.
+
+Depuis février 2024, la galerie Vidre, aux numéros soixante-sept et soixante-huit, « l'emblématique ancien atelier de verre soufflé » selon le Poble, expose de l'art contemporain.
+
+[pause] Le Sud est venu en dernier. Les historiens l'attribuent à un roi qui a demandé où il était.
+
+Dans la version essentielle et la visite complète, il y a un court Extra à la maison du flamenco de la Calle Arcos, le Tablao de Carmen. Passez par la Plaza Peñaflor et descendez la Calle Arcos, qui a des marches. Le prochain arrêt principal est la Plaza del Carmen, au pied de la tour de brique : Plaza del Carmen · Guerre, prisonniers et musée populaire.

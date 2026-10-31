@@ -1,0 +1,28 @@
+@id: 009 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: The brick tower
+@room: Plaza de la Iglesia · facing the church front
+@type: R
+@title: Plaza de la Iglesia — Una iglesia de tres pueblos
+@where: En la Plaza de la Iglesia, a la que se llega desde la Plaza Aragonesa a lo largo de la fachada de la iglesia (57–59 en el plano), la placita donde baja la amplia escalinata de las Gradas de Santiago; mire hacia la fachada de la iglesia, con la torre de ladrillo en su extremo.
+@what: The Poble's church, a composite of three Aragonese models: the façade of the Carmelite church of Alcañiz (Teruel; BDB pin by 57/58, PIN+COL, number not spoken), the Mudéjar bell tower of Nuestra Señora de la Asunción at Utebo (Zaragoza; DOC, plan drawing) and a façade from Torralba de Ribota (near Calatayud, Zaragoza; position not known,). The preliminary design was a Baroque church fusing Amorebieta and Caldes de Montbui. Built 1928–29.
+@listen: How one trip to Aragon turned a planned Baroque church into a "symbiosis" of three Aragonese buildings, and the three small squares round it.
+@brief: A friend pointing at a building and letting you in on how it was put together; curious, unhurried, a small warm payoff.
+@pace: medium
+@energy: 2→3
+@sources: ACE19 https://revistes.upc.edu/index.php/ACE/article/view/5460/807 (SEC-acad, re-read 31 Oct 2026 via WebFetch: "El anteproyecto proponía una iglesia de estilo barroco, resultado de la fusión entre la iglesia de Amorebieta y la de Caldes de Montbui"; "el proyecto de la iglesia se resolvió como una simbiosis entre la fachada de la iglesia de las Carmelitas de Alcañíz con la torre de Utebo y una fachada extraída de Torralba de Ribota"; "con una mayor representación de Aragón y el estilo mudéjar a costa de lo barroco"; section 4.7, p. 250) ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad, re-read 31 Oct 2026: the same "simbiosis" sentence) ; RAH11 https://core.ac.uk/download/41807295.pdf (SEC-acad via FACTS 6.18 and ROUTE §3.1: the three small squares round the church) ; BDB poble-espanyol.com/ca/wp-json/wp/v2/edifici (OFF-op data via ROUTE §3.4: Església de les Carmelitas, Alcañiz, pin by 57/58) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: Pl. Aragonesa, Pl. Carmen, Pl. de la Iglesia, the tower, the grey Fran Daurel block)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 009 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Sobre el papel, esta iba a ser una iglesia barroca. Luego cuatro hombres recorrieron Aragón en coche, y el plan cambió.
+
+La receta la oyó en la torre. Aquí puede verla.
+
+Los investigadores que estudiaron el viaje describen el resultado como una simbiosis. La iglesia, escriben, une «la fachada de la iglesia de las Carmelitas de Alcañíz» con «la torre de Utebo y una fachada extraída de Torralba de Ribota». [pause] Tres pueblos de Aragón: Alcañiz, en Teruel, Utebo, cerca de Zaragoza, y Torralba de Ribota, cerca de Calatayud.
+
+[pause] Mire la fachada de la iglesia, y luego arriba, la torre de ladrillo. La lista del Poble sitúa en esta plaza la iglesia de las Carmelitas de Alcañiz. La fachada de Torralba está cerca, aunque ninguna fuente fiable dice qué muro es. Son dos de los tres pueblos, quizá los tres, de un vistazo.
+
+La Plaza Aragonesa, donde se alza la torre, la Plaza del Carmen y esta, la Plaza de la Iglesia, son tres placitas alrededor de una sola iglesia.
+
+[warmly] Una iglesia que no existe en ningún otro lugar, hecha de tres reales.
+
+Hay un breve Extra sobre Fiesta, el espectáculo de luz y sonido de diez minutos que el Poble sitúa dentro de la torre. Escúchelo en la puerta del espectáculo, antes de entrar. [pause] La siguiente parada principal está aquí mismo, en la puerta del Museo Fran Daurel, en la Plaza de la Iglesia: Plaza de la Iglesia · La colección de un embotellador.

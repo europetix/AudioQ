@@ -3,7 +3,7 @@
 @room: Plaza de la Hermandad · white walls round you
 @type: W
 @title: Plaza de la Hermandad — Left out, then added for the King
-@where: In the small Plaza de la Hermandad at the top of the Andalusian quarter, where the walls turn white, reached by the path from the monastery past house 69; the Vidre art gallery (67/68) stands on the square. [O11, O12]
+@where: In the small Plaza de la Hermandad at the top of the Andalusian quarter, where the walls turn white, reached by the path from the monastery past house 69; the Vidre art gallery (67/68) stands on the square.
 @what: The Andalusian quarter (the plan's yellow South): left out of the first trip because of Seville's 1929 Ibero-American Exhibition, added and moved within the plan after Alfonso XIII asked about it and the third trip (May 1928, 21 days). Houses from the official list (BDB; numbers PIN+COL, not spoken): Casa-Palacio García de Veas (Arcos de la Frontera, Cádiz; VEAS, three balconies, place by O12), Casa de Nínca (Úbeda, Jaén), Iglesia del Santo Ángel and a patio (Córdoba), Palacio del Marqués de Peñaflor (Écija, Sevilla), Posada de las Ánimas (Ronda, Málaga), Casa de los Celdrán (Murcia). Vidre art gallery, 67/68 (DOC), since Feb 2024 (DATED).
 @listen: Why the south was left out of the village, how a king's question brought it in, and what to look for: blue pots and three balconies from Arcos de la Frontera.
 @brief: A guide telling a good-natured story of a late addition, curious at the start, warm at the looking.

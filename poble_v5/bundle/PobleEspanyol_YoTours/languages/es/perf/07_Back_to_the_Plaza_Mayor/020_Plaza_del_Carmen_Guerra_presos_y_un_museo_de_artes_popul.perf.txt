@@ -1,0 +1,30 @@
+@id: 020 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: Back to the Plaza Mayor
+@room: Plaza del Carmen · at the foot of the tower (play here or crossing to the Plaza de la Iglesia)
+@type: W
+@title: Plaza del Carmen — Guerra, presos y un museo de artes populares
+@where: En la pequeña Plaza del Carmen, al pie de la torre de ladrillo, o caminando más allá de la torre y a lo largo de la iglesia hasta la Plaza de la Iglesia y lo alto de las Gradas de Santiago; no hace falta mirar nada. Sin escalones: las Gradas de Santiago son escalones; el camino sin escalones a la Plaza Mayor vuelve por la Plaza Aragonesa, baja por la Calle Príncipe de Viana hasta el cruce de las casas 102/103 y sigue por la Calle Alcalde de Móstoles hasta la plaza.
+@what: The Poble from the mid-1930s to the 1990s, told without placing anything in a house: the art museum's library (1934; Olot during the war; back in 1939); the Poble's own account of a "prisoner internment camp" in the war (HEDGE: no side, date or number; not mentioned in ARA's count of sixteen Francoist camps in Catalonia, which names 14 municipalities and covers Francoist camps only); "danger of falling into ruin"; the Museu d'Indústries i Arts Populars (1942), ethnological section by Ramon Violant i Simorra; the Poble's own line on "violently anti-Catalanist messages" (attributed); 1957–73 relaunch; the museums until their merger in 1999.
+@listen: What became of the fiesta village between the 1930s and the 1990s: a library, the war, and a folk museum, each told in its source's own words.
+@brief: Level, plain and unhurried; a guide reporting what the records say and no more. No music sting. Short sentences, a held pause after the war quote.
+@pace: medium-slow
+@energy: 1→2
+@sources: HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op, re-read 31 Oct 2026: "In the darkest episode in its history, the brutal war saw its conversion into a prisoner internment camp."; "In the aftermath of the war, the Poble was in danger of falling into ruin."; "Meanwhile, Franco's regime used the museum to disseminate violently anti-Catalanist messages."; "Between 1957 and 1973, Barcelona City Council sought to relaunch the Poble and the hill of Montjuïc as a whole."; "Despite the refurbishment work and the events that were organised, the venue still failed to function."; 1929–30 folk festivals, dances, pageants, "even horse-riding competitions" via FACTS 3.19) ; MNAC-TL https://www.museunacional.cat/en/print/1934-1943-poble-espanyol-olot-poble-espanyol (SEC museum, re-read 31 Oct 2026: "In 1934 the Library opens in the Casa de la Junta de Museos in the Poble Espanyol."; "In 1936 it travels to Olot, along with the artistic and documentary patrimony,"; returns 1939 "to the rooms in the Poble Espanyol") ; ARA22 https://es.ara.cat/cultura/campos-concentracion-franco-catalunya-castigaba_1_4286362.html (SEC, re-read 31 Oct 2026, Marimon, 27 Feb 2022: "en Catalunya hubo 16 campos de concentración distribuidos en 14 municipios"; in Barcelona only Horta named; Poble Espanyol and Montjuïc not mentioned) ; ETNO https://continguts-www.barcelona.cat/museu-etnologic-culturesmon/en/the-museum/history-of-the-museum (OFF, re-read 31 Oct 2026: "Located in Poble Espanyol, the Museu d'Indústries i Arts Populars was dedicated to Catalan and Iberian Peninsula culture,"; "its collections were focused on trades, traditions and everyday life."; "The museum had an ethnological section designed by Ramon Violant i Simorra."; Museu d'Arts Gràfiques "located in the Poble Espanyol site"; "It wasn't until 1999 that they merged definitively.") ; ENC (SEC via FACTS 5.6: 1982–1999 museums in the Poble, later the Museu Etnològic)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 020 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Mientras duró la Exposición, este fue un pueblo de fiestas, con bailes populares, desfiles e incluso concursos hípicos. Lo que vino después se cuenta menos. Puede seguir caminando mientras escucha, pasada la torre, hacia la Plaza de la Iglesia.
+
+[quietly] Primero, una biblioteca. El Museo Nacional de Arte de Cataluña registra que en 1934 su biblioteca abrió en la Casa de la Junta de Museos del Poble Espanyol. Con la guerra, se envió a Olot con el arte y los documentos del museo. Después, volvió.
+
+Luego, la guerra misma. La historia del Poble la llama el episodio más oscuro de su historia. Dice que la brutal guerra lo convirtió en un campo de internamiento de prisioneros. [pause] Ese es el relato del Poble. Las fuentes que hemos leído no dicen quién retenía a los presos, cuántos eran ni cuándo. Un recuento de los campos franquistas en Cataluña, dieciséis, publicado por el periódico Ara, no menciona el Poble.
+
+Tras la guerra, sigue esa historia, el Poble corrió el riesgo de caer en la ruina.
+
+En 1942, las casas vacías encontraron un uso: el Museu d'Indústries i Arts Populars, un museo de industrias y artes populares. El actual Museu Etnològic dice que estaba dedicado a la cultura catalana y de la península ibérica, con colecciones sobre oficios, tradiciones y vida cotidiana. Su sección etnológica la diseñó Ramon Violant i Simorra. [pause] La historia del Poble añade otra cosa: el régimen de Franco usó el museo para difundir mensajes violentamente anticatalanistas. Dos instituciones, dos descripciones. Le damos las dos.
+
+De finales de los cincuenta a principios de los setenta, la ciudad intentó relanzar el pueblo y la montaña de Montjuïc. Pero, admite la historia del Poble, el recinto seguía sin funcionar. El museo siguió, de una u otra forma, hasta finales de siglo.
+
+[pause] Un pueblo construido para una fiesta: una biblioteca, luego presos, luego un museo de artes populares.
+
+Pase la torre y siga a lo largo de la iglesia hasta la Plaza de la Iglesia. Deténgase en lo alto de las Gradas de Santiago, la amplia escalinata que baja hacia la Plaza Mayor: Gradas de Santiago · El Norte.

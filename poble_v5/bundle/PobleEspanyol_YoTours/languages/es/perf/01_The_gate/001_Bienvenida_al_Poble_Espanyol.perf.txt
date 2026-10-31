@@ -1,0 +1,32 @@
+@id: 001 · ES · Poble Espanyol · 31 Oct 2026 edition
+@section: The gate
+@room: Plaza Castellana · just inside the gate
+@type: ANCHOR
+@title: Bienvenida al Poble Espanyol
+@where: En la Plaza Castellana, la plaza justo después de la puerta de Ávila, unos pasos hacia dentro, fuera del paso de la gente que entra.
+@what: The Poble Espanyol de Montjuïc ("Spanish Village"), built for the 1929 Barcelona International Exhibition; 117 full-size buildings modelled on originals all over Spain (OFF-op); construction from January 1928, opened 20 May 1929 (OFF-op); meant to be demolished, kept. Official plan Feb 2026: houses numbered 1–116, four region colours, a marked step-free route.
+@listen: What this village is, why it is an interpretation and not a set of copies, the loop we walk, the three lengths, and how the guide points you to houses.
+@brief: A friend meeting you just inside the gate; warm and unhurried, a little surprised at the central fact, practical and clear at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: PHOTO https://poble-espanyol.com/en/exhibition/a-photographic-journey/ (OFF-op via FACTS 4.1: "117 buildings that are actually full-scale recreations of other existing ones") ; HIST https://poble-espanyol.com/en/el-poble/the-history/ (OFF-op, re-read 31 Oct 2026: "Construction work began on the 19th of January 1928 and Poble Espanyol was inaugurated on the 20th of May 1929."; "The initial idea was for it to be demolished at the end of the Universal Exposition") ; ARCH https://poble-espanyol.com/en/?p=274649 (OFF-op, re-read 31 Oct 2026: "117 buildings reproducing the architecture of the entire country") ; ARQ61 https://www.coam.org/media/Default%20Files/fundacion/biblioteca/revista-arquitectura-100/1959-1973/docs/revista-articulos/revista-arquitectura-1961-n35-pag15-23.pdf (SEC primary press, re-read 31 Oct 2026: "la interpretación más que la reproducción de modelos concretos", ES) ; ARQ20 https://www.redalyc.org/journal/1936/193662824005/193662824005.pdf (SEC-acad via FACTS 1.10: "Tampoco se trataba de hacer una colección de monumentos", ES) ; PLAN https://poble-espanyol.com/wp-content/uploads/2026/02/Planol-Poble-Espanyol-EN.png (OFF-op: four colours, numbers, step-free route) ; GIMCANA poble-espanyol.com/wp-content/uploads/2025/07/PDF-respostes-ang.pdf (OFF-op via ROUTE §0.3: loop order) ; CRAFTS https://poble-espanyol.com/en/?p=109977 (OFF-op via FACTS 7.1, 7.4: artisans every day; glass, pottery, stained glass) ; PRACT /en/the-poble-espanyol/practical-information-2/ (OFF-op via ROUTE §2, §5.3: accessible-route map announced) ; times: PLAN §3 (lead's decision, option a)
+@lang: es
+@translation: from the fact-checked English Poble Espanyol 001 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Casi todas las casas de este pueblo vienen de otro lugar. Según el Poble, son ciento diecisiete edificios que recrean a tamaño real otros que existen. Tamaño natural, no miniaturas.
+
+Bienvenidos al Poble Espanyol, el Pueblo Español, en Montjuïc. Se construyó para la gran Exposición Internacional de Barcelona de 1929. Las obras empezaron en enero de 1928. El pueblo abrió unos dieciséis meses después. Según la historia del Poble, la idea inicial era derribarlo. [pause] Nunca se derribó.
+
+[curious] Entonces, ¿qué es? No un museo de copias. Una revista de arquitectura de 1961 resumió su objetivo como «la interpretación más que la reproducción de modelos concretos». Y, añaden investigadores posteriores, «tampoco se trataba de hacer una colección de monumentos». Es un pueblo inventado, hecho con piezas reales. [pause] Esta guía le cuenta, casa por casa, dónde está el original y qué cambiaron los constructores.
+
+En el plano oficial, las casas tienen cuatro colores: Norte verde, Centro rosa, Sur amarillo, Mediterráneo morado. Muchas paradas nombran una casa por su número en ese plano. Tome uno en la entrada.
+
+El paseo es un solo circuito, primero cuesta arriba. Subiremos por la Calle Caballeros hasta la torre de ladrillo de Aragón. Luego, por Cataluña, hasta el monasterio de lo alto, con su vista de Barcelona. [pause] Después bajaremos por las calles blancas de Andalucía y las Gradas de Santiago hasta la Plaza Mayor. Y saldremos por esta puerta.
+
+El recorrido completo dura alrededor de hora y media, paseos incluidos. Casi dos horas si visita también el museo de arte Fran Daurel. La versión esencial, alrededor de una hora y cuarto. Los imprescindibles, unos tres cuartos de hora. En las versiones cortas, los números pueden saltar. Cada parada le dice adónde ir después.
+
+El plano oficial marca un recorrido sin escalones. Pídalo en la entrada. Esta guía le avisa dónde hay escalones.
+
+Aquí trabajan artesanos en sus talleres: vidrio soplado, cerámica, vitrales. Si una puerta está abierta, asómese.
+
+[pause] Quédese en la Plaza Castellana y mire hacia la puerta por la que entró, con sus dos torres redondas almenadas, unidas por una pasarela: Plaza Castellana · Las torres de Ávila.
