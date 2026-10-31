@@ -1,0 +1,28 @@
+@id: 006 · DE · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium, on the wall
+@type: R
+@title: Antiquarium — Die zwei Vögel
+@where: Im Antiquarium, wo immer Sie ein Mosaik finden, das aufrecht an einer Wand hängt, mit zwei Vögeln in der Mitte, dem Emblem des Museums. Wenn Sie es noch nicht entdeckt haben, spielen Sie den Titel beim Weitergehen und halten Sie weiter Ausschau. Er sagt nie, wo das Mosaik ist [O4].
+@what: NEW TRACK in V5.1 [O4]. The emblem: the "kissing birds" mosaic, the symbol of the Antiquarium, "at the centre of a large mosaic" and "reconstructed on the wall of the museum" (ACOM), "pieced together … displayed on the wall" (ACOM-B). Only these SEC facts are spoken as fact; neither source mentions a bowl. Lead decision 31 Oct 2026 (fact audit 006.1/006.2; replaces the HOLD): KRAMER describes, in the Hospitium de los Triclinia, "a perfectly executed geometric composition with two birds on a crater in a small square panel as the central motif", with two borders creating an illusory water movement and smaller zig-zag panels forming a wave effect. That this panel is the emblem is an inference (audit §2 #1), so it is spoken as a panel "that may be the same one", and its details only as what to look for "if the label matches". Dropped: "It began as part of a floor", "underfoot", "sharing a drink", "small" birds (all inferred). Why such scenes: KRAMER, mosaics alluding to the plants and animals of nature were common in Roman houses, especially in areas for passage; their meaning "always eludes us". No species, no century, no "kissing" as fact. Retitled from "Two birds and a wine bowl"; 005's cue updated.
+@listen: The mosaic of two birds that became the museum's emblem, a panel described by the study that may be the same one, and how Romans decorated their homes.
+@brief: A guide stopping with the listener at a much-loved mosaic; curious, a little amused at the nickname, careful about what we know, warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: ACOM https://andalucia.com/cities/seville/museum-antiquarium.htm (SEC, published 6 Dec 2011, modified 2 Apr 2026, re-read 31 Oct 2026: "the kissing birds", "at the centre of a large mosaic", the symbol of the museum, "reconstructed on the wall of the museum") ; ACOM-B https://www.andalucia.com/blog/piecing-together-past (SEC, 19 May 2011, via audit §2 #1, not re-read: "pieced together … displayed on the wall") ; KRAMER https://acikerisim.uludag.edu.tr/bitstreams/5d489fdf-1c78-4a17-b073-8b9e36726fc6/download (SEC academic, Journal of Mosaic Research 11, 2018, re-read 31 Oct 2026: "In the Hospitium de los Triclinia … a perfectly executed geometric composition with two birds on a crater … in a small square panel as the central motif"; "In the two surrounding borders of the mat, an inner and an outer," an illusory water movement; "two smaller panels with zig-zag patterns form a similar wave effect"; "13 mosaics, in situ on the floor, or exposed as vertical panels"; "It was common in Roman houses, particularly in the so-called dynamic areas intended for passage … mosaics with figurative or decorative patterns, which alluded to the plants and animals of nature"; their role "always eludes us") ; crater = Greek and Roman wine-mixing bowl: general knowledge
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 006 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Von all den Göttern und Ungeheuern, die man unter diesem Platz fand, wählte das Museum zwei Vögel als Emblem.
+
+Halten Sie unterwegs Ausschau nach einem Mosaik, das aufrecht an einer Wand hängt, mit zwei Vögeln in der Mitte. [pause] Es wurde wieder zusammengesetzt und an der Wand angebracht, deshalb sehen Sie es aufrecht.
+
+[amused] Manche nennen sie die küssenden Vögel. Küssen sie sich, oder leisten sie einander nur Gesellschaft? Entscheiden Sie selbst.
+
+Die Studie dieser Mosaiken beschreibt eine Tafel mit zwei Vögeln auf einem Krater, der großen Schale, in der die Römer ihren Wein mischten. Es könnte dasselbe Mosaik sein. Diese Tafel stammt aus dem Hospitium de los Triclinia, dem Hospitium der Speisesäle. [pause] Wenn die Beschriftung passt, suchen Sie nach mehr. Auf dieser Tafel sitzen die Vögel in einem kleinen Quadrat, mitten in einem geometrischen Muster. Ringsum sind zwei Bordüren wie bewegtes Wasser gelegt, und kleinere Zickzackfelder verstärken das Kräuseln. [pause] Sehen Sie, ob das Wasser sich zu bewegen scheint.
+
+Warum überhaupt Vögel? Die Römer mochten Mosaiken, die die Natur ins Haus holten, Pflanzen und Tiere, vor allem in den Durchgangsbereichen des Hauses. [pause] Was ein Bild der Familie bedeutete, die damit lebte, so räumt die Studie ein, entzieht sich uns immer.
+
+[warmly] Aus all dem wählte das Museum das sanfteste Bild, um für das Ganze zu stehen.
+
+Gehen Sie weiter und suchen Sie die Beschriftung der casa almohade, des almohadischen Hauses. Spielen Sie dort die nächste Station im Antiquarium: Das almohadische Haus. [pause] Wenn Sie schon daran vorbeigegangen sind, spielen Sie diese Station jetzt, bevor Sie das Antiquarium verlassen.

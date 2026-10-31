@@ -1,0 +1,32 @@
+@id: 013 · DE · Mirador 360º · 31 Oct 2026 edition
+@section: Walkways and Mirador
+@room: Mirador 360º
+@type: W
+@title: Mirador 360º — Der höchste Punkt
+@where: Oben an den Stufen, auf dem Mirador 360º, der höchsten Plattform der Setas. Suchen Sie sich einen Platz am Geländer, an dem Sie die Stufen nicht versperren.
+@what: The Mirador 360º, the highest point of Metropol Parasol (J. Mayer H., 2004–2011): close to 30 m high, six parasols over about 150 m, the walkway across their tops; orientation in three directions for every version: the Giralda and cathedral to the south; west toward the river, Triana's rooftops and the Aljarafe beyond; north toward the Macarena district, about a kilometre away (direction only, no landmark claimed). ONSITE: O7 (cathedral body in clear view), O8 (Giralda-on-your-left cue; Triana's rooftops), O9 (north view; skyline boards; "Giralda at your back" cue).
+@listen: How high you are, the three directions to fix, and the whole building stacked up beneath you.
+@brief: Arriving at the top with the listener; warm and a little elated, clear and practical on orientation, quiet at the payoff.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, INHAB, Jill Fehrenbacher interview: Mayer, on the rooftop, "like being on a cloud above the city") ; https://setasdesevilla.com/planifica-tu-visita (OFF, PLAN: Mirador 360º views "desde el punto más alto del monumento") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST: 150 × 70 m, about 28.5 m high; 250 m of walkways) ; https://visitasevilla.es/en/?p=1477 (OFF, VS-SET, re-read 31 Oct 2026: 150 × 70 m, about 26 m; five levels, basement Antiquarium, market at ground level, elevated plaza, top lookout and walkway) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF, JA-SET: six parasols; about 29 m) ; https://www.dezeen.com/?p=2314624 (SEC, DEZ26: "30-metre-high") → FACTS §5 safe wording "close to 30 metres" ; https://www.seville-trip.com/es/guias/guia-metropol-parasol-setas/ (SEC, STRIP, mod. 10 Jul 2026: Giralda "aparece al sur"; the river and Triana to the west; La Macarena named as a view, no direction) ; https://www.seville-tickets.com/setas-de-sevilla/plan-your-visit/ (SEC, low reliability, second source for the Triana rooftops to the west only; research §4.1) ; https://www.andalucia.com/blog/new-view-sevilla (SEC, ANDCOM11, 2011: "easily spot the Giralda and the Cathedral"; the Aljarafe west) ; BEAR (calc, research §4.2: Giralda ≈185°, 0.8 km → "less than a kilometre"; Basílica de la Macarena ≈10°, 1.0 km → "north… about a kilometre", direction only, per PLAN_V5_1 and audit #33/#228)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Der Architekt Jürgen Mayer H. sagte, hier oben zu stehen sei, als wäre man auf einer Wolke über der Stadt. Sie haben den höchsten Punkt der Setas erreicht.
+
+Wie hoch ist das? Die Quellen weichen um ein paar Meter ab. Sagen wir also knapp dreißig Meter, etwa so hoch wie ein neunstöckiges Gebäude. [pause] Unter Ihnen breiten sich sechs Schirme über hundertfünfzig Meter aus, und der Rundweg schlängelt sich darüber. Diese Plattform krönt das Ganze.
+
+Drei Richtungen sollten Sie sich einprägen, auch wenn Sie einige schon vom Rundweg kennen. Suchen Sie die Giralda, den hohen Glockenturm der Kathedrale, mit der mächtigen Kathedrale daneben. [pause] Dort ist Süden, weniger als einen Kilometer entfernt.
+
+Stellen Sie sich nun so, dass die Giralda links von Ihnen ist. Dann blicken Sie nach Westen, zum Fluss, dem Guadalquivir, und zu den Dächern von Triana, dem alten Viertel jenseits des Wassers. [pause] Dahinter erhebt sich der Aljarafe, das höhere Land jenseits des Flusses.
+
+Drehen Sie zuletzt der Giralda den Rücken zu. Jetzt blicken Sie nach Norden, zum Viertel Macarena, etwa einen Kilometer entfernt.
+
+[lightly] Den Rest der Skyline erkunden Sie selbst, in Ihrem Tempo. Gehen Sie langsam einmal am Geländer entlang, bevor Sie weitergehen.
+
+Denken Sie dann an das, was sich unter Ihren Füßen stapelt. Unter der Straße liegen die Reste des römischen und maurischen Sevilla. Auf Straßenhöhe die Markthalle. Darüber die Plaza Mayor, der erhöhte Platz. Und darüber das Holz, bis hinauf zu dieser Plattform.
+
+[pause] [quietly] Von unter der Straße bis zum höchsten Punkt fasst ein einziges Gebäude zweitausend Jahre desselben Platzes. Für einen Moment stehen Sie auf dieser Wolke.
+
+Wenn Sie bereit sind, gehen Sie die Stufen wieder hinunter und auf dem Rundweg weiter zum Weg nach unten. Spielen Sie die nächste Station unterwegs: Geliebt oder gehasst.

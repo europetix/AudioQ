@@ -1,0 +1,30 @@
+@id: 018 · DE · Plaza Mayor, under the parasols · 31 Oct 2026 edition
+@section: Plaza Mayor
+@room: Plaza Mayor · under the parasols
+@type: W
+@title: Plaza Mayor — Unter dem Holz
+@where: Auf der Plaza Mayor, dem großen erhöhten Platz unter den Schirmen, wo der Weg nach unten herauskommt. Stellen Sie sich irgendwohin, wo Sie niemandem im Weg sind und das Holz über sich sehen.
+@what: The Plaza Mayor of Metropol Parasol (J. Mayer H., opened 2011): almost 4,000 m², about 5 m above the street, on the roof of the market; the operator says it is the largest shaded pedestrian plaza in Seville and noticeably cooler even on very hot days, designed for large events (sport, music, fairs, performing arts); overhead, the Kerto-Q panels of the parasols in an orthogonal grid about 1.5 m apart, shady yet open to the sky; two of the trunks hold the lifts, inside concrete (the wording VS-SET, JA-SET and PUBSP agree on; the material of the other trunks is not said, audit 018.1, lead decision 5; the trunk is offered only "if you can see one", O14, audit S8); the 2011 indignados (15-M) meetings and camp at the Setas (PUBSP: "chose the site for its camp"; no source puts the camp on the raised square itself, so not "right here", audit 018.2), and the academic reading of them. Moved here from V5 018: the indignados paragraph. ONSITE: O14 (where the way down arrives; whether the trunks are in view from every part of the square).
+@listen: How big, how high and how cool this raised square is, what the timber over your head is made of, and how protesters made it theirs in its first weeks.
+@brief: A friend standing with the listener in the shade, pointing up; curious, then plain and visual, wry at the turn, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://setasdesevilla.com/en/-/journo-ipsum (OFF, S-PM, operator's Plaza Mayor page, re-read 31 Oct 2026: "With almost 4,000 square metres and standing five metres high, it is the largest shaded pedestrian plaza in Seville"; "even on extremely hot days the temperature in this place is significantly lower"; "designed to accommodate large mass events"; "Sports activities, music, fairs or those related to the performing arts"; audit #10, #199, #202) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF, JA-SET: the raised Plaza Mayor under the parasols, "open to the sky and used for events"; the two trunks house the lifts) ; https://visitasevilla.es/en/?p=1477 (OFF, VS-SET, re-read 31 Oct 2026: "an elevated, shady, open-air plaza (Plaza Mayor) designed to host events of different types"; "a wooden structure with 2 concrete columns that houses the elevators") ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF, METSA, re-read 31 Oct 2026: "glued Kerto-Q laminated veneer lumber panels arranged in an orthogonal grid with a spacing of 1.5 x 1.5 metres") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC, PUBSP: the "Indignados" movement chose the site for its camp in 2011) ; https://papiro.unizar.es/ojs/index.php/zarch/en/article/view/5097 (SEC academic, ZARCH, P. Mena Vega, ZARCH 16, 2021: the 15-M demonstrations "continually held in the Plaza"; architecture's capacity "to decisively transform the occupation of public space") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST: the Plaza Mayor opened about three months after the market of 19 Dec 2010)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 018 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Der Sommer in Sevilla kann glühend heiß sein. Doch der Betreiber sagt, selbst an den heißesten Tagen bleibe dieser Platz spürbar kühler.
+
+Dies ist die Plaza Mayor, der erhöhte Platz. Er umfasst fast viertausend Quadratmeter. Und er liegt etwa fünf Meter hoch, auf dem Dach der Markthalle. [pause] Der Betreiber nennt ihn den größten schattigen Fußgängerplatz Sevillas. Er wurde für große Menschenmengen entworfen: Konzerte, Sport, Messen und darstellende Künste.
+
+[pause] Schauen Sie jetzt nach oben. Von dort kommt der Schatten: von der Unterseite der Schirme. Es ist kein geschlossenes Dach. Es ist ein Raster aus Holzplatten, die sich im rechten Winkel kreuzen, etwa anderthalb Meter auseinander. [pause] So kann dieser Platz schattig sein und trotzdem offen zum Himmel.
+
+Wenn Sie einen der Stämme sehen, die die Schirme tragen, folgen Sie dem Holz mit dem Blick hinunter bis zum Stamm. In zwei der Stämme fahren die Aufzüge, umschlossen von Beton. In einem davon sind Sie hinaufgefahren.
+
+[wry] Eine der ersten großen Menschenmengen hier kam nicht zu einem Konzert. Im Frühjahr 2011, nur Wochen nach der Eröffnung dieses Platzes, machten Sevillas Indignados, die Empörten, die Setas zu ihrem Treffpunkt. [pause] Sie gehörten zur Protestbewegung, die in jenem Jahr ganz Spanien erfasste, und einige schlugen hier ihr Lager auf.
+
+Eine wissenschaftliche Studie über diese Demonstrationen argumentiert, dass die Architektur veränderte, wie Menschen einen öffentlichen Raum nutzen konnten.
+
+[warmly] Ein Platz, der für Menschenmengen entworfen war, fand also fast sofort eine. Nur nicht die Art, die jemand eingeplant hatte.
+
+Bleiben Sie auf der Plaza Mayor und suchen Sie sich eine ruhige Stelle abseits des Wegs nach unten. [pause] Die Markthalle liegt direkt unter Ihren Füßen, und die nächste Station erzählt ihre Geschichte: Die Markthalle, die siebenunddreißig Jahre wartete.

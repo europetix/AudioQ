@@ -1,0 +1,32 @@
+@id: 002 · DE · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium entrance
+@type: W
+@title: Antiquarium — Gefunden unter einem Parkplatz
+@where: Auf der Ebene minus eins, am Eingang des Antiquariums neben der Taquilla, oder auf dem ersten Stück des Stegs im Inneren, wo die ausgegrabenen Überreste zum ersten Mal sichtbar werden.
+@what: The Antiquarium, the archaeological museum under the Setas, opened with the Setas in 2011; about 4,879 m² of excavated remains from the 1st century AD to the 13th century: Roman houses with mosaics, a Moorish (Almohad) house; remains of a 1st-century Roman fish-salting works also found on the site. NEW in V5.1: the dig history in one line (1991 traders' test dig, 1998 rescue excavation linked to the car-park plan, the big excavation 2003–2009, archaeology directed by Fernando Amores Carredano); the museum space by the architect Felipe Palomino González: a glass "membrane" around the ruins, transparent to translucent; one zone of direct daylight only; two lighting systems, for the architecture and for the remains. The look of the space [O4].
+@listen: How a plan for an underground car park turned into Seville's most important surviving Roman site, and how its architect wrapped the ruins in glass and light.
+@brief: A guide stepping into the museum with the listener; curious and a little amused at the hook, then steady and clear, with a quiet sense of wonder at the payoff.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: VS-ANT https://visitasevilla.es/en/?p=1576 (OFF, mod. 5 Jul 2023: found "after a first excavation in the square in the 1990s in order to build a subway parking", project "aborted after the discovery"; inaugurated 27 March 2011; 4,879 m²; "the most important archaeological site that remains from the Roman period in Seville"; Roman 1st–6th c., Almohad house 12th–13th c.) ; JA-ORG https://andalucia.org/en/sevilla-visitas-antiquarium (OFF: "from the 1st century A.D. up to the 13th century"; "from the age of Tiberius (30 A.D.)"; not used for discovery history) ; AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: test dig 10 Oct 1991 to 10 Jan 1992, commissioned by the traders' cooperative) ; KRAMER https://acikerisim.uludag.edu.tr/bitstreams/5d489fdf-1c78-4a17-b073-8b9e36726fc6/download (SEC academic, Journal of Mosaic Research 11, 2018, re-read 31 Oct 2026: "excavated between 2003 and 2009"; "Starting as a rescue excavation 1998, in connection with the planning of a parking area") ; AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: 1990s excavation phases) ; DIVI https://divisare.com/projects/196658-felipe-palomino-gonzalez-fernando-alda-museo-antiquarium (SEC, architect's project text and credits, 16 Apr 2012, re-read 31 Oct 2026: "crear una membrana que envuelva la ruina"; "El material elegido para construir esa membrana es el vidrio, el cual puede ser transparente o translúcido … pasando por todos los grados intermedios"; "Solo disponemos de una zona con iluminación natural directa"; "Iluminación de los espacios arquitectónicos – iluminación de los restos"; credits "PROYECTO MUSEOLÓGICO Y DIRECTOR DE ARQUEOLOGÍA: FERNANDO AMORES CARREDANO") ; VS-SET https://visitasevilla.es/en/?p=1477 (OFF, mod. 5 Jul 2023: "Architect Felipe Palomino Gonzalez designed it", per audit §2 #5) ; ACOM https://andalucia.com/cities/seville/museum-antiquarium.htm (SEC, mod. 2 Apr 2026, re-read 31 Oct 2026: ruins "visible through glass partitions, and underfoot along walkways"; fish-salting vats "dating from the 1st century AD") ; operator "Seville City Council": FACTS §6 (VS-GUIDE OFF, not re-read; O4 signage)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 002 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] In den 1990er-Jahren plante Sevilla eine Tiefgarage unter diesem Platz. Bekommen hat die Stadt stattdessen die Römer.
+
+Geplant war, die Plaza de la Encarnación umzugestalten, mit einer Tiefgarage. Doch der Boden hier gab immer mehr von seiner Vergangenheit preis. Zuerst kam 1991 eine kleine Probegrabung, bezahlt von den Markthändlern. [pause] Dann 1998 eine Notgrabung, als die Tiefgarage geplant wurde. Dann die große Ausgrabung, von 2003 bis 2009. Die archäologische Leitung hatte Fernando Amores. [pause] Die Tiefgarage wurde nie gebaut. Was dabei zutage kam, werden Sie gleich durchqueren.
+
+Dies ist das Antiquarium, das Museum der Überreste unter den Setas. Es öffnete zusammen mit den Setas und umfasst fast fünftausend Quadratmeter. [pause] Die Stadt nennt es die bedeutendste erhaltene römische Stätte Sevillas.
+
+Die Überreste umspannen rund zwölf Jahrhunderte. Die ältesten reichen zurück bis in die Zeit des Kaisers Tiberius, ins erste Jahrhundert. Die jüngsten stammen aus dem dreizehnten Jahrhundert. Die römischen Häuser lagen am tiefsten. Ein Haus aus dem maurischen Sevilla entstand viel später, und viel näher an der Oberfläche.
+
+[quietly] Auch Reste einer römischen Fischsalzerei wurden hier gefunden. Ihre Geschichte folgt später, wenn Sie zum Fluss blicken können.
+
+Der Raum wurde so sorgfältig gestaltet wie die Grabung. Sein Architekt, Felipe Palomino, wollte die Ruinen mit einer Membran umhüllen, und er machte sie aus Glas. [pause] Das Glas kann klar sein, oder matt, oder alles dazwischen. Fast kein Tageslicht dringt hier herunter. Es gibt nur einen einzigen Bereich mit direktem natürlichem Licht. Deshalb gibt es zwei getrennte Lichtsysteme, eines für die Architektur und eines für die Überreste.
+
+Stege führen Sie über die Grabung, mit Überresten unter Ihren Füßen und hinter Glas. Lesen Sie unterwegs die Beschriftungen. Dies war ein Wohnviertel, in dem Menschen lebten und arbeiteten, Jahrhundert um Jahrhundert.
+
+[warmly] Eine nie gebaute Tiefgarage wurde zum Fenster in das römische und maurische Sevilla.
+
+Gehen Sie im Antiquarium auf dem Steg weiter. [pause] Spielen Sie die nächste Station an der ersten Stelle, an der Sie gut auf die Überreste hinunterblicken: Sevilla in Schichten.

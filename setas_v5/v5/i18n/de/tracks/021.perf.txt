@@ -1,0 +1,26 @@
+@id: 021 · DE · After your visit · Extra · 31 Oct 2026 edition
+@section: After your visit
+@room: After your visit (anywhere)
+@type: X
+@title: Nach dem Besuch · Extra · Die Feigenbäume und die römischen Säulen
+@where: Irgendwo, nachdem Sie die Setas verlassen haben: auf der Straße, in einem Café oder auf dem Weg zu einem der beiden Orte. Nur in der vollständigen Tour, nach der letzten Station.
+@what: Two places nearby: the old fig trees (ficus) of the Plaza del Cristo de Burgos, which the city names as an inspiration for the parasols (Mayer himself speaks of "big trees on a neighboring plaza"; the operator calls them centennial), given specialist care by the city (VIVIR); the fig-tree facts are told in full in 009 and only called back here (audit M3); and the two Roman columns of the Alameda de Hércules, of the Trajan–Hadrian period and possibly from a temple (JA-COL's word, audit 021.1), set up there in 1574 on the orders of the Count of Barajas, with statues of Hercules, the city's mythical founder, and Julius Caesar. No bars, prices, hours or walking times. ONSITE: none (position-free); O20 re-check of the ficus works before recording.
+@listen: Where to find the trees the parasols are said to echo, and a piece of Roman Seville that has stood above ground for four and a half centuries.
+@brief: A friend pointing you onward after the visit; curious, relaxed, a little fond; a short goodbye.
+@pace: medium
+@energy: 2→3→2
+@sources: https://visitasevilla.es/en/?p=1477 (OFF, VS-SET, re-read 31 Oct 2026: the parasols "inspired by the vaults of the cathedral of Seville" and "the ficus trees of the nearby Plaza del Cristo de Burgos") ; https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, INHAB: Mayer, the cathedral's vaulting and "big trees on a neighboring plaza") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST, re-read 31 Oct 2026: "inspired by the centennial Ficus in the Plaza de San Pedro", which adjoins Cristo de Burgos; used only for "centennial") ; https://vivirediciones.es/sevilla/aplican-tratamiento-especializado-para-conservar-los-ficus-singulares-de-la-plaza-cristo-de-burgos/ (SEC, VIVIR, 18 Jan 2026, read 31 Oct 2026: "estos árboles singulares"; the Ayuntamiento applied "un tratamiento especializado" to "reforzar la estabilidad y la seguridad de estos ejemplares", after support works two years earlier; audit #16) ; https://andalucia.org/en/sevilla-cultural-tourism-monolitos-y-columnas-romanas (OFF, Junta de Andalucía tourism, read 31 Oct 2026: the columns "date from the time of the Emperor Hadrian and were possibly part of a Roman temple"; "erected in the Alameda avenue, designed by Count Barajas" in 1574; "one of Hercules and one of Julius Caesar") ; https://www.upo.es/patio-colorado/2023/05/07/el-templo-romano-escondido-de-sevilla/ (SEC, UPO-TEMP, 7 May 2023, read 31 Oct 2026: "cronología trajano-adrianea"; "se trasladaron por orden del conde de Barajas"; statues of "Hércules, fundador mitológico, y Julio César"; audit #20, #277, #279–280)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 021 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Auf dem Weg nach oben haben Sie von den alten Feigenbäumen gehört, die die Stadt mit den Schirmen verbindet. Heute können Sie unter ihnen stehen.
+
+Sie wachsen auf der Plaza del Cristo de Burgos. Schauen Sie hinauf ins Geäst, und prüfen Sie, ob Ihnen die Schirme vertraut vorkommen.
+
+Inzwischen brauchen sie Pflege. Die Stadt lässt sie fachkundig betreuen, damit sie stabil und sicher bleiben.
+
+[pause] Auch über der Erde ist das römische Sevilla nahebei erhalten, auf der Alameda de Hércules, der alten Promenade. Dort stehen zwei römische Säulen aus der Zeit der Kaiser Trajan und Hadrian, möglicherweise von einem Tempel. [pause] Aufgestellt wurden sie in den 1570er-Jahren, auf Befehl des Grafen von Barajas. Oben stehen zwei Statuen: Herkules, der mythische Gründer der Stadt, und Julius Caesar.
+
+[warmly] Unter den Setas wurde das römische Sevilla aus dem Boden gegraben. An der Alameda richtete die Stadt vor mehr als vier Jahrhunderten ein Stück davon wieder auf.
+
+Beide liegen in der Nähe: die Plaza del Cristo de Burgos für die Feigenbäume und die Alameda de Hércules für die Säulen. Jede Karte auf Ihrem Telefon zeigt Ihnen den Weg. [pause] Nochmals danke fürs Zuhören, und viel Freude beim Spaziergang.

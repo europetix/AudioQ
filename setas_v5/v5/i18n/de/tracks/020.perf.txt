@@ -1,0 +1,32 @@
+@id: 020 · DE · Plaza Mayor · 31 Oct 2026 edition
+@section: Plaza Mayor
+@room: Plaza Mayor
+@type: CLOSE
+@title: Plaza Mayor — Der Platz auf Stelzen, und der Weg hinaus
+@where: Auf der Plaza Mayor, dem großen erhöhten Platz auf dem Dach der Markthalle, unter den Schirmen. Stellen Sie sich irgendwohin, wo Sie niemandem im Weg sind, am besten dorthin, wo Sie die Schirme über sich sehen.
+@what: The Plaza Mayor of Metropol Parasol (J. Mayer H., opened 2011) as public space: the raised square over the Mercado de la Encarnación, open to the sky and used for events, one of the design's four layers; Mayer's "new contemporary urban centre" and "urban, democratic, open cathedral"; finalist, European Prize for Urban Public Space 2012; Aurora after sunset; the way out to the street; the after-visit Extra announced for the full tour; goodbye. The indignados paragraph of V5 018 has moved to 018. ONSITE: O14 (the way to the street; signs), O15 (Aurora season).
+@listen: Why the raised square is the heart of the design, how to leave, and a last look back down the whole building.
+@brief: A friend saying goodbye in the middle of the square; warm and a little proud of the place, gentle and practical at the end.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF, JA-SET: the raised, shaded Plaza Mayor under the parasols, "open to the sky and used for events of different types"; market at ground level) ; https://www.jmayerh.de/metropol-parasol (OFF, JMH: archaeological museum, farmers' market, elevated plaza, panorama terrace, the four layers; meant to act as "the new contemporary urban center") ; https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF, METSA: Mayer, the potential of the square to become "the new contemporary urban centre") ; https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, INHAB: Mayer, "an urban, democratic, open cathedral that is held together by the people and the life in the center of the city") ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC, PUBSP, European Prize for Urban Public Space archive: "FINALIST 2012") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST: the Plaza Mayor opened about three months after the market, Dec 2010) ; https://www.jmayerh.de/metropol-parasol-aurora (OFF, JMH-AUR: Aurora from sunset; no times said) ; S-PM and audit #41 (OFF: the Plaza Mayor is a public square, "the part that belongs to everyone") ; way out by stairs or escalators: https://www.headout.com/setas-de-sevilla/official-tickets-to-setas-de-sevilla-e-41691/ (SEC, HEADOUT: escalators connecting level −1 and the Plaza Mayor), TRAVCH SEC per research §1.6
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 020 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Sie waren unter der Straße, und Sie waren oben auf den Schirmen. Dieser Platz in der Mitte ist der Teil der Setas, der allen gehört.
+
+Die Plaza Mayor ist eine der vier Schichten des Entwurfs: unter den Schirmen, offen zum Himmel und für Veranstaltungen gemacht. [pause] Der Architekt, Jürgen Mayer H., hoffte, die Plaza de la Encarnación werde zum neuen, zeitgenössischen Zentrum der Stadt.
+
+[pause] Mayer ging noch weiter. Er nannte das Ganze „eine urbane, demokratische, offene Kathedrale, die von den Menschen und dem Leben im Zentrum der Stadt zusammengehalten wird“.
+
+Nicht alle in Sevilla gaben ihm anfangs recht. Doch ein Jahr nach der Eröffnung waren die Setas Finalist beim Europäischen Preis für den städtischen öffentlichen Raum.
+
+[warmly] Schauen Sie sich um. Um die Menschen ging es immer.
+
+Unter Ihnen geht das Markttreiben weiter. Und nach Sonnenuntergang, wenn die Lichtschau Aurora läuft, leuchtet das Holz über Ihnen auf.
+
+Um hinauszugehen, folgen Sie den Schildern hinunter zur Straße, über die Treppe oder die Rolltreppen. Von dort können Sie auch die Markthalle besuchen. [pause] Wenn Sie die vollständige Tour hören, gibt es noch einen letzten kurzen Extra-Titel für die Zeit nach Ihrem Besuch: Die Feigenbäume und die römischen Säulen.
+
+[quietly] Sie haben unter der Straße begonnen, neben den Resten des römischen und maurischen Sevilla. Sie sind bis zum höchsten Punkt der Schirme gestiegen und enden jetzt hier in der Mitte, wo die Stadt zusammenkommt.
+
+[warmly] Danke, dass Sie die Setas de Sevilla mit uns erkundet haben. Wir hoffen, der Blick bleibt Ihnen in Erinnerung.
