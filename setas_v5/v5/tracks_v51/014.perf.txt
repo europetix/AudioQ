@@ -1,0 +1,26 @@
+@id: 014 · Walkway, toward the way down · 31 Oct 2026 edition
+@section: Walkways and Mirador
+@room: Walkway · toward the way down
+@type: W
+@title: Walkway — Love it or hate it
+@where: On the walkway after you come back down from the Mirador, heading toward the way down; walking, or stopped at the rail out of the way of others.
+@what: The controversy over Metropol Parasol: protests at the opening on 27 March 2011, the critics' verdict "como a un Cristo dos pistolas", Rowan Moore's review as relayed by Dezeen (paper not named), Mayor Alfredo Sánchez Monteseirín's "moderna catedral urbana"; the four-year delay, overlapping Spain's financial crisis, and the cost the city reported to Spain's Ombudsman, without the museum figure; Red Dot "Best of the Best" 2012, Mies van der Rohe Award finalist 2013, over a million visitors in the first year by one count. V5 013 kept as fixed, plus one sentence on the crisis.
+@listen: Why Seville argued about the Setas for years, what it cost, and what it won.
+@brief: A fair-minded friend telling both sides as you walk; curious, a little wry with the quotes, straight on the money, leaving the verdict to the listener.
+@pace: medium
+@energy: 3→4→2
+@sources: https://www.publico.es/actualidad/legado-monteseirin.html (SEC, PUBLICO, 28 Mar 2011: citizens "protestaron contra su inauguración", arguing its cost blocked neighbourhood rehabilitation projects; critics: it suits the historic centre "como a un Cristo dos pistolas"; Monteseirín: "Una moderna catedral urbana…", stopped there) ; https://www.dezeen.com/?p=2314624 (SEC, DEZ26: "fierce local opposition" from 2004 to the 2011 opening; planned opening 2007, pushed back four years; Rowan Moore: "Oh my God, it's an icon. How very last decade.", relayed, SNIP per FACTS; paper not named, lead decision) ; https://www.defensordelpueblo.es/noticias/el-defensor-del-pueblo-suspende-su-investigacion-sobre-las-setas-de-la-encarnacion-tras-la-informacion-remitida-por-el-ayuntamiento-de-sevilla-2/ (OFF, DEFP, 2 Jul 2013: budget 51,206,918.25 €, final cost 102,349,992.07 €; museum figure not used, lead decision; "modificaciones en la estructura de madera") ; https://core.ac.uk/download/51391619.pdf (SEC, Rojo Carrero, Univ. Sevilla 2012, as checked in research/AUDIT_OLD_V4_FACTS_OCT2026.md row 236: the works overlapped the financial crisis from 2008) ; https://publicspace.org/works/-/project/g315-metropol-parasol (SEC, PUBSP: disputes with the construction company and archaeological costs among the reasons; "More than a million people went up to the lookout the first year") ; https://www.jmayerh.de/metropol-parasol (OFF, JMH: Reddot "best of the best" 2012; Mies van der Rohe Award finalist 2013) ; https://www.red-dot.org/project/metropol-parasol-29871 (OFF: Red Dot "Best of the Best", Product Design 2012, "Urban design and public spaces") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST: Mies van der Rohe finalist, Jan 2013)
+---
+[curious] When the Setas opened, in March 2011, some Sevillanos came out to protest. They argued that its cost had swallowed money their own neighbourhoods needed.
+
+For years it was the most argued-about building in Seville. People objected to the money, and to the look of it in the middle of the old town. Its critics said the Setas suited the old town "like two pistols on a Christ", a Spanish way of saying wildly out of place.
+
+[wry] The British critic Rowan Moore was dry about it: "Oh my God, it's an icon. How very last decade." The mayor who opened it, Alfredo Sánchez Monteseirín, saw something else entirely: "a modern urban cathedral".
+
+[pause] Then there was the delay, and the bill. Meant to open in 2007, it took four more years, and those were the years of Spain's financial crisis. The city told Spain's Ombudsman that the cost had roughly doubled, from a budget of about 51 million euros to a final bill of about 102 million. Changes to the timber structure, the archaeology and disputes with the builder all played a part.
+
+And yet. It won a Red Dot "Best of the Best" design award. It was a finalist for the European Union's Mies van der Rohe Award for architecture. And by one count, over a million people went up to the walkway in its first year.
+
+[quietly] You're standing on it now, so you get a vote too. Icon, folly, or a bit of *both*?
+
+There are two short Extras here: Aurora, the light in the timber after dark, and Feeling Sevilla, about the film room. Play that one before you go in. The next main stop plays as you walk down, past the exhibition: From building site to city symbol.
