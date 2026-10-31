@@ -1,18 +1,22 @@
 #!/usr/bin/env python3
-"""Yo Tours · Setas de Sevilla (Metropol Parasol) and the Antiquarium — route map, edition of 30 Oct 2026.
+"""Yo Tours · Setas de Sevilla (Metropol Parasol) and the Antiquarium — route map, edition 5.1 of 31 Oct 2026 (21 tracks).
 A PDF made to be read on a phone: page 1 = the whole visit as a vertical SECTION through the building (level −1 with the
 taquilla, the Antiquarium and the lifts; the market at street level; the Plaza Mayor on the market's roof; the
 experiences level at about 21 m; the walkways and the Mirador 360º on top), the route and the three lengths; page 2 = the
-Antiquarium (002–006); page 3 = the walkways from above (007–014); page 4 = coming down and the Plaza Mayor (015–018);
-then the stop table.
+Antiquarium (002–007, with 006 the two birds, a mosaic hung on a wall whose position is not confirmed); page 3 = the
+lifts and the walkways from above (008–015); page 4 = coming down and the Plaza Mayor (016–020), with the Extra 021
+"After your visit" as a note (position-free, after the close, Full only: Plaza del Cristo de Burgos and the Alameda de
+Hércules, nearby, not drawn); then the stop table. Track numbers in the drawings and texts are derived from the track
+files (@room, @section), so a renumbering only needs the track files.
 There is NO official visitor plan online (research/VISIT_ROUTE_AND_SPACES_OCT2026.md §2): the printed "plano guía" is
 handed out at the taquilla (MAP-1). Everything here is therefore SCHEMATIC, not to scale and not traced from anything.
 Drawn as documented (research §1–§3, v5/PLAN.md "The route"): the two accesses lead down to level −1; the taquilla on
 −1; the Antiquarium entrance beside it and the lifts (Mirador access) beside that; two lifts inside the concrete trunks,
 up to the top; the walkways and the Mirador 360º, the highest point, reached only by steps; the experiences level
 inside the parasols (Feeling Sevilla, about 21 m); the way down past the exhibition; the end on the Plaza Mayor, the
-raised square on the market's roof; the market at street level. The only views drawn are the two sourced ones: SOUTH
-toward the Cathedral and the Giralda, WEST toward the river and the Aljarafe (PLAN "Views"; research §4.1).
+raised square on the market's roof; the market at street level. The only views drawn are the three sourced ones: SOUTH
+toward the Cathedral and the Giralda, WEST toward the river and the Aljarafe, NORTH toward the Macarena district, about a
+kilometre away, direction only (PLAN_V5_1 "Views"; research §4.1; audit row 33; told in 013).
 Where PLAN marks a position as provisional (ONSITE items O1–O19) it is drawn with a dashed outline or a dotted line and
 the legend says so: the ramp from Calle Imagen (O1), the arrangement of level −1 (O3), the inside of the Antiquarium
 (O4), where the lift lets you out (O5/O6), every spot on the walkway and the Mirador steps (O6–O9), the Feeling Sevilla
@@ -28,7 +32,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 TRACKS = os.path.join(ROOT, "v5", "tracks")
 LENGTHS_JSON = os.path.join(HERE, "static", "lengths.json")
 OUT_PDF = os.path.join(B, "Setas_Audio_Guide_Route.pdf")
-FOOTER = "Yo Tours · Setas de Sevilla and Antiquarium audio guide · 30 Oct 2026 edition · schematic plan, not to scale"
+FOOTER = "Yo Tours · Setas de Sevilla and Antiquarium audio guide · edition 5.1 · 31 Oct 2026 · schematic plan, not to scale"
 if not os.environ.get("PLAYWRIGHT_BROWSERS_PATH") and os.path.isdir("/opt/pw-browsers"):
     os.environ["PLAYWRIGHT_BROWSERS_PATH"] = "/opt/pw-browsers"
 
@@ -82,6 +86,7 @@ SECS = {  # @section -> (short title, colour, tint)
     "Walkways and Mirador": ("Walkways and Mirador", "#A4581B", "#F1D6BC"),
     "Coming down": ("Coming down", "#5B4A8A", "#E3DDF0"),
     "Plaza Mayor": ("Plaza Mayor", "#2E6A52", "#D3E4C4"),
+    "After your visit": ("After your visit · Full only", "#55616B", "#DDE2E5"),
 }
 def colour(n): return SECS.get(TR[n]["section"], ("", INK, CTX))[1]
 def tint(sec): return SECS[sec][2]
@@ -92,6 +97,30 @@ def sec_ns(*secs): return [n for n in NUMS if TR[n]["section"] in secs]
 def rng(sec):
     ns = sec_ns(sec)
     return (f"{ns[0]}–{ns[-1]}" if len(ns) > 1 else f"{ns[0]}") if ns else ""
+def has(sub): return [n for n in NUMS if sub in TR[n]["room"]]
+def one(ns, what):
+    if not ns: sys.exit("route_map: no track for " + what)
+    return ns[0]
+def lst(ns): return ", ".join(map(str, ns[:-1])) + " and " + str(ns[-1]) if len(ns) > 1 else str(ns[0])
+# the track numbers the texts name, all derived from @room / @section of the track files
+N_LIFTS = one(ds("Level −1 · by the lifts"), "the lifts on level −1")
+N_LIFT = one(ds("Lift"), "the lift")
+N_DIG = one(has("over the dig"), "over the dig")
+N_ROMAN = has("Roman houses")
+N_BIRDS = one(has("on the wall"), "the two birds")
+N_ALMOHAD = one(has("Almohad house"), "the Almohad house")
+N_SOUTH = one(ds("Walkway · south"), "the south view")
+N_WEST = one(ds("Walkway · west"), "the west view")
+N_GLUE = one([n for n in NUMS if TR[n]["room"] == "Walkway"], "the walkway")
+N_MIRADOR = one(ds("Mirador"), "the Mirador")
+N_TOWARD = one(ds("Walkway · toward"), "toward the way down")
+N_AURORA = one(ds("Walkway (anywhere)"), "the walkway Extra")
+N_FEEL = one(ds("Feeling Sevilla"), "Feeling Sevilla")
+N_DOWN = one(ds("The way down"), "the way down")
+PM_NS = sec_ns("Plaza Mayor")
+N_UNDER = one(has("under the parasols"), "under the timber")
+N_CLOSE = one([n for n in PM_NS if TR[n]["type"] == "CLOSE"], "the close")
+AFTER_NS = sec_ns("After your visit")
 
 TIMBER, TIMBER_D, CONC, EARTH = "#EBD3AE", "#B98B52", "#CFCAC1", "#E6DCC8"
 DASH = "1.2,.8"
@@ -295,6 +324,7 @@ def section_svg():
     s.dots(176.5, 28, ds("Feeling Sevilla"), rad=2.6)
     s.dots(170, 51, ds("The way down"), rad=2.6)
     s.dots(142, 61.6, sec_ns("Plaza Mayor"), "r", rad=2.6)
+    s.dots(175.4, 84.6, AFTER_NS, rad=2.6)                                  # after the visit, anywhere: not a place
     # callouts
     s.note(22, 78.6, "IN · Calle Imagen entrance\n(or the north entrance)", "start", 24, 56.5, 2.4)
     s.note(180, 80, "OUT · to the street", "finish", 160, 77.6, 2.4)
@@ -308,6 +338,7 @@ def len_card(i, name, ns, when, desc):
             f'<div class="cs"><b>{esc(when)}</b> · {len(ns)} tracks</div></div></div>'
             f'<div class="cdots">{ds_}</div><div class="cs2">{esc(desc)}</div></div>')
 lens = "".join(len_card(i, n, ns, m, d) for i, (n, ns, m, d) in enumerate(LENGTHS, 1))
+after_line = (f" Extra {lst(AFTER_NS)} is for after your visit, anywhere: play it once you have left." if AFTER_NS else "")
 pages.append(f'''<section class="page">
  <header><div class="brand">YO TOURS · AUDIO GUIDE</div><h1>Setas de Sevilla and the Antiquarium</h1>
  <p class="lede">One building in four layers, from Roman Seville under the street to the walkways on top: {len(F_SET) - FX} main stops plus {FX} short Extras in one walking order, in three lengths.</p></header>
@@ -316,11 +347,11 @@ pages.append(f'''<section class="page">
  <div><b>3</b> Each track ends by telling you where to go next. This is a schematic section, not to scale. <strong>Dashed and dotted: not yet confirmed on site.</strong></div></div>
  <div class="ov">{section_svg()}<div class="keys">{KEYS}</div>{LEGEND}</div>
  <div class="cards">{lens}</div>
- <div class="warn"><b>Shorter tours skip the Antiquarium:</b> after the taquilla, go to the lifts beside its entrance. It is a separate museum with its own entrance and admission; if it is closed, the Full tour carries on at the lifts with 7. Times include walking and the lifts, not the Feeling Sevilla film.</div>
+ <div class="warn"><b>Shorter tours skip the Antiquarium:</b> after the taquilla, go to the lifts beside its entrance. It is a separate museum with its own entrance and admission; if it is closed, the Full tour carries on at the lifts with {N_LIFTS}.{after_line} Times include walking and the lifts, not the Feeling Sevilla film.</div>
  <footer>{esc(FOOTER)}</footer>
 </section>''')
 
-# ---------------------------------------------------------------- page 2: the Antiquarium (002–006)
+# ---------------------------------------------------------------- page 2: the Antiquarium (002–007)
 def antiq_svg():
     """A schematic plan of the Antiquarium on level −1 (stops in order along its walkway) and a cut through the ground."""
     s = Svg(184, 136); at, att = stroke("Antiquarium"), tint("Antiquarium")
@@ -336,7 +367,7 @@ def antiq_svg():
     s.path("M37,52 L37,62", strk="#FBF7F0", sw=1.4); s.path("M35.5,52 L38.5,52 M35.5,62 L38.5,62", strk=at, sw=.5)
     s.text(39, 50, "entrance", "plm", "start", 2.4)
     zones = [((42, 64, 66, 88), "entrance"), ((62, 16, 94, 44), "over the dig"), ((98, 46, 146, 88), "Roman houses"),
-             ((146, 16, 178, 46), "Almohad house")]
+             ((150, 54, 178, 88), "on a wall"), ((146, 16, 178, 46), "Almohad house")]
     for (x0, y0, x1, y1), lab in zones:
         s.rect(x0, y0, x1, y1, "#F7E9DA", at, .3, dash=".9,.7", rx=2.5, op=.8)
     # remains: low walls (schematic, not the real plan)
@@ -345,30 +376,39 @@ def antiq_svg():
         s.path(f"M{(x0 + x1) / 2:.1f},{y0} L{(x0 + x1) / 2:.1f},{y0 + (y1 - y0) * .55:.1f} M{x0},{y0 + (y1 - y0) * .6:.1f} L{x0 + (x1 - x0) * .4:.1f},{y0 + (y1 - y0) * .6:.1f}", strk="#B9926D", sw=.45)
     s.rect(66, 22, 90, 40, "#C9A27A", "#9C7650", .4, op=.6)                  # the dig
     s.rect(70, 26, 86, 36, "#B98E62", "none", op=.7)
+    # the two birds: a mosaic hung upright on a wall; where it hangs is not known [O4]
+    s.rect(156, 59, 172, 61.2, "#B9926D", "none")                              # a wall, seen from above
+    s.rect(160, 61.2, 168, 62.4, "#fff", at, .3, dash=".8,.5")                # the mosaic on it
     # the walkway (dotted: the way through is to be confirmed on site)
-    s.route([(37, 57), (46, 66), (56, 64), (64, 46), (74, 44), (92, 50), (112, 52), (130, 70), (140, 50), (150, 48), (158, 46), (170, 46), (176, 40), (176, 14)],
+    s.route([(37, 57), (46, 66), (56, 64), (64, 46), (74, 44), (92, 50), (112, 52), (130, 70), (150, 67), (164, 67), (174, 60), (176, 48), (176, 14)],
             "unc", mid=True, minlen=11)
     # out, back to the lifts beside the entrance [O4]
     s.route([(176, 14), (176, 9.5), (34.5, 9.5), (31, 14), (29, 22)], "unc", mid=True, minlen=40)
-    s.text(118, 14.8, "out, then back to the lifts beside the entrance · play 7 there", "pls", "middle", 2.3)
+    s.text(118, 14.8, f"out, then back to the lifts beside the entrance · play {N_LIFTS} there", "pls", "middle", 2.3)
     # shorter tours: the taquilla straight to the lifts
     s.route([(18, 74), (18, 37)], "unc", mid=True, minlen=20)
     s.text(16.4, 56, "Essential, Highlights", "pls", "middle", 2.1, rot=-90)
     s.route([(29, 80), (33, 70), (37, 59)], "unc", mid=False)
     s.text(25, 70, "Full", "plm", "middle", 2.2)
     # zone labels and dots
-    for n, (x, y) in zip(sec_ns("Antiquarium"), [(54, 76), (78, 31), (112, 60), (134, 62), (162, 31)]):
-        s.dots(x, y, [n], rad=3.0)
+    spots = {"Antiquarium entrance": (54, 76), "over the dig": (78, 31), "Antiquarium, Roman houses": (112, 60),
+             "through the Roman houses": (134, 62), "on the wall": (164, 68.6), "Almohad house": (162, 31)}
+    for n in sec_ns("Antiquarium"):
+        xy = next((v for k, v in spots.items() if k in TR[n]["room"]), None)
+        if xy is None: sys.exit(f"route_map: no spot on page 2 for track {n} ({TR[n]['room']})")
+        s.dots(*xy, [n], rad=3.0)
     s.text(54, 83.4, "entrance", "plm", "middle", 2.5)
     s.text(78, 19.8, "over the dig", "plm", "middle", 2.5)
     s.text(122, 91, "Roman houses", "plm", "middle", 2.6)
     s.text(162, 19.8, "Almohad house", "plm", "middle", 2.5)
-    # a cut through the ground: the layers, as told in 3 and 6
-    y0 = 100; s.text(3, y0 + 1, "A CUT THROUGH THE GROUND · AS TOLD IN 3 AND 6", "lvt", "start", 2.4)
+    s.text(164, 79.4, "two birds, on a wall", "plm", "middle", 2.4)
+    s.text(164, 82.8, "where: to be confirmed", "pls", "middle", 2.1)
+    # a cut through the ground: the layers, as told in the dig track and the Almohad house track
+    y0 = 100; s.text(3, y0 + 1, f"A CUT THROUGH THE GROUND · AS TOLD IN {N_DIG} AND {N_ALMOHAD}", "lvt", "start", 2.4)
     bands = [(y0 + 4, y0 + 8, "#EEE7DA", "street level: the market, the Plaza Mayor above", "#4A443C"),
              (y0 + 8, y0 + 13, "#E4D3BD", "convent remains, near the top", "#4A443C"),
-             (y0 + 13, y0 + 21, "#D9BE9C", "Moorish houses, about 3 m down (the Almohad house, 6)", "#3C2E22"),
-             (y0 + 21, y0 + 33, "#C9A27A", "Roman Seville, 7 to 9 m below the street (the Roman houses, 4 and 5)", "#2A2018")]
+             (y0 + 13, y0 + 21, "#D9BE9C", f"Moorish houses, about 3 m down (the Almohad house, {N_ALMOHAD})", "#3C2E22"),
+             (y0 + 21, y0 + 33, "#C9A27A", f"Roman Seville, 7 to 9 m below the street (the Roman houses, {lst(N_ROMAN)})", "#2A2018")]
     for a, b, col, lab, fcol in bands:
         s.rect(3, a, 181, b, col); s.text(6, (a + b) / 2 + 1, lab, "pl", "start", 2.4, fill=fcol)
     s.path(f"M3,{y0 + 4} L181,{y0 + 4}", strk="#6E665B", sw=.6)
@@ -378,16 +418,16 @@ def antiq_svg():
 AN_NS = sec_ns("Antiquarium")
 abody = f'<div class="plan">{antiq_svg()}{LEGEND}</div>'
 aextra = f'''<div class="boxes">
- <div class="box"><h3>Separate museum, Full tour only</h3><p>The Antiquarium has its own entrance and its own admission, beside the taquilla on level −1. Essential and Highlights skip it and go straight to the lifts. If it is closed when you are there, go to the lifts beside its entrance and play 7.</p></div>
- <div class="box"><h3>Find the label</h3><p>The way through has not been checked on site yet, so the drawing shows only the order. Each track names the label to look for: the Casa de la Columna, the Casa de Baco, the casa almohade.</p></div>
- <div class="box"><h3>After 6</h3><p>Follow the exit signs, then go to the lifts beside the Antiquarium entrance, the Mirador access. Play 7 there, before you go up.</p></div>
+ <div class="box"><h3>Separate museum, Full tour only</h3><p>The Antiquarium has its own entrance and its own admission, beside the taquilla on level −1. Essential and Highlights skip it and go straight to the lifts. If it is closed when you are there, go to the lifts beside its entrance and play {N_LIFTS}.</p></div>
+ <div class="box"><h3>Find the label</h3><p>The way through has not been checked on site yet, so the drawing shows only the order. Each track names what to look for: the Casa de la Columna, the Casa de Baco, a mosaic with two birds hung on a wall ({N_BIRDS}: play it where you find it), the casa almohade.</p></div>
+ <div class="box"><h3>After {AN_NS[-1]}</h3><p>Follow the exit signs, then go to the lifts beside the Antiquarium entrance, the Mirador access. Play {N_LIFTS} there, before you go up.</p></div>
 </div>'''
 pages.append(map_page("THE ANTIQUARIUM", f"The Antiquarium · {rng('Antiquarium')}",
     "Below the square, on level −1: the remains found when the city dug for a car park that was never built. Walkways run over the excavation, from the entrance "
-    "to the dig, the Roman houses and the Almohad house. Order as in the guide; the positions inside are still to be checked on site.",
+    "to the dig, the Roman houses, a mosaic of two birds hung on a wall and the Almohad house. Order as in the guide; the positions inside are still to be checked on site.",
     abody, AN_NS, aextra))
 
-# ---------------------------------------------------------------- page 3: the walkways from above (007–014)
+# ---------------------------------------------------------------- page 3: the walkways from above (008–015)
 def walk_svg():
     s = Svg(184, 132); wc = stroke("Walkways and Mirador")
     # six parasols seen from above: soft overlapping discs (shape, size and orientation NOT from a plan)
@@ -407,25 +447,27 @@ def walk_svg():
     s.add(f'<rect x="152" y="58" width="9" height="9" rx="1" fill="{tint("Coming down")}" stroke="{stroke("Coming down")}" stroke-width=".4" stroke-dasharray="{DASH}"/>')
     stairs(s, 153.5, 59.5, 159.5, 65.5, 4, stroke("Coming down"), .35)
     # the walkway (all of it to be confirmed: no map yet), in walking order
-    W = [(150, 102), (132, 108), (104, 100)]                               # lift -> 8 -> 9 (south)
-    W2 = [(104, 100), (78, 108), (52, 92), (26, 72)]                        # -> 10 (west)
-    W3 = [(26, 72), (34, 50), (52, 38), (70, 33), (84, 40), (84, 56)]      # -> 11 -> the steps
-    W5 = [(112, 64), (124, 52), (134, 38), (150, 38), (158, 46), (157, 57)]  # -> 13 -> the way down
+    W = [(150, 102), (132, 108), (104, 100)]                               # lift -> first walkway -> the south view
+    W2 = [(104, 100), (78, 108), (52, 92), (26, 72)]                        # -> the west view
+    W3 = [(26, 72), (34, 50), (52, 38), (70, 33), (84, 40), (84, 56)]      # -> the glue -> the steps
+    W5 = [(112, 64), (124, 52), (134, 38), (150, 38), (158, 46), (157, 57)]  # -> love it or hate it -> the way down
     for seg in (W, W2, W3, W5): s.route(seg, "unc", mid=True, minlen=16)
-    # the two sourced views, as arrows at the edge (the only directions the guide uses)
+    # the three sourced views, as arrows at the edge (the only directions the guide uses; north: direction only)
     vc = stroke("Walkways and Mirador")
     s.route([(104, 117.5), (104, 130)], "main", mid=False)
     s.note(None, None, "SOUTH · the Cathedral and the Giralda", "view", 136, 125.5, 2.7)
     s.route([(21, 64), (2.5, 64)], "main", mid=False)
     s.text(11, 58.5, "WEST", "lvt", "middle", 3.0, fill=vc)
     s.text(11, 69, "the river\nand the\nAljarafe", "plm", "middle", 2.4, fill=vc)
+    s.route([(104, 43.5), (104, 13)], "main", mid=False)
+    s.note(None, None, "NORTH · toward the Macarena district", "view", 104, 7.2, 2.5)
     # labels
     s.text(104, 81.2, "Mirador 360º", "plb", "middle", 3.0)
     s.text(104, 84.6, "the highest point", "pls", "middle", 2.3)
     s.text(78, 61.6, "steps", "plm", "end", 2.5)
     s.text(150, 97.4, "lifts", "plm", "middle", 2.4)
     s.text(156.5, 71.6, "the way down\npage 4", "plm", "middle", 2.4)
-    s.text(181, 5.6, "the six parasols · outline schematic, not from a plan", "pls", "end", 2.3)
+    s.text(3, 128.6, "the six parasols · outline schematic, not from a plan", "pls", "start", 2.3)
     # dots
     s.dots(134, 114.5, ds("Lift"), rad=2.7)
     s.dots(104, 106, [n for n in ds("Walkway · south")], rad=2.7)
@@ -446,17 +488,17 @@ def walk_svg():
     return s.done()
 
 WK_NS = ds("Level −1 · by the lifts") + ds("Lift") + sec_ns("Walkways and Mirador")
-wextra = '''<div class="boxes">
+wextra = f'''<div class="boxes">
  <div class="box"><h3>Only the order is fixed</h3><p>There is no official map of the walkway yet, and nobody has confirmed whether it runs one way. Every spot drawn here is a guess at the order, not the place. Play each track where it says.</p></div>
- <div class="box"><h3>Two views to find</h3><p><b>9</b>: wherever the Giralda and the cathedral are in clear view, to the south. <b>10</b>: stand with the Giralda on your left, facing west, toward the river and the Aljarafe.</p></div>
- <div class="box"><h3>Steps to the top</h3><p>The Mirador 360º, the highest point, is reached only by steps. Some walkway ramps are steep. After 12, go back down the steps and on toward the way down.</p></div>
+ <div class="box"><h3>Three views to find</h3><p><b>{N_SOUTH}</b>: wherever the Giralda and the cathedral are in clear view, to the south. <b>{N_WEST}</b>: stand with the Giralda on your left, facing west, toward the river, Triana and the Aljarafe. <b>{N_MIRADOR}</b>, on the Mirador: with the Giralda at your back you face north, toward the Macarena district, about a kilometre away.</p></div>
+ <div class="box"><h3>Steps to the top</h3><p>The Mirador 360º, the highest point, is reached only by steps. Some walkway ramps are steep. After {N_MIRADOR}, go back down the steps and on toward the way down.</p></div>
 </div>'''
-pages.append(map_page("THE WALKWAYS", "The walkways and the Mirador · 7 to 14",
-    "Play 7 by the lifts on level −1, and start 8 as the lift doors close. On top, walk on until the Giralda is in clear view (9), face west toward the river (10), "
-    "walk on toward the steps (11), climb to the Mirador 360º (12), then back down the steps and on toward the way down (13; Extra 14 anywhere).",
+pages.append(map_page("THE WALKWAYS", f"The walkways and the Mirador · {WK_NS[0]} to {WK_NS[-1]}",
+    f"Play {N_LIFTS} by the lifts on level −1, and start {N_LIFT} as the lift doors close. On top, walk on until the Giralda is in clear view ({N_SOUTH}), face west toward the river ({N_WEST}), "
+    f"walk on toward the steps ({N_GLUE}), climb to the Mirador 360º ({N_MIRADOR}), then back down the steps and on toward the way down ({N_TOWARD}; Extra {N_AURORA} anywhere).",
     f'<div class="plan">{walk_svg()}{LEGEND}</div>', WK_NS, wextra))
 
-# ---------------------------------------------------------------- page 4: coming down and the Plaza Mayor (015–018)
+# ---------------------------------------------------------------- page 4: coming down and the Plaza Mayor (016–020), and 021 after the visit
 def down_svg():
     s = Svg(184, 130); fc, ft = stroke("Coming down"), tint("Coming down")
     st_, dk = 112, 80                      # street level, the Plaza Mayor deck (NOT to scale)
@@ -487,7 +529,7 @@ def down_svg():
     # labels
     s.text(68, dk - 9.4, "Plaza Mayor · the raised square", "plb", "middle", 3.3)
     s.text(68, dk - 5.6, "on the market's roof · the visit ends here", "pls", "middle", 2.4)
-    s.text(70, 4.6, "the walkway, from 13", "pls", "middle", 2.3)
+    s.text(70, 4.6, f"the walkway, from {N_MIRADOR}", "pls", "middle", 2.3)
     s.text(181, 127.4, "SCHEMATIC SECTION · NOT TO SCALE", "scl", "end", 2.3)
     # dots
     s.dots(149, 15, ds("Walkway · toward") + ds("Walkway (anywhere)"), "r", rad=2.7)
@@ -495,18 +537,28 @@ def down_svg():
     s.dots(173, 62, ds("The way down"), rad=2.7)
     s.dots(136, dk - 8.2, sec_ns("Plaza Mayor"), "r", rad=2.7)
     s.note(6, st_ - 2, "OUT · stairs or escalators to the street", "finish", 40, 121, 2.6)
+    # after the visit: an Extra for anywhere, about two places nearby (not drawn: no positions)
+    if AFTER_NS:
+        s.dots(86, 120.4, AFTER_NS, rad=2.7)
+        s.text(90.4, 119.4, "after your visit, anywhere: the fig trees of the Plaza del Cristo de Burgos", "plm", "start", 2.3)
+        s.text(90.4, 122.6, "and the Roman columns of the Alameda de Hércules, both nearby", "pls", "start", 2.3)
     return s.done()
 
 DN_NS = sec_ns("Coming down", "Plaza Mayor")
-dextra = '''<div class="boxes">
- <div class="box"><h3>Feeling Sevilla (15)</h3><p>An optional Extra about the film room, on the experiences level inside the parasols. Play it before you go in. Where the room is, and when you reach it, is still to be confirmed on site.</p></div>
- <div class="box"><h3>The way down (16)</h3><p>Play 16 as you walk down past the exhibition. At the bottom you come out on the Plaza Mayor, the big raised square under the parasols. Whether there is also a lift down is still to be confirmed.</p></div>
- <div class="box"><h3>The end (17, 18)</h3><p>Both play on the Plaza Mayor, with the market under your feet. To leave, follow the signs down to the street, by the stairs or the escalators. You do not go back to level −1.</p></div>
+PM_RNG = f"{PM_NS[0]}–{PM_NS[-1]}" if len(PM_NS) > 1 else f"{PM_NS[0]}"
+PM_REST = [n for n in PM_NS if n != N_UNDER]
+after_box = (f'''<div class="box wide"><h3>After your visit ({lst(AFTER_NS)}, Extra, Full tour)</h3><p>Not a stop on the route: play it anywhere once you have left the Setas, on the street, at a café, or on your way. It is about two places nearby, not drawn here: the Plaza del Cristo de Burgos, with the old fig trees that inspired the design, and the Alameda de Hércules, with its two Roman columns. Any map on your phone will show you the way.</p></div>''' if AFTER_NS else "")
+dextra = f'''<div class="boxes">
+ <div class="box"><h3>Feeling Sevilla ({N_FEEL})</h3><p>An optional Extra about the film room, on the experiences level inside the parasols. Play it before you go in. Where the room is, and when you reach it, is still to be confirmed on site.</p></div>
+ <div class="box"><h3>The way down ({N_DOWN})</h3><p>Play {N_DOWN} as you walk down past the exhibition. At the bottom you come out on the Plaza Mayor, the big raised square under the parasols. Whether there is also a lift down is still to be confirmed.</p></div>
+ <div class="box"><h3>The Plaza Mayor ({PM_RNG})</h3><p>Play {N_UNDER} where the way down comes out, with the timber overhead; then {lst(PM_REST)} in a quiet spot, with the market under your feet. To leave, follow the signs down to the street, by the stairs or the escalators. You do not go back to level −1.</p></div>
+ {after_box}
 </div>'''
+after_sub = (f" Extra {lst(AFTER_NS)} is for after your visit, anywhere." if AFTER_NS else "")
 pages.append(map_page("COMING DOWN", f"Coming down and the Plaza Mayor · {DN_NS[0]} to {DN_NS[-1]}",
-    "From the walkway, toward the way down. If you watch the Feeling Sevilla film, play Extra 15 before you go in. Then the way down past the exhibition (16), "
-    "and the Plaza Mayor, the raised square on the market's roof, where the visit ends (17, 18).",
-    f'<div class="plan">{down_svg()}{LEGEND}</div>', DN_NS, dextra))
+    f"From the walkway, toward the way down. If you watch the Feeling Sevilla film, play Extra {N_FEEL} before you go in. Then the way down past the exhibition ({N_DOWN}), "
+    f"and the Plaza Mayor, the raised square on the market's roof, where the visit ends ({lst(PM_NS)}).{after_sub}",
+    f'<div class="plan">{down_svg()}{LEGEND}</div>', DN_NS + AFTER_NS, dextra))
 
 # ---------------------------------------------------------------- page 5: the stop table
 rows = []; last_sec = None
@@ -571,7 +623,7 @@ footer {{ position: absolute; left: 13mm; right: 13mm; bottom: 7mm; font: 400 7p
 .list {{ columns: 2; column-gap: 7mm; margin-bottom: 3mm }} .list .row {{ break-inside: avoid }}
 .boxes {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 2.4mm }}
 .box {{ background: #fff; border: .3mm solid {LINE}; border-radius: 3mm; padding: 2.2mm 2.8mm }}
-.box p {{ font: 400 8pt Inter; line-height: 1.38; margin: 0 }}
+.box p {{ font: 400 8pt Inter; line-height: 1.38; margin: 0 }} .box.wide {{ grid-column: 1 / -1 }}
 .sn {{ font-family: Inter; font-weight: 700; fill: #fff; text-anchor: middle }}
 .note {{ font-family: Inter; font-weight: 600; fill: #fff }}
 .pl, .plb, .plm, .pls, .lvt {{ paint-order: stroke; stroke: #FDFBF7; stroke-width: .6px; stroke-linejoin: round }}
