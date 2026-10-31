@@ -1,0 +1,24 @@
+@id: 005 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Going in
+@room: The broad stairway down to the Hall (heard walking)
+@type: R
+@title: Die Treppe — Hinunter, um hineinzugehen
+@where: Starten Sie den Titel oben an der breiten Treppe, die vom Vorplatz zum Eingang hinunterführt, und hören Sie ihn, während Sie in die Eingangshalle hinuntergehen. Sie brauchen dafür keine bestimmte Aussicht [O3, O4].
+@what: The descending entrance stairway (OUTSIDE); construction October 1993 – October 1997; executive architects IDOM (Bilbao); director Juan Ignacio Vidarte; main contractor Ferrovial; construction budget about US$100 million, delivered on time and on budget.
+@listen: Why you go down to go in, and how a building with no easy shapes was built in four years for the money agreed.
+@brief: A companion walking down the steps beside the listener; easy and conversational, a little brisk on the numbers, a raised eyebrow at the last quote.
+@pace: medium
+@energy: 2→3
+@sources: OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via ROUTE §1.1: "visitors access the Hall by making their way down a broad stairway," "an unusual feature that successfully overcomes the height difference") ; MAP https://plano.guggenheim-bilbao.eus/en/ (OFF via FACTS B9: the plaza at floor-2 level, the Hall at floor 1) ; CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF via FACTS A19: October 1993 – October 1997) ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC via FACTS A6, A18: IDOM of Bilbao executive architect, re-priced every change, design halted three times for full re-estimation, Vidarte's rule; US$100m budget) ; AP97 https://www.spokesman.com/stories/1997/oct/19/basque-museum-opens-under-tight-security (SEC via FACTS A6: "$100 million tab for construction") ; APM https://www.apm.org.uk/blog/guggenheim-museum-bilbao-why-was-it-such-a-stellar-project-success/ (SEC via FACTS A39: delivered on time, on budget) ; DEZ22 https://www.dezeen.com/2022/05/18/frank-gehry-guggenheim-museum-bilbao-deconstructivism/ (SEC via FACTS A39: on time and on budget) ; FERRO https://www.ferrovial.com/blog/en/2017/10/guggenheim-museum-construction/ (SEC, builder, via FACTS A20: Ferrovial main contractor; Juan Ramón Pérez, works manager: "20 years ahead of its time", "It was indeed difficult, and financially incredibly costly", his answer about working on the twisted frame: platforms, cranes, rope access, scaffolding close to 50 m, per AUDIT_V5_FACTS M2)
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 005 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] In den meisten großen Museen steigen Sie Stufen hinauf, um zur Kunst zu gelangen. Dieses schickt Sie hinunter. In den Worten des Museums „gelangen die Besucher über eine breite Treppe hinab in die Eingangshalle“, „eine ungewöhnliche Lösung, die den Höhenunterschied gelungen überwindet“. [pause] Der Vorplatz liegt ein ganzes Stockwerk über der Halle. Sie gehen also hinein, indem Sie hinuntergehen.
+
+Der Bau, den Sie gerade betreten, dauerte vier Jahre, von Oktober 1993 bis Oktober 1997. Und gebaut wurde unter straffer Kontrolle. Die ausführenden Architekten waren IDOM, ein Büro aus Bilbao, und sie bezifferten jede Änderung am Entwurf. [pause] Dreimal wurde die Planung gestoppt, um die Kosten komplett neu zu schätzen. Der Projektleiter, Juan Ignacio Vidarte, hatte eine einfache Regel. Nichts wurde genehmigt, was sich nicht im Rahmen von Budget und Zeitplan bauen ließ.
+
+Der Bau kostete rund hundert Millionen Dollar. Und genau hier wird die Geschichte meist falsch erzählt. Oft liest man, er sei unter dem Budget geblieben. Keine der Quellen, denen wir vertrauen, sagt das. [pause] Was sie sagen, ist besser als Prahlerei: Er wurde pünktlich und im Budget fertig.
+
+[curious] Gebaut hat ihn Ferrovial. Der Bauleiter der Firma, Juan Ramón Pérez, machte dem Gebäude ein berühmtes Kompliment. Er nannte es „seiner Zeit zwanzig Jahre voraus“. Er gab auch zu, dass es „tatsächlich schwierig und finanziell unglaublich kostspielig“ war, überhaupt an das verdrehte Tragwerk heranzukommen, um daran zu arbeiten.
+
+Unten in der Eingangshalle suchen Sie ZERO, den kleinen Einführungsraum im Foyer. Spielen Sie die nächste Station vor seiner Tür, bevor Sie hineingehen: ZERO · Der Raum, der sich vervielfacht.

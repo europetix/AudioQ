@@ -181,3 +181,4 @@ BRIDGES (shorter versions): walk each once.
 [ ] 010 E>013   [ ] 015 E>017 (204 balcony glance)   [ ] 018 H>025 (exit → river → pond → Maman)   [ ] 025 H>027
 
 RESULTS → the lead updates PLAN §1 ALT cues (T, X, M, S, B, P), §3 times and the cue texts, then the writers re-record the cues.
+[ ] LISTEN 015 (DE): how Katja reads the English titles "Advice to Space Five" and "Embrace Eleven"; if odd, switch to the Spanish originals (Consejo al espacio fünf / Besarkada elf).

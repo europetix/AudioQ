@@ -1,0 +1,30 @@
+@id: 020 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: The Hall
+@type: X
+@title: Eingangshalle · Extra · Eröffnungstag, 1997
+@where: In der Eingangshalle am Fuß der breiten Treppe, an einer Stelle abseits der hereinkommenden Besucher. [O11]
+@what: The royal inauguration of the Guggenheim Museum Bilbao, Saturday 18 October 1997, and the public opening on 19 October 1997. No artwork.
+@listen: The day a king flipped a switch, who was there, who marched against it, and what one great architect is reported to have said.
+@brief: A guide telling a short, vivid story in the Hall; warm, with one respectful moment for the officer remembered on the plaza.
+@pace: medium
+@energy: 3→4→3
+@sources: AP97 https://www.spokesman.com/stories/1997/oct/19/basque-museum-opens-under-tight-security/ (SEC, P. Rolfe, AP, 19 Oct 1997, re-read 31 Oct 2026: "The Guggenheim Museum is inaugurated!" in AP's English; "the king flipped the master switch, illuminating the 196-foot-high atrium"; "A choir singing sweetly in the Basque language greeted Juan Carlos and Queen Sofia"; "Rooftop sharpshooters kept close watch on the gala opening"; Ardanza "remembered slain policeman Jose Maria Aguirre at Saturday's inauguration"; "About 2,000 Basque artists and others marched on the other side of town earlier in the day, denouncing the museum.") ; IRISH97 / EI17 (SEC via FACTS D4: King Juan Carlos, Prime Minister Aznar and Lehendakari Ardanza at the inauguration) ; PR-25M https://www.guggenheim-bilbao.eus/en/press-room/press-releases/el-museo-guggenheim-bilbao-recibe-a-su-visitante-25-millones-en-el-ano-de-su-25-aniversario (OFF via FACTS A29, ES: "desde su apertura el 19 de octubre de 1997") ; DEZ22 https://www.dezeen.com/2022/05/18/frank-gehry-guggenheim-museum-bilbao-deconstructivism/ (SEC via FACTS A31: Philip Johnson "the greatest building of our time", reported without source)
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 020 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Am Samstag, dem achtzehnten Oktober 1997, eröffnete ein König ein Museum, indem er einen Lichtschalter betätigte.
+
+Ein Chor sang auf Baskisch, als König Juan Carlos und Königin Sofía hereinkamen. Der König erklärte, wie AP es auf Englisch meldete: „Das Guggenheim-Museum ist eröffnet.“ Dann legte er den Hauptschalter um, der das Atrium erleuchtete. [pause] Auch der baskische Präsident war da. Die Sicherheitsvorkehrungen waren streng, Scharfschützen wachten auf den Dächern.
+
+[quietly] Bei der Feier erinnerte der baskische Präsident an Txema Agirre, den Polizisten, dessen Name auf dem Vorplatz steht.
+
+[pause] Nicht alle kamen zum Feiern. Am selben Tag, so meldete AP, demonstrierten etwa zweitausend baskische Künstler und andere auf der anderen Seite der Stadt gegen das Museum.
+
+Für das Publikum öffneten die Türen am nächsten Tag, Sonntag, dem neunzehnten Oktober.
+
+Und das Urteil der Architekten? Der amerikanische Architekt Philip Johnson soll es „das großartigste Gebäude unserer Zeit“ genannt haben.
+
+[curious] Bevor Sie hinausgehen, stellen Sie sich das Atrium vor, in dem Sie vorhin standen, dunkel. [pause] Und dann diesen einen Schalter, der alles auf einmal ins Licht bringt.
+
+Verlassen Sie jetzt das Museum, und spielen Sie die nächste Station im Gehen. Sie zeigt Ihnen den Weg zur Uferpromenade: Draußen · Von den Werften zur Uferpromenade.

@@ -1,0 +1,32 @@
+@id: 018 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: Third floor · balcony opposite gallery 304
+@type: W
+@title: Ebene 3 — Die Metallblume
+@where: Auf Ebene 3, am Balkon gegenüber Saal 304, mit Blick über das Atrium, das blütenförmige Oberlicht über Ihnen, die Stege und Glasaufzüge unter Ihnen. [O10]
+@what: The building: the Atrium and its skylight "in the shape of a metal flower", Frank Gehry (Toronto 1929 – Santa Monica 2025), Guggenheim Bilbao Museoa, 1991–97. No artwork.
+@listen: The flower over the Atrium, the fish behind Gehry's curves, and his boast about straight lines.
+@brief: A guide at the top of the building with the listener, warm about the boy and the fish, wry about the boast, then quiet at the drop.
+@pace: medium
+@energy: 3→4→3
+@sources: R-EXP https://www.guggenheim-bilbao.eus/en/routes/express-tours (OFF via ROUTE §1.8: "The balcony opposite gallery 304 affords breathtaking views of the Atrium") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via FACTS B5: "a large skylight in the shape of a metal flower covering the Atrium") ; R-ARCH https://guggenheim-bilbao.eus/en/routes/architecture (OFF via ROUTE §1.3: third-floor skylights, light "reaches the spaces on the floor below as well") ; NPR15 https://www.npr.org/2015/09/10/438944405/frank-gehrys-lifelong-challenge-to-create-buildings-that-move (SEC, re-read 31 Oct 2026: carp in the grandmother's bathtub before they became gefilte fish, NPR's paraphrase; Gehry "The curves were from the fish", continuing "a sense of movement with inert materials") ; DEZ22 https://www.dezeen.com/2022/05/18/frank-gehry-guggenheim-museum-bilbao-deconstructivism/ (SEC via FACTS B23: "when a fish moves it's so beautiful") ; GBIO https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry/biography-of-frank-gehry (OFF via FACTS A35, A37: born Toronto as Frank Owen Goldberg; died 5 Dec 2025; fish lamps; Barcelona fish 1992) ; GEHRY https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry (OFF via FACTS A36: Pritzker 1989) ; CBS https://www.cbsnews.com/news/frank-gehry-dies-age-96-architect (SEC via FACTS A35: died aged 96) ; HARV https://www.gsd.harvard.edu/wp-content/uploads/2016/06/pollalis-case-BilbaoG-CaseA.pdf (SEC via FACTS A34: "does not have a single straight line…It is not artistry, it is precision.") ; INSIDE https://www.guggenheim-bilbao.eus/en/the-building/inside-the-museum (OFF via ROUTE §1.3: galleries "some orthogonally shaped and with classical proportions")
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 018 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Der Rundgang des Museums verspricht von diesem Balkon „atemberaubende Blicke auf das Atrium“. Urteilen Sie selbst.
+
+Über Ihnen ist, wie das Museum es nennt, „ein großes Oberlicht in Form einer Metallblume, das das Atrium bedeckt“. Die Säle auf dieser Ebene haben eigene Oberlichter. Ihr Tageslicht „erreicht auch die Räume auf der Ebene darunter“, in den Worten des Museums.
+
+[pause] Warum all diese Kurven? Gehrys Antwort führte zurück in seine Kindheit. Wie es heißt, sah er als Junge in Toronto lebende Karpfen in der Badewanne seiner Großmutter schwimmen, bevor sie zu Gefilte Fisch wurden. Er wurde dort geboren, in die Familie Goldberg. [pause] Jahrzehnte später sagte er: „Die Kurven kamen von den Fischen.“ Er sprach von „einem Gefühl von Bewegung mit trägen Materialien“. Und er sagte: „Wenn sich ein Fisch bewegt, ist das so schön.“
+
+Fische schwammen schon vor diesem Gebäude durch sein Werk: Fischlampen 1984 und eine Fischskulptur aus Edelstahl für den Olympiahafen in Barcelona 1992.
+
+[wry] Er prahlte auch, dieses Gebäude habe „keine einzige gerade Linie“. „Das ist keine Kunstfertigkeit“, sagte er, „das ist Präzision.“ Das war Prahlerei, keine Messung. Das Museum selbst beschreibt einige seiner Säle als orthogonal, mit klassischen Proportionen. Mit anderen Worten: rechte Winkel.
+
+[curious] Suchen Sie also die Kurven. Folgen Sie den Blütenblättern der Blume über Ihnen. Suchen Sie die Stege, die über den offenen Raum gespannt sind, und die Glasaufzüge, die zwischen den Ebenen fahren. [pause] Dann schauen Sie hinunter, ganz bis zum Boden des Atriums, wo Sie vorhin standen.
+
+Den Pritzker-Preis, die höchste Auszeichnung der Architektur, hatte er 1989 gewonnen.
+
+[warmly] Ein Junge, der Fischen in einer Badewanne zusieht, und ein Leben später ein Dach aus metallenen Blütenblättern über all dem.
+
+Kehren Sie jetzt mit einem Aufzug oder über die Treppe zurück in die Eingangshalle. Spielen Sie die nächste Station auf dem Weg nach unten: Auf dem Weg nach unten · Der Bilbao-Effekt.

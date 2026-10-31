@@ -1,0 +1,30 @@
+@id: 021 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The river walk
+@room: Outside · on the way to the river walk (heard walking)
+@type: R
+@title: Draußen — Von den Werften zur Uferpromenade
+@where: Starten Sie den Titel, wenn Sie das Museum verlassen, und lassen Sie ihn laufen, während Sie herum und hinunter zur Uferpromenade gehen, dem Weg am Wasser auf der Flussseite des Gebäudes. Er endet, wenn Sie das Wasserbecken neben dem Gebäude erreichen, in dem ein hoher Baum aus Silberkugeln steht. [O11, O12, O13]
+@what: The museum's site and the riverbank of Abandoibarra: a former wharf "with port and industrial use on a curve of the Nervión" (museum); before, the Euskalduna shipyard (founded 1900, closed 1988), container storage, rail lines and docks; after, Bilbao Ría 2000 (1992) and the riverside avenue, "an open-air leisure area".
+@listen: How a working riverbank of shipyards, docks and rail lines became the promenade you are walking on, and where the museum fits in that change.
+@brief: A guide walking beside the listener, telling the story of the ground underfoot; easy and conversational, no pointing until the pond comes into view.
+@pace: medium
+@energy: 2→3
+@sources: CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF, re-read 31 Oct 2026: "on a former wharf with port and industrial use on a curve of the Nervión"; "represented recovery of the banks of the river for the city, redeveloping them for culture and leisure") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF, re-read 31 Oct 2026: "It is possible to walk all the way around the Museum, admiring different configurations from each perspective") ; ABANDO https://pro.guggenheim-bilbao.eus/en/useful-information/sightsee/explore/abando (OFF, re-read 31 Oct 2026: "open-air leisure area with a cosmopolitan atmosphere"; "an emblematic example of the urban regeneration of Bilbao") ; UPM https://blogs.upm.es/puma/2020/10/13/urban-regeneration-of-abandoibarra/ (SEC, re-read 31 Oct 2026: "a totally industrial area"; "roads, railway lines, ports, docks"; shipyards and "large container storage areas"; Astilleros Euskalduna "founded in 1900", closed 1988 after "a major crisis in the steel sector"; Bilbao Ría 2000 "appeared in 1992, with the aim of recovering degraded areas or declining industrial areas"; funded by "the sales of the plots that are transferred free of charge by the public institutions"; "about 1.1 billion euros over 16 years")
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 021 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Bevor hier ein Museum stand, war dieses Flussufer ein Ort der Arbeit.
+
+Gehen Sie beim Zuhören weiter. Ihr Ziel ist die Uferpromenade, der Weg am Wasser. Wenn Sie auf den Vorplatz herausgekommen sind, nehmen Sie die Treppe, die vom Vorplatz hinunter zum Park und zur Uferpromenade führt, auf der Seite, die von der großen Straßenbrücke abgewandt ist. [pause] Wenn Sie auf der Flussseite herausgekommen sind, sind Sie fast da.
+
+Den größten Teil des letzten Jahrhunderts war dieser Flussabschnitt, Abandoibarra, Schwerindustrie. Es gab Werften und Containerplätze, Straßen, Bahngleise und Docks. Darunter war die Werft Euskalduna, gegründet 1900.
+
+[pause] Dann kam eine tiefe Industriekrise, und 1988 schloss die Werft.
+
+[curious] Wer hat das Flussufer also zurückgebracht? Nicht das Museum allein. 1992 wurde eine öffentliche Gesellschaft gegründet, Bilbao Ría 2000. [pause] Sie sollte heruntergekommene und schrumpfende Industrieflächen am Fluss zurückgewinnen.
+
+Das Museum entstand mitten in diesem Wandel. In seinen eigenen Worten bedeutete sein Bau „die Rückgewinnung der Flussufer für die Stadt, neu gestaltet für Kultur und Freizeit“. Heute nennt es die Uferstraße „einen Freizeitraum unter freiem Himmel“ und „ein emblematisches Beispiel für die Stadterneuerung Bilbaos“.
+
+[lightly] Damals Werften und Container. Heute eine Promenade.
+
+Gehen Sie am Wasser den Fluss entlang in Richtung der großen Straßenbrücke, bis Sie das Wasserbecken neben dem Gebäude erreichen, wo ein hoher Baum aus Silberkugeln im Wasser steht: Wasserbecken · Tall Tree and the Eye.

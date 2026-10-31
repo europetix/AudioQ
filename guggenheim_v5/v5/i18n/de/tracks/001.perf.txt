@@ -1,0 +1,28 @@
+@id: 001 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: The plaza
+@room: Museum plaza · Puppy in view
+@type: ANCHOR
+@title: Willkommen im Guggenheim Bilbao
+@where: Auf dem Vorplatz des Museums, mit Puppy, dem riesigen Terrier aus Blumen, im Blick. Stellen Sie sich abseits der breiten Treppe, damit andere vorbeikommen [O1, O20, O21].
+@what: Guggenheim Museum Bilbao (Guggenheim Bilbao Museoa), architect Frank O. Gehry (Toronto 1929 – Santa Monica 2025); opened October 1997 (royal inauguration 18 Oct, public 19 Oct); one of the Guggenheim museums with New York and Venice, run by Basque institutions with the Solomon R. Guggenheim Foundation. Guide scope: the building and the works on long-term view (Koons, Serra, Holzer, Chillida, Bourgeois, Kapoor, Nakaya, Klein, Buren), all credited Guggenheim Bilbao Museoa.
+@listen: Where you are, who built it and why, what this guide covers, the route in three lengths, and the only two timings you need.
+@brief: A warm, unhurried host meeting the listener on the plaza; curious at the hook, clear and practical on the route, a light touch on the timings.
+@pace: medium
+@energy: 2→3
+@sources: CONSTR https://www.guggenheim-bilbao.eus/en/the-building/the-construction (OFF via FACTS A13: "a former wharf with port and industrial use on a curve of the Nervión") ; TAN17 https://www.theartnewspaper.com/2017/11/24/twenty-years-on-how-the-guggenheim-bilbao-came-of-age (SEC, re-read 31 Oct 2026: "all costs, operating and capital, would have to be borne by the Basque government") ; MUSEUM https://www.guggenheim-bilbao.eus/en/about-the-museum/the-museum (OFF via FACTS A10–A11: founding trustees Basque Government, Bizkaia Provincial Council, SRGF; network New York, Venice, Bilbao) ; PR-25M https://www.guggenheim-bilbao.eus/en/press-room/press-releases/el-museo-guggenheim-bilbao-recibe-a-su-visitante-25-millones-en-el-ano-de-su-25-aniversario (OFF via FACTS A29: opened 19 Oct 1997) ; GBIO https://www.guggenheim-bilbao.eus/en/the-building/frank-gehry/biography-of-frank-gehry (OFF via FACTS A35: died 5 Dec 2025) ; CBS https://www.cbsnews.com/news/frank-gehry-dies-age-96-architect (SEC via FACTS A35: aged 96) ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via ROUTE §1.1: broad stairway; "walk all the way around") ; WP-FOG https://guggenheim-bilbao.eus/en/the-collection/works/fog-sculpture-08025-f-o-g (OFF via FACTS G19: on the hour) ; WP-FIRE https://pro.guggenheim-bilbao.eus/en/the-collection/works/fire-fountain (OFF via FACTS G23: evening only, after closing) ; ACCESS https://www.guggenheim-bilbao.eus/en/useful-information/accessibility (OFF via ROUTE §1.1, §4: plaza lift, riverside ramp, lifts between floors) ; Basque name: FACTS I1 (work-page credit lines, OFF)
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 001 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Der Boden unter diesem Platz war einst ein Flussufer, an dem gearbeitet wurde. Das Museum beschreibt sein Gelände als „einen ehemaligen Kai mit Hafen- und Industrienutzung“, an einer Biegung des Flusses Nervión. [pause] Anfang der 1990er-Jahre beschlossen die Basken, hier etwas ganz anderes zu bauen.
+
+[warmly] Willkommen im Guggenheim-Museum Bilbao, auf Baskisch Guggenheim Bilbao Museoa. Es gehört zu den Guggenheim-Museen, wie New York und Venedig. Geführt wird es aber von hier aus, von baskischen Institutionen gemeinsam mit der New Yorker Stiftung. Eröffnet wurde es im Oktober 1997. Sein Architekt war Frank Gehry. Er starb im Dezember 2025, mit sechsundneunzig Jahren.
+
+Diese Führung handelt vom Gebäude, innen und außen, und von den Kunstwerken, die hier zu Hause sind. Auf der vollständigen Tour begegnen Sie allen. Puppy. Richard Serras Stahl im langen Saal. Jenny Holzers Säulen aus Licht. Zwei Skulpturen von Eduardo Chillida. [pause] Eine Spinne namens Maman, ein Baum aus Silberkugeln von Anish Kapoor, eine Skulptur aus Nebel, Feuerfontänen und Daniel Burens rote Bögen. Die wechselnden Ausstellungen gehören nicht zu dieser Führung. An einigen gehen Sie vorbei.
+
+[pause] Die Route: zuerst der Vorplatz. Dann die breite Treppe hinunter, durch das Atrium zu Serras langem Saal und hinauf zu den Balkonen. Dann hinaus und ganz herum zum Fluss, am Wasser entlang bis zur Brücke.
+
+Es gibt drei Längen, auf einer Route. Die vollständige Tour dauert etwa eine Stunde und vierzig Minuten. Die Kernversion dauert etwa eineinviertel Stunden, die Highlights etwa eine Dreiviertelstunde, die Wege eingerechnet. [pause] Spielen Sie die Stationen auf Ihrem Handy der Reihe nach ab. In den kürzeren Versionen können die Titelnummern springen, und jede Station sagt Ihnen, wohin es weitergeht.
+
+[lightly] Der Nebel im Wasserbecken am Fluss kommt zur vollen Stunde. Die Feuerfontänen brennen nur am Abend. [pause] Und für den stufenlosen Zugang gibt es einen Aufzug für Rollstuhlnutzer vom Vorplatz aus, eine Rampe auf der Flussseite und Aufzüge zwischen allen Ebenen.
+
+Beginnen Sie mit dem Hund. Gehen Sie hinüber zu Puppy, dem riesigen Terrier aus Blumen, und suchen Sie sich einen Platz, von dem aus Sie ihn ganz sehen: Vorplatz · Puppy, der blühende Wachhund.

@@ -1,0 +1,30 @@
+@id: 016 · DE · Guggenheim Bilbao · 31 Oct 2026 edition
+@section: Up and down
+@room: Second floor · balcony opposite gallery 204
+@type: R
+@title: Ebene 2 — Serra von oben
+@where: Auf Ebene 2, am Balkon gegenüber Saal 204, mit Blick hinunter in Saal 104 und auf die acht Stahlskulpturen von The Matter of Time. [O8, O9]
+@what: Richard Serra (San Francisco 1938 – Long Island 2024), The Matter of Time, 1994–2005, weathering steel, eight sculptures, dimensions variable, Gallery 104, Guggenheim Bilbao Museoa, seen from above.
+@listen: The Serra gallery from above: what the balcony reveals, and what it still hides.
+@brief: A guide leaning on the rail beside the listener after the walk below; curious, quietly pleased, pointing things out.
+@pace: medium
+@energy: 2→3
+@sources: R-EXP https://www.guggenheim-bilbao.eus/en/routes/express-tours (OFF via ROUTE §1.8: "Go up to the second floor of the Museum and take a look from the balcony opposite gallery 204."; "You will get a panoramic view of the eight monumental sculptures that make The Matter of Time (1994–2005)") ; TG-SERRA https://guggenheim-bilbao.eus/en/learn/schools/teachers-guides/work-of-art-audience-relationship (OFF, re-read 31 Oct 2026: "A balcony on the second floor allows a panoramic view of the whole space, revealing the exact location of the sculptures."; "Once inside the works, the viewer loses all reference and does not know what lies ahead."; "However, and as Serra himself affirms, "the way the pieces rise always remains partially hidden"."; "When you move they move too in such a way that you are always trying to get them.") ; WP-SERRA https://guggenheim-bilbao.eus/en/the-collection/works/the-matter-of-time (OFF, re-read 31 Oct 2026: "The entire room is part of the sculptural field.") ; OUTSIDE https://guggenheim-bilbao.eus/en/the-building/outside-the-museum (OFF via FACTS B10: "Stretching under the bridge, gallery 104—an enormous, column-free space")
+@lang: de
+@translation: from the fact-checked English Guggenheim Bilbao 016 (31 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Unten bewegten sich die Wände mit Ihnen. Von hier oben stehen sie still.
+
+Der Schnellrundgang des Museums schickt Sie hierher: „Gehen Sie hinauf auf Ebene zwei des Museums und schauen Sie vom Balkon gegenüber Saal zweihundertvier.“ Er verspricht „einen Panoramablick auf die acht monumentalen Skulpturen von The Matter of Time“.
+
+Der Leitfaden des Museums für Lehrkräfte ergänzt, der Balkon zeige „die genaue Lage der Skulpturen“. Unten verliert man jede Orientierung, wie Sie bei den Spiralen gemerkt haben.
+
+[pause] Nutzen Sie also den Blick. Zählen Sie die acht. Suchen Sie die erste Spirale und die verdrehten Ellipsen, dann Snake, dann die anderen Spiralen, dann die beiden Stücke aus Ringen und Kugeln. [pause] Schauen Sie jetzt auf die Zwischenräume. „Der gesamte Raum ist Teil des skulpturalen Feldes“, in den Worten des Museums. Von hier aus sind die Gänge, die Sie gegangen sind, Linien auf dem Boden.
+
+[amused] Warten Sie, bis jemand in eine Spirale geht, und sehen Sie, wie lange er zum Herauskommen braucht.
+
+Erinnern Sie sich an Serras Satz, dass sie sich bewegen, wenn man sich bewegt, und man immer versucht, sie zu erfassen? Von hier oben können Sie sie endlich erfassen. Oder fast. [pause] Wie Serra selbst sagte: „Die Art, wie die Stücke aufsteigen, bleibt immer teilweise verborgen.“
+
+Achten Sie auch darauf, was fehlt: eine einzige Säule.
+
+Als Nächstes hinauf auf Ebene drei. Nehmen Sie einen Glasaufzug, oder gehen Sie über die geschwungenen Stege und Treppen, und starten Sie die nächste Station unterwegs: Aufzüge und Stege · Jedes Teil anders.
