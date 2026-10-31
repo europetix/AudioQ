@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Setas V5 lint: python3 lint.py [NNN ...]  -> one line per track, 'OK' or the problems."""
+"""Guggenheim Bilbao V5 lint: python3 lint.py [NNN ...]  -> one line per track, 'OK' or the problems."""
 import sys, os, re, glob
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "pipeline"))
 import v5_direction as V
@@ -28,7 +28,7 @@ for f in files:
     if re.search(r"\b(tickets?\b|opening hours|(?<!billion )(?<!million )euros?\b)|€", c, re.I): p.append("tickets/hours/prices")
     if "!" in c: p.append("exclamation mark")
     last = c.split("\n\n")[-1]
-    if meta.get("type") != "CLOSE" and not re.search(r"Antiquarium|[Ww]alkway|Mirador|Plaza Mayor|[Ll]ifts?|[Ss]teps|[Ll]evel|[Ss]tairs|Encarnación|exhibition|Feeling|[Ee]xit|way out|Alameda|Cristo de Burgos", last): p.append("last paragraph has no room cue")
+    if meta.get("type") != "CLOSE" and not re.search(r"[Gg]allery|[Aa]trium|[Pp]laza|[Pp]uppy|[Ss]tairway|[Hh]all|ZERO|[Tt]errace|[Bb]alcony|[Ll]ift|[Ww]alkway|[Ff]loor|[Rr]iver|[Pp]ond|Maman|[Bb]ridge|[Tt]ower|[Ee]xit|way out|104|101", last): p.append("last paragraph has no room cue")
     if re.match(r"^(Stand|Look|Walk|Turn|Go|Find|Step|Come|Move)\b", c): p.append("opens with a command")
     print(n, "OK" if not p else "; ".join(p), f"({w}w)")
     bad += bool(p)
