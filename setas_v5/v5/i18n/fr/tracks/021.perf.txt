@@ -1,0 +1,26 @@
+@id: 021 · FR · After your visit · Extra · 31 Oct 2026 edition
+@section: After your visit
+@room: After your visit (anywhere)
+@type: X
+@title: Après la visite · Extra · Les figuiers et les colonnes romaines
+@where: N'importe où, après avoir quitté les Setas : dans la rue, à un café, ou en chemin vers l'un des deux lieux. Visite complète uniquement, après le dernier arrêt.
+@what: Two places nearby: the old fig trees (ficus) of the Plaza del Cristo de Burgos, which the city names as an inspiration for the parasols (Mayer himself speaks of "big trees on a neighboring plaza"; the operator calls them centennial), given specialist care by the city (VIVIR); the fig-tree facts are told in full in 009 and only called back here (audit M3); and the two Roman columns of the Alameda de Hércules, of the Trajan–Hadrian period and possibly from a temple (JA-COL's word, audit 021.1), set up there in 1574 on the orders of the Count of Barajas, with statues of Hercules, the city's mythical founder, and Julius Caesar. No bars, prices, hours or walking times. ONSITE: none (position-free); O20 re-check of the ficus works before recording.
+@listen: Where to find the trees the parasols are said to echo, and a piece of Roman Seville that has stood above ground for four and a half centuries.
+@brief: A friend pointing you onward after the visit; curious, relaxed, a little fond; a short goodbye.
+@pace: medium
+@energy: 2→3→2
+@sources: https://visitasevilla.es/en/?p=1477 (OFF, VS-SET, re-read 31 Oct 2026: the parasols "inspired by the vaults of the cathedral of Seville" and "the ficus trees of the nearby Plaza del Cristo de Burgos") ; https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, INHAB: Mayer, the cathedral's vaulting and "big trees on a neighboring plaza") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST, re-read 31 Oct 2026: "inspired by the centennial Ficus in the Plaza de San Pedro", which adjoins Cristo de Burgos; used only for "centennial") ; https://vivirediciones.es/sevilla/aplican-tratamiento-especializado-para-conservar-los-ficus-singulares-de-la-plaza-cristo-de-burgos/ (SEC, VIVIR, 18 Jan 2026, read 31 Oct 2026: "estos árboles singulares"; the Ayuntamiento applied "un tratamiento especializado" to "reforzar la estabilidad y la seguridad de estos ejemplares", after support works two years earlier; audit #16) ; https://andalucia.org/en/sevilla-cultural-tourism-monolitos-y-columnas-romanas (OFF, Junta de Andalucía tourism, read 31 Oct 2026: the columns "date from the time of the Emperor Hadrian and were possibly part of a Roman temple"; "erected in the Alameda avenue, designed by Count Barajas" in 1574; "one of Hercules and one of Julius Caesar") ; https://www.upo.es/patio-colorado/2023/05/07/el-templo-romano-escondido-de-sevilla/ (SEC, UPO-TEMP, 7 May 2023, read 31 Oct 2026: "cronología trajano-adrianea"; "se trasladaron por orden del conde de Barajas"; statues of "Hércules, fundador mitológico, y Julio César"; audit #20, #277, #279–280)
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 021 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En montant, vous avez entendu parler des vieux figuiers que la ville associe aux parasols. Aujourd'hui, vous pouvez vous tenir dessous.
+
+Ils poussent sur la Plaza del Cristo de Burgos. Levez les yeux vers les branches, et voyez si les parasols vous rappellent quelque chose.
+
+Ils demandent désormais des soins, et la ville leur apporte un traitement spécialisé pour les garder stables et sûrs.
+
+[pause] La Séville romaine survit aussi en surface, tout près, sur l'Alameda de Hércules, l'ancienne promenade. Là se dressent deux colonnes romaines, de l'époque des empereurs Trajan et Hadrien, peut-être issues d'un temple. [pause] Elles y ont été érigées dans les années 1570, sur ordre du comte de Barajas. Au sommet, deux statues : Hercule, le fondateur mythique de la ville, et Jules César.
+
+[warmly] Sous les Setas, la Séville romaine a été tirée du sol. À l'Alameda, la ville en a redressé un morceau, il y a plus de quatre siècles.
+
+Les deux sont tout près : la Plaza del Cristo de Burgos pour les figuiers, et l'Alameda de Hércules pour les colonnes. N'importe quelle carte sur votre téléphone vous montrera le chemin. Merci encore de votre écoute, et bonne promenade.

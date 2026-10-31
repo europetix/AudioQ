@@ -1,0 +1,28 @@
+@id: 003 · FR · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium, over the dig
+@type: R
+@title: Antiquarium — Séville en strates
+@where: Dans l'Antiquarium, sur la passerelle, au premier endroit d'où l'on voit bien les vestiges en contrebas, idéalement là où vous pouvez voir leur profondeur.
+@what: The 1991–92 test dig on the site of the old Mercado de la Encarnación (Verdugo Santos, Larrey Hoyuelos and Murillo Díaz, commissioned by the market traders' cooperative): convent remains, an Almohad level about 3 m down, a late-1st-century Roman building about 7 m down, Roman deposits to about 9 m; groundwater and a shored pit; the Setas designed as "a structure that sits on the Roman ruins". V5.1: kept from V5 003; the opening now follows on from 002, which names the 1991 dig.
+@listen: How a small test pit paid for by the market traders showed that every age of Seville lay stacked under this square.
+@brief: A guide leaning on the rail with the listener, telling a good find story; curious, then a touch wry about the waterlogged pit, settling to quiet wonder.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: "encargada por la Cooperativa de Comerciantes del Mercado de la Encarnación"; works 10 Oct 1991 to 10 Jan 1992; convent of 1591; Almohad level "entre los -3,14 y -3,60"; Roman pavement "a 6,96 m"; deposits to "9,34 m"; "inmediatamente apareció la capa freática", area cut from 25 to 9 m², "un pozo de entibación") ; AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: the 1991 "sondeo de 3 x 3 mts.", Roman levels from −6.96 to −9.34 m) ; INHAB https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, Mayer: "a structure that sits on the Roman ruins") ; layer-cake safe wording: FACTS §1
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 003 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Ce premier sondage, payé par les commerçants du marché, était minuscule. Il a pourtant tout trouvé.
+
+À l'automne 1991, la coopérative des commerçants du marché de l'Encarnación l'a commandé sur le site de leur ancienne halle. Les archéologues y ont trouvé une Séville empilée comme un millefeuille. [pause] Près de la surface, les restes du couvent qui se dressait ici. Vers trois mètres de profondeur, des maisons maures. [pause] Puis la Séville romaine, de sept à neuf mètres sous la rue.
+
+Le plus dur, c'était d'y descendre. Dès qu'ils ont creusé profond, ils ont touché la nappe phréatique. Il a fallu réduire la fouille à un puits d'environ trois mètres de large, aux parois étayées, rien que pour atteindre les niveaux romains.
+
+[wry] Une toute petite fenêtre, gorgée d'eau. Mais elle montrait que tout était là, une époque sur l'autre.
+
+Des années de fouilles plus vastes ont suivi. Et quand on a conçu les Setas, le bâtiment a dû faire place à tout cela. [pause] Son architecte, Jürgen Mayer H., l'a décrit comme « une structure posée sur les ruines romaines ».
+
+Où que vous soyez ici, vous êtes déjà sous la rue, dans ces strates. Quelque part au-dessus de vous, le marché, la place surélevée et les parasols. [quietly] Toute l'histoire de la ville, en une seule coupe dans le sol.
+
+Suivez la passerelle vers les maisons romaines, et cherchez le cartel de la Casa de la Columna, la maison de la Colonne. L'arrêt suivant dans l'Antiquarium est Méduse, la gardienne.

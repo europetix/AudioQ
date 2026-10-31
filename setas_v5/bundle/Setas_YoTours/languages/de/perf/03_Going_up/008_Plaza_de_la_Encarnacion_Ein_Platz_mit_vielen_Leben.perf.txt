@@ -1,0 +1,32 @@
+@id: 008 · DE · Level −1 lifts · 31 Oct 2026 edition (V5.1)
+@section: Going up
+@room: Level −1 · by the lifts
+@type: W
+@title: Plaza de la Encarnación — Ein Platz mit vielen Leben
+@where: Auf der Ebene minus eins, an den Aufzügen, die zum Mirador hinauffahren, neben dem Eingang des Antiquariums. Spielen Sie den Titel, während Sie warten. Sie müssen dabei nichts ansehen.
+@what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville. NEW in V5.1, both attributed to the operator (S-HIST): "more than 400 stalls of fresh products" and "the first known food market in the city of Seville" (audit #9); the 1973 reasons as the operator gives them: structural problems in the vegetable and fish stalls, the Tamarguillo flood, the first supermarkets (audit #8; supersedes the PLAN 007 NOT line by PLAN_V5_1).
+@listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
+@brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.
+@pace: medium
+@energy: 3→3→3
+@sources: AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: convent founded "en 1591"; "decreto napoleónico de 1810"; "la construcción en 1831-42 del mercado central de Sevilla"; "1948 con la creación del eje de comunicación Osario-La Campana"; "en 1973 con la demolición") ; AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: convent founded 1591) ; S-HIST https://setasdesevilla.com/en/history-and-construction (OFF, re-read 31 Oct 2026: "Designed by the major architect of Seville, Melchor Cano, the market had more than 400 stalls of fresh products"; "The Encarnación Square Market is the first known food market in the city of Seville"; "In 1973, due to structural problems in the market's vegetable and fish stalls, the Tamarguillo flood and the appearance of the first supermarkets, the Market was demolished"; provisional facilities "for a maximum period of 3 years") ; PUBSP https://publicspace.org/works/-/project/g315-metropol-parasol (SEC: convent demolished during the Napoleonic invasion; site later "a car park or bus depot") ; VS-ANT https://visitasevilla.es/en/?p=1576 (OFF: 1990s excavation "to build a subway parking", project aborted) ; FG2009 via FACTS §1 (SEC: Joseph Bonaparte's decree of 20 Apr 1810; wooden market from 1820; Cano's hall approved 1832, built 1833–37; not re-read) ; "fenced, dusty car park": FACTS §1 (PUBSP, MERCASA) ; Tamarguillo as a stream (arroyo): general knowledge, not fetched
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Diesen Platz gibt es wegen Napoleons Bruder.
+
+Er ist benannt nach dem Kloster der Menschwerdung, der Encarnación, einem Nonnenkloster, das hier Ende des sechzehnten Jahrhunderts gegründet wurde. Die Nonnen blieben mehr als zwei Jahrhunderte. Dann kamen die Franzosen. [pause] Während der Besatzung, 1810, ließ die Regierung von Napoleons Bruder, Joseph Bonaparte, das Kloster abreißen, um einen Platz zu schaffen.
+
+Ein Platz bleibt in Sevilla selten lange leer. Bald hatten Händler hier einen Markt aus Holz. Dann baute die Stadt eine richtige, feste Markthalle, entworfen vom Architekten Melchor Cano. Sie entstand in den 1830er-Jahren. Weit über ein Jahrhundert lang war dies Sevillas zentraler Markt. [pause] Nach Angaben des Betreibers hatte er mehr als vierhundert Stände, und er war der erste bekannte Lebensmittelmarkt der Stadt.
+
+[pause] Von Dauer war das nicht. Um die Mitte des letzten Jahrhunderts schnitt eine neue Verkehrsachse einen Teil der Markthalle ab. 1973 wurde der Rest abgerissen. Der Betreiber nennt drei Gründe. Es gab bauliche Probleme bei den Fisch- und Gemüseständen. Es gab die Tamarguillo-Flut, als ein Bach am Stadtrand über die Ufer trat. Und die ersten Supermärkte waren gekommen.
+
+Die Händler mussten in provisorische Stände umziehen, und jahrzehntelang war der Platz ein eingezäunter, staubiger Parkplatz. [pause] Später plante die Stadt darunter eine Tiefgarage. Die Grabung stieß auf das römische Sevilla, und der Plan wurde fallen gelassen. Was man fand, liegt im Antiquarium, gleich neben diesen Aufzügen.
+
+[wry] Die Lücke, die Napoleons Bruder geschlagen hatte, wurde also immer wieder gefüllt. Erst von einem Markt, dann von parkenden Autos, dann von Archäologen und schließlich von den Setas.
+
+Und die Händler? Ihre eigene Geschichte wartet gegen Ende auf Sie, über der Markthalle.
+
+[warmly] Der Aufzug, in den Sie gleich steigen, fährt durch jedes Kapitel davon, von unter den alten Straßen bis hoch über die Dächer.
+
+Fahren Sie mit dem Aufzug hinauf. [pause] Starten Sie die nächste Station, wenn sich die Türen schließen. Sie läuft weiter, während Sie auf den Rundweg hinaustreten: Pilze aus Holz.

@@ -1,0 +1,32 @@
+@id: 008 · ES · Level −1 lifts · 31 Oct 2026 edition (V5.1)
+@section: Going up
+@room: Level −1 · by the lifts
+@type: W
+@title: Plaza de la Encarnación — Una plaza de muchas vidas
+@where: En la planta menos uno, junto a los ascensores que suben al Mirador, al lado de la entrada del Antiquarium. Escúchela mientras espera. No hace falta mirar nada.
+@what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville. NEW in V5.1, both attributed to the operator (S-HIST): "more than 400 stalls of fresh products" and "the first known food market in the city of Seville" (audit #9); the 1973 reasons as the operator gives them: structural problems in the vegetable and fish stalls, the Tamarguillo flood, the first supermarkets (audit #8; supersedes the PLAN 007 NOT line by PLAN_V5_1).
+@listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
+@brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.
+@pace: medium
+@energy: 3→3→3
+@sources: AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: convent founded "en 1591"; "decreto napoleónico de 1810"; "la construcción en 1831-42 del mercado central de Sevilla"; "1948 con la creación del eje de comunicación Osario-La Campana"; "en 1973 con la demolición") ; AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: convent founded 1591) ; S-HIST https://setasdesevilla.com/en/history-and-construction (OFF, re-read 31 Oct 2026: "Designed by the major architect of Seville, Melchor Cano, the market had more than 400 stalls of fresh products"; "The Encarnación Square Market is the first known food market in the city of Seville"; "In 1973, due to structural problems in the market's vegetable and fish stalls, the Tamarguillo flood and the appearance of the first supermarkets, the Market was demolished"; provisional facilities "for a maximum period of 3 years") ; PUBSP https://publicspace.org/works/-/project/g315-metropol-parasol (SEC: convent demolished during the Napoleonic invasion; site later "a car park or bus depot") ; VS-ANT https://visitasevilla.es/en/?p=1576 (OFF: 1990s excavation "to build a subway parking", project aborted) ; FG2009 via FACTS §1 (SEC: Joseph Bonaparte's decree of 20 Apr 1810; wooden market from 1820; Cano's hall approved 1832, built 1833–37; not re-read) ; "fenced, dusty car park": FACTS §1 (PUBSP, MERCASA) ; Tamarguillo as a stream (arroyo): general knowledge, not fetched
+@lang: es
+@translation: from the fact-checked English Setas de Sevilla 008 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Esta plaza existe gracias al hermano de Napoleón.
+
+Toma su nombre del convento de la Encarnación, un convento de monjas fundado aquí a finales del siglo dieciséis. Las monjas se quedaron más de dos siglos. Luego llegaron los franceses. [pause] Durante la ocupación, en 1810, el gobierno del hermano de Napoleón, José Bonaparte, mandó derribar el convento para abrir una plaza.
+
+En Sevilla, una plaza rara vez queda vacía mucho tiempo. Pronto, los comerciantes montaron aquí un mercado de madera. Después la ciudad levantó uno permanente, diseñado por el arquitecto Melchor Cano, en la década de 1830. Durante bastante más de un siglo, este fue el mercado central de Sevilla. [pause] Según el operador de las Setas, tenía más de cuatrocientos puestos, y fue el primer mercado de alimentos conocido de la ciudad.
+
+[pause] No duró. Hacia mediados del siglo pasado, una nueva gran avenida le cortó una parte al mercado. En 1973 se derribó el resto. El operador da tres motivos. Había problemas estructurales en los puestos de pescado y de verduras. Llegó la inundación del Tamarguillo, cuando se desbordó un arroyo de las afueras. Y habían aparecido los primeros supermercados.
+
+Los comerciantes pasaron a puestos provisionales, y durante décadas la plaza fue un estacionamiento vallado y polvoriento. Más tarde, la ciudad proyectó un estacionamiento subterráneo. Las obras toparon con la Sevilla romana, y se abandonó el plan. Lo que encontraron está en el Antiquarium, junto a estos ascensores.
+
+[wry] Así que el hueco que abrió el hermano de Napoleón se ha llenado una y otra vez. Primero con un mercado, luego con vehículos estacionados, después con arqueólogos y, por fin, con las Setas.
+
+¿Y los comerciantes? Su historia le espera cerca del final, encima del mercado.
+
+[warmly] El ascensor que va a tomar atraviesa todos esos capítulos, desde debajo de las viejas calles hasta muy por encima de los tejados.
+
+[pause] Suba en el ascensor. Empiece la siguiente parada cuando se cierren las puertas. Continúa mientras sale a la pasarela: Setas de madera.

@@ -1,0 +1,32 @@
+@id: 002 · FR · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium entrance
+@type: W
+@title: Antiquarium — Trouvé sous un parking
+@where: Au niveau moins un, à l'entrée de l'Antiquarium, à côté de la taquilla, ou sur le premier tronçon de passerelle à l'intérieur, là où les vestiges fouillés apparaissent pour la première fois.
+@what: The Antiquarium, the archaeological museum under the Setas, opened with the Setas in 2011; about 4,879 m² of excavated remains from the 1st century AD to the 13th century: Roman houses with mosaics, a Moorish (Almohad) house; remains of a 1st-century Roman fish-salting works also found on the site. NEW in V5.1: the dig history in one line (1991 traders' test dig, 1998 rescue excavation linked to the car-park plan, the big excavation 2003–2009, archaeology directed by Fernando Amores Carredano); the museum space by the architect Felipe Palomino González: a glass "membrane" around the ruins, transparent to translucent; one zone of direct daylight only; two lighting systems, for the architecture and for the remains. The look of the space.
+@listen: How a plan for an underground car park turned into Seville's most important surviving Roman site, and how its architect wrapped the ruins in glass and light.
+@brief: A guide stepping into the museum with the listener; curious and a little amused at the hook, then steady and clear, with a quiet sense of wonder at the payoff.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: VS-ANT https://visitasevilla.es/en/?p=1576 (OFF, mod. 5 Jul 2023: found "after a first excavation in the square in the 1990s in order to build a subway parking", project "aborted after the discovery"; inaugurated 27 March 2011; 4,879 m²; "the most important archaeological site that remains from the Roman period in Seville"; Roman 1st–6th c., Almohad house 12th–13th c.) ; JA-ORG https://andalucia.org/en/sevilla-visitas-antiquarium (OFF: "from the 1st century A.D. up to the 13th century"; "from the age of Tiberius (30 A.D.)"; not used for discovery history) ; AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: test dig 10 Oct 1991 to 10 Jan 1992, commissioned by the traders' cooperative) ; KRAMER https://acikerisim.uludag.edu.tr/bitstreams/5d489fdf-1c78-4a17-b073-8b9e36726fc6/download (SEC academic, Journal of Mosaic Research 11, 2018, re-read 31 Oct 2026: "excavated between 2003 and 2009"; "Starting as a rescue excavation 1998, in connection with the planning of a parking area") ; AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: 1990s excavation phases) ; DIVI https://divisare.com/projects/196658-felipe-palomino-gonzalez-fernando-alda-museo-antiquarium (SEC, architect's project text and credits, 16 Apr 2012, re-read 31 Oct 2026: "crear una membrana que envuelva la ruina"; "El material elegido para construir esa membrana es el vidrio, el cual puede ser transparente o translúcido … pasando por todos los grados intermedios"; "Solo disponemos de una zona con iluminación natural directa"; "Iluminación de los espacios arquitectónicos – iluminación de los restos"; credits "PROYECTO MUSEOLÓGICO Y DIRECTOR DE ARQUEOLOGÍA: FERNANDO AMORES CARREDANO") ; VS-SET https://visitasevilla.es/en/?p=1477 (OFF, mod. 5 Jul 2023: "Architect Felipe Palomino Gonzalez designed it", per audit §2 #5) ; ACOM https://andalucia.com/cities/seville/museum-antiquarium.htm (SEC, mod. 2 Apr 2026, re-read 31 Oct 2026: ruins "visible through glass partitions, and underfoot along walkways"; fish-salting vats "dating from the 1st century AD") ; operator "Seville City Council": FACTS §6 (VS-GUIDE OFF, not re-read; O4 signage)
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 002 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Dans les années 1990, Séville prévoyait un parking sous cette place. À la place, elle a eu les Romains.
+
+On voulait réaménager la Plaza de la Encarnación avec un parking souterrain. Mais le sol ne cessait de livrer son passé. D'abord, un petit sondage en 1991, payé par les commerçants du marché. Puis une fouille de sauvetage en 1998, quand le parking était en projet. Puis la grande fouille, de 2003 à 2009, sous la direction archéologique de Fernando Amores. [pause] Le parking n'a jamais été construit. Ce qu'on a mis au jour, vous allez le parcourir.
+
+Voici l'Antiquarium, le musée des vestiges sous les Setas. Ouvert avec les Setas, il couvre près de cinq mille mètres carrés. [pause] La ville le présente comme le plus important site romain conservé de Séville.
+
+Les vestiges couvrent quelque douze siècles. Les plus anciens remontent à l'empereur Tibère, au premier siècle. Les plus récents datent du treizième siècle. [pause] Les maisons romaines étaient les plus profondes. Une maison de la Séville maure est venue bien plus tard, bien plus près de la surface.
+
+[quietly] On a aussi trouvé ici les restes d'une fabrique romaine de salaisons de poisson. Son histoire viendra plus tard, quand vous regarderez vers le fleuve.
+
+L'espace a été conçu avec autant de soin que la fouille. Son architecte, Felipe Palomino, voulait une membrane qui enveloppe les ruines, et il l'a faite de verre. Ce verre peut être transparent, dépoli, ou entre les deux. [pause] Presque aucune lumière du jour ne descend ici. Une seule zone reçoit la lumière naturelle directe. D'où deux systèmes d'éclairage distincts, l'un pour l'architecture, l'autre pour les vestiges.
+
+Des passerelles survolent la fouille, vestiges sous vos pieds et derrière des vitres. Lisez les cartels en chemin. C'était un quartier, où l'on a vécu et travaillé siècle après siècle.
+
+[warmly] Un parking jamais construit est devenu une fenêtre sur la Séville romaine et maure.
+
+Continuez sur la passerelle de l'Antiquarium, et écoutez l'arrêt suivant au premier bon point de vue plongeant sur les vestiges : Séville en strates.

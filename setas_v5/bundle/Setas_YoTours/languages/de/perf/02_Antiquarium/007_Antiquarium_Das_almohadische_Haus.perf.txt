@@ -1,0 +1,26 @@
+@id: 007 · DE · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium, Almohad house
+@type: R
+@title: Antiquarium — Das almohadische Haus
+@where: Im Antiquarium, an der Beschriftung der casa almohade, des almohadischen Hauses, dem maurischen Teil der Grabung.
+@what: An Islamic house of the Almohad period, 12th–13th centuries, with traces of the surrounding Almohad neighbourhood; found about 3 m below the street in the 1991–92 test dig, against about 7 m for the Roman level. Context: the Almohad Great Mosque of Seville (ordered 1172) and its minaret, begun 1184, today's Giralda. NEW in V5.1: the Torre del Oro, ordered by the Almohad governor Abu l-'Ula, built in 617 AH (1220–21) (Ministerio de Defensa 2023); "it survived because it was buried" (audit §2, OPINION-safe), tied to the layers above it (convent, market; AAA91). The house is not named "Casa de la Noria" (audit row 25, unresolved).
+@listen: How a house from Almohad Seville sits a thousand years and only a few metres above the Roman city, in the age of the Giralda, and why it is still here.
+@brief: A guide closing the museum visit; curious at the hook, warm when the Giralda appears, quietly struck by the payoff, practical and clear at the exit.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: VS-ANT https://visitasevilla.es/en/?p=1576 (OFF: "an Islamic Almohad house", Andalusian period XII–XIII c.) ; JA-ORG https://andalucia.org/en/sevilla-visitas-antiquarium (OFF: "a Moorish house dating from the XII and XIII centuries") ; AAA91 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/8318/1/AAA_1991_124_verdugosantos_-_sevilla.pdf (OFF: Almohad structures, Islamic level "entre los -3,14 y -3,60" m; Roman pavement at 6.96 m; convent remains above) ; AAA99 https://juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/20301/1/AAA_1999_111_pozoblazquez_antiguomercadoencarnacion_sevilla.pdf (OFF: "en época almohade se documenta una potente ocupación"; market from 1831–42) ; CAT-FACTS §1.1 https://www.catedraldesevilla.es/en/the-cathedral/its-history/ (OFF: "1172: Abu Yaqub orders the construction of the Great Mosque of Seville") ; CAT-FACTS §2.1 (minaret begun 1184; as cited in cathedral_seville_v5 FACTS, not re-read) ; DEF-TORRE https://publicaciones.defensa.gob.es/media/downloadable/files/links/l/a/la_torre_del_oro_de_sevilla_su_historia_y_su_museo_mar_timo.pdf (OFF, Ministerio de Defensa, "La Torre del Oro: su historia y su Museo Marítimo", 2023, read 31 Oct 2026: "mandada edificar por el gobernador almohade de Isbiliya, Abu l-'Ula"; "se edificó en el período correspondiente al año 617 de la Hégira") ; capital of Muslim Spain: FACTS §6 safe wording ; "survived because it was buried": audit §2 lower-value items
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 007 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Hier unten können tausend Jahre nur ein paar Meter Erde sein.
+
+An der Beschriftung der casa almohade erreichen Sie das maurische Sevilla. Das Haus stammt aus der Zeit der Almohaden, dem zwölften und dreizehnten Jahrhundert, als Sevilla eine Hauptstadt des muslimischen Spanien war. [pause] Die Ausgräber fanden auf diesem Gelände ein maurisches Haus und Spuren des almohadischen Viertels ringsum.
+
+Bei der ersten Probegrabung stießen die Archäologen etwa drei Meter unter der Straße auf diese maurische Schicht. Die römischen Böden lagen etwa doppelt so tief. Das Haus stand also hoch über der römischen Stadt, auf Boden, den die Jahrhunderte langsam darüber aufgeschüttet hatten. [pause] Wenn Sie gerade von den römischen Häusern kommen, sind Sie in wenigen Minuten durch tausend Jahre gegangen.
+
+Es waren große Jahrzehnte für Sevilla. Der almohadische Kalif Abu Ya'qub Yusuf baute die Große Moschee der Stadt. 1184 begann der Bau ihres Minaretts. Heute nennen wir es die Giralda. [pause] Unten am Fluss ist auch der Torre del Oro, der Goldturm, ein Werk der Almohaden. Ein almohadischer Statthalter ließ ihn um 1220 bauen.
+
+[warmly] Diese Türme standen unter freiem Himmel, und dort stehen sie noch heute. Die Giralda werden Sie von oben sehen. Das Haus hatte ein anderes Schicksal. Später erhob sich ein Kloster über diesem Boden, und noch später eine Markthalle. [quietly] Das Haus überlebte, weil es begraben war.
+
+Hier endet Ihr Besuch im Antiquarium. Folgen Sie den Ausgangsschildern, dann gehen Sie zu den Aufzügen neben seinem Eingang, dem Zugang zum Mirador. [pause] Die nächste Station spielen Sie an den Aufzügen, bevor Sie hinauffahren: Ein Platz mit vielen Leben.

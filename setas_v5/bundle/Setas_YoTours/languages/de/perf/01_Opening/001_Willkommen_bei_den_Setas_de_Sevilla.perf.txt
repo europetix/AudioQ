@@ -1,0 +1,30 @@
+@id: 001 · DE · Calle Imagen entrance · 31 Oct 2026 edition (V5.1)
+@section: Opening
+@room: Street level · Calle Imagen entrance (or the north entrance)
+@type: ANCHOR
+@title: Willkommen bei den Setas de Sevilla
+@where: Auf Straßenhöhe an der Plaza de la Encarnación, am Eingang Calle Imagen, nahe den Rolltreppen und der Rampe, die hinunter zur Ebene minus eins führt. Stellen Sie sich zur Seite, außerhalb des Besucherstroms. Wenn Sie über den Nordeingang kommen, von der Calle Regina und José Gestoso, spielen Sie den Titel dort ab, bevor Sie hinuntergehen.
+@what: Metropol Parasol, known as las Setas, by Jürgen Mayer H. (J. MAYER H., Berlin), engineered by Arup, opened 27 March 2011. The four layers: the Antiquarium on level −1, the Mercado de la Encarnación at street level, the Plaza Mayor raised square, the walkways and the Mirador 360º on top. NEW in V5.1: on level −1 some ruins can be glimpsed through glass before entering the museum (andalucia.com; spot to confirm at O4). The route, the three lengths (V5.1 desk estimates, PLAN_V5_1 §Lengths: Full ≈ 70 min, Essential ≈ 40, Highlights ≈ 25; O17 pending), the Antiquarium's separate entry, access.
+@listen: What the Setas are, the four layers you will pass through from bottom to top to middle, and how the three lengths of this guide work.
+@brief: A friendly local guide meeting the listener at the door; warm and clear, a little playful in the hook, practical and unhurried on the route.
+@pace: medium
+@energy: 3→3
+@sources: S-HIST https://setasdesevilla.com/en/history-and-construction (OFF: citizens renamed it "Las Setas") ; PUBLICO https://www.publico.es/actualidad/legado-monteseirin.html (SEC: "popularmente bautizado como las setas") ; ARUP-N https://www.arup.com/news-and-events/sevilles-la-plaza-de-la-encarnacion-opens (OFF: opened "Sunday 27 March" by Mayor Sánchez Monteseirín) ; METSA https://www.metsagroup.com/metsawood/news-and-publications/news/2011/metropol-parasol---an-icon-of-world-class-timber-engineering/ (OFF: opened 27 March 2011) ; JMH https://www.jmayerh.de/metropol-parasol (OFF: archaeological museum, farmers' market, elevated plaza, panorama terrace) ; VS-SET https://visitasevilla.es/en/?p=1477 (OFF: the levels) and VS-ANT https://visitasevilla.es/en/?p=1576 (OFF: Medusa mosaic) ; JA-SET https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF: "2 concrete columns housing lifts") ; PLAN https://setasdesevilla.com/planifica-tu-visita (OFF: Acceso Sur at Calle Imagen and Acceso Norte from Regina and José Gestoso both connect to the Antiquarium and the Mirador access; exhibition; "Finaliza tu recorrido en la emblemática Plaza Mayor") ; FAQ https://setasdesevilla.com/preguntas-frecuentes (OFF: taquilla on planta −1; Mirador access "junto al acceso a Antiquarium"; lift to the cubierta; ramps' incline; Mirador only by steps) ; ACOM https://andalucia.com/cities/seville/museum-antiquarium.htm (SEC, published 6 Dec 2011, modified 2 Apr 2026, re-read 31 Oct 2026: "already see the ruins though the plate-glass windows … before you enter"; audit #6) ; ramp beside the escalators: research VISIT_ROUTE §1.2 (SEC TRAVCH, HEADOUT) ; lengths: PLAN_V5_1 §Lengths (desk estimate)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 001 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Irgendwo unter diesem Platz liegt ein römisches Haus mit einem Mosaik der Medusa. Knapp dreißig Meter darüber spazieren Menschen über einen riesigen Baldachin aus Holz. Diese Führung verbindet beides.
+
+Offiziell heißt es Metropol Parasol. Die Sevillaner warfen einen Blick darauf und nannten es las Setas, die Pilze. Entworfen hat es der Berliner Architekt Jürgen Mayer H. Eröffnet wurde es am siebenundzwanzigsten März 2011.
+
+[pause] Es ist ein Gebäude in vier Schichten. Römische und maurische Überreste liegen unter der Straße. Die Markthalle liegt auf Straßenhöhe. Darüber ein erhöhter öffentlicher Platz, die Plaza Mayor. Ganz oben windet sich ein Rundweg über die Schirme. [pause] Sie beginnen ganz unten, steigen ganz nach oben und enden in der Mitte.
+
+Zuerst kommt die Ebene minus eins. Dort finden Sie die Taquilla, die Kasse, und das Antiquarium, das Museum der Überreste. [curious] Schon bevor Sie hineingehen, sehen Sie vielleicht durch das Glas einige Ruinen. [pause] Dann bringen Aufzüge in den Betonstämmen Sie hinauf zum Rundweg und zum Mirador dreihundertsechzig, der Aussichtsplattform ganz oben. Der Weg nach unten führt an einer Ausstellung vorbei und endet auf der Plaza Mayor.
+
+Die vollständige Tour mit dem Antiquarium dauert etwa eine Stunde und zehn Minuten. Die Kernversion dauert etwa vierzig Minuten, die Highlights etwa fünfundzwanzig, mit Gehzeit und Aufzugsfahrten, aber ohne den Film Feeling Sevilla. [pause] Welche Version Sie auch haben, spielen Sie die Stationen der Reihe nach. Die kürzeren lassen einige aus, daher können die Titelnummern auf Ihrem Telefon springen. Jede Station sagt Ihnen, wohin es weitergeht.
+
+[lightly] Das Antiquarium ist ein eigenes Museum, mit eigenem Eingang und eigenem Eintritt. Nur die vollständige Tour führt dorthin. Wenn Sie die vollständige Tour hören und es geschlossen ist, gehen Sie zu den Aufzügen neben seinem Eingang und spielen Sie Ein Platz mit vielen Leben.
+
+Manche Rampen des Rundwegs sind steil, und den Mirador erreicht man nur über Stufen. Auch vom Nordeingang aus gelangen Sie hinunter zur selben unterirdischen Ebene.
+
+Gehen Sie jetzt hinunter zur Ebene minus eins und folgen Sie den Schildern zur Taquilla. Von der Calle Imagen aus ist es die Rampe neben den Rolltreppen. [pause] Die nächste Station, Gefunden unter einem Parkplatz, spielen Sie an der Tür des Antiquariums.

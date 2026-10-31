@@ -1,0 +1,28 @@
+@id: 006 · FR · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium, on the wall
+@type: R
+@title: Antiquarium — Les deux oiseaux
+@where: Dans l'Antiquarium, là où vous trouverez une mosaïque accrochée à la verticale sur un mur, avec deux oiseaux au centre, l'emblème du musée. Si vous ne l'avez pas repérée, écoutez cette piste en continuant et cherchez-la encore. Elle ne dit jamais où se trouve la mosaïque.
+@what: NEW TRACK in V5.1. The emblem: the "kissing birds" mosaic, the symbol of the Antiquarium, "at the centre of a large mosaic" and "reconstructed on the wall of the museum" (ACOM), "pieced together … displayed on the wall" (ACOM-B). Only these SEC facts are spoken as fact; neither source mentions a bowl. Lead decision 31 Oct 2026 (fact audit 006.1/006.2; replaces the HOLD): KRAMER describes, in the Hospitium de los Triclinia, "a perfectly executed geometric composition with two birds on a crater in a small square panel as the central motif", with two borders creating an illusory water movement and smaller zig-zag panels forming a wave effect. That this panel is the emblem is an inference (audit §2 #1), so it is spoken as a panel "that may be the same one", and its details only as what to look for "if the label matches". Dropped: "It began as part of a floor", "underfoot", "sharing a drink", "small" birds (all inferred). Why such scenes: KRAMER, mosaics alluding to the plants and animals of nature were common in Roman houses, especially in areas for passage; their meaning "always eludes us". No species, no century, no "kissing" as fact. Retitled from "Two birds and a wine bowl"; 005's cue updated.
+@listen: The mosaic of two birds that became the museum's emblem, a panel described by the study that may be the same one, and how Romans decorated their homes.
+@brief: A guide stopping with the listener at a much-loved mosaic; curious, a little amused at the nickname, careful about what we know, warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: ACOM https://andalucia.com/cities/seville/museum-antiquarium.htm (SEC, published 6 Dec 2011, modified 2 Apr 2026, re-read 31 Oct 2026: "the kissing birds", "at the centre of a large mosaic", the symbol of the museum, "reconstructed on the wall of the museum") ; ACOM-B https://www.andalucia.com/blog/piecing-together-past (SEC, 19 May 2011, via audit §2 #1, not re-read: "pieced together … displayed on the wall") ; KRAMER https://acikerisim.uludag.edu.tr/bitstreams/5d489fdf-1c78-4a17-b073-8b9e36726fc6/download (SEC academic, Journal of Mosaic Research 11, 2018, re-read 31 Oct 2026: "In the Hospitium de los Triclinia … a perfectly executed geometric composition with two birds on a crater … in a small square panel as the central motif"; "In the two surrounding borders of the mat, an inner and an outer," an illusory water movement; "two smaller panels with zig-zag patterns form a similar wave effect"; "13 mosaics, in situ on the floor, or exposed as vertical panels"; "It was common in Roman houses, particularly in the so-called dynamic areas intended for passage … mosaics with figurative or decorative patterns, which alluded to the plants and animals of nature"; their role "always eludes us") ; crater = Greek and Roman wine-mixing bowl: general knowledge
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 006 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] De tous les dieux et monstres trouvés sous cette place, le musée a choisi deux oiseaux pour emblème.
+
+Quelque part en chemin, cherchez une mosaïque accrochée à la verticale sur un mur, avec deux oiseaux au centre. Elle a été remontée puis fixée au mur, et vous la voyez donc debout.
+
+[amused] Certains les appellent les oiseaux qui s'embrassent. Un baiser, ou simple compagnie ? À vous de juger.
+
+L'étude de ces mosaïques décrit un panneau avec deux oiseaux sur un cratère, le grand vase où les Romains mélangeaient leur vin. C'est peut-être la même mosaïque. Ce panneau vient de l'Hospitium de los Triclinia, l'Hospitium des Salles à manger. [pause] Si le cartel correspond, cherchez d'autres détails. Sur ce panneau, les oiseaux occupent un petit carré au centre d'un décor géométrique. Autour, deux bordures imitent l'eau en mouvement, et de petits panneaux en zigzag prolongent l'ondulation. [pause] Voyez si l'eau semble bouger.
+
+Pourquoi donc des oiseaux ? Les Romains aimaient les mosaïques qui faisaient entrer la nature dans la maison, plantes et animaux, surtout dans les pièces de passage. Ce qu'une image signifiait pour la famille qui vivait avec elle, l'étude l'admet, nous échappe toujours.
+
+[warmly] De tout cet ensemble, le musée a retenu l'image la plus douce pour représenter le tout.
+
+Continuez, et cherchez le cartel de la casa almohade, la maison almohade. Écoutez-y l'arrêt suivant dans l'Antiquarium : La maison almohade. [pause] Si vous avez déjà dépassé ce cartel, écoutez cet arrêt maintenant, avant de quitter l'Antiquarium.

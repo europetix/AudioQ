@@ -1,0 +1,32 @@
+@id: 013 · ES · Mirador 360º · 31 Oct 2026 edition
+@section: Walkways and Mirador
+@room: Mirador 360º
+@type: W
+@title: Mirador 360º — El punto más alto
+@where: Arriba de los escalones, en el Mirador 360º, la plataforma más alta de las Setas. Busque un sitio en la barandilla donde no bloquee los escalones.
+@what: The Mirador 360º, the highest point of Metropol Parasol (J. Mayer H., 2004–2011): close to 30 m high, six parasols over about 150 m, the walkway across their tops; orientation in three directions for every version: the Giralda and cathedral to the south; west toward the river, Triana's rooftops and the Aljarafe beyond; north toward the Macarena district, about a kilometre away (direction only, no landmark claimed). ONSITE: O7 (cathedral body in clear view), O8 (Giralda-on-your-left cue; Triana's rooftops), O9 (north view; skyline boards; "Giralda at your back" cue).
+@listen: How high you are, the three directions to fix, and the whole building stacked up beneath you.
+@brief: Arriving at the top with the listener; warm and a little elated, clear and practical on orientation, quiet at the payoff.
+@pace: medium-slow
+@energy: 3→4→2
+@sources: https://inhabitat.com/video-inhabitat-interviews-metropol-parasol-architect-juergen-mayer-h/2/ (SEC, INHAB, Jill Fehrenbacher interview: Mayer, on the rooftop, "like being on a cloud above the city") ; https://setasdesevilla.com/planifica-tu-visita (OFF, PLAN: Mirador 360º views "desde el punto más alto del monumento") ; https://setasdesevilla.com/en/history-and-construction (OFF, S-HIST: 150 × 70 m, about 28.5 m high; 250 m of walkways) ; https://visitasevilla.es/en/?p=1477 (OFF, VS-SET, re-read 31 Oct 2026: 150 × 70 m, about 26 m; five levels, basement Antiquarium, market at ground level, elevated plaza, top lookout and walkway) ; https://andalucia.org/en/sevilla-cultural-tourism-metropol-parasol (OFF, JA-SET: six parasols; about 29 m) ; https://www.dezeen.com/?p=2314624 (SEC, DEZ26: "30-metre-high") → FACTS §5 safe wording "close to 30 metres" ; https://www.seville-trip.com/es/guias/guia-metropol-parasol-setas/ (SEC, STRIP, mod. 10 Jul 2026: Giralda "aparece al sur"; the river and Triana to the west; La Macarena named as a view, no direction) ; https://www.seville-tickets.com/setas-de-sevilla/plan-your-visit/ (SEC, low reliability, second source for the Triana rooftops to the west only; research §4.1) ; https://www.andalucia.com/blog/new-view-sevilla (SEC, ANDCOM11, 2011: "easily spot the Giralda and the Cathedral"; the Aljarafe west) ; BEAR (calc, research §4.2: Giralda ≈185°, 0.8 km → "less than a kilometre"; Basílica de la Macarena ≈10°, 1.0 km → "north… about a kilometre", direction only, per PLAN_V5_1 and audit #33/#228)
+@lang: es
+@translation: from the fact-checked English Setas de Sevilla 013 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] El arquitecto, Jürgen Mayer H., dijo que estar aquí arriba es como estar en una nube sobre la ciudad. Ha llegado al punto más alto de las Setas.
+
+¿A qué altura? Las fuentes difieren en unos metros, así que digamos casi treinta, como un edificio de nueve pisos. [pause] Abajo, seis parasoles se extienden a lo largo de ciento cincuenta metros, y la pasarela serpentea por encima. Esta plataforma lo corona todo.
+
+Conviene situar tres direcciones, aunque ya haya encontrado alguna en la pasarela. Busque la Giralda, el alto campanario de la catedral, con la gran mole de la catedral al lado. Está hacia el sur, a menos de un kilómetro.
+
+[pause] Ahora póngase con la Giralda a su izquierda. Está mirando al oeste, hacia el río, el Guadalquivir, y los tejados de Triana, el viejo barrio al otro lado del agua. Más allá se alza el Aljarafe, las tierras más altas de esa orilla del río.
+
+Por último, póngase de espaldas a la Giralda. Ahora mira al norte, hacia el barrio de la Macarena, a un kilómetro más o menos.
+
+[lightly] El resto del horizonte es suyo, a su ritmo. Dé una vuelta lenta por la barandilla antes de irse.
+
+Luego piense en lo que hay apilado bajo sus pies. Bajo la calle, los restos de la Sevilla romana e islámica. A pie de calle, el mercado. Encima, la Plaza Mayor, la plaza elevada. Y sobre ella, la madera, que sube hasta esta plataforma.
+
+[pause] [quietly] De debajo de la calle hasta el punto más alto, un solo edificio guarda dos mil años de la misma plaza. Por un momento, está en esa nube.
+
+Cuando quiera, baje los escalones y siga por la pasarela hacia la bajada. Escuche la siguiente parada por el camino: Se ama o se odia.

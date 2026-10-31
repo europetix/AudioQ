@@ -3,7 +3,7 @@
 @room: Level −1 · by the lifts
 @type: W
 @title: Plaza de la Encarnación — Ein Platz mit vielen Leben
-@where: Auf der Ebene minus eins, an den Aufzügen, die zum Mirador hinauffahren, neben dem Eingang des Antiquariums. Spielen Sie den Titel, während Sie warten. Sie müssen dabei nichts ansehen [O3, O5].
+@where: Auf der Ebene minus eins, an den Aufzügen, die zum Mirador hinauffahren, neben dem Eingang des Antiquariums. Spielen Sie den Titel, während Sie warten. Sie müssen dabei nichts ansehen.
 @what: The Plaza de la Encarnación before the Setas: the Convento de la Encarnación (founded 1591), demolished under the Napoleonic decree of 1810; a wooden market by 1820; Melchor Cano's permanent market hall, built in the 1830s; the cut of 1948; demolition in 1973; the surface car park; the 1990s underground car-park plan that ran into Roman Seville. NEW in V5.1, both attributed to the operator (S-HIST): "more than 400 stalls of fresh products" and "the first known food market in the city of Seville" (audit #9); the 1973 reasons as the operator gives them: structural problems in the vegetable and fish stalls, the Tamarguillo flood, the first supermarkets (audit #8; supersedes the PLAN 007 NOT line by PLAN_V5_1).
 @listen: How one gap in the city, cleared by Napoleon's brother, was filled by a market, cars, archaeologists and finally the Setas.
 @brief: A guide chatting with the listener while they wait for the lift; brisk storytelling with a wry edge, then a warm hand-off upward.

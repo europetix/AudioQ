@@ -1,0 +1,30 @@
+@id: 017 · DE · The way down · 31 Oct 2026 edition
+@section: Coming down
+@room: The way down · the exhibition
+@type: R
+@title: Der Weg nach unten — Von der Baustelle zum Wahrzeichen
+@where: Auf dem Weg vom Rundweg hinunter zur Plaza Mayor, wo die Ausstellung zur Geschichte der Plaza de la Encarnación den Weg säumt. Spielen Sie den Titel beim Hinuntergehen.
+@what: The official exhibition on the way down, showing the evolution of the Plaza de la Encarnación up to today (contents not yet photographed); building the Setas from June 2005; the opening on Sunday 27 March 2011 by Mayor Alfredo Sánchez Monteseirín, the Antiquarium the same evening; Arup's project director José de la Peña; Sacyr's concession and the 2021 renewal; DATED: 15th anniversary in 2026. ONSITE: O12 (exhibition contents; where the way down comes out), O14.
+@listen: How a building site Seville argued over became a city symbol, as you walk down past the exhibition.
+@brief: A friend walking down with the listener, telling the opening story with a smile; warm, unhurried, a light wry touch at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://setasdesevilla.com/planifica-tu-visita (OFF: "exposición única que muestra la evolución de la Plaza de la Encarnación hasta la actualidad"; "Finaliza tu recorrido en la emblemática Plaza Mayor") ; https://setasdesevilla.com/experiencia-general (OFF: "exposición única mientras desciendes") ; https://www.defensordelpueblo.es/noticias/el-defensor-del-pueblo-suspende-su-investigacion-sobre-las-setas-de-la-encarnacion-tras-la-informacion-remitida-por-el-ayuntamiento-de-sevilla-2/ (OFF: works "se iniciaron en junio de 2005"; operator says 2006, so FACTS HEDGE "mid-2000s") ; https://www.arup.com/news-and-events/sevilles-la-plaza-de-la-encarnacion-opens (OFF Arup: opened "Sunday 27 March" by Mayor Alfredo Sánchez Monteseirín; Antiquarium opened the same evening; José de la Peña, Project Director: "Constructions of this nature always create a great impact, and are always debated in the respective cities"; cited the Eiffel Tower; confident Seville is proud of its new symbol of modernity and technology) ; https://www.publico.es/actualidad/legado-monteseirin.html (SEC, 28 Mar 2011: the opening; Sacyr built it and helped finance it in exchange for running it; years not used) ; https://www.dezeen.com/?p=2314624 (SEC: opposition from the 2004 announcement to the 2011 opening) ; https://setasdesevilla.com/en/history-and-construction (OFF: full inauguration 6 May 2011 → "in stages through that spring") ; https://sacyr.com/-/10-aniversario-setas-sevilla (OFF: 2021 renewal, Aurora and Feeling Sevilla) ; https://setasdesevilla.com/ (OFF: "Campaña 15 Aniversario", read 30 Oct 2026)
+@lang: de
+@translation: from the fact-checked English Setas de Sevilla 017 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] An einem Sonntag im Frühjahr 2011 eröffnete Sevillas Bürgermeister ein Gebäude, über das die Stadt sieben Jahre lang gestritten hatte.
+
+Die Ausstellung um Sie herum zeigt, so der Betreiber, wie sich die Plaza de la Encarnación bis heute verändert hat.
+
+Gebaut wurde ab Mitte der 2000er-Jahre, auf einem Platz, der schon Kloster, Markthalle und Parkplatz gewesen war. [pause] Am siebenundzwanzigsten März 2011 eröffnete der Bürgermeister das Gebäude. Das Museum der römischen Reste darunter wurde am selben Abend eröffnet. Der Rest folgte schrittweise in jenem Frühjahr.
+
+[pause] José de la Peña, Projektleiter des Ingenieurbüros Arup, sah den Streit kommen. Bauten wie dieser, sagte er, „erzeugen immer große Wirkung und werden immer diskutiert“. Er verwies auf den Eiffelturm, über den auch Paris einst stritt. Sevilla, sagte er, könne stolz sein auf ein neues Symbol von Moderne und Technik.
+
+Sacyr, die Firma, die es baute, half bei der Finanzierung. Sie betreibt es im Rahmen einer langen Konzession der Stadt. [pause] Zehn Jahre nach der Eröffnung erneuerte Sacyr das Gebäude. Dazu kamen die Aurora-Lichter und der Saal von Feeling Sevilla.
+
+2026 werden die Setas fünfzehn.
+
+[wry] Baustelle, Streit, Wahrzeichen. Diesen Weg ist auch der Eiffelturm gegangen.
+
+Am Ende des Wegs nach unten kommen Sie auf der Plaza Mayor heraus, dem großen erhöhten Platz unter den Schirmen. Suchen Sie sich eine Stelle, an der Sie niemandem im Weg sind und das Holz über sich sehen. [pause] Spielen Sie dort die nächste Station: Unter dem Holz.

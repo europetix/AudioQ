@@ -3,7 +3,7 @@
 @room: Level −1 · Antiquarium, over the dig
 @type: R
 @title: Antiquarium — Sevilla in Schichten
-@where: Im Antiquarium, auf dem Steg, an der ersten Stelle mit gutem Blick hinunter auf die Überreste, am besten dort, wo Sie sehen, wie tief sie reichen [O4].
+@where: Im Antiquarium, auf dem Steg, an der ersten Stelle mit gutem Blick hinunter auf die Überreste, am besten dort, wo Sie sehen, wie tief sie reichen.
 @what: The 1991–92 test dig on the site of the old Mercado de la Encarnación (Verdugo Santos, Larrey Hoyuelos and Murillo Díaz, commissioned by the market traders' cooperative): convent remains, an Almohad level about 3 m down, a late-1st-century Roman building about 7 m down, Roman deposits to about 9 m; groundwater and a shored pit; the Setas designed as "a structure that sits on the Roman ruins". V5.1: kept from V5 003; the opening now follows on from 002, which names the 1991 dig.
 @listen: How a small test pit paid for by the market traders showed that every age of Seville lay stacked under this square.
 @brief: A guide leaning on the rail with the listener, telling a good find story; curious, then a touch wry about the waterlogged pit, settling to quiet wonder.

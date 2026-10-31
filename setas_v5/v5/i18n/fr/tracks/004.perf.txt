@@ -1,0 +1,32 @@
+@id: 004 · FR · Antiquarium · 31 Oct 2026 edition (V5.1)
+@section: Antiquarium
+@room: Level −1 · Antiquarium, Roman houses
+@type: W
+@title: Antiquarium — Méduse, la gardienne
+@where: Dans l'Antiquarium, parmi les maisons romaines, au cartel de la Casa de la Columna, la maison de la Colonne, avec sa mosaïque de Méduse.
+@what: Roman Hispalis under the Plaza de la Encarnación: houses with mosaics built and rebuilt in several phases from the mid-1st century AD. NEW in V5.1: 47 floors found, 33 with mosaics, about a dozen on show when the specialist study came out (López Monteagudo 2015, as reported by KRAMER; spoken in the past tense, audit 004.1), some in situ on the floor, some as vertical panels (KRAMER); the Casa de la Columna with its Medusa mosaic (VS-ANT), "laid out on the floor" (ACOM); KRAMER: "the warning and protective Medusa in a geometric composition", "depicted with an unhappy facial expression", at "the first stop, building D". Guardian line kept general (Romans put Medusa's head on floors as a guard), the specific one attributed to "her study" (López Monteagudo, via Kramer's review; one consistent attribution across 004–006, audit 004.2); no claim that she protects this house. In passing: Casa Romana, Casa de las Basas, Casa de la Noria (house attribution of the noria left open, audit row 25). Originals, replicas, photographs.
+@listen: Why this is Seville's best group of Roman mosaics, how much of it you can see, and why a Roman family put a Gorgon on the floor.
+@brief: A guide in a quiet museum, enthusiastic but low-voiced; curious at the start, a storyteller's relish for Medusa, a wry smile at her face, warm at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: VS-ANT https://visitasevilla.es/en/?p=1576 (OFF: Roman area 1st–6th c.; Roman House, House of the Nymph, House of Bacchus; House of the Column "contains the mosaic of the Medusa"; Houses of the Basas, Sigma, Noria) ; KRAMER https://acikerisim.uludag.edu.tr/bitstreams/5d489fdf-1c78-4a17-b073-8b9e36726fc6/download (SEC academic, Kramer review of López Monteagudo, Journal of Mosaic Research 11, 2018, re-read 31 Oct 2026: "A total of 47 floors were found, 33 with mosaics"; "13 mosaics, in situ on the floor, or exposed as vertical panels"; "four phases from over five centuries of buildings with mosaics"; "from the beginning of the construction in the middle of the first century"; "at the first stop, building D, there is the warning and protective Medusa in a geometric composition"; "Medusa here is depicted with an unhappy facial expression"; quality "unmatched in its kind in the city, where otherwise only few mosaics have been found", as cited in V5) ; ACOM https://andalucia.com/cities/seville/museum-antiquarium.htm (SEC, mod. 2 Apr 2026, re-read 31 Oct 2026: the mosaic "of Medusa … laid out on the floor") ; UPO-ANT https://www.upo.es/patio-colorado/2021/08/03/el-antiquarium-de-sevilla/ (SEC: originals and replicas; via research, not re-read) ; Medusa as a protective (apotropaic) image on Roman floors: audit §2 #3 (KRAMER "warning and protective"; standard usage) ; Medusa and Perseus myth: general knowledge
+@lang: fr
+@translation: from the fact-checked English Setas de Sevilla 004 (30 Oct 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Séville était une ville romaine importante, mais elle a gardé étonnamment peu de mosaïques romaines. Son plus bel ensemble se trouve ici.
+
+Les Romains appelaient la ville Hispalis. Sous cette place s'étendait un quartier de maisons, jamais achevées d'un seul coup. [pause] Les archéologues ont retracé phase après phase de construction, sur cinq ou six siècles, à partir du premier siècle.
+
+[pause] Ils ont trouvé quarante-sept sols, dont trente-trois à mosaïques. Guadalupe López Monteagudo leur a consacré l'étude de référence. À sa parution, une douzaine seulement étaient exposés. Certains sont au sol, là où on les a trouvés. D'autres sont accrochés en panneaux verticaux. [pause] Un compte rendu de son étude est clair. Dans une ville où l'on en a trouvé si peu, ils sont sans égal, en qualité comme en variété.
+
+La maison à trouver est la Casa de la Columna, la maison de la Colonne. Cherchez sa Méduse, la Gorgone aux cheveux de serpents du mythe grec. Selon les vieux récits, un seul regard d'elle pétrifiait les gens, jusqu'à ce que le héros Persée lui tranche la tête.
+
+Alors, pourquoi la vouloir sous ses pieds ? Parce que ce regard pouvait aussi vous servir. Les Romains plaçaient sa tête sur leurs sols comme une sorte de garde, un visage pour détourner le malheur. [pause] L'étude de référence parle ici d'une Méduse d'avertissement et de protection.
+
+Si vous la trouvez, observez son cadre. Elle est placée dans un motif géométrique. Puis regardez son visage. La même étude note qu'elle a l'air malheureuse. [wry] Peut-être sait-elle comment finit son histoire.
+
+En chemin, les cartels nomment d'autres maisons. La Casa Romana, la maison romaine. La Casa de las Basas, la maison des Bases de colonnes. La Casa de la Noria, la maison de la Roue à eau. Ce sont des noms modernes, pas romains. Et les cartels distinguent les originaux, les répliques, et ce qui ne subsiste qu'en photos prises pendant la fouille.
+
+[warmly] Pour une ville qui a gardé si peu de ses sols romains, c'est ici qu'Hispalis montre encore son visage.
+
+Continuez à travers les maisons romaines, et écoutez en chemin l'arrêt suivant dans l'Antiquarium : Bacchus et le banquet.

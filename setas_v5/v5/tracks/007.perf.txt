@@ -3,7 +3,7 @@
 @room: Level −1 · Antiquarium, Almohad house
 @type: R
 @title: Antiquarium — The Almohad house
-@where: Inside the Antiquarium, at the label for the casa almohade, the Almohad house, the Moorish part of the excavation [O4].
+@where: Inside the Antiquarium, at the label for the casa almohade, the Almohad house, the Moorish part of the excavation.
 @what: An Islamic house of the Almohad period, 12th–13th centuries, with traces of the surrounding Almohad neighbourhood; found about 3 m below the street in the 1991–92 test dig, against about 7 m for the Roman level. Context: the Almohad Great Mosque of Seville (ordered 1172) and its minaret, begun 1184, today's Giralda. NEW in V5.1: the Torre del Oro, ordered by the Almohad governor Abu l-'Ula, built in 617 AH (1220–21) (Ministerio de Defensa 2023); "it survived because it was buried" (audit §2, OPINION-safe), tied to the layers above it (convent, market; AAA91). The house is not named "Casa de la Noria" (audit row 25, unresolved).
 @listen: How a house from Almohad Seville sits a thousand years and only a few metres above the Roman city, in the age of the Giralda, and why it is still here.
 @brief: A guide closing the museum visit; curious at the hook, warm when the Giralda appears, quietly struck by the payoff, practical and clear at the exit.
