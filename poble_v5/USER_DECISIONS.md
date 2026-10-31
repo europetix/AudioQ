@@ -7,3 +7,4 @@
 - Languages: EN, ES, FR, DE.
 - Standing feedback from the user: depth and accuracy (the Setas felt thin; old guides had wrong facts). Lead reads every
   track; two independent audits; independent review per language.
+- 31 Oct: planner's honest Full ≈ 93 min (25 tracks), Essential ≈ 75, Highlights ≈ 43. The sourced, placeable content ends there; the lead accepts it (no padding) and tells the user; 001 says about an hour and a half, nearer two with the art museum.
