@@ -547,7 +547,7 @@ def down_svg():
 DN_NS = sec_ns("Coming down", "Plaza Mayor")
 PM_RNG = f"{PM_NS[0]}–{PM_NS[-1]}" if len(PM_NS) > 1 else f"{PM_NS[0]}"
 PM_REST = [n for n in PM_NS if n != N_UNDER]
-after_box = (f'''<div class="box wide"><h3>After your visit ({lst(AFTER_NS)}, Extra, Full tour)</h3><p>Not a stop on the route: play it anywhere once you have left the Setas, on the street, at a café, or on your way. It is about two places nearby, not drawn here: the Plaza del Cristo de Burgos, with the old fig trees that inspired the design, and the Alameda de Hércules, with its two Roman columns. Any map on your phone will show you the way.</p></div>''' if AFTER_NS else "")
+after_box = (f'''<div class="box wide"><h3>After your visit ({lst(AFTER_NS)}, Extra, Full tour)</h3><p>Not a stop on the route: play it anywhere once you have left the Setas, on the street, at a café, or on your way. It is about two places nearby, not drawn here: the Plaza del Cristo de Burgos, with the old fig trees that the city links to the parasols, and the Alameda de Hércules, with its two Roman columns. Any map on your phone will show you the way.</p></div>''' if AFTER_NS else "")
 dextra = f'''<div class="boxes">
  <div class="box"><h3>Feeling Sevilla ({N_FEEL})</h3><p>An optional Extra about the film room, on the experiences level inside the parasols. Play it before you go in. Where the room is, and when you reach it, is still to be confirmed on site.</p></div>
  <div class="box"><h3>The way down ({N_DOWN})</h3><p>Play {N_DOWN} as you walk down past the exhibition. At the bottom you come out on the Plaza Mayor, the big raised square under the parasols. Whether there is also a lift down is still to be confirmed.</p></div>
