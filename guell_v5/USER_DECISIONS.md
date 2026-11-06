@@ -9,3 +9,10 @@
 - **Languages:** EN, ES, FR, DE, each with its own translator and an independent reviewer.
 - **Standard (user, Guggenheim brief):** "kindly do not compromise on research and quality". Research ≥ 150 graded
   facts (official first; Wikipedia never alone), lead reads every track, two independent audits, fixer, honest lengths.
+
+## Lead note (6 Nov 2026, from research)
+Official pages (parkguell.barcelona, "the restricted area") say the ticket now covers the park's 12 hectares, with a
+second controlled access point and a one-way section (Pl. Natura, Hypostyle Room, Laundry Room Portico, Dragon
+Stairway, Austria Gardens). So the viaducts and the Portico are inside the ticketed park, not a "free park". The user's
+scope stays the same in content (Monumental Zone + viaducts + Portico; Gaudí House outside only); only the wording of
+"free" changes. To confirm in the route research and on site.
