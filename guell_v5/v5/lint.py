@@ -26,7 +26,7 @@ for f in files:
     if re.search(r"next track|track \d|play track", c, re.I): p.append("says 'next track'")
     if len(re.findall(r"the museum says", c, re.I)) > 1: p.append("'the museum says' >1")
     if re.search(r"\b(ticket prices?|buy (your )?tickets?|book (your )?tickets?|online tickets?|opening hours|(?<!billion )(?<!million )euros?\b)|€", c, re.I): p.append("tickets/hours/prices")
-    if re.search(r"\b(Gaudí|Güell|Jujol|Berenguer) (is|says|thinks|wants|believes)\b", c): p.append("present tense for a dead person")
+    if re.search(r"\b(Gaudí|Güell|Jujol|Berenguer|Bassegoda|Maragall|Trias|Rubió i Tudurí|Dalí|Brattstrom|Filler|Sellés) (is|says|tells|thinks|wants|believes|writes|calls|adds|describes|explains)\b", c): p.append("present tense for a dead person")
     if re.search(r"longest bench|invented trencad|free zone|free park|Dr Trias|Rubió i Bellver|hundred columns|150 metres|1,200|twelve thousand litres|\beastern\b|\bwestern\b|south side|north side|Saint George|Masonic park|fly agaric|Ebenezer|Howard\b|Can Coll(?! i Pujol)", c, re.I): p.append("NEVER-list wording")
     if re.search(r"\b(speaker|play (it|this) (aloud|out loud))\b", c, re.I) and meta.get("type")!="ANCHOR": p.append("speaker mention outside 001")
     if "!" in c: p.append("exclamation mark")
