@@ -1,0 +1,30 @@
+@id: 028 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Austria Gardens
+@room: The Austria Gardens · the pink house with the pointed tower in view
+@type: W
+@title: Die Österreichischen Gärten — Das Haus, das Gaudí nicht entwarf
+@where: In den Österreichischen Gärten, nahe ihrer Mitte, wo das rosa Haus mit dem spitzen Turm, das Gaudí-Hausmuseum, zwischen den Bäumen zu sehen ist. Nur von außen.
+@what: The estate's show house, now the Gaudí House Museum (Casa Museu Gaudí): put up by the works contractor Josep Pardo i Casanovas as a model home, to the plans of Francesc Berenguer i Mestres, signed by Gaudí because Berenguer had no architect's title (op16, op4, op22, s3; F2.21, F2.23, F4.8); "a few years into the works" (F2.22 HEDGE); bought by the Gaudí family in 1906 (F2.24 HEDGE); Gaudí there for nearly twenty years, until 1925 (G79; version-neutral for E); the Chiappos and "Casa Gaudí"; opened as a museum in 1963 thanks to the Friends of Gaudí (op22, op4; F11.11, F3.19, E80; FA N10); iron railings from Casa Vicens and Casa Milà in its garden, self-contained Casa Vicens clause (op22; F11.12); pink stucco walls, pointed tower (op22). F15.3 / F11.13 corrected once. Callback 015 (the show house; safe).
+@listen: Gaudí's home for nearly twenty years was a show house drawn by his right-hand man, Berenguer, with Gaudí's signature on the plans.
+@brief: A guide setting the record straight with affection; brisk on the facts, amused at the myth, warm at the end.
+@pace: medium
+@energy: 3→3→2
+@sources: op16 https://parkguell.barcelona/en/park-guell/emblematic-features/gaudi-museum-house (OFF-op, re-read 7 Nov 2026: "A model home exemplifying the housing complex that Eusebi Güell wanted to construct."; "It was initiated by the contractor for the works on Park Güell, Josep Pardo i Casanovas,"; "built according to the plans of Gaudi's friend and collaborator, Francesc Berenguer i Mestres."; "In 1906 it was acquired by Antoni Gaudi's father, and the architect lived there until 1925, a year before his death.", EN) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: a show house "designed by Gaudí's assistant Francesc Berenguer, to encourage sales"; "Thanks to the work of Friends of Gaudí", "opened to the public as Gaudí House Museum in 1963", EN) ; op22 https://sagradafamilia.org/es/casa-museo-gaudi (OFF, former operator, re-read 7 Nov 2026 (FA could not): Berenguer "amigo y mano derecha del arquitecto" (paraphrased on air, no quotation marks); Gaudí signed "ya que Berenguer no tenía el título de arquitecto"; permit Oct 1905, "probablemente ya estaba construida" (not used); the Chiappos "dio a conocer la casa como Casa Gaudí"; opened 28 Sep 1963; "verjas de hierro de la Casa Vicens y de la Casa Milà"; "muros exteriores, rosados, son estucados"; "tiene una torre puntiaguda", ES) ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read 7 Nov 2026: "amb plànols de Francesc Berenguer, signats Gaudí", CA) ; G79 https://www.barcelona.cat/museuhistoria/sites/default/files/muhbabutllet20.pdf (OFF, Freixa & Leniz, V by FA: "gairebé vint anys, des del 1906", CA; paraphrased)
+@lang: de
+@translation: from the fact-checked English Park Güell 028 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Der berühmteste Mann, der je in dieser Siedlung lebte, wohnte in einem Haus, das er nicht entworfen hatte.
+
+Das Haus begann als Werbung. Erinnern Sie sich an das Musterhaus, gebaut, um Käufer anzulocken? Das ist es. Einige Jahre nach Beginn der Arbeiten baute es der Bauunternehmer Josep Pardo i Casanovas als Musterhaus. Mit den Worten des Parks wurde es „nach den Plänen von Gaudís Freund und Mitarbeiter Francesc Berenguer i Mestres gebaut“. Die Seiten der Sagrada Família über das Haus gehen weiter und nennen Berenguer Gaudís Freund und rechte Hand.
+
+Aber Berenguer hatte keinen Architektentitel. Also unterschrieb Gaudí die Pläne. Wie Bassegoda auf Katalanisch schrieb: „Pläne von Francesc Berenguer, gezeichnet Gaudí“.
+
+[amused] Wenn Ihnen also jemand erzählt, Gaudí habe hier sein eigenes Haus entworfen, stimmt das nicht. Berenguer zeichnete es. Gaudí unterschrieb.
+
+[pause] Und die Werbung wirkte nicht. Es fand sich kein Käufer. 1906 kaufte es die Familie Gaudí selbst, und Gaudí lebte hier fast zwanzig Jahre, bis 1925.
+
+Später machte es ein Ehepaar, das ihn bewunderte, die Chiappos, als Casa Gaudí bekannt. Dank einer Vereinigung namens Freunde Gaudís wurde es 1963 als Museum eröffnet, als Casa Museu Gaudí. Sein Garten birgt eiserne Gitter aus zwei von Gaudís Stadthäusern, der Casa Vicens und der Casa Milà. Es ist geretteter Gaudí, wie die eisernen Palmblatttore in der Mauer am Haupteingang des Parks, die ebenfalls von der Casa Vicens stammen.
+
+[warmly] Suchen Sie es jetzt zwischen den Bäumen: die rosa verputzten Wände und den spitzen Turm. Heute ist es ein Museum, und diese Führung bleibt draußen.
+
+Behalten Sie das rosa Haus im Blick: Die Österreichischen Gärten · Ein Vater und eine Nichte.

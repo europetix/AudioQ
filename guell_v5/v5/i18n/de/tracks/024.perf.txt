@@ -1,0 +1,24 @@
+@id: 024 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Hypostyle Room · inside, under one of the four big round discs
+@type: R
+@title: Der Hypostylsaal — Vier Jahreszeiten in Glas
+@where: Im Hypostylsaal, unter einer der vier großen runden Scheiben an der Decke, mit Blick nach oben.
+@what: The four Suns, one for each season, as the city reads them (aj8; Q11; F7.14); version-neutral credit to Josep Maria Jujol (F4.3); the glassware in them (aj8; F7.16); the 2013 emergency, each Sun cut into 24 pieces, taken down, restored and put back, with no year spoken (aj8 gives none; F7.18's "2016" is only the press note's footer: FA ed2 S5, RC), by the restorers Gamarra & García with Eurocatalana (F4.15). No moon reading, no count of small discs (G8, G9); no dolls' heads or plates (F7.17). Cue: the Font Sarva Extra, then the one-way route up the hall's right-hand side to the Austria Gardens (RA M1, RA S3).
+@listen: The four great discs overhead are suns for the seasons, made from the glassware of somebody's dining table.
+@brief: A guide pointing upward with real delight; warm at the hook, slowing for the glassware, pleased at the rescue.
+@pace: medium
+@energy: 3→4→3
+@sources: aj8 https://ajuntament.barcelona.cat/turisme/sites/default/files/5._barcelona_restaura_els_medallons_del_sostre_1.pdf (OFF, Ajuntament 2016, via FA V and ed1 notes: "els medallons dels quatre Sols (un per a cada estació de l'any)"; "peus de copes, servidores de vidre tallat, taps d'ampolles de licor, ampolletes de perfum"; 2013 "actuació d'urgència fruit d'uns despreniments"; "Cadascun dels quatre Sols es va subdividir en 24 fragments"; Eurocatalana with Gamarra & García; trencadís panels "per Josep Maria Jujol, col·laborador de Gaudí", CA) ; op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read 7 Nov 2026: Jujol's broken-tile mosaics on the ceiling) ; s10 https://upcommons.upc.edu/bitstreams/92566456-85cc-4edd-9aa6-95f2856c4014/download (OFF, UPC, via FA V: "amb material reciclat", CA)
+@lang: de
+@translation: from the fact-checked English Park Güell 024 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Die vier größten Scheiben an dieser Decke sind Sonnen. Als die Stadt sie restaurierte, beschrieb sie sie auf Katalanisch als „die Medaillons der vier Sonnen, eines für jede Jahreszeit“. So liest die Stadt sie. Sie sind das Werk von Gaudís jungem Assistenten Josep Maria Jujol, der diese Decke in recyceltes Glas und Fliesen kleidete.
+
+Wählen Sie jetzt eine Sonne und schauen Sie genau hin. Geben Sie Ihren Augen einen Moment. Die Restaurierungsmitteilung der Stadt zählt auf, was darin steckt: „Füße von Weingläsern, Servierschalen aus geschliffenem Glas, Stöpsel von Likörflaschen, kleine Parfümfläschchen“. Geschirr und Flaschen, zerbrochen und in eine Decke gedrückt.
+
+[pause] Fast hätten sie nicht überlebt. 2013 begannen Stücke herabzufallen, und die Stadt musste dringend eingreifen. Später wurde jede der vier Sonnen in vierundzwanzig Teile geschnitten, abgenommen, restauriert und wieder angebracht. Die Arbeit übernahmen die Restauratoren Gamarra und García, mit der Firma Eurocatalana.
+
+Vier Jahreszeiten, aus den Weingläsern von irgendjemandem.
+
+Wenn Sie die vollständige Tour machen, gibt es ein kurzes Extra an einem kleinen Raum in der Umfassungsmauer der Halle, falls er offen ist: Die Font Sarva · Extra · Güells Wasser in Flaschen. Sonst folgen Sie der Einbahnroute aus der Halle hinaus und an ihrer rechten Seite hinauf, rechts von der Treppe aus gesehen, zu den Österreichischen Gärten. Bleiben Sie stehen, wenn Sie in die Gärten kommen: Die Österreichischen Gärten · Ein leeres Grundstück.

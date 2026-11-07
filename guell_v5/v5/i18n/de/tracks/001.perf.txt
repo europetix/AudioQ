@@ -1,0 +1,28 @@
+@id: 001 · DE · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: Anywhere just inside your gate (heard before you reach the start)
+@type: ANCHOR
+@title: Willkommen im Park Güell
+@where: Spielen Sie diese Station irgendwo gleich innerhalb des Tors ab, durch das Sie gekommen sind, abseits der Ticketkontrolle. Sie müssen dafür nichts sehen. Der Rundgang beginnt dann auf dem Eingangsvorplatz innerhalb des Tors an der Carrer d'Olot, zwischen den zwei Torhäusern.
+@what: Park Güell, Eusebi Güell's private garden-city estate on the Carmel hill, by Antoni Gaudí, works begun 1900, a public park since 1926 (aj1 Q3; op4 Q2; F1.9, F1.15, F3.1); the route in the official A–I order with the viaducts first (MAP; PLAN_V2 §1); practical lines (ACCREG 3.23, 2.11; FAQ; RESTRICT; MOB26; COMP); the three lengths (PLAN_V2 §3, Lead's decision 1); the three visitor gates (NODE268, ACCESS; RA M2 text).
+@listen: What Park Güell was meant to be, the route through it, the few rules that matter, and how to find the start from any gate.
+@brief: A warm, unhurried host greeting people just through the gate; clear and practical in the middle, inviting at the end.
+@pace: medium
+@energy: 3→3→3
+@sources: aj1 https://www.barcelona.cat/museuhistoria/en/muhba-park-guell/48-gaudi-park-guell-and-barcelona-urban-planning-and-nature (OFF; "a residential condominium for sixty well-heeled families in the purest British style", "In 1900 work began": V, facts audit 7 Nov 2026) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op; "Güell wanted to recreate the British residential parks": V, facts audit 7 Nov) ; op3 https://parkguell.barcelona/en/park-guell/gaudi-and-guell (OFF-op; commissions from 1878 to the park in 1900, so over twenty years: V) ; s1 https://www.enciclopedia.cat/gran-enciclopedia-catalana/eusebi-guell-i-bacigalupi (SEC; industrialist: V) ; ACCREG https://parkguell.barcelona/en/planning-your-visit/access-regulations (OFF-op; 3.23 no speakers or voice amplification; 2.11 no leaving and re-entering; read 6 Nov, paraphrased) ; FAQ https://parkguell.barcelona/en/planning-your-visit/faqs (OFF-op; no re-entry; "irregular paths and steep ramps"; reduced-mobility routes on a linked map; read 6 Nov, paraphrased) ; RESTRICT https://parkguell.barcelona/en/planning-your-visit/the-restricted-area (OFF-op; a second controlled access point with a one-way route: FA re-read 7 Nov) ; NODE268 https://parkguell.barcelona/en/node/268 and ACCESS https://parkguell.barcelona/en/a-park-for-everone/why-are-the-access-points-regulated (OFF-op; the Marianao-side entry, Carmel, Sant Josep escalators; one exit at Carrer d'Olot) ; MAP https://parkguell.barcelona/en/planning-your-visit/recommended-routes (OFF-op drawing, lead's reading 7 Nov: the Olot-side route walks along the inside of the wall past the Casa del Guarda, the gatehouse without the tower) ; COMP (offline line only)
+@lang: de
+@translation: from the fact-checked English Park Güell 001 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Der Park Güell sollte nie ein Park werden. Das Stadtgeschichtsmuseum nennt ihn „eine Wohnanlage für sechzig wohlhabende Familien im reinsten britischen Stil“. Eusebi Güell wollte die britischen Wohnparks nachbilden.
+
+Seine Schöpfer waren Güell, einer der großen Industriellen seiner Stadt, und Antoni Gaudí, damals schon seit über zwanzig Jahren sein Architekt. Die Arbeiten begannen 1900. So wurde ihr privates Anwesen zum Park für alle.
+
+Wir beginnen am Tor und seinen zwei Torhäusern, eines davon das Haus des Hausmeisters. Die längeren Touren führen dann hinauf zu den Straßen und Brücken, die Gaudí zuerst baute. Dann folgen die große Treppe mit ihrem Drachen, die Säulenhalle, die Österreichischen Gärten, der Platz der Natur mit seiner Bank und seiner Aussicht und der Portikus der Wäscherin. Zum Schluss geht es an Güells eigenem Haus vorbei zum Haupttor an der Carrer d'Olot, dem Ausgang.
+
+[pause] Bitte hören Sie über Kopfhörer: Lautsprecher sind im Park nicht erlaubt. Vor der großen Treppe gibt es eine zweite Ticketkontrolle. Dahinter führt der Weg nur in eine Richtung, und Sie können nicht zurück. Wenn Sie den Park verlassen, können Sie nicht wieder hinein. Die Wege sind steil, mit vielen Stufen, und der Park veröffentlicht Routen für Menschen mit eingeschränkter Mobilität. Alles ist schon auf Ihrem Handy, Sie brauchen also keinen Empfang.
+
+Die vollständige Tour dauert gut zwei Stunden, die Kernversion etwa eineinviertel Stunden, die Highlights etwa eine Dreiviertelstunde, Gehzeit und eine kurze Wartezeit inbegriffen. Spielen Sie die Stationen der Reihe nach ab. Die Nummern auf Ihrem Handy können springen, aber jede Station sagt Ihnen, wohin es als Nächstes geht.
+
+Vom Eingang Marianao auf der Seite der Carrer d'Olot gehen Sie innen an der Mauer entlang zu den zwei Torhäusern am Haupttor. Von der Carretera del Carmel oder von den Rolltreppen von Sant Josep de la Muntanya folgen Sie den Schildern hinunter zum Haupttor. Bleiben Sie im Park, und gehen Sie nicht durch die zweite Ticketkontrolle.
+
+Beginnen Sie auf dem Eingangsvorplatz, gleich innerhalb des Haupttors an der Carrer d'Olot, zwischen den zwei kleinen Torhäusern mit ihren gefliesten Dächern. Drehen Sie sich zum Tor und zur Mauer: Der Eingangsvorplatz · Park mit k.

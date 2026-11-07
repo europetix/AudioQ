@@ -1,0 +1,26 @@
+@id: 023 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Hypostyle Room · inside, under the small domes of the ceiling, away from the big discs
+@type: R
+@title: Der Hypostylsaal — Der junge Mann an der Decke
+@where: Im Hypostylsaal, unter einer der kleinen Kuppeln der Decke, weg von den vier großen runden Scheiben, mit Blick nach oben.
+@what: Josep Maria Jujol (Tarragona 1879 – 1949), twenty-seven years younger than Gaudí (our arithmetic, 1852/1879); full collaboration with Gaudí 1904–1914 (s11, F4.1–F4.2; paraphrased, Duch not re-checked); the ceiling of small clay-brick domes by Gaudí, its tile-shard mosaics by Jujol (op8, FLYER, F7.13); the archive's credit for the bench's trencadís and the hall's panels, "with recycled material" (s10, F4.3); Jujol's son's line, paraphrased (s11, Q5, F4.5); Casa Milà: interior decoration and the running of the site (s10, F4.6, FA S10). No Suns (024); no Jujol quotation (G48).
+@listen: The colour over your head is not Gaudí's but his young assistant's, Josep Maria Jujol, and Gaudí trusted him more and more.
+@brief: A guide giving credit where it's due; light at the hook, clear on who did what, warm about Jujol.
+@pace: medium
+@energy: 3→3→4
+@sources: op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read 7 Nov 2026: the ceiling of small domes built from clay bricks, decorated with Jujol's broken-tile mosaics; FA V for "is formed of small domes constructed using the traditional technique of clay bricks" and "decorated with original tile-shard mosaics made by Josep M. Jujol", EN) ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read 7 Nov 2026: "pequeñas cúpulas construidas con la técnica de la bóveda catalana", "unos paneles circulares que proyectó el arquitecto Josep Maria Jujol", ES) ; s10 https://upcommons.upc.edu/bitstreams/92566456-85cc-4edd-9aa6-95f2856c4014/download (OFF, Càtedra Gaudí / UPC Fons Jujol, via FA V: Jujol "dissenya el colorit trencadís, del banc ondulat i els plafons de la sala hipòstila", "amb material reciclat"; Casa Milà "la decoració interior i en dirigí la construcció"; "forjats" avoided, FA S10, CA) ; s11 https://dialnet.unirioja.es/descarga/articulo/2420342.pdf (SEC, Duch 1999: blocked 7 Nov 2026, not retried; birth in Tarragona 1879 also on Enc. Cat., FA verified; "col·laboració plena" 1904–1914 and the son's line used as paraphrase without quotation marks)
+@lang: de
+@translation: from the fact-checked English Park Güell 023 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Die Farbe über Ihrem Kopf ist nicht von Gaudí. Sie gehört seinem jungen Assistenten, Josep Maria Jujol. Jujol wurde 1879 in Tarragona geboren, siebenundzwanzig Jahre nach Gaudí. Eine Studie über ihn von Joan Duch datiert die Jahre ihrer vollen Zusammenarbeit von 1904 bis 1914.
+
+Wer hat also was gemacht? Gaudí baute das Gewölbe. Mit den Worten des Parks „besteht“ die Decke „aus kleinen Kuppeln, gebaut in der traditionellen Technik mit Tonziegeln“. Sie wurden „mit originalen Mosaiken aus Fliesenscherben verziert“, die Jujol schuf. Das Archiv der Càtedra Gaudí an der Technischen Universität der Stadt sagt es auf Katalanisch. Jujol „entwirft das farbige Trencadís der gewellten Bank und die Felder des Hypostylsaals“. Und er schuf sie, fügt es hinzu, „aus recyceltem Material“.
+
+[curious] Schauen Sie jetzt hinauf zu den nächsten kleinen Kuppeln, und zu den Feldern aus Fliesenscherben darin. Folgen Sie der Farbe von einer Kuppel zur nächsten.
+
+Jujols eigener Sohn, der über seinen Vater schrieb, teilte die Partnerschaft in zwei Hälften. Wie Duch ihn zitiert, habe beim Bauen Gaudí Jujol beeinflusst, und bei der Dekoration Jujol Gaudí. Gaudí vertraute ihm weiter. Bei der Casa Milà vertraute er Jujol die Innendekoration an und, so das Archiv, die Leitung der Baustelle.
+
+[warmly] Nehmen Sie Jujols Namen mit. Seine Hand finden Sie auf der Bank wieder.
+
+Stellen Sie sich jetzt unter eine der vier großen runden Scheiben an der Decke: Der Hypostylsaal · Vier Jahreszeiten in Glas.

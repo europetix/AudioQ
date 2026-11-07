@@ -1,0 +1,28 @@
+@id: 045 · DE · Park Güell · 7 Nov 2026 edition
+@section: The way out
+@room: The Carrer d'Olot gate · just inside, the stairway in view
+@type: CLOSE
+@title: Das Tor an der Carrer d'Olot — Eine gescheiterte Siedlung
+@where: Gleich innerhalb des Haupttors an der Carrer d'Olot, abseits der Hinausgehenden, mit der großen Treppe im Blick.
+@what: Close. A failed housing estate that became a triumph of a park (F15.2 safe wording): sixty plots, two houses (op4, F2.25). Version-neutral recap (RA L3, 43 words; H skips 041–043): Güell in Casa Larrard until his death in 1918 (op4, op15, F3.11); the city's purchase from his heirs and the opening in April 1926 (F3.13, F3.15); Gaudí's death that June (s31, F13.2). MUHBA: "a perfect symbiosis between urban planning, architecture and nature" (aj1, Q12, F1.17). The people: Jujol's colour on the bench and the ceiling (s10, F4.3, F4.4 safe wording), Berenguer, Gaudí's "right hand", drew the show house (op16, op22, F2.21, F4.7), the builders, an uncle and his nephew, not named in speech (s3, F4.11; RA ed2 L9), the caretaker (aj4, F5.6; no roof identifier, lead's note 7 Nov), the lawyer Martí Trias, first buyer (op4, F2.18; callback 015, in all). Callback 002: Park with a k (op4, F1.12). Goodbye: the Carrer d'Olot gate is the way out; no re-entry (FAQ). Cut: "In 2026 it turned a hundred" (RA N13).
+@listen: The whole story in one breath: the estate that failed, the people who made it, and the park it became.
+@brief: A guide saying goodbye at the gate, warm and unhurried, quiet for a moment at Gaudí's death, then grateful and plain.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "Eusebi Güell died at his house in 1918"; "It was opened as a municipal park in 1926."; ed1 re-read: "A lack of buyers led to the works being abandoned in 1914, with only two of the sixty houses envisaged having been built.") ; op15 https://parkguell.barcelona/en/park-guell/emblematic-features/house-larrard (OFF-op, re-read 7 Nov 2026: Güell "lived there until his death") ; aj1 https://www.barcelona.cat/museuhistoria/en/muhba-park-guell/48-gaudi-park-guell-and-barcelona-urban-planning-and-nature (OFF, verified by FA: "Gaudí's idea was a perfect symbiosis between urban planning, architecture and nature.") ; s31 https://www.vilaweb.cat/noticies/els-tres-dies-dagonia-que-van-convertir-la-mort-de-gaudi-en-un-dol-de-ciutat/ (SEC, ed1 re-read: died 10 June 1926) ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, ed1 re-read p. 100: "Josep Pardo i Casanovas i Josep Berdié i Pardo, oncle i nebot, contractistes", CA) ; s10 https://upcommons.upc.edu/bitstreams/92566456-85cc-4edd-9aa6-95f2856c4014/download (OFF, Càtedra Gaudí, via FACTS 4.3: Jujol "dissenya el colorit trencadís, del banc ondulat i els plafons de la sala hipòstila") ; op22 https://sagradafamilia.org/es/casa-museo-gaudi (OFF, former operator, via FACTS 4.7: Berenguer "amigo y mano derecha del arquitecto", ES) ; FAQ https://parkguell.barcelona/en/planning-your-visit/faqs (OFF-op, ed1 re-read: "Once you are inside Park Güell, you can stay as long as you like, but once you have exited, you cannot re-enter.")
+@lang: de
+@translation: from the fact-checked English Park Güell 045 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Eine gescheiterte Wohnsiedlung, aus der ein triumphaler Park wurde. Das ist die kürzeste ehrliche Geschichte dieses Hügels. Sechzig Parzellen, und nur zwei Häuser je gebaut. Eine Markthalle für eine Siedlung, die sich nie füllte. Ein Platz auf ihrem Dach, für Menschenmengen, die erst später kamen.
+
+Der Mann, der sie bezahlte, blieb bis zum Ende, im alten Bauernhaus am Weg hinunter, der Casa Larrard, bis 1918. Dann kaufte die Stadt den Park von seinen Erben und öffnete ihn im April 1926 für alle. [quietly] Im Juni darauf starb Gaudí.
+
+[pause] Was zurückblieb, ist das, was Sie heute durchwandert haben. Das Stadtgeschichtsmuseum fasst es zusammen: „Gaudís Idee war eine perfekte Symbiose zwischen Stadtplanung, Architektur und Natur.“ Regen, durch Säulen hinabgeleitet, ein Platz, der zum Dach wurde, ein Hang, gehalten von einer Welle aus Stein.
+
+Und es war nie das Werk eines einzigen Mannes. Die Farbe auf der Bank und an der Decke der Halle stammt großenteils von Josep Maria Jujol. Francesc Berenguer, Gaudís rechte Hand, zeichnete das Haus, in dem Gaudí lebte. Die Bauleute waren ein Onkel und sein Neffe. Ein Hausmeister hütete das Tor. Und der Anwalt Martí Trias kaufte die allererste Parzelle.
+
+[warmly] Denken Sie an den Namen an der Mauer, Park, mit k. Güell schrieb ihn auf Englisch, für eine Siedlung im britischen Stil, für wenige. Stattdessen wurde daraus Barcelonas Park, für alle.
+
+Werfen Sie einen letzten Blick die Treppe hinauf, zu den Säulen der Halle. Danke, dass Sie mit uns über den Hügel gegangen sind.
+
+Das Haupttor an der Carrer d'Olot ist der Ausgang. Wenn Sie den Park verlassen haben, können Sie nicht wieder hinein, also gehen Sie, wenn Sie so weit sind.

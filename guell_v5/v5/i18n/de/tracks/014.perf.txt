@@ -1,0 +1,28 @@
+@id: 014 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Dragon Stairway
+@room: The foot of the stairway · in the queue for the second control (standing; ALT-K: just before the control if there is no queue)
+@type: W
+@title: Am Fuß der Treppe — Das gesunde Viertel
+@where: In der Warteschlange für die zweite Ticketkontrolle, am Fuß der großen Treppe auf dem Eingangsvorplatz. Wenn es keine Warteschlange gibt, stellen Sie sich kurz vor der Kontrolle zur Seite. Bis zum letzten Absatz gibt es nichts zu sehen.
+@what: The sale of the top of the Muntanya Pelada by the Marquis of Marianao to Eusebi Güell, summer (9 Jul) 1899 (s3, F2.2); La Salut quarter of Gràcia, which Barcelona had absorbed in 1897 (aj3, F2.1 corrected by E68; never "then a separate town"); the 1904 application for Can Muntaner de Dalt and Can Coll i Pujol (G38); the memorandum signed by Güell (s2b, F1.16) with his words on the "barrio de la salud" (G37, V, Lead's decision 5); the plans signed by Güell and Gaudí, 26 Oct 1904 (G39), the permit of 30 Jan 1906 (G40), works begun 1900 (F3.1); MUHBA's water framing (G86, DATED).
+@listen: How Güell pitched a bare hill as a healthy suburb for businessmen, in his own signed words, and how long the paperwork lagged behind the digging.
+@brief: A storyteller keeping a queue company; relaxed and conversational, a dry smile at the paperwork, clear at the cue.
+@pace: medium
+@energy: 3→3→3
+@sources: s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC-acad, Bassegoda 2008, via FACTS F2.2 V and ed1 notes: p. 100 on 9 Jul 1899 the Marquis of Marianao "va vendre la part de dalt de la Muntanya Pelada a Eusebi Güell", CA) ; aj3 https://www.barcelona.cat/museuhistoria/sites/default/files/dossier_park_guell_primaria.pdf (OFF, via FACTS F2.1 V: "la Muntanya Pelada, al barri de la Salut", CA) ; es29 https://www.barcelona.cat/museuhistoria/sites/default/files/gaudi_eng_utt_des_2019_aaff.pdf (OFF, MUHBA Urban History Guide, re-read 7 Nov 2026: the Salut neighbourhood of the former municipality of Gràcia, which "had been joined on to Barcelona shortly before, in 1897", EN; its "more healthy setting" line is about well-to-do families and differs from E69's relay, so not used) ; G-S20 Andruet https://fundacionantoniogaudi.org/Publicaciones/los-planos-de-gaudi-del-park-guell-y-la-casa-batllo.pdf (SEC, via G37–G40, FA V, Lead's decision 5: "Proyecto de urbanización de las fincas Can Muntaner de Dalt y Can Coll y Pujol"; expediente begun 26 Oct 1904 with "una memoria y los planos firmados por Güell y Gaudí"; "excelentes condiciones higiénicas"; "barrio de la salud"; "torres donde vivir cómoda e independientemente los habitantes de Barcelona sin dejar de vista sus negocios habituales"; permit "el 30 de enero de 1906", ES) ; s2b https://revistes.ub.edu/index.php/materia/article/download/32774/35203/91705 (SEC-acad, via FA V: "una memòria signada per Güell", CA) ; G-S38 https://barcelona.cat/museuhistoria/en/activities/visites-comentades/el-park-guell-i-laigua-de-muntanya-pelada-jardi-de-la-ciutat (OFF, MUHBA, re-read 7 Nov 2026: how Gaudí and Güell "van resoldre el sistema hídric en el seu projecte d'urbanització"; "la contaminació de l'aigua, principalment dels pous domèstics", CA; disease named in our text as "disease", never "cholera") ; F3.1 (works began 1900: op2, op3, aj1, OFF)
+@lang: de
+@translation: from the fact-checked English Park Güell 014 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Im Sommer 1899 verkaufte der Marquis von Marianao Eusebi Güell die Kuppe eines Hügels. Sie hieß Muntanya Pelada, der Kahle Berg. Sie erhob sich über der alten Stadt Gràcia, in einem Viertel namens La Salut, was Gesundheit bedeutet. Während Sie warten, erfahren Sie, was Güell dort oben bauen wollte.
+
+1904 beantragte er bei der Stadt eine Genehmigung. Sein Antrag umfasste zwei alte Höfe, Can Muntaner de Dalt und Can Coll i Pujol. Dazu gehörte eine Denkschrift, von Güell selbst unterzeichnet. Auf Spanisch lobte sie die „ausgezeichneten hygienischen Bedingungen“ des Geländes, die ihm den Namen „barrio de la salud“ eingebracht hatten, das gesunde Viertel. Und sie bot „Villen, in denen die Menschen aus Barcelona bequem und unabhängig leben können, ohne ihre gewohnten Geschäfte aus den Augen zu verlieren“.
+
+So lautete das Angebot. Kein öffentlicher Park. Ein gesunder Vorort für Geschäftsleute, hoch über der Stadt, aber nah genug, um das Büro im Blick zu behalten.
+
+Gesundheit war ein echtes Verkaufsargument. Das Stadtgeschichtsmuseum erzählt dies als Geschichte des Wassers. Unten war Barcelona überfüllt, und seine Hausbrunnen wurden verschmutzt. Hier oben mussten Gaudí und Güell ein eigenes Wassersystem ausarbeiten, für eine ganze Siedlung. Einem Teil davon begegnen Sie auf dem Weg nach oben.
+
+[wry] Der Papierkram ließ sich derweil Zeit. Die Pläne im Stadtarchiv tragen beide Unterschriften, die von Güell und die von Gaudí, und sie sind auf den 26. Oktober 1904 datiert. Die Genehmigung kam am 30. Januar 1906. Da wurde auf diesem Hügel schon seit mehr als fünf Jahren gegraben. Straßen, Mauern und Torhäuser standen bereits, bevor irgendjemand offiziell Ja gesagt hatte.
+
+[pause] Das war also der Traum: saubere Luft, sauberes Wasser und eine ruhige Villa für einen Geschäftsmann. Ob sie jemand kaufen würde, war eine andere Frage.
+
+Bleiben Sie in der Warteschlange, oder wo Sie gerade sind, für eine weitere Geschichte vor der Kontrolle: Am Fuß der Treppe · Sechzig Parzellen, zwei Häuser.

@@ -1,0 +1,26 @@
+@id: 020 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Dragon Stairway
+@room: The Dragon Stairway · at the top, by the odeon bench and the tripod
+@type: R
+@title: Die Drachentreppe — Delphi?
+@where: Oben an der Drachentreppe, am letzten Lauf, der unter die Säulenhalle führt, bei der geschwungenen Steinbank in der Form eines kleinen griechischen Theaters. Der Dreifuß aus Schlangen ist in der Nähe.
+@what: The odeon (Greek-theatre bench) under the Hypostyle Room and the tripod "of three snakes" (op7, FLYER; F6.7, F6.10); the Delphi reading (F12.3 HEDGE): Python, the tripod, a Doric temple; Bassegoda as reported in English (s22, Q6, now confirmed inside quotation marks); García Ávila 2023, "several authors", "above all commercial", her suggestion that a first plan may have followed the temple of Apollo at Cyrene (s20; F12.3, F12.4; G22; FA N6); Gaudí never explained it (F12.11). Carandell not named (Lead's decision 6). Callback 018 (safe).
+@listen: A tripod, a dragon and a Doric hall add up to Delphi for some writers; one scholar disagrees, and Gaudí never said.
+@brief: A guide sharing a good theory and then fairly weighing it; curious, then even-handed, with one dry smile at the end.
+@pace: medium
+@energy: 3→3→2
+@sources: op7 https://parkguell.barcelona/en/park-guell/emblematic-features/dragon-stairway (OFF-op, re-read 7 Nov 2026: on the last flight, sheltered under the hypostyle room, an odeon, a bench shaped like a Greek theatre) ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read 7 Nov 2026: "un trípode que parece formado por tres serpientes", ES) ; s22 https://www.gaudiclub.com/ingles/i_press/Prensaing/Notasprensa/10_04_23.asp (SEC, re-read 7 Nov 2026, FA had been blocked: narration on Python, the Delphi serpent killed by Apollo and buried beneath the temple, guardian of underground water; quoted and attributed to Bassegoda: "The Delphi temple was Doric, and that is why Eusebio Güell wanted the columns of the park he commissioned from Gaudí to be of the Doric order.", EN) ; s20 https://revistes.ub.edu/index.php/aracne/article/download/42208/39309 (SEC-acad, García Ávila 2023, via FA V: "varios autores afirman que surge de la imagen del templo dedicado a Apolo en Delfos"; "Hay mucha literatura escrita -sobre todo comercial- elucubrando sobre la inspiración de la sala hipóstila"; Cyrene as a suggested first layout, "sugerimos", "podría haber estado", ES)
+@lang: de
+@translation: from the fact-checked English Park Güell 020 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Oben an den Stufen, geschützt unter der Halle, beschreibt der Park ein Odeon: eine Steinbank, geschwungen wie ein kleines griechisches Theater. Sein Faltblatt nennt dazu auf Spanisch „einen Dreifuß, der aus drei Schlangen zu bestehen scheint“. Schauen Sie, ob Sie ihn finden.
+
+Nimmt man das zusammen, sehen manche, die über den Park schreiben, darin das antike Griechenland. In Delphi tötete der Gott Apollon die Schlange Python und begrub sie unter seinem Tempel, wo sie die Wasser unter der Erde bewachte. Seine Priesterin gab ihre Orakel auf einem Dreifuß sitzend. Und der Tempel war dorisch. Hier: ein Drache, der Wasser bewacht, ein Dreifuß, und darüber Säulen im dorischen Stil.
+
+Bassegoda nahm das ernst. Berichten zufolge sagte er: „Der Tempel von Delphi war dorisch, und deshalb wollte Eusebio Güell, dass die Säulen des Parks, den er bei Gaudí in Auftrag gab, der dorischen Ordnung folgen.“
+
+[pause] Nicht alle stimmen zu. 2023 schrieb die Forscherin María-Belén García Ávila, dass „mehrere Autoren behaupten, es gehe auf das Bild des Apollon geweihten Tempels in Delphi zurück“. Und sie warnte: „Es gibt viel Literatur, vor allem kommerzielle, die über die Inspiration des Hypostylsaals spekuliert.“ Sie vermutete, der erste Plan der Halle könnte einem anderen Apollontempel gefolgt sein, in Kyrene, in Nordafrika.
+
+[wry] Wie Sie beim Drachen gehört haben, hat Gaudí es nie erklärt. Delphi ist die Lesart eines Gelehrten, und eine schöne.
+
+Gehen Sie dorthin, wo Sie die Front der Halle über der Treppe sehen. Ihre äußere Reihe dicker, kannelierter Säulen ist links, wenn Sie oben ankommen: Der Hypostylsaal · Eine Markthalle im griechischen Gewand.

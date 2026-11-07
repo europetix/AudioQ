@@ -1,0 +1,26 @@
+@id: 011 · DE · Park Güell · 7 Nov 2026 edition
+@section: The viaducts
+@room: The Low Viaduct · beside it, its leaning columns seen from the side
+@type: R
+@title: Der Untere Viadukt — Warum die Säulen schräg stehen
+@where: Neben dem Unteren Viadukt auf einem offenen Weg, von wo seine zwei Reihen schräger Steinsäulen von der Seite zu sehen sind. Bleiben Sie auf dem Weg.
+@what: The Low Viaduct's curve on two rows of inclined columns forming a parabola (op13, F10.8); Kopsida's 2011 UPC master's thesis on this viaduct: the viaduct about 50 m long, columns up to 6 m, modelled from the Ajuntament's drawings (not measured by her), the lean's structural meaning, the thrust line inside the vault (G15, G16; FA M2, S1); the same solution later in the crypt of the Colònia Güell (s15, F10.10).
+@listen: Why the stone columns under this bridge lean, and where Gaudí used the idea again.
+@brief: A guide explaining a clever piece of engineering to a curious friend; plain, confident, a small pleasure at the payoff.
+@pace: medium
+@energy: 3→3
+@sources: op13 https://parkguell.barcelona/en/park-guell/emblematic-features/viaducte-baix (OFF-op, re-read 7 Nov 2026: "The Baix Viaduct draws a curved line and is supported by two rows of inclined columns forming a parabola that includes the central vault.") ; G-S9 Kopsida https://core.ac.uk/download/41804329.pdf (SEC-acad, UPC MSc 2011, supervisor Pere Roca, read 7 Nov: "the lower viaduct of the three main viaducts"; "a length of approximately 50 m"; "columns of 80cm in diameter with a maximum height of 6.00m"; "The inclination of the columns apart from impressing aesthetically has also a structural meaning."; "the vault is stable since the thrust line is contained within the limits of the vault geometry"; EN) ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, re-read 7 Nov: "In these viaducts, Gaudí incorporated inclined columns, a solution that the architect later used in the Crypt of Colònia Güell.")
+@lang: de
+@translation: from the fact-checked English Park Güell 011 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Diese Brücke neigt sich mit Absicht. Ihre offizielle Beschreibung liest sich wie ein Diagramm: Sie „beschreibt eine gekrümmte Linie und ruht auf zwei Reihen geneigter Säulen, die eine Parabel bilden, die das mittlere Gewölbe einschließt“.
+
+2011 machte eine Ingenieurstudentin der Technischen Universität Barcelona, Antigoni Kopsida, diesen Viadukt zum Thema ihrer Masterarbeit: eine Brücke von etwa fünfzig Metern Länge, auf Steinsäulen von bis zu sechs Metern Höhe. Sie schrieb: „Die Neigung der Säulen beeindruckt nicht nur ästhetisch, sie hat auch eine statische Bedeutung.“
+
+[pause] Das heißt Folgendes. Die Säulen neigen sich, weil sich das Gewicht neigt. Der Druck der Straße und ihrer Gewölbe läuft nicht gerade nach unten. Darum ist jede Säule entlang des Wegs geneigt, den die Last nehmen will. Nach ihrer Analyse bleibt der Schub innerhalb des Gewölbes, und das Gewölbe ist stabil.
+
+Folgen Sie einer Säule mit den Augen, von ihrem Fuß hinauf ins Gewölbe, und sehen Sie, wie sich die Schräge in der Kurve darüber fortsetzt.
+
+Gaudí behielt die Idee bei. Die Stiftung La Pedrera merkt an, dass er dieselben geneigten Säulen später in der Krypta der Colònia Güell verwendete, der Kirche von Güells Industriedorf.
+
+Gehen Sie in den Unterstand unter dem Viadukt, wo der Stein wie der Eingang einer Höhle aussieht: Der Untere Viadukt · Für Stein gegrabene Höhlen.

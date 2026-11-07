@@ -1,0 +1,26 @@
+@id: 008 · DE · Park Güell · 7 Nov 2026 edition
+@section: Inside the Casa del Guarda
+@room: Casa del Guarda · inside, on the first floor (Extra)
+@type: X
+@title: Casa del Guarda · Extra · Vier Schlafzimmer und ein Förderer
+@where: In der Casa del Guarda, im ersten Stock, abseits der Treppe.
+@what: The first floor as built: four bedrooms and an attic space (s6 p. 20, E12); steel-and-ceramic beams instead of arches (s6 p. 23, E13); the floor's theme, the park (es1, E7; es4; DATED); the curator Mireia Freixa (with Mar Leniz, G80) and her line on the promoter (es1, E3); the museum's visits on Gaudí and Güell, the park and the city (es10, E22).
+@listen: The caretaker family's bedrooms, and the exhibition's point about the man who paid for everything.
+@brief: A light, friendly aside on the way up; a smile at the curator's line.
+@pace: medium
+@energy: 2→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov 2026: p. 20 "cuatro dormitorios"; p. 23 "jácenas mixtas de acero y cerámica"; ES) ; es1 https://gaudiclub.com/ingles/i_press/Prensaing/Notasprensa/10_05_26.asp (SEC-low press note on the 2010 reopening, read 7 Nov: Freixa, the commissioner, "behind every great artist is an ambitious promoter"; the first floor covers the park's beginnings, its use over the years and its later public use; EN) ; es4 https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2023-05/GuiaMUHBAEng.pdf (OFF, read 7 Nov: the floors on the house, the park and the city) ; es10 https://barcelona.cat/museuhistoria/ca/formats/visites-comentades/guell-gaudi-i-barcelona-lexpressio-dun-ideal-urba (OFF, read 7 Nov: "La visita al centre del MUHBA fa èmfasi en la relació entre Gaudí i Güell, entre el parc i la ciutat de Barcelona", CA, paraphrased) ; G80 / G-S34 (OFF: Freixa and Leniz curated the exhibition)
+@lang: de
+@translation: from the fact-checked English Park Güell 008 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Ein Haus für eine einfache Familie brauchte Schlafzimmer, und hier oben hatte sie ein ganzes Stockwerk davon. Diese Ebene hatte vier Schlafzimmer, mit einem Dachboden darüber.
+
+Schauen Sie, was den Boden trägt. Unten öffnete Gaudí die Wände mit Bögen. Hier oben verwendete er stattdessen Träger aus Stahl und Keramik.
+
+Das Thema der Ausstellung auf diesem Stockwerk ist der Park: wie die Siedlung begann und wie sie 1926 zu einem Park für die ganze Stadt wurde. Warum die Siedlung scheiterte, erfahren Sie am Fuß der großen Treppe.
+
+Die Historikerin, die diese Ausstellung kuratierte, Mireia Freixa, fasste Güells Rolle bei der Wiedereröffnung des Hauses in einem Satz zusammen. Eine englischsprachige Pressemitteilung gab ihre Worte so wieder: „Hinter jedem großen Künstler steht ein ehrgeiziger Förderer.“
+
+In diesem Haus ist da etwas dran. Die eigenen Führungen des Museums hier betonen zwei Beziehungen: die zwischen Gaudí und Güell, und die zwischen dem Park und der Stadt unten.
+
+Gehen Sie weiter hinauf ins oberste Stockwerk, unter die Kuppel: Casa del Guarda · Extra · Eine Treppe um einen Schornstein.
