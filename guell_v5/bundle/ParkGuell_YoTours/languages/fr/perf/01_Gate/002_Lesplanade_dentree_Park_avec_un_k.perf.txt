@@ -1,0 +1,26 @@
+@id: 002 · FR · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: The entrance esplanade · inside the Carrer d'Olot gate, facing the wall and its medallions
+@type: W
+@title: L'esplanade d'entrée — Park avec un k
+@where: Sur l'esplanade d'entrée, juste après la porte principale de Carrer d'Olot, entre les deux pavillons, face aux grilles de fer et au mur de pierre couronné de céramique et de médaillons au nom du parc.
+@what: The boundary wall of rustic stone with ceramic tiling and "Park Güell" medallions (op6, F5.2); the estate as "a private estate, closed in by a wall, with a porter's service" (es8, E20); the English "Park" (op4, F1.12, Q2); the garden city begun in 1900 (aj3, F1.13); the gardens named after the Font del Carbó, and the tentative start of building around that spring, below Casa Larrard, in 1875 (s3 p. 99 "una tímida urbanització", op24, E111; FA M1: never "the first building on this hillside").
+@listen: What the wall and its name tell you about the estate Güell meant to build, before you climb a step.
+@brief: A guide at the gate pointing out the first clue; plain at the hook, a small pleasure at the spelling, warm at the payoff.
+@pace: medium
+@energy: 3→3→4
+@sources: es8 https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2024-02/Gaudi%20%28CAT%29.pdf (OFF, MUHBA Gaudí/BCN guide, re-read 7 Nov 2026: «Es tractava d'una urbanització privada, tancada per un mur i amb servei de porteria», CA) ; op6 https://parkguell.barcelona/en/park-guell/emblematic-features/entrance-pavilions (OFF-op, re-read 7 Nov: "The wall of the park is made of rustic stone topped with ceramic tiling and medallions bearing the name of Park Güell."; "To either side are the two pavilions that form the Porter's Lodge.") ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op; "Güell wanted to recreate the British residential parks": V, facts audit 7 Nov) ; aj3 https://www.barcelona.cat/museuhistoria/sites/default/files/dossier_park_guell_primaria.pdf (OFF, re-read 7 Nov: "El Park es comença a construir el 1900 com una ciutat-jardí", factual text, CA) ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC-acad, re-read 7 Nov: p. 99 "El 1875 començà una tímida urbanització a la zona de la font de Carbó, dessota la casa Larrard", CA) ; op24 https://parkguell.barcelona/en/disruptions (OFF-op, re-read 7 Nov, last updated 2/11/2026: the Jardins de la Font del Carbó, "outside the park", "located right next to the park's main entrance (Carrer d'Olot)"; works not mentioned in speech)
+@lang: fr
+@translation: from the fact-checked English Park Güell 002 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Ce mur a été bâti pour isoler un domaine de la ville. Le musée municipal d'histoire, dans son guide de la Barcelone de Gaudí, décrit ce domaine en catalan comme «un domaine privé, fermé par un mur, avec un service de conciergerie». Les deux pavillons de la conciergerie encadrent la porte.
+
+Regardez le long du mur. Le parc le décrit comme «de la pierre rustique couronnée de céramique et de médaillons au nom de Park Güell». Ces médaillons sont le premier indice des intentions de Güell.
+
+Trouvez-en un et lisez-le. *Park*, avec un k, à l'anglaise. Güell l'a écrit en anglais exprès: un mot anglais pour une idée anglaise, serti dans un mur catalan.
+
+Le dossier du même musée pour les écoles résume l'idée en une ligne. Le Park «a commencé à être construit en 1900 comme une cité-jardin». Une cité-jardin sur une colline au-dessus de Barcelone, entourée d'un mur, avec un concierge à la porte.
+
+[pause] Même alors, la colline n'était pas vide d'histoire. Près de cette porte, hors du parc, des jardins portent le nom d'une ancienne source, la Font del Carbó. Autour de cette source, sous l'ancienne ferme que vous verrez à la fin, on avait modestement commencé à bâtir en 1875, un quart de siècle avant Güell.
+
+Approchez-vous maintenant des grilles, les grilles de fer au milieu du mur. Placez-vous sur le côté, à l'écart des personnes qui sortent, et regardez leur ferronnerie: La porte de Carrer d'Olot · Une vitrine de gantier.

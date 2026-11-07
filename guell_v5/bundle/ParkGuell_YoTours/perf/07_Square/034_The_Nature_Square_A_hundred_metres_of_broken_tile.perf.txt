@@ -3,7 +3,7 @@
 @room: The Nature Square · at the bench (sit if you can)
 @type: W
 @title: The Nature Square — A hundred metres of broken tile
-@where: At the long tiled bench that runs along the edge of the Nature Square on the stairway side; sit if there's room, or stand beside it without crowding the people sitting. [O16]
+@where: At the long tiled bench that runs along the edge of the Nature Square on the stairway side; sit if there's room, or stand beside it without crowding the people sitting.
 @what: The undulating bench of the Nature Square, built 1909–1914, finished 1914 (op4, FLYER; F3.9, F9.8): balustrade and water collector (op9, F9.7; G69); the whole square the roof of the hall of columns (op9; version-neutral for H; RA ed2 R3: true sitting or standing); Gaudí shaped it, Jujol's trencadís skin (F4.3, F4.4 safe wording; RA L6, RA N17; callback 024); about a hundred metres by the conservators' measure (s14; F9.9, G62); prefabricated modules (s15; F9.10); Jujol's incisions on the backrest's top and along a line halfway up (s4; F9.15); Marian inscriptions (G49); inner face ceramic and porcelain, outer face glass (s14; F9.14); the wet-plaster legend, once (F9.12, F15.24, s30); the backrest's curve (s15; F9.11 HEDGE wording); conservation since around 1990, backrests photographed one by one (s14, op28; F9.17).
 @listen: How a bench became a railing and a drain, who made its colour, and the story about it that nobody has ever proved.
 @brief: A guide sitting on the bench beside the listener, warm and close, enjoying the craft, amused at the legend and honest about it.

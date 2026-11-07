@@ -1,0 +1,26 @@
+@id: 013 · ES · Park Güell · 7 Nov 2026 edition
+@section: The viaducts
+@room: The Middle Viaduct (Pont del Mig) · where it comes into view (Extra; if the path is open)
+@type: X
+@title: El Viaducto de medio · Extra · El puente del algarrobo
+@where: Un poco más arriba por el camino abierto desde el Viaducto de abajo, donde aparece el Viaducto de medio, el Pont del Mig, con el tronco del algarrobo. No siga más allá del cierre por obras.
+@what: The Middle Viaduct, "the carob bridge" (op12, F10.7; aj3 caption, V); the farm before the park: vines, olives and orchards, abandoned for poor access, low yields and phylloxera (es16, E48); the carob a survivor of the farm "perhaps" only (RA L4c: MUHBA's vegetation line lives in 031; op12 "natural growth… respected", FA N6: never "bent round"); DATED: the path higher up, to the High Viaduct, closed for works (op24, RA S2; its only home now, RA L4b).
+@listen: A road that bends round a tree, and the farm that grew on this hill before the park.
+@brief: A short, pleased aside on the way up; light and curious, matter-of-fact about the closure.
+@pace: medium
+@energy: 2→3
+@sources: op12 https://parkguell.barcelona/en/park-guell/emblematic-features/middle-viaduct (OFF-op, re-read 7 Nov 2026: heading "The carob bridge, where the natural growth of this interesting tree is respected") ; aj3 https://www.barcelona.cat/museuhistoria/sites/default/files/dossier_park_guell_primaria.pdf (OFF, re-read 7 Nov: factual photo caption "Viaducte del mig amb el tronc de garrofer", CA) ; es16 https://parkguell.barcelona/en/a-park-for-everone/nature-and-biodiversity (OFF-op, read 7 Nov: "an agricultural area with vineyards, olive groves and fruit orchards"; "progressively abandoned due to difficult access and working conditions, its low productivity and the onset of phylloxera, in the case of vineyards"; the 1921 record by municipal experts, "around 3,300 trees", "carob trees, olive trees, pines, various fruit trees (such as almond trees)") ; es8 https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2024-02/Gaudi%20%28CAT%29.pdf (OFF, read 7 Nov: «Va respectar la vegetació existent i va plantar espècies vegetals mediterrànies», CA, paraphrased) ; op24 https://parkguell.barcelona/en/disruptions (OFF-op, DATED, re-read 7 Nov, last updated 2/11/2026: closed "from Casa Trias to the Upper Viaduct (Viaducte de Dalt)"; "The works are expected to last 18 months.")
+@lang: es
+@translation: from the fact-checked English Park Güell 013 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Aquí, un camino dejó sitio a un árbol. El parque llama al Viaducto de medio, el Pont del Mig, "el puente del algarrobo, donde se respeta el crecimiento natural de este interesante árbol". Un pie de foto, en un dossier escolar del museo de historia de la ciudad, lo llama, en catalán, "el viaducto de en medio con el tronco del algarrobo".
+
+Busque el tronco. Antes que perder el árbol, los constructores lo dejaron seguir creciendo.
+
+Antes del parque, la colina era de cultivo: viñas, olivares y frutales. Según el parque, las fincas se abandonaron: de difícil acceso, poco productivas y las viñas, además, castigadas por la plaga de la filoxera.
+
+Así que este algarrobo es quizá un superviviente de la granja anterior.
+
+Por ahora, el camino que sube al puente de arriba está cerrado por obras.
+
+Baje de nuevo, pasando el Viaducto de abajo. Luego siga por escaleras y rampas hasta la explanada, dentro de la puerta del Carrer d'Olot, al pie de la gran escalinata y del segundo control. Escuche la siguiente parada antes del control: en la cola si la hay, o a un lado justo antes: El pie de la escalinata · El barrio de la salud.

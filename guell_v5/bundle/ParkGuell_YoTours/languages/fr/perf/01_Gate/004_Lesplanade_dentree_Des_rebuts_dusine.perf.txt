@@ -1,0 +1,28 @@
+@id: 004 · FR · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: The entrance esplanade · between the two pavilions, both roofs in view
+@type: W
+@title: L'esplanade d'entrée — Des rebuts d'usine
+@where: Sur l'esplanade d'entrée, entre les deux pavillons, d'où l'on voit les deux toits: la haute tour à la croix à gauche face à l'escalier, l'autre pavillon à droite.
+@what: The two entrance pavilions, the Porter's Lodge pair (op6, F5.4–5.5): the office "with a waiting room and telephone booth", and the caretaker's home, today MUHBA's Casa del Guarda (E1); among the first things built (F5.7 HEDGE); trencadís from factory seconds (s6 p. 26, F5.13) in more than ten whites (s6 p. 26, E100); trencadís history (s24, F15.20); the 1904 plans without the mushroom ventilators (Andruet, G41, G61 HEDGE; E103: no house named); the Hansel and Gretel legend (F5.17 LEGEND, G58, G59 HEDGE; s16 re-read, E60).
+@listen: Two gatehouses dressed in factory rejects, mushrooms that came later, and the fairy tale everyone tells about them.
+@brief: A guide sharing the secrets behind the most photographed roofs on the hill; lively, a light turn at the legend, honest at its verdict.
+@pace: medium
+@energy: 3→4→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov 2026: p. 26 "procedía mayoritariamente de depósitos sobrantes y defectuosos de fábricas de cerámica"; white trencadís "se detectaron más de diez tonos distintos", ES) ; s24 https://bop.unibe.ch/manazir/article/download/8389/11351 (SEC-acad; tile cladding in Catalonia and Valencia since the Middle Ages; "In the Güell Pavilions, Gaudí used for the first time the trencadís": V, facts audit 7 Nov) ; op6 https://parkguell.barcelona/en/park-guell/emblematic-features/entrance-pavilions (OFF-op, re-read 7 Nov: "the two pavilions that form the Porter's Lodge"; the left one "was the one actually used as a Porter's Lodge, with a waiting room and telephone booth"; the right one today part of the Barcelona History Museum) ; aj4 https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-park-guell (OFF, re-read 7 Nov: the Casa del Guarda "is now part of the Museum") ; G41/G61 Andruet https://fundacionantoniogaudi.org/Publicaciones/los-planos-de-gaudi-del-park-guell-y-la-casa-batllo.pdf (SEC; p. 4 the pavilions' façades on the plans signed 26 Oct 1904 "no muestran los famosos ventiladores con forma de setas": V, facts audit 7 Nov) ; s16 https://www.palaumusica.cat/prog-ma-hansel-i-gretel_413872.pdf (SEC, re-read 7 Nov: "L'estrena de Ton i Guida a Catalunya va tenir lloc al Gran Teatre del Liceu el mateix any que es va publicar (1901)"; Maragall's version, translation signed jointly with Antoni Ribera; Maragall "amic de Güell i de Gaudí"; "he trobat una notícia que indica que per al disseny del pavelló de la porteria del Parc Güell"; author Marta Porter, music journalist; CA; single source, G59)
+@lang: fr
+@translation: from the fact-checked English Park Güell 004 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Les toits les plus photographiés du parc sont faits de rebuts. Une étude écrite pour leur restauration a constaté, en espagnol, que les carreaux brisés venaient «surtout de surplus et de rebuts d'usines de céramique». C'était bon marché, et facile à adapter aux courbes.
+
+Regardez le blanc des toits. Ce n'est pas un seul blanc. La même étude en a compté plus de dix nuances, côte à côte.
+
+Gaudí n'a pas inventé le trencadís, cette mosaïque de carreaux brisés. Catalans et Valenciens habillaient leurs murs de céramique depuis le Moyen Âge. Gaudí a employé le carreau brisé pour la première fois dans les années 1880, et en a fait sa signature.
+
+Le parc appelle l'ensemble les Pavillons de Conciergerie. L'un était le bureau, «avec une salle d'attente et une cabine téléphonique». L'autre était le logement du gardien, aujourd'hui une petite antenne du musée municipal d'histoire, la Casa del Guarda. Ils comptent parmi les premières constructions du domaine.
+
+[pause] Cherchez les champignons sur les toits. Les plans signés par Güell et Gaudí en 1904 ne montrent pas du tout les aérateurs en champignon. Même les champignons semblent avoir été ajoutés après coup.
+
+[lightly] Les guides adorent dire que c'est la maison en pain d'épices d'Hansel et Gretel. Une chroniqueuse musicale, Marta Porter, note que l'opéra est arrivé au Liceu, l'opéra de Barcelone, en 1901. Il est venu dans une version catalane coécrite par le poète Joan Maragall, ami des deux hommes. Elle a même trouvé un vieil article le reliant à la conception de ce pavillon. Gaudí pensait-il à l'opéra? Personne ne peut le prouver.
+
+Allez vers le pavillon à la haute tour, sur votre gauche face à l'escalier. Placez-vous d'où vous voyez sa tour et sa porte, sans gêner: Le pavillon à la tour · Des téléphones et une tour.

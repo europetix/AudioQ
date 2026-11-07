@@ -1,0 +1,28 @@
+@id: 032 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · out in the open, away from the edge
+@type: W
+@title: La place de la Nature — Vous êtes sur le toit
+@where: À découvert, au milieu de la place de la Nature, la grande place sableuse au-dessus de la salle aux colonnes, loin du banc de céramique et du bord. Placez-vous d'où vous voyez aussi le long mur de soutènement en pierre contre la colline.
+@what: The Nature Square (Plaça de la Natura, the Greek Theatre of the first plans): artificial, part dug into the rock, part held up on the Hypostyle Room; planned for large open-air shows watched from the terraces around it (op9; F9.1–9.3); its sandy surface as the start of the rain's route, as a callback to 022 only (F8.2; the La Pedrera line lives in 022, RA ed2 L3e); waterproofing and the link to the cistern redone 2017–2019 (op31; F9.18b); a 2008 UPC doctoral thesis argues the park is a rainwater receiver built against erosion, with no document to prove it (G4); the retaining wall's palm-tree capitals (op9; F9.6). No view, no sea rule (036); no parties (033); no "eighty-six" (021).
+@listen: Why the great square is really a roof, a theatre and a rain catcher, and the thesis that the whole park is a rain machine.
+@brief: A guide out in the open with the listener, plain-spoken at the reveal, curious looking down at the ground, a dry smile at the rain.
+@pace: medium
+@energy: 3→4→3
+@sources: op9 https://parkguell.barcelona/en/park-guell/emblematic-features/greek-theatre (OFF-op, re-read 7 Nov 2026: "this large square is artificial"; "Part of it is dug into the rock"; "held up on top of the hypostyle room"; "rechristened as Plaça de la Natura"; "planned for staging large open-air shows that could be watched from the surrounding terraces"; "large capitals made to look like palm trees", EN) ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, Fundació Catalunya La Pedrera, V by FA 7 Nov 2026: "The square's sandy surface allows water to filter down into the cistern below", paraphrased, EN) ; op31 https://parkguell.barcelona/en/renovation-works-status/01-nature-square (OFF-op, via FACTS F9.18b: 2017–2019, the square's waterproofing and its rainwater link to the cistern, EN) ; G4 Claudio Lisias da Silva Bastos, "Park Güell: arquitectura conformada por el agua…", PhD thesis, UPC, 2008 (SEC, via FACTS_GAPS G4: "is a rainwater receiver destined to control the erosion"; the author notes the lack of direct documents; not re-read, no quotation used)
+@lang: fr
+@translation: from the fact-checked English Park Güell 032 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Vous êtes debout sur un toit. «Cette grande place est artificielle», admet le parc. Une partie est creusée dans la roche de la colline. Le reste est «soutenu au-dessus de la salle hypostyle». Sous vos pieds, la halle du marché et sa forêt de colonnes.
+
+Sur les premiers plans, c'était le Théâtre grec. Plus tard, elle a été «rebaptisée Plaça de la Natura», la place de la Nature. Elle était «prévue pour de grands spectacles en plein air, visibles depuis les terrasses alentour». Un théâtre, donc, avec les terrasses pour gradins.
+
+[curious] Regardez maintenant le sol. C'est du sable et du gravier, et c'est voulu. C'est ici que la pluie commence sa descente par ces colonnes-tuyaux. Entre 2017 et 2019, l'étanchéité de la place et son lien avec le réservoir ont été refaits.
+
+[pause] Certains pensent que l'idée allait plus loin. La thèse de doctorat d'un architecte soutient que tout le parc est une machine à pluie, conçue pour empêcher la colline de s'éroder et pour y ramener les arbres. Son auteur admet qu'aucun document ne le prouve. [wry] C'est un argument, pas un fait, mais tenez-vous ici sous une averse, et vous pourriez vous laisser convaincre.
+
+Puis trouvez le long mur de soutènement qui retient la colline. Le parc dit qu'il est orné de «grands chapiteaux imitant des palmiers». Essayez d'en repérer un.
+
+Un théâtre sur le toit d'un marché.
+
+Restez à découvert, et imaginez la place pleine de monde: La place de la Nature · Des garden-parties.

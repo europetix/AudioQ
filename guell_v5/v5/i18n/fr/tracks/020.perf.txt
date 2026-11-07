@@ -1,0 +1,26 @@
+@id: 020 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Dragon Stairway
+@room: The Dragon Stairway · at the top, by the odeon bench and the tripod
+@type: R
+@title: L'Escalier du Dragon — Delphes?
+@where: En haut de l'Escalier du Dragon, sur la dernière volée qui s'engage sous la salle aux colonnes, près du banc de pierre incurvé en forme de petit théâtre grec. Le trépied de serpents est tout près.
+@what: The odeon (Greek-theatre bench) under the Hypostyle Room and the tripod "of three snakes" (op7, FLYER; F6.7, F6.10); the Delphi reading (F12.3 HEDGE): Python, the tripod, a Doric temple; Bassegoda as reported in English (s22, Q6, now confirmed inside quotation marks); García Ávila 2023, "several authors", "above all commercial", his suggestion that a first plan may have followed the temple of Apollo at Cyrene (s20; F12.3, F12.4; G22; FA N6); Gaudí never explained it (F12.11). Carandell not named (Lead's decision 6). Callback 018 (safe).
+@listen: A tripod, a dragon and a Doric hall add up to Delphi for some writers; one scholar disagrees, and Gaudí never said.
+@brief: A guide sharing a good theory and then fairly weighing it; curious, then even-handed, with one dry smile at the end.
+@pace: medium
+@energy: 3→3→2
+@sources: op7 https://parkguell.barcelona/en/park-guell/emblematic-features/dragon-stairway (OFF-op, re-read 7 Nov 2026: on the last flight, sheltered under the hypostyle room, an odeon, a bench shaped like a Greek theatre) ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read 7 Nov 2026: "un trípode que parece formado por tres serpientes", ES) ; s22 https://www.gaudiclub.com/ingles/i_press/Prensaing/Notasprensa/10_04_23.asp (SEC, re-read 7 Nov 2026, FA had been blocked: narration on Python, the Delphi serpent killed by Apollo and buried beneath the temple, guardian of underground water; quoted and attributed to Bassegoda: "The Delphi temple was Doric, and that is why Eusebio Güell wanted the columns of the park he commissioned from Gaudí to be of the Doric order.", EN) ; s20 https://revistes.ub.edu/index.php/aracne/article/download/42208/39309 (SEC-acad, García Ávila 2023, via FA V: "varios autores afirman que surge de la imagen del templo dedicado a Apolo en Delfos"; "Hay mucha literatura escrita -sobre todo comercial- elucubrando sobre la inspiración de la sala hipóstila"; Cyrene as a suggested first layout, "sugerimos", "podría haber estado", ES)
+@lang: fr
+@translation: from the fact-checked English Park Güell 020 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En haut des marches, à l'abri sous la salle, le parc décrit un odéon: un banc de pierre incurvé comme un petit théâtre grec. Son dépliant ajoute, en espagnol, «un trépied qui semble fait de trois serpents». Essayez de le trouver.
+
+Rassemblez ces éléments, et certains auteurs y voient la Grèce antique. À Delphes, le dieu Apollon a tué le serpent Python et l'a enterré sous son temple, où il gardait les eaux souterraines. Sa prêtresse rendait ses oracles assise sur un trépied. Et le temple était dorique. Ici: un dragon qui garde l'eau, un trépied, et au-dessus, des colonnes de style dorique.
+
+Bassegoda prenait cela au sérieux. On rapporte qu'il a dit: «Le temple de Delphes était dorique, et c'est pourquoi Eusebio Güell voulait que les colonnes du parc qu'il avait commandé à Gaudí soient d'ordre dorique.»
+
+[pause] Tout le monde n'est pas d'accord. En 2023, le chercheur Manuel-Blas García Ávila a écrit que «plusieurs auteurs affirment qu'elle vient de l'image du temple dédié à Apollon à Delphes». Et il prévenait: «Il existe beaucoup de littérature, surtout commerciale, qui spécule sur l'inspiration de la salle hypostyle.» Selon lui, le premier plan de la salle a pu suivre un autre temple d'Apollon, à Cyrène, en Afrique du Nord.
+
+[wry] Vous l'avez entendu près du dragon: Gaudí ne l'a jamais expliqué. Delphes est une lecture de savant, et une belle.
+
+Placez-vous d'où vous voyez la façade de la salle au-dessus de l'escalier. Sa rangée extérieure de colonnes trapues et cannelées est à gauche quand vous arrivez en haut: La Salle Hypostyle · Une halle de marché en habit grec.

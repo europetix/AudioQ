@@ -1,0 +1,30 @@
+@id: 018 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Dragon Stairway
+@room: The Dragon Stairway · beside the dragon
+@type: W
+@title: La Escalinata del Dragón — El dragón es un desagüe
+@where: A media altura de la Escalinata del Dragón, junto a la criatura de cerámica rota, en un sitio donde no bloquee los escalones.
+@what: The dragon, or salamander, in trencadís (op7, F6.6); the fountain fed from the tank under the Hypostyle Room, the mouth its overflow (op7, op8, s7b; F6.8, F6.9); version-neutral: the coat of arms under a serpent's head (FLYER, F6.5) and Delphi, attributed to "some writers" with Bassegoda named (F12.3 HEDGE, F12.11; s22; FA ed2 N7); the Feb 2007 vandalism (s17, F6.11); separately, the front right foot studied from 2025 by the sculptor Abel Vallhonesta and put back, finished 22 Apr 2026 (op25, F6.12, FA S12, DATED); Vicky Cristina Barcelona (E78, optional, used). Callback 015 (the market up the stairway; safe).
+@listen: The city's most famous dragon turns out to be the overflow of a rain tank, with a mended foot and a film role.
+@brief: A guide beside a crowd-pleaser, enjoying the reveal; plain at the hook, delighted at the drain, warm at the foot.
+@pace: medium
+@energy: 3→4→3
+@sources: op7 https://parkguell.barcelona/en/park-guell/emblematic-features/dragon-stairway (OFF-op, re-read 7 Nov 2026: "the dragon, or salamander, covered with decorative tile-shard mosaic"; the park's most popular image (FA V: "which has become the most popular image of the park"); water once supplied from the tank under the hypostyle room) ; op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read 7 Nov 2026: the underground tank overflows through the stairway dragon's mouth, paraphrased) ; s7b https://artsandculture.google.com/asset/dragon-fountain-in-park-güell-antoni-gaudí-i-cornet/kgGWDVjva-ovFg (SEC, Museu de les Aigües, re-read 7 Nov 2026: "The fountain acted as a spillway when the cistern was full."; "It is currently connected to the mains.", EN) ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read 7 Nov 2026: serpent's-head spout over the coat of arms of Catalonia) ; s22 https://www.gaudiclub.com/ingles/i_press/Prensaing/Notasprensa/10_04_23.asp (SEC, re-read 7 Nov 2026: Python, the Delphi serpent killed by Apollo and buried beneath the temple, guardian of underground water, in the press note's narration) ; s17 https://archiweb.cz/en/n/foreign/gaudiho-drak-v-barcelone-poskozen-dvema-mladymi-vandaly (SEC, via FACTS F6.11 and ed1 notes: Feb 2007, iron rod, serious damage) ; op25 https://parkguell.barcelona/en/estat-de-les-obres-de-restauracio/16-Restitucio-ma-dreta-salamandra (OFF-op, via FA S12: front right foot, sculptor Abel Vallhonesta, from Feb 2025, studied "for over a year", original reinstalled; "The restoration was finished on 22 April 2026."; no cause given) ; E78 movie-locations https://www.movie-locations.com/movies/v/Vicky-Cristina-Barcelona.php and Olive Press https://theolivepress.es/spain-news/2020/04/09/gaudi-in-the-cinema (SEC ×2, via FACTS_EXPANSION E78: Vicky runs into Juan Antonio in front of the salamander fountain)
+@lang: es
+@translation: from the fact-checked English Park Güell 018 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Es la criatura que todos hacen cola para fotografiar. El parque la llama "el dragón, o salamandra, cubierto de mosaico decorativo de trencadís". Y admite que "se ha convertido en la imagen más popular del parque".
+
+[pause] También es un desagüe. En lo alto de estos escalones está la sala que iba a ser el mercado de Güell, y bajo esa sala hay un gran depósito de agua de lluvia. Esta fuente se alimentaba de él. Su boca era el rebosadero del depósito. El museo del agua de Barcelona dice: "La fuente hacía de aliviadero cuando la cisterna estaba llena." [lightly] Y hoy "está conectada a la red".
+
+¿Qué representa? Un poco más abajo, en esta misma escalinata, están las franjas rojas y amarillas de Cataluña, bajo una cabeza de serpiente. Y algunos autores, entre ellos el estudioso de Gaudí Joan Bassegoda, han visto en esta criatura a Pitón de Delfos, la serpiente que guardaba el agua oculta. Gaudí nunca lo explicó.
+
+La criatura lo ha pasado mal. En febrero de 2007, vándalos con una barra de hierro la dañaron gravemente. Aparte, en 2025, le retiraron la pata delantera derecha, que el escultor Abel Vallhonesta estudió más de un año antes de devolverla. La restauración terminó el 22 de abril de 2026.
+
+También ha tenido su momento en el cine. En Vicky Cristina Barcelona, de Woody Allen, Vicky se encuentra con Juan Antonio justo aquí, delante de esta fuente.
+
+[warmly] Busque ahora esa pata delantera derecha, la que volvió del taller del escultor. Luego mire su boca abierta, por donde salía el agua sobrante cuando el depósito de abajo estaba lleno.
+
+El dragón más famoso de Barcelona se construyó para ser un desagüe.
+
+Suba unos escalones por encima del dragón, apártese a un lado y mírelo desde arriba: La Escalinata del Dragón · ¿Lagarto, dragón o salamandra?

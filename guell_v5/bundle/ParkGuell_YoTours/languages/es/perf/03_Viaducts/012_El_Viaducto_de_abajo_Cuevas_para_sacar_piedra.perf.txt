@@ -1,0 +1,30 @@
+@id: 012 · ES · Park Güell · 7 Nov 2026 edition
+@section: The viaducts
+@room: The Low Viaduct · in the shelter under the viaduct
+@type: R
+@title: El Viaducto de abajo — Cuevas para sacar piedra
+@where: En el refugio cubierto bajo el Viaducto de abajo, entre las toscas columnas de piedra, a un lado de quienes pasan.
+@what: The viaducts "simulate natural caves" (op12); the architects' visit of 4 Jan 1903, Gaudí "en representació del Sr. Güell", Salvador Sellés's memoir "prèviament supervisada per Gaudí" (s3 pp. 102, 104, G50); Bassegoda's Catalan retelling of Sellés on the caves, torchlight, the caves artificial and dug for stone (s3 p. 102, F2.16, G51; FA M2, S2, S3); the fossil cave of 1900 and its Pleistocene animals, now in the natural sciences museum (s3 pp. 100–102; es16, E45); destitute families in the caves after the war (s3 p. 103, E43).
+@listen: How a party of architects saw the hill's caves by torchlight in 1903, why the caves were there at all, and what else the diggers found.
+@brief: A guide in a shadowy shelter, sharing a story with relish; conspiratorial at the start, plain on the history, quiet for a line about the war's poor.
+@pace: medium
+@energy: 3→4→3
+@sources: op12 https://parkguell.barcelona/en/park-guell/emblematic-features/middle-viaduct (OFF-op, re-read 7 Nov 2026: "Elding nature and functionality, the Viaducts simulate natural caves") ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC-acad, re-read 7 Nov: p. 102 the visit of 4 Jan 1903, Gaudí "en representació del Sr. Güell"; "portells obagosos oberts en el terreny com si fossin caus excavats per algún ésser vivent dels temps troglodítics", no quotation marks in the article, so Bassegoda's own Catalan words; "A la llum d'algunes torxes"; "Aquestes coves o grutes eren artificials i s'havien excavat per tal d'extreure'n pedra per a la construcció"; p. 104 Sellés's memoir "prèviament supervisada per Gaudí": V, facts audit; p. 100 "Pel desembre de 1900… la troballa de gran nombre de fòssils a l'enderrocar una cova per explanar el carrer…"; p. 103 "s'hi establiren algunes famílies d'indigents un cop acabada la guerra el 1939"; "decidí tapiar la porta principal… cap al 1960"; CA) ; es16 https://parkguell.barcelona/en/a-park-for-everone/nature-and-biodiversity (OFF-op, read 7 Nov: "the remains of fauna Pleistocene animals were found, including rhinoceros, elephants and deer"; "These specimens are displayed at the Barcelona Museum of Natural Sciences.")
+@lang: es
+@translation: from the fact-checked English Park Güell 012 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Este refugio es una cueva falsa. En palabras del parque, los viaductos "simulan cuevas naturales". Pero la colina tenía cuevas propias, y tampoco eran naturales.
+
+El cuatro de enero de 1903, Gaudí guio por las obras a la asociación de arquitectos catalanes, "en nombre del señor Güell", según lo contó en catalán el estudioso de Gaudí Joan Bassegoda. En lo alto, uno de ellos, Salvador Sellés, leyó una descripción de las obras, "revisada previamente por Gaudí".
+
+En la versión de Bassegoda del relato de Sellés, las cuevas eran "aberturas umbrías en el suelo, como excavadas a modo de madrigueras por alguna criatura de tiempos trogloditas". Entraron con antorchas. Bassegoda añadió que eran artificiales, excavadas para sacar piedra de construcción.
+
+[pause] En 1900, al vaciar una cueva para nivelar una calle, aparecieron fósiles: huesos de rinocerontes, elefantes y ciervos de la Edad de Hielo, hoy en el museo de ciencias naturales de Barcelona.
+
+Tras la Guerra Civil, escribió Bassegoda, algunas familias sin recursos vivieron en las cuevas.
+
+Mire la piedra tosca a su alrededor, casi como salió de la colina.
+
+Gaudí disfrazó sus puentes de cuevas, en una colina ya horadada para sacar piedra.
+
+Si hace el recorrido completo, hay un breve Extra un poco más arriba, donde aparece el Viaducto de medio, si el camino está abierto: El Viaducto de medio · Extra · El puente del algarrobo. Si no, baje por escaleras y rampas a la explanada, al pie de la gran escalinata y del segundo control. Escuche la siguiente parada antes del control: en la cola si la hay, o a un lado justo antes: El pie de la escalinata · El barrio de la salud.

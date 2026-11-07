@@ -3,7 +3,7 @@
 @room: The Low Viaduct (Pont de Baix) · on the viaduct, out of the way
 @type: W
 @title: The Low Viaduct — Roads before houses
-@where: On the Low Viaduct, the Pont de Baix, at the top of the steps and ramps from the Marianao entrance, standing to one side where the plant pots along its railing can be seen. [O5, O9, ALT-V, ALT-M]
+@where: On the Low Viaduct, the Pont de Baix, at the top of the steps and ramps from the Marianao entrance, standing to one side where the plant pots along its railing can be seen.
 @what: The roads first, from 1900 (s6 p. 20, F3.3); a 3 km network (op11, F10.1); "all the viaducts, save details" by January 1903 (Andruet, G43); three five-metre viaducts from the Carrer d'Olot side, named on the first postcards (op29, F10.2); sloping columns and vaults of unhewn site stone (op29, F10.3; op11); the hill's stone sold (s3, F2.15); road, shelter and buttress (op12, F10.5); a cistern for each viaduct (op13, F8.6); the pots as railing (op13, F10.8); the 2019–20 recovery of the Low Viaduct's geometry and its railings' three levels of holes (op28, F10.9); the lean that carries the load (version-neutral, G16); the hope that plants would cover the structure (es29, E71).
 @listen: Why Gaudí built roads and bridges before any house, what these bridges were for, and what he expected to happen to them.
 @brief: A guide out on the bridge with a good story to tell; brisk and plain, with a small delight at the end.

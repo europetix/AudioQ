@@ -3,7 +3,7 @@
 @room: The Low Viaduct · beside it, its leaning columns seen from the side
 @type: R
 @title: The Low Viaduct — Why the columns lean
-@where: Beside the Low Viaduct on an open path, where its two rows of leaning stone columns can be seen from the side; keep to the path. [O5]
+@where: Beside the Low Viaduct on an open path, where its two rows of leaning stone columns can be seen from the side; keep to the path.
 @what: The Low Viaduct's curve on two rows of inclined columns forming a parabola (op13, F10.8); Kopsida's 2011 UPC master's thesis on this viaduct: the viaduct about 50 m long, columns up to 6 m, modelled from the Ajuntament's drawings (not measured by her), the lean's structural meaning, the thrust line inside the vault (G15, G16; FA M2, S1); the same solution later in the crypt of the Colònia Güell (s15, F10.10).
 @listen: Why the stone columns under this bridge lean, and where Gaudí used the idea again.
 @brief: A guide explaining a clever piece of engineering to a curious friend; plain, confident, a small pleasure at the payoff.

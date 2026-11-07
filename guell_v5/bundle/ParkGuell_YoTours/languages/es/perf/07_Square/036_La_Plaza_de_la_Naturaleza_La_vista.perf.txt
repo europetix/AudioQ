@@ -1,0 +1,32 @@
+@id: 036 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · at the bench, looking out over the city
+@type: W
+@title: La Plaza de la Naturaleza — La vista
+@where: En el largo banco de cerámica del lado de la escalinata de la Plaza de la Naturaleza, mirando hacia la ciudad. Busque un hueco donde no se incline sobre quienes están sentados.
+@what: The view from the bench, home of the sea-view rule and the bald hill (RA L1): the site "with almost no vegetation" (aj9, F14.11; FA N15 "Most of the green"); Barcelona of 1900, "over half a million inhabitants" (op2, F1.19); Gràcia joined to Barcelona in 1897 (es29, E68); the rule on the houses' height and placing to protect the view of the sea (op4, FA S6; es29 and es38 add the sunlight, E27, E83, C12); the square as "A viewpoint over the city" (op5, F9.19) and, in MUHBA's schools story, a place "to take the fresh air and watch the city" (aj3, E90, labelled as the story); Turespaña's "best views" of the park and the sea (es11, E24; FA ed2 N15: said of the park; the sea sentence cuttable, O7); the Olympic Village towers (es44, E113: one cuttable paragraph, O7 only, Lead's decision 6; RA ed2 M3); where the rich went instead (es29, E68; poor transport F2.26).
+@listen: Why the view from this bench was protected by the estate's rules, and why the buyers it was protected for never came.
+@brief: A guide sitting at the bench beside the listener, unhurried and warm, letting the view do the work, with one dry smile at the buyers who stayed away.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: aj9 https://patrimoni.gencat.cat/en/node/1367 (OFF, re-read 7 Nov 2026: "The chosen site, with almost no vegetation, was stony and with significant ground irregularities.") ; op2 https://parkguell.barcelona/en/park-guell/origin-and-creation (OFF-op, via the ed1 re-read of 6 Nov 2026: Barcelona "had over half a million inhabitants") ; es29 https://www.barcelona.cat/museuhistoria/sites/default/files/gaudi_eng_utt_des_2019_aaff.pdf (OFF, MUHBA Urban History Guide 2019, re-read 7 Nov 2026: "the former municipality of Gràcia, which had been joined on to Barcelona shortly before, in 1897"; "the height and location of the dwellings could not hinder the view nor block out the sunlight"; "The bourgeoisie preferred the central Eixample"; "the houses in Sant Gervasi or the contemporary Tibidabo residential estate"; "which had less restrictive building conditions"; "poorly connected zone" NOT confirmed, so paraphrased from F2.26) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "the height and placement of the houses was ordained so that they could not block the view of the sea") ; es38 https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/91089/6/13013.pdf.txt (OFF, MUHBA 2010, re-read 7 Nov 2026: "l'alçada i la ubicació dels habitatges no podien obstaculitzar la vista al mar i l'assolellament", CA) ; op5 https://parkguell.barcelona/en/park-guell/emblematic-features (OFF-op, via the ed1 re-read: "A viewpoint over the city") ; aj3 https://www.barcelona.cat/museuhistoria/sites/default/files/dossier_park_guell_primaria.pdf (OFF, re-read 7 Nov 2026: "prendre la fresca i observar la ciutat" is inside the fictional story, CA: spoken as the museum's story for schoolchildren) ; es11 https://spain.info/en/top/best-views-barcelona (OFF, Turespaña, re-read 7 Nov 2026: "this spot offers one of the best views of the city, from which you can even see as far as the sea.") ; es44 https://www.mynewsdesk.com/sg/catalan-tourist-board/news/barcelona-a-birds-eye-view-267175 (OFF, Catalan Tourist Board, 11 Oct 2017, re-read 7 Nov 2026: views "framed by the towers of the Olympic Village and the blue Mediterranean") ; s2b https://revistes.ub.edu/index.php/materia/article/download/32774/35203/91705 (SEC, via FACTS 2.26: poor public transport; not re-read)
+@lang: es
+@translation: from the fact-checked English Park Güell 036 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Cuando Gaudí llegó aquí, esto era una colina pelada. El servicio de patrimonio catalán describe el lugar elegido como "casi sin vegetación", pedregoso y muy irregular. Casi todo el verde que ve llegó después.
+
+Abajo, una ciudad que ya tenía "más de medio millón de habitantes". La antigua villa de Gràcia, justo debajo del parque, se había unido a Barcelona en 1897.
+
+[pause] Al pie de la escalinata oyó que aquí le esperaba otra norma. Según la historia del parque, la altura y ubicación de las casas se fijaron "para que no pudieran tapar la vista del mar". La guía del museo de historia de la ciudad añade el sol. Ninguna casa podía tapar la vista, ni el sol.
+
+La plaza se hizo para mirar. El parque aún la llama "un mirador sobre la ciudad". En el relato del mismo museo para escolares, en catalán, la gente subía a la plaza central "a tomar el fresco y contemplar la ciudad".
+
+[curious] Haga, pues, lo que ellos planearon. La oficina de turismo de España sitúa el parque entre las mejores vistas de la ciudad. Mire sobre los tejados, tan lejos como permita el día. En un día claro, dice la misma oficina, "se puede ver incluso el mar": busque su línea plana en el horizonte.
+
+La oficina de turismo de Cataluña dice que la vista está "enmarcada por las torres de la Villa Olímpica y el azul del Mediterráneo": dos torres altas junto al mar.
+
+[wry] ¿Y los compradores para quienes se protegió esta vista? La mayoría fue a otra parte. La guía del museo dice que la burguesía "prefirió el Eixample central", o las casas de Sant Gervasi, o la nueva urbanización del Tibidabo, donde las normas de construcción eran más laxas. Pocos querían una colina tan inaccesible.
+
+[lightly] Las normas guardaron esta vista para compradores que nunca llegaron. Acabó siendo de todos.
+
+Quédese en el banco, pero dé la espalda a la ciudad y mire la colina sobre el parque, con tres cruces en la cima: La Plaza de la Naturaleza · Tres cruces en lugar de una capilla.

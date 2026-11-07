@@ -1,0 +1,26 @@
+@id: 011 · FR · Park Güell · 7 Nov 2026 edition
+@section: The viaducts
+@room: The Low Viaduct · beside it, its leaning columns seen from the side
+@type: R
+@title: Le Viaduc du Bas — Pourquoi les colonnes penchent
+@where: À côté du Viaduc du Bas, sur un chemin dégagé, d'où l'on voit de profil ses deux rangées de colonnes de pierre inclinées. Restez sur le chemin.
+@what: The Low Viaduct's curve on two rows of inclined columns forming a parabola (op13, F10.8); Kopsida's 2011 UPC master's thesis on this viaduct: the viaduct about 50 m long, columns up to 6 m, modelled from the Ajuntament's drawings (not measured by her), the lean's structural meaning, the thrust line inside the vault (G15, G16; FA M2, S1); the same solution later in the crypt of the Colònia Güell (s15, F10.10).
+@listen: Why the stone columns under this bridge lean, and where Gaudí used the idea again.
+@brief: A guide explaining a clever piece of engineering to a curious friend; plain, confident, a small pleasure at the payoff.
+@pace: medium
+@energy: 3→3
+@sources: op13 https://parkguell.barcelona/en/park-guell/emblematic-features/viaducte-baix (OFF-op, re-read 7 Nov 2026: "The Baix Viaduct draws a curved line and is supported by two rows of inclined columns forming a parabola that includes the central vault.") ; G-S9 Kopsida https://core.ac.uk/download/41804329.pdf (SEC-acad, UPC MSc 2011, supervisor Pere Roca, read 7 Nov: "the lower viaduct of the three main viaducts"; "a length of approximately 50 m"; "columns of 80cm in diameter with a maximum height of 6.00m"; "The inclination of the columns apart from impressing aesthetically has also a structural meaning."; "the vault is stable since the thrust line is contained within the limits of the vault geometry"; EN) ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, re-read 7 Nov: "In these viaducts, Gaudí incorporated inclined columns, a solution that the architect later used in the Crypt of Colònia Güell.")
+@lang: fr
+@translation: from the fact-checked English Park Güell 011 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Ce pont penche exprès. Sa description officielle se lit comme un schéma: il «dessine une ligne courbe et repose sur deux rangées de colonnes inclinées formant une parabole qui inclut la voûte centrale».
+
+En 2011, une élève ingénieure de la polytechnique de Barcelone, Antigoni Kopsida, a consacré son mémoire de master à ce viaduc: un pont d'une cinquantaine de mètres, sur des colonnes de pierre de six mètres au plus. Elle a écrit: «L'inclinaison des colonnes, outre son effet esthétique, a aussi un sens structurel.»
+
+[pause] Voici ce que cela signifie. Les colonnes penchent parce que le poids penche. La poussée de la route et de ses voûtes ne descend pas tout droit. Chaque colonne est donc inclinée selon le chemin que veut prendre la charge. Selon son analyse, la poussée reste dans la voûte, et la voûte est stable.
+
+Suivez une colonne des yeux, de son pied jusque dans la voûte, et voyez la pente se prolonger dans la courbe au-dessus.
+
+Gaudí a gardé l'idée. La fondation La Pedrera note qu'il a ensuite repris ces colonnes inclinées dans la crypte de la Colònia Güell, l'église du village industriel de Güell.
+
+Entrez dans l'abri sous le viaduc, où la pierre ressemble à l'entrée d'une grotte: Le Viaduc du Bas · Des grottes creusées pour la pierre.

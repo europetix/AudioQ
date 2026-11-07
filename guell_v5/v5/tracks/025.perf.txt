@@ -3,7 +3,7 @@
 @room: The Font Sarva · at its little room beside the Hypostyle Room (Extra; if open)
 @type: X
 @title: The Font Sarva · Extra · Güell's bottled water
-@where: At the door of the Font Sarva's small room, set in the enclosing wall of the Hypostyle Room; play it only if the room is open, and step back into the one-way flow afterwards. [O13, ALT-S]
+@where: At the door of the Font Sarva's small room, set in the enclosing wall of the Hypostyle Room; play it only if the room is open, and step back into the one-way flow afterwards.
 @what: The Font Sarva, a spring older than the park, hidden in the basement of the Hypostyle Room and fed by mine water from the hill (s19; F8.7); placed "in the enclosing wall" of the hall (G65); La Salut neighbours with jugs; water piped down to the old Larrard farmhouse (s19 "també es canalitza fins a la deu de l'antiga masia Larrard"; F8.9; FA N9, FA ed2 S6; lead's decision 7 Nov: the receiving point is not called a well or a spring); Güell's 1913 analysis, magnesium, bottled and sold as medicinal water in chemists' shops for about a decade (s19; F8.7); its room opened up in the works ending 2020 (op23; F3.28); DATED: visitable since September 2020 (s19; F8.8), now implied by op23's words only (cut for the X cap).
 @listen: A spring older than the park, which Güell tried to sell in chemists' shops, and which spent decades hidden in the hall's basement.
 @brief: A guide at a small side door, sharing a quirky footnote; amused at Güell the salesman, then quietly picturing the neighbours with their jugs.

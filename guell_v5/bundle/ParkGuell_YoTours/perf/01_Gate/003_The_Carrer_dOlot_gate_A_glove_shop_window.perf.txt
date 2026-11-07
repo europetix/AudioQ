@@ -3,7 +3,7 @@
 @room: The Carrer d'Olot gate · just inside, to one side of the palm-leaf iron gates
 @type: W
 @title: The Carrer d'Olot gate — A glove shop window
-@where: Just inside the main gate on Carrer d'Olot, standing to one side of the palm-leaf iron gates, out of the way of people leaving. [O11, O19]
+@where: Just inside the main gate on Carrer d'Olot, standing to one side of the palm-leaf iron gates, out of the way of people leaving.
 @what: The 1878 glove-shop display case for Esteve Comella (op3, F1.8); Eusebi Güell's family, studies, textile and cement firms, politics and microbiology book (s1, F1.1–F1.6); the Palau Güell (1886) and the park (1900) (op3, F1.9); "a real story of friendship" (op3, Q1); the palm-leaf gates from Casa Vicens (op6, F5.3; no date, F15.38).
 @listen: How a glove shop's window began a lifelong partnership, who Güell was, and where the iron gates really came from.
 @brief: A guide at the gate, introducing the patron like an intriguing guest; curious at the hook, lightly amused at the microbiology book, light at the payoff.

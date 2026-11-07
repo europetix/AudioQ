@@ -1,0 +1,28 @@
+@id: 039 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Portico
+@room: The Portico of the Washerwoman · under the wave, to one side
+@type: W
+@title: Der Portikus der Wäscherin — Die Welle
+@where: Unter dem steinernen Portikus in der Form einer brechenden Welle, auf dem Weg durch die Kiefern hinter der Eisentür des Platzes der Natur. Stellen Sie sich seitlich, damit der Strom auf der Einbahnroute vorbeikann.
+@what: The Portico of the Washerwoman (Pòrtic de la Bugadera; the Laundry Room Portico on the park's pages): "a great wave atop slanting columns", "a double colonnade that acts as a buttress" against "a retaining wall made from unworked stone" (op10, F10.13); the flyer's "pedra sense treballar" and "el perfil d'una gran onada" (FLYER CA); "one of the finest examples of the organic architecture upheld by Gaudí" (op10, F10.14, attributed); version-neutral: the name from one column carved as a washerwoman (FLYER, F10.15; H and E skip 040); FA S11 / RA S8: "It stands on leaning columns, as Gaudí's road bridges in the park do" (self-contained, no callback).
+@listen: How a wave of rough stone holds up a hillside, and where the portico gets its name.
+@brief: A guide under the portico with the listener, plainly impressed by the structure, explaining the buttress simply, then letting the stone speak.
+@pace: medium
+@energy: 3→4→3
+@sources: op10 https://parkguell.barcelona/en/park-guell/emblematic-features/laundry-room-portico (OFF-op, verified by FA and the ed1 re-read of 6 Nov 2026: "adopts the shape of a great wave atop slanting columns"; "a double colonnade that acts as a buttress"; "a retaining wall made from unworked stone"; "one of the finest examples of the organic architecture upheld by Gaudí"; the page does not say the portico carries a path, FA S11) ; FLYER CA https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_cat_red_c.pdf (OFF-op, re-read 7 Nov 2026: "El pòrtic, fet de pedra sense treballar i que adopta el perfil d'una gran onada, està compost per un seguit de columnes,"; "una de les quals amb forma de cariàtide que representa una bugadera", CA; the section label "PÒRTIC DE CASA DEL GUARDA" is a layout slip, F15.45: never spoken) ; op29 https://parkguell.barcelona/en/park-guell/emblematic-features/roadways-paths-viaducts (OFF-op, via FACTS 10.3: the road bridges on sloping columns; supports the self-contained comparison only)
+@lang: de
+@translation: from the fact-checked English Park Güell 039 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Der Stein über Ihrem Kopf stützt einen Hang. Der Park beschreibt diesen Portikus als einen, der „die Form einer großen Welle über schrägen Säulen annimmt“. Unter der Welle ist er „eine doppelte Kolonnade, die als Strebepfeiler wirkt“, vor „einer Stützmauer aus unbehauenem Stein“.
+
+Auf Katalanisch heißt er Pòrtic de la Bugadera, der Portikus der Wäscherin, auch wenn die Seiten des Parks ihn Laundry Room Portico nennen. Er hat seinen Namen von einer seiner Säulen, die als Wäscherin gemeißelt ist.
+
+[curious] Denken Sie einen Moment darüber nach, was ein Strebepfeiler tut. Hinter dieser rauen Mauer ist der Hügel selbst, und sein Gewicht drückt nach außen. Die doppelte Säulenreihe stützt die Mauer dagegen ab. Der Portikus steht auf schrägen Säulen, wie Gaudís Straßenbrücken im Park.
+
+Dieselbe Beschreibung nennt ihn „eines der schönsten Beispiele der organischen Architektur, die Gaudí vertrat“. Gemeint ist ein Bauen, das seine Formen der Natur entnimmt, und hier ist die Form leicht zu lesen. Eine Welle rollt an der Seite des Hügels entlang und bricht über Ihrem Kopf.
+
+[pause] Schauen Sie die schrägen Säulen entlang, und dann auf die Mauer dahinter. Der Stein wurde unbehauen gelassen: raue Stücke, nie zu ordentlichen Blöcken geschnitten. Wenig hier wurde glatt gemeißelt, außer einer Säule.
+
+[warmly] Eine Welle aus Stein, die einen Hügel stützt.
+
+Gehen Sie langsam den Portikus entlang und suchen Sie die Säule, die als Frau gemeißelt ist. Bleiben Sie neben ihr stehen, abseits des Stroms: Der Portikus der Wäscherin · Eine Wäscherin und zwei Pfeiler.

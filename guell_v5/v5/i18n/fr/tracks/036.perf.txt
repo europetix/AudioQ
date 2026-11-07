@@ -1,0 +1,32 @@
+@id: 036 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · at the bench, looking out over the city
+@type: W
+@title: La place de la Nature — La vue
+@where: Au long banc de céramique côté escalier de la place de la Nature, face à la ville. Trouvez un espace où vous ne vous penchez pas sur des gens assis.
+@what: The view from the bench, home of the sea-view rule and the bald hill (RA L1): the site "with almost no vegetation" (aj9, F14.11; FA N15 "Most of the green"); Barcelona of 1900, "over half a million inhabitants" (op2, F1.19); Gràcia joined to Barcelona in 1897 (es29, E68); the rule on the houses' height and placing to protect the view of the sea (op4, FA S6; es29 and es38 add the sunlight, E27, E83, C12); the square as "A viewpoint over the city" (op5, F9.19) and, in MUHBA's schools story, a place "to take the fresh air and watch the city" (aj3, E90, labelled as the story); Turespaña's "best views" of the park and the sea (es11, E24; FA ed2 N15: said of the park; the sea sentence cuttable, O7); the Olympic Village towers (es44, E113: one cuttable paragraph, O7 only, Lead's decision 6; RA ed2 M3); where the rich went instead (es29, E68; poor transport F2.26).
+@listen: Why the view from this bench was protected by the estate's rules, and why the buyers it was protected for never came.
+@brief: A guide sitting at the bench beside the listener, unhurried and warm, letting the view do the work, with one dry smile at the buyers who stayed away.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: aj9 https://patrimoni.gencat.cat/en/node/1367 (OFF, re-read 7 Nov 2026: "The chosen site, with almost no vegetation, was stony and with significant ground irregularities.") ; op2 https://parkguell.barcelona/en/park-guell/origin-and-creation (OFF-op, via the ed1 re-read of 6 Nov 2026: Barcelona "had over half a million inhabitants") ; es29 https://www.barcelona.cat/museuhistoria/sites/default/files/gaudi_eng_utt_des_2019_aaff.pdf (OFF, MUHBA Urban History Guide 2019, re-read 7 Nov 2026: "the former municipality of Gràcia, which had been joined on to Barcelona shortly before, in 1897"; "the height and location of the dwellings could not hinder the view nor block out the sunlight"; "The bourgeoisie preferred the central Eixample"; "the houses in Sant Gervasi or the contemporary Tibidabo residential estate"; "which had less restrictive building conditions"; "poorly connected zone" NOT confirmed, so paraphrased from F2.26) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "the height and placement of the houses was ordained so that they could not block the view of the sea") ; es38 https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/91089/6/13013.pdf.txt (OFF, MUHBA 2010, re-read 7 Nov 2026: "l'alçada i la ubicació dels habitatges no podien obstaculitzar la vista al mar i l'assolellament", CA) ; op5 https://parkguell.barcelona/en/park-guell/emblematic-features (OFF-op, via the ed1 re-read: "A viewpoint over the city") ; aj3 https://www.barcelona.cat/museuhistoria/sites/default/files/dossier_park_guell_primaria.pdf (OFF, re-read 7 Nov 2026: "prendre la fresca i observar la ciutat" is inside the fictional story, CA: spoken as the museum's story for schoolchildren) ; es11 https://spain.info/en/top/best-views-barcelona (OFF, Turespaña, re-read 7 Nov 2026: "this spot offers one of the best views of the city, from which you can even see as far as the sea.") ; es44 https://www.mynewsdesk.com/sg/catalan-tourist-board/news/barcelona-a-birds-eye-view-267175 (OFF, Catalan Tourist Board, 11 Oct 2017, re-read 7 Nov 2026: views "framed by the towers of the Olympic Village and the blue Mediterranean") ; s2b https://revistes.ub.edu/index.php/materia/article/download/32774/35203/91705 (SEC, via FACTS 2.26: poor public transport; not re-read)
+@lang: fr
+@translation: from the fact-checked English Park Güell 036 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Quand Gaudí est arrivé ici, c'était une colline pelée. Le service du patrimoine catalan décrit le site choisi comme «presque sans végétation», pierreux et très accidenté. La verdure que vous voyez est surtout venue plus tard.
+
+En bas s'étendait une ville qui comptait déjà «plus d'un demi-million d'habitants». L'ancienne ville de Gràcia, juste sous le parc, avait été rattachée à Barcelone en 1897.
+
+[pause] Au pied de l'escalier, vous avez entendu qu'une autre règle vous attendait ici. L'histoire du parc dit que la hauteur et l'emplacement des maisons étaient fixés «pour qu'elles ne puissent pas boucher la vue sur la mer». Le musée municipal d'histoire, dans son guide, ajoute la lumière du soleil. Aucune maison ne devait boucher la vue, ni le soleil.
+
+La place était faite pour regarder. Le parc l'appelle encore «un belvédère sur la ville». Dans l'histoire que le musée municipal d'histoire raconte aux écoliers, en catalan, les gens montaient à la place centrale «prendre le frais et regarder la ville».
+
+[curious] Faites donc comme prévu. L'office du tourisme espagnol compte le parc parmi les plus belles vues de la ville. Regardez au-delà des toits, aussi loin que le jour le permet. Par temps clair, dit le même office, «on peut même voir jusqu'à la mer»: cherchez sa ligne plate à l'horizon.
+
+Pour l'Agence catalane du tourisme, la vue est «encadrée par les tours du Village olympique et le bleu de la Méditerranée»: deux hautes tours au bord de la mer.
+
+[wry] Et les acheteurs pour qui cette vue était protégée? La plupart sont allés ailleurs. Selon le guide du musée, la bourgeoisie «préférait l'Eixample central», ou des maisons à Sant Gervasi, ou le nouveau lotissement du Tibidabo, aux règles de construction plus souples. Peu voulaient d'une colline si difficile d'accès.
+
+[lightly] Les règles ont réservé cette vue à des acheteurs jamais venus. Elle a fini par être à tous.
+
+Restez au banc, mais tournez le dos à la ville, et levez les yeux vers la colline au-dessus du parc, couronnée de trois croix: La place de la Nature · Trois croix au lieu d'une chapelle.

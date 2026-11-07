@@ -257,6 +257,6 @@ Score each 1–5; anything below 4 goes to the per-engine override list. Full li
 [ ] Francesc Gaudí i Serra; Rosa / Roseta Egea; Llorenç Matamala; Chiappo
 [ ] Sant Joan de Gràcia; Sant Felip Neri   [ ] Josep Maria Montserrat   [ ] Frederic Ballell; Mireia Freixa; Mar Leniz
 [ ] Joan Bassegoda; Bonaventura Bassegoda; Diario de Barcelona; Salvador Sellés
-[ ] María-Belén García Ávila; Bayard Brattstrom   [ ] Abel Vallhonesta; Toni Cumella; Nicolau Maria Rubió i Tudurí
+[ ] Manuel-Blas García Ávila; Bayard Brattstrom   [ ] Abel Vallhonesta; Toni Cumella; Nicolau Maria Rubió i Tudurí
 [ ] Pedralbes; "King Alfonso the Thirteenth"   [ ] trencadís; sardana; castellers; Jocs Florals; Centre Català
 [ ] the cue separator "·" renders as a short pause

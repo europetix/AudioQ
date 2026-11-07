@@ -1,0 +1,24 @@
+@id: 040 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Portico
+@room: The Portico of the Washerwoman · beside the washerwoman column, out of the flow
+@type: R
+@title: El Pórtico de la Lavandera — Una lavandera y dos pilares
+@where: Junto a la columna tallada como una mujer, a lo largo del Pórtico de la Lavandera. Colóquese a un lado, fuera del recorrido de sentido único.
+@what: The washerwoman column: a caryatid that "represents a washerwoman" and "carries the tools of her trade" (FLYER CA, F10.15; what she carries left to the listener's eye until O17); no sculptor named (G72); one researcher's Temple of Jerusalem thesis, 2020 (Rius Santamaria, Matèria 16–17: the park's central area, never "the whole park", FA ed2 S3), with Jachin and Boaz looked for "in this portico" (s21, F10.16, F12.5: LEGEND, "one researcher"; not "the end columns": the paper's p. 172 rejects them, ed1 notes decision 3). NOT: "Masonic", "offering bearer", the mason legend.
+@listen: Who the washerwoman is, and one researcher's theory that this portico holds the pillars of Solomon's temple.
+@brief: A guide beside the column, curious and close in, then light and even-handed at the theory, leaving the last word to the listener's own eyes.
+@pace: medium
+@energy: 3→3→2
+@sources: FLYER CA https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_cat_red_c.pdf (OFF-op, re-read 7 Nov 2026: "una de les quals amb forma de cariàtide que representa una bugadera i porta els estris propis del seu ofici.", CA) ; op10 https://parkguell.barcelona/en/park-guell/emblematic-features/laundry-room-portico (OFF-op, ed1 re-read: the name from "the sculpted figure on one of the columns", meta description only; no sculptor named) ; s21 https://diposit.ub.edu/dspace/bitstream/2445/179272/1/705626.pdf (SEC-acad, speculative thesis; BLOCKED 7 Nov 2026, not retried; title "Reconstructing the Temple of Jerusalem through Light and Aesthetic Geometry", Matèria 16–17 (2020), and pp. 172 / 193 as read by the ed1 writer on 6 Nov 2026: RC the year and title before recording)
+@lang: es
+@translation: from the fact-checked English Park Güell 040 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+En algún punto de esta hilera de piedra, una columna se convierte en mujer. La guía impresa del parque la describe, en catalán, como una columna "en forma de cariátide que representa a una lavandera", que "lleva los utensilios de su oficio".
+
+Una cariátide es una columna tallada con forma de mujer, una idea que viene de los templos de la antigua Grecia. Esta no es una doncella de templo. Es una trabajadora, una lavandera, que carga con su parte del peso.
+
+[curious] Mírela de cerca, y fíjese en lo que lleva. La guía del parque no enumera sus utensilios, así que vea usted mismo qué sostiene.
+
+[lightly] No todos ven aquí solo una lavandera. Un investigador, en 2020, sostuvo que el parque esconde una imagen del Templo de Jerusalén, trazada con luz y geometría. El estudio busca incluso en este pórtico los dos pilares de Salomón, Jaquín y Boaz. Es la teoría de un lector.
+
+Siga el camino hasta el final, donde una rampa en espiral baja hacia la antigua masía, la Casa Larrard, hoy una escuela. Deténgase al pie de la rampa con la casa a la vista, sin salirse del camino: Casa Larrard · La masía de Güell.

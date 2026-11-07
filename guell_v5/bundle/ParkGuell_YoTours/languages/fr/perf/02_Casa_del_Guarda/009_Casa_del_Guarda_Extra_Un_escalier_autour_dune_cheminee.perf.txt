@@ -1,0 +1,26 @@
+@id: 009 · FR · Park Güell · 7 Nov 2026 edition
+@section: Inside the Casa del Guarda
+@room: Casa del Guarda · inside, on the top floor, under the dome (Extra)
+@type: X
+@title: Casa del Guarda · Extra · Un escalier autour d'une cheminée
+@where: Dans la Casa del Guarda, au dernier étage sous la coupole, d'où l'on voit l'escalier en colimaçon vers le belvédère. Ne montez pas l'escalier s'il n'est pas ouvert au public.
+@what: The top floor: a spiral stair to the mirador whose inner brick cylinder is both the chimneys' smoke outlet and, with the stair's shaft, the support of the ceramic steps (s6 p. 24, E14); a Catalan dome of three layers of thin brick tied with a twisted metal strap (s6 p. 24, E15); "his use of the Catalan vault" (G-S26); the two attic windows that form crosses of porcelain (s6 p. 27, E16; FA N4); the floor's theme, the city (es4, E8; DATED); the panel "A portrait of monumental Barcelona in 1917" (es4 p. 47; G-S25; DATED).
+@listen: A stair held up by its own chimney, a dome of thin brick, and the city the exhibition sets the park in.
+@brief: A guide pointing upward in a small attic; curious and a little delighted by the engineering, then practical about the way on.
+@pace: medium
+@energy: 2→3→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov 2026: p. 24 "En el punto central de la segunda planta se eleva una escalera de caracol que conduce al mirador", "Concéntrico a éste hay otro cilindro… que es a la vez el conducto de la salida de humos de las chimeneas y, junto con la caja de escalera, soporte de los peldaños cerámicos"; the dome "Está compuesta por tres capas de rasilla", "un fleje metálico retorcido de 30x2 mm atando la bóveda"; p. 27 "las dos cruces que forman las dos ventanas del desván del pabellón de vivienda, que son de porcelana"; ES) ; G-S26 https://barcelona.cat/museuhistoria/en/muhba-park-guell/49-casa-del-guarda-and-gaudis-architecture (OFF, read 7 Nov: "great formal and compositional refinement", shown through "his use of the Catalan vault") ; es4 https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2023-05/GuiaMUHBAEng.pdf (OFF, read 7 Nov: the city theme, the park's "inclusion in and relationship with the city"; p. 47 the panel "on the third floor of the Casa del Guarda") ; G-S25 https://bcn.cat/museuhistoriaciutat/docs/casadelguardaeng.pdf (OFF, read 7 Nov: heading "A PORTRAIT OF MONUMENTAL BARCELONA IN 1917")
+@lang: fr
+@translation: from the fact-checked English Park Güell 009 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Au milieu de cet étage, un escalier en colimaçon monte vers le belvédère. Son secret est en son cœur. À l'intérieur du mur de brique rond de l'escalier court un second cylindre de brique. C'est le conduit qui évacue la fumée des cheminées, et avec le mur extérieur, il porte les marches de céramique.
+
+Ainsi, la cheminée porte l'escalier. Regardez-le d'ici, et suivez des yeux les marches qui tournent autour du conduit.
+
+Levez maintenant les yeux. C'est une coupole catalane, trois couches de brique mince, ceinturée d'une bande de métal torsadée. Le musée municipal d'histoire voit dans l'usage de la voûte catalane par Gaudí un signe du raffinement de cette petite maison.
+
+Regardez les deux lucarnes: chacune forme une croix, travaillée en porcelaine.
+
+Le thème de l'exposition, ici, est la ville: comment le parc s'insère dans Barcelone, et son lien avec la ville en contrebas. Un panneau fait le portrait de la Barcelone monumentale en 1917.
+
+En sortant, longez l'intérieur du mur jusqu'à l'entrée de Marianao, sans sortir. Juste à l'intérieur, des marches et des rampes montent au Viaduc du Bas, le Pont de Baix. Arrêtez-vous dessus: Le Viaduc du Bas · Les routes avant les maisons.

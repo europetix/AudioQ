@@ -3,7 +3,7 @@
 @room: The tower pavilion · outside, its tower and door in view
 @type: R
 @title: The tower pavilion — Telephones and a tower
-@where: Outside the gatehouse with the tall tower, on the left as you face the stairway, with the tower and its door in view, clear of the doorway and of people passing. [O-map, O2, O28]
+@where: Outside the gatehouse with the tall tower, on the left as you face the stairway, with the tower and its door in view, clear of the doorway and of people passing.
 @what: The office pavilion of the Porter's Lodge pair: a visitors' room with telephones in MUHBA's schools story (aj3, E88: fictional register, disclosed); two modest rooms, reception below and office above (s6 p. 20, E96); the tower, about 13 m, a hyperbolic paraboloid of two layers of thin brick tied in a double helix (s6 pp. 20, 22, E97); Gaudí's four-armed cross (s15, F5.9); the original porcelain-clad cross destroyed in 1936, a post-war cross until 1996, today's from photographs of the original (s6 pp. 27–28, E98, C20); the bullseye panes (s6 p. 26, E104).
 @listen: A front desk for a gated estate, a tower of thin brick, and a cross that is the third of its line.
 @brief: A guide outside a small building with a tall secret; matter-of-fact about the bricks, quiet and plain at the war, a small smile at the end.

@@ -3,7 +3,7 @@
 @room: The Dragon Stairway · at the foot, past the control, the first flight and the grottos in view
 @type: R
 @title: The Dragon Stairway — A bus shelter before buses
-@where: At the foot of the Dragon Stairway, just past the second ticket check, to one side where the first flight, its battlemented side walls, the grottos beneath them and the first landing can be seen. [O1, O14]
+@where: At the foot of the Dragon Stairway, just past the second ticket check, to one side where the first flight, its battlemented side walls, the grottos beneath them and the first landing can be seen.
 @what: The twin stairway in three flights between walls with merlons over two grottos, one a waiting shelter on a conical central column, with fountain water running down (op7, F6.1–F6.3; FLYER, F6.2); "capricious shapes like goblins" on the first landing (op7, F6.4); the op7 description paraphrased, without quotation marks (RA L1); "Monumental Staircase" no longer spoken (op27, FA N4); the first basin cleaned and its trencadís recovered, 2020–21 (op27, F6.13). Which grotto is the shelter is not spoken (O14).
 @listen: A grand double stair with a waiting room built into its walls and goblins on its first landing.
 @brief: A guide at the bottom of a famous stair, enjoying the details; one dry smile at the shelter, lively at the goblins.

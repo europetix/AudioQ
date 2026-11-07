@@ -1,0 +1,26 @@
+@id: 008 · FR · Park Güell · 7 Nov 2026 edition
+@section: Inside the Casa del Guarda
+@room: Casa del Guarda · inside, on the first floor (Extra)
+@type: X
+@title: Casa del Guarda · Extra · Quatre chambres et un promoteur
+@where: Dans la Casa del Guarda, au premier étage, à l'écart de l'escalier.
+@what: The first floor as built: four bedrooms and an attic space (s6 p. 20, E12); steel-and-ceramic beams instead of arches (s6 p. 23, E13); the floor's theme, the park (es1, E7; es4; DATED); the curator Mireia Freixa (with Mar Leniz, G80) and her line on the promoter (es1, E3); the museum's visits on Gaudí and Güell, the park and the city (es10, E22).
+@listen: The caretaker family's bedrooms, and the exhibition's point about the man who paid for everything.
+@brief: A light, friendly aside on the way up; a smile at the curator's line.
+@pace: medium
+@energy: 2→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov 2026: p. 20 "cuatro dormitorios"; p. 23 "jácenas mixtas de acero y cerámica"; ES) ; es1 https://gaudiclub.com/ingles/i_press/Prensaing/Notasprensa/10_05_26.asp (SEC-low press note on the 2010 reopening, read 7 Nov: Freixa, the commissioner, "behind every great artist is an ambitious promoter"; the first floor covers the park's beginnings, its use over the years and its later public use; EN) ; es4 https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2023-05/GuiaMUHBAEng.pdf (OFF, read 7 Nov: the floors on the house, the park and the city) ; es10 https://barcelona.cat/museuhistoria/ca/formats/visites-comentades/guell-gaudi-i-barcelona-lexpressio-dun-ideal-urba (OFF, read 7 Nov: "La visita al centre del MUHBA fa èmfasi en la relació entre Gaudí i Güell, entre el parc i la ciutat de Barcelona", CA, paraphrased) ; G80 / G-S34 (OFF: Freixa and Leniz curated the exhibition)
+@lang: fr
+@translation: from the fact-checked English Park Güell 008 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Une maison conçue pour une famille humble avait besoin de chambres, et ici, elle en avait tout un étage. Ce niveau comptait quatre chambres, avec un grenier au-dessus.
+
+Regardez ce qui porte le plancher. En bas, Gaudí a ouvert les murs par des arcs. Ici, il a préféré des poutres d'acier et de céramique.
+
+Ici, l'exposition a pour thème le parc: les débuts du domaine, et comment, en 1926, il est devenu un parc pour toute la ville. L'échec du domaine est raconté au pied du grand escalier.
+
+Commissaire de l'exposition, l'historienne Mireia Freixa a résumé le rôle de Güell d'une phrase à la réouverture de la maison. Selon une note de presse en anglais, elle a dit: «derrière tout grand artiste, il y a un promoteur ambitieux».
+
+C'est une remarque juste, dans cette maison. Les visites du musée, ici, insistent sur deux relations: celle entre Gaudí et Güell, et celle entre le parc et la ville en contrebas.
+
+Montez jusqu'au dernier étage, sous la coupole: Casa del Guarda · Extra · Un escalier autour d'une cheminée.

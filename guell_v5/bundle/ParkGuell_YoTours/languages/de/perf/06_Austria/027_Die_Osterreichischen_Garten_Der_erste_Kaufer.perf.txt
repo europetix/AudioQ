@@ -1,0 +1,28 @@
+@id: 027 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Austria Gardens
+@room: The Austria Gardens · near the middle, Casa Trias in view among the trees
+@type: R
+@title: Die Österreichischen Gärten — Der erste Käufer
+@where: In der Nähe der Mitte der Österreichischen Gärten, wo Sie über sie hinweg zu den Häusern zwischen den Bäumen darüber sehen. Die Casa Trias ist ein Privathaus und wird nur von hier aus betrachtet.
+@what: Casa Trias: the plot sold to the lawyer Martí Trias i Domènech on 24 July 1902 (s3; F2.18), the estate's first buyer, "a friend of Güell" (op4); house by Juli Batllevell, 1903–1906 (op17; F2.19), "true to the style of his master" Domènech i Montaner (es27; E66); the lawyer and his wife Anna Maxenchs lived there in the first half of the twentieth century (es27; E66; C2); still a private residence owned by the same family (op17; F2.19); DATED: the city's compulsory purchase (G29); the works closure beyond Casa Trias is not spoken here: its one home is 013 (op24; F3.31; RA ed2 L4b). Callback 015 (Trias's plot; safe).
+@listen: The estate's first buyer was Güell's own lawyer, and his house is still in his family's hands.
+@brief: A guide in the gardens, factual and discreet about a private house, warm about the couple who made it a home.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read 7 Nov 2026: a copy of the plan "serví per a la venda del terreny al Sr. Trias el 24 de juliol del 1902", CA) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "The first person to buy a plot in the Park, in 1902, was a friend of Güell", EN) ; op17 https://parkguell.barcelona/en/park-guell/emblematic-features/trias-house (OFF-op, re-read 7 Nov 2026: "Owned by Martí Trias i Domènech, the lawyer for the Güell family"; "was built between 1903 and 1906"; "designed by Juli Batllevell i Arús"; "continues to be a private residence"; "is still owned by the same family"; descendants of the lawyer and Anna Maxenchs, EN) ; es27 https://www.timeout.es/barcelona/es/noticias/el-ayuntamiento-de-barcelona-quiere-expropiar-una-historica-casa-modernista-del-park-guell-070124 (SEC, Time Out Barcelona, 1 Jul 2024, re-read 7 Nov 2026: "fue el hogar del abogado Martí Trias y Anna Maxenchs, su mujer, durante la primera mitad del siglo XX"; "fiel al estilo de su maestro Domènech i Montaner" (the page spells the architect "Batllever"), ES) ; G29 https://www.idealista.com/ca/news/node/901355 (SEC, 12 Jun 2026, via FACTS G29; a search on 7 Nov 2026 found nothing newer: the expropriation is still pending) ; op24 https://parkguell.barcelona/en/disruptions (OFF-op, updated 2/11/2026, via FACTS F3.31: closed "from Casa Trias to the Upper Viaduct", EN)
+@lang: de
+@translation: from the fact-checked English Park Güell 027 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Der erste Käufer der Siedlung war Güells eigener Anwalt. Die Geschichte des Parks nennt ihn einfach „einen Freund Güells“. Im Sommer 1902, so hielt Bassegoda fest, wurde eine Parzelle auf diesem Hügel an Martí Trias i Domènech verkauft, den Anwalt der Familie Güell.
+
+Sein Haus entwarf der Architekt Juli Batllevell, und es entstand in den folgenden Jahren. Die Zeitschrift Time Out beschreibt es auf Spanisch als „treu dem Stil seines Meisters“, des modernistischen Architekten Domènech i Montaner.
+
+[warmly] Und es war ein echtes Zuhause. Dieselbe Zeitschrift sagt, dass der Anwalt und seine Frau, Anna Maxenchs, in der ersten Hälfte des zwanzigsten Jahrhunderts dort lebten. Von allen Käufern, auf die Güell hoffte, gehörten sie zu den ganz wenigen, die kamen und blieben.
+
+Heute, so der Park, „ist das Haus weiterhin ein Privatwohnsitz und gehört noch immer derselben Familie“. Die Stadt hat allerdings ein Enteignungsverfahren eingeleitet.
+
+[pause] Schauen Sie durch die Bäume hinauf. Irgendwo über diesen Gärten steht die Casa Trias, das Haus des ersten Käufers der Siedlung.
+
+Es ist ein Privathaus, also lassen wir es in Ruhe und betrachten es nur von hier.
+
+Bleiben Sie hier und suchen Sie zwischen den Bäumen das rosa Haus mit dem spitzen Turm: Die Österreichischen Gärten · Das Haus, das Gaudí nicht entwarf.

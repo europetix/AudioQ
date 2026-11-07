@@ -1,0 +1,30 @@
+@id: 003 · FR · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: The Carrer d'Olot gate · just inside, to one side of the palm-leaf iron gates
+@type: W
+@title: La porte de Carrer d'Olot — Une vitrine de gantier
+@where: Juste après la porte principale de Carrer d'Olot, sur le côté des grilles de fer en feuilles de palmier, à l'écart des personnes qui sortent.
+@what: The 1878 glove-shop display case for Esteve Comella (op3, F1.8); Eusebi Güell's family, studies, textile and cement firms, politics and microbiology book (s1, F1.1–F1.6); the Palau Güell (1886) and the park (1900) (op3, F1.9); "a real story of friendship" (op3, Q1); the palm-leaf gates from Casa Vicens (op6, F5.3; no date, F15.38).
+@listen: How a glove shop's window began a lifelong partnership, who Güell was, and where the iron gates really came from.
+@brief: A guide at the gate, introducing the patron like an intriguing guest; curious at the hook, lightly amused at the microbiology book, light at the payoff.
+@pace: medium
+@energy: 3→3→3
+@sources: op3 https://parkguell.barcelona/en/park-guell/gaudi-and-guell (OFF-op; "began when Güell saw a window display that Gaudí had planned for glove retailer Esteve Comella", Paris 1878; Palau Güell 1886; park 1900; "not simply that of an artist and his patron, but a real story of friendship": V, facts audit 7 Nov 2026) ; s1 https://www.enciclopedia.cat/gran-enciclopedia-catalana/eusebi-guell-i-bacigalupi (SEC; son of Joan Güell i Ferrer; studied in Barcelona, France and England; cloth works with Ferran Alsina that became the Colònia Güell; Asland, the first Portland cement plants in Catalonia, 1901 and 1916; councillor, senator, president of the Centre Català; a microbiology book published in Paris: V, facts audit 7 Nov) ; op6 https://parkguell.barcelona/en/park-guell/emblematic-features/entrance-pavilions (OFF-op, re-read 7 Nov: "The iron gates, designed in the shape of palm leaves, do not form part of the original plan, but came from Casa Vicens."; no year, not called Gaudí's first house)
+@lang: fr
+@translation: from the fact-checked English Park Güell 003 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Tout a commencé par une vitrine. À l'Exposition de Paris de 1878, Eusebi Güell a vu une vitrine que Gaudí avait faite pour un gantier, celui d'Esteve Comella. Selon l'histoire du parc, leur collaboration «a commencé quand Güell a vu une vitrine que Gaudí avait conçue» pour ce gantier.
+
+Güell est né à Barcelone, fils de Joan Güell i Ferrer. Il a étudié à Barcelone, en France et en Angleterre. Avec Ferran Alsina, il a développé l'usine textile devenue la Colònia Güell, son village industriel. Puis vint le ciment. Sa société Asland a ouvert quelques-unes des premières cimenteries Portland de Catalogne. Le ciment de Güell a aidé à bâtir la ville du vingtième siècle.
+
+Il a été conseiller municipal, puis sénateur, et président du Centre Català. [amused] Et ce baron du textile a aussi écrit un livre de microbiologie, en français, publié à Paris.
+
+En 1886, Güell a demandé à Gaudí de construire sa nouvelle maison dans la vieille ville, le Palau Güell. En 1900, il lui a confié l'aménagement de cette colline. Selon la même histoire, leur lien n'était «pas simplement celui d'un artiste et de son mécène, mais une véritable histoire d'amitié».
+
+[pause] Regardez les grilles à côté de vous. Leur fer dessine des feuilles de palmier, et elles n'ont pas du tout été faites pour le parc. La page du parc sur cette entrée dit qu'elles «ne font pas partie du plan d'origine, mais viennent de la Casa Vicens». C'était une maison que Gaudí avait construite en ville des années plus tôt.
+
+Trouvez une seule feuille dans la ferronnerie, et suivez-la de sa tige jusqu'à ses pointes.
+
+[lightly] Une collaboration née dans une vitrine, et une grille née ailleurs. Même l'entrée est une greffe.
+
+Retournez-vous maintenant face à l'escalier. Trouvez un endroit entre les deux pavillons d'où vous voyez les deux toits: la haute tour à la croix sur votre gauche, l'autre pavillon sur votre droite: L'esplanade d'entrée · Des rebuts d'usine.

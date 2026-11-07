@@ -3,7 +3,7 @@
 @room: The Austria Gardens · a terrace with the city below in view
 @type: R
 @title: The Austria Gardens — Down the hill every morning
-@where: On a terrace higher up the Austria Gardens, along the one-way route, where the city below comes into view; stand to one side of the path. [O-map, O7: no landmark named until ticked from this terrace; O26]
+@where: On a terrace higher up the Austria Gardens, along the one-way route, where the city below comes into view; stand to one side of the path.
 @what: Gaudí's daily round in his park years, as the Sagrada Família's own blog describes it: down to the parish church of Sant Joan de Gràcia; after mass on to the Sagrada Família (commissioned 1883); in the evening to Sant Felip Neri for prayer and vespers; back up "on foot or by tram", with the evening edition of La Veu de Catalunya under his arm; "between eight and ten kilometres a day" (es25; E62; DATED: re-check the blog before recording). The gardens' "good views" (op14; E105). No landmark named (O7 not done).
 @listen: How Gaudí spent his days while he lived on this hill: down to the city in the morning, and back up in the evening.
 @brief: A guide at a terrace rail, looking out with the listener, curious and companionable, a quiet admiration at the walking.

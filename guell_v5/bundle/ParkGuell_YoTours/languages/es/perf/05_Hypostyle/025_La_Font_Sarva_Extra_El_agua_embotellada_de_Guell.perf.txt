@@ -1,0 +1,26 @@
+@id: 025 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Font Sarva · at its little room beside the Hypostyle Room (Extra; if open)
+@type: X
+@title: La Font Sarva · Extra · El agua embotellada de Güell
+@where: En la puerta de la pequeña estancia de la Font Sarva, en el muro que cierra la Sala Hipóstila. Escúchela solo si está abierta, y vuelva después al recorrido de sentido único.
+@what: The Font Sarva, a spring older than the park, hidden in the basement of the Hypostyle Room and fed by mine water from the hill (s19; F8.7); placed "in the enclosing wall" of the hall (G65); La Salut neighbours with jugs; water piped down to the old Larrard farmhouse (s19 "també es canalitza fins a la deu de l'antiga masia Larrard"; F8.9; FA N9, FA ed2 S6; lead's decision 7 Nov: the receiving point is not called a well or a spring); Güell's 1913 analysis, magnesium, bottled and sold as medicinal water in chemists' shops for about a decade (s19; F8.7); its room opened up in the works ending 2020 (op23; F3.28); DATED: visitable since September 2020 (s19; F8.8), now implied by op23's words only (cut for the X cap).
+@listen: A spring older than the park, which Güell tried to sell in chemists' shops, and which spent decades hidden in the hall's basement.
+@brief: A guide at a small side door, sharing a quirky footnote; amused at Güell the salesman, then quietly picturing the neighbours with their jugs.
+@pace: medium
+@energy: 3→3→2
+@sources: s19 https://beteve.cat/historia/parc-guell-recupera-font-sarva/ (SEC, betevé 6 Apr 2021, V by FA 7 Nov 2026: "Aquest element, anterior a la construcció del recinte modernista"; hidden "al subsol de la Sala Hipòstila"; water from the hill's underground mines; "la gent de la Salut venia amb càntirs"; "també es canalitza fins a la deu de l'antiga masia Larrard"; 1913 analysis, magnesium; bottled, sold in pharmacies "durant una dècada"; visitable "des del setembre passat", CA) ; G65 https://ajuntament.barcelona.cat/turisme/sites/default/files/27._barcelona_destina_45_milions_al_park_guell_0.pdf (OFF, Ajuntament 2016, V by FA: "ubicada a la paret de tancament de la Sala Hipòstila", CA) ; op23 https://parkguell.barcelona/sites/default/files/notas/NdP%20CAT.pdf (OFF-op press release 14 Aug 2020, re-read 7 Nov 2026: "posar en valor l'espai de la Font Sarva, un àmbit que fins ara no era accessible", CA)
+@lang: es
+@translation: from the fact-checked English Park Güell 025 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] El hombre que pagó este parque también intentó vender su agua. En 1913, Eusebi Güell hizo analizar este manantial: tenía magnesio. Decidió embotellar el agua y venderla como medicinal. Durante unos diez años, según betevé, la emisora local de Barcelona, se vendió en las farmacias.
+
+El manantial es anterior a todo lo que Gaudí construyó aquí. Betevé lo llama, en catalán, "este elemento, más antiguo que el conjunto modernista". Su agua sale de galerías de la colina. Un aviso municipal de obras lo sitúa "en el muro de cierre de la Sala Hipóstila".
+
+Mucho antes del parque, los vecinos de La Salut, el barrio en torno a la colina, subían con cántaros por su agua. También bajaba canalizada hasta la antigua masía Larrard, luego casa de Güell.
+
+[pause] Luego quedó oculto durante años en el sótano de la sala. Las obras que terminaron en 2020 abrieron su pequeña estancia, un espacio que, en palabras del parque, "hasta ahora no había sido accesible".
+
+Al mirar dentro, imagine a los vecinos con sus cántaros, y las botellas de Güell alineadas en el estante de una farmacia.
+
+Luego siga el sentido único: salga y suba por el lado derecho de la sala, según se entra desde la escalinata, hasta los Jardines de Austria. Deténgase al entrar en los jardines: Los Jardines de Austria · Una parcela vacía.

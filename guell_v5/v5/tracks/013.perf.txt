@@ -3,7 +3,7 @@
 @room: The Middle Viaduct (Pont del Mig) · where it comes into view (Extra; if the path is open)
 @type: X
 @title: The Middle Viaduct · Extra · The carob bridge
-@where: A little higher up the open path from the Low Viaduct, where the Middle Viaduct, the Pont del Mig, comes into view with the carob trunk; do not go on past the works closure. [O5, ALT-M]
+@where: A little higher up the open path from the Low Viaduct, where the Middle Viaduct, the Pont del Mig, comes into view with the carob trunk; do not go on past the works closure.
 @what: The Middle Viaduct, "the carob bridge" (op12, F10.7; aj3 caption, V); the farm before the park: vines, olives and orchards, abandoned for poor access, low yields and phylloxera (es16, E48); the carob a survivor of the farm "perhaps" only (RA L4c: MUHBA's vegetation line lives in 031; op12 "natural growth… respected", FA N6: never "bent round"); DATED: the path higher up, to the High Viaduct, closed for works (op24, RA S2; its only home now, RA L4b).
 @listen: A road that bends round a tree, and the farm that grew on this hill before the park.
 @brief: A short, pleased aside on the way up; light and curious, matter-of-fact about the closure.

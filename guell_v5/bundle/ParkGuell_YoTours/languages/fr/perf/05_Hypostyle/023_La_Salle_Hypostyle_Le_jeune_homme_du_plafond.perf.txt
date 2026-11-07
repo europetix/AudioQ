@@ -1,0 +1,26 @@
+@id: 023 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Hypostyle Room · inside, under the small domes of the ceiling, away from the big discs
+@type: R
+@title: La Salle Hypostyle — Le jeune homme du plafond
+@where: Dans la Salle Hypostyle, sous l'une des petites coupoles du plafond, loin des quatre grands disques ronds, en regardant vers le haut.
+@what: Josep Maria Jujol (Tarragona 1879 – 1949), twenty-seven years younger than Gaudí (our arithmetic, 1852/1879); full collaboration with Gaudí 1904–1914 (s11, F4.1–F4.2; paraphrased, Duch not re-checked); the ceiling of small clay-brick domes by Gaudí, its tile-shard mosaics by Jujol (op8, FLYER, F7.13); the archive's credit for the bench's trencadís and the hall's panels, "with recycled material" (s10, F4.3); Jujol's son's line, paraphrased (s11, Q5, F4.5); Casa Milà: interior decoration and the running of the site (s10, F4.6, FA S10). No Suns (024); no Jujol quotation (G48).
+@listen: The colour over your head is not Gaudí's but his young assistant's, Josep Maria Jujol, and Gaudí trusted him more and more.
+@brief: A guide giving credit where it's due; light at the hook, clear on who did what, warm about Jujol.
+@pace: medium
+@energy: 3→3→4
+@sources: op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read 7 Nov 2026: the ceiling of small domes built from clay bricks, decorated with Jujol's broken-tile mosaics; FA V for "is formed of small domes constructed using the traditional technique of clay bricks" and "decorated with original tile-shard mosaics made by Josep M. Jujol", EN) ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read 7 Nov 2026: "pequeñas cúpulas construidas con la técnica de la bóveda catalana", "unos paneles circulares que proyectó el arquitecto Josep Maria Jujol", ES) ; s10 https://upcommons.upc.edu/bitstreams/92566456-85cc-4edd-9aa6-95f2856c4014/download (OFF, Càtedra Gaudí / UPC Fons Jujol, via FA V: Jujol "dissenya el colorit trencadís, del banc ondulat i els plafons de la sala hipòstila", "amb material reciclat"; Casa Milà "la decoració interior i en dirigí la construcció"; "forjats" avoided, FA S10, CA) ; s11 https://dialnet.unirioja.es/descarga/articulo/2420342.pdf (SEC, Duch 1999: blocked 7 Nov 2026, not retried; birth in Tarragona 1879 also on Enc. Cat., FA verified; "col·laboració plena" 1904–1914 and the son's line used as paraphrase without quotation marks)
+@lang: fr
+@translation: from the fact-checked English Park Güell 023 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] La couleur au-dessus de vous n'est pas de Gaudí. Elle est de son jeune assistant, Josep Maria Jujol. Jujol est né à Tarragone en 1879, vingt-sept ans après Gaudí. Joan Duch, qui l'a étudié, date leurs années de pleine collaboration de 1904 à 1914.
+
+Qui a fait quoi? Gaudí a construit la voûte. Selon le parc, le plafond «est formé de petites coupoles en briques d'argile, selon la technique traditionnelle». Elles étaient «décorées de mosaïques originales de tessons de céramique» de Jujol. Les archives de la Càtedra Gaudí, à la polytechnique de la ville, le disent en catalan. Jujol «dessine le trencadís coloré du banc ondulant et les panneaux de la salle hypostyle». Il les a faits, ajoutent-elles, «avec du matériau recyclé».
+
+[curious] Levez les yeux vers les coupoles les plus proches, et leurs panneaux de carreaux brisés. Suivez la couleur d'une coupole à l'autre.
+
+Le propre fils de Jujol, écrivant sur son père, a décrit leur collaboration en deux moitiés. Comme le cite Duch, en construction Gaudí a influencé Jujol, et en décoration Jujol a influencé Gaudí. Gaudí lui a gardé sa confiance. À la Casa Milà, il lui a confié la décoration intérieure et, disent les archives, la direction du chantier.
+
+[warmly] Retenez le nom de Jujol. Vous retrouverez sa main sur le banc.
+
+Placez-vous maintenant sous l'un des quatre grands disques ronds du plafond: La Salle Hypostyle · Quatre saisons en verre.

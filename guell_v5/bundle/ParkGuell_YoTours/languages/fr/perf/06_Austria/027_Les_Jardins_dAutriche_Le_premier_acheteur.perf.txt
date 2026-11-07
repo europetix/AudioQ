@@ -1,0 +1,28 @@
+@id: 027 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Austria Gardens
+@room: The Austria Gardens · near the middle, Casa Trias in view among the trees
+@type: R
+@title: Les Jardins d'Autriche — Le premier acheteur
+@where: Près du milieu des Jardins d'Autriche, d'où l'on voit, de l'autre côté, les maisons parmi les arbres plus haut. La Casa Trias est une maison privée, vue d'ici seulement.
+@what: Casa Trias: the plot sold to the lawyer Martí Trias i Domènech on 24 July 1902 (s3; F2.18), the estate's first buyer, "a friend of Güell" (op4); house by Juli Batllevell, 1903–1906 (op17; F2.19), "true to the style of his master" Domènech i Montaner (es27; E66); the lawyer and his wife Anna Maxenchs lived there in the first half of the twentieth century (es27; E66; C2); still a private residence owned by the same family (op17; F2.19); DATED: the city's compulsory purchase (G29); the works closure beyond Casa Trias is not spoken here: its one home is 013 (op24; F3.31; RA ed2 L4b). Callback 015 (Trias's plot; safe).
+@listen: The estate's first buyer was Güell's own lawyer, and his house is still in his family's hands.
+@brief: A guide in the gardens, factual and discreet about a private house, warm about the couple who made it a home.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read 7 Nov 2026: a copy of the plan "serví per a la venda del terreny al Sr. Trias el 24 de juliol del 1902", CA) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "The first person to buy a plot in the Park, in 1902, was a friend of Güell", EN) ; op17 https://parkguell.barcelona/en/park-guell/emblematic-features/trias-house (OFF-op, re-read 7 Nov 2026: "Owned by Martí Trias i Domènech, the lawyer for the Güell family"; "was built between 1903 and 1906"; "designed by Juli Batllevell i Arús"; "continues to be a private residence"; "is still owned by the same family"; descendants of the lawyer and Anna Maxenchs, EN) ; es27 https://www.timeout.es/barcelona/es/noticias/el-ayuntamiento-de-barcelona-quiere-expropiar-una-historica-casa-modernista-del-park-guell-070124 (SEC, Time Out Barcelona, 1 Jul 2024, re-read 7 Nov 2026: "fue el hogar del abogado Martí Trias y Anna Maxenchs, su mujer, durante la primera mitad del siglo XX"; "fiel al estilo de su maestro Domènech i Montaner" (the page spells the architect "Batllever"), ES) ; G29 https://www.idealista.com/ca/news/node/901355 (SEC, 12 Jun 2026, via FACTS G29; a search on 7 Nov 2026 found nothing newer: the expropriation is still pending) ; op24 https://parkguell.barcelona/en/disruptions (OFF-op, updated 2/11/2026, via FACTS F3.31: closed "from Casa Trias to the Upper Viaduct", EN)
+@lang: fr
+@translation: from the fact-checked English Park Güell 027 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Le premier acheteur du domaine était l'avocat de Güell lui-même. L'histoire du parc l'appelle simplement «un ami de Güell». À l'été 1902, a noté Bassegoda, une parcelle de cette colline a été vendue à Martí Trias i Domènech, l'avocat de la famille Güell.
+
+Sa maison a été dessinée par l'architecte Juli Batllevell, et bâtie dans les années suivantes. Le magazine Time Out la décrit en espagnol comme «fidèle au style de son maître», l'architecte moderniste Domènech i Montaner.
+
+[warmly] Et c'était un vrai foyer. Le même magazine dit que l'avocat et sa femme, Anna Maxenchs, y ont vécu pendant la première moitié du vingtième siècle. De tous les acheteurs espérés par Güell, ils furent parmi les très rares à venir, et à rester.
+
+Aujourd'hui, selon le parc, la maison «reste une résidence privée et appartient toujours à la même famille». La ville, elle, a engagé son expropriation.
+
+[pause] Levez les yeux à travers les arbres. Quelque part au-dessus de ces jardins se dresse la Casa Trias, la maison du premier acheteur du domaine.
+
+C'est une maison privée: nous la laissons en paix, et la regardons seulement d'ici.
+
+Restez ici et cherchez, parmi les arbres, la maison rose à la tour pointue: Les Jardins d'Autriche · La maison que Gaudí n'a pas dessinée.

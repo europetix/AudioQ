@@ -3,7 +3,7 @@
 @room: Anywhere just inside your gate (heard before you reach the start)
 @type: ANCHOR
 @title: Welcome to Park Güell
-@where: Play it anywhere just inside the gate you came in by, out of the way of the ticket check; it needs no view. The loop then starts on the entrance esplanade inside the Carrer d'Olot gate, between the two gatehouses. [O1, O2, O5, O9, O18, O21, O-map]
+@where: Play it anywhere just inside the gate you came in by, out of the way of the ticket check; it needs no view. The loop then starts on the entrance esplanade inside the Carrer d'Olot gate, between the two gatehouses.
 @what: Park Güell, Eusebi Güell's private garden-city estate on the Carmel hill, by Antoni Gaudí, works begun 1900, a public park since 1926 (aj1 Q3; op4 Q2; F1.9, F1.15, F3.1); the route in the official A–I order with the viaducts first (MAP; PLAN_V2 §1); practical lines (ACCREG 3.23, 2.11; FAQ; RESTRICT; MOB26; COMP); the three lengths (PLAN_V2 §3, Lead's decision 1); the three visitor gates (NODE268, ACCESS; RA M2 text).
 @listen: What Park Güell was meant to be, the route through it, the few rules that matter, and how to find the start from any gate.
 @brief: A warm, unhurried host greeting people just through the gate; clear and practical in the middle, inviting at the end.

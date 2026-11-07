@@ -3,7 +3,7 @@
 @room: The Nature Square · out in the open, away from the edge
 @type: W
 @title: The Nature Square — You're standing on the roof
-@where: Out in the open middle of the Nature Square, the great sandy square on top of the hall of columns, away from the tiled bench and the edge; stand where you can also see the long stone retaining wall against the hill. [O4, O16]
+@where: Out in the open middle of the Nature Square, the great sandy square on top of the hall of columns, away from the tiled bench and the edge; stand where you can also see the long stone retaining wall against the hill.
 @what: The Nature Square (Plaça de la Natura, the Greek Theatre of the first plans): artificial, part dug into the rock, part held up on the Hypostyle Room; planned for large open-air shows watched from the terraces around it (op9; F9.1–9.3); its sandy surface as the start of the rain's route, as a callback to 022 only (F8.2; the La Pedrera line lives in 022, RA ed2 L3e); waterproofing and the link to the cistern redone 2017–2019 (op31; F9.18b); a 2008 UPC doctoral thesis argues the park is a rainwater receiver built against erosion, with no document to prove it (G4); the retaining wall's palm-tree capitals (op9; F9.6). No view, no sea rule (036); no parties (033); no "eighty-six" (021).
 @listen: Why the great square is really a roof, a theatre and a rain catcher, and the thesis that the whole park is a rain machine.
 @brief: A guide out in the open with the listener, plain-spoken at the reveal, curious looking down at the ground, a dry smile at the rain.

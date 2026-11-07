@@ -3,7 +3,7 @@
 @room: The path above Casa Larrard · among the pines, just past the iron door (official H)
 @type: R
 @title: The path above Casa Larrard — Two thousand pines
-@where: On the path just past the old iron door at the corner of the Nature Square, among the pines above Casa Larrard; step to the edge so the one-way flow can pass. [O-map, O3, O27]
+@where: On the path just past the old iron door at the corner of the Nature Square, among the pines above Casa Larrard; step to the edge so the one-way flow can pass.
 @what: The trees and the war (the war's one home, PLAN §3): almost all the park's trees cut for firewood during the Civil War, two thousand conifers and other trees planted after it (s3, E43; never "hungry winters"; "much of the park's pinewood", never "these pines"); the path above Casa Larrard through a pine grove, leading on toward his home (op10, F10.13; the iron door is told in 037's cue only, RA ed2 L4f; FA ed2 N18); Storm Glòria, 2020: two old trees down near the Portico, the ceramic roof of the water mine to Casa Larrard broken, the paving restored June–August 2022 (WORKS10, F10.17).
 @listen: How a war nearly stripped this hill of its trees, how the pines came back, and what a storm did to two old trees beside the path.
 @brief: A guide on the path among the pines, quiet and plain about the war, then easier and practical about the storm, ending on the trees overhead.

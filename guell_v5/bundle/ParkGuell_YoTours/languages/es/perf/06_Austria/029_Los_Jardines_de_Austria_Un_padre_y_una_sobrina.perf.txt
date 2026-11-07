@@ -1,0 +1,26 @@
+@id: 029 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Austria Gardens
+@room: The Austria Gardens · the pink house still in view
+@type: R
+@title: Los Jardines de Austria — Un padre y una sobrina
+@where: En el mismo punto de los Jardines de Austria, con la casa rosa de la torre puntiaguda aún a la vista entre los árboles. Solo desde fuera.
+@what: Gaudí moved into the show house in 1906 with his father, Francesc Gaudí i Serra, and his niece Rosa, known as Roseta, daughter of his sister Rosa, brought up by her grandfather and uncle from early childhood (op4, op22; F3.6, F11.7; E65; C9); his father died in October 1906, his niece in 1912 (op22; F11.8; FA S9); Gaudí there "almost twenty years, from 1906 until a few months before his death" (G79); he left in November 1925 for a small study at the Sagrada Família (es25; E63; C8); partly, it is said, to be near the ailing sculptor Llorenç Matamala (es26; E64 HEDGE, single source). No causes of death; nothing on the niece's father (E65).
+@listen: Who shared Gaudí's house on this hill, how soon he was left alone in it, and why he finally went down to the Sagrada Família.
+@brief: Quiet and plain, close to the listener; short sentences at the deaths, a gentle warmth at the end.
+@pace: slow
+@energy: 2→2→2
+@sources: op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "Gaudí himself moved there in 1906 to live with his father and niece.", EN) ; op22 https://sagradafamilia.org/es/casa-museo-gaudi (OFF, former operator, re-read 7 Nov 2026: "Francesc Gaudí i Serra"; "Rosa Egea i Gaudí"; the father died in October 1906; the niece "en enero de 1912"; "En 1925, el arquitecto se trasladó al taller de la Sagrada Familia", ES) ; es26 https://bellesguardgaudi.com/en/wp-json/wp/v2/posts/189094 (SEC, Bellesguard, 24 Oct 2025, re-read 7 Nov 2026: his sister "left behind a three-year-old daughter, Roseta Egea i Gaudí"; "The child was then cared for by her grandfather Francesc and uncle Anton"; died "at the beginning of 1912 at the age of thirty-six"; in January 1925 Llorenç Matamala was left bedridden near the temple, and Gaudí moved to the workshop, "from where it was quicker to visit his ailing friend"; the father's desertion and the cause of death not used, E65, EN) ; G79 https://www.barcelona.cat/museuhistoria/sites/default/files/muhbabutllet20.pdf (OFF, Freixa & Leniz, MUHBA Butlletí 20, V by FA 7 Nov 2026: "gairebé vint anys, des del 1906 fins pocs mesos abans de la seva mort", CA) ; es25 https://blog.sagradafamilia.org/en/seguint-els-passos-dantoni-gaudi-a-barcelona/ (OFF, Diana Fernández, Blog Sagrada Família, 31 Jul 2026, re-read 7 Nov 2026: "In November 1925, he even left the house in Park Güell, where he had been living alone for some years"; "he lived in a small study, surrounded by plans and models"; "where he set up a simple bed to sleep on", EN)
+@lang: es
+@translation: from the fact-checked English Park Güell 029 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Gaudí no llegó solo a esta casa. "El propio Gaudí se trasladó allí en 1906", dice la historia del parque, "para vivir con su padre y su sobrina".
+
+Su padre era Francesc Gaudí i Serra. Su sobrina era Rosa, a la que en la familia llamaban Roseta. Era hija de la hermana de Gaudí, también Rosa, y desde pequeña la habían criado su abuelo y su tío. Así que en la casa vivían tres: un anciano, su hijo, y la sobrina que ambos habían criado.
+
+[pause] No duró. Su padre murió aquel octubre, a los pocos meses de la mudanza. Su sobrina murió en 1912.
+
+Gaudí se quedó solo. Los historiadores del parque lo cuentan, en catalán, como "casi veinte años, de 1906 hasta unos meses antes de su muerte". En noviembre de 1925 se marchó para siempre, a un pequeño estudio en la Sagrada Família. En parte, se dice, para estar más cerca de un amigo enfermo, el escultor Llorenç Matamala.
+
+Mire la casa una vez más. Durante la mayor parte de esos años, la habitó un solo hombre.
+
+Siga el recorrido hacia arriba por los jardines hasta una terraza desde donde se ve la ciudad: Los Jardines de Austria · Cuesta abajo cada mañana.

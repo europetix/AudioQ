@@ -1,0 +1,34 @@
+@id: 044 · ES · Park Güell · 7 Nov 2026 edition
+@section: The way out
+@room: The Carrer d'Olot gate · just inside, out of the flow
+@type: W
+@title: La puerta del Carrer d'Olot — El parque de los vecinos
+@where: Justo dentro de la puerta principal del Carrer d'Olot, a un lado, sin estorbar a quienes salen.
+@what: About nine million visits a year to the heart of the park, estimated in 2012 (aj8, F14.1); "regulated since 2013 to prevent tourist overcrowding" (op19, F3.26); one of the operator's two aims, "an urban park, a place for the community" (op18, FA N18); charging from Friday 25 October 2013 after neighbours complained of the crowds (es30, E72); the neighbourhood associations' manifesto against closing the park, undated and so untied from 2013 ("At one point": es32, E74; FA ed2 S4); "the iguana", 2015, Salvador Barrau of the Coll-Vallcarca residents' association (es31, E73, E112; callback 018, in all); DATED, one sentence each: the controls over all twelve hectares since 2020 (op18, op21, F3.27), free entry for neighbours (op18, F14.5), the 2025 figures (op21, F14.3, FA N18: "free visits"); works funded by the regulation's return (op23, F14.7, no sums); callback only to the Suns, the backrests and the dragon's foot (RA L4; 024, 034, 018 are in Full); "glue Gaudí back together" (F4.15). E75 out (Lead's decision 9); E76 not used (see notes).
+@listen: How the estate nobody bought became so crowded that the city had to start counting, and what the neighbours made of it.
+@brief: A guide by the gate at the end of the visit, conversational and clear with the numbers, fond of the neighbours, a little wry about the people who keep gluing it together.
+@pace: medium
+@energy: 3→3→3
+@sources: aj8 https://ajuntament.barcelona.cat/turisme/sites/default/files/5._barcelona_restaura_els_medallons_del_sostre_1.pdf (OFF, verified by FA and the ed1 re-read: "dels aproximadament 9.000.000 milions de visitants estimats l'any 2012", CA) ; op19 https://parkguell.barcelona/en/a-park-for-everone/why-are-the-access-points-regulated (OFF-op, re-read 7 Nov 2026: "Access to Park Güell has been regulated since 2013 to prevent tourist overcrowding.") ; op18 https://parkguell.barcelona/en/planning-your-visit/the-restricted-area (OFF-op, verified by FA and the ed1 re-read: "The ticket provides access to the 12 hectares of the Park."; local residents "benefit from free access every day of the year"; "the park has to remain an urban park, a place for the community and even a place for individual and collective memories.") ; es30 https://www.catalannews.com/life-style/item/barcelona-s-park-gueell-will-have-an-entrance-fee-from-friday (SEC, ACN, 23 Oct 2013, re-read 7 Nov 2026: "From Friday, 25th October 2013, people visiting Antoni Gaudí's monuments at the Park Güell will have to pay an entrance fee."; "Neighbours were complaining about these large crowds.") ; es32 https://ajuntament.barcelona.cat/ecologiaurbana/sites/default/files/mirades_del_verd_timeline.pdf (OFF, Ajuntament timeline, re-read 7 Nov 2026: "Les associacions Coll-Vallcarca, la Salut de Gràcia, comerciants Larrard-Parc Güell i la FAVB signen un manifest" against the closure; no date given, CA) ; es31 https://beteve.cat/general/guies-oficials-i-veins-diuen-que-el-parc-guell-ha-millorat-tot-i-temptar-ara-menys-els-barcelonins/ (SEC, betevé, 9 Jul 2015, re-read 7 Nov 2026: "Fa molts anys que no podia fotografiar la iguana."; said by Salvador Barrau, president of the Associació de Veïns Coll-Vallcarca, CA) ; op21 https://parkguell.barcelona/en/press-kit (OFF-op, verified by FA and the ed1 re-read: 2025, 4,369,157 paid; 553,945 free local-resident passes; model in force 1 July 2020) ; op23 https://parkguell.barcelona/sites/default/files/notas/NdP%20CAT.pdf (OFF-op, 14 Aug 2020, re-read 7 Nov 2026: works "han estat finançades pel retorn de la regulació turística del Park", CA)
+@lang: es
+@translation: from the fact-checked English Park Güell 044 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] La finca que nadie quiso comprar acabó siendo un lugar que casi todos querían ver. Antes de los límites, la ciudad estimaba unos nueve millones de visitas anuales al corazón del parque. Nueve millones, en la escalinata, la plaza y el banco que ha visto. Mire los dos pabellones, y la multitud entre ellos.
+
+Así que la ciudad empezó a contar. "El acceso al Park Güell está regulado desde 2013 para evitar la masificación turística", dice el parque. Uno de sus objetivos: que siga siendo "un parque urbano, un lugar para la comunidad".
+
+Los vecinos estuvieron en la historia desde el principio. Cuando empezó el cobro, en octubre de 2013, una agencia catalana de noticias contó que los vecinos se quejaban de las aglomeraciones. En un momento, las asociaciones vecinales firmaron incluso un manifiesto contra el cierre del parque. Dos años después, el presidente de una asociación vecinal dijo a una emisora local, en catalán: "Durante años no pude fotografiar la iguana." Se refería al dragón.
+
+Desde 2020, los controles abarcan las doce hectáreas del parque histórico.
+
+Los residentes en la ciudad, y sobre todo los vecinos, aún entran gratis.
+
+En 2025, el parque contó más de cuatro millones de visitantes de pago, y más de medio millón de visitas gratuitas de residentes.
+
+[pause] ¿Adónde va el dinero de tantas visitas? La nota de prensa del parque sobre una gran tanda de obras decía que "se han financiado con el retorno de la regulación turística del parque".
+
+[warmly] Y reparar es un trabajo manual, lento y paciente. Lo ha visto hoy: los Soles desmontados en piezas y recolocados, el banco fotografiado respaldo a respaldo, la pata reparada del dragón.
+
+[wry] Barcelona aún paga a gente para recomponer a Gaudí, pieza a pieza.
+
+Quédese junto a la puerta para la última parada: La puerta del Carrer d'Olot · Una urbanización fracasada.

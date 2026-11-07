@@ -1,0 +1,28 @@
+@id: 041 · ES · Park Güell · 7 Nov 2026 edition
+@section: Casa Larrard
+@room: Casa Larrard · at the foot of the spiral ramp, the house in view (outside only) (official I)
+@type: W
+@title: Casa Larrard — La masía de Güell
+@where: En el camino, al pie de la rampa en espiral, con la antigua masía de la Casa Larrard, hoy la escuela Baldiri Reixac, a la vista. No se salga del camino ni estorbe a la escuela.
+@what: Casa Larrard, "the stately farmhouse of the old Can Muntaner de Dalt estate" (op15, F2.4); the Larrard family, "a rich family of French origin, made rich by trade and banking", who sold to the Marquis of Marianao (s3, F2.5; callback 014, in E and F; FA S3 past tense); Güell's palace in the old city, built by Gaudí (op3, F1.9; G76); why he left it in 1907: the decayed streets and a situation "molt tensa" (es38, E82, C6; never "violent"); the farmhouse adapted for him by Gaudí (s3 "arranjada per Gaudí", C19; never "rebuilt"); "lived there until his death" (op15); Güell died in this house on 9 July 1918 (s1, op4, F3.11); Gaudí in the show house from 1906 (op4, F3.6; callback 028, in E and F). Outside only: a working school.
+@listen: Why the man who paid for the whole estate left his palace and lived out his life in an old farmhouse on his own hill.
+@brief: A guide on the path below the house, warm and a little rueful about Güell, discreet and low-voiced because children are at school here.
+@pace: medium
+@energy: 3→3→2
+@sources: op15 https://parkguell.barcelona/en/park-guell/emblematic-features/house-larrard (OFF-op, re-read 7 Nov 2026: "The Larrard House was the stately farmhouse of the old Can Muntaner de Dalt estate"; "Eusebi Güell outfitted it as his own residence and lived there until his death."; "became a municipal public school in 1931, with the name of Baldiri Reixac.") ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read 7 Nov 2026: the Larrards "una rica família d'orígen francés enriquida amb el comerç i la banca"; sold to Salvador de Samà i de Torrents, Marquis of Marianao; Güell lived in the old Casa Larrard, renovated by Gaudí ("arranjada per Gaudí", per FACTS_EXPANSION C19), CA) ; es38 https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/91089/6/13013.pdf.txt (OFF, MUHBA, La ciutat, el modernisme i Gaudí, 2010, re-read 7 Nov 2026: "El posterior deteriorament de l'entorn urbà del palau i la situació política i social, molt tensa," "van empènyer Güell a traslladar-se, el 1907,", CA) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "in 1907, Eusebi Güell converted the old mansion (Casa Larrard)"; "Eusebi Güell died at his house in 1918") ; op3 https://parkguell.barcelona/en/park-guell/gaudi-and-guell (OFF-op, via FACTS 1.9: the Palau Güell, 1886) ; s1 https://www.enciclopedia.cat/gran-enciclopedia-catalana/eusebi-guell-i-bacigalupi (SEC, via FACTS 1.1: died 9 Jul 1918; not re-read)
+@lang: es
+@translation: from the fact-checked English Park Güell 041 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+El hombre que pagó todo esto nunca se construyó una casa nueva. Eusebi Güell se instaló en una ya existente: "la señorial masía de la antigua finca de Can Muntaner de Dalt", como la llama el parque.
+
+Su otro nombre viene de un propietario anterior. Joan Bassegoda describió a los Larrard como "una familia rica de origen francés, enriquecida por el comercio y la banca". Los Larrard vendieron la propiedad al marqués de Marianao, el mismo que vendió a Güell la cima de esta colina.
+
+[curious] ¿Por qué un rico industrial dejaría un palacio por una masía? Güell tenía un palacio en el casco antiguo, construido para él por Gaudí. La guía del museo de historia de la ciudad da dos razones. Las calles en torno al palacio se habían degradado, y la situación política y social era, en catalán, "molt tensa", muy tensa. Así que en 1907 subió a la colina, a su propia finca.
+
+Gaudí adaptó para él la vieja masía. Mecenas y arquitecto eran ahora vecinos en la misma colina: Gaudí en la casa muestra rosa, Güell aquí abajo. En palabras del parque, Güell "vivió allí hasta su muerte". Eusebi Güell murió en esta casa el 9 de julio de 1918.
+
+[pause] Mírela desde aquí: una vieja casa de campo, más antigua que el parque que la rodea. De las casas de la finca en tiempos de Güell, la que él eligió era la más antigua. Hoy es una escuela en activo: esta guía se queda fuera, en el camino.
+
+Una masía para el hombre que construyó una ciudad jardín.
+
+Avance unos pasos por el camino, con la casa aún a la vista, y deténgase sin estorbar: Casa Larrard · Un palacio para un rey.

@@ -1,0 +1,26 @@
+@id: 007 · ES · Park Güell · 7 Nov 2026 edition
+@section: Inside the Casa del Guarda
+@room: Casa del Guarda · inside, on the ground floor (Extra)
+@type: X
+@title: Casa del Guarda · Extra · Las estancias del guarda
+@where: Dentro de la Casa del Guarda, en la planta baja. El primer párrafo se puede oír al entrar, y el resto de pie en las estancias, sin estorbar la escalera.
+@what: The caretaker's ground floor: "a small space, designed to be used by a humble family" (aj4, E19); vestibule, kitchen, pantry and living room (s6 p. 20, E12); two parabolic arches in the load-bearing walls, with no catenary gloss (s6 p. 23, E13; FA S8); lime plaster with natural pigments, each room's original colour recovered in the 1996–99 restoration (s6 p. 25, E16, F5.15); the floor's theme, the house, Gaudí's "architectural uniqueness" (es4, E5; DATED).
+@listen: What the caretaker's family had downstairs, and how much care went into a house for the humblest people on the estate.
+@brief: A quiet, appreciative aside inside a small house; unhurried, noticing details.
+@pace: medium-slow
+@energy: 2→3
+@sources: aj4 https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-park-guell (OFF, re-read 7 Nov 2026: "This small space, designed to be used by a humble family, shows great richness and compositional complexity") ; es4 https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2023-05/GuiaMUHBAEng.pdf (OFF, MUHBA Short Guide 2023, re-read 7 Nov: "one of Gaudí's few examples of modest housing"; the floors "talk respectively about the house, the park and the city"; the house floor on Gaudí's "architectural uniqueness"; caption "Interior of the ground floor at the Casa del Guarda with the stove on the right": not scripted, O23) ; s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov: p. 20 "vestíbulo, cocina, despensa y sala en planta baja"; p. 23 "dos arcos parabólicos"; p. 25 "un enfoscado de cal, enlucido y pintado con pigmentos naturales", "se pudo obtener el color original de cada espacio"; ES)
+@lang: es
+@translation: from the fact-checked English Park Güell 007 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Aunque es pequeña, esta casa se hizo con gran esmero. El museo de historia de la ciudad la describe como "un espacio pequeño, pensado para el uso de una familia humilde", y le atribuye "una gran riqueza y complejidad compositiva".
+
+Originalmente, esta planta tenía vestíbulo, cocina, despensa y sala de estar. Estancias cotidianas, para la vida cotidiana.
+
+Mire los vanos de los gruesos muros entre estancias. El estudio de restauración los describe como dos arcos parabólicos.
+
+Mire luego el color de las paredes: revoco de cal con pigmentos naturales. En la restauración de finales de la década de 1990 se estudiaron las capas de revoco y pintura, se halló el color original de cada estancia y se recuperó.
+
+El tema del museo para esta planta es la propia casa, y lo que muestra de la singularidad arquitectónica de Gaudí.
+
+Suba a la primera planta: Casa del Guarda · Extra · Cuatro dormitorios y un promotor.

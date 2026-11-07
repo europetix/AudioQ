@@ -1,0 +1,28 @@
+@id: 032 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · out in the open, away from the edge
+@type: W
+@title: La Plaza de la Naturaleza — Está usted sobre el tejado
+@where: En pleno centro abierto de la Plaza de la Naturaleza, la gran plaza de arena sobre la sala de columnas, lejos del banco de cerámica y del borde. Colóquese donde vea también el largo muro de contención de piedra contra la colina.
+@what: The Nature Square (Plaça de la Natura, the Greek Theatre of the first plans): artificial, part dug into the rock, part held up on the Hypostyle Room; planned for large open-air shows watched from the terraces around it (op9; F9.1–9.3); its sandy surface as the start of the rain's route, as a callback to 022 only (F8.2; the La Pedrera line lives in 022, RA ed2 L3e); waterproofing and the link to the cistern redone 2017–2019 (op31; F9.18b); a 2008 UPC doctoral thesis argues the park is a rainwater receiver built against erosion, with no document to prove it (G4); the retaining wall's palm-tree capitals (op9; F9.6). No view, no sea rule (036); no parties (033); no "eighty-six" (021).
+@listen: Why the great square is really a roof, a theatre and a rain catcher, and the thesis that the whole park is a rain machine.
+@brief: A guide out in the open with the listener, plain-spoken at the reveal, curious looking down at the ground, a dry smile at the rain.
+@pace: medium
+@energy: 3→4→3
+@sources: op9 https://parkguell.barcelona/en/park-guell/emblematic-features/greek-theatre (OFF-op, re-read 7 Nov 2026: "this large square is artificial"; "Part of it is dug into the rock"; "held up on top of the hypostyle room"; "rechristened as Plaça de la Natura"; "planned for staging large open-air shows that could be watched from the surrounding terraces"; "large capitals made to look like palm trees", EN) ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, Fundació Catalunya La Pedrera, V by FA 7 Nov 2026: "The square's sandy surface allows water to filter down into the cistern below", paraphrased, EN) ; op31 https://parkguell.barcelona/en/renovation-works-status/01-nature-square (OFF-op, via FACTS F9.18b: 2017–2019, the square's waterproofing and its rainwater link to the cistern, EN) ; G4 Claudio Lisias da Silva Bastos, "Park Güell: arquitectura conformada por el agua…", PhD thesis, UPC, 2008 (SEC, via FACTS_GAPS G4: "is a rainwater receiver destined to control the erosion"; the author notes the lack of direct documents; not re-read, no quotation used)
+@lang: es
+@translation: from the fact-checked English Park Güell 032 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Está usted sobre un tejado. "Esta gran plaza es artificial", admite el parque. Una parte está excavada en la roca de la colina. El resto "se sostiene sobre la sala hipóstila". Bajo sus pies está la sala del mercado, con su bosque de columnas.
+
+En los primeros planos, esta plaza era el Teatro Griego. Después fue "rebautizada como Plaça de la Natura", la Plaza de la Naturaleza. Se "pensó para acoger grandes espectáculos al aire libre que pudieran verse desde las terrazas de alrededor". Un teatro, pues, con las terrazas como gradas.
+
+[curious] Mire ahora el suelo. Es arena y grava, y es a propósito. Aquí empieza la lluvia su viaje por esas columnas que son bajantes. Entre 2017 y 2019 se rehicieron la impermeabilización de la plaza y su conexión con el depósito.
+
+[pause] Hay quien cree que la idea iba más lejos. La tesis doctoral de un arquitecto sostiene que todo el parque es una máquina de lluvia, hecha para frenar la erosión de la colina y devolverle los árboles. Su autor admite que ningún documento lo prueba. [wry] Es un argumento, no un hecho, pero quédese aquí bajo un aguacero y quizá le convenza.
+
+Luego busque el largo muro de contención que sujeta la colina. El parque dice que está rematado con "grandes capiteles con aspecto de palmeras". A ver si distingue uno.
+
+Un teatro sobre el tejado de un mercado.
+
+Quédese en el espacio abierto e imagine la plaza llena de gente: La Plaza de la Naturaleza · Fiestas en el jardín.

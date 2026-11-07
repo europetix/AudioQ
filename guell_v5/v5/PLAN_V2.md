@@ -458,7 +458,7 @@ Catalan for Catalan names, Castilian for Spanish. Stress in CAPS. **Eusebi is "e
 | barrio de la salud | BAR-ree-oh deh lah sah-LOOD | 014 |
 | Martí Trias i Domènech · Casa Trias · Anna Maxenchs · Sabadell | mur-TEE TREE-uss ee doo-MEN-ek · AN-nuh muh-SHENKS · suh-buh-DELL | 015 027 045 |
 | Juli Batllevell · Domènech i Montaner | ZHOO-lee bud-lyuh-VELL · doo-MEN-ek ee moon-tuh-NAY | 027 |
-| María-Belén García Ávila | mah-REE-ah beh-LEN gar-THEE-ah AH-vee-lah | 017 020 021 022 |
+| Manuel-Blas García Ávila | mah-NWEL BLAHS gar-THEE-ah AH-vee-lah | 017 020 021 022 |
 | Bayard Brattstrom · Martin Filler | BY-ard BRAT-strom · (English) | 019 |
 | Abel Vallhonesta | uh-BELL vuh-lyoo-NESS-tuh | 018 |
 | Sala Hipòstila · Cyrene | SAH-luh ee-POSS-tee-luh · sy-REE-nee | 021 · 020 |

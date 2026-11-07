@@ -3,7 +3,7 @@
 @room: Casa del Guarda · inside, on the top floor, under the dome (Extra)
 @type: X
 @title: Casa del Guarda · Extra · A stair round a chimney
-@where: Inside the Casa del Guarda, on the top floor under the dome, where the spiral stair to the lookout can be seen. Do not climb the stair unless it is open to visitors. [O23: is the stair open; cut the crosses or panel line if not seen; ALT-Q, ALT-Q2]
+@where: Inside the Casa del Guarda, on the top floor under the dome, where the spiral stair to the lookout can be seen. Do not climb the stair unless it is open to visitors.
 @what: The top floor: a spiral stair to the mirador whose inner brick cylinder is both the chimneys' smoke outlet and, with the stair's shaft, the support of the ceramic steps (s6 p. 24, E14); a Catalan dome of three layers of thin brick tied with a twisted metal strap (s6 p. 24, E15); "his use of the Catalan vault" (G-S26); the two attic windows that form crosses of porcelain (s6 p. 27, E16; FA N4); the floor's theme, the city (es4, E8; DATED); the panel "A portrait of monumental Barcelona in 1917" (es4 p. 47; G-S25; DATED).
 @listen: A stair held up by its own chimney, a dome of thin brick, and the city the exhibition sets the park in.
 @brief: A guide pointing upward in a small attic; curious and a little delighted by the engineering, then practical about the way on.

@@ -1,0 +1,28 @@
+@id: 037 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · at the bench, the hilltop in view
+@type: R
+@title: La Plaza de la Naturaleza — Tres cruces en lugar de una capilla
+@where: Todavía en el banco de cerámica de la Plaza de la Naturaleza, con la colina sobre el parque y las tres cruces de su cima a la vista.
+@what: The Turó de les Tres Creus, the park's highest point, about 180 m (op30, F14.9; never 210 m, E32), once "Ore Hill or the Hill of Mines and Caves" (op30); the estate's chapel, "Capelya" on the plan of the 1903 visit (G42, Andruet), lobed like a six-petalled flower about 30 m across (s3, E38); Bonaventura Bassegoda in the Diario de Barcelona, 1903, in indirect speech (s3, G52; FA M1, RA L7); the chapel never built and the Calvary instead (s3 "s'hagué d'abandonar la construcció de la capella", F12.7; FA ed2 S7: never "never begun"), "which simulated the Calvary" (op30), finished by 1905 (s3, F3.5), eighteen symbolic steps, the middle cross 2 m (s3, E40); destroyed July 1936, rebuilt after the war, not exactly as before (s3, E41, C10); Gaudí's glazed window and the hill he "wanted always to have in view" (s3, E42, C5). Callback to the pink house (028: in E and F).
+@listen: The chapel Gaudí planned for the hilltop, the three crosses that took its place, and the hill he kept in view from his window.
+@brief: A guide at the bench looking up at the hill with the listener, curious and storytelling, plain and agentless at 1936, with a small warm turn at Gaudí's window.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: op30 https://parkguell.barcelona/en/park-guell/emblematic-features/three-crosses (OFF-op, verified by FA and the ed1 re-read of 6 Nov 2026: "at 182.30 metres above sea level"; "Ore Hill or the Hill of Mines and Caves"; "which simulated the Calvary") ; G-S20 https://fundacionantoniogaudi.org/Publicaciones/los-planos-de-gaudi-del-park-guell-y-la-casa-batllo.pdf (SEC, Andruet, verified by FA 7 Nov 2026: "una silueta lobulada que se designaba como "Capelya"", on the plan of the 1903 visit, ES) ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read 7 Nov 2026: chapel "de forma lobulada com una flor de sis pètals inscrita en un cercle de trenta metres de diàmetre"; "la venda de solars no anava endavant i s'hagué d'abandonar la construcció de la capella"; Bonaventura Bassegoda i Amigó, Diario de Barcelona, 14 Jan 1903, chapel sentence in indirect speech, no quotation marks: spoken as indirect speech, CA paraphrase of an ES article; "Aleshores es decidí la construcció del Calvari en lloc de la capella"; "Els divuit graons simbòlics permeten arribar a la plataforma superior on hi ha les tres creus"; central cross 2 m; 1905 photo of the finished Calvary; crosses destroyed July 1936, rebuilt "no amb les formes exactes", the text giving 1940, the abstract 1941 and a municipal report Jan 1939 – Jan 1941; the cristallera and the hill "que Gaudí volia tenir sempre a la vista", CA)
+@lang: es
+@translation: from the fact-checked English Park Güell 037 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] La colina que está mirando es el punto más alto del parque, a unos ciento ochenta metros de altitud: el Turó de les Tres Creus, la colina de las tres cruces. Según el parque, antes se llamaba "colina del Mineral, o de las Minas y las Cuevas".
+
+Allí arriba debía alzarse una capilla. En un plano de 1903 se conserva su contorno, rotulado "Capelya", lobulado como una flor de seis pétalos. Ese mismo año, un arquitecto de la época, Bonaventura Bassegoda, escribió sobre ella en un periódico, el Diario de Barcelona. La capilla, escribió, protegería a toda la colonia, mirándola desde lo alto.
+
+[pause] Nunca se construyó: las parcelas no se vendieron. Una historia de la colina dice, en catalán: "entonces se decidió construir el Calvario en lugar de la capilla." En 1905, tres cruces de piedra tosca se alzaban sobre un montículo, al que subían dieciocho escalones simbólicos. Búsquelas ahora contra el cielo.
+
+En julio de 1936, al empezar la Guerra Civil, las cruces fueron destruidas. Tras la guerra se reconstruyeron, no exactamente como antes.
+
+[warmly] Desde una ventana acristalada de la casa rosa, Gaudí podía verlas en lo alto. La misma historia la llama la colina "que Gaudí quería tener siempre a la vista".
+
+Donde debía estar la capilla, tres cruces.
+
+Eche una última mirada: cuando deje la plaza, no podrá volver. Busque la vieja puerta de hierro en la esquina de la plaza que queda a su derecha, mirando hacia fuera por encima del banco. Antes daba a los jardines de la Casa Larrard. Crúcela y deténgase entre los pinos, en el camino de detrás: El camino sobre la Casa Larrard · Dos mil pinos.

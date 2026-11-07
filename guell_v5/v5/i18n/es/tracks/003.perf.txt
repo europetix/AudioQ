@@ -1,0 +1,30 @@
+@id: 003 · ES · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: The Carrer d'Olot gate · just inside, to one side of the palm-leaf iron gates
+@type: W
+@title: La puerta del Carrer d'Olot — Un escaparate de guantería
+@where: Justo dentro de la puerta principal del Carrer d'Olot, a un lado de las puertas de hierro con hojas de palmera, sin estorbar a quienes salen.
+@what: The 1878 glove-shop display case for Esteve Comella (op3, F1.8); Eusebi Güell's family, studies, textile and cement firms, politics and microbiology book (s1, F1.1–F1.6); the Palau Güell (1886) and the park (1900) (op3, F1.9); "a real story of friendship" (op3, Q1); the palm-leaf gates from Casa Vicens (op6, F5.3; no date, F15.38).
+@listen: How a glove shop's window began a lifelong partnership, who Güell was, and where the iron gates really came from.
+@brief: A guide at the gate, introducing the patron like an intriguing guest; curious at the hook, lightly amused at the microbiology book, light at the payoff.
+@pace: medium
+@energy: 3→3→3
+@sources: op3 https://parkguell.barcelona/en/park-guell/gaudi-and-guell (OFF-op; "began when Güell saw a window display that Gaudí had planned for glove retailer Esteve Comella", Paris 1878; Palau Güell 1886; park 1900; "not simply that of an artist and his patron, but a real story of friendship": V, facts audit 7 Nov 2026) ; s1 https://www.enciclopedia.cat/gran-enciclopedia-catalana/eusebi-guell-i-bacigalupi (SEC; son of Joan Güell i Ferrer; studied in Barcelona, France and England; cloth works with Ferran Alsina that became the Colònia Güell; Asland, the first Portland cement plants in Catalonia, 1901 and 1916; councillor, senator, president of the Centre Català; a microbiology book published in Paris: V, facts audit 7 Nov) ; op6 https://parkguell.barcelona/en/park-guell/emblematic-features/entrance-pavilions (OFF-op, re-read 7 Nov: "The iron gates, designed in the shape of palm leaves, do not form part of the original plan, but came from Casa Vicens."; no year, not called Gaudí's first house)
+@lang: es
+@translation: from the fact-checked English Park Güell 003 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Todo empezó con un escaparate. En la Exposición de París de 1878, Eusebi Güell vio una vitrina que Gaudí había hecho para una guantería, la de Esteve Comella. La historia del parque dice que la relación "empezó cuando Güell vio un escaparate que Gaudí había proyectado" para esa guantería.
+
+Güell nació en Barcelona, hijo de Joan Güell i Ferrer. Estudió allí, en Francia y en Inglaterra. Con Ferran Alsina levantó la fábrica de tejidos que se convirtió en la Colònia Güell, su colonia industrial. Luego llegó el cemento. Su empresa Asland abrió algunas de las primeras fábricas de cemento Portland de Cataluña. El cemento de Güell ayudó a construir la ciudad del siglo veinte.
+
+Fue concejal, luego senador, y presidente del Centre Català. [amused] Y este barón textil escribió además un libro de microbiología, en francés, publicado en París.
+
+En 1886 Güell encargó a Gaudí su nueva casa en el casco antiguo, el Palau Güell. En 1900 le dio esta colina para proyectarla. La misma historia llama a su vínculo "no simplemente el de un artista y su mecenas, sino una verdadera historia de amistad".
+
+[pause] Mire ahora las puertas que tiene al lado. Su hierro tiene forma de hojas de palmera, y no se hicieron para el parque en absoluto. La página del parque sobre esta entrada dice que "no forman parte del proyecto original, sino que proceden de la Casa Vicens". Era una casa que Gaudí había construido en la ciudad años antes.
+
+Busque una sola hoja en la forja y sígala desde el tallo hasta las puntas.
+
+[lightly] Una relación que empezó en un escaparate, y una puerta que empezó en otro lugar. Hasta la entrada es un trasplante.
+
+Ahora vuélvase hacia la escalinata. Busque un sitio entre los dos pabellones desde donde vea ambos tejados: la torre alta con su cruz a su izquierda, el otro pabellón a su derecha: La explanada de entrada · Restos de fábrica.

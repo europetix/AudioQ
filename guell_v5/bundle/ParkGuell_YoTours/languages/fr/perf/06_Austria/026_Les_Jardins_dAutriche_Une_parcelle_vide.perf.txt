@@ -1,0 +1,28 @@
+@id: 026 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Austria Gardens
+@room: The Austria Gardens · just inside the gardens
+@type: R
+@title: Les Jardins d'Autriche — Une parcelle vide
+@where: Juste à l'entrée des Jardins d'Autriche, les jardins en terrasses où mène le sens unique par le côté droit de la Salle Hypostyle. Tenez-vous sur le côté du chemin, les massifs en vue.
+@what: The Austria Gardens (Jardins d'Àustria): a zone of estate plots (op14; F11.2), then the municipal plant nursery after the park became public (op14; E81); named after a donation of trees from Austria in 1977 (op14; F11.1; C1: never "the Austrian government" in our voice); many of the donated high-altitude trees died, and in 2012 the lawns were replaced with flowering and aromatic plants (es16; E57; DATED, O26); "a completely different look to the rest of the park" (op14; E105); from the centre, the two houses built in Güell's time (op14; F11.3). Callback 015 (the sixty plots; safe).
+@listen: A garden that was meant to be a building plot, how it got its name, and why the beds you see are younger than the name.
+@brief: A guide pausing in a green space, a little wistful about empty plots, lightly amused at the homesick mountain trees.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: op14 https://parkguell.barcelona/en/park-guell/emblematic-features/austria-gardens (OFF-op, re-read 7 Nov 2026: "What we now know as the Austria Gardens was one of the zones to be used as plots in the estate."; "When the Park Güell was turned into a public park, however, the zone was used as a municipal plant nursery."; "it got its name through a donation of trees from Austria in 1977"; "This part of the precinct has a completely different look to the rest of the park"; "from its center the two houses that were built in Eusebi Güell's time can be seen", EN) ; es16 https://parkguell.barcelona/en/a-park-for-everone/nature-and-biodiversity (OFF-op, re-read 7 Nov 2026: "Many of them died, as they were high-altitude trees that could not adapt to the Mediterranean climate."; in 2012 "the lawns were removed and replaced by groups of plants with various blooming periods, aromatic plants, etc."; the page says the donation was "made by the Austrian government": not used, C1, EN) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "the zone to the left of the entrance was turned into a nursery of ornamental flowers for the City Council", E81; "left" not used, EN)
+@lang: fr
+@translation: from the fact-checked English Park Güell 026 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Ce jardin devait être la maison de quelqu'un. Ce qu'on appelle aujourd'hui les Jardins d'Autriche, dit le parc, «était l'une des zones destinées aux parcelles du domaine». Vous vous souvenez des soixante parcelles? Voici cette partie du domaine, sans maisons.
+
+Aucune maison n'a jamais vu le jour. Quand le domaine est devenu un parc public, la ville a fait de ce terrain une pépinière municipale. Son nom, les Jardins d'Àustria, vient d'«un don d'arbres d'Autriche en 1977».
+
+[lightly] Ces arbres ont souffert. Beaucoup sont morts. C'étaient des arbres de haute montagne, qui n'ont pas pu s'adapter au climat méditerranéen. Alors en 2012, les pelouses ont été retirées et remplacées par des plantes à fleurs et aromatiques.
+
+[pause] Regardez les massifs autour de vous. Ils datent de 2012, pas de 1977.
+
+Du milieu de ces jardins, dit la page du parc qui leur est consacrée, «on peut voir les deux maisons construites à l'époque d'Eusebi Güell».
+
+[warmly] Avant d'avancer, imaginez une maison ici même, parmi les arbres, avec son propre jardin autour.
+
+Avancez jusqu'au milieu des jardins, d'où vous les voyez d'un bout à l'autre, et cherchez une maison parmi les arbres, plus haut: Les Jardins d'Autriche · Le premier acheteur.

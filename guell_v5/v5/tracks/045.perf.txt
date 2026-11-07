@@ -3,7 +3,7 @@
 @room: The Carrer d'Olot gate · just inside, the stairway in view
 @type: CLOSE
 @title: The Carrer d'Olot gate — A failed estate
-@where: Just inside the main gate on Carrer d'Olot, out of the way of people leaving, with the great stairway in view. [O11, ALT-X]
+@where: Just inside the main gate on Carrer d'Olot, out of the way of people leaving, with the great stairway in view.
 @what: Close. A failed housing estate that became a triumph of a park (F15.2 safe wording): sixty plots, two houses (op4, F2.25). Version-neutral recap (RA L3, 43 words; H skips 041–043): Güell in Casa Larrard until his death in 1918 (op4, op15, F3.11); the city's purchase from his heirs and the opening in April 1926 (F3.13, F3.15); Gaudí's death that June (s31, F13.2). MUHBA: "a perfect symbiosis between urban planning, architecture and nature" (aj1, Q12, F1.17). The people: Jujol's colour on the bench and the ceiling (s10, F4.3, F4.4 safe wording), Berenguer, Gaudí's "right hand", drew the show house (op16, op22, F2.21, F4.7), the builders, an uncle and his nephew, not named in speech (s3, F4.11; RA ed2 L9), the caretaker (aj4, F5.6; no roof identifier, lead's note 7 Nov), the lawyer Martí Trias, first buyer (op4, F2.18; callback 015, in all). Callback 002: Park with a k (op4, F1.12). Goodbye: the Carrer d'Olot gate is the way out; no re-entry (FAQ). Cut: "In 2026 it turned a hundred" (RA N13).
 @listen: The whole story in one breath: the estate that failed, the people who made it, and the park it became.
 @brief: A guide saying goodbye at the gate, warm and unhurried, quiet for a moment at Gaudí's death, then grateful and plain.

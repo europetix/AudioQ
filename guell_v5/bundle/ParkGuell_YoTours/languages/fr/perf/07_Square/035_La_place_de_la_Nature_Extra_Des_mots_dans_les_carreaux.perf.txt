@@ -1,0 +1,24 @@
+@id: 035 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · at the bench (Extra)
+@type: X
+@title: La place de la Nature · Extra · Des mots dans les carreaux
+@where: Au banc de céramique qui borde la place de la Nature, assis s'il y a de la place, idéalement près du sommet arrondi du dossier, où des marques sont gravées dans la céramique.
+@what: Jujol's Marian inscriptions on the bench, their meaning "still argued over" (s21 calls it an enigma and offers its own answer, so never "an open question" in one study: FA ed2 S2; G49 corrected); Jujol's habit of crosses, Latin phrases, Marian invocations and psalms (s11; G47, his work in general; paraphrased: Duch blocked); the 1986 writings (G7) no longer spoken (RA ed2 N17); the restoration of the late 1980s and early 1990s (C7; E77; G13, G20): coping pieces with an original design probably by Jujol, inscriptions and symbols left out of the new tiles, each new piece engraved with the year it was made (E77; the year itself held until O16), new ceramics by Toni Cumella, the architects' "very precarious"; the 2016 dispute over how much is original and the city's reply (G63, G64; FA N12).
+@listen: The prayers Jujol hid in the bench, the restorers who refused to fake them, and the argument over how much of it is original.
+@brief: A guide leaning in on the bench, quietly conspiratorial about hidden words, fair-minded on the dispute.
+@pace: medium-slow
+@energy: 2→3
+@sources: G49 / s21 https://diposit.ub.edu/dspace/bitstream/2445/179272/1/705626.pdf (SEC-acad, Rius Santamaria, Matèria, via FACTS_GAPS G49: the meaning of the inscriptions "dedicated to Virgin Mary" treated as an open question; blocked 7 Nov 2026, so no year spoken) ; s11 https://dialnet.unirioja.es/descarga/articulo/2420342.pdf (SEC-acad, Duch 1999, p. 293, via FACTS_GAPS G47: "les creus, les frases llatines, les invocacions marianes i els salms s'entrellacen amb el color i la forma", CA; blocked 7 Nov 2026, paraphrased without quotation marks) ; G-S5 https://core.ac.uk/download/39126271.pdf (SEC, bibliography, via FACTS_GAPS G7: Jujol (fill), "Jujol at Park Güell", Sites 15, 1986; Ronald Christ on Jujol's inscriptions, same issue) ; G-S10 https://gaudiclub.com/ingles/i_links/rest2.htm (SEC, restorers' dossier in English translation, via FACTS_GAPS G20: design "probably by Jujol"; inscriptions and symbols left out of the new tiles; blocked 7 Nov 2026, paraphrased without quotation marks) ; es35 https://www.arquitecturacatalana.cat/en/works/intervencions-al-park-guell (SEC, COAC listing, Martínez Lapeña–Torres, re-read 7 Nov 2026: dates "1984 - 1993"; "Its condition before our intervention was very precarious."; "We decided to replace all the white cladding"; "the pieces freely executed by ceramist Toni Cumella"; the new pieces "are engraved with the date of the year in which they were made: 1992", EN) ; G-S11 https://www.gaudiclub.com/ingles/i_links/rest4.asp (SEC, Luis García Guillén, construction manager, re-read 7 Nov 2026: Cumella and "the fabrication of the white earthware for the bench"; the "21 hues" of white refer to the vaults, so not used here, EN) ; G-S30 https://beteve.cat/cultura/nomes-queda-un-20-del-mosaic-original-del-banc-de-gaudi-al-parc-guell/ (SEC, betevé 5 Oct 2016, V by FA 7 Nov 2026: 20 % claim; Figuerola: "per desídia o per males restauracions, o més que restauracions, reconstruccions"; the city's reply incl. the first works in the 1980s, CA)
+@lang: fr
+@translation: from the fact-checked English Park Güell 035 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Ce banc prie. Le sens des prières de ses carreaux fait encore débat.
+
+Selon une étude de l'œuvre de Jujol, croix, phrases latines, prières et psaumes y sont partout.
+
+Les restaurateurs de la fin des années 1980 et du début des années 1990 jugeaient son état «très précaire». Ils ont constaté que les pièces arrondies du sommet portaient un dessin d'origine, probablement de Jujol, avec gravures, inscriptions et symboles. Pour les nouveaux carreaux nécessaires, faits avec le céramiste Toni Cumella, ils ont refusé d'imiter sa main. Les nouvelles pièces n'ont reçu ni inscriptions ni symboles, et chacune porte gravée son année de fabrication. Parcourez le sommet des yeux: vous lisez deux mains, la sienne et la leur.
+
+[pause] Quelle part est d'origine? En 2016, des experts ont affirmé qu'un cinquième seulement de la mosaïque d'origine survit. L'organisateur d'un congrès Gaudí accusait, en catalan, «l'abandon, ou les mauvaises restaurations, ou plutôt que des restaurations, des reconstructions». La ville a répondu qu'elle ne remplace que les carreaux impossibles à restaurer, et que dans les années 1980, les blancs ont été renouvelés et les colorés restaurés.
+
+L'étape principale suivante est ici même. Debout près du banc, regardez la ville: La place de la Nature · La vue.

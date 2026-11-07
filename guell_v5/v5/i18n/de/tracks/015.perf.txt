@@ -1,6 +1,6 @@
 @id: 015 · DE · Park Güell · 7 Nov 2026 edition
 @section: The Dragon Stairway
-@room: The foot of the stairway · in the queue for the second control (standing; ALT-K)
+@room: The foot of the stairway · in the queue for the second control (standing; or just before the check if there is no queue)
 @type: W
 @title: Am Fuß der Treppe — Sechzig Parzellen, zwei Häuser
 @where: Noch in der Warteschlange für die zweite Ticketkontrolle am Fuß der großen Treppe, oder seitlich kurz davor, wenn es keine Warteschlange gibt. Bis zum letzten Absatz, der den Hinweis auf die Einbahnroute enthält, gibt es nichts zu sehen.

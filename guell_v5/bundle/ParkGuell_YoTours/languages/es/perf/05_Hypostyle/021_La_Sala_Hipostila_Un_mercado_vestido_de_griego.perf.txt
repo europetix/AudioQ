@@ -1,0 +1,30 @@
+@id: 021 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Hypostyle Room · outside, at the top of the stairway, the front columns in view (official D)
+@type: W
+@title: La Sala Hipóstila — Un mercado vestido de griego
+@where: Fuera de la Sala Hipóstila, en lo alto de la Escalinata del Dragón, donde se ve la hilera exterior de columnas gruesas y estriadas. Parada oficial D.
+@what: The Hypostyle Room (Sala Hipòstila), Gaudí, finished in the park's busiest building years (F7.12 HEDGE, no year): the estate's planned market (op8; F7.1, no frequency); 86 fluted Doric-inspired columns (op8, FLYER; F7.2; F15.15 corrected once): the home of the count (RA L15); about six metres, thick for their height (s20; F7.6 HEDGE; FA N8); the outer row leaning against the classical rules, like buttresses (op8, s20; F7.5); the 1986 report on settlement at the front (s20; F7.20); the long restoration of the late 1980s and early 1990s (E77, C7, dates HEDGE). Callback 015 (shared services; safe, FA N7).
+@listen: The temple at the top of the stairs was meant to be a market, and its front row breaks the Greek rules by leaning in.
+@brief: A guide at a grand façade, enjoying the joke that a temple was a market, then pointing out the tilt with quiet relish.
+@pace: medium
+@energy: 3→4→3
+@sources: op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read 7 Nov 2026: "could be used as a market place for the estate"; "86 striated columns inspired in the Doric order"; the outermost columns slope in an undulating movement, "clearly contrary to the rules of classical composition"; FA V; the op8 sentence continues ", while reinforcing a perception of their structural role", not quoted, FA N8) ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read 7 Nov 2026: "pensado inicialmente como mercado, con 86 columnas estriadas", ES) ; s20 https://revistes.ub.edu/index.php/aracne/article/download/42208/39309 (SEC-acad, García Ávila 2023, via FA V: "6,16 metros", diameter 1.20; outer columns "están fuertemente inclinadas hacia dentro de la sala", as buttresses; 1986 report, "un problema de asentamientos localizado en el frente de la Sala Hipóstila", part on rock and part not, ES) ; es35 https://www.arquitecturacatalana.cat/en/works/intervencions-al-park-guell (SEC, COAC, via FACTS_EXPANSION E77 and C7: the Martínez Lapeña–Torres restoration of the hall and square, "Its condition before our intervention was very precarious"; dates 1984–1993 vs 1987–1994, so spoken as "the late 1980s and early 1990s")
+@lang: es
+@translation: from the fact-checked English Park Güell 021 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Este templo griego se construyó para ser un mercado. El parque lo describe con modestia, como una sala "que podía usarse como mercado para la finca". Su nombre catalán es Sala Hipòstila, la sala de columnas. Los planos de las sesenta parcelas prometían servicios comunes, y un mercado era uno de ellos. Es este.
+
+La cifra oficial es exacta: "86 columnas estriadas inspiradas en el orden dórico". A las guías les encanta redondearla a cien. [lightly] La cifra real es ochenta y seis.
+
+Son columnas griegas, a la manera de Gaudí. Cada una está estriada, como la de un templo, y mide unos seis metros. Gruesas para su altura, parecen achaparradas.
+
+[pause] Luego, la ruptura de las reglas. Las exteriores, dice el parque, "se inclinan en un movimiento ondulante", algo "claramente contrario a las reglas de la composición clásica". El investigador Manuel-Blas García Ávila fue más tajante en 2023: están "fuertemente inclinadas hacia dentro de la sala". Funcionan como contrafuertes, empujando contra el peso que soportan.
+
+La fachada de esta sala ha tenido sus propios problemas. Al estudiarse la sala en 1986, un informe halló que la fachada estaba cediendo. Una parte se apoya en roca, y otra no. Su rescate llegó con una larga restauración a finales de la década de 1980 y principios de la de 1990.
+
+Esta sala se levantó en los años de más actividad de las obras, cuando la finca aún esperaba a sus compradores. Un mercado bajo el techo de un templo, construido antes de tener clientes.
+
+[warmly] Busque ahora un sitio desde donde vea de lado la hilera exterior. Siga una columna desde el pie hasta lo alto, y luego la siguiente. La inclinación es real, y soporta peso.
+
+Adéntrese entre las columnas. Deténgase donde vea a lo largo de uno de los pasillos más anchos, donde se suprimieron columnas: La Sala Hipóstila · Columnas que son bajantes.

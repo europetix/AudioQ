@@ -3,7 +3,7 @@
 @room: The Low Viaduct · in the shelter under the viaduct
 @type: R
 @title: The Low Viaduct — Caves dug for stone
-@where: In the covered shelter under the Low Viaduct, among the rough stone columns, standing to one side of anyone passing. [O5]
+@where: In the covered shelter under the Low Viaduct, among the rough stone columns, standing to one side of anyone passing.
 @what: The viaducts "simulate natural caves" (op12); the architects' visit of 4 Jan 1903, Gaudí "en representació del Sr. Güell", Salvador Sellés's memoir "prèviament supervisada per Gaudí" (s3 pp. 102, 104, G50); Bassegoda's Catalan retelling of Sellés on the caves, torchlight, the caves artificial and dug for stone (s3 p. 102, F2.16, G51; FA M2, S2, S3); the fossil cave of 1900 and its Pleistocene animals, now in the natural sciences museum (s3 pp. 100–102; es16, E45); destitute families in the caves after the war (s3 p. 103, E43).
 @listen: How a party of architects saw the hill's caves by torchlight in 1903, why the caves were there at all, and what else the diggers found.
 @brief: A guide in a shadowy shelter, sharing a story with relish; conspiratorial at the start, plain on the history, quiet for a line about the war's poor.

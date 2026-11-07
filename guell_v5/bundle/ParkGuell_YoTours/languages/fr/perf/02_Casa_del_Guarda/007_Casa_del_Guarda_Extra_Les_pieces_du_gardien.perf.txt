@@ -1,0 +1,26 @@
+@id: 007 · FR · Park Güell · 7 Nov 2026 edition
+@section: Inside the Casa del Guarda
+@room: Casa del Guarda · inside, on the ground floor (Extra)
+@type: X
+@title: Casa del Guarda · Extra · Les pièces du gardien
+@where: Dans la Casa del Guarda, au rez-de-chaussée. Le premier paragraphe peut s'écouter en entrant, le reste debout dans les pièces, à l'écart de l'escalier.
+@what: The caretaker's ground floor: "a small space, designed to be used by a humble family" (aj4, E19); vestibule, kitchen, pantry and living room (s6 p. 20, E12); two parabolic arches in the load-bearing walls, with no catenary gloss (s6 p. 23, E13; FA S8); lime plaster with natural pigments, each room's original colour recovered in the 1996–99 restoration (s6 p. 25, E16, F5.15); the floor's theme, the house, Gaudí's "architectural uniqueness" (es4, E5; DATED).
+@listen: What the caretaker's family had downstairs, and how much care went into a house for the humblest people on the estate.
+@brief: A quiet, appreciative aside inside a small house; unhurried, noticing details.
+@pace: medium-slow
+@energy: 2→3
+@sources: aj4 https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-park-guell (OFF, re-read 7 Nov 2026: "This small space, designed to be used by a humble family, shows great richness and compositional complexity") ; es4 https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2023-05/GuiaMUHBAEng.pdf (OFF, MUHBA Short Guide 2023, re-read 7 Nov: "one of Gaudí's few examples of modest housing"; the floors "talk respectively about the house, the park and the city"; the house floor on Gaudí's "architectural uniqueness"; caption "Interior of the ground floor at the Casa del Guarda with the stove on the right": not scripted, O23) ; s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov: p. 20 "vestíbulo, cocina, despensa y sala en planta baja"; p. 23 "dos arcos parabólicos"; p. 25 "un enfoscado de cal, enlucido y pintado con pigmentos naturales", "se pudo obtener el color original de cada espacio"; ES)
+@lang: fr
+@translation: from the fact-checked English Park Güell 007 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Toute petite qu'elle est, cette maison a été bâtie avec grand soin. Le musée municipal d'histoire la décrit comme «un petit espace, conçu pour une famille humble», et dit qu'elle montre «une grande richesse et complexité de composition».
+
+À l'origine, cet étage comptait un vestibule, une cuisine, un garde-manger et un salon. Des pièces ordinaires, pour la vie ordinaire.
+
+Regardez les ouvertures dans les murs épais entre les pièces. L'étude des restaurateurs les décrit comme deux arcs paraboliques.
+
+Puis regardez la couleur des murs: un enduit de chaux, peint de pigments naturels. Lors de la restauration de la fin des années 1990, les restaurateurs ont étudié les couches d'enduit et de peinture, retrouvé la couleur d'origine de chaque pièce, et l'ont rétablie.
+
+Ici, le thème du musée est la maison elle-même, et ce qu'elle révèle de la singularité architecturale de Gaudí.
+
+Montez au premier étage: Casa del Guarda · Extra · Quatre chambres et un promoteur.

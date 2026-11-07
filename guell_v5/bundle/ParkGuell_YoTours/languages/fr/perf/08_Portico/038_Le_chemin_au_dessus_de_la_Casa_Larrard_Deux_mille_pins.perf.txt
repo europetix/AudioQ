@@ -1,0 +1,26 @@
+@id: 038 · FR · Park Güell · 7 Nov 2026 edition
+@section: The Portico
+@room: The path above Casa Larrard · among the pines, just past the iron door (official H)
+@type: R
+@title: Le chemin au-dessus de la Casa Larrard — Deux mille pins
+@where: Sur le chemin juste après la vieille porte de fer à l'angle de la place de la Nature, parmi les pins au-dessus de la Casa Larrard. Mettez-vous au bord pour laisser passer le flux à sens unique.
+@what: The trees and the war (the war's one home, PLAN §3): almost all the park's trees cut for firewood during the Civil War, two thousand conifers and other trees planted after it (s3, E43; never "hungry winters"; "much of the park's pinewood", never "these pines"); the path above Casa Larrard through a pine grove, leading on toward his home (op10, F10.13; the iron door is told in 037's cue only, RA ed2 L4f; FA ed2 N18); Storm Glòria, 2020: two old trees down near the Portico, the ceramic roof of the water mine to Casa Larrard broken, the paving restored June–August 2022 (WORKS10, F10.17).
+@listen: How a war nearly stripped this hill of its trees, how the pines came back, and what a storm did to two old trees beside the path.
+@brief: A guide on the path among the pines, quiet and plain about the war, then easier and practical about the storm, ending on the trees overhead.
+@pace: medium-slow
+@energy: 2→2→3
+@sources: s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read 7 Nov 2026: during the Civil War almost all the park's trees were cut "per a fer llenya"; after it, "plantat dues mil coníferes i altres arbres", CA) ; op10 https://parkguell.barcelona/en/park-guell/emblematic-features/laundry-room-portico (OFF-op, verified by FA and the ed1 re-read of 6 Nov 2026: "an original iron door which leads to where there used to be the gardens of Casa Larrard"; "The route, which runs at a level higher than that of the house, passes through a pine grove") ; WORKS10 https://parkguell.barcelona/en/renovation-works-status/10-Restorations-pavements-Portico-Washerwoman (OFF-op, re-read 7 Nov 2026: "Storm Glòria of 2020 caused, among other incidents," the collapse of "two hundred-year-old trees located in the Portico of the Washerwoman's surroundings" (ambiguous: spoken "two old trees"); the roots "ripping up the ceramic pieces covering the roof of the water mine"; the mine "channelling it to the Casa Larrard"; works June – August 2022; the tunnel "fails to meet the conditions required to be opened up to visitors")
+@lang: fr
+@translation: from the fact-checked English Park Güell 038 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Quelques années durant, cette colline fut de nouveau presque nue. Pendant la guerre civile, presque tous les arbres du parc furent abattus pour le chauffage. La guerre finie, selon une histoire de la colline, la ville planta deux mille conifères et d'autres arbres. Une bonne part de la pinède du parc date d'après-guerre.
+
+Ce chemin traverse une pinède, au-dessus de la Casa Larrard. Il mène vers la maison même de Güell.
+
+[pause] Les arbres ont eu un siècle difficile. En 2020, la tempête Glòria a abattu deux vieux arbres près du portique suivant. Dans leur chute, leurs racines ont brisé le toit en céramique d'une ancienne mine d'eau, un tunnel étroit qui menait l'eau à la Casa Larrard. Le parc la dit très étroite, impropre à la visite. Le pavage autour du portique fut restauré deux ans plus tard.
+
+Levez les yeux vers les pins alentour, vers la lumière qui les traverse.
+
+Une guerre a pris presque tous les arbres de cette colline. Les pins sont revenus.
+
+Suivez le chemin jusqu'à un portique de pierre en forme de vague déferlante. Placez-vous dessous, sur le côté, pour laisser passer le flux à sens unique: Le Portique de la Lavandière · La vague.

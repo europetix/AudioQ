@@ -1,0 +1,26 @@
+@id: 006 · FR · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: Casa del Guarda · outside its door, the gatehouse without the tower
+@type: W
+@title: Casa del Guarda — Un logement modeste
+@where: Devant la porte de la Casa del Guarda, l'autre pavillon, celui sans tour, à droite face à l'escalier. Tenez-vous à l'écart de la porte et de toute file.
+@what: The Casa del Guarda, the caretaker's house, "a modest dwelling" (aj4, F5.6); an elliptical plan with two half-circles (s6 p. 23, F5.11, E13); La Pedrera's "mushroom-shaped dome", in the body only and attributed (s15; E103 HEDGE: s6 p. 23 puts its "sombrero en forma de seta" on the office pavilion; never used to find the house, which is found as the gatehouse without the tower, lead's decision 7 Nov); ground-floor walls 50 cm of stone from the park's old quarries (s6 p. 21, E99); private homes from the 1920s to the 1980s (s6, F5.14); the other pavilion a builders' hut (s6 p. 21, E102); restored at the end of the 1990s (F5.15); a MUHBA branch since 2010 (E1, G-S34); the exhibition and its three floors (aj4, F5.16, DATED).
+@listen: The one house on the hill built for a working man, what happened to it after the estate failed, and what the city museum shows inside.
+@brief: A guide at a doorway, fond of a small house that survived; curious at first, a little warmth at the end, then clear directions.
+@pace: medium
+@energy: 3→3→3
+@sources: aj4 https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-park-guell (OFF, re-read 7 Nov 2026: "an example of a modest dwelling built by Gaudí between 1901 and 1903", "which was to be the home of the caretaker of the residential estate"; exhibition "Güell, Gaudí and Barcelona, the expression of an urban ideal", "the house, the park and the city – one for each of the building's three floors") ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, re-read 7 Nov: "One of them, intended as the caretaker's residence, is crowned by a mushroom-shaped dome") ; s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov: p. 23 "una planta elíptica con dos semicírculos adosados en los extremos"; p. 21 walls "en planta baja, de 50 cm de grosor", stone "de las antiguas canteras del propio parque"; pp. 20–21 "sufrieron muchos cambios y mutilaciones"; p. 21 "se recupera el pabellón de conserjería para caseta de obra"; p. 23 the "sombrero en forma de seta" crowns the conserjería pavilion's vault (E103 conflict); ES) ; G-S34 MUHBA Butlletí 20 https://www.barcelona.cat/museuhistoria/sites/default/files/muhbabutllet20.pdf (OFF, via E1: reopened May 2010; said as "in 2010", not re-read)
+@lang: fr
+@translation: from the fact-checked English Park Güell 006 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] De tout ce que Gaudí a construit sur cette colline, c'est la seule maison faite pour un travailleur. Le musée municipal d'histoire l'appelle «un logement modeste». Elle devait loger le gardien du domaine, juste à côté de la porte qu'il gardait.
+
+Regardez sa forme. Le plan est un ovale: une ellipse, fermée à chaque bout par un demi-cercle. Sur son toit, la fondation La Pedrera voit une «coupole en forme de champignon».
+
+La maison est faite de la colline même. Au rez-de-chaussée, ses murs font un demi-mètre d'épaisseur, ont constaté les restaurateurs, en pierre des anciennes carrières du parc.
+
+Le domaine qu'elle gardait ne s'est jamais rempli. Des années 1920 aux années 1980, les deux pavillons ont été des logements privés, et ils ont «subi de nombreux changements et mutilations», selon l'étude des restaurateurs, en espagnol. Plus tard, l'autre a même servi de cabane de chantier. Cette maison a été restaurée à la fin des années 1990, et depuis 2010, le musée municipal d'histoire la gère.
+
+[pause] À l'intérieur, l'exposition du musée s'appelle «Güell, Gaudí et Barcelone, l'expression d'un idéal urbain». Un thème par étage: la maison, le parc et la ville.
+
+Si vous suivez la visite complète et pouvez entrer, trois courts Extras vous attendent à l'intérieur, un par étage. Commencez au rez-de-chaussée avec: Casa del Guarda · Extra · Les pièces du gardien. Sinon, l'étape principale suivante est plus haut, parmi les routes bâties en premier par Gaudí. Longez l'intérieur du mur, en dépassant cette maison, jusqu'à l'entrée de Marianao, sans sortir. Juste à l'intérieur, des marches et des rampes montent au Viaduc du Bas, le Pont de Baix. Arrêtez-vous dessus: Le Viaduc du Bas · Les routes avant les maisons.

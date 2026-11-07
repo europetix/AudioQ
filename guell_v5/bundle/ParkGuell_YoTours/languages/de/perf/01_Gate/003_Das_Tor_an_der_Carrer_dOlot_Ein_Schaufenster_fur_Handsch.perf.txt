@@ -1,0 +1,30 @@
+@id: 003 · DE · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: The Carrer d'Olot gate · just inside, to one side of the palm-leaf iron gates
+@type: W
+@title: Das Tor an der Carrer d'Olot — Ein Schaufenster für Handschuhe
+@where: Gleich innerhalb des Haupttors an der Carrer d'Olot, seitlich der Eisentore mit den Palmblättern, abseits der Hinausgehenden.
+@what: The 1878 glove-shop display case for Esteve Comella (op3, F1.8); Eusebi Güell's family, studies, textile and cement firms, politics and microbiology book (s1, F1.1–F1.6); the Palau Güell (1886) and the park (1900) (op3, F1.9); "a real story of friendship" (op3, Q1); the palm-leaf gates from Casa Vicens (op6, F5.3; no date, F15.38).
+@listen: How a glove shop's window began a lifelong partnership, who Güell was, and where the iron gates really came from.
+@brief: A guide at the gate, introducing the patron like an intriguing guest; curious at the hook, lightly amused at the microbiology book, light at the payoff.
+@pace: medium
+@energy: 3→3→3
+@sources: op3 https://parkguell.barcelona/en/park-guell/gaudi-and-guell (OFF-op; "began when Güell saw a window display that Gaudí had planned for glove retailer Esteve Comella", Paris 1878; Palau Güell 1886; park 1900; "not simply that of an artist and his patron, but a real story of friendship": V, facts audit 7 Nov 2026) ; s1 https://www.enciclopedia.cat/gran-enciclopedia-catalana/eusebi-guell-i-bacigalupi (SEC; son of Joan Güell i Ferrer; studied in Barcelona, France and England; cloth works with Ferran Alsina that became the Colònia Güell; Asland, the first Portland cement plants in Catalonia, 1901 and 1916; councillor, senator, president of the Centre Català; a microbiology book published in Paris: V, facts audit 7 Nov) ; op6 https://parkguell.barcelona/en/park-guell/emblematic-features/entrance-pavilions (OFF-op, re-read 7 Nov: "The iron gates, designed in the shape of palm leaves, do not form part of the original plan, but came from Casa Vicens."; no year, not called Gaudí's first house)
+@lang: de
+@translation: from the fact-checked English Park Güell 003 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Es begann mit einem Schaufenster. Auf der Pariser Weltausstellung von 1878 sah Eusebi Güell eine Vitrine, die Gaudí für einen Handschuhladen gestaltet hatte, den von Esteve Comella. Laut der Geschichte des Parks begann die Partnerschaft, „als Güell eine Schaufensterauslage sah, die Gaudí entworfen hatte“, für eben diesen Handschuhladen.
+
+Güell wurde in Barcelona geboren, als Sohn von Joan Güell i Ferrer. Er studierte dort, in Frankreich und in England. Mit Ferran Alsina baute er die Tuchfabrik auf, aus der die Colònia Güell wurde, sein Industriedorf. Dann kam der Zement. Seine Firma Asland eröffnete einige der ersten Portlandzementwerke Kataloniens. Güells Zement half, die Stadt des zwanzigsten Jahrhunderts zu bauen.
+
+Er war Stadtrat, dann Senator und Präsident des Centre Català. [amused] Und dieser Textilbaron schrieb auch ein Buch über Mikrobiologie, auf Französisch, erschienen in Paris.
+
+1886 bat Güell Gaudí, sein neues Haus in der Altstadt zu bauen, den Palau Güell. 1900 gab er ihm diesen Hügel zur Planung. Dieselbe Geschichte nennt die Verbindung zwischen ihnen „nicht einfach die zwischen einem Künstler und seinem Mäzen, sondern eine echte Geschichte der Freundschaft“.
+
+[pause] Sehen Sie sich jetzt die Tore neben Ihnen an. Ihr Eisen hat die Form von Palmblättern, und sie wurden gar nicht für den Park gemacht. Die Seite des Parks über diesen Eingang sagt, sie „gehören nicht zum ursprünglichen Plan, sondern stammen von der Casa Vicens“. Das war ein Haus, das Gaudí Jahre zuvor in der Stadt gebaut hatte.
+
+Suchen Sie sich ein einzelnes Blatt im Eisenwerk, und folgen Sie ihm vom Stiel bis zu den Spitzen.
+
+[lightly] Eine Partnerschaft, die in einem Schaufenster begann, und ein Tor, das anderswo begann. Sogar der Eingang ist verpflanzt.
+
+Drehen Sie sich jetzt wieder zur Treppe. Suchen Sie einen Platz zwischen den zwei Torhäusern, von dem aus Sie beide Dächer sehen: den hohen Turm mit seinem Kreuz zu Ihrer Linken, das andere Torhaus zu Ihrer Rechten: Der Eingangsvorplatz · Zweite Wahl.

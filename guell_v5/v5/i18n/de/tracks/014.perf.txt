@@ -1,6 +1,6 @@
 @id: 014 · DE · Park Güell · 7 Nov 2026 edition
 @section: The Dragon Stairway
-@room: The foot of the stairway · in the queue for the second control (standing; ALT-K: just before the control if there is no queue)
+@room: The foot of the stairway · in the queue for the second control (standing; or just before the check if there is no queue)
 @type: W
 @title: Am Fuß der Treppe — Das gesunde Viertel
 @where: In der Warteschlange für die zweite Ticketkontrolle, am Fuß der großen Treppe auf dem Eingangsvorplatz. Wenn es keine Warteschlange gibt, stellen Sie sich kurz vor der Kontrolle zur Seite. Bis zum letzten Absatz gibt es nichts zu sehen.

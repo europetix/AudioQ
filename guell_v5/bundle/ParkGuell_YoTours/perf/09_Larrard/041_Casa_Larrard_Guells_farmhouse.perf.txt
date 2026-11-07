@@ -3,7 +3,7 @@
 @room: Casa Larrard · at the foot of the spiral ramp, the house in view (outside only) (official I)
 @type: W
 @title: Casa Larrard — Güell's farmhouse
-@where: On the path at the foot of the spiral ramp, with the old farmhouse of Casa Larrard, now the Baldiri Reixac school, in view; stay on the path and out of the school's way. [O-map, O3, O11]
+@where: On the path at the foot of the spiral ramp, with the old farmhouse of Casa Larrard, now the Baldiri Reixac school, in view; stay on the path and out of the school's way.
 @what: Casa Larrard, "the stately farmhouse of the old Can Muntaner de Dalt estate" (op15, F2.4); the Larrard family, "a rich family of French origin, made rich by trade and banking", who sold to the Marquis of Marianao (s3, F2.5; callback 014, in E and F; FA S3 past tense); Güell's palace in the old city, built by Gaudí (op3, F1.9; G76); why he left it in 1907: the decayed streets and a situation "molt tensa" (es38, E82, C6; never "violent"); the farmhouse adapted for him by Gaudí (s3 "arranjada per Gaudí", C19; never "rebuilt"); "lived there until his death" (op15); Güell died in this house on 9 July 1918 (s1, op4, F3.11); Gaudí in the show house from 1906 (op4, F3.6; callback 028, in E and F). Outside only: a working school.
 @listen: Why the man who paid for the whole estate left his palace and lived out his life in an old farmhouse on his own hill.
 @brief: A guide on the path below the house, warm and a little rueful about Güell, discreet and low-voiced because children are at school here.

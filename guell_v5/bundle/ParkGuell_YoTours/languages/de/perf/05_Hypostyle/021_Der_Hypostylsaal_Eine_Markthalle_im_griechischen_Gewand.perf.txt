@@ -1,0 +1,30 @@
+@id: 021 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Hypostyle Room · outside, at the top of the stairway, the front columns in view (official D)
+@type: W
+@title: Der Hypostylsaal — Eine Markthalle im griechischen Gewand
+@where: Vor dem Hypostylsaal, oben an der Drachentreppe, wo Sie die äußere Reihe dicker, kannelierter Säulen der Halle sehen. Offizielle Station D.
+@what: The Hypostyle Room (Sala Hipòstila), Gaudí, finished in the park's busiest building years (F7.12 HEDGE, no year): the estate's planned market (op8; F7.1, no frequency); 86 fluted Doric-inspired columns (op8, FLYER; F7.2; F15.15 corrected once): the home of the count (RA L15); about six metres, thick for their height (s20; F7.6 HEDGE; FA N8); the outer row leaning against the classical rules, like buttresses (op8, s20; F7.5); the 1986 report on settlement at the front (s20; F7.20); the long restoration of the late 1980s and early 1990s (E77, C7, dates HEDGE). Callback 015 (shared services; safe, FA N7).
+@listen: The temple at the top of the stairs was meant to be a market, and its front row breaks the Greek rules by leaning in.
+@brief: A guide at a grand façade, enjoying the joke that a temple was a market, then pointing out the tilt with quiet relish.
+@pace: medium
+@energy: 3→4→3
+@sources: op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read 7 Nov 2026: "could be used as a market place for the estate"; "86 striated columns inspired in the Doric order"; the outermost columns slope in an undulating movement, "clearly contrary to the rules of classical composition"; FA V; the op8 sentence continues ", while reinforcing a perception of their structural role", not quoted, FA N8) ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read 7 Nov 2026: "pensado inicialmente como mercado, con 86 columnas estriadas", ES) ; s20 https://revistes.ub.edu/index.php/aracne/article/download/42208/39309 (SEC-acad, García Ávila 2023, via FA V: "6,16 metros", diameter 1.20; outer columns "están fuertemente inclinadas hacia dentro de la sala", as buttresses; 1986 report, "un problema de asentamientos localizado en el frente de la Sala Hipóstila", part on rock and part not, ES) ; es35 https://www.arquitecturacatalana.cat/en/works/intervencions-al-park-guell (SEC, COAC, via FACTS_EXPANSION E77 and C7: the Martínez Lapeña–Torres restoration of the hall and square, "Its condition before our intervention was very precarious"; dates 1984–1993 vs 1987–1994, so spoken as "the late 1980s and early 1990s")
+@lang: de
+@translation: from the fact-checked English Park Güell 021 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Dieser griechische Tempel wurde als Markt gebaut. Der Park beschreibt ihn bescheiden als Halle, „die als Marktplatz für die Siedlung dienen konnte“. Ihr katalanischer Name ist Sala Hipòstila, die Säulenhalle. Die Pläne für die sechzig Parzellen versprachen gemeinsame Einrichtungen, und ein Markt war eine davon. Das ist er.
+
+Die offizielle Zählung ist genau: „86 kannelierte Säulen nach dem Vorbild der dorischen Ordnung“. Reiseführer runden das gern auf hundert auf. [lightly] Die echte Zahl ist sechsundachtzig.
+
+Es sind griechische Säulen, auf Gaudís Art. Jede ist kanneliert, wie eine Tempelsäule, und jede ist etwa sechs Meter hoch. Dick für ihre Höhe, wirken sie gedrungen.
+
+[pause] Dann kommt der Regelbruch. Die äußeren, sagt der Park, „neigen sich in einer wellenförmigen Bewegung“, was „eindeutig den Regeln der klassischen Komposition widerspricht“. Der Forscher Manuel-Blas García Ávila, die 2023 auf Spanisch schrieb, drückte es deutlicher aus: Sie „neigen sich stark in die Halle hinein“. Sie wirken wie Strebepfeiler und drücken gegen das Gewicht über ihnen.
+
+Die Front dieser Halle hatte eigene Probleme. Als die Halle 1986 untersucht wurde, stellte ein Bericht fest, dass sich ihre Front senkte. Ein Teil davon steht auf Fels, ein Teil nicht. Ihre Rettung kam mit einer langen Restaurierung Ende der 1980er- und Anfang der 1990er-Jahre.
+
+Diese Halle entstand in den geschäftigsten Jahren der Arbeiten, als die Siedlung ihre Käufer noch erwartete. Ein Markt unter einem Tempeldach, gebaut, bevor seine Kundschaft kam.
+
+[warmly] Suchen Sie jetzt eine Stelle, von der aus Sie die äußere Reihe von der Seite sehen. Folgen Sie einer Säule vom Fuß bis oben, und dann der nächsten. Die Neigung ist echt, und sie trägt Gewicht.
+
+Gehen Sie zwischen die Säulen hinein. Bleiben Sie stehen, wo Sie einen der breiteren Gänge hinunterblicken können, wo Säulen weggelassen wurden: Der Hypostylsaal · Säulen als Fallrohre.

@@ -3,7 +3,7 @@
 @room: Casa del Guarda · inside, on the ground floor (Extra)
 @type: X
 @title: Casa del Guarda · Extra · The caretaker's rooms
-@where: Inside the Casa del Guarda, on the ground floor; the first paragraph can be heard as you go in, and the rest standing in the rooms, clear of the stairs. [O23: cut the arches or colours line if not seen; ALT-Q, ALT-Q2]
+@where: Inside the Casa del Guarda, on the ground floor; the first paragraph can be heard as you go in, and the rest standing in the rooms, clear of the stairs.
 @what: The caretaker's ground floor: "a small space, designed to be used by a humble family" (aj4, E19); vestibule, kitchen, pantry and living room (s6 p. 20, E12); two parabolic arches in the load-bearing walls, with no catenary gloss (s6 p. 23, E13; FA S8); lime plaster with natural pigments, each room's original colour recovered in the 1996–99 restoration (s6 p. 25, E16, F5.15); the floor's theme, the house, Gaudí's "architectural uniqueness" (es4, E5; DATED).
 @listen: What the caretaker's family had downstairs, and how much care went into a house for the humblest people on the estate.
 @brief: A quiet, appreciative aside inside a small house; unhurried, noticing details.

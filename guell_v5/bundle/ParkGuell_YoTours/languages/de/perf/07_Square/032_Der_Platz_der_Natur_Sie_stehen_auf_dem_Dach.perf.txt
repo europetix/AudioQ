@@ -1,0 +1,28 @@
+@id: 032 · DE · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · out in the open, away from the edge
+@type: W
+@title: Der Platz der Natur — Sie stehen auf dem Dach
+@where: Draußen in der offenen Mitte des Platzes der Natur, des großen sandigen Platzes auf der Säulenhalle, weg von der gefliesten Bank und vom Rand. Stellen Sie sich so, dass Sie auch die lange steinerne Stützmauer am Hang sehen.
+@what: The Nature Square (Plaça de la Natura, the Greek Theatre of the first plans): artificial, part dug into the rock, part held up on the Hypostyle Room; planned for large open-air shows watched from the terraces around it (op9; F9.1–9.3); its sandy surface as the start of the rain's route, as a callback to 022 only (F8.2; the La Pedrera line lives in 022, RA ed2 L3e); waterproofing and the link to the cistern redone 2017–2019 (op31; F9.18b); a 2008 UPC doctoral thesis argues the park is a rainwater receiver built against erosion, with no document to prove it (G4); the retaining wall's palm-tree capitals (op9; F9.6). No view, no sea rule (036); no parties (033); no "eighty-six" (021).
+@listen: Why the great square is really a roof, a theatre and a rain catcher, and the thesis that the whole park is a rain machine.
+@brief: A guide out in the open with the listener, plain-spoken at the reveal, curious looking down at the ground, a dry smile at the rain.
+@pace: medium
+@energy: 3→4→3
+@sources: op9 https://parkguell.barcelona/en/park-guell/emblematic-features/greek-theatre (OFF-op, re-read 7 Nov 2026: "this large square is artificial"; "Part of it is dug into the rock"; "held up on top of the hypostyle room"; "rechristened as Plaça de la Natura"; "planned for staging large open-air shows that could be watched from the surrounding terraces"; "large capitals made to look like palm trees", EN) ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, Fundació Catalunya La Pedrera, V by FA 7 Nov 2026: "The square's sandy surface allows water to filter down into the cistern below", paraphrased, EN) ; op31 https://parkguell.barcelona/en/renovation-works-status/01-nature-square (OFF-op, via FACTS F9.18b: 2017–2019, the square's waterproofing and its rainwater link to the cistern, EN) ; G4 Claudio Lisias da Silva Bastos, "Park Güell: arquitectura conformada por el agua…", PhD thesis, UPC, 2008 (SEC, via FACTS_GAPS G4: "is a rainwater receiver destined to control the erosion"; the author notes the lack of direct documents; not re-read, no quotation used)
+@lang: de
+@translation: from the fact-checked English Park Güell 032 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Sie stehen auf einem Dach. „Dieser große Platz ist künstlich“, räumt der Park ein. Ein Teil ist in den Fels des Hügels gegraben. Der Rest „ruht auf dem Hypostylsaal“. Unter Ihren Füßen liegt die Markthalle mit ihrem Wald aus Säulen.
+
+Auf den ersten Plänen war dies das Griechische Theater. Später wurde es „in Plaça de la Natura umbenannt“, den Platz der Natur. Er war „für große Freiluftaufführungen geplant, die man von den umliegenden Terrassen aus verfolgen konnte“. Ein Theater also, mit den Terrassen ringsum als Sitzplätzen.
+
+[curious] Schauen Sie jetzt auf den Boden. Er ist aus Sand und Kies, und das mit Absicht. Hier beginnt der Regen seine Reise hinunter durch die Säulen, die Fallrohre sind. Zwischen 2017 und 2019 wurden die Abdichtung des Platzes und seine Verbindung zum Tank erneuert.
+
+[pause] Manche glauben, die Idee ging weiter. Die Doktorarbeit eines Architekten vertritt die These, dass der ganze Park eine Regenmaschine ist, gebaut, um zu verhindern, dass der Hügel weggeschwemmt wird, und um die Bäume zurückzubringen. Ihr Autor räumt ein, dass kein Dokument das beweist. [wry] Es ist eine These, keine Tatsache, aber stehen Sie hier einmal im Wolkenbruch, und Sie lassen sich vielleicht überzeugen.
+
+Dann suchen Sie die lange Stützmauer, die den Hügel zurückhält. Der Park sagt, sie ist mit „großen Kapitellen in Form von Palmen“ abgeschlossen. Schauen Sie, ob Sie eines entdecken.
+
+Ein Theater auf dem Dach eines Marktes.
+
+Bleiben Sie im Freien, und stellen Sie sich den Platz voller Menschen vor: Der Platz der Natur · Gartenfeste.

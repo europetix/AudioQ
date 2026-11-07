@@ -1,0 +1,28 @@
+@id: 004 · ES · Park Güell · 7 Nov 2026 edition
+@section: The gate
+@room: The entrance esplanade · between the two pavilions, both roofs in view
+@type: W
+@title: La explanada de entrada — Restos de fábrica
+@where: En la explanada de entrada, entre los dos pabellones, donde se ven ambos tejados: la torre alta con su cruz a la izquierda mirando hacia la escalinata, el otro pabellón a la derecha.
+@what: The two entrance pavilions, the Porter's Lodge pair (op6, F5.4–5.5): the office "with a waiting room and telephone booth", and the caretaker's home, today MUHBA's Casa del Guarda (E1); among the first things built (F5.7 HEDGE); trencadís from factory seconds (s6 p. 26, F5.13) in more than ten whites (s6 p. 26, E100); trencadís history (s24, F15.20); the 1904 plans without the mushroom ventilators (Andruet, G41, G61 HEDGE; E103: no house named); the Hansel and Gretel legend (F5.17 LEGEND, G58, G59 HEDGE; s16 re-read, E60).
+@listen: Two gatehouses dressed in factory rejects, mushrooms that came later, and the fairy tale everyone tells about them.
+@brief: A guide sharing the secrets behind the most photographed roofs on the hill; lively, a light turn at the legend, honest at its verdict.
+@pace: medium
+@energy: 3→4→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov 2026: p. 26 "procedía mayoritariamente de depósitos sobrantes y defectuosos de fábricas de cerámica"; white trencadís "se detectaron más de diez tonos distintos", ES) ; s24 https://bop.unibe.ch/manazir/article/download/8389/11351 (SEC-acad; tile cladding in Catalonia and Valencia since the Middle Ages; "In the Güell Pavilions, Gaudí used for the first time the trencadís": V, facts audit 7 Nov) ; op6 https://parkguell.barcelona/en/park-guell/emblematic-features/entrance-pavilions (OFF-op, re-read 7 Nov: "the two pavilions that form the Porter's Lodge"; the left one "was the one actually used as a Porter's Lodge, with a waiting room and telephone booth"; the right one today part of the Barcelona History Museum) ; aj4 https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-park-guell (OFF, re-read 7 Nov: the Casa del Guarda "is now part of the Museum") ; G41/G61 Andruet https://fundacionantoniogaudi.org/Publicaciones/los-planos-de-gaudi-del-park-guell-y-la-casa-batllo.pdf (SEC; p. 4 the pavilions' façades on the plans signed 26 Oct 1904 "no muestran los famosos ventiladores con forma de setas": V, facts audit 7 Nov) ; s16 https://www.palaumusica.cat/prog-ma-hansel-i-gretel_413872.pdf (SEC, re-read 7 Nov: "L'estrena de Ton i Guida a Catalunya va tenir lloc al Gran Teatre del Liceu el mateix any que es va publicar (1901)"; Maragall's version, translation signed jointly with Antoni Ribera; Maragall "amic de Güell i de Gaudí"; "he trobat una notícia que indica que per al disseny del pavelló de la porteria del Parc Güell"; author Marta Porter, music journalist; CA; single source, G59)
+@lang: es
+@translation: from the fact-checked English Park Güell 004 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Los tejados más fotografiados del parque están hechos de descartes. Un estudio para su restauración halló que la cerámica rota procedía "mayoritariamente de depósitos sobrantes y defectuosos de fábricas de cerámica". Era barata y fácil de adaptar a las curvas.
+
+Mire el blanco de los tejados. No es un solo blanco. El mismo estudio contó más de diez tonos distintos, uno junto a otro.
+
+Gaudí no inventó el trencadís, este mosaico de cerámica rota. Catalanes y valencianos revestían sus muros de azulejo desde la Edad Media. Gaudí usó la cerámica rota por primera vez en la década de 1880, y la hizo su sello.
+
+El parque los llama pabellones de portería. Uno era la oficina, "con una sala de espera y una cabina telefónica". El otro era la casa del guarda, hoy una pequeña sede del museo de historia de la ciudad, la Casa del Guarda. Fueron de lo primero que se construyó en la finca.
+
+[pause] Busque ahora las setas de los tejados. Los planos que Güell y Gaudí firmaron en 1904 no muestran en absoluto los ventiladores en forma de seta. Hasta las setas parecen haber sido un añadido posterior.
+
+[lightly] A los guías les encanta decir que esta es la casita de chocolate de Hansel y Gretel. Una escritora musical, Marta Porter, señala que la ópera llegó al teatro de ópera de Barcelona, el Liceu, en 1901. Llegó en una versión catalana coescrita por el poeta Joan Maragall, amigo de ambos. Hasta encontró una vieja noticia que la vinculaba al diseño de esta portería. ¿Tenía Gaudí la ópera en mente? Nadie puede demostrarlo.
+
+Acérquese al pabellón de la torre alta, a su izquierda mirando hacia la escalinata. Colóquese donde vea la torre y la puerta, sin estorbar: El pabellón de la torre · Teléfonos y una torre.

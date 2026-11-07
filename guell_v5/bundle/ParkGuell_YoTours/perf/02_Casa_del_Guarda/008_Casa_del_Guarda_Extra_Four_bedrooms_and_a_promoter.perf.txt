@@ -3,7 +3,7 @@
 @room: Casa del Guarda · inside, on the first floor (Extra)
 @type: X
 @title: Casa del Guarda · Extra · Four bedrooms and a promoter
-@where: Inside the Casa del Guarda, on the first floor, standing clear of the stairs. [O23: cut the beams line if not seen; ALT-Q, ALT-Q2]
+@where: Inside the Casa del Guarda, on the first floor, standing clear of the stairs.
 @what: The first floor as built: four bedrooms and an attic space (s6 p. 20, E12); steel-and-ceramic beams instead of arches (s6 p. 23, E13); the floor's theme, the park (es1, E7; es4; DATED); the curator Mireia Freixa (with Mar Leniz, G80) and her line on the promoter (es1, E3); the museum's visits on Gaudí and Güell, the park and the city (es10, E22).
 @listen: The caretaker family's bedrooms, and the exhibition's point about the man who paid for everything.
 @brief: A light, friendly aside on the way up; a smile at the curator's line.

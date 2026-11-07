@@ -1,0 +1,30 @@
+@id: 034 · ES · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · at the bench (sit if you can)
+@type: W
+@title: La Plaza de la Naturaleza — Cien metros de cerámica rota
+@where: En el largo banco de cerámica que recorre el borde de la Plaza de la Naturaleza del lado de la escalinata. Siéntese si hay sitio, o quédese de pie a su lado sin agobiar a quienes están sentados.
+@what: The undulating bench of the Nature Square, built 1909–1914, finished 1914 (op4, FLYER; F3.9, F9.8): balustrade and water collector (op9, F9.7; G69); the whole square the roof of the hall of columns (op9; version-neutral for H; RA ed2 R3: true sitting or standing); Gaudí shaped it, Jujol's trencadís skin (F4.3, F4.4 safe wording; RA L6, RA N17; callback 024); about a hundred metres by the conservators' measure (s14; F9.9, G62); prefabricated modules (s15; F9.10); Jujol's incisions on the backrest's top and along a line halfway up (s4; F9.15); Marian inscriptions (G49); inner face ceramic and porcelain, outer face glass (s14; F9.14); the wet-plaster legend, once (F9.12, F15.24, s30); the backrest's curve (s15; F9.11 HEDGE wording); conservation since around 1990, backrests photographed one by one (s14, op28; F9.17).
+@listen: How a bench became a railing and a drain, who made its colour, and the story about it that nobody has ever proved.
+@brief: A guide sitting on the bench beside the listener, warm and close, enjoying the craft, amused at the legend and honest about it.
+@pace: medium
+@energy: 3→4→3
+@sources: op9 https://parkguell.barcelona/en/park-guell/emblematic-features/greek-theatre (OFF-op, re-read 7 Nov 2026: the bench "planned by Josep M. Jujol, acting as a balustrade"; the square "held up on top of the hypostyle room", EN) ; G-S32 https://artsandculture.google.com/asset/outer-side-of-the-undulating-bench-in-park-güell-antoni-gaudí-i-cornet/GwG_0zGZYcqelg (SEC, Museu de les Aigües, re-read 7 Nov 2026: "This undulating bench acts as a boundary and balustrade for the park square and has a water collection system.", EN) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "the tiled bench running around it was completed in 1914", EN) ; s10 https://upcommons.upc.edu/bitstreams/92566456-85cc-4edd-9aa6-95f2856c4014/download (OFF, Càtedra Gaudí / UPC Fons Jujol, via FACTS F4.3, V by FA: Jujol "dissenya el colorit trencadís, del banc ondulat", CA; not quoted) ; s14 https://iccm-mosaics.org/wp-content/uploads/2018/02/Recasens-Domínguez.pdf (SEC, conservators Cusó & Alcobé, blocked 7 Nov 2026, via FACTS F9.9, F9.14, F9.17: 102 m, spoken as "about a hundred metres"; inner face ceramic and some porcelain, outer face glass; around 1990, 2011, 2016; paraphrased, no quotation marks) ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, V by FA 7 Nov 2026: "made from prefabricated modules"; "an anatomical backrest adapted to the position of the human body"; "created in collaboration with Josep Maria Jujol", EN) ; s4 https://www.gaudiclub.com/ingles/i_links/rest5.asp (SEC, Joan Bassegoda Nonell, director of the Càtedra Gaudí, re-read 7 Nov 2026 (FA could not): "incisions and colors made by Josep Maria Jujol", on the headpiece of the back and the horizontal line halfway up, EN) ; G49 https://diposit.ub.edu/dspace/bitstream/2445/179272/1/705626.pdf (SEC-acad, Rius Santamaria, via FACTS_GAPS G49: inscriptions "dedicated to Virgin Mary that are engraved in the ceramic of the undulating bench", EN; blocked 7 Nov 2026; fact only, no quotation) ; s30 https://beteve.cat/va-passar-aqui/va-passar-aqui-la-construccio-del-park-guell/ (SEC, betevé 2021, via FACTS F15.24: tells the naked workman in a mould, CA; "local television has told it") ; op28 https://parkguell.barcelona/en/renovation-works-status/03-medallions-trencadis (OFF-op, V by FA 7 Nov 2026: "All the backrests were individually photographed, one by one"; "to ensure they would stay true to the original model", EN)
+@lang: es
+@translation: from the fact-checked English Park Güell 034 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Esto es a la vez un banco, una barandilla y un desagüe. El parque lo llama un banco ondulado de cerámica rota, "que hace de balaustrada". El museo del agua de Barcelona añade que "tiene un sistema de recogida de agua". Hasta el banco recoge la lluvia. Y toda esta plaza es el tejado de la sala de columnas.
+
+¿Quién lo hizo? Las páginas del parque lo atribuyen solo a Jujol. Otras fuentes, a los dos. Gaudí dio forma al banco. Su piel de cerámica rota es en gran parte obra de Jujol, el mismo joven ayudante que coloreó los soles de la sala bajo sus pies.
+
+Mide unos cien metros, según los conservadores que lo restauraron. Se hizo con módulos prefabricados, como un kit, y luego se revistió de cerámica. Se terminó en 1914, cuando se pararon las obras de la finca.
+
+[curious] Mire de cerca lo alto del respaldo. Bassegoda describió allí "incisiones y colores hechos por Josep Maria Jujol", y en una línea a media altura. Busque una marca rayada en la cerámica. Entre sus marcas hay oraciones a la Virgen María, grabadas en la cerámica. Los conservadores señalan que su cara interior es de cerámica y porcelana, y la exterior de vidrio.
+
+[amused] Hay una historia favorita sobre este banco, contada hasta en la televisión local. Gaudí, dicen, sentó a un obrero desnudo en yeso fresco para sacar la curva. Gran historia, y nadie ha hallado nunca pruebas.
+
+Lo cierto: el respaldo se curva para adaptarse a la espalda. Apóyese.
+
+Los conservadores han vuelto una y otra vez desde una gran restauración hacia 1990. Una vez fotografiaron cada respaldo, uno a uno, para que las reparaciones fueran fieles al original.
+
+Si hace el recorrido completo, hay un breve Extra aquí, en el banco, sobre las palabras que esconde: La Plaza de la Naturaleza · Extra · Palabras en los azulejos. Si no, la siguiente parada principal es aquí mismo. Quédese junto al banco y mire hacia la ciudad: La Plaza de la Naturaleza · La vista.

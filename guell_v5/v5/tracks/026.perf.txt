@@ -3,7 +3,7 @@
 @room: The Austria Gardens · just inside the gardens
 @type: R
 @title: The Austria Gardens — An empty plot
-@where: Just inside the Austria Gardens, the terraced gardens you reach by the one-way route up the Hypostyle Room's right-hand side; stand to one side of the path, with the flower beds in view. [O-map, O4, O26]
+@where: Just inside the Austria Gardens, the terraced gardens you reach by the one-way route up the Hypostyle Room's right-hand side; stand to one side of the path, with the flower beds in view.
 @what: The Austria Gardens (Jardins d'Àustria): a zone of estate plots (op14; F11.2), then the municipal plant nursery after the park became public (op14; E81); named after a donation of trees from Austria in 1977 (op14; F11.1; C1: never "the Austrian government" in our voice); many of the donated high-altitude trees died, and in 2012 the lawns were replaced with flowering and aromatic plants (es16; E57; DATED, O26); "a completely different look to the rest of the park" (op14; E105); from the centre, the two houses built in Güell's time (op14; F11.3). Callback 015 (the sixty plots; safe).
 @listen: A garden that was meant to be a building plot, how it got its name, and why the beds you see are younger than the name.
 @brief: A guide pausing in a green space, a little wistful about empty plots, lightly amused at the homesick mountain trees.

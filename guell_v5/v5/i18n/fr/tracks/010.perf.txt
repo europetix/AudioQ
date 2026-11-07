@@ -1,0 +1,30 @@
+@id: 010 · FR · Park Güell · 7 Nov 2026 edition
+@section: The viaducts
+@room: The Low Viaduct (Pont de Baix) · on the viaduct, out of the way
+@type: W
+@title: Le Viaduc du Bas — Les routes avant les maisons
+@where: Sur le Viaduc du Bas, le Pont de Baix, en haut des marches et des rampes qui partent de l'entrée de Marianao, sur le côté, d'où l'on voit les jardinières le long du garde-corps.
+@what: The roads first, from 1900 (s6 p. 20, F3.3); a 3 km network (op11, F10.1); "all the viaducts, save details" by January 1903 (Andruet, G43); three five-metre viaducts from the Carrer d'Olot side, named on the first postcards (op29, F10.2); sloping columns and vaults of unhewn site stone (op29, F10.3; op11); the hill's stone sold (s3, F2.15); road, shelter and buttress (op12, F10.5); a cistern for each viaduct (op13, F8.6); the pots as railing (op13, F10.8); the 2019–20 recovery of the Low Viaduct's geometry and its railings' three levels of holes (op28, F10.9); the lean that carries the load (version-neutral, G16); the hope that plants would cover the structure (es29, E71).
+@listen: Why Gaudí built roads and bridges before any house, what these bridges were for, and what he expected to happen to them.
+@brief: A guide out on the bridge with a good story to tell; brisk and plain, with a small delight at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 7 Nov 2026: p. 20 "La obra se inicia en 1900 con la construcción de los caminos", ES) ; op11 https://parkguell.barcelona/en/park-historic/espais-emblematics/high-viaduct (OFF-op, re-read 7 Nov: "designed a 3km road network to interlink the different plots of land"; "The three viaducts, covered with stones from the same mountain") ; G43 Andruet https://fundacionantoniogaudi.org/Publicaciones/los-planos-de-gaudi-del-park-guell-y-la-casa-batllo.pdf (SEC; p. 4 by Jan 1903 "todos los viaductos salvo detalles": V, facts audit 7 Nov; paraphrased) ; op29 https://parkguell.barcelona/en/park-guell/emblematic-features/roadways-paths-viaducts (OFF-op, re-read 7 Nov: "planned three viaducts with a width of five metres"; carriages from Carrer d'Olot to the high part; "They are known as the Pont de Baix, the Pont del Mig and the Pont de Dalt", "already appeared on the first postcards of the park"; "suspended on a structure of sloping columns and vaults made from unhewn stones taken from the site itself") ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC-acad; p. 102 stone sold by the cubic metre: V, facts audit; no figure spoken) ; op12 https://parkguell.barcelona/en/park-guell/emblematic-features/middle-viaduct (OFF-op, re-read 7 Nov: roads on top, protection below, "acting as buttresses and retaining walls for the mountain") ; op13 https://parkguell.barcelona/en/park-guell/emblematic-features/viaducte-baix (OFF-op, re-read 7 Nov: "systems were built to capture and filter rainwater, which was deposited in the cisterns that each of the viaducts had"; "small adjacent columns support pots that act as a railing at the top") ; op28 https://parkguell.barcelona/en/renovation-works-status/03-medallions-trencadis (OFF-op, re-read 7 Nov: the Viaducte de Baix "had gradually lost the geometry that Antoni Gaudí originally gave it"; "historical graphic documents"; the outer railings' original height, "three levels of holes"; Feb 2019 – Sep 2020; used instead of op23's Catalan line) ; es29 https://www.barcelona.cat/museuhistoria/sites/default/files/gaudi_eng_utt_des_2019_aaff.pdf (OFF, MUHBA Urban History Guide 2019, read 7 Nov: "in the hope that in time the vegetation would cover most of its structure"; viaducts, steps and walls "that could be left covered by the vegetation")
+@lang: fr
+@translation: from the fact-checked English Park Güell 010 (7 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Avant toute maison, Gaudí a construit les routes. Une étude des pavillons dit, en espagnol, que «les travaux ont commencé en 1900 par la construction des routes». Selon le parc, il a conçu trois kilomètres de routes pour relier les parcelles. En janvier 1903, tous les viaducs étaient finis, détails à part.
+
+Vous êtes sur le premier. Gaudí en a prévu trois, larges de cinq mètres chacun, pour les voitures à cheval montant du côté de Carrer d'Olot jusqu'en haut du domaine. Leurs noms «figuraient déjà sur les premières cartes postales du parc»: le Pont de Baix, le Pont del Mig et le Pont de Dalt. Pont du bas, du milieu, du haut.
+
+Faits de la colline qu'ils gravissent, ils reposent sur «des colonnes inclinées et des voûtes en pierres brutes prises sur le site même». Le domaine vendait même la pierre de la colline pour la maçonnerie, au mètre cube.
+
+Chaque pont jouait plusieurs rôles à la fois. Une route dessus. Un abri dessous, contre le mauvais temps. Et, comme dit le parc, «des contreforts et des murs de soutènement pour la montagne». Chacun avait aussi sa propre citerne, remplie d'eau de pluie recueillie et filtrée en chemin.
+
+Regardez le haut. De petites colonnes portent des jardinières, qui forment le garde-corps. Avec les années, ce pont a perdu la forme voulue par Gaudí. Lors d'une restauration achevée en 2020, d'anciens documents ont révélé la hauteur d'origine des garde-corps extérieurs, reconstruits avec trois niveaux d'ouvertures. Trouvez les trois rangées.
+
+Ses colonnes de pierre penchent aussi, et cette inclinaison porte la charge.
+
+Selon le musée municipal d'histoire, les routes ont été faites «dans l'espoir qu'avec le temps, la végétation recouvre l'essentiel de sa structure». [lightly] Ces ponts devaient disparaître sous les plantes.
+
+Trouvez un endroit près du viaduc d'où vous voyez ses colonnes inclinées de profil, et restez sur le chemin: Le Viaduc du Bas · Pourquoi les colonnes penchent.

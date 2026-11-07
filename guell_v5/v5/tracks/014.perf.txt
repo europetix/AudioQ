@@ -1,9 +1,9 @@
 @id: 014 · Park Güell · 7 Nov 2026 edition
 @section: The Dragon Stairway
-@room: The foot of the stairway · in the queue for the second control (standing; ALT-K: just before the control if there is no queue)
+@room: The foot of the stairway · in the queue for the second control (standing; or just before the check if there is no queue)
 @type: W
 @title: The foot of the stairway — The healthy quarter
-@where: Standing in the queue for the second ticket check, at the foot of the great stairway on the entrance esplanade; if there is no queue, stand to one side just before the check. Nothing to look at until the last paragraph. [O1, O10, ALT-K]
+@where: Standing in the queue for the second ticket check, at the foot of the great stairway on the entrance esplanade; if there is no queue, stand to one side just before the check. Nothing to look at until the last paragraph.
 @what: The sale of the top of the Muntanya Pelada by the Marquis of Marianao to Eusebi Güell, summer (9 Jul) 1899 (s3, F2.2); La Salut quarter of Gràcia, which Barcelona had absorbed in 1897 (aj3, F2.1 corrected by E68; never "then a separate town"); the 1904 application for Can Muntaner de Dalt and Can Coll i Pujol (G38); the memorandum signed by Güell (s2b, F1.16) with his words on the "barrio de la salud" (G37, V, Lead's decision 5); the plans signed by Güell and Gaudí, 26 Oct 1904 (G39), the permit of 30 Jan 1906 (G40), works begun 1900 (F3.1); MUHBA's water framing (G86, DATED).
 @listen: How Güell pitched a bare hill as a healthy suburb for businessmen, in his own signed words, and how long the paperwork lagged behind the digging.
 @brief: A storyteller keeping a queue company; relaxed and conversational, a dry smile at the paperwork, clear at the cue.

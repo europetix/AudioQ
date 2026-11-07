@@ -3,7 +3,7 @@
 @room: The Nature Square · at the bench, the hilltop in view
 @type: R
 @title: The Nature Square — Three crosses instead of a chapel
-@where: Still at the tiled bench on the Nature Square, with the hill above the park and the three crosses on its top in view. [O7, O25, ALT-T1]
+@where: Still at the tiled bench on the Nature Square, with the hill above the park and the three crosses on its top in view.
 @what: The Turó de les Tres Creus, the park's highest point, about 180 m (op30, F14.9; never 210 m, E32), once "Ore Hill or the Hill of Mines and Caves" (op30); the estate's chapel, "Capelya" on the plan of the 1903 visit (G42, Andruet), lobed like a six-petalled flower about 30 m across (s3, E38); Bonaventura Bassegoda in the Diario de Barcelona, 1903, in indirect speech (s3, G52; FA M1, RA L7); the chapel never built and the Calvary instead (s3 "s'hagué d'abandonar la construcció de la capella", F12.7; FA ed2 S7: never "never begun"), "which simulated the Calvary" (op30), finished by 1905 (s3, F3.5), eighteen symbolic steps, the middle cross 2 m (s3, E40); destroyed July 1936, rebuilt after the war, not exactly as before (s3, E41, C10); Gaudí's glazed window and the hill he "wanted always to have in view" (s3, E42, C5). Callback to the pink house (028: in E and F).
 @listen: The chapel Gaudí planned for the hilltop, the three crosses that took its place, and the hill he kept in view from his window.
 @brief: A guide at the bench looking up at the hill with the listener, curious and storytelling, plain and agentless at 1936, with a small warm turn at Gaudí's window.

@@ -3,7 +3,7 @@
 @room: The Dragon Stairway · a few steps above the dragon, to the side, looking back down at it
 @type: R
 @title: The Dragon Stairway — Lizard, dragon or salamander?
-@where: A few steps above the dragon on the Dragon Stairway, standing to the side out of the way of the steps, looking back down at the creature. [O14]
+@where: A few steps above the dragon on the Dragon Stairway, standing to the side out of the way of the steps, looking back down at the creature.
 @what: Bayard Brattstrom's 2015 letter to the New York Review of Books and Martin Filler's reply (s18, Q8, Q9, F6.14, FA N5); Bassegoda's reading of Gaudí's dragons as Güell's ideas: Catalanism, mythology and religion (s22, Q7, F12.2; re-read 7 Nov 2026, inside quotation marks in an English press note); nearly four hundred dragons in Barcelona, on buildings, fountains and parks, by one photographer's count (s22 "almost four hundred", F6.15 HEDGE; FA ed2 N8). No crocodile of Nîmes (G66), no Delphi (020).
 @listen: A zoologist, a critic and a Gaudí scholar each give the creature a different name, and none of them is wrong to try.
 @brief: A guide enjoying an argument between experts; wry at the zoologist, fair to each side, light at the payoff.
