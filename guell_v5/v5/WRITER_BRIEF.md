@@ -1,4 +1,4 @@
-# WRITER BRIEF — Park Güell (Barcelona), Yo Tours (6 Nov 2026)
+# WRITER BRIEF — Park Güell (Barcelona), Yo Tours — EDITION 2 (≈ 45 tracks, 7 Nov 2026)
 
 You are writing part of a new English walking audio guide to Park Güell: Eusebi Güell's failed garden-city estate on the Carmel hill (1900–1914), built by Antoni Gaudí with Josep Maria Jujol, Francesc Berenguer and the builders Pardo and Berdié, and a public park since 1926. The guide walks one loop that follows the operator's own recommended order through the one-way inner section and ends at the only exit, the Carrer d'Olot gate. It is built from scratch; there is no old guide.
 
@@ -10,13 +10,18 @@ Priorities: navigation accuracy first, accuracy of fact second, storytelling thi
 
 Project root: /home/claude/audioq/guell_v5 (paths below are relative to it).
 
+## Edition 2: what changed
+The user asked for ≈ 45 tracks and a 120-minute full tour: "we need to cover more stories and better quality audio, including views". PLAN_V2 gives 45 tracks. Its column "From edition 1" says for each track KEEP NNN, SPLIT FROM NNN or NEW. Edition-1 tracks are in **v5/held/ed1/tracks/** (well written; reuse their sentences where PLAN_V2 says KEEP or SPLIT, applying every audit fix it lists). The two independent audits of edition 1 are research/AUDIT_V5_FACTS.md and research/AUDIT_V5_ROUTE_LISTENING.md: their MUST and SHOULD findings are binding wherever your track reuses that text. The official route map notes are research/map/OFFICIAL_ROUTE_MAP_NOTES_7NOV2026.md (left/right allowed only where PLAN_V2 tags [O-map]). New research: research/FACTS_EXPANSION_NOV2026.md (rows E1…, corrections C1…).
+
+**Shorter tracks need the same depth per minute.** A 200-word R track still has a hook, a real story, one thing to look at and the cue. If your material for a track is thinner than its aim, write to the material (above the type's minimum) and say so in your notes: never pad.
+
 ## Read first, in this order
 1. **v5/V5_AUDIO_STANDARD.md**: the writing and direction standard (binding; §2 and §3).
 2. **Voice anchors** (spoken, warm, composed; hook → story → turn → look → payoff):
    - /home/claude/audioq/poble_v5/v5/tracks/004.perf.txt and 012.perf.txt
    - /home/claude/audioq/guggenheim_v5/v5/tracks/009.perf.txt and 025.perf.txt
    - for a hard subject told with restraint: /home/claude/audioq/guggenheim_v5/v5/tracks/003.perf.txt
-3. **v5/PLAN.md, all of it**: binding for place, order, @section, @room, @title, content, the allowed facts with their row numbers and grades, quotes, what NOT to say, the exact cue (last column), the NEVER list (§4), DATED (§6), ALT cues, version-neutral sentences, safe callbacks and the bridge table (§3). **Its "Lead's decisions" section at the very end overrides anything above it.** Read its Conventions first: directions only by the fixed features listed there; no left/right, compass words, distances or walking times; [O#] tags never spoken.
+3. **v5/PLAN_V2.md, all of it** (edition 2; it replaces v5/PLAN.md, which stays only as background): binding for place, order, @section, @room, @title, content, the allowed facts with their row numbers and grades, quotes, what NOT to say, the exact cue (last column), the NEVER list (§4), DATED (§6), ALT cues, version-neutral sentences, safe callbacks and the bridge table (§3). **Its "Lead's decisions" section at the very end overrides anything above it.** Read its Conventions first: directions only by the fixed features listed there; no left/right, compass words, distances or walking times; [O#] tags never spoken.
 4. **research/FACTS_NOV2026.md** and **research/FACTS_GAPS_NOV2026.md** for the rows PLAN cites (F… and G…). Read FACTS §15 (popular errors), §16 (names) and §17 (quotes) whole. Then **research/VISIT_ROUTE_AND_SPACES_NOV2026.md** §0–§2.
 
 ## Accuracy rules (non-negotiable)
@@ -60,7 +65,7 @@ Follow PLAN §3 "Version-neutral sentences" and "Safe callbacks" exactly. Never 
 
 ## Output — one file per track: v5/tracks/NNN.perf.txt
 ```
-@id: NNN · Park Güell · 6 Nov 2026 edition
+@id: NNN · Park Güell · 7 Nov 2026 edition
 @section: <exactly the PLAN section name>
 @room: exactly as PLAN
 @type: ANCHOR | R | W | X | CLOSE
