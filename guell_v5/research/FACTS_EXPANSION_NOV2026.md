@@ -43,6 +43,15 @@ Sources new to this file are numbered [E-S1]…; FACTS/G sources keep their numb
 | E21 | The house consists of "a ground floor and two upper floors"; it was "intended for the caretaker of the urbanisation" | OK (OFF) | OFF Ajuntament, Barcelona Cultura, MUHBA guided tours Oct–Nov 2021 [E-S9] (EN, relayed) | Confirms E4. |
 | E22 | MUHBA's guided visits of the house stress three relationships: Gaudí and Güell, the park and the city, and the house's design and construction compared with Gaudí's other works | OK (OFF) | OFF MUHBA visit page [E-S10] "La visita al centre del MUHBA fa èmfasi en la relació entre Gaudí i Güell, entre el parc i la ciutat de Barcelona" (CA, relayed); [E-S9] | Use as the frame for a Casa del Guarda track. |
 | E23 | Restoration of the interior in 2010 cost about **€113,000** (press, via a blog) | UNVERIFIED (figure) | SEC-low blog [E-S2] citing unnamed press | No money in scripts anyway. |
+| E96 | **The other pavilion (office)**: "dos espacios de dimensión modesta": a reception room downstairs, an office upstairs; pine (Melis) parquet upstairs, hexagonal ribbed cement tiles below, a staircase with two floral-motif tile patterns | OK (SEC) | SEC [S6] pp. 20, 25 (ES, relayed) | For the gate track, not the museum: today this pavilion is the shop (route file, INF). |
+| E97 | **The tower**: **13.45 m** high, "un paraboloide hiperbólico que disminuye de sección", two layers of thin brick tied by metal straps in a **double helix**; reinforced inside in the 1960s | OK (SEC) | SEC [S6] p. 22 (ES, relayed) | **SEE:** "a thirteen-metre tower of two layers of thin brick, wound with steel in a double spiral." |
+| E98 | **The cross, three times**: the original was clad in **broken porcelain** and destroyed in 1936, "probablemente" for its religious symbolism; the post-war replacement stayed until **1996**; today's cross (1996) is concrete with stainless-steel rods and porcelain pieces | OK (SEC) | SEC [S6] pp. 27–28 (ES, relayed) | **Upgrades F5.10:** "The cross you see dates from 1996, the third on this tower." Keep "probably for its religious meaning" as the authors' view. |
+| E99 | **Walls**: the ground-floor outer walls are **50 cm** thick, of "mampostería concertada de piedra natural" from **the park's own old quarries**; 30 cm upstairs | OK (SEC) | SEC [S6] p. 21 (ES, relayed) | "Built of the hill itself": ties to F2.15–2.16 (quarries, caves). |
+| E100 | The white trencadís contains **more than ten shades of white** (pavilions) | OK (SEC) | SEC [S6] p. 27 (ES, relayed); cf. G21 (21 whites on the bench) | **SEE:** "Look at the white: it isn't one white." |
+| E101 | Plot rules (as summarised by the restorers): plot fences "opacos hasta los 80 centímetros de altura y con reja o vegetal por encima" | OK (SEC) | SEC [S6] p. 20 (ES, relayed) | Adds to the buyers' rules (E67, F2.12): "Walls no higher than your knee; above that, railings or hedge." "Knee" is our gloss (80 cm ≈ hip): say "under a metre". |
+| E102 | In the late 1980s, when work began on the bench and the Hypostyle Room, the office pavilion served as the "caseta de obra" (site hut) | OK (SEC) | SEC [S6] p. 21 (ES, relayed) | Confirms F5.14. |
+| E103 | **Which pavilion carries the mushroom?** FACTS 5.11 places the mushroom cap on the elliptical caretaker's house; a second reading of the same paper relayed the "sombrero en forma de seta" as the outlet of the **office** pavilion's flue | HEDGE (relay conflict within [S6] p. 23) | SEC [S6] p. 23 (ES, relayed twice, 6 and 7 Nov 2026) | **On-site check** before any "look at the mushroom on this house". Point to it by sight ("the white-spotted mushroom on the roof"), not by building name. |
+| E104 | Restoration of the office pavilion **1994–1996** by SAPIC; the glass "cives" (bullseye panes) reproduced by a specialist workshop; medallions and merlons of the wall numbered against old photos and re-tiled alternately to keep their original outlines | OK (SEC) | SEC [S6] pp. 22, 26–28 (ES, relayed) | Optional SEE: the round bullseye glass. |
 
 ## 2. Views (documented only)
 
@@ -59,7 +68,13 @@ Sources new to this file are numbered [E-S1]…; FACTS/G sources keep their numb
 | E32 | Highest points: the Three Crosses hill at **182.30 m**; the operator's "park and surroundings" page gives the wider park a "maximum height of **210 metres**" and "a total surface area of **19 hectares**" | HEDGE (conflict of scope: 12 ha WHS vs 19 ha park) | OFF-op [O30]; OFF-op "The park and its surroundings" [E-S15] (EN, relayed) | Say "the hill of the three crosses, about 180 metres up". Don't give 210 m. |
 | E33 | The park lies on "two sides of the Tres Creus –or Les Menes– hill" and the Muntanya Pelada / El Carmel; neighbourhoods around: El Coll, Vallcarca and Els Penitents, La Salut, Vila de Gràcia (Gràcia district), Carmel and Can Baró (Horta-Guinardó); "76,000 people live in the surrounding area" | OK (OFF-op) / DATED | OFF-op [E-S15] (EN, relayed) | Context for the view down over **Gràcia and La Salut**: only as geography ("below you lie the old town of Gràcia and La Salut"), after on-site check of the sightline. |
 | E34 | The park is part of the **Tres Turons** park system (El Carmel, Creueta del Coll, La Rovira), next to the **Collserola** range | OK (OFF-op) | OFF-op "Nature and biodiversity" [E-S16] (EN, relayed) | "Behind you, the green runs on to the hills of Collserola." Check the sightline. |
-| E35 | A 2024 MUHBA-type claim list of what one "sees" from the bench (Sagrada Família etc.) in tour-trade blogs | UNVERIFIED | e.g. barcelona.com, vacatis (tour-trade, not read as sources) | Don't copy. |
+| E35 | Tour-trade lists of what one "sees" from the bench (Sagrada Família, Montjuïc, Tibidabo…) | UNVERIFIED | e.g. barcelona.com, vacatis (tour-trade, not read as sources) | Don't copy. |
+| E105 | **The Austria Gardens page**: "The garden has good views"; "This part of the precinct has a completely different look to the rest of the park" | OK (OFF-op) | OFF-op [O14] re-read 7 Nov 2026 (EN, relayed) | Documented: "good views" only. Which landmarks: on-site. |
+| E106 | **The pink house from the Palm Trees Path**: the Sagrada Família's own photo caption: "View of the exterior from Passeig de les Palmeres in Park Güell" | OK (OFF, caption) | OFF [O22] (EN), via route file | An internal view: "From the Palm Trees Path you see Gaudí's pink house." |
+| E107 | **Views inside the park (documented)**: the official 2026 reduced-mobility plan marks "**Views of** middle bridge" and "**Views of** The Laundry Room Portico" as stops; the operator: "From the entrance, visitors can see the stairway with the hypostyle room" | OK (OFF-op) / DATED | OFF-op 2026 mobility plan PDF and entrance-pavilions page, as read in the route file (EN) | The **viewpoints onto Gaudí's own works** are documented; use them for "look across at…" cues. |
+| E108 | **From the viaducts**: no source read states what is seen from the Low or Middle Viaduct (city, sea, landmarks) | UNVERIFIED | Operator viaduct pages [O11]–[O13], [O29]; mobility plan | On-site check (O5/O7). |
+| E109 | 1909 photographs taken from the hilltop show the city below (Bassegoda) | OK (SEC) | SEC [S3] p. 107 (CA, relayed) | Supports "a viewpoint for over a century"; the photos themselves not seen. |
+| E113 | **From the bench: the Olympic Village towers and the sea**: the Catalan Tourist Board says the curving trencadís benches give views "framed by the towers of the Olympic Village and the blue Mediterranean"; from the Turó de les Tres Creus, "sweeping vistas 183 metres above the city" | OK (OFF, Catalan Tourist Board press release) | OFF Catalonia Tourism (Agència Catalana de Turisme) news, "Barcelona, a bird's eye view", 11 Oct 2017, via Mynewsdesk [E-S44] (EN, relayed) | **Best documented landmark view:** "From the bench, the sea, and on the shore the two tall towers of the Olympic Village." Confirm the sightline on site (trees may block it since 2017). The towers' names (Hotel Arts, Torre Mapfre) are our knowledge: name them only after the on-site tick. |
 
 ## 3. More stories inside the ticketed park
 
@@ -116,15 +131,125 @@ Sources new to this file are numbered [E-S1]…; FACTS/G sources keep their numb
 | E84 | **Baldiri Reixac**, the name of the school in Casa Larrard: priest and pedagogue (1703–1781), author of *Instruccions per l'ensenyança de minyons* (1749), who argued that "l'educació havia de començar en la llengua materna i no en llatí" | OK (SEC) | SEC Enc. Cat., "Baldiri Reixac i Carbó" [E-S39] (CA, relayed) | **Small story at Casa Larrard:** "The school is named after an 18th-century priest who said children should be taught in their own language: Catalan, not Latin." |
 | E85 | **Ornamental lighting** of the Hypostyle Room and the **Turó de les Tres Creus** to be improved; main paths (Camí de Dalt, Passeig de les Palmeres and the steps between them), the Austria Gardens steps and the Olot play area to be relit; stairs between the Passeig de les Palmeres and the Camí de Dalt being restored with "the original stone is preserved"; drinking fountains doubled from five to ten; works from autumn 2026, about 18 months; drainage and paving from March 2026 to late 2027 | OK (OFF, BSM) / DATED | OFF BSM press release, 3 May 2026 [E-S40] (EN, relayed); SEC betevé, Jessica Moreno Cusac, 3 May 2026 [E-S41] (CA, relayed) | Route file only. Expect works fences on the Palm Trees Path. |
 | E86 | The **"Pota d'Elefant" tank** will store rainwater for the watering network; the Hypostyle tank will act as a water channel | OK (OFF, BSM) / DATED | OFF [E-S40] (EN, relayed) | Pairs with F8.10. "Elephant's Foot" tank: location not stated; don't point. |
-| E87 | Casa Trias: the 2026 plan for the park also renews the Olot-side eatery; nothing on the house | — (note) | [E-S40] | Nothing new for G29. |
+| E88 | MUHBA's primary dossier: the gate lodge had "sala per a les visites, amb telèfons i butaques" (a visitors' room with telephones and armchairs); the estate was "un barri residencial amb un mur de tancament i servei de vigilància" | OK (OFF, children's dossier) | OFF MUHBA [A3] re-read 7 Nov 2026, pp. 3–7 (CA, relayed) | **Casa del Guarda track:** "Next door was a waiting room for visitors, with telephones and armchairs: a reception for a gated estate." Matches F5.5 (waiting room and telephone booth). |
+| E89 | Same dossier: the hill was to be **re-planted "amb pins, alzines, palmeres i oliveres"** (pines, holm oaks, palms and olives) | OK (OFF, children's dossier) | OFF [A3] p. 7 (CA, relayed) | Supports "palms were planted" for the Palm Trees Path; which palms: on site. |
+| E90 | Same dossier: people would come to "prendre la fresca i observar la ciutat" from "el mirador de la plaça central" | OK (OFF, children's dossier; narrative) | OFF [A3] pp. 2, 6–7 (CA, relayed) | **View track line:** "The square was planned as a lookout: a place to take the evening air and watch the city." |
+| E91 | Old photo captions in the dossier: "El Park en construcció, 1908" (AHCB–AF); "Vista parcial del Park Güell. Fototípia 1905"; a carriage ("Carrossa de passeig") | OK (OFF, captions) | OFF [A3] (CA, relayed) | Optional: "a photo of 1908 shows the park still a building site". |
+| E92 | Time Out (Jan 2026): before the city bought it, "el Park Güell ya acogía actos públicos, congresos, visitas y garden parties" | OK (SEC) | SEC [S9] re-read (ES, relayed) | Pairs with E61 (the 1906 congress garden party) and G75. |
+| E93 | The park's first caretaker: name, family, duties | UNVERIFIED | No name found in MUHBA, operator, Bassegoda or press pages read | Don't invent a caretaker. Speak of "the caretaker and his family" only as the house's purpose. |
+| E94 | The **Volta dels carruatges** (carriage turn) | UNVERIFIED (beyond the name) | Named only as a MUHBA itinerary stop [G-S33]/route file; no description found in operator, MUHBA, Ajuntament or press pages; MUHBA itinerary page [E-S42] lists no stops | Hold (ONSITE O6). |
+| E95 | The **Palm Trees Path**: the operator's own page heads it "The widest road in Park Güell" but its text describes the ten-metre transversal road and three-metre footpaths; no page read explains the name or says whether its "palms" are trees or stone columns. The ca.wiki says only "Les columnes estan inclinades com palmeres" (of the viaduct columns, uncited) | HEDGE | OFF-op [E-S17] (EN, relayed); WIKI ca [G-S6] (CA) | Safe: "the Passeig de les Palmeres, the Palm Trees Path". Don't explain the name until on-site (real palms along it? stone palm columns?). The stone palm tops documented are on the square's retaining wall (F9.6). |
+| E110 | **Dalí in the park, 1956**: Bassegoda: "Dalí's exceptional way of explaining things saw new heights in his 1956 conference in Park Güell"; the Dalí Foundation's film archive lists "Pintura excéntrica. Conferencia de Salvador Dalí en el Park Güell de Barcelona", broadcast **8 Oct 1956** | HEDGE (SEC + SNIP of an OFF film-archive title; the record page itself did not load the item) | SEC Bassegoda, *ABC* 29 Dec 2003, via gaudiclub [S33] (EN, relayed); SNIP salvador-dali.org (Fundació Gala-Salvador Dalí) search-result title and "Fecha de emisión: 08/10/1956" [E-S43] | Upgrades F13.11's colour: "In 1956 Salvador Dalí gave one of his eccentric lectures here, filmed for the cinema newsreels." "Newsreels" is our inference from a broadcast date: say "filmed". What he said or painted: not sourced. |
+| E111 | The **Font del Carbó**, just below the main gate, is where urbanisation of the area began in **1875**; its gardens are being restored (Jan 2026 – c. Jan 2028) and opened to residents | OK (SEC + OFF-op) / DATED | SEC [S3] p. 99 (CA, relayed); OFF-op disruptions [O24] (EN) | Optional at the gate: "the old spring below the gate, where building on this hillside began". |
+| E112 | **"The iguana"**: a neighbours' leader in 2015 called the dragon "la iguana" | OK (SEC, quoted) | SEC betevé 9 Jul 2015 [E-S31] (CA) | Light aside at the dragon (pairs with F6.14 "lizard"). |
 
 ## 4. Corrections to FACTS / G rows
 
 | # | Row | Problem | Source | Change |
 |---|---|---|---|---|
+| C1 | F11.1, F15.32 (Austria Gardens: "donor not named"; "the Austrian government donated" = overstated) | The operator's own "Nature and biodiversity" page says the name comes from "a 1977 tree donation by the **Austrian government**" | OFF-op [E-S16] (EN, relayed) | F15.32 → **HEDGE, not error**: two operator pages differ ("a donation of trees from Austria" vs "by the Austrian government"). Script stays "a gift of trees from Austria, in 1977". |
+| C2 | F2.19, F11.17 ("owned by", not "lived in"; "don't say the family lives there") | Time Out: Casa Trias "fue el hogar del abogado Martí Trias y Anna Maxenchs, su mujer, durante la primera mitad del siglo XX" | SEC [E-S27] (ES) | Past tense is safe: "the lawyer and his wife lived there". Present: still "owned by his heirs" (G29 expropriation pending). |
+| C3 | (new official slip) Ajuntament "Coneix BCN" page | Says the city bought it "In 1922, **six years after Güell's death**" (Güell died 1918), that Gaudí lived in the show house "**until 1926**" (1925), and names "Josep Maria **Juju**" | OFF barcelona.cat [E-S12] (EN, relayed) | **ERROR ×3 on an official page.** Add to §15: never copy this page. Correct: 1922 = four years after Güell's death; Gaudí left in Nov 1925 (E63); Jujol. |
+| C4 | G75 ("first documented public act: a Garden Party on 20 Oct 1906") | MUHBA's own photo caption dates a **Garden Party of the First International Congress of the Catalan Language to 14 Oct 1906** (photo Frederic Ballell, AFB) | OFF [E-S23] (CA) | Conflict of six days between two MUHBA items. Safe: "in October 1906". |
+| C5 | F11.10 (Gaudí's glazed lookout: HEDGE) | Bassegoda: he "volia tenir sempre a la vista" the Calvary | SEC [S3] p. 107 re-read | → **OK (SEC)**, as E42. Still no position on the house; outside only. |
+| C6 | F3.8 (Güell moved into Casa Larrard 1907: HEDGE) | MUHBA's guide: he moved "el 1907" and gives why | OFF [E-S38]; [E-S29] "Around 1907" | → **OK** for "1907" (MUHBA + operator); keep "around 1907" if WIKI's 1906 worries the writer. |
+| C7 | F3.24, G13 (restoration Nov 1987 – Jun 1994) | COAC's listing of the Martínez Lapeña–Torres work gives **1984–1993**; new bench tiles engraved "**1992**" (G20 said "92") | SEC [E-S35] | Say "in the late 1980s and early 1990s". The mark may read "1992" or "92": check on site. |
+| C8 | F3.17 (Gaudí lived in the park until 1925) | Month: **November 1925** | OFF Sagrada Família blog [E-S25] | Add the month. |
+| C9 | F11.7–11.8 (niece "Rosa Egea i Gaudí") | Known in the family as **Roseta**; daughter of his sister Rosa | SEC [E-S26] | Either name is fine; "his niece Rosa" is safe. |
+| C10 | F5.10 (only the gatehouse cross destroyed in 1936) | The **three hilltop crosses** were also destroyed in July 1936 and rebuilt 1939–41, not exactly as before | SEC [S3] p. 108 | Add; F15.37 stands. |
+| C11 | F14.13 / F2.8 (12 ha + about 8 ha of woodland) | Operator pages give "a total surface area of **19 hectares**" and "over **17 hectares** of green areas" | OFF-op [E-S15], [E-S16] | No conflict with "twelve hectares" (the WHS area). Don't give 19 or 17 in scripts. |
+| C12 | F2.12 / Q4 (the sea-view rule rests on a children's dossier) | Two more MUHBA texts state it: the 2010 guide (CA) "no podien obstaculitzar la vista al mar i l'assolellament" and the 2019 EN guide ("could not block views or sunlight") | OFF [E-S38], [E-S29] | Upgrade Q4's support: MUHBA ×3. Still say "the rules said", not quote the deeds. |
+| C13 | F2.10 ("about 40 houses" HEDGE) vs 60 | MUHBA's guides (2010, 2012, 2019) all say **60 families** | OFF [E-S8], [E-S29], [E-S38] | Keep 60. |
+| C14 | F12.8 (stone rosary, HEDGE) | No second source found after targeted searches; Bassegoda 2008 does not mention it | [S30] only | Unchanged; the safe wording in E36 attributes it to Tarragona. |
+| C15 | F15.9 ("bought six years after Güell's death": Ajuntament parks page [A2]) | The same slip appears on a second Ajuntament page | [E-S12] | Pattern: city pages copy each other; prefer MUHBA and the operator. |
+| C16 | VISIT_ROUTE §2 row 15 / F14.9 (Tres Creus "closed route") | The 2 Nov 2026 notice closes Coll del Portell–Forat del Vent and Casa Trias–Viaducte de Dalt, **not** the hill as such; the city plans ornamental lighting there (works from autumn 2026) | OFF-op [O24]; OFF [E-S40] | Reachability = on-site check; the hill stays a mention (user decision). |
+| C17 | G-S36 / G83 ("park lit blue", etc.) | — | — | No change. |
+| C18 | ROUTE §0.6 (pavilion left/right) | MUHBA primary dossier: "En entrar, a la dreta, hi ha la porteria amb la casa del conserge" | OFF [A3] (CA) | Supports "caretaker's house on the right **as you enter**" (from the street, facing the park). Still verify on site (O2). |
+| C19 | F11.5 (Gaudí renovated Casa Larrard: HEDGE, single press source) | Bassegoda: Güell moved into the former Casa Larrard, "arranjada per Gaudí" | SEC [S3] p. 107 (CA, relayed) | → **OK (two sources)**: "adapted by Gaudí". Still not "rebuilt". |
+| C20 | F5.10 / F15.37 (cross "replaced after the war") | The post-war cross was itself replaced in **1996** | SEC [S6] pp. 27–28 | Today's cross is the 1996 one (E98). |
 
 ---
 
 ## Blocked or failed (not retried)
 
+- dezeen.com, 15 Jun 2026, "How Gaudí's failed Park Güell housing estate became Barcelona's most popular park": client error.
+- meet.barcelona (redirect target of meet.barcelona.cat Park Güell page): permission not answered.
+- rutadelmodernisme.com/ficha/park-guell-en: bot verification page only.
+- bellesguardgaudi.com "Gaudí portrait by portrait" (HTML): bot interstitial (the same site's wp-json post 189094 did load).
+- ecoregistros.org record 2376077: page did not load (loading screen).
+- goethe.de "Les arrels de l'amistat": client error.
+- parkguell.barcelona/en/renovation-works-status/06-mur-de-les-llagrimes (constructed URL): client error; the real page (06-mur-llagrimes) loaded but its text concerns a bus stop.
+- barcelonaturisme.com "Barcelona, a bird's eye view": redirect to a general thisisbarcelona viewpoints page (no Park Güell entry).
+- salvador-dali.org Dalí film-archive list (CA): the item record did not appear; only the search-result title and broadcast date were used (SNIP).
+- Not found anywhere: what is on show item by item in the Casa del Guarda (no model or original object documented); the caretaker's name; the Volta dels carruatges beyond its name; a second source for the stone rosary; any official text naming the Sagrada Família, Montjuïc, Tibidabo (from the square), Collserola, Torre Glòries or the Besòs towers as seen from a named spot; parrots in this park; 1910s sardanas/Jocs Florals dates in the park; Civil War uses beyond Bassegoda's three facts.
+
+## Views: what is documented and what stays an on-site check
+
+| Spot | Documented (row) | On-site check before scripting |
+|---|---|---|
+| Nature Square / bench | The city (E25, E26); the sea (E24, E29, E113); the Olympic Village towers framing the sea (E113, 2017); the sea view was protected by contract (E27, E83, F2.12) | Sagrada Família, Torre Glòries, Montjuïc, the Eixample grid, Gràcia/La Salut below, the Besòs towers; whether trees now hide the Olympic towers |
+| Austria Gardens | "good views" (E105); Casa Trias and the Gaudí House in view (F11.3) | Every landmark |
+| Palm Trees Path | The Gaudí House exterior (E106) | City or sea views |
+| Viaducts | Views **of** the Middle Viaduct and the Portico (E107) | Any view **from** them (E108) |
+| Turó de les Tres Creus (mention only) | "A great viewpoint over the city" (F14.9, E26); Tibidabo and Sant Pere Màrtir (E28); "183 metres above the city" (E113) | Whether it is reachable inside the ticket in Nov 2026 (E31, C16); anything else |
+
+## Tally
+
+**132 new graded rows**: 112 E-rows + 20 corrections (C-rows). E87 was dropped (no finding), so E numbers skip it; numbers are in order found, not consecutive within sections.
+
+| Section | Rows | OK | HEDGE | UNVERIFIED | LEGEND | DATED (first verdict) |
+|---|---|---|---|---|---|---|
+| 1 Casa del Guarda interior | 32 | 28 | 2 | 2 | 0 | 0 |
+| 2 Views | 18 | 13 | 1 | 3 | 0 | 1 |
+| 3 Stories | 62 | 52 | 6 | 3 | 1 | 0 |
+| 4 Corrections | 20 | — | — | — | — | — |
+
+Several OK rows are also DATED (E1–E8 exhibition content; E72–E76, E85–E86 works and protests).
+
 ## Sources new to this file (accessed 7 Nov 2026)
+
+- [E-S1] gaudiclub.com press note, "The Guardhouse at the Park Güell re-opens" (undated; URL 10_05_26): https://gaudiclub.com/ingles/i_press/Prensaing/Notasprensa/10_05_26.asp EN (SEC-low)
+- [E-S2] barcelonasights.blogspot.com, 27 May 2010: https://barcelonasights.blogspot.com/2010/05/another-reason-to-visit-parc-guell.html EN (SEC-low)
+- [E-S3] OFF MUHBA heritage page "Park Güell": https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/park-guell EN
+- [E-S4] OFF MUHBA, *A Short Guide to the MUHBA* (3rd ed., Llibrets de Sala 37, printed Apr 2023): https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2023-05/GuiaMUHBAEng.pdf EN
+- [E-S5] SEC thisisbarcelona.com (Turisme de Barcelona), "Park Güell – Museu d'Història de Barcelona": https://thisisbarcelona.com/museums-and-exhibitions/park-guell-museu-d-historia-de-barcelona EN
+- [E-S6] SEC UPC ViMAC, "Guard's House" survey: https://vimac.upc.edu/en/projects_En/architectural-urban-and-archaeological-survey/all-projects/guards-house EN
+- [E-S7] OFF Ajuntament, Setmanes d'Arquitectura venue "MUHBA Park Güell": https://www.barcelona.cat/setmanesarquitectura/en/venues/muhba-park-guell EN
+- [E-S8] OFF MUHBA, *Gaudí/BCN. Guia d'història urbana* (Freixa; 2010, 2nd ed. Jul 2012): https://www.barcelona.cat/museuhistoria/sites/default/files/activitats_pdf/2024-02/Gaudi%20%28CAT%29.pdf CA
+- [E-S9] OFF Barcelona Cultura, "Guided tours MUHBA Casa del Guarda, Oct–Nov 2021": https://www.barcelona.cat/barcelonacultura/en/recomanem/guided-tours-muhba-casa-guarda-october-november-2021 EN
+- [E-S10] OFF MUHBA visit page "Güell, Gaudí i Barcelona. L'expressió d'un ideal urbà": https://barcelona.cat/museuhistoria/ca/formats/visites-comentades/guell-gaudi-i-barcelona-lexpressio-dun-ideal-urba CA
+- [E-S11] OFF spain.info (Turespaña), "Best views of Barcelona": https://spain.info/en/top/best-views-barcelona EN
+- [E-S12] OFF barcelona.cat "Coneix BCN – El Park Güell" (contains slips, C3): https://barcelona.cat/en/coneixbcn/pics/el-park-guell-92086011949 EN
+- [E-S13] SEC Texas Tech University Architecture Library, photo by Javier Gomez: https://exhibits.lib.ttu.edu/s/archlib/item/34569 EN
+- [E-S14] SEC Time Out, "The best views in Barcelona", Tucker & Roig, 29 Feb 2024: https://www.timeout.com/barcelona/things-to-do/the-best-views-in-barcelona EN
+- [E-S15] OFF-op "The park and its surroundings": https://parkguell.barcelona/en/a-park-for-everone/the-park-and-its-surroundings EN
+- [E-S16] OFF-op "Nature and biodiversity": https://parkguell.barcelona/en/a-park-for-everone/nature-and-biodiversity EN
+- [E-S17] OFF-op "Palm Trees Path": https://parkguell.barcelona/en/park-guell/emblematic-features/palm-trees-path EN
+- [E-S18] ecoregistros.org record (failed): https://ecoregistros.org/site_en/registro.php?id=2376077
+- [E-S19] SEC Residència d'Investigadors, "Park Güell, the first modern Mediterranean garden" (J. M. Montserrat, 10 Feb 2011): https://residencia-investigadors.es/en/activities/park-guell-the-first-modern-mediterranean-gard.html EN
+- [E-S20] SEC Enc. Cat., *El Modernisme*, "La música en el modernisme": https://www.enciclopedia.cat/el-modernisme/la-musica-en-el-modernisme CA
+- [E-S21] SEC Bartolí Masons, G., *El Gran Teatre del Liceu en la ficció literària del vuit-cents*, TFG UB 2016: https://diposit.ub.edu/dspace/bitstream/2445/102649/8/TFG_Bartoli_Masons_Gemma.pdf CA
+- [E-S22] SEC Liceu programme, 5 Feb 1901 (UAB DDD): https://ddd.uab.cat/pub/societatliceu/societatliceupro/1901/133814/42564-006@societatliceu.pdf ES
+- [E-S23] OFF MUHBA, "Diàlegs al Park Güell. El Park Güell i l'atracció de la muntanya" (22 Mar 2023): https://barcelona.cat/museuhistoria/ca/formats-i-activitats/dialegs-dhistoria-urbana-i-patrimoni/dialegs-al-park-guell-el-park-guell-i CA
+- [E-S24] SEC Segarra, M. "En el centenari del Primer Congrés Internacional de la Llengua Catalana", *Estudis Romànics* XXVIII (2006): https://ddd.uab.cat/pub/artpub/2006/143881/estrom_a2006v28p249.pdf CA
+- [E-S25] OFF Blog Sagrada Família, Diana Fernández, "Following Antoni Gaudí's footsteps in Barcelona", 31 Jul 2026: https://blog.sagradafamilia.org/en/seguint-els-passos-dantoni-gaudi-a-barcelona/ EN
+- [E-S26] SEC Bellesguard, "The illnesses of Gaudí and the friends who took care of him", 24 Oct 2025: https://bellesguardgaudi.com/en/wp-json/wp/v2/posts/189094 EN
+- [E-S27] SEC Time Out Barcelona, Laia Jordà Sánchez, 1 Jul 2024 (Casa Trias): https://www.timeout.es/barcelona/es/noticias/el-ayuntamiento-de-barcelona-quiere-expropiar-una-historica-casa-modernista-del-park-guell-070124 ES
+- [E-S28] OFF MUHBA schools dossier (secondary): https://www.barcelona.cat/museuhistoria/sites/default/files/dossier_park_guell_secundaria.pdf CA
+- [E-S29] OFF MUHBA, *Gaudí/BCN Urban History Guide*, 2nd ed. Dec 2019: https://www.barcelona.cat/museuhistoria/sites/default/files/gaudi_eng_utt_des_2019_aaff.pdf EN
+- [E-S30] SEC Catalan News (ACN), 23 Oct 2013: https://www.catalannews.com/life-style/item/barcelona-s-park-gueell-will-have-an-entrance-fee-from-friday EN
+- [E-S31] SEC betevé, 9 Jul 2015: https://beteve.cat/general/guies-oficials-i-veins-diuen-que-el-parc-guell-ha-millorat-tot-i-temptar-ara-menys-els-barcelonins/ CA
+- [E-S32] OFF Ajuntament Ecologia Urbana, *Mirades del verd* timeline: https://ajuntament.barcelona.cat/ecologiaurbana/sites/default/files/mirades_del_verd_timeline.pdf CA
+- [E-S33] SEC 3Cat Info, Arnald Prat Barnadas, 23 May 2024: https://www.3cat.cat/3catinfo/el-park-guell-blindat-per-la-desfilada-de-louis-vuitton-que-indigna-els-veins/noticia-amp/3294309/ CA
+- [E-S34] SEC Catalan News, 13 Dec 2025: https://www.catalannews.com/society-science/item/road-to-park-guell-blocked-in-protest-against-wild-touristification EN
+- [E-S35] SEC Arquitectura Catalana (COAC), "Intervencions al Park Güell": https://www.arquitecturacatalana.cat/en/works/intervencions-al-park-guell EN
+- [E-S36] SEC movie-locations.com, *Vicky Cristina Barcelona*: https://www.movie-locations.com/movies/v/Vicky-Cristina-Barcelona.php EN
+- [E-S37] SEC Olive Press, "Gaudí in the cinema", 9 Apr 2020: https://theolivepress.es/spain-news/2020/04/09/gaudi-in-the-cinema EN
+- [E-S38] OFF MUHBA, *La ciutat, el modernisme i Gaudí* (Freixa; Leniz), May 2010 (BCNROC text): https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/91089/6/13013.pdf.txt CA
+- [E-S39] SEC Enc. Cat., "Baldiri Reixac i Carbó": https://www.enciclopedia.cat/gran-enciclopedia-catalana/baldiri-reixac-i-carbo CA
+- [E-S40] OFF BSM press release, 3 May 2026: https://bsmsa.cat/en/press_releases/park-guell-improves-its-user-experience-changes-make-it-safer-and-more-comfortable EN
+- [E-S41] SEC betevé, Jessica Moreno Cusac, 3 May 2026: https://beteve.cat/societat/renovacio-enllumenat-park-guell-millora-visibilitat-seguretat/ CA
+- [E-S42] OFF MUHBA itinerary "El Park Güell i Barcelona": https://barcelona.cat/museuhistoria/ca/activitats/itineraris/el-park-guell-i-barcelona-2 CA
+- [E-S43] SNIP Fundació Gala-Salvador Dalí film archive, "Pintura excéntrica. Conferencia de Salvador Dalí en el Park Güell de Barcelona" (search-result title; "Fecha de emisión: 08/10/1956"): https://salvador-dali.org/es/dali/filmoteca-dali/dali-en-accion/6/pintura-excentrica-conferencia-de-salvador-dali-en-el-park-gueell-de-barcelona
+- [E-S44] OFF Catalonia Tourism (Catalan Tourist Board) news, "Barcelona, a bird's eye view", 11 Oct 2017: https://www.mynewsdesk.com/sg/catalan-tourist-board/news/barcelona-a-birds-eye-view-267175 EN
+- Re-read with new questions: [S3] Bassegoda 2008; [S6] Aguado, Ribas & Hosta 2002 (twice); [S9] Time Out 2026; [S16] Palau programme; [S30] betevé 2021; [S33] Bassegoda/ABC 2003; [A3] MUHBA primary dossier; [A9] Generalitat; [G-S25] MUHBA Casa del Guarda PDF; [G-S26] MUHBA page 49; [G-S34] MUHBA *Butlletí* 20; [O4], [O14], [O24], [O26] CA flyer, [O30] operator pages.
