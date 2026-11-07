@@ -16,3 +16,11 @@ second controlled access point and a one-way section (Pl. Natura, Hypostyle Room
 Stairway, Austria Gardens). So the viaducts and the Portico are inside the ticketed park, not a "free park". The user's
 scope stays the same in content (Monumental Zone + viaducts + Portico; Gaudí House outside only); only the wording of
 "free" changes. To confirm in the route research and on site.
+
+## User decision, 7 Nov 2026: expand to about 45 tracks
+User: "why we have just 25 tracks, should be atleast 45 to 50 tracks in 120 mins full audio guide?" Then, choosing:
+"yes we need to cover more stories and better quality audio, including views and only part of the tickets need to be
+added with approx 45 tracks". So: Full ≈ 120 min with ≈ 45 tracks; more stories from the research; views included
+(sourced or on-site checked); only places covered by the normal park ticket (Casa del Guarda interior YES; Gaudí
+House Museum interior NO, it needs the combined ticket). The 25-track draft (commit "English tracks 001–025, first
+draft") is the base: its audited text carries over.
