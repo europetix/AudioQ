@@ -1,0 +1,28 @@
+@id: 005 · Park Güell · 6 Nov 2026 edition
+@section: The viaducts
+@room: The Low Viaduct (Pont de Baix) · on the viaduct, where its leaning columns can be seen
+@type: W
+@title: The Low Viaduct — Bridges made of the hill
+@where: On the Low Viaduct, the Pont de Baix, at the top of the steps and ramps from the Marianao entrance, where the leaning stone columns under the road and the planters along its railing can be seen. [O5, O9, ALT-V, ALT-M]
+@what: The road network begun in 1900 (s6, F3.3; op11, F10.1); the first viaducts up within three years (F3.4, G43: by Jan 1903 "todos los viaductos salvo detalles"); the architects' visit of 4 Jan 1903 and Salvador Sellés's memoir (s3, G50, G51); the caves "artificials", dug for stone (s3, F2.16); the three five-metre viaducts named on the first postcards (op29, F10.2); rough site stone (op29, op11, F10.3); three jobs (op12, F10.5); the Low Viaduct's parabola of leaning columns and planter railing (op13, F10.8); why the columns lean (Kopsida 2011, G15, G16). Cut for length, in PLAN's cutting order: stone sales, cisterns, restoration and its three rows of openings, the Colònia Güell crypt.
+@listen: Why Gaudí built roads before houses, how a party of architects saw them by torchlight in 1903, and why these stone columns lean.
+@brief: A guide out on the bridge with a good story to tell; brisk curiosity, a hint of wonder at the torchlit caves, plain and confident on the engineering.
+@pace: medium
+@energy: 3→4→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 6 Nov 2026: p. 20 "La obra se inicia en 1900 con la construcción de los caminos", ES) ; op11 https://parkguell.barcelona/en/park-historic/espais-emblematics/high-viaduct (OFF-op, re-read: "designed a 3km road network to interlink the different plots of land"; viaducts "covered with stones from the same mountain") ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read: Jan 1903 yearbook, pavilions, main steps and viaducts) ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC-acad, re-read: p. 102 visit of 4 Jan 1903, Gaudí "en representació del Sr. Güell"; Sellés "portells obagosos oberts en el terreny com si fossin caus excavats per algún ésser vivent dels temps troglodítics", "a la llum d'algunes torxes"; "Aquestes coves o grutes eren artificials i s'havien excavat per tal d'extreure'n pedra"; p. 104 memoir read at the top of the Turó de les Menes, "prèviament supervisada per Gaudí", "amb molts aplaudiments", CA) ; op29 https://parkguell.barcelona/en/park-guell/emblematic-features/roadways-paths-viaducts (OFF-op, re-read: three viaducts "with a width of five metres" for carriages from the Carrer d'Olot entrance to the high ground; Pont de Baix, del Mig, de Dalt on "the first postcards of the park"; sloping columns and vaults of rough site stone, paraphrased) ; op12 https://parkguell.barcelona/en/park-guell/emblematic-features/middle-viaduct (OFF-op, re-read: road above, shelter below, "buttresses and retaining walls for the mountain") ; op13 https://parkguell.barcelona/en/park-guell/emblematic-features/viaducte-baix (OFF-op, re-read: "supported by two rows of inclined columns forming a parabola that includes the central vault"; planters on small columns as a railing) ; G15 G16 Kopsida https://core.ac.uk/download/41804329.pdf (SEC-acad, UPC MSc 2011, re-read: the lower viaduct; "a length of approximately 50 m"; columns "with a maximum height of 6.00m"; "The inclination of the columns apart from impressing aesthetically has also a structural meaning"; "the thrust line is contained within the limits of the vault geometry", EN)
+---
+[curious] Before any house, Gaudí built the roads. Work began in 1900 with three kilometres of road to link the plots. Within three years the first viaducts were up.
+
+On the fourth of January 1903, Gaudí led a party of Catalan architects round the works, "on Mr Güell's behalf", as the Gaudí scholar Joan Bassegoda tells it in Catalan. At the top of the hill one of them, Salvador Sellés, read out a description of the works, "checked beforehand by Gaudí". It's the nearest thing we have to Gaudí's own account of the park.
+
+[conspiratorial] Sellés described the caves on the hill as "shady openings in the ground, as if dug as burrows by some creature of troglodyte times". The party went in by torchlight. Bassegoda adds that the caves were artificial, dug out for stone.
+
+Gaudí planned three viaducts like this, five metres wide, for carriages climbing from the Carrer d'Olot entrance to the top of the estate. The first postcards called them the bottom, middle and top bridge: the Pont de Baix, del Mig and de Dalt. Their sloping columns and vaults are rough stone from the hill itself. Road on top, shelter underneath, and, in the park's words, "buttresses and retaining walls for the mountain".
+
+Now find the leaning columns. This bridge curves, "supported by two rows of inclined columns forming a parabola that includes the central vault". Small columns along the top hold up planters as a railing.
+
+[pause] Why the lean? A university engineering study of this viaduct found the tilt is not just for show. The columns lean because the weight leans, and the forces stay inside the stone.
+
+[warmly] Bridges, made of the hill they hold up.
+
+There's a short Extra a little higher up, where the Middle Viaduct comes into view, if the path is open. The next main stop is back at the start: go down the steps and ramps to the esplanade inside the Carrer d'Olot gate, to the foot of the great stairway and the second ticket check. If there's a queue, join it, and play the next stop while you wait: The foot of the stairway · Sixty plots, two houses.

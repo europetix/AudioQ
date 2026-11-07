@@ -1,0 +1,28 @@
+@id: 012 · Park Güell · 6 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Hypostyle Room · inside, among the columns, a wide aisle in view
+@type: W
+@title: The Hypostyle Room — Columns that are drainpipes
+@where: Inside the Hypostyle Room, among the columns, where you can see down one of the wider aisles where columns were left out. [O15]
+@what: How the columns were made: moulds, lime-mortar concrete with rubble and stones, a wooden roller pulled out to leave a drain to the cistern (s20; F7.9); the rain's route through the square's sandy surface, the little domes and the columns to an underground tank (op8, s15, G3; F8.1, F8.2); the tank for the park, the houses and irrigation (s7a, s7c; F8.3); the dragon as overflow (callback 009, safe); "three naves" (op8; F7.8); white trencadís at the column feet (s20; F7.10); Bassegoda on the cistern (s4; Q10; F8.5); DATED: the March 2026 plan to reuse the tanks (s23; F8.10). Version-neutral: the 86 leaning columns (F7.2, F7.5). No capacity (G1, G2); no hatch (O15).
+@listen: Every column in this Greek hall was cast round a wooden roller, and the hole it left carries the rain down to a tank below.
+@brief: A guide letting the listener in on a hidden system; curious at the start, quietly pleased at each link in the chain.
+@pace: medium
+@energy: 3→4→3
+@sources: s20 https://revistes.ub.edu/index.php/aracne/article/download/42208/39309 (SEC-acad, García Ávila 2023, re-read 6 Nov 2026: prefabricated sections as formwork, "hormigón hecho de mortero de cal con escombros y piedras"; "rodillo cilíndrico de madera"; "servía como conducto de desagüe hacia la cisterna"; "al que Gaudí aplicó el trencadís blanco") ; op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read: "86 striated columns"; "A conduit running inside it collects the rainwater that filters down from the square, sending it on to an underground tank"; "simulate three naves, like a great church") ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, re-read: "The square's sandy surface allows water to filter down into the cistern below.") ; G3 https://gaudiclub.com/ingles/i_vida/park2.htm (SEC-low via FACTS_GAPS G3: pendentives, the hollow centre of the columns; plain-words route only) ; s7a https://artsandculture.google.com/asset/cistern-in-park-güell-antoni-gaudí-i-cornet/9wEJhh2_-kbUmA (SEC, Museu de les Aigües, re-read: "This was built to supply water to the park and the houses in the garden city.") ; s7c https://artsandculture.google.com/asset/water-collection-system-for-the-cistern-in-park-güell-antoni-gaudí-i-cornet/EgH5Cfbmi2QYmw (SEC, re-read: "to feed the garden city's irrigation system") ; s4 https://www.gaudiclub.com/ingles/i_links/rest5.asp (SEC, Bassegoda, re-read: "an extraordinary architectural space, which is totally unknown to the public") ; s23 https://www.eldebate.com/espana/cataluna/barcelona/20260303/park-guell-barcelona-recuperara-sistema-proyecto-gaudi-ahorrar-agua-125-anos-despues_391523.html (SEC, 3 Mar 2026, re-read: "el situado bajo la Sala Hipòstila, que permanecía en desuso"; "para regar las zonas verdes")
+---
+[curious] Each of these columns hides something down its middle. The scholar María-Belén García Ávila described how they were made. Ready-made moulds were filled, as she wrote in Spanish, with "a concrete made of lime mortar with rubble and stones". A wooden roller stood upright in the centre. When the concrete set, the roller was pulled out. And the hole it left "served as a drainage conduit to the cistern".
+
+So these are drainpipes. Eighty-six columns hold up this hall, Greek in style, with the outer row leaning inwards against the rules of classical building. They were built as plumbing too.
+
+Follow the rain. The great square above has a sandy surface, which, in the words of the La Pedrera foundation, "allows water to filter down into the cistern below". The rain soaks through the square, gathers in the hollows of the little domes in the ceiling, and runs down inside the columns. In the park's words, a conduit "collects the rainwater that filters down from the square, sending it on to an underground tank". A large one, under your feet.
+
+Barcelona's water museum says the tank "was built to supply water to the park and the houses in the garden city", and to water its gardens. And when it was full, the overflow came out of the dragon's mouth.
+
+The Gaudí scholar Joan Bassegoda called the cistern "an extraordinary architectural space, which is totally unknown to the public". It isn't open to visitors. In March 2026 the city announced a plan to switch Gaudí's rain system back on for watering the gardens, including the tank under this hall, long out of use.
+
+[warmly] Now look down the wider aisle you're facing. Where columns were left out, the park says, the gaps "simulate three naves, like a great church". Then look at the column feet, at their white skirts of trencadís, broken-tile mosaic. García Ávila notes that this is the base "to which Gaudí applied white trencadís".
+
+[pause] A Greek temple, a church nave, and underneath it all, a working drain.
+
+Stay where you are, and look up: The Hypostyle Room · Jujol's suns.

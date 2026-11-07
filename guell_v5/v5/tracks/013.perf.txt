@@ -1,0 +1,28 @@
+@id: 013 · Park Güell · 6 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Hypostyle Room · inside, under the ceiling's big medallions
+@type: W
+@title: The Hypostyle Room — Jujol's suns
+@where: Inside the Hypostyle Room, under the big round medallions of the ceiling, looking up. [O15]
+@what: The ceiling of small clay-brick domes (op8; F7.13) and its trencadís panels by Josep Maria Jujol (Tarragona 1879 – 1949; full collaboration with Gaudí 1904–1914) (op8, FLYER, s10, s11; F4.1–F4.3); the four Suns, one per season (aj8; Q11; F7.14); the glassware in them (aj8; F7.16); the 2013 emergency and the 24 fragments (aj8; F7.18; Eurocatalana with Gamarra & García, F4.15); Jujol's son's line (s11; Q5; F4.5); Casa Milà (s10; F4.6). No moon reading, no count of small discs (G8, G9); no Jujol quotation (G48).
+@listen: The ceiling's great suns were designed by Gaudí's young assistant, Jujol, out of glass from somebody's dining table.
+@brief: A guide giving the credit where it's due; curious, then delighted at the glassware, warm about Jujol.
+@pace: medium
+@energy: 3→4→3
+@sources: op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read 6 Nov 2026: "The ceiling is formed of small domes constructed using the traditional technique of clay bricks"; "decorated with original tile-shard mosaics made by Josep M. Jujol.") ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read: "unos paneles circulares que proyectó el arquitecto Josep Maria Jujol") ; s10 https://upcommons.upc.edu/bitstreams/92566456-85cc-4edd-9aa6-95f2856c4014/download (OFF, Càtedra Gaudí / UPC, re-read: Jujol "dissenya el colorit trencadís, del banc ondulat i els plafons de la sala hipòstila", "amb material reciclat"; Casa Milà "s'encarregà dels forjats, la decoració interior i en dirigí la construcció") ; s11 https://dialnet.unirioja.es/descarga/articulo/2420342.pdf (SEC, Duch 1999, re-read: "va néixer a Tarragona el 16 de setembre de 1879"; "els anys de col·laboració plena amb Gaudí (1904-1914)"; Jujol's son: "constructivament Gaudí influència Jujol i decorativament Jujol influència Gaudí") ; aj8 https://ajuntament.barcelona.cat/turisme/sites/default/files/5._barcelona_restaura_els_medallons_del_sostre_1.pdf (OFF, Ajuntament 2016, re-read: "els medallons dels quatre Sols (un per a cada estació de l'any)"; "peus de copes, servidores de vidre tallat, taps d'ampolles de licor, ampolletes de perfum"; 2013 "actuació d'urgència fruit d'uns despreniments"; "Cadascun dels quatre Sols es va subdividir en 24 fragments per garantir la seva conservació"; Eurocatalana with Gamarra & García; "plafons de trencadís ceràmic per Josep Maria Jujol, col·laborador de Gaudí")
+---
+[curious] The great discs over your head were not designed by Gaudí. They were designed by his young assistant, Josep Maria Jujol, born in Tarragona in 1879, twenty-seven years after Gaudí. A study of Jujol by the historian Joan Duch calls 1904 to 1914, in Catalan, "the years of full collaboration with Gaudí".
+
+Gaudí built the vault. In the park's words, the ceiling "is formed of small domes constructed using the traditional technique of clay bricks". They were "decorated with original tile-shard mosaics made by Josep M. Jujol". The Càtedra Gaudí's archive, at the city's technical university, says in Catalan that Jujol "designs the colourful trencadís of the undulating bench and the panels of the hypostyle hall". Trencadís is broken-tile mosaic. And the panels, it adds, were made "with recycled material".
+
+[pause] The four biggest discs are suns. When the city restored them, it described them, in Catalan, as "the medallions of the four Suns, one for each season of the year". That's how the city reads them.
+
+[warmly] Now pick one sun and look closely. The city's restoration notice lists what went into them: "feet of wine glasses, cut-glass serving dishes, liqueur-bottle stoppers, little perfume bottles".
+
+In 2013 pieces began to fall, and the city had to step in urgently. Each of the four Suns was then cut into twenty-four fragments, taken down, restored and put back.
+
+Jujol's own son, writing about his father, summed up the partnership. As Duch quotes him, in Catalan: "in construction Gaudí influenced Jujol, and in decoration Jujol influenced Gaudí". Gaudí went on trusting him. At Casa Milà he gave Jujol the floors, the interior decoration and the running of the building site.
+
+Four seasons, made of somebody's wine glasses. When you leave this hall, take Jujol's name with you.
+
+There's a short Extra beside this hall, if its little room is open: the Font Sarva, an old spring Güell once bottled. The next main stop is the Austria Gardens: follow the one-way route out of the hall to the gardens, and stop where you can see across them: The Austria Gardens · An empty plot.

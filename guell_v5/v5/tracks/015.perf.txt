@@ -1,0 +1,26 @@
+@id: 015 · Park Güell · 6 Nov 2026 edition
+@section: The Austria Gardens
+@room: The Austria Gardens · in the gardens, with a view across them
+@type: R
+@title: The Austria Gardens — An empty plot
+@where: In the Austria Gardens, at a spot near their centre with a view across the lawns and trees. [O4, O12]
+@what: The Austria Gardens (Jardins d'Àustria): a zone of estate plots, then the municipal plant nursery; named after a donation of trees from Austria in 1977 (op14, FLYER; F11.1–11.2); the two houses of Güell's time seen from the centre (op14; F11.3); Casa Trias: plot sold to the lawyer Martí Trias i Domènech on 24 Jul 1902 (s3; F2.18), house by Juli Batllevell, 1903–1906, still owned by the family (op17; F2.19, F4.13); DATED: the city's compulsory purchase (G29); DATED: the closure from Casa Trias to the High Viaduct (op24; F3.31). Callback 007 (the sixty plots; safe).
+@listen: A garden that was meant to be a building plot, and the first buyer's house, still in his family's hands.
+@brief: A guide pausing in a green space, a little wistful about empty plots, factual and discreet about a private house.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: op14 https://parkguell.barcelona/en/park-guell/emblematic-features/austria-gardens (OFF-op, re-read 6 Nov 2026: "was one of the zones to be used as plots in the estate"; "the zone was used as a municipal plant nursery"; "a completely different look to the rest of the park"; "a donation of trees from Austria in 1977"; "from its center the two houses that were built in Eusebi Güell's time can be seen") ; op17 https://parkguell.barcelona/en/park-guell/emblematic-features/trias-house (OFF-op, re-read: Batllevell; "Owned by Martí Trias i Domènech, the lawyer for the Güell family, it was built between 1903 and 1906."; "continues to be a private residence and is still owned by the same family"; descendants of the lawyer and Anna Maxenchs) ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read: "la venda del terreny al Sr. Trias el 24 de juliol del 1902") ; G29 https://www.barcelona.cat/infobarcelona/en/millores-al-park-guell-gairebe-39-milions-deuros-entre-el-2023-i-el-2027_1517456.html (OFF, 19 May 2025, re-read: "the expropriation of the Casa Trias") and https://www.idealista.com/ca/news/node/901355 (SEC, 12 Jun 2026, re-read: formal forced expropriation since June 2024; case sent to the Jurat d'Expropiació de Catalunya; owners the heirs of Martí Trias i Domènech) ; op24 https://parkguell.barcelona/en/disruptions (OFF-op, updated 2/11/2026, re-read: closed "from Casa Trias to the Upper Viaduct (Viaducte de Dalt)"; "expected to last 18 months")
+---
+[curious] This garden was meant to be somebody's house. The park says so plainly: what we now call the Austria Gardens "was one of the zones to be used as plots in the estate". Remember the sixty plots? This is what one of them looks like with no house on it.
+
+When the estate became a public park, the city used this ground as a municipal plant nursery. Its name, the Jardins d'Àustria, came from "a donation of trees from Austria in 1977".
+
+[pause] From the centre of these gardens, the park says, "the two houses that were built in Eusebi Güell's time can be seen". Two houses, from all those plots.
+
+One belonged to the estate's first buyer. On 24 July 1902, the Gaudí scholar Joan Bassegoda records, a plot was sold to Martí Trias i Domènech, the Güell family's lawyer. His house, by the architect Juli Batllevell, was built between 1903 and 1906. In the park's words, it "continues to be a private residence and is still owned by the same family": the descendants of the lawyer and his wife, Anna Maxenchs. The city, though, has moved to buy it compulsorily. For now, the path from Casa Trias up to the top viaduct is closed for works.
+
+[warmly] Look across the gardens and picture a house here among the trees, with its own garden around it.
+
+Casa Trias is a private home, so we leave it in peace. The other house you can see from here has a stranger story.
+
+Stay in the gardens and find, among the trees, the pink house with the pointed tower: The Austria Gardens · The house Gaudí didn't design.

@@ -1,0 +1,22 @@
+@id: 004 · Park Güell · 6 Nov 2026 edition
+@section: The gate
+@room: Casa del Guarda · at its door (Extra; if you go in)
+@type: X
+@title: Casa del Guarda · Extra · The caretaker's house
+@where: At the door of the Casa del Guarda, the gatehouse with the mushroom on its roof, on the entrance esplanade; play it before you go in, standing clear of the doorway. [O2, O23]
+@what: The Casa del Guarda, the caretaker's house of the Porter's Lodge pair, "a modest dwelling" (aj4, F5.6), oval in plan (s6, F5.11); private homes from the 1920s to the 1980s, "muchos cambios y mutilaciones", a builders' hut in the late 1980s, restored 1996–99 (s6, F5.14, F5.15); today MUHBA's exhibition "Güell, Gaudí and Barcelona, the expression of an urban ideal", one theme per floor (aj4, F5.16, DATED).
+@listen: The one house on the hill built for a working man, what happened to it after the estate failed, and what the city museum shows inside.
+@brief: A friendly aside at a doorway; quiet curiosity, then a little warmth for a house that survived.
+@pace: medium
+@energy: 2→3
+@sources: aj4 https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-park-guell (OFF, re-read 6 Nov 2026: "an example of a modest dwelling built by Gaudí", for the estate's caretaker; exhibition "Güell, Gaudí and Barcelona, the expression of an urban ideal"; three floors, "the house, the park and the city") ; s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read: pp. 20–21 private homes from the 1920s to the 1980s, "sufrieron muchos cambios y mutilaciones"; p. 21 late 1980s "caseta de obra"; p. 28 dwelling restored 1996–1999; p. 23 "planta elíptica", ES) ; ACCREG https://parkguell.barcelona/en/planning-your-visit/access-regulations (OFF-op, re-read: 3.05 limited capacity; spoken only as "if you can get in")
+---
+[curious] Of everything Gaudí built on this hill, this is the one house made for a working man. The city's history museum calls it "a modest dwelling". It was the caretaker's home, beside the gate he kept.
+
+The estate it guarded never filled up. From the 1920s to the 1980s both gatehouses were private homes, and they "suffered many changes and mutilations", in the Spanish words of the study written for their restoration. In the 1980s one of them even served as a builders' hut. This house was restored at the end of the 1990s.
+
+[pause] Inside, the city's history museum has an exhibition called "Güell, Gaudí and Barcelona, the expression of an urban ideal", with one theme on each floor: the house, the park and the city.
+
+If you can get in, look at how the rooms follow the house's oval plan. [warmly] The caretaker lived inside that curve, keeping the gate of an estate that was still waiting for its buyers.
+
+When you come out, the next main stop is the Low Viaduct. Go to the Marianao entrance, the visitors' gate on the Carrer d'Olot side, without going out, and take the steps and ramps up to the Pont de Baix: The Low Viaduct · Bridges made of the hill.

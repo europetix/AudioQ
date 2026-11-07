@@ -1,0 +1,26 @@
+@id: 009 · Park Güell · 6 Nov 2026 edition
+@section: The Dragon Stairway
+@room: The Dragon Stairway · beside the dragon
+@type: W
+@title: The Dragon Stairway — The dragon is a drain
+@where: Halfway up the Dragon Stairway, beside the creature in broken tile, in a spot where you are not blocking the steps. [O14]
+@what: The dragon, or salamander, of the Dragon Stairway (Escalinata Monumental), Gaudí's workshop, in the park's first building years; trencadís; the fountain fed from the tank under the Hypostyle Room, the mouth its overflow (op7, op8, s7b; F6.6, F6.8, F6.9); Brattstrom and Filler, 2015 (s18; Q8, Q9; F6.14); Bassegoda on Gaudí's dragons (s22; Q7; F12.2); the Feb 2007 vandalism (s17; F6.11); the front right foot, Abel Vallhonesta, finished 22 Apr 2026 (op25; F6.12, DATED); version-neutral: the coat of arms under a serpent's head (F6.5) and Delphi (F12.3, F12.11).
+@listen: The city's most famous dragon turns out to be the overflow of a rain tank, and nobody, Gaudí included, ever said what it is.
+@brief: A guide beside a crowd-pleaser, enjoying the reveal; curious, then amused by the zoologist, warm at the foot.
+@pace: medium
+@energy: 3→4→3
+@sources: op7 https://parkguell.barcelona/en/park-guell/emblematic-features/dragon-stairway (OFF-op, re-read 6 Nov 2026: "the dragon, or salamander, covered with decorative tile-shard mosaic"; "which has become the most popular image of the park"; water "once supplied from the tank under the hypostyle room"; "halfway up the steps is the emblem of Catalonia") ; op8 https://parkguell.barcelona/en/park-guell/emblematic-features/hypostyle-room (OFF-op, re-read: the tank "which has as the stairway dragon's mouth as its overflow", paraphrased) ; s7b https://artsandculture.google.com/asset/dragon-fountain-in-park-güell-antoni-gaudí-i-cornet/kgGWDVjva-ovFg (SEC, Museu de les Aigües, re-read: "The fountain acted as a spillway when the cistern was full."; "It is currently connected to the mains.") ; s18 https://www.nybooks.com/articles/2015/08/13/lizards-park/ (SEC, re-read: Brattstrom, emeritus professor of zoology, "either a garden lizard or the North African rainbow lizard", "It is not a crocodile as some have said."; Filler "his inventive imagination, rather than any strict fidelity to this or that prototype") ; s22 https://www.gaudiclub.com/ingles/i_press/Prensaing/Notasprensa/10_04_23.asp (SEC, re-read: Bassegoda "Gaudì's dragons are taken from mythology and history, and reflect the ideas of Count Güell", "Catalanism, mythology and religion"; Python of Delphi, protector of underground waters; "almost four hundred", photographer Josep Martínez) ; s17 https://archiweb.cz/en/n/foreign/gaudiho-drak-v-barcelone-poskozen-dvema-mladymi-vandaly (SEC, re-read: Feb 2007, iron rod, "suffered serious damage"; repair not stated) ; op25 https://parkguell.barcelona/en/estat-de-les-obres-de-restauracio/16-Restitucio-ma-dreta-salamandra (OFF-op, re-read: front right foot, sculptor Abel Vallhonesta, workshop, "The restoration was finished on 22 April 2026") ; FLYER ES https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_es_red_c.pdf (OFF-op, re-read: "un caño en forma de cabeza de serpiente sobre el escudo de Cataluña")
+---
+[curious] This is the creature everybody queues to photograph. The park's own description is careful with its name: "the dragon, or salamander, covered with decorative tile-shard mosaic". It admits that the creature "has become the most popular image of the park".
+
+[pause] It's also a drain. This fountain was once fed from a large tank under the hall of columns at the top of the steps. The park's own text names the dragon's mouth as the tank's overflow. Barcelona's water museum puts it plainly: "The fountain acted as a spillway when the cistern was full." And today, "It is currently connected to the mains."
+
+So what is it? In 2015 a zoologist, Bayard Brattstrom, wrote to the New York Review of Books. He thought it looked most like a garden lizard, or a North African rainbow lizard. "It is not a crocodile as some have said." [amused] The critic Martin Filler replied that Gaudí's power lay in "his inventive imagination, rather than any strict fidelity to this or that prototype".
+
+Whose ideas does it carry? The Gaudí scholar Joan Bassegoda said that Gaudí's dragons "are taken from mythology and history, and reflect the ideas of Count Güell": for him, Catalanism, mythology and religion. A little below the dragon, on this same stairway, are Catalonia's red and yellow stripes, under a serpent's head. And some scholars see in this creature the Python of Delphi, the serpent that guarded hidden water. Gaudí never explained it.
+
+In February 2007 vandals with an iron rod seriously damaged it. Its front right foot has since been taken away, studied by the sculptor Abel Vallhonesta, and restored. The park says that work was finished on 22 April 2026.
+
+[warmly] Find that front right foot. Then look up to its open mouth, where the spare water poured out. The most famous dragon in Barcelona was built to be a drain.
+
+Climb to the top of the stairway, where the last flight runs in under the hall of columns. Stop by the curved stone bench there, shaped like a little Greek theatre, and look for a tripod that seems made of snakes: The Dragon Stairway · Delphi?

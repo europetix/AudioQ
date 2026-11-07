@@ -1,0 +1,28 @@
+@id: 003 · Park Güell · 6 Nov 2026 edition
+@section: The gate
+@room: The entrance esplanade · between the two pavilions, both roofs in view
+@type: W
+@title: The entrance esplanade — Two gatehouses
+@where: On the entrance esplanade inside the Carrer d'Olot gate, standing between the two gatehouses where both roofs can be seen: the tall tower with its cross on one, the mushroom on the other. [O2, O5, O9, O23]
+@what: The two entrance pavilions that together form the Porter's Lodge (op6, F5.4): the office pavilion with its hyperbolic-paraboloid tower and four-armed cross (s6, s15, F5.8, F5.9), and the caretaker's house, today MUHBA's Casa del Guarda, elliptical in plan with the mushroom-capped flue (s6, aj4, F5.5, F5.6, F5.11); among the first things built (F5.7); trencadís from factory seconds (s6, F5.13) and its history (s24, F15.20); the 1904 plans without the mushrooms (G41, G61); the cross destroyed 1936, a post-war cross, the 1996 copy from photographs (s6 p. 27, F5.10 refined); the Hansel and Gretel legend (F5.17, G58, G59; s16 re-checked).
+@listen: Two gatehouses made of factory rejects, a mushroom that came later, a cross that is a copy, and the fairy tale everyone tells about them.
+@brief: A guide sharing the secrets behind the most photographed roofs on the hill; lively and curious, a lightly amused turn at the legend, honest at its verdict.
+@pace: medium
+@energy: 3→4→3
+@sources: s6 https://core.ac.uk/download/230705175.pdf (SEC-acad, re-read 6 Nov 2026: p. 26 "procedía mayoritariamente de depósitos sobrantes y defectuosos de fábricas de cerámica", "el bajo coste del material", "la gran facilidad para revestir formas curvadas y alabeadas"; p. 20 "conserjería y administración", "vivienda del conserje"; p. 22 "La torre es un paraboloide hiperbólico", "rematada con una cruz"; p. 23 "planta elíptica", "sombrero en forma de seta"; p. 27 "fue destruida en 1936", "Acabada la guerra, fue colocada una nueva cruz, que permaneció en el edificio hasta que se sustituyó en 1996", "La nueva cruz se reprodujo en base a las fotografias de la cruz original", ES) ; s24 https://bop.unibe.ch/manazir/article/download/8389/11351 (SEC-acad, re-read: tile cladding "used in Catalonia and Valencia since the Middle Ages"; fragments "characterizes Mudejar architecture"; "In the Güell Pavilions, Gaudí used for the first time the trencadís"; "Fragmented ceramics have become an identifying element of Gaudí's work") ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, re-read: tower "topped by a four-armed cross") ; op6 https://parkguell.barcelona/en/park-guell/emblematic-features/entrance-pavilions (OFF-op, re-read: "the two pavilions that form the Porter's Lodge"; "a waiting room and telephone booth"; Catalan clay tiles and trencadís) ; aj4 https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-park-guell (OFF, re-read: "a modest dwelling") ; G41 Andruet https://fundacionantoniogaudi.org/Publicaciones/los-planos-de-gaudi-del-park-guell-y-la-casa-batllo.pdf (SEC, re-read: p. 4 "las fachadas de los pabellones no muestran los famosos ventiladores con forma de setas"; plans "firmados por Güell y Gaudí", 26 Oct 1904) ; s16 https://www.palaumusica.cat/prog-ma-hansel-i-gretel_413872.pdf (SEC, re-read: Ton i Guida premiered at the Liceu in 1901; Maragall "amic de Güell i de Gaudí"; the Gaudí link from a news item, CA)
+---
+[curious] The most photographed roofs in the park are made of rejects. A restoration study found the broken tile came, in Spanish, "mostly from surplus and defective stock from ceramic factories". Cheap, and easy to fit to curves.
+
+Gaudí didn't invent *trencadís*, this broken-tile mosaic. Catalans and Valencians had dressed walls in coloured tile since the Middle Ages, and Mudéjar builders set broken ceramic into them. Gaudí first used it in the 1880s and made it his signature.
+
+The park calls the pair the Porter's Lodge. One was the porter's office, "with a waiting room and telephone booth". The other was the caretaker's home, "a modest dwelling", now the city history museum's Casa del Guarda.
+
+Look up at the roofs. The tall tower is a hyperbolic paraboloid that narrows as it rises, topped by a four-armed cross. The other house is oval, and its flue ends in what the restoration study calls "the mushroom-shaped hat". Yet the mushroom seems to have been an afterthought: the plans Güell and Gaudí signed in 1904 don't show it.
+
+[pause] The cross isn't the first one. The original was destroyed in 1936, at the start of the Civil War. The one put up after the war looked quite different. Today's is a copy, made from photographs of the original.
+
+[lightly] Tour guides love to say these are the gingerbread house from Hansel and Gretel. A Palau de la Música programme notes the opera was staged at the Liceu in 1901, in a Catalan version by the poet Joan Maragall, a friend of both men. Did Gaudí have it in mind? Nobody can show it.
+
+[warmly] Factory seconds, a fairy tale, a copied cross.
+
+If you go inside the Casa del Guarda, the caretaker's house with the mushroom on its roof, there's a short Extra to play at its door. The next main stop is up among Gaudí's first roads. Go to the Marianao entrance, the visitors' gate on the Carrer d'Olot side, without going out, and take the steps and ramps from just inside it up to the Low Viaduct, the Pont de Baix, and stop on it: The Low Viaduct · Bridges made of the hill.

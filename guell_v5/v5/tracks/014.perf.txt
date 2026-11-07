@@ -1,0 +1,24 @@
+@id: 014 · Park Güell · 6 Nov 2026 edition
+@section: The Hypostyle Room
+@room: The Font Sarva · at its little room beside the Hypostyle Room (Extra; if open)
+@type: X
+@title: The Font Sarva · Extra · Güell's bottled water
+@where: At the door of the Font Sarva's small room, set in the enclosing wall of the Hypostyle Room; play it only if the room is open. [O13]
+@what: The Font Sarva, a spring older than the park, in the basement of the Hypostyle Room, fed by mine water from the hill (s19; F8.7); placed "in the enclosing wall" of the hall (G65); La Salut neighbours with jugs, water piped to the Larrard farmhouse well (s19; F8.9); Güell's 1913 analysis, magnesium, sold as medicinal water in pharmacies for about a decade (s19; F8.7); the space opened up in the works ending 2020 (op23; F3.28); DATED: visitable since Sep 2020 (s19; F8.8).
+@listen: A spring older than the park, which Güell tried to sell in chemists' shops, and which spent decades hidden in the hall's basement.
+@brief: A guide at a small side door, sharing a quirky footnote; light and curious, a little amused at Güell the salesman.
+@pace: medium
+@energy: 2→3→2
+@sources: s19 https://beteve.cat/historia/parc-guell-recupera-font-sarva/ (SEC, betevé 6 Apr 2021, re-read 6 Nov 2026: "Aquest element, anterior a la construcció del recinte modernista"; "estava amagat al subsol de la Sala Hipòstila"; water "provinent de les mines subterrànies de la muntanya pelada"; "la gent de la Salut venia amb càntirs a recollir l'aigua de la font"; "també es canalitza fins a la deu de l'antiga masia Larrard"; "L'any 1913 Eusebi Güell va analitzar l'aigua i va descobrir que contenia magnesi"; in pharmacies "durant una dècada"; "des del setembre passat es pot visitar") ; G65 https://ajuntament.barcelona.cat/turisme/sites/default/files/27._barcelona_destina_45_milions_al_park_guell_0.pdf (OFF, Ajuntament 2016, re-read: "ubicada a la paret de tancament de la Sala Hipòstila") ; op23 https://parkguell.barcelona/sites/default/files/notas/NdP%20CAT.pdf (OFF-op, 14 Aug 2020, re-read: "posar en valor l'espai de la Font Sarva, un àmbit que fins ara no era accessible")
+---
+[curious] This spring is older than everything Gaudí built around it. Barcelona's local broadcaster, betevé, called it, in Catalan, "this feature, older than the modernista complex". Its water comes from underground mines in the old Bald Mountain. A city works notice places it "in the enclosing wall of the Hypostyle Room".
+
+Long before the park, people from La Salut, the neighbourhood around the hill, came up with clay jugs to fetch its water. It was also piped to the well of the old Larrard farmhouse, the house Güell would later make his home.
+
+[amused] Then Güell had an idea. In 1913 he had the water analysed, and found it contained magnesium. He decided to bottle it and sell it as medicinal water. For about a decade, betevé says, you could find it in the chemists' shops of the day.
+
+For years the spring lay hidden in the basement of the hall. The restoration works that ended in 2020 opened up its little room, a space that, in the park's words in Catalan, "until now had not been accessible". Visitors have been able to see it here since September 2020.
+
+As you look in, picture the neighbours with their jugs, and Güell's bottles on a chemist's shelf.
+
+Then follow the one-way route out to the Austria Gardens, and stop where you can see across them: The Austria Gardens · An empty plot.

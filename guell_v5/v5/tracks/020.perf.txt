@@ -1,0 +1,24 @@
+@id: 020 · Park Güell · 6 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · at the parapet, the city in view
+@type: R
+@title: The Nature Square — The view
+@where: At the edge of the Nature Square where the tiled bench looks out over the city; find a gap where you're not leaning over people sitting. [O7, O16]
+@what: The square as "A viewpoint over the city" (op5, F9.19); the buyers' sea-view rule (aj3, Q4; callback 007); the bald, stony hill "with almost no vegetation" (aj9, F14.11); Barcelona of 1900, "over half a million inhabitants" (op2, F1.19); the park's highest point, the Turó de les Tres Creus, 182.30 m, "Ore Hill or the Hill of Mines and Caves" (op30, F14.9); the chapel planned there, "Capelya" on the plan of the 1903 visit (G42), Bonaventura Bassegoda i Amigó in the Diario de Barcelona, 14 Jan 1903 (G52, s3), three crosses "which simulated the Calvary" instead (op30, s3, F12.7). No landmark named or pointed to until O7; the rain-machine thesis (G4) verified but cut for length.
+@listen: What the buyers were promised from this edge, the bald hill Gaudí found, and the chapel that became three crosses.
+@brief: A guide at the parapet beside the listener, unhurried and warm, letting the view do the work, with a touch of wonder at the hilltop.
+@pace: medium-slow
+@energy: 2→3
+@sources: op5 https://parkguell.barcelona/en/park-guell/emblematic-features (OFF-op, re-read 6 Nov 2026: card "The Greek Theatre or Nature Square": "A viewpoint over the city, delimited by an undulating bench…") ; aj3 https://www.barcelona.cat/museuhistoria/sites/default/files/dossier_park_guell_primaria.pdf (OFF, re-read 6 Nov 2026: "no podrà tapar la vista al mar", CA) ; aj9 https://patrimoni.gencat.cat/en/node/1367 (OFF, re-read: "The chosen site, with almost no vegetation, was stony and with significant ground irregularities.") ; op2 https://parkguell.barcelona/en/park-guell/origin-and-creation (OFF-op, re-read: in 1900 Barcelona "had over half a million inhabitants") ; op30 https://parkguell.barcelona/en/park-guell/emblematic-features/three-crosses (OFF-op, re-read: "at 182.30 metres above sea level"; "Ore Hill or the Hill of Mines and Caves"; "where they planned to build the chapel for the housing estate"; "which simulated the Calvary") ; G-S20 https://fundacionantoniogaudi.org/Publicaciones/los-planos-de-gaudi-del-park-guell-y-la-casa-batllo.pdf (SEC, Andruet, re-read p. 4: "una silueta lobulada que se designaba como “Capelya”", on the plan of the 1903 visit, ES) ; s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read p. 107: "comentat el 14 de gener per Bonaventura Bassegoda i Amigó al Diario de Barcelona"; "la capella la qual protegirà, dominant-la, tota la colònia"; "Aleshores es decidí la construcció del Calvari en lloc de la capella", CA)
+---
+[warmly] The park's own entry for this square opens with five plain words: "A viewpoint over the city."
+
+The rules for buyers, as the city's history museum sums them up, said in Catalan that a buyer "may not block the view of the sea". This view was written into the contract.
+
+When Gaudí came here, this was a bald hill. The Catalan heritage service describes a site "with almost no vegetation", stony and very uneven. Everything green you see came later. Barcelona then had over half a million people, and the city has been climbing the hill ever since.
+
+[curious] The park's highest point, a hundred and eighty-two metres above the sea, is the hill of the three crosses, the Turó de les Tres Creus. The park says it was once called "Ore Hill or the Hill of Mines and Caves". A chapel for the estate was meant to stand up there. On a plan of 1903 its outline survives, labelled "Capelya". That same year the architect Bonaventura Bassegoda wrote in a Barcelona newspaper, in Catalan, that the chapel "would protect the whole colony, looking down on it".
+
+[pause] It was never built. Instead, the park says, three stone crosses went up, "which simulated the Calvary". Where the chapel should have been, three crosses.
+
+The next stop is the Portico of the Washerwoman. Find the old iron door at the edge of the square that once led into the gardens of Casa Larrard. Follow the path beyond it, through the pines, to a portico of stone shaped like a breaking wave: The Portico of the Washerwoman · The wave.
