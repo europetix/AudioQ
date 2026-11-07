@@ -253,3 +253,9 @@ Several OK rows are also DATED (E1–E8 exhibition content; E72–E76, E85–E86
 - [E-S43] SNIP Fundació Gala-Salvador Dalí film archive, "Pintura excéntrica. Conferencia de Salvador Dalí en el Park Güell de Barcelona" (search-result title; "Fecha de emisión: 08/10/1956"): https://salvador-dali.org/es/dali/filmoteca-dali/dali-en-accion/6/pintura-excentrica-conferencia-de-salvador-dali-en-el-park-gueell-de-barcelona
 - [E-S44] OFF Catalonia Tourism (Catalan Tourist Board) news, "Barcelona, a bird's eye view", 11 Oct 2017: https://www.mynewsdesk.com/sg/catalan-tourist-board/news/barcelona-a-birds-eye-view-267175 EN
 - Re-read with new questions: [S3] Bassegoda 2008; [S6] Aguado, Ribas & Hosta 2002 (twice); [S9] Time Out 2026; [S16] Palau programme; [S30] betevé 2021; [S33] Bassegoda/ABC 2003; [A3] MUHBA primary dossier; [A9] Generalitat; [G-S25] MUHBA Casa del Guarda PDF; [G-S26] MUHBA page 49; [G-S34] MUHBA *Butlletí* 20; [O4], [O14], [O24], [O26] CA flyer, [O30] operator pages.
+
+## Lead's corrections (7 Nov 2026, from the ed2 writer of 001–013)
+- E5/E7/E8: es3 no longer carries per-floor texts; floor themes rest on MUHBA's 2023 guide and the 2010 press note only. HEDGE.
+- E88: "telephones and armchairs" comes from the MUHBA schools dossier's fictional story; attribute it as such.
+- E104: the source is about the pavilion roofs, not the wall.
+- Mushroom cap: s6 (2002 restoration study) puts the mushroom-shaped flue cap on the OFFICE (conserjería) pavilion; La Pedrera and the official route map's drawing put a mushroom-like dome on the Casa del Guarda. Unresolved until O2: cues must not rely on "the mushroom"; use the tall tower to pick out the office pavilion and "the other gatehouse" for the Casa del Guarda.

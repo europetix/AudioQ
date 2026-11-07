@@ -1,0 +1,26 @@
+@id: 039 · Park Güell · 7 Nov 2026 edition
+@section: The Portico
+@room: The Portico of the Washerwoman · under the wave, to one side
+@type: W
+@title: The Portico of the Washerwoman — The wave
+@where: Under the stone portico shaped like a breaking wave, on the path through the pines beyond the Nature Square's iron door; stand to one side so the one-way flow can pass. [O-map, O3, O17, O19]
+@what: The Portico of the Washerwoman (Pòrtic de la Bugadera; the Laundry Room Portico on the park's pages): "a great wave atop slanting columns", "a double colonnade that acts as a buttress" against "a retaining wall made from unworked stone" (op10, F10.13); the flyer's "pedra sense treballar" and "el perfil d'una gran onada" (FLYER CA); "one of the finest examples of the organic architecture upheld by Gaudí" (op10, F10.14, attributed); version-neutral: the name from one column carved as a washerwoman (FLYER, F10.15; H and E skip 040); FA S11 / RA S8: "It stands on leaning columns, as Gaudí's road bridges in the park do" (self-contained, no callback).
+@listen: How a wave of rough stone holds up a hillside, and where the portico gets its name.
+@brief: A guide under the portico with the listener, plainly impressed by the structure, explaining the buttress simply, then letting the stone speak.
+@pace: medium
+@energy: 3→4→3
+@sources: op10 https://parkguell.barcelona/en/park-guell/emblematic-features/laundry-room-portico (OFF-op, verified by FA and the ed1 re-read of 6 Nov 2026: "adopts the shape of a great wave atop slanting columns"; "a double colonnade that acts as a buttress"; "a retaining wall made from unworked stone"; "one of the finest examples of the organic architecture upheld by Gaudí"; the page does not say the portico carries a path, FA S11) ; FLYER CA https://parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_cat_red_c.pdf (OFF-op, re-read 7 Nov 2026: "El pòrtic, fet de pedra sense treballar i que adopta el perfil d'una gran onada, està compost per un seguit de columnes,"; "una de les quals amb forma de cariàtide que representa una bugadera", CA; the section label "PÒRTIC DE CASA DEL GUARDA" is a layout slip, F15.45: never spoken) ; op29 https://parkguell.barcelona/en/park-guell/emblematic-features/roadways-paths-viaducts (OFF-op, via FACTS 10.3: the road bridges on sloping columns; supports the self-contained comparison only)
+---
+The stone over your head is holding up a hillside. The park describes this portico as one that "adopts the shape of a great wave atop slanting columns". Underneath the wave it is "a double colonnade that acts as a buttress", set against "a retaining wall made from unworked stone".
+
+In Catalan it's the Pòrtic de la Bugadera, the Portico of the Washerwoman, though the park's signs may call it the Laundry Room Portico. It takes its name from one of its columns, carved in the shape of a washerwoman.
+
+[curious] Think for a moment about what a buttress does. Behind that rough wall is the hill itself, its weight pressing outward. The double row of columns braces the wall against it. The portico stands on leaning columns, as Gaudí's road bridges in the park do. Shelter for walkers, and a prop for the hillside, in one piece of building.
+
+The park calls it "one of the finest examples of the organic architecture upheld by Gaudí". That means building that takes its shapes from nature, and here the shape is easy to read. A wave rolls along the side of the hill, and breaks over your head.
+
+[pause] Look along the slanting columns, and then at the wall behind them. The stone was left unworked: rough pieces, never cut into neat blocks. Nothing here was carved smooth, except one column.
+
+[warmly] A wave of stone, holding up a hill.
+
+Walk slowly along the portico, find the column carved as a woman, and stop beside it, out of the flow: The Portico of the Washerwoman · A washerwoman and two pillars.
