@@ -1,0 +1,28 @@
+@id: 043 · Park Güell · 7 Nov 2026 edition
+@section: The way out
+@room: The way out · walking down past the bandstand and along the wall to the gate (heard walking)
+@type: W
+@title: The way out — Six weeks
+@where: Heard while walking down from Casa Larrard, past a small round bandstand and along the inside of the wall to the main gate on Carrer d'Olot; keep walking at your own pace and watch your step. [O-map, O11, O18]
+@what: Version-neutral: the city bought the park from Güell's heirs in the early 1920s (F3.13 safe wording; E skips 042); opened as a municipal park on 26 April 1926 (op4, s9, F3.15); "open to all the city's people" (G77 sense of "accés lliure per als ciutadans"; RA S9, never "free access"); Gaudí hit by a tram on 7 June 1926 at Bailèn and the Gran Via, died three days later at the Hospital de la Santa Creu (s31, s32, F13.2, F13.3); he had moved out the year before into his workshop at the Sagrada Família (op16, op22, F3.17; callback 028, in E and F); Dalí's lecture in the park, 1956, filmed (s33, E110, FA-verified Dalí Foundation record; never "newsreels", never what he said); monument 1969 (op1, op4); UNESCO 1984, one of seven Gaudí works on the list (op1, F13.4); DATED: Gaudí Year 2026 (s26, F13.7: cut after 31 Dec 2026).
+@listen: How the failed estate opened to the whole city in April 1926, and lost its maker six weeks later.
+@brief: A guide walking beside the listener, easy and storytelling at first, then quiet and plain for Gaudí's death, warmer again at the end.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "It was opened as a municipal park in 1926."; "recognised as an artistic monument in 1969") ; s9 https://www.timeout.es/barcelona/es/noticias/el-park-guell-celebrara-una-cena-popular-inspirada-en-las-garden-parties-del-siglo-xx-para-celebrar-que-hace-cien-anos-se-convirtio-en-parque-publico-010926 (SEC, ed1 re-read 6 Nov 2026: "el 26 de abril de 1926", ES) ; G-S34 https://www.barcelona.cat/museuhistoria/sites/default/files/muhbabutllet20.pdf (OFF, MUHBA, verified by FA: "el 1926 el convertirà en espai amb accés lliure per als ciutadans", CA: paraphrased, no quotation marks) ; s31 https://www.vilaweb.cat/noticies/els-tres-dies-dagonia-que-van-convertir-la-mort-de-gaudi-en-un-dol-de-ciutat/ (SEC, ed1 re-read 6 Nov 2026: 7 June 1926, a little after six in the evening, Bailèn and the Gran Via; Hospital de la Santa Creu; died 10 June 1926, CA) ; s32 https://www.enciclopedia.cat/el-modernisme/antoni-gaudi-geni-del-modernisme (SEC, ed1 re-read: "morí a Barcelona el 1926 atropellat per un tramvia", CA: not quoted, RA L3) ; op16 https://parkguell.barcelona/en/park-guell/emblematic-features/gaudi-museum-house (OFF-op, ed1 re-read: "the architect lived there until 1925, a year before his death") ; op22 https://sagradafamilia.org/es/casa-museo-gaudi (OFF, former operator, via FACTS 3.17: "se trasladó al taller de la Sagrada Familia") ; s33 https://gaudiclub.com/ingles/i_equipo/cg/gaudidali.asp (SEC, Bassegoda in ABC 2003, ed1 re-read: "his 1956 conference in Park Güell") ; es43 https://salvador-dali.org/ca/dali/filmoteca-dali/dali-en-accio/6/pintura-excentrica-conferencia-de-salvador-dali-al-park-gueell-de-barcelona (OFF, Fundació Gala-Salvador Dalí film record, verified by FA 7 Nov 2026: "Pintura excèntrica: conferència de Salvador Dalí al Park Güell", issued 08/10/1956) ; op1 https://parkguell.barcelona/en/park-guell/world-heritage-site (OFF-op, ed1 re-read: "recognised by the Spanish state in 1969"; "a World Heritage Site since 1984"; "Seven buildings designed by Antoni Gaudí") ; s26 https://www.thelocal.es/20260325/everything-you-need-to-know-about-barcelonas-gaudi-year-2026 (SEC, ed1 re-read: "Gaudí Year 2026, commemorating the 100th anniversary of the architect Antoni Gaudí's death")
+---
+[warmly] This is how a private estate became everyone's park. In the early 1920s the city bought the park from Güell's heirs. It opened as a municipal park on 26 April 1926. As the park's historians put it, it was now open to all the city's people. The estate built for sixty rich families belonged to everyone.
+
+[quietly] Six weeks later, on an early June evening, Gaudí was hit by a tram at the corner of Bailèn and the Gran Via, in the city below. He was taken to the Hospital de la Santa Creu. He died there three days later.
+
+[pause] He had moved out of his house here the year before, into his workshop at the Sagrada Família. So he knew this hill as a public park for only a few weeks, and by then he no longer lived on it.
+
+[warmly] The hill went on without him. Thirty years after the opening, Salvador Dalí gave one of his eccentric lectures here, and it was filmed. The Spanish state declared the park a monument, and in 1984 UNESCO made it World Heritage. Today it is one of seven works by Gaudí on that list.
+
+2026 was named Gaudí Year, for the hundredth anniversary of his death.
+
+As you walk along the inside of the wall, remember what it was built for: to close off a private estate. That April, its gates opened to the city.
+
+Opened in April. Its maker gone by June.
+
+There's one more story before the last. When you reach the Carrer d'Olot gate, stop just inside it, out of the way of people leaving: The Carrer d'Olot gate · The neighbours' park.

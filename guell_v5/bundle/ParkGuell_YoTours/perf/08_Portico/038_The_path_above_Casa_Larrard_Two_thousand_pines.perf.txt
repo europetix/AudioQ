@@ -1,0 +1,24 @@
+@id: 038 · Park Güell · 7 Nov 2026 edition
+@section: The Portico
+@room: The path above Casa Larrard · among the pines, just past the iron door [O27] (official H)
+@type: R
+@title: The path above Casa Larrard — Two thousand pines
+@where: On the path just past the old iron door at the corner of the Nature Square, among the pines above Casa Larrard; step to the edge so the one-way flow can pass. [O-map, O3, O27]
+@what: The trees and the war (the war's one home, PLAN §3): almost all the park's trees cut for firewood during the Civil War, two thousand conifers and other trees planted after it (s3, E43; never "hungry winters"; "much of the park's pinewood", never "these pines"); the original iron door and the path above Casa Larrard through a pine grove (op10, F10.13); Storm Glòria, 2020: two old trees down near the Portico, the ceramic roof of the water mine to Casa Larrard broken, the paving restored June–August 2022 (WORKS10, F10.17).
+@listen: How a war nearly stripped this hill of its trees, how the pines came back, and what a storm did to two old trees beside the path.
+@brief: A guide on the path among the pines, quiet and plain about the war, then easier and practical about the storm, ending on the trees overhead.
+@pace: medium-slow
+@energy: 2→2→3
+@sources: s3 https://raco.cat/index.php/ButlletiRACBASJ/article/download/219547/329537/330057 (SEC, Bassegoda 2008, re-read 7 Nov 2026: during the Civil War almost all the park's trees were cut "per a fer llenya"; after it, "plantat dues mil coníferes i altres arbres", CA) ; op10 https://parkguell.barcelona/en/park-guell/emblematic-features/laundry-room-portico (OFF-op, verified by FA and the ed1 re-read of 6 Nov 2026: "an original iron door which leads to where there used to be the gardens of Casa Larrard"; "The route, which runs at a level higher than that of the house, passes through a pine grove") ; WORKS10 https://parkguell.barcelona/en/renovation-works-status/10-Restorations-pavements-Portico-Washerwoman (OFF-op, re-read 7 Nov 2026: "Storm Glòria of 2020 caused, among other incidents," the collapse of "two hundred-year-old trees located in the Portico of the Washerwoman's surroundings" (ambiguous: spoken "two old trees"); the roots "ripping up the ceramic pieces covering the roof of the water mine"; the mine "channelling it to the Casa Larrard"; works June – August 2022; the tunnel "fails to meet the conditions required to be opened up to visitors")
+---
+[quietly] For a few years, this hill was almost bare again. During the Civil War, nearly every tree in the park was cut down for firewood. When the war was over, one history of the hill records, the city planted two thousand conifers and other trees. Much of the park's pinewood is younger than the war.
+
+You came through an original iron door, the park says, one that leads "to where there used to be the gardens of Casa Larrard". This path runs above that house, through a pine grove. It was the way down to Güell's own home.
+
+[pause] The trees have had a hard century. In 2020 Storm Glòria brought down two old trees close to the portico ahead. As they fell, their roots broke the ceramic roof of an old water mine, a narrow tunnel that carried water to Casa Larrard. The park says it is too narrow to open to visitors. The paving round the portico was restored two years later.
+
+Look up into the pines around you, at the light coming through them. On a hill that a war once stripped, they are the patient part of the story.
+
+[lightly] A war took almost every tree on this hill. The pines came back.
+
+Follow the path on to a portico of stone shaped like a breaking wave. Stand under it, to one side, so the one-way flow can pass: The Portico of the Washerwoman · The wave.

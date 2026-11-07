@@ -1,0 +1,30 @@
+@id: 034 · Park Güell · 7 Nov 2026 edition
+@section: The Nature Square
+@room: The Nature Square · at the bench (sit if you can)
+@type: W
+@title: The Nature Square — A hundred metres of broken tile
+@where: At the long tiled bench that runs along the edge of the Nature Square on the stairway side; sit if there's room, or stand beside it without crowding the people sitting. [O16]
+@what: The undulating bench of the Nature Square, built 1909–1914, finished 1914 (op4, FLYER; F3.9, F9.8): balustrade and water collector (op9, F9.7; G69); the square behind it the roof of the hall of columns (op9; version-neutral for H); Gaudí shaped it, Jujol's trencadís skin (F4.3, F4.4 safe wording; RA L6, RA N17; callback 024); about a hundred metres by the conservators' measure (s14; F9.9, G62); prefabricated modules (s15; F9.10); Jujol's incisions on the backrest's top and along a line halfway up (s4; F9.15); Marian inscriptions (G49); inner face ceramic and porcelain, outer face glass (s14; F9.14); the wet-plaster legend, once (F9.12, F15.24, s30); the backrest's curve (s15; F9.11 HEDGE wording); conservation since around 1990, backrests photographed one by one (s14, op28; F9.17).
+@listen: How a bench became a railing and a drain, who made its colour, and the story about it that nobody has ever proved.
+@brief: A guide sitting on the bench beside the listener, warm and close, enjoying the craft, amused at the legend and honest about it.
+@pace: medium
+@energy: 3→4→3
+@sources: op9 https://parkguell.barcelona/en/park-guell/emblematic-features/greek-theatre (OFF-op, re-read 7 Nov 2026: the bench "planned by Josep M. Jujol, acting as a balustrade"; the square "held up on top of the hypostyle room", EN) ; G-S32 https://artsandculture.google.com/asset/outer-side-of-the-undulating-bench-in-park-güell-antoni-gaudí-i-cornet/GwG_0zGZYcqelg (SEC, Museu de les Aigües, re-read 7 Nov 2026: "This undulating bench acts as a boundary and balustrade for the park square and has a water collection system.", EN) ; op4 https://parkguell.barcelona/en/park-guell/over-hundred-years-history (OFF-op, re-read 7 Nov 2026: "the tiled bench running around it was completed in 1914", EN) ; s10 https://upcommons.upc.edu/bitstreams/92566456-85cc-4edd-9aa6-95f2856c4014/download (OFF, Càtedra Gaudí / UPC Fons Jujol, via FACTS F4.3, V by FA: Jujol "dissenya el colorit trencadís, del banc ondulat", CA; not quoted) ; s14 https://iccm-mosaics.org/wp-content/uploads/2018/02/Recasens-Domínguez.pdf (SEC, conservators Cusó & Alcobé, blocked 7 Nov 2026, via FACTS F9.9, F9.14, F9.17: 102 m, spoken as "about a hundred metres"; inner face ceramic and some porcelain, outer face glass; around 1990, 2011, 2016; paraphrased, no quotation marks) ; s15 https://www.lapedrera.com/en/work-antoni-gaudi/park-guell/ (SEC, V by FA 7 Nov 2026: "made from prefabricated modules"; "an anatomical backrest adapted to the position of the human body"; "created in collaboration with Josep Maria Jujol", EN) ; s4 https://www.gaudiclub.com/ingles/i_links/rest5.asp (SEC, Joan Bassegoda Nonell, director of the Càtedra Gaudí, re-read 7 Nov 2026 (FA could not): "incisions and colors made by Josep Maria Jujol", on the headpiece of the back and the horizontal line halfway up, EN) ; G49 https://diposit.ub.edu/dspace/bitstream/2445/179272/1/705626.pdf (SEC-acad, Rius Santamaria, via FACTS_GAPS G49: inscriptions "dedicated to Virgin Mary that are engraved in the ceramic of the undulating bench", EN; blocked 7 Nov 2026; fact only, no quotation) ; s30 https://beteve.cat/va-passar-aqui/va-passar-aqui-la-construccio-del-park-guell/ (SEC, betevé 2021, via FACTS F15.24: tells the naked workman in a mould, CA; "local television has told it") ; op28 https://parkguell.barcelona/en/renovation-works-status/03-medallions-trencadis (OFF-op, V by FA 7 Nov 2026: "All the backrests were individually photographed, one by one"; "to ensure they would stay true to the original model", EN)
+---
+[warmly] This is a bench, a railing and a drain at once. The park calls it an undulating bench of broken tile, "acting as a balustrade". The Museu de les Aigües, a museum of water, adds that it "has a water collection system". Even the bench catches the rain. And the square behind you is the roof of the hall of columns.
+
+Who made it? The park's pages credit Jujol alone. Other sources credit both men. Gaudí shaped the bench. Its skin of broken tiles is largely Jujol's work, the same young assistant who coloured the suns in the hall below you.
+
+It's about a hundred metres long, by the measure of the conservators who restored it. It was made from prefabricated modules, sections like a kit, and then dressed in tile. It was finished in 1914, the year the works on the estate stopped.
+
+[curious] Now look closely along the top of the backrest. Bassegoda described "incisions and colors made by Josep Maria Jujol" there, and along a line halfway up the back. Find a mark scratched into the tile. Among Jujol's marks are prayers to the Virgin Mary, engraved into the ceramic. The conservators note that its inner face is ceramic and porcelain, its outer face glass.
+
+[amused] There's a story that tour guides love, and even local television has told it. Gaudí, it goes, sat a workman, naked, in wet plaster to get the curve. It's a great story, and nobody has ever found proof of it.
+
+What is true: the backrest curves to fit your back. Lean into it.
+
+Conservators have come back again and again since a major restoration around 1990. Once, every backrest was photographed, one by one, so the repairs would stay true to the original.
+
+Gaudí's curve, Jujol's colour, and the rain running through both.
+
+If you're on the full tour, there's a short Extra to play here on the bench, about the words hidden in it: The Nature Square · Extra · Words in the tiles. Otherwise, the next main stop is right here. Stand at the bench and look out over the city: The Nature Square · The view.

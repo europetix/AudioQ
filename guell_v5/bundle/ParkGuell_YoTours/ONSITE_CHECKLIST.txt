@@ -1,0 +1,246 @@
+PARK GÜELL V5, EDITION 2: ON-SITE CHECKLIST (from v5/PLAN_V2.md, 7 Nov 2026; 45 tracks)
+==========================================================================================
+Edition 1's list (25 tracks) is kept as v5/ONSITE_CHECKLIST_ED1.txt. Item numbers O1–O24 keep their meaning;
+O25–O28 and O-map are new. Track numbers below are EDITION 2's.
+
+One walk of the FULL route, in PLAN_V2 order, before recording, with the official "Imprescindibles" flyer map
+(parkguell.barcelona/sites/default/files/mapa/ParkGuell_Flyer_Imprescindibles_en_red_c.pdf, printed), a printout of
+the official recommended-routes drawing (research/map/official_routes_carrer_olot.png) and a phone camera.
+- Photograph every sign, plaque, map board and arrow you are asked about. Save them to research/onsite/ as Oxx_<what>.jpg.
+- Note times with a stopwatch: WALKING AND QUEUING ONLY, not listening.
+- Report each item as CONFIRMED / DIFFERENT (what you saw) / NOT FOUND.
+- Never complete a CAPTCHA or create an account. Never go into Casa Larrard (a school), Casa Trias (a private home)
+  or the Gaudí House Museum. The tower pavilion is the shop: note only where to stand outside it.
+- Nothing about prices, hours, slots or tickets goes into the guide; note them only if they change the route.
+- Never note directions as compass points. Use left/right AS DEFINED ON THE DRAWING (standing on the esplanade inside
+  the main gate, facing up the stairway) and also as you walk, plus landmarks, so the lead can rewrite cues.
+- Once through the second control the route is ONE WAY, and once out of the park you CANNOT come back in.
+  Walk the outer parts (gate, Casa del Guarda, viaducts) first, then the inner section, exactly as PLAN_V2 orders them.
+  A second ticketed visit is needed to test ALT-G (other gates), ALT-L or ALT-Q2 (things at the end).
+
+-------------------------------------------------------------------------------
+DESK FIRST (before the walk)
+-------------------------------------------------------------------------------
+[ ] O20  The day before: re-read parkguell.barcelona /en/disruptions (Casa Trias – High Viaduct; Coll del Portell –
+      Forat del Vent; the Marianao steps-ramp; lighting, drainage and paving works on the main paths, the Austria
+      Gardens stairs and the hilltop, E85/G32), /en/planning-your-visit/the-restricted-area, the salamander's-foot
+      works page, the Font Sarva, the MUHBA Casa del Guarda page (exhibition and floors still the same?), news on
+      Casa Trias (G29), the rain-tank plan (F8.10, E86), the Sagrada Família blog page on Gaudí's day (E62).
+      Note anything that changes a DATED sentence (PLAN_V2 §6).
+[ ] O1-desk  If still possible, open the official web app osam.bcn.cat/parkguell/inici: does it show where the second
+      control is? Save to research/map/.
+[ ] O21  The 2026 reduced-mobility plan: note the step-free route from the Carretera del Carmel gate.
+[ ] O24  Official app: narrated audio? stops, length, languages? (competition only; never in speech)
+
+-------------------------------------------------------------------------------
+CRITICAL ITEMS (the route depends on them)
+-------------------------------------------------------------------------------
+[ ] O-map CRITICAL  THE OFFICIAL DRAWING, ON THE GROUND (every cue tagged [O-map])
+      Confirm or correct each, with a photo:
+      [ ] the tower pavilion (tall chequered tower, cross) is on the LEFT facing the stairway; the Casa del Guarda
+          (mushroom cap) on the RIGHT                                                    (003, 004, 006 cues; 002 bridge)
+      [ ] the Marianao entrance is reached "along the inside of the wall, past the Casa del Guarda"     (001, 006, 009)
+      [ ] D, the hall's front, is "on the left as you arrive" at the top of the stairway       (020 cue; 018 E bridge)
+      [ ] from the hall, the route goes "up its right-hand side" to the Austria Gardens   (024, 025 cues; 024 bridges)
+      [ ] an "upper path" along the top of the gardens leads to "the square's right-hand corner"  (030, 031 cues; 028 E)
+      [ ] the iron door is at "the corner of the square on your right as you look out over the bench"
+                                                                                         (037 cue; 036 H, 037 E bridges)
+      [ ] from the ramp: "past a small round bandstand and along the inside of the wall to the main gate"
+                                                                               (042 cue; 039 H, 041 E, 043 E bridges)
+[ ] O1 CRITICAL  THE SECOND CONTROL AND THE ONE-WAY SECTION (001, 012/013 cues, 014, 015, 016)
+      - WHERE is the second ticket check? (Expected: the foot of the Dragon Stairway.) Photograph it and any sign.
+      - Does the one-way route run C → D → E → F → G → H → I as drawn? Any other controls (the square from the Palm
+        Trees Path; Sant Josep)? Entry, exit or both?
+      - Is there a sign saying it is one way? Wording? (015's warning must match reality.)
+[ ] O3 CRITICAL  THE IRON DOOR, THE PINES, THE PORTICO, THE RAMP (037 cue, 038, 039, 040; bridges 036 H, 037 E, 039 E/H)
+      - The old IRON DOOR at the square's corner (O-map): photograph. Can you come back into the square after it? (Expected: no.)
+      - The path above Casa Larrard through pines; the Portico; a SPIRAL RAMP down to Casa Larrard. Open?
+[ ] O5 CRITICAL  THE MARIANAO STEPS-RAMP AND THE VIADUCTS (006 and 009 cues, 010, 011, 012, 013; ALT-V, ALT-M)
+      - From the esplanade, WITHOUT leaving the park: along the inside of the wall to the Marianao entrance, then up
+        its steps and ramps to the Low Viaduct (Pont de Baix)? Open (maintenance since Nov 2024)? Time it up and down.
+      - On the Low Viaduct (010): a safe spot; the planters/pots on small columns; the railing with THREE ROWS OF OPENINGS.
+      - Beside it (011): a spot on an open path where the LEANING COLUMNS can be seen from the side.
+      - Under it (012): is there a SHELTER / covered walk under the viaduct that looks cave-like? Can people stand in it?
+      - Is the Low Viaduct OUTSIDE the one-way section (no control between it and the esplanade)?
+      - The Middle Viaduct (013): where does it come into view from an OPEN path? The carob trunk visible?
+        Where does the closure (beyond Casa Trias, to the High Viaduct) start? Photograph the barrier/sign.
+      - Any view of the city or the sea FROM the viaducts? (E108: unverified; list only, never scripted without the lead)
+[ ] O9 CRITICAL  THE OTHER GATES (001's "find the start" lines; ALT-G)
+      - The Marianao entrance: next to the main gate's side lane? Signed "Marianao"?
+      - From the CARRETERA DEL CARMEL gate: can a visitor walk down to the esplanade WITHOUT passing the second
+        control? Which way? Signs to "Carrer d'Olot" / "Sortida"? Time it.
+      - From the SANT JOSEP DE LA MUNTANYA escalator gate: up past the round bandstand to the esplanade (as drawn)?
+      - RA N16: is there a visitor EXIT at the Sant Josep corner (the drawing shows an exit marker)? (Never spoken; route only.)
+[ ] O10 CRITICAL  THE QUEUE (014 and 015, two standing tracks, ≈ 5.3 min together; ALT-K)
+      - Where does the queue for the second control form? How long, at three times of day (note the time)?
+      - Can people stand still there safely for about five minutes to listen? Shade?
+[ ] O11 CRITICAL  CASA LARRARD AND THE WAY OUT (040 cue, 041, 042, 043, 044, 045; ALT-L, ALT-Q2, ALT-X)
+      - At the foot of the spiral ramp (041): Casa Larrard (the Baldiri Reixac school) in view from the path?
+      - A second spot a few steps on (042), house still in view, out of the school's way?
+      - The way to the gate: past a small round bandstand, along the inside of the wall? Time it (043 is ≈ 2.2 min,
+        heard walking; PLAN_V2 expects ≈ 3.0 min of walking).
+      - Does the way out rejoin the ESPLANADE INSIDE the park (no control, not outside)? If yes: ALT-L possible.
+      - Does it pass the Casa del Guarda's door inside the park? If yes: ALT-Q2 possible.
+      - Just inside the Carrer d'Olot gate: a quiet spot for 044/045 out of the flow? Stairway in view? Exit-only signs?
+[ ] O12 CRITICAL  THE AUSTRIA GARDENS' MIDDLE (027, 028, 029; bridge 024 E>028)
+      - Where can you see BOTH houses of Güell's time: Casa Trias and the Gaudí House Museum? Which is which?
+        Photograph from that spot.
+[ ] O18 CRITICAL  STOPWATCH (PLAN_V2 §3 "Walking by segment")
+      - PLAN_V2 expects walking Full ≈ 35.1, E ≈ 25.1, H ≈ 15.0 min, plus a queue of ≈ 5 min and, for Full, ≈ 2 min
+        at the Casa del Guarda door and ≈ 1.5 min moving between its floors.
+      - Time every segment, the queue and the Casa del Guarda wait. Correct 001's spoken times and §3 if far off.
+[ ] O23 CRITICAL  THE CASA DEL GUARDA, FLOOR BY FLOOR (006 cue, 007, 008, 009; ALT-Q, ALT-Q2)
+      - Where is its door? Is there a queue? How long? Can you go in at all? (ACCREG 3.05: "does not guarantee entry")
+      - GROUND FLOOR (007): theme "the house"? [ ] parabolic arches in the walls  [ ] each room a different colour
+        [ ] red clay floor tiles  [ ] a stove / kitchen range  [ ] vestibule, kitchen, pantry, living room identifiable?
+      - FIRST FLOOR (008): theme "the park"? [ ] bedrooms identifiable (four?)  [ ] steel-and-ceramic beams visible?
+        [ ] anything quoting Mireia Freixa?
+      - TOP FLOOR (009): theme "the city"? [ ] the spiral stair round the chimney: visible? OPEN to visitors?
+        [ ] the Catalan dome overhead  [ ] porcelain crosses in the attic windows  [ ] the panel "A portrait of
+        monumental Barcelona in 1917"  [ ] a film comparing old photographs with today: running?  [ ] an old map (c. 1917)?
+      - ANY scale model of the park or original objects? (E11: unverified; list them, never scripted without the lead)
+      - Photograph each floor's title panel.
+
+-------------------------------------------------------------------------------
+OTHER ITEMS
+-------------------------------------------------------------------------------
+[ ] O2  THE TWO PAVILIONS (003 cue, 004, 005, 006; ALT-W)
+      - E103: which roof carries the mushroom-shaped cap? Only the Casa del Guarda's, or both?
+      - Where to stand to see both roofs at once (004).
+[ ] O4  LINKS INSIDE THE ONE-WAY SECTION: hall → Austria Gardens (up the right-hand side?); gardens → square (upper path?).
+[ ] O6  The "Volta dels carruatges": visible? signed? (held; never spoken)
+[ ] O7  THE VIEWS (030, 036, 037; ALT-T1)
+      - FROM THE BENCH (036), one spot, photograph a panorama; TICK what is clearly visible:
+        [ ] the sea   [ ] two tall towers by the shore (Olympic Village)   [ ] the Sagrada Família   [ ] Montjuïc
+        [ ] the Torre Glòries   [ ] the Eixample grid   [ ] Gràcia below   [ ] the hill with three crosses (037)
+      - FROM AN AUSTRIA GARDENS TERRACE (030): [ ] the city below   [ ] Gràcia   [ ] the Sagrada Família
+      - Anything else you can name with certainty: list it with a photo (added only after the lead checks it).
+[ ] O8  The 2026 exhibition "A recer del Park Güell": on our route? (never in speech)
+[ ] O13 THE FONT SARVA (024 cue, 025; ALT-S): its little room open? In the hall's enclosing wall? Inside the flow?
+[ ] O14 THE DRAGON STAIRWAY (015 cue, 016, 017, 018, 019, 020; bridges 015 H, 016 E, 018 E/H)
+      - A spot at the foot of the first flight, past the control (016). The two grottos: which is the waiting shelter
+        with the conical column (left/right as you climb)? The goblin shapes on the first landing?
+      - Halfway (017): the coat of arms with the serpent's head; a spot to one side; any other Catalan shields?
+      - The dragon (018): a safe place beside it; the FRONT RIGHT FOOT (restored 2026): visibly new?
+      - A few steps above it (019): a spot to the side, looking back down at the dragon?
+      - Count the steps of each flight (G68).   - At the top (020): the curved "odeon" bench; the tripod of snakes.
+[ ] O15 THE HYPOSTYLE ROOM (020 cue, 021–024; bridges)
+      - The outer row leaning (021)? Spouts on the frieze: lion heads?
+      - Inside (022): the wider aisles; the white skirts; a HATCH in the floor (G65)?
+      - Under the small domes (023): their broken-tile panels visible?
+      - The four big Suns (024): findable? the glassware visible from the floor? Count the smaller discs (G8).
+[ ] O16 THE NATURE SQUARE AND THE BENCH (032–036)
+      - The retaining wall with the palm-tree capitals (032).   - Sitting on the bench possible? The outer glass face?
+      - Jujol's scratched marks on the top edge (034): photograph two.
+      - Tiles marked "1992" or "92" (035; E77, C7): find one? photograph. Which form does the mark take?
+[ ] O17 THE WASHERWOMAN COLUMN AND THE END COLUMNS (039 cue, 040): which column is she? What does she carry?
+      Photograph front and side. Which are "the two end columns"? Writers describe her only from these photos.
+[ ] O19 SIGN NAMES: photograph every sign used in a cue (the Carrer d'Olot gate/exit, the Marianao entrance, Casa del
+      Guarda, Dragon Stairway / Monumental Staircase, Sala Hipòstila, Font Sarva, Jardins d'Àustria, Plaça de la
+      Natura, Pòrtic de la Bugadera / Laundry Room Portico, Casa Larrard, Pont de Baix, Pont del Mig, Passeig de les
+      Palmeres). Any structure signed "Viaducte de la Bugadera" (G71)?
+[ ] O22 THE GAUDÍ HOUSE MUSEUM from the Austria Gardens (028, 029): pink walls, pointed tower, clearly visible?
+[ ] O25 NEW  THE HILLTOP (Turó de les Tres Creus) (037; ALT-T)
+      - Is the summit open and reachable inside the ticketed park in Nov 2026? From which path? Does the way up cross
+        the second control or a works fence? Time it up and down from the Low/Middle Viaduct. (Do NOT climb past any
+        closure sign.) The lead and the user decide ALT-T from this report.
+[ ] O26 NEW  THE AUSTRIA GARDENS IN DETAIL (026, 029 cue, 030, 031; bridges)
+      - Entering the gardens (026): a spot to stand. The flower and aromatic beds (2012, E57)?
+      - A terrace with the city below in view (030): where?   - The upper path among trees (031): where?
+      - Trees: Aleppo pine (twisted, grey) vs stone pine (umbrella crown) identifiable on the upper path? Palms?
+        (Photograph; a botanist's check later. Never script a species from memory.)
+      - The gardens' stairs open (lighting works)?
+[ ] O27 NEW  THE PINES PAST THE IRON DOOR (037 cue, 038): a place to stand on the path among pines, out of the flow?
+      Are they pines? Which kind (O26 method)?
+[ ] O28 NEW  THE TOWER PAVILION (004 cue, 005): a place outside, with the tower and the door in view, out of the
+      shop's doorway? The round bullseye glass panes visible?
+
+-------------------------------------------------------------------------------
+PER-TRACK DIRECTIONS TICK LIST (Full order; tick the cue's destination and features, or write what you see)
+-------------------------------------------------------------------------------
+Cue texts: PLAN_V2 §2 (last-but-two column). Bridges: PLAN_V2 §3.
+
+001  Just inside your gate ............ [ ] each gate's start line works (Marianao: along the wall past the mushroom
+                                            gatehouse; Carmel; Sant Josep: past the bandstand)  (O-map, O1, O2, O9)
+002  Facing the wall .................. [ ] PARK GÜELL medallions  [ ] the iron gates reachable to one side (O19, O11)
+003  Beside the palm-leaf gates ......... [ ] palm-leaf ironwork  [ ] spot between the gatehouses, both roofs (O-map, O2)
+004  Between the pavilions .......... [ ] both roofs  [ ] ten-plus whites visible  [ ] tower pavilion on the left (O-map, O28)
+005  Outside the tower pavilion ...... [ ] tower and door in view, out of the way  [ ] bullseye panes  [ ] cross (O28)
+006  Casa del Guarda door ............. [ ] mushroom cap (E103)  [ ] oval plan visible  [ ] door; queue? (O2, O23)
+007  Ground floor (Extra) ............. [ ] see O23 ground-floor ticks
+008  First floor (Extra) .............. [ ] see O23 first-floor ticks
+009  Top floor (Extra) ............... [ ] see O23 top-floor ticks  [ ] then along the wall to the Marianao entrance (O-map, O5)
+010  On the Low Viaduct .............. [ ] pots  [ ] three rows of openings  [ ] a side spot for 011 (O5)
+011  Beside the Low Viaduct .......... [ ] leaning columns seen from the side  [ ] the shelter underneath (O5)
+012  In the shelter .................. [ ] cave-like  [ ] standing safe  [ ] Middle Viaduct higher up? (O5)
+013  Middle Viaduct in view (Extra) .. [ ] open path  [ ] carob trunk  [ ] closure sign  [ ] back down (O5)
+014  Queue at the second control ...... [ ] queue here; length (O1, O10)
+015  Queue, continued ................ [ ] one-way sign  [ ] foot of the first flight past the check (O1, O14)
+016  Foot of the stairway ............. [ ] shelter grotto and column  [ ] goblins  [ ] coat of arms above (O14)
+017  The coat of arms ................. [ ] serpent's head  [ ] safe spot  [ ] dragon just above (O14)
+018  Beside the dragon ................ [ ] safe spot  [ ] front right foot (O14)
+019  Above the dragon ................ [ ] spot to the side looking back down (O14)
+020  Odeon bench and tripod .......... [ ] tripod found  [ ] the hall's front on the left (O-map, O14, O15)
+021  The hall's front ................ [ ] outer columns lean  [ ] way in among the columns (O15)
+022  Inside the hall ................. [ ] wide aisle  [ ] white skirts  [ ] hatch?  [ ] small domes for 023 (O15)
+023  Under the small domes ........... [ ] broken-tile panels  [ ] a big disc nearby (O15)
+024  Under a Sun ..................... [ ] glassware  [ ] Font Sarva door  [ ] the way up the hall's right-hand side (O13, O-map, O4)
+025  Font Sarva (Extra) .............. [ ] open  [ ] back into the flow (O13, O4)
+026  Entering the gardens ............. [ ] the 2012 beds  [ ] the middle of the gardens (O26, O12)
+027  Gardens' middle, Casa Trias ...... [ ] Casa Trias identified (O12)
+028  Gardens' middle, pink house ...... [ ] pink walls, pointed tower (O12, O22)
+029  Same spot ...................... [ ] the way up to a terrace (O26)
+030  A terrace, city below ........... [ ] O7 terrace ticks  [ ] the upper path (O7, O26)
+031  On the upper path ............... [ ] trees identified?  [ ] the square's right-hand corner ahead (O26, O-map)
+032  The square, in the open .......... [ ] palm capitals  [ ] the bench on the stairway side (O16)
+033  The square, in the open .......... [ ] (same spot)
+034  At the bench ..................... [ ] sitting  [ ] Jujol's marks (O16)
+035  At the bench (Extra) ............. [ ] "1992"/"92" tile? (O16)
+036  At the bench, the view ........... [ ] O7 bench ticks
+037  At the bench, the hilltop ........ [ ] crosses in view? (O7)  [ ] the iron door at the corner on your right (O-map, O3)
+038  Among the pines ................. [ ] pines; place to stand (O27)
+039  Under the Portico ................ [ ] under the wave, to one side  [ ] the washerwoman column (O3, O17)
+040  At the washerwoman column ........ [ ] her tools (photo)  [ ] the two end columns  [ ] the ramp ahead (O17, O3)
+041  Foot of the spiral ramp ......... [ ] Casa Larrard in view from the path (O11)
+042  A few steps on .................. [ ] house still in view  [ ] the bandstand ahead (O11, O-map)
+043  Walking to the gate ............. [ ] bandstand, along the wall; time it; ≈ 2.2 min of listening fits? (O11, O18)
+044  Just inside the gate ............. [ ] quiet spot (O11)
+045  Just inside the gate (CLOSE) .... [ ] stairway in view  [ ] the gate is the way out (O11)
+
+BRIDGES (Highlights H / Essential E):
+002 H,E>004 .. [ ] turn round; both roofs; tower left, mushroom right                              (O-map, O2)
+004 E>006 .... [ ] across to the mushroom gatehouse's door                                         (O-map, O2, O23)
+004 H>015 .... [ ] to the foot of the stairway, the second check                                    (O1, O10)
+010 E>014 .... [ ] down the steps-ramp to the esplanade and the second check                        (O1, O5, O10)
+015 H>018 .... [ ] past the check, up to the dragon, a little above the coat of arms                (O1, O14)
+016 E>018 .... [ ] up to the dragon                                                                 (O14)
+018 E>021 .... [ ] top of the stairway; the hall's front row on the left                            (O-map, O14, O15)
+018 H>022 .... [ ] top; in among the columns; a wide aisle                                          (O14, O15)
+022 H,E>024 .. [ ] under a Sun                                                                      (O15)
+024 E>028 .... [ ] up the hall's right-hand side; the gardens' middle; the pink house                (O-map, O4, O12, O22)
+024 H>034 .... [ ] up the right-hand side, through the gardens, to the square; the bench            (O-map, O4, O16)
+028 E>032 .... [ ] up through the gardens, the upper path, to the square                             (O-map, O4)
+032 E>034 .... [ ] the bench                                                                        (O16)
+036 H>039 .... [ ] the iron door at the corner on your right facing the city; pines; the Portico     (O-map, O1, O3)
+037 E>039 .... [ ] through the iron door to the Portico                                             (O-map, O3)
+039 E>041 .... [ ] along the path; spiral ramp; Casa Larrard                                        (O-map, O3, O11)
+039 H>045 .... [ ] ramp; Casa Larrard; bandstand; along the wall; just inside the gate               (O-map, O3, O11)
+041 E>043 .... [ ] bandstand; along the wall; toward the gate (heard walking)                        (O-map, O11)
+043 E>045 .... [ ] just inside the gate                                                              (O11)
+
+-------------------------------------------------------------------------------
+LISTENING CHECKS FOR NAMES (after the first renders; human QA, V5 standard §6.7)
+-------------------------------------------------------------------------------
+Score each 1–5; anything below 4 goes to the per-engine override list. Full list: PLAN_V2 §7.
+[ ] Güell (GWELL)    [ ] Eusebi (ew-ZEH-bee: changed from edition 1)    [ ] Gaudí (gow-DEE)    [ ] Jujol (zhoo-ZHOL)
+[ ] Berenguer   [ ] Casa del Guarda   [ ] Larrard   [ ] Bugadera   [ ] Sala Hipòstila   [ ] Baldiri Reixac
+[ ] Font Sarva   [ ] Jardins d'Àustria   [ ] Plaça de la Natura   [ ] Pont de Baix / del Mig / de Dalt
+[ ] Marianao   [ ] Carrer d'Olot   [ ] Muntanya Pelada; Can Muntaner de Dalt; Can Coll i Pujol; barrio de la salud
+[ ] Turó de les Tres Creus; Capelya   [ ] Gràcia; La Salut; Eixample; Sant Gervasi; Tibidabo
+[ ] Martí Trias i Domènech; Anna Maxenchs; Juli Batllevell   [ ] Josep Pardo i Casanovas; Josep Berdié i Pardo
+[ ] Francesc Gaudí i Serra; Rosa / Roseta Egea; Llorenç Matamala; Chiappo
+[ ] Sant Joan de Gràcia; Sant Felip Neri   [ ] Josep Maria Montserrat   [ ] Frederic Ballell; Mireia Freixa; Mar Leniz
+[ ] Joan Bassegoda; Bonaventura Bassegoda; Diario de Barcelona; Salvador Sellés
+[ ] María-Belén García Ávila; Bayard Brattstrom   [ ] Abel Vallhonesta; Toni Cumella; Nicolau Maria Rubió i Tudurí
+[ ] Pedralbes; "King Alfonso the Thirteenth"   [ ] trencadís; sardana; castellers; Jocs Florals; Centre Català
+[ ] the cue separator "·" renders as a short pause
