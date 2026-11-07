@@ -1,5 +1,11 @@
+# On-site tags for the bridges below (never spoken; only lines that start with a track number are read as bridges):
+#   002 H>004: [O-map, O2]
+#   002 E>004: [O-map, O2]
+#   004 E>006: [O-map, O2, O23]
+#   004 H>015: [O1, O10, ALT-K]
+#   010 E>014: [O1, O5, O10, ALT-K]
 002 H>004: On this shorter tour, skip the next story. Turn round and find a spot between the two gatehouses where you can see both roofs: the tall tower with its cross on your left, the other gatehouse on your right: The entrance esplanade · Factory seconds.
 002 E>004: On this shorter tour, skip the next story. Turn round and find a spot between the two gatehouses where you can see both roofs: the tall tower with its cross on your left, the other gatehouse on your right: The entrance esplanade · Factory seconds.
 004 E>006: On this shorter tour, skip the next story. Cross to the other gatehouse, the one without the tower, on your right as you face the stairway, and stand outside its door: Casa del Guarda · A modest dwelling.
-004 H>015: On this shorter tour, head for the foot of the great stairway, where the second ticket check is. If there's a queue, join it, and play the next stop while you wait: The foot of the stairway · Sixty plots, two houses.
-010 E>014: On this shorter tour, go back down the steps and ramps to the esplanade, to the foot of the great stairway and the second ticket check. If there's a queue, join it, and play the next stop while you wait: The foot of the stairway · The healthy quarter.
+004 H>015: On this shorter tour, head for the foot of the great stairway, where the second ticket check is. Play the next stop before the check: in the queue if there is one, or standing to one side just before it: The foot of the stairway · Sixty plots, two houses.
+010 E>014: On this shorter tour, go back down the steps and ramps to the foot of the great stairway and the second ticket check. Play the next stop before the check: in the queue if there is one, or standing to one side just before it: The foot of the stairway · The healthy quarter.

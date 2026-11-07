@@ -3,7 +3,7 @@
 @room: The Austria Gardens · a terrace with the city below in view
 @type: R
 @title: The Austria Gardens — Down the hill every morning
-@where: On a terrace higher up the Austria Gardens, along the one-way route, where the city below comes into view; stand to one side of the path. No landmark is named until the on-site check ticks it from this terrace. [O-map, O7, O26]
+@where: On a terrace higher up the Austria Gardens, along the one-way route, where the city below comes into view; stand to one side of the path. [O-map, O7: no landmark named until ticked from this terrace; O26]
 @what: Gaudí's daily round in his park years, as the Sagrada Família's own blog describes it: down to the parish church of Sant Joan de Gràcia; after mass on to the Sagrada Família (commissioned 1883); in the evening to Sant Felip Neri for prayer and vespers; back up "on foot or by tram", with the evening edition of La Veu de Catalunya under his arm; "between eight and ten kilometres a day" (es25; E62; DATED: re-check the blog before recording). The gardens' "good views" (op14; E105). No landmark named (O7 not done).
 @listen: How Gaudí spent his days while he lived on this hill: down to the city in the morning, and back up in the evening.
 @brief: A guide at a terrace rail, looking out with the listener, curious and companionable, a quiet admiration at the walking.
@@ -11,7 +11,7 @@
 @energy: 2→3→2
 @sources: es25 https://blog.sagradafamilia.org/en/seguint-els-passos-dantoni-gaudi-a-barcelona/ (OFF, Diana Fernández, Blog Sagrada Família, 31 Jul 2026, modified 3 Aug 2026, re-read 7 Nov 2026: "In the morning, he walked down to the Sant Joan de Gràcia parish church, where he normally worshipped in those years."; "After mass, he would walk to the Sagrada Família, where he worked on the project he had been commissioned in 1883"; "In the evening, after finishing work, he walked to Sant Felip Neri church, where he prayed and took part in vespers."; back to the park "on foot or by tram, with the evening edition of the newspaper La Veu de Catalunya under his arm" (FACTS E62's relay "carrying the evening paper" corrected); "Gaudí walked between eight and ten kilometres a day through the streets of Barcelona.", EN) ; op14 https://parkguell.barcelona/en/park-guell/emblematic-features/austria-gardens (OFF-op, re-read 7 Nov 2026: "The garden has good views", EN)
 ---
-[curious] How did the most famous man on this hill spend his days? The Sagrada Família's own blog has pieced it together, for the years when he lived up here.
+[curious] How did Gaudí spend his days, in the years he lived up here? The Sagrada Família's own blog has pieced it together.
 
 In the morning, it says, "he walked down to the Sant Joan de Gràcia parish church, where he normally worshipped in those years". After mass he walked on to the Sagrada Família, the church he had been commissioned to build back in 1883, and worked there. In the evening, after work, he went to the church of Sant Felip Neri, to pray and to take part in vespers.
 

@@ -1,10 +1,10 @@
 @id: 006 · Park Güell · 7 Nov 2026 edition
 @section: The gate
-@room: Casa del Guarda · outside its door, the mushroom roof in view
+@room: Casa del Guarda · outside its door, the gatehouse without the tower
 @type: W
 @title: Casa del Guarda — A modest dwelling
-@where: Outside the door of the Casa del Guarda, the gatehouse on the right as you face the stairway, with the cap on its roof in view; stand clear of the doorway and of any queue. [O-map, O2, O19, O23]
-@what: The Casa del Guarda, the caretaker's house, "a modest dwelling" (aj4, F5.6); an elliptical plan with two half-circles (s6 p. 23, F5.11, E13); La Pedrera's "mushroom-shaped dome" on the caretaker's residence (s15; E103 HEDGE: s6 p. 23 puts its "sombrero en forma de seta" on the office pavilion, so pointed to by sight); ground-floor walls 50 cm of stone from the park's old quarries (s6 p. 21, E99); private homes from the 1920s to the 1980s (s6, F5.14); the other pavilion a builders' hut (s6 p. 21, E102); restored at the end of the 1990s (F5.15); a MUHBA branch since 2010 (E1, G-S34); the exhibition and its three floors (aj4, F5.16, DATED).
+@where: Outside the door of the Casa del Guarda, the other gatehouse, the one without the tower, on the right as you face the stairway; stand clear of the doorway and of any queue. [O-map, O2, O19, O23]
+@what: The Casa del Guarda, the caretaker's house, "a modest dwelling" (aj4, F5.6); an elliptical plan with two half-circles (s6 p. 23, F5.11, E13); La Pedrera's "mushroom-shaped dome", in the body only and attributed (s15; E103 HEDGE: s6 p. 23 puts its "sombrero en forma de seta" on the office pavilion; never used to find the house, which is found as the gatehouse without the tower, lead's decision 7 Nov); ground-floor walls 50 cm of stone from the park's old quarries (s6 p. 21, E99); private homes from the 1920s to the 1980s (s6, F5.14); the other pavilion a builders' hut (s6 p. 21, E102); restored at the end of the 1990s (F5.15); a MUHBA branch since 2010 (E1, G-S34); the exhibition and its three floors (aj4, F5.16, DATED).
 @listen: The one house on the hill built for a working man, what happened to it after the estate failed, and what the city museum shows inside.
 @brief: A guide at a doorway, fond of a small house that survived; curious at first, a little warmth at the end, then clear directions.
 @pace: medium
@@ -15,12 +15,10 @@
 
 Look at its shape. The plan is an oval: an ellipse, closed at each end by a half-circle. On its roof, the La Pedrera foundation sees a "mushroom-shaped dome".
 
-The house is built of the hill itself. The study written for its restoration found the ground-floor walls half a metre thick, made of stone from the park's own old quarries.
+The house is built of the hill itself. Its ground-floor walls are half a metre thick, the restorers found, of stone from the park's old quarries.
 
-The estate it guarded never filled up. From the 1920s to the 1980s both gatehouses were private homes, and they "suffered many changes and mutilations", in the Spanish words of that same study. Later the other one even served as a builders' hut. This house was restored at the end of the 1990s, and since 2010 it has been a small branch of the city's history museum.
+The estate it guarded never filled up. From the 1920s to the 1980s both gatehouses were private homes, and they "suffered many changes and mutilations", in the Spanish words of the restorers' study. Later the other one even served as a builders' hut. This house was restored at the end of the 1990s, and since 2010 the city's history museum has run it.
 
 [pause] Inside, the museum's exhibition is called "Güell, Gaudí and Barcelona, the expression of an urban ideal". There's one theme on each floor: the house, the park and the city.
-
-[warmly] The caretaker lived inside that curve, keeping the gate of an estate that was still waiting for its buyers.
 
 If you're on the full tour and can go inside, there are three short Extras in the house, one for each floor. Start on the ground floor with: Casa del Guarda · Extra · The caretaker's rooms. Otherwise, the next main stop is up among the roads Gaudí built first. Walk along the inside of the wall, past this house, to the Marianao entrance, without going out. From just inside it, steps and ramps climb to the Low Viaduct, the Pont de Baix. Stop on it: The Low Viaduct · Roads before houses.

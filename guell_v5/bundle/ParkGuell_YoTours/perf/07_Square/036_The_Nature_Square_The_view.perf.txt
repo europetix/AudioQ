@@ -3,8 +3,8 @@
 @room: The Nature Square · at the bench, looking out over the city
 @type: W
 @title: The Nature Square — The view
-@where: At the long tiled bench on the stairway side of the Nature Square, looking out over the city; find a gap where you're not leaning over people sitting. [O7, O16]
-@what: The view from the bench, home of the sea-view rule and the bald hill (RA L1): the site "with almost no vegetation" (aj9, F14.11; FA N15 "Most of the green"); Barcelona of 1900, "over half a million inhabitants" (op2, F1.19); Gràcia joined to Barcelona in 1897 (es29, E68); the rule on the houses' height and placing to protect the view of the sea (op4, FA S6; es29 and es38 add the sunlight, E27, E83, C12); the square as "A viewpoint over the city" (op5, F9.19) and, in MUHBA's schools story, a place "to take the fresh air and watch the city" (aj3, E90, labelled as the story); the view to the sea (es11, E24); the Olympic Village towers (es44, E113: one cuttable sentence, O7 only, Lead's decision 6); where the rich went instead (es29, E68; poor transport F2.26).
+@where: At the long tiled bench on the stairway side of the Nature Square, looking out over the city; find a gap where you're not leaning over people sitting. [O7: keep the sea sentence ("On a clear day, the same board says…") only if the sea is ticked, and the towers paragraph ("The Catalan Tourist Board says…") only if the sea and the two tall towers by the shore are ticked; each is cut whole, and nothing else in the track depends on them; O16, ALT-T1]
+@what: The view from the bench, home of the sea-view rule and the bald hill (RA L1): the site "with almost no vegetation" (aj9, F14.11; FA N15 "Most of the green"); Barcelona of 1900, "over half a million inhabitants" (op2, F1.19); Gràcia joined to Barcelona in 1897 (es29, E68); the rule on the houses' height and placing to protect the view of the sea (op4, FA S6; es29 and es38 add the sunlight, E27, E83, C12); the square as "A viewpoint over the city" (op5, F9.19) and, in MUHBA's schools story, a place "to take the fresh air and watch the city" (aj3, E90, labelled as the story); Turespaña's "best views" of the park and the sea (es11, E24; FA ed2 N15: said of the park; the sea sentence cuttable, O7); the Olympic Village towers (es44, E113: one cuttable paragraph, O7 only, Lead's decision 6; RA ed2 M3); where the rich went instead (es29, E68; poor transport F2.26).
 @listen: Why the view from this bench was protected by the estate's rules, and why the buyers it was protected for never came.
 @brief: A guide sitting at the bench beside the listener, unhurried and warm, letting the view do the work, with one dry smile at the buyers who stayed away.
 @pace: medium-slow
@@ -13,18 +13,18 @@
 ---
 [warmly] When Gaudí came here, this was a bald hill. The Catalan heritage service describes the chosen site as one "with almost no vegetation", stony and very uneven. Most of the green you see came later.
 
-Below lay a city that already had "over half a million inhabitants", as the park's history puts it. The old town of Gràcia, just below the park, had been joined to Barcelona in 1897.
+Below lay a city that already had "over half a million inhabitants". The old town of Gràcia, just below the park, had been joined to Barcelona in 1897.
 
-[pause] At the foot of the stairway you heard that one more rule waited up here. The park's history says the height and placement of the houses were set "so that they could not block the view of the sea". The city history museum's guide adds the sunlight. No house was allowed to block the view, or the sun.
+[pause] At the foot of the stairway you heard that one more rule waited up here. The park's history says the height and placement of the houses were set "so that they could not block the view of the sea". The city's history museum, in its guide, adds the sunlight. No house was allowed to block the view, or the sun.
 
-The square was made for looking. The park still calls it "A viewpoint over the city". In the city history museum's story for schoolchildren, told in Catalan, people would come up to the central square "to take the fresh air and watch the city".
+The square was made for looking. The park still calls it "A viewpoint over the city". In the story the city's history museum tells schoolchildren, in Catalan, people would come up to the central square "to take the fresh air and watch the city".
 
-[curious] So do as they planned. Spain's tourist board calls this one of the best views of the city, "from which you can even see as far as the sea". Look out past the roofs to the horizon, for the flat line of the Mediterranean.
+[curious] So do as they planned. Spain's tourist board calls the park one of the best views of the city. Look out over the roofs, as far as the day allows. On a clear day, the same board says, "you can even see as far as the sea": find its flat line on the horizon.
 
-On a clear day, in the Catalan Tourist Board's words, the view is "framed by the towers of the Olympic Village and the blue Mediterranean": two tall towers by the sea.
+The Catalan Tourist Board says the view is "framed by the towers of the Olympic Village and the blue Mediterranean": two tall towers by the sea.
 
-[wry] And the buyers this view was protected for? Most of them never came. The city history museum's guide says the bourgeoisie "preferred the central Eixample", or houses in Sant Gervasi and on the new estate at Tibidabo, where the building rules were looser. Few wanted a hill this hard to reach.
+[wry] And the buyers this view was protected for? Most of them went elsewhere. The museum's guide says the bourgeoisie "preferred the central Eixample", or houses in Sant Gervasi, or the new estate at Tibidabo, where the building rules were looser. Few wanted a hill this hard to reach.
 
 [lightly] The rules kept this view for buyers who never came. It ended up belonging to everyone.
 
-Stay at the bench, and look up at the hill above the park, with three crosses on its top: The Nature Square · Three crosses instead of a chapel.
+Stay at the bench, but turn away from the city, and look up at the hill above the park, with three crosses on its top: The Nature Square · Three crosses instead of a chapel.

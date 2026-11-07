@@ -23,7 +23,7 @@ Built from scratch to the Yo Tours standard. This guide:
    Gaudí scholarship; Nov 2026), with independent audits of the facts and of the route and listening.
 6. No prices, hours or tickets. Headphones only: the park does not allow speakers.
 7. Three lengths (one recording, three folders):
-   Full tour   @@N_FULL@@ tracks, about 2 hours
+   Full tour   @@N_FULL@@ tracks, a little over 2 hours
    Essential   @@N_ESS@@ tracks, about 1 h 15:  @@ESSENTIAL@@
    Highlights  @@N_HI@@ tracks, about 45 min:   @@HIGHLIGHTS@@
    The times include walking and a short wait at the second ticket check. In the shorter versions a short spoken

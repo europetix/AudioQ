@@ -1,3 +1,10 @@
+# On-site tags for the bridges below (never spoken; only lines that start with a track number are read as bridges):
+#   036 H>039: [O-map, O1, O3]
+#   037 E>039: [O-map, O3]
+#   039 E>041: [O-map, O3, O11]
+#   039 H>045: [O-map, O3, O11]
+#   041 E>043: [O-map, O11]
+#   043 E>045: [O11]
 036 H>039: On this shorter tour, take a last look: you can't come back to the square. Find the old iron door at its corner, on your right as you face the city, and follow the path through the pines to the wave-shaped Portico: The Portico of the Washerwoman · The wave.
 037 E>039: On this shorter tour, go through the iron door and follow the path beyond it, through the pines, to a portico of stone shaped like a breaking wave. Stand under it, to one side: The Portico of the Washerwoman · The wave.
 039 E>041: On this shorter tour, carry on along the path to its end, where a spiral ramp winds down to the old farmhouse, Casa Larrard, now a school. Stop at the foot of the ramp with the house in view, and keep to the path: Casa Larrard · Güell's farmhouse.

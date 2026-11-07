@@ -1,2 +1,5 @@
-028 E>032: On this shorter tour, follow the one-way route up through the gardens and along the upper path to the Nature Square, the great open square on top of the hall of columns. Stop out in the open: The Nature Square · You're standing on the roof. [O-map, O4]
-032 E>034: On this shorter tour, skip the next story. Go to the edge of the square on the stairway side, where the long tiled bench runs, and sit if there's room: The Nature Square · A hundred metres of broken tile. [O16]
+# On-site tags for the bridges below (never spoken; only lines that start with a track number are read as bridges):
+#   028 E>032: [O-map, O4]
+#   032 E>034: [O16]
+028 E>032: On this shorter tour, follow the one-way route up through the gardens and along the upper path to the Nature Square, the great open square on top of the hall of columns. Stop out in the open: The Nature Square · You're standing on the roof.
+032 E>034: On this shorter tour, skip the next story. Go to the edge of the square on the stairway side, where the long tiled bench runs, and sit if there's room: The Nature Square · A hundred metres of broken tile.

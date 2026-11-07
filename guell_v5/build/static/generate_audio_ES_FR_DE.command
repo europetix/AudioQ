@@ -23,7 +23,7 @@ case "$CHOICE" in
 esac
 echo ""
 echo "What should be rendered?"
-echo "  1) The guide in all three lengths: Full (@@N_FULL@@ tracks, about 2 hours), Essential (@@N_ESS@@ tracks, about 1 h 15)"
+echo "  1) The guide in all three lengths: Full (@@N_FULL@@ tracks, a little over 2 hours), Essential (@@N_ESS@@ tracks, about 1 h 15)"
 echo "     and Highlights (@@N_HI@@ tracks, about 45 min). Records once, then makes the three folders."
 echo "  2) Two voice samples only: 018 the dragon is a drain + 034 a hundred metres of broken tile (a few minutes)"
 echo "  3) Highlights only (@@N_HI@@ tracks, about 45 min; quickest to make; option 1 later reuses them)"

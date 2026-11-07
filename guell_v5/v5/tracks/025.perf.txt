@@ -4,7 +4,7 @@
 @type: X
 @title: The Font Sarva · Extra · Güell's bottled water
 @where: At the door of the Font Sarva's small room, set in the enclosing wall of the Hypostyle Room; play it only if the room is open, and step back into the one-way flow afterwards. [O13, ALT-S]
-@what: The Font Sarva, a spring older than the park, hidden in the basement of the Hypostyle Room and fed by mine water from the hill (s19; F8.7); placed "in the enclosing wall" of the hall (G65); La Salut neighbours with jugs; water piped to the spring (deu) of the old Larrard farmhouse (s19; F8.9; FA N9); Güell's 1913 analysis, magnesium, bottled and sold as medicinal water in chemists' shops for about a decade (s19; F8.7); its room opened up in the works ending 2020 (op23; F3.28); DATED: visitable since September 2020 (s19; F8.8).
+@what: The Font Sarva, a spring older than the park, hidden in the basement of the Hypostyle Room and fed by mine water from the hill (s19; F8.7); placed "in the enclosing wall" of the hall (G65); La Salut neighbours with jugs; water piped down to the old Larrard farmhouse (s19 "també es canalitza fins a la deu de l'antiga masia Larrard"; F8.9; FA N9, FA ed2 S6; lead's decision 7 Nov: the receiving point is not called a well or a spring); Güell's 1913 analysis, magnesium, bottled and sold as medicinal water in chemists' shops for about a decade (s19; F8.7); its room opened up in the works ending 2020 (op23; F3.28); DATED: visitable since September 2020 (s19; F8.8), now implied by op23's words only (cut for the X cap).
 @listen: A spring older than the park, which Güell tried to sell in chemists' shops, and which spent decades hidden in the hall's basement.
 @brief: A guide at a small side door, sharing a quirky footnote; amused at Güell the salesman, then quietly picturing the neighbours with their jugs.
 @pace: medium
@@ -13,12 +13,12 @@
 ---
 [amused] The man who paid for this park also tried to sell its water. In 1913 Eusebi Güell had this spring analysed, and found magnesium in it. He decided to bottle it and sell it as medicinal water. For about a decade, says Barcelona's local broadcaster, betevé, you could buy it in chemists' shops.
 
-The spring is older than anything Gaudí built here. Betevé calls it, in Catalan, "this feature, older than the modernista complex". Its water comes from mines deep in the hill. A city works notice places it "in the enclosing wall of the Hypostyle Room".
+The spring is older than anything Gaudí built here. Betevé calls it, in Catalan, "this feature, older than the modernista complex". Its water comes from mines in the hill. A city works notice places it "in the enclosing wall of the Hypostyle Room".
 
-Long before the park, people from La Salut, the neighbourhood around the hill, came up with jugs to fetch its water. It was also piped to the well of the old Larrard farmhouse, which Güell later made his home.
+Long before the park, people from La Salut, the neighbourhood around the hill, came up with jugs to fetch its water. It was also piped down to the old Larrard farmhouse, which Güell later made his home.
 
-[pause] Then for years it lay hidden in the hall's basement. The works that ended in 2020 opened up its little room, a space that, in the park's words, "until now had not been accessible". Visitors have been able to see it since September 2020.
+[pause] Then for years it lay hidden in the hall's basement. The works that ended in 2020 opened up its little room, a space that, in the park's words, "until now had not been accessible".
 
 As you look in, picture the neighbours with their jugs, and Güell's bottles lined up on a chemist's shelf.
 
-Then follow the one-way route out and up the hall's right-hand side to the Austria Gardens. Stop as you come into the gardens: The Austria Gardens · An empty plot.
+Then follow the one-way route out and up the hall's right-hand side, as you came in from the stairway, to the Austria Gardens. Stop as you come into the gardens: The Austria Gardens · An empty plot.

@@ -1,7 +1,16 @@
+# On-site tags for the bridges below (never spoken; only lines that start with a track number are read as bridges):
+#   015 H>018: [O1, O14]
+#   016 E>018: [O14]
+#   018 E>021: [O-map, O14, O15]
+#   018 H>022: [O14, O15]
+#   022 H>024: [O15]
+#   022 E>024: [O15]
+#   024 E>028: [O-map, O4, O12, O22]
+#   024 H>034: [O-map, O4, O16]
 015 H>018: On this shorter tour, don't stop at the foot. Once through the check, climb on to the dragon, halfway up the stairway, a little above Catalonia's red and yellow stripes, and find a place beside it: The Dragon Stairway · The dragon is a drain.
 016 E>018: On this shorter tour, skip the next story. Climb on to the dragon, halfway up, a little above Catalonia's red and yellow stripes, and find a place beside it, out of the way of the steps: The Dragon Stairway · The dragon is a drain.
 018 E>021: On this shorter tour, skip the next two stories. Climb to the top of the stairway and stand where you can see the front row of the hall's columns, on the left as you arrive: The Hypostyle Room · A market hall in Greek dress.
-018 H>022: On this shorter tour, climb to the top and walk in among the columns of the hall, the Hypostyle Room. Stop where you can see down one of the wider aisles: The Hypostyle Room · Columns that are drainpipes.
+018 H>022: On this shorter tour, climb to the top and walk in among the columns of the hall. Stop where you can see down one of the wider aisles: The Hypostyle Room · Columns that are drainpipes.
 022 H>024: On this shorter tour, skip the next story. Look up, and move under one of the four big round discs in the ceiling: The Hypostyle Room · Four seasons in glass.
 022 E>024: On this shorter tour, skip the next story. Look up, and move under one of the four big round discs in the ceiling: The Hypostyle Room · Four seasons in glass.
 024 E>028: On this shorter tour, follow the one-way route up the hall's right-hand side into the Austria Gardens, once building plots for the estate. Walk on to their middle, where the pink house with the pointed tower can be seen: The Austria Gardens · The house Gaudí didn't design.

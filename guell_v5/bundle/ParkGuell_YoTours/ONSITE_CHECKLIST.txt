@@ -38,7 +38,7 @@ CRITICAL ITEMS (the route depends on them)
 [ ] O-map CRITICAL  THE OFFICIAL DRAWING, ON THE GROUND (every cue tagged [O-map])
       Confirm or correct each, with a photo:
       [ ] the tower pavilion (tall chequered tower, cross) is on the LEFT facing the stairway; the Casa del Guarda
-          (mushroom cap) on the RIGHT                                                    (003, 004, 006 cues; 002 bridge)
+          (the other gatehouse, without the tower) on the RIGHT                (003, 004, 005 cues; 002 H/E, 004 E bridges)
       [ ] the Marianao entrance is reached "along the inside of the wall, past the Casa del Guarda"     (001, 006, 009)
       [ ] D, the hall's front, is "on the left as you arrive" at the top of the stairway       (020 cue; 018 E bridge)
       [ ] from the hall, the route goes "up its right-hand side" to the Austria Gardens   (024, 025 cues; 024 bridges)
@@ -71,9 +71,16 @@ CRITICAL ITEMS (the route depends on them)
         control? Which way? Signs to "Carrer d'Olot" / "Sortida"? Time it.
       - From the SANT JOSEP DE LA MUNTANYA escalator gate: up past the round bandstand to the esplanade (as drawn)?
       - RA N16: is there a visitor EXIT at the Sant Josep corner (the drawing shows an exit marker)? (Never spoken; route only.)
+      - RA ed2 R1: from Carmel to the esplanade, do you pass the Low Viaduct or the Marianao steps-ramp? Time it. If yes,
+        hold ALT-G2 (Carmel, Full and E): play 010–012 (013) on the way down where you pass them, then 002–006; 012/013's
+        cue becomes "Go on down to the esplanade inside the Carrer d'Olot gate, between the two gatehouses, without passing
+        the second ticket check: The entrance esplanade · Park with a k."; 006's main-stop sentence becomes the 004 H>015
+        bridge text; 001 adds for Carmel only "On the way down you'll cross a bridge on leaning stone columns: start there."
 [ ] O10 CRITICAL  THE QUEUE (014 and 015, two standing tracks, ≈ 5.3 min together; ALT-K)
       - Where does the queue for the second control form? How long, at three times of day (note the time)?
       - Can people stand still there safely for about five minutes to listen? Shade?
+      - RA ed2 M2: with NO queue, is there a place to stand to one side just before the check, out of the flow, for
+        014 and 015 (the cues and bridges 004 H>015, 010 E>014, 012, 013 now say so)?
 [ ] O11 CRITICAL  CASA LARRARD AND THE WAY OUT (040 cue, 041, 042, 043, 044, 045; ALT-L, ALT-Q2, ALT-X)
       - At the foot of the spiral ramp (041): Casa Larrard (the Baldiri Reixac school) in view from the path?
       - A second spot a few steps on (042), house still in view, out of the school's way?
@@ -105,7 +112,8 @@ CRITICAL ITEMS (the route depends on them)
 OTHER ITEMS
 -------------------------------------------------------------------------------
 [ ] O2  THE TWO PAVILIONS (003 cue, 004, 005, 006; ALT-W)
-      - E103: which roof carries the mushroom-shaped cap? Only the Casa del Guarda's, or both?
+      - E103: which roof carries the mushroom-shaped cap? Only the Casa del Guarda's, or both? (A question only: no cue,
+        bridge or placement field uses it; 006 keeps La Pedrera's attributed line, 004 the plural ventilators.)
       - Where to stand to see both roofs at once (004).
 [ ] O4  LINKS INSIDE THE ONE-WAY SECTION: hall → Austria Gardens (up the right-hand side?); gardens → square (upper path?).
 [ ] O6  The "Volta dels carruatges": visible? signed? (held; never spoken)
@@ -113,10 +121,15 @@ OTHER ITEMS
       - FROM THE BENCH (036), one spot, photograph a panorama; TICK what is clearly visible:
         [ ] the sea   [ ] two tall towers by the shore (Olympic Village)   [ ] the Sagrada Família   [ ] Montjuïc
         [ ] the Torre Glòries   [ ] the Eixample grid   [ ] Gràcia below   [ ] the hill with three crosses (037)
+      - RA ed2 M3: [ ] the sea -> keep 036's sea sentence ("On a clear day, the same board says…"), else cut it whole
+                   [ ] two tall towers by the shore -> keep 036's towers paragraph, else cut it whole
+      - RA ed2 R4: from the bench, which way do you turn to see the three crosses? 036's cue says "turn away from the
+        city"; note the real turn in words ("turn round", or left/right only if seen).
       - FROM AN AUSTRIA GARDENS TERRACE (030): [ ] the city below   [ ] Gràcia   [ ] the Sagrada Família
       - Anything else you can name with certainty: list it with a photo (added only after the lead checks it).
 [ ] O8  The 2026 exhibition "A recer del Park Güell": on our route? (never in speech)
 [ ] O13 THE FONT SARVA (024 cue, 025; ALT-S): its little room open? In the hall's enclosing wall? Inside the flow?
+      - RA ed2 R5: where exactly is its door, as seen from inside the hall? Give a landmark for 024's cue.
 [ ] O14 THE DRAGON STAIRWAY (015 cue, 016, 017, 018, 019, 020; bridges 015 H, 016 E, 018 E/H)
       - A spot at the foot of the first flight, past the control (016). The two grottos: which is the waiting shelter
         with the conical column (left/right as you climb)? The goblin shapes on the first landing?
@@ -131,10 +144,12 @@ OTHER ITEMS
       - The four big Suns (024): findable? the glassware visible from the floor? Count the smaller discs (G8).
 [ ] O16 THE NATURE SQUARE AND THE BENCH (032–036)
       - The retaining wall with the palm-tree capitals (032).   - Sitting on the bench possible? The outer glass face?
+      - RA ed2 R3: sitting on the bench, do you face the square? (034 now says "this whole square is the roof".)
       - Jujol's scratched marks on the top edge (034): photograph two.
       - Tiles marked "1992" or "92" (035; E77, C7): find one? photograph. Which form does the mark take?
 [ ] O17 THE WASHERWOMAN COLUMN AND THE END COLUMNS (039 cue, 040): which column is she? What does she carry?
       Photograph front and side. Which are "the two end columns"? Writers describe her only from these photos.
+      (040's "Look along the row of slanting columns and decide for yourself" was cut in the ed2 fixes, RA R2/R7.)
 [ ] O19 SIGN NAMES: photograph every sign used in a cue (the Carrer d'Olot gate/exit, the Marianao entrance, Casa del
       Guarda, Dragon Stairway / Monumental Staircase, Sala Hipòstila, Font Sarva, Jardins d'Àustria, Plaça de la
       Natura, Pòrtic de la Bugadera / Laundry Room Portico, Casa Larrard, Pont de Baix, Pont del Mig, Passeig de les
@@ -160,13 +175,13 @@ PER-TRACK DIRECTIONS TICK LIST (Full order; tick the cue's destination and featu
 -------------------------------------------------------------------------------
 Cue texts: PLAN_V2 §2 (last-but-two column). Bridges: PLAN_V2 §3.
 
-001  Just inside your gate ............ [ ] each gate's start line works (Marianao: along the wall past the mushroom
-                                            gatehouse; Carmel; Sant Josep: past the bandstand)  (O-map, O1, O2, O9)
+001  Just inside your gate ............ [ ] each gate's start line works (Marianao: along the inside of the wall to the
+                                            two gatehouses; Carmel; Sant Josep: past the bandstand)  (O-map, O1, O2, O9)
 002  Facing the wall .................. [ ] PARK GÜELL medallions  [ ] the iron gates reachable to one side (O19, O11)
 003  Beside the palm-leaf gates ......... [ ] palm-leaf ironwork  [ ] spot between the gatehouses, both roofs (O-map, O2)
 004  Between the pavilions .......... [ ] both roofs  [ ] ten-plus whites visible  [ ] tower pavilion on the left (O-map, O28)
 005  Outside the tower pavilion ...... [ ] tower and door in view, out of the way  [ ] bullseye panes  [ ] cross (O28)
-006  Casa del Guarda door ............. [ ] mushroom cap (E103)  [ ] oval plan visible  [ ] door; queue? (O2, O23)
+006  Casa del Guarda door ............. [ ] the gatehouse without the tower  [ ] oval plan visible  [ ] door; queue? (O2, O23)
 007  Ground floor (Extra) ............. [ ] see O23 ground-floor ticks
 008  First floor (Extra) .............. [ ] see O23 first-floor ticks
 009  Top floor (Extra) ............... [ ] see O23 top-floor ticks  [ ] then along the wall to the Marianao entrance (O-map, O5)
@@ -174,7 +189,7 @@ Cue texts: PLAN_V2 §2 (last-but-two column). Bridges: PLAN_V2 §3.
 011  Beside the Low Viaduct .......... [ ] leaning columns seen from the side  [ ] the shelter underneath (O5)
 012  In the shelter .................. [ ] cave-like  [ ] standing safe  [ ] Middle Viaduct higher up? (O5)
 013  Middle Viaduct in view (Extra) .. [ ] open path  [ ] carob trunk  [ ] closure sign  [ ] back down (O5)
-014  Queue at the second control ...... [ ] queue here; length (O1, O10)
+014  Queue at the second control ...... [ ] queue here; length  [ ] no queue: a spot just before the check (O1, O10, ALT-K)
 015  Queue, continued ................ [ ] one-way sign  [ ] foot of the first flight past the check (O1, O14)
 016  Foot of the stairway ............. [ ] shelter grotto and column  [ ] goblins  [ ] coat of arms above (O14)
 017  The coat of arms ................. [ ] serpent's head  [ ] safe spot  [ ] dragon just above (O14)
@@ -184,7 +199,7 @@ Cue texts: PLAN_V2 §2 (last-but-two column). Bridges: PLAN_V2 §3.
 021  The hall's front ................ [ ] outer columns lean  [ ] way in among the columns (O15)
 022  Inside the hall ................. [ ] wide aisle  [ ] white skirts  [ ] hatch?  [ ] small domes for 023 (O15)
 023  Under the small domes ........... [ ] broken-tile panels  [ ] a big disc nearby (O15)
-024  Under a Sun ..................... [ ] glassware  [ ] Font Sarva door  [ ] the way up the hall's right-hand side (O13, O-map, O4)
+024  Under a Sun ..................... [ ] glassware  [ ] Font Sarva door: landmark for the cue  [ ] the way up the hall's right-hand side (O13, O-map, O4)
 025  Font Sarva (Extra) .............. [ ] open  [ ] back into the flow (O13, O4)
 026  Entering the gardens ............. [ ] the 2012 beds  [ ] the middle of the gardens (O26, O12)
 027  Gardens' middle, Casa Trias ...... [ ] Casa Trias identified (O12)
@@ -196,7 +211,8 @@ Cue texts: PLAN_V2 §2 (last-but-two column). Bridges: PLAN_V2 §3.
 033  The square, in the open .......... [ ] (same spot)
 034  At the bench ..................... [ ] sitting  [ ] Jujol's marks (O16)
 035  At the bench (Extra) ............. [ ] "1992"/"92" tile? (O16)
-036  At the bench, the view ........... [ ] O7 bench ticks
+036  At the bench, the view ........... [ ] O7 bench ticks  [ ] the sea -> keep the sea sentence  [ ] two tall towers by
+                                            the shore -> keep the towers paragraph, else cut (RA ed2 M3)  [ ] the turn to the hill (R4)
 037  At the bench, the hilltop ........ [ ] crosses in view? (O7)  [ ] the iron door at the corner on your right (O-map, O3)
 038  Among the pines ................. [ ] pines; place to stand (O27)
 039  Under the Portico ................ [ ] under the wave, to one side  [ ] the washerwoman column (O3, O17)
@@ -208,10 +224,10 @@ Cue texts: PLAN_V2 §2 (last-but-two column). Bridges: PLAN_V2 §3.
 045  Just inside the gate (CLOSE) .... [ ] stairway in view  [ ] the gate is the way out (O11)
 
 BRIDGES (Highlights H / Essential E):
-002 H,E>004 .. [ ] turn round; both roofs; tower left, mushroom right                              (O-map, O2)
-004 E>006 .... [ ] across to the mushroom gatehouse's door                                         (O-map, O2, O23)
-004 H>015 .... [ ] to the foot of the stairway, the second check                                    (O1, O10)
-010 E>014 .... [ ] down the steps-ramp to the esplanade and the second check                        (O1, O5, O10)
+002 H,E>004 .. [ ] turn round; both roofs; tower left, other gatehouse right                             (O-map, O2)
+004 E>006 .... [ ] across to the gatehouse without the tower, on the right                                (O-map, O2, O23)
+004 H>015 .... [ ] to the foot of the stairway; stop before the check, queue or not                              (O1, O10)
+010 E>014 .... [ ] down the steps-ramp to the second check; stop before it, queue or not              (O1, O5, O10)
 015 H>018 .... [ ] past the check, up to the dragon, a little above the coat of arms                (O1, O14)
 016 E>018 .... [ ] up to the dragon                                                                 (O14)
 018 E>021 .... [ ] top of the stairway; the hall's front row on the left                            (O-map, O14, O15)

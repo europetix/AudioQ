@@ -3,7 +3,7 @@
 @room: The entrance esplanade · between the two pavilions, both roofs in view
 @type: W
 @title: The entrance esplanade — Factory seconds
-@where: On the entrance esplanade between the two gatehouses, where both roofs can be seen: the tall tower with its cross on the left as you face the stairway, the mushroom on the right. [O-map, O2, O28]
+@where: On the entrance esplanade between the two gatehouses, where both roofs can be seen: the tall tower with its cross on the left as you face the stairway, the other gatehouse on the right. [O-map, O2, O28]
 @what: The two entrance pavilions, the Porter's Lodge pair (op6, F5.4–5.5): the office "with a waiting room and telephone booth", and the caretaker's home, today MUHBA's Casa del Guarda (E1); among the first things built (F5.7 HEDGE); trencadís from factory seconds (s6 p. 26, F5.13) in more than ten whites (s6 p. 26, E100); trencadís history (s24, F15.20); the 1904 plans without the mushroom ventilators (Andruet, G41, G61 HEDGE; E103: no house named); the Hansel and Gretel legend (F5.17 LEGEND, G58, G59 HEDGE; s16 re-read, E60).
 @listen: Two gatehouses dressed in factory rejects, mushrooms that came later, and the fairy tale everyone tells about them.
 @brief: A guide sharing the secrets behind the most photographed roofs on the hill; lively, a light turn at the legend, honest at its verdict.
@@ -22,7 +22,5 @@ The park calls the pair the Porter's Lodge. One was the office, "with a waiting 
 [pause] Now look for the mushrooms on the roofs. The plans that Güell and Gaudí signed in 1904 don't show the mushroom-shaped ventilators at all. Even the mushrooms seem to have been an afterthought.
 
 [lightly] Tour guides love to say these are the gingerbread house from Hansel and Gretel. A music writer, Marta Porter, notes that the opera reached Barcelona's opera house, the Liceu, in 1901. It came in a Catalan version co-written by the poet Joan Maragall, a friend of both men. She even found an old news item linking it to the design of this lodge. Did Gaudí have the opera in mind? Nobody can show it.
-
-Factory seconds, and a fairy tale.
 
 Go over to the gatehouse with the tall tower, on your left as you face the stairway. Stand where you can see its tower and its door, out of the way: The tower pavilion · Telephones and a tower.
