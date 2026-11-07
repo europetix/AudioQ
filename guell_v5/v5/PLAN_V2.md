@@ -501,3 +501,14 @@ Catalan for Catalan names, Castilian for Spanish. Stress in CAPS. **Eusebi is "e
 8. **Lint:** extend `v5/lint.py` as §1 "Lint" before writing starts.
 9. **E75 (the 2024 fashion show) and E76 (the 2025 protest):** optional and neutral in 044 only; default is to leave E75 out.
 
+
+## Lead's decisions on §8 (7 Nov 2026) — binding
+1. Full ≈ 124 min accepted: 001 says "about two hours" for the full tour.
+2. Hilltop: default (told from the square in 037; not a stop). Held, not dropped (ALT-T after O25).
+3. Essential keeps the viaducts (≈ 76).
+4. Highlights as planned (≈ 46: no 032, no 005; keeps 036).
+5. Casa del Guarda floors at the start (default); ALT-Q2 after O23/O11.
+6. No hotel or tower names in the view: "two tall towers by the sea, at the Olympic Village" only, and only if O7 ticks them.
+7. Gràcia correction and C-rows apply (NEVER); FACTS §15 gets a pointer.
+8. Lint extended as §1 "Lint" (done).
+9. E75 (fashion show) out. E76 (2025 protest) optional in 044, neutral, one sentence, attributed.

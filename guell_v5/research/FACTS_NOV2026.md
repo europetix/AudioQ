@@ -592,3 +592,6 @@ Yo Tours English audio guide v5. Scope per `USER_DECISIONS.md` (6 Nov 2026): the
 14. **The workman in wet plaster** and **the mason who loved a washerwoman** (9.12, 10.15, [S30]): two legends, told as legends.
 15. **Opened in April, Gaudí dead in June** (3.15, 13.2–13.3): the park became everyone's in April 1926; six weeks later Gaudí died. And the centenary dinner of April 2026 (3.32).
 16. **The carob bridge** (10.7): a road bent around a tree.
+
+## Lead's pointer (7 Nov 2026)
+F2.1's "then the separate municipality of Gràcia" is WRONG for 1899: Gràcia was joined to Barcelona in 1897 (MUHBA guide, FACTS_EXPANSION E68). Corrections C1… in research/FACTS_EXPANSION_NOV2026.md and the two audits (AUDIT_V5_FACTS.md, AUDIT_V5_ROUTE_LISTENING.md) override rows here.
