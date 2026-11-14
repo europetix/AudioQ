@@ -1,0 +1,24 @@
+@id: 032 · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The cloister
+@room: The cloister · at the doorway of the chapel of Santa Llúcia [O20]
+@type: R
+@title: The cloister — Santa Llúcia, older than the cathedral
+@where: At the doorway of the chapel of Santa Llúcia, at a corner of the cloister on the same walk as the Chapter Hall museum; stay at the doorway unless visitors are clearly allowed in. [O20, O6, O21]
+@what: Santa Llúcia, founded by Bishop Arnau de Gurb, finished 1268 ("some thirty years before the Gothic works": our arithmetic, no 1298) (F13.1, S3, S7); part of the bishop's palace, joined to the cathedral from 1431 (F13.3, F13.5, S3 re-read: "part of the Episcopal Palace buildings"); first dedicated to Our Lady and all the holy virgins (F13.2); single nave, slightly pointed barrel vault, "a work of transition" (F13.4); the founder's effigy on a slab over four columns; crozier head and silks, the silks now in Madrid, Granada, Cleveland, New York (F13.9, F13.10); the street-door capitals and "molt mediocre" (F13.6, F13.7, Q11, CA; S3 re-read: on the main portal to Carrer de Santa Llúcia, so not pointed at); 13 December, relics, eyesight (F13.13 DATED, O2); the fair since 1786 (G87, GA2).
+@listen: A bishop's chapel older than the Gothic cathedral, the silks from his tomb now scattered across two continents, and a blunt verdict on its carving.
+@brief: A guide at a small doorway, wry about the clichés and the scholars, gentle about the saint and her day.
+@pace: medium
+@energy: 3→3→3
+@sources: S3 https://www.enciclopedia.cat/catalunya-romanica/santa-llucia-abans-capella-de-les-onze-mil-verges-barcelona (SEC-enc, re-read 14 Nov 2026: plot obtained 1257, "acabada l'any 1268"; "a Santa Maria i a totes les Santes Verges"; "havia format part de les edificacions del Palau Episcopal"; joined "a partir del 1431" when the cloister's side was finished; "volta de canó lleugerament apuntat"; main portal to carrer de Santa Llúcia, Annunciation and Visitation, "dos quadrúpedes afrontats"; the portal's carving "molt mediocre", the animals with the most errors; effigy on "una llosa que reposa sobre quatre columnes"; crozier head in the cathedral treasury; silk fragments in Madrid, Granada, Cleveland, New York, CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC-enc, re-read: built "entre els anys 1257 i 1268") ; O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read: "On her feast day, 13 December, devotees of this martyr and protector of sight visit the Romanesque chapel" "dedicated to the Saint to adore her relics.", EN) ; GA2 https://barcelona.cat/culturapopular/en/node/776 (OFF, re-read: "has been held in front of the Cathedral since 1786", EN)
+---
+[wry] This little chapel is older than the cathedral it now belongs to. Bishop Arnau de Gurb founded it, and it was finished in 1268, some thirty years before the Gothic works began.
+
+It's often called the last surviving piece of the Romanesque cathedral. It isn't. It was built as part of the bishop's palace, as his own chapel, and joined the cathedral's buildings only in 1431, when the cloister reached it. And Santa Llúcia came later. It was first dedicated to Our Lady and all the holy virgins.
+
+[curious] If the door is open, look along its single nave, under a plain, slightly pointed barrel vault. It's a building caught between Romanesque and Gothic. The founder lies inside, his figure on a slab that rests on four columns. When his tomb was opened, it held the top of a gilded crozier, and his burial silks. Pieces of those silks are now scattered among museums in Madrid, Granada, Cleveland and New York.
+
+The chapel's other door opens straight onto the street, Carrer de Santa Llúcia. Its capitals show the Annunciation, the Visitation, and two animals facing each other. The Catalan encyclopedia's Romanesque survey is blunt about that carving. Its verdict, in Catalan, is "molt mediocre", very mediocre. The animals, it says, come off worst.
+
+[warmly] Her day is the thirteenth of December. People come here to venerate her relics. She is the protector of eyesight. And every December since 1786, a Christmas fair named after her has filled the square in front of the cathedral.
+
+If you're on the full tour, look for the room called Jewish memory, in the old archive: The cloister · Extra · Jewish memory. Otherwise, the next main stop is the Chapter Hall museum, next to this chapel. Go in and find the painting of the dead Christ across his mother's lap: The Chapter Hall · The saint in spectacles.
