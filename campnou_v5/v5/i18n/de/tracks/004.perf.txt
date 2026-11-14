@@ -1,0 +1,30 @@
+@id: 004 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Outside the museum
+@room: Outside the museum · by the door or in the queue; needs no view [O1]
+@type: W
+@title: Vor dem Museum · Extra · Die Anzeige mit zwei Schreibfehlern
+@where: An der Museumstür oder in der Schlange zur Ticketkontrolle, falls es eine gibt. Nichts anzusehen.
+@what: The ad: 22 Oct 1899, "Miscellaneous" section at the back of the weekly (named in speech only as "a Barcelona sports weekly": see notes), "Our friend and colleague Mr Kans Kamper, of the foot-vall section", "former Swiss champion", "to organise some games in Barcelona", "Tuesday or Friday evenings between 9 and 11" (F1.3–1.5, Q1 re-checked OFF [O10]); placed with his compatriot Walter Wild (F1.6, [O10]); Hans Gamper of Winterthur, born 22 Nov 1877, so 22 a week before the meeting (G19 SEC GEC, our arithmetic), in Barcelona since "the late 1890s" (G20, lead's decision), always used the Catalan form Joan (F4.8 OK OFF); founding meeting 29 Nov 1899, Solé gymnasium off the Rambla, twelve men from Switzerland, England, Germany, Catalonia and elsewhere in Spain (F1.7–1.8 OK OFF; the club's 125-years page lists Enric Ducay "from Aragon": audit FA S1, lead's decision 6); Walter Wild the first president, "unanimously named", lent his flat on Carrer Princesa, played ten matches incl. the very first, resigned 25 Apr 1901 to leave for England (G23–G24 OK OFF, re-read); Gamper did not want to be the first president, he wanted to play (G22, GEC re-read); the city's name (F1.10 OK OFF). Ending (FACTS §22 Gamper): a club named for its city, by men from somewhere else.
+@listen: How a misprinted small ad founded FC Barcelona, and why the founder wasn't its first president.
+@brief: A friend passing the time in a queue with a funny true story, amused at the misprints, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.fcbarcelona.com/en/club/news/4153324/125-years-since-the-ad-in-los-deportes (OFF, read 14 Nov 2026: ad text "Our friend and colleague Mr Kans Kamper [sic], of the foot-vall [sic] section…"; "former Swiss champion"; "to organise some games in Barcelona"; "Tuesday or Friday evenings between 9 and 11"; 22 Oct 1899, "Miscellaneous" section at the back; published "by himself and his compatriot Walter Wild") ; https://www.fcbarcelona.com/en/card/645523/walter-wild-1899-1901 (OFF, read 14 Nov 2026: "the first ever president of FC Barcelona"; "his colleagues unanimously named him president"; "his flat in Carrer Princesa … for board meetings"; "ten matches … including its very first"; "forced to resign on April 25, 1901 because he had to leave for England") ; https://www.enciclopedia.cat/gran-enciclopedia-catalana/joan-gamper (SEC, read 14 Nov 2026: "Winterthur, Suïssa, 22 de novembre de 1877"; "No volgué ser-ne el primer president, se centrà a jugar") ; FACTS 1.7–1.8, 1.10, 4.8 ([O10], [O11], [O18] OFF: meeting, twelve founders and nationalities, the city's name, the Catalan form of his name)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 004 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Diese Geschichte können Sie in der Schlange hören, oder irgendwo an der Tür stehend. [amused] Sie beginnt mit einer kleinen Anzeige, ein paar Zeilen lang, mit zwei Schreibfehlern darin.
+
+Am zweiundzwanzigsten Oktober 1899 fanden die Leser eines Sportwochenblatts aus Barcelona in der Rubrik Vermischtes Folgendes: „Unser Freund und Kollege Herr Kans Kamper, von der Foot-vall-Abteilung.“ Weiter hieß es, dieser ehemalige Schweizer Meister wolle in Barcelona einige Spiele organisieren. Wer den Sport liebe, solle dienstag- oder freitagabends zwischen neun und elf in die Redaktion kommen.
+
+[pause] Die Zeitung hatte das Spiel falsch geschrieben, und den Mann auch. Er hieß Hans Gamper, kam aus Winterthur in der Schweiz und lebte seit Ende der 1890er Jahre in Barcelona. Die Anzeige hatte er mit einem Landsmann aufgegeben, Walter Wild. In Barcelona benutzte er immer die katalanische Form seines Namens: Joan.
+
+Die Anzeige wirkte. Am neunundzwanzigsten November 1899 trafen sich zwölf Männer in der Turnhalle Solé, gleich neben der Rambla. Sie kamen aus der Schweiz, aus England, Deutschland, Katalonien und anderen Teilen Spaniens. Gemeinsam gründeten sie einen Fußballclub und gaben ihm den Namen der Stadt: Barcelona.
+
+Dann brauchten die zwölf einen Präsidenten. [pause] Es war nicht der Mann, der die Anzeige aufgegeben hatte. Laut der Präsidentenchronik des Clubs wählten die anderen einstimmig Walter Wild, den allerersten Präsidenten des Clubs.
+
+Und der Gründer? Eine katalanische Enzyklopädie nennt den Grund: Er wollte nicht Präsident sein. Er wollte spielen.
+
+[warmly] Ein Club also, benannt nach seiner Stadt, von Männern, die von anderswo kamen, wie so manche der Besucher heute um Sie herum.
+
+Bleiben Sie hier für noch eine kurze Geschichte: Vor dem Museum · Extra · Die Farben, die niemand notierte.

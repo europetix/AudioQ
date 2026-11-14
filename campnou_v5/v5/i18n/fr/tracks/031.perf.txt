@@ -1,0 +1,32 @@
+@id: 031 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The viewpoint
+@room: The old benches · same place [O4]
+@type: W
+@title: Les anciens bancs · Extra · Le réfugié signé à huit heures et demie
+@where: Toujours assis sur les anciens bancs du belvédère, le stade en vue. Rien à regarder avant les dernières phrases.
+@what: 15 June 1950, 8.30 pm, right after a friendly at Sarrià against Espanyol (F5.1 OK OFF, re-read [O24]); Samitier, 1920s star, technical secretary (F5.1, F8.1); Hungaria, footballers who had fled behind the Iron Curtain; "a political refugee being pursued by the Hungarian federation" (F5.2, re-read, attributed); no competitive matches until the 1951 cup ("at first": date dropped for the date count); brother-in-law Daučík (F5.4, re-read); Ladislau (F19); 10 Feb 1952, 9–0 v Sporting Gijón, seven goals, equalling the Liga record set by Bata against Barça in 1931, "has never been touched since" ([O60] re-read; DATED, separate sentence, F18.40); Daučík: "Kubala scored goals today, but he didn't have a great game." (Q6, re-read); the Five Cups of 1951–52: Liga, Spanish Cup, Latin Cup, Copa Eva Duarte, Copa Martini Rossi (G64 OK OFF, re-read; lead's decision); the club: not built because of him, "the plans to build the new ground were already in place some time before he signed in 1950", "Kubala did generate unprecedented interest" (F5.6, [O25] re-read; lint exception 031); Les Corts "tens of thousands, and still not enough" (lead's decision; [GO20] "The Club needed a bigger stadium"); statue "stood at the main stand's entrance from 2009", by Montserrat Garcia Rius (F5.7, G48, decision 11; DATED, cuttable; position never cued). Last lines [RL]; payoff (PLAN).
+@listen: How a Hungarian refugee became Barça's great star, and why the stadium was not built for him.
+@brief: A friend on a bench enjoying a good yarn, amused at the start, wry at the coach's verdict, setting the record straight at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.fcbarcelona.com/en/news/4274716/75-years-since-laszlo-kubala-signed (OFF, 15 Jun 2025, read 14 Nov 2026: "got Kubala to sign for Barça at 8:30pm on 15 June 1950, right after a friendly at Sarrià against Espanyol"; "a political refugee being pursued by the Hungarian federation"; Hungaria "formed by footballers who had fled the far side of the Iron Curtain"; "could not play competitively … until the 1951 cup"; "coached by his brother-in-law Ferdinand Daučik"; "the legendary Five Cups era"; statue on the esplanade outside the main stand, La Mercè 2009) ; https://www.fcbarcelona.com/en/news/1604494/barca-rewind-seven-goal-kubala-slated-for-playing-poorly (OFF, 10 Feb 2020, read 14 Nov 2026: 10 February 1952, seven goals in a 9-0 win v Sporting Gijón; "It matched the Liga record set by Bata of Athletic Club against Barça in 1931, and has never been touched since."; Daučík: "Kubala scored goals today, but he didn't have a great game") ; https://www.fcbarcelona.com/club/history/card/1950-1961-kubalas-era (OFF, read 14 Nov 2026: 1951/52 "five different trophies: the League, the Spanish Cup, the Latin Cup" … "the Copa Eva Duarte and the Copa Martini Rossi"; "The Club needed a bigger stadium.") ; https://www.fcbarcelona.com/en/news/742737/24-september-1957-the-day-the-camp-nou-dream-came-true-at-last/amp (OFF, read 14 Nov 2026: "Kubala did generate unprecedented interest in the football club"; "the plans to build the new ground were already in place some time before he signed in 1950.") ; G48 3Cat [GS10] (SEC via GAPS: sculptor Montserrat Garcia Rius)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 031 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Certaines signatures se font dans un bureau. László Kubala signa la sienne à huit heures et demie du soir, le 15 juin 1950, juste après un amical à Sarrià, contre l'Espanyol.
+
+L'homme qui obtint la signature était Josep Samitier, autrefois la star du Barça, devenu son secrétaire technique. Kubala était un Hongrois en fuite, en tournée avec Hungaria, une équipe de footballeurs qui avaient fui le rideau de fer. Les pages d'histoire du club le décrivent comme un réfugié politique "poursuivi par la fédération hongroise". D'abord, il ne put jouer aucun match officiel. Son entraîneur était son propre beau-frère, Ferdinand Daučík.
+
+Puis il joua. En février 1952, il marqua sept buts contre le Sporting Gijón, dans une victoire neuf à zéro. Il égalait ainsi le record du championnat, établi contre le Barça. Personne ne l'a égalé depuis. [wry] Ensuite, son entraîneur resta de marbre : "Kubala a marqué des buts aujourd'hui, mais n'a pas fait un grand match."
+
+Cette saison-là, son équipe gagna cinq trophées : le championnat, la Coupe d'Espagne, la Coupe latine, la Copa Eva Duarte et la Copa Martini Rossi. [lightly] Vous en connaissez sans doute deux. On appelle encore cette équipe celle des Cinq Coupes.
+
+[pause] Et l'on dit que ce stade fut construit à cause de Kubala. Les historiens du club disent que non : les plans existaient avant sa signature. En revanche, il remplit à craquer Les Corts, l'ancien terrain.
+
+Sa statue se dressait, dès 2009, à l'entrée de la tribune principale.
+
+Regardez le stade devant vous. Il fut construit pour des foules comme celles qu'il attirait.
+
+Il ne l'a pas construit. Il a rempli le précédent.
+
+Restez sur les bancs pour une chanson chantée pour la première fois dans cette enceinte en 1974 : Les anciens bancs · Extra · Trois mille cinq cents voix.

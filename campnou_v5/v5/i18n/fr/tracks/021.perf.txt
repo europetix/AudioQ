@@ -1,0 +1,28 @@
+@id: 021 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Messi's space
+@room: Messi's space · at its way in, out of the flow [O19]
+@type: W
+@title: L'espace Messi · Une promesse sur une serviette en papier
+@where: À l'entrée de l'espace Messi, la salle de ses Ballons d'Or, sur le côté, à l'écart du passage des visiteurs.
+@what: A thirteen-year-old from Rosario with a hormone deficiency that held back his growth; no club would guarantee the treatment (F10.6 OK SEC, gentle, no figures); the trial in September 2000 and Rexach's walk round the pitch, three or four minutes that took fifteen (AU298 fix, AU-S75 SEC, his account); "Sign him. Don't even think about it" to the coaches beside him (AU §3.9, AU-S75, re-checked); the napkin of 14 December 2000 at a tennis club, the story goes (F10.1 OK SEC; F10.2 HEDGE), "under his sole responsibility" (re-checked, Ara's English), Minguella and Gaggioli as witnesses, a moral promise, not a contract (F10.3 OK SEC); sold at auction in 2024, not in this museum (F10.4 HEDGE SEC; F10.5; lint two-sentence form); at thirteen he crossed the Atlantic and joined the under-14s (F10.7 OK OFF). Ending: a promise on a napkin, kept.
+@listen: How a boy from Rosario was promised a future at Barça on a paper napkin, and why the napkin isn't here.
+@brief: A friend telling the best-known signing story in the club's history, curious at first, amused by the walk, then letting the promise land plainly.
+@pace: medium
+@energy: 2→4→3
+@sources: https://en.ara.cat/sports/hundreds-of-thousands-of-euros-for-napkin-auctioned-in-london-that-messi-doesn-t-want-to-know-anything-about_130_5031131.html (SEC [S13], re-read 14 Nov 2026: napkin text in English, "Carles Rexach, technical secretary of the FCB, undertakes under his sole responsibility and despite some contrary opinions to sign the player Lionel Messi"; 14 December 2000; Minguella and Horacio Gaggioli; "supposedly" signed at the Reial Societat de Tenis Pompeia; a moral commitment with no legal validity; the club said it would not bid) ; https://www.teletica.com/bbc-news-mundo/muerte-de-jorge-messi-la-servilleta-que-cambio-la-historia-de-messi-y-el-barcelona_415118 (SEC [S14], BBC News Mundo, re-read: at 13 a hormone deficiency that hindered his growth; none of the clubs consulted could guarantee to cover the therapy; 52 words in blue ink; sold by Bonhams in 2024; nothing used from the article's main subject) ; https://global.espn.com/football/story/_/id/37609629/oral-history-transfer-arranged-20-years-ago (SEC AU-S75, re-read: trial 16–30 Sept 2000; Rexach: "a walk of three to four minutes" "took me 15 minutes"; Messi "the smallest on the pitch by a long way"; Rexach to the two coaches on the bench: "Sign him. Don't even think about it."; the napkin asked of a waiter at the Pompeya tennis club) ; https://fcbarcelona.com/en/news/2214377/leo-messi/amp (OFF [O44], re-read: "At the age of 13, Lionel Messi crossed the Atlantic to try his luck in Barcelona, and joined the Under 14s")
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 021 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 2000, un garçon de treize ans, de Rosario, en Argentine, avait un problème. Un déficit hormonal freinait sa croissance, et il lui fallait un traitement. Aucun club l'ayant observé ne voulait garantir de payer le traitement.
+
+En septembre, il vint à Barcelone pour un essai. Charly Rexach, le secrétaire technique du club, alla le voir. [amused] Un tour du terrain qui aurait dû lui prendre trois ou quatre minutes lui en prit quinze, car il ne quittait pas des yeux le plus petit garçon sur la pelouse. Comme Rexach le raconte à ESPN, il se tourna vers les deux entraîneurs à côté de lui et dit : "Faites-le signer. Ne réfléchissez même pas."
+
+La signature demanda des semaines de discussions.
+
+[pause] Le 14 décembre, Rexach retrouva l'agent du garçon, Horacio Gaggioli, et Josep Maria Minguella, qui avait aidé à le faire venir, dans un club de tennis de la ville, raconte-t-on. Il demanda une serviette en papier à un serveur, et écrivit dessus. En quelques lignes, le secrétaire technique du FC Barcelona s'engageait, sous sa seule responsabilité et malgré certains avis contraires, à faire signer le joueur Lionel Messi. Les deux hommes étaient ses témoins.
+
+C'était une promesse morale, pas un contrat. Mais elle tint. À treize ans, Messi traversa l'Atlantique et rejoignit les moins de quatorze ans du club.
+
+La serviette elle-même a été vendue aux enchères en 2024. Vous ne la trouverez pas dans ce musée. Ce que vous trouverez, c'est la suite.
+
+Entrez maintenant dans l'espace Messi, et arrêtez-vous face à ses Ballons d'Or : L'espace Messi · Six gagnés ici, huit exposés.

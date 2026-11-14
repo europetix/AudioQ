@@ -1,0 +1,30 @@
+@id: 012 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The trophies
+@room: The wall of shirts · where you can see the wall whole [O18]
+@type: W
+@title: Die Trikotwand · Das Trikot, das fürs Tragen zahlte
+@where: Vor der Trikotwand, so weit zurück, dass Sie sie ganz sehen.
+@what: 107 years with no sponsor's name across the front (F14.7 OK OFF-UN [P3]: "no commercial logo"; kit makers' marks appeared before 2006, so never "no logo, nothing": audit FA S4, lead's decision 5; the UN's "first time … a logo" stays, attributed); Levski Sofia (F14.8) dropped: the one SEC page dates it ambiguously; September 2006, UNICEF's name, and Barça paying UNICEF, not the reverse (F14.7; F18.18; no sum, decision 8); a five-year partnership ([P3]); "commercial sponsors followed" (F14.9 HEDGE safe wording); Spotify on the shirt from 2022 and the stadium's name from that summer, Spotify Camp Nou (F14.10 OK OFF [O27]); the members' assembly ratified the deal (F14.4, one clause); DATED: the name secured until 2034, the shirt to 2030 (F14.11 OK OFF [O28]); [RL] the oldest shirt with a clean front, the first UNICEF shirt if shown (O18); payoff as PLAN.
+@listen: Why Barça's shirt stayed clean for a century, and why, when a name finally went on it, the club paid for the privilege.
+@brief: A friend sharing a surprising fact with a raised eyebrow; light and curious, a wry beat at the turn, a small proud smile at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://news.un.org/en/node/191332 (OFF-UN, read 14 Nov 2026: 8 September 2006; "the first time in the club's 107-year history that a logo has been featured"; the club to donate "at least €1.5 million per year to UNICEF" over a "five year global partnership": no sum in speech) ; https://www.fcbarcelona.com/en/news/4383962/fc-barcelona-and-spotify-extend-sponsorship-agreement-through-to-2030 (OFF, read 14 Nov 2026: extension "through to 2030"; Spotify Camp Nou naming rights "remain secured until 2034"; association "began in 2022"; men's and women's first-team jerseys) ; F14.10 [O27] stadium name rights from July 2022 and F14.4 [O27] the assembly's ratification (via FACTS) ; F14.9 later sponsors HEDGE (via FACTS: names and years not scripted)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 012 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Mehr als ein Jahrhundert lang stand kein Sponsorenname vorne auf Barças Trikot.
+
+[pause] Als schließlich doch ein Name daraufkam, im September 2006, gehörte er einer Hilfsorganisation. Es war UNICEF, das Kinderhilfswerk der Vereinten Nationen. Die UN nannte es das erste Mal in der hundertsiebenjährigen Geschichte des Clubs, dass ein Logo auf dem Trikot zu sehen war.
+
+[wry] Und es war Barça, das UNICEF bezahlte, nicht umgekehrt. Der Nachrichtendienst der UN berichtete damals: Der Club würde der Organisation fünf Jahre lang jedes Jahr Geld geben, für das Recht, ihren Namen auf der Brust zu tragen. Die meisten Clubs verkaufen diesen Platz. Barça verschenkte ihn und zahlte noch drauf.
+
+In den folgenden Jahren kamen kommerzielle Sponsoren. Das Musikunternehmen Spotify kam 2022 auf die Trikots der Männer und der Frauen, und im selben Sommer kam sein Name auch ans Stadion. Seitdem heißt das Stadion Spotify Camp Nou, ein Vertrag, den die Mitgliederversammlung billigte.
+
+Der Trikotvertrag läuft inzwischen bis 2030. Der Stadionname ist bis 2034 gesichert.
+
+Sehen Sie jetzt die Trikotwand entlang. Suchen Sie die ältesten, die Sie finden, ganz ohne Aufdruck vorne. Dann suchen Sie das erste mit dem Namen UNICEF darauf, falls es hier ist.
+
+[warmly] Ein Trikot, ein Jahrhundert lang frei von Sponsoren, dann einer Hilfsorganisation geliehen, auf Kosten des Clubs.
+
+Gehen Sie jetzt weiter in die Geschichte des Clubs. Wenn Sie den Bereich erreichen, der Johan Cruyff gewidmet ist, bleiben Sie dort stehen: Der Cruyff-Bereich · Ein Name, den das Standesamt ablehnte.

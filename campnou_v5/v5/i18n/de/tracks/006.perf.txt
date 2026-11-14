@@ -1,0 +1,32 @@
+@id: 006 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The entrance hall
+@room: The entrance hall · just inside, to one side, near the orientation map if there is one [O20, O3]
+@type: R
+@title: Die Eingangshalle · Von unter der Tribüne in eine Eishalle
+@where: Gleich im Museum, hinter der Ticketkontrolle, an einer Seite der Eingangshalle und nahe dem Orientierungsplan, falls es einen gibt.
+@what: The idea of a museum in August 1928, the board proposing to put the trophies in order (F16.1 OK OFF [O4]); opened 24 Sep 1984, the stadium's 27th birthday (our link), 950 m² under the main stand (F16.2–16.3 OK OFF); 3,600 m² by 2010 (F16.4 OK OFF); nearly two million in the record year 2016 (F16.5 OK OFF [O49]); "one of the most visited museums in Catalonia", by the club's count (F16.6 HEDGE, [O49] wording); [RL] the move into the old ice rink in 2023 (F16.11 OK OFF; version-neutral); over a million visitors in 2025 (F16.8 OK OFF, DATED); a new museum being finished inside the stadium (F16.23–16.24, DATED); version-neutral founding sentence (1899, Joan Gamper); [RL] how the visit runs (O3, O20); ending: a museum waiting to move home.
+@listen: How the club's museum began, why it is in an old ice rink, and how the visit runs from here.
+@brief: Settling visitors in just inside the door; clear and friendly, a touch of wry humour at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.fcbarcelona.es/es/noticias/4128584/cuarenta-anos-de-historia-del-museo-del-fc-barcelona/amp (OFF, read 14 Nov 2026: August 1928 bulletin, Arcadi Balaguer's board proposed "ordenación y agrupamiento de los trofeos", never carried out; "inaugurado el 24 de septiembre de 1984"; 950 m² in "la zona de la Tribuna"; 3,600 m² in 2010; c. 2,400 m² in the former ice rink from June 2023; the page itself still claims "el más visitado de Barcelona, Cataluña": not used) ; https://www.fcbarcelona.com/en/club/news/4440134/barca-museum-reaches-one-million-visitors-again-in-year-of-return-to-spotify-camp-nou (OFF, read 14 Nov 2026: 1,059,611 visitors in 2025 "located in the former Ice Rink"; record of "nearly two million visitors" in 2016; "one of the most visited museums in Catalonia"; new museum "expected to reopen during 2026") ; https://www.fcbarcelona.com/en/tickets/museum (OFF, read 14 Nov 2026: no closure or move notice) ; F16.23 [O57] new museum inside the stadium (via FACTS, DATED) ; F1.1 founding 1899 (via FACTS; G20 "late 1890s" applies to his arrival only)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 006 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Der Club dachte erstmals 1928 an ein Museum. Es öffnete sechsundfünfzig Jahre später.
+
+Die erste Idee kam vom Vorstand, im Clubbulletin: die Trophäen zu ordnen und an einem Ort zu sammeln. Daraus wurde nichts. Das Museum öffnete schließlich am vierundzwanzigsten September 1984, am siebenundzwanzigsten Geburtstag des Stadions, in einem Raum unter der Haupttribüne.
+
+Es wuchs weiter, bis 2010 auf fast das Vierfache seiner ersten Größe. In seinem Rekordjahr 2016 kamen fast zwei Millionen Menschen. Jahrelang war es nach Zählung des Clubs eines der meistbesuchten Museen Kataloniens.
+
+Seit Juni 2023 ist es hier. 2025 kamen über eine Million Besucher.
+
+Im Stadion wird gerade ein neues Museum fertiggestellt.
+
+[pause] Der Club selbst wurde 1899 gegründet, von einem jungen Schweizer namens Joan Gamper.
+
+Von dieser Halle aus führt die Ausstellung Sie durch die Trophäen, die Clubgeschichte und den Messi-Bereich, und sie endet im runden Saal. Falls es in dieser Halle einen Plan gibt, zeigt er den Weg.
+
+[wry] Vorerst ist das Museum, in dem Sie stehen, hier selbst nur zu Gast.
+
+Folgen Sie jetzt dem Weg in die Ausstellung. Wenn Sie die Trophäenwand erreichen, bleiben Sie dort stehen, wo Sie sie ganz sehen: Die Trophäenwand · Wo man anfängt.

@@ -1,0 +1,28 @@
+@id: 029 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The viewpoint
+@room: The old benches · sitting on the original benches from the old stadium, the bowl in view [O4]
+@type: W
+@title: Die alten Bänke · Wo die Spieler saßen
+@where: Auf den Originalbänken aus dem alten Stadion, am Aussichtspunkt, mit Blick auf das Rund. Sind sie besetzt, stellen Sie sich daneben, ohne im Weg zu stehen.
+@what: The benches from the old stadium, put here so visitors can sit where the club's legendary players sat (F17.4 OK OFF [O50], DATED); the 1982 World Cup opening ceremony and first game (F6.2 OK OFF [O26]); 7 Nov 1982, John Paul II's Mass before 120,000, the first papal Mass in Catalonia, some words in Catalan to an exceptionally silent stadium (F6.5 OK OFF [O31]); his membership card, in his own words of 14 May 1999 (G101 OK OFF-Holy See; no number); 8 Aug 1992 Olympic final, Spain 3–2 Poland, Kiko in the last minute, Guardiola and Albert Ferrer (F6.9 OK OFF [O32]); Spain's first Olympic football gold (F6.10 as corrected by G51); Paris 2024 with Fermín López, Eric Garcia and Pau Cubarsí (G51–G52 OK OFF, cuttable); 26 May 1999 Champions League final, Basler for Bayern, then Sheringham and Solskjær in the dying seconds (F6.11 OK OFF-UEFA [P5]); the women's world-record crowds of 2022, one clause (F6.13 OK OFF [O33]).
+@listen: The benches the players sat on, and the nights the stadium belonged to the whole city and the world, not only the club.
+@brief: Sitting next to a friend on an old bench, telling the stadium's great nights; easy and warm, hushed for the Pope, quick and delighted for 1999, settling on the city.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.fcbarcelona.es/es/entradas/camp-nou-experience/mirador-obras-nuevo-spotify-camp-nou (OFF [O50], read 14 Nov 2026: "incorporar los banquillos originales del antiguo estadio"; "sentarse en los mismos asientos que alguna vez ocuparon los jugadores legendarios del FC Barcelona"; 2023 text, DATED) ; https://www.fcbarcelona.com/en/club/facilities/spotify-camp-nou/history (OFF [O26], read 14 Nov 2026: "the opening ceremony and first game of the World Cup") ; https://www.fcbarcelona.com/en/club/news/1147704/30-years-since-visit-of-pope-john-paul-ii (OFF [O31], read 14 Nov 2026: 7 Nov 1982; 120,000; "For the first time ever the Pope gave mass in Catalonia"; "some words in Catalan to an exceptionally silent stadium"; no membership mention) ; https://www.vatican.va/content/john-paul-ii/es/speeches/1999/may/documents/hf_jp-ii_spe_19990514_futbol-barcelona.html (OFF-Holy See [GP4], read 14 Nov 2026: 14 May 1999 to an FC Barcelona delegation; "y donde se me entregó el carné de socio de vuestro club") ; https://www.fcbarcelona.es/es/club/noticias/2731067/30-anos-de-la-final-olimpica-de-futbol-en-barcelona-92 (OFF [O32], read 14 Nov 2026: 8 Aug 1992, 95,000, 3–2 v Poland, Kiko "en el último minuto", Guardiola and Albert Ferrer; its "único oro" is from 2022 and is not used) ; https://www.fcbarcelona.com/en/news/4079356/fermin-eric-and-cubarsi-win-gold (OFF [GO17], read 14 Nov 2026: Fermín, Eric Garcia and Pau Cubarsí won gold in Paris, beating France) ; https://www.uefa.com/uefachampionsleague/news/newsid=387293.html (OFF-UEFA [P5], read 14 Nov 2026: 26 May 1999, Man United 2–1 Bayern, Basler 6, Sheringham and Solskjær "in the dying seconds") ; https://www.fcbarcelona.com/en/news/2585994/camp-nou-does-it-again-and-beats-the-world-record-for-attendance-with-91648-fans (OFF [O33], read 14 Nov 2026: two world attendance records for women's football in 2022; figures not spoken here, 011 home) ; Wembley 1992 to the Olympic final is 80 days: "less than three months", our arithmetic (FACTS's "ten weeks" is wrong)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 029 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Diese Bänke stammen aus dem alten Stadion, und der Club hat sie für Besucher hierhergestellt. Wenn Platz ist, sitzen Sie also dort, wo seine legendären Spieler saßen.
+
+Aber das Stadion vor Ihnen gehörte nie nur dem Club. 1982 fanden hier die Eröffnungsfeier und das erste Spiel der Weltmeisterschaft statt. Im November desselben Jahres erlebte das Stadion etwas ganz anderes.
+
+[quietly] Papst Johannes Paul der Zweite feierte hier die Messe, vor hundertzwanzigtausend Menschen. Es war das erste Mal, dass ein Papst in Katalonien die Messe feierte. Er sprach einige Worte auf Katalanisch, in ein Stadion, das, so die Geschichtsseiten des Clubs, außergewöhnlich still war.
+
+[lightly] Im August 1992 kamen die Olympischen Spiele, und Spanien traf hier im Fußballfinale auf Polen. Es endete drei zu zwei, und Kiko schoss in der letzten Minute den Siegtreffer. Zwei Barça-Spieler standen in Spaniens Team, Pep Guardiola und Albert Ferrer, weniger als drei Monate nach dem Europapokalsieg in Wembley. Es war Spaniens erstes olympisches Gold im Fußball.
+
+[pause] Und ein Abend hier gehörte ganz zwei anderen Clubs. Im Mai 1999, im Finale der Champions League, führte Bayern München gegen Manchester United von der sechsten Minute bis fast zum Schluss. Dann, in den letzten Sekunden, trafen zwei Einwechselspieler, Teddy Sheringham und Ole Gunnar Solskjær, zweimal.
+
+In jüngerer Zeit füllten Barças Frauen es zweimal in einem Monat, mit Zuschauerweltrekorden.
+
+Wenn Sie die vollständige Tour machen, bleiben Sie für vier weitere Geschichten auf den Bänken: Die alten Bänke · Extra · Das Stadion, das sein Spitzname taufte. Sonst ist die nächste Hauptstation der Ausgang. Wenn Sie so weit sind, folgen Sie den Schildern zum Ausgang: Der Ausgang · Ein Club, der immer wieder heimkehrt.

@@ -1,0 +1,30 @@
+@id: 027 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The models
+@room: The models · same place, or any spot nearby [O5]
+@type: R
+@title: Les maquettes · Personne ne possède le Barça
+@where: Toujours aux maquettes du futur stade, ou à n'importe quel endroit proche, à l'écart des personnes qui passent.
+@what: Member ownership: one of four Spanish professional clubs still owned by their members, with Real Madrid, Athletic Club and Osasuna; members elect the president by direct vote (F14.1 OK SEC [S25], 2014, attributed); 151,787 members at 30 Jun 2026 (G81 OK OFF, DATED); about 1,270 official penyes on all five continents (G82 OK OFF, DATED count); the land for the 1957 stadium bought after the club's first-ever referendum (F5.9 OK OFF [O20]); first elections after Franco, 6 May 1978 (F14.6, F4.26 OK OFF); 19 Dec 2021 referendum on financing the works, the biggest referendum turnout ever (F14.3 OK OFF [O55]; no percentage, no sum); the Spotify deal ratified 625–49 by the delegates' assembly (F14.4 OK OFF [O27]); 15 Mar 2026 election: 114,504 entitled, about 48,440 voted, Laporta re-elected (F14.2 OK OFF [O51], DATED); Sept 2026 assembly approved new financing to finish the stadium (F14.5 OK OFF [O29], DATED).
+@listen: Who owns Barça, and the votes that decided this stadium, its shirt and its president.
+@brief: A friend explaining something that surprises most visitors; plain and a little proud, never political, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uic.es/en/noticia/agusti-benedito-analyses-fc-barcelonas-legal-status (SEC [S25], 2014, read 14 Nov 2026: "one of only four professional clubs in Spain (the others are Real Madrid, Athletic de Bilbao and CA Osasuna)", "owned by its members", "members elect the club president by direct universal suffrage") ; https://www.fcbarcelona.com/en/club/news/4530215/barca-membership-surpasses-150000 (OFF [GO27], read 14 Nov 2026: "151,787 on 30 June 2026") ; https://penyes.fcbarcelona.com/en/our-penyes/history/ (OFF [GO29], read 14 Nov 2026: "around 1.270 official clubs", "all five continents") ; https://www.fcbarcelona.com/en/news/1974331/opening-up-and-the-fight-for-democracy-1952-1977 (OFF [O20], read 14 Nov 2026: land bought "following the first ever referendum in the Club's history"; Carrasco interim "until new elections on 6 May 1978"; the page does not use the words "first democratic", so the script says "the first elections after Franco") ; https://www.fcbarcelona.com/en/news/2987472/one-year-since-espai-barca-referendum (OFF [O55], read 14 Nov 2026: 19 Dec 2021, financing of the future stadium; "The turnout of 48,623 was the biggest ever for an FC Barcelona referendum"; its 80.8% not used) ; https://www.fcbarcelona.com/en/club/news/2560521 (OFF [O27], read 14 Nov 2026: Extraordinary Assembly of Delegate Members, 3 Apr 2022, 625 for, 49 against, 27 blank; shirts and stadium title rights) ; https://www.fcbarcelona.es/es/club/noticias/4465897/el-minuto-a-minuto-de-las-elecciones-a-la-presidencia-del-fc-barcelona-2026 (OFF [O51], read 14 Nov 2026: 15 Mar 2026; "114.504 socios y socias con derecho a voto"; last turnout figure 48.440; "Joan Laporta, reelegido") ; https://www.fcbarcelona.es/es/noticias/4578665/el-barca-aprueba-510-millones-de-euros-de-nueva-financiacion-para-completar-el-spotify-camp-nou (OFF [O29], read 14 Nov 2026: 2026 ordinary assembly of delegate members approved new financing to complete the stadium; no sum spoken)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 027 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Personne ne possède le Barça. [pause] Ses socis, les membres, si.
+
+Comme l'a résumé une université de Barcelone, le Barça est l'un des quatre seuls clubs professionnels d'Espagne encore détenus par leurs membres. Les autres sont le Real Madrid, l'Athletic Club et Osasuna. Et les membres élisent eux-mêmes le président, au suffrage direct.
+
+Selon le dernier décompte du club, ils sont plus de cent cinquante mille.
+
+[warmly] Et les votes des membres traversent toute l'histoire de ce stade. Son terrain fut acheté après le premier référendum de l'histoire du club. En mai 1978, Franco disparu, ils allèrent aux urnes pour choisir un nouveau président. En décembre 2021, ils revotèrent, pour autoriser le club à emprunter pour ces travaux. Selon le club, aucun de ses référendums n'avait jamais attiré autant de votants.
+
+Quand Spotify arriva sur le maillot et le stade, les délégués des membres ratifièrent l'accord, par six cent vingt-cinq voix contre quarante-neuf.
+
+En mars 2026, plus de cent quatorze mille membres pouvaient élire le président. Plus de quarante-huit mille l'ont fait, et Joan Laporta a été réélu.
+
+La maquette devant vous, c'est le stade dont ils ont voté le financement.
+
+Suivez maintenant le chemin jusqu'au belvédère sur les travaux, et trouvez une place à la rambarde : Le belvédère · Ce que vous avez sous les yeux.

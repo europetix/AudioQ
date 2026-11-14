@@ -1,0 +1,28 @@
+@id: 017 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: More stories inside
+@room: A quiet corner · a bench, the rest area or any spot out of the flow [O15, O10]
+@type: X
+@title: Eine ruhige Ecke · Extra · Hintern auf der Mauer
+@where: Eine Bank, ein Ruhebereich oder eine ruhige Ecke abseits des Besucherstroms, nach den Geschichtsbereichen und weg von den lauten Bildschirmen. Bis zu den letzten Zeilen muss nichts zu sehen sein.
+@what: Four grounds in the club's first ten years, one where the Hospital de Sant Pau stands (F2.1–2.2 OK OFF); the Carrer de la Indústria ground, today's Carrer de París, opened March 1909 with a stand (F2.3 OK OFF); culers from cul, backside: the club's own explanation of the row of backsides on the wall (F2.5 LEGEND/OFF tradition), first a jibe, then worn with pride (F2.6 OK OFF); the doubt: a writer using the name Roger Vinton found only one photograph (F2.7 HEDGE SEC).
+@listen: How Barça's fans came to call themselves culers, the club's own story of a wall of backsides, and the writer who doubts it.
+@brief: A friend settling in beside you on a bench with a slightly cheeky story, amused, then fair about the doubt, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.fcbarcelona.com/en/news/1117030/soc-culer-an-initiative-to-celebrate-the-clubs-115th-anniversary (OFF [O14], re-read 14 Nov 2026: "The word 'culer' comes from the Catalan word for 'bottom'"; Carrer Indústria "now Carrer París", 1909–1922; wall; "a long row of spectators' backsides sitting along the top of it"; "originally used in a clearly derogatory manner"; supporters "now proud" of it) ; https://www.fcbarcelona.com/en/news/2408474/football-stadiums-as-a-vehicle-for-barcas-progress (OFF [O12], re-read: four earlier grounds 1899–1909; Indústria opened 14 March 1909; the stand's second tier 1916) ; Hospital de Sant Pau site: FACTS F2.2, OFF [O11] (not re-read: optional clause) ; https://es.ara.cat/deportes/fc-barcelona/masoneria-homofobia-nuevas-teorias-origenes-barca_130_5052026.html (SEC [S6], re-read: "Roger Vinton" is a pen name, author of La telaraña azulgrana; found only one photograph of the scene)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 017 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Für diese Geschichte suchen Sie sich einen Platz zum Anlehnen oder Sitzen, denn anzusehen gibt es nichts. Es geht um den Spitznamen von Barças Fans, und um Hintern.
+
+In den ersten zehn Jahren spielte der Club auf vier verschiedenen Plätzen. Im März 1909 eröffnete Barça dann seinen ersten richtigen Platz, an der Carrer de la Indústria. Heute heißt sie Carrer de París.
+
+[lightly] Der Platz war ummauert, und hier die Erklärung des Clubs. Passanten sahen oben auf der Mauer eine lange Reihe Zuschauer sitzen, den Hintern zur Straße. Cul ist Katalanisch für Hintern. So wurden die Leute auf der Mauer zu culers.
+
+Es begann als Spott, gemeint als Beleidigung, wie der Club zugibt. Heute tragen die Fans den Namen mit Stolz.
+
+[pause] Nicht jeder glaubt die Geschichte. Ein Autor, Roger Vinton, suchte in den Archiven nach der berühmten Mauer voller Hintern. Er fand ein einziges Foto.
+
+Woher der Name auch kommt: Sehen Sie sich die Leute um Sie herum in Clubtrikots an. Culers, alle miteinander.
+
+Bleiben Sie in Ihrer Ecke für die nächste Geschichte, über den Tag, an dem Pfiffe den Club schließen ließen: Eine ruhige Ecke · Extra · Die Pfiffe, die den Club schlossen.

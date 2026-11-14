@@ -1,0 +1,32 @@
+@id: 028 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The viewpoint
+@room: The viewpoint · at the rail, the stadium in view [O4]
+@type: W
+@title: Der Aussichtspunkt · Was Sie hier sehen
+@where: Am Geländer des Aussichtspunkts, dem Balkon über der Stadionbaustelle, das Rund vor sich. Ist es voll, treten Sie an eine Stelle mit Blick auf die Ränge zurück.
+@what: Back in use since 22 Nov 2025 (F15.6 OK OFF [O7]); the lower two tiers are the 1957 bowl, kept and renovated (F15.3 OK OFF-supplier [P1]); the top ring built but not yet open (F15.10 OK SEC, DATED); the 830-metre compression ring at the very top completed on 5 Oct 2026 (ROUTE §4, SEC Ara 10 Oct 2026, DATED); more than 3,000 reinforcement jobs on the old second tier against about 800 planned (F15.16 OK OFF [O29]); about 62,000 seats in use (F15.9 OK SEC [S3], [S4], DATED); the roof from next summer, built on the pitch and lifted on cables, the team back to Montjuïc for a few months (F15.11 DATED SEC [S7], [S4]; Ara 10 Oct 2026); Q13, the treasurer's words (CA, SEC [S7], re-checked); about 105,000 when finished (F15.13 OK OFF, DATED).
+@listen: What you can see of the stadium today, what was kept, what was rebuilt, and what still has to happen.
+@brief: Standing at the rail beside a friend, pointing out the tiers; lively and concrete, amused by the scale of the repairs, ending on the oddness of a stadium finished while it's played in.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.fcbarcelona.com/en/news/4407735/first-game-back-at-spotify-camp-nou-in-figures (OFF [O7], read 14 Nov 2026: Saturday 22 November, 4–0 v Athletic Club, 909 days) ; https://www.limak.com.tr/sectors/construction/projects/international/barcelona-spotify-camp-nou-renovation-and-expansion-project-spain (OFF-supplier [P1], read 14 Nov 2026: bottom two tiers preserved and renovated; third tier demolished and rebuilt; 105,000) ; https://en.ara.cat/sports/countdown-for-the-rain-to-stop-being-problem-at-the-camp-nou_1_5875254.html (SEC, Ara, 10 Oct 2026, read 14 Nov 2026: last piece of the compression ring placed Monday 5 Oct, "perimeter of 830 meters"; roof "starting next summer", assembled on the pitch and raised with cables; about 18,000 lower seats removed first; third tier not open this season) ; https://www.elnacional.cat/ca/esports/obertura-tercera-graderia-camp-nou-posposa-fins-temporada-vinent_1702948_102.html (SEC [S4], read 14 Nov 2026: third tier postponed to next season, single licence; "62.000 seients disponibles"; Montjuïc during the roof works) ; https://en.ara.cat/sports/imaginative-solutions-to-combat-the-new-delays-at-camp-nou_1_5683936.html (SEC [S3], read 14 Nov 2026: north stand reopened 15 Mar 2026, "capacity to 62,000 seats") ; https://www.fcbarcelona.es/es/noticias/4578665/el-barca-aprueba-510-millones-de-euros-de-nueva-financiacion-para-completar-el-spotify-camp-nou (OFF [O29], read 14 Nov 2026: "más de 3.000 intervenciones de refuerzo, frente a las aproximadamente 800 previstas inicialmente" on the second tier) ; https://www.3cat.cat/esport3/el-barca-posa-data-a-la-tornada-definitiva-al-camp-nou/noticia/3429599/ (SEC [S7], read 14 Nov 2026: Q13 verbatim "Quan al mes de maig acabi l'últim partit es començarà a instal·lar la cúpula"; 105,000 after summer 2028; no return date spoken)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 028 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Die Mannschaft spielt seit November 2025 wieder hier, und die Bauleute sind nie gegangen.
+
+Beginnen Sie unten. [pause] Die beiden unteren Ränge vor Ihnen sind das Rund von 1957, erhalten und renoviert. Darüber liegt der neu gebaute dritte Rang: Er steht, ist aber noch nicht für Fans geöffnet.
+
+Sehen Sie jetzt ganz nach oben, auf den Ring, der rundherum läuft. Dieser Ring wird die Seile des Dachs tragen. Sein letztes Stück wurde im Oktober 2026 eingesetzt. Ara, die katalanische Zeitung, gibt seine Länge mit achthundertdreißig Metern an.
+
+[amused] Jetzt der Teil, mit dem niemand gerechnet hatte. Als die Bauleute den alten zweiten Rang öffneten, brauchte sein Beton mehr als dreitausend Verstärkungsarbeiten. Der Plan hatte etwa achthundert vorgesehen. Das ist fast viermal so viel.
+
+Heute fasst das Stadion etwa zweiundsechzigtausend Menschen.
+
+Ab Sommer 2027 kommt das Dach. Der Schatzmeister des Clubs sagte auf Katalanisch, wenn im Mai das letzte Spiel zu Ende sei, beginne man, das Dach zu installieren. Es soll auf dem Spielfeld zusammengesetzt und dann an Seilen an seinen Platz gehoben werden. Die Mannschaft verlässt ihr Zuhause also noch einmal für einige Monate, an den Montjuïc, ins Olympiastadion auf dem Hügel. Wenn sie endgültig zurückkehrt, rechnet der Club mit etwa hundertfünftausend Plätzen.
+
+Werfen Sie noch einen Blick entlang der Ränge: das alte Rund unten, der neue Ring darüber, und offener Himmel, wo das Dach sein wird.
+
+Ein Stadion, das fertig gebaut wird, während darin gespielt wird.
+
+Suchen Sie jetzt die alten Bänke aus dem Stadion, neben dem Aussichtspunkt, und setzen Sie sich, wenn Platz ist: Die alten Bänke · Wo die Spieler saßen.

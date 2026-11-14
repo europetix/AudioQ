@@ -1,0 +1,24 @@
+@id: 003 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Outside the museum
+@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it [O1]
+@type: R
+@title: Vor dem Museum · Ein Museum in der alten Eishalle
+@where: Nahe der Museumstür, aber abseits der Eintretenden, das lange Gebäude mit dem gerippten Dach vor sich und daneben den runden Palau Blaugrana.
+@what: The museum building = the Palau de Gel, the club's ice rink, opened 1971 (G88 OK OFF [GO33]); closed 2022 (ROUTE §1.4, A.2 SEC NHL.com: here "When the rink closed", no year); the old museum under the main stand closed on the old stadium's last day, 28 May 2023 (F6.16 OK OFF; F16.3); this one opened to the public on 7 June 2023 ("ten days later"), about 2,400 m² (F16.11, F17.3, G105 OK OFF); meant to stay until 2024/25 (G88 OFF; "a season or two"), slipped; the skaters' new provisional rink on university land, 2026 (ROUTE §1.4 SEC ×2, DATED, separate sentence); the Palau Blaugrana opened 1971, home to the professional basketball, handball, roller hockey and futsal teams, some shirts retired there (G87 OK OFF [GO32]); a new arena planned elsewhere on the campus (ROUTE §1.4 SEC, DATED, separate sentence). Ending: football is not the only sport (fact).
+@listen: Why the club's museum is in an old ice rink, and what the round arena beside it is for.
+@brief: A friend at the door before going in, amused by the building's history, plain and quick, ending on the club's other sports.
+@pace: medium
+@energy: 2→3
+@sources: https://www.fcbarcelona.com/en/news/2998159/ice-rink-building-to-be-adapted-to-house-temporary-museum (OFF, read 14 Nov 2026: "The ice rink was opened in 1971"; figure skating, ice hockey, public skating; "2,400 m2 of museum space"; "will remain here until the new Spotify Camp Nou opens in 2024/25") ; https://www.fcbarcelona.es/es/noticias/3530980/el-fc-barcelona-inaugura-el-barca-immersive-tour-con-la-sala-inmersiva-mas-grande-de-europa-en-un-museo-deportivo (OFF, read 14 Nov 2026: "en el edificio donde estaba ubicado el Palau de Gel"; "unos 2.400 m2"; opened to the public "miércoles 7 de junio"; in use until the new museum, "la temporada 2024/25") ; https://www.fcbarcelona.com/en/news/2300514/the-palau-blaugrana-is-50-years-old/featured (OFF, read 14 Nov 2026: inaugurated 1971; "houses FC Barcelona's professional basketball, handball, roller hockey, and futsal teams"; jerseys "retired to the Palau") ; FACTS 6.16 [O4] (OFF: old museum closed 28 May 2023) and 16.3 [O4] (under the Tribuna) ; ROUTE §1.4 and A.2 (SEC NHL.com 14 Sep 2026 + second SEC: rink closed 2022, new provisional rink on UB land 2026; new Palau Blaugrana planned on the campus) ; MAP (the long ridged-roof building beside the round Palau Blaugrana)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 003 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Bevor dieses Gebäude Trophäen beherbergte, beherbergte es Eis. Das lange Gebäude mit dem gerippten Dach ist der Palau de Gel, die alte Eishalle des Clubs. Sie öffnete 1971, für Eiskunstlauf, Eishockey und alle in der Stadt, die Lust auf ein paar Runden auf dem Eis hatten. Sie betreten also gleich einen Ort, an dem ein halbes Jahrhundert lang Schlittschuh gelaufen wurde.
+
+Als die Eishalle schloss, zog das Museum ein. Sein altes Zuhause unter der Haupttribüne des Stadions schloss am allerletzten Tag des alten Stadions, im Mai 2023. Zehn Tage später öffnete dieses hier, mit rund zweitausendvierhundert Quadratmetern, die gefüllt werden wollten. Es sollte eine Saison oder zwei bleiben. [wry] Vorübergehend ist ein dehnbares Wort.
+
+Neben dem Museum steht der Palau Blaugrana, die runde Halle. Er öffnete im selben Jahr wie die Eishalle und ist die Heimat der Profiteams des Clubs im Basketball, Handball, Rollhockey und Futsal.
+
+[pause] Die Trophäen drinnen stammen also größtenteils aus dem Fußball, aber Fußball ist nicht der einzige Sport dieses Clubs.
+
+Bleiben Sie für zwei kurze Geschichten an der Tür, hier oder in der Schlange, falls es eine gibt: Vor dem Museum · Extra · Die Anzeige mit zwei Schreibfehlern.

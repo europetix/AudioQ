@@ -1,0 +1,34 @@
+@id: 011 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The trophies
+@room: The women's trophies · where you can see the women's European Cups [O17]
+@type: W
+@title: Die Trophäen der Frauen · Von einem Weihnachtsspiel zu 91.648
+@where: Bei den Trophäen der Frauen, wo ihre Europapokale zu sehen sind.
+@what: Christmas Day 1970, a charity match at the Camp Nou v UE Centelles, played as the Selecció Ciutat de Barcelona without the club's colours, the team not recognised by the club (F13.1 OK SEC [S20]); 1971 supporters' team, 1988 a club of its own, 26 June 2002 part of FC Barcelona, professional 2015 (F13.2 OK SEC); Gothenburg 2021, 4–0 v Chelsea, the club's "first ever club" claim, attributed (F13.4 OK OFF [O53]); 2023; Bilbao 2024, 2–0 v Lyon, Lyon beaten for the first time in five meetings; (Lisbon 2025 cut in the audit fixes); Oslo, 23 May 2026, 4–0 v OL Lyonnes, the fourth title (F13.7 OK OFF-UEFA, DATED); the crowds: 91,553 v Real Madrid, 30 March 2022, then 91,648 v Wolfsburg 23 days later, world records for women's football (F6.13 OK OFF [O33], DATED wording "had seen"); Alexia from Levante at 18 in 2012, left in May 2026 as the record scorer (F13.9 OK OFF [O52], DATED); Aitana "a product of the youth team" (F13.13 OK OFF [O54]); "five times between them as Barça players, and Alexia added a third this October" (F12.9 safe wording, DATED); [RL] the four European trophies, the first fifty years after 1970 (25 Dec 1970 → 16 May 2021: audit FA S2); ending Q7.
+@listen: How the women's team went from a match without the club's colours to four European titles and the biggest crowds the women's game had seen.
+@brief: Telling a long, hard-won success story with pride and no sentimentality; even at the start, lifting through the titles and the crowds, warm and quiet at Alexia's words.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.enciclopedia.cat/gran-enciclopedia-catalana/futbol-club-barcelona-femeni (SEC, read twice 14 Nov 2026: "dia de Nadal del 1970", at the Camp Nou v UE Centelles, "amb motiu d'un festival benèfic"; as the Selecció Ciutat de Barcelona "sense els colors del club en l'uniforme … perquè l'equip no estava reconegut oficialment pel Club"; Feb 1971 Penya Femenina Barcelonista; Club Femení Barcelona 1988–89; "secció del Futbol Club Barcelona des del 26 de juny de 2002"; "el 2015 es professionalitzà"; titles 2021, 2023, 2024, 2026) ; https://www.fcbarcelona.com/en/news/2146016/fc-barcelona-first-club-to-win-mens-and-womens-champions-league (OFF, read 14 Nov 2026: 16 May 2021, Gothenburg, 4–0 v Chelsea; "the first ever club to have won both the men's and women's versions") ; https://www.uefa.com/womenschampionsleague/news/028d-1af9862331e9-90fcbcd9c8ba-1000--women-s-champions-league-final-report-barcelona-2-0-lyon/ (OFF-UEFA, read 14 Nov 2026: 25 May 2024, San Mamés, Bilbao, 2–0 Lyon; Lyon had won all four previous meetings, "fifth time lucky") ; G79 [GP8] Lisbon 2025, Arsenal 1–0 (via FACTS_GAPS, OFF-UEFA; not re-read) ; https://www.uefa.com/womenschampionsleague/news/02a5-20b2372a6365-2baba1547370-1000--where-the-2026-women-s-champions-league-final-was-won-barc/ (OFF-UEFA, read 14 Nov 2026: Oslo, Saturday 23 May 2026, 4–0 OL Lyonnes, Pajor and Paralluelo two each, "their fourth European title") ; https://www.fcbarcelona.com/en/news/2585994/camp-nou-does-it-again-and-beats-the-world-record-for-attendance-with-91648-fans (OFF, read 14 Nov 2026, 22 Apr 2022: 91,648 v Wolfsburg, semi-final first leg; previous record 91,553 v Real Madrid on 30 March, "just 23 days ago"; "world attendance record for women's football") ; https://www.fcbarcelona.com/en/news/4536381/alexia-putellas (OFF, read 14 Nov 2026: joined in 2012 at 18 from Levante; left in May 2026 as the all-time leading scorer, 232 goals; quote re-checked word for word) ; https://www.fcbarcelona.com/en/football/womens-football/players/711891 (OFF, read 14 Nov 2026: Aitana "A product of the youth team"; Ballon d'Or 2023, 2024, 2025) ; https://www.catalannews.com/sports/item/alexia-putellas-wins-historic-third-ballon-dor (SEC, read 14 Nov 2026, 27 Oct 2026: Alexia's third, in London; left Barça this summer for London City Lionesses)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 011 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Am ersten Weihnachtstag 1970 bestritt eine Frauenmannschaft im Camp Nou ein Benefizspiel gegen UE Centelles. Die Spielerinnen durften die Farben des Clubs nicht tragen. Die katalanische Enzyklopädie erklärt, warum: Der Club erkannte sie nicht an. Also spielten sie als Selecció Ciutat de Barcelona, als Stadtauswahl von Barcelona.
+
+Dann, 1971, ein Fanteam. 1988 ein eigener Verein. Teil des FC Barcelona erst 2002. Und voll professionell erst 2015.
+
+[warmly] Dann kamen die Titel. 2021 gewannen sie in Göteborg die Champions League, vier zu null gegen Chelsea. 2023 gewannen sie sie erneut. 2024 in Bilbao schlugen sie endlich Lyon, zwei zu null, nachdem sie viermal gegen Lyon verloren hatten.
+
+Im Mai 2026 in Oslo gewannen sie den vierten Titel, vier zu null gegen OL Lyonnes.
+
+Auch die Zuschauer kamen. Am dreißigsten März 2022 sahen mehr als einundneunzigtausend Menschen im Camp Nou ihr Spiel gegen Real Madrid. Dreiundzwanzig Tage später, gegen Wolfsburg, kamen noch mehr: einundneunzigtausendsechshundertachtundvierzig. Beide Male war es damals ein Weltrekord für den Frauenfußball, so der Club.
+
+Alexia Putellas kam 2012 mit achtzehn und ging 2026 als Rekordtorschützin des Clubs. Aitana Bonmatí kam aus den Jugendteams des Clubs.
+
+Zusammen gewannen Alexia und Aitana als Barça-Spielerinnen fünfmal den Ballon d'Or. 2026, nach ihrem Abschied vom Club, gewann Alexia ihren dritten.
+
+Sehen Sie sich jetzt die vier europäischen Trophäen an. [pause] Die erste davon kam fünfzig Jahre nach jenem Weihnachtsspiel.
+
+[warmly] In Alexias eigenen Worten, so wie der Club sie übersetzt: „Ich wünsche mir nur, dass jedes Mädchen, das Fußball spielen will, immer die Chance dazu hat.“
+
+Suchen Sie jetzt die Trikotwand, eine ganze Wand voller Trikots nebeneinander: Die Trikotwand · Das Trikot, das fürs Tragen zahlte.

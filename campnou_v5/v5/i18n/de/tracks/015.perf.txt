@@ -1,0 +1,30 @@
+@id: 015 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The club's history
+@room: The Masia display · where La Masia's photographs or story are shown [O12]
+@type: W
+@title: Der Masia-Bereich · Das Bauernhaus, in dem das Stadion entstand
+@where: Am Bereich, der La Masia gewidmet ist, der Akademie des Clubs, wo Fotos oder die Geschichte des Bauernhauses gezeigt werden.
+@what: La Masia de Can Planes, a farmhouse built in 1702 (F9.1 OK OFF, re-read); first "taller para la confección de la maqueta" and "a work area for architects and builders" (F9.3 OK OFF, re-read on both pages); came with the land bought in 1950 (F9.2, re-read); then the club's headquarters (F9.3; AU-S40); a residence from 20 Oct 1979 (F9.4, re-read); about 60 boys, 12 in the farmhouse and 48 under the Gol Nord (F9.5, re-read); the stadium "visible to them through their bedroom windows" (F9.6, re-read); Iniesta at 12, leaving his family "one of the worst days I have experienced" (AU-S76 OFF, re-read); the residence left the farmhouse in 2011; the new one at the training ground for 83 (F9.4, F9.7, re-read: "dejó de ser centro formador en 2011"; Oriol Tort "inaugurada el 20 de octubre de 2011", "83 deportistas"); the club names Xavi, Iniesta and Messi (F9.8, re-read); 2010 World Cup final: "Seven of the eight were starters" (AU-S43 OFF, re-read; "six from the academy" not said: G did not confirm); to become the social headquarters, "the building has to return to its original state" (F9.9 DATED, re-read). [RL] look: the farmhouse in the photographs (O12). Payoff (PLAN).
+@listen: How the farmhouse where the stadium's model was made became the home of the club's academy.
+@brief: A friend telling an affectionate story about where the club's young players came from, curious at the start, tender at Iniesta, warm at the payoff.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.fcbarcelona.es/club/instalaciones/ficha/historia-de-la-masia (OFF, read 14 Nov 2026: "una antigua residencia payesa construida en 1702"; "se usó como taller para la confección de la maqueta"; remodelled "para albergar la sede social del Club"; "el 20 de octubre de 1979 se inauguraba oficialmente para su nuevo uso"; "antigua Masía de Can Planes (12 residentes)", "Gol Norte del Camp Nou (48 residentes)"; "dejó de ser centro formador en 2011"; new centre "inaugurada el 20 de octubre de 2011", "83 deportistas"; "campeones como Xavi, Iniesta y Messi") ; https://www.fcbarcelona.com/en/news/3983230/fc-barcelona-move-forward-with-the-project-to-redevelop-the-masia-de-can-planes (OFF, 27 Apr 2024, read 14 Nov 2026: "a stadium visible to them through their bedroom windows"; "included in the land acquired by the Club in 1950"; "a work area for architects and builders"; "the new FC Barcelona social headquarters"; "the building has to return to its original state") ; https://www.fcbarcelona.com/en/news/813768/andres-iniesta-the-masia-made-me-the-person-and-player-that-i-am-today (OFF, read 14 Nov 2026: "Having to leave them was very difficult and was one of the worst days I have experienced."; "At just 12 years of age") ; https://fcbarcelona.com/en/news/1096349/fifth-anniversary-of-world-cup-in-south-africa (OFF, read 14 Nov 2026: "one of eight FC Barcelona players"; "Seven of the eight were starters in the Final.")
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 015 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] La Masia, die Akademie des Clubs, ist nach einem Bauernhaus benannt, und das Bauernhaus ist älter, als man denkt. Es wurde 1702 gebaut. Es gehörte zu dem Grundstück, das der Club für sein neues Stadion kaufte, und bevor dort je ein junger Spieler schlief, hatte es eine andere Aufgabe. Es war die Werkstatt, in der das Modell des Stadions gebaut wurde, und ein Arbeitsplatz für seine Architekten und Bauleute.
+
+Später wurde es der Sitz des Clubs. Dann, 1979, wurde es ein Zuhause: ein Internat für die jungen Spieler, die der Club ausbildete.
+
+Von rund sechzig Jungen wohnten zwölf im Bauernhaus. Die anderen achtundvierzig wohnten unter dem Gol Nord, der Tribüne hinter einem der Tore, im Stadion selbst. Laut der Clubgeschichte konnten die Jungen im Bauernhaus das Stadion durch ihre Schlafzimmerfenster sehen.
+
+Leicht war es nicht. Andrés Iniesta kam mit zwölf, und er sagte später, der Abschied von seiner Familie „war einer der schlimmsten Tage, die ich erlebt habe“.
+
+Der Club nennt Xavi, Iniesta und Messi unter den Champions, die aus La Masia hervorgingen. Im Finale der Weltmeisterschaft 2010 waren sieben aus Spaniens Startelf Barça-Spieler.
+
+2011 zog das Internat in ein neues Gebäude am Trainingsgelände um.
+
+[warmly] Wenn das Bauernhaus hier auf den Fotos ist, suchen Sie es: ein Bauernhaus, aus dem eine Fußballschule wurde. Die meisten Jungen schliefen unter einer Tribüne, ein paar Schritte von dem Rasen, auf dem sie spielen wollten.
+
+Suchen Sie jetzt den Teil der Geschichte darüber, wofür der Club steht: Més que un club, mehr als ein Club. Wenn Sie ihn nicht finden, tut es jeder ruhige Platz in der Nähe: Der Bereich Més que un club · Worte, älter als der Mann.

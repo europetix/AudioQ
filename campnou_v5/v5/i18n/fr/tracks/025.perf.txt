@@ -1,0 +1,28 @@
+@id: 025 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The round room
+@room: The round room · just outside it, or inside once the show ends, out of the way [O11]
+@type: R
+@title: La salle ronde · Après le spectacle : le premier stade comble
+@where: Juste à l'extérieur de la salle ronde, ou à l'intérieur une fois le spectacle terminé, à l'écart des allées et venues.
+@what: The show's official framing only (F16.14: at the centre of the stadium); 24 September 1957, La Mercè, the city's feast day: opening day (F5.15 OK OFF [O25]); morning Mass, a statue of the Virgin of Montserrat, Handel's Hallelujah, only about half the seats filled (O25 re-read); afternoon packed, a parade of Catalan clubs with Espanyol at the back, sardanas, about eleven thousand white doves (F5.15); the Spanish flag raised and the national anthem, the stadium standing: Franco's Spain (F5.16 OK OFF, even-handed); 4–2 v a team billed as a Warsaw eleven (F5.17; F18.13: never "Legia"); more than ninety thousand, works unfinished (F5.18; F5.19 safe wording); first goal after eleven minutes, Eulogio Martínez (F5.17 OK OFF [O26]); optional: Eulogio first to score five in a game there, 1960 (GAPS G96 OK OFF, one G detail on a person the track covers). Ending: the first goal in a stadium that would see thousands (no number).
+@listen: The day the stadium opened in 1957: a Mass, eleven thousand doves, the flag and anthem of the day, and the first goal.
+@brief: A friend stepping out of the show with you, still a little dazzled, telling the opening day like a family photo album; warm, honest about the politics of the day, bright at the goal.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.fcbarcelona.com/en/news/742737/24-september-1957-the-day-the-camp-nou-dream-came-true-at-last/amp (OFF [O25], re-read 14 Nov 2026: morning Mass presided by the archbishop, a large statue of the Virgin of Montserrat, Handel's Hallelujah, only about half the seats filled; afternoon packed; parade of Catalan clubs with RCD Espanyol at the back; esbart and sardana dances; about 11,000 white doves; the Spanish flag raised, the stadium stood for the national anthem; 4–2 v a "Warsaw XI", not Legia itself; scorers Eulogio Martínez, Tejada, Sampedro, Evaristo) ; https://www.fcbarcelona.com/en/club/facilities/spotify-camp-nou/history (OFF [O26], re-read: "more than 90,000 spectators"; "Although work on the stadium was not yet complete"; Eulogio Martínez's "11th minute strike was the first goal ever at the Camp Nou"; capacity 93,053 not used, F5.19) ; https://www.fcbarcelona.com/en/card/3828009/exploring-spaces-the-new-museum (OFF [O6], re-read: the show places you "at the center of the stadium") ; Eulogio's five goals v Las Palmas, 1960: research/FACTS_GAPS_NOV2026.md G96 (OFF [GO35], not re-read by me)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 025 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Le Camp Nou fut plein pour la première fois le jour de son inauguration, le 24 septembre 1957. C'était La Mercè, la fête de la ville.
+
+La matinée fut solennelle. L'archevêque célébra la messe devant une grande statue de la Vierge de Montserrat, et l'on joua l'Alléluia de Haendel. Seule la moitié environ des places était occupée.
+
+L'après-midi, le stade était comble. Les grands clubs catalans défilèrent autour de la pelouse, avec l'Espanyol, l'autre club de la ville, en queue. Il y eut des sardanes, la danse catalane en cercle. [pause] Et environ onze mille colombes blanches furent lâchées dans le ciel.
+
+La cérémonie se termina par le lever du drapeau espagnol et l'hymne national, tout le stade debout. C'était l'Espagne de Franco, et cela aussi faisait partie de la journée.
+
+Puis vint le football. Le Barça affronta une équipe présentée comme une sélection de Varsovie, et gagna quatre buts à deux. Plus de quatre-vingt-dix mille personnes y assistèrent, malgré des travaux inachevés. [lightly] Le premier but du nouveau stade tomba après onze minutes, signé Eulogio Martínez.
+
+Son but ce soir-là fut le premier de milliers dans cette enceinte.
+
+Suivez maintenant le chemin qui sort de la salle jusqu'aux maquettes du stade achevé : Les maquettes · Le stade une fois terminé.

@@ -1,0 +1,34 @@
+@id: 011 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The trophies
+@room: The women's trophies · where you can see the women's European Cups [O17]
+@type: W
+@title: Les trophées féminins · D'un match de Noël à 91 648
+@where: Aux trophées féminins, là où l'on voit leurs Coupes d'Europe.
+@what: Christmas Day 1970, a charity match at the Camp Nou v UE Centelles, played as the Selecció Ciutat de Barcelona without the club's colours, the team not recognised by the club (F13.1 OK SEC [S20]); 1971 supporters' team, 1988 a club of its own, 26 June 2002 part of FC Barcelona, professional 2015 (F13.2 OK SEC); Gothenburg 2021, 4–0 v Chelsea, the club's "first ever club" claim, attributed (F13.4 OK OFF [O53]); 2023; Bilbao 2024, 2–0 v Lyon, Lyon beaten for the first time in five meetings; (Lisbon 2025 cut in the audit fixes); Oslo, 23 May 2026, 4–0 v OL Lyonnes, the fourth title (F13.7 OK OFF-UEFA, DATED); the crowds: 91,553 v Real Madrid, 30 March 2022, then 91,648 v Wolfsburg 23 days later, world records for women's football (F6.13 OK OFF [O33], DATED wording "had seen"); Alexia from Levante at 18 in 2012, left in May 2026 as the record scorer (F13.9 OK OFF [O52], DATED); Aitana "a product of the youth team" (F13.13 OK OFF [O54]); "five times between them as Barça players, and Alexia added a third this October" (F12.9 safe wording, DATED); [RL] the four European trophies, the first fifty years after 1970 (25 Dec 1970 → 16 May 2021: audit FA S2); ending Q7.
+@listen: How the women's team went from a match without the club's colours to four European titles and the biggest crowds the women's game had seen.
+@brief: Telling a long, hard-won success story with pride and no sentimentality; even at the start, lifting through the titles and the crowds, warm and quiet at Alexia's words.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.enciclopedia.cat/gran-enciclopedia-catalana/futbol-club-barcelona-femeni (SEC, read twice 14 Nov 2026: "dia de Nadal del 1970", at the Camp Nou v UE Centelles, "amb motiu d'un festival benèfic"; as the Selecció Ciutat de Barcelona "sense els colors del club en l'uniforme … perquè l'equip no estava reconegut oficialment pel Club"; Feb 1971 Penya Femenina Barcelonista; Club Femení Barcelona 1988–89; "secció del Futbol Club Barcelona des del 26 de juny de 2002"; "el 2015 es professionalitzà"; titles 2021, 2023, 2024, 2026) ; https://www.fcbarcelona.com/en/news/2146016/fc-barcelona-first-club-to-win-mens-and-womens-champions-league (OFF, read 14 Nov 2026: 16 May 2021, Gothenburg, 4–0 v Chelsea; "the first ever club to have won both the men's and women's versions") ; https://www.uefa.com/womenschampionsleague/news/028d-1af9862331e9-90fcbcd9c8ba-1000--women-s-champions-league-final-report-barcelona-2-0-lyon/ (OFF-UEFA, read 14 Nov 2026: 25 May 2024, San Mamés, Bilbao, 2–0 Lyon; Lyon had won all four previous meetings, "fifth time lucky") ; G79 [GP8] Lisbon 2025, Arsenal 1–0 (via FACTS_GAPS, OFF-UEFA; not re-read) ; https://www.uefa.com/womenschampionsleague/news/02a5-20b2372a6365-2baba1547370-1000--where-the-2026-women-s-champions-league-final-was-won-barc/ (OFF-UEFA, read 14 Nov 2026: Oslo, Saturday 23 May 2026, 4–0 OL Lyonnes, Pajor and Paralluelo two each, "their fourth European title") ; https://www.fcbarcelona.com/en/news/2585994/camp-nou-does-it-again-and-beats-the-world-record-for-attendance-with-91648-fans (OFF, read 14 Nov 2026, 22 Apr 2022: 91,648 v Wolfsburg, semi-final first leg; previous record 91,553 v Real Madrid on 30 March, "just 23 days ago"; "world attendance record for women's football") ; https://www.fcbarcelona.com/en/news/4536381/alexia-putellas (OFF, read 14 Nov 2026: joined in 2012 at 18 from Levante; left in May 2026 as the all-time leading scorer, 232 goals; quote re-checked word for word) ; https://www.fcbarcelona.com/en/football/womens-football/players/711891 (OFF, read 14 Nov 2026: Aitana "A product of the youth team"; Ballon d'Or 2023, 2024, 2025) ; https://www.catalannews.com/sports/item/alexia-putellas-wins-historic-third-ballon-dor (SEC, read 14 Nov 2026, 27 Oct 2026: Alexia's third, in London; left Barça this summer for London City Lionesses)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 011 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Le jour de Noël 1970, une équipe féminine joua un match caritatif au Camp Nou, contre l'UE Centelles. Les couleurs du club leur étaient interdites. L'encyclopédie catalane explique pourquoi : le club ne les reconnaissait pas. Elles jouèrent donc comme Selecció Ciutat de Barcelona, une équipe de la ville.
+
+Puis une équipe de supporters en 1971. Leur propre club en 1988. Intégrée au FC Barcelona seulement en 2002. Et professionnelle seulement en 2015.
+
+[warmly] Puis vinrent les titres. En 2021, à Göteborg, elles gagnèrent la Ligue des champions, quatre à zéro contre Chelsea. Elles la regagnèrent en 2023. En 2024, à Bilbao, elles battirent enfin Lyon, deux à zéro, après quatre défaites contre lui.
+
+En mai 2026, à Oslo, elles en gagnèrent une quatrième, quatre à zéro contre l'OL Lyonnes.
+
+Le public suivit. Le 30 mars 2022, plus de quatre-vingt-onze mille personnes les virent affronter le Real Madrid au Camp Nou. Vingt-trois jours après, contre Wolfsburg, encore plus : quatre-vingt-onze mille six cent quarante-huit. Chaque fois, à l'époque, un record du monde du football féminin, selon les mots du club.
+
+Alexia Putellas arriva à dix-huit ans, en 2012, et partit en 2026, meilleure buteuse de l'histoire du club. Aitana Bonmatí est issue des équipes de jeunes du club.
+
+À elles deux, Alexia et Aitana ont gagné cinq fois le Ballon d'Or comme joueuses du Barça. En 2026, après avoir quitté le club, Alexia a gagné son troisième.
+
+Regardez maintenant les quatre trophées européens. [pause] Le premier arriva cinquante ans après ce match de Noël.
+
+[warmly] Les mots d'Alexia, traduits par le club : "Tout ce que je veux, c'est que toute fille qui veut jouer au football ait toujours la possibilité de le faire."
+
+Trouvez maintenant le mur des maillots, tout un mur de maillots côte à côte : Le mur des maillots · Le maillot qui payait pour être porté.
