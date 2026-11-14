@@ -1,0 +1,32 @@
+@id: 004 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The square and the facade
+@room: The facade · on the square, far enough back to see the whole front
+@type: W
+@title: Die Fassade — Gezeichnet 1408, gebaut 1887
+@where: Auf dem Platz, der Kathedrale zugewandt, weit genug zurück, um die ganze Vorderseite zu sehen, vom Portal bis hinauf zu den Spitzen, und den Laternenturm dahinter.
+@what: Neo-Gothic front, "following 15th-century plans" (F5.23 OK, M1); Carlí of Rouen's 1408 portal design, ink on twelve parchments of which four are lost, 3.11 m tall, in the archive, not on show (F5.1, F5.3 OK, S7, A7, S25); front closed with a plain wall in 1417, said as "nine years later" (F3.20 OK, O1, S7); lack of budget (Q13, F5.4 OK, S25); the 1882 competition rule, said as "in the 1880s" (F5.5 OK, A7); Manuel Girona, banker and former mayor, failed to raise the money and paid (F5.9, F5.10 OK; wording per COAC re-read, see notes); begun summer 1887, finished 12 Feb 1890 on her feast day (F5.12, F5.13 OK, S24, S7); lantern tower finished 1913 by his children (F5.16 HEDGE: 1913 only; O1); version-neutral Gaudí sentence (F5.7, F18.5); look: Christ on the central pillar, apostles either side (F5.21 OK, S24), the sober sides (F5.25 OK, M1). Agapit Vallmitjana (optional) left out.
+@listen: The front you photograph was drawn in 1408 and built almost five centuries later, when a banker finally paid for it.
+@brief: A guide enjoying a reveal in front of a famous view; plain at the hook, wry about the money, warm at the payoff.
+@pace: medium
+@energy: 3→4→3
+@sources: M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (OFF, MNAC, re-read 14 Nov 2026: "built by Josep Oriol Mestres and August Font following 15th-century plans"; "the exterior is sober, with no more decoration than the vertical buttresses and the octagonal towers.", EN) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: "Carlí, mestre tracista de la façana" 1408; "originari de Rouen (Normandia)"; "realitzat a tinta sobre dotze pergamins, dels quals se n'han perdut quatre"; "fa 3,11 m d'alçada i 1,40 m d'amplada"; "El 12 de febrer de 1890 va quedar enllestida la nova façana neogòtica.", CA) ; S25 https://www.ub.edu/web/ub/en/menu_eines/noticies/2020/02/028.html (SEC, UB, re-read 14 Nov 2026: "The lack of budget in medieval Barcelona prevented this project by Carles Galtés from being materialized."; the original "three meters high", EN) ; O1 https://catedralbcn.org/en/the-cathedral/history/ (OFF, re-read 14 Nov 2026: "later closed with a simple wall (1417)"; Girona "offered to undertake the work on the façade"; "Mr Girona's children finalized their father's work in 1913 on completion of the cimborio.", EN) ; A7 https://www.barcelona.cat/museuhistoria/sites/default/files/guiagothic.pdf (OFF, MUHBA, re-read 14 Nov 2026: "En el año 1882 se convocó un concurso restringido para terminar la fachada"; "Todos los proyectos debían tomar como punto de partida el dibujo o la traza del maestro francés Carles Galters (1408)", ES) ; S24 https://www.arquitecturacatalana.cat/en/works/facana-principal-i-cimbori-de-la-catedral-de-barcelona (SEC, COAC, re-read 14 Nov 2026: Girona "tried unsuccessfully to secure funding and then decided to finance the works himself"; "4 July 1887"; "12 February 1890, the feast day of Saint Eulalia"; apostles on the jambs and Christ on the central mullion, EN)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 004 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Die Front, die Sie fotografieren, ist nicht mittelalterlich. Sie entstand Ende des neunzehnten Jahrhunderts, „nach Plänen aus dem fünfzehnten Jahrhundert“, wie es das Nationale Kunstmuseum formuliert.
+
+Die Pläne sind viel älter als der Stein. 1408 zeichnete ein Meister aus Rouen namens Carlí das Hauptportal. Seine Zeichnung ist erhalten, im Archiv der Kathedrale: Tinte auf zwölf Blättern Pergament. Vier fehlen, und was übrig ist, misst noch immer über drei Meter. Ausgestellt ist sie nicht.
+
+Die mittelalterlichen Baumeister vollendeten diese Front nie. Neun Jahre nach Carlís Zeichnung schlossen sie sie mit einer schlichten Mauer, und so blieb es über vier Jahrhunderte. Warum? Ein Bericht der Universität Barcelona nennt den Grund: „Das fehlende Budget im mittelalterlichen Barcelona verhinderte“, dass dieses Projekt gebaut wurde.
+
+In den 1880er-Jahren kam ein Wettbewerb, um sie zu vollenden, mit einer Regel. Jeder Entwurf musste von der mittelalterlichen Zeichnung ausgehen.
+
+[wry] Dann das Geld. Manuel Girona, ein Bankier, der Bürgermeister von Barcelona gewesen war, versuchte, die Mittel aufzutreiben, und scheiterte. Also zahlte er selbst. Die Arbeiten begannen im Sommer 1887. Die Hauptfront war drei Jahre später fertig, am zwölften Februar, dem Festtag der Santa Eulàlia. Der Laternenturm dahinter wurde 1913 vollendet, von seinen Kindern.
+
+[pause] Ein Name, den man hier erwartet, fehlt. Gaudí hat hier nichts gebaut. Als junger Mann half er nur, einen Konkurrenzentwurf zu zeichnen, und der verlor.
+
+Suchen Sie nun Christus, der auf dem Mittelpfeiler des Portals steht, die Apostel zu beiden Seiten. Lassen Sie dann den Blick nach außen zu den Seiten des Gebäudes wandern. Neben dieser reich verzierten Front sind die alten Mauern schlicht und nüchtern: Strebepfeiler und achteckige Türme, und sehr wenig sonst.
+
+[warmly] Barcelona wartete fast fünf Jahrhunderte auf seine Haustür.
+
+Bleiben Sie hier, mit Blick auf die Front: Die Fassade · Der Entwurf, der verlor.

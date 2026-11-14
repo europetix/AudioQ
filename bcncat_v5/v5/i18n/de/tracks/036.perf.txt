@@ -1,0 +1,32 @@
+@id: 036 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The way out
+@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way [O1, O23]
+@type: CLOSE
+@title: Das Santa-Eulàlia-Portal — Siebzehn Jahrhunderte an einer Ecke
+@where: Gleich innen am Santa-Eulàlia-Portal, der Tür des Kreuzgangs zum Carrer del Bisbe, seitlich, damit Menschen hinein und hinaus können.
+@what: Version-neutral recap (H skips 002, 021, 027): more than 1,700 years of history (F1.18, O6 re-read: "history", not "worship") on the corner of the Roman town where the first Christian see stood, the bishops never moved (F1.4, A1); the front finished on her feast day (F5.13; callback 004 safe); Eulàlia, by tradition a girl of thirteen, co-patroness of the cathedral, the archdiocese and the city (F7.3, F7.16, O13); 1936, one clause (F15.7, F15.8 HEDGE; 027 the home); the geese (callback 030 safe); the Santa Eulàlia door, step-free access (ROUTE §1.2 OFF), Bishop Sapera's arms (ROUTE §1.2, SEC-enc); optional, O23: the Pont del Bisbe is 1928 (F6.10, F18.34; cut unless O23 finds it in view); thanks; Carrer del Bisbe just outside (O1).
+@listen: The goodbye at the cloister's street door: seventeen centuries on one corner of the Roman town, the girl, the year 1936, the geese, and the way out.
+@brief: A guide at the door at the end of a long walk together, warm and unhurried, quiet for the last lines.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: "La Catedral és testimoni de més de mil set-cents anys d'història.", CA: "history", so spoken as history) ; A1 https://www.bcn.cat/museuhistoriaciutat/docs/Guia_Centre_MUHBA_ANG.pdf (OFF MUHBA, via FACTS F1.4, not re-read: the first see in the corner of the walled town) ; O13 https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20260609-spagna-preghiera-ora-media.html (OFF Holy See, via FACTS F7.16, not re-read: "co-patroness of this Cathedral, the Archdiocese, and the city") ; S24 / S7 (via FACTS F5.13, not re-read: main front finished 12 February 1890, her feast) ; S16 https://catalannews.com/culture/item/historic-church-that-survived-civil-war-reopens-after-restoration-works and M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (re-read for 027: protected by the Catalan government; not assaulted, interior survives) ; O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read: thirteen geese, documented since the 16th century) ; ROUTE §1.2 (OFF via route file: the Santa Eulàlia door on Carrer del Bisbe, "accés per a persones amb mobilitat reduïda"; Bishop Sapera's arms, SEC-enc) ; S22 https://timeout.com/barcelona/attractions/pont-del-bisbe (SEC, via FACTS F6.10, not re-read: the bridge 1928; optional line, O23)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 036 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Die ersten Christen Barcelonas bauten ihre Kirche in dieser Ecke der ummauerten Stadt. Und die Bischöfe zogen nie um. Die Kathedrale trägt noch immer ihre beiden Namen: das Heilige Kreuz und Santa Eulàlia.
+
+Die Front, durch die Sie hereinkamen, wurde am Fest der Santa Eulàlia vollendet, der Märtyrerin der Stadt. Ihr Fest wird noch immer an jedem zwölften Februar gefeiert. Und sie ist Mitpatronin der Kathedrale, des Erzbistums und der Stadt.
+
+Im Sommer 1936, als überall in Barcelona Kirchen brannten, wurde diese geschützt und kam unversehrt hindurch. Vieles von dem, was Sie heute gesehen haben, ist deshalb erhalten.
+
+Hier im Kreuzgang hüten die dreizehn Gänse ihren Teich, wie Gänse hier seit mindestens vierhundert Jahren.
+
+Dies ist das Santa-Eulàlia-Portal, nach ihr benannt, und es ist auch der stufenlose Zugang der Kathedrale. Es trägt das Wappen eines Bischofs, Sapera, aus den Jahren, in denen der Kreuzgang gebaut wurde. Treten Sie hindurch, und Sie sind im Carrer del Bisbe, der Bischofsstraße, im Herzen der Altstadt.
+
+Draußen in dieser Straße sieht die kleine Steinbrücke, die alle fotografieren, mittelalterlich aus. Sie wurde 1928 gebaut.
+
+[warmly] Danke, dass Sie diesen Weg mit mir gegangen sind: die römische Ecke und die gotische Kirche, das Mädchen in der Krypta, das Ei und die Gänse, der Heilige mit Brille. Es ist noch immer eine lebendige Kirche, und sie gehört der Stadt.
+
+[quietly] Eine Ecke einer römischen Stadt, und siebzehn Jahrhunderte Menschen, die zu ihr zurückkehren.
+
+Der Carrer del Bisbe liegt gleich draußen. Gehen Sie behutsam.

@@ -1,0 +1,28 @@
+@id: 016 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The choir
+@room: The choir · inside, among the upper stalls (or at the entrance if closed) [O8]
+@type: W
+@title: Der Chor — Eiche aus Brügge
+@where: Im Chor, dem umschlossenen Raum in der Mitte des Kirchenschiffs, dort, wo die hohe obere Sitzreihe im Blick ist. Ist der Chor geschlossen, an seinem Eingang, mit Blick hinein.
+@what: Q1 / F9.4 OK (S9, old CA, re-checked): the Llibre del cor, "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor" (spoken in English, "in old Catalan" once; never "rode", no route towns); the choir in the middle of the nave, in front of the crypt (F9.1 OK, S7); begun in the 1390s under Bishop Ramon d'Escales (F9.2 HEDGE wording; O7 1390, S9 1394); Sanglada directed the upper stalls 1394–1399, mainly Flemish oak, a team effort, formally finished 5 December 1399 (F9.3 OK, S9; "team effort" paraphrased); callback: Sanglada's alabaster figure of Sant Oleguer (008, safe in F; F10.19, F10.20); optional, used: the lower stalls won by Macià Bonafè against Joan Claperós (F9.7 OK, S10; year spoken as "half a century later"); look: the upper row's seat backs and armrests (O8).
+@listen: How a Barcelona sculptor went to Bruges for the oak of the canons' choir, and the team who carved it.
+@brief: A guide inside a beautiful wooden room, warm and a little proud of the carvers, voice kept low for a working church.
+@pace: medium
+@energy: 3→3→3
+@sources: S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, Enc. Cat. L'art gòtic, re-read 14 Nov 2026: "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor", old CA; the stalls "fou bàsicament una obra d'equip", with Antoni Canet, Francesc Marata, Berenguer Rof; upper stalls directed 1394–1399; formally finished "el dia 5 de desembre d'aquell any"; Sant Oleguer's alabaster effigy, May 1406, "l'única treballada en alabastre", CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: "Davant la cripta, just al centre de la nau, es troba el cor."; "l'obra del cor es vincula especialment amb el bisbe Escales.", CA) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: the choir "started up in 1390 under the mandate of Bishop Raymond d'Escales", EN) ; S10 https://diposit.ub.edu/dspace/bitstream/2445/35592/2/01.MJA_INTRODUCCIO.pdf (SEC, Jardí thesis, re-read 14 Nov 2026: "Macià Bonafé i Joan Claperós es van disputar el contracte del nou cadirat baix", CA)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 016 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Diese Sitze begannen mit einer Reise nach Flandern. Das alte Chorbuch des Kapitels hält sie fest, auf Altkatalanisch: „Anglada wurde … nach Brügge geschickt, um Eiche für den besagten Chor zu kaufen.“ Anglada ist Pere Sanglada, der leitende Bildhauer aus Barcelona, geschickt, um das Holz selbst zu kaufen.
+
+[warmly] Dies ist der Chor der Domherren mit seinem Chorgestühl, mitten im Kirchenschiff, vor der Krypta. Hier sangen die Domherren das Stundengebet, umschlossen in der Mitte der Kirche.
+
+Die Arbeiten begannen in den 1390er-Jahren, unter Bischof Ramon d'Escales. Sanglada leitete die oberen Sitze, vor allem aus flämischer Eiche geschnitzt, und er schnitzte sie nicht allein. Die Kunstgeschichte der katalanischen Enzyklopädie nennt das Gestühl im Kern eine Gemeinschaftsarbeit, mit einer Werkstatt von Schnitzern um ihn herum. Am fünften Dezember 1399 wurde es offiziell für vollendet erklärt.
+
+Sein Werk kennen Sie schon: die Alabasterfigur des Bischofs unter dem Lepanto-Kruzifix.
+
+Die untere Sitzreihe kam ein halbes Jahrhundert später. Ein Schnitzer namens Macià Bonafè gewann diesen Auftrag gegen einen Rivalen, Joan Claperós.
+
+[pause] Schauen Sie nun auf die obere Reihe, die hohen Sitze hinten. Folgen Sie den Schnitzereien an den Rückenlehnen und entlang der Armlehnen, von Sitz zu Sitz. Das ist die Arbeit von Sangladas Team, in Eiche, die aus Brügge kam.
+
+Wenn Sie die vollständige Tour machen, suchen Sie einen Sitz, dessen Klappbrett schon hochgeklappt ist, und betrachten Sie die Schnitzerei darunter. Bitte klappen Sie selbst keinen hoch: Der Chor · Extra · Unter den Sitzen der Domherren. Andernfalls ist die nächste Hauptstation über den Sitzen, bei der Reihe gemalter Wappenschilde: Der Chor · Europas exklusivster Club.

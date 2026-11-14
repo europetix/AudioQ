@@ -1,0 +1,26 @@
+@id: 008 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: The Lepanto chapel · at its doorway, outside
+@type: X
+@title: Die Lepanto-Kapelle · Extra · Der Bischof unter dem Kruzifix
+@where: Dieselbe Stelle, am Eingang der Kapelle des Christus von Lepanto, draußen und seitlich. Gehen Sie während eines Gottesdienstes nie hinein.
+@what: Sant Oleguer, bishop of Barcelona from 1116, also archbishop of Tarragona after its conquest, died 6 March 1137, canonised 1675 (F10.16, F10.17 OK, O10, O11; never 1676); his tomb under the crucifix (O11); Baroque tomb, medieval figure by Pere Sanglada, 1406, the only one of his surviving works in alabaster, kept when the new tomb was made in 1675 (F10.19, F10.20 OK, O10, S9); the correction, forward to 022 (safe): marble in the crypt; body in bishop's robes in a glass case in a chamber, shown on 6 March (F10.18 OK/DATED, O10; no hours, "his body", never a miracle claim); next door, Sança Ximenis de Cabrera's chapel of 1431 and the alabaster tomb argued to be her mother's (G37 OK, G38 HEDGE, GS9; ONLY if O4/O5 find it in view, else cut the paragraph). 1701 procession and the Pentecost keystone (optional) left out.
+@listen: The bishop-saint who lies under the crucifix, the alabaster everyone confuses with Santa Eulàlia's tomb, and a noblewoman's tomb next door that may be her mother's.
+@brief: A guide speaking low at a chapel doorway, respectful and clear, with a small smile at the mix-ups.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: O10 https://catedralbcn.org/en/?p=2407 (OFF, re-read 14 Nov 2026: in 1116 named bishop of Barcelona; "Archbishop of Tarragona while maintaining the bishopric of Barcelona"; died 6 March 1137; "officially canonized in 1675"; Baroque sepulchre by Francesc Grau and Domènec Rovira II with the Gothic sculpture by Pere Sanglada (1406); body in a glass case in bishop's robes; "Every 6th of March visitors can see the chamber", EN) ; O11 https://catedralbcn.org/wp-content/uploads/2026/07/CATEDRAL-DE-BARCELONA-01.pdf (OFF, re-read 14 Nov 2026: "Al damunt del sepulcre de sant Oleguer es troba la imatge del Sant Crist de Lepant"; "el 25 de maig de 1675", CA) ; S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, re-read 14 Nov 2026: "De totes les obres conservades de Pere Sanglada, aquesta és l'única treballada en alabastre."; May 1406 payment; in 1675 only Sanglada's recumbent figure was kept, CA) ; GS9 https://raco.cat/index.php/Locus/article/download/70405/80640/80916 (SEC, Valero, re-read 14 Nov 2026: chapel "concedida el 1431 a Sança Ximenis de Cabrera", "situada al costat de la capella que serveix d'entrada a l'antiga sala capitular"; 1442 entry "tomba dela senyora sa mara"; Timbor de Prades "ha de ser la destinatària final del sepulcre"; "el sepulcre d'alabastre", CA)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 008 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Unter dem Kruzifix ruht ein Bischof, der half, eine ganze Stadt wieder zum Leben zu erwecken. Sant Oleguer wurde Anfang des zwölften Jahrhunderts Bischof von Barcelona. Als Tarragona zurückgewonnen war, wurde er auch dort Erzbischof. Er starb 1137 und wurde 1675 heiliggesprochen.
+
+Wenn Sie vom Eingang aus hineinsehen können, suchen Sie sein Grab. Es ist barock, und darauf liegt etwas Älteres: eine mittelalterliche Figur des Bischofs aus Alabaster, 1406 von Pere Sanglada gemeißelt. Sie ist sein einziges erhaltenes Werk aus Alabaster, und man bewahrte sie, als das neue Grab entstand.
+
+[lightly] Denken Sie an diesen Alabaster, wenn Sie zum Grab der Santa Eulàlia in der Krypta kommen.
+
+Einmal im Jahr, an seinem Fest, dem sechsten März, wird sein Leichnam in Bischofsgewändern in einem Glasschrein in einem Raum der Kathedrale gezeigt.
+
+[pause] Nebenan noch mehr Alabaster. Eine Adlige, Sança Ximenis de Cabrera, kaufte die Kapelle neben dem Zugang zu dieser hier. Alle nennen das Alabastergrab darin ihres. Doch ein Kunsthistoriker argumentiert, anhand einer Zahlung von 1442 und der Wappen, es sei für ihre Mutter bestimmt gewesen.
+
+Gehen Sie nun zur weißen Marmorschranke am Ende des Chors, des umschlossenen Raums in der Mitte des Kirchenschiffs. Treten Sie etwas zurück, um ihre Reliefs zu sehen: Die Chorschranke · Der Bildhauer, der nie zurückkam.

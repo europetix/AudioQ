@@ -1,0 +1,26 @@
+@id: 033 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The cloister
+@room: The cloister · at the room called Jewish memory, the Old Archive of 1535, its place to be confirmed on site [O6]
+@type: X
+@title: Der Kreuzgang · Extra · Jüdische Erinnerung
+@where: Im Raum namens Jüdische Erinnerung oder an seiner Tür, im Alten Archiv von 1535, mit seinen ausgestellten Dokumenten. Seine Lage ist vor Ort zu bestätigen, und es wird nicht angenommen, dass er vom Kreuzgang abgeht.
+@what: Jewish memory = the Old Archive of 1535: original sales, rentals and wills in Latin, Hebrew and Catalan, "written testimonies that give a voice to the inhabitants of medieval Barcelona" (G101, F15.5, O7, EN); the Call's edge along streets lined by the bishop's properties (G103, re-read: safe wording); a canon leased the land of the smaller Jewish quarter (G106, optional, cut for length); August 1391: preaching that began in Seville, about three hundred dead, survivors converted or fled (G104, GA3; [quietly]); funerary slabs reused as building stone from 1391, the known sites outside the cathedral (G105, GA3, no direction); the chapter's archive here until 1969, about forty thousand parchments, nine papyri in the endpapers of one manuscript (F15.1, F15.2, G102, O9); callback 002 (Almanzor; safe F). Audit fixes, 14 Nov 2026: the Call's edge and the Almanzor callback cut; the room's place is to be confirmed on site (O6); see notes/AUDIT_FIXES.md.
+@listen: In the cathedral's old archive, the medieval Jews of Barcelona speak through their contracts and wills, and the year 1391 is remembered plainly.
+@brief: A guide speaking low and evenly in a room of documents; respectful, exact, no adjectives on the violence.
+@pace: slow
+@energy: 2→2→2
+@sources: O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: "By entering the Old Archive of 1535, with a sample of the original documentation (in Latin, Hebrew and Catalan)"; "we approach written testimonies that give a voice to the inhabitants of medieval Barcelona.", EN; the words "sales, rentals and wills" are FACTS_GAPS G101's relay, not re-read) ; GA3 https://www.barcelona.cat/museuhistoria/sites/default/files/15GuiaCallBcn.pdf (OFF MUHBA, re-read: "L'atac contra el Call els dies 5 i 7 d'agost del 1391"; "la predicació antijueva de l'ardiaca Ferrand Martínez de Écija a Sevilla"; "la mort d'uns tres-cents jueus i, o bé la conversió al cristianisme dels restants o bé la fugida a altres territoris"; on Carrer de Sant Sever and the Baixada de Santa Eulàlia, "les propietats del bisbe", the Call Major's northern limits; funerary slabs "utilitzades, a partir del 1391, com a material de construcció", main sites Plaça de Sant Iu, Palau del Lloctinent, Palau Reial; "terres cedides en emfiteusi pel canonge Pere Albert"; the Arxiu Capitular as a source, CA) ; O9 https://catedralbcn.org/wp-content/uploads/2021/11/Cata%CC%80leg-de-lArxiu.pdf (OFF, re-read: the 1535 archive "sobre la galeria de la part de l'Evangeli", archive "fins al 1969"; "d'unes 40.000 unitats"; "Sèrie de nou papirus" found "dins una de les guardes del ms. 120"; Al-Mansur's raid, "se salva un centenar de documents", CA)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 033 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+In diesem Raum sprechen die Juden des mittelalterlichen Barcelona durch ihre Papiere. Das Alte Archiv, 1535 vollendet, zeigt eine Auswahl originaler Dokumente, auf Latein, Hebräisch und Katalanisch: Verkäufe, Mieten und Testamente aus dem Call, dem jüdischen Viertel. Sie sind, mit den Worten der Kathedrale, „schriftliche Zeugnisse, die den Bewohnern des mittelalterlichen Barcelona eine Stimme geben.“
+
+[quietly] Im August 1391, nach judenfeindlichen Predigten, die in Sevilla begonnen hatten, wurde der Call angegriffen. Das Geschichtsmuseum der Stadt verzeichnet den Tod von etwa dreihundert Juden. Wer überlebte, trat zum Christentum über oder floh.
+
+Nach 1391 wurden jüdische Grabsteine in den umliegenden Straßen als Baustein wiederverwendet. Die Fundorte liegen außerhalb der Kathedrale.
+
+Bis 1969 beherbergte dieser Raum das Archiv des Kapitels. Das Archiv selbst, heute anderswo aufbewahrt, umfasst etwa vierzigtausend Pergamente und neun Papyri, die versteckt im Vorsatzpapier eines alten Buches gefunden wurden.
+
+Suchen Sie unter den ausgestellten Dokumenten eine Zeile auf Hebräisch.
+
+Gehen Sie nun zum Museum im Kapitelsaal, neben der Kapelle Santa Llúcia. Suchen Sie drinnen das Gemälde des toten Christus auf dem Schoß seiner Mutter: Der Kapitelsaal · Der Heilige mit Brille.

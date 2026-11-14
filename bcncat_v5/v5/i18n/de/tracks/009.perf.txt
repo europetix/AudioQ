@@ -1,0 +1,26 @@
+@id: 009 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: The choir screen · a few steps back from the white marble screen at the end of the choir, facing it [O24]
+@type: R
+@title: Die Chorschranke — Der Bildhauer, der nie zurückkam
+@where: Im Kirchenschiff, ein paar Schritte vor der weißen Marmorschranke, die das Ende des Chors abschließt, ihr zugewandt, mit dem Mitteltor und den Reliefs zu beiden Seiten im Blick.
+@what: The trascor, the choir screen, begun by Bartolomé Ordóñez, in Barcelona from May 1517 (F9.28 OK, S12, O4); four scenes of Santa Eulàlia's martyrdom, two each side of the door (ROUTE S5 OFF; O24); very low relief praised for its delicacy and its details, the flames (F9.29, S12; "schiacciato" not spoken); inventory of 15 Oct 1519: two large finished Eulàlia panels and two finished statues, one of Eulàlia (F9.29 OK, S12; the second statue's saint not named, see notes); he went to Carrara, "quondam" in a 1521 payment (F9.30 OK, S12); others finished it, among them Pedro Villar (F9.28, O4); honest aside on which two (F9.29); forward to 022 (safe). No death place or cause; no quarry.
+@listen: A Renaissance sculptor began this marble screen of Santa Eulàlia, left for Carrara, and never came back.
+@brief: A guide letting the listener into a short, sad artist's story; conspiratorial at the hook, plain at the loss, wry at the unanswered question.
+@pace: medium
+@energy: 3→3→2
+@sources: S12 https://revistes.uab.cat/locus/article/download/v5-carbonell/106-pdf-ca/531 (SEC, Carbonell i Buades, re-read 14 Nov 2026: in Barcelona from 7 May 1517 to 20 October 1519; inventory of 15 Oct 1519, "dos quadros grans acabats de las stories de Sancta Eulalia" and "dues figures una de Sancta Eulalia e laltra de Sant Sever acabades"; will made in Carrara; March 1521 payment for work by "lo quondam Bartolomeu Ordonyes"; praise of the rerecor reliefs, "característic baix relleu", "morbid schiacciato", virtuosity in details such as the flames, CA) ; O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read 14 Nov 2026: "The retrochoir is closed off by a marble wall with reliefs from the 16th century"; Bartolomé Ordóñez and Pedro Villar, EN) ; ROUTE S5 (OFF via the route file: "four scenes sculpted in relief of the life of Saint Eulalia", "two on each side of the door")
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 009 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Hier ist ein Stück Renaissance, eingesetzt in eine gotische Kirche. Diese weiße Marmorwand ist der Trascor, die Chorschranke. Begonnen hat sie Bartolomé Ordóñez, ein Bildhauer, der 1517 nach Barcelona kam.
+
+Betrachten Sie die vier Szenen vom Martyrium der Santa Eulàlia, zwei auf jeder Seite der Tür. Das Relief ist sehr flach, fast in den Stein gezeichnet. Ein Kunsthistoriker lobt seine Feinheit und die Virtuosität seiner kleinen Details. Suchen Sie die Flammen, und sehen Sie, wie wenig Tiefe er dafür brauchte.
+
+Die Geschichte dahinter ist kurz. Ein Inventar vom fünfzehnten Oktober 1519 listet auf, was er geschaffen hatte: zwei große Reliefs der Eulàlia, fertig, und zwei fertige Statuen, eine davon Eulàlia selbst. Dann ging er nach Carrara in Italien, in die Stadt des Marmors. Er kam nie zurück. Schon 1521 nennt ihn eine Zahlungsurkunde mit dem lateinischen Wort quondam „den verstorbenen“ Ordóñez. Andere vollendeten die Schranke später, darunter Pedro Villar.
+
+[wry] Zwei dieser vier waren also fertig, als er ging. Welche zwei, sagt das Inventar nicht.
+
+[pause] Das Mädchen auf diesen Reliefs ruht in der Krypta weiter vorn, unter dem Hochaltar.
+
+Gehen Sie nun hinüber zur ersten Kapelle links mit Blick zum Hochaltar, neben dem Hauptportal, der Taufkapelle: Die Taufkapelle · Hier getauft.

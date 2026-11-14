@@ -1,0 +1,26 @@
+@id: 032 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The cloister
+@room: The cloister · at the doorway of the chapel of Santa Llúcia [O20]
+@type: R
+@title: Der Kreuzgang — Santa Llúcia, älter als die Kathedrale
+@where: Am Eingang der Kapelle Santa Llúcia, an einer Ecke des Kreuzgangs, am selben Gang wie das Museum im Kapitelsaal. Bleiben Sie am Eingang, außer Besucher dürfen erkennbar hinein.
+@what: Santa Llúcia, founded by Bishop Arnau de Gurb, finished 1268 ("thirty years before the Gothic works": our arithmetic, no 1298) (F13.1, S3, S7); part of the bishop's palace, joined to the cathedral from 1431 (F13.3, F13.5, S3 re-read: "part of the Episcopal Palace buildings"); first dedicated to Our Lady and all the holy virgins (F13.2); single nave, slightly pointed barrel vault, "a work of transition" (F13.4); the founder's effigy on a slab over four columns; crozier head and silks, the silks now in Madrid, Granada, Cleveland, New York (F13.9, F13.10); the street-door capitals and "molt mediocre" (F13.6, F13.7, Q11, CA; S3 re-read: on the main portal to Carrer de Santa Llúcia, so not pointed at); 13 December, relics, eyesight (F13.13 DATED, O2); the fair since 1786 (G87, GA2). Audit fixes, 14 Nov 2026: the fair since 1786 cut for length; see notes/AUDIT_FIXES.md.
+@listen: A bishop's chapel older than the Gothic cathedral, the silks from his tomb now scattered across two continents, and a blunt verdict on its carving.
+@brief: A guide at a small doorway, wry about the clichés and the scholars, gentle about the saint and her day.
+@pace: medium
+@energy: 3→3→3
+@sources: S3 https://www.enciclopedia.cat/catalunya-romanica/santa-llucia-abans-capella-de-les-onze-mil-verges-barcelona (SEC-enc, re-read 14 Nov 2026: plot obtained 1257, "acabada l'any 1268"; "a Santa Maria i a totes les Santes Verges"; "havia format part de les edificacions del Palau Episcopal"; joined "a partir del 1431" when the cloister's side was finished; "volta de canó lleugerament apuntat"; main portal to carrer de Santa Llúcia, Annunciation and Visitation, "dos quadrúpedes afrontats"; the portal's carving "molt mediocre", the animals with the most errors; effigy on "una llosa que reposa sobre quatre columnes"; crozier head in the cathedral treasury; silk fragments in Madrid, Granada, Cleveland, New York, CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC-enc, re-read: built "entre els anys 1257 i 1268") ; O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read: "On her feast day, 13 December, devotees of this martyr and protector of sight visit the Romanesque chapel" "dedicated to the Saint to adore her relics.", EN) ; GA2 https://barcelona.cat/culturapopular/en/node/776 (OFF, re-read: "has been held in front of the Cathedral since 1786", EN)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 032 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Diese Kapelle ist älter als die Kathedrale, zu der sie heute gehört. Bischof Arnau de Gurb gründete sie, und sie wurde 1268 fertig, dreißig Jahre bevor die gotischen Arbeiten begannen.
+
+Oft heißt es, sie sei das letzte erhaltene Stück der romanischen Kathedrale. Das ist sie nicht. Sie gehörte zum Bischofspalast, als seine eigene Kapelle, und kam erst 1431 zu den Gebäuden der Kathedrale, als der Kreuzgang sie erreichte. Und Santa Llúcia kam später. Zuerst war sie Unserer Lieben Frau und allen heiligen Jungfrauen geweiht.
+
+[curious] Ist die Tür offen, schauen Sie durch ihr einziges Schiff, unter einem schlichten, leicht spitzen Tonnengewölbe. Der Gründer liegt drinnen, seine Figur auf einer Platte über vier Säulen. Als man sein Grab öffnete, enthielt es die Spitze eines vergoldeten Bischofsstabs und seine Grabseiden. Diese Seiden sind heute auf Museen in Madrid, Granada, Cleveland und New York verstreut.
+
+Die andere Tür der Kapelle öffnet sich zur Straße, zum Carrer de Santa Llúcia. Ihre Kapitelle zeigen die Verkündigung, die Heimsuchung und zwei einander zugewandte Tiere. Der Romanik-Band der katalanischen Enzyklopädie fällt sein Urteil über diese Skulptur auf Katalanisch: „molt mediocre“, sehr mittelmäßig.
+
+[warmly] An ihrem Tag, dem dreizehnten Dezember, kommen Menschen hierher, um ihre Reliquien zu verehren. Sie schützt das Augenlicht.
+
+Wenn Sie die vollständige Tour machen und der Raum namens Jüdische Erinnerung geöffnet und ausgeschildert ist, suchen Sie ihn: Der Kreuzgang · Extra · Jüdische Erinnerung. Andernfalls ist die nächste Hauptstation das Museum im Kapitelsaal, neben dieser Kapelle. Gehen Sie hinein, und suchen Sie das Gemälde des toten Christus auf dem Schoß seiner Mutter: Der Kapitelsaal · Der Heilige mit Brille.

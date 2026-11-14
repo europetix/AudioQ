@@ -1,0 +1,24 @@
+@id: 010 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: The baptistery · at the chapel's entrance, the font and its tall window in view [O11, O14]
+@type: W
+@title: Die Taufkapelle — Hier getauft
+@where: Am Eingang der ersten Kapelle links mit Blick zum Hochaltar, neben dem Hauptportal, mit dem Taufbecken und dem hohen Buntglasfenster im Blick. Treten Sie beiseite, wenn dort Gläubige sind.
+@what: The early baptistery found in 1968 under the cathedral (F1.7 OK, A1, S6), later rebuilt as an eight-sided pool (F1.8 safe wording, S6); not visible, never "go and see"; the window of Saint Michael and Noli me tangere, Gil de Fontanet, 1495, from a design by Bartolomé Bermejo, in place, "the most important of all the Cathedral windows" (F4.14 OK, O4; scene not described before O14); forward to 034 (safe); Antoni Canet's carved stone washing cupboard (levador) of 1406, his first surviving work, the vault closed c. 1420, on corbels as heads: a girl with a low neckline and a necklace, a hooded man with a full beard (G44 OK, GS10; O14); "a 15th-century font" (F10.28 HEDGE, S34; no maker, no 1433); the plaque of April 1493 and its doubtful date (F10.29 HEDGE, S34; ONLY if O14 finds the plaque, else cut that paragraph).
+@listen: The chapel where the cathedral baptises, with a window designed by a great painter, two stone faces to find, and a plaque about Columbus with a doubtful date.
+@brief: A guide at a chapel entrance, quietly enthusiastic; curious at the hidden font, delighted at the faces, honest at the plaque.
+@pace: medium
+@energy: 2→3→3
+@sources: A1 https://www.bcn.cat/museuhistoriaciutat/docs/Guia_Centre_MUHBA_ANG.pdf (OFF, MUHBA, re-read 14 Nov 2026: "In 1944, part of the early episcopal see was discovered in Carrer dels Comtes, followed in 1968 by its baptistery.", EN) ; S6 https://www.enciclopedia.cat/del-roma-al-romanic/conjunt-episcopal-de-barcelona (SEC, re-read 14 Nov 2026: baptistery "descobert el 1968"; pool first rectangular or cross-shaped, later octagonal, CA) ; O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read 14 Nov 2026: the window, "the most important of all the Cathedral windows", in the baptistery chapel, by Gil de Fontanet from designs by Bartolomé Bermejo, 1495, EN) ; GS10 https://www.enciclopedia.cat/lart-gotic-a-catalunya/antoni-canet-arquitecte-i-escultor (SEC, re-read 14 Nov 2026: May 1406, "los capitells del levador de la capella de les Fonts"; "un bust de noia, que llueix un escot ampli i un collaret"; "una testa masculina amb caputxa i barba generosa"; "La primera obra conservada d'Antoni Canet", CA) ; S34 https://www.eldebate.com/espana/cataluna/barcelona/20260528/papa-leon-xiv-conocera-espana-kilometro-cero-cristianismo-america_422265_amp.html (SEC, El Debate, re-read 14 Nov 2026: font "construida por Onofre Julià en 1433"; "una lápida situada en la capilla"; the six "han renacido en el bautismo" in April 1493; "parece haber una imprecisión en cuanto a las fechas", ES)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 010 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] 1968 fanden Archäologen unter dem Boden der Kathedrale das Taufbecken, in dem Barcelonas erste Christen getauft wurden. Es war ein Becken in einem eigenen kleinen Bau, später achteckig neu errichtet. Sehen können Sie es heute nicht. Es liegt unter dem Boden, verborgen.
+
+Diese Kapelle ist die Taufkapelle, und ihr Taufbecken stammt aus dem fünfzehnten Jahrhundert. Schauen Sie hinauf zu ihrem hohen Fenster. Es zeigt den heiligen Michael und die Szene Noli me tangere, lateinisch für „Rühr mich nicht an“. Gil de Fontanet schuf es 1495 nach einem Entwurf des Malers Bartolomé Bermejo, und es sitzt noch an dem Platz, für den es gemacht wurde. Die Kathedrale nennt es „das bedeutendste aller Fenster der Kathedrale“. Bermejo malte auch die Pietà, die Sie im Museum im Kapitelsaal sehen werden.
+
+[warmly] Schauen Sie nun tiefer, nach einem gemeißelten steinernen Waschschrank aus dem frühen fünfzehnten Jahrhundert. Er ist das erste erhaltene Werk des Bildhauers Antoni Canet, älter als das Gewölbe der Kapelle darüber. Er ruht auf Steinkonsolen in Gestalt menschlicher Köpfe. Einer ist ein Mädchen, mit tiefem Ausschnitt und Halskette. Der andere ist ein Mann mit Kapuze und üppigem Bart. Finden Sie das Mädchen.
+
+[pause] Eine Tafel hier erinnert an die Taufe von sechs Menschen im April 1493, die Kolumbus aus der Karibik mitgebracht hatte. Das Datum darauf stimmt vielleicht nicht.
+
+Gehen Sie dieses Seitenschiff hinauf, das linke mit Blick zum Hochaltar, an seinen Seitenkapellen vorbei, bis zur Seitentür nahe seinem Ende, dem Sant-Iu-Portal, hoch darüber die große Orgel. Bleiben Sie nahe der Tür, aus dem Weg: Das Sant-Iu-Portal · Ein Sarazene unter der Orgel.
