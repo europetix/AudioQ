@@ -34,7 +34,7 @@ Quatre ans plus tard, la finale avait lieu à Berlin, à l'Olympiastadion, le 6 
 
 L'entraîneur était Luis Enrique, dans sa première saison, et la coupe complétait le deuxième triplé du club. [amused] Le club aime encore rappeler qu'un chat noir s'invita à son tout premier match. Pour la malchance, on repassera.
 
-Le capitaine qui souleva la coupe à Berlin était Xavi. Il avait alors joué dix-sept saisons d'affilée en équipe première, autant que Charly Rexach. Messi les a ensuite égalés tous les deux. [pause] Ce fut le dernier match de Xavi, et son dernier trophée sous ces couleurs.
+Le capitaine qui souleva la coupe à Berlin était Xavi. Il avait alors joué dix-sept saisons d'affilée en équipe première, autant que Charly Rexach. Messi les a ensuite égalés tous les deux. [pause] Pour Xavi, ce fut son dernier match, et son dernier trophée sous ces couleurs.
 
 Regardez maintenant ces deux coupes, de 2011 et de 2015, les dernières des cinq à ce jour.
 

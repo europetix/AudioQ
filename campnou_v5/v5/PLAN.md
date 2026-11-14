@@ -596,3 +596,8 @@ research/FACTS_GAPS_NOV2026.md (G1–G111) is in. Its "Changes proposed to FACTS
 - **Not added as tracks** (Full is ≈ 92): Alcántara, Samitier/Zamora, Herrera and Bern 1961, the midnight goal, the
   comebacks, Figo. They are held for a future edition; writers may use one G detail as an optional line only where
   PLAN's track already covers that person.
+
+## Lead's note after the German review (14 Nov 2026)
+- §4's "any referendum percentage" means the 2021 works referendum (F18.22). 030's "just over sixty-eight per cent" for
+  the 2000–01 name vote is allowed (PLAN row 030 gives it).
+- 011: "In 2026, after leaving the club, Alexia won her third" (her 2026 Ballon d'Or was not won as a Barça player).
