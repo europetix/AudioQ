@@ -1,3 +1,7 @@
-022 H>024: On this shorter tour, walk on to the round room with the screens, where the exhibition ends. Stop at its way in, before you go in: The round room · Before the show.
-024 E>026: On this shorter tour, now that the show is over, follow the way out of the room to the models of the finished stadium: The models · The stadium when it's finished.
-024 H>028: On this shorter tour, now that the show is over, follow the way out to the viewpoint over the works, and find a place at the rail: The viewpoint · What you're looking at.
+# Bridges play after the track's own cue. Lines starting "#" carry each bridge's on-site tags and are never voiced.
+# 022 H>024 [O11]
+022 H>024: On this shorter tour, walk on instead to the round room with the screens, where the exhibition ends. Stop at its way in, before you go in: The round room · Before the show.
+# 024 E>026 [O11, O5, ALT-O5]. The build appends this bridge to 024 itself, so it may be heard before the show: it must stay conditional ("When the show is over").
+024 E>026: On this shorter tour, when the show is over, follow the way out of the room to the models of the finished stadium: The models · The stadium when it's finished.
+# 024 H>028 [O11, O4, ALT-O4]. Heard before or after the show, as above. Never "the way out" alone: that is the exit's fixed name.
+024 H>028: On this shorter tour, when the show is over, leave the room and follow the way on to the viewpoint over the works, and find a place at the rail: The viewpoint · What you're looking at.

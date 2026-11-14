@@ -1,1 +1,3 @@
+# Bridges play after the track's own cue. Lines starting "#" carry each bridge's on-site tags and are never voiced.
+# 028 H>034 [O7, ALT-O7]
 028 H>034: On this shorter tour, stay at the rail as long as you like, and when you're ready, follow the signs for the exit: The way out · A club that keeps coming home.
