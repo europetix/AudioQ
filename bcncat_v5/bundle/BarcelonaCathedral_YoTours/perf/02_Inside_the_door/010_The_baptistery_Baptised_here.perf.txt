@@ -3,7 +3,7 @@
 @room: The baptistery · at the chapel's entrance, the font and its tall window in view [O11, O14]
 @type: W
 @title: The baptistery — Baptised here
-@where: At the entrance of the first chapel on the left as you face the high altar, beside the main door, with the font and the tall stained-glass window in view; stand aside if worshippers are there. [O11, O14]
+@where: At the entrance of the first chapel on the left as you face the high altar, beside the main door, with the font and the tall stained-glass window in view; stand aside if worshippers are there. [O11, O14: the plaque paragraph stays only if O14 finds the plaque, else cut; O18]
 @what: The early baptistery found in 1968 under the cathedral (F1.7 OK, A1, S6), later rebuilt as an eight-sided pool (F1.8 safe wording, S6); not visible, never "go and see"; the window of Saint Michael and Noli me tangere, Gil de Fontanet, 1495, from a design by Bartolomé Bermejo, in place, "the most important of all the Cathedral windows" (F4.14 OK, O4; scene not described before O14); forward to 034 (safe); Antoni Canet's carved stone washing cupboard (levador) of 1406, his first surviving work, the vault closed c. 1420, on corbels as heads: a girl with a low neckline and a necklace, a hooded man with a full beard (G44 OK, GS10; O14); "a 15th-century font" (F10.28 HEDGE, S34; no maker, no 1433); the plaque of April 1493 and its doubtful date (F10.29 HEDGE, S34; ONLY if O14 finds the plaque, else cut that paragraph).
 @listen: The chapel where the cathedral baptises, with a window designed by a great painter, two stone faces to find, and a plaque about Columbus with a doubtful date.
 @brief: A guide at a chapel entrance, quietly enthusiastic; curious at the hidden font, delighted at the faces, honest at the plaque.
@@ -13,12 +13,10 @@
 ---
 [curious] In 1968, under the cathedral floor, archaeologists found the font where Barcelona's first Christians were baptised. It was a pool inside its own small building, later rebuilt with eight sides. You can't see it today. It lies under the floor, out of sight.
 
-This chapel is the baptistery. Look up at its tall window. It shows Saint Michael and the scene called Noli me tangere, Latin for "Do not touch me". Gil de Fontanet made it in 1495, from a design by the painter Bartolomé Bermejo, and it's still in the place it was made for. The cathedral calls it "the most important of all the Cathedral windows". Bermejo also painted the Pietà you'll see at the end of the tour.
+This chapel is the baptistery, and its font is from the 15th century. Look up at its tall window. It shows Saint Michael and the scene called Noli me tangere, Latin for "Do not touch me". Gil de Fontanet made it in 1495, from a design by the painter Bartolomé Bermejo, and it's still in the place it was made for. The cathedral calls it "the most important of all the Cathedral windows". Bermejo also painted the Pietà you'll see in the Chapter Hall museum.
 
 [warmly] Now look lower, for a carved stone washing cupboard from the early 1400s. It's the first surviving work of the sculptor Antoni Canet, older than the chapel's vault above it. It rests on stone brackets carved as human heads. One is a girl, with a low neckline and a necklace. The other is a man in a hood, with a generous beard. Find the girl.
 
-The font itself is from the 15th century.
+[pause] A plaque here remembers the baptism of six people Columbus brought back from the Caribbean, in April 1493. The date on it may not be right.
 
-[pause] A plaque here remembers the baptism of six men Columbus brought back from the Caribbean, in April 1493. The date on it may not be right.
-
-Walk up the left-hand aisle, past its side chapels, to the side door near its far end, the Sant Iu door, with the great organ high above it. Stand near the door, out of the way: The Sant Iu door · A Saracen under the organ.
+Walk up this left-hand aisle, as you face the high altar, past its side chapels, to the side door near its far end, the Sant Iu door, with the great organ high above it. Stand near the door, out of the way: The Sant Iu door · A Saracen under the organ.

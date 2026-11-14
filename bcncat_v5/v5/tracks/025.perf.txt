@@ -3,8 +3,8 @@
 @room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb [O5, O17]
 @type: R
 @title: Behind the high altar — The saint who sailed on his cloak
-@where: In the ambulatory, at the chapel whose sign names Sant Ramon de Penyafort, with his tomb in view; PLACEMENT PENDING, no source names the chapel. [O5, O17, O16, O2, ALT-P]
-@what: Sant Ramon de Penyafort: the Sóller voyage as legend (G49, GO1); died 1275 at Santa Caterina, canonised 1601 (spoken "more than three centuries later"), patron of Catalan lawyers, feast 7 January (G49 OK OFF); 1835: the convent's great fire and demolition 1836–37, the tomb moved to the cathedral (G50, GS12; F10.24; GO1); the Order of Mercy, 1218, "tradition says here" (F10.32 HEDGE; S31: 19 August 1218, the bishop of Barcelona, Pere Nolasc and thirteen knights, Penyafort advising, Jaume I helping, place not stated). Bishop not named (lint: Palou).
+@where: In the ambulatory, at the chapel whose sign names Sant Ramon de Penyafort, with his tomb in view; if no sign is found, anywhere along the walkway. [O5, O17: placement pending, no source names the chapel; O16, O2, ALT-P]
+@what: Sant Ramon de Penyafort: the Sóller voyage as legend (G49, GO1); died 1275 at Santa Caterina, canonised 1601 (spoken "more than three centuries later"), patron of Catalan lawyers, feast 7 January (G49 OK OFF); 1835: the convent's great fire and demolition 1836–37, the tomb moved to the cathedral (G50, GS12; F10.24; GO1); the Order of Mercy, 1218, "tradition says here" (F10.32 HEDGE; S31: 19 August 1218, the bishop of Barcelona, Pere Nolasc and thirteen knights, Penyafort advising, Jaume I helping, place not stated). Bishop not named (lint: Palou). Audit fixes, 14 Nov 2026: the lawyers and feast-day line cut; the 1835 order follows GO1 (facts S6); see notes/AUDIT_FIXES.md.
 @listen: A saint who, the story goes, sailed home on his cloak; why his tomb came here; and the order for ransoming captives that tradition says began in this cathedral.
 @brief: A guide at a chapel doorway, amused by the legend but fond of it, then plain and careful about what the sources say.
 @pace: medium
@@ -13,12 +13,12 @@
 ---
 The story goes that Ramon de Penyafort once crossed the sea from Sóller, on Mallorca, all the way home to Barcelona, sailing on his own cloak. The cathedral's page, which tells it as a legend, calls it his blanket.
 
-He was a Dominican friar. He died in Barcelona in 1275, at the convent of Santa Caterina, and was made a saint in Rome more than three centuries later. He is the patron saint of Catalan lawyers, and his feast falls on the seventh of January.
+He was a Dominican friar. He died in Barcelona in 1275, at the convent of Santa Caterina, and was made a saint in Rome more than three centuries after his death.
 
-So why is his tomb here, and not in his convent? In 1835, a year of unrest in the city, a great fire damaged the convent. Soon afterwards it was pulled down, and explosives were used to bring down its church's vault. By then the convent was all but abandoned, and so his tomb was moved here that year.
+So why is his tomb here, and not in his convent? In 1835, a year of unrest in the city, a great fire damaged the convent, and it was left all but abandoned. His tomb was brought here. Soon afterwards the convent was pulled down, and explosives were used to bring down its church's vault.
 
 [pause] Tradition ties him to something that began in this cathedral. In 1218, the story goes, the bishop of Barcelona founded here an order to ransom captives, the Order of Mercy. The Catalan encyclopedia gives the day, the nineteenth of August, and the names. The bishop gave the white habit to Pere Nolasc and thirteen knights, with Ramon de Penyafort advising and King Jaume the First helping. Where it happened, the encyclopedia doesn't say. Here, says tradition.
 
-Look for his name on the sign beside the chapel, and find his tomb.
+If a sign beside a chapel names him, find his tomb there.
 
-Carry on round to the right side of the high altar. By the sacristy door, look high on the wall for two painted wooden boxes: The sacristy door · The founders who were excommunicated.
+Carry on round to the right side of the high altar, as you face it. By the sacristy door, look high on the wall for two painted wooden boxes: The sacristy door · The founders who were excommunicated.

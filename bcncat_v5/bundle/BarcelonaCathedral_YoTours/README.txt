@@ -25,10 +25,10 @@ Built from scratch to the Yo Tours standard. This guide:
    Gothic-art scholarship; Nov 2026), with independent audits of the facts and of the route and listening.
 8. Works offline once the MP3s are on your phone. Headphones only: it is a church. No prices, hours or tickets.
 9. Three lengths (one recording, three folders):
-   Full tour   36 tracks, about 1 h 30
+   Full tour   36 tracks, about 1 h 35
    Essential   18 tracks, about 1 h:      001 002 004 006 007 009 010 011 012 014 015 018 021 022 029 030 034 036
    Highlights  9 tracks, about 30 min:   001 004 006 018 022 029 030 034 036
-   The times include walking; add any wait for the roof lift. In the shorter versions a short spoken line at the end
+   The times include walking and a short wait for the roof lift; a long queue adds more. In the shorter versions a short spoken line at the end
    of a track tells you the next stop.
 10. The Yo Tours sound: voice finishing, a soft room tone and a short chime before each track. MP3s are labelled for phones.
 

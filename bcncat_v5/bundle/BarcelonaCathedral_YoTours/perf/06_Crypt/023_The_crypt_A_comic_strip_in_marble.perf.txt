@@ -3,7 +3,7 @@
 @room: The crypt · by the tomb, the reliefs on its box in view [O10]
 @type: R
 @title: The crypt — A comic strip in marble
-@where: Down in the crypt beside the marble tomb, out of the way of the steps, where the carved scenes on its box can be seen; if the crypt is closed, at the top of its stair. [O10, O2]
+@where: Down in the crypt beside the marble tomb, out of the way of the steps, where the carved scenes on its box can be seen; if the crypt is closed, at the top of its stair. [O10, O2, O17]
 @what: Eight high reliefs following the Catalan versions of the Golden Legend (F8.13 OK, S4); the scenes as the cathedral describes them: talking with her parents, then walking alone; the trial, condemned by Dacian; death on the cross; the finger theft on the rear section (O3; COMP §1.2 says the reliefs are often hard to see, so the look is conditional); the finger legend (F7.14 LEGEND, O3, S18; "the story goes"); Lupo witnessing Jaume Fabre freeing a Greek slave, 1327 (F8.12 OK, S4; callback 022 Fabre, safe); the councillors' 1327 letter about the bishop's Pisan altar of 110 florins, mentioning "el mestre del sepulcre de Santa Eulàlia" (F8.11 OK, S4; paraphrased, no quotation marks); Not used (cut for length): the inscription's 287, "inexact" (G74 OK, GS15 p. 122); the four evangelists and the atlas in a lion skin (F8.17 OK, S4); the paymasters' heads on the arch (G85 HEDGE, press only: only if O10 finds them); the box c. 1327 / lid c. 1339 (F8.10, optional).
 @listen: Reading the saint's life off the marble box, and the two masters who made it, caught in one document.
 @brief: A guide crouched beside a carved box with a curious listener, pointing scene by scene, warm and a little playful.
@@ -15,10 +15,10 @@
 
 [pause] Start at the narrow end where she talks with her parents, and then walks off alone. Along the long side, the governor Dacian puts her on trial and condemns her. At the other narrow end, she dies on the cross. If it's hard to make out from where you are, the scenes are still there.
 
-[amused] The best story, the cathedral says, is carved on the back. When her body was carried in procession, the story goes, it grew too heavy to move. A cleric had stolen a finger from her right hand. Only when he put it back could the procession go on.
+[amused] The best story is carved on the back. When her body was carried in procession, the story goes, it grew too heavy to move. A cleric had stolen a finger from her right hand. Only when he put it back could the procession go on.
 
 The two masters behind this crypt and its tomb turn up together in one document of 1327. The Pisan sculptor, Lupo di Francesco, signed as a witness while the Mallorcan master, Jaume Fabre, set a Greek slave free.
 
 [wry] That same year the city's councillors wrote to the bishop. He wanted to send to Pisa for a marble altar, and they thought it could be made here for less. Their letter mentions the master of Santa Eulàlia's tomb.
 
-Climb back up. Walk round the left side of the high altar into the walkway behind it. Stop where you can look up at its tall windows: Behind the high altar · They started at this end.
+If you went down, climb back up to the top of the stair. Turn to face the high altar, and walk round its left side, as you face it, into the walkway behind it. Stop where you can look up at its tall windows: Behind the high altar · They started at this end.

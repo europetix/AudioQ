@@ -77,8 +77,12 @@ CRITICAL ITEMS (the route depends on them)
       - Is there a sign about Mass, silence or photos? Wording?
       - The neighbouring chapel (Santa Clara / Sants Cosme i Damià): the alabaster tomb called Sança Ximenis de
         Cabrera's visible from outside? (008 optional line, G37, G38.)
+      - CUT RULE (route audit R8): [ ] the neighbouring chapel and its tomb in view → keep 008's "Next door, more
+        alabaster…" paragraph; else cut it.
 [ ] O8 CRITICAL  THE CHOIR (015 cue, 016–020; bridges 006 H, 015 E, 018 E/H; ALT-K, ALT-M)
       - Where is the visitors' way in: through the door in the marble choir screen (ALT-K) or from the altar end?
+      - What is the choir's outer wall made of, seen from the nave? (Cues now say only "the enclosure in the middle of
+        the nave": add up to three words if they help people find it. Route audit R2.)
       - "At the entrance to the choir on the right is the wooden pulpit" (OFF): which entrance? Photograph.
       - The bishop's 14th-century throne: where?
       - The painted shields above the upper stalls: in view from where visitors stand? Can 51 be counted (G7)?
@@ -92,6 +96,8 @@ CRITICAL ITEMS (the route depends on them)
       - Which walk has the Pietat door? Which the Santa Eulàlia door (the exit)?
       - Santa Llúcia and the Chapter Hall on the same walk, the one without chapels (G81)?
       - Draw the loop in the order a visitor walks it once, without doubling back.
+      - Does the loop pass the Santa Eulàlia door (the exit) before Santa Llúcia? If yes, note the double-back (N13).
+      - The Pietat door: could visitors leave by it by mistake? (030's cue now says "Don't go out": R4.)
 [ ] O10 CRITICAL  THE CRYPT (020 cue, 021, 022, 023; bridges 018 E/H)
       - Is the stair down in front of the high altar, next to the choir (G85)? Open throughout the visit? Closed
         during Mass? Steps only?
@@ -100,6 +106,9 @@ CRITICAL ITEMS (the route depends on them)
       - The 1339 inscription round the tomb's edge readable (G73)?
       - The ninth-century stone behind the tomb, "Hic requiescit Beata Eulalia…" (G72), visible? Photograph.
       - Small carved heads on the tomb's arch (G85, "the citizens who paid")? The keystone overhead?
+      - Coming up the crypt stair, which way do you face? (Expected: the nave.) Check that "face the high altar", then
+        "in the bay on the right as you face it", finds the white marble cloister door (bridges 022 H/E), and that
+        "its left side, as you face it" finds the way into the ambulatory (023's cue). Route audit M1.
 [ ] O16 CRITICAL  THE FOUNDERS' PAINTED COFFINS (025 cue, 026; ALT-F)
       - Are they on the sacristy wall, on the RIGHT of the high altar, high up (G22)? Photograph.
       - Visible from the walkway round the altar? A spot to stand out of the way? One resting on two capitals?
@@ -108,6 +117,8 @@ CRITICAL ITEMS (the route depends on them)
       - Is the walkway behind the altar open to visitors, from the left side round to the right?
       - Are the chapels signed with their dedications? Readable?
       - Sant Ramon de Penyafort's tomb: which chapel? Signed? (025 depends on it; no source names the chapel.)
+      - If no sign names it: is there a quiet spot along the walkway to hear 025? (024's cue: "stop anywhere along the
+        walkway"; R3.)
       - The Patrocini chapel with Bishop Ponç de Gualba's tomb; his shield in the central apse window (G45).
       - Royal arms in the glass of the Sant Pere and Sant Joan windows (G46)? Any coat of arms you can point to?
 [ ] O22 CRITICAL  STOPWATCH (PLAN §3 "Walking by segment")
@@ -122,6 +133,9 @@ OTHER ITEMS
       - Where is the Old Archive of 1535? G102: built over the gallery on the left side of the church. How do
         visitors reach it (stair from the left aisle? from the cloister? a lift?) Open? What is displayed?
       - Photograph the room's title panel and two documents' labels.
+      - From the Santa Llúcia doorway, can a visitor reach the room without going back into the church? Name the sign
+        or door. 032's cue offers the Extra only "if the room called Jewish memory is open and signposted"; 033 is not
+        assumed to open off the cloister (route audit M4). If it is reached from the church: ALT-J2.
 [ ] O7  THE ROOF (014, 015; ALT-R)
       - The statue on top of the lantern tower: Saint Helena with the Holy Cross (G54)? Visible from the terraces?
       - The cross on the roof over the apse, where the city is blessed from in May (G55)?
@@ -132,6 +146,12 @@ OTHER ITEMS
         [ ] the Frederic Marès museum [ ] the Archive of the Crown of Aragon [ ] the Sagrada Família on the horizon
         (G64) [ ] the cloister's garden and the geese's pond below. Anything else: list with a photo (added only
         after the lead checks it).
+      - UNTICKED = CUT (route audit M3; each is one separate sentence and nothing else depends on it):
+        015 "From where you stand, you may pick out a tower or a roof line of one or two of them." → after O7, name
+        only the ticked neighbours, each with a way to find it, or cut the sentence (the list itself stays, as the
+        cathedral's "within a few streets"); 015 "On a clear day, look far off on the horizon…" → cut without the
+        Sagrada Família tick; 014 "Look for the beasts among them." and 013 "And among the monsters… elephant." →
+        cut without a photo of one of the three.
 [ ] O11  THE BAPTISTERY (009 cue, 010): the first chapel on the LEFT inside the main door? Open to step into the
       entrance? A spot to stand?
 [ ] O12  Any worship-only door or queue that could mislead listeners at the start (001).
@@ -153,7 +173,8 @@ OTHER ITEMS
       - Any carved head (carassa) under the organ today? (G116: now kept in the cathedral museum; if no, 011 stays in the past tense; check O21 for it.)
       - The keystone near the door: Saint Peter?
 [ ] O19  THE CLOISTER'S STONES (026 cue, 027, 028, 030 cue, 031)
-      - Inside the church: a spot beside the white marble door with the choir in view (027)?
+      - Inside the church: a spot beside the white marble door with the choir in view (027)? Arriving from the sacristy
+        door, where is the choir as seen from there: ahead, across, behind? (026's cue: "look across at the choir"; R1.)
       - The white marble door seen from the cloister: five arches; capitals with Job, the Annunciation, a knight
         and a dragon? Photograph.
       - The chapel of the Apostles (G91) and the Genesis capitals in front of it (Adam and Eve: G91, F12.21)?
@@ -172,8 +193,11 @@ OTHER ITEMS
 [ ] O23  THE WAY OUT (035 cue, 036)
       - Just inside the Santa Eulàlia door: a quiet spot out of the flow?
       - Is the Pont del Bisbe (the 1928 bridge) in view from the door or just outside? (036 optional line.)
+      - CUT RULE (R8): [ ] the bridge in view → keep 036's "Out in that street…" sentences; else cut them (036 then
+        needs ≈ 10 words back to stay in the CLOSE range).
 [ ] O24  THE CHOIR SCREEN (007 and 008 cues, 009): four marble panels, two each side of its door? Labels? A spot a
-      few steps back? The X-shaped cross in one of them (021 callback)?
+      few steps back? The X-shaped cross in one of them? (021 no longer recalls it: if found, add "…the choir screen
+      among them" to 021's cross sentence.)
 [ ] O25  THE MISERICORDS (016 cue, 017): any raised seat visible from where visitors may stand? What is carved?
       "A game with sticks and a ball"? A siren with a mirror? Photograph only what you can see.
 [ ] O26  LENT: if the walk falls in Lent, where is the Christ of Lepanto? (No speech change; DATED note.)
@@ -217,13 +241,13 @@ Cue texts: PLAN.md §2 (last-but-one column). Bridges: PLAN.md §3.
 022  By the tomb ....................... [ ] spot out of the way of the steps  [ ] inscription round the edge  [ ] lid
                                             scenes  [ ] keystone  [ ] 9th-century stone behind (O10)
 023  By the tomb, reliefs .............. [ ] reliefs visible?  [ ] carved heads on the arch?  [ ] the way up and round
-                                            the LEFT side of the altar (O10, O17, O2)
+                                            the LEFT side of the altar as you face it (O10, O17, O2)
 024  Ambulatory, windows ............... [ ] walkway open  [ ] tall windows  [ ] Patrocini chapel  [ ] arms in the
                                             glass (O17)
 025  Penyafort's tomb .................. [ ] chapel found and signed  [ ] tomb visible (O17, O5)
 026  Sacristy door, RIGHT of the altar . [ ] coffins high on the wall  [ ] spot to stand  [ ] the white marble cloister
                                             door nearby (O16, O2)
-027  Beside the cloister door, inside .. [ ] choir in view looking back  [ ] spot out of the flow (O2, O19)
+027  Beside the cloister door, inside .. [ ] choir in view across the church  [ ] spot out of the flow (O2, O19)
 028  Through the door, facing back ..... [ ] capitals  [ ] the fountain pavilion close by (O19, O9)
 029  Fountain pavilion ................. [ ] Saint George on top  [ ] the vault's keystone  [ ] way to the pond (O9)
 030  Pond in view ...................... [ ] pond  [ ] a far-side spot if crowded  [ ] the Pietat door (O9)
@@ -245,7 +269,7 @@ BRIDGES (Highlights H / Essential E):
 015 E>018 .... [ ] lift down; into the choir; the shields; listen at the entrance if closed              (O3, O8)
 018 E>021 .... [ ] out of the choir to the top of the crypt stair                                          (O10, O2)
 018 H>022 .... [ ] out of the choir, down to the tomb (or the top of the stair if closed)                  (O10, O2)
-022 H,E>029 .. [ ] up, across the front of the altar to the white marble door; the fountain beside it     (O2, O9)
+022 H,E>029 .. [ ] top of the stair, face the altar; white marble door on the RIGHT as you face it; fountain (O2, O9, O10)
 030 H,E>034 .. [ ] round the cloister to the Chapter Hall beside Santa Llúcia; the Pietà                  (O20, O21)
 034 H,E>036 .. [ ] out of the museum to just inside the Santa Eulàlia door                                (O1, O23)
 
@@ -277,5 +301,8 @@ Score each 1–5; anything below 4 goes to the per-engine override list. Full li
 [ ] ou com balla (OH-oo kom BAH-yuh); Font de Sant Jordi; Pietat   [ ] Dello Delli; Apòstols; Berenguer Vila
 [ ] Agustí Duran i Sanpere; Sant Sever   [ ] Palau de la Generalitat; Palau Reial Major; Frederic Marès
 [ ] Carrer del Bisbe; Pont del Bisbe; Carrer dels Comtes; Carrer de Mercaders   [ ] Bishop Sapera
-[ ] Stefan Hanß   [ ] Praetextatus; Almanzor   [ ] Usatges (optional)
+[ ] Stefan Hanss (written so in speech; SHTEH-fun HAHNSS)   [ ] Praetextatus; Almanzor   [ ] Usatges (optional)
+[ ] 021 "Saint Eulàlia of Barcelona's existence…" (written "Saint", not "St")   [ ] 034 "Opus Bartolomei Vermejo
+    Cordubensis" (lower case: not spelt out letter by letter)   [ ] 033 "the Call" (KAHL, not the English verb)
+[ ] 027 Mossos d'Esquadra   [ ] 012 esquella; Angelus   [ ] 019 clarions, sackbuts, shawms, compline, catafalque
 [ ] the cue separator "·" renders as a short pause

@@ -4,7 +4,7 @@
 @type: R
 @title: The Pla de la Seu — A square from after the war
 @where: On the square, turned towards the old stone house built against the Roman wall beside the cathedral, with its door in view; stay clear of the steps. [O13, ALT-13]
-@what: The square opened after the Civil War, avenue 1939–1958 (F6.1 HEDGE, safe wording "after the war, over almost twenty years"; A6, S23); the Barri de la Catedral "one of the most affected", Sant Felip Neri 30 Jan 1938, 42 dead incl. 20 children (G112 OK, GS20; no direction; never "the cathedral was hit"); the Casa de l'Ardiaca built from the 12th century "taking advantage of part of Barcelona's old Roman wall" (F6.3 OK, A6); rebuilt by Lluís Desplà, Gothic "with some Renaissance features" (F6.4 OK, A6); forward to 034 (safe); Picasso's friezes on the College of Architects, drawings ready Oct 1960, sandblasted by Carl Nesjar, the dust paraphrased (F6.8 OK, A12). Letterbox (G124) left out: conditional on O13 and over the aim.
+@what: The square opened after the Civil War, avenue 1939–1958 (F6.1 HEDGE, safe wording "after the war, over almost twenty years"; A6, S23); the Barri de la Catedral "one of the most affected", Sant Felip Neri 30 Jan 1938, 42 dead incl. 20 children (G112 OK, GS20; no direction; never "the cathedral was hit"); the Casa de l'Ardiaca built around the 12th century "taking advantage of part of Barcelona's old Roman wall" (F6.3 OK, A6); rebuilt by Lluís Desplà, Gothic "with some Renaissance features" (F6.4 OK, A6); forward to 034 (safe); Picasso's friezes on the College of Architects, drawings ready Oct 1960, sandblasted by Carl Nesjar, the dust paraphrased (F6.8 OK, A12). Letterbox (G124) left out: conditional on O13 and over the aim.
 @listen: Why the open square in front of the cathedral is younger than it looks, and the house that moved into the Roman wall.
 @brief: A guide on the square, conversational, then quiet and plain for the bombing, lighter again for the house and the Picasso drawings.
 @pace: medium
@@ -15,9 +15,9 @@ This wide square is younger than it looks. Until the Civil War, a dense neighbou
 
 [quietly] The cathedral's neighbourhood was one of the worst hit by the bombing. The bombs fell on the streets around you. In the little square of Sant Felip Neri nearby, on 30 January 1938, 42 people died, 20 of them children.
 
-[pause] The old stone house beside the cathedral is the Casa de l'Ardiaca, the archdeacon's house. The city's archive says it was built from the 12th century, "taking advantage of part of Barcelona's old Roman wall". Look at it: the house simply moved into the wall.
+[pause] The old stone house beside the cathedral is the Casa de l'Ardiaca, the archdeacon's house. The city's archive says it was built around the 12th century, "taking advantage of part of Barcelona's old Roman wall". Look at it: the house simply moved into the wall.
 
-At the end of the 15th century the archdeacon Lluís Desplà rebuilt it in the Gothic style, "with some Renaissance features". You'll meet him again at the end of the tour, kneeling in a painting.
+At the end of the 15th century the archdeacon Lluís Desplà rebuilt it in the Gothic style, "with some Renaissance features". You'll meet him again in the Chapter Hall museum, kneeling in a painting.
 
 [lightly] Across the square, the line drawings on the modern College of Architects are by Picasso. In October 1960 he telephoned to say the drawings were ready. The artist Carl Nesjar sandblasted them into the concrete, raising a formidable cloud of dust.
 

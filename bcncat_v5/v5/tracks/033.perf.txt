@@ -1,10 +1,10 @@
 @id: 033 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · at the Jewish memory room, the Old Archive of 1535 [O6] (G102: built over the left-side gallery of the church: see ALT-J2)
+@room: The cloister · at the room called Jewish memory, the Old Archive of 1535, its place to be confirmed on site [O6]
 @type: X
 @title: The cloister · Extra · Jewish memory
-@where: In or at the door of the room called Jewish memory, the Old Archive of 1535, with its documents on display; PLACEMENT PENDING, how visitors reach it is unknown. [O6, ALT-J, ALT-J2]
-@what: Jewish memory = the Old Archive of 1535: original sales, rentals and wills in Latin, Hebrew and Catalan, "written testimonies that give a voice to the inhabitants of medieval Barcelona" (G101, F15.5, O7, EN); the Call's edge along streets lined by the bishop's properties (G103, re-read: safe wording); a canon leased the land of the smaller Jewish quarter (G106, optional, cut for length); August 1391: preaching that began in Seville, about three hundred dead, survivors converted or fled (G104, GA3; [quietly]); funerary slabs reused as building stone from 1391, the known sites outside the cathedral (G105, GA3, no direction); the chapter's archive here until 1969, about forty thousand parchments, nine papyri in the endpapers of one manuscript (F15.1, F15.2, G102, O9); callback 002 (Almanzor; safe F).
+@where: In or at the door of the room called Jewish memory, the Old Archive of 1535, with its documents on display; its location must be confirmed on site, and it is not assumed to open off the cloister. [O6: G102 puts the Old Archive over the left-side gallery of the church; ALT-J, ALT-J2]
+@what: Jewish memory = the Old Archive of 1535: original sales, rentals and wills in Latin, Hebrew and Catalan, "written testimonies that give a voice to the inhabitants of medieval Barcelona" (G101, F15.5, O7, EN); the Call's edge along streets lined by the bishop's properties (G103, re-read: safe wording); a canon leased the land of the smaller Jewish quarter (G106, optional, cut for length); August 1391: preaching that began in Seville, about three hundred dead, survivors converted or fled (G104, GA3; [quietly]); funerary slabs reused as building stone from 1391, the known sites outside the cathedral (G105, GA3, no direction); the chapter's archive here until 1969, about forty thousand parchments, nine papyri in the endpapers of one manuscript (F15.1, F15.2, G102, O9); callback 002 (Almanzor; safe F). Audit fixes, 14 Nov 2026: the Call's edge and the Almanzor callback cut; the room's place is to be confirmed on site (O6); see notes/AUDIT_FIXES.md.
 @listen: In the cathedral's old archive, the medieval Jews of Barcelona speak through their contracts and wills, and the year 1391 is remembered plainly.
 @brief: A guide speaking low and evenly in a room of documents; respectful, exact, no adjectives on the violence.
 @pace: slow
@@ -13,13 +13,11 @@
 ---
 In this room, the Jews of medieval Barcelona speak through their paperwork. The Old Archive, finished in 1535, shows a sample of original documents, in Latin, Hebrew and Catalan: sales, rentals and wills from the Call, the Jewish quarter. They are, in the cathedral's words, "written testimonies that give a voice to the inhabitants of medieval Barcelona."
 
-The Call's edge ran along streets beside the bishop's own houses, a few steps from here.
-
 [quietly] In August 1391, after preaching against the Jews that had begun in Seville, the Call was attacked. The city's history museum records the deaths of about three hundred Jews. Those who survived converted to Christianity or fled.
 
 After 1391, Jewish gravestones were reused as building stone in the streets around here. The places where they have been found are outside the cathedral.
 
-Until 1969 this was the chapter's archive. It holds about forty thousand parchments, and nine papyri, found hidden in the endpapers of one old book. All this, from an archive left with only about a hundred documents after Almanzor's army burned the city.
+Until 1969 this room held the chapter's archive. The archive itself, now kept elsewhere, holds about forty thousand parchments, and nine papyri, found hidden in the endpapers of one old book.
 
 Look for a line of Hebrew among the documents on display.
 

@@ -73,7 +73,7 @@ J = json.load(open(LENGTHS_JSON, encoding="utf-8"))
 H_SET = {int(x) for x in J["HIGHLIGHTS"].split()}; E_SET = {int(x) for x in J["ESSENTIAL"].split()}
 F_SET = set(NUMS)
 FX = len(XS)
-LENGTHS = [("Full tour", F_SET, "about 1 h 30", f"every stop and all {FX} Extras: the square, the roof, the choir, the crypt, the ambulatory, the cloister and the Chapter Hall"),
+LENGTHS = [("Full tour", F_SET, "about 1 h 35", f"every stop and all {FX} Extras: the square, the roof, the choir, the crypt, the ambulatory, the cloister and the Chapter Hall"),
            ("Essential", E_SET, "about 1 h", "the square and the front, the Lepanto chapel, the choir screen and the baptistery, the roof, the shields, the crypt, the cloister, the Pietà"),
            ("Highlights", H_SET, "about 30 min", "the front, the lantern tower, the Golden Fleece shields, Santa Eulàlia's tomb, the dancing egg, the geese, the Pietà")]
 
@@ -529,12 +529,12 @@ CLOSED = [("The Lepanto chapel", "007–008", "Listen at its doorway, outside an
           ("The choir", "016–020", "Closed? Listen at its entrance, looking in."),
           ("The crypt", "021–023", "Closed? Stay at the top of its stair: the tomb is in view below."),
           ("The chapels", "010, 032", "Stay at the doorway if worshippers are there or visitors are not clearly allowed in."),
-          ("Jewish memory", "033, Extra", "An Extra, for when the room is open to visitors.")]
+          ("Jewish memory", "033, Extra", "An Extra, only if the room is open and signposted; where it is reached from is still to be confirmed.")]
 offrows = "".join(f'<tr><td><b>{esc(a)}</b></td><td class="tn">{esc(b)}</td><td>{esc(c)}</td></tr>' for a, b, c in CLOSED)
 NOTES = [
     ("Headphones", "Listen on headphones, at a volume low enough to hear what is around you. This is a church: no speakers."),
     ("Worship and Mass", "Barcelona Cathedral is a working church. Hat off and voice low. Never go into a chapel during a service, and take no photos then. Where a service can close a space, the guide says where to listen instead (see below)."),
-    ("The lift wait", "The roof is reached by a small lift from the chapel of the Holy Innocents, beside the Sant Iu door, so there may be a queue. The two lift tracks are made to be heard while you wait. The times on page 1 don't include the wait."),
+    ("The lift wait", "The roof is reached by a small lift from the chapel of the Holy Innocents, beside the Sant Iu door, so there may be a queue. The two lift tracks are made to be heard while you wait. The times on page 1 allow for a short wait; a long queue adds more."),
     ("Offline", "Once the MP3s are on your phone, the guide needs no signal and no data."),
     ("Left and right", "Inside, left and right are always as you face the high altar. On the square, each track tells you which way to face."),
     ("Out of the way", "Stand to one side of doors, steps, the lift and the crypt stair; let worshippers and other visitors pass, and let the geese be."),

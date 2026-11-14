@@ -4,7 +4,7 @@
 @type: W
 @title: The lift — Eulàlia strikes the hours
 @where: In the queue for the roof lift at the chapel of the Holy Innocents, beside the Sant Iu door; with no queue, at the top, standing to one side of the lift. Nothing needs to be seen. [O3, O2, ALT-NQ]
-@what: The hour bell Eulàlia and the quarter bell Honorata, both cast by Francesc Calbetó in 1865, Eulàlia in the tower over the Sant Iu door (F11.8 OK, G59, S17; O6 confirms Eulàlia in the Sant Iu tower); the "rebellious" Honorata "imprisoned" and melted down by Philip V in 1714, as the city tells it (F11.7 HEDGE, A4), and the bell survey's silence (G58, S17); two eight-sided towers over fifty metres, over the Sant Iu door with the clock and over the cloister door (F11.1 HEDGE wording, F11.2 OK), built after the Romanesque tower came down around 1380, first bell hoisted 1393 (F11.3, F11.5, S7: year not spoken), one medieval, its twin finished two centuries later (F11.4 OK); l'Esquella de Prima, 1321 (F11.6 OK); about twenty bells, nearly all with women saints' names (F11.12 HEDGE wording); eleven in the cloister tower, the Crown of Aragon pattern (F11.11 OK, G63 OK); "the thief's bell", unexplained (G62); la Tomasa for the noon Angelus (F11.13 OK DATED); the 1865 clock regulated by electric impulses (G60 OK, optional, used).
+@what: The hour bell Eulàlia and the quarter bell Honorata, both cast by Francesc Calbetó in 1865, Eulàlia in the tower over the Sant Iu door (F11.8 OK, G59, S17; O6 confirms Eulàlia in the Sant Iu tower); the "rebellious" Honorata "imprisoned" and melted down by Philip V in 1714, as the city tells it (F11.7 HEDGE, A4), and the bell survey's silence (G58, S17); two eight-sided towers over fifty metres, over the Sant Iu door with the clock and over the cloister door (F11.1 HEDGE wording, F11.2 OK), built after the Romanesque tower came down around 1380, first bell hoisted 1393 (F11.3, F11.5, S7: year not spoken), one medieval, its twin finished two centuries later (F11.4 OK); l'Esquella de Prima, 1321 (F11.6 OK); about twenty bells, nearly all with women saints' names (F11.12 HEDGE wording); eleven in the cloister tower, the Crown of Aragon pattern (F11.11 OK, G63 OK); "the thief's bell", unexplained (G62); la Tomasa for the noon Angelus (F11.13 OK DATED); the 1865 clock regulated by electric impulses (G60 OK, optional, used). Audit fixes, 14 Nov 2026: cut after the audits: the clock line and 'If you're here at noon'; the 1321 bell no longer 'older than the crypt'; see notes/AUDIT_FIXES.md.
 @listen: The voice of the old town's clock, a bell the city says a king punished, and the twenty-odd named bells in the two towers.
 @brief: A guide keeping a queue company, chatty and a little conspiratorial over the punished bell, never asking anyone to look anywhere.
 @pace: medium
@@ -19,10 +19,10 @@ Every hour you hear over the old town is struck by a bell called Eulàlia. She h
 
 There are two bell towers, eight-sided and over fifty metres high. One stands over the Sant Iu door and carries the clock. The other stands over the door from the church into the cloister. They went up after the old Romanesque bell tower came down, and the first bell was hoisted before the end of the 1300s. One tower is medieval. Its twin was finished two centuries later.
 
-[warmly] The oldest bell up there is older than the crypt you're going to see. It's a small bell, an esquella in Catalan, called l'Esquella de Prima, and it was cast in 1321.
+[warmly] The oldest bell in the towers was cast in 1321: a small bell, an esquella in Catalan, called l'Esquella de Prima.
 
 In all there are about twenty bells, nearly all named after women saints. Eleven of them hang in the tower over the cloister, the number the cathedrals of the old Crown of Aragon traditionally had. [amused] One has gone by the name of the thief's bell. The survey doesn't say why.
 
-At noon the Angelus is rung on one of the big bells. If you're here at noon, that's la Tomasa. And the clock that drives the hours was a marvel in its day, regulated by electric pulses.
+At noon the Angelus is rung on one of the big bells, la Tomasa.
 
 Stay where you are for one more story, in the queue or at the top: The lift · Lightning and firecrackers.

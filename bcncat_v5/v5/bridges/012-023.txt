@@ -1,14 +1,9 @@
-# On-site tags for the bridges below (never spoken; only lines that start with a track number are read as bridges):
-#   012 E>014: [O3, O7]
-#   015 E>018: [O3, O8, ALT-K]
-#   018 E>021: [O10, O2]
-#   018 H>022: [O10, O2]
-#   022 H>029: [O2, O9]
-#   022 E>029: [O2, O9]
-# Each plays after the track's normal cue in that version. "On the right" in 022 H/E is as you face the high altar (O2).
-012 E>014: On this shorter tour, skip the next story. If you're still waiting, ride up when it's your turn. On the roof, follow the walkway until the lantern tower over the main door is in front of you: The roof · Saint Helena on the lantern.
-015 E>018: On this shorter tour, take the lift down and go to the choir, the wooden enclosure in the middle of the nave. Go in at its entrance, and find the painted shields above the seats. If the choir is closed, listen at its entrance: The choir · Europe's most exclusive club.
-018 E>021: On this shorter tour, leave the choir and walk towards the high altar. Stop at the top of the stair down to the crypt. If the crypt is closed, stay at the top of its stair: the tomb is in view below: The crypt · Thirteen, according to tradition.
-018 H>022: On this shorter tour, leave the choir and walk towards the high altar. Go down the crypt stair and stand where you can see the marble tomb. If the crypt is closed, stay at the top of its stair: the tomb is in view below: The crypt · Two kings on the stairs.
-022 H>029: On this shorter tour, climb back up, and cross in front of the high altar to the white marble doorway into the cloister, in the bay on the right. Go through, and turn to the small vaulted pavilion over a fountain, close to the door: The cloister · The egg the accountant wrote down.
-022 E>029: On this shorter tour, climb back up, and cross in front of the high altar to the white marble doorway into the cloister, in the bay on the right. Go through, and turn to the small vaulted pavilion over a fountain, close to the door: The cloister · The egg the accountant wrote down.
+# Bridges for the shorter versions (H = Highlights, E = Essential). Each plays after the track's normal cue in that version.
+# Only lines that start with a track number are read as bridges. The on-site tags in brackets after the closing title are never spoken (the build strips them).
+# Left and right are always as you face the high altar: coming up the crypt stair you face the nave, so 022 H/E first turns the listener to face the altar; the lift is on the left, the white marble cloister door on the right (O2, O10).
+012 E>014: On this shorter tour, the next stop is on the roof. If you're still waiting, ride up when it's your turn. Once up there, follow the walkway until the lantern tower over the main door is in front of you: The roof · Saint Helena on the lantern. [O3, O7]
+015 E>018: On this shorter tour, take the lift down and go to the choir, the enclosure in the middle of the nave. Go in at its entrance, and find the painted shields above the seats. If the choir is closed, listen at its entrance: The choir · Europe's most exclusive club. [O3, O8, ALT-K]
+018 E>021: On this shorter tour, leave the choir and walk towards the high altar. Stop at the top of the stair down to the crypt. If the crypt is closed, stay at the top of its stair: the tomb is in view below: The crypt · Thirteen, according to tradition. [O10, O2]
+018 H>022: On this shorter tour, leave the choir and walk towards the high altar. Go down the crypt stair and stand where you can see the marble tomb. If the crypt is closed, stay at the top of its stair: the tomb is in view below: The crypt · Two kings on the stairs. [O10, O2]
+022 H>029: On this shorter tour, at the top of the crypt stair, face the high altar. Cross to the white marble cloister doorway, in the bay on the right as you face it. Go through to the small vaulted pavilion over a fountain, by the door: The cloister · The egg the accountant wrote down. [O2, O9, O10]
+022 E>029: On this shorter tour, at the top of the crypt stair, face the high altar. Cross to the white marble cloister doorway, in the bay on the right as you face it. Go through to the small vaulted pavilion over a fountain, by the door: The cloister · The egg the accountant wrote down. [O2, O9, O10]

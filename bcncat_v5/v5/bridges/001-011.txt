@@ -1,5 +1,7 @@
-001 H>004: On this shorter tour, go straight to the front of the cathedral. Stand far enough back to see it whole, from the door up to the spires [O13]: The facade · Drawn in 1408, built in 1887.
-002 E>004: On this shorter tour, skip the next story. Turn to the front of the cathedral, and stand far enough back to see it whole, from the door up to the spires [O13]: The facade · Drawn in 1408, built in 1887.
-004 H>006: On this shorter tour, climb the steps to the main door and go in. Stop just inside, out of the way of people coming in, and look ahead along the nave [O1]: Inside the main door · A tower over the door.
-004 E>006: On this shorter tour, climb the steps to the main door and go in. Stop just inside, out of the way of people coming in, and look ahead along the nave [O1]: Inside the main door · A tower over the door.
-006 H>018: On this shorter tour, walk up the nave to the choir, the wooden enclosure in the middle, and go in at its entrance. If the choir is closed, listen at its entrance [O8, ALT-K]: The choir · Europe's most exclusive club.
+# Bridges for the shorter versions (H = Highlights, E = Essential). Each plays after the track's normal cue in that version.
+# Only lines that start with a track number are read as bridges. The on-site tags in brackets after the closing title are never spoken (the build strips them).
+001 H>004: On this shorter tour, go straight to the front of the cathedral. Stand far enough back to see it whole, from the door up to the spires: The facade · Drawn in 1408, built in 1887. [O13]
+002 E>004: On this shorter tour, turn instead to the front of the cathedral, and stand far enough back to see it whole, from the door up to the spires: The facade · Drawn in 1408, built in 1887. [O13]
+004 H>006: On this shorter tour, climb the steps to the main door and go in. Stop just inside, out of the way of people coming in, and look ahead along the nave: Inside the main door · A tower over the door. [O1]
+004 E>006: On this shorter tour, climb the steps to the main door and go in. Stop just inside, out of the way of people coming in, and look ahead along the nave: Inside the main door · A tower over the door. [O1]
+006 H>018: On this shorter tour, walk up the nave to the choir, the enclosure in the middle behind the white marble screen, and go in at its entrance. If the choir is closed, listen at its entrance: The choir · Europe's most exclusive club. [O8, ALT-K]

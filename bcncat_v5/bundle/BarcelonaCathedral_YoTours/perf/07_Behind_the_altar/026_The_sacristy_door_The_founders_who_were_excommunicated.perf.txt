@@ -4,7 +4,7 @@
 @type: W
 @title: The sacristy door — The founders who were excommunicated
 @where: Beside the sacristy door, on the right of the high altar as you face it, standing back far enough to see two painted wooden coffins high on the wall. [O16, O2, ALT-F]
-@what: The two painted wooden coffins on the sacristy wall, right of the high altar (G22, S19; G24, GS5); Almodis and Ramon Berenguer I married 1052, her two earlier husbands alive, his wife repudiated (F2.12, G28); al-Bakri's Tortosa fleet (G29 HEDGE, attributed); Ermessenda, Victor II, the excommunication, her later submission and request to lift it (G30); consecration of their cathedral, November 1058 (F2.3), "soon after"; MUHBA on the Gothic works destroying the Romanesque cathedral (Q12, F2.10, ES); Almodis killed by her stepson, 1071 (F2.13, G31); the move from probably Roman marble sarcophagi into painted wood, tradition vs "several other names" (F10.14, G23, G26); the 1603 Hercules belief (G25, as recorded); forward to the cloister door (028, safe F).
+@what: The two painted wooden coffins on the sacristy wall, right of the high altar (G22, S19; G24, GS5); Almodis and Ramon Berenguer I married 1052, her two earlier husbands alive, his wife repudiated (F2.12, G28); al-Bakri's Tortosa fleet (G29 HEDGE, attributed); Ermessenda, Victor II, the excommunication, her later submission and request to lift it (G30); consecration of their cathedral, November 1058 (F2.3), "soon after"; MUHBA on the Gothic works destroying the Romanesque cathedral (Q12, F2.10, ES); Almodis killed by her stepson, 1071 (F2.13, G31); the move from probably Roman marble sarcophagi into painted wood, tradition vs "several other names" (F10.14, G23, G26); the 1603 Hercules belief (G25, as recorded); forward to the cloister door (028, safe F). Audit fixes, 14 Nov 2026: the Spanish quotation now paraphrased in English (the original stays in @sources); consecrated in the passive (facts M2); see notes/AUDIT_FIXES.md.
 @listen: The count and countess who built the cathedral before this one: a scandalous marriage, a pope's ban, a murder, and two painted boxes whose occupants are still argued over.
 @brief: A guide telling a medieval scandal with relish but without exaggeration, then quieter for the murder, and honest about the doubt at the end.
 @pace: medium
@@ -13,16 +13,16 @@
 ---
 The couple who paid for the cathedral before this one were excommunicated for their marriage. When Countess Almodis married Count Ramon Berenguer the First of Barcelona, in 1052, both of her earlier husbands were still alive. And he put aside his own wife to marry her.
 
-How did he win her? An Arab chronicler, al-Bakri, says the count hired the Muslim fleet of Tortosa to carry her off from her husband. That's one chronicler's word. But it tells you how the story was being told.
+How did he win her? An Arab chronicler, al-Bakri, wrote that the count hired the Muslim fleet of Tortosa to carry her off from her husband. That's one chronicler's word. But it tells you how the story was being told.
 
-His grandmother, Countess Ermessenda, appealed to the pope, Victor the Second, and he excommunicated them both. In the end she gave in. She swore loyalty to the couple, and asked the pope to lift the ban. Soon after, in November 1058, the count and countess consecrated their new cathedral, here, on this site.
+His grandmother, Countess Ermessenda, appealed to the pope, Victor the Second, and he excommunicated them both. In the end she gave in. She swore loyalty to the couple, and asked the pope to lift the ban. Soon after, in November 1058, their new cathedral was consecrated, here, on this site.
 
-[pause] It didn't survive. The city's history museum puts it in one line, in Spanish: "las obras de la catedral gótica implicaron la destrucción de la románica". The works on the Gothic cathedral involved the destruction of the Romanesque one. The church you're standing in replaced theirs.
+[pause] It didn't survive. In the words of the city's history museum, the building of the Gothic cathedral meant the destruction of the Romanesque one. The church you're standing in replaced theirs.
 
 [quietly] The countess herself came to a violent end. In 1071 she was killed by her stepson, the count's son and heir by his first wife.
 
-[curious] Now look high on the wall, for two painted wooden boxes. When the Gothic church went up, the bodies of a count and a countess were moved out of old marble coffins, probably reused Roman ones, into painted wood. Tradition says the founders lie up there. Historians have proposed several other names. Four centuries ago, a traveller wrote that he was shown an old tomb here. Some people, he noted, said it belonged to Hercules, and others to a count of Barcelona.
+[curious] Now look high on the wall, for two painted wooden boxes. When the Gothic church went up, the bodies of a count and a countess were moved out of old marble coffins, probably reused Roman ones, into painted wood. Tradition says the founders lie up there. Historians have proposed several other names. Four centuries ago, a traveller wrote that he was shown an old tomb in this cathedral. Some people, he noted, said it belonged to Hercules, and others to a count of Barcelona.
 
 One door of their church may still survive. You'll meet it in the cloister.
 
-Walk on towards the main door, to the white marble doorway into the cloister, in the bay beside the altar. Stop there, turn round, and look back at the choir: The cloister door · The summer of 1936.
+Walk on towards the main door, to the white marble doorway into the cloister, in the bay on the right as you face the high altar. Stop beside it, out of the way, and look across at the choir, the enclosure in the middle of the nave: The cloister door · The summer of 1936.

@@ -3,7 +3,7 @@
 @room: The choir · inside, among the upper stalls (or at the entrance if closed) [O8]
 @type: W
 @title: The choir — Oak from Bruges
-@where: Inside the choir, the wooden enclosure in the middle of the nave, standing where the tall upper row of seats is in view; if the choir is closed, at its entrance, looking in. [O8, O2, ALT-K, ALT-M]
+@where: Inside the choir, the enclosure in the middle of the nave, standing where the tall upper row of seats is in view; if the choir is closed, at its entrance, looking in. [O8, O2, ALT-K, ALT-M]
 @what: Q1 / F9.4 OK (S9, old CA, re-checked): the Llibre del cor, "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor" (spoken in English, "in old Catalan" once; never "rode", no route towns); the choir in the middle of the nave, in front of the crypt (F9.1 OK, S7); begun in the 1390s under Bishop Ramon d'Escales (F9.2 HEDGE wording; O7 1390, S9 1394); Sanglada directed the upper stalls 1394–1399, mainly Flemish oak, a team effort, formally finished 5 December 1399 (F9.3 OK, S9; "team effort" paraphrased); callback: Sanglada's alabaster figure of Sant Oleguer (008, safe in F; F10.19, F10.20); optional, used: the lower stalls won by Macià Bonafè against Joan Claperós (F9.7 OK, S10; year spoken as "half a century later"); look: the upper row's seat backs and armrests (O8).
 @listen: How a Barcelona sculptor went to Bruges for the oak of the canons' choir, and the team who carved it.
 @brief: A guide inside a beautiful wooden room, warm and a little proud of the carvers, voice kept low for a working church.
@@ -11,16 +11,16 @@
 @energy: 3→3→3
 @sources: S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, Enc. Cat. L'art gòtic, re-read 14 Nov 2026: "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor", old CA; the stalls "fou bàsicament una obra d'equip", with Antoni Canet, Francesc Marata, Berenguer Rof; upper stalls directed 1394–1399; formally finished "el dia 5 de desembre d'aquell any"; Sant Oleguer's alabaster effigy, May 1406, "l'única treballada en alabastre", CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: "Davant la cripta, just al centre de la nau, es troba el cor."; "l'obra del cor es vincula especialment amb el bisbe Escales.", CA) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: the choir "started up in 1390 under the mandate of Bishop Raymond d'Escales", EN) ; S10 https://diposit.ub.edu/dspace/bitstream/2445/35592/2/01.MJA_INTRODUCCIO.pdf (SEC, Jardí thesis, re-read 14 Nov 2026: "Macià Bonafé i Joan Claperós es van disputar el contracte del nou cadirat baix", CA)
 ---
-The chapter's old book of the choir sums it up in one line, in old Catalan. "Anglada was sent … to Bruges to buy oak for the said choir." Anglada is Pere Sanglada, the Barcelona sculptor in charge. He travelled all the way to Flanders to choose the wood himself.
+These seats began with a journey to Flanders. The chapter's old choir book records it, in old Catalan: "Anglada was sent … to Bruges to buy oak for the said choir." Anglada is Pere Sanglada, the Barcelona sculptor in charge, sent to buy the wood himself.
 
-[warmly] This is the canons' choir, with its cadirat, its choir stalls, set in the middle of the nave, in front of the crypt. Here the canons sang the hours, enclosed in the middle of the church.
+[warmly] This is the canons' choir, with its choir stalls, set in the middle of the nave, in front of the crypt. Here the canons sang the hours, enclosed in the middle of the church.
 
 Work began in the 1390s, under Bishop Ramon d'Escales. Sanglada directed the upper stalls, carved mainly in Flemish oak, and he didn't carve them alone. The Catalan encyclopedia's art history calls the stalls, in essence, a team effort, with a workshop of carvers around him. On the fifth of December 1399 they were formally declared finished.
 
-Sanglada's hand turns up elsewhere in this church. He carved the alabaster figure of Sant Oleguer, the bishop who lies under the Lepanto crucifix near the main door.
+You've met his work already: the alabaster figure of the bishop under the Lepanto crucifix.
 
 The lower row of seats came half a century later. A carver called Macià Bonafè won that job, against a rival, Joan Claperós.
 
 [pause] Now look at the upper row, the tall seats at the back. Follow the carving on the seat backs and along the armrests, one seat to the next. That is the work of Sanglada's team, in oak that came from Bruges.
 
-If you're on the full tour, find a seat whose folding ledge is raised, and look at the carving underneath: The choir · Extra · Under the canons' seats. Otherwise, the next main stop is above the seats, at the row of painted shields: The choir · Europe's most exclusive club.
+If you're on the full tour, find a seat whose folding ledge is already raised, and look at the carving underneath. Please don't lift one yourself: The choir · Extra · Under the canons' seats. Otherwise, the next main stop is above the seats, at the row of painted shields: The choir · Europe's most exclusive club.
