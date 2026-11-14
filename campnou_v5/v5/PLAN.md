@@ -553,3 +553,36 @@ Catalan for Catalan names, Castilian for Spanish ones, Dutch, Hungarian, German,
     are written after it, by a separate writer. A new Extra only by the lead's re-plan.
 19. O2 is the release risk: the lead checks the ticket page before recording; the route layer is rewritten if the
     new museum opens.
+
+## Lead's decisions after FACTS_GAPS landed (14 Nov 2026) — binding; they override anything above
+research/FACTS_GAPS_NOV2026.md (G1–G111) is in. Its "Changes proposed to FACTS rows" table overrides FACTS. Applied:
+- **Walter Wild** was the first president (G22–G24, OK OFF); Gamper declined, to keep playing. Gamper "came to
+  Barcelona in the late 1890s"; born 1877 (G19). → 004.
+- **Decision 4 revised:** 008 may give "Salid y disfrutad" once, in Spanish, attributed to the club's own history
+  ("the club's history says his last words before they went out were…"), then the English "go out and enjoy it"
+  (G43; lint exception 008 only). Still no named player's first-hand account.
+- **Decision 7 revised:** Maradona's standing ovation at the Bernabéu on 26 June 1983 is OK (OFF, G63). 033 keeps its
+  title and pairs it with Ronaldinho's in 2005 as its payoff; the 0–5 of 1974 and Asensi's line stay in 013 (one home).
+- **Cruyff (013):** signed 13 August 1973; the wait was the Dutch federation's transfer window, never a Spanish rule
+  (G35); debut 28 Oct 1973, two goals against Granada; second from bottom before him, then unbeaten for months (say
+  "unbeaten for months" unless G gives the count on an OFF page: G says 26 games); the 0–5 on 17 Feb 1974; Jordi born
+  9 Feb 1974, the birth timed for the Clásico in Jordi's own words (G40); the registrar wanted "Jorge" (G41, attributed
+  to Jordi's account). Fee: never.
+- **Les Corts (018, 020, 030, 031):** "tens of thousands, and still not enough" (two OFF figures conflict).
+- **The Five Cups (031):** Liga, Copa, the Latin Cup, the Copa Eva Duarte and the Copa Martini Rossi, 1951–52 (G64).
+  Kubala's statue: 2009, by Montserrat Garcia Rius (G48), position never cued.
+- **1943 (020):** add Real Madrid's own history wording (G1, translated, attributed: it calls the night a remontada and
+  the birth of the rivalry) and the even-handed line (G4). **Di Stéfano:** out (020 is full; one-sided either way).
+  **Franco's medals** (given 1951, 1971, 1974; members voted in 2019 to withdraw them, G14): one optional attributed
+  sentence in 020 as balance for "both cities still argue", if it fits the aim.
+- **Luis Suárez Miramontes (022):** "the first Spanish-born winner, in 1960" (G67) or simply "in 1960"; never "the only
+  Spaniard" (lint bans it). He died in 2023: past tense.
+- **Olympics (029):** Spain's first Olympic football gold, 1992, at the Camp Nou; Spain won again in Paris in 2024 with
+  Barça's Fermín López, Eric Garcia and Pau Cubarsí (G51–G52; DATED-light, cuttable). Never "only".
+- **Women (011):** 2024 Bilbao 2–0 Lyon; 2025 Lisbon lost 1–0 to Arsenal (G79) may be used.
+- **Sunyol's box (019):** G found no second source → cut (decision 6).
+- **Members (027):** 151,787 members at 30 June 2026 (G81, DATED, cuttable); about 1,270 penyes (G82, as G grades it).
+- **The Pope (029):** he received a membership card in 1982, in his own 1999 words (G101); never a member number.
+- **Not added as tracks** (Full is ≈ 92): Alcántara, Samitier/Zamora, Herrera and Bern 1961, the midnight goal, the
+  comebacks, Figo. They are held for a future edition; writers may use one G detail as an optional line only where
+  PLAN's track already covers that person.
