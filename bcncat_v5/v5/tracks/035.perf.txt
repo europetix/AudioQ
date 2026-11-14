@@ -1,9 +1,9 @@
 @id: 035 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The Chapter Hall
-@room: The Chapter Hall · beside the monstrance and the stone font [O21]
+@room: The Chapter Hall · beside the monstrance and the stone font
 @type: R
 @title: The Chapter Hall — A throne for the Host
-@where: In the Chapter Hall museum, beside the great gilded monstrance on its silver seat, with the stone font with lobed sides nearby; only what is on display is pointed at. [O21, ALT-T]
+@where: In the Chapter Hall museum, beside the great gilded monstrance on its silver seat, with the stone font with lobed sides nearby; only what is on display is pointed at.
 @what: The monstrance, c. 1370–1400 ("the late 1300s"), two tiers, six-sided, gold and gilded silver, pearls and gems, 88 cm; a sapphire and a ruby added while it was being made (G93, GS18; year 1371 cut for the date count); "King Martin's throne": its base since the mid-15th century (O4), in fact a folding bishop's chair of gilded silver with the Barcelona hallmark, the royal link "a late tradition" (F14.16, G94, GS18; tradition, not fact); Corpus 1320, one of the first cities in Christendom (G96; callback 029 safe); the 11th-century lobed font from the Romanesque cathedral (F14.15, F2.8, G92, O7); Huguet's Saint Bernardino and the Guardian Angel, 1465–70 (F14.13, O7); Giuliano di Nofri's terracotta Santa Eulàlia from over the Santa Eulàlia door (F14.14, G92, O7). G97: location conflict, O21 decides (ALT-T). Optional crozier and Lochner relief cut (not confirmed on display; S8 puts the relief in the Sala de Sant Sever). Audit fixes, 14 Nov 2026: the sapphire and ruby cut for length; see notes/AUDIT_FIXES.md.
 @listen: A gold monstrance on a silver seat that tradition calls a king's throne, a font from the older cathedral, and the saint who once stood over the door you'll leave by.
 @brief: A guide in a small treasury, interested and exact, enjoying the gap between the tradition and the object.

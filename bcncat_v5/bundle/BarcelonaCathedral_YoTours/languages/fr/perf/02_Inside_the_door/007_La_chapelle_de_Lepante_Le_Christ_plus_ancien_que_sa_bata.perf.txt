@@ -1,0 +1,32 @@
+@id: 007 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: The Lepanto chapel · at its doorway, outside; never inside during a service
+@type: W
+@title: La chapelle de Lépante — Le Christ plus ancien que sa bataille
+@where: Sur le seuil de la chapelle du Christ de Lépante, près de la porte principale, à droite quand vous faites face au maître-autel. Restez dehors, sur le côté du seuil, et n'entrez jamais pendant un office.
+@what: "The most venerated image in Barcelona" (F10.4 OK, O8); the chapel named once (ROUTE §0.2): the Christ of Lepanto chapel, the chapel of the Blessed Sacrament; tradition: aboard the flagship at Lepanto, 1571 (F10.5 LEGEND, O8; Don John from S15), dodged a Turkish cannonball (F10.6 LEGEND, O8; the hull tradition F10.7, optional, cut for length); the cannonball story in the confraternity's statutes of 1762, the earliest written telling the historian cites (F10.6, S15 p. 28; see notes), no archival document of 1571 (F10.9 OK, S15 p. 24), Hanß "it cannot be proven…" (Q7, S15 p. 27); "not from the 16th century, as was believed" (Q6, F10.8, O8; no century of ours); darkness from smoke and candle wax, later varnishes; restored because the paint was flaking (F10.10, O8, wording per re-read); the room built by Arnau Bargués in 1407, chapter house until the 1670s (F10.1, F10.2 OK, O7, O11); not the Chapter Hall museum (Conventions); E-safe clause on Oleguer (F10.19, O11); "Most of the year … In Lent, it's moved" (F10.12 OK/DATED, O8). Confraternity 1651 (F10.11) left out for the date count.
+@listen: The crucifix that tradition sends into the Battle of Lepanto, and the evidence that it was already old when the battle was fought.
+@brief: A guide at a chapel doorway, voice kept low; respectful and curious with the tradition, quietly pleased at the evidence, plain and warm at the payoff.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: O8 https://catedralbcn.org/en/worship-and-prayer/saints/holy-christ-of-lepanto/ (OFF, re-read 14 Nov 2026: "The Christ of Lepanto is the most venerated image in Barcelona."; "According to tradition, this image was aboard the flagship at the decisive Battle of Lepanto of 1571."; "according to one, it was to dodge a Turkish cannonball"; "as per the other, it was to cover a hole in the ship's hold."; "In any case, it is not from the 16th century, as was believed."; "The darkened colour can be attributed to the effect of smoke and candle wax"; "the paint was beginning to flake"; "during Lent it can be found at the Chapel of Saint Severus of Barcelona.", EN) ; S15 https://www.kritischearchaeologie.de/repositorium/fka/2018_7_2_Hanss.pdf (SEC, Hanß 2018, re-read 14 Nov 2026: p. 27 "Even though it cannot be proven that the object actually was on the ship of Don John of Austria during the Battle of Lepanto"; p. 28 statutes "written down in 1762", Christ "said to have avoided an Ottoman cannonball"; p. 24 "No archival documents seem to exist that refer to this item already in 1571.", EN) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: "was constructed by Arnau Bargués in 1407"; "It was the Chapterhouse of the Cathedral until 1676."; "Please do not enter or take pictures during the celebrations", EN) ; O11 https://catedralbcn.org/wp-content/uploads/2026/07/CATEDRAL-DE-BARCELONA-01.pdf (OFF, Revista no. 1, re-read 14 Nov 2026: the room "servia com a Sala Capitular del Capítol catedralici"; "Al damunt del sepulcre de sant Oleguer es troba la imatge del Sant Crist de Lepant", CA)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 007 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+«L'image la plus vénérée de Barcelone.» C'est ainsi que la cathédrale décrit le crucifix de cette chapelle. Voici la chapelle du Christ de Lépante, aussi chapelle du Saint-Sacrement.
+
+La tradition dit qu'il alla au combat à Lépante, en 1571, sur le vaisseau amiral de don Juan d'Autriche. Et l'on raconte que, face à un boulet turc, le Christ s'est écarté. Voilà, dit-on, pourquoi le corps se courbe.
+
+[curious] Passons aux preuves. Un historien, Stefan Hanss, a constaté qu'aucun document d'archives de 1571 ne semble mentionner le crucifix. Dans les sources qu'il cite, l'histoire du boulet apparaît d'abord dans les statuts de la confrérie, rédigés en 1762, près de deux cents ans après la bataille. Selon ses mots, «on ne peut prouver que l'objet était réellement sur le navire de don Juan».
+
+[pause] La cathédrale dit désormais que la sculpture «n'est pas du seizième siècle, comme on le croyait». Elle précède la bataille qui l'a rendue célèbre.
+
+Si vous la voyez d'ici, remarquez combien elle est sombre: fumée de cierges, cire, et vernis ajouté plus tard. Des restaurateurs l'ont nettoyée, et ont sauvé une peinture qui commençait à s'écailler.
+
+En 1407, Arnau Bargués bâtit cette salle pour les réunions des chanoines: leur salle du chapitre. Ils s'y réunirent jusqu'aux années 1670. Ce n'est pas le musée de la salle capitulaire, à la fin de la visite. Sous le crucifix repose un saint évêque, Oleguer.
+
+La plus grande partie de l'année, il est accroché ici. Pendant le carême, on le déplace.
+
+[warmly] La bataille l'a rendu célèbre. Il était ancien bien avant elle.
+
+Si vous suivez la visite complète, restez sur le seuil pour une autre courte histoire: La chapelle de Lépante · Extra · L'évêque sous le crucifix. Sinon, la prochaine étape principale est la clôture de marbre blanc au bout du chœur, l'enceinte au milieu de la nef. Reculez un peu pour voir ses panneaux sculptés: La clôture du chœur · Le sculpteur qui n'est jamais revenu.

@@ -1,9 +1,9 @@
 @id: 026 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: The sacristy door · on the right of the high altar, below the two painted wooden coffins high on the wall [O16]
+@room: The sacristy door · on the right of the high altar, below the two painted wooden coffins high on the wall
 @type: W
 @title: The sacristy door — The founders who were excommunicated
-@where: Beside the sacristy door, on the right of the high altar as you face it, standing back far enough to see two painted wooden coffins high on the wall. [O16, O2, ALT-F]
+@where: Beside the sacristy door, on the right of the high altar as you face it, standing back far enough to see two painted wooden coffins high on the wall.
 @what: The two painted wooden coffins on the sacristy wall, right of the high altar (G22, S19; G24, GS5); Almodis and Ramon Berenguer I married 1052, her two earlier husbands alive, his wife repudiated (F2.12, G28); al-Bakri's Tortosa fleet (G29 HEDGE, attributed); Ermessenda, Victor II, the excommunication, her later submission and request to lift it (G30); consecration of their cathedral, November 1058 (F2.3), "soon after"; MUHBA on the Gothic works destroying the Romanesque cathedral (Q12, F2.10, ES); Almodis killed by her stepson, 1071 (F2.13, G31); the move from probably Roman marble sarcophagi into painted wood, tradition vs "several other names" (F10.14, G23, G26); the 1603 Hercules belief (G25, as recorded); forward to the cloister door (028, safe F). Audit fixes, 14 Nov 2026: the Spanish quotation now paraphrased in English (the original stays in @sources); consecrated in the passive (facts M2); see notes/AUDIT_FIXES.md.
 @listen: The count and countess who built the cathedral before this one: a scandalous marriage, a pope's ban, a murder, and two painted boxes whose occupants are still argued over.
 @brief: A guide telling a medieval scandal with relish but without exaggeration, then quieter for the murder, and honest about the doubt at the end.

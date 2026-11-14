@@ -1,6 +1,6 @@
 @id: 026 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: The sacristy door · on the right of the high altar, below the two painted wooden coffins high on the wall [O16]
+@room: The sacristy door · on the right of the high altar, below the two painted wooden coffins high on the wall
 @type: W
 @title: Die Sakristeitür — Die Stifter, die exkommuniziert wurden
 @where: Neben der Sakristeitür, rechts vom Hochaltar mit Blick zu ihm, weit genug zurück, um zwei bemalte Holzsärge hoch oben an der Wand zu sehen.

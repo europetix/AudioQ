@@ -1,6 +1,6 @@
 @id: 020 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · at its entrance, the pulpit beside you, the spires over the stalls in view [O8]
+@room: The choir · at its entrance, the pulpit beside you, the spires over the stalls in view
 @type: R
 @title: El coro — Un dosel de agujas
 @where: En la entrada del coro, junto al púlpito de madera, desde donde se ven arriba las agujas talladas sobre los asientos altos.

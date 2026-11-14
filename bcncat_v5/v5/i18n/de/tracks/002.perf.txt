@@ -1,6 +1,6 @@
 @id: 002 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The square and the facade
-@room: The Pla de la Seu · at the end of the square by the two Roman towers, the cathedral in view [O13]
+@room: The Pla de la Seu · at the end of the square by the two Roman towers, the cathedral in view
 @type: W
 @title: Der Pla de la Seu — Die Bischöfe zogen nie um
 @where: Am Ende des Platzes, wo zwei alte Steintürme stehen, nahe bei ihnen, aber abseits des Gedränges, zurückgewandt, sodass die Vorderseite der Kathedrale zu sehen ist.

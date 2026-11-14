@@ -1,9 +1,9 @@
 @id: 030 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · on a walk with the pond in view (the far side if crowded) [O9]
+@room: The cloister · on a walk with the pond in view (the far side if crowded)
 @type: W
 @title: The cloister — Thirteen geese
-@where: On a cloister walk with the geese's pond in view; if it's crowded by the pond, on the walk on the far side of the garden. [O9, ALT-K9]
+@where: On a cloister walk with the geese's pond in view; if it's crowded by the pond, on the walk on the far side of the garden.
 @what: Thirteen white geese (F12.4 DATED, O2, O7); why thirteen: the cathedral's "according to tradition", her age at martyrdom (F12.5 LEGEND, O2); the city's "one for each of the agonies she suffered, as well as for the years of her life" (A4, EN); self-contained Eulàlia (version-neutral, H skips 021); documented since the 16th century (Q8, F12.6, O2); why geese: watchmen, purity, the goose-girl folk tale told as guesses (F12.7; G83 re-read: the goose-girl is the betevé article's own statement, not a canon's, so attributed to Barcelona's public television); their care (F12.8 DATED, O2).
 @listen: The cloister's famous geese: the tradition behind their number, the four centuries we can document, and the question nobody can answer.
 @brief: A guide by the pond, warm and a little amused, enjoying the geese, careful to keep the legend a legend.

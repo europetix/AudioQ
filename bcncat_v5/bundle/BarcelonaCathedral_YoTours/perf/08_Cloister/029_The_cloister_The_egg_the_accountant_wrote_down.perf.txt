@@ -1,9 +1,9 @@
 @id: 029 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view [O9]
+@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view
 @type: W
 @title: The cloister — The egg the accountant wrote down
-@where: Beside the small vaulted pavilion over the fountain, in the corner of the cloister near the door from the church, where you can see up into its little vault. [O9, G80]
+@where: Beside the small vaulted pavilion over the fountain, in the corner of the cloister near the door from the church, where you can see up into its little vault.
 @what: L'ou com balla at Corpus, flowers and red cherries, the cathedral first in Barcelona, "at least to 1636" (F12.15, F12.16, F12.18, O2); the accounts recording eggs bought for Corpus and its octave (F12.16, A3); the egg popularly thought to be the Host (F12.19, A3 wording); the keystone of Saint George killing the dragon, the four evangelists seated on the ribs, the figure of Saint George on top (F12.10 corrected by S32 re-read, F12.12, M1); 1448 = the cloister's last vault, then the pavilion (F3.19, F12.9, S32); never consecrated, a Te Deum (F3.18, S2 re-read); the 1456 proclamation, old CA (Q4, F12.13, S32); Saint George's feasts held here (S32). Princess, Escuder and the keystone's day cut (see notes). Audit fixes, 14 Nov 2026: the old-Catalan quotation now paraphrased; 'first' attributed to the cathedral (facts S7); see notes/AUDIT_FIXES.md.
 @listen: How an accountant's entry for eggs dates Barcelona's dancing egg, why 1448 belongs to the cloister, and Saint George in the vault.
 @brief: A guide by a fountain, light and delighted with the egg, then crisp and confident putting the famous date right.

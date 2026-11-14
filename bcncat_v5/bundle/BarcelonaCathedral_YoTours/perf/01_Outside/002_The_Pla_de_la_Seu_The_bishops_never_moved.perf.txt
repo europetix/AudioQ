@@ -1,9 +1,9 @@
 @id: 002 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The square and the facade
-@room: The Pla de la Seu · at the end of the square by the two Roman towers, the cathedral in view [O13]
+@room: The Pla de la Seu · at the end of the square by the two Roman towers, the cathedral in view
 @type: W
 @title: The Pla de la Seu — The bishops never moved
-@where: At the end of the square where two old stone towers stand, close to them but clear of the crowd, turned back so the cathedral front is in view. [O13, ALT-13]
+@where: At the end of the square where two old stone towers stand, close to them but clear of the crowd, turned back so the cathedral front is in view.
 @what: Roman Barcino, 10 BC under Augustus, "a small fortified city covering just ten hectares" (F1.1, F1.2 OK, A1); two walls, 1st and 3rd century (F1.3 OK, A1; not said which these towers are); the decumanus gate at Plaça Nova (G120 OK, GA4; "round" not used); the first official see in the corner of the walled town (F1.4 OK, A1, S6); the first church under the cathedral, never dug (F1.5 HEDGE, S6); the dedication to the Holy Cross in 599 (F1.14 OK, O1); Almanzor's raid of 985, about a hundred documents saved (F1.16 OK, O9); Brossa's Barcino letters where the aqueduct reached the city (F6.9 OK A11, G121 OK GS22; no date; O13). Praetextatus 343 (F1.13) left out for the date count.
 @listen: How a ten-hectare Roman town put its first church in this corner, and why the bishops have never left it.
 @brief: A guide at the old town's edge, curious and vivid about the Roman town, steady at the fire, warm at the payoff of the corner.

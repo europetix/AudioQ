@@ -1,9 +1,9 @@
 @id: 017 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · beside a seat with its folding ledge raised [O25]
+@room: The choir · beside a seat with its folding ledge raised
 @type: X
 @title: The choir · Extra · Under the canons' seats
-@where: Inside the choir, beside one of the seats whose folding ledge is already raised, so the carving underneath shows; never lift a seat yourself. [O25, O8]
+@where: Inside the choir, beside one of the seats whose folding ledge is already raised, so the carving underneath shows; never lift a seat yourself.
 @what: The misericords under the canons' seats: daily life, music, dance, games, animals, monkeys aping people, a siren-bird holding a mirror, vanity (F9.5 OK, S9; "siren", never "mermaid"); the encyclopedia's words "detalls de la vida quotidiana, de treball i divertiment" (S9, CA, re-checked; spoken in English, "in Catalan" once); the stick-and-ball game the city speaks of (F9.6 HEDGE, A4; S9 also mentions a ball game; never the word the city uses), its "best test for the keen-eyed" (A4, attributed); look: the carving under the raised ledge, then one more along the row (O25).
 @listen: The everyday world the carvers hid under the canons' seats.
 @brief: A guide letting a listener in on a secret, quiet and amused, bending down to look.

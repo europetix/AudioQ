@@ -1,9 +1,9 @@
 @id: 020 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · at its entrance, the pulpit beside you, the spires over the stalls in view [O8]
+@room: The choir · at its entrance, the pulpit beside you, the spires over the stalls in view
 @type: R
 @title: The choir — A canopy of spires
-@where: At the choir's entrance, beside the wooden pulpit, where you can look up at the carved spires over the upper seats. [O8, O2]
+@where: At the choir's entrance, beside the wooden pulpit, where you can look up at the carved spires over the upper seats.
 @what: Michael Lochner, a carver of German origin, in Barcelona by 1483, workshop in Carrer de Mercaders, died in Barcelona in June 1490 (F9.8 OK, S8, S10; spoken "seven years later"); the spires over the upper stalls begun in 1483, "probablement projectats en època del mestre Pere Sanglada" (F9.9 OK, S8); his assistant Joan Frederic, also German, carried on and finished the first phase in 1497 (S10 "va acabar la primera fase"; S8 "quedà interromput de nou": so "the first phase", not "finished"); three generations: Sanglada's team, Bonafè, Lochner and Frederic (F18.25 correction; callback 016, safe in F); the pulpit, by Sanglada, around 1400 (F9.11 HEDGE wording: 1394–96, paid in full 1403), six faces, fifteen full-length figures, painted by Lluís Borrassà (S9); optional, cut for length: the Annunciation crowning its stair, attributed to Jordi de Déu, perhaps with Sanglada (F9.12 HEDGE, S9 re-read: not on the pulpit itself but on the stair); the 14th-century bishop's chair presiding over the choir (F9.13 OK, S1; no look until O8 places it); O7's "at the entrance to the choir on the right is the wooden pulpit" (OFF) used for the place, not for left or right.
 @listen: The German carver who crowned the stalls with spires a century late, and the pulpit at the choir's door.
 @brief: A guide at the choir's door, light and clear, enjoying setting a common mistake straight.

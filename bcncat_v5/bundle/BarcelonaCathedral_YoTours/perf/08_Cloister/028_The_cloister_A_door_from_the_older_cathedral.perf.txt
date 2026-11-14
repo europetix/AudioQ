@@ -1,9 +1,9 @@
 @id: 028 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · just through the white marble door, facing back at it [O19]
+@room: The cloister · just through the white marble door, facing back at it
 @type: R
 @title: The cloister — A door from the older cathedral
-@where: In the cloister, a few steps beyond the white marble door from the church, turned round to face it and its carved capitals. [O19, O9]
+@where: In the cloister, a few steps beyond the white marble door from the church, turned round to face it and its carved capitals.
 @what: The white marble cloister door: "Romanesque, made of white marble", "said to have come from the former Romanesque Cathedral" (F2.7 HEDGE, O7, EN); Italian white marble, five pointed archivolts, Job, the Annunciation, a warrior and a winged three-bodied dragon, late Romanesque of the full 13th century, its origin a hypothesis (S2, re-read); the garden's palms, magnolias, orange tree (F12.22 DATED); the 1078 sale and the canons' buildings and two cemeteries (F12.3, S2); chapels on three sides, the fourth with the Chapter Hall and Santa Llúcia (F12.23, G81); the second bell tower over this door, eleven bells (F11.2, F11.11, O6; callback 012). Callback 026 (the founders' church; safe F). Audit fixes, 14 Nov 2026: the garden and the bell-tower lines cut; see notes/AUDIT_FIXES.md.
 @listen: A white marble door that may come from the cathedral before this one, and the garden the canons lived and were buried around.
 @brief: A guide at the threshold of the cloister, pleased by the change of light and air, pointing out the carving with quiet curiosity.

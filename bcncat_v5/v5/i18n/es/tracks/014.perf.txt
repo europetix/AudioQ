@@ -1,6 +1,6 @@
 @id: 014 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The roof · on the terraces, the lantern tower over the main door in view [O7]
+@room: The roof · on the terraces, the lantern tower over the main door in view
 @type: W
 @title: Las terrazas — Santa Elena en el cimborrio
 @where: En las terrazas, en la pasarela, con el cimborrio sobre la puerta principal delante y la estatua de su cima a la vista. No salga de la pasarela ni estorbe el paso.

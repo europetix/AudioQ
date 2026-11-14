@@ -1,6 +1,6 @@
 @id: 019 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · same place, among the shields (or at the entrance if closed) [O8]
+@room: The choir · same place, among the shields (or at the entrance if closed)
 @type: W
 @title: Der Chor — Vier Tage im März
 @where: Derselbe Ort wie bei der letzten Station, im Chor, mit den gemalten Wappen über den oberen Sitzen im Blick. Ist der Chor geschlossen, an seinem Eingang.

@@ -1,9 +1,9 @@
 @id: 018 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · inside, where the painted shields above the upper stalls are in view (or at the entrance if closed) [O8]
+@room: The choir · inside, where the painted shields above the upper stalls are in view (or at the entrance if closed)
 @type: W
 @title: The choir — Europe's most exclusive club
-@where: Inside the choir, standing where the row of painted coats of arms above the tall upper seats is in view; if the choir is closed, at its entrance, looking in. [O8, O2, ALT-K, ALT-M]
+@where: Inside the choir, standing where the row of painted coats of arms above the tall upper seats is in view; if the choir is closed, at its entrance, looking in.
 @what: Hook: the chapter of 5–8 March 1519 (G1 OK SEC, GS1; F9.16 OK; "most exclusive club" our gloss); version-neutral (H, E skip 016): the canons' choir in the middle of the church, the seats carved at the end of the 1300s (F9.1, F9.3); the Toisó d'Or founded in 1429 by Philip the Good, a duke, not a king, for prestige (F9.14 OK OFF, O5); Jason's fleece swapped by the chancellor for Gideon's (F9.15 OK OFF, Q5 paraphrase, no quotation marks; "two years later" = 1431); the young King Charles, grand master, held its chapter here; the first outside Burgundian territory and the only general chapter in Spain, "as far as we know" (F9.16, F18.39 wording; F9.17, G10, G128; S27); fifty-one coats of arms, one per knight, about a dozen present (G7, G6 OK SEC, GS1; our juxtaposition); Charles had enlarged the order and the new places were filled here (G8 safe wording; S27, GS2); lead's decision 5: no king named until O8 finds Louis II's shield, so "the arms of distant kings"; painted for the chapter of 1519 by Joan de Borgonya, a northern painter living in Barcelona (G13 HEDGE, F9.19 HEDGE wording; GS1, GS3); the order's treasurers paid, not the chapter (F9.20 OK, S12 pp. 142–143); payoff (F9.26 OK, S12 p. 142).
 @listen: How the knights of the Golden Fleece met in these seats in March 1519, and why fifty-one shields hang over a dozen knights.
 @brief: A guide in the choir enjoying a grand story, wry about the duke and the fleece, then quietly pleased at the payoff.

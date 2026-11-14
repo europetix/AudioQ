@@ -1,0 +1,28 @@
+@id: 016 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The choir
+@room: The choir · inside, among the upper stalls (or at the entrance if closed)
+@type: W
+@title: Le chœur — Du chêne de Bruges
+@where: Dans le chœur, l'enceinte au milieu de la nef, là où vous voyez la haute rangée supérieure de sièges. Si le chœur est fermé, à son entrée, en regardant à l'intérieur.
+@what: Q1 / F9.4 OK (S9, old CA, re-checked): the Llibre del cor, "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor" (spoken in English, "in old Catalan" once; never "rode", no route towns); the choir in the middle of the nave, in front of the crypt (F9.1 OK, S7); begun in the 1390s under Bishop Ramon d'Escales (F9.2 HEDGE wording; O7 1390, S9 1394); Sanglada directed the upper stalls 1394–1399, mainly Flemish oak, a team effort, formally finished 5 December 1399 (F9.3 OK, S9; "team effort" paraphrased); callback: Sanglada's alabaster figure of Sant Oleguer (008, safe in F; F10.19, F10.20); optional, used: the lower stalls won by Macià Bonafè against Joan Claperós (F9.7 OK, S10; year spoken as "half a century later"); look: the upper row's seat backs and armrests (O8).
+@listen: How a Barcelona sculptor went to Bruges for the oak of the canons' choir, and the team who carved it.
+@brief: A guide inside a beautiful wooden room, warm and a little proud of the carvers, voice kept low for a working church.
+@pace: medium
+@energy: 3→3→3
+@sources: S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, Enc. Cat. L'art gòtic, re-read 14 Nov 2026: "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor", old CA; the stalls "fou bàsicament una obra d'equip", with Antoni Canet, Francesc Marata, Berenguer Rof; upper stalls directed 1394–1399; formally finished "el dia 5 de desembre d'aquell any"; Sant Oleguer's alabaster effigy, May 1406, "l'única treballada en alabastre", CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: "Davant la cripta, just al centre de la nau, es troba el cor."; "l'obra del cor es vincula especialment amb el bisbe Escales.", CA) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: the choir "started up in 1390 under the mandate of Bishop Raymond d'Escales", EN) ; S10 https://diposit.ub.edu/dspace/bitstream/2445/35592/2/01.MJA_INTRODUCCIO.pdf (SEC, Jardí thesis, re-read 14 Nov 2026: "Macià Bonafé i Joan Claperós es van disputar el contracte del nou cadirat baix", CA)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 016 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Ces sièges sont nés d'un voyage en Flandre. Le vieux livre du chœur du chapitre le rapporte, en vieux catalan: «Anglada fut envoyé … à Bruges pour acheter du chêne pour ledit chœur.» Anglada, c'est Pere Sanglada, le sculpteur barcelonais qui dirigeait l'ouvrage, envoyé acheter le bois lui-même.
+
+[warmly] Voici le chœur des chanoines, avec ses stalles, placé au milieu de la nef, devant la crypte. Ici, les chanoines chantaient les heures, enfermés au milieu de l'église.
+
+Les travaux commencèrent dans les années 1390, sous l'évêque Ramon d'Escales. Sanglada dirigea les stalles hautes, sculptées surtout en chêne de Flandre, et il ne les sculpta pas seul. L'histoire de l'art de l'encyclopédie catalane y voit, pour l'essentiel, une œuvre collective, avec un atelier de sculpteurs autour de lui. Le cinq décembre 1399, elles furent officiellement déclarées achevées.
+
+Vous avez déjà vu son travail: la figure d'albâtre de l'évêque sous le crucifix de Lépante.
+
+La rangée basse vint un demi-siècle plus tard. Un sculpteur nommé Macià Bonafè remporta ce travail, face à un rival, Joan Claperós.
+
+[pause] Regardez maintenant la rangée haute, les grands sièges du fond. Suivez la sculpture des dossiers et des accoudoirs, d'un siège à l'autre. C'est l'œuvre de l'équipe de Sanglada, dans du chêne venu de Bruges.
+
+Si vous suivez la visite complète, trouvez un siège dont l'abattant est déjà relevé, et regardez la sculpture dessous. Ne relevez pas de siège vous-même, s'il vous plaît: Le chœur · Extra · Sous les sièges des chanoines. Sinon, la prochaine étape principale est au-dessus des sièges, à la rangée d'écus peints: Le chœur · Le club le plus fermé d'Europe.

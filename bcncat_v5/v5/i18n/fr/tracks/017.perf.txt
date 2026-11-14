@@ -1,0 +1,24 @@
+@id: 017 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The choir
+@room: The choir · beside a seat with its folding ledge raised
+@type: X
+@title: Le chœur · Extra · Sous les sièges des chanoines
+@where: Dans le chœur, près d'un siège dont l'abattant est déjà relevé, pour que la sculpture dessous soit visible. Ne relevez jamais un siège vous-même.
+@what: The misericords under the canons' seats: daily life, music, dance, games, animals, monkeys aping people, a siren-bird holding a mirror, vanity (F9.5 OK, S9; "siren", never "mermaid"); the encyclopedia's words "detalls de la vida quotidiana, de treball i divertiment" (S9, CA, re-checked; spoken in English, "in Catalan" once); the stick-and-ball game the city speaks of (F9.6 HEDGE, A4; S9 also mentions a ball game; never the word the city uses), its "best test for the keen-eyed" (A4, attributed); look: the carving under the raised ledge, then one more along the row (O25).
+@listen: The everyday world the carvers hid under the canons' seats.
+@brief: A guide letting a listener in on a secret, quiet and amused, bending down to look.
+@pace: medium
+@energy: 2→3→3
+@sources: S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, re-read 14 Nov 2026: many scenes show "detalls de la vida quotidiana, de treball i divertiment"; monkeys acting like humans, a siren-bird holding a mirror as vanity, musicians, dancing, a ball game, CA) ; A4 https://www.barcelona.cat/en/conocebcn/pics/la-catedral-92086000934 (OFF, re-read 14 Nov 2026: "For the most keen-eyed, the best test is to find the hockey game carved into the choir stalls.", EN; the game named here only as "a game with sticks and a ball")
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 017 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Ce chœur cache sous ses sièges certaines de ses sculptures les plus vivantes. Sur les petites consoles appelées miséricordes, sous les sièges rabattables des chanoines, les sculpteurs ont fait entrer le quotidien.
+
+Des singes imitent les gens. Musiciens, danseurs, animaux et jeux. Une sirène tend un miroir, figure de la vanité. L'encyclopédie catalane, dans son histoire de l'art, y voit, en catalan, des «détails de la vie quotidienne, du travail et du jeu».
+
+[amused] La ville ajoute que ces stalles cachent quelque part un jeu avec des bâtons et une balle. Selon son guide de la cathédrale, le trouver est la meilleure épreuve pour les yeux perçants.
+
+[pause] Regardez la sculpture sous l'abattant relevé devant vous. Qui est-ce, et que fait ce personnage? Puis trouvez-en une autre dans la rangée, et comparez les deux.
+
+Levez les yeux, au-dessus des sièges, vers la rangée d'écus peints: Le chœur · Le club le plus fermé d'Europe.

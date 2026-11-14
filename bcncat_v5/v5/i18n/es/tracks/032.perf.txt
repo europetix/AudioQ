@@ -1,6 +1,6 @@
 @id: 032 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · at the doorway of the chapel of Santa Llúcia [O20]
+@room: The cloister · at the doorway of the chapel of Santa Llúcia
 @type: R
 @title: El claustro — Santa Llúcia, más antigua que la catedral
 @where: En la entrada de la capilla de Santa Llúcia, en una esquina del claustro, en la misma galería que el museo de la Sala Capitular. Quédese en la entrada salvo que se permita claramente entrar.

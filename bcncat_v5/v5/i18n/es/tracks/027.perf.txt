@@ -1,6 +1,6 @@
 @id: 027 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: The cloister door · beside the white marble doorway, inside the church, the choir in view [O2]
+@room: The cloister door · beside the white marble doorway, inside the church, the choir in view
 @type: W
 @title: La puerta del claustro — El verano de 1936
 @where: Dentro de la iglesia, junto a la entrada de mármol blanco al claustro, en el tramo a la derecha del altar mayor mirándolo. Sin estorbar la puerta, con el coro a la vista al otro lado de la iglesia.

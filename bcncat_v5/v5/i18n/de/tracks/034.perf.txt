@@ -1,6 +1,6 @@
 @id: 034 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The Chapter Hall
-@room: The Chapter Hall · in front of Bermejo's Pietà [O21]
+@room: The Chapter Hall · in front of Bermejo's Pietà
 @type: W
 @title: Der Kapitelsaal — Der Heilige mit Brille
 @where: Im Museum im Kapitelsaal, vor der gemalten Tafel des toten Christus auf dem Schoß seiner Mutter, Bermejos Pietà. Treten Sie etwas zurück, damit auch andere sehen können.

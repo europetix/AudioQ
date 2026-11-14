@@ -1,6 +1,6 @@
 @id: 025 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb [O5, O17]
+@room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb
 @type: R
 @title: Hinter dem Hochaltar — Der Heilige, der auf seinem Mantel segelte
 @where: Im Chorumgang, an der Kapelle, deren Schild Sant Ramon de Penyafort nennt, mit seinem Grab im Blick. Findet sich kein Schild, irgendwo im Umgang.

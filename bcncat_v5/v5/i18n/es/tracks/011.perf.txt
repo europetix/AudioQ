@@ -1,6 +1,6 @@
 @id: 011 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Up the left aisle
-@room: The Sant Iu door · inside, near the side door, the organ in the gallery above [O18]
+@room: The Sant Iu door · inside, near the side door, the organ in the gallery above
 @type: W
 @title: La puerta de Sant Iu — Un sarraceno bajo el órgano
 @where: Dentro de la iglesia, cerca de la puerta lateral de Sant Iu, hacia el fondo de la nave izquierda mirando al altar mayor, con el gran órgano en su tribuna sobre la puerta. No estorbe la puerta ni la capilla del ascensor de al lado.

@@ -1,0 +1,28 @@
+@id: 005 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The square and the facade
+@room: The facade · same spot
+@type: R
+@title: Die Fassade — Der Entwurf, der verlor
+@where: Dieselbe Stelle auf dem Platz, mit Blick auf die Front, weit genug zurück, um den Laternenturm dahinter aufragen zu sehen.
+@what: Joan Martorell's rejected entry, with popular and press support, turned down by the Royal Academy of San Fernando on "rather weak grounds" (F5.6 OK, S24, S25, A7); helped by the very young Lluís Domènech i Montaner and Antoni Gaudí, "drafted by Antoni Gaudí" (F5.7 OK, A7, S25); the winner under Josep Oriol Mestres's name, the paymaster's hand in it (F5.8 HEDGE, safe wording); critics: the lantern tower borrowed from the loser (F5.20 OK, S24, S25); Mestres died and August Font took over (F5.14 OK, S24, optional, used). Girona's marquisate (F5.11) left out: not re-read. No dates (004 has them).
+@listen: Gaudí did work on this facade, on paper, for the design that lost, and the winners were accused of borrowing from it.
+@brief: A guide letting the listener in on a bit of gossip; wry and conspiratorial, never taking sides.
+@pace: medium
+@energy: 3→4→3
+@sources: S24 https://www.arquitecturacatalana.cat/en/works/facana-principal-i-cimbori-de-la-catedral-de-barcelona (SEC, COAC, re-read 14 Nov 2026: the Royal Academy of Fine Arts of San Fernando rejected Martorell's design on "rather weak grounds"; the lantern tower drew criticism for "many elements reminiscent of the Martorell design"; after Mestres died, August Font became the cathedral's architect, EN) ; S25 https://www.ub.edu/web/ub/en/menu_eines/noticies/2020/02/028.html (SEC, UB, re-read 14 Nov 2026: "The project by Martorell, drafted by Antoni Gaudí, had popular and press support"; "other elements from Martorell were added, which received many critiques because it was seen as an appropriation of ideas from the rival.", EN) ; A7 https://www.barcelona.cat/museuhistoria/sites/default/files/guiagothic.pdf (OFF, MUHBA, re-read 14 Nov 2026: Martorell's entry "contó con la asistencia de unos muy jóvenes Lluís Domènech i Montaner y Antoni Gaudí"; "El proyecto ganador fue el que presentó el arquitecto conservador del edificio, Josep Oriol Mestres", ES)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 005 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Das Publikum liebte den Entwurf, der verlor. Joan Martorells Beitrag war höher und reicher, und er hatte Volk und Presse hinter sich. Die Königliche Akademie in Madrid lehnte ihn trotzdem ab, aus „eher schwachen Gründen“, sagt der Katalog der Architektenkammer.
+
+Joan Martorell hatte Hilfe von zwei sehr jungen Architekten. Der eine war Lluís Domènech i Montaner. Der andere war Antoni Gaudí. Die Universität Barcelona spricht von einem Projekt, „entworfen von Antoni Gaudí“. Gaudí hat also tatsächlich für diese Front gezeichnet. Nur auf dem Papier. Und er verlor.
+
+Der Entwurf, der gewann, trug den Namen des Kathedralarchitekten Josep Oriol Mestres. Doch auch der Geldgeber hatte bei der Zeichnung die Hand im Spiel.
+
+[pause] Dann die Wende. Als die neue Front entstand, sagten Kritiker, die Gewinner hätten sich still beim Verlierer bedient. Am lautesten war die Klage über den Laternenturm. Darin, sagten sie, stecke zu viel Joan Martorell.
+
+Mestres starb, während die Arbeiten noch liefen, und ein anderer Architekt, August Font, übernahm sie.
+
+[wry] Schauen Sie jetzt hinauf, hinter die Front, zum Laternenturm, der über der Tür aufragt. Hatten die Kritiker recht, dann begann ein Teil dessen, was Sie sehen, auf der Seite der Verlierer.
+
+Steigen Sie nun die Stufen zum Hauptportal hinauf und gehen Sie hinein. Bleiben Sie gleich hinter dem Eingang stehen, aus dem Weg der Hereinkommenden, und schauen Sie geradeaus durch das Kirchenschiff: Hinter dem Hauptportal · Ein Turm über der Tür.

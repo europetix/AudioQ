@@ -1,9 +1,9 @@
 @id: 014 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The roof · on the terraces, the lantern tower over the main door in view [O7]
+@room: The roof · on the terraces, the lantern tower over the main door in view
 @type: W
 @title: The roof — Saint Helena on the lantern
-@where: On the roof terraces, on the walkway, with the lantern tower over the main door in front of you and the statue on its top in view; keep to the walkway and out of the way of people passing. [O7: "Look for the beasts among them." is one separate cuttable sentence, kept only if O7 photographs one of the gargoyle beasts; nothing else depends on it; O3]
+@where: On the roof terraces, on the walkway, with the lantern tower over the main door in front of you and the statue on its top in view; keep to the walkway and out of the way of people passing.
 @what: Saint Helena with the Holy Cross on top of the cimbori, carved in 1910 by Eduard B. Alentorn (G54 OK OFF, GO2; F5.19; O6 "coronat per la imatge de Santa Helena sostenint la Santa Creu"); Helena, mother of Constantine, who found the True Cross as the story goes (GO2, told as "the story goes"); the cathedral of the Holy Cross (F7.1, G56); the facade's patrons, the Girona family, devoted to her, many bearing her name (GO2; spoken as "the family of the banker who paid for the front"); callback to the lantern you stood under (006, safe); around you: the two bell towers, one over the Sant Iu door with the clock, one over the cloister door (F11.2 OK; which is which from here: O7), the two side pinnacles, the cloister below (F17.5 OK, O6, O7 [OFF]); the Benedicció del Terme, every year in early May, from the cross on the apse roof (F11.28 OK OFF, O2; G55 OK OFF DATED, GO3); gargoyles without naming animals (F4.16 HEDGE, G65: none named until O7). Audit fixes, 14 Nov 2026: the towers now a callback to 012; the cloister line cut (015 is its home); 'Gothic' dropped from the pinnacles; see notes/AUDIT_FIXES.md.
 @listen: Why a woman with a cross stands on the lantern tower, and the cross at the far end from which the whole city is blessed once a year.
 @brief: A guide out in the open air at last, pleased and unhurried, pointing things out on the roof one by one.

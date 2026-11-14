@@ -1,9 +1,9 @@
 @id: 021 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The crypt
-@room: The crypt · at the top of the stair down to the crypt, in front of the high altar [O10]
+@room: The crypt · at the top of the stair down to the crypt, in front of the high altar
 @type: W
 @title: The crypt — Thirteen, according to tradition
-@where: At the top of the stair that goes down to the crypt, in front of the high altar, standing to one side so the steps stay clear. [O10, O2, O24: "…the choir screen among them" may be added to the cross sentence only if O24 finds the X-shaped cross on a panel]
+@where: At the top of the stair that goes down to the crypt, in front of the high altar, standing to one side so the steps stay clear.
 @what: Her name, "the well-spoken one" (F7.2 OK, A9); in the legend she answers Dacian with words and reason (A9); "according to tradition" a girl of thirteen from Sarrià who left her parents' home, persecution of 304, the governor Dacian (F7.3, O3, A9; never "the governor of Dacia", G79); thirteen tortures, one per year, as the story goes (F7.4 LEGEND, S18, A9); the oldest written account names three: the whips, the cross and fire (F7.7 OK as the passio, S5); crucified naked on an X-shaped cross (F7.5, A9); callback to the choir screen (009, safe in E F); optional barrel and street (F7.6 LEGEND, S18), cut for length; the turn: A9's "doubtful" and A10's "a single legend claimed by two different places" (F7.8 HEDGE, attributed; A10 now says more bluntly that everything suggests Barcelona's did not exist: not used, F18.24); a century ago Barcelona's historians doubted her (G66, GS14); the early-Christian cemetery under Santa Maria del Mar used to argue for an early cult (G67 HEDGE: "argue"); a 2023 study still treats it as open (G68, GS15); F7.8's two safe lines; the record: cult by the end of the 6th century, written story from the 7th (F7.9 OK, S5); co-patroness of the cathedral, the archdiocese and the city (F7.16 OK, O13; S18). Audit fixes, 14 Nov 2026: 'Barcelona has never had any doubt', 'naked' and the choir-screen callback cut (facts M1, route L7); see notes/AUDIT_FIXES.md.
 @listen: The legend of the girl of thirteen, told as a legend, and the honest question of whether she lived at all.
 @brief: A guide at the top of the crypt stair, quiet and respectful, plain about the legend and fair about the doubt.

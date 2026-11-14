@@ -1,9 +1,9 @@
 @id: 025 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb [O5, O17]
+@room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb
 @type: R
 @title: Behind the high altar — The saint who sailed on his cloak
-@where: In the ambulatory, at the chapel whose sign names Sant Ramon de Penyafort, with his tomb in view; if no sign is found, anywhere along the walkway. [O5, O17: placement pending, no source names the chapel; O16, O2, ALT-P]
+@where: In the ambulatory, at the chapel whose sign names Sant Ramon de Penyafort, with his tomb in view; if no sign is found, anywhere along the walkway.
 @what: Sant Ramon de Penyafort: the Sóller voyage as legend (G49, GO1); died 1275 at Santa Caterina, canonised 1601 (spoken "more than three centuries later"), patron of Catalan lawyers, feast 7 January (G49 OK OFF); 1835: the convent's great fire and demolition 1836–37, the tomb moved to the cathedral (G50, GS12; F10.24; GO1); the Order of Mercy, 1218, "tradition says here" (F10.32 HEDGE; S31: 19 August 1218, the bishop of Barcelona, Pere Nolasc and thirteen knights, Penyafort advising, Jaume I helping, place not stated). Bishop not named (lint: Palou). Audit fixes, 14 Nov 2026: the lawyers and feast-day line cut; the 1835 order follows GO1 (facts S6); see notes/AUDIT_FIXES.md.
 @listen: A saint who, the story goes, sailed home on his cloak; why his tomb came here; and the order for ransoming captives that tradition says began in this cathedral.
 @brief: A guide at a chapel doorway, amused by the legend but fond of it, then plain and careful about what the sources say.

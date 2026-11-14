@@ -1,6 +1,6 @@
 @id: 009 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Inside the main door
-@room: The choir screen · a few steps back from the white marble screen at the end of the choir, facing it [O24]
+@room: The choir screen · a few steps back from the white marble screen at the end of the choir, facing it
 @type: R
 @title: Die Chorschranke — Der Bildhauer, der nie zurückkam
 @where: Im Kirchenschiff, ein paar Schritte vor der weißen Marmorschranke, die das Ende des Chors abschließt, ihr zugewandt, mit dem Mitteltor und den Reliefs zu beiden Seiten im Blick.

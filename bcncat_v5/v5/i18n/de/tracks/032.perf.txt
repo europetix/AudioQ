@@ -1,6 +1,6 @@
 @id: 032 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · at the doorway of the chapel of Santa Llúcia [O20]
+@room: The cloister · at the doorway of the chapel of Santa Llúcia
 @type: R
 @title: Der Kreuzgang — Santa Llúcia, älter als die Kathedrale
 @where: Am Eingang der Kapelle Santa Llúcia, an einer Ecke des Kreuzgangs, am selben Gang wie das Museum im Kapitelsaal. Bleiben Sie am Eingang, außer Besucher dürfen erkennbar hinein.

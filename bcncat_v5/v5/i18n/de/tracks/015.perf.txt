@@ -1,6 +1,6 @@
 @id: 015 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The roof · where the old town and the cloister are in view [O7]
+@room: The roof · where the old town and the cloister are in view
 @type: R
 @title: Das Dach — Die Altstadt von oben
 @where: Auf den Terrassen, an einer Stelle des Laufwegs, von der Sie über die Dächer der Altstadt und hinunter in den Garten des Kreuzgangs sehen.

@@ -1,6 +1,6 @@
 @id: 024 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: Behind the high altar · in the ambulatory, the walkway behind the altar, the tall windows in view [O17]
+@room: Behind the high altar · in the ambulatory, the walkway behind the altar, the tall windows in view
 @type: W
 @title: Detrás del altar mayor — Empezaron por este extremo
 @where: En la girola, el pasillo curvo detrás del altar mayor, a un lado del paso, donde pueda mirar arriba, a las altas vidrieras sobre sus capillas.

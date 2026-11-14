@@ -1,6 +1,6 @@
 @id: 015 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The roof · where the old town and the cloister are in view [O7]
+@room: The roof · where the old town and the cloister are in view
 @type: R
 @title: Las terrazas — El casco antiguo desde arriba
 @where: En las terrazas, en un punto de la pasarela desde el que se ven los tejados del casco antiguo y, abajo, el jardín del claustro.

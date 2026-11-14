@@ -1,6 +1,6 @@
 @id: 031 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · near the Pietat door, a carved capital in view [O9, O19]
+@room: The cloister · near the Pietat door, a carved capital in view
 @type: R
 @title: El claustro — Una Biblia en los capiteles
 @where: En la galería del claustro cerca de la puerta de la Piedad, la puerta a la calle con una Piedad tallada encima, donde también se vea el capitel tallado de un pilar.

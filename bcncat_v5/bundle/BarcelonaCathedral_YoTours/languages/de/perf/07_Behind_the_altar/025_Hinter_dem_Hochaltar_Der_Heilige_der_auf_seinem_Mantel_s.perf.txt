@@ -1,0 +1,26 @@
+@id: 025 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Behind the high altar
+@room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb
+@type: R
+@title: Hinter dem Hochaltar — Der Heilige, der auf seinem Mantel segelte
+@where: Im Chorumgang, an der Kapelle, deren Schild Sant Ramon de Penyafort nennt, mit seinem Grab im Blick. Findet sich kein Schild, irgendwo im Umgang.
+@what: Sant Ramon de Penyafort: the Sóller voyage as legend (G49, GO1); died 1275 at Santa Caterina, canonised 1601 (spoken "more than three centuries later"), patron of Catalan lawyers, feast 7 January (G49 OK OFF); 1835: the convent's great fire and demolition 1836–37, the tomb moved to the cathedral (G50, GS12; F10.24; GO1); the Order of Mercy, 1218, "tradition says here" (F10.32 HEDGE; S31: 19 August 1218, the bishop of Barcelona, Pere Nolasc and thirteen knights, Penyafort advising, Jaume I helping, place not stated). Bishop not named (lint: Palou). Audit fixes, 14 Nov 2026: the lawyers and feast-day line cut; the 1835 order follows GO1 (facts S6); see notes/AUDIT_FIXES.md.
+@listen: A saint who, the story goes, sailed home on his cloak; why his tomb came here; and the order for ransoming captives that tradition says began in this cathedral.
+@brief: A guide at a chapel doorway, amused by the legend but fond of it, then plain and careful about what the sources say.
+@pace: medium
+@energy: 3→3→2
+@sources: GO1 https://catedralbcn.org/en/worship-and-prayer/saints/saint-raymond-of-penyafort/ (OFF, re-read 14 Nov 2026: "retired to the convent of Saint Catherine in Barcelona and died there in 1275"; "canonized on 29 April 1601 in Rome by Pope Clement VIII"; "patron saint of Catalan lawyers"; "Every 7th of January"; "the legend of him sailing by sea from Sóller to Barcelona on his own blanket"; "In 1835 the convent of Saint Catherine was practically abandoned", the tomb "moved to the Cathedral of Barcelona"; no chapel named) ; GS12 https://www.enciclopedia.cat/lart-gotic-a-catalunya/el-convent-de-santa-caterina-de-barcelona (SEC-enc, re-read: 1835 "es produí un gran incendi"; "entre el desembre del 1836 i el febrer del 1837 s'enderrocà el conjunt"; explosives used on the church vault; his remains deposited there in 1608) ; S31 https://www.enciclopedia.cat/gran-enciclopedia-catalana/pere-nolasc (SEC-enc, re-read: "El 19 d'agost d'aquell any el bisbe de Barcelona, Berenguer de Palou"; "amb l'assessorament de Ramon de Penyafort i l'ajuda de Jaume I"; "donà l'hàbit blanc a Pere Nolasc i a tretze cavallers"; place not stated) ; S30 https://beteve.cat/va-passar-aqui/catedral-barcelona-historia/ (SEC, via FACTS F10.32, not re-read: the Order of Mercy founded inside the cathedral, hence "tradition says")
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 025 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Die Geschichte erzählt, Ramon de Penyafort habe einmal das Meer von Sóller auf Mallorca bis nach Hause nach Barcelona überquert, segelnd auf seinem eigenen Mantel. Die Seite der Kathedrale, die es als Legende erzählt, nennt ihn seine Decke.
+
+Er war Dominikaner. Er starb 1275 in Barcelona, im Kloster Santa Caterina, und wurde mehr als drei Jahrhunderte nach seinem Tod in Rom heiliggesprochen.
+
+Warum also liegt sein Grab hier und nicht in seinem Kloster? 1835, einem Jahr der Unruhen in der Stadt, beschädigte ein großer Brand das Kloster, und es wurde fast ganz aufgegeben. Sein Grab wurde hierher gebracht. Bald darauf wurde das Kloster abgerissen, und mit Sprengstoff brachte man das Gewölbe seiner Kirche zum Einsturz.
+
+[pause] Die Überlieferung verbindet ihn mit etwas, das in dieser Kathedrale begann. 1218, so die Geschichte, gründete der Bischof von Barcelona hier einen Orden zum Freikauf von Gefangenen, den Mercedarierorden. Die katalanische Enzyklopädie nennt den Tag, den neunzehnten August, und die Namen. Der Bischof übergab das weiße Ordenskleid an Pere Nolasc und dreizehn Ritter, wobei Ramon de Penyafort beriet und König Jaume der Erste half. Wo es geschah, sagt die Enzyklopädie nicht. Hier, sagt die Überlieferung.
+
+Wenn ein Schild neben einer Kapelle ihn nennt, finden Sie dort sein Grab.
+
+Gehen Sie weiter herum zur rechten Seite des Hochaltars, mit Blick zum Altar. Schauen Sie an der Sakristeitür hoch oben an der Wand nach zwei bemalten Holzkästen: Die Sakristeitür · Die Stifter, die exkommuniziert wurden.

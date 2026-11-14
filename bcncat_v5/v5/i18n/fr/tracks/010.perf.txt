@@ -1,0 +1,24 @@
+@id: 010 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: The baptistery · at the chapel's entrance, the font and its tall window in view
+@type: W
+@title: Le baptistère — Baptisés ici
+@where: À l'entrée de la première chapelle à gauche quand vous faites face au maître-autel, près de la porte principale, avec les fonts et le haut vitrail en vue. Écartez-vous si des fidèles s'y trouvent.
+@what: The early baptistery found in 1968 under the cathedral (F1.7 OK, A1, S6), later rebuilt as an eight-sided pool (F1.8 safe wording, S6); not visible, never "go and see"; the window of Saint Michael and Noli me tangere, Gil de Fontanet, 1495, from a design by Bartolomé Bermejo, in place, "the most important of all the Cathedral windows" (F4.14 OK, O4; scene not described before O14); forward to 034 (safe); Antoni Canet's carved stone washing cupboard (levador) of 1406, his first surviving work, the vault closed c. 1420, on corbels as heads: a girl with a low neckline and a necklace, a hooded man with a full beard (G44 OK, GS10; O14); "a 15th-century font" (F10.28 HEDGE, S34; no maker, no 1433); the plaque of April 1493 and its doubtful date (F10.29 HEDGE, S34; ONLY if O14 finds the plaque, else cut that paragraph).
+@listen: The chapel where the cathedral baptises, with a window designed by a great painter, two stone faces to find, and a plaque about Columbus with a doubtful date.
+@brief: A guide at a chapel entrance, quietly enthusiastic; curious at the hidden font, delighted at the faces, honest at the plaque.
+@pace: medium
+@energy: 2→3→3
+@sources: A1 https://www.bcn.cat/museuhistoriaciutat/docs/Guia_Centre_MUHBA_ANG.pdf (OFF, MUHBA, re-read 14 Nov 2026: "In 1944, part of the early episcopal see was discovered in Carrer dels Comtes, followed in 1968 by its baptistery.", EN) ; S6 https://www.enciclopedia.cat/del-roma-al-romanic/conjunt-episcopal-de-barcelona (SEC, re-read 14 Nov 2026: baptistery "descobert el 1968"; pool first rectangular or cross-shaped, later octagonal, CA) ; O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read 14 Nov 2026: the window, "the most important of all the Cathedral windows", in the baptistery chapel, by Gil de Fontanet from designs by Bartolomé Bermejo, 1495, EN) ; GS10 https://www.enciclopedia.cat/lart-gotic-a-catalunya/antoni-canet-arquitecte-i-escultor (SEC, re-read 14 Nov 2026: May 1406, "los capitells del levador de la capella de les Fonts"; "un bust de noia, que llueix un escot ampli i un collaret"; "una testa masculina amb caputxa i barba generosa"; "La primera obra conservada d'Antoni Canet", CA) ; S34 https://www.eldebate.com/espana/cataluna/barcelona/20260528/papa-leon-xiv-conocera-espana-kilometro-cero-cristianismo-america_422265_amp.html (SEC, El Debate, re-read 14 Nov 2026: font "construida por Onofre Julià en 1433"; "una lápida situada en la capilla"; the six "han renacido en el bautismo" in April 1493; "parece haber una imprecisión en cuanto a las fechas", ES)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 010 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En 1968, sous le sol de la cathédrale, des archéologues ont trouvé les fonts où l'on baptisa les premiers chrétiens de Barcelone. C'était un bassin abrité par son propre petit édifice, rebâti ensuite en octogone. On ne peut le voir aujourd'hui. Il reste sous le sol, caché.
+
+Voici le baptistère, et ses fonts sont du quinzième siècle. Levez les yeux vers son haut vitrail. Il montre saint Michel et la scène appelée Noli me tangere, en latin «Ne me touche pas». Gil de Fontanet l'a réalisé en 1495, d'après un dessin du peintre Bartolomé Bermejo, et il est toujours à sa place d'origine. La cathédrale le dit «le plus important de tous les vitraux de la cathédrale». Bermejo a aussi peint la Pietà que vous verrez au musée de la salle capitulaire.
+
+[warmly] Regardez plus bas: une armoire-lavabo de pierre sculptée du début du quinzième siècle. C'est la première œuvre conservée du sculpteur Antoni Canet, plus ancienne que la voûte de la chapelle au-dessus. Elle repose sur des consoles sculptées en têtes humaines. L'une est une jeune fille, décolletée, avec un collier. L'autre, un homme encapuchonné, à la barbe généreuse. Trouvez la jeune fille.
+
+[pause] Une plaque rappelle ici le baptême de six personnes que Colomb ramena des Caraïbes, en avril 1493. La date qu'elle porte n'est peut-être pas exacte.
+
+Remontez ce bas-côté, à gauche quand vous faites face au maître-autel, le long de ses chapelles, jusqu'à la porte latérale, vers le fond: la porte de Sant Iu, que domine le grand orgue. Restez près de la porte, à l'écart du passage: La porte de Sant Iu · Un Sarrasin sous l'orgue.

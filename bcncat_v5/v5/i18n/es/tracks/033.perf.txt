@@ -1,6 +1,6 @@
 @id: 033 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · at the room called Jewish memory, the Old Archive of 1535, its place to be confirmed on site [O6]
+@room: The cloister · at the room called Jewish memory, the Old Archive of 1535, its place to be confirmed on site
 @type: X
 @title: El claustro · Extra · Memoria judía
 @where: En la sala llamada Memoria judía, el Archivo Viejo de 1535, o en su puerta, con sus documentos expuestos. Su ubicación debe confirmarse in situ, y no se da por hecho que se abra al claustro.

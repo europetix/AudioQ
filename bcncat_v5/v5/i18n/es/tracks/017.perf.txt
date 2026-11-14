@@ -1,6 +1,6 @@
 @id: 017 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · beside a seat with its folding ledge raised [O25]
+@room: The choir · beside a seat with its folding ledge raised
 @type: X
 @title: El coro · Extra · Bajo los asientos de los canónigos
 @where: Dentro del coro, junto a uno de los asientos con la repisa abatible ya levantada, para que se vea la talla de debajo. Nunca levante usted un asiento.

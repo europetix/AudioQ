@@ -1,6 +1,6 @@
 @id: 017 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · beside a seat with its folding ledge raised [O25]
+@room: The choir · beside a seat with its folding ledge raised
 @type: X
 @title: Der Chor · Extra · Unter den Sitzen der Domherren
 @where: Im Chor, neben einem der Sitze, deren Klappbrett schon hochgeklappt ist, sodass die Schnitzerei darunter zu sehen ist. Klappen Sie nie selbst einen Sitz hoch.

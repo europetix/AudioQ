@@ -1,0 +1,26 @@
+@id: 014 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The roof
+@room: The roof · on the terraces, the lantern tower over the main door in view
+@type: W
+@title: Les toits — Sainte Hélène sur la lanterne
+@where: Sur les terrasses des toits, sur la passerelle, avec devant vous la tour-lanterne au-dessus de la porte principale et la statue à son sommet en vue. Restez sur la passerelle, à l'écart des passants.
+@what: Saint Helena with the Holy Cross on top of the cimbori, carved in 1910 by Eduard B. Alentorn (G54 OK OFF, GO2; F5.19; O6 "coronat per la imatge de Santa Helena sostenint la Santa Creu"); Helena, mother of Constantine, who found the True Cross as the story goes (GO2, told as "the story goes"); the cathedral of the Holy Cross (F7.1, G56); the facade's patrons, the Girona family, devoted to her, many bearing her name (GO2; spoken as "the family of the banker who paid for the front"); callback to the lantern you stood under (006, safe); around you: the two bell towers, one over the Sant Iu door with the clock, one over the cloister door (F11.2 OK; which is which from here: O7), the two side pinnacles, the cloister below (F17.5 OK, O6, O7 [OFF]); the Benedicció del Terme, every year in early May, from the cross on the apse roof (F11.28 OK OFF, O2; G55 OK OFF DATED, GO3); gargoyles without naming animals (F4.16 HEDGE, G65: none named until O7). Audit fixes, 14 Nov 2026: the towers now a callback to 012; the cloister line cut (015 is its home); 'Gothic' dropped from the pinnacles; see notes/AUDIT_FIXES.md.
+@listen: Why a woman with a cross stands on the lantern tower, and the cross at the far end from which the whole city is blessed once a year.
+@brief: A guide out in the open air at last, pleased and unhurried, pointing things out on the roof one by one.
+@pace: medium
+@energy: 3→4→3
+@sources: GO2 https://catedralbcn.org/en/?p=2425 (OFF, Saint Helena, re-read 14 Nov 2026: statue sculpted in 1910 by Eduardo Bautista Alentorn, Eduard Baptista Alentorn in the Catalan text, "stands atop the cimborio"; "the Girona family, who were the patrons for the main façade of the Cathedral, were devoted to Saint Helena"; "many members of the family bore that name"; Helena, mother of Constantine, "miraculously found the True Cross", EN) ; GO3 https://catedralbcn.org/wp-content/uploads/2022/03/Full-Mensual-MAig-2026.pdf (OFF, re-read 14 Nov 2026: "Benedicció del Terme de la Ciutat, des de la Creu de l'absis al terrat", Monday 4 May 2026, Solemnitat de la Santa Creu, CA; DATED) ; O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read 14 Nov 2026: "On 3 May at 9:00 am the municipal district of Barcelona is blessed from the rooftops of the Cathedral", EN; no hour spoken) ; O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: from the terraces, the two bell towers, the two lateral pinnacles, the cloister and the cimbori crowned by Saint Helena holding the Holy Cross, CA) ; O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read 14 Nov 2026: one tower over the door of Saint Ivo, the other over the interior entryway to the cloister, EN)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 014 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Au sommet de la tour-lanterne se dresse une femme qui tient une croix. C'est sainte Hélène, sculptée en 1910 par le sculpteur Eduard Alentorn, et elle couronne la lanterne sous laquelle vous étiez en entrant.
+
+[curious] Pourquoi elle? Hélène était la mère de l'empereur Constantin, et l'on raconte qu'elle a trouvé la croix du Christ elle-même, à Jérusalem. Or nous sommes dans la cathédrale de la Sainte-Croix. Et il y a aussi une raison de famille. La cathédrale dit que la famille du banquier qui a payé la façade vouait un culte à sainte Hélène, et que beaucoup des siens portaient son nom.
+
+[pause] Tournez-vous lentement et regardez les toits autour de vous. Voici les deux clochers octogonaux dont on vous a parlé à l'ascenseur. Voici les deux hauts pinacles qui encadrent l'église.
+
+[warmly] Une fois par an, ces toits ont une mission. Chaque année début mai, à la fête de la Sainte-Croix, toute la ville est bénie d'ici. En catalan, on l'appelle la Benedicció del Terme, la bénédiction du territoire de la ville. Elle est donnée depuis la croix sur le toit de l'abside, à l'autre bout de l'église, derrière le maître-autel. Cherchez cette croix sur les toits.
+
+En marchant, guettez les gargouilles au bord des toits, ces gouttières de pierre sculptées qui rejettent l'eau de pluie loin des murs. Cherchez les bêtes parmi elles.
+
+Continuez sur les terrasses jusqu'à un endroit d'où vous voyez la vieille ville et, en bas, le cloître: Les toits · La vieille ville d'en haut.

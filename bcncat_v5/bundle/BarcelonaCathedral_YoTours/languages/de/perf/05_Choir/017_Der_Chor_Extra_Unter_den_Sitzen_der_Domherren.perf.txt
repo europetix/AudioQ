@@ -1,0 +1,24 @@
+@id: 017 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The choir
+@room: The choir · beside a seat with its folding ledge raised
+@type: X
+@title: Der Chor · Extra · Unter den Sitzen der Domherren
+@where: Im Chor, neben einem der Sitze, deren Klappbrett schon hochgeklappt ist, sodass die Schnitzerei darunter zu sehen ist. Klappen Sie nie selbst einen Sitz hoch.
+@what: The misericords under the canons' seats: daily life, music, dance, games, animals, monkeys aping people, a siren-bird holding a mirror, vanity (F9.5 OK, S9; "siren", never "mermaid"); the encyclopedia's words "detalls de la vida quotidiana, de treball i divertiment" (S9, CA, re-checked; spoken in English, "in Catalan" once); the stick-and-ball game the city speaks of (F9.6 HEDGE, A4; S9 also mentions a ball game; never the word the city uses), its "best test for the keen-eyed" (A4, attributed); look: the carving under the raised ledge, then one more along the row (O25).
+@listen: The everyday world the carvers hid under the canons' seats.
+@brief: A guide letting a listener in on a secret, quiet and amused, bending down to look.
+@pace: medium
+@energy: 2→3→3
+@sources: S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, re-read 14 Nov 2026: many scenes show "detalls de la vida quotidiana, de treball i divertiment"; monkeys acting like humans, a siren-bird holding a mirror as vanity, musicians, dancing, a ball game, CA) ; A4 https://www.barcelona.cat/en/conocebcn/pics/la-catedral-92086000934 (OFF, re-read 14 Nov 2026: "For the most keen-eyed, the best test is to find the hockey game carved into the choir stalls.", EN; the game named here only as "a game with sticks and a ball")
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 017 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[conspiratorial] Einige der lebendigsten Schnitzereien dieses Chors sind unter den Sitzen versteckt. Auf den kleinen Stützbrettern, Miserikordien genannt, unter den Klappsitzen der Domherren, ließen die Schnitzer den Alltag herein.
+
+Da sind Affen, die Menschen nachäffen. Da sind Musikanten und Tänzer, Tiere und Spiele. Da ist eine Sirene, die einen Spiegel hochhält, ein Bild der Eitelkeit. Die Kunstgeschichte der katalanischen Enzyklopädie beschreibt diese Szenen auf Katalanisch als „Details des täglichen Lebens, der Arbeit und des Vergnügens“.
+
+[amused] Die Stadt fügt hinzu, irgendwo in diesem Gestühl gebe es ein Spiel mit Stöcken und Ball. Ihr Führer zur Kathedrale nennt das Aufspüren die beste Probe für scharfe Augen.
+
+[pause] Betrachten Sie die Schnitzerei unter dem hochgeklappten Brett vor Ihnen. Wer ist das, und was geschieht da? Suchen Sie dann noch eine weiter in der Reihe, und vergleichen Sie beide.
+
+Schauen Sie jetzt hinauf, über die Sitze, zur Reihe der gemalten Wappenschilde: Der Chor · Europas exklusivster Club.

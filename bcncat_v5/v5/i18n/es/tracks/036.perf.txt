@@ -1,6 +1,6 @@
 @id: 036 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The way out
-@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way [O1, O23]
+@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way
 @type: CLOSE
 @title: La puerta de Santa Eulalia — Diecisiete siglos en una esquina
 @where: Justo dentro de la puerta de Santa Eulalia, la puerta del claustro a Carrer del Bisbe, a un lado para que la gente pueda entrar y salir.

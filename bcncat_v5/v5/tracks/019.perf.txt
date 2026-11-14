@@ -1,9 +1,9 @@
 @id: 019 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · same place, among the shields (or at the entrance if closed) [O8]
+@room: The choir · same place, among the shields (or at the entrance if closed)
 @type: W
 @title: The choir — Four days in March
-@where: Same place as the last stop, inside the choir with the painted shields above the upper seats in view; if the choir is closed, at its entrance. [O8, O2, ALT-M]
+@where: Same place as the last stop, inside the choir with the painted shields above the upper seats in view; if the choir is closed, at its entrance.
 @what: 5 March 1519, about three in the afternoon, the procession for the vespers of Saint Andrew, the order's patron, with trumpets, clarions, sackbuts and shawms (G3 OK SEC, GS1 p. 169; never "scarlet"); the 1519 relation quoted in Spanish: "y luego los cantores de la capilla, y el gran órgano, cantaron muy solemnemente vísperas y completas" (G4 OK SEC, GS1 p. 169; "in Spanish" once); not today's organ, which came about twenty years later (G4 note, F11.17–F11.18; callback 011, safe in F); the days: patron saint, the dead brothers with a Requiem, a Mass of Our Lady on the last morning, 8 March (G5 OK, GS1 p. 168 and n. 24); the Gideon tapestries brought for the ceremony, which changed the choir's sound (G11 OK SEC, GS1 p. 170; never "from Flanders"; callback 018, Gideon); the knights seated with their arms in the painted stalls (G12 OK, GS1 p. 170); Maximilian's exequies, 2 March 1519 a day of them, catafalque, the royal chapel's platform by the door of the high altar, trumpets silent, bells twice a day (G14 OK SEC, GS1 pp. 164–167, 173; F9.25; never "hung in black", no death date); the news of the imperial election, 6 July 1519, while Charles was in Barcelona (G16 OK SEC, S11 p. 268; spoken "that July").
 @listen: The four days of the knights' chapter in sound: trumpets, singers, tapestries, a funeral before it and the news that came after.
 @brief: A guide bringing an old ceremony back to life, vivid at the procession, hushed at the funeral, lifting again at the news.

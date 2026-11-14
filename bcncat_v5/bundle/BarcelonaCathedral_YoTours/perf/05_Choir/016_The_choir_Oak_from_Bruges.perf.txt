@@ -1,9 +1,9 @@
 @id: 016 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · inside, among the upper stalls (or at the entrance if closed) [O8]
+@room: The choir · inside, among the upper stalls (or at the entrance if closed)
 @type: W
 @title: The choir — Oak from Bruges
-@where: Inside the choir, the enclosure in the middle of the nave, standing where the tall upper row of seats is in view; if the choir is closed, at its entrance, looking in. [O8, O2, ALT-K, ALT-M]
+@where: Inside the choir, the enclosure in the middle of the nave, standing where the tall upper row of seats is in view; if the choir is closed, at its entrance, looking in.
 @what: Q1 / F9.4 OK (S9, old CA, re-checked): the Llibre del cor, "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor" (spoken in English, "in old Catalan" once; never "rode", no route towns); the choir in the middle of the nave, in front of the crypt (F9.1 OK, S7); begun in the 1390s under Bishop Ramon d'Escales (F9.2 HEDGE wording; O7 1390, S9 1394); Sanglada directed the upper stalls 1394–1399, mainly Flemish oak, a team effort, formally finished 5 December 1399 (F9.3 OK, S9; "team effort" paraphrased); callback: Sanglada's alabaster figure of Sant Oleguer (008, safe in F; F10.19, F10.20); optional, used: the lower stalls won by Macià Bonafè against Joan Claperós (F9.7 OK, S10; year spoken as "half a century later"); look: the upper row's seat backs and armrests (O8).
 @listen: How a Barcelona sculptor went to Bruges for the oak of the canons' choir, and the team who carved it.
 @brief: A guide inside a beautiful wooden room, warm and a little proud of the carvers, voice kept low for a working church.

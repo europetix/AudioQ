@@ -1,6 +1,6 @@
 @id: 034 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The Chapter Hall
-@room: The Chapter Hall · in front of Bermejo's Pietà [O21]
+@room: The Chapter Hall · in front of Bermejo's Pietà
 @type: W
 @title: La Sala Capitular — El santo con gafas
 @where: Dentro del museo de la Sala Capitular, ante la tabla pintada de Cristo muerto sobre el regazo de su madre, la Piedad de Bermejo. Apártese un poco para que otros puedan verla.

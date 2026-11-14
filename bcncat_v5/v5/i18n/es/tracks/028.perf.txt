@@ -1,6 +1,6 @@
 @id: 028 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · just through the white marble door, facing back at it [O19]
+@room: The cloister · just through the white marble door, facing back at it
 @type: R
 @title: El claustro — Una puerta de la catedral anterior
 @where: En el claustro, a unos pasos de la puerta de mármol blanco que viene de la iglesia, vuelto hacia ella y sus capiteles tallados.

@@ -1,0 +1,26 @@
+@id: 035 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The Chapter Hall
+@room: The Chapter Hall · beside the monstrance and the stone font
+@type: R
+@title: Der Kapitelsaal — Ein Thron für die Hostie
+@where: Im Museum im Kapitelsaal, neben der großen vergoldeten Monstranz auf ihrem silbernen Sitz, mit dem steinernen Taufbecken mit gelappten Seiten in der Nähe. Gezeigt wird nur, was ausgestellt ist.
+@what: The monstrance, c. 1370–1400 ("the late 1300s"), two tiers, six-sided, gold and gilded silver, pearls and gems, 88 cm; a sapphire and a ruby added while it was being made (G93, GS18; year 1371 cut for the date count); "King Martin's throne": its base since the mid-15th century (O4), in fact a folding bishop's chair of gilded silver with the Barcelona hallmark, the royal link "a late tradition" (F14.16, G94, GS18; tradition, not fact); Corpus 1320, one of the first cities in Christendom (G96; callback 029 safe); the 11th-century lobed font from the Romanesque cathedral (F14.15, F2.8, G92, O7); Huguet's Saint Bernardino and the Guardian Angel, 1465–70 (F14.13, O7); Giuliano di Nofri's terracotta Santa Eulàlia from over the Santa Eulàlia door (F14.14, G92, O7). G97: location conflict, O21 decides (ALT-T). Optional crozier and Lochner relief cut (not confirmed on display; S8 puts the relief in the Sala de Sant Sever). Audit fixes, 14 Nov 2026: the sapphire and ruby cut for length; see notes/AUDIT_FIXES.md.
+@listen: A gold monstrance on a silver seat that tradition calls a king's throne, a font from the older cathedral, and the saint who once stood over the door you'll leave by.
+@brief: A guide in a small treasury, interested and exact, enjoying the gap between the tradition and the object.
+@pace: medium
+@energy: 3→3→3
+@sources: GS18 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-custodia-de-la-catedral-de-barcelona (SEC-enc, re-read 14 Nov 2026: "devia realitzar-se vers els anys 1370-1400"; "d'or i d'argent sobredaurat", "aplicacions de perles i pedreria"; "Fa 88 cm d'alt"; "un sagrari de dos cossos sobreposats", hexagonal; by order of Bishop Berenguer d'Erill "un safir i un balaix" added to the monstrance then being made; "una cadira episcopal plegable d'argent daurat", "Duu punxó de Barcelona", the royal link "tradició tardana"; Barcelona "fou una de les primeres ciutats del món cristià" with a Corpus procession, 1320; called "la custòdia major de la sagristia", current place not stated, CA) ; O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read: the throne "has served as a base for the monstrance since the mid-15th century", EN) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read: "the 11th-century lobed baptism font from the former Romanesque temple"; "the terracotta sculpture of Saint Eulalia by Giuliano di Nofri, from the pediment over the door of Saint Eulalia"; "the Gothic altarpiece of Saint Bernardino and the Guardian Angel (1465-1470) by Jaume Huguet"; "the monstrance, from the late-14th century, made up from the campaign throne of King Martin the Humane", EN)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 035 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Jahrhundertelang trug dieses Stück an Fronleichnam die Hostie durch Barcelonas Straßen. Es ist die große Monstranz der Kathedrale, entstanden im späten vierzehnten Jahrhundert: ein zweistöckiger, sechseckiger Turm aus Gold und vergoldetem Silber, besetzt mit Perlen und Edelsteinen, achtundachtzig Zentimeter hoch.
+
+[curious] Sie steht auf einem silbernen Sitz, genannt Thron König Martins, der seit Mitte des fünfzehnten Jahrhunderts ihr Sockel ist. Die Überlieferung sagt, es sei der Thron König Martins des Humanen gewesen. Die Kunstgeschichte der katalanischen Enzyklopädie nennt das eine späte Überlieferung. Tatsächlich, erklärt sie, ist der Sitz ein klappbarer Bischofsstuhl aus vergoldetem Silber, und er trägt das Beschauzeichen von Barcelona.
+
+Barcelona war, fügt dieselbe Enzyklopädie hinzu, eine der ersten Städte der christlichen Welt mit einer Fronleichnamsprozession, 1320. Es ist dasselbe Fest wie beim tanzenden Ei auf dem Brunnen im Kreuzgang.
+
+Suchen Sie auch ein steinernes Taufbecken mit gelappten Seiten. Es stammt aus dem elften Jahrhundert, aus der romanischen Kathedrale, die vor dieser hier stand.
+
+Zwei weitere Werke zum Suchen: Jaume Huguets Altarbild des heiligen Bernhardin und des Schutzengels, aus den späten 1460er-Jahren, und eine Santa Eulàlia aus Terrakotta von Giuliano di Nofri. Sie stand einst über dem Santa-Eulàlia-Portal, durch das Sie hinausgehen werden.
+
+Verlassen Sie das Museum, und gehen Sie zur Tür des Kreuzgangs zum Carrer del Bisbe, dem Santa-Eulàlia-Portal. Bleiben Sie gleich drinnen stehen, aus dem Weg der Hinausgehenden: Das Santa-Eulàlia-Portal · Siebzehn Jahrhunderte an einer Ecke.

@@ -1,6 +1,6 @@
 @id: 011 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Up the left aisle
-@room: The Sant Iu door · inside, near the side door, the organ in the gallery above [O18]
+@room: The Sant Iu door · inside, near the side door, the organ in the gallery above
 @type: W
 @title: Das Sant-Iu-Portal — Ein Sarazene unter der Orgel
 @where: In der Kirche, nahe dem Sant-Iu-Portal, der Seitentür gegen Ende des linken Seitenschiffs mit Blick zum Hochaltar, die große Orgel auf ihrer Empore hoch über der Tür. Halten Sie die Tür und die Aufzugskapelle daneben frei.

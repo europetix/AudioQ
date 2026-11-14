@@ -1,6 +1,6 @@
 @id: 025 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb [O5, O17]
+@room: Behind the high altar · in the ambulatory, by the chapel with Sant Ramon de Penyafort's tomb
 @type: R
 @title: Detrás del altar mayor — El santo que navegó sobre su capa
 @where: En la girola, en la capilla cuyo letrero nombra a Sant Ramon de Penyafort, con su sepulcro a la vista. Si no hay letrero, en cualquier punto de la girola.

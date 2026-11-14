@@ -1,6 +1,6 @@
 @id: 018 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · inside, where the painted shields above the upper stalls are in view (or at the entrance if closed) [O8]
+@room: The choir · inside, where the painted shields above the upper stalls are in view (or at the entrance if closed)
 @type: W
 @title: Der Chor — Europas exklusivster Club
 @where: Im Chor, dort, wo die Reihe gemalter Wappen über den hohen oberen Sitzen im Blick ist. Ist der Chor geschlossen, an seinem Eingang, mit Blick hinein.

@@ -1,6 +1,6 @@
 @id: 002 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The square and the facade
-@room: The Pla de la Seu · at the end of the square by the two Roman towers, the cathedral in view [O13]
+@room: The Pla de la Seu · at the end of the square by the two Roman towers, the cathedral in view
 @type: W
 @title: El Pla de la Seu — Los obispos nunca se fueron
 @where: En el extremo de la plaza donde se alzan dos viejas torres de piedra, cerca de ellas pero lejos de la multitud, vuelto hacia la fachada de la catedral.

@@ -1,6 +1,6 @@
 @id: 030 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · on a walk with the pond in view (the far side if crowded) [O9]
+@room: The cloister · on a walk with the pond in view (the far side if crowded)
 @type: W
 @title: El claustro — Trece ocas
 @where: En una galería del claustro con el estanque de las ocas a la vista. Si hay mucha gente junto al estanque, en la galería del otro lado del jardín.

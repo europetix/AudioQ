@@ -1,6 +1,6 @@
 @id: 003 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The square and the facade
-@room: The Pla de la Seu · with the Casa de l'Ardiaca in view, beside the cathedral [O13]
+@room: The Pla de la Seu · with the Casa de l'Ardiaca in view, beside the cathedral
 @type: R
 @title: El Pla de la Seu — Una plaza de la posguerra
 @where: En la plaza, de cara a la vieja casa de piedra adosada a la muralla romana junto a la catedral, con su puerta a la vista. No se ponga en la escalinata.

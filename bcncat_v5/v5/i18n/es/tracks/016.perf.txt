@@ -1,6 +1,6 @@
 @id: 016 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · inside, among the upper stalls (or at the entrance if closed) [O8]
+@room: The choir · inside, among the upper stalls (or at the entrance if closed)
 @type: W
 @title: El coro — Roble de Brujas
 @where: Dentro del coro, el recinto en el centro de la nave, donde se vea la alta fila superior de asientos. Si el coro está cerrado, en su entrada, mirando hacia dentro.

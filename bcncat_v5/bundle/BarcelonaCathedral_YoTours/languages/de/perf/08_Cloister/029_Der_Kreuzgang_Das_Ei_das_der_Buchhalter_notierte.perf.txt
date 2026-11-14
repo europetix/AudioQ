@@ -1,0 +1,28 @@
+@id: 029 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The cloister
+@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view
+@type: W
+@title: Der Kreuzgang — Das Ei, das der Buchhalter notierte
+@where: Neben dem kleinen gewölbten Pavillon über dem Brunnen, in der Ecke des Kreuzgangs nahe der Tür aus der Kirche, wo Sie in sein kleines Gewölbe hinaufsehen können.
+@what: L'ou com balla at Corpus, flowers and red cherries, the cathedral first in Barcelona, "at least to 1636" (F12.15, F12.16, F12.18, O2); the accounts recording eggs bought for Corpus and its octave (F12.16, A3); the egg popularly thought to be the Host (F12.19, A3 wording); the keystone of Saint George killing the dragon, the four evangelists seated on the ribs, the figure of Saint George on top (F12.10 corrected by S32 re-read, F12.12, M1); 1448 = the cloister's last vault, then the pavilion (F3.19, F12.9, S32); never consecrated, a Te Deum (F3.18, S2 re-read); the 1456 proclamation, old CA (Q4, F12.13, S32); Saint George's feasts held here (S32). Princess, Escuder and the keystone's day cut (see notes). Audit fixes, 14 Nov 2026: the old-Catalan quotation now paraphrased; 'first' attributed to the cathedral (facts S7); see notes/AUDIT_FIXES.md.
+@listen: How an accountant's entry for eggs dates Barcelona's dancing egg, why 1448 belongs to the cloister, and Saint George in the vault.
+@brief: A guide by a fountain, light and delighted with the egg, then crisp and confident putting the famous date right.
+@pace: medium
+@energy: 3→4→3
+@sources: O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read 14 Nov 2026: "which is decorated with flowers and red cherries."; "The Cathedral of Barcelona was the first to present the dancing egg in Barcelona, going back at least to 1636.", EN) ; A3 https://www.barcelona.cat/culturapopular/en/festivals-and-traditions/festival-characters-and-elements/ou-com-balla (OFF, re-read: the cathedral's "accounting records mention the purchase of eggs for the fountain on Corpus Christi and its octave"; "It is popularly thought that the dancing egg represents the host, or the body of Christ in the Eucharist."; nothing on an emptied egg, EN) ; S32 https://revistes.ub.edu/index.php/materia/article/download/34994/39591/116540 (SEC, Jardí 2023, re-read: "Aquest die fonch feta crida pública per la ciutat de Barchinona", in an entry of April 1456 linked to Saint George's day as a holiday (the entry itself is dated 17 April, so no day is spoken); "fou acabada la darrera volta de la Claustra de la Seu" (26 Sep 1448); "A partir del mes de setembre de 1448 i fins al mes de març de 1449, els treballs es concentren al templet del brollador"; "la gran clau de volta dedicada a sant Jordi, patró dels ciutadans de Barcelona"; "la imatge de sant Jordi matant el drac"; "les imatges sedents dels quatre evangelistes" on the ribs, not on the keystone; "el brollador s'ubica prop de la porta d'entrada a l'església"; feasts for Saint George held there, CA) ; S2 https://www.enciclopedia.cat/catalunya-romanica/santa-creu-i-santa-eulalia-o-catedral-de-barcelona (SEC-enc, re-read: "la catedral gòtica no fou mai consagrada"; on 26 Sep 1448 the chapter "es va limitar a cantar un tedèum", CA) ; M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (OFF MNAC, re-read: "a figure of Saint George and a fountain", EN)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 029 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Jedes Jahr an Fronleichnam tanzt auf diesem Brunnen ein Ei. Und wir wissen, wie alt der Brauch ist, weil der Buchhalter der Domherren die Eier notierte.
+
+Er heißt l'ou com balla, das tanzende Ei. Ein Ei wird auf den Wasserstrahl des Brunnens gesetzt, wo es hüpft und sich dreht, und das Becken schmückt man mit Blumen und roten Kirschen. Laut der Kathedrale zeigte sie als erster Ort Barcelonas das tanzende Ei, mindestens seit 1636. Die Volkskulturseiten Barcelonas erklären, woher wir das wissen. Die Rechnungsbücher der Kathedrale verzeichnen Eierkäufe für diesen Brunnen, für Fronleichnam und die acht Tage danach. Im Volk glaubt man, fügen dieselben Seiten hinzu, das Ei stehe für die Hostie, den Leib Christi in der Eucharistie.
+
+[curious] Schauen Sie nun hinauf in das kleine Gewölbe über dem Brunnen. In seiner Mitte sitzt der große Schlussstein, der heilige Georg, der den Drachen tötet. Eine Studie über diesen Kreuzgang nennt ihn den Patron der Bürger Barcelonas. Auf den Rippen um ihn herum sitzen die vier Evangelisten. Und oben auf dem Pavillon steht eine Figur des heiligen Georg.
+
+[pause] Hier ist das Datum, das alle falsch zuordnen: 1448. Es wird oft für die Kathedrale genannt, aber es gehört zum Kreuzgang. Sein letztes Gewölbe wurde in jenem September geschlossen, und die Steinmetzen gingen gleich weiter zu diesem kleinen Pavillon. Die Kirche selbst wurde nie feierlich geweiht. Als das Kapitel das Werk für vollendet erklärte, sang es einfach ein Te Deum.
+
+Die Georgsfeste der Stadt fanden oft genau hier statt, rund um diesen Brunnen. Im April 1456 vermerkte das Tagebuch der Generalitat, in der Stadt sei öffentlich ausgerufen worden: Der Georgstag solle ein Feiertag sein.
+
+[lightly] Ein Ei, ein Drache und eine Quittung des Buchhalters.
+
+Gehen Sie nun durch den Kreuzgang zum Teich, an dem die Gänse leben. Ist es voll, schauen Sie vom Gang auf der anderen Seite des Gartens zu: Der Kreuzgang · Dreizehn Gänse.

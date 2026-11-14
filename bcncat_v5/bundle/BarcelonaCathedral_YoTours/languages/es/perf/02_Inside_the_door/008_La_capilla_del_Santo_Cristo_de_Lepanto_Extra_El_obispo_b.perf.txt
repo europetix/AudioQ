@@ -1,0 +1,26 @@
+@id: 008 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: The Lepanto chapel · at its doorway, outside
+@type: X
+@title: La capilla del Santo Cristo de Lepanto · Extra · El obispo bajo el crucifijo
+@where: En el mismo lugar, en la entrada de la capilla del Santo Cristo de Lepanto, fuera y a un lado. Nunca entre durante un oficio.
+@what: Sant Oleguer, bishop of Barcelona from 1116, also archbishop of Tarragona after its conquest, died 6 March 1137, canonised 1675 (F10.16, F10.17 OK, O10, O11; never 1676); his tomb under the crucifix (O11); Baroque tomb, medieval figure by Pere Sanglada, 1406, the only one of his surviving works in alabaster, kept when the new tomb was made in 1675 (F10.19, F10.20 OK, O10, S9); the correction, forward to 022 (safe): marble in the crypt; body in bishop's robes in a glass case in a chamber, shown on 6 March (F10.18 OK/DATED, O10; no hours, "his body", never a miracle claim); next door, Sança Ximenis de Cabrera's chapel of 1431 and the alabaster tomb argued to be her mother's (G37 OK, G38 HEDGE, GS9; ONLY if O4/O5 find it in view, else cut the paragraph). 1701 procession and the Pentecost keystone (optional) left out.
+@listen: The bishop-saint who lies under the crucifix, the alabaster everyone confuses with Santa Eulàlia's tomb, and a noblewoman's tomb next door that may be her mother's.
+@brief: A guide speaking low at a chapel doorway, respectful and clear, with a small smile at the mix-ups.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: O10 https://catedralbcn.org/en/?p=2407 (OFF, re-read 14 Nov 2026: in 1116 named bishop of Barcelona; "Archbishop of Tarragona while maintaining the bishopric of Barcelona"; died 6 March 1137; "officially canonized in 1675"; Baroque sepulchre by Francesc Grau and Domènec Rovira II with the Gothic sculpture by Pere Sanglada (1406); body in a glass case in bishop's robes; "Every 6th of March visitors can see the chamber", EN) ; O11 https://catedralbcn.org/wp-content/uploads/2026/07/CATEDRAL-DE-BARCELONA-01.pdf (OFF, re-read 14 Nov 2026: "Al damunt del sepulcre de sant Oleguer es troba la imatge del Sant Crist de Lepant"; "el 25 de maig de 1675", CA) ; S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, re-read 14 Nov 2026: "De totes les obres conservades de Pere Sanglada, aquesta és l'única treballada en alabastre."; May 1406 payment; in 1675 only Sanglada's recumbent figure was kept, CA) ; GS9 https://raco.cat/index.php/Locus/article/download/70405/80640/80916 (SEC, Valero, re-read 14 Nov 2026: chapel "concedida el 1431 a Sança Ximenis de Cabrera", "situada al costat de la capella que serveix d'entrada a l'antiga sala capitular"; 1442 entry "tomba dela senyora sa mara"; Timbor de Prades "ha de ser la destinatària final del sepulcre"; "el sepulcre d'alabastre", CA)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 008 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Bajo el crucifijo reposa un obispo que ayudó a devolver la vida a toda una ciudad. Sant Oleguer fue nombrado obispo de Barcelona a principios del siglo doce. Cuando se recuperó Tarragona, fue también su arzobispo. Murió en 1137, y fue proclamado santo en 1675.
+
+Si desde la entrada puede ver el interior, busque su sepulcro. Es barroco, y sobre él yace algo más antiguo: una figura medieval del obispo en alabastro, tallada por Pere Sanglada en 1406. Es el único alabastro entre sus obras conservadas, y se mantuvo cuando se hizo el nuevo sepulcro.
+
+[lightly] Recuerde este alabastro cuando llegue al sepulcro de Santa Eulalia, en la cripta.
+
+Una vez al año, en su fiesta, el seis de marzo, su cuerpo, vestido de obispo, se muestra en una urna de cristal en una sala de la catedral.
+
+[pause] Al lado, más alabastro. Una noble, Sança Ximenis de Cabrera, compró la capilla contigua al acceso a esta. Todos llaman suyo al sepulcro de alabastro que hay en ella. Pero un historiador del arte sostiene, por un pago de 1442 y por los escudos, que era para su madre.
+
+Ahora camine hasta el muro de mármol blanco al final del coro, el recinto en el centro de la nave. Aléjese un poco para ver sus relieves: El trascoro · El escultor que nunca volvió.

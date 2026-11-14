@@ -1,6 +1,6 @@
 @id: 009 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Inside the main door
-@room: The choir screen · a few steps back from the white marble screen at the end of the choir, facing it [O24]
+@room: The choir screen · a few steps back from the white marble screen at the end of the choir, facing it
 @type: R
 @title: El trascoro — El escultor que nunca volvió
 @where: En la nave, a unos pasos del muro de mármol blanco que cierra el coro por este extremo, de cara a él, con su puerta central y los relieves de ambos lados a la vista.

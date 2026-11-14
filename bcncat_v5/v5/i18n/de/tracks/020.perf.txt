@@ -1,6 +1,6 @@
 @id: 020 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · at its entrance, the pulpit beside you, the spires over the stalls in view [O8]
+@room: The choir · at its entrance, the pulpit beside you, the spires over the stalls in view
 @type: R
 @title: Der Chor — Ein Baldachin aus Fialen
 @where: Am Eingang des Chors, neben der hölzernen Kanzel, wo Sie zu den geschnitzten Fialen über den oberen Sitzen hinaufsehen können.

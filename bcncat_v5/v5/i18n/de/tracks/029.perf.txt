@@ -1,6 +1,6 @@
 @id: 029 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view [O9]
+@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view
 @type: W
 @title: Der Kreuzgang — Das Ei, das der Buchhalter notierte
 @where: Neben dem kleinen gewölbten Pavillon über dem Brunnen, in der Ecke des Kreuzgangs nahe der Tür aus der Kirche, wo Sie in sein kleines Gewölbe hinaufsehen können.

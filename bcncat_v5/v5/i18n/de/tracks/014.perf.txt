@@ -1,6 +1,6 @@
 @id: 014 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The roof · on the terraces, the lantern tower over the main door in view [O7]
+@room: The roof · on the terraces, the lantern tower over the main door in view
 @type: W
 @title: Das Dach — Die heilige Helena auf der Laterne
 @where: Auf den Dachterrassen, auf dem Laufweg, mit dem Laternenturm über dem Hauptportal vor Ihnen und der Statue auf seiner Spitze im Blick. Bleiben Sie auf dem Laufweg und aus dem Weg der Vorbeigehenden.

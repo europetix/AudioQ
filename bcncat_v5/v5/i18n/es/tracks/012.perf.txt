@@ -1,6 +1,6 @@
 @id: 012 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The lift · in the queue at the chapel of the Holy Innocents, or at the top beside the lift (ALT-NQ)
+@room: The lift · in the queue at the chapel of the Holy Innocents, or at the top beside the lift
 @type: W
 @title: El ascensor — Eulalia da las horas
 @where: En la cola del ascensor a las terrazas, en la capilla de los Santos Inocentes, junto a la puerta de Sant Iu. Si no hay cola, arriba, a un lado del ascensor. No hace falta ver nada.

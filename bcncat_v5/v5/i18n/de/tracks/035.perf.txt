@@ -1,6 +1,6 @@
 @id: 035 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The Chapter Hall
-@room: The Chapter Hall · beside the monstrance and the stone font [O21]
+@room: The Chapter Hall · beside the monstrance and the stone font
 @type: R
 @title: Der Kapitelsaal — Ein Thron für die Hostie
 @where: Im Museum im Kapitelsaal, neben der großen vergoldeten Monstranz auf ihrem silbernen Sitz, mit dem steinernen Taufbecken mit gelappten Seiten in der Nähe. Gezeigt wird nur, was ausgestellt ist.

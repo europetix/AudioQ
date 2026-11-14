@@ -1,0 +1,26 @@
+@id: 035 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The Chapter Hall
+@room: The Chapter Hall · beside the monstrance and the stone font
+@type: R
+@title: La salle capitulaire — Un trône pour l'hostie
+@where: Dans le musée de la salle capitulaire, près du grand ostensoir doré sur son siège d'argent, avec la cuve baptismale de pierre aux flancs lobés tout près. On ne montre que ce qui est exposé.
+@what: The monstrance, c. 1370–1400 ("the late 1300s"), two tiers, six-sided, gold and gilded silver, pearls and gems, 88 cm; a sapphire and a ruby added while it was being made (G93, GS18; year 1371 cut for the date count); "King Martin's throne": its base since the mid-15th century (O4), in fact a folding bishop's chair of gilded silver with the Barcelona hallmark, the royal link "a late tradition" (F14.16, G94, GS18; tradition, not fact); Corpus 1320, one of the first cities in Christendom (G96; callback 029 safe); the 11th-century lobed font from the Romanesque cathedral (F14.15, F2.8, G92, O7); Huguet's Saint Bernardino and the Guardian Angel, 1465–70 (F14.13, O7); Giuliano di Nofri's terracotta Santa Eulàlia from over the Santa Eulàlia door (F14.14, G92, O7). G97: location conflict, O21 decides (ALT-T). Optional crozier and Lochner relief cut (not confirmed on display; S8 puts the relief in the Sala de Sant Sever). Audit fixes, 14 Nov 2026: the sapphire and ruby cut for length; see notes/AUDIT_FIXES.md.
+@listen: A gold monstrance on a silver seat that tradition calls a king's throne, a font from the older cathedral, and the saint who once stood over the door you'll leave by.
+@brief: A guide in a small treasury, interested and exact, enjoying the gap between the tradition and the object.
+@pace: medium
+@energy: 3→3→3
+@sources: GS18 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-custodia-de-la-catedral-de-barcelona (SEC-enc, re-read 14 Nov 2026: "devia realitzar-se vers els anys 1370-1400"; "d'or i d'argent sobredaurat", "aplicacions de perles i pedreria"; "Fa 88 cm d'alt"; "un sagrari de dos cossos sobreposats", hexagonal; by order of Bishop Berenguer d'Erill "un safir i un balaix" added to the monstrance then being made; "una cadira episcopal plegable d'argent daurat", "Duu punxó de Barcelona", the royal link "tradició tardana"; Barcelona "fou una de les primeres ciutats del món cristià" with a Corpus procession, 1320; called "la custòdia major de la sagristia", current place not stated, CA) ; O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read: the throne "has served as a base for the monstrance since the mid-15th century", EN) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read: "the 11th-century lobed baptism font from the former Romanesque temple"; "the terracotta sculpture of Saint Eulalia by Giuliano di Nofri, from the pediment over the door of Saint Eulalia"; "the Gothic altarpiece of Saint Bernardino and the Guardian Angel (1465-1470) by Jaume Huguet"; "the monstrance, from the late-14th century, made up from the campaign throne of King Martin the Humane", EN)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 035 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Des siècles durant, il porta l'hostie dans Barcelone, à la Fête-Dieu. C'est le grand ostensoir de la cathédrale, de la fin du quatorzième siècle: une tour hexagonale à deux étages, d'or et d'argent doré, sertie de perles et de pierres, haute de quatre-vingt-huit centimètres.
+
+[curious] Il repose sur un siège d'argent dit trône du roi Martin, sa base depuis le milieu du quinzième siècle. La tradition en fait le trône du roi Martin l'Humain. L'histoire de l'art de l'encyclopédie catalane y voit une tradition tardive. En réalité, explique-t-elle, c'est une chaise d'évêque pliante, en argent doré, au poinçon de Barcelone.
+
+Barcelone fut, ajoute l'encyclopédie, l'une des premières villes de la chrétienté à tenir une procession de la Fête-Dieu, en 1320. Même fête que l'œuf qui danse sur la fontaine du cloître.
+
+Cherchez aussi une cuve baptismale de pierre aux flancs lobés. Elle date du onzième siècle, de la cathédrale romane qui était ici avant celle-ci.
+
+Deux autres œuvres à trouver: le retable de Jaume Huguet, Saint Bernardin et l'ange gardien, de la fin des années 1460, et une Santa Eulàlia en terre cuite de Giuliano di Nofri. Elle surmontait autrefois la porte de Santa Eulàlia, par où vous sortirez.
+
+Quittez le musée, et gagnez la porte du cloître sur le Carrer del Bisbe, la porte de Santa Eulàlia. Arrêtez-vous juste à l'intérieur, à l'écart de ceux qui sortent: La porte de Santa Eulàlia · Dix-sept siècles au même coin.

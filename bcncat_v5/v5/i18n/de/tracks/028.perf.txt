@@ -1,6 +1,6 @@
 @id: 028 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · just through the white marble door, facing back at it [O19]
+@room: The cloister · just through the white marble door, facing back at it
 @type: R
 @title: Der Kreuzgang — Eine Tür aus der älteren Kathedrale
 @where: Im Kreuzgang, ein paar Schritte hinter der weißen Marmortür aus der Kirche, umgedreht, mit Blick auf sie und ihre gemeißelten Kapitelle.

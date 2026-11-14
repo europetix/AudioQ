@@ -3,7 +3,7 @@
 @room: Inside the main door · just inside, to one side, looking along the nave to the choir screen
 @type: W
 @title: Inside the main door — A tower over the door
-@where: Just inside the main door, a step to one side so people can come in, looking along the nave towards the marble screen of the choir. [O1, O2, O4]
+@where: Just inside the main door, a step to one side so people can come in, looking along the nave towards the marble screen of the choir.
 @what: The cimbori over the entrance, unusual (F4.9 OK, S7, O4), 41 m inside (F5.18 OK, O4; see notes on "high"); Gual and the carpenter Aigüents's eighteen-day trip to Valencia in 1421, the provisional roof until the early 20th century (F3.14 OK, S7; "almost five hundred years" our arithmetic, no 1913 here); the bay by the facade the longest, to carry it (F4.8 OK, O4); three aisles, one apse and ambulatory (F4.1 OK, O4); side aisles almost as high (F4.2 HEDGE wording), 26 m centre (F4.3 OK, O4); over 150 years without interrupting the services (F3.4 HEDGE wording, A4); begun behind the altar towards the door (F3.8 OK); 215 keystones found painted in the 1970 restoration (F4.10 OK, O4). Pere Joan's keystone (F4.11) left out until O15.
 @listen: Why Barcelona's lantern tower stands over the door instead of the altar, and the stopgap roof that sat on it for almost five hundred years.
 @brief: A guide just inside a great church, voice dropped for the space; curious at the hook, amused at the stopgap, warm at the payoff.

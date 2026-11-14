@@ -1,0 +1,26 @@
+@id: 003 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The square and the facade
+@room: The Pla de la Seu · with the Casa de l'Ardiaca in view, beside the cathedral
+@type: R
+@title: El Pla de la Seu — Una plaza de la posguerra
+@where: En la plaza, de cara a la vieja casa de piedra adosada a la muralla romana junto a la catedral, con su puerta a la vista. No se ponga en la escalinata.
+@what: The square opened after the Civil War, avenue 1939–1958 (F6.1 HEDGE, safe wording "after the war, over almost twenty years"; A6, S23); the Barri de la Catedral "one of the most affected", Sant Felip Neri 30 Jan 1938, 42 dead incl. 20 children (G112 OK, GS20; no direction; never "the cathedral was hit"); the Casa de l'Ardiaca built around the 12th century "taking advantage of part of Barcelona's old Roman wall" (F6.3 OK, A6); rebuilt by Lluís Desplà, Gothic "with some Renaissance features" (F6.4 OK, A6); forward to 034 (safe); Picasso's friezes on the College of Architects, drawings ready Oct 1960, sandblasted by Carl Nesjar, the dust paraphrased (F6.8 OK, A12). Letterbox (G124) left out: conditional on O13 and over the aim.
+@listen: Why the open square in front of the cathedral is younger than it looks, and the house that moved into the Roman wall.
+@brief: A guide on the square, conversational, then quiet and plain for the bombing, lighter again for the house and the Picasso drawings.
+@pace: medium
+@energy: 3→2→3
+@sources: A6 https://ajuntament.barcelona.cat/arxiumunicipal/arxiuhistoric/en/casa-de-lardiaca (OFF, Arxiu Històric, re-read 14 Nov 2026: "was built around the 12th century, taking advantage of part of Barcelona's old Roman wall."; "At the end of the 15th century, Archdeacon Lluís Desplà had it rebuilt in the Gothic style, with some Renaissance features."; Avinguda de la Catedral opened after demolitions, EN) ; S23 https://tesisenred.net/handle/10803/405899 (SEC, UB thesis abstract, re-read 14 Nov 2026: "entre 1939 y 1958, de la Avenida de la Catedral"; "la destrucción provocada por la Guerra Civil española", ES) ; GS20 https://beteve.cat/cultura/bombardeig-poemes-placa-catedral-contra-violencia/ (SEC, betevé, re-read 14 Nov 2026: "El barri de la Catedral va ser un dels més afectats."; Sant Felip Neri, 30 Jan 1938, 42 dead, 20 of them children, CA) ; A12 https://museupicassobcn.cat/en/whats-on/news/50-years-picassos-friezes-architects-college-catalonia (OFF, Museu Picasso, re-read 14 Nov 2026: "on the 18th October 1960 ... he telephoned me to say that the drawings were ready."; Carl Nesjar, sandblasting; "The sand and mortar created a formidable cloud of dust.", EN)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 003 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Esta amplia plaza es más joven de lo que parece. Hasta la Guerra Civil, aquí había un barrio denso. La gran avenida ante la catedral se abrió tras la guerra, en casi veinte años.
+
+[quietly] El barrio de la catedral fue de los más bombardeados. Las bombas cayeron en las calles de alrededor. En la pequeña plaza cercana de Sant Felip Neri, el 30 de enero de 1938 murieron 42 personas, 20 de ellas niños.
+
+[pause] La vieja casa de piedra junto a la catedral es la Casa de l'Ardiaca, la casa del arcediano. Según el archivo de la ciudad, se construyó hacia el siglo doce, "aprovechando parte de la antigua muralla romana de Barcelona". Mírela: la casa simplemente se instaló en la muralla.
+
+A finales del siglo quince, el arcediano Lluís Desplà la reconstruyó en estilo gótico, "con algunos rasgos renacentistas". Volverá a encontrarlo en el museo de la Sala Capitular, arrodillado en un cuadro.
+
+[lightly] Al otro lado de la plaza, los dibujos lineales del moderno Colegio de Arquitectos son de Picasso. En octubre de 1960 telefoneó: los dibujos estaban listos. El artista Carl Nesjar los grabó con chorro de arena en el hormigón, levantando una formidable nube de polvo.
+
+Gírese hacia la fachada de la catedral. Aléjese lo bastante para verla entera, desde la puerta hasta las agujas: La fachada · Dibujada en 1408, construida en 1887.

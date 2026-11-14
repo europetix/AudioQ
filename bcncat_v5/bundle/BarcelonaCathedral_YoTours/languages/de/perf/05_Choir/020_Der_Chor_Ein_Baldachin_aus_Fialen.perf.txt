@@ -1,0 +1,26 @@
+@id: 020 · DE · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The choir
+@room: The choir · at its entrance, the pulpit beside you, the spires over the stalls in view
+@type: R
+@title: Der Chor — Ein Baldachin aus Fialen
+@where: Am Eingang des Chors, neben der hölzernen Kanzel, wo Sie zu den geschnitzten Fialen über den oberen Sitzen hinaufsehen können.
+@what: Michael Lochner, a carver of German origin, in Barcelona by 1483, workshop in Carrer de Mercaders, died in Barcelona in June 1490 (F9.8 OK, S8, S10; spoken "seven years later"); the spires over the upper stalls begun in 1483, "probablement projectats en època del mestre Pere Sanglada" (F9.9 OK, S8); his assistant Joan Frederic, also German, carried on and finished the first phase in 1497 (S10 "va acabar la primera fase"; S8 "quedà interromput de nou": so "the first phase", not "finished"); three generations: Sanglada's team, Bonafè, Lochner and Frederic (F18.25 correction; callback 016, safe in F); the pulpit, by Sanglada, around 1400 (F9.11 HEDGE wording: 1394–96, paid in full 1403), six faces, fifteen full-length figures, painted by Lluís Borrassà (S9); optional, cut for length: the Annunciation crowning its stair, attributed to Jordi de Déu, perhaps with Sanglada (F9.12 HEDGE, S9 re-read: not on the pulpit itself but on the stair); the 14th-century bishop's chair presiding over the choir (F9.13 OK, S1; no look until O8 places it); O7's "at the entrance to the choir on the right is the wooden pulpit" (OFF) used for the place, not for left or right.
+@listen: The German carver who crowned the stalls with spires a century late, and the pulpit at the choir's door.
+@brief: A guide at the choir's door, light and clear, enjoying setting a common mistake straight.
+@pace: medium
+@energy: 3→3→3
+@sources: S8 https://www.enciclopedia.cat/lart-gotic-a-catalunya/miquel-lochner (SEC, Enc. Cat. L'art gòtic, re-read 14 Nov 2026: "d'origen germànic"; arrived shortly before 1483; "Instal·là el seu taller al carrer de Mercaders"; "Va morir la segona quinzena de juny del 1490"; the pinnacles begun 1483, "probablement projectats en època del mestre Pere Sanglada"; "Les tasques s'allargaren fins el 1497, data en què el projecte dels pinacles quedà interromput de nou", CA) ; S10 https://diposit.ub.edu/dspace/bitstream/2445/35592/2/01.MJA_INTRODUCCIO.pdf (SEC, Jardí thesis, re-read 14 Nov 2026: documented in Barcelona "des del 1483 fins el 1490, any de la seva mort"; Joan Frederic, also German, worked "fins el 1497, data en què va acabar la primera fase de la construcció dels pinacles del cor", CA) ; S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, re-read 14 Nov 2026: pulpit 1394–96, six faces, five visible, "quinze imatges de cos sencer", painted by Lluís Borrassà, Sanglada paid in full in 1403; the Annunciation crowns the access stair, attributed to Jordi de Déu, perhaps with a large part by Sanglada, CA) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: "At the entrance to the choir on the right is the wooden pulpit carved by the sculptor Pedro Çanglada in 1403."; Lochner "and his disciple Johan Friedrich", EN; the 1403 date not used, F9.11) ; S1 https://www.enciclopedia.cat/gran-enciclopedia-catalana/catedral-de-barcelona (SEC, re-read 14 Nov 2026: "Al mig de la catedral hi ha el cor dels canonges, presidit per la cadira episcopal, del segle XIV.", CA)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 020 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Ein deutscher Holzschnitzer machte Barcelona für den Rest seines Lebens zu seiner Heimat. Michael Lochner arbeitete hier spätestens 1483, mit einer Werkstatt im Carrer de Mercaders, und starb sieben Jahre später in der Stadt.
+
+[pause] Schauen Sie hinauf zu den Fialen über den oberen Sitzen, einem Wald aus geschnitzten Türmchen. Lochner begann sie 1483, wahrscheinlich nach einem Entwurf noch aus Sangladas Zeit. Nach seinem Tod machte sein Gehilfe Joan Frederic weiter, ebenfalls ein Deutscher, und bis 1497 war die erste Phase fertig. Das ist fast ein Jahrhundert nach den Sitzen darunter.
+
+[lightly] Wenn Sie also lesen, Lochner habe diesen Chor geschnitzt, ist das nur ein Teil der Geschichte. Das Gestühl ist das Werk von drei Generationen: Sangladas Team für die oberen Sitze, Bonafè für die unteren, und Lochner und Frederic für den Baldachin über allen.
+
+Nun zur hölzernen Kanzel neben Ihnen. Sanglada schnitzte sie um 1400. Sie ist sechseckig, mit fünfzehn ganzfigurigen Gestalten, und der Maler Lluís Borrassà schmückte sie aus.
+
+Über dem ganzen Chor thront, so die katalanische Enzyklopädie, ein Bischofsstuhl aus dem vierzehnten Jahrhundert.
+
+Verlassen Sie den Chor, und gehen Sie auf den Hochaltar zu. Bleiben Sie oben an der Treppe stehen, die vor dem Altar in die Krypta hinabführt. Ist die Krypta geschlossen, bleiben Sie oben an ihrer Treppe: Das Grab ist unten zu sehen. So oder so, beginnen Sie hier: Die Krypta · Dreizehn, der Überlieferung nach.

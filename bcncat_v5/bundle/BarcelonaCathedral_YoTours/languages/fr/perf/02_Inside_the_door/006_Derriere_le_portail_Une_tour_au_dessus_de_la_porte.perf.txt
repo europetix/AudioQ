@@ -1,0 +1,28 @@
+@id: 006 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: Inside the main door · just inside, to one side, looking along the nave to the choir screen
+@type: W
+@title: Derrière le portail — Une tour au-dessus de la porte
+@where: Juste après la porte principale, un pas sur le côté pour laisser entrer les gens, le regard le long de la nef vers la clôture de marbre du chœur.
+@what: The cimbori over the entrance, unusual (F4.9 OK, S7, O4), 41 m inside (F5.18 OK, O4; see notes on "high"); Gual and the carpenter Aigüents's eighteen-day trip to Valencia in 1421, the provisional roof until the early 20th century (F3.14 OK, S7; "almost five hundred years" our arithmetic, no 1913 here); the bay by the facade the longest, to carry it (F4.8 OK, O4); three aisles, one apse and ambulatory (F4.1 OK, O4); side aisles almost as high (F4.2 HEDGE wording), 26 m centre (F4.3 OK, O4); over 150 years without interrupting the services (F3.4 HEDGE wording, A4); begun behind the altar towards the door (F3.8 OK); 215 keystones found painted in the 1970 restoration (F4.10 OK, O4). Pere Joan's keystone (F4.11) left out until O15.
+@listen: Why Barcelona's lantern tower stands over the door instead of the altar, and the stopgap roof that sat on it for almost five hundred years.
+@brief: A guide just inside a great church, voice dropped for the space; curious at the hook, amused at the stopgap, warm at the payoff.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read 14 Nov 2026: "three naves, but just a single apse and ambulatory"; central nave 26 m, lateral 21 m; the bay "closest to the façade is the longest in order to accommodate the dimensions of the cimborio"; "The cimborio measures 70 meters on the outside and 41 meters on the inside."; 215 keystones, "restored in 1970, when it was discovered that they were polychromed.", EN) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: "el mestre major Bartomeu Gual i el fuster Aigüents van fer un viatge de divuit dies a València"; Barcelona's plan left unfinished, probably for lack of money; "es va habilitar una coberta provisional fins al començament del segle XX"; the cimbori at the feet of the church, CA) ; A4 https://www.barcelona.cat/en/conocebcn/pics/la-catedral-92086000934 (OFF, Ajuntament, re-read 14 Nov 2026: "took more than 150 years, but never interrupted the religious services."; "More than 215 rib vault keystones", EN)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 006 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+La plupart des cathédrales placent leur tour-lanterne à la croisée, près de l'autel. Ici, elle vous surplombe dès l'entrée. C'est le cimbori, la tour-lanterne: à l'intérieur, elle monte à quarante et un mètres.
+
+En 1421, le maître d'œuvre, Bartomeu Gual, et un charpentier firent dix-huit jours de voyage jusqu'à Valence, pour voir comment on y avait bâti la tour de la croisée. Au retour, l'argent semble avoir manqué. [amused] Alors ils posèrent un toit provisoire sur la tour inachevée. Ce provisoire dura près de cinq cents ans, jusqu'au vingtième siècle.
+
+Pourquoi au-dessus de la porte? La travée près de la porte est la plus longue de l'église. Elle a été construite ainsi pour porter la tour.
+
+[pause] Regardez maintenant le long de la nef. Le plan est simple: trois nefs, une abside, et un passage derrière l'autel. Les bas-côtés montent presque aussi haut que la nef centrale. Au sommet de celle-ci, les clés de voûte sont à vingt-six mètres au-dessus de vous.
+
+La ville dit que les travaux ont duré plus de cent cinquante ans, sans jamais interrompre les offices. Ils ont commencé à l'autre bout, derrière l'autel, et ont avancé jusqu'à cette porte.
+
+[curious] Levez les yeux vers les nervures de la voûte, jusqu'aux clés sculptées où elles se rejoignent. L'église en compte plus de deux cents. Leur nettoyage, en 1970, a révélé qu'elles étaient peintes. Choisissez-en une au-dessus de vous, et cherchez la couleur.
+
+Trouvez maintenant la chapelle proche de la porte principale, à droite quand vous faites face au maître-autel: la chapelle du Christ de Lépante. Arrêtez-vous sur le seuil. Si une messe est en cours, n'entrez pas. Vous pouvez écouter ceci depuis la porte: La chapelle de Lépante · Le Christ plus ancien que sa bataille.

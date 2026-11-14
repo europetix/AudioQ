@@ -3,7 +3,7 @@
 @room: The Lepanto chapel · at its doorway, outside
 @type: X
 @title: The Lepanto chapel · Extra · The bishop under the crucifix
-@where: Same place, at the doorway of the chapel of the Christ of Lepanto, outside it and to one side; never go in during a service. [O4, O5: the paragraph "Next door, more alabaster…" stays only if O4/O5 find the neighbouring chapel and its tomb in view, else cut; O24]
+@where: Same place, at the doorway of the chapel of the Christ of Lepanto, outside it and to one side; never go in during a service.
 @what: Sant Oleguer, bishop of Barcelona from 1116, also archbishop of Tarragona after its conquest, died 6 March 1137, canonised 1675 (F10.16, F10.17 OK, O10, O11; never 1676); his tomb under the crucifix (O11); Baroque tomb, medieval figure by Pere Sanglada, 1406, the only one of his surviving works in alabaster, kept when the new tomb was made in 1675 (F10.19, F10.20 OK, O10, S9); the correction, forward to 022 (safe): marble in the crypt; body in bishop's robes in a glass case in a chamber, shown on 6 March (F10.18 OK/DATED, O10; no hours, "his body", never a miracle claim); next door, Sança Ximenis de Cabrera's chapel of 1431 and the alabaster tomb argued to be her mother's (G37 OK, G38 HEDGE, GS9; ONLY if O4/O5 find it in view, else cut the paragraph). 1701 procession and the Pentecost keystone (optional) left out.
 @listen: The bishop-saint who lies under the crucifix, the alabaster everyone confuses with Santa Eulàlia's tomb, and a noblewoman's tomb next door that may be her mother's.
 @brief: A guide speaking low at a chapel doorway, respectful and clear, with a small smile at the mix-ups.

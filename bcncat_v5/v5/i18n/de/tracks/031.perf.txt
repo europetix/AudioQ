@@ -1,6 +1,6 @@
 @id: 031 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · near the Pietat door, a carved capital in view [O9, O19]
+@room: The cloister · near the Pietat door, a carved capital in view
 @type: R
 @title: Der Kreuzgang — Eine Bibel auf den Kapitellen
 @where: Auf dem Gang des Kreuzgangs nahe dem Pietat-Portal, der Tür zur Straße mit einem Pietà-Relief darüber, wo auch das gemeißelte Kapitell eines Pfeilers im Blick ist.

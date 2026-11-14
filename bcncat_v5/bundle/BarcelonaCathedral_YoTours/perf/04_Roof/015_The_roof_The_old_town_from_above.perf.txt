@@ -1,9 +1,9 @@
 @id: 015 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The roof · where the old town and the cloister are in view [O7]
+@room: The roof · where the old town and the cloister are in view
 @type: R
 @title: The roof — The old town from above
-@where: On the terraces, at a spot on the walkway where you can see over the rooftops of the old town and down into the cloister garden. [O7: two unverified sights, each one separate cuttable sentence that nothing else depends on, kept only if O7 ticks it: "From where you stand, you may pick out a tower or a roof line of one or two of them." (the seven neighbours as things to see; after O7, name only the ticked ones, each with a way to find it) and "On a clear day, look far off on the horizon…" (the Sagrada Família); the list of neighbours itself stays, as the cathedral's "within a few streets"; O3]
+@where: On the terraces, at a spot on the walkway where you can see over the rooftops of the old town and down into the cloister garden.
 @what: Callback to the Roman corner and "the bishops never moved" (002, safe for E F; no re-telling); the cathedral's own list of its neighbours "a pocs metres": the Bishop's Palace, the Palau de la Generalitat, the City Hall, the Casa de l'Ardiaca (name and gloss only, E-safe), the Palau Reial Major, the Frederic Marès museum, the Archive of the Crown of Aragon (F17.5 OK OFF, O6; re-read: the PDF lists them as a few metres from the cathedral, not as seen from the roof, so the script claims nearness, not sightlines, until O7); the cloister below, its palms and the geese's pond (ROUTE S15, S17; F12.22 OK DATED; forward to 030, safe); the bookend on the horizon without its name (G64 HEDGE, GS13; lint bans the name outside 001; only if O7 ticks it, else cut the sentence). Audit fixes, 14 Nov 2026: the neighbours stay as a list; the look at them and the Sagrada Família line are separate cuttable sentences (O7); see notes/AUDIT_FIXES.md.
 @listen: The old town laid out around the bishops' corner, the cathedral's famous neighbours, and the cloister garden below.
 @brief: A guide at a parapet with a friend, relaxed and orienting, letting the view do most of the work.

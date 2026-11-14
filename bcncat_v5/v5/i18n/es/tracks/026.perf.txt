@@ -1,6 +1,6 @@
 @id: 026 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: The sacristy door · on the right of the high altar, below the two painted wooden coffins high on the wall [O16]
+@room: The sacristy door · on the right of the high altar, below the two painted wooden coffins high on the wall
 @type: W
 @title: La puerta de la sacristía — Los fundadores excomulgados
 @where: Junto a la puerta de la sacristía, a la derecha del altar mayor mirándolo, lo bastante atrás para ver dos ataúdes de madera pintada en lo alto del muro.

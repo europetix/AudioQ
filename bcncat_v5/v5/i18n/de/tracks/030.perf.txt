@@ -1,6 +1,6 @@
 @id: 030 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · on a walk with the pond in view (the far side if crowded) [O9]
+@room: The cloister · on a walk with the pond in view (the far side if crowded)
 @type: W
 @title: Der Kreuzgang — Dreizehn Gänse
 @where: Auf einem Gang des Kreuzgangs, mit dem Teich der Gänse im Blick. Ist es am Teich voll, auf dem Gang an der anderen Seite des Gartens.

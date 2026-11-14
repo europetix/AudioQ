@@ -1,6 +1,6 @@
 @id: 036 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The way out
-@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way [O1, O23]
+@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way
 @type: CLOSE
 @title: Das Santa-Eulàlia-Portal — Siebzehn Jahrhunderte an einer Ecke
 @where: Gleich innen am Santa-Eulàlia-Portal, der Tür des Kreuzgangs zum Carrer del Bisbe, seitlich, damit Menschen hinein und hinaus können.

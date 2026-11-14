@@ -1,9 +1,9 @@
 @id: 027 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: The cloister door · beside the white marble doorway, inside the church, the choir in view [O2]
+@room: The cloister door · beside the white marble doorway, inside the church, the choir in view
 @type: W
 @title: The cloister door — The summer of 1936
-@where: Inside the church, beside the white marble doorway into the cloister, in the bay on the right of the high altar as you face it; stand out of the way of the door, with the choir in view across the church. [O2, O19, O4]
+@where: Inside the church, beside the white marble doorway into the cloister, in the bay on the right of the high altar as you face it; stand out of the way of the door, with the choir in view across the church.
 @what: 1936: the cathedral "came through the summer of 1936 intact" (F15.7 HEDGE safe wording, M1); the Catalan government chose to safeguard it, the dean's words via Catalan News (F15.8 HEDGE, S16; no name); Sant Sever one of four churches in Ciutat Vella not burned, protected by the Mossos d'Esquadra (F15.9, S16); the lorry of Baroque carvings stopped in front of the cathedral and burned, "according to one account" (G109 HEDGE, GS19); the archive carried out in haste by Agustí Duran i Sanpere's service, back in spring 1939 (F15.10, G111, O9, CA); Sant Oleguer's tomb moved to the crypt (F10.22 OFF; callback 008, safe F); MNAC's conclusion that much of the interior survives (M1, attributed; its word "anarchists" not used). G114: protection still press + MNAC, hedge kept. Audit fixes, 14 Nov 2026: the Catalan quotation now paraphrased in English; see notes/AUDIT_FIXES.md.
 @listen: How the choir and the church around it came through July 1936 intact, while churches burned across the city, and how the archive was carried out and came home.
 @brief: A guide speaking low and plainly beside a doorway, with no drama and no adjectives; the facts carry the weight.

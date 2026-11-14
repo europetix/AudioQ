@@ -1,6 +1,6 @@
 @id: 023 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The crypt
-@room: The crypt · by the tomb, the reliefs on its box in view [O10]
+@room: The crypt · by the tomb, the reliefs on its box in view
 @type: R
 @title: Die Krypta — Ein Comic aus Marmor
 @where: Unten in der Krypta neben dem Marmorgrab, abseits der Stufen, wo die gemeißelten Szenen am Sarkophag zu sehen sind. Ist die Krypta geschlossen, oben an ihrer Treppe.

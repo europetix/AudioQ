@@ -1,6 +1,6 @@
 @id: 012 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The roof
-@room: The lift · in the queue at the chapel of the Holy Innocents, or at the top beside the lift (ALT-NQ)
+@room: The lift · in the queue at the chapel of the Holy Innocents, or at the top beside the lift
 @type: W
 @title: Der Aufzug — Eulàlia schlägt die Stunden
 @where: In der Schlange für den Dachaufzug an der Kapelle der Unschuldigen Kinder, neben dem Sant-Iu-Portal. Ohne Schlange oben, seitlich vom Aufzug. Nichts muss gesehen werden.

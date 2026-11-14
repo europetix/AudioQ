@@ -1,0 +1,32 @@
+@id: 036 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The way out
+@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way
+@type: CLOSE
+@title: La porte de Santa Eulàlia — Dix-sept siècles au même coin
+@where: Juste à l'intérieur de la porte de Santa Eulàlia, la porte du cloître sur le Carrer del Bisbe, sur le côté pour laisser passer les gens.
+@what: Version-neutral recap (H skips 002, 021, 027): more than 1,700 years of history (F1.18, O6 re-read: "history", not "worship") on the corner of the Roman town where the first Christian see stood, the bishops never moved (F1.4, A1); the front finished on her feast day (F5.13; callback 004 safe); Eulàlia, by tradition a girl of thirteen, co-patroness of the cathedral, the archdiocese and the city (F7.3, F7.16, O13); 1936, one clause (F15.7, F15.8 HEDGE; 027 the home); the geese (callback 030 safe); the Santa Eulàlia door, step-free access (ROUTE §1.2 OFF), Bishop Sapera's arms (ROUTE §1.2, SEC-enc); optional, O23: the Pont del Bisbe is 1928 (F6.10, F18.34; cut unless O23 finds it in view); thanks; Carrer del Bisbe just outside (O1).
+@listen: The goodbye at the cloister's street door: seventeen centuries on one corner of the Roman town, the girl, the year 1936, the geese, and the way out.
+@brief: A guide at the door at the end of a long walk together, warm and unhurried, quiet for the last lines.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: "La Catedral és testimoni de més de mil set-cents anys d'història.", CA: "history", so spoken as history) ; A1 https://www.bcn.cat/museuhistoriaciutat/docs/Guia_Centre_MUHBA_ANG.pdf (OFF MUHBA, via FACTS F1.4, not re-read: the first see in the corner of the walled town) ; O13 https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20260609-spagna-preghiera-ora-media.html (OFF Holy See, via FACTS F7.16, not re-read: "co-patroness of this Cathedral, the Archdiocese, and the city") ; S24 / S7 (via FACTS F5.13, not re-read: main front finished 12 February 1890, her feast) ; S16 https://catalannews.com/culture/item/historic-church-that-survived-civil-war-reopens-after-restoration-works and M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (re-read for 027: protected by the Catalan government; not assaulted, interior survives) ; O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read: thirteen geese, documented since the 16th century) ; ROUTE §1.2 (OFF via route file: the Santa Eulàlia door on Carrer del Bisbe, "accés per a persones amb mobilitat reduïda"; Bishop Sapera's arms, SEC-enc) ; S22 https://timeout.com/barcelona/attractions/pont-del-bisbe (SEC, via FACTS F6.10, not re-read: the bridge 1928; optional line, O23)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 036 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Les premiers chrétiens de Barcelone bâtirent leur église dans cet angle de la ville fortifiée. Et les évêques ne sont jamais partis. La cathédrale porte toujours ses deux noms: la Sainte-Croix, et Santa Eulàlia.
+
+La façade par où vous êtes entré fut achevée à la fête de Santa Eulàlia, la sainte martyre de la ville. On la fête encore chaque douze février. Et elle est copatronne de la cathédrale, de l'archidiocèse et de la ville.
+
+À l'été 1936, alors que des églises brûlaient dans tout Barcelone, celle-ci fut protégée, et en sortit intacte. Une grande partie de ce que vous avez vu aujourd'hui survit grâce à cela.
+
+Ici, dans le cloître, les treize oies gardent leur bassin, comme des oies ici depuis au moins quatre cents ans.
+
+Voici la porte de Santa Eulàlia, qui porte son nom, et aussi l'entrée sans marches de la cathédrale. Elle porte les armes d'un évêque, Sapera, des années où l'on bâtissait le cloître. Franchissez-la: vous voilà dans le Carrer del Bisbe, la rue de l'Évêque, au cœur de la vieille ville.
+
+Dans cette rue, le petit pont de pierre que chacun photographie semble médiéval. Il date de 1928.
+
+[warmly] Merci d'avoir fait cette promenade avec moi: le coin romain et l'église gothique, la jeune fille de la crypte, l'œuf et les oies, le saint à lunettes. C'est toujours une église vivante, et celle de la ville.
+
+[quietly] Un coin de ville romaine, et dix-sept siècles de gens qui y reviennent.
+
+Le Carrer del Bisbe est juste dehors. Allez doucement.

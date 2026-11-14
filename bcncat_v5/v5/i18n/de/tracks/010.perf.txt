@@ -1,6 +1,6 @@
 @id: 010 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Inside the main door
-@room: The baptistery · at the chapel's entrance, the font and its tall window in view [O11, O14]
+@room: The baptistery · at the chapel's entrance, the font and its tall window in view
 @type: W
 @title: Die Taufkapelle — Hier getauft
 @where: Am Eingang der ersten Kapelle links mit Blick zum Hochaltar, neben dem Hauptportal, mit dem Taufbecken und dem hohen Buntglasfenster im Blick. Treten Sie beiseite, wenn dort Gläubige sind.

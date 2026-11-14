@@ -1,9 +1,9 @@
 @id: 036 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The way out
-@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way [O1, O23]
+@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way
 @type: CLOSE
 @title: The Santa Eulàlia door — Seventeen centuries on one corner
-@where: Just inside the Santa Eulàlia door, the cloister's door to Carrer del Bisbe, standing to one side so people can pass in and out. [O1, O23: the Pont del Bisbe sentence stays only if O23 finds the bridge in view from the door or just outside, else cut]
+@where: Just inside the Santa Eulàlia door, the cloister's door to Carrer del Bisbe, standing to one side so people can pass in and out.
 @what: Version-neutral recap (H skips 002, 021, 027): more than 1,700 years of history (F1.18, O6 re-read: "history", not "worship") on the corner of the Roman town where the first Christian see stood, the bishops never moved (F1.4, A1); the front finished on her feast day (F5.13; callback 004 safe); Eulàlia, by tradition a girl of thirteen, co-patroness of the cathedral, the archdiocese and the city (F7.3, F7.16, O13); 1936, one clause (F15.7, F15.8 HEDGE; 027 the home); the geese (callback 030 safe); the Santa Eulàlia door, step-free access (ROUTE §1.2 OFF), Bishop Sapera's arms (ROUTE §1.2, SEC-enc); optional, O23: the Pont del Bisbe is 1928 (F6.10, F18.34; cut unless O23 finds it in view); thanks; Carrer del Bisbe just outside (O1).
 @listen: The goodbye at the cloister's street door: seventeen centuries on one corner of the Roman town, the girl, the year 1936, the geese, and the way out.
 @brief: A guide at the door at the end of a long walk together, warm and unhurried, quiet for the last lines.

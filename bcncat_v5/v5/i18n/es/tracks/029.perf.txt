@@ -1,6 +1,6 @@
 @id: 029 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view [O9]
+@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view
 @type: W
 @title: El claustro — El huevo que anotó el contable
 @where: Junto al pequeño templete abovedado sobre la fuente, en la esquina del claustro cerca de la puerta de la iglesia, desde donde se ve el interior de su pequeña bóveda.

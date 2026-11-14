@@ -1,6 +1,6 @@
 @id: 019 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · same place, among the shields (or at the entrance if closed) [O8]
+@room: The choir · same place, among the shields (or at the entrance if closed)
 @type: W
 @title: El coro — Cuatro días de marzo
 @where: En el mismo lugar que la parada anterior, dentro del coro, con los escudos pintados sobre los asientos altos a la vista. Si el coro está cerrado, en su entrada.

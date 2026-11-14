@@ -1,0 +1,26 @@
+@id: 003 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The square and the facade
+@room: The Pla de la Seu · with the Casa de l'Ardiaca in view, beside the cathedral
+@type: R
+@title: Le Pla de la Seu — Une place d'après-guerre
+@where: Sur la place, tourné vers la vieille maison de pierre adossée à la muraille romaine, à côté de la cathédrale, avec sa porte en vue. Restez à l'écart des marches.
+@what: The square opened after the Civil War, avenue 1939–1958 (F6.1 HEDGE, safe wording "after the war, over almost twenty years"; A6, S23); the Barri de la Catedral "one of the most affected", Sant Felip Neri 30 Jan 1938, 42 dead incl. 20 children (G112 OK, GS20; no direction; never "the cathedral was hit"); the Casa de l'Ardiaca built around the 12th century "taking advantage of part of Barcelona's old Roman wall" (F6.3 OK, A6); rebuilt by Lluís Desplà, Gothic "with some Renaissance features" (F6.4 OK, A6); forward to 034 (safe); Picasso's friezes on the College of Architects, drawings ready Oct 1960, sandblasted by Carl Nesjar, the dust paraphrased (F6.8 OK, A12). Letterbox (G124) left out: conditional on O13 and over the aim.
+@listen: Why the open square in front of the cathedral is younger than it looks, and the house that moved into the Roman wall.
+@brief: A guide on the square, conversational, then quiet and plain for the bombing, lighter again for the house and the Picasso drawings.
+@pace: medium
+@energy: 3→2→3
+@sources: A6 https://ajuntament.barcelona.cat/arxiumunicipal/arxiuhistoric/en/casa-de-lardiaca (OFF, Arxiu Històric, re-read 14 Nov 2026: "was built around the 12th century, taking advantage of part of Barcelona's old Roman wall."; "At the end of the 15th century, Archdeacon Lluís Desplà had it rebuilt in the Gothic style, with some Renaissance features."; Avinguda de la Catedral opened after demolitions, EN) ; S23 https://tesisenred.net/handle/10803/405899 (SEC, UB thesis abstract, re-read 14 Nov 2026: "entre 1939 y 1958, de la Avenida de la Catedral"; "la destrucción provocada por la Guerra Civil española", ES) ; GS20 https://beteve.cat/cultura/bombardeig-poemes-placa-catedral-contra-violencia/ (SEC, betevé, re-read 14 Nov 2026: "El barri de la Catedral va ser un dels més afectats."; Sant Felip Neri, 30 Jan 1938, 42 dead, 20 of them children, CA) ; A12 https://museupicassobcn.cat/en/whats-on/news/50-years-picassos-friezes-architects-college-catalonia (OFF, Museu Picasso, re-read 14 Nov 2026: "on the 18th October 1960 ... he telephoned me to say that the drawings were ready."; Carl Nesjar, sandblasting; "The sand and mortar created a formidable cloud of dust.", EN)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 003 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Cette vaste place est plus jeune qu'il n'y paraît. Jusqu'à la guerre civile, un quartier dense l'occupait. La large avenue devant la cathédrale a été ouverte après la guerre, en près de vingt ans.
+
+[quietly] Le quartier de la cathédrale fut parmi les plus bombardés. Les bombes sont tombées sur les rues autour de vous. Sur la petite place voisine de Sant Felip Neri, le 30 janvier 1938, 42 personnes sont mortes, dont 20 enfants.
+
+[pause] La vieille maison de pierre voisine est la Casa de l'Ardiaca, la maison de l'archidiacre. Les archives de la ville la disent bâtie vers le douzième siècle, «en profitant d'une partie de l'ancienne muraille romaine de Barcelone». Regardez: la maison s'est simplement installée dans le mur.
+
+À la fin du quinzième siècle, l'archidiacre Lluís Desplà l'a reconstruite dans le style gothique, «avec quelques traits Renaissance». Vous le retrouverez au musée de la salle capitulaire, agenouillé dans un tableau.
+
+[lightly] En face, les dessins au trait sur le bâtiment moderne du Collège des architectes sont de Picasso. En octobre 1960, il téléphona: les dessins étaient prêts. L'artiste Carl Nesjar les grava au jet de sable dans le béton, soulevant un formidable nuage de poussière.
+
+Tournez-vous maintenant vers la façade de la cathédrale. Placez-vous assez loin pour la voir en entier, de la porte jusqu'aux flèches: La façade · Dessinée en 1408, bâtie en 1887.

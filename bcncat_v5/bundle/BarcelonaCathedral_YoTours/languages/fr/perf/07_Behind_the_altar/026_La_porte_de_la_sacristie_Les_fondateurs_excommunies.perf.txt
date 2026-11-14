@@ -1,0 +1,30 @@
+@id: 026 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Behind the high altar
+@room: The sacristy door · on the right of the high altar, below the two painted wooden coffins high on the wall
+@type: W
+@title: La porte de la sacristie — Les fondateurs excommuniés
+@where: Près de la porte de la sacristie, à droite du maître-autel quand vous lui faites face, assez en retrait pour voir deux cercueils de bois peint en haut du mur.
+@what: The two painted wooden coffins on the sacristy wall, right of the high altar (G22, S19; G24, GS5); Almodis and Ramon Berenguer I married 1052, her two earlier husbands alive, his wife repudiated (F2.12, G28); al-Bakri's Tortosa fleet (G29 HEDGE, attributed); Ermessenda, Victor II, the excommunication, her later submission and request to lift it (G30); consecration of their cathedral, November 1058 (F2.3), "soon after"; MUHBA on the Gothic works destroying the Romanesque cathedral (Q12, F2.10, ES); Almodis killed by her stepson, 1071 (F2.13, G31); the move from probably Roman marble sarcophagi into painted wood, tradition vs "several other names" (F10.14, G23, G26); the 1603 Hercules belief (G25, as recorded); forward to the cloister door (028, safe F). Audit fixes, 14 Nov 2026: the Spanish quotation now paraphrased in English (the original stays in @sources); consecrated in the passive (facts M2); see notes/AUDIT_FIXES.md.
+@listen: The count and countess who built the cathedral before this one: a scandalous marriage, a pope's ban, a murder, and two painted boxes whose occupants are still argued over.
+@brief: A guide telling a medieval scandal with relish but without exaggeration, then quieter for the murder, and honest about the doubt at the end.
+@pace: medium
+@energy: 3→4→3
+@sources: GS6 https://epistolae.ctl.columbia.edu/woman/25529.html (SEC, Columbia Univ., re-read 14 Nov 2026: married "first to Hugh of Lusignan", annulled; "to Pons, count of Toulouse, in 1040"; married Ramon Berenguer "in 1052, while the first two husbands were still alive"; "Raymond repudiated his second wife, Bianca, to marry her"; al-Bakri reported that he "had hired the Saracen fleet of Tortosa" to take her from her then husband; Ermessenda "appealed to pope Victor II, who had Raymond and Almodis excommunicated"; she "eventually gave in, in 1057", swore fidelity and "asked the pope to lift the excommunication"; "this stepson, the heir to Barcelona, killed Almodis in 1071", Peter Raymond, son of the first wife) ; O1 https://catedralbcn.org/en/the-cathedral/history/ (OFF, via FACTS F2.3, not re-read: "consecrated on 18 November 1058") ; A7 https://www.barcelona.cat/museuhistoria/sites/default/files/guiagothic.pdf (OFF MUHBA, re-read: "las obras de la catedral gótica implicaron la destrucción de la románica", ES, quoted and translated) ; S19 https://www.enciclopedia.cat/catalunya-romanica/epigrafia-depoca-romanica-barcelona (SEC-enc, re-read: "en la paret de la sagristia qui es en la bande dreta del altar major"; the remains of a count and a princess moved from marble sarcophagi, probably reused Roman pieces, into wooden coffins "sostinguts a mitja alçada en el mur de la sagristia"; the traditional 1545 date rejected; attributed to Ramon Berenguer I and Almodis, identity disputed: Ramon Berenguer III, Peronella) ; GS5 https://dialnet.unirioja.es/descarga/articulo/5744790.pdf (SEC, Mercader 2008, re-read: Joly 1603–04 "Un viejo resto de sepulcro se enseña; algunos dicen que es de Hércules, otros de Raimundo, conde de Barcelona"; Ponz "Al lado de la sacristía hay dos urnas sepulcrales"; n. 5 Bofarull, Español, Bassegoda alternatives)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 026 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Le couple qui a payé la cathédrale précédente fut excommunié pour son mariage. Quand la comtesse Almodis épousa le comte Ramon Berenguer premier de Barcelone, en 1052, ses deux précédents maris vivaient encore. Et lui avait répudié sa propre femme pour l'épouser.
+
+Comment l'avait-il conquise? Un chroniqueur arabe, al-Bakri, écrivit que le comte engagea la flotte musulmane de Tortosa pour l'enlever à son mari. C'est la parole d'un seul chroniqueur. Mais elle montre comment l'histoire se racontait.
+
+Sa grand-mère, la comtesse Ermessenda, fit appel au pape, Victor deux, qui les excommunia tous deux. Finalement, elle céda. Elle jura fidélité au couple, et demanda au pape de lever la sanction. Peu après, en novembre 1058, leur nouvelle cathédrale fut consacrée, ici, sur ce site.
+
+[pause] Elle n'a pas survécu. Selon les mots du musée d'histoire de la ville, construire la cathédrale gothique signifia détruire la romane. L'église où vous êtes a remplacé la leur.
+
+[quietly] La comtesse elle-même connut une fin violente. En 1071, elle fut tuée par son beau-fils, le fils et héritier du comte, né de sa première épouse.
+
+[curious] Levez maintenant les yeux en haut du mur, vers deux coffres de bois peint. Quand l'église gothique s'éleva, les corps d'un comte et d'une comtesse furent sortis de vieux sarcophages de marbre, sans doute romains et réutilisés, et placés dans le bois peint. La tradition dit que les fondateurs reposent là-haut. Les historiens ont proposé plusieurs autres noms. Il y a quatre siècles, un voyageur écrivit qu'on lui avait montré un vieux tombeau dans cette cathédrale. Certains, nota-t-il, l'attribuaient à Hercule, d'autres à un comte de Barcelone.
+
+Une porte de leur église a peut-être survécu. Vous la verrez dans le cloître.
+
+Avancez vers la porte principale, jusqu'à la porte de marbre blanc qui donne sur le cloître, dans la travée de droite quand vous faites face au maître-autel. Arrêtez-vous à côté, à l'écart, et regardez le chœur, l'enceinte au milieu de la nef, de l'autre côté: La porte du cloître · L'été 1936.

@@ -1,9 +1,9 @@
 @id: 024 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: Behind the high altar · in the ambulatory, the walkway behind the altar, the tall windows in view [O17]
+@room: Behind the high altar · in the ambulatory, the walkway behind the altar, the tall windows in view
 @type: W
 @title: Behind the high altar — They started at this end
-@where: In the ambulatory, the curving walkway behind the high altar, standing to one side of the flow where you can look up at the tall windows above its chapels. [O17, O2, O5, ALT-P]
+@where: In the ambulatory, the curving walkway behind the high altar, standing to one side of the flow where you can look up at the tall windows above its chapels.
 @what: The chevet, first phase: apse, ambulatory chapels, presbytery and crypt, mostly under Bishop Ponç de Gualba (F3.8, F3.21); the first master unnamed, Jaume Fabre hired 1317 from Mallorca, master for life (F3.6, F3.7, S7, A7); high altar consecrated "in the 1330s" (F3.9 safe wording); the oldest glass above the radial chapels, matching their saints, two with royal arms, the central window with the bishop's shield (F4.12, F4.13, G46, O4); Ponç de Gualba buried in the Patrocini chapel (G45, O17: no position given); DATED: twelve windows restored, finished 2024 (F4.15). Callback 022 (Fabre's crypt; safe in F). No 1298. Audit fixes, 14 Nov 2026: the 2024 windows line cut; Fabre's crypt hedged ('thought to be'); the crypt left out of the first-phase list (facts N15); 'the royal arms' (facts S5); see notes/AUDIT_FIXES.md.
 @listen: The cathedral began at this end, behind the altar: who built it, the oldest glass, and a bishop who lies under his own window.
 @brief: A guide in a quieter corner, unhurried and curious, letting the listener look up while the story of the beginning unfolds.

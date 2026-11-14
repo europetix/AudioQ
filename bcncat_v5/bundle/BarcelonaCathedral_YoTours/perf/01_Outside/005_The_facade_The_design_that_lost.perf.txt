@@ -3,7 +3,7 @@
 @room: The facade · same spot
 @type: R
 @title: The facade — The design that lost
-@where: Same spot on the square, facing the front, far enough back to see the lantern tower rising behind it. [O13]
+@where: Same spot on the square, facing the front, far enough back to see the lantern tower rising behind it.
 @what: Joan Martorell's rejected entry, with popular and press support, turned down by the Royal Academy of San Fernando on "rather weak grounds" (F5.6 OK, S24, S25, A7); helped by the very young Lluís Domènech i Montaner and Antoni Gaudí, "drafted by Antoni Gaudí" (F5.7 OK, A7, S25); the winner under Josep Oriol Mestres's name, the paymaster's hand in it (F5.8 HEDGE, safe wording); critics: the lantern tower borrowed from the loser (F5.20 OK, S24, S25); Mestres died and August Font took over (F5.14 OK, S24, optional, used). Girona's marquisate (F5.11) left out: not re-read. No dates (004 has them).
 @listen: Gaudí did work on this facade, on paper, for the design that lost, and the winners were accused of borrowing from it.
 @brief: A guide letting the listener in on a bit of gossip; wry and conspiratorial, never taking sides.
@@ -13,7 +13,7 @@
 ---
 [conspiratorial] The public loved the design that lost. Joan Martorell's entry was taller and richer, and it had the support of the people and the press. The Royal Academy in Madrid turned it down anyway, on "rather weak grounds", says the architects' college's catalogue.
 
-Joan Martorell had help from two very young architects. One was Lluís Domènech i Montaner. The other was Antoni Gaudí. The University of Barcelona calls it a project "drafted by Antoni Gaudí". So Gaudí did work on this front. On paper. And he lost.
+Joan Martorell had help from two very young architects. One was Lluís Domènech i Montaner. The other was Antoni Gaudí. The University of Barcelona calls it a project "drafted by Antoni Gaudí". So Gaudí did draw for this front. On paper only. And he lost.
 
 The design that won carried the name of the cathedral's architect, Josep Oriol Mestres. But the man paying the bills had a hand in the drawing too.
 

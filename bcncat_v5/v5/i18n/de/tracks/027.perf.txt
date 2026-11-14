@@ -1,6 +1,6 @@
 @id: 027 · DE · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Behind the high altar
-@room: The cloister door · beside the white marble doorway, inside the church, the choir in view [O2]
+@room: The cloister door · beside the white marble doorway, inside the church, the choir in view
 @type: W
 @title: Die Kreuzgangtür — Der Sommer 1936
 @where: In der Kirche, neben der weißen Marmortür in den Kreuzgang, im Joch rechts vom Hochaltar mit Blick zu ihm. Halten Sie die Tür frei, mit dem Chor quer durch die Kirche im Blick.

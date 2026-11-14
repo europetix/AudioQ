@@ -1,0 +1,26 @@
+@id: 023 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The crypt
+@room: The crypt · by the tomb, the reliefs on its box in view
+@type: R
+@title: La cripta — Un cómic en mármol
+@where: Abajo, en la cripta, junto al sepulcro de mármol, sin estorbar en los escalones, donde se vean las escenas talladas de su caja. Si la cripta está cerrada, en lo alto de su escalera.
+@what: Eight high reliefs following the Catalan versions of the Golden Legend (F8.13 OK, S4); the scenes as the cathedral describes them: talking with her parents, then walking alone; the trial, condemned by Dacian; death on the cross; the finger theft on the rear section (O3; COMP §1.2 says the reliefs are often hard to see, so the look is conditional); the finger legend (F7.14 LEGEND, O3, S18; "the story goes"); Lupo witnessing Jaume Fabre freeing a Greek slave, 1327 (F8.12 OK, S4; callback 022 Fabre, safe); the councillors' 1327 letter about the bishop's Pisan altar of 110 florins, mentioning "el mestre del sepulcre de Santa Eulàlia" (F8.11 OK, S4; paraphrased, no quotation marks); Not used (cut for length): the inscription's 287, "inexact" (G74 OK, GS15 p. 122); the four evangelists and the atlas in a lion skin (F8.17 OK, S4); the paymasters' heads on the arch (G85 HEDGE, press only: only if O10 finds them); the box c. 1327 / lid c. 1339 (F8.10, optional).
+@listen: Reading the saint's life off the marble box, and the two masters who made it, caught in one document.
+@brief: A guide crouched beside a carved box with a curious listener, pointing scene by scene, warm and a little playful.
+@pace: medium
+@energy: 2→3→3
+@sources: S4 https://www.enciclopedia.cat/lart-gotic-a-catalunya/lupo-di-francesco-a-barcelona-el-sepulcre-de-santa-eulalia-i-el-seu-context (SEC, Bracons, re-read 14 Nov 2026: "un total de vuit alts relleus"; the narrative "es correspon fidelment amb la que recullen les versions catalanes de la Llegenda àuria"; "un document del mateix 1327 signa com a testimoni", Lupo witnessing Jaume Fabre freeing a slave of Greek origin; the councillors' letter to Ponç de Gualba about "el mestre del sepulcre de Santa Eulàlia" and "110 florins d'or" for a marble altar from Pisa that could be made locally for less; "els quatre evangelistes"; "un atlant amb una pell de lleó a l'esquena", perhaps Hercules, Samson or David, CA) ; O3 https://catedralbcn.org/en/?p=2421 (OFF, re-read 14 Nov 2026: "In the first episode, the young woman is talking to her parents and we then see her walking by herself."; "In the long central section there are three scenes: first is her trial, in which she is condemned by the prefect Dacian"; "The narrow segment on the right represents the death of the Saint on the cross."; rear: "the pause by the funeral procession so that a cleric could replace the finger that he had recently stolen from the Saint's right hand", EN) ; GS15 https://hispaniasacra.revistas.csic.es/index.php/hispaniasacra/article/download/1038/990/1342 (SEC, re-read 14 Nov 2026: "parece que la santa murió en torno al año 304, no en el año 287", p. 122, ES) ; S18 https://beteve.cat/va-passar-aqui/santa-eulalia-antiga-patrona-barcelona/ (SEC, re-read 14 Nov 2026: the coffin too heavy to carry until the canon returned the finger, CA)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 023 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Este sepulcro cuenta su historia como lo haría un cómic. Ocho escenas talladas recorren la caja, y siguen su vida tal como la contaban las versiones catalanas medievales de la Leyenda Dorada.
+
+[pause] Empiece por el lado estrecho donde habla con sus padres, y luego se marcha sola. En el lado largo, el gobernador Daciano la juzga y la condena. En el otro lado estrecho, muere en la cruz. Si desde donde está cuesta distinguirlas, las escenas siguen ahí.
+
+[amused] La mejor historia está tallada detrás. Cuando llevaban su cuerpo en procesión, cuenta la historia, se volvió tan pesado que no se podía mover. Un clérigo había robado un dedo de su mano derecha. Solo cuando lo devolvió pudo seguir la procesión.
+
+Los dos maestros de esta cripta y su sepulcro aparecen juntos en un documento de 1327. El escultor pisano, Lupo di Francesco, firmó como testigo mientras el maestro mallorquín, Jaume Fabre, liberaba a un esclavo griego.
+
+[wry] Ese mismo año, los consejeros de la ciudad escribieron al obispo. Él quería encargar a Pisa un altar de mármol, y ellos pensaban que podía hacerse aquí más barato. Su carta menciona al maestro del sepulcro de Santa Eulalia.
+
+Si bajó, vuelva a lo alto de la escalera. Gírese hacia el altar mayor y rodéelo por su lado izquierdo, mirándolo, hasta la girola de detrás. Deténgase donde pueda mirar arriba, a sus altas vidrieras: Detrás del altar mayor · Empezaron por este extremo.

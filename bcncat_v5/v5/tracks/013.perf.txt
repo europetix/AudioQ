@@ -3,7 +3,7 @@
 @room: The lift · same place (queue or top)
 @type: R
 @title: The lift — Lightning and firecrackers
-@where: Same place as the last stop: in the lift queue at the chapel of the Holy Innocents, beside the Sant Iu door, or at the top to one side of the lift. Nothing needs to be seen. [O3, O7: "And among the monsters, it says, there's a bull, a unicorn and an elephant." is one attributed, cuttable sentence: cut it if O7 finds none of the three; ALT-NQ]
+@where: Same place as the last stop: in the lift queue at the chapel of the Holy Innocents, beside the Sant Iu door, or at the top to one side of the lift. Nothing needs to be seen.
 @what: Lightning on 5 April 1582 and 27 August 1646 (F4.18 OK SEC, S32 p. 56; second date spoken as "sixty-four years later", our arithmetic); the Saint John's Eve firecrackers of 1606 (F4.19 HEDGE, one press source, S30, attributed); the roof reopened in 2024 after works: 2,002 m² of ceramics, new stairs, handrails, an updated lift, the original floor tiles recovered, paid by the Catalan and Spanish governments (F15.13 DATED, S35; O6; no sums); gargoyles: Joan Claperós made many for the cloister around 1450 (S33: "el 1450 realitzà nombroses gàrgoles", at the cloister), the city's count of two hundred and its bull, unicorn and elephant (F4.16 HEDGE, A4, attributed; 014 points only at what O7 sees). Audit fixes, 14 Nov 2026: the gargoyle animals stay as one attributed sentence, cut unless O7 finds one; see notes/AUDIT_FIXES.md.
 @listen: Storms, a midsummer near-miss and the newly renewed roof, told while you wait to go up.
 @brief: A guide passing the time in a queue with good weather-and-fire stories, dry and easy, building a little anticipation for the roof.

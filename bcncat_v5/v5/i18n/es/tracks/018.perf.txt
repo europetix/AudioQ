@@ -1,6 +1,6 @@
 @id: 018 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The choir
-@room: The choir · inside, where the painted shields above the upper stalls are in view (or at the entrance if closed) [O8]
+@room: The choir · inside, where the painted shields above the upper stalls are in view (or at the entrance if closed)
 @type: W
 @title: El coro — El club más exclusivo de Europa
 @where: Dentro del coro, donde se vea la fila de escudos pintados sobre los altos asientos superiores. Si el coro está cerrado, en su entrada, mirando hacia dentro.

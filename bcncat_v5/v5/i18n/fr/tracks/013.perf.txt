@@ -1,0 +1,24 @@
+@id: 013 · FR · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The roof
+@room: The lift · same place (queue or top)
+@type: R
+@title: L'ascenseur — La foudre et les pétards
+@where: Au même endroit que l'étape précédente: dans la file de l'ascenseur, à la chapelle des Saints-Innocents, près de la porte de Sant Iu, ou en haut, sur le côté de l'ascenseur. Rien n'est à voir.
+@what: Lightning on 5 April 1582 and 27 August 1646 (F4.18 OK SEC, S32 p. 56; second date spoken as "sixty-four years later", our arithmetic); the Saint John's Eve firecrackers of 1606 (F4.19 HEDGE, one press source, S30, attributed); the roof reopened in 2024 after works: 2,002 m² of ceramics, new stairs, handrails, an updated lift, the original floor tiles recovered, paid by the Catalan and Spanish governments (F15.13 DATED, S35; O6; no sums); gargoyles: Joan Claperós made many for the cloister around 1450 (S33: "el 1450 realitzà nombroses gàrgoles", at the cloister), the city's count of two hundred and its bull, unicorn and elephant (F4.16 HEDGE, A4, attributed; 014 points only at what O7 sees). Audit fixes, 14 Nov 2026: the gargoyle animals stay as one attributed sentence, cut unless O7 finds one; see notes/AUDIT_FIXES.md.
+@listen: Storms, a midsummer near-miss and the newly renewed roof, told while you wait to go up.
+@brief: A guide passing the time in a queue with good weather-and-fire stories, dry and easy, building a little anticipation for the roof.
+@pace: medium
+@energy: 3→3→4
+@sources: S32 https://revistes.ub.edu/index.php/materia/article/download/34994/39591/116540 (SEC, Jardí 2023, re-read 14 Nov 2026: "a la catedral va caure un llamp el 5 d'abril de 1582 i un altre el 27 d'agost de 1646"; "No sabem el lloc precís on van caure ni les dimensions dels desperfectes", n. 33 cites the city's ceremonial records, p. 56, CA) ; S30 https://beteve.cat/va-passar-aqui/catedral-barcelona-historia/ (SEC, betevé, re-read 14 Nov 2026: "l'any 1606, els petards de Sant Joan gairebé la cremen", CA) ; S35 https://catalannews.com/life-style/item/barcelona-cathedral-opens-new-viewpoint-and-finishes-stained-glass-restoration (SEC, re-read 14 Nov 2026: "2,002 square meters of ceramics"; "recovered the original floor tiles"; "new stairs, handrails, and an updated lift"; "paid for by the Catalan and Spanish governments"; terraces "now are open to visitors", 10 Jul 2024, EN) ; O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read: original paving recovered, new stairs and railings, "s'ha modernitzat l'ascensor", CA) ; S33 https://www.enciclopedia.cat/lart-gotic-a-catalunya/lescultura-decorativa-a-la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: Joan Claperós "el 1450 realitzà nombroses gàrgoles", at the cloister, CA) ; A4 https://www.barcelona.cat/en/conocebcn/pics/la-catedral-92086000934 (OFF, re-read 14 Nov 2026: "200 gargoyles keeping watch from on high"; "a bull, a unicorn and an elephant among the monsters and demonic beings", EN)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 013 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Un toit de cathédrale est agréable par temps clair, et fâcheux par temps d'orage. Un historien du cloître a trouvé les dates dans les vieux registres de cérémonial de la ville. La foudre frappa la cathédrale le cinq avril 1582, puis un jour d'août, soixante-quatre ans après. Où elle frappa et ce qu'elle brisa, nul ne le sait.
+
+Le feu faillit aussi venir d'en bas. En 1606, selon la télévision publique de Barcelone, les pétards de la Saint-Jean, la grande nuit d'été barcelonaise, faillirent brûler la cathédrale.
+
+Les toits ont rouvert en 2024, après travaux. On a refait quelque deux mille mètres carrés de tuiles, avec escaliers et rampes neufs et un ascenseur modernisé, et récupéré les carreaux de sol d'origine. Les gouvernements catalan et espagnol ont payé.
+
+[lightly] Sur les toits, les gargouilles vous tiendront aussi compagnie. Au milieu du quinzième siècle, un sculpteur, Joan Claperós, fit des gargouilles pour le cloître. La ville en compte deux cents sur les toits et les pinacles. Et parmi les monstres, dit-elle, il y a un taureau, une licorne et un éléphant.
+
+Si vous êtes encore dans la file, montez quand ce sera votre tour. Si vous êtes déjà sur les toits, ou une fois là-haut, suivez la passerelle jusqu'à avoir devant vous la tour-lanterne au-dessus de la porte principale: Les toits · Sainte Hélène sur la lanterne.

@@ -1,6 +1,6 @@
 @id: 035 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The Chapter Hall
-@room: The Chapter Hall · beside the monstrance and the stone font [O21]
+@room: The Chapter Hall · beside the monstrance and the stone font
 @type: R
 @title: La Sala Capitular — Un trono para la Hostia
 @where: En el museo de la Sala Capitular, junto a la gran custodia dorada sobre su asiento de plata, con la pila de piedra de lados lobulados cerca. Solo se señala lo que está expuesto.

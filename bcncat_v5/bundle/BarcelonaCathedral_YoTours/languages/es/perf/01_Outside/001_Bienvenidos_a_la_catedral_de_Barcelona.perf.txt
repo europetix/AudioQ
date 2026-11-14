@@ -1,0 +1,26 @@
+@id: 001 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The square and the facade
+@room: The Pla de la Seu · on the square in front of the cathedral, to one side of the steps (heard before you go in)
+@type: ANCHOR
+@title: Bienvenidos a la catedral de Barcelona
+@where: En el Pla de la Seu, la plaza abierta ante la catedral, a un lado de la escalinata de la puerta principal para no cortar el paso. Se escucha antes de entrar.
+@what: Not the Sagrada Família: a basilica dedicated by Benedict XVI on 7 Nov 2010 (F16.5 OK, S37); this is the cathedral of the Holy Cross and Saint Eulàlia, la Seu (F7.1 OK M1, F16.1 OK, §19); "more than seventeen hundred years of history" (F1.18 OK, O6); the route in one breath, version-neutral (PLAN §1 route, Variant A, O1); practical lines once: headphones / working church (ROUTE §1.5), hat off and voice low (F17.6 DATED, A2), no photos during services (F17.7 OFF, O7), small lift so a wait (no capacity, no times; COMP §2.2), offline (COMP §4.2-2); lengths per lead's decision 1 and the route audit R5 (Full ≈ 95–97 with a 5-min lift wait: "a little more with a wait for the lift"). No Gaudí, no UNESCO, no left/right, no date but 2010.
+@listen: A warm welcome that clears up the Sagrada Família mix-up, says what this building is, and sets out the walk and the few practical things.
+@brief: A friendly guide meeting a visitor on the square; warm and reassuring at the mix-up, clear and brisk for the practical lines, inviting at the end.
+@pace: medium
+@energy: 3→3→3
+@sources: S37 https://sagradafamilia.org/-/la-sagrada-familia-acull-la-missa-per-a-la-celebracio-del-x-aniversari-de-la-dedicacio-de-la-basilica (OFF for the Sagrada Família, re-read 14 Nov 2026: "El 7 de novembre del 2010, el papa Benet XVI va oficiar la cerimònia de dedicació de la Basílica.", CA) ; M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (OFF, MNAC, re-read 14 Nov 2026: "dedicated to the Holy Cross and to Saint Eulàlia", EN) ; O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: "La Catedral és testimoni de més de mil set-cents anys d'història.", CA) ; A2 https://thisisbarcelona.com/ca/tickets/catedral-barcelona (OFF-TUR seller page, re-read 14 Nov 2026: "cal treure's el capell i parlar en veu baixa"; silence at services, CA; DATED) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: "Please do not enter or take pictures during the celebrations"; lift "though the chapel of the Innocent Saints", EN) ; ROUTE §1.5 and COMP §4.2 (practical framing only, not facts)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 001 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Si venía buscando la Sagrada Família, está en la ciudad correcta, aunque delante de otra iglesia. Está en buena compañía: muchos visitantes llegan con la misma idea. La Sagrada Família es una basílica, dedicada por el papa en 2010. Esta es la catedral de Barcelona, la sede de sus obispos: la catedral de la Santa Cruz y Santa Eulalia. La ciudad la llama simplemente la Seu.
+
+Los cristianos llevan diecisiete siglos rezando en esta esquina de la antigua ciudad romana. Hoy se alza aquí una iglesia gótica, construida en torno a una muchacha que llegó a ser la santa de la ciudad. Y en su claustro conocerá a unas ocas.
+
+[pause] Este es el recorrido. Empezamos aquí, en la plaza, con la fachada de la catedral. Dentro, nos situaremos bajo el cimborrio sobre la puerta, y nos detendremos en la capilla del Santo Cristo de Lepanto. Después, el ascensor, y arriba, a las terrazas. De vuelta abajo, el coro y la cripta de Santa Eulalia. Luego, detrás del altar mayor, el claustro con sus ocas, y el museo de la Sala Capitular. Salimos por la puerta del propio claustro, a Carrer del Bisbe. En las versiones cortas se omiten algunas de estas paradas.
+
+Algunas cosas prácticas. Auriculares, por favor: es una iglesia en activo, y la gente viene aquí a rezar. Dentro, hable en voz baja y quítese el sombrero. Por favor, no haga fotos durante los oficios. A las terrazas se sube en un ascensor pequeño, así que puede haber espera. Y esta guía funciona sin conexión: no necesitará cobertura.
+
+[lightly] Caminando, el recorrido completo dura cerca de hora y media, algo más si hay que esperar el ascensor. La versión esencial, cerca de una hora, y los imprescindibles, una media hora. Escuche las paradas en orden. Los números de su teléfono pueden saltar, pero cada parada le dice adónde ir después.
+
+Ahora camine por la plaza hasta el extremo donde se alzan dos torres romanas, y vuélvase a mirar la catedral: El Pla de la Seu · Los obispos nunca se fueron.

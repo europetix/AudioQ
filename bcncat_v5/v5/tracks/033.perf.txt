@@ -1,9 +1,9 @@
 @id: 033 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The cloister
-@room: The cloister · at the room called Jewish memory, the Old Archive of 1535, its place to be confirmed on site [O6]
+@room: The cloister · at the room called Jewish memory, the Old Archive of 1535, its place to be confirmed on site
 @type: X
 @title: The cloister · Extra · Jewish memory
-@where: In or at the door of the room called Jewish memory, the Old Archive of 1535, with its documents on display; its location must be confirmed on site, and it is not assumed to open off the cloister. [O6: G102 puts the Old Archive over the left-side gallery of the church; ALT-J, ALT-J2]
+@where: In or at the door of the room called Jewish memory, the Old Archive of 1535, with its documents on display; its location must be confirmed on site, and it is not assumed to open off the cloister.
 @what: Jewish memory = the Old Archive of 1535: original sales, rentals and wills in Latin, Hebrew and Catalan, "written testimonies that give a voice to the inhabitants of medieval Barcelona" (G101, F15.5, O7, EN); the Call's edge along streets lined by the bishop's properties (G103, re-read: safe wording); a canon leased the land of the smaller Jewish quarter (G106, optional, cut for length); August 1391: preaching that began in Seville, about three hundred dead, survivors converted or fled (G104, GA3; [quietly]); funerary slabs reused as building stone from 1391, the known sites outside the cathedral (G105, GA3, no direction); the chapter's archive here until 1969, about forty thousand parchments, nine papyri in the endpapers of one manuscript (F15.1, F15.2, G102, O9); callback 002 (Almanzor; safe F). Audit fixes, 14 Nov 2026: the Call's edge and the Almanzor callback cut; the room's place is to be confirmed on site (O6); see notes/AUDIT_FIXES.md.
 @listen: In the cathedral's old archive, the medieval Jews of Barcelona speak through their contracts and wills, and the year 1391 is remembered plainly.
 @brief: A guide speaking low and evenly in a room of documents; respectful, exact, no adjectives on the violence.

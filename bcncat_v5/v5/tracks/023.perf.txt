@@ -1,9 +1,9 @@
 @id: 023 · Barcelona Cathedral · 14 Nov 2026 edition
 @section: The crypt
-@room: The crypt · by the tomb, the reliefs on its box in view [O10]
+@room: The crypt · by the tomb, the reliefs on its box in view
 @type: R
 @title: The crypt — A comic strip in marble
-@where: Down in the crypt beside the marble tomb, out of the way of the steps, where the carved scenes on its box can be seen; if the crypt is closed, at the top of its stair. [O10, O2, O17]
+@where: Down in the crypt beside the marble tomb, out of the way of the steps, where the carved scenes on its box can be seen; if the crypt is closed, at the top of its stair.
 @what: Eight high reliefs following the Catalan versions of the Golden Legend (F8.13 OK, S4); the scenes as the cathedral describes them: talking with her parents, then walking alone; the trial, condemned by Dacian; death on the cross; the finger theft on the rear section (O3; COMP §1.2 says the reliefs are often hard to see, so the look is conditional); the finger legend (F7.14 LEGEND, O3, S18; "the story goes"); Lupo witnessing Jaume Fabre freeing a Greek slave, 1327 (F8.12 OK, S4; callback 022 Fabre, safe); the councillors' 1327 letter about the bishop's Pisan altar of 110 florins, mentioning "el mestre del sepulcre de Santa Eulàlia" (F8.11 OK, S4; paraphrased, no quotation marks); Not used (cut for length): the inscription's 287, "inexact" (G74 OK, GS15 p. 122); the four evangelists and the atlas in a lion skin (F8.17 OK, S4); the paymasters' heads on the arch (G85 HEDGE, press only: only if O10 finds them); the box c. 1327 / lid c. 1339 (F8.10, optional).
 @listen: Reading the saint's life off the marble box, and the two masters who made it, caught in one document.
 @brief: A guide crouched beside a carved box with a curious listener, pointing scene by scene, warm and a little playful.

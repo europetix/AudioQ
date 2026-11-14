@@ -1,6 +1,6 @@
 @id: 010 · ES · Barcelona Cathedral · 14 Nov 2026 edition
 @section: Inside the main door
-@room: The baptistery · at the chapel's entrance, the font and its tall window in view [O11, O14]
+@room: The baptistery · at the chapel's entrance, the font and its tall window in view
 @type: W
 @title: El baptisterio — Bautizados aquí
 @where: En la entrada de la primera capilla a la izquierda mirando al altar mayor, junto a la puerta principal, con la pila y la alta vidriera a la vista. Apártese si hay fieles.
