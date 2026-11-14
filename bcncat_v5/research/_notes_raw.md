@@ -347,3 +347,8 @@ FAILED: https://publicacions.iec.cat/repository/pdf/00000059\00000094.pdf (robot
 - cloister capitals Genesis; Adam & Eve labours/expulsion attributed Dello Delli (Daniel Nicolau) working 1434; Bertran Tolosa, Llorenç Reixac (1440), Antoni Claperós
 - Porta de la Pietat tympanum "atribuït amb versemblança a Miquel Lochner"
 - Porta de Santa Eulàlia statue of saint now in Cathedral Museum linked to Claperós
+[S35] El Debate, G. Altarriba Vilanova, 28 May 2026 "El Papa León XIV conocerá en España el kilómetro cero del cristianismo en América" https://www.eldebate.com/espana/cataluna/barcelona/20260528/papa-leon-xiv-conocera-espana-kilometro-cero-cristianismo-america_422265_amp.html ES OK
+- baptismal font by Onofre Julià 1433; plaque in chapel: first six Indigenous people brought by Columbus "han renacido en el bautismo" April 1493; Fernando and son Juan present; "Retornaron a su país e hicieron de misioneros"
+- article notes plaque may be imprecise: in April 1493 Fernando recovering at Sant Jeroni de la Murtra after stabbing
+- Isabel permitted after 2 years catechesis (Archdiocese via Alfa y Omega); dean Santiago Bueno
+- "la primera ciudad cristiana en plantar una semilla en el nuevo mundo"
