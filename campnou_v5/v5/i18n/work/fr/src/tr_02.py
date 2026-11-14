@@ -59,7 +59,7 @@ Le public suivit. Le 30 mars 2022, plus de quatre-vingt-onze mille personnes les
 
 Alexia Putellas arriva à dix-huit ans, en 2012, et partit en 2026, meilleure buteuse de l'histoire du club. Aitana Bonmatí est issue des équipes de jeunes du club.
 
-À elles deux, Alexia et Aitana ont gagné cinq fois le Ballon d'Or comme joueuses du Barça. En 2026, Alexia a gagné son troisième.
+À elles deux, Alexia et Aitana ont gagné cinq fois le Ballon d'Or comme joueuses du Barça. En 2026, après avoir quitté le club, Alexia a gagné son troisième.
 
 Regardez maintenant les quatre trophées européens. [pause] Le premier arriva cinquante ans après ce match de Noël.
 
