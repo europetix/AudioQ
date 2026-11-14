@@ -1,0 +1,30 @@
+@id: 012 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The roof
+@room: The lift · in the queue at the chapel of the Holy Innocents, or at the top beside the lift (ALT-NQ)
+@type: W
+@title: El ascensor — Eulalia da las horas
+@where: En la cola del ascensor a las terrazas, en la capilla de los Santos Inocentes, junto a la puerta de Sant Iu. Si no hay cola, arriba, a un lado del ascensor. No hace falta ver nada.
+@what: The hour bell Eulàlia and the quarter bell Honorata, both cast by Francesc Calbetó in 1865, Eulàlia in the tower over the Sant Iu door (F11.8 OK, G59, S17; O6 confirms Eulàlia in the Sant Iu tower); the "rebellious" Honorata "imprisoned" and melted down by Philip V in 1714, as the city tells it (F11.7 HEDGE, A4), and the bell survey's silence (G58, S17); two eight-sided towers over fifty metres, over the Sant Iu door with the clock and over the cloister door (F11.1 HEDGE wording, F11.2 OK), built after the Romanesque tower came down around 1380, first bell hoisted 1393 (F11.3, F11.5, S7: year not spoken), one medieval, its twin finished two centuries later (F11.4 OK); l'Esquella de Prima, 1321 (F11.6 OK); about twenty bells, nearly all with women saints' names (F11.12 HEDGE wording); eleven in the cloister tower, the Crown of Aragon pattern (F11.11 OK, G63 OK); "the thief's bell", unexplained (G62); la Tomasa for the noon Angelus (F11.13 OK DATED); the 1865 clock regulated by electric impulses (G60 OK, optional, used). Audit fixes, 14 Nov 2026: cut after the audits: the clock line and 'If you're here at noon'; the 1321 bell no longer 'older than the crypt'; see notes/AUDIT_FIXES.md.
+@listen: The voice of the old town's clock, a bell the city says a king punished, and the twenty-odd named bells in the two towers.
+@brief: A guide keeping a queue company, chatty and a little conspiratorial over the punished bell, never asking anyone to look anywhere.
+@pace: medium
+@energy: 3→3→3
+@sources: A4 https://www.barcelona.cat/en/conocebcn/pics/la-catedral-92086000934 (OFF, re-read 14 Nov 2026: "Of the 21 bells in the cathedral, all with women's names, the most remarkable is the rebellious Honorata."; "Philip V "imprisoned" and melted down this bell in retaliation for it ringing to call the citizens to revolt."; "In 1714, during the War of Succession, Philip V", EN; the page names no siege) ; S17 https://campaners.com/php/torrepdf.php?numer=644 (SEC, bell survey, re-read 14 Nov 2026: Eulàlia and Honorata both Calbetó 1865, clock tower; earlier Honoratas 1393, 1760, 1762, "no reason given", nothing on 1714 or Philip V; l'Esquella de Prima 1321, cloister tower; la Tomasa, Barnola 1758, "ventada" for the noon Angelus; "Lladre" among the bell names, unexplained; Crown of Aragon cathedrals "tenien totes onze campanes"; Billeter clock 1865, electric impulses "absolutament innovadora en el seu moment"; towers c. 59.6 m and c. 54.9 m, CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: towers built "després de l'enderroc del campanar de la seu romànica (entre el 1379 i el 1380)"; "La primera campana es va hissar l'any 1393", CA) ; O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: one tower 13th–14th c., the other completed in the 16th c.; the Sant Iu tower holds the Eulàlia, which marks the clock hours; the cloister tower is the liturgical tower with eleven bells, CA)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 012 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Cada hora que oye sobre el casco antiguo la da una campana llamada Eulalia. Cuelga en la torre sobre la puerta de Sant Iu, la puerta lateral que acaba de dejar. Su compañera menor, Honorata, da los cuartos. Las fundió a ambas Francesc Calbetó en 1865.
+
+[conspiratorial] Honorata trae una historia. La guía municipal de la catedral la llama la campana rebelde. En 1714, dice, durante la Guerra de Sucesión, el rey Felipe Quinto "encarceló" a una Honorata anterior y la fundió. Su delito: tocar para llamar a los ciudadanos a la revuelta.
+
+[pause] Es una buena historia, y se basa solo en ese relato. Un estudio reciente de las campanas de la catedral enumera las Honoratas perdidas y refundidas, y no da ningún motivo. La Honorata que oirá hoy es la que fundió Calbetó.
+
+Hay dos campanarios, de ocho lados y más de cincuenta metros de alto. Uno se alza sobre la puerta de Sant Iu y lleva el reloj. El otro, sobre la puerta que va de la iglesia al claustro. Se levantaron tras caer el viejo campanario románico, y la primera campana se subió antes de acabar el siglo catorce. Una torre es medieval. Su gemela se terminó dos siglos después.
+
+[warmly] La campana más antigua de las torres se fundió en 1321: una campana pequeña, una esquella en catalán, llamada l'Esquella de Prima.
+
+En total hay unas veinte campanas, casi todas con nombre de santas. Once cuelgan en la torre del claustro, el número que tenían por tradición las catedrales de la antigua Corona de Aragón. [amused] Una ha sido conocida como la campana del ladrón. El estudio no dice por qué.
+
+A mediodía se toca el Ángelus en una de las grandes campanas, la Tomasa.
+
+Quédese donde está para otra historia, en la cola o arriba: El ascensor · Rayos y petardos.

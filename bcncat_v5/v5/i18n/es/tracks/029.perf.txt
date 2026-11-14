@@ -1,0 +1,28 @@
+@id: 029 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The cloister
+@room: The cloister · beside the fountain pavilion, near the door from the church, its little vault overhead in view [O9]
+@type: W
+@title: El claustro — El huevo que anotó el contable
+@where: Junto al pequeño templete abovedado sobre la fuente, en la esquina del claustro cerca de la puerta de la iglesia, desde donde se ve el interior de su pequeña bóveda.
+@what: L'ou com balla at Corpus, flowers and red cherries, the cathedral first in Barcelona, "at least to 1636" (F12.15, F12.16, F12.18, O2); the accounts recording eggs bought for Corpus and its octave (F12.16, A3); the egg popularly thought to be the Host (F12.19, A3 wording); the keystone of Saint George killing the dragon, the four evangelists seated on the ribs, the figure of Saint George on top (F12.10 corrected by S32 re-read, F12.12, M1); 1448 = the cloister's last vault, then the pavilion (F3.19, F12.9, S32); never consecrated, a Te Deum (F3.18, S2 re-read); the 1456 proclamation, old CA (Q4, F12.13, S32); Saint George's feasts held here (S32). Princess, Escuder and the keystone's day cut (see notes). Audit fixes, 14 Nov 2026: the old-Catalan quotation now paraphrased; 'first' attributed to the cathedral (facts S7); see notes/AUDIT_FIXES.md.
+@listen: How an accountant's entry for eggs dates Barcelona's dancing egg, why 1448 belongs to the cloister, and Saint George in the vault.
+@brief: A guide by a fountain, light and delighted with the egg, then crisp and confident putting the famous date right.
+@pace: medium
+@energy: 3→4→3
+@sources: O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read 14 Nov 2026: "which is decorated with flowers and red cherries."; "The Cathedral of Barcelona was the first to present the dancing egg in Barcelona, going back at least to 1636.", EN) ; A3 https://www.barcelona.cat/culturapopular/en/festivals-and-traditions/festival-characters-and-elements/ou-com-balla (OFF, re-read: the cathedral's "accounting records mention the purchase of eggs for the fountain on Corpus Christi and its octave"; "It is popularly thought that the dancing egg represents the host, or the body of Christ in the Eucharist."; nothing on an emptied egg, EN) ; S32 https://revistes.ub.edu/index.php/materia/article/download/34994/39591/116540 (SEC, Jardí 2023, re-read: "Aquest die fonch feta crida pública per la ciutat de Barchinona", in an entry of April 1456 linked to Saint George's day as a holiday (the entry itself is dated 17 April, so no day is spoken); "fou acabada la darrera volta de la Claustra de la Seu" (26 Sep 1448); "A partir del mes de setembre de 1448 i fins al mes de març de 1449, els treballs es concentren al templet del brollador"; "la gran clau de volta dedicada a sant Jordi, patró dels ciutadans de Barcelona"; "la imatge de sant Jordi matant el drac"; "les imatges sedents dels quatre evangelistes" on the ribs, not on the keystone; "el brollador s'ubica prop de la porta d'entrada a l'església"; feasts for Saint George held there, CA) ; S2 https://www.enciclopedia.cat/catalunya-romanica/santa-creu-i-santa-eulalia-o-catedral-de-barcelona (SEC-enc, re-read: "la catedral gòtica no fou mai consagrada"; on 26 Sep 1448 the chapter "es va limitar a cantar un tedèum", CA) ; M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (OFF MNAC, re-read: "a figure of Saint George and a fountain", EN)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 029 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Cada año, por Corpus Christi, un huevo baila sobre esta fuente. Sabemos lo antigua que es la costumbre porque el contable de los canónigos anotó los huevos.
+
+Se llama l'ou com balla, el huevo que baila. Se coloca un huevo sobre el chorro de la fuente, donde se balancea y gira, y la pila se adorna con flores y cerezas rojas. La catedral dice que fue el primer lugar de Barcelona en presentarlo, desde al menos 1636. Las páginas de cultura popular de Barcelona explican cómo lo sabemos. Los libros de cuentas de la catedral registran huevos comprados para esta fuente, para Corpus Christi y los ocho días siguientes. Popularmente se cree, añaden esas páginas, que el huevo representa la Hostia, el cuerpo de Cristo en la Eucaristía.
+
+[curious] Mire ahora arriba, a la pequeña bóveda sobre la fuente. En el centro está la gran clave, san Jorge matando al dragón. Un estudio de este claustro lo llama patrón de los ciudadanos de Barcelona. Sentados en los nervios a su alrededor están los cuatro evangelistas. Y encima del templete, una figura de san Jorge.
+
+[pause] Esta es la fecha que todos confunden: 1448. Se suele dar para la catedral, pero es del claustro. Su última bóveda se cerró aquel septiembre, y los canteros pasaron enseguida a este templete. La iglesia misma nunca se consagró formalmente. Cuando el cabildo dio la obra por terminada, simplemente cantó un tedeum.
+
+Las fiestas de san Jorge de la ciudad solían celebrarse justo aquí, alrededor de esta fuente. En abril de 1456, el dietario de la Generalitat anotó que se había pregonado por la ciudad: el día de san Jorge sería festivo.
+
+[lightly] Un huevo, un dragón y el recibo de un contable.
+
+Ahora camine por el claustro hasta el estanque donde viven las ocas. Si hay mucha gente, mire desde la galería del otro lado del jardín: El claustro · Trece ocas.

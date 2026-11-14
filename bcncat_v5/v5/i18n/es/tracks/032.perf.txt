@@ -1,0 +1,26 @@
+@id: 032 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The cloister
+@room: The cloister · at the doorway of the chapel of Santa Llúcia [O20]
+@type: R
+@title: El claustro — Santa Llúcia, más antigua que la catedral
+@where: En la entrada de la capilla de Santa Llúcia, en una esquina del claustro, en la misma galería que el museo de la Sala Capitular. Quédese en la entrada salvo que se permita claramente entrar.
+@what: Santa Llúcia, founded by Bishop Arnau de Gurb, finished 1268 ("thirty years before the Gothic works": our arithmetic, no 1298) (F13.1, S3, S7); part of the bishop's palace, joined to the cathedral from 1431 (F13.3, F13.5, S3 re-read: "part of the Episcopal Palace buildings"); first dedicated to Our Lady and all the holy virgins (F13.2); single nave, slightly pointed barrel vault, "a work of transition" (F13.4); the founder's effigy on a slab over four columns; crozier head and silks, the silks now in Madrid, Granada, Cleveland, New York (F13.9, F13.10); the street-door capitals and "molt mediocre" (F13.6, F13.7, Q11, CA; S3 re-read: on the main portal to Carrer de Santa Llúcia, so not pointed at); 13 December, relics, eyesight (F13.13 DATED, O2); the fair since 1786 (G87, GA2). Audit fixes, 14 Nov 2026: the fair since 1786 cut for length; see notes/AUDIT_FIXES.md.
+@listen: A bishop's chapel older than the Gothic cathedral, the silks from his tomb now scattered across two continents, and a blunt verdict on its carving.
+@brief: A guide at a small doorway, wry about the clichés and the scholars, gentle about the saint and her day.
+@pace: medium
+@energy: 3→3→3
+@sources: S3 https://www.enciclopedia.cat/catalunya-romanica/santa-llucia-abans-capella-de-les-onze-mil-verges-barcelona (SEC-enc, re-read 14 Nov 2026: plot obtained 1257, "acabada l'any 1268"; "a Santa Maria i a totes les Santes Verges"; "havia format part de les edificacions del Palau Episcopal"; joined "a partir del 1431" when the cloister's side was finished; "volta de canó lleugerament apuntat"; main portal to carrer de Santa Llúcia, Annunciation and Visitation, "dos quadrúpedes afrontats"; the portal's carving "molt mediocre", the animals with the most errors; effigy on "una llosa que reposa sobre quatre columnes"; crozier head in the cathedral treasury; silk fragments in Madrid, Granada, Cleveland, New York, CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC-enc, re-read: built "entre els anys 1257 i 1268") ; O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read: "On her feast day, 13 December, devotees of this martyr and protector of sight visit the Romanesque chapel" "dedicated to the Saint to adore her relics.", EN) ; GA2 https://barcelona.cat/culturapopular/en/node/776 (OFF, re-read: "has been held in front of the Cathedral since 1786", EN)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 032 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Esta capilla es anterior a la catedral a la que hoy pertenece. La fundó el obispo Arnau de Gurb, y se terminó en 1268, treinta años antes de empezar las obras góticas.
+
+A menudo se dice que es el último resto de la catedral románica. No lo es. Era parte del palacio del obispo, su capilla propia, y solo en 1431 se unió a la catedral, al alcanzarla el claustro. Y Santa Llúcia llegó después. Primero se dedicó a Nuestra Señora y todas las santas vírgenes.
+
+[curious] Si la puerta está abierta, mire su nave única, bajo una sencilla bóveda de cañón algo apuntada. El fundador yace dentro, su figura sobre una losa apoyada en cuatro columnas. Su sepulcro, al abrirse, guardaba el remate de un báculo dorado y sus sedas funerarias. Esas sedas están hoy repartidas entre museos de Madrid, Granada, Cleveland y Nueva York.
+
+La otra puerta de la capilla da al Carrer de Santa Llúcia. Sus capiteles muestran la Anunciación, la Visitación y dos animales enfrentados. El estudio del románico de la enciclopedia catalana juzga esa talla, en catalán: "molt mediocre", muy mediocre.
+
+[warmly] En su día, el trece de diciembre, se acude aquí a venerar sus reliquias. Protege la vista.
+
+Si hace el recorrido completo, y la sala llamada Memoria judía está abierta y señalizada, búsquela: El claustro · Extra · Memoria judía. Si no, la siguiente parada principal es el museo de la Sala Capitular, junto a esta capilla. Entre y busque la pintura de Cristo muerto sobre el regazo de su madre: La Sala Capitular · El santo con gafas.

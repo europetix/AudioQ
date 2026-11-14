@@ -1,0 +1,28 @@
+@id: 016 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The choir
+@room: The choir · inside, among the upper stalls (or at the entrance if closed) [O8]
+@type: W
+@title: El coro — Roble de Brujas
+@where: Dentro del coro, el recinto en el centro de la nave, donde se vea la alta fila superior de asientos. Si el coro está cerrado, en su entrada, mirando hacia dentro.
+@what: Q1 / F9.4 OK (S9, old CA, re-checked): the Llibre del cor, "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor" (spoken in English, "in old Catalan" once; never "rode", no route towns); the choir in the middle of the nave, in front of the crypt (F9.1 OK, S7); begun in the 1390s under Bishop Ramon d'Escales (F9.2 HEDGE wording; O7 1390, S9 1394); Sanglada directed the upper stalls 1394–1399, mainly Flemish oak, a team effort, formally finished 5 December 1399 (F9.3 OK, S9; "team effort" paraphrased); callback: Sanglada's alabaster figure of Sant Oleguer (008, safe in F; F10.19, F10.20); optional, used: the lower stalls won by Macià Bonafè against Joan Claperós (F9.7 OK, S10; year spoken as "half a century later"); look: the upper row's seat backs and armrests (O8).
+@listen: How a Barcelona sculptor went to Bruges for the oak of the canons' choir, and the team who carved it.
+@brief: A guide inside a beautiful wooden room, warm and a little proud of the carvers, voice kept low for a working church.
+@pace: medium
+@energy: 3→3→3
+@sources: S9 https://www.enciclopedia.cat/lart-gotic-a-catalunya/pere-sanglada-i-larribada-del-gotic-internacional-a-barcelona (SEC, Enc. Cat. L'art gòtic, re-read 14 Nov 2026: "Anglada fo tramès […] en Bruges per comprar fusta de roure a ops del demont dit cor", old CA; the stalls "fou bàsicament una obra d'equip", with Antoni Canet, Francesc Marata, Berenguer Rof; upper stalls directed 1394–1399; formally finished "el dia 5 de desembre d'aquell any"; Sant Oleguer's alabaster effigy, May 1406, "l'única treballada en alabastre", CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: "Davant la cripta, just al centre de la nau, es troba el cor."; "l'obra del cor es vincula especialment amb el bisbe Escales.", CA) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: the choir "started up in 1390 under the mandate of Bishop Raymond d'Escales", EN) ; S10 https://diposit.ub.edu/dspace/bitstream/2445/35592/2/01.MJA_INTRODUCCIO.pdf (SEC, Jardí thesis, re-read 14 Nov 2026: "Macià Bonafé i Joan Claperós es van disputar el contracte del nou cadirat baix", CA)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 016 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Estos asientos empezaron con un viaje a Flandes. El antiguo libro del coro del cabildo lo recoge, en catalán antiguo: "Anglada fue enviado … a Brujas a comprar roble para dicho coro." Anglada es Pere Sanglada, el escultor barcelonés al frente, enviado a comprar él mismo la madera.
+
+[warmly] Es el coro de los canónigos, con su sillería, en el centro de la nave, ante la cripta. Aquí cantaban las horas, encerrados en medio de la iglesia.
+
+Las obras empezaron en la década de 1390, con el obispo Ramon d'Escales. Sanglada dirigió la sillería alta, tallada sobre todo en roble de Flandes, y no la talló solo. La historia del arte de la enciclopedia catalana la llama, en esencia, un trabajo de equipo, con un taller de tallistas a su alrededor. El cinco de diciembre de 1399 se declaró formalmente terminada.
+
+Ya conoce su obra: la figura de alabastro del obispo bajo el crucifijo de Lepanto.
+
+La sillería baja llegó medio siglo después. El encargo lo ganó un tallista, Macià Bonafè, frente a un rival, Joan Claperós.
+
+[pause] Mire ahora la fila alta, los asientos del fondo. Siga la talla de los respaldos y los apoyabrazos, de un asiento al siguiente. Es la obra del equipo de Sanglada, en roble de Brujas.
+
+Si hace el recorrido completo, busque un asiento con la repisa abatible ya levantada, y mire la talla de debajo. Por favor, no levante ninguno: El coro · Extra · Bajo los asientos de los canónigos. Si no, la siguiente parada principal está sobre los asientos, en la fila de escudos pintados: El coro · El club más exclusivo de Europa.

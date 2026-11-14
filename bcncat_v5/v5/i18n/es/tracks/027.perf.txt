@@ -1,0 +1,30 @@
+@id: 027 · ES · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Behind the high altar
+@room: The cloister door · beside the white marble doorway, inside the church, the choir in view [O2]
+@type: W
+@title: La puerta del claustro — El verano de 1936
+@where: Dentro de la iglesia, junto a la entrada de mármol blanco al claustro, en el tramo a la derecha del altar mayor mirándolo. Sin estorbar la puerta, con el coro a la vista al otro lado de la iglesia.
+@what: 1936: the cathedral "came through the summer of 1936 intact" (F15.7 HEDGE safe wording, M1); the Catalan government chose to safeguard it, the dean's words via Catalan News (F15.8 HEDGE, S16; no name); Sant Sever one of four churches in Ciutat Vella not burned, protected by the Mossos d'Esquadra (F15.9, S16); the lorry of Baroque carvings stopped in front of the cathedral and burned, "according to one account" (G109 HEDGE, GS19); the archive carried out in haste by Agustí Duran i Sanpere's service, back in spring 1939 (F15.10, G111, O9, CA); Sant Oleguer's tomb moved to the crypt (F10.22 OFF; callback 008, safe F); MNAC's conclusion that much of the interior survives (M1, attributed; its word "anarchists" not used). G114: protection still press + MNAC, hedge kept. Audit fixes, 14 Nov 2026: the Catalan quotation now paraphrased in English; see notes/AUDIT_FIXES.md.
+@listen: How the choir and the church around it came through July 1936 intact, while churches burned across the city, and how the archive was carried out and came home.
+@brief: A guide speaking low and plainly beside a doorway, with no drama and no adjectives; the facts carry the weight.
+@pace: slow
+@energy: 2→2→2
+@sources: S16 https://catalannews.com/culture/item/historic-church-that-survived-civil-war-reopens-after-restoration-works (SEC, re-read 14 Nov 2026: the dean: "the Catalan government realized it could not protect everything, so it decided to safeguard what it deemed most important and significant, the Cathedral of Barcelona." (as relayed, cut at the relay limit; quoted from "realized"); Sant Sever "was protected by the Mossos d'Esquadra"; "It was one of the only four churches in Ciutat Vella that were not burned.", EN) ; M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (OFF MNAC, re-read: "was not assaulted by the anarchists during the Spanish Civil War, for which reason much of the interior decoration has survived in its original state", EN; paraphrased without "anarchists") ; GS19 https://diposit.ub.edu/dspace/bitstream/2445/15682/1/Museu_Diocesa_delaFuente.pdf (SEC, UB report 2010, re-read, quoting Mossèn Trens: the lorry "obligado ... por la turba a pararse frente a la Catedral"; "quemaron su preciosa carga consistente sobretodo en tallas barrocas"; context the assault on the Seminari, 22 July 1936) ; O9 https://catedralbcn.org/wp-content/uploads/2021/11/Cata%CC%80leg-de-lArxiu.pdf (OFF, re-read: moved "a correcuita" to the Esperança convent, codices to the "Biblioteca de Catalunya", later Pedralbes and Viladrau; Duran i Sanpere, head of the Generalitat's archive services; "La primavera de l'any 1939, l'arxiu retorna a la Seu.", CA) ; O11 https://catedralbcn.org/wp-content/uploads/2026/07/CATEDRAL-DE-BARCELONA-01.pdf (OFF, via FACTS F10.22, not re-read: 1936, Sant Oleguer's tomb moved to the crypt)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 027 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+El coro que ve desde aquí, su sillería, sus escudos pintados, su púlpito, atravesó intacto el verano de 1936.
+
+[quietly] Aquel julio, al empezar la Guerra Civil, ardieron iglesias por toda Barcelona. Esta no fue atacada. El gobierno catalán decidió protegerla. El deán de la catedral ha explicado la decisión. El gobierno, en sus palabras, "se dio cuenta de que no podía protegerlo todo, así que decidió salvaguardar lo que consideraba más importante y significativo, la Catedral de Barcelona".
+
+Cerca, la iglesia de Sant Sever la custodiaron los Mossos d'Esquadra, la policía catalana. Fue una de las cuatro únicas iglesias del casco antiguo que no ardieron.
+
+En la plaza de fuera, no todo se salvó. Según un relato, un camión que llevaba tallas religiosas, casi todas barrocas, del museo del seminario, fue obligado por la multitud a detenerse ante la catedral. Su carga fue quemada. A la catedral no la tocaron.
+
+El archivo también corría peligro. El servicio de archivos del gobierno catalán, dirigido por Agustí Duran i Sanpere, lo sacó a toda prisa. Primero fue a un convento del casco antiguo, sus libros manuscritos a la biblioteca nacional, y luego aún más lejos. El registro de la catedral cierra la historia con sencillez: en la primavera de 1939, el archivo volvió a la catedral.
+
+El sepulcro de Sant Oleguer también se trasladó, de la capilla del Santo Cristo de Lepanto a la cripta. Hoy ha vuelto a su capilla.
+
+El museo nacional de arte saca la conclusión. Como la catedral no fue atacada, gran parte de su interior ha llegado tal como era. Mire otra vez al coro, al otro lado, y a la iglesia que lo rodea.
+
+Cruce la puerta hacia el claustro. Vuélvase y mire la puerta que acaba de cruzar, sus capiteles tallados: El claustro · Una puerta de la catedral anterior.
