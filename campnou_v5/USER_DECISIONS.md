@@ -13,3 +13,12 @@
 - **Context (14 Nov check):** FC Barcelona's ticket page lists every Museum ticket as "Museum + Digital Audio Guide"
   with a "Construction Viewpoint"; ours must add what that lacks. Football club history is partly contested ground
   (politics, Franco era, Catalan identity, rivalries): even-handed, attributed, no club partisanship.
+
+## User input, 14 Nov 2026 (after the first answers)
+The user attached their old guide (`source/SpotifyCampNou_old_guide.pdf`, text in `source/old_guide.txt`: "Més que un
+club", V4, 11 tracks, ~70 min narration, the Barça Immersive Tour and the Construction Viewpoint, entrance via the
+former ice rink on Carrer d'Arístides Maillol) and said: "We need to make sure we have good facts fun stories and their
+legacy covered during the guide, like how we did for Santiago (Real Madrid)". So, as for the Bernabéu and Setas:
+audit the old guide claim by claim (`research/AUDIT_OLD_GUIDE_NOV2026.md`), keep every verified rich story, correct or
+drop the wrong ones, and make sure the club's legacy (players, coaches, the women's team, La Masia, the members'
+model, Catalan identity) and fun stories are fully covered. The old guide is a lead for topics, never a source.
