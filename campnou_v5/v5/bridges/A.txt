@@ -1,0 +1,5 @@
+001 E>006: On this shorter tour, go straight to the museum's door instead. Go in, through the ticket check, and stop in the entrance hall, out of the way of people coming in: The entrance hall · From under the stand to an ice rink.
+001 H>008: On this shorter tour, go straight into the museum instead, through the ticket check, and on to the trophies. Find the big silver European Cups, and stop where you can see them: The European Cups · Third time lucky.
+006 E>008: On this shorter tour, walk on to the trophies, and go straight to the big silver European Cups, the tall trophies with the big handles. Stop where you can see them: The European Cups · Third time lucky.
+009 E>011: On this shorter tour, leave the European Cups, and find the women's trophies, with their own European Cups: The women's trophies · From a Christmas match to 91,648.
+012 E>014: On this shorter tour, walk on into the club's history, and find the space given to Johan Cruyff. Stop where you can see it: Cruyff's display · The coach who changed the club.

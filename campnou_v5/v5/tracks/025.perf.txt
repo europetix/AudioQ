@@ -1,0 +1,26 @@
+@id: 025 · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The round room
+@room: The round room · just outside it, or inside once the show ends, out of the way [O11]
+@type: R
+@title: The round room · After the show: the first full house
+@where: Just outside the round room, or inside it once the show has ended, standing out of the way of people coming and going. [O11]
+@what: The show's official framing only (F16.14: at the centre of the stadium); 24 September 1957, La Mercè, the city's feast day: opening day (F5.15 OK OFF [O25]); morning Mass, a statue of the Virgin of Montserrat, Handel's Hallelujah, only about half the seats filled (O25 re-read); afternoon packed, a parade of Catalan clubs with Espanyol at the back, sardanas, about eleven thousand white doves (F5.15); the Spanish flag raised and the national anthem, the stadium standing: Franco's Spain (F5.16 OK OFF, even-handed); 4–2 v a team billed as a Warsaw eleven (F5.17; F18.13: never "Legia"); more than ninety thousand, works unfinished (F5.18; F5.19 safe wording); first goal after eleven minutes, Eulogio Martínez (F5.17 OK OFF [O26]); optional: Eulogio first to score five in a game there, 1960 (GAPS G96 OK OFF, one G detail on a person the track covers). Ending: the first goal in a stadium that would see thousands (no number).
+@listen: The day the stadium opened in 1957: a Mass, eleven thousand doves, the flag and anthem of the day, and the first goal.
+@brief: A friend stepping out of the show with you, still a little dazzled, telling the opening day like a family photo album; warm, honest about the politics of the day, bright at the goal.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.fcbarcelona.com/en/news/742737/24-september-1957-the-day-the-camp-nou-dream-came-true-at-last/amp (OFF [O25], re-read 14 Nov 2026: morning Mass presided by the archbishop, a large statue of the Virgin of Montserrat, Handel's Hallelujah, only about half the seats filled; afternoon packed; parade of Catalan clubs with RCD Espanyol at the back; esbart and sardana dances; about 11,000 white doves; the Spanish flag raised, the stadium stood for the national anthem; 4–2 v a "Warsaw XI", not Legia itself; scorers Eulogio Martínez, Tejada, Sampedro, Evaristo) ; https://www.fcbarcelona.com/en/club/facilities/spotify-camp-nou/history (OFF [O26], re-read: "more than 90,000 spectators"; "Although work on the stadium was not yet complete"; Eulogio Martínez's "11th minute strike was the first goal ever at the Camp Nou"; capacity 93,053 not used, F5.19) ; https://www.fcbarcelona.com/en/card/3828009/exploring-spaces-the-new-museum (OFF [O6], re-read: the show places you "at the center of the stadium") ; Eulogio's five goals v Las Palmas, 1960: research/FACTS_GAPS_NOV2026.md G96 (OFF [GO35], not re-read by me)
+---
+[warmly] The show puts you at the centre of the stadium. The first time the real one filled up was on its opening day, the 24th of September 1957. It was La Mercè, the city's feast day.
+
+The morning was solemn. The archbishop said Mass before a large statue of the Virgin of Montserrat, and there was a performance of Handel's Hallelujah. Only about half the seats were taken.
+
+By the afternoon the place was packed. The big Catalan clubs paraded round the pitch, with Espanyol, the city's other club, at the back. There were sardanas, the Catalan circle dance. [pause] And about eleven thousand white doves were let go into the sky.
+
+The ceremony closed with the Spanish flag raised and the national anthem played, the whole stadium standing. This was Franco's Spain, and that was part of the day too.
+
+Then came the football. Barça played a team billed as a Warsaw eleven, and won four goals to two. More than ninety thousand people watched, though the works weren't finished. [lightly] The first goal in the new stadium came after eleven minutes, from Eulogio Martínez. Three years later he became the first player to score five in one game there.
+
+His goal that night was the first of thousands in that bowl.
+
+Now follow the way out of the room to the models of the finished stadium: The models · The stadium when it's finished.

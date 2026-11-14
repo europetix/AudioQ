@@ -1,0 +1,28 @@
+@id: 018 · FC Barcelona Museum · 14 Nov 2026 edition
+@section: More stories inside
+@room: A quiet corner · same place [O15]
+@type: W
+@title: A quiet corner · Extra · The whistle that closed the club
+@where: The same bench or quiet corner as the story before, sitting or leaning out of the flow; nothing needs to be in view. [O15]
+@what: Sunday 14 June 1925, Les Corts, a friendly v CE Júpiter in tribute to the Orfeó Català (F4.1 OK OFF); at half time British sailors' band played the Spanish anthem, most of the 14,000 whistled and booed, then applauded God Save the King (F4.2 OK OFF); 24 June the civil governor under Primo de Rivera suspended the club, six months decreed (F4.3 OK OFF; F18.17: never "six months" as served); Gamper, president five times (F4.6 OK OFF), came to Barcelona in the late 1890s (GAPS change to F1.1), forced out and barred, "temporarily exiled to Switzerland" (F4.4 HEDGE OFF, the club's words); 1908 "Barcelona cannot die and must not die" (F4.7, Q2 re-checked); his death in 1930, "probably" business problems and the closure (F4.5 OK OFF, gentle); the club's centenary article of 14 June 2025 (O15). Ending: "cannot die" (FACTS §22 Gamper).
+@listen: The afternoon in 1925 when a crowd's whistles got the club closed and its founder forced out, and the words he had once used to save it.
+@brief: A friend telling a sad family story honestly, even about the politics, quiet for the founder's death, then a small lift at the end.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: https://www.fcbarcelona.com/en/club/news/4274672/100-years-since-shut-down-for-protest-against-spanish-national-anthem (OFF [O15], re-read 14 Nov 2026, published 14 Jun 2025: Sunday 14 June 1925, friendly v CE Júpiter, tribute to the Orfeó Català; sailors from a British ship; "a great majority of the 14,000 fans present booed and whistled the Spanish national anthem"; "God Save the King" "roundly applauded"; 24 June 1925 the civil governor suspended activity for six months; Gamper "temporarily exiled to Switzerland", barred from the club) ; https://fcbarcelona.com/club/history/card/joan-gamper-1908-1909-1910-1913-1917-1919-1921-1923-1924-1925 (OFF [O18], re-read: Q2 "Barcelona cannot die and must not die." at the Solé gymnasium meeting, 1908; five presidencies; "forced to resign by the Primo de Rivera dictatorship"; suicide 30 July 1930 "probably as a result of his business problems and the forced closure of his beloved Club") ; Gamper "in the late 1890s": research/FACTS_GAPS_NOV2026.md change to F1.1 (G20) and Lead's decisions after FACTS_GAPS
+---
+On Sunday the 14th of June, 1925, Barça played a friendly at Les Corts, the club's ground in those years. The opponents were CE Júpiter, and the afternoon was a tribute to the Orfeó Català, a Catalan choir.
+
+That afternoon, a band of sailors from a British ship in the port struck up the Spanish national anthem. Most of the fourteen thousand people in the ground whistled and booed it. [pause] Then the band played God Save the King, and the crowd applauded.
+
+Spain was living under the dictatorship of General Primo de Rivera, and the club's own centenary history reads the whistles as a protest against that regime. Ten days later, the civil governor of Barcelona shut the club down. The decree said six months.
+
+The man who paid most was the founder. Joan Gamper had come to Barcelona from Switzerland in the late 1890s, and he had been the club's president five times. Now he was forced out of his own club and barred from it. In the club's own words, he was temporarily exiled to Switzerland. He never led Barça again.
+
+It was not the first time the club had been in danger. In 1908, when it was close to folding, Gamper had stood up at a meeting and taken charge. The club's history pages give his words that night: "Barcelona cannot die and must not die."
+
+[quietly] He did not live to see much of what came after. In 1930, with his business in trouble and banished from the club he had founded, Gamper took his own life. The club's history says it was probably because of those business problems, and the closure of the club he loved.
+
+[pause] A hundred years on, in 2025, the club marked the day of that whistling at Les Corts. The dictatorship that closed it is long gone. The founder is long gone. Look around you at the people in this museum. The club didn't die.
+
+Stay here. The next story is about a president who went to the front and never came back: A quiet corner · Extra · The president who never came back.
