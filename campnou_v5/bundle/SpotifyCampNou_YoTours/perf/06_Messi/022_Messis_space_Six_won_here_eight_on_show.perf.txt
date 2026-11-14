@@ -1,0 +1,28 @@
+@id: 022 · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Messi's space
+@room: Messi's space · where the golden balls are in view [O19]
+@type: W
+@title: Messi's space · Six won here, eight on show
+@where: Inside Messi's space, standing where you can see his row of golden balls and the Golden Boots beside them. [O19]
+@what: Six Ballons d'Or won as a Barça player, 2009, 2010, 2011, 2012, 2015, 2019; eight in all (F10.16 OK OFF; F18.8); version-neutral "He came from Rosario as a boy and played here until 2021" (H skips 021, 023); the Ballon d'Or glossed once; the museum shows all eight, the eighth his gift in 2024 (F10.17 HEDGE SEC: never "originals"); six European Golden Shoes (F10.13 OK OFF; F16.17 OK OFF: the Golden Boots shown); 672 goals in 778 matches, more than Pelé's 643 for Santos (F10.9, F10.11 OK OFF); 91 goals in 2012, beating Gerd Müller's 1972 (F10.13); thirty-five major trophies (F10.10); Q14 attributed (OFF [O3]); the club's count of twelve men's Ballons d'Or, from Luis Suárez, the first Spanish-born winner, in 1960 (GAPS G67–G69; Lead's decisions after FACTS_GAPS; past tense), level with Real Madrid by the club's count (F12.7 OK OFF [O36]). Payoff.
+@listen: Messi's golden balls, which six of them he won in Barça's colours, and the numbers behind them.
+@brief: A friend standing at the glass with you, counting gold and enjoying it; precise about the six and the eight, generous about Real Madrid, a smile on the payoff.
+@pace: medium
+@energy: 3→4→4
+@sources: https://fcbarcelona.com/en/news/2214377/leo-messi/amp (OFF [O44], re-read 14 Nov 2026: "6 Ballons d'Or (2009, 2010, 2011, 2012, 2015, 2019)"; "91 goals in a calendar year, beating Gerd Müller's record from 1972"; "six times Golden Shoe winner"; 778 appearances, 672 goals, 35 trophies) ; https://www.fcbarcelona.com/en/news/2070529/leo-messi-fc-barcelonas-historic-record-breaker (OFF [O45], re-read: 672 goals "surpassing the 643 that Pelé scored with Santos"; 35 titles; "He scored 91 official goals in 2012") ; https://www.fcbarcelona.com/en/news/4367951/fc-barcelona-dor (OFF [O36], re-read: "12 Ballon d'Ors, tied with Real Madrid (also 12)"; list opens with Luis Suárez (1960)) ; https://beteve.cat/esports/ultim-gest-amor-leo-messi-barca-donacio-museu/ (SEC [S16], re-read: he gave his eighth Ballon d'Or to the club's museum, Feb 2024; "totes les Pilotes d'Or … descansen a Barcelona"; nothing on originals) ; https://www.fcbarcelona.com/en/entradas/camp-nou-experience/visitas-museo-barca (OFF [O3], re-read: Messi Zone "A must-see space dedicated to the best player in our history, featuring his Ballon d'Or awards and Golden Boots") ; Luis Suárez Miramontes "first Spanish-born winner", died 2023: research/FACTS_GAPS_NOV2026.md G67–G69 (SEC, not re-read by me)
+---
+Six of these golden balls he won as a Barça player: in 2009, 2010, 2011 and 2012, then in 2015 and 2019. He won eight in all. The last two came after he had left. He came from Rosario as a boy and played here until 2021.
+
+The Ballon d'Or, the golden ball, is football's best-known prize for a single player. This museum shows all eight of his. The eighth, from 2023, arrived as his own gift in 2024, to stand beside the others.
+
+[lightly] Count them, if you can see the whole row. Beside them are his Golden Boots. He won the European Golden Shoe six times, as well.
+
+Then there are the numbers. Six hundred and seventy-two goals for this club: more than Pelé scored for Santos, and the most anyone has scored for one club. In 2012 alone he scored ninety-one, beating the record for a calendar year that Gerd Müller had set in 1972. And he won thirty-five major trophies here.
+
+The club's page for this space calls him "the best player in our history".
+
+[warmly] He is also part of a longer line. By the club's count, Barça players have won twelve men's Ballons d'Or. The first went to Luis Suárez, who in 1960 became the first Spanish-born winner. The last six were Messi's. And twelve, the club notes, is exactly the same number as Real Madrid.
+
+[pause] Six won in these colours. Eight on the shelf.
+
+Stay in Messi's space for how his time here ended, and who wears his number now: Messi's space · The boy from Rosario.

@@ -1,0 +1,1 @@
+{"note": "FC Barcelona Museum · Spotify Camp Nou, 14 Nov 2026: one level, no floors or room numbers; bridges are hand-written (bridges/en.txt); skips over Extras only are silent (016 and 029 already name the next main stop).", "skip_extras_silently": true}

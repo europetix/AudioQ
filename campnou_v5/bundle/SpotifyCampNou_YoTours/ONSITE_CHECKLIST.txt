@@ -1,0 +1,267 @@
+FC BARCELONA MUSEUM AT SPOTIFY CAMP NOU V5: ON-SITE CHECKLIST (from v5/PLAN.md, 14 Nov 2026; 34 tracks)
+==========================================================================================================
+Item numbers O1-O13 keep the meaning given in research/VISIT_ROUTE_AND_SPACES_NOV2026.md §5; O14-O22 are new
+(PLAN.md §5). Track numbers below are PLAN.md's. ALT names (ALT-O1 ... ALT-O16/O19) are PLAN.md §1 "ALT cues".
+
+One walk of the FULL route, in PLAN.md order, on the Museum ticket ("Museum + Digital Audio Guide" + "Construction
+Viewpoint"), before recording, with a phone camera and a stopwatch.
+- Photograph every sign, label, map board, arrow and display you are asked about. Save them to research/onsite/ as
+  Oxx_<what>.jpg (e.g. O19_golden_balls_label.jpg).
+- Note times with the stopwatch: WALKING, QUEUING AND THE SHOW ONLY, not listening.
+- Report each item as CONFIRMED / DIFFERENT (what you saw) / NOT FOUND.
+- Never note directions as compass points. Use LANDMARKS: Av. de Joan XXIII, the round Palau Blaugrana, the long
+  building with the ridged roof (the museum), the museum's door, the displays by what is on them (the wall of
+  trophies, the European Cups, the women's trophies, the wall of shirts, Cruyff, La Masia, Messi's golden balls),
+  the round room with the screens, the models, the viewpoint's rail, the old benches, the exit. Left/right only as
+  "as you come in through that door", and say which door.
+- Never step behind a barrier, into a closed area or onto the works; never photograph inside the 360° show if a
+  sign forbids it; follow staff instructions. Do not try the RoboKeeper or VR (not on this ticket; not in the guide).
+- Never complete a CAPTCHA or create an account. Nothing about prices, hours, slots or tickets goes into the guide;
+  note them only if they change the route.
+- Do not leave and re-enter unless staff say re-entry is allowed: walk the outside items first, then go in.
+- Note gate numbers and door numbers you see (O1), but remember: no gate number is spoken until the lead approves
+  (PLAN §8.9).
+- If you see the stadium works (cranes, screens, fences), note them, but never write them into a cue.
+
+-------------------------------------------------------------------------------
+DESK FIRST (the day before the walk, and again the morning of it)
+-------------------------------------------------------------------------------
+[ ] O2 CRITICAL  IS THE ICE-RINK MUSEUM STILL OPEN?  (ALL TRACKS; ALT-O2)
+      - Read https://www.fcbarcelona.com/en/tickets/camp-nou-experience/barca-museum-visits and the ticket hub
+        https://www.fcbarcelona.com/en/tickets/museum : still "Barça Immersive Tour", "temporarily moved to a
+        2,400 m² space", "Museum + Digital Audio Guide" + "Construction Viewpoint"?
+      - Club news: any announcement of the new museum inside the stadium, a move date, or a closure of about 15 days
+        (Ara, 7 Oct 2026)? The timetable page: any closure days?
+      - IF THE NEW MUSEUM IS OPEN OR THE CLOSURE IS ON: STOP. Do not walk this checklist; tell the lead (PLAN §1
+        ALT-O2: the route layer is re-planned first).
+[ ] O13-desk  The Catalan ticket page (CA official names of the four spaces and the viewpoint: "Mirador de les
+      obres"?). Record EN / ES / CA names side by side. (Cue place names stay as PLAN fixes them; this is for
+      translators.)
+[ ] O6-desk  The official "Digital Audio Guide": languages listed today (3 + LSC, or 14?); does it use numbered
+      stops? (Context only: the official guide is never mentioned in speech, PLAN §8.14.)
+[ ] O8-desk  The timetable page: is the walk day a match or event day (early closing)? Avoid one for the walk;
+      note the next ones for the lead.
+[ ] FAQ  support.fcbarcelona.com "Barça Immersive Tour" topic: re-entry, lockers, photos, exit (titles only were
+      readable on 14 Nov; try the individual questions).
+
+-------------------------------------------------------------------------------
+CRITICAL ITEMS (the route depends on them)
+-------------------------------------------------------------------------------
+[ ] O1 CRITICAL  THE GATE, THE DOOR, THE CHECK  (001 @where and first lines; 002 cue; 003 @where and cue; 004, 005;
+      005 cue; ALT-O1 a-d)
+      - Which campus gate do Museum visitors use? (Expected from the official campus map and the Oct 2026 access
+        page: Access 9, on Av. de Joan XXIII, right at the museum building. Older pages and the old guide: Access 15
+        on Arístides Maillol, which the campus map puts much further along.) Photograph the gate's sign.
+      - Which face of the long ridged-roof building has the museum's door: the Av. de Joan XXIII side, the
+        Arístides Maillol side (Accesses 11/12 run along it), or the campus side? What is written over it ("Barça
+        Immersive Tour", "Museu", "FCB Museum")?
+      - Is there a security or bag check? Where? A ticket check at the door or inside? Is there usually a queue
+        outside? How long (note the time of day)? Could someone stand in it for about 4 minutes listening (004, 005)?
+      - Where can 001 be heard: a spot on Av. de Joan XXIII or the campus by the building, with the round Palau
+        Blaugrana in view, out of the way of the door? (001 @where.)
+      - Is re-entry allowed after leaving? (Expected: no.)
+[ ] O3 CRITICAL  ROOM ORDER AND NAMES  (006 cue; 007-023 cues; ALT-O3 a-d)
+      - Photograph the ORIENTATION MAP in the entrance hall (official accessibility page: "An orientation map is in
+        the entrance hall"). Save as O3_lobby_map.jpg. This is the only official plan.
+      - Walk the exhibition and list, in order, every display area and its sign: an opening film? the trophies?
+        the club's history? the women's team? La Masia? Cruyff and the Dream Team? a values / "Més que un club"
+        display? a tunnel for the men's and women's teams? Messi's space? the round room (360°)?
+      - Is the route one-way (floor arrows, staff)? Can you go back after the round room?
+      - Do the trophies come before the history (the official list order), or after, or mixed? Does Messi's space
+        come before the round room? (ALT-O3 a, b, c.)
+      - Is there an opening audiovisual before the trophies? How long? (ALT-O3 d; 006 is heard before it.)
+[ ] O4 CRITICAL  THE VIEWPOINT AND THE OLD BENCHES  (027 cue; 028; 029; 030-033; 033 cue; bridges 024 H, 026 E;
+      ALT-O4)
+      - How do you get there from the models / the round room: corridor, outdoors across the campus, stairs, a
+        lift? (Official 2023 text: reached "from what used to be the entrance to the old museum"; the old guide:
+        stairs to a wooden deck.) Time it (O21).
+      - Which side of the stadium does it face, and what is visible TODAY? Tick each: the lower two tiers [ ]; the
+        top ring (third tier) built but closed [ ]; the ring at the very top (the compression ring) [ ]; cranes [ ];
+        the pitch (grass? covered?) [ ]; the Gol Nord [ ]; the roof (there should be none) [ ]. Photograph the view.
+      - The screens with an inside view of the stadium: still there? what do they show?
+      - THE OLD BENCHES (official 2023 text: "the original benches from the old stadium, so visitors can sit where
+        former club players once sat"): still there? how many? how many people can sit? any label (dugout?
+        which years?)? in shade or sun? Photograph any label.
+      - A photocall? (Not in the guide; note only.)
+      - Is the viewpoint closed in rain, heat, wind or on match days? Any sign?
+      - Could someone sit on the benches for about 10 minutes for four stories (030-033) without blocking others?
+[ ] O5 CRITICAL  THE MODELS  (025 cue; 026; 027; bridges 024 E, 026 E; ALT-O5)
+      - Is the Espai Barça exhibition (models and audiovisuals of the finished stadium) still there?
+      - Is it BEFORE the viewpoint (official 2023 text) or AFTER it (old guide)?
+      - What does the model show? Tick: the roof [ ]; the top ring [ ]; the new outer skin [ ]; the gardens around
+        it [ ]; the main stand (where the new museum goes) [ ]. Any labels with figures (seats, roof area)? Photograph.
+      - Is there room to stand at the model for about 4 minutes (026, 027)?
+[ ] O11 CRITICAL  THE ROUND ROOM (360°) AND ITS SHOW  (023 cue; 024; 025; bridges 022 H, 024 E/H; ALT-O11)
+      - Where is its way in? Is there a spot just before it to stand for about 1.5 minutes (024) out of the flow?
+      - The warning: is the "not recommended for epilepsy or photosensitivity" notice posted at the door? Its exact
+        wording (photograph)? Do staff say anything?
+      - The show: is it continuous or timed? STOPWATCH THE SHOW from start to end (twice if possible). Any wait for
+        the next show? How long (note the time of day)? Are there seats in the waiting area (ALT-O11: could the
+        quiet-corner stories 017-020 be heard there)?
+      - Can visitors skip or walk past the room? Photo rules?
+      - After the show: where do people leave? Is there a spot just outside to stand for about 1.5 minutes (025)?
+      - Do NOT write down the show's content for the script (PLAN decision 5); note only its name on any sign
+        ("Spotify Camp Nou Live"?).
+      - Play 024 E and 024 H through without stopping (the bridge is appended to 024): does the bridge start before
+        the doors open? Time the gap. Then pause at "stop the guide here" and resume after the show: does the
+        bridge ("when the show is over, …") play first? (Audit fixes, RL M2.)
+[ ] O14 CRITICAL  THE STADIUM IN VIEW FROM OUTSIDE  (001 cue; 002; 002 cue; ALT-O14)
+      - From the museum building, where is the nearest public spot from which the stadium is in view over the
+        lower buildings (Sala París, the Barça Store, the Palau Blaugrana)? Inside the campus gate or outside it?
+        Can a ticket holder go there before the museum and come back to its door without a check?
+      - What is visible from there: the top ring, cranes, the outer skin? Photograph.
+      - How long is the walk there and back (O21)?
+[ ] O15 CRITICAL  A QUIET CORNER INSIDE  (016 cue; 017-020; ALT-O15)
+      - After the history displays and before Messi's space, is there a bench, a rest area, a quiet corner away
+        from the loud screens, where someone could stand or sit for about 9 minutes (four stories)?
+      - The official accessibility page mentions "a rest area and drinking fountains on Rambla del Barça": where is
+        the Rambla del Barça? Inside the museum? Signed? Seats? (O10.)
+      - How loud is it (could you hear a guide on headphones at normal volume)?
+      - If nothing fits: note the best alternative: the round room's waiting area (O11), the old benches (O4), or
+        outside by the door (O1). (PLAN §1 ALT-O15 options 1-3.)
+      - If option 1 (the old benches) is used: re-cue 016, 020 and 029 and retitle 017-020 exactly as PLAN ALT-O15
+        (i)-(iv) says, so that no cue sends a Full listener back into the museum. (Audit fixes, RL R1.)
+[ ] O21 CRITICAL  STOPWATCH  (PLAN §3 "Walking by segment": every line)
+      See the table at the end of this file.
+
+-------------------------------------------------------------------------------
+OTHER ITEMS
+-------------------------------------------------------------------------------
+[ ] O6  The official audio guide: QR card at the desk? languages? numbered stops? (Never in speech.)
+[ ] O7  THE EXIT  (029 cue; 033 cue; 034; bridge 028 H; ALT-O7)
+      - Where does the route end after the viewpoint: through the Barça Store? out onto the campus? onto which
+        avenue? Any exit that skips the store? Signs ("Exit", "Sortida", "Megastore")?
+      - Is there a spot by the exit to stand for about 2 minutes (034) out of the way?
+[ ] O8  Match days: if the walk day or a later day is a match or event day, note gate changes, crowds, security,
+      closures of the viewpoint (ALT-O1 d). (Avoid walking on one.)
+[ ] O9  Statues: are the Kubala (2009) and Cruyff (2019) statues in place? Where? Visible from any point of the
+      route? Photograph. (014, 031: the guide only ever says "a statue of him stood at the main stand's entrance
+      from 2019 / 2009", DATED; never a cue to them.) Confirm there is NO Messi statue.
+[ ] O10 The Palau Blaugrana in view from the museum door (003)? The Rambla del Barça (O15)? CONFIRM the Masia de Can
+      Planes is NOT visible from the route (the campus map puts it on the far side of the stadium; 015 must never
+      point to it).
+[ ] O12 THE HISTORY DISPLAYS  (012-016 @where and look lines; 005 last lines; ALT-O12)
+      - Cruyff: is there a space or display given to him? Shirt, photographs, the Dream Team? (013, 014)
+      - La Masia: a display? photographs of the farmhouse? names of graduates? (015)
+      - "Més que un club" / values / Catalan identity: a display? what is on it (the crest's history? 1968?)? (016)
+      - Founding material (1899, Gamper, the ad in Los Deportes)? Early shirts in blue and claret (005)? The crest's
+        history (the bat, the 1910 crest, CFB)? Any Sunyol, 1925 or 1943 material (017-020 need no view; note only)?
+      - The "tunnel dedicated to the men's and women's teams" (2026 blog): where?
+[ ] O13 The Catalan names of the spaces on signs inside (for translators).
+[ ] O16 THE TROPHY DISPLAYS  (006 cue; 007; 008-010; 007 cue)
+      - The wall of trophies: how is it arranged (by competition, by year)? Photograph it whole.
+      - The 2025-26 league trophy and Super Cup: on show? labelled? (007)
+      - Trophies from the other sports (basketball, handball, roller hockey, futsal): shown? where? (003, 007)
+      - THE FIVE EUROPEAN CUPS (men's): together? in year order? labelled with year and venue (Wembley 1992, Paris
+        2006, Rome 2009, Wembley 2011, Berlin 2015)? Photograph each label. (008-010; ALT-O16)
+      - Is there room to stand at them for about 6 minutes (three stories)?
+[ ] O17 THE WOMEN'S TROPHIES  (010 cue; 011; bridge 009 E)
+      - The women's European Cups (2021, 2023, 2024, 2026): all four shown? where? labelled?
+      - The "11 columns" interactive room (2023 press): still there? which players? (PLAN §8.13: a possible 35th
+        track only if found.)
+[ ] O18 THE WALL OF SHIRTS  (011 cue; 012; 005 last lines)
+      - Roughly how many shirts (the 2023 press said 200)? Photograph the wall.
+      - The oldest shirts (blue and claret, nothing on the front)? A UNICEF shirt (2006)? A Spotify shirt?
+[ ] O19 MESSI'S SPACE  (016 cue; 020 cue; 021; 022; 023; bridge 008 H; ALT-O16/O19)
+      - Its way in: is there a spot to stand for about 2 minutes (021) before the golden balls?
+      - HOW MANY GOLDEN BALLS (Ballons d'Or) are shown? Eight? Any label "replica" or "original"? Photograph labels.
+      - The Golden Boots: how many? labelled?
+      - His shirts? Other objects?
+      - IS THERE A NAPKIN, OR A COPY OF IT? If yes, photograph the label exactly (PLAN §8.16). (The original was
+        sold at auction in 2024.)
+      - Is the room round (do not call it "the round room" in notes: that name is the 360° room's)?
+[ ] O20 THE ENTRANCE HALL  (005 cue; 006; bridges 001 E/H)
+      - Where can someone stand for about 1.5 minutes (006) out of the flow?
+      - The orientation map (O3): where?
+      - The information desk, the QR cards (note only).
+      - An opening film or audiovisual straight after the hall? (ALT-O3 d)
+[ ] O22 LISTENING CHECKS (after the first renders; V5 §6.7). Score each name 1-5 by ear; any below 4 goes to the
+      per-engine override list (PLAN §7):
+      [ ] Barça  [ ] Camp Nou  [ ] blaugrana  [ ] culers  [ ] socis  [ ] Més que un club  [ ] Palau Blaugrana
+      [ ] Palau de Gel  [ ] Montjuïc  [ ] Gol Nord  [ ] Joan / Hans Gamper  [ ] Winterthur  [ ] Walter Wild
+      [ ] Los Deportes  [ ] Kans Kamper / foot-vall  [ ] Gimnàs Solé  [ ] Witty  [ ] Merchant Taylors'
+      [ ] Roger Vinton  [ ] Carrer de la Indústria  [ ] Les Corts  [ ] CE Júpiter  [ ] Orfeó Català
+      [ ] Primo de Rivera  [ ] Josep Sunyol  [ ] La Rambla  [ ] Esquerra Republicana de Catalunya  [ ] Alto del León
+      [ ] Guadarrama  [ ] Chamartín  [ ] Joan Barau  [ ] Narcís de Carreras  [ ] Elena Fort  [ ] Vázquez Montalbán
+      [ ] Cant del Barça  [ ] Tot el camp és un clam  [ ] Jaume Picas  [ ] Josep Maria Espinàs  [ ] Manuel Valls
+      [ ] Oriol Martorell  [ ] László Kubala / Ladislau  [ ] Hungaria  [ ] Sarrià  [ ] Josep Samitier
+      [ ] Ferdinand Daučík  [ ] Sporting Gijón  [ ] Francesc Miró-Sans  [ ] Francesc Mitjans  [ ] Josep Soteras
+      [ ] Lorenzo García-Barbón  [ ] La Mercè  [ ] Montserrat  [ ] sardanas  [ ] Espanyol  [ ] Eulogio Martínez
+      [ ] Johan Cruyff  [ ] Jordi  [ ] Ajax  [ ] Charly Rexach  [ ] Miguel Reina  [ ] Atlético de Madrid
+      [ ] Bernabéu  [ ] Josep Lluís Núñez  [ ] Gràcies Johan  [ ] Ronald Koeman  [ ] Pagliuca  [ ] Sampdoria
+      [ ] Alexanko  [ ] Pep Guardiola  [ ] Benfica  [ ] Steaua Bucharest  [ ] Joan Laporta  [ ] Samuel Eto'o
+      [ ] Juliano Belletti  [ ] Henrik Larsson  [ ] Frank Rijkaard  [ ] Andrés Iniesta  [ ] Estudiantes
+      [ ] Eric Abidal  [ ] Ivan Rakitić  [ ] Álvaro Morata  [ ] Luis Suárez  [ ] Neymar  [ ] Luis Enrique  [ ] Xavi
+      [ ] UE Centelles  [ ] Selecció Ciutat de Barcelona  [ ] Alexia Putellas  [ ] Aitana Bonmatí  [ ] OL Lyonnes
+      [ ] Wolfsburg  [ ] Levski Sofia  [ ] La Masia / Can Planes  [ ] Oriol Tort  [ ] Rosario
+      [ ] Josep Maria Minguella  [ ] Horacio Gaggioli  [ ] Pelé  [ ] Gerd Müller  [ ] Porto  [ ] Getafe
+      [ ] Ansu Fati  [ ] Lamine Yamal  [ ] Lewandowski  [ ] Ferran Torres  [ ] Nikken Sekkei  [ ] b720
+      [ ] Fermín Vázquez  [ ] Limak  [ ] John Paul the Second  [ ] Kiko  [ ] Albert Ferrer  [ ] Sheringham
+      [ ] Solskjær  [ ] Diego Maradona  [ ] Andoni Goikoetxea  [ ] Napoli  [ ] Ronaldinho  [ ] Ferran Olivé
+      [ ] Avinguda de Joan XXIII / Arístides Maillol (only if O1 puts them in speech)
+
+-------------------------------------------------------------------------------
+O21 STOPWATCH TABLE (PLAN §3 "Walking by segment"; fill the "Measured" column; walking, queues and the show only)
+-------------------------------------------------------------------------------
+Segment                                                              Plan F / E / H     Measured   Time of day
+001 by the museum -> onto the campus, stadium in view (002) [O14]     1.0 / - / -        ______     ______
+-> back to the museum's door (003-005) [O1] (E,H: 001 -> door)        1.0 / 0.3 / 0.3    ______     ______
+Queue outside (if any) [O1] (excluded from PLAN totals)               (not counted)      ______     ______
+-> door, check, into the entrance hall (006) [O1, O20]                1.5 / 1.5 / 1.5    ______     ______
+-> the trophies; wall, cups, women's, shirts (007-012) [O16-O18]      2.0 / 1.6 / 0.8    ______     ______
+-> the history; Cruyff, La Masia, Més que un club (013-016) [O12]     1.5 / 1.2 / 0.8    ______     ______
+-> a quiet corner (017-020) [O15]                                     0.5 / - / -        ______     ______
+-> Messi's space; way in, golden balls (021-023) [O19]                0.8 / 0.8 / 0.6    ______     ______
+-> the round room's way in (024) [O11]                                0.5 / 0.5 / 0.5    ______     ______
+Wait for the next show (if any) [O11] (excluded from PLAN totals)     (not counted)      ______     ______
+THE SHOW, start to end [O11]                                          10 / 10 / 10       ______     ______
+-> out of the room (025) -> the models (026, 027) [O5]                1.0 / 1.0 / 0.8    ______     ______
+-> the viewpoint's rail (028) [O4]                                    2.0 / 2.0 / 2.0    ______     ______
+-> the old benches (029-033) [O4]                                     0.3 / 0.3 / -      ______     ______
+Looking at the viewpoint beyond the tracks (estimate; note typical)   2.0 / 2.0 / 1.0    ______     ______
+-> the way out (034) [O7]                                             1.5 / 1.5 / 1.5    ______     ______
+TOTAL (walking + show + looking)                                      25.6 / 22.7 / 19.8 ______
+
+-------------------------------------------------------------------------------
+PER-TRACK TICKS (every item a track depends on; tick when the item is CONFIRMED or its ALT is applied)
+-------------------------------------------------------------------------------
+001 Welcome to the Barça Museum ........................ [ ] O2  [ ] O1  [ ] O14 (cue)  [ ] O3 (route line)  [ ] O11 (warning line)  [ ] O21 (lengths)
+002 The campus · 909 days away ......................... [ ] O14  [ ] O1 (cue)
+003 Outside the museum · A museum in the old ice rink .. [ ] O1  [ ] O10 (Palau Blaugrana in view)  [ ] O16 (other sports' trophies, optional)  [ ] O2
+004 Extra · The ad with two spelling mistakes .......... [ ] O1 (queue / door)
+005 Extra · The colours nobody wrote down .............. [ ] O18 or O12 (early shirts, last lines)  [ ] O1 (cue)  [ ] O20 (cue)
+006 The entrance hall · From under the stand to an ice rink [ ] O20  [ ] O3 (route line, cue)  [ ] O16 (cue)  [ ] O2
+007 The wall of trophies · Where to start .............. [ ] O16 (arrangement, 2025-26 trophies, other sports)  [ ] O3
+008 The European Cups · Third time lucky ............... [ ] O16 (1992 cup)  [ ] O9 (statue clause: no cue either way)
+009 The European Cups · Six out of six ................. [ ] O16 (2006, 2009)
+010 The European Cups · Wembley again, then Berlin ..... [ ] O16 (2011, 2015)  [ ] O17 (cue)
+011 The women's trophies · From a Christmas match to 91,648 [ ] O17  [ ] O18 (cue)
+012 The wall of shirts · The shirt that paid to be worn [ ] O18 (count, oldest, UNICEF)  [ ] O3, O12 (cue)
+013 Cruyff's display · A name the registrar refused .... [ ] O12 (Cruyff)
+014 Cruyff's display · The coach who changed the club .. [ ] O12 (Cruyff, Dream Team)  [ ] O9 (statue clause)  [ ] O12 (cue: La Masia)
+015 The Masia display · The farmhouse that drew the stadium [ ] O12 (La Masia)  [ ] O10 (Masia NOT in view)  [ ] O12 (cue: values)
+016 The Més que un club display · Words older than the man [ ] O12 (values display, crest)  [ ] O15 (cue)  [ ] O19 (cue)
+017 Extra · Backsides on a wall ........................ [ ] O15  [ ] O10 (Rambla del Barça)
+018 Extra · The whistle that closed the club ........... [ ] O15
+019 Extra · The president who never came back ......... [ ] O15
+020 Extra · Eleven-one ................................. [ ] O15  [ ] O19 (cue)  [ ] O3 (cue)
+021 Messi's space · A promise on a paper napkin ........ [ ] O19 (way in; any napkin copy)
+022 Messi's space · Six won here, eight on show ........ [ ] O19 (golden balls count, labels, Golden Boots)
+023 Messi's space · The boy from Rosario ............... [ ] O19 (shirts)  [ ] O11 (cue)
+024 The round room · Before the show ................... [ ] O11 (way in, warning sign, show length, wait)
+025 The round room · After the show: the first full house [ ] O11 (spot after)  [ ] O5 (cue)
+026 The models · The stadium when it's finished ........ [ ] O5 (present, order, what the model shows)  [ ] O2
+027 The models · Nobody owns Barça ..................... [ ] O5  [ ] O4 (cue)
+028 The viewpoint · What you're looking at ............. [ ] O4 (route, view: each sight line)  [ ] O8 (closures)
+029 The old benches · Where the players sat ............ [ ] O4 (benches, label, seating)  [ ] O7 (cue)
+030 Extra · The stadium the nickname named ............. [ ] O4 (benches; lower tiers in view for the last lines)
+031 Extra · The refugee signed at half past eight ...... [ ] O4  [ ] O9 (statue clause)
+032 Extra · Three and a half thousand voices ........... [ ] O4 (bowl in view for the last lines)
+033 Extra · Nine days before ........................... [ ] O4  [ ] O7 (cue)
+034 The way out · A club that keeps coming home ........ [ ] O7 (exit, store)  [ ] O2
+Bridges: 001 E/H [ ] O1 [ ] O20 [ ] O16 · 006 E [ ] O16 · 008 H [ ] O19 · 009 E [ ] O17 · 012 E [ ] O12 · 022 H [ ] O11
+         · 024 E [ ] O11 [ ] O5 · 024 H [ ] O11 [ ] O4 · 028 H [ ] O7   (026 E: no bridge, 027 follows; the tags now sit
+         on a "#" line above each bridge in v5/bridges/*.txt)
+
+When the walk is done: send the lead (1) the photos, (2) this file with every box ticked or marked DIFFERENT /
+NOT FOUND, (3) the stopwatch table, (4) the room order as you walked it, so PLAN §3 and every cue can be re-done.

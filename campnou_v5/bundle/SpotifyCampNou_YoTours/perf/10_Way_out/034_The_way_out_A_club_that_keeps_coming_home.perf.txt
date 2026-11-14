@@ -1,0 +1,26 @@
+@id: 034 · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The way out
+@room: The way out · at the exit, or just outside it, out of the way [O7]
+@type: CLOSE
+@title: The way out · A club that keeps coming home
+@where: At the exit of the visit, or just outside it, out of the way of people leaving. If the way out is back past the viewpoint, play it there before you leave. [O7, ALT-O7]
+@what: Recap, every clause self-contained and version-neutral: the misspelled advert of 1899 (F1.3–1.4 OK OFF); the 1925 closure after the crowd whistled an anthem, the founder lost, his promise that the club could not die (F4.2–4.7 OK OFF; no quote, 018 home); a Dutchman who taught it a way of playing (F7.7 OK OFF); boys who slept under a stand (F9.5 OK OFF); a promise to Messi on a napkin (F10.1 OK SEC); the women's world-record crowds (F6.13 OK OFF). The homes: four grounds in ten years (F2.1 OK OFF), Carrer de la Indústria in 1909 (F2.3), Les Corts in 1922 (F2.9), the Camp Nou in 1957 (F5.15), two seasons at Montjuïc (F15.5 OK OFF [O29]), a museum in the old ice rink (F16.11 OK OFF), one more spell away when the roof goes on (F15.11 DATED SEC). Payoff answering 001's title line. No store, no plug.
+@listen: A last look back at a club that has moved house again and again, and always come home.
+@brief: Saying goodbye to a friend at the door after a long, good visit; warm, unhurried, a smile at the last line.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: recap of facts confirmed in other tracks: https://www.fcbarcelona.com/en/news/2408474/football-stadiums-as-a-vehicle-for-barcas-progress (OFF [O12], read 14 Nov 2026: Bonanova, Hotel Casanovas, Carretera d'Horta, Muntaner 1899–1909; Indústria opened 14 March 1909; Les Corts ready in three months) ; https://www.fcbarcelona.com/en/club/news/2491345/100-anos-de-la-primera-piedra-en-el-campo-de-les-corts (OFF [O13], read 14 Nov 2026: Les Corts opened 20 May 1922) ; https://www.fcbarcelona.com/en/club/news/4274672/100-years-since-shut-down-for-protest-against-spanish-national-anthem (OFF [O15], read 14 Nov 2026: 14,000 fans "booed and whistled the Spanish national anthem"; six-month suspension; Gamper forced out) ; https://www.fcbarcelona.es/es/noticias/4578665/el-barca-aprueba-510-millones-de-euros-de-nueva-financiacion-para-completar-el-spotify-camp-nou (OFF [O29], read 14 Nov 2026: "las dos temporadas disputadas en el Estadio Olímpico Lluís Companys") ; https://www.elnacional.cat/ca/esports/obertura-tercera-graderia-camp-nou-posposa-fins-temporada-vinent_1702948_102.html and https://www.3cat.cat/esport3/el-barca-posa-data-a-la-tornada-definitiva-al-camp-nou/noticia/3429599/ (SEC [S4], [S7], read 14 Nov 2026: Montjuïc again during the roof works) ; https://www.fcbarcelona.com/en/news/2585994/camp-nou-does-it-again-and-beats-the-world-record-for-attendance-with-91648-fans (OFF [O33], read 14 Nov 2026: world attendance records) ; advert F1.4 [O10], Cruyff F7.7 [O34], La Masia F9.5 [O42], napkin F10.1 [S13], ice rink F16.11 [O5]: FACTS rows, OK, not re-fetched for one-clause mentions
+---
+[warmly] So here is the club you've just walked through.
+
+It began with a small advert in a sports paper that couldn't even spell its founder's name. It was shut down for months after its crowd whistled an anthem, and it lost the man who founded it. But it held on to his words that the club must never die. A Dutchman, Johan Cruyff, taught it a way of playing. It put its young players to bed under one of its own stands. It made a boy from Argentina a promise on a paper napkin. And its women's team filled the stadium with the biggest crowds women's football had ever seen.
+
+[pause] Now think about where it has lived. Four grounds in its first ten years. Then a proper ground on Carrer de la Indústria, in 1909. Then Les Corts, in 1922, built in three months. Then, in 1957, the new ground that everyone came to call the Camp Nou.
+
+While that stadium was being rebuilt, the team spent two seasons on the hill at Montjuïc, and the museum moved into the club's old ice rink. Now the team is back home, in a stadium still being finished. One more spell away is planned, for when the roof goes on.
+
+[lightly] As you heard at the start, it has packed up and moved house, again and again.
+
+A club that keeps leaving home, and keeps coming back.
+
+[warmly] Thank you for spending this time with the club, and with me. Enjoy the rest of your day in Barcelona.

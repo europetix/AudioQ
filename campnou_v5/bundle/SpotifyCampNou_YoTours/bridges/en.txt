@@ -1,0 +1,10 @@
+001 E>006: On this shorter tour, go straight to the museum's door instead. Go in, through the ticket check, and stop in the entrance hall, out of the way of people coming in: The entrance hall · From under the stand to an ice rink.
+001 H>008: On this shorter tour, go straight into the museum instead, through the ticket check, and on to the trophies. Find the big silver European Cups, the tall trophies with the big handles, and stop where you can see them: The European Cups · Third time lucky.
+006 E>008: On this shorter tour, walk on to the trophies, and go straight to the big silver European Cups, the tall trophies with the big handles. Stop where you can see them: The European Cups · Third time lucky.
+008 H>022: On this shorter tour, walk on instead, through the museum to Messi's space, and stop where you can see his golden balls: Messi's space · Six won here, eight on show.
+009 E>011: On this shorter tour, leave the European Cups, and find the women's trophies, with their own European Cups: The women's trophies · From a Christmas match to 91,648.
+012 E>014: On this shorter tour, walk on into the club's history, and find the space given to Johan Cruyff. Stop where you can see it: Cruyff's display · The coach who changed the club.
+022 H>024: On this shorter tour, walk on instead to the round room with the screens, where the exhibition ends. Stop at its way in, before you go in: The round room · Before the show.
+024 E>026: On this shorter tour, when the show is over, follow the way out of the room to the models of the finished stadium: The models · The stadium when it's finished.
+024 H>028: On this shorter tour, when the show is over, leave the room and follow the way on to the viewpoint over the works, and find a place at the rail: The viewpoint · What you're looking at.
+028 H>034: On this shorter tour, stay at the rail as long as you like, and when you're ready, follow the signs for the exit: The way out · A club that keeps coming home.
