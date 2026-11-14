@@ -1,6 +1,6 @@
 @id: 006 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The entrance hall
-@room: The entrance hall · just inside, to one side, near the orientation map if there is one [O20, O3]
+@room: The entrance hall · just inside, to one side, near the orientation map if there is one
 @type: R
 @title: Die Eingangshalle · Von unter der Tribüne in eine Eishalle
 @where: Gleich im Museum, hinter der Ticketkontrolle, an einer Seite der Eingangshalle und nahe dem Orientierungsplan, falls es einen gibt.

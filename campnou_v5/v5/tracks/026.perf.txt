@@ -1,9 +1,9 @@
 @id: 026 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The models
-@room: The models · where you can see the model of the finished stadium whole [O5]
+@room: The models · where you can see the model of the finished stadium whole
 @type: W
 @title: The models · The stadium when it's finished
-@where: At the models of the future stadium, standing where you can see the big model of the finished stadium whole, roof and all. If the models are elsewhere or gone, play it wherever the route reaches the stadium first. [O5, ALT-O5]
+@where: At the models of the future stadium, standing where you can see the big model of the finished stadium whole, roof and all. If the models are elsewhere or gone, play it wherever the route reaches the stadium first.
 @what: The lower two tiers of 1957 kept and renovated, the third tier taken down and rebuilt (F15.3 OK OFF-supplier [P1]); about 105,000 when finished (F15.13 OK OFF, DATED); a cable-held tensile roof over every fan, close to fifty thousand square metres, "one of the largest tensile structures in the world" per the club's stadium site, 18,000 m² of solar panels (F15.12 HEDGE OFF [O57]); the new facade inspired by the 1957 canopy of Mitjans, Soteras and García, the old inner canopy to disappear (F15.14 OK OFF [O9]); the double VIP ring and up to 25 ha of car-free grounds (F15.15 OK OFF [O57]); Nikken Sekkei with b720 Fermín Vázquez, contractor Limak (F15.1 OK OFF, F15.2 OK OFF-supplier); the new museum in the Tribuna hub facing the Campus esplanade (F16.23 OK OFF, DATED).
 @listen: What the finished stadium will be, who is building it, and why the 1957 bowl is still inside it.
 @brief: A friend walking round a model with you, pointing things out; curious and clear, a little impressed by the roof, settling on the old bowl inside the new shell.

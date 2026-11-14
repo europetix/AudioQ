@@ -1,6 +1,6 @@
 @id: 017 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · a bench, the rest area or any spot out of the flow [O15, O10]
+@room: A quiet corner · a bench, the rest area or any spot out of the flow
 @type: X
 @title: Un coin tranquille · Extra · Des derrières sur un mur
 @where: N'importe quel banc, coin de repos ou coin tranquille à l'écart du passage, après les vitrines d'histoire et loin des écrans bruyants. Rien à regarder avant les dernières phrases.

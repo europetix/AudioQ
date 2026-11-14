@@ -1,6 +1,6 @@
 @id: 011 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The trophies
-@room: The women's trophies · where you can see the women's European Cups [O17]
+@room: The women's trophies · where you can see the women's European Cups
 @type: W
 @title: Les trophées féminins · D'un match de Noël à 91 648
 @where: Aux trophées féminins, là où l'on voit leurs Coupes d'Europe.

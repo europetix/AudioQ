@@ -1,0 +1,30 @@
+@id: 018 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: More stories inside
+@room: A quiet corner · same place
+@type: W
+@title: Eine ruhige Ecke · Extra · Die Pfiffe, die den Club schlossen
+@where: Dieselbe Bank oder ruhige Ecke wie bei der vorigen Geschichte, sitzend oder angelehnt, abseits des Stroms. Es muss nichts zu sehen sein.
+@what: Sunday 14 June 1925, Les Corts, a friendly v CE Júpiter in tribute to the Orfeó Català (F4.1 OK OFF); at half time British sailors' band played the Spanish anthem, most of the 14,000 whistled and booed, then applauded God Save the King (F4.2 OK OFF); 24 June the civil governor under Primo de Rivera suspended the club, six months decreed (F4.3 OK OFF; F18.17: never "six months" as served); Gamper, president five times (F4.6 OK OFF), came to Barcelona in the late 1890s (GAPS change to F1.1), forced out and barred, "temporarily exiled to Switzerland" (F4.4 HEDGE OFF, the club's words); 1908 "Barcelona cannot die and must not die" (F4.7, Q2 re-checked); his death in 1930, "probably" business problems and the closure (F4.5 OK OFF, gentle); the club's centenary article of 14 June 2025 (O15). Ending: "cannot die" (FACTS §22 Gamper).
+@listen: The afternoon in 1925 when a crowd's whistles got the club closed and its founder forced out, and the words he had once used to save it.
+@brief: A friend telling a sad family story honestly, even about the politics, quiet for the founder's death, then a small lift at the end.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: https://www.fcbarcelona.com/en/club/news/4274672/100-years-since-shut-down-for-protest-against-spanish-national-anthem (OFF [O15], re-read 14 Nov 2026, published 14 Jun 2025: Sunday 14 June 1925, friendly v CE Júpiter, tribute to the Orfeó Català; sailors from a British ship; "a great majority of the 14,000 fans present booed and whistled the Spanish national anthem"; "God Save the King" "roundly applauded"; 24 June 1925 the civil governor suspended activity for six months; Gamper "temporarily exiled to Switzerland", barred from the club) ; https://fcbarcelona.com/club/history/card/joan-gamper-1908-1909-1910-1913-1917-1919-1921-1923-1924-1925 (OFF [O18], re-read: Q2 "Barcelona cannot die and must not die." at the Solé gymnasium meeting, 1908; five presidencies; "forced to resign by the Primo de Rivera dictatorship"; suicide 30 July 1930 "probably as a result of his business problems and the forced closure of his beloved Club") ; Gamper "in the late 1890s": research/FACTS_GAPS_NOV2026.md change to F1.1 (G20) and Lead's decisions after FACTS_GAPS
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 018 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Am Sonntag, dem vierzehnten Juni 1925, spielte Barça ein Freundschaftsspiel in Les Corts, dem damaligen Platz des Clubs. Der Nachmittag war eine Ehrung für den Orfeó Català, einen katalanischen Chor.
+
+An diesem Nachmittag stimmte eine Kapelle von Matrosen eines britischen Schiffs im Hafen die spanische Nationalhymne an. Die meisten der vierzehntausend Menschen auf dem Platz pfiffen und buhten sie aus. [pause] Dann spielte die Kapelle God Save the King, und die Menge applaudierte.
+
+Spanien lebte unter der Diktatur von General Primo de Rivera, und die Hundertjahrchronik des Clubs deutet die Pfiffe als Protest dagegen. Zehn Tage später ließ der Zivilgouverneur von Barcelona den Club schließen. Im Dekret standen sechs Monate.
+
+Den höchsten Preis zahlte der Gründer. Gamper war fünfmal Präsident des Clubs gewesen. Jetzt wurde er aus seinem eigenen Club gedrängt und, mit den Worten des Clubs, vorübergehend ins Exil in die Schweiz geschickt. Er führte Barça nie wieder.
+
+Es war nicht das erste Mal, dass der Club in Gefahr war. 1908, als er kurz vor dem Aus stand, war Gamper bei einer Versammlung aufgestanden und hatte die Führung übernommen. Die Geschichtsseiten des Clubs geben seine Worte von jenem Abend wieder: „Barcelona kann nicht sterben und darf nicht sterben.“
+
+[quietly] 1930 nahm Gamper sich das Leben. Wahrscheinlich, so dieselbe Chronik, wegen seiner geschäftlichen Probleme und der erzwungenen Schließung des Clubs, den er liebte.
+
+[pause] Die Diktatur, die den Club schloss, ist längst Geschichte, und der Gründer auch. Aber der Club, von dem er sagte, er könne nicht sterben, ist überall um Sie herum.
+
+Bleiben Sie hier. Die nächste Geschichte handelt von einem Präsidenten, der an die Front fuhr und nie zurückkam: Eine ruhige Ecke · Extra · Der Präsident, der nie zurückkam.

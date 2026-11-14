@@ -1,6 +1,6 @@
 @id: 034 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The way out
-@room: The way out · at the exit, or just outside it, out of the way [O7]
+@room: The way out · at the exit, or just outside it, out of the way
 @type: CLOSE
 @title: Der Ausgang · Ein Club, der immer wieder heimkehrt
 @where: Am Ausgang der Besichtigung, oder gleich draußen, abseits der Hinausgehenden. Führt der Weg hinaus am Aussichtspunkt vorbei, spielen Sie dies dort ab, bevor Sie gehen.

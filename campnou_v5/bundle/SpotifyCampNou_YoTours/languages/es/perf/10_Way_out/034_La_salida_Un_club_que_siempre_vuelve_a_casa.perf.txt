@@ -1,0 +1,28 @@
+@id: 034 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The way out
+@room: The way out · at the exit, or just outside it, out of the way
+@type: CLOSE
+@title: La salida · Un club que siempre vuelve a casa
+@where: En la salida de la visita, o justo fuera, sin estorbar a quienes salen. Si la salida pasa de nuevo por el mirador, escúchela allí antes de irse.
+@what: Recap, every clause self-contained and version-neutral: the misspelled advert of 1899 (F1.3–1.4 OK OFF); the 1925 closure after the crowd whistled an anthem, the founder lost, his promise that the club could not die (F4.2–4.7 OK OFF; no quote, 018 home); a Dutchman who taught it a way of playing (F7.7 OK OFF); boys who slept under a stand (F9.5 OK OFF); a promise to Messi on a napkin (F10.1 OK SEC); the women's world-record crowds (F6.13 OK OFF). The homes: four grounds in ten years (F2.1 OK OFF), Carrer de la Indústria in 1909 (F2.3), Les Corts in 1922 (F2.9), the Camp Nou in 1957 (F5.15), two seasons at Montjuïc (F15.5 OK OFF [O29]), a museum in the old ice rink (F16.11 OK OFF), one more spell away when the roof goes on (F15.11 DATED SEC). Payoff answering 001's title line. No store, no plug.
+@listen: A last look back at a club that has moved house again and again, and always come home.
+@brief: Saying goodbye to a friend at the door after a long, good visit; warm, unhurried, a smile at the last line.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: recap of facts confirmed in other tracks: https://www.fcbarcelona.com/en/news/2408474/football-stadiums-as-a-vehicle-for-barcas-progress (OFF [O12], read 14 Nov 2026: Bonanova, Hotel Casanovas, Carretera d'Horta, Muntaner 1899–1909; Indústria opened 14 March 1909; Les Corts ready in three months) ; https://www.fcbarcelona.com/en/club/news/2491345/100-anos-de-la-primera-piedra-en-el-campo-de-les-corts (OFF [O13], read 14 Nov 2026: Les Corts opened 20 May 1922) ; https://www.fcbarcelona.com/en/club/news/4274672/100-years-since-shut-down-for-protest-against-spanish-national-anthem (OFF [O15], read 14 Nov 2026: 14,000 fans "booed and whistled the Spanish national anthem"; six-month suspension; Gamper forced out) ; https://www.fcbarcelona.es/es/noticias/4578665/el-barca-aprueba-510-millones-de-euros-de-nueva-financiacion-para-completar-el-spotify-camp-nou (OFF [O29], read 14 Nov 2026: "las dos temporadas disputadas en el Estadio Olímpico Lluís Companys") ; https://www.elnacional.cat/ca/esports/obertura-tercera-graderia-camp-nou-posposa-fins-temporada-vinent_1702948_102.html and https://www.3cat.cat/esport3/el-barca-posa-data-a-la-tornada-definitiva-al-camp-nou/noticia/3429599/ (SEC [S4], [S7], read 14 Nov 2026: Montjuïc again during the roof works) ; https://www.fcbarcelona.com/en/news/2585994/camp-nou-does-it-again-and-beats-the-world-record-for-attendance-with-91648-fans (OFF [O33], read 14 Nov 2026: world attendance records) ; advert F1.4 [O10], Cruyff F7.7 [O34], La Masia F9.5 [O42], napkin F10.1 [S13], ice rink F16.11 [O5]: FACTS rows, OK, not re-fetched for one-clause mentions
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 034 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Este es el club que acaba de recorrer.
+
+Empezó con un pequeño anuncio en un periódico deportivo que ni siquiera supo escribir el nombre de su fundador. Lo cerraron durante meses después de que su público pitara un himno, y perdió al hombre que lo fundó. Pero se aferró a sus palabras: el club no debía morir nunca. Un holandés, Johan Cruyff, le enseñó una forma de jugar. Acostó a sus canteranos bajo una de sus propias gradas. Hizo a un chico de Argentina una promesa en una servilleta de papel. Y su equipo femenino llenó el estadio con los mayores públicos de la historia del fútbol femenino.
+
+[pause] Piense ahora dónde ha vivido. Cuatro campos en sus diez primeros años. Luego un campo de verdad en el Carrer de la Indústria, en 1909. Luego Les Corts, en 1922, construido en tres meses. Después, en 1957, el campo nuevo que todos acabaron llamando el Camp Nou.
+
+Mientras se reconstruía ese estadio, el equipo pasó dos temporadas en la montaña de Montjuïc, y el museo se mudó a la antigua pista de hielo del club. Ahora el equipo está de vuelta, en un estadio aún por terminar. Hay prevista otra etapa fuera, para cuando se ponga la cubierta.
+
+[lightly] Como oyó al principio, ha hecho las maletas y se ha mudado de casa, una y otra vez.
+
+Un club que siempre se va de casa, y siempre vuelve.
+
+[warmly] Gracias por pasar este rato con el club, y conmigo. Disfrute del resto de su día en Barcelona.

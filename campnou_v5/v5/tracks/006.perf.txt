@@ -1,9 +1,9 @@
 @id: 006 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The entrance hall
-@room: The entrance hall · just inside, to one side, near the orientation map if there is one [O20, O3]
+@room: The entrance hall · just inside, to one side, near the orientation map if there is one
 @type: R
 @title: The entrance hall · From under the stand to an ice rink
-@where: Just inside the museum, past the ticket check, to one side of the entrance hall and near the orientation map if there is one. [O20, O3, ALT-O3d]
+@where: Just inside the museum, past the ticket check, to one side of the entrance hall and near the orientation map if there is one.
 @what: The idea of a museum in August 1928, the board proposing to put the trophies in order (F16.1 OK OFF [O4]); opened 24 Sep 1984, the stadium's 27th birthday (our link), 950 m² under the main stand (F16.2–16.3 OK OFF); 3,600 m² by 2010 (F16.4 OK OFF); nearly two million in the record year 2016 (F16.5 OK OFF [O49]); "one of the most visited museums in Catalonia", by the club's count (F16.6 HEDGE, [O49] wording); [RL] the move into the old ice rink in 2023 (F16.11 OK OFF; version-neutral); over a million visitors in 2025 (F16.8 OK OFF, DATED); a new museum being finished inside the stadium (F16.23–16.24, DATED); version-neutral founding sentence (1899, Joan Gamper); [RL] how the visit runs (O3, O20); ending: a museum waiting to move home.
 @listen: How the club's museum began, why it is in an old ice rink, and how the visit runs from here.
 @brief: Settling visitors in just inside the door; clear and friendly, a touch of wry humour at the end.

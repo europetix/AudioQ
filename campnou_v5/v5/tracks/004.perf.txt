@@ -1,9 +1,9 @@
 @id: 004 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · by the door or in the queue; needs no view [O1]
+@room: Outside the museum · by the door or in the queue; needs no view
 @type: W
 @title: Outside the museum · Extra · The ad with two spelling mistakes
-@where: By the museum's door or in the queue for the ticket check, if there is one; nothing to look at. [O1]
+@where: By the museum's door or in the queue for the ticket check, if there is one; nothing to look at.
 @what: The ad: 22 Oct 1899, "Miscellaneous" section at the back of the weekly (named in speech only as "a Barcelona sports weekly": see notes), "Our friend and colleague Mr Kans Kamper, of the foot-vall section", "former Swiss champion", "to organise some games in Barcelona", "Tuesday or Friday evenings between 9 and 11" (F1.3–1.5, Q1 re-checked OFF [O10]); placed with his compatriot Walter Wild (F1.6, [O10]); Hans Gamper of Winterthur, born 22 Nov 1877, so 22 a week before the meeting (G19 SEC GEC, our arithmetic), in Barcelona since "the late 1890s" (G20, lead's decision), always used the Catalan form Joan (F4.8 OK OFF); founding meeting 29 Nov 1899, Solé gymnasium off the Rambla, twelve men from Switzerland, England, Germany, Catalonia and elsewhere in Spain (F1.7–1.8 OK OFF; the club's 125-years page lists Enric Ducay "from Aragon": audit FA S1, lead's decision 6); Walter Wild the first president, "unanimously named", lent his flat on Carrer Princesa, played ten matches incl. the very first, resigned 25 Apr 1901 to leave for England (G23–G24 OK OFF, re-read); Gamper did not want to be the first president, he wanted to play (G22, GEC re-read); the city's name (F1.10 OK OFF). Ending (FACTS §22 Gamper): a club named for its city, by men from somewhere else.
 @listen: How a misprinted small ad founded FC Barcelona, and why the founder wasn't its first president.
 @brief: A friend passing the time in a queue with a funny true story, amused at the misprints, warm at the end.

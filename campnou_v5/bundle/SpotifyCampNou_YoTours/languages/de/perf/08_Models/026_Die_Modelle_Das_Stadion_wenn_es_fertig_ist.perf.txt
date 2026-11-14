@@ -1,0 +1,30 @@
+@id: 026 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The models
+@room: The models · where you can see the model of the finished stadium whole
+@type: W
+@title: Die Modelle · Das Stadion, wenn es fertig ist
+@where: Bei den Modellen des künftigen Stadions, dort, wo Sie das große Modell des fertigen Stadions ganz sehen, samt Dach. Sind die Modelle woanders oder nicht mehr da, spielen Sie dies dort ab, wo der Weg zuerst das Stadion erreicht.
+@what: The lower two tiers of 1957 kept and renovated, the third tier taken down and rebuilt (F15.3 OK OFF-supplier [P1]); about 105,000 when finished (F15.13 OK OFF, DATED); a cable-held tensile roof over every fan, close to fifty thousand square metres, "one of the largest tensile structures in the world" per the club's stadium site, 18,000 m² of solar panels (F15.12 HEDGE OFF [O57]); the new facade inspired by the 1957 canopy of Mitjans, Soteras and García, the old inner canopy to disappear (F15.14 OK OFF [O9]); the double VIP ring and up to 25 ha of car-free grounds (F15.15 OK OFF [O57]); Nikken Sekkei with b720 Fermín Vázquez, contractor Limak (F15.1 OK OFF, F15.2 OK OFF-supplier); the new museum in the Tribuna hub facing the Campus esplanade (F16.23 OK OFF, DATED).
+@listen: What the finished stadium will be, who is building it, and why the 1957 bowl is still inside it.
+@brief: A friend walking round a model with you, pointing things out; curious and clear, a little impressed by the roof, settling on the old bowl inside the new shell.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.limak.com.tr/sectors/construction/projects/international/barcelona-spotify-camp-nou-renovation-and-expansion-project-spain (OFF-supplier, read 14 Nov 2026: "the bottom two tiers… preserved, renovated, and fully updated with new seating"; third tier "demolished and rebuilt"; 99,000 to 105,000; design-build contract 31 Jan 2023; Limak's country not stated on the page, Turkish per FACTS F15.2) ; https://www.fcbarcelona.com/club/facilities/card/new-camp-nou-characteristics (OFF [O9], read 14 Nov 2026: Nikken Sekkei with Pascual-Ausió, then b720 Fermín Vázquez; about 105,000; roof over 47,000 m²; facade inspired by "the canopy designed by Francesc Mitjans, Josep Soteras and Lorenzo García"; "The canopy inside the stadium will disappear") ; https://espaibarca.fcbarcelona.com/en/spaces/future-spotify-camp-nou (OFF [O57], read 14 Nov 2026: "nearly 105,000"; "All fans will be protected by a tensile structure made with cables"; "one of the largest tensile structures in the world, with a surface area of 48,000 m²"; 18,000 m² of photovoltaic panels; "double VIP ring between the second and third tiers"; "landscaped areas of up to 25 hectares, a space without motor vehicle traffic"; "The Tribuna hub of the Stadium, facing the Campus esplanade, will also integrate the Barça Store and the Museum") ; roof area given as "close to fifty thousand" (45,000 / 47,000 / 48,000 conflict, F18.35) ; the 2029 final left out (Ara [S3] calls it a bid, 3Cat [S7] a fixture: conflict)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 026 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Das Stadion in diesem Modell wurde nie abgerissen. Seine beiden unteren Ränge, in den 1950er Jahren gegossen, wurden erhalten und renoviert, mit neuen Sitzen in jeder Reihe. Nur der dritte Rang, der oberste Ring, wurde abgetragen und neu gebaut.
+
+So beschreibt der Bauunternehmer Limak aus der Türkei die Arbeiten. Der Entwurf stammt von einem japanischen Büro, Nikken Sekkei, gemeinsam mit einem Studio aus Barcelona, b720 Fermín Vázquez.
+
+Wenn es fertig ist, rechnet der Club mit etwa hundertfünftausend Plätzen.
+
+[pause] Die größte Veränderung ist oben. Das neue Dach soll jeden Fan im Stadion überdecken, und es hängt an Seilen. Es wird fast fünfzigtausend Quadratmeter groß sein, und die Stadionseite des Clubs nennt es eines der größten Seiltragwerke der Welt. Obendrauf kommen etwa achtzehntausend Quadratmeter Solarmodule.
+
+Dann die Hülle. Die neue Fassade ist von dem Vordach inspiriert, das die ursprünglichen Architekten für das Stadion von 1957 entwarfen. Das alte Vordach selbst verschwindet. Zwischen dem zweiten und dritten Rang verläuft ein doppelter Ring aus Logen für Gäste, und rund um das Ganze bis zu fünfundzwanzig Hektar autofreie Grünanlagen.
+
+Auch das nächste Zuhause des Museums ist darin geplant, in der Haupttribüne, mit Blick auf das Gelände.
+
+Suchen Sie am Modell drei Dinge: das Dach an seinen Seilen, den neuen oberen Ring und die Hülle, die sich um die Außenseite legt.
+
+Bleiben Sie bei den Modellen für die Menschen, die beschlossen, es zu bauen: Die Modelle · Barça gehört niemandem.

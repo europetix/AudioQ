@@ -1,0 +1,28 @@
+@id: 013 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The club's history
+@room: Cruyff's display · wherever Johan Cruyff's shirt or photographs are shown
+@type: W
+@title: La muestra de Cruyff · Un nombre que el registro rechazó
+@where: En el espacio dedicado a Johan Cruyff, dondequiera que se muestren su camiseta o sus fotografías en la zona de historia.
+@what: Jordi Cruyff's own words, "My birth date was decided because of a Real Madrid vs. Barcelona game" (G40 HEDGE, ESPN re-read; who decided not said: lead); signed 13 Aug 1973 ("in August 1973"), the wait caused by the Dutch federation's 1–31 July window, never a Spanish rule (G33, G35 OK OFF, re-read; F18 new error); first competitive game 28 Oct 1973 v Granada, 4–0, two goals; Barça "second from bottom"; "the first of 26 games unbeaten"; the 1973–74 Liga, first in fourteen years (G36 OK OFF re-read; F7.3); Jordi born 9 Feb 1974 in Amsterdam by planned caesarean, eight days before the Bernabéu (G40, AU224 / Ara; F7.4); 0–5 on 17 Feb 1974, Cruyff the second goal (G37 OK OFF re-read); Asensi's line and Cruyff's "people were saying thank you" (G38, G39 OK OFF, re-read); the registrar wanted "Jorge", the reply about the Dutch passport (G41, Jordi's account, ESPN re-read, attributed and paraphrased); Jordi = Catalan George, patron saint (AU221; G41); Catalan names registrable from January 1977, Ley 17/1977 (AU227 fix, AU-S82 OFF BOE, via AUDIT). Not used: the fee; the volley v Atlético (left out for length); "the name was outlawed". Ending: a Catalan name, insisted on by a Dutchman (fact).
+@listen: How Johan Cruyff's arrival, a five–nil in Madrid and his son's name became one story.
+@brief: Telling a friend a family story with a smile, brisk through the football, warm at the Bernabéu, quietly satisfied at the name.
+@pace: medium
+@energy: 2→4→3
+@sources: https://global.espn.com/football/story/_/id/37443918/jordi-cruyff-father-johan-cruyff-growing-football (SEC, ESPN, A. Mitten, 25 Mar 2016, read 14 Nov 2026: "My birth date was decided because of a Real Madrid vs. Barcelona game."; officials: "That is illegal, it has to be the Spanish version, Jorge."; Johan: "My son has a Dutch passport, I can call him what I like and his name is Jordi") ; https://www.fcbarcelona.com/en/club/news/3619586/50-years-on-how-johan-cruyff-came-to-fc-barcelona (OFF, read 14 Nov 2026: 13 August 1973; the Dutch federation "refused to authorise the transfer … claiming that it had to be processed between July 1 and 31"; four friendlies) ; https://www.fcbarcelona.com/en/news/3750661/50-years-since-cruyffs-competitive-debut-for-barca (OFF, read 14 Nov 2026: 28 October 1973 v Granada, 4-0, "a brace"; "second from bottom in the league"; "the first of 26 games unbeaten"; 1973/74 Liga) ; https://www.fcbarcelona.com/en/news/3897179/50-years-since-the-5-0-at-the-santiago-bernabeu (OFF, read 14 Nov 2026: 17 February 1974; Asensi 31', Cruyff 39'; Cruyff: "I was surprised that instead of congratulating us on the win, people were saying thank you."; Asensi: "The image I remember most is the Bernabéu fans applauding us as we went into the dressing room.") ; AU-S33 Ara (SEC: born in Amsterdam, planned caesarean, third child) ; AU-S82 BOE Ley 17/1977 of 4 Jan 1977 (OFF, via AUDIT) ; FACTS 7.3 [O34] (first league in 14 years)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 013 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Jordi Cruyff lo ha contado él mismo: «Mi fecha de nacimiento se decidió por un Real Madrid contra Barcelona». Todo empieza con su padre.
+
+Johan Cruyff fichó procedente del Ajax en agosto de 1973. Aun así tuvo que esperar. La federación holandesa se negó a aprobar el traspaso, alegando que debía cerrarse en julio, así que durante semanas solo pudo jugar amistosos. Cuando por fin jugó su primer partido de Liga, a finales de octubre, el Barça era penúltimo. Marcó dos goles al Granada. Fue el primero de veintiséis partidos sin perder, y esa temporada ganaron la Liga por primera vez en catorce años.
+
+Ese invierno, su mujer esperaba su tercer hijo, con una cesárea programada. El Barça debía jugar en Madrid a mediados de febrero. Así que el bebé llegó primero, el 9 de febrero de 1974, ocho días antes del partido.
+
+[pause] En Madrid, el Barça ganó cinco a cero, y Cruyff marcó el segundo. Juan Manuel Asensi, que marcó dos, guardó una imagen de aquella noche: «La imagen que más recuerdo es la de la afición del Bernabéu aplaudiéndonos cuando entrábamos al vestuario».
+
+Luego llegó el papeleo. Según cuenta Jordi, el registro rechazó el nombre. Tenía que ser la versión española, Jorge. Jordi es el nombre catalán de san Jorge, patrón de Cataluña. Su padre respondió que el niño tenía pasaporte holandés, y que se llamaba Jordi. La ley española no se puso al día hasta enero de 1977, cuando pudieron inscribirse nombres catalanes.
+
+[warmly] Busque aquí su camiseta o sus fotografías, y recuerde el nombre del niño. Un nombre catalán, defendido por un holandés.
+
+Siga con Cruyff, para lo que hizo al volver como entrenador: La muestra de Cruyff · El entrenador que cambió el club.

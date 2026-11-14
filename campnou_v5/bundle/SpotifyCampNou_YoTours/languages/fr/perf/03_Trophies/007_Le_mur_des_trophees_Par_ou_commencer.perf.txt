@@ -1,0 +1,24 @@
+@id: 007 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The trophies
+@room: The wall of trophies · where you can see it whole
+@type: R
+@title: Le mur des trophées · Par où commencer
+@where: Au mur des trophées, un pas en arrière, d'où vous voyez toute la présentation d'un seul coup d'œil.
+@what: The collection on display in 2024: more than 100 football trophies, 25 from women's football, 50 from the other sections (F16.9 OK OFF [O4], re-read); the totals, DATED, each its own sentence (F12.1–12.4 OK OFF [O35], re-read): 29 Ligas, 32 Copas del Rey (first 1909–10: "the first in 1910"), 5 European Cups (the optional 16 Super Cups cut in the audit fixes); the 2025–26 Liga and Super Cup on display from May 2026 (F12.5 OK OFF [O48], DATED); second league title in a row (F12.1); the 29th Liga awarded by a 2–0 home win over Real Madrid on 10 May 2026, the first league ever clinched against them, attributed to the club (AU-S66 OFF re-read + AU-S67 SEC; DATED, cuttable). [RL] look: how the wall is laid out (O16). Ending: not all of it was won with a football (fact).
+@listen: How many trophies the club has, which are the newest, and how to read the wall.
+@brief: A friend at the start of the trophy wall, light and brisk, enjoying the numbers without boasting.
+@pace: medium
+@energy: 3→3
+@sources: https://www.fcbarcelona.es/es/noticias/4128584/cuarenta-anos-de-historia-del-museo-del-fc-barcelona/amp (OFF, Sept 2024, read 14 Nov 2026: "trofeos expuestos (más de 100 de fútbol, 25 de fútbol femenino y 50 de secciones)") ; https://www.fcbarcelona.com/en/football/first-team/honours (OFF, read 14 Nov 2026: Liga 29, latest 2024-25 and 2025-26; Copa del Rey 32, first 1909-10; Champions League 5; Spanish Super Cup 16, latest 2025-26) ; https://www.fcbarcelona.com/en/photos/4505514/liga-and-super-cup-on-display-in-museum (OFF, 18 May 2026, read 14 Nov 2026: headline "Liga and Super Cup on display in Museum") ; https://www.fcbarcelona.es/es/noticias/4501689/fc-barcelona-real-madrid-un-clasico-y-una-liga-para-flick-2-0 (OFF, read 14 Nov 2026: 10 May 2026, "una victoria en el Clásico (2-0) otorgó la 29ª Liga"; "la primera conseguida matemáticamente contra el eterno rival") + AU-S67 The Star 11 May 2026 (SEC, via AUDIT)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 007 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Compter les trophées de ce club prend un moment. En 2024, le musée recensait plus de cent trophées de football exposés, vingt-cinq du football féminin, et une cinquantaine des autres sports du club.
+
+Voici les grands totaux, à ce jour. L'équipe masculine a gagné le championnat d'Espagne vingt-neuf fois. Elle a gagné la Coupe d'Espagne trente-deux fois, la première en 1910. Elle a gagné cinq fois le plus grand trophée européen des clubs.
+
+Les derniers arrivés datent de mai 2026 : les trophées du championnat et de la Supercoupe de cette saison. C'était le deuxième titre de champion d'affilée. Ce championnat fut gagné par une victoire deux à zéro à domicile contre le Real Madrid, le premier titre, dit le club, jamais décroché face à lui. Voyez si vous repérez la paire.
+
+Avant de vous approcher, reculez et voyez comment le mur est organisé, par compétition ou par année. Le reste se lit plus facilement. [pause] Et tout ce qui brille dans cette collection n'a pas été gagné avec un ballon de football.
+
+Trouvez maintenant les grandes Coupes d'Europe en argent, les hauts trophées aux grandes anses, et arrêtez-vous là où vous les voyez : Les Coupes d'Europe · La troisième fois, la bonne.

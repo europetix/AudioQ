@@ -1,0 +1,32 @@
+@id: 019 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: More stories inside
+@room: A quiet corner · same place
+@type: W
+@title: Eine ruhige Ecke · Extra · Der Präsident, der nie zurückkam
+@where: Dieselbe Bank oder ruhige Ecke, sitzend oder angelehnt, abseits des Stroms. Es muss nichts zu sehen sein.
+@what: 6 August 1936, three weeks into the Civil War: Josep Sunyol drove from Madrid to the Guadarrama front to visit Republican troops, crossed the front line near the Alto del León pass into Nationalist-held ground, was identified and shot without trial (F4.11 OK OFF); with a journalist, a militia lieutenant and their driver (F4.12 OK OFF); born Barcelona 1898, elected by acclamation in 1935 (F4.9; Lead's decision 6: "in 1935"), owner of the weekly La Rambla, which spread the motto "sport and citizenship" (F4.10 OK OFF), a leader of Esquerra Republicana de Catalunya, member of the Spanish parliament (F4.9 OK OFF [O17]); Barcelona did not know for about a week, remains never found despite searches in 2010 and 2022 (F4.13 OK OFF); "absent president" from late 1937 (F4.14 OK OFF); "shot by Franco's troops", once (F4.15); the 1996 plaque at Guadarrama and the club's flowers on 6 Aug 2026 (F4.16 OK OFF, DATED). The presidential box: CUT (no second source in FACTS_GAPS; Lead's decision 6 and decisions after FACTS_GAPS). Ending: his motto (FACTS §22 Sunyol).
+@listen: The club president who drove to the front in the first weeks of the Civil War and was never seen again, and the motto he left behind.
+@brief: A friend telling a hard story plainly and quietly, no adjectives, no side taken; steady to the end, where the motto is given its moment.
+@pace: slow
+@energy: 2→2→2
+@sources: https://www.fcbarcelona.com/en/club/news/4553678/ninety-years-since-sunyol-was-shot (OFF [O16], re-read 14 Nov 2026: travelled "from Madrid to the Guadarrama mountain front to visit Republican troops"; near the Alto del León pass; "After inadvertently crossing the front line, they entered Nationalist-held territory"; journalist Pere Ventura i Virgili, a militia lieutenant and their driver; "executed without trial", "captured and executed by firing squad", subtitle "murdered by Francoist troops"; remains never found, searches 2010 and 2022 with the club's support) ; https://www.fcbarcelona.es/es/ficha/645396/josep-sunyol-1935-1936 (OFF [O16b], re-read: born Barcelona 1898; elected "por aclamación" (27 July 1935: not spoken, conflict with AU-S27); owner of the weekly La Rambla, which spread the motto "deporte y ciudadanía"; leader of Esquerra Republicana de Catalunya; the news took a week to reach Barcelona; "presidente ausente" 16 Nov 1937 – 17 Jan 1939) ; https://www.fcbarcelona.com/en/club/news/4555323/barca-pays-tribute-to-josep-sunyol-on-the-90th-anniversary-of-his-execution (OFF [O17], re-read: member of the Spanish Parliament; plaque of 1996 at El Gurugú park, Guadarrama; floral tribute on 6 August 2026; no mention of the box)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 019 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] Drei Wochen nach Beginn des Spanischen Bürgerkriegs, am sechsten August 1936, fuhr der Präsident des FC Barcelona aus Madrid hinaus und hinauf in die Berge. Er wollte republikanische Truppen an der Front besuchen. Nahe dem Pass Alto del León überquerte sein Wagen, ohne dass er es merkte, die Frontlinie, hinein in Gebiet, das die Nationalisten hielten. Er wurde erkannt und ohne Prozess erschossen.
+
+Sein Name war Josep Sunyol. Er wurde 1898 in Barcelona geboren, und 1935 machten ihn die Mitglieder per Akklamation zum Präsidenten, ganz ohne Abstimmung. Er war auch Politiker, ein Anführer der Esquerra Republicana de Catalunya, der Republikanischen Linken Kataloniens, und Abgeordneter im spanischen Parlament. Und er besaß eine Wochenzeitung, La Rambla. Ihr Motto lautete Sport und Bürgersinn.
+
+Mit ihm starben drei Männer: ein Journalist, ein Leutnant der Miliz und ihr Fahrer. [pause] In Barcelona erfuhr etwa eine Woche lang niemand davon.
+
+Er wurde von Francos Truppen erschossen, und seine Überreste wurden nie gefunden. Suchen in den Jahren 2010 und 2022, mit Unterstützung des Clubs, blieben ohne Ergebnis.
+
+Der Krieg ging weiter, und der Club hielt ihm einen Platz frei. Mehr als ein Jahr lang nannte ihn der Vorstand den abwesenden Präsidenten.
+
+1996 wurde nahe der Stelle, an der er starb, eine Gedenktafel angebracht, in einem Park in Guadarrama.
+
+Im August 2026, neunzig Jahre später, legte der Club dort Blumen nieder.
+
+[pause] Er war etwa ein Jahr lang Präsident, und es gibt kein Grab, das man besuchen kann. Was er hinterließ, ist das Motto seiner Zeitung. Sport und Bürgersinn.
+
+Bleiben Sie hier für noch eine Geschichte, das umstrittenste Spiel der Clubgeschichte: Eine ruhige Ecke · Extra · Elf zu eins.

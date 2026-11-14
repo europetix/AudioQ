@@ -1,0 +1,28 @@
+@id: 008 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The trophies
+@room: The European Cups · in front of the five big silver cups, at the oldest if they are in order
+@type: W
+@title: Les Coupes d'Europe · La troisième fois, la bonne
+@where: Devant les cinq grandes Coupes d'Europe en argent, près de la plus ancienne, celle de 1992, si elles sont rangées dans l'ordre.
+@what: Two lost European Cup finals before 1992: Benfica 1961 in Bern, 3–2, the woodwork hit four times, "the goalposts were square at the time" (F7.18 OK OFF; G62 OK OFF, re-read), and Steaua 1986 on penalties (F7.18, [O37] re-read); version-neutral: Cruyff back as coach since 1988 built the Dream Team (F7.7, F7.19 OK OFF); Wembley, 20 May 1992, Sampdoria, no goals in ninety minutes, Koeman's free kick past Pagliuca late in extra time (F7.15 OK OFF; F7.16/G44: never a minute); then Alexanko, the captain, on for Guardiola, and he lifted the cup (club 763941: "al sustituir Guardiola en el minuto 113"; audit FA M1, lead's decision 3); "Salid y disfrutad", attributed to the club's own history card, then "go out and enjoy it" (G43 OK OFF, re-read; lead's revised decision 4, lint exception 008). The Thames story dropped (see notes: Laporta vs Gaspart conflict). [RL] look: the oldest cup, 1992 (O16). Payoff (PLAN): two finals lost, the third changed everything.
+@listen: How Barça lost two European Cup finals and won the third, at Wembley in 1992.
+@brief: Telling a friend about the club's great night, steady through the near-misses, lifting at Wembley, landing on the payoff.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.fcbarcelona.es/es/ficha/2982808/la-primera-champions-del-barca-wembley-1992 (OFF, read 14 Nov 2026: "20 de mayo de 1992"; Sampdoria; Koeman in extra time beat "un esforzado Pagliuca"; "ya a la prórroga, el capitán Alexanko"; "Había perdido el 1961 contra el Benfica y el 1986 contra el Steaua de Bucarest a la tanda de penaltis") ; https://www.fcbarcelona.es/es/noticias/643913/1988-96-la-era-del-dream-team (OFF, read 14 Nov 2026: "Instantes antes de saltar al césped Johan Cruyff dio las últimas instrucciones a sus hombres: "Salid y disfrutad"."; minute given as 111 here vs 112 on the Wembley card: said "in extra time") ; https://www.fcbarcelona.com/en/news/4198094/three-games-against-benfica-that-could-have-changed-blaugrana-history (OFF, read 14 Nov 2026: "Unbelievably they hit the woodwork four times."; "The goalposts were square at the time"; 3-2) ; FACTS 7.7, 7.17, 7.19 ([O34], [O37] OFF: Cruyff coach 1988, Dream Team, Guardiola in the XI) ; Thames: https://www.thenationalnews.com/sport/football/on-this-day-may-20-1992-johan-cruyff-s-barcelona-dream-team-win-first-european-cup-1.1021892 (SEC: Laporta) vs https://global.espn.com/football/story/_/id/37474665/barcelonas-historic-1992-european-cup-opened-door-dominant-era (SEC: "then vice-president Joan Gaspart jumping in the Thames"): conflict, not scripted
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 008 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Avant 1992, le Barça avait atteint deux finales de Coupe d'Europe des clubs champions, toutes deux perdues. À Berne en 1961, contre Benfica, il perdit trois à deux et trouva quatre fois les montants. Les poteaux, ajoute le club, étaient carrés à l'époque. En 1986, contre le Steaua Bucarest, il perdit aux tirs au but.
+
+L'équipe qui y parvint enfin était celle de Johan Cruyff, revenu au club comme entraîneur, qui avait bâti la formation surnommée la Dream Team. Le 20 mai 1992, elle entra à Wembley, à Londres, face aux Italiens de la Sampdoria. Ils se connaissaient. Trois ans plus tôt, le Barça de Cruyff les avait battus dans une autre finale européenne, jouée, comme par hasard, à Berne.
+
+[pause] Un détail a survécu du vestiaire. Juste avant la sortie des joueurs, selon l'histoire du club, Cruyff leur donna ses dernières consignes, en espagnol : "Salid y disfrutad." Sortez et faites-vous plaisir. [pause] Cela semble simple. À Wembley, c'était le plus difficile.
+
+Quatre-vingt-dix minutes passèrent sans but, et presque toute la prolongation aussi. Pep Guardiola jouait au milieu ce soir-là. Puis, à l'approche des tirs au but, le Barça obtint un coup franc. Ronald Koeman le frappa et battit le gardien, Pagliuca. Peu après, le capitaine, Alexanko, remplaça Guardiola, et à la fin, c'est Alexanko qui souleva la coupe. Le club tenait sa première Coupe d'Europe, dans sa quatre-vingt-treizième année.
+
+[warmly] Si les coupes sont légendées, trouvez celle de 1992. C'est Wembley, et toutes celles à côté sont venues après.
+
+Deux finales perdues. La troisième, à Wembley, a tout changé.
+
+Restez aux Coupes d'Europe pour les deux suivantes, de Paris et de Rome : Les Coupes d'Europe · Six sur six.

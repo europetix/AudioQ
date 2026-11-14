@@ -1,6 +1,6 @@
 @id: 025 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The round room
-@room: The round room · just outside it, or inside once the show ends, out of the way [O11]
+@room: The round room · just outside it, or inside once the show ends, out of the way
 @type: R
 @title: Der runde Saal · Nach der Show: das erste volle Haus
 @where: Gleich vor dem runden Saal, oder drinnen, wenn die Show vorbei ist, abseits der Kommenden und Gehenden.

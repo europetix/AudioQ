@@ -1,6 +1,6 @@
 @id: 012 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The trophies
-@room: The wall of shirts · where you can see the wall whole [O18]
+@room: The wall of shirts · where you can see the wall whole
 @type: W
 @title: Le mur des maillots · Le maillot qui payait pour être porté
 @where: Devant le mur des maillots, assez en retrait pour le voir en entier.

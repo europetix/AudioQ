@@ -1,0 +1,28 @@
+@id: 020 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: More stories inside
+@room: A quiet corner · same place
+@type: W
+@title: Eine ruhige Ecke · Extra · Elf zu eins
+@where: Dieselbe ruhige Ecke oder Bank wie bei den letzten Geschichten, weg von den Bildschirmen. Nichts anzusehen.
+@what: 13 June 1943, Madrid, cup semi-final second leg, Real Madrid 11–1 Barcelona, 8–0 at half time; first leg 3–0 to Barça at Les Corts (F4.19 OK SEC; Goal [S9] re-read; Real Madrid [GP1] re-read); Ya's accusation (Q10, [S8] re-read: "whistled at the Madrid players with the clear intention of attacking the representatives of Spain"); Madrid fans "given free whistles upon entrance to the ground" ([S8] re-read; attributed to a Guardian writer); the dressing-room claim, the players' account (F4.21 LEGEND; [S8] "Spain's director of state security visited their dressing room"); Barau, "were overcome by military pressure" (Q9 re-read [S9]) and his own "a story that nobody has ever been able to prove", which the Goal page applies to the half-time threat, not to the pre-kick-off visit ([S9], paraphrased; audit FA S3); Barça finished with ten men (F4.23, [S9]); Real Madrid's own history: "una extraordinaria remontada", "Aquí nació la eterna rivalidad entre ambos clubes" (G1 OFF-RM, re-read; our translation); the even-handed close (G4); Franco's three honours from the club and the members' 2019 vote to withdraw them (G14 OFF, re-read [GO3]; the lead's optional balance sentence, no years for the honours). Not used: the Guardian's "some Madridistas question…" line (the page applies it to a detail, not to the visit: see notes); Di Stéfano (lead: out). Last lines: both cities still tell it differently.
+@listen: The most argued-over match in the club's history, and what each side says about it.
+@brief: A fair-minded friend telling a contested story, plain and careful, no side taken, a small smile at the end.
+@pace: medium-slow
+@energy: 2→3→2
+@sources: https://www.goal.com/en/news/they-were-overcome-by-military-pressure-did-general-franco/6hicxub57kla1nn29zr34jiqe (SEC, Goal, I. Oliva, 22 Dec 2017, read 14 Nov 2026: 13 June 1943; 3-0 first leg; 8-0 at half-time; Benito Garcia sent off; Barau: "Barcelona were overcome by military pressure and people close to the Falange"; "That's a story that nobody has ever been able to prove") ; https://www.inkl.com/news/the-joy-of-six-real-madrid-v-barcelona-el-clasico-classics (SEC, Guardian, S. Murray, read 14 Nov 2026: Ya, "whistled at the Madrid players with the clear intention of attacking the representatives of Spain"; Madrid fans "given free whistles upon entrance to the ground"; "Spain's director of state security visited their dressing room just before kick-off") ; https://www.realmadrid.com/static/sobre-el-real-madrid/historia/futbol/1941-1950 (OFF-RM, read 14 Nov 2026: "En Les Corts, el once azulgrana ganó 3-0."; "En la vuelta, nuestro equipo eliminó a su rival gracias a una extraordinaria remontada."; "El Madrid venció 11-1."; "Aquí nació la eterna rivalidad entre ambos clubes.") ; https://www.fcbarcelona.es/es/noticias/1371858/la-asamblea-aprueba-la-retirada-de-las-distinciones-honorificas-al-general-franco (OFF, 6 Oct 2019, read 14 Nov 2026: honours of 1951, 1971, 1974; assembly vote 671–2–7) ; G3 Catalan News [GS5] (SEC, via GAPS: "impossible to prove whether explicit threats were made")
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 020 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Real Madrid elf, Barcelona eins. Es war der dreizehnte Juni 1943, in Madrid, das Rückspiel eines Pokalhalbfinales. Zur Halbzeit stand es acht zu null, und Barcelona beendete das Spiel zu zehnt. Barça hatte das Hinspiel drei zu null gewonnen, zu Hause in Les Corts. [pause] Das Ergebnis ist das Einzige, das niemand bestreitet.
+
+Die Vorgeschichte war bitter. Nach dem Hinspiel warf eine Madrider Zeitung namens Ya den Barça-Fans vor, sie hätten die Madrider Spieler ausgepfiffen, „in der klaren Absicht, die Vertreter Spaniens anzugreifen“. Laut einem Autor des Guardian bekamen die Madrider Fans zum Rückspiel am Eingang kostenlose Trillerpfeifen.
+
+Die Spieler Barcelonas erzählten später eine düsterere Geschichte. Vor dem Anpfiff, sagten sie, sei Spaniens Direktor für Staatssicherheit in ihre Kabine gekommen und habe sie daran erinnert, wer ihnen das Spielen erlaube. Ein Historiker, Joan Barau, sagte gegenüber Goal, Barcelona sei „von militärischem Druck überwältigt“ worden. Einen anderen Teil der Geschichte, eine Drohung in der Halbzeit, habe aber nie jemand beweisen können, sagt er.
+
+Real Madrids eigene Chronik erzählt den Abend anders. Sie sagt nichts über Pfiffe oder Besucher. Auf Spanisch nennt sie das Rückspiel eine außergewöhnliche Aufholjagd und fügt hinzu: „Hier wurde die ewige Rivalität zwischen den beiden Clubs geboren.“
+
+Es gibt also zwei Lesarten, und keine lässt sich heute entscheiden. Barcelonas Spieler erinnerten sich an Druck. Madrid erinnert sich an eine Aufholjagd. Und Barcelonas eigene Bilanz ist weniger einfach als die Legende. Wie der Club selbst dargelegt hat, verlieh Barça General Franco im Lauf der Jahrzehnte drei Ehrungen, und erst 2019 stimmten Vorstand und Delegierte der Mitglieder für ihre Aberkennung.
+
+[lightly] Beide Städte erzählen dieses Spiel bis heute verschieden. Hören Sie also jemals jemanden elf zu eins sagen, lohnt sich die Frage, aus welcher Stadt er kommt.
+
+Gehen Sie jetzt weiter zum Messi-Bereich, dem Raum mit seinen Goldenen Bällen, und bleiben Sie an seinem Eingang stehen: Der Messi-Bereich · Ein Versprechen auf einer Papierserviette.

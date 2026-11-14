@@ -1,0 +1,34 @@
+@id: 030 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The viewpoint
+@room: The old benches · sitting; needs no view until the last lines
+@type: W
+@title: Los viejos banquillos · Extra · El estadio que bautizó un apodo
+@where: En los viejos banquillos del mirador, o en cualquier lugar tranquilo cercano. No hace falta mirar nada hasta las últimas frases, que necesitan el graderío a la vista.
+@what: The official name Estadi del FC Barcelona, endorsed by a 1965 referendum; everyone said "camp nou", the new ground; in 2000–01, 68.25% of members voted to make Camp Nou official (F5.21 OK OFF [O25]); Les Corts opened 20 May 1922 v St Mirren, 2–1, ready three months after the first stone, 22,000, then "tens of thousands, and still not enough" (F2.9 OK OFF [O13], [O12]; F2.10 as corrected by G60); the site changed twice before Miró-Sans, elected 1953, settled it (F5.8 OK OFF [O26]); his slogan (G65 OK OFF [GO20], as relayed, re-checked); first stone 28 Mar 1954 before 60,000 (F5.10 OK OFF [O26]); architects Mitjans, Soteras and García-Barbón, Mitjans the president's cousin (F5.11–5.12 OK OFF [O26], [O25], [O9]); more than four times the estimate, debt blamed for lean years (F5.13 OK OFF; our arithmetic 288/66.6); the lower tiers are 1957's (F15.3).
+@listen: How the stadium got its name, from a ground too small, a site that moved twice and a bill four times the estimate.
+@brief: Sitting with a friend, enjoying a story with a joke at each end; wry about the cousin and the bill, warm at the nickname's win.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.fcbarcelona.com/en/news/742737/24-september-1957-the-day-the-camp-nou-dream-came-true-at-last/amp (OFF [O25], read 14 Nov 2026: "simply known as the Estadi del FC Barcelona, as endorsed by a 1965 referendum"; "people just referred to it as the 'camp nou' ('new ground')"; 2000–2001, "68.25% of the members were in favour"; Mitjans and Miró-Sans "were actually cousins"; costs "widely blamed") ; https://www.fcbarcelona.com/en/club/news/2491345/100-anos-de-la-primera-piedra-en-el-campo-de-les-corts (OFF [O13], read 14 Nov 2026: first stone 19 Feb 1922; opened 20 May 1922; St Mirren, 2–1; 22,000) ; https://www.fcbarcelona.com/en/news/2408474/football-stadiums-as-a-vehicle-for-barcas-progress (OFF [O12], read 14 Nov 2026: "Just three months later the stadium in Les Corts, with a capacity for 22,000 fans, was ready"; later capacity per G60 conflict: "tens of thousands") ; https://www.fcbarcelona.com/en/club/facilities/spotify-camp-nou/history (OFF [O26], read 14 Nov 2026: Sept 1950 option at La Maternidad; 1951 move to the top of the Diagonal; Miró-Sans moved it back; first stone 28 March 1954 "before a crowd of 60,000"; Mitjans "cousin of Miró-Sans" and Soteras; estimate 66.62 million, final about 288 million: no sums spoken) ; https://www.fcbarcelona.com/club/history/card/1950-1961-kubalas-era (OFF [GO20], read 14 Nov 2026: slogan "We need, we want and we will have a new grounds", decisive in his election) ; https://www.fcbarcelona.com/club/facilities/card/new-camp-nou-characteristics (OFF [O9]: Lorenzo García as the third architect)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 030 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[wry] Esta es la historia de un estadio cuyo nombre real nadie usaba. No tendrá que mirar nada hasta el final.
+
+Durante más de cuarenta años, su nombre oficial fue Estadi del FC Barcelona, el estadio del FC Barcelona. Pero nadie lo llamaba así. Todos decían camp nou, que significa simplemente el campo nuevo.
+
+Nuevo, frente a Les Corts. Aquel campo abrió en 1922, contra el club escocés St Mirren, y se levantó en solo tres meses. Al principio cabían veintidós mil personas, luego decenas de miles, y aun así no bastaba.
+
+El emplazamiento de algo más grande cambió dos veces antes de poner una piedra. Lo decidió un presidente elegido en 1953, Francesc Miró-Sans. Su lema de campaña, según la versión de las páginas de historia del club, era: «Necesitamos, queremos y tendremos un campo nuevo».
+
+[pause] Lo consiguió. En marzo de 1954, unas sesenta mil personas fueron a ver cómo se colocaba la primera piedra. Los arquitectos fueron Francesc Mitjans y Josep Soteras, con Lorenzo García-Barbón. [wry] Y Mitjans, apunta el club, era primo del presidente.
+
+La factura tuvo menos gracia. El estadio costó más de cuatro veces lo presupuestado y, según el club, muchos culparon a la deuda de los años de vacas flacas posteriores.
+
+Con el cambio de siglo, los socios volvieron a votar. Algo más del sesenta y ocho por ciento eligió hacer oficial el apodo.
+
+Mire ahora el estadio que tiene delante, y diga su nombre.
+
+Ganó el apodo.
+
+Quédese en los banquillos y conozca al hombre para quien, dicen, se construyó este estadio: Los viejos banquillos · Extra · El refugiado fichado a las ocho y media.

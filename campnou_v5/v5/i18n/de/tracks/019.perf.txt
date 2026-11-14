@@ -1,6 +1,6 @@
 @id: 019 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · same place [O15]
+@room: A quiet corner · same place
 @type: W
 @title: Eine ruhige Ecke · Extra · Der Präsident, der nie zurückkam
 @where: Dieselbe Bank oder ruhige Ecke, sitzend oder angelehnt, abseits des Stroms. Es muss nichts zu sehen sein.

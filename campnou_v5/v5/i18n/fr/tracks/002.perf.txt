@@ -1,6 +1,6 @@
 @id: 002 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: The campus · where the stadium is in view over the lower buildings [O14]
+@room: The campus · where the stadium is in view over the lower buildings
 @type: W
 @title: Le campus · 909 jours d'absence
 @where: Sur le campus, à quelques pas du musée, à un endroit d'où l'on voit le stade au-dessus des bâtiments plus bas.

@@ -1,6 +1,6 @@
 @id: 019 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · same place [O15]
+@room: A quiet corner · same place
 @type: W
 @title: Un coin tranquille · Extra · Le président qui n'est jamais revenu
 @where: Le même banc ou coin tranquille, assis ou appuyé à l'écart du passage. Rien à regarder.

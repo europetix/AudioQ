@@ -1,0 +1,32 @@
+@id: 019 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: More stories inside
+@room: A quiet corner · same place
+@type: W
+@title: Un rincón tranquilo · Extra · El presidente que nunca volvió
+@where: El mismo banco o rincón tranquilo, sentado o apoyado fuera del paso. No hace falta ver nada.
+@what: 6 August 1936, three weeks into the Civil War: Josep Sunyol drove from Madrid to the Guadarrama front to visit Republican troops, crossed the front line near the Alto del León pass into Nationalist-held ground, was identified and shot without trial (F4.11 OK OFF); with a journalist, a militia lieutenant and their driver (F4.12 OK OFF); born Barcelona 1898, elected by acclamation in 1935 (F4.9; Lead's decision 6: "in 1935"), owner of the weekly La Rambla, which spread the motto "sport and citizenship" (F4.10 OK OFF), a leader of Esquerra Republicana de Catalunya, member of the Spanish parliament (F4.9 OK OFF [O17]); Barcelona did not know for about a week, remains never found despite searches in 2010 and 2022 (F4.13 OK OFF); "absent president" from late 1937 (F4.14 OK OFF); "shot by Franco's troops", once (F4.15); the 1996 plaque at Guadarrama and the club's flowers on 6 Aug 2026 (F4.16 OK OFF, DATED). The presidential box: CUT (no second source in FACTS_GAPS; Lead's decision 6 and decisions after FACTS_GAPS). Ending: his motto (FACTS §22 Sunyol).
+@listen: The club president who drove to the front in the first weeks of the Civil War and was never seen again, and the motto he left behind.
+@brief: A friend telling a hard story plainly and quietly, no adjectives, no side taken; steady to the end, where the motto is given its moment.
+@pace: slow
+@energy: 2→2→2
+@sources: https://www.fcbarcelona.com/en/club/news/4553678/ninety-years-since-sunyol-was-shot (OFF [O16], re-read 14 Nov 2026: travelled "from Madrid to the Guadarrama mountain front to visit Republican troops"; near the Alto del León pass; "After inadvertently crossing the front line, they entered Nationalist-held territory"; journalist Pere Ventura i Virgili, a militia lieutenant and their driver; "executed without trial", "captured and executed by firing squad", subtitle "murdered by Francoist troops"; remains never found, searches 2010 and 2022 with the club's support) ; https://www.fcbarcelona.es/es/ficha/645396/josep-sunyol-1935-1936 (OFF [O16b], re-read: born Barcelona 1898; elected "por aclamación" (27 July 1935: not spoken, conflict with AU-S27); owner of the weekly La Rambla, which spread the motto "deporte y ciudadanía"; leader of Esquerra Republicana de Catalunya; the news took a week to reach Barcelona; "presidente ausente" 16 Nov 1937 – 17 Jan 1939) ; https://www.fcbarcelona.com/en/club/news/4555323/barca-pays-tribute-to-josep-sunyol-on-the-90th-anniversary-of-his-execution (OFF [O17], re-read: member of the Spanish Parliament; plaque of 1996 at El Gurugú park, Guadarrama; floral tribute on 6 August 2026; no mention of the box)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 019 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[quietly] A las tres semanas de empezar la Guerra Civil, el 6 de agosto de 1936, el presidente del FC Barcelona salió en coche de Madrid hacia la sierra. Quería visitar las tropas republicanas del frente. Cerca del puerto del Alto del León, sin darse cuenta, su coche cruzó la línea del frente y entró en territorio de los nacionales. Lo identificaron y lo fusilaron sin juicio.
+
+Se llamaba Josep Sunyol. Nació en Barcelona en 1898, y en 1935 los socios lo hicieron presidente por aclamación, sin necesidad de votar. También era político, dirigente de Esquerra Republicana de Catalunya, la Izquierda Republicana de Cataluña, y diputado en las Cortes. Y era dueño de un semanario, La Rambla. Su lema era deporte y ciudadanía.
+
+Con él murieron tres hombres: un periodista, un teniente de milicias y su chófer. [pause] En Barcelona, nadie lo supo durante cerca de una semana.
+
+Lo fusilaron tropas franquistas, y sus restos nunca se han encontrado. Las búsquedas de 2010 y 2022, con el apoyo del club, no hallaron nada.
+
+La guerra siguió, y el club le guardó un sitio. Durante más de un año, su junta lo llamó el presidente ausente.
+
+En 1996 se colocó una placa en su memoria cerca del lugar donde murió, en un parque de Guadarrama.
+
+En agosto de 2026, noventa años después, el club depositó flores allí.
+
+[pause] Fue presidente cerca de un año, y no hay tumba que visitar. Lo que dejó es el lema de su periódico. Deporte y ciudadanía.
+
+Quédese aquí para una más, el partido más discutido de la historia del club: Un rincón tranquilo · Extra · Once a uno.

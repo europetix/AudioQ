@@ -1,6 +1,6 @@
 @id: 015 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The club's history
-@room: The Masia display · where La Masia's photographs or story are shown [O12]
+@room: The Masia display · where La Masia's photographs or story are shown
 @type: W
 @title: Der Masia-Bereich · Das Bauernhaus, in dem das Stadion entstand
 @where: Am Bereich, der La Masia gewidmet ist, der Akademie des Clubs, wo Fotos oder die Geschichte des Bauernhauses gezeigt werden.

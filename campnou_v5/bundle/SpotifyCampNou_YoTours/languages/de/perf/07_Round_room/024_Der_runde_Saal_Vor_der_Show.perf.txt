@@ -1,0 +1,24 @@
+@id: 024 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The round room
+@room: The round room · at its way in, out of the flow, before going in
+@type: R
+@title: Der runde Saal · Vor der Show
+@where: Am Eingang zum runden Saal mit den Bildschirmen, wo die Ausstellung endet, seitlich und abseits des Stroms, bevor Sie hineingehen.
+@what: The club's warning first: the immersive room is not recommended for people with epilepsy or photosensitivity; the club asks them to tell the tour staff, who will guide them (F16.19 OK OFF [O58]; OFF accessibility page re-read); the show has its own sound: stop this guide while it plays (decision 5); the official description only: a double-height round room, its walls one screen, 78 m long and 6 m high (F16.13 OK OFF [O4]); the club calls it the largest immersive room in a sports museum in Europe (F16.12, attributed); the show is called Spotify Camp Nou Live and places you at the centre of the stadium; the exhibition culminates here (F16.14 OK OFF [O6], [O58]). Nothing on the show's content or length (O11).
+@listen: The club's one warning for the round room, what the room is, and when to stop and restart this guide.
+@brief: A calm, considerate friend at a doorway: the safety line first and clearly, then a short, plain description, no hype; easy and practical at the end.
+@pace: medium
+@energy: 2→3→2
+@sources: https://www.fcbarcelona.com/en/card/3044593/immersive-tour-basic (OFF [O58], re-read 14 Nov 2026: "The visit includes an immersive room that is not recommended for people with epilepsy and/or photosensitive people"; the final space "SPOTIFY CAMP NOU LIVE", "A large-format, immersive show that offers a 360º experience") ; https://www.fcbarcelona.com/en/club/accessibility-facilities/camp-nou-experience (OFF, ROUTE A.4, re-read: "not recommended for people with epilepsy and/or photosensitivity"; "please notify the Tour staff so that they can provide guidance") ; https://www.fcbarcelona.es/es/noticias/4128584/cuarenta-anos-de-historia-del-museo-del-fc-barcelona/amp (OFF [O4], re-read: 360° projection "en paredes de 6 metros de altura y 78 metros de longitud"; "la sala circular a doble altura") ; https://www.fcbarcelona.es/es/noticias/3530980/el-fc-barcelona-inaugura-el-barca-immersive-tour-con-la-sala-inmersiva-mas-grande-de-europa-en-un-museo-deportivo (OFF [O5], re-read: "la sala inmersiva más grande de Europa en un museo deportivo") ; https://www.fcbarcelona.com/en/card/3828009/exploring-spaces-the-new-museum (OFF [O6], re-read: an "immersive, 360º experience", "positioned at the center of the stadium"; the exhibition "culminates" there)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 024 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Der Club gibt für den Saal vor Ihnen einen Warnhinweis. Er sagt, die Show in diesem Saal werde Menschen mit Epilepsie oder Lichtempfindlichkeit nicht empfohlen. Trifft das auf Sie zu, bittet der Club Sie, vor dem Hineingehen dem Personal Bescheid zu sagen, damit man Sie begleiten kann.
+
+Die Show hat ihren eigenen Ton, deshalb tritt dieser Guide zurück, solange sie läuft. Halten Sie ihn an, bevor Sie hineingehen, und starten Sie ihn wieder, wenn die Show endet.
+
+[curious] Was erwartet Sie also drinnen? Ein runder Saal, dessen Wände als ein einziger Bildschirm funktionieren. Dieser Bildschirm läuft achtundsiebzig Meter rund um den Saal und ist sechs Meter hoch. Der Club nennt ihn den größten immersiven Raum in einem Sportmuseum in ganz Europa.
+
+[lightly] Die Show heißt Spotify Camp Nou Live. Laut der Beschreibung des Clubs versetzt sie Sie in die Mitte des Stadions.
+
+Endet die Show, drücken Sie wieder auf Play, bevor Sie den Saal verlassen. Gehen Sie jetzt hinein, wenn das Personal Sie hineinlässt, und halten Sie den Guide hier an: Der runde Saal · Nach der Show: das erste volle Haus.

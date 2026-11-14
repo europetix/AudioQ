@@ -1,6 +1,6 @@
 @id: 018 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · same place [O15]
+@room: A quiet corner · same place
 @type: W
 @title: Eine ruhige Ecke · Extra · Die Pfiffe, die den Club schlossen
 @where: Dieselbe Bank oder ruhige Ecke wie bei der vorigen Geschichte, sitzend oder angelehnt, abseits des Stroms. Es muss nichts zu sehen sein.

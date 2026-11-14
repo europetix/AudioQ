@@ -1,0 +1,24 @@
+@id: 003 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Outside the museum
+@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it
+@type: R
+@title: Fuera del museo · Un museo en la antigua pista de hielo
+@where: Cerca de la puerta del museo pero sin estorbar a quienes entran, con el edificio alargado del tejado acanalado delante y el redondo Palau Blaugrana a su lado.
+@what: The museum building = the Palau de Gel, the club's ice rink, opened 1971 (G88 OK OFF [GO33]); closed 2022 (ROUTE §1.4, A.2 SEC NHL.com: here "When the rink closed", no year); the old museum under the main stand closed on the old stadium's last day, 28 May 2023 (F6.16 OK OFF; F16.3); this one opened to the public on 7 June 2023 ("ten days later"), about 2,400 m² (F16.11, F17.3, G105 OK OFF); meant to stay until 2024/25 (G88 OFF; "a season or two"), slipped; the skaters' new provisional rink on university land, 2026 (ROUTE §1.4 SEC ×2, DATED, separate sentence); the Palau Blaugrana opened 1971, home to the professional basketball, handball, roller hockey and futsal teams, some shirts retired there (G87 OK OFF [GO32]); a new arena planned elsewhere on the campus (ROUTE §1.4 SEC, DATED, separate sentence). Ending: football is not the only sport (fact).
+@listen: Why the club's museum is in an old ice rink, and what the round arena beside it is for.
+@brief: A friend at the door before going in, amused by the building's history, plain and quick, ending on the club's other sports.
+@pace: medium
+@energy: 2→3
+@sources: https://www.fcbarcelona.com/en/news/2998159/ice-rink-building-to-be-adapted-to-house-temporary-museum (OFF, read 14 Nov 2026: "The ice rink was opened in 1971"; figure skating, ice hockey, public skating; "2,400 m2 of museum space"; "will remain here until the new Spotify Camp Nou opens in 2024/25") ; https://www.fcbarcelona.es/es/noticias/3530980/el-fc-barcelona-inaugura-el-barca-immersive-tour-con-la-sala-inmersiva-mas-grande-de-europa-en-un-museo-deportivo (OFF, read 14 Nov 2026: "en el edificio donde estaba ubicado el Palau de Gel"; "unos 2.400 m2"; opened to the public "miércoles 7 de junio"; in use until the new museum, "la temporada 2024/25") ; https://www.fcbarcelona.com/en/news/2300514/the-palau-blaugrana-is-50-years-old/featured (OFF, read 14 Nov 2026: inaugurated 1971; "houses FC Barcelona's professional basketball, handball, roller hockey, and futsal teams"; jerseys "retired to the Palau") ; FACTS 6.16 [O4] (OFF: old museum closed 28 May 2023) and 16.3 [O4] (under the Tribuna) ; ROUTE §1.4 and A.2 (SEC NHL.com 14 Sep 2026 + second SEC: rink closed 2022, new provisional rink on UB land 2026; new Palau Blaugrana planned on the campus) ; MAP (the long ridged-roof building beside the round Palau Blaugrana)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 003 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Antes de guardar trofeos, este edificio guardó hielo. El edificio alargado del tejado acanalado es el Palau de Gel, la antigua pista de hielo del club. Abrió en 1971, para el patinaje artístico, el hockey sobre hielo y cualquier barcelonés con ganas de patinar un rato. Así que va a entrar donde se patinó durante medio siglo.
+
+Cuando cerró la pista, llegó el museo. Su antigua sede, bajo la tribuna principal del estadio, cerró el último día del viejo estadio, en mayo de 2023. Diez días después abrió este, con unos dos mil cuatrocientos metros cuadrados por llenar. Iba a estar aquí una temporada o dos. [wry] Provisional es una palabra flexible.
+
+Junto al museo está el Palau Blaugrana, el pabellón redondo. Abrió el mismo año que la pista, y es la casa de los equipos profesionales de baloncesto, balonmano, hockey sobre patines y fútbol sala del club.
+
+[pause] Así que los trofeos de dentro son sobre todo de fútbol, pero este club no solo juega al fútbol.
+
+Quédese junto a la puerta para dos historias breves, aquí o en la fila si la hay: Fuera del museo · Extra · El anuncio con dos faltas de ortografía.

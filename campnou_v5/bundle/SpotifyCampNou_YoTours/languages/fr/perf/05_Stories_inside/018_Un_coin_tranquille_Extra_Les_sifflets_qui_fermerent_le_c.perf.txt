@@ -1,0 +1,30 @@
+@id: 018 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: More stories inside
+@room: A quiet corner · same place
+@type: W
+@title: Un coin tranquille · Extra · Les sifflets qui fermèrent le club
+@where: Le même banc ou coin tranquille que pour l'histoire précédente, assis ou appuyé à l'écart du passage. Rien à regarder.
+@what: Sunday 14 June 1925, Les Corts, a friendly v CE Júpiter in tribute to the Orfeó Català (F4.1 OK OFF); at half time British sailors' band played the Spanish anthem, most of the 14,000 whistled and booed, then applauded God Save the King (F4.2 OK OFF); 24 June the civil governor under Primo de Rivera suspended the club, six months decreed (F4.3 OK OFF; F18.17: never "six months" as served); Gamper, president five times (F4.6 OK OFF), came to Barcelona in the late 1890s (GAPS change to F1.1), forced out and barred, "temporarily exiled to Switzerland" (F4.4 HEDGE OFF, the club's words); 1908 "Barcelona cannot die and must not die" (F4.7, Q2 re-checked); his death in 1930, "probably" business problems and the closure (F4.5 OK OFF, gentle); the club's centenary article of 14 June 2025 (O15). Ending: "cannot die" (FACTS §22 Gamper).
+@listen: The afternoon in 1925 when a crowd's whistles got the club closed and its founder forced out, and the words he had once used to save it.
+@brief: A friend telling a sad family story honestly, even about the politics, quiet for the founder's death, then a small lift at the end.
+@pace: medium-slow
+@energy: 3→2→3
+@sources: https://www.fcbarcelona.com/en/club/news/4274672/100-years-since-shut-down-for-protest-against-spanish-national-anthem (OFF [O15], re-read 14 Nov 2026, published 14 Jun 2025: Sunday 14 June 1925, friendly v CE Júpiter, tribute to the Orfeó Català; sailors from a British ship; "a great majority of the 14,000 fans present booed and whistled the Spanish national anthem"; "God Save the King" "roundly applauded"; 24 June 1925 the civil governor suspended activity for six months; Gamper "temporarily exiled to Switzerland", barred from the club) ; https://fcbarcelona.com/club/history/card/joan-gamper-1908-1909-1910-1913-1917-1919-1921-1923-1924-1925 (OFF [O18], re-read: Q2 "Barcelona cannot die and must not die." at the Solé gymnasium meeting, 1908; five presidencies; "forced to resign by the Primo de Rivera dictatorship"; suicide 30 July 1930 "probably as a result of his business problems and the forced closure of his beloved Club") ; Gamper "in the late 1890s": research/FACTS_GAPS_NOV2026.md change to F1.1 (G20) and Lead's decisions after FACTS_GAPS
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 018 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Le dimanche 14 juin 1925, le Barça joua un match amical à Les Corts, le terrain du club à l'époque. L'après-midi rendait hommage à l'Orfeó Català, un chœur catalan.
+
+Cet après-midi-là, une fanfare de marins d'un navire britannique au port entonna l'hymne national espagnol. La plupart des quatorze mille spectateurs le sifflèrent et le huèrent. [pause] Puis la fanfare joua God Save the King, et la foule applaudit.
+
+L'Espagne vivait sous la dictature du général Primo de Rivera, et l'histoire du centenaire du club voit dans les sifflets une protestation contre elle. Dix jours après, le gouverneur civil de Barcelone ferma le club. Le décret parlait de six mois.
+
+Celui qui paya le plus cher fut le fondateur. Gamper avait été cinq fois président du club. Il fut alors chassé de son propre club et, selon les mots du club, exilé temporairement en Suisse. Il ne dirigea plus jamais le Barça.
+
+Le club avait déjà connu le danger. En 1908, alors qu'il était près de disparaître, Gamper s'était levé lors d'une réunion et avait pris les choses en main. Les pages d'histoire du club rapportent ses mots ce soir-là : "Barcelone ne peut pas mourir et ne doit pas mourir."
+
+[quietly] En 1930, Gamper mit fin à ses jours. Ce fut probablement, dit la même histoire, à cause de ses déboires en affaires, et de la fermeture forcée du club qu'il aimait.
+
+[pause] La dictature qui l'a fermé a disparu depuis longtemps, et le fondateur aussi. Mais le club dont il disait qu'il ne pouvait pas mourir est tout autour de vous.
+
+Restez ici. L'histoire suivante parle d'un président parti au front, et jamais revenu : Un coin tranquille · Extra · Le président qui n'est jamais revenu.

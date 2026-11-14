@@ -1,0 +1,28 @@
+@id: 008 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The trophies
+@room: The European Cups · in front of the five big silver cups, at the oldest if they are in order
+@type: W
+@title: Die Europapokale · Aller guten Dinge sind drei
+@where: Vor den fünf großen silbernen Europapokalen, beim ältesten von 1992, falls sie der Reihe nach stehen.
+@what: Two lost European Cup finals before 1992: Benfica 1961 in Bern, 3–2, the woodwork hit four times, "the goalposts were square at the time" (F7.18 OK OFF; G62 OK OFF, re-read), and Steaua 1986 on penalties (F7.18, [O37] re-read); version-neutral: Cruyff back as coach since 1988 built the Dream Team (F7.7, F7.19 OK OFF); Wembley, 20 May 1992, Sampdoria, no goals in ninety minutes, Koeman's free kick past Pagliuca late in extra time (F7.15 OK OFF; F7.16/G44: never a minute); then Alexanko, the captain, on for Guardiola, and he lifted the cup (club 763941: "al sustituir Guardiola en el minuto 113"; audit FA M1, lead's decision 3); "Salid y disfrutad", attributed to the club's own history card, then "go out and enjoy it" (G43 OK OFF, re-read; lead's revised decision 4, lint exception 008). The Thames story dropped (see notes: Laporta vs Gaspart conflict). [RL] look: the oldest cup, 1992 (O16). Payoff (PLAN): two finals lost, the third changed everything.
+@listen: How Barça lost two European Cup finals and won the third, at Wembley in 1992.
+@brief: Telling a friend about the club's great night, steady through the near-misses, lifting at Wembley, landing on the payoff.
+@pace: medium
+@energy: 2→4→3
+@sources: https://www.fcbarcelona.es/es/ficha/2982808/la-primera-champions-del-barca-wembley-1992 (OFF, read 14 Nov 2026: "20 de mayo de 1992"; Sampdoria; Koeman in extra time beat "un esforzado Pagliuca"; "ya a la prórroga, el capitán Alexanko"; "Había perdido el 1961 contra el Benfica y el 1986 contra el Steaua de Bucarest a la tanda de penaltis") ; https://www.fcbarcelona.es/es/noticias/643913/1988-96-la-era-del-dream-team (OFF, read 14 Nov 2026: "Instantes antes de saltar al césped Johan Cruyff dio las últimas instrucciones a sus hombres: "Salid y disfrutad"."; minute given as 111 here vs 112 on the Wembley card: said "in extra time") ; https://www.fcbarcelona.com/en/news/4198094/three-games-against-benfica-that-could-have-changed-blaugrana-history (OFF, read 14 Nov 2026: "Unbelievably they hit the woodwork four times."; "The goalposts were square at the time"; 3-2) ; FACTS 7.7, 7.17, 7.19 ([O34], [O37] OFF: Cruyff coach 1988, Dream Team, Guardiola in the XI) ; Thames: https://www.thenationalnews.com/sport/football/on-this-day-may-20-1992-johan-cruyff-s-barcelona-dream-team-win-first-european-cup-1.1021892 (SEC: Laporta) vs https://global.espn.com/football/story/_/id/37474665/barcelonas-historic-1992-european-cup-opened-door-dominant-era (SEC: "then vice-president Joan Gaspart jumping in the Thames"): conflict, not scripted
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 008 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Vor 1992 hatte Barça zwei Endspiele im Europapokal der Landesmeister erreicht und beide verloren. In Bern verloren sie 1961 gegen Benfica drei zu zwei und trafen viermal Pfosten oder Latte. Die Torpfosten, fügt der Club hinzu, waren damals eckig. 1986 verloren sie gegen Steaua Bukarest im Elfmeterschießen.
+
+Die Mannschaft, die es endlich schaffte, war die von Johan Cruyff, der als Trainer zum Club zurückgekehrt war und das Team aufgebaut hatte, das man Dream Team nannte. Am zwanzigsten Mai 1992 lief sie in Wembley auf, in London, gegen Sampdoria aus Italien. Man kannte sich. Drei Jahre zuvor hatte Cruyffs Barça sie in einem anderen europäischen Finale geschlagen, ausgerechnet in Bern.
+
+[pause] Ein Detail aus der Kabine ist überliefert. Kurz bevor die Spieler hinausgingen, so die Clubgeschichte, gab Cruyff ihnen seine letzten Anweisungen, auf Spanisch: „Salid y disfrutad.“ Geht raus und genießt es. [pause] Das klingt einfach. In Wembley war es das Schwerste überhaupt.
+
+Neunzig Minuten vergingen ohne Tor, und auch der größte Teil der Verlängerung. Pep Guardiola spielte an diesem Abend im Mittelfeld. Dann, als das Elfmeterschießen nicht mehr fern war, bekam Barça einen Freistoß. Ronald Koeman schoss ihn am Torwart vorbei, an Pagliuca. Kurz darauf kam der Kapitän Alexanko für Guardiola ins Spiel, und am Ende war es Alexanko, der den Pokal hob. Der Club hatte seinen ersten Europapokal, in seinem dreiundneunzigsten Jahr.
+
+[warmly] Wenn die Pokale beschriftet sind, suchen Sie den von 1992. Das ist Wembley, und jeder daneben kam danach.
+
+Zwei Endspiele verloren. Das dritte, in Wembley, veränderte alles.
+
+Bleiben Sie bei den Europapokalen für die nächsten zwei, aus Paris und aus Rom: Die Europapokale · Sechs von sechs.

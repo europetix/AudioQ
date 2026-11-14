@@ -1,0 +1,30 @@
+@id: 023 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Messi's space
+@room: Messi's space · same place, or by his shirts if shown
+@type: W
+@title: L'espace Messi · Le garçon de Rosario
+@where: Toujours dans l'espace Messi, près des Ballons d'Or ou, s'ils sont exposés, de ses maillots, à l'écart du passage.
+@what: Official debut 16 October 2004 v Espanyol, a city derby, at the Olympic stadium on Montjuïc, a one–nil win, aged seventeen (F10.8 OK OFF; AU §3.4: never at the Camp Nou; age our arithmetic from 24 June 1987, AU-S44); a friendly at sixteen at the opening of Porto's new stadium (F10.8, optional); the Getafe goal, April 2007, Camp Nou, cup semi-final, from his own half past five players after Xavi's pass, "Maradona-esque" (AU321–322 OK, AU-S48 OFF, attributed); 46 goals at the Camp Nou in 2011–12 (F10.14 OK OFF, optional); 5 August 2021: agreement reached but "cannot be formalised due to economic and structural obstacles" (F10.15 OK SEC; Q12 re-checked); the league's spending rules (AU329 OK, AU-S47; Al Jazeera's own explanation); tears at the farewell three days later (AU334, AU-S46 SEC); Paris Saint-Germain; the No 10 to Ansu Fati, then Lamine Yamal since July 2025 (AU339 fix, AU-S45 SEC, DATED, cuttable). Ending: the number handed on (FACTS §22 Messi).
+@listen: Messi's first official game, the goal people compare to Maradona's, the summer he had to leave, and who wears his number now.
+@brief: A friend finishing the story of a great career with you, light at the start, lifted by the goal, plain and kind about the goodbye, warm at the handover.
+@pace: medium
+@energy: 3→4→2→3
+@sources: https://fcbarcelona.com/en/news/2214377/leo-messi/amp (OFF [O44], re-read 14 Nov 2026: friendly debut v Porto "still only 16", 2003–04; official debut "on October 16, 2004, in Barcelona's derby win against Espanyol at the Olympic Stadium (0-1)") ; https://fcbarcelona.com/en/football/first-team/news/769781/10-years-since-messis-historic-goal-against-getafe (OFF AU-S48, re-read: 18 April 2007, Copa del Rey semi-final first leg, Camp Nou; "started in his own half, dribbled past five players"; a pass from Xavi Hernández; "Maradona-esque strike") ; https://www.fcbarcelona.com/en/news/2070529/leo-messi-fc-barcelonas-historic-record-breaker (OFF [O45], re-read: 46 goals at the Camp Nou in 2011/12) ; https://www.aljazeera.com/sports/2021/8/5/messi-to-leave-barcelona-due-to-financial-structural-obstacles (SEC [S15], re-read: 5 August 2021, "Although an agreement has been reached between FC Barcelona and Leo Messi it cannot be formalised" "due to economic and structural obstacles"; La Liga's spending limits explained) ; https://www.aljazeera.com/sports/2021/8/8/messi-in-tears-at-farewell-barcelona-press-conference (SEC AU-S46, re-read: in tears as the press conference began, 8 Aug 2021; his own words not used: no Messi quotes) ; https://www.khaleejtimes.com/sports/lamine-yamal-inherits-barcelonas-iconic-number-10-jersey (SEC AU-S45, re-read: after Messi the No 10 "passed to young winger Ansu Fati"; Lamine Yamal given it on 16 July 2025)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 023 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[lightly] Le premier match officiel de Messi avec le Barça ne fut pas du tout au Camp Nou. Ce fut un derby barcelonais contre l'Espanyol, au stade olympique de Montjuïc, le 16 octobre 2004. Le Barça gagna un à zéro, et il avait dix-sept ans. L'année précédente, à seize ans, il avait déjà joué un amical contre Porto, le soir de l'inauguration de leur nouveau stade.
+
+Deux ans et demi plus tard vint le but que l'on compare encore à celui de Maradona. C'était en avril 2007, au Camp Nou, en demi-finale de coupe contre Getafe. Il reçut une passe de Xavi dans sa propre moitié, dribbla cinq joueurs et marqua. Le compte rendu du club le qualifia de maradonesque.
+
+Rien que sur la saison 2011-2012, il marqua quarante-six buts au Camp Nou.
+
+[pause] Il resta jusqu'en 2021. Cet été-là, le club et le joueur s'étaient entendus sur un nouveau contrat. Puis, le 5 août, le club annonça que l'accord "ne peut être formalisé en raison d'obstacles économiques et structurels". Trois jours après, à ses adieux, il pleurait avant même d'avoir commencé. Peu après, il rejoignit le Paris Saint-Germain.
+
+[warmly] Il laissa son numéro. Le numéro dix passa d'abord à Ansu Fati.
+
+Depuis juillet 2025, il appartient à Lamine Yamal.
+
+Si ses maillots sont exposés ici, cherchez le dix dans le dos. Il a été transmis, et il est toujours porté.
+
+Avancez maintenant jusqu'à la salle ronde aux écrans, où se termine l'exposition. Arrêtez-vous à son entrée, avant d'entrer : La salle ronde · Avant le spectacle.

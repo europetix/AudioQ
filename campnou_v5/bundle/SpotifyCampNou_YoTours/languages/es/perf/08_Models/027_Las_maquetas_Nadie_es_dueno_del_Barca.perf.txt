@@ -1,0 +1,30 @@
+@id: 027 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The models
+@room: The models · same place, or any spot nearby
+@type: R
+@title: Las maquetas · Nadie es dueño del Barça
+@where: Todavía en las maquetas del futuro estadio, o en cualquier punto cercano sin estorbar a quienes pasan.
+@what: Member ownership: one of four Spanish professional clubs still owned by their members, with Real Madrid, Athletic Club and Osasuna; members elect the president by direct vote (F14.1 OK SEC [S25], 2014, attributed); 151,787 members at 30 Jun 2026 (G81 OK OFF, DATED); about 1,270 official penyes on all five continents (G82 OK OFF, DATED count); the land for the 1957 stadium bought after the club's first-ever referendum (F5.9 OK OFF [O20]); first elections after Franco, 6 May 1978 (F14.6, F4.26 OK OFF); 19 Dec 2021 referendum on financing the works, the biggest referendum turnout ever (F14.3 OK OFF [O55]; no percentage, no sum); the Spotify deal ratified 625–49 by the delegates' assembly (F14.4 OK OFF [O27]); 15 Mar 2026 election: 114,504 entitled, about 48,440 voted, Laporta re-elected (F14.2 OK OFF [O51], DATED); Sept 2026 assembly approved new financing to finish the stadium (F14.5 OK OFF [O29], DATED).
+@listen: Who owns Barça, and the votes that decided this stadium, its shirt and its president.
+@brief: A friend explaining something that surprises most visitors; plain and a little proud, never political, warm at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.uic.es/en/noticia/agusti-benedito-analyses-fc-barcelonas-legal-status (SEC [S25], 2014, read 14 Nov 2026: "one of only four professional clubs in Spain (the others are Real Madrid, Athletic de Bilbao and CA Osasuna)", "owned by its members", "members elect the club president by direct universal suffrage") ; https://www.fcbarcelona.com/en/club/news/4530215/barca-membership-surpasses-150000 (OFF [GO27], read 14 Nov 2026: "151,787 on 30 June 2026") ; https://penyes.fcbarcelona.com/en/our-penyes/history/ (OFF [GO29], read 14 Nov 2026: "around 1.270 official clubs", "all five continents") ; https://www.fcbarcelona.com/en/news/1974331/opening-up-and-the-fight-for-democracy-1952-1977 (OFF [O20], read 14 Nov 2026: land bought "following the first ever referendum in the Club's history"; Carrasco interim "until new elections on 6 May 1978"; the page does not use the words "first democratic", so the script says "the first elections after Franco") ; https://www.fcbarcelona.com/en/news/2987472/one-year-since-espai-barca-referendum (OFF [O55], read 14 Nov 2026: 19 Dec 2021, financing of the future stadium; "The turnout of 48,623 was the biggest ever for an FC Barcelona referendum"; its 80.8% not used) ; https://www.fcbarcelona.com/en/club/news/2560521 (OFF [O27], read 14 Nov 2026: Extraordinary Assembly of Delegate Members, 3 Apr 2022, 625 for, 49 against, 27 blank; shirts and stadium title rights) ; https://www.fcbarcelona.es/es/club/noticias/4465897/el-minuto-a-minuto-de-las-elecciones-a-la-presidencia-del-fc-barcelona-2026 (OFF [O51], read 14 Nov 2026: 15 Mar 2026; "114.504 socios y socias con derecho a voto"; last turnout figure 48.440; "Joan Laporta, reelegido") ; https://www.fcbarcelona.es/es/noticias/4578665/el-barca-aprueba-510-millones-de-euros-de-nueva-financiacion-para-completar-el-spotify-camp-nou (OFF [O29], read 14 Nov 2026: 2026 ordinary assembly of delegate members approved new financing to complete the stadium; no sum spoken)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 027 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Nadie es dueño del Barça. [pause] Lo son sus socis, los socios.
+
+Como resumió una universidad de Barcelona, el Barça es uno de los cuatro únicos clubes profesionales de España que siguen siendo de sus socios. Los otros: Real Madrid, Athletic Club y Osasuna. Y los socios eligen al presidente por voto directo.
+
+Según el último recuento del club, hay más de ciento cincuenta mil socios.
+
+[warmly] Y el voto de los socios recorre toda la historia de este estadio. Los terrenos donde se alza se compraron tras el primer referéndum de la historia del club. En mayo de 1978, ya sin Franco, fueron a las urnas para elegir un nuevo presidente. En diciembre de 2021 volvieron a votar, para autorizar al club a endeudarse por estas obras. Según el club, ningún referéndum suyo tuvo nunca más votantes.
+
+Cuando el nombre de Spotify llegó a la camiseta y al estadio, los socios compromisarios ratificaron el acuerdo, por seiscientos veinticinco votos contra cuarenta y nueve.
+
+En marzo de 2026, más de ciento catorce mil socios podían votar al presidente. Votaron más de cuarenta y ocho mil, y Joan Laporta fue reelegido.
+
+La maqueta que tiene delante es el estadio que votaron pagar.
+
+Ahora siga hasta el mirador sobre las obras, y busque un sitio en la barandilla: El mirador · Lo que tiene delante.

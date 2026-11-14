@@ -1,6 +1,6 @@
 @id: 022 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Messi's space
-@room: Messi's space · where the golden balls are in view [O19]
+@room: Messi's space · where the golden balls are in view
 @type: W
 @title: L'espace Messi · Six gagnés ici, huit exposés
 @where: Dans l'espace Messi, là où vous voyez sa rangée de Ballons d'Or et, à côté, les Souliers d'or.

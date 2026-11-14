@@ -1,6 +1,6 @@
 @id: 020 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · same place [O15]
+@room: A quiet corner · same place
 @type: W
 @title: Un coin tranquille · Extra · Onze à un
 @where: Le même coin tranquille ou banc que pour les histoires précédentes, loin des écrans. Rien à regarder.

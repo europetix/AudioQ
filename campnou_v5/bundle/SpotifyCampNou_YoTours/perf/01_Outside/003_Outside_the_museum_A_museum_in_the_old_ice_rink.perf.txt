@@ -1,9 +1,9 @@
 @id: 003 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it [O1]
+@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it
 @type: R
 @title: Outside the museum · A museum in the old ice rink
-@where: Near the museum's door but out of the way of people going in, with the long building with the ridged roof in front of you and the round Palau Blaugrana beside it. [O1, O10, O2]
+@where: Near the museum's door but out of the way of people going in, with the long building with the ridged roof in front of you and the round Palau Blaugrana beside it.
 @what: The museum building = the Palau de Gel, the club's ice rink, opened 1971 (G88 OK OFF [GO33]); closed 2022 (ROUTE §1.4, A.2 SEC NHL.com: here "When the rink closed", no year); the old museum under the main stand closed on the old stadium's last day, 28 May 2023 (F6.16 OK OFF; F16.3); this one opened to the public on 7 June 2023 ("ten days later"), about 2,400 m² (F16.11, F17.3, G105 OK OFF); meant to stay until 2024/25 (G88 OFF; "a season or two"), slipped; the skaters' new provisional rink on university land, 2026 (ROUTE §1.4 SEC ×2, DATED, separate sentence); the Palau Blaugrana opened 1971, home to the professional basketball, handball, roller hockey and futsal teams, some shirts retired there (G87 OK OFF [GO32]); a new arena planned elsewhere on the campus (ROUTE §1.4 SEC, DATED, separate sentence). Ending: football is not the only sport (fact).
 @listen: Why the club's museum is in an old ice rink, and what the round arena beside it is for.
 @brief: A friend at the door before going in, amused by the building's history, plain and quick, ending on the club's other sports.

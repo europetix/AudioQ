@@ -1,0 +1,30 @@
+@id: 026 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The models
+@room: The models · where you can see the model of the finished stadium whole
+@type: W
+@title: Les maquettes · Le stade une fois terminé
+@where: Aux maquettes du futur stade, là où vous voyez en entier la grande maquette du stade achevé, toit compris. Si les maquettes sont ailleurs ou absentes, écoutez cet arrêt là où le parcours arrive d'abord en vue du stade.
+@what: The lower two tiers of 1957 kept and renovated, the third tier taken down and rebuilt (F15.3 OK OFF-supplier [P1]); about 105,000 when finished (F15.13 OK OFF, DATED); a cable-held tensile roof over every fan, close to fifty thousand square metres, "one of the largest tensile structures in the world" per the club's stadium site, 18,000 m² of solar panels (F15.12 HEDGE OFF [O57]); the new facade inspired by the 1957 canopy of Mitjans, Soteras and García, the old inner canopy to disappear (F15.14 OK OFF [O9]); the double VIP ring and up to 25 ha of car-free grounds (F15.15 OK OFF [O57]); Nikken Sekkei with b720 Fermín Vázquez, contractor Limak (F15.1 OK OFF, F15.2 OK OFF-supplier); the new museum in the Tribuna hub facing the Campus esplanade (F16.23 OK OFF, DATED).
+@listen: What the finished stadium will be, who is building it, and why the 1957 bowl is still inside it.
+@brief: A friend walking round a model with you, pointing things out; curious and clear, a little impressed by the roof, settling on the old bowl inside the new shell.
+@pace: medium
+@energy: 2→3→3
+@sources: https://www.limak.com.tr/sectors/construction/projects/international/barcelona-spotify-camp-nou-renovation-and-expansion-project-spain (OFF-supplier, read 14 Nov 2026: "the bottom two tiers… preserved, renovated, and fully updated with new seating"; third tier "demolished and rebuilt"; 99,000 to 105,000; design-build contract 31 Jan 2023; Limak's country not stated on the page, Turkish per FACTS F15.2) ; https://www.fcbarcelona.com/club/facilities/card/new-camp-nou-characteristics (OFF [O9], read 14 Nov 2026: Nikken Sekkei with Pascual-Ausió, then b720 Fermín Vázquez; about 105,000; roof over 47,000 m²; facade inspired by "the canopy designed by Francesc Mitjans, Josep Soteras and Lorenzo García"; "The canopy inside the stadium will disappear") ; https://espaibarca.fcbarcelona.com/en/spaces/future-spotify-camp-nou (OFF [O57], read 14 Nov 2026: "nearly 105,000"; "All fans will be protected by a tensile structure made with cables"; "one of the largest tensile structures in the world, with a surface area of 48,000 m²"; 18,000 m² of photovoltaic panels; "double VIP ring between the second and third tiers"; "landscaped areas of up to 25 hectares, a space without motor vehicle traffic"; "The Tribuna hub of the Stadium, facing the Campus esplanade, will also integrate the Barça Store and the Museum") ; roof area given as "close to fifty thousand" (45,000 / 47,000 / 48,000 conflict, F18.35) ; the 2029 final left out (Ara [S3] calls it a bid, 3Cat [S7] a fixture: conflict)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 026 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] Le stade de cette maquette n'a jamais été rasé. Ses deux étages inférieurs, coulés dans les années 1950, ont été conservés et rénovés, avec de nouveaux sièges à chaque rang. Seul le troisième étage, l'anneau du haut, a été démonté et reconstruit.
+
+C'est ainsi que le constructeur, le turc Limak, décrit le chantier. Le projet est signé d'un cabinet japonais, Nikken Sekkei, associé à un studio barcelonais, b720 Fermín Vázquez.
+
+Une fois le stade terminé, le club prévoit environ cent cinq mille places.
+
+[pause] Le plus grand changement est au-dessus des têtes. Le nouveau toit doit couvrir tous les spectateurs du stade, et il est suspendu à des câbles. Il fera près de cinquante mille mètres carrés, et le site du club consacré au stade le présente comme l'une des plus grandes structures tendues au monde. Dessus, environ dix-huit mille mètres carrés de panneaux solaires.
+
+Puis il y a la peau. La nouvelle façade s'inspire de l'auvent que les architectes d'origine avaient dessiné pour le stade de 1957. L'ancien auvent, lui, disparaît. Entre le deuxième et le troisième étage court un double anneau de loges pour les invités, et tout autour, jusqu'à vingt-cinq hectares de jardins sans voitures.
+
+Le futur musée y est prévu lui aussi, dans la tribune principale, face au campus.
+
+Sur la maquette, trouvez trois choses : le toit sur ses câbles, le nouvel anneau du haut, et la peau qui enveloppe l'extérieur.
+
+Restez aux maquettes pour ceux qui ont décidé de le construire : Les maquettes · Personne ne possède le Barça.

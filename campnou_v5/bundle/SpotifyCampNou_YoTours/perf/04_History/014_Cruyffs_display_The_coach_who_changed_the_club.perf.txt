@@ -1,9 +1,9 @@
 @id: 014 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The club's history
-@room: Cruyff's display · same place [O12]
+@room: Cruyff's display · same place
 @type: W
 @title: Cruyff's display · The coach who changed the club
-@where: Still at the display given to Johan Cruyff, near the Dream Team's photographs or shirts if they are shown. [O12]
+@where: Still at the display given to Johan Cruyff, near the Dream Team's photographs or shirts if they are shown.
 @what: Self-contained intro (E skips 013): Cruyff a star here as a player in the 1970s (F7.1–7.3); back as coach in 1988, "put into motion the best era in the history of the club" (F7.7–7.8 OK OFF, re-read [O34], attributed); four Ligas in a row 1990–91 to 1993–94, the Cup Winners' Cup, the first European Cup in 1992 (F7.9 OK OFF, re-read; one clause, 008 home); "Cruyff gave birth to the idea that today defines Barça" and "his confidence in the blaugrana youth system" (G47 OFF [GO15], re-read, attributed); left in 1996 after disagreements with Núñez (F7.7 re-read); [quietly] died 24 March 2016 of lung cancer, in Barcelona (F7.10, G47 re-read); the Clásico of 2 April 2016: "Gràcies Johan" mosaic, applause in the 14th minute for "Cruyff's famous number" (AU246 fix; second source found: OFF 2016 review, re-read; "his old number" not said: the club's own words used); the Estadi Johan Cruyff opened 2019 for the second team, the women and the under-19s (F7.13 OK OFF re-read); statue "stood at the main stand's entrance from 2019" (F7.11, G46, decision 11, DATED, cuttable). [RL] look: the Dream Team's photographs or shirts (O12). Ending: a stadium for the young players named after him (fact).
 @listen: What Johan Cruyff built as Barça's coach, and how the club and its fans said goodbye.
 @brief: A friend explaining why one coach still matters here, steady and admiring, quiet for his death, warm at the tribute, plain at the end.

@@ -1,9 +1,9 @@
 @id: 031 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The viewpoint
-@room: The old benches · same place [O4]
+@room: The old benches · same place
 @type: W
 @title: The old benches · Extra · The refugee signed at half past eight
-@where: Still sitting on the old benches at the viewpoint, the stadium in view; nothing to look at until the last lines. [O4]
+@where: Still sitting on the old benches at the viewpoint, the stadium in view; nothing to look at until the last lines.
 @what: 15 June 1950, 8.30 pm, right after a friendly at Sarrià against Espanyol (F5.1 OK OFF, re-read [O24]); Samitier, 1920s star, technical secretary (F5.1, F8.1); Hungaria, footballers who had fled behind the Iron Curtain; "a political refugee being pursued by the Hungarian federation" (F5.2, re-read, attributed); no competitive matches until the 1951 cup ("at first": date dropped for the date count); brother-in-law Daučík (F5.4, re-read); Ladislau (F19); 10 Feb 1952, 9–0 v Sporting Gijón, seven goals, equalling the Liga record set by Bata against Barça in 1931, "has never been touched since" ([O60] re-read; DATED, separate sentence, F18.40); Daučík: "Kubala scored goals today, but he didn't have a great game." (Q6, re-read); the Five Cups of 1951–52: Liga, Spanish Cup, Latin Cup, Copa Eva Duarte, Copa Martini Rossi (G64 OK OFF, re-read; lead's decision); the club: not built because of him, "the plans to build the new ground were already in place some time before he signed in 1950", "Kubala did generate unprecedented interest" (F5.6, [O25] re-read; lint exception 031); Les Corts "tens of thousands, and still not enough" (lead's decision; [GO20] "The Club needed a bigger stadium"); statue "stood at the main stand's entrance from 2009", by Montserrat Garcia Rius (F5.7, G48, decision 11; DATED, cuttable; position never cued). Last lines [RL]; payoff (PLAN).
 @listen: How a Hungarian refugee became Barça's great star, and why the stadium was not built for him.
 @brief: A friend on a bench enjoying a good yarn, amused at the start, wry at the coach's verdict, setting the record straight at the end.

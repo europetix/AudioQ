@@ -1,6 +1,6 @@
 @id: 023 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Messi's space
-@room: Messi's space · same place, or by his shirts if shown [O19]
+@room: Messi's space · same place, or by his shirts if shown
 @type: W
 @title: L'espace Messi · Le garçon de Rosario
 @where: Toujours dans l'espace Messi, près des Ballons d'Or ou, s'ils sont exposés, de ses maillots, à l'écart du passage.

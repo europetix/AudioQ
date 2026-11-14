@@ -1,9 +1,9 @@
 @id: 008 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The trophies
-@room: The European Cups · in front of the five big silver cups, at the oldest if they are in order [O16]
+@room: The European Cups · in front of the five big silver cups, at the oldest if they are in order
 @type: W
 @title: The European Cups · Third time lucky
-@where: In front of the five big silver European Cups, by the oldest of them, from 1992, if they stand in order. [O16, O37]
+@where: In front of the five big silver European Cups, by the oldest of them, from 1992, if they stand in order.
 @what: Two lost European Cup finals before 1992: Benfica 1961 in Bern, 3–2, the woodwork hit four times, "the goalposts were square at the time" (F7.18 OK OFF; G62 OK OFF, re-read), and Steaua 1986 on penalties (F7.18, [O37] re-read); version-neutral: Cruyff back as coach since 1988 built the Dream Team (F7.7, F7.19 OK OFF); Wembley, 20 May 1992, Sampdoria, no goals in ninety minutes, Koeman's free kick past Pagliuca late in extra time (F7.15 OK OFF; F7.16/G44: never a minute); then Alexanko, the captain, on for Guardiola, and he lifted the cup (club 763941: "al sustituir Guardiola en el minuto 113"; audit FA M1, lead's decision 3); "Salid y disfrutad", attributed to the club's own history card, then "go out and enjoy it" (G43 OK OFF, re-read; lead's revised decision 4, lint exception 008). The Thames story dropped (see notes: Laporta vs Gaspart conflict). [RL] look: the oldest cup, 1992 (O16). Payoff (PLAN): two finals lost, the third changed everything.
 @listen: How Barça lost two European Cup finals and won the third, at Wembley in 1992.
 @brief: Telling a friend about the club's great night, steady through the near-misses, lifting at Wembley, landing on the payoff.

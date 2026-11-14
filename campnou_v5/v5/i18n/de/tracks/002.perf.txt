@@ -1,6 +1,6 @@
 @id: 002 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: The campus · where the stadium is in view over the lower buildings [O14]
+@room: The campus · where the stadium is in view over the lower buildings
 @type: W
 @title: Das Gelände · 909 Tage auswärts
 @where: Auf dem Gelände, ein kurzes Stück vom Museum entfernt, an einer Stelle, wo das Stadion über die niedrigeren Gebäude ragt.

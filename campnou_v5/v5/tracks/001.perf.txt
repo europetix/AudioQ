@@ -1,9 +1,9 @@
 @id: 001 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · on Av. de Joan XXIII, by the long building with the ridged roof beside the round Palau Blaugrana, out of the way of its door [O1, O14]
+@room: Outside the museum · on Av. de Joan XXIII, by the long building with the ridged roof beside the round Palau Blaugrana, out of the way of its door
 @type: ANCHOR
 @title: Welcome to the Barça Museum
-@where: Outside, on Avinguda de Joan XXIII, by the long building with the ridged roof that stands beside the round Palau Blaugrana; stop out of the way of the museum's door. [O1, O14]
+@where: Outside, on Avinguda de Joan XXIII, by the long building with the ridged roof that stands beside the round Palau Blaugrana; stop out of the way of the museum's door.
 @what: The honesty frame (F17.8 OK OFF: no stadium interior on this ticket; ROUTE §1.1 OFF-AJ); the museum's temporary home in the old ice rink (F16.11 OK OFF; F17.3) [RL]; what the visit gives: the trophies with all five men's European Cups (F11.10 OK OFF), the history, Messi's golden balls (F16.17 OK OFF), the round room (F16.13–16.14 OK OFF), the models, the viewpoint (F17.4 OK OFF); the route in one breath [RL] (ROUTE §0.3, O3); practical lines (headphones; "about an hour" ROUTE §1.1 OFF; the epilepsy and photosensitivity warning F16.19 OK OFF; offline, COMP §4.2-5); the three lengths as Lead's decision 1 words them; the forward pointer answered by 034.
 @listen: An honest welcome: what this ticket shows and what it doesn't, how the visit runs, and how long each version takes.
 @brief: A friendly local guide meeting visitors at the door, honest from the first sentence, brisk and clear through the practical lines, a small smile at the last thought.

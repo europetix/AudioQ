@@ -1,6 +1,6 @@
 @id: 017 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · a bench, the rest area or any spot out of the flow [O15, O10]
+@room: A quiet corner · a bench, the rest area or any spot out of the flow
 @type: X
 @title: Eine ruhige Ecke · Extra · Hintern auf der Mauer
 @where: Eine Bank, ein Ruhebereich oder eine ruhige Ecke abseits des Besucherstroms, nach den Geschichtsbereichen und weg von den lauten Bildschirmen. Bis zu den letzten Zeilen muss nichts zu sehen sein.

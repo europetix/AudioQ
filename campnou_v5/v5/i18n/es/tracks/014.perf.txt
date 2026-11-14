@@ -1,0 +1,30 @@
+@id: 014 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The club's history
+@room: Cruyff's display · same place
+@type: W
+@title: La muestra de Cruyff · El entrenador que cambió el club
+@where: Todavía en el espacio dedicado a Johan Cruyff, cerca de las fotografías o camisetas del Dream Team, si se muestran.
+@what: Self-contained intro (E skips 013): Cruyff a star here as a player in the 1970s (F7.1–7.3); back as coach in 1988, "put into motion the best era in the history of the club" (F7.7–7.8 OK OFF, re-read [O34], attributed); four Ligas in a row 1990–91 to 1993–94, the Cup Winners' Cup, the first European Cup in 1992 (F7.9 OK OFF, re-read; one clause, 008 home); "Cruyff gave birth to the idea that today defines Barça" and "his confidence in the blaugrana youth system" (G47 OFF [GO15], re-read, attributed); left in 1996 after disagreements with Núñez (F7.7 re-read); [quietly] died 24 March 2016 of lung cancer, in Barcelona (F7.10, G47 re-read); the Clásico of 2 April 2016: "Gràcies Johan" mosaic, applause in the 14th minute for "Cruyff's famous number" (AU246 fix; second source found: OFF 2016 review, re-read; "his old number" not said: the club's own words used); the Estadi Johan Cruyff opened 2019 for the second team, the women and the under-19s (F7.13 OK OFF re-read); statue "stood at the main stand's entrance from 2019" (F7.11, G46, decision 11, DATED, cuttable). [RL] look: the Dream Team's photographs or shirts (O12). Ending: a stadium for the young players named after him (fact).
+@listen: What Johan Cruyff built as Barça's coach, and how the club and its fans said goodbye.
+@brief: A friend explaining why one coach still matters here, steady and admiring, quiet for his death, warm at the tribute, plain at the end.
+@pace: medium
+@energy: 3→4→2→3
+@sources: https://www.fcbarcelona.com/en/news/1629219/johan-cruyff-an-incomparable-legend/ (OFF, read 14 Nov 2026: "put into motion the best era in the history of the club"; "Cruyff then left the club in 1996 after disagreements with president Josep Lluís Núñez."; "Cruyff died on 24 March 2016 after losing his battle with lung cancer."; "The following day the Estadi Johan Cruyff in Sant Joan Despí was opened"; coach: European Cup 1991-92, 4 leagues 1990-91 to 1993-94) ; https://www.fcbarcelona.com/en/news/4474399/a-decade-without-johan-cruyff (OFF, 24 Mar 2026, read 14 Nov 2026: "Cruyff gave birth to the idea that today defines Barça"; "His confidence in the blaugrana youth system and in a common philosophy"; passed away 24 March 2016 in Barcelona) ; https://www.fcbarcelona.com/club/news/2016-2017/2016-a-year-of-irreparable-losses (OFF, read 14 Nov 2026: tribute "in the build-up to the Clásico on April 2"; mosaic "Gràcies Johan"; at the 14th minute the crowd "burst into a spontaneous round of applause" for "Cruyff's famous number") + AU-S39 FourFourTwo 2 Apr 2016 (SEC, via AUDIT: applause for a minute; pre-match minute's silence not scripted) ; FACTS 7.9, 7.11, 7.13 ([O34] OFF: Cup Winners' Cup 1988-89; statue 26 Aug 2019; Estadi Johan Cruyff for Barça B, the women and the U19) ; G46 [GO14] (OFF: statue at the grandstand entrance)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 014 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En 1988, Johan Cruyff volvió, esta vez como entrenador. Había sido una estrella aquí como jugador en los años setenta. La historia del club dice que aquel regreso puso en marcha «la mejor época de la historia del club».
+
+Su equipo, al que llamaban el Dream Team, ganó cuatro Ligas seguidas a principios de los noventa. Ganó la Recopa. Y en 1992, en Wembley, dio al club su primera Copa de Europa.
+
+Pero los títulos son solo la mitad. Confió en la cantera del club, y quiso una misma forma de jugar, desde el equipo más pequeño hasta el primer equipo. El club llega hoy a decir: «Cruyff alumbró la idea que hoy define al Barça».
+
+No acabó en calma. Se fue en 1996, tras desacuerdos con el presidente, Josep Lluís Núñez.
+
+[pause] [quietly] Murió en Barcelona en marzo de 2016, de cáncer de pulmón.
+
+[warmly] Pocos días después, antes de un Clásico en casa contra el Real Madrid, las gradas desplegaron un mosaico: Gràcies Johan, gracias, Johan. Y cuando el reloj llegó al minuto catorce, por lo que el club llama su famoso número, todo el estadio rompió a aplaudir.
+
+Su nombre sigue vivo. En 2019, el club inauguró el Estadi Johan Cruyff, donde juegan su filial, su equipo femenino y su juvenil. Desde 2019 se alzaba una estatua suya a la entrada de la tribuna principal. Si están aquí las fotos o camisetas del Dream Team, mírelas, y piense en aquel campo: el estadio de los jóvenes lleva su nombre.
+
+Ahora busque el espacio dedicado a La Masia, la cantera del club, y deténgase donde pueda verlo: La muestra de La Masia · La masía que dibujó el estadio.

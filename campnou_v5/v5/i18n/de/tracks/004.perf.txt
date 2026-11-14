@@ -1,6 +1,6 @@
 @id: 004 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · by the door or in the queue; needs no view [O1]
+@room: Outside the museum · by the door or in the queue; needs no view
 @type: W
 @title: Vor dem Museum · Extra · Die Anzeige mit zwei Schreibfehlern
 @where: An der Museumstür oder in der Schlange zur Ticketkontrolle, falls es eine gibt. Nichts anzusehen.

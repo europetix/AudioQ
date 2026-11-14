@@ -1,0 +1,30 @@
+@id: 001 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Outside the museum
+@room: Outside the museum · on Av. de Joan XXIII, by the long building with the ridged roof beside the round Palau Blaugrana, out of the way of its door
+@type: ANCHOR
+@title: Willkommen im Barça-Museum
+@where: Draußen an der Avinguda de Joan XXIII, beim langen Gebäude mit dem gerippten Dach neben dem runden Palau Blaugrana. Bleiben Sie abseits der Museumstür stehen.
+@what: The honesty frame (F17.8 OK OFF: no stadium interior on this ticket; ROUTE §1.1 OFF-AJ); the museum's temporary home in the old ice rink (F16.11 OK OFF; F17.3) [RL]; what the visit gives: the trophies with all five men's European Cups (F11.10 OK OFF), the history, Messi's golden balls (F16.17 OK OFF), the round room (F16.13–16.14 OK OFF), the models, the viewpoint (F17.4 OK OFF); the route in one breath [RL] (ROUTE §0.3, O3); practical lines (headphones; "about an hour" ROUTE §1.1 OFF; the epilepsy and photosensitivity warning F16.19 OK OFF; offline, COMP §4.2-5); the three lengths as Lead's decision 1 words them; the forward pointer answered by 034.
+@listen: An honest welcome: what this ticket shows and what it doesn't, how the visit runs, and how long each version takes.
+@brief: A friendly local guide meeting visitors at the door, honest from the first sentence, brisk and clear through the practical lines, a small smile at the last thought.
+@pace: medium
+@energy: 3→3→3
+@sources: https://www.fcbarcelona.com/en/tickets/museum (OFF, read 14 Nov 2026: Museum ticket = "Museum + Digital Audio Guide" + "Construction Viewpoint"; pitch walk only on the separate Match Day Tour; no closure or move notice; still the Barça Immersive Tour) ; https://www.fcbarcelona.com/en/entradas/camp-nou-experience/visitas-museo-barca (OFF, read 14 Nov 2026: "temporarily moved to a spectacular 2,400 m² space"; Trophies "All the Champions League titles…"; Messi Zone "his Ballon d'Or awards and Golden Boots"; 360° Macro Room; Mirador de las Obras) ; https://www.fcbarcelona.com/en/card/3044593/immersive-tour-basic (OFF, read 14 Nov 2026: "all 2,400 m2 of the old ice rink"; ends in the 360º show; "not recommended for people with epilepsy and/or photosensitive people") ; ROUTE §1.1 practical-information page (OFF, via ROUTE: "The duration of the visit is 1h") ; F11.10 [O35] five European Cups (via FACTS) ; F17.4 [O50] viewpoint with old benches (via FACTS) ; COMP §4.2-5 offline (product feature, not a fact source)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 001 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Willkommen. Bevor es losgeht, ein ehrliches Wort zum heutigen Tag. Dieses Ticket führt Sie nicht ins Stadion, ins Spotify Camp Nou. Spielfeld, Tribünen und Umkleidekabine gehören nicht dazu. Sie sehen das Stadion von außen und von einem Aussichtspunkt über der Baustelle.
+
+Was Sie bekommen, ist das Museum des Clubs, in einem vorübergehenden Zuhause. Das lange Gebäude mit dem gerippten Dach, neben dem Palau Blaugrana, der runden Halle, war die alte Eishalle des Clubs. Das Museum ist hier eingezogen, während das Stadion umgebaut wird.
+
+Drinnen warten die Trophäen, darunter die Europapokale der Männer. Dazu die Geschichte des Clubs, von einer Kleinanzeige in einer Zeitung bis zum Frauenteam. Es gibt Messis Goldene Bälle und einen runden Saal, dessen Wände zum Stadion werden. Dann folgen die Modelle des Stadions, wie es aussehen wird, wenn es fertig ist, und der Aussichtspunkt.
+
+Zuerst ein kurzer Halt draußen. Dann hinein, durch die Trophäen, die Clubgeschichte und den Messi-Bereich, zum runden Saal und seiner Show, dann zu den Modellen, zum Aussichtspunkt und hinaus. Bei den kürzeren Touren fallen einige dieser Stationen weg.
+
+[pause] Bitte setzen Sie Kopfhörer auf. Der Club rechnet für den Besuch mit etwa einer Stunde, und dieser Guide dehnt ihn aus, für alle, die die Geschichten hören wollen. Die Show im runden Saal wird Menschen mit Epilepsie oder Lichtempfindlichkeit nicht empfohlen, und der Guide sagt das am Eingang des Saals noch einmal. Und der Guide funktioniert offline.
+
+Die vollständige Tour dauert etwas über anderthalb Stunden, die Kernversion etwa eine Stunde und die Highlights etwa fünfunddreißig Minuten, Wege und die Show im runden Saal inbegriffen. Spielen Sie die Stationen der Reihe nach ab. Die Nummern auf Ihrem Handy können springen, aber jede Station sagt Ihnen, wohin es als Nächstes geht.
+
+[lightly] Ein Gedanke für den Weg hinein. Dies ist ein Club, der mehr als einmal umgezogen ist.
+
+Gehen Sie jetzt aufs Gelände, weg von der Avinguda, bis Sie das Stadion über den niedrigeren Gebäuden sehen: Das Gelände · 909 Tage auswärts.

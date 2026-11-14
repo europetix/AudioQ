@@ -1,9 +1,9 @@
 @id: 018 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · same place [O15]
+@room: A quiet corner · same place
 @type: W
 @title: A quiet corner · Extra · The whistle that closed the club
-@where: The same bench or quiet corner as the story before, sitting or leaning out of the flow; nothing needs to be in view. [O15]
+@where: The same bench or quiet corner as the story before, sitting or leaning out of the flow; nothing needs to be in view.
 @what: Sunday 14 June 1925, Les Corts, a friendly v CE Júpiter in tribute to the Orfeó Català (F4.1 OK OFF); at half time British sailors' band played the Spanish anthem, most of the 14,000 whistled and booed, then applauded God Save the King (F4.2 OK OFF); 24 June the civil governor under Primo de Rivera suspended the club, six months decreed (F4.3 OK OFF; F18.17: never "six months" as served); Gamper, president five times (F4.6 OK OFF), came to Barcelona in the late 1890s (GAPS change to F1.1), forced out and barred, "temporarily exiled to Switzerland" (F4.4 HEDGE OFF, the club's words); 1908 "Barcelona cannot die and must not die" (F4.7, Q2 re-checked); his death in 1930, "probably" business problems and the closure (F4.5 OK OFF, gentle); the club's centenary article of 14 June 2025 (O15). Ending: "cannot die" (FACTS §22 Gamper).
 @listen: The afternoon in 1925 when a crowd's whistles got the club closed and its founder forced out, and the words he had once used to save it.
 @brief: A friend telling a sad family story honestly, even about the politics, quiet for the founder's death, then a small lift at the end.

@@ -1,0 +1,32 @@
+@id: 028 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The viewpoint
+@room: The viewpoint · at the rail, the stadium in view
+@type: W
+@title: El mirador · Lo que tiene delante
+@where: En la barandilla del Mirador de las Obras, el balcón sobre las obras del estadio, con el graderío delante. Si hay mucha gente, retroceda hasta cualquier punto con vista a las gradas.
+@what: Back in use since 22 Nov 2025 (F15.6 OK OFF [O7]); the lower two tiers are the 1957 bowl, kept and renovated (F15.3 OK OFF-supplier [P1]); the top ring built but not yet open (F15.10 OK SEC, DATED); the 830-metre compression ring at the very top completed on 5 Oct 2026 (ROUTE §4, SEC Ara 10 Oct 2026, DATED); more than 3,000 reinforcement jobs on the old second tier against about 800 planned (F15.16 OK OFF [O29]); about 62,000 seats in use (F15.9 OK SEC [S3], [S4], DATED); the roof from next summer, built on the pitch and lifted on cables, the team back to Montjuïc for a few months (F15.11 DATED SEC [S7], [S4]; Ara 10 Oct 2026); Q13, the treasurer's words (CA, SEC [S7], re-checked); about 105,000 when finished (F15.13 OK OFF, DATED).
+@listen: What you can see of the stadium today, what was kept, what was rebuilt, and what still has to happen.
+@brief: Standing at the rail beside a friend, pointing out the tiers; lively and concrete, amused by the scale of the repairs, ending on the oddness of a stadium finished while it's played in.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.fcbarcelona.com/en/news/4407735/first-game-back-at-spotify-camp-nou-in-figures (OFF [O7], read 14 Nov 2026: Saturday 22 November, 4–0 v Athletic Club, 909 days) ; https://www.limak.com.tr/sectors/construction/projects/international/barcelona-spotify-camp-nou-renovation-and-expansion-project-spain (OFF-supplier [P1], read 14 Nov 2026: bottom two tiers preserved and renovated; third tier demolished and rebuilt; 105,000) ; https://en.ara.cat/sports/countdown-for-the-rain-to-stop-being-problem-at-the-camp-nou_1_5875254.html (SEC, Ara, 10 Oct 2026, read 14 Nov 2026: last piece of the compression ring placed Monday 5 Oct, "perimeter of 830 meters"; roof "starting next summer", assembled on the pitch and raised with cables; about 18,000 lower seats removed first; third tier not open this season) ; https://www.elnacional.cat/ca/esports/obertura-tercera-graderia-camp-nou-posposa-fins-temporada-vinent_1702948_102.html (SEC [S4], read 14 Nov 2026: third tier postponed to next season, single licence; "62.000 seients disponibles"; Montjuïc during the roof works) ; https://en.ara.cat/sports/imaginative-solutions-to-combat-the-new-delays-at-camp-nou_1_5683936.html (SEC [S3], read 14 Nov 2026: north stand reopened 15 Mar 2026, "capacity to 62,000 seats") ; https://www.fcbarcelona.es/es/noticias/4578665/el-barca-aprueba-510-millones-de-euros-de-nueva-financiacion-para-completar-el-spotify-camp-nou (OFF [O29], read 14 Nov 2026: "más de 3.000 intervenciones de refuerzo, frente a las aproximadamente 800 previstas inicialmente" on the second tier) ; https://www.3cat.cat/esport3/el-barca-posa-data-a-la-tornada-definitiva-al-camp-nou/noticia/3429599/ (SEC [S7], read 14 Nov 2026: Q13 verbatim "Quan al mes de maig acabi l'últim partit es començarà a instal·lar la cúpula"; 105,000 after summer 2028; no return date spoken)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 028 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+El equipo vuelve a jugar aquí desde noviembre de 2025, y los obreros nunca se fueron.
+
+Empiece por abajo. [pause] Las dos graderías inferiores que tiene delante son el estadio de 1957, conservado y renovado. Encima está la tercera gradería reconstruida: levantada, pero aún cerrada al público.
+
+Ahora mire arriba del todo, al anillo que da la vuelta completa. Ese anillo sostendrá los cables de la cubierta. Su última pieza se colocó en octubre de 2026. Ara, el diario catalán, cifra su longitud en ochocientos treinta metros.
+
+[amused] Esto es lo que nadie había previsto. Cuando los obreros abrieron la vieja segunda gradería, su hormigón necesitó más de tres mil trabajos de refuerzo. El plan preveía unos ochocientos. Casi cuatro veces más.
+
+Hoy caben en el estadio unas sesenta y dos mil personas.
+
+Desde el verano de 2027, se colocará la cubierta. El tesorero del club dijo, en catalán, que cuando acabe el último partido en mayo, empezarán a instalarla. Se montará sobre el césped y luego se izará a su sitio con cables. Así que el equipo volverá a dejar su casa unos meses, rumbo a Montjuïc, el estadio olímpico de la montaña. Cuando vuelva para siempre, el club prevé una capacidad de unos ciento cinco mil.
+
+Eche otro vistazo a las graderías: el viejo graderío abajo, el nuevo anillo encima, y cielo abierto donde irá la cubierta.
+
+Un estadio que se termina mientras se juega en él.
+
+Ahora busque los viejos banquillos del estadio, junto al mirador, y siéntese si hay sitio: Los viejos banquillos · Donde se sentaban los jugadores.

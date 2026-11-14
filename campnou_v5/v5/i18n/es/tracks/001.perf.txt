@@ -1,0 +1,30 @@
+@id: 001 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Outside the museum
+@room: Outside the museum · on Av. de Joan XXIII, by the long building with the ridged roof beside the round Palau Blaugrana, out of the way of its door
+@type: ANCHOR
+@title: Bienvenidos al Museo del Barça
+@where: Fuera, en la Avinguda de Joan XXIII, junto al edificio alargado del tejado acanalado que está al lado del redondo Palau Blaugrana. Deténgase sin estorbar la puerta del museo.
+@what: The honesty frame (F17.8 OK OFF: no stadium interior on this ticket; ROUTE §1.1 OFF-AJ); the museum's temporary home in the old ice rink (F16.11 OK OFF; F17.3) [RL]; what the visit gives: the trophies with all five men's European Cups (F11.10 OK OFF), the history, Messi's golden balls (F16.17 OK OFF), the round room (F16.13–16.14 OK OFF), the models, the viewpoint (F17.4 OK OFF); the route in one breath [RL] (ROUTE §0.3, O3); practical lines (headphones; "about an hour" ROUTE §1.1 OFF; the epilepsy and photosensitivity warning F16.19 OK OFF; offline, COMP §4.2-5); the three lengths as Lead's decision 1 words them; the forward pointer answered by 034.
+@listen: An honest welcome: what this ticket shows and what it doesn't, how the visit runs, and how long each version takes.
+@brief: A friendly local guide meeting visitors at the door, honest from the first sentence, brisk and clear through the practical lines, a small smile at the last thought.
+@pace: medium
+@energy: 3→3→3
+@sources: https://www.fcbarcelona.com/en/tickets/museum (OFF, read 14 Nov 2026: Museum ticket = "Museum + Digital Audio Guide" + "Construction Viewpoint"; pitch walk only on the separate Match Day Tour; no closure or move notice; still the Barça Immersive Tour) ; https://www.fcbarcelona.com/en/entradas/camp-nou-experience/visitas-museo-barca (OFF, read 14 Nov 2026: "temporarily moved to a spectacular 2,400 m² space"; Trophies "All the Champions League titles…"; Messi Zone "his Ballon d'Or awards and Golden Boots"; 360° Macro Room; Mirador de las Obras) ; https://www.fcbarcelona.com/en/card/3044593/immersive-tour-basic (OFF, read 14 Nov 2026: "all 2,400 m2 of the old ice rink"; ends in the 360º show; "not recommended for people with epilepsy and/or photosensitive people") ; ROUTE §1.1 practical-information page (OFF, via ROUTE: "The duration of the visit is 1h") ; F11.10 [O35] five European Cups (via FACTS) ; F17.4 [O50] viewpoint with old benches (via FACTS) ; COMP §4.2-5 offline (product feature, not a fact source)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 001 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Bienvenidos. Antes de nada, una palabra sincera sobre hoy. Esta entrada no le lleva dentro del estadio, el Spotify Camp Nou. No incluye césped, gradas ni vestuario. Verá el estadio desde fuera, y desde un mirador sobre las obras.
+
+Lo que sí tiene es el museo del club, en una sede provisional. El edificio alargado del tejado acanalado, junto al Palau Blaugrana, el pabellón redondo, era la antigua pista de hielo del club. El museo se mudó aquí mientras se reconstruye el estadio.
+
+Dentro, los trofeos, entre ellos las Copas de Europa masculinas. La historia del club, desde un anuncio clasificado en un periódico hasta el equipo femenino. Los balones de oro de Messi, y una sala redonda donde las paredes se vuelven un estadio. Después, las maquetas del estadio tal como será cuando esté terminado, y el mirador.
+
+Primero, una breve parada fuera. Luego, dentro, trofeos, historia del club y espacio de Messi, hasta la sala redonda y su espectáculo, y después maquetas, mirador y salida. En las versiones cortas se omiten algunas paradas.
+
+[pause] Auriculares, por favor. El club calcula la visita en cerca de una hora, y esta guía la alarga, para quien quiera las historias. El espectáculo de la sala redonda no se recomienda a personas con epilepsia o fotosensibilidad, y la guía lo repetirá a su entrada. Y la guía funciona sin conexión.
+
+El recorrido completo dura algo más de una hora y media, la versión esencial, cerca de una hora, y los imprescindibles, unos treinta y cinco minutos, trayectos y espectáculo de la sala redonda incluidos. Escuche las paradas en orden. Los números de su teléfono pueden saltar, pero cada parada le dice adónde ir después.
+
+[lightly] Una idea para llevar consigo. Es un club que se ha mudado de casa más de una vez.
+
+Ahora entre en el campus, alejándose de la avenida, hasta ver el estadio por encima de los edificios bajos: El campus · 909 días fuera.

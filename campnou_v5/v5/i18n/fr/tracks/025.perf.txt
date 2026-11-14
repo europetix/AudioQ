@@ -1,6 +1,6 @@
 @id: 025 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The round room
-@room: The round room · just outside it, or inside once the show ends, out of the way [O11]
+@room: The round room · just outside it, or inside once the show ends, out of the way
 @type: R
 @title: La salle ronde · Après le spectacle : le premier stade comble
 @where: Juste à l'extérieur de la salle ronde, ou à l'intérieur une fois le spectacle terminé, à l'écart des allées et venues.

@@ -1,0 +1,26 @@
+@id: 032 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The viewpoint
+@room: The old benches · same place
+@type: X
+@title: Los viejos banquillos · Extra · Tres mil quinientas voces
+@where: Todavía en los viejos banquillos del mirador, o en cualquier lugar tranquilo cercano. Las últimas frases necesitan el graderío a la vista.
+@what: The Cant del Barça first performed at the stadium on 27 Nov 1974 for the 75th anniversary; words by Jaume Picas and Josep Maria Espinàs, music by Manuel Valls (F3.13 OK OFF [O22], [O21]); some three and a half thousand singers from 78 choirs, conducted by Oriol Martorell (F3.14 HEDGE, safe wording; [O22]); the same evening, songs banned under Franco, the Cant de la Senyera sung there for the first time (F3.16 HEDGE OFF, re-checked on [O22]); a year before Franco died (F4.26 OK OFF [O20]); the board of those years put Catalan back on the stadium's public address (F3.22 OK OFF [O20]); what the song says, in our words (Lead's decision 17); no lyrics.
+@listen: The night the club's anthem was first sung in the stadium, and the songs that came back with it.
+@brief: Sitting beside a friend, telling a moving night simply; quiet pride, no politics of our own, ending with an invitation to imagine the sound.
+@pace: medium-slow
+@energy: 2→3→3
+@sources: https://www.fcbarcelona.com/en/news/1117044/40-years-since-release-of-cant-del-barca (OFF [O22], read 14 Nov 2026: "first performed on November 27, 1974 at the Camp Nou"; "lyrics by Jaume Picas and Josep Maria Espinàs and music by Manuel Valls Gorina"; "3,500 voices… conducted by maestro Oriol Martorell"; "78 choral groups"; "the first performance ever at the Camp Nou of the 'Cant de la Senyera'", banned for years; no lyrics quoted) ; https://www.fcbarcelona.com/en/news/1974331/opening-up-and-the-fight-for-democracy-1952-1977 (OFF [O20], read 14 Nov 2026: Catalan re-established in official documents, membership cards and the stadium PA; Franco died 20 November 1975; anthem selected for the 75th anniversary) ; singers given as "some three and a half thousand" (3,500 vs 3,600 conflict, F18.34) ; no lyric line (Lead's decision 17; lint)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 032 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] En noviembre de 1974, el club cumplió setenta y cinco años. El día 27, para celebrarlo, se cantó por primera vez en este estadio un nuevo himno: el Cant del Barça, la Canción del Barça.
+
+La letra era de dos escritores, Jaume Picas y Josep Maria Espinàs, y la música de Manuel Valls. Unos tres mil quinientos coristas de setenta y ocho coros se reunieron en el césped para cantarlo. Dirigió Oriol Martorell.
+
+[pause] No cantaron solo eso. Esa misma tarde, según recuerda el club, el estadio oyó canciones que habían estado prohibidas con Franco. Una era el Cant de la Senyera, que sonaba allí por primera vez.
+
+Faltaba un año para la muerte de Franco. En esos años, la junta devolvió el catalán a la megafonía del estadio.
+
+La propia canción, en catalán, dice que no importa de dónde se venga. Mire el graderío que tiene delante, e imagínelo lleno, cantándola.
+
+Quédese donde está para la última historia, sobre dos jugadores a los que la afición rival aplaudió en pie: Los viejos banquillos · Extra · Nueve días antes.

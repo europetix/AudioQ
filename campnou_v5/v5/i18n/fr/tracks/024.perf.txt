@@ -1,6 +1,6 @@
 @id: 024 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The round room
-@room: The round room · at its way in, out of the flow, before going in [O11]
+@room: The round room · at its way in, out of the flow, before going in
 @type: R
 @title: La salle ronde · Avant le spectacle
 @where: À l'entrée de la salle ronde aux écrans, où se termine l'exposition, sur le côté, à l'écart du passage, avant d'entrer.

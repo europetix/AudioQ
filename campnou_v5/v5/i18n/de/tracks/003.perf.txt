@@ -1,6 +1,6 @@
 @id: 003 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it [O1]
+@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it
 @type: R
 @title: Vor dem Museum · Ein Museum in der alten Eishalle
 @where: Nahe der Museumstür, aber abseits der Eintretenden, das lange Gebäude mit dem gerippten Dach vor sich und daneben den runden Palau Blaugrana.

@@ -1,0 +1,10 @@
+001 E>006: En esta versión corta, vaya en cambio directamente a la puerta del museo. Entre, pase el control de entradas, y deténgase en el vestíbulo, sin estorbar a quienes entran: El vestíbulo · De debajo de la tribuna a una pista de hielo.
+001 H>008: En esta versión corta, entre directamente en el museo, por el control de entradas, hasta los trofeos. Busque las grandes Copas de Europa plateadas, los trofeos altos de asas grandes, y deténgase donde las vea: Las Copas de Europa · A la tercera va la vencida.
+006 E>008: En esta versión corta, siga hasta los trofeos, directamente a las grandes Copas de Europa plateadas, los trofeos altos de asas grandes. Deténgase donde las vea: Las Copas de Europa · A la tercera va la vencida.
+009 E>011: En esta versión corta, deje las Copas de Europa y busque los trofeos femeninos, con las suyas propias: Los trofeos femeninos · De un partido navideño a 91648.
+012 E>014: En esta versión corta, siga hacia la historia del club, y busque el espacio dedicado a Johan Cruyff. Deténgase donde pueda verlo: La muestra de Cruyff · El entrenador que cambió el club.
+022 H>024: En esta versión corta, siga en cambio hasta la sala redonda de las pantallas, donde termina la exposición. Deténgase en su entrada, antes de pasar: La sala redonda · Antes del espectáculo.
+024 E>026: En esta versión corta, cuando termine el espectáculo, salga de la sala y siga hasta las maquetas del estadio terminado: Las maquetas · El estadio cuando esté terminado.
+024 H>028: En esta versión corta, cuando termine el espectáculo, salga de la sala y siga hasta el mirador sobre las obras, y busque un sitio en la barandilla: El mirador · Lo que tiene delante.
+028 H>034: En esta versión corta, quédese en la barandilla todo lo que quiera, y cuando esté listo, siga las señales de salida: La salida · Un club que siempre vuelve a casa.
+008 H>022: En esta versión corta, siga por el museo hasta el espacio de Messi, y deténgase donde vea sus balones de oro: El espacio de Messi · Seis ganados aquí, ocho expuestos.

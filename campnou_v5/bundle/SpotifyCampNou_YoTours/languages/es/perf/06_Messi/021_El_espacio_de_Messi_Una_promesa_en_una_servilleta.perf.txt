@@ -1,0 +1,28 @@
+@id: 021 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Messi's space
+@room: Messi's space · at its way in, out of the flow
+@type: W
+@title: El espacio de Messi · Una promesa en una servilleta
+@where: En la entrada del espacio de Messi, la sala de sus balones de oro, a un lado, fuera del paso de los visitantes.
+@what: A thirteen-year-old from Rosario with a hormone deficiency that held back his growth; no club would guarantee the treatment (F10.6 OK SEC, gentle, no figures); the trial in September 2000 and Rexach's walk round the pitch, three or four minutes that took fifteen (AU298 fix, AU-S75 SEC, his account); "Sign him. Don't even think about it" to the coaches beside him (AU §3.9, AU-S75, re-checked); the napkin of 14 December 2000 at a tennis club, the story goes (F10.1 OK SEC; F10.2 HEDGE), "under his sole responsibility" (re-checked, Ara's English), Minguella and Gaggioli as witnesses, a moral promise, not a contract (F10.3 OK SEC); sold at auction in 2024, not in this museum (F10.4 HEDGE SEC; F10.5; lint two-sentence form); at thirteen he crossed the Atlantic and joined the under-14s (F10.7 OK OFF). Ending: a promise on a napkin, kept.
+@listen: How a boy from Rosario was promised a future at Barça on a paper napkin, and why the napkin isn't here.
+@brief: A friend telling the best-known signing story in the club's history, curious at first, amused by the walk, then letting the promise land plainly.
+@pace: medium
+@energy: 2→4→3
+@sources: https://en.ara.cat/sports/hundreds-of-thousands-of-euros-for-napkin-auctioned-in-london-that-messi-doesn-t-want-to-know-anything-about_130_5031131.html (SEC [S13], re-read 14 Nov 2026: napkin text in English, "Carles Rexach, technical secretary of the FCB, undertakes under his sole responsibility and despite some contrary opinions to sign the player Lionel Messi"; 14 December 2000; Minguella and Horacio Gaggioli; "supposedly" signed at the Reial Societat de Tenis Pompeia; a moral commitment with no legal validity; the club said it would not bid) ; https://www.teletica.com/bbc-news-mundo/muerte-de-jorge-messi-la-servilleta-que-cambio-la-historia-de-messi-y-el-barcelona_415118 (SEC [S14], BBC News Mundo, re-read: at 13 a hormone deficiency that hindered his growth; none of the clubs consulted could guarantee to cover the therapy; 52 words in blue ink; sold by Bonhams in 2024; nothing used from the article's main subject) ; https://global.espn.com/football/story/_/id/37609629/oral-history-transfer-arranged-20-years-ago (SEC AU-S75, re-read: trial 16–30 Sept 2000; Rexach: "a walk of three to four minutes" "took me 15 minutes"; Messi "the smallest on the pitch by a long way"; Rexach to the two coaches on the bench: "Sign him. Don't even think about it."; the napkin asked of a waiter at the Pompeya tennis club) ; https://fcbarcelona.com/en/news/2214377/leo-messi/amp (OFF [O44], re-read: "At the age of 13, Lionel Messi crossed the Atlantic to try his luck in Barcelona, and joined the Under 14s")
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 021 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[curious] En el año 2000, un chico de trece años de Rosario, en Argentina, tenía un problema. Tenía un déficit hormonal que frenaba su crecimiento, y necesitaba tratamiento. Ninguno de los clubes que se fijaron en él garantizaba pagarlo.
+
+Ese septiembre vino a Barcelona a hacer una prueba. Charly Rexach, el secretario técnico del club, fue a verlo. [amused] Una vuelta al campo que debía durar tres o cuatro minutos le llevó quince, porque no podía dejar de mirar al más pequeño de todos. Según cuenta Rexach a ESPN, se volvió a los dos entrenadores que tenía al lado y dijo: «Fichadlo. Ni lo penséis».
+
+El fichaje llevó semanas de negociaciones.
+
+[pause] El 14 de diciembre, Rexach se reunió con el agente del chico, Horacio Gaggioli, y Josep Maria Minguella, que había ayudado a traerlo, en un club de tenis de la ciudad, según se cuenta. Pidió una servilleta de papel a un camarero y escribió en ella. En pocas líneas, el secretario técnico del FC Barcelona se comprometía, bajo su única responsabilidad y pese a algunas opiniones en contra, a fichar al jugador Lionel Messi. Los dos fueron sus testigos.
+
+Era una promesa moral, no un contrato. Pero se cumplió. Con trece años, Messi cruzó el Atlántico y entró en el infantil del club.
+
+La propia servilleta se vendió en una subasta en 2024. No la encontrará en este museo. Lo que sí encontrará es lo que vino después.
+
+Ahora pase al espacio de Messi, y deténgase donde pueda ver sus balones de oro: El espacio de Messi · Seis ganados aquí, ocho expuestos.

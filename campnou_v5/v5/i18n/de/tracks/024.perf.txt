@@ -1,6 +1,6 @@
 @id: 024 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The round room
-@room: The round room · at its way in, out of the flow, before going in [O11]
+@room: The round room · at its way in, out of the flow, before going in
 @type: R
 @title: Der runde Saal · Vor der Show
 @where: Am Eingang zum runden Saal mit den Bildschirmen, wo die Ausstellung endet, seitlich und abseits des Stroms, bevor Sie hineingehen.

@@ -1,9 +1,9 @@
 @id: 019 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · same place [O15]
+@room: A quiet corner · same place
 @type: W
 @title: A quiet corner · Extra · The president who never came back
-@where: The same bench or quiet corner, sitting or leaning out of the flow; nothing needs to be in view. [O15]
+@where: The same bench or quiet corner, sitting or leaning out of the flow; nothing needs to be in view.
 @what: 6 August 1936, three weeks into the Civil War: Josep Sunyol drove from Madrid to the Guadarrama front to visit Republican troops, crossed the front line near the Alto del León pass into Nationalist-held ground, was identified and shot without trial (F4.11 OK OFF); with a journalist, a militia lieutenant and their driver (F4.12 OK OFF); born Barcelona 1898, elected by acclamation in 1935 (F4.9; Lead's decision 6: "in 1935"), owner of the weekly La Rambla, which spread the motto "sport and citizenship" (F4.10 OK OFF), a leader of Esquerra Republicana de Catalunya, member of the Spanish parliament (F4.9 OK OFF [O17]); Barcelona did not know for about a week, remains never found despite searches in 2010 and 2022 (F4.13 OK OFF); "absent president" from late 1937 (F4.14 OK OFF); "shot by Franco's troops", once (F4.15); the 1996 plaque at Guadarrama and the club's flowers on 6 Aug 2026 (F4.16 OK OFF, DATED). The presidential box: CUT (no second source in FACTS_GAPS; Lead's decision 6 and decisions after FACTS_GAPS). Ending: his motto (FACTS §22 Sunyol).
 @listen: The club president who drove to the front in the first weeks of the Civil War and was never seen again, and the motto he left behind.
 @brief: A friend telling a hard story plainly and quietly, no adjectives, no side taken; steady to the end, where the motto is given its moment.

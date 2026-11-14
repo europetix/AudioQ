@@ -1,6 +1,6 @@
 @id: 007 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The trophies
-@room: The wall of trophies · where you can see it whole [O16]
+@room: The wall of trophies · where you can see it whole
 @type: R
 @title: Le mur des trophées · Par où commencer
 @where: Au mur des trophées, un pas en arrière, d'où vous voyez toute la présentation d'un seul coup d'œil.

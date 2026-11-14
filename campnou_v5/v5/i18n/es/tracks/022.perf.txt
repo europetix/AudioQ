@@ -1,0 +1,30 @@
+@id: 022 · ES · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Messi's space
+@room: Messi's space · where the golden balls are in view
+@type: W
+@title: El espacio de Messi · Seis ganados aquí, ocho expuestos
+@where: Dentro del espacio de Messi, donde pueda ver su fila de balones de oro y, a su lado, las Botas de Oro.
+@what: Six Ballons d'Or won as a Barça player, 2009, 2010, 2011, 2012, 2015, 2019; eight in all (F10.16 OK OFF; F18.8); version-neutral "He came from Rosario as a boy and played here until 2021" (H skips 021, 023); the Ballon d'Or glossed once; the museum shows all eight, the eighth his gift in 2024 (F10.17 HEDGE SEC: never "originals"); six European Golden Shoes (F10.13 OK OFF; F16.17 OK OFF: the Golden Boots shown); 672 goals in 778 matches, more than Pelé's 643 for Santos (F10.9, F10.11 OK OFF); 91 goals in 2012, beating Gerd Müller's 1972 (F10.13); thirty-five major trophies (F10.10); Q14 attributed (OFF [O3]); the club's count of twelve men's Ballons d'Or, from Luis Suárez, the first Spanish-born winner, in 1960 (GAPS G67–G69; Lead's decisions after FACTS_GAPS; past tense), level with Real Madrid by the club's count (F12.7 OK OFF [O36]). Payoff.
+@listen: Messi's golden balls, which six of them he won in Barça's colours, and the numbers behind them.
+@brief: A friend standing at the glass with you, counting gold and enjoying it; precise about the six and the eight, generous about Real Madrid, a smile on the payoff.
+@pace: medium
+@energy: 3→4→4
+@sources: https://fcbarcelona.com/en/news/2214377/leo-messi/amp (OFF [O44], re-read 14 Nov 2026: "6 Ballons d'Or (2009, 2010, 2011, 2012, 2015, 2019)"; "91 goals in a calendar year, beating Gerd Müller's record from 1972"; "six times Golden Shoe winner"; 778 appearances, 672 goals, 35 trophies) ; https://www.fcbarcelona.com/en/news/2070529/leo-messi-fc-barcelonas-historic-record-breaker (OFF [O45], re-read: 672 goals "surpassing the 643 that Pelé scored with Santos"; 35 titles; "He scored 91 official goals in 2012") ; https://www.fcbarcelona.com/en/news/4367951/fc-barcelona-dor (OFF [O36], re-read: "12 Ballon d'Ors, tied with Real Madrid (also 12)"; list opens with Luis Suárez (1960)) ; https://beteve.cat/esports/ultim-gest-amor-leo-messi-barca-donacio-museu/ (SEC [S16], re-read: he gave his eighth Ballon d'Or to the club's museum, Feb 2024; "totes les Pilotes d'Or … descansen a Barcelona"; nothing on originals) ; https://www.fcbarcelona.com/en/entradas/camp-nou-experience/visitas-museo-barca (OFF [O3], re-read: Messi Zone "A must-see space dedicated to the best player in our history, featuring his Ballon d'Or awards and Golden Boots") ; Luis Suárez Miramontes "first Spanish-born winner", died 2023: research/FACTS_GAPS_NOV2026.md G67–G69 (SEC, not re-read by me)
+@lang: es
+@translation: from the fact-checked English Barcelona Cathedral 022 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+Seis de estos balones de oro los ganó como jugador del Barça: en 2009, 2010, 2011 y 2012, y luego en 2015 y 2019. Ganó ocho en total. Los dos últimos, después de irse. Llegó de niño desde Rosario y jugó aquí hasta 2021.
+
+El Ballon d'Or, el balón de oro, es el premio individual más conocido del fútbol. Este museo expone sus ocho. El octavo, de 2023, llegó en 2024 como regalo suyo, junto a los demás.
+
+[lightly] Cuéntelos, si ve toda la fila. A su lado, sus Botas de Oro. También ganó seis veces la Bota de Oro europea.
+
+Luego están las cifras. Seiscientos setenta y dos goles con este club: más de los que Pelé marcó con el Santos, y el récord de goles con un solo club. Solo en 2012 marcó noventa y uno, batiendo el récord de un año natural que Gerd Müller tenía desde 1972. Y ganó aquí treinta y cinco grandes títulos.
+
+La página del club sobre este espacio lo llama «el mejor jugador de nuestra historia».
+
+[warmly] Y forma parte de una saga más larga. Según el club, los jugadores del Barça han ganado doce Ballons d'Or masculinos. El primero, Luis Suárez, que en 1960 fue el primer ganador nacido en España. Los seis últimos, de Messi. Y doce, apunta el club, son justo los del Real Madrid.
+
+[pause] Seis ganados con estos colores. Ocho en la vitrina.
+
+Quédese en el espacio de Messi para saber cómo acabó su etapa aquí y quién lleva hoy su número: El espacio de Messi · El chico de Rosario.

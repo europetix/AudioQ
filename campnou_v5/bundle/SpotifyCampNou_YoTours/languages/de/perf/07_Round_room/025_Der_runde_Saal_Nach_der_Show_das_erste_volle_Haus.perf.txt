@@ -1,0 +1,28 @@
+@id: 025 · DE · FC Barcelona Museum · 14 Nov 2026 edition
+@section: The round room
+@room: The round room · just outside it, or inside once the show ends, out of the way
+@type: R
+@title: Der runde Saal · Nach der Show: das erste volle Haus
+@where: Gleich vor dem runden Saal, oder drinnen, wenn die Show vorbei ist, abseits der Kommenden und Gehenden.
+@what: The show's official framing only (F16.14: at the centre of the stadium); 24 September 1957, La Mercè, the city's feast day: opening day (F5.15 OK OFF [O25]); morning Mass, a statue of the Virgin of Montserrat, Handel's Hallelujah, only about half the seats filled (O25 re-read); afternoon packed, a parade of Catalan clubs with Espanyol at the back, sardanas, about eleven thousand white doves (F5.15); the Spanish flag raised and the national anthem, the stadium standing: Franco's Spain (F5.16 OK OFF, even-handed); 4–2 v a team billed as a Warsaw eleven (F5.17; F18.13: never "Legia"); more than ninety thousand, works unfinished (F5.18; F5.19 safe wording); first goal after eleven minutes, Eulogio Martínez (F5.17 OK OFF [O26]); optional: Eulogio first to score five in a game there, 1960 (GAPS G96 OK OFF, one G detail on a person the track covers). Ending: the first goal in a stadium that would see thousands (no number).
+@listen: The day the stadium opened in 1957: a Mass, eleven thousand doves, the flag and anthem of the day, and the first goal.
+@brief: A friend stepping out of the show with you, still a little dazzled, telling the opening day like a family photo album; warm, honest about the politics of the day, bright at the goal.
+@pace: medium
+@energy: 3→4→3
+@sources: https://www.fcbarcelona.com/en/news/742737/24-september-1957-the-day-the-camp-nou-dream-came-true-at-last/amp (OFF [O25], re-read 14 Nov 2026: morning Mass presided by the archbishop, a large statue of the Virgin of Montserrat, Handel's Hallelujah, only about half the seats filled; afternoon packed; parade of Catalan clubs with RCD Espanyol at the back; esbart and sardana dances; about 11,000 white doves; the Spanish flag raised, the stadium stood for the national anthem; 4–2 v a "Warsaw XI", not Legia itself; scorers Eulogio Martínez, Tejada, Sampedro, Evaristo) ; https://www.fcbarcelona.com/en/club/facilities/spotify-camp-nou/history (OFF [O26], re-read: "more than 90,000 spectators"; "Although work on the stadium was not yet complete"; Eulogio Martínez's "11th minute strike was the first goal ever at the Camp Nou"; capacity 93,053 not used, F5.19) ; https://www.fcbarcelona.com/en/card/3828009/exploring-spaces-the-new-museum (OFF [O6], re-read: the show places you "at the center of the stadium") ; Eulogio's five goals v Las Palmas, 1960: research/FACTS_GAPS_NOV2026.md G96 (OFF [GO35], not re-read by me)
+@lang: de
+@translation: from the fact-checked English Barcelona Cathedral 025 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[warmly] Zum ersten Mal voll war das Camp Nou an seinem Eröffnungstag, dem vierundzwanzigsten September 1957. Es war La Mercè, der Festtag der Stadt.
+
+Der Vormittag war feierlich. Der Erzbischof las die Messe vor einer großen Statue der Jungfrau von Montserrat, und Händels Halleluja wurde aufgeführt. Nur etwa die Hälfte der Plätze war besetzt.
+
+Am Nachmittag war es brechend voll. Die großen katalanischen Clubs paradierten um das Spielfeld, mit Espanyol, dem anderen Club der Stadt, am Schluss. Es gab Sardanas, den katalanischen Kreistanz. [pause] Und etwa elftausend weiße Tauben wurden in den Himmel gelassen.
+
+Die Zeremonie endete damit, dass die spanische Flagge gehisst und die Nationalhymne gespielt wurde, und das ganze Stadion stand. Das war Francos Spanien, und auch das gehörte zu diesem Tag.
+
+Dann kam der Fußball. Barça spielte gegen eine Mannschaft, die als Warschauer Auswahl angekündigt war, und gewann vier zu zwei. Mehr als neunzigtausend Menschen sahen zu, obwohl die Arbeiten nicht abgeschlossen waren. [lightly] Das erste Tor im neuen Stadion fiel nach elf Minuten, durch Eulogio Martínez.
+
+Sein Tor an jenem Abend war das erste von Tausenden in jenem Stadionrund.
+
+Folgen Sie jetzt dem Weg aus dem Saal hinaus zu den Modellen des fertigen Stadions: Die Modelle · Das Stadion, wenn es fertig ist.

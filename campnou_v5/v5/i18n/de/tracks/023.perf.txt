@@ -1,6 +1,6 @@
 @id: 023 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Messi's space
-@room: Messi's space · same place, or by his shirts if shown [O19]
+@room: Messi's space · same place, or by his shirts if shown
 @type: W
 @title: Der Messi-Bereich · Der Junge aus Rosario
 @where: Noch im Messi-Bereich, bei den Goldenen Bällen oder, falls sie gezeigt werden, bei seinen Trikots, abseits des Besucherstroms.

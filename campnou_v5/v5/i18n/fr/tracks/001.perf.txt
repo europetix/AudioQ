@@ -1,6 +1,6 @@
 @id: 001 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · on Av. de Joan XXIII, by the long building with the ridged roof beside the round Palau Blaugrana, out of the way of its door [O1, O14]
+@room: Outside the museum · on Av. de Joan XXIII, by the long building with the ridged roof beside the round Palau Blaugrana, out of the way of its door
 @type: ANCHOR
 @title: Bienvenue au musée du Barça
 @where: Dehors, sur l'Avinguda de Joan XXIII, près du long bâtiment au toit strié qui se dresse à côté du Palau Blaugrana, le pavillon rond. Arrêtez-vous à l'écart de la porte du musée.

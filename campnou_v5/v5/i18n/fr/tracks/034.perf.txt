@@ -1,6 +1,6 @@
 @id: 034 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The way out
-@room: The way out · at the exit, or just outside it, out of the way [O7]
+@room: The way out · at the exit, or just outside it, out of the way
 @type: CLOSE
 @title: La sortie · Un club qui revient toujours chez lui
 @where: À la sortie de la visite, ou juste après, à l'écart des personnes qui sortent. Si la sortie repasse par le belvédère, écoutez cet arrêt là, avant de partir.

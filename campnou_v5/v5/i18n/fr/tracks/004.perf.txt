@@ -1,6 +1,6 @@
 @id: 004 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · by the door or in the queue; needs no view [O1]
+@room: Outside the museum · by the door or in the queue; needs no view
 @type: W
 @title: Devant le musée · Extra · L'annonce aux deux fautes d'orthographe
 @where: Près de la porte du musée, ou dans la file du contrôle des billets s'il y en a une. Rien à regarder.

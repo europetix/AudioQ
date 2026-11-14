@@ -1,6 +1,6 @@
 @id: 020 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: More stories inside
-@room: A quiet corner · same place [O15]
+@room: A quiet corner · same place
 @type: W
 @title: Eine ruhige Ecke · Extra · Elf zu eins
 @where: Dieselbe ruhige Ecke oder Bank wie bei den letzten Geschichten, weg von den Bildschirmen. Nichts anzusehen.

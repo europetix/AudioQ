@@ -1,6 +1,6 @@
 @id: 022 · DE · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Messi's space
-@room: Messi's space · where the golden balls are in view [O19]
+@room: Messi's space · where the golden balls are in view
 @type: W
 @title: Der Messi-Bereich · Sechs hier gewonnen, acht ausgestellt
 @where: Im Messi-Bereich, dort, wo Sie seine Reihe Goldener Bälle und daneben die Goldenen Schuhe sehen.

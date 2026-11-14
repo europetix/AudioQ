@@ -1,0 +1,26 @@
+@id: 005 · FR · FC Barcelona Museum · 14 Nov 2026 edition
+@section: Outside the museum
+@room: Outside the museum · same spot; needs no view until the last lines
+@type: X
+@title: Devant le musée · Extra · Les couleurs que personne n'a notées
+@where: Au même endroit près de la porte du musée, ou toujours dans la file. Rien à regarder avant les dernières phrases.
+@what: The first shirt half blue, half claret, sleeves the other way round (F3.1 OK OFF [O11]); the 1899 board minutes give no reason (F3.5 OK SEC [S6]); the club's "most likely" theory, the Merchant Taylors' School rugby kit, via the Witty brothers (F3.2 HEDGE OFF, safe wording); the Basel story as a legend, the club leaning to the school (F3.3 LEGEND); Roger Vinton: Basel plays in blue and red (F3.3 SEC [S6]); the first badge = the city's arms with a crown and a bat (F3.6 OK OFF [O19]); [RL] the oldest shirts inside (O18).
+@listen: Where Barça's blue and claret came from, and why nobody can say for sure.
+@brief: Passing the time in the queue with a good puzzle; amused, a little conspiratorial about the legend, lightly fond at the end.
+@pace: medium
+@energy: 2→3→3
+@sources: https://barcaacademy.fcbarcelona.com/en/news/643865/1899-1909-foundation-and-survival (OFF, read 14 Nov 2026: "half the shirt was blue and the other claret, the sleeves were opposite colours"; "The most likely theory … the kit worn by the rugby team" of "Merchant Taylors' school where the Witty brothers" studied, "two of the first members of the Club"; first badge = the city's) ; https://arxiu.fcbarcelona.cat/web/english/club/historia/simbols/escut.html (OFF, read 14 Nov 2026: first badge "the coat of arms of the city of Barcelona", "a crown and a bat on top") ; https://es.ara.cat/deportes/fc-barcelona/masoneria-homofobia-nuevas-teorias-origenes-barca_130_5052026.html (SEC, read 14 Nov 2026: Brunet, the minutes give the colours "sin dar ninguna justificación"; Vinton, a pen name, author of La telaraña azulgrana: Basel wears blue and red; official sources say Witty proposed the colours)
+@lang: fr
+@translation: from the fact-checked English Barcelona Cathedral 005 (14 Nov 2026 edition); facts unchanged; formal address; adapted for listening (short sentences, extra pauses)
+---
+[amused] Le tout premier maillot du Barça était coupé en deux. Moitié bleu, moitié grenat, avec les manches inversées. Blaugrana, bleu et grenat.
+
+[pause] Et personne n'a noté pourquoi. Les procès-verbaux du conseil de 1899 consignent les couleurs, rapporte Ara, le journal catalan, sans un seul mot d'explication.
+
+Pour les pages d'histoire du club, l'hypothèse la plus probable est un maillot de rugby d'école anglaise : celui de la Merchant Taylors' School, où les frères Witty, deux des premiers membres du club, avaient étudié.
+
+[conspiratorial] Selon une autre histoire, le fondateur, Joan Gamper, aurait apporté les couleurs de son ancien club suisse, Bâle. Le club, lui, penche pour l'école anglaise.
+
+[lightly] Même le premier écusson n'appartenait pas au club. C'étaient les armoiries de la ville, avec une couronne et une petite chauve-souris perchée au sommet.
+
+À l'intérieur, cherchez le bleu et le grenat sur les plus anciens maillots. Pour l'instant, entrez par la porte du musée, passez le contrôle des billets, et arrêtez-vous dans le hall d'entrée, à l'écart des personnes qui entrent : Le hall d'entrée · De sous la tribune à une patinoire.

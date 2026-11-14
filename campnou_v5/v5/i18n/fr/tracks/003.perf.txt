@@ -1,6 +1,6 @@
 @id: 003 · FR · FC Barcelona Museum · 14 Nov 2026 edition
 @section: Outside the museum
-@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it [O1]
+@room: Outside the museum · near its door, out of the way, with the round Palau Blaugrana beside it
 @type: R
 @title: Devant le musée · Un musée dans l'ancienne patinoire
 @where: Près de la porte du musée, mais à l'écart des personnes qui entrent, face au long bâtiment au toit strié, avec à côté le Palau Blaugrana, le pavillon rond.

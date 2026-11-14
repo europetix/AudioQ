@@ -1,9 +1,9 @@
 @id: 024 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The round room
-@room: The round room · at its way in, out of the flow, before going in [O11]
+@room: The round room · at its way in, out of the flow, before going in
 @type: R
 @title: The round room · Before the show
-@where: At the way in to the round room with the screens, where the exhibition ends, standing to one side out of the flow, before you go in. [O11]
+@where: At the way in to the round room with the screens, where the exhibition ends, standing to one side out of the flow, before you go in.
 @what: The club's warning first: the immersive room is not recommended for people with epilepsy or photosensitivity; the club asks them to tell the tour staff, who will guide them (F16.19 OK OFF [O58]; OFF accessibility page re-read); the show has its own sound: stop this guide while it plays (decision 5); the official description only: a double-height round room, its walls one screen, 78 m long and 6 m high (F16.13 OK OFF [O4]); the club calls it the largest immersive room in a sports museum in Europe (F16.12, attributed); the show is called Spotify Camp Nou Live and places you at the centre of the stadium; the exhibition culminates here (F16.14 OK OFF [O6], [O58]). Nothing on the show's content or length (O11).
 @listen: The club's one warning for the round room, what the room is, and when to stop and restart this guide.
 @brief: A calm, considerate friend at a doorway: the safety line first and clearly, then a short, plain description, no hype; easy and practical at the end.

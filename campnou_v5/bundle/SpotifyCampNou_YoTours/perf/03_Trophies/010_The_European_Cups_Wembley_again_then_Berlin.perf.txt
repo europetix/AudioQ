@@ -1,9 +1,9 @@
 @id: 010 · FC Barcelona Museum · 14 Nov 2026 edition
 @section: The trophies
-@room: The European Cups · at the 2011 and 2015 cups [O16]
+@room: The European Cups · at the 2011 and 2015 cups
 @type: W
 @title: The European Cups · Wembley again, then Berlin
-@where: Still at the big silver European Cups, in front of the cups from 2011 and 2015 if they are labelled or in order. [O16, ALT-O16]
+@where: Still at the big silver European Cups, in front of the cups from 2011 and 2015 if they are labelled or in order.
 @what: Wembley 2011: Eric Abidal, back from serious illness, lifted the cup (F8.14 OK OFF [O41]; gentle, no medical detail); 3–1 v Manchester United (F11.8 OK OFF); Berlin, 6 June 2015: 3–1 v Juventus, Rakitić early, Morata's equaliser, Luis Suárez, Neymar at the very end; coach Luis Enrique in his first season; the club's second treble (F11.9 OK SEC [S11]); the black cat at Luis Enrique's first game in charge, the treble that season (G98 OK OFF light; optional, Lead's G decision: one G detail where the track covers the person); Xavi lifted it as captain in his last match (F8.13 OK SEC [S11]); seventeen consecutive seasons played, the same run as Rexach's, later matched by Messi (club 1846462, re-read 14 Nov 2026 by the fixer: "equals the run of Xavi Hernández between 1998 and 2015 and that of Charly Rexach from 1965 to 1981"; "Neither Xavi nor Rexach can boast of scoring in each of their seasons"; no "club record" wording on the page; FACTS 8.11's "scored" is wrong: audit FA M2); [RL] the 2011 and 2015 cups; payoff "Four European Cups in ten years" (FACTS §22; Catalan News "fourth in the last 10 years").
 @listen: Two more European Cups: the comeback of a defender at Wembley, and a captain's last match in Berlin.
 @brief: Telling two happy endings with real warmth; gentle at Abidal, quicker through Berlin, a grin at the cat, settled pride at the end.
@@ -19,7 +19,7 @@ Four years later, the final was in Berlin, at the Olympiastadion, on the sixth o
 
 The coach was Luis Enrique, in his first season in charge, and the cup completed the club's second treble. [amused] The club still likes to recall that a black cat turned up at his very first game. So much for bad luck.
 
-The captain who lifted the cup in Berlin was Xavi. By then he had played seventeen seasons in a row for the first team, the same run as Charly Rexach's. Messi later matched them both. [pause] His last game, and his last trophy in these colours.
+The captain who lifted the cup in Berlin was Xavi. By then he had played seventeen seasons in a row for the first team, the same run as Charly Rexach's. Messi later matched them both. [pause] For Xavi, it was his last game, and his last trophy in these colours.
 
 Now look at these two cups, from 2011 and 2015, the last of the five so far.
 
