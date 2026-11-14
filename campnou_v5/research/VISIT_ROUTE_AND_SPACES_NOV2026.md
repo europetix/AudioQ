@@ -1,11 +1,9 @@
 # Spotify Camp Nou / FC Barcelona Museum: visitor route, spaces and status (research as of 14 Nov 2026)
 
 Prepared for: Yo Tours audio guide (campnou_v5). Researcher: route-and-spaces subagent, 14 Nov 2026.
-Status: IN PROGRESS (saved progressively).
+@@BODY@@
 
 ## Appendix A. Raw graded notes (in fetch order)
-
-## Appendix B. Fetch log (including failures)
 
 ### A.1 Official ticket and practical pages (fetched 14 Nov 2026)
 - OFF `fcbarcelona.com/en/tickets/museum` (14 Nov 2026): products: Museum; Museum Flexible ("Valid until 02/28/2027"); Barçabus Experience; Players Experience - Training City; Match Day Tour Spotify Camp Nou (next sessions "12/02 (Atlético de Madrid) | 12/08 (Manchester City)"); Total Experience Museum (adds "Robokeeper 3 goals" and "Barça Virtual Dream"); Spotify Camp Nou Experience ("Panoramic view at Spotify Camp Nou"; sessions CA/ES/EN); Barça Sky Tour. **Museum ticket = "Museum + Digital Audio Guide" + "Construction Viewpoint".** Match Day Tour includes "Walk on the pitch". The page still uses "Barça Immersive Tour" in its planning/FAQ sections. No entrance, route, map.
