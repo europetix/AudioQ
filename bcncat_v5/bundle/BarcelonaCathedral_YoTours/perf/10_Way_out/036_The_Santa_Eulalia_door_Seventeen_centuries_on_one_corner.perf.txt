@@ -1,0 +1,30 @@
+@id: 036 · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The way out
+@room: The Santa Eulàlia door · just inside the cloister's street door, out of the way [O1, O23]
+@type: CLOSE
+@title: The Santa Eulàlia door — Seventeen centuries on one corner
+@where: Just inside the Santa Eulàlia door, the cloister's door to Carrer del Bisbe, standing to one side so people can pass in and out. [O1, O23]
+@what: Version-neutral recap (H skips 002, 021, 027): more than 1,700 years of history (F1.18, O6 re-read: "history", not "worship") on the corner of the Roman town where the first Christian see stood, the bishops never moved (F1.4, A1); the front finished on her feast day (F5.13; callback 004 safe); Eulàlia, by tradition a girl of thirteen, co-patroness of the cathedral, the archdiocese and the city (F7.3, F7.16, O13); 1936, one clause (F15.7, F15.8 HEDGE; 027 the home); the geese (callback 030 safe); the Santa Eulàlia door, step-free access (ROUTE §1.2 OFF), Bishop Sapera's arms (ROUTE §1.2, SEC-enc); optional, O23: the Pont del Bisbe is 1928 (F6.10, F18.34; cut unless O23 finds it in view); thanks; Carrer del Bisbe just outside (O1).
+@listen: The goodbye at the cloister's street door: seventeen centuries on one corner of the Roman town, the girl, the year 1936, the geese, and the way out.
+@brief: A guide at the door at the end of a long walk together, warm and unhurried, quiet for the last lines.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: "La Catedral és testimoni de més de mil set-cents anys d'història.", CA: "history", so spoken as history) ; A1 https://www.bcn.cat/museuhistoriaciutat/docs/Guia_Centre_MUHBA_ANG.pdf (OFF MUHBA, via FACTS F1.4, not re-read: the first see in the corner of the walled town) ; O13 https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20260609-spagna-preghiera-ora-media.html (OFF Holy See, via FACTS F7.16, not re-read: "co-patroness of this Cathedral, the Archdiocese, and the city") ; S24 / S7 (via FACTS F5.13, not re-read: main front finished 12 February 1890, her feast) ; S16 https://catalannews.com/culture/item/historic-church-that-survived-civil-war-reopens-after-restoration-works and M1 https://historiesdelgotic.museunacional.cat/en/el-gotic-catala/barcelona-cathedral/ (re-read for 027: protected by the Catalan government; not assaulted, interior survives) ; O2 https://catedralbcn.org/en/the-cathedral/traditions/ (OFF, re-read: thirteen geese, documented since the 16th century) ; ROUTE §1.2 (OFF via route file: the Santa Eulàlia door on Carrer del Bisbe, "accés per a persones amb mobilitat reduïda"; Bishop Sapera's arms, SEC-enc) ; S22 https://timeout.com/barcelona/attractions/pont-del-bisbe (SEC, via FACTS F6.10, not re-read: the bridge 1928; optional line, O23)
+---
+Seventeen centuries of history, on one corner of the Roman town. The first Christians of Barcelona built their church in this corner of the walled town. And the bishops never moved.
+
+They finished the front you came in by on the feast of Santa Eulàlia. She's the city's own saint, by tradition a girl of thirteen, martyred for her faith. Her feast is still kept every twelfth of February. And she is co-patroness of the cathedral, the archdiocese and the city.
+
+In the summer of 1936, while churches burned across Barcelona, this one was protected, and it came through intact. Much of what you've seen today survives because of that.
+
+Behind you, in the cloister, the thirteen geese keep their pond, as geese have here for at least four hundred years.
+
+This is the Santa Eulàlia door, named for her, and it is also the cathedral's step-free way in. It carries the arms of a bishop, Sapera, from the years the cloister was being built. Step through it and you're in Carrer del Bisbe, the Bishop's Street, in the heart of the old town.
+
+Out in that street, the little stone bridge everyone photographs looks medieval. It was built in 1928.
+
+[warmly] Thank you for walking it with me: the Roman corner and the Gothic church, the girl in the crypt, the egg and the geese, the saint in spectacles. It is still a working church, and the city's own.
+
+[quietly] One corner of a Roman town, and seventeen centuries of people coming back to it.
+
+Carrer del Bisbe is just outside. Go gently.

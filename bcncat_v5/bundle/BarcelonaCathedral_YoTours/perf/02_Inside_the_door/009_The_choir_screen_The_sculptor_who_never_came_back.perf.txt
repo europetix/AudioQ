@@ -1,0 +1,24 @@
+@id: 009 · Barcelona Cathedral · 14 Nov 2026 edition
+@section: Inside the main door
+@room: The choir screen · a few steps back from the white marble screen at the end of the choir, facing it [O24]
+@type: R
+@title: The choir screen — The sculptor who never came back
+@where: In the nave, a few steps back from the white marble screen that closes the end of the choir, facing it, with its central door and the carved panels either side in view. [O24, O2]
+@what: The trascor, the choir screen, begun by Bartolomé Ordóñez, in Barcelona from May 1517 (F9.28 OK, S12, O4); four scenes of Santa Eulàlia's martyrdom, two each side of the door (ROUTE S5 OFF; O24); very low relief praised for its delicacy and its details, the flames (F9.29, S12; "schiacciato" not spoken); inventory of 15 Oct 1519: two large finished Eulàlia panels and two finished statues, one of Eulàlia (F9.29 OK, S12; the second statue's saint not named, see notes); he went to Carrara, "quondam" in a 1521 payment (F9.30 OK, S12); others finished it, among them Pedro Villar (F9.28, O4); honest aside on which two (F9.29); forward to 022 (safe). No death place or cause; no quarry.
+@listen: A Renaissance sculptor began this marble screen of Santa Eulàlia, went to Italy for more stone, and never came back.
+@brief: A guide letting the listener into a short, sad artist's story; conspiratorial at the hook, plain at the loss, wry at the unanswered question.
+@pace: medium
+@energy: 3→3→2
+@sources: S12 https://revistes.uab.cat/locus/article/download/v5-carbonell/106-pdf-ca/531 (SEC, Carbonell i Buades, re-read 14 Nov 2026: in Barcelona from 7 May 1517 to 20 October 1519; inventory of 15 Oct 1519, "dos quadros grans acabats de las stories de Sancta Eulalia" and "dues figures una de Sancta Eulalia e laltra de Sant Sever acabades"; will made in Carrara; March 1521 payment for work by "lo quondam Bartolomeu Ordonyes"; praise of the rerecor reliefs, "característic baix relleu", "morbid schiacciato", virtuosity in details such as the flames, CA) ; O4 https://catedralbcn.org/en/the-cathedral/building/ (OFF, re-read 14 Nov 2026: "The retrochoir is closed off by a marble wall with reliefs from the 16th century"; Bartolomé Ordóñez and Pedro Villar, EN) ; ROUTE S5 (OFF via the route file: "four scenes sculpted in relief of the life of Saint Eulalia", "two on each side of the door")
+---
+[conspiratorial] Here's a piece of the Renaissance, set into a Gothic church. This white marble wall is the trascor, the choir screen. It was begun by Bartolomé Ordóñez, a sculptor who came to Barcelona in 1517.
+
+Look at the four scenes of Santa Eulàlia's martyrdom, two on each side of the door. The carving is in very low relief, almost drawn into the stone. One art historian praises its delicacy, and the virtuosity of its small details. Find the flames, and see how little depth he needed for them.
+
+The story behind it is short. An inventory of 15 October 1519 lists what he'd done: two large reliefs of Eulàlia, finished, and two finished statues, one of them Eulàlia herself. Then he went to Carrara, in Italy, for more marble. He never came back. By 1521 a payment record already calls him, with the Latin word quondam, "the late" Ordóñez. Others finished the screen later, among them Pedro Villar.
+
+[wry] So two of these four were finished when he left. Which two, the inventory doesn't say.
+
+[pause] The girl on these panels lies in the crypt ahead, under the high altar.
+
+Now cross to the first chapel on the left as you face the high altar, beside the main door: the baptistery: The baptistery · Baptised here.

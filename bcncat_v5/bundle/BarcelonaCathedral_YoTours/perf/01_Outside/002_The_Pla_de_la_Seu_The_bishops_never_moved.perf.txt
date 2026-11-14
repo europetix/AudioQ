@@ -1,0 +1,28 @@
+@id: 002 · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The square and the facade
+@room: The Pla de la Seu · at the end of the square by the two Roman towers, the cathedral in view [O13]
+@type: W
+@title: The Pla de la Seu — The bishops never moved
+@where: At the end of the square where two old stone towers stand, close to them but clear of the crowd, turned back so the cathedral front is in view. [O13, ALT-13]
+@what: Roman Barcino, 10 BC under Augustus, "a small fortified city covering just ten hectares" (F1.1, F1.2 OK, A1); two walls, 1st and 3rd century (F1.3 OK, A1; not said which these towers are); the decumanus gate at Plaça Nova (G120 OK, GA4; "round" not used); the first official see in the corner of the walled town (F1.4 OK, A1, S6); the first church under the cathedral, never dug (F1.5 HEDGE, S6); the dedication to the Holy Cross in 599 (F1.14 OK, O1); Almanzor's raid of 985, about a hundred documents saved (F1.16 OK, O9); Brossa's Barcino letters where the aqueduct reached the city (F6.9 OK A11, G121 OK GS22; no date; O13). Praetextatus 343 (F1.13) left out for the date count.
+@listen: How a ten-hectare Roman town put its first church in this corner, and why the bishops have never left it.
+@brief: A guide at the old town's edge, curious and vivid about the Roman town, steady at the fire, warm at the payoff of the corner.
+@pace: medium
+@energy: 3→4→3
+@sources: A1 https://www.bcn.cat/museuhistoriaciutat/docs/Guia_Centre_MUHBA_ANG.pdf (OFF, MUHBA, re-read 14 Nov 2026: "It was a small fortified city covering just ten hectares."; "Barcelona was founded in the year 10 BC during the reign of Emperor Augustus."; "the Roman city's two defensive walls, one dating from the 1st century and the other from the 3rd"; "an early basilica and an early baptistery", EN) ; GA4 https://barcelona.cat/museuhistoria/en/node/2400 (OFF, MUHBA, re-read 14 Nov 2026: "porta decumana de la plaça Nova, restes de l'aqüeducte", CA) ; S6 https://www.enciclopedia.cat/del-roma-al-romanic/conjunt-episcopal-de-barcelona (SEC, re-read 14 Nov 2026: "situades a l'angle nord del recinte murat del Baix Imperi"; first basilica "s'ha de situar sota la catedral romànica i l'actual catedral gòtica"; "L'absència d'excavacions arqueològiques impedeix constatar-ho", CA) ; O1 https://catedralbcn.org/en/the-cathedral/history/ (OFF, re-read 14 Nov 2026: "In the year 599 our Cathedral appears in a document dedicating it to the Holy Cross", EN) ; O9 https://catedralbcn.org/wp-content/uploads/2021/11/Cata%CC%80leg-de-lArxiu.pdf (OFF, re-read 14 Nov 2026: 985, "Ràtzia d'Al-Mansur a Barcelona: destrucció de la ciutat i nova devastació de la Catedral"; "se salva un centenar de documents", CA) ; GS22 https://fundaciojoanbrossa.cat/wp-content/uploads/2020/12/joan-brossa-power-point-mitjc3a0-i-superior.pdf (SEC, Fundació Brossa, re-read 14 Nov 2026: "Davant la muralla romana, allà on l'aqüeducte arribava a la ciutat"; "Hi llegim la paraula Barcino, el nom romà de Barcelona.", CA) ; A11 https://thisisbarcelona.com/arts-and-design/visual-arts/monuments-and-sculptures/barcino-joan-brossa (OFF-TUR, via FACTS 6.9, not re-read: letters at the foot of the towers)
+---
+When Barcelona began, it was tiny. The city's history museum describes Roman Barcino as "a small fortified city covering just ten hectares". It was founded in the time of the emperor Augustus, in 10 BC.
+
+You're standing at its edge. These towers belong to the Roman town's walls. The museum says there were two walls, "one dating from the 1st century and the other from the 3rd". Here was a gate, where the town's main street, the decumanus, came in from the countryside.
+
+[warmly] Look down at the foot of the wall, where the Roman aqueduct once reached the city. Find the big letters standing there. They're a visual poem by Joan Brossa, and together they spell Barcino, the city's Roman name.
+
+[pause] Now look back at the cathedral. When the Christians of the late Roman town built their first official church, the seat of their bishop, they put it in a corner of the walled town. That corner is where the cathedral stands now. The bishops never moved.
+
+Somewhere beneath the cathedral lies that first church. It has never been dug. Scholars place it under the floor, but without an excavation, nobody can show it.
+
+The name came before any building you can see. In 599 a document records the church's dedication to the Holy Cross. The Holy Cross came first.
+
+[pause] Then came the fire. In 985 the army of Almanzor raided Barcelona, destroyed the city and wrecked the cathedral. From the cathedral's archive, about a hundred documents came through.
+
+Turn now to the old stone house beside the cathedral, built into the Roman wall: the Casa de l'Ardiaca, the archdeacon's house: The Pla de la Seu · A square from after the war.

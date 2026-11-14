@@ -1,0 +1,28 @@
+@id: 012 · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The roof
+@room: The lift · in the queue at the chapel of the Holy Innocents, or at the top beside the lift (ALT-NQ)
+@type: W
+@title: The lift — Eulàlia strikes the hours
+@where: In the queue for the roof lift at the chapel of the Holy Innocents, beside the Sant Iu door; with no queue, at the top, standing to one side of the lift. Nothing needs to be seen. [O3, O2, ALT-NQ]
+@what: The hour bell Eulàlia and the quarter bell Honorata, both cast by Francesc Calbetó in 1865, Eulàlia in the tower over the Sant Iu door (F11.8 OK, G59, S17; O6 confirms Eulàlia in the Sant Iu tower); the "rebellious" Honorata "imprisoned" and melted down by Philip V in 1714, as the city tells it (F11.7 HEDGE, A4), and the bell survey's silence (G58, S17); two eight-sided towers over fifty metres, over the Sant Iu door with the clock and over the cloister door (F11.1 HEDGE wording, F11.2 OK), built after the Romanesque tower came down around 1380, first bell hoisted 1393 (F11.3, F11.5, S7: year not spoken), one medieval, its twin finished two centuries later (F11.4 OK); l'Esquella de Prima, 1321 (F11.6 OK); about twenty bells, nearly all with women saints' names (F11.12 HEDGE wording); eleven in the cloister tower, the Crown of Aragon pattern (F11.11 OK, G63 OK); "the thief's bell", unexplained (G62); la Tomasa for the noon Angelus (F11.13 OK DATED); the 1865 clock regulated by electric impulses (G60 OK, optional, used).
+@listen: The voice of the old town's clock, a bell the city says a king punished, and the twenty-odd named bells in the two towers.
+@brief: A guide keeping a queue company, chatty and a little conspiratorial over the punished bell, never asking anyone to look anywhere.
+@pace: medium
+@energy: 3→3→3
+@sources: A4 https://www.barcelona.cat/en/conocebcn/pics/la-catedral-92086000934 (OFF, re-read 14 Nov 2026: "Of the 21 bells in the cathedral, all with women's names, the most remarkable is the rebellious Honorata."; "Philip V "imprisoned" and melted down this bell in retaliation for it ringing to call the citizens to revolt."; "In 1714, during the War of Succession, Philip V", EN; the page names no siege) ; S17 https://campaners.com/php/torrepdf.php?numer=644 (SEC, bell survey, re-read 14 Nov 2026: Eulàlia and Honorata both Calbetó 1865, clock tower; earlier Honoratas 1393, 1760, 1762, "no reason given", nothing on 1714 or Philip V; l'Esquella de Prima 1321, cloister tower; la Tomasa, Barnola 1758, "ventada" for the noon Angelus; "Lladre" among the bell names, unexplained; Crown of Aragon cathedrals "tenien totes onze campanes"; Billeter clock 1865, electric impulses "absolutament innovadora en el seu moment"; towers c. 59.6 m and c. 54.9 m, CA) ; S7 https://www.enciclopedia.cat/lart-gotic-a-catalunya/la-catedral-de-barcelona (SEC, re-read 14 Nov 2026: towers built "després de l'enderroc del campanar de la seu romànica (entre el 1379 i el 1380)"; "La primera campana es va hissar l'any 1393", CA) ; O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: one tower 13th–14th c., the other completed in the 16th c.; the Sant Iu tower holds the Eulàlia, which marks the clock hours; the cloister tower is the liturgical tower with eleven bells, CA)
+---
+Every hour you hear over the old town is struck by a bell called Eulàlia. She hangs in the tower over the Sant Iu door, the side door you've just left. Her smaller partner, Honorata, strikes the quarters. Both were cast in 1865 by Francesc Calbetó.
+
+[conspiratorial] Honorata comes with a story. The city's own guide to the cathedral calls her the rebellious bell. In 1714, it says, during the War of Succession, King Philip the Fifth "imprisoned" an earlier Honorata and melted her down. Her crime was ringing to call the citizens to revolt.
+
+[pause] It's a good story, and it rests on that one telling. A recent survey of the cathedral's bells lists the Honoratas lost and recast, and gives no reason. The Honorata you'll hear today is the one Calbetó cast.
+
+There are two bell towers, eight-sided and over fifty metres high. One stands over the Sant Iu door and carries the clock. The other stands over the door from the church into the cloister. They went up after the old Romanesque bell tower came down, and the first bell was hoisted before the end of the 1300s. One tower is medieval. Its twin was finished two centuries later.
+
+[warmly] The oldest bell up there is older than the crypt you're going to see. It's a small bell, an esquella in Catalan, called l'Esquella de Prima, and it was cast in 1321.
+
+In all there are about twenty bells, nearly all named after women saints. Eleven of them hang in the tower over the cloister, the number the cathedrals of the old Crown of Aragon traditionally had. [amused] One has gone by the name of the thief's bell. The survey doesn't say why.
+
+At noon the Angelus is rung on one of the big bells. If you're here at noon, that's la Tomasa. And the clock that drives the hours was a marvel in its day, regulated by electric pulses.
+
+Stay where you are for one more story, in the queue or at the top: The lift · Lightning and firecrackers.

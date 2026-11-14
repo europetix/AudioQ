@@ -1,0 +1,28 @@
+@id: 028 · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The cloister
+@room: The cloister · just through the white marble door, facing back at it [O19]
+@type: R
+@title: The cloister — A door from the older cathedral
+@where: In the cloister, a few steps beyond the white marble door from the church, turned round to face it and its carved capitals. [O19, O9]
+@what: The white marble cloister door: "Romanesque, made of white marble", "said to have come from the former Romanesque Cathedral" (F2.7 HEDGE, O7, EN); Italian white marble, five pointed archivolts, Job, the Annunciation, a warrior and a winged three-bodied dragon, late Romanesque of the full 13th century, its origin a hypothesis (S2, re-read); the garden's palms, magnolias, orange tree (F12.22 DATED); the 1078 sale and the canons' buildings and two cemeteries (F12.3, S2); chapels on three sides, the fourth with the Chapter Hall and Santa Llúcia (F12.23, G81); the second bell tower over this door, eleven bells (F11.2, F11.11, O6; callback 012). Callback 026 (the founders' church; safe F).
+@listen: A white marble door that may come from the cathedral before this one, and the garden the canons lived and were buried around.
+@brief: A guide at the threshold of the cloister, pleased by the change of light and air, pointing out the carving with quiet curiosity.
+@pace: medium
+@energy: 2→3→3
+@sources: O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: "The interior Cloister door, between the Cathedral and the Cloister, is Romanesque, made of white marble"; "It is said to have come from the former Romanesque Cathedral."; "In the center of the Cloister is a garden with palm trees, magnolias, an orange tree", EN) ; S2 https://www.enciclopedia.cat/catalunya-romanica/santa-creu-i-santa-eulalia-o-catedral-de-barcelona (SEC-enc, re-read at offset 100000: "construïda fonamentalment en marbre blanc itàlic"; five pointed archivolts; Job capital with praying figures; "L'últim capitell presenta el tema de l'anunciació"; warrior and a winged, three-bodied dragon on the impost; "d'un moment tardà, de ple segle XIII"; reuse from the older cathedral or Italian work of the early 14th century presented as hypotheses; "La situació del claustre és documentada en una venda de l'any 1078"; chapter, canons' dining room, residences, two cemeteries) ; S32 https://revistes.ub.edu/index.php/materia/article/download/34994/39591/116540 (SEC, Jardí 2023, re-read: the north wing holds the chapter hall and the former chapel of Santa Llúcia; compass word not spoken) ; O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read: liturgical tower "En aquesta darrera trobem onze campanes", CA)
+---
+This doorway may be older than the cathedral around it. The cathedral describes it as "Romanesque, made of white marble". And it adds: "It is said to have come from the former Romanesque Cathedral." That was the church of the count and countess whose painted coffins hang by the sacristy.
+
+The Catalan encyclopedia's Romanesque survey says the marble is Italian, and the carving late Romanesque, from the 1200s. Was the door saved from the old cathedral, or carved a little later by Italian craftsmen? It treats both as open questions.
+
+[curious] Look at its five pointed arches, and at the capitals beneath them. On one, Job, with figures at prayer. On the last, the Annunciation. And above another, a warrior fights a winged dragon with three bodies.
+
+Then turn to the garden, with its palms, its magnolias and an orange tree.
+
+A sale of 1078 already places a cloister here. Round it stood the canons' world: their chapter house, their dining room, their houses, and two cemeteries. Canons lived and were buried around this garden.
+
+Chapels open off three sides of the cloister. The fourth side has none. It holds the Chapter Hall museum and the old chapel of Santa Llúcia, where the cloister walk ends.
+
+And above this door rises the cathedral's second bell tower, the one with eleven bells for the services.
+
+Now turn to the small vaulted pavilion over a fountain, close to the door you've just come through, with a figure of Saint George on top: The cloister · The egg the accountant wrote down.

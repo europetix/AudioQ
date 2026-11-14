@@ -1,0 +1,102 @@
+import sys, os, re, json, shutil, glob, unicodedata
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, ROOT + '/v5/pipeline'); import v5_direction as V
+SRC = ROOT + '/v5/tracks'
+B = ROOT + '/bundle/BarcelonaCathedral_YoTours'
+shutil.rmtree(B, ignore_errors=True); os.makedirs(B)
+SECTIONS = [  # (@section value, display, folder)
+ ('The square and the facade', 'The square and the facade', '01_Outside'),
+ ('Inside the main door', 'Inside the main door', '02_Inside_the_door'),
+ ('Up the left aisle', 'Up the left aisle', '03_Left_aisle'),
+ ('The roof', 'The roof', '04_Roof'),
+ ('The choir', 'The choir', '05_Choir'),
+ ('The crypt', 'The crypt', '06_Crypt'),
+ ('Behind the high altar', 'Behind the high altar', '07_Behind_the_altar'),
+ ('The cloister', 'The cloister', '08_Cloister'),
+ ('The Chapter Hall', 'The Chapter Hall', '09_Chapter_Hall'),
+ ('The way out', 'The way out', '10_Way_out'),
+]
+SEC = {s[0]: s for s in SECTIONS}
+
+def slug(s, n=56):
+    s = s.replace("º", "")
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
+    s = s.replace("'", "").replace('"', "")
+    s = re.sub(r"[^A-Za-z0-9]+", "_", s).strip("_")
+    return s[:n].rstrip("_")
+
+def short_title(title, room):
+    """The whole title is kept: Barcelona Cathedral titles are "<place> — <title>" (Extras "<place> · Extra · <title>"), so file names are consistent."""
+    return title
+
+def room_label(sec, room, title=""):
+    if True:
+        return ""
+    return ""   # the title already starts with the place name
+    r = room.replace("–", "-")
+    return slug(r.replace(" ", "-").replace("-", "~"), 24).replace("_", "-").replace("~", "-") .strip("-")
+
+tracks = []
+for f in sorted(glob.glob(SRC + '/*.perf.txt')):
+    meta, clean = V.validate(f)
+    n = os.path.basename(f)[:3]
+    sec = meta['section']; disp, folder = SEC[sec][1], SEC[sec][2]
+    title = meta['title']
+    rl = room_label(sec, meta['room'], title)
+    base = f"{n}_{rl + '_' if rl else ''}{slug(short_title(title, meta['room']))}"
+    for d in ('scripts', 'perf'):
+        os.makedirs(f"{B}/{d}/{folder}", exist_ok=True)
+    open(f"{B}/scripts/{folder}/{base}.txt", "w", encoding="utf-8").write(clean + "\n")
+    shutil.copy(f, f"{B}/perf/{folder}/{base}.perf.txt")
+    # round-trip check: perf strips to the script exactly
+    V.validate(f"{B}/perf/{folder}/{base}.perf.txt", open(f"{B}/scripts/{folder}/{base}.txt").read())
+    tracks.append(dict(seq=n, section=disp, folder=folder, room=meta['room'], title=title,
+        register=meta['type'], words=len(clean.split()), where=meta.get('where', ''),
+        what=meta.get('what', ''), listen=meta.get('listen', ''), pace=meta['pace'],
+        script=f"scripts/{folder}/{base}.txt", perf=f"perf/{folder}/{base}.perf.txt",
+        mp3=f"{folder}/{base}.mp3"))
+tw = sum(t['words'] for t in tracks)
+plan = dict(tour_number=0, tour_slug="Barcelona_Cathedral", format="V5 Yo Tours 14 Nov 2026", language="EN",
+    voices={"1": "en-US-AvaMultilingualNeural (chosen voice), base rate -8%, directed per passage (render_edge.py)",
+            "2": "en-US-AndrewMultilingualNeural (trial)", "3": "en-US-BrianMultilingualNeural (earlier test voice)"},
+    wpm=125, silent_tail_seconds=V.TAIL_S, mastering="-16 LUFS / -1.5 dBTP, 64 kbps mono",
+    total_tracks=len(tracks), total_words=tw, total_min=round(tw / 125),
+    sections=[dict(section=d, folder=fo, tracks=sum(1 for t in tracks if t['folder'] == fo)) for _, d, fo in SECTIONS],
+    tracks=tracks)
+json.dump(plan, open(f"{B}/plan.json", "w"), indent=1, ensure_ascii=False)
+# ES / FR / DE guides (v5/i18n/<lang>/tracks), rendered by generate_audio_ES_FR_DE.command
+for f in sorted(glob.glob(ROOT + '/v5/i18n/*/tracks/*.perf.txt')):
+    lang = f.split('/')[-3]; meta, clean = V.validate(f); n = os.path.basename(f)[:3]
+    folder = SEC[meta['section']][2]
+    rl = room_label(meta['section'], meta['room'].replace("Room", {"es": "Sala", "fr": "Salle", "de": "Saal", "it": "Sala"}.get(lang, "Room")), meta['title'])
+    base = f"{n}_{rl + '_' if rl else ''}{slug(short_title(meta['title'], meta['room']))}"
+    for d in ('scripts', 'perf'):
+        os.makedirs(f"{B}/languages/{lang}/{d}/{folder}", exist_ok=True)
+    open(f"{B}/languages/{lang}/scripts/{folder}/{base}.txt", "w", encoding="utf-8").write(clean + "\n")
+    shutil.copy(f, f"{B}/languages/{lang}/perf/{folder}/{base}.perf.txt")
+for p in ('v5_direction.py', 'render_edge.py'):
+    shutil.copy(f"{ROOT}/v5/pipeline/{p}", B)
+# hand-maintained bundle files (launchers with the length lists filled in, README, pronunciation, tags, lengths, floors)
+ST = ROOT + '/build/static'
+LEN = json.load(open(f'{ST}/lengths.json'))
+def fill(text):
+    e, h = LEN['ESSENTIAL'].split(), LEN['HIGHLIGHTS'].split()
+    return (text.replace('@@ESSENTIAL@@', LEN['ESSENTIAL']).replace('@@HIGHLIGHTS@@', LEN['HIGHLIGHTS'])
+                .replace('@@N_FULL@@', str(len(tracks))).replace('@@N_ESS@@', str(len(e))).replace('@@N_HI@@', str(len(h)))
+                .replace('@@N_MAIN@@', str(sum(1 for t in tracks if t['register'] != 'X'))).replace('@@N_X@@', str(sum(1 for t in tracks if t['register'] == 'X'))))
+for p in ('generate_audio.command', 'generate_audio_ES_FR_DE.command', 'README.txt'):
+    open(f'{B}/{p}', 'w', encoding='utf-8').write(fill(open(f'{ST}/{p}', encoding='utf-8').read()))
+for p in ('pronunciation.py', 'tag_tracks.py', 'cover.jpg', 'make_lengths.py', 'levels.txt', 'lengths.json'):
+    shutil.copy(f'{ST}/{p}', B)
+# hand-written "next stop" bridges for the shorter versions: v5/bridges/*.txt (EN), v5/i18n/<lang>/bridges.txt
+os.makedirs(f'{B}/bridges', exist_ok=True)
+_MARK = re.compile(r"\s*\[(?:O[^\]]*|ALT[^\]]*)\]")   # writers' on-site tags ([O13], [O8, ALT-K]) are never spoken: dropped from bridge lines here (the sources are not changed)
+_clean = lambda t: "".join(_MARK.sub("", l) if re.match(r"^\s*\d{3}\s+[EH]>\d{3}:", l) else l for l in t.splitlines(True))
+_txt = lambda f: (lambda t: t if t.endswith('\n') else t + '\n')(_clean(open(f, encoding='utf-8').read()))   # one bridge per line, even if a file lacks its last newline
+open(f'{B}/bridges/en.txt', 'w', encoding='utf-8').write(''.join(_txt(f) for f in sorted(glob.glob(ROOT + '/v5/bridges/*.txt'))))
+for f in sorted(glob.glob(ROOT + '/v5/i18n/*/bridges.txt')):
+    open(f"{B}/bridges/{f.split('/')[-2]}.txt", 'w', encoding='utf-8').write(_txt(f))
+for p in (f'{B}/generate_audio.command', f'{B}/generate_audio_ES_FR_DE.command'):
+    os.chmod(p, 0o755)
+print(len(tracks), tw, round(tw/125))
+for s in plan['sections']: print(s)

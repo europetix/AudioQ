@@ -1,0 +1,22 @@
+@id: 015 · Barcelona Cathedral · 14 Nov 2026 edition
+@section: The roof
+@room: The roof · where the old town and the cloister are in view [O7]
+@type: R
+@title: The roof — The old town from above
+@where: On the terraces, at a spot on the walkway where you can see over the rooftops of the old town and down into the cloister garden. [O7, O3]
+@what: Callback to the Roman corner and "the bishops never moved" (002, safe for E F; no re-telling); the cathedral's own list of its neighbours "a pocs metres": the Bishop's Palace, the Palau de la Generalitat, the City Hall, the Casa de l'Ardiaca (name and gloss only, E-safe), the Palau Reial Major, the Frederic Marès museum, the Archive of the Crown of Aragon (F17.5 OK OFF, O6; re-read: the PDF lists them as a few metres from the cathedral, not as seen from the roof, so the script claims nearness, not sightlines, until O7); the cloister below, its palms and the geese's pond (ROUTE S15, S17; F12.22 OK DATED; forward to 030, safe); the bookend on the horizon without its name (G64 HEDGE, GS13; lint bans the name outside 001; only if O7 ticks it, else cut the sentence).
+@listen: The old town laid out around the bishops' corner, the cathedral's famous neighbours, and the cloister garden below.
+@brief: A guide at a parapet with a friend, relaxed and orienting, letting the view do most of the work.
+@pace: medium-slow
+@energy: 3→3→2
+@sources: O6 https://catedralbcn.org/wp-content/uploads/2024/11/Obert-per-obres-Catedral-de-Barcelona.pdf (OFF, re-read 14 Nov 2026: "un nou mirador de Barcelona", a 360º view; "A pocs metres de la Catedral trobem el Palau Episcopal, el Palau de la Generalitat, l'Ajuntament de Barcelona," then the Casa de l'Ardiaca, the Palau Reial Major, the Museu Frederic Marès and the Arxiu de la Corona d'Aragó; the terraces paragraph names only the towers, pinnacles, cloister and cimbori as seen, CA) ; O7 https://catedralbcn.org/en/?p=3246 (OFF, re-read 14 Nov 2026: "a spectacular panoramic view of Barcelona", EN) ; GS13 https://www.lonelyplanet.com/points-of-interest/la-catedral/1204430 (SEC guidebook, re-read 14 Nov 2026: "A central platform runs the entire length of the cathedral from which you can look for La Sagrada Família on the horizon.", EN)
+---
+[warmly] From up here, the old town starts to make sense. Its streets press in tight around the cathedral, on the same corner of the Roman town where the bishops never moved.
+
+Within a few streets of this roof, the cathedral counts its neighbours. The Bishop's Palace. The Palau de la Generalitat, the seat of the Catalan government. Barcelona's City Hall. The Casa de l'Ardiaca, the archdeacon's house. The Palau Reial Major, the old royal palace. The Frederic Marès museum. And the Archive of the Crown of Aragon. From where you stand, some of them may hide behind their neighbours' roofs. So pick out the towers and the roof lines the view gives you, and let the rest be a list of who lives next door.
+
+[pause] Now look down into the cloister. That's the garden you'll walk round towards the end of the visit, with its palm trees, and somewhere in it, the pond where the geese live.
+
+[lightly] And if the day is clear, look far off on the horizon for the spires of the other great church in this city, the one people so often mistake this one for.
+
+When you've seen enough, take the lift back down. Then go to the choir, the wooden enclosure in the middle of the nave, and in at its entrance. If the choir is closed, listen at its entrance: The choir · Oak from Bruges.

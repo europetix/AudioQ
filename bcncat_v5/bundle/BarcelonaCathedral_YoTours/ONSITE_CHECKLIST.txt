@@ -1,0 +1,281 @@
+BARCELONA CATHEDRAL V5: ON-SITE CHECKLIST (from v5/PLAN.md, 14 Nov 2026; 36 tracks)
+==================================================================================
+Item numbers O1–O12 keep the meaning given in research/VISIT_ROUTE_AND_SPACES_NOV2026.md §5; O13–O27 are new
+(PLAN.md §5). Track numbers below are PLAN.md's.
+
+One walk of the FULL route, in PLAN.md order (Variant A: in by the main door, out by the cloister's Santa Eulàlia
+door to Carrer del Bisbe), before recording, with a phone camera and, if O5 has been done, a printout of the
+official plan.
+- Photograph every sign, plaque, chapel label, map board and arrow you are asked about. Save them to
+  research/onsite/ as Oxx_<what>.jpg.
+- Note times with a stopwatch: WALKING, QUEUING AND THE LIFT ONLY, not listening.
+- Report each item as CONFIRMED / DIFFERENT (what you saw) / NOT FOUND.
+- This is a working church. Never enter a chapel during a service, never photograph during a service, never step
+  behind a rope or into a closed area, never lift a choir seat or touch the stalls. Keep your voice down. If Mass
+  is on in the Lepanto chapel, note only what can be seen from its doorway, and come back to that item later.
+- Never complete a CAPTCHA or create an account. Nothing about prices, hours, slots or tickets goes into the guide;
+  note them only if they change the route.
+- Never note directions as compass points. Use LEFT/RIGHT AS YOU FACE THE HIGH ALTAR (= as you stand on the square
+  facing the facade), plus fixed features (doors by name, the choir, the choir screen, the crypt stair, the lift
+  chapel, the cloister door, the pond, the fountain), so the lead can rewrite cues. Never use chapel numbers in your
+  notes unless you are copying them from the official plan (O5), and say so.
+- Do not leave and re-enter unless O1 says re-entry is allowed: walk the square first, then the inside.
+- The transept-vault works (Oct–Dec 2026) may put up scaffolding: note it, but never write it into a cue.
+
+-------------------------------------------------------------------------------
+DESK FIRST (before the walk; in a browser that can load catedralbcn.org)
+-------------------------------------------------------------------------------
+[ ] O5 CRITICAL  READ THE OFFICIAL PLAN. Open and save to research/map/:
+      (1) catedralbcn.org/wp-content/uploads/2021/11/planta-catedral-barcelona.jpg
+      (2) the Revista de la Catedral no. 1 (July 2026), p. 39, "Plànol / Mapa de la catedral"
+          (catedralbcn.org/wp-content/uploads/2026/07/CATEDRAL-DE-BARCELONA-01.pdf)
+      (3) catedralbcn.org/wp-content/uploads/2021/11/dimensions.jpg
+      Record: the numbering and legend; every chapel's dedication and position; the Sants Innocents (lift) chapel;
+      the Lepanto / Blessed Sacrament chapel and the chapel beside its way in (Santa Clara / Sants Cosme i Damià,
+      Sança Ximenis de Cabrera's: 008); the baptistery; the sacristy and its door (026); the crypt stair; the
+      white marble cloister door; the Patrocini chapel (024); Sant Ramon de Penyafort's chapel (025); the
+      Transfiguration chapel (G34, ALT-B note); the Old Archive of 1535 and its stair (033); the cloister's
+      chapels, fountain, pond, Pietat and Santa Eulàlia doors; the Chapter Hall's rooms.
+      Never put chapel numbers in speech; the lead decides whether to use dedication names in cues.
+[ ] O1-desk  tickets.catedralbcn.org/en (JS): what the cultural-visit ticket includes; which door ticket holders use;
+      any route, one-way or re-entry notes; any dress rule or photography rule stated by the cathedral (PLAN §8.3).
+[ ] O27-desk  The "Visitable spaces" page (last modified 25 Sep 2025): still six spaces? Lepanto rule unchanged?
+      The Full Mensual for the month of recording: the May blessing's date; any works notice.
+[ ] Works: the contract PDF catedralbcn.org/wp-content/uploads/2026/07/Contrato-obra-con-anexo-2.pdf (is it the
+      transept-vault contract? dates?).
+
+-------------------------------------------------------------------------------
+CRITICAL ITEMS (the route depends on them)
+-------------------------------------------------------------------------------
+[ ] O1 CRITICAL  DOORS AND FLOW (001, 005, 006, 035, 036; ALT-B, ALT-C, ALT-D)
+      - Which door do ticket holders ENTER by? (Expected: the main door on the Pla de la Seu, up ten steps.)
+      - Which door do they LEAVE by? (Expected: the cloister's Santa Eulàlia door on Carrer del Bisbe. FACTS_GAPS
+        G84: the 2020 weekday route ran main door → Santa Eulàlia door.)
+      - Is there a set one-way route? Signs? Staff directing people? Can you go from the cloister back into the
+        church? Is there re-entry after leaving?
+      - Is there a ticket check at the door, or inside? Where would a listener stand to play 006 "just inside, to
+        one side, out of the way of people coming in"?
+[ ] O2 CRITICAL  THE TRANSEPT-VAULT WORKS (cues of 011, 012, 020, 021, 023, 025, 026, 027; bridges 018 E/H, 022 H/E)
+      - Where is the scaffolding? Does it block or narrow: the Sant Iu door area, the lift chapel, the crypt stair,
+        the way round the high altar, the sacristy door, the white marble cloister door, the choir's end?
+      - Is the choir restoration (carvings, polychromy) under way? Are stalls screened?
+      - Photograph each screen. Note whether each cue would still work without mentioning it.
+[ ] O3 CRITICAL  THE LIFT (011 cue, 012, 013, 014; ALT-NQ, ALT-R, ALT-RL)
+      - Is the lift reached through the chapel of the Holy Innocents beside the Sant Iu door? Signed?
+      - Queue or timed slots? Where does the queue form? Can people stand still there for about five minutes?
+      - Time the wait at three times of day (note the time). Time the ride up and down, and the time on top.
+      - Is there a stair alternative? Is the roof closed in rain or wind? Any closure notices?
+      - Is Bishop Ramon d'Escales's tomb in this chapel (G42: the chapel "de les Ànimes", formerly the Holy
+        Trinity and Holy Innocents)? If yes, photograph it (optional line in 012; G41 details: two dogs at his
+        feet, eight small mourners).
+      - With NO queue: is there a spot at the top, to one side of the lift, where 012 and 013 can be heard?
+[ ] O4 CRITICAL  THE LEPANTO / BLESSED SACRAMENT CHAPEL (006 cue, 007, 008; ALT-L4, ALT-B)
+      - Where is it? (Expected: on the RIGHT, close to the main door.) How is it entered (directly from the aisle,
+        or through another chapel: G37 "the chapel that leads into the old chapter house")?
+      - From the doorway, WITHOUT going in: can you see the crucifix? Sant Oleguer's tomb and its alabaster figure?
+        The star vault? (007, 008 looks stay conditional until ticked.)
+      - Is there a sign about Mass, silence or photos? Wording?
+      - The neighbouring chapel (Santa Clara / Sants Cosme i Damià): the alabaster tomb called Sança Ximenis de
+        Cabrera's visible from outside? (008 optional line, G37, G38.)
+[ ] O8 CRITICAL  THE CHOIR (015 cue, 016–020; bridges 006 H, 015 E, 018 E/H; ALT-K, ALT-M)
+      - Where is the visitors' way in: through the door in the marble choir screen (ALT-K) or from the altar end?
+      - "At the entrance to the choir on the right is the wooden pulpit" (OFF): which entrance? Photograph.
+      - The bishop's 14th-century throne: where?
+      - The painted shields above the upper stalls: in view from where visitors stand? Can 51 be counted (G7)?
+        Any labels? Is Louis II of Hungary's shield identifiable (G19; PLAN §8.7)? Photograph several.
+      - Are any folding seats raised so the carving underneath can be seen (017, O25)?
+      - The spires (Lochner's canopy) in view from the entrance (020)?
+      - When the choir is closed (service, canons' prayers): is the entrance still a place to stand and listen?
+[ ] O9 CRITICAL  THE CLOISTER'S LAYOUT (cues 027–032; bridges 022, 030; ALT-K9)
+      - Through the white marble door: is the fountain pavilion close by (G80: "near the door into the church")?
+      - Where is the geese's pond? Can it be watched from the far side of the garden when crowded?
+      - Which walk has the Pietat door? Which the Santa Eulàlia door (the exit)?
+      - Santa Llúcia and the Chapter Hall on the same walk, the one without chapels (G81)?
+      - Draw the loop in the order a visitor walks it once, without doubling back.
+[ ] O10 CRITICAL  THE CRYPT (020 cue, 021, 022, 023; bridges 018 E/H)
+      - Is the stair down in front of the high altar, next to the choir (G85)? Open throughout the visit? Closed
+        during Mass? Steps only?
+      - From the top of the stair, is the tomb in view below (fallback line)?
+      - Down by the tomb: the reliefs on the box visible (COMP: "usually hidden")? A coin-operated light?
+      - The 1339 inscription round the tomb's edge readable (G73)?
+      - The ninth-century stone behind the tomb, "Hic requiescit Beata Eulalia…" (G72), visible? Photograph.
+      - Small carved heads on the tomb's arch (G85, "the citizens who paid")? The keystone overhead?
+[ ] O16 CRITICAL  THE FOUNDERS' PAINTED COFFINS (025 cue, 026; ALT-F)
+      - Are they on the sacristy wall, on the RIGHT of the high altar, high up (G22)? Photograph.
+      - Visible from the walkway round the altar? A spot to stand out of the way? One resting on two capitals?
+      - If they are elsewhere (e.g. near the Sant Iu door on the left), note exactly where: ALT-F.
+[ ] O17 CRITICAL  THE AMBULATORY (023 cue, 024, 025; ALT-P)
+      - Is the walkway behind the altar open to visitors, from the left side round to the right?
+      - Are the chapels signed with their dedications? Readable?
+      - Sant Ramon de Penyafort's tomb: which chapel? Signed? (025 depends on it; no source names the chapel.)
+      - The Patrocini chapel with Bishop Ponç de Gualba's tomb; his shield in the central apse window (G45).
+      - Royal arms in the glass of the Sant Pere and Sant Joan windows (G46)? Any coat of arms you can point to?
+[ ] O22 CRITICAL  STOPWATCH (PLAN §3 "Walking by segment")
+      - PLAN expects walking Full ≈ 14.9, E ≈ 12.3, H ≈ 6.3 min, plus a lift wait of ≈ 5 min (Full, E).
+      - Time every segment, the lift wait, the ride and the time on the terraces, the crypt down and up.
+      - Correct 001's spoken times and §3 if far off.
+
+-------------------------------------------------------------------------------
+OTHER ITEMS
+-------------------------------------------------------------------------------
+[ ] O6  JEWISH MEMORY (031 cue, 033; ALT-J, ALT-J2)
+      - Where is the Old Archive of 1535? G102: built over the gallery on the left side of the church. How do
+        visitors reach it (stair from the left aisle? from the cloister? a lift?) Open? What is displayed?
+      - Photograph the room's title panel and two documents' labels.
+[ ] O7  THE ROOF (014, 015; ALT-R)
+      - The statue on top of the lantern tower: Saint Helena with the Holy Cross (G54)? Visible from the terraces?
+      - The cross on the roof over the apse, where the city is blessed from in May (G55)?
+      - Which bell tower is the clock tower (G59: the one over the Sant Iu door)? The two side pinnacles?
+      - Gargoyles: an elephant? a unicorn? a bull? Photograph only those you can see clearly.
+      - TICK each landmark you can see and say how to find it (no compass): [ ] the Bishop's Palace
+        [ ] the Palau de la Generalitat [ ] the City Hall [ ] the Casa de l'Ardiaca [ ] the Palau Reial Major
+        [ ] the Frederic Marès museum [ ] the Archive of the Crown of Aragon [ ] the Sagrada Família on the horizon
+        (G64) [ ] the cloister's garden and the geese's pond below. Anything else: list with a photo (added only
+        after the lead checks it).
+[ ] O11  THE BAPTISTERY (009 cue, 010): the first chapel on the LEFT inside the main door? Open to step into the
+      entrance? A spot to stand?
+[ ] O12  Any worship-only door or queue that could mislead listeners at the start (001).
+[ ] O13  THE SQUARE (001 cue, 002, 003, 004, 005; ALT-13)
+      - From the Pla de la Seu: the two Roman towers in view? A spot near them with the cathedral in view?
+      - Brossa's scattered BARCINO letters at their foot?
+      - The Casa de l'Ardiaca: in view from the square? signed? beside the cathedral?
+      - The Picasso friezes on the College of Architects: in view from the square?
+      - The facade: a spot far enough back to see it whole; Christ on the door's central pillar; the plainer sides.
+      - Any scaffolding on the Casa de l'Almoina (works contract 2026)? (Never in speech.)
+[ ] O14  THE BAPTISTERY'S DETAILS (010)
+      - Photograph the tall window (Saint Michael and Noli me tangere): what scenes can be seen?
+      - Antoni Canet's carved stone cupboard (1406) on corbels with human heads: the girl, the bearded man (G44)?
+      - The font. A plaque about six men brought by Columbus, baptised in 1493? Wording? (No plaque → cut.)
+[ ] O15  THE GREAT KEYSTONE (006 optional): God the Father with angels (Pere Joan, 1418): which bay, counting from
+      which end? Visible from just inside the main door?
+[ ] O18  THE SANT IU DOOR, INSIDE (010 cue, 011)
+      - A spot near the door, out of the way. The great organ in its gallery above: in view?
+      - Any carved head (carassa) under the organ today? (G116: now kept in the cathedral museum; if no, 011 stays in the past tense; check O21 for it.)
+      - The keystone near the door: Saint Peter?
+[ ] O19  THE CLOISTER'S STONES (026 cue, 027, 028, 030 cue, 031)
+      - Inside the church: a spot beside the white marble door with the choir in view (027)?
+      - The white marble door seen from the cloister: five arches; capitals with Job, the Annunciation, a knight
+        and a dragon? Photograph.
+      - The chapel of the Apostles (G91) and the Genesis capitals in front of it (Adam and Eve: G91, F12.21)?
+      - The Pietat door: the Pietà relief over it: original or copy (F12.26, F14.17)? a kneeling canon?
+      - Guild tombstones with tools in the floor (F12.25, G90)? Photograph if any; otherwise NOT FOUND.
+[ ] O20  SANTA LLÚCIA (030 cue, 031 cue, 032)
+      - Its door from the cloister; can visitors step in? Its capitals (Annunciation, Visitation, two beasts):
+        on the cloister door or the street door? The founder's tomb visible from the doorway?
+[ ] O21  THE CHAPTER HALL (032 and 033 cues, 034, 035; ALT-T)
+      - The Bermejo Pietà: signature along the bottom of the frame legible? Spelling (OPUS BARTOLOMEI VERMEJO
+        CORDUBENSIS)? Saint Jerome's spectacles? The kneeling archdeacon? The background details?
+      - On display: [ ] the monstrance on its silver seat ("King Martin's throne"; G97 says it may be in the
+        sacristy) [ ] the 11th-century lobed font [ ] Huguet's Saint Bernardino and the Guardian Angel
+        [ ] Giuliano di Nofri's terracotta Santa Eulàlia [ ] Lochner's Pietà relief [ ] Arnau de Gurb's crozier  [ ] the carassa (G116)
+      - A sign about photography? (PLAN §8.3.)
+[ ] O23  THE WAY OUT (035 cue, 036)
+      - Just inside the Santa Eulàlia door: a quiet spot out of the flow?
+      - Is the Pont del Bisbe (the 1928 bridge) in view from the door or just outside? (036 optional line.)
+[ ] O24  THE CHOIR SCREEN (007 and 008 cues, 009): four marble panels, two each side of its door? Labels? A spot a
+      few steps back? The X-shaped cross in one of them (021 callback)?
+[ ] O25  THE MISERICORDS (016 cue, 017): any raised seat visible from where visitors may stand? What is carved?
+      "A game with sticks and a ball"? A siren with a mirror? Photograph only what you can see.
+[ ] O26  LENT: if the walk falls in Lent, where is the Christ of Lepanto? (No speech change; DATED note.)
+[ ] O27  LISTENING CHECKS FOR NAMES after the first renders (last section).
+
+-------------------------------------------------------------------------------
+PER-TRACK DIRECTIONS TICK LIST (Full order; tick the cue's destination and features, or write what you see)
+-------------------------------------------------------------------------------
+Cue texts: PLAN.md §2 (last-but-one column). Bridges: PLAN.md §3.
+
+001  On the square, beside the steps ... [ ] out of the way  [ ] the Roman towers' end of the square reachable (O13, O12)
+002  By the Roman towers ............... [ ] towers in view  [ ] cathedral in view  [ ] Brossa letters  [ ] the
+                                            Casa de l'Ardiaca visible from here (O13)
+003  Casa de l'Ardiaca in view ......... [ ] house in the wall  [ ] Picasso friezes in view  [ ] a spot back from
+                                            the facade (O13)
+004  Facing the facade ................. [ ] whole front in view  [ ] Christ on the central pillar  [ ] plain sides (O13)
+005  Same spot ......................... [ ] lantern tower in view behind the front  [ ] ten steps to the door (O13, O1)
+006  Just inside the main door ......... [ ] spot to one side  [ ] choir screen ahead  [ ] lantern overhead (O1, O15)
+                                            [ ] the Lepanto chapel on the RIGHT, near the door (O4)
+007  Lepanto chapel doorway ............ [ ] doorway; crucifix visible?  [ ] Mass sign  [ ] no step inside needed (O4)
+008  Same doorway (Extra) .............. [ ] Oleguer's tomb and alabaster figure visible?  [ ] neighbouring chapel's
+                                            tomb (G38)?  [ ] the choir screen ahead (O4, O24)
+009  At the choir screen ............... [ ] four panels  [ ] a spot a few steps back  [ ] the baptistery on the
+                                            LEFT by the main door (O24, O11)
+010  Baptistery entrance ............... [ ] window  [ ] Canet's carved heads  [ ] font  [ ] plaque?  [ ] the left
+                                            aisle up to the Sant Iu door (O11, O14, O18)
+011  Inside the Sant Iu door ........... [ ] spot out of the way  [ ] organ above  [ ] carassa?  [ ] lift chapel
+                                            beside the door (O18, O3, O2)
+012  Lift queue (or top) ............... [ ] queue spot  [ ] Escales's tomb here?  [ ] a no-queue spot at the top (O3)
+013  Same (Extra-weight) ............... [ ] wait still running at the end of 012?  (O3)
+014  Terraces, lantern in view ......... [ ] Saint Helena visible  [ ] both towers  [ ] apse cross  [ ] gargoyles (O7)
+015  Terraces, old town in view ........ [ ] O7 landmark ticks  [ ] cloister and pond below  [ ] lift back down (O7, O3)
+016  Choir entrance / inside ........... [ ] visitors' way in  [ ] upper stalls in view  [ ] if closed: spot at
+                                            the entrance (O8, O2)
+017  Raised seat (Extra) ............... [ ] a raised seat visible  [ ] what is carved (O25)
+018  Among the shields ................. [ ] shields in view  [ ] count  [ ] Louis II's shield? (O8)
+019  Same spot ......................... [ ] (same; nothing new to see: story track)  [ ] the pulpit at the entrance (O8)
+020  Choir entrance, pulpit ............ [ ] pulpit on the RIGHT of the entrance?  [ ] spires in view  [ ] bishop's
+                                            throne  [ ] the crypt stair ahead (O8, O10, O2)
+021  Top of the crypt stair ............ [ ] stair open?  [ ] tomb in view from the top (O10)
+022  By the tomb ....................... [ ] spot out of the way of the steps  [ ] inscription round the edge  [ ] lid
+                                            scenes  [ ] keystone  [ ] 9th-century stone behind (O10)
+023  By the tomb, reliefs .............. [ ] reliefs visible?  [ ] carved heads on the arch?  [ ] the way up and round
+                                            the LEFT side of the altar (O10, O17, O2)
+024  Ambulatory, windows ............... [ ] walkway open  [ ] tall windows  [ ] Patrocini chapel  [ ] arms in the
+                                            glass (O17)
+025  Penyafort's tomb .................. [ ] chapel found and signed  [ ] tomb visible (O17, O5)
+026  Sacristy door, RIGHT of the altar . [ ] coffins high on the wall  [ ] spot to stand  [ ] the white marble cloister
+                                            door nearby (O16, O2)
+027  Beside the cloister door, inside .. [ ] choir in view looking back  [ ] spot out of the flow (O2, O19)
+028  Through the door, facing back ..... [ ] capitals  [ ] the fountain pavilion close by (O19, O9)
+029  Fountain pavilion ................. [ ] Saint George on top  [ ] the vault's keystone  [ ] way to the pond (O9)
+030  Pond in view ...................... [ ] pond  [ ] a far-side spot if crowded  [ ] the Pietat door (O9)
+031  Near the Pietat door .............. [ ] door and its Pietà  [ ] a carved capital in view  [ ] the Apostles'
+                                            chapel and Genesis capitals  [ ] tombstones? (O9, O19)
+032  Santa Llúcia doorway .............. [ ] doorway  [ ] capitals  [ ] tomb visible  [ ] the Chapter Hall next to it (O20)
+033  Jewish memory (Extra) ............. [ ] where  [ ] how reached  [ ] open  [ ] what is shown (O6; ALT-J, ALT-J2)
+034  Chapter Hall, the Pietà ........... [ ] painting  [ ] signature  [ ] spectacles  [ ] background (O21)
+035  Chapter Hall, the cases ........... [ ] monstrance?  [ ] font  [ ] Huguet  [ ] terracotta Eulàlia (O21; ALT-T)
+036  Inside the Santa Eulàlia door ..... [ ] quiet spot  [ ] the way out to Carrer del Bisbe  [ ] Pont del Bisbe in
+                                            view? (O1, O23)
+
+BRIDGES (Highlights H / Essential E):
+001 H>004 .... [ ] straight to a spot facing the whole front                                             (O13)
+002 E>004 .... [ ] from the Roman towers back to face the front                                           (O13)
+004 H,E>006 .. [ ] up the steps, in, a spot just inside                                                   (O1)
+006 H>018 .... [ ] up the nave to the choir's entrance; listen there if closed                            (O8)
+012 E>014 .... [ ] up the lift; the lantern tower in view                                                (O3, O7)
+015 E>018 .... [ ] lift down; into the choir; the shields; listen at the entrance if closed              (O3, O8)
+018 E>021 .... [ ] out of the choir to the top of the crypt stair                                          (O10, O2)
+018 H>022 .... [ ] out of the choir, down to the tomb (or the top of the stair if closed)                  (O10, O2)
+022 H,E>029 .. [ ] up, across the front of the altar to the white marble door; the fountain beside it     (O2, O9)
+030 H,E>034 .. [ ] round the cloister to the Chapter Hall beside Santa Llúcia; the Pietà                  (O20, O21)
+034 H,E>036 .. [ ] out of the museum to just inside the Santa Eulàlia door                                (O1, O23)
+
+-------------------------------------------------------------------------------
+LISTENING CHECKS FOR NAMES (after the first renders; human QA, V5 standard §6.7)
+-------------------------------------------------------------------------------
+Score each 1–5; anything below 4 goes to the per-engine override list. Full list: PLAN.md §7.
+[ ] Santa Eulàlia / Eulàlia (uh-oo-LAH-lee-uh): the saint, the bell, the door   [ ] la Seu; Pla de la Seu
+[ ] Sant Oleguer (oo-luh-GEH)   [ ] Almodis (ahl-MOH-dees)   [ ] Ramon Berenguer (ruh-MON buh-ren-GAY)
+[ ] Ermessenda; Pere Ramon; Guislabert; Tortosa; al-Bakri
+[ ] Pere Sanglada (san-GLAH-duh)   [ ] Michael Lochner (LOKH-ner)   [ ] Joan Frederic; Macià Bonafè
+[ ] Bartolomé Ordóñez (or-DOH-nyeth); Pedro Villar; Carrara
+[ ] Bartolomé Bermejo (ber-MEH-ho); Bartolomé de Cárdenas; Córdoba; OPUS BARTOLOMEI VERMEJO CORDUBENSIS
+[ ] Lluís Desplà (dus-PLAH); Casa de l'Ardiaca
+[ ] Jaume Fabre (FAH-bruh)   [ ] Lupo di Francesco   [ ] Bartomeu Gual (GWAL)   [ ] Andreu Escuder
+[ ] Carlí (kar-LEE); Rouen   [ ] Josep Oriol Mestres (MESS-truss)   [ ] August Font (FON)
+[ ] Manuel Girona (zhee-ROH-nuh)   [ ] Joan Martorell; Bernat Martorell (mur-too-RELL): two different men
+[ ] Gaudí; Lluís Domènech i Montaner   [ ] Agapit Vallmitjana (optional)
+[ ] Sant Ramon de Penyafort (puh-nyuh-FORT); Sóller; Santa Caterina; Pere Nolasc; Berenguer de Palou
+[ ] Jaume Huguet (oo-GET)   [ ] Giuliano di Nofri   [ ] Gil de Fontanet; Noli me tangere
+[ ] Sant Iu (EE-oo)   [ ] Sants Innocents   [ ] Santa Llúcia (LYOO-see-uh); Arnau de Gurb (GOORP)
+[ ] Pla de la Seu; Plaça Nova; Barcino; Joan Brossa; Carl Nesjar
+[ ] cimbori (seem-boo-REE)   [ ] trascor   [ ] carassa   [ ] Toisó d'Or (toy-ZOH DOR)   [ ] Joan de Borgonya
+[ ] Honorata; la Tomasa; l'Esquella de Prima; Francesc Calbetó
+[ ] Pere Flamenc; Antoni Carbonell; Gabriel Blancafort   [ ] Antoni Canet   [ ] Joan / Antoni Claperós
+[ ] Ponç de Gualba; Patrocini; Nicolau de Maraia   [ ] Frodoí; Santa Maria de les Arenes; Santa Maria del Mar
+[ ] Elisenda de Montcada; Peter the Ceremonious   [ ] Sarrià; Dacian; Mérida   [ ] Ramon d'Escales
+[ ] Sança Ximenis de Cabrera; Timbor de Prades   [ ] Eduard B. Alentorn; Benedicció del Terme
+[ ] ou com balla (OH-oo kom BAH-yuh); Font de Sant Jordi; Pietat   [ ] Dello Delli; Apòstols; Berenguer Vila
+[ ] Agustí Duran i Sanpere; Sant Sever   [ ] Palau de la Generalitat; Palau Reial Major; Frederic Marès
+[ ] Carrer del Bisbe; Pont del Bisbe; Carrer dels Comtes; Carrer de Mercaders   [ ] Bishop Sapera
+[ ] Stefan Hanß   [ ] Praetextatus; Almanzor   [ ] Usatges (optional)
+[ ] the cue separator "·" renders as a short pause
