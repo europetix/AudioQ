@@ -19,6 +19,7 @@
 
 "Use" column: **keep** (as is), **fix** (keep the story, correct the fact), **drop**.
 Source IDs [S#] point to the source list at the end.
+Grades marked "(not re-fetched)" are standard football records (finals, scores, honours) not separately fetched in this audit. Spot-check them before recording. "(title)" means a search-result headline only, not a full fetch.
 
 ## Summary
 
@@ -26,7 +27,7 @@ Source IDs [S#] point to the source list at the end.
 
 | Grade | Count |
 |---|---|
-| OK | 192 (19 of them "not re-fetched" standard records, 10 also DATED) |
+| OK | 192 (18 of them "not re-fetched" standard records; 6 also flagged DATED) |
 | PARTLY | 63 |
 | WRONG | 51 |
 | UNVERIFIED | 93 |
@@ -43,11 +44,6 @@ Source IDs [S#] point to the source list at the end.
 - One invented-sounding epigraph (the Vázquez Montalbán line) used as the cover line and the closing line.
 
 Rebuild it on the official Museum route (exhibition → SPOTIFY CAMP NOU LIVE 360º → Espai Barça exhibition → Construction Viewpoint). Reuse the verified stories listed in section 3, and put every date-sensitive line in a separately versioned "current season / works status" track.
-
----
-
-
-Grades marked "(not re-fetched)" are standard football records (finals, scores, honours) not separately fetched in this audit. Spot-check them before recording. "(title)" means a search-result headline only, not a full fetch.
 
 ---
 
