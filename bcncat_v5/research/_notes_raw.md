@@ -230,3 +230,120 @@ FAILED: https://www.ub.edu/sl/bil/itineraris/itinerari18.html (UB page temporari
 - "has, through time, become a symbol identified with the festival in the city."; egg, water, flowers "symbols of fertility and regeneration"; popularly the egg represents the host "or the body of Christ in the Eucharist"
 - origin "is difficult to pinpoint."; "since at least 1636", cathedral accounts record purchases of eggs for the fountain at Corpus and its octave; cloister fountain decorated "since at least 1580."
 - most traditional places: cathedral cloister + Casa de l'Ardiaca fountain; others Frederic Marès, Bones Lletres, Palau del Lloctinent, Ateneu, La Concepció
+[S18] betevé "Santa Eulàlia, l'antiga patrona de Barcelona" (Va passar aquí; J. Maâti Salvat & S. Hernández) 12 Feb 2024 https://beteve.cat/va-passar-aqui/santa-eulalia-antiga-patrona-barcelona/ CA OK
+- "Sarrià, cap al 290 – Barcelona, cap al 303"; "era una nena de 13 anys"; "Va rebre 13 tortures, una per cada any que tenia." (whipping, scraping, burning, fleas pen, molten lead, quicklime, barrel of glass and nails); "va ser crucificada a la plaça del Pedró"; barrel rolled down Baixada de Santa Eulàlia "en record seu"
+- 878 Frodoí found remains at Santa Maria de les Arenes; finger legend (canon)
+- "L'indret més sagrat de la Catedral és la cripta, on hi ha les seves restes."; "Copatrona de la ciutat"; Festes de la Mercè began 1871 under Rius i Taulet (related link)
+- "Santa Eulàlia era pastora d'oques i per això hi ha 13 oques a la Catedral" (popular); cloister reached through "Porta de la Santa"
+[S19] Enc. Cat. Catalunya Romànica "Epigrafia d'època romànica (Barcelona)" https://www.enciclopedia.cat/catalunya-romanica/epigrafia-depoca-romanica-barcelona CA (paraphrase only)
+- original marble sarcophagi probably reused Roman; during Gothic works remains of a count and a princess moved into wooden coffins (taüts) hung mid-height on sacristy wall
+- traditional transfer 1545 with Renaissance paintings; page disputes: earlier, during Gothic works
+- count traditionally Ramon Berenguer I (d.1076); Latin verse epitaph more likely Ramon Berenguer III (12th c hexameters)
+- princess: Almodis (d.1071) or Peronella (d.1173); Sança excluded (Sixena)
+- 1019 doc: Ramon Borrell's tomb in canons' cloister
+FAILED: https://www.enciclopedia.cat/gran-enciclopedia-catalana/almodis-de-la-marca (permission not answered; not retried, alias EC-GEC-0002842 also not tried)
+[S20] Enc. Cat. "Ramon Berenguer I de Barcelona" https://www.enciclopedia.cat/gran-enciclopedia-catalana/ramon-berenguer-i-de-barcelona CA OK
+- "el Vell"; b. c.1023, d.1076; count 1035–1076; m. Elisabet 1039 (d.1050); Blanca c.1051 repudiated; 1052 married Almodis de la Marca, both already married -> Pope Victor II excommunicated them
+- 1071 son Pere Ramon "matà la seva madrastra Almodis"; harsh penance, died childless
+- Usatges core "devia fer-se el 1064 i el 1068"; cathedral consecrated Nov 1058, many prelates; Ermessenda died 1058
+- "fou enterrat a la seu d'aquesta ciutat" (likely)
+[O10] catedralbcn.org "Saint Olegarius" https://catedralbcn.org/en/?p=2407 EN OK
+- Olegari Bonestruga, b. Barcelona noble family; canon; canon regular St Rufus of Avignon at Sant Adrià de Besòs; advised RB III and RB IV
+- 1116 bishop of Barcelona (RB III, Pope Paschal II); later Archbishop of Tarragona keeping Barcelona; administrator Tortosa
+- "He died on 6 March 1137 and was officially canonized in 1675." (vs O7 "1676")
+- every 6 March visitors can see chamber with glass case of "incorrupt body" in bishop's robes
+- Baroque sepulchre by Francesc Grau and Domènec Rovira II; Gothic sculpture by Pere Sanglada 1406 preserved
+[A4] Ajuntament barcelona.cat "Coneix BCN" La Catedral https://www.barcelona.cat/en/conocebcn/pics/la-catedral-92086000934 EN OK (has slips)
+- "King Jaume II, the Just, decided to construct a temple over the remains of an earlier Romanesque church."; guilds funded; "took more than 150 years, but never interrupted the religious services."
+- "70 m high, Neo-Gothic façade" (meta says "70-square-metre" slip)
+- "More than 215 rib vault keystones"; 29 dedicated chapels; "A hockey game is carved into the choir stalls"
+- 200 gargoyles incl. "a bull, a unicorn and an elephant"
+- 21 bells all women's names; Honorata: in 1714 "Philip V 'imprisoned' and melted down this bell in retaliation."
+- "thirteen white geese of Santa Eulàlia" one for each agony and each year
+- 3 May 9 am blessing; "Private center"; 37th Organ Cycle 21/10/2026–19/05/2027 (DATED)
+[A5] Ajuntament Cultura Popular "Carassa" https://barcelona.cat/culturapopular/en/festivals-and-traditions/festival-characters-and-elements/carassa EN OK
+- looks like Saracen, large beard, wide-open mouth; formerly placed under church organs: "It was the organists that made their eyes move and got sweets out of their mouths."; carasses "all over Catalonia"
+- Barcelona examples: Santa Maria del Mar, cathedral (16th c), Sant Just (Sant Just one "can still be seen in the sacristy")
+- lasted until mid-20th c; removed due to "the noise and commotion they caused in churches"; severed Moor's head "seen as an apology for xenophobia and racism"
+- 1988 revival by Coordinadora de Gegants i Bestiari de Ciutat Vella, made by Manel Casserras i Boix from the cathedral Carassa; Fira de Santa Llúcia December weekends
+[S21] Orgues Blancafort (organ builders) "L'orgue de la Catedral de Barcelona" https://www.orguesblancafort.com/en/portfolio/lorgue-de-la-catedral-de-barcelona EN OK
+- "the largest and most important historical organ in Catalonia."; lateral location near choir, flat facade with large painted doors
+- 5 June 1538 contract chapter with organbuilder Pere Flamenc and Antoni Carbonell (carving + cabinet work of case and grandstand); "480 years"
+- stages: Renaissance, baroque (1700), romantic (1935), now neo-baroque
+[S22] Museu Picasso Barcelona news 18 Jul 2012 "50 years of Picasso's friezes, Architects' College" https://museupicassobcn.cat/en/whats-on/news/50-years-picassos-friezes-architects-college-catalonia EN OK (OFF, municipal museum)
+- COAC HQ Plaça Nova opened May 1955; Picasso phoned Busquets 18 Oct 1960 "that the drawings were ready"; sandblasted concrete; Carl Nesjar; "The sand and mortar created a formidable cloud of dust."; architect Xavier Busquets i Sindreu (speech 9 Dec 1987)
+[A6] Arxiu Històric de la Ciutat (Ajuntament) "Casa de l'Ardiaca" https://ajuntament.barcelona.cat/arxiumunicipal/arxiuhistoric/en/casa-de-lardiaca EN OK
+- built c.12th c "taking advantage of part of Barcelona's old Roman wall."; end 15th c Archdeacon Lluís Desplà rebuilt Gothic "with some Renaissance features."
+- 1895 "became the headquarters of the Barcelona Lawyers' Association", Modernista "bust"(prob. relay of bústia = mailbox) by Domènech i Montaner from that period
+- 1919 city bought it for Historic Archives (Josep Goday)
+- Civil War bombing -> demolitions + opening of Avinguda de la Catedral; Florensa facades 1955–62; Amadó & Domènech renovation 1991–98
+[S23] Alhussin, R.(?) PhD UB 2017 "Barcelona en Reconstrucción: Espacios Públicos de Postguerra. Apertura de la Av. de la Catedral (1939-1958)" abstract https://tesisenred.net/handle/10803/405899 ES/EN — opening + urbanisation 1939–1958; urgent works in 1939 extraordinary budget for war-damaged municipal property; Adolf Florensa "Arquitecto Conservador de la Ciudad Antigua"
+[S24] Time Out Barcelona "Pont del Bisbe" https://timeout.com/barcelona/attractions/pont-del-bisbe EN OK — "Constructed in 1928 by Joan Rubió i Bellver."; "a recent addition to the Barri Gòtic"; connects Casa dels Canonges + Palau de la Generalitat; skull-and-dagger legend (curse; Barcelona destroyed if dagger removed; walk backwards wish)
+[S25] arquitecturacatalana.cat (COAC) "Façana principal i cimbori de la Catedral de Barcelona" https://www.arquitecturacatalana.cat/en/works/facana-principal-i-cimbori-de-la-catedral-de-barcelona EN OK
+- early 15th c discussions; master "Carlí Galter or Galtés of Rouen" design never executed
+- Josep Oriol Mestres i Esplugas cathedral architect, friend of Girona; with assistant August Font; Mestres dead by time scaffolding removed; Font became cathedral architect, added 2 lateral towers + decoration, lantern tower
+- "The Cathedral of Barcelona was begun in 1298."; "Construction finally began on 4 July 1887"; completed 12 Feb 1890 feast of Saint Eulalia
+- original design: apostles on jambs, Christ on mullion, tympanum tracery, 24 elders, angels, prophets, lobed rose; changes after criticism
+- lantern tower 1906–1912 (vs 1913), funded by Girona's children Manel and Anna; previously only to base of drum
+- Girona tried public funding first, failed, financed himself; pledged to fund Font's enhancements
+- public opinion favoured Joan Martorell's more ornate design; Royal Academy of San Fernando rejected it on "rather weak grounds", chose Mestres's design drawn by Girona; lantern later criticised for resembling Martorell's
+[S26] Universitat de Barcelona news Feb 2020 "An exhibition shows how the neo-gothic façade of the Barcelona cathedral was built" https://www.ub.edu/web/ub/en/menu_eines/noticies/2020/02/028.html EN OK
+- exhibition Pia Almoina, 18 Feb–12 Apr (2020), cathedral + Diocesan Museum; curators Cristina Rodríguez Samaniego, Natàlia Esquinas Giménez
+- 1408 design by "Charles Galters de Rouen"/"Carles Galtés"; sketch about 3 m high under restoration; "The lack of budget in medieval Barcelona prevented this project by Carles Galtés from being materialized."
+- 1882 competition: Joan Martorell i Montells (1833–1906) elevated ornamented design; Antoni Gaudí drafted the project; popular + press support; Manuel Girona i Agrafel (1817–1905) horizontal sober design won
+- elements of Martorell's added to Girona's -> criticism; final works ended 1913
+- Agapit Vallmitjana i Barbany (1832–1905) Christ and apostles
+[S27] Enc. Cat. "Manuel Girona i Agrafel" https://www.enciclopedia.cat/gran-enciclopedia-catalana/manuel-girona-i-agrafel CA OK
+- b. Tàrrega "1817?"; d. Barcelona 31 Oct 1905; banker; son of Ignasi Girona i Targa; 1844 Banco de Barcelona; financed railways, port, University, Liceu, 1888 Exhibition (royal commissioner); mayor of Barcelona 1876; Chamber of Commerce president 1886; Ateneu 1886; senator; refused Finance ministry 3 times (Cánovas); bought Castelldefels castle 1879; refused title marquès del Pla de Barcelona; "paid the cathedral facade" (no amount/dates)
+FAILED: https://bibliotecaepiscopalbcn.org/wp-content/uploads/2020/11/2013-La-Catedral-de-Barcelona.pdf (client_error; not retried)
+[A7] MUHBA, Cubeles i Bonet, A. "GÓTICO/BCN. Guía de historia urbana" (2017) https://www.barcelona.cat/museuhistoria/sites/default/files/guiagothic.pdf ES OK (no page numbers)
+- "el más antiguo es la Catedral, cuyas obras se iniciaron en 1298."; early phases unclear; much of wall on Carrer Comtes Romanesque; fully Gothic only after master Fabre 1317; "las obras de la catedral gótica implicaron la destrucción de la románica."
+- 1882 "se convocó un concurso restringido para terminar la fachada de la Catedral de Barcelona."; all entries from Carles Galters drawing (1408) in cathedral archive; winner Josep Oriol Mestres, conservation architect; Martorell rejected, assisted by Lluís Domènech i Montaner and Antoni Gaudí; Martorell's criticised as little to do with Catalan Gothic
+- facade built 1887–1890 financed by Manuel Girona; towers + cimborio 1906–1913 under August Font; facade neo-Gothic 1887–1913
+- Pia Almoina 15th c; Casas de l'Ardiaca y del Degà unified by restoration from 1870; neo-Gothic bridge Carrer del Bisbe 1928 J. Rubió i Bellver
+[S28] Mínguez, V. (UJI) "El Toisón de Oro: insignia heráldica y emblemática de la monarquía hispánica" https://www.studiolum.com/congreso/anejos_imago/anejos-1/Minguez_Victor_El_Toison_de_Oro_insigia_heraldica.pdf ES OK
+- p.19 19th chapter March 1519 in Barcelona Cathedral "la única vez que un Capítulo General se reunió en España"; p.22 "siendo gran maestre Carlos V"; p.19 "se conservan los escudos nobiliarios de los caballeros del Toisón en el coro de la catedral de Barcelona"
+SNIP: hebis record title "The coat of arms of Louis II, King of Hungary and Bohemia, in the choir of Barcelona Cathedral" https://hds.hebis.de/herder/Record/HEB510751040/Details
+[O11] catedralbcn.org "Revista de la Catedral" núm. 1, July 2026 https://catedralbcn.org/wp-content/uploads/2026/07/CATEDRAL-DE-BARCELONA-01.pdf CA/ES/EN OK (map p.39 not extractable)
+- Capella del Santíssim "servia com a Sala Capitular del Capítol catedralici"
+- 1936 Oleguer's tomb moved to crypt; Oleguer first buried in cloister; b. c.1060/1066 (inconsistent); canonised 25 May 1675; body to former chapter hall; tomb Francesc Grau + Domènec Rovira; recumbent statue Pere Ça Anglada; body incorrupt; mitre Byzantinising c.1137 maybe Sicily, restored 2022
+- cambril after 1675 (Fra Josep de la Concepció); body transferred 13 Nov 1701 procession attended by Philip V; Manuel Tramulles paintings 1759
+- Christ of Lepanto may date 13th c; restorations recovered original polychromy
+- organ 1539, reformed 1935, 1946, 1985–1994; Organ Cycle since 1990, run by Chapter since 2011
+- Sant Sever: "un dels espais de l'època del Barroc més ben conservats de Catalunya"; 1698 design Jaume Arnaudies, Joan Fiter; facade Jeroni Escarabatxeres 1703; restored 1911 Pericas; altarpiece Pere Costa i Cases 1754–55; paintings Viladomat, Joan Gallart; separate building on Carrer de Sant Sever
+- 4 new canons 31 Oct 2025; Card. Omella "Us convido a ser sants." (DATED)
+[S29] GCatholic.org "Catedral Basílica Metropolitana de la Santa Creu i Santa Eulàlia" https://gcatholic.org/churches/spain/0168 EN (directory; updated 12 Nov 2026) OK
+- Cathedral + Minor Basilica; minor basilica decree 1867.08.12 (pope not named); consecration 1058.11.18; John Paul II visit 1982.11.07; Pope Leo XIV visit 2026.06.09; Jubilee church 2016 + 2025
+[S30] Catalan News 9 Jun 2026 "Pope greets devotees in Catalan outside cathedral" https://www.catalannews.com/popes-visit/item/pope-greets-devotees-in-catalan-outside-cathedral EN OK — Leo XIV led "middle hour" prayer inside, greeted ~6,000 outside with Card. Omella; "bon dia i bona ora"; residence Episcopal Palace next to cathedral; Catalans "vocation to become builders of unity"
+[O12] Vatican, Leo XIV, Midday Prayer in the Cathedral of the Holy Cross and Saint Eulalia, 9 Jun 2026 https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20260609-spagna-preghiera-ora-media.html EN OK — "With great joy I begin my visit by praying Midday Prayer together with you in this Cathedral."; "Soon we will venerate the relics of Saint Eulalia, co-patroness of this Cathedral, the Archdiocese, and the city."; quotes JPII Angelus Barcelona 7 Nov 1982
+[A8] Diputació de Barcelona "Barcelona és molt més" "9 World Heritage buildings" https://www.barcelonaesmoltmes.cat/en/-/9-world-heritage-buildings EN OK — Parc Güell, Palau Güell, Casa Milà, Casa Vicens, Casa Batlló, Sagrada Família, Crypt Colònia Güell, Palau de la Música, Hospital de Sant Pau. Cathedral NOT listed.
+[S31] betevé, Sergi Hernández "Història de la Catedral gòtica de Barcelona" (Va passar aquí) 30 Apr 2021 (mod. 29 Apr 2022) https://beteve.cat/va-passar-aqui/catedral-barcelona-historia/ CA OK
+- works began 1 May 1298, first stone 7 May 1298 (!); Jaume II; finished c.mid-15th c without definitive conclusion
+- 5th–6th c baptistery next to Chapel of Sant Marc one of few remnants
+- dedicated Holy Cross 599; from 877 Eulalia
+- facade begun 1887, completed 1913, Mestres design; Girona funded
+- 997 damaged by Almanzor (vs 985); 1606 Sant Joan firecrackers nearly set it on fire
+- Civil War: Generalitat moved to protect building and artworks; Jan 1938 bomb by Italian fascist aircraft "destroyed part of it"(relay)
+- Barri de la Catedral disappeared completely 1958
+- Order of Mercy founded inside cathedral 1218 at high altar of Saint Eulalia
+- "rellotge dels flamencs" ~300 yrs 16th–19th c regulated city life
+- residents sharpened knives on exterior walls; marks still visible
+- ou com balla arrived at cathedral 1637 (vs 1636)
+- Cant de la Sibil·la every Christmas since 2009; UNESCO ICH 2010 (Sibil·la of Mallorca? careful)
+[S32] Enc. Cat. "Pere Nolasc" https://www.enciclopedia.cat/gran-enciclopedia-catalana/pere-nolasc CA OK — b. c.1180, d. Barcelona 1249; "El 1218, basant-se en la miraculosa aparició de la Mercè, la confraria es constituí orde."; "El 19 d'agost d'aquell any" Bishop Berenguer de Palou gave white habit to Nolasc + 13 knights, "el bisbe de Barcelona, Berenguer de Palou, amb l'assessorament de Ramon de Penyafort", Jaume I granted royal arms; place NOT stated; Gregory IX confirmed 1235; canonised 1688
+[S33] Jardí Anguera, M. "La galeria de migdia i el brollador del claustre de la catedral de Barcelona: l'activitat del taller d'Antoni Claperós", Matèria 21 (2023) 49–70 https://revistes.ub.edu/index.php/materia/article/download/34994/39591/116540 CA OK
+- p.49 "La catedral de Barcelona, dedicada a la santa Creu i santa Eulàlia, es va iniciar el 1298."; Bishop Bernat Pelegrí (1288–1300); cloister begun mid-14th c; fountain keystone placed 1449; 4 galleries quadripartite vaults
+- fountain pavilion SE corner; star vault 4 evangelists; central keystone St George slaying dragon before princess; 4 keystones red cross on silver
+- p.50 fountain near church door not refectory (symbolic?); 21 imposts Old + New Testament; maybe stone Biblia Pauperum, Bishop Francesc Climent Sapera (1348–1430)
+- pp.56–57 fountain vault Sep 1448–Mar 1449; closing celebrated 20 Apr 1449
+- p.56 lightning 5 Apr 1582 and 27 Aug 1646
+- p.68 23 Apr 1456 Generalitat proclamation made St George's Day public holiday; festivities in cloister fountain area; 1456 Dietari "Aquest die fonch feta crida pública per la ciutat de Barchinona."
+FAILED: https://publicacions.iec.cat/repository/pdf/00000059\00000094.pdf (robots_disallowed; not retried)
+[S34] Valero Molina, J., Enc. Cat. L'art gòtic "L'escultura decorativa a la catedral de Barcelona" https://www.enciclopedia.cat/lart-gotic-a-catalunya/lescultura-decorativa-a-la-catedral-de-barcelona CA OK
+- Pere Joan 1418 "la gran clau de volta del tercer tram de la nau central"
+- Sant Marc chapel keystones (closed late 1431), maybe Pere de Santjoan; beneficiary "gremi de sabaters" (shoemakers' guild)
+- Sant Sever chapel keystone 1411 (Martinet, Pere Torregrossa, Pere Gelopa)
+- 1450 Joan Claperós "realitzà nombroses gàrgoles"
+- cloister capitals Genesis; Adam & Eve labours/expulsion attributed Dello Delli (Daniel Nicolau) working 1434; Bertran Tolosa, Llorenç Reixac (1440), Antoni Claperós
+- Porta de la Pietat tympanum "atribuït amb versemblança a Miquel Lochner"
+- Porta de Santa Eulàlia statue of saint now in Cathedral Museum linked to Claperós
