@@ -519,3 +519,37 @@ Catalan for Catalan names, Castilian for Spanish ones, Dutch, Hungarian, German,
 17. **The anthem's lyrics:** FACTS allows one line ("Tot el camp és un clam"). AUDIT quotes "tant se val d'on venim, si del sud o del nord" (it doesn't matter where we come from, south or north) as a legacy line. Recommended: one line only (copyright, FACTS); the lead may swap which line.
 18. **FACTS_GAPS has not landed.** When it does: fold its overrides; settle the [G-wait] items (§7b); any new story becomes an optional line, or a new Extra only by the lead's re-plan (Full is already ≈ 92; a new Extra costs ≈ 2 min). Candidate swaps if G is rich: the Palau Blaugrana's teams could become a W Extra by the door instead of 005 (colours); a Les Corts story could join the bench cluster instead of 032 (anthem).
 19. **O2 is the release risk.** The plan is built so a move rewrites 001, 003, 006, 024–029, 034 and every cue, not the stories. The lead checks the ticket page weekly and on the day before recording.
+
+## Lead's decisions on §8 (14 Nov 2026) — binding; they override anything above
+1. **Highlights = 6 tracks** (001 008 022 024 028 034). 001 says: "the full tour about an hour and a half, the
+   essential about an hour, and the highlights about thirty-five minutes, walking and the show in the round room
+   included." Keep until O21.
+2. Story Extras typed W, short ones X, as planned.
+3. Confirmed: "If you're on the full tour" only in 016 and 029; Full-only tracks announce the next Extra plainly.
+4. Confirmed: "Go out and have fun" lives in 008 only, attributed as the words on his statue / as the story is told
+   (never "Salid y disfrutad"; never a scene as fact unless G names who told it).
+5. **1 October 2017: out** (lint bans "behind closed doors" and the date).
+6. Sunyol's presidential box: one DATED, attributed, no-blame sentence in 019 **only if** FACTS_GAPS gives a second
+   source; otherwise cut. His election: "in 1935".
+7. Walter Wild: AUDIT wins once G confirms (else F1.9's safe wording). Maradona's Bernabéu applause: out unless G
+   settles it on an official page; 033's payoff rests on Ronaldinho.
+8. **No sums of money in speech** (lint bans pesetas, € and "million/billion euros"). "More than four times the
+   estimate" is fine.
+9. Access 9: landmarks only until O1 confirms; then 001 may say it once (lint exception exists for 001 only).
+10. Lint updated with every §1 proposal and the three exceptions (031 Kubala correction; 023 debut wording; 001 gate;
+    034 may name the store, neutrally, only if O7 confirms the exit runs through it).
+11. **Essential = 18 tracks: add 027 (the members)** → ≈ 62 min, still spoken "about an hour". Order: 001 006 008
+    009 011 012 014 015 016 021 022 023 024 026 027 028 029 034. Bridges: 026 needs none (027 follows); 027 E → 028
+    takes 026's old E bridge text.
+12. Highlights stays 6 (La Masia and the women's team live in E and F).
+13. No "today's team" track.
+14. The official audio guide: never in speech.
+15. Jorge Messi's death: out.
+16. Napkin copy: default no; the napkin is spoken of only as sold at auction in 2024, never as here.
+17. **No anthem lyrics quoted, not even one line** (the 1974 words are in copyright). 032 describes what the anthem
+    says in our own words ("a song that says it doesn't matter where you come from") and who wrote it. Lint bans the
+    known lines.
+18. FACTS_GAPS: the lead folds it in when it lands. The [G-wait] tracks (003 004 007 008 013 014 015 016 020 031 033)
+    are written after it, by a separate writer. A new Extra only by the lead's re-plan.
+19. O2 is the release risk: the lead checks the ticket page before recording; the route layer is rewritten if the
+    new museum opens.
