@@ -1,0 +1,28 @@
+# Translation brief — FC Barcelona Museum at Spotify Camp Nou, Yo Tours, edition of 14 Nov 2026 (34 tracks). ONE language: ES, FR or DE.
+
+The English is final after two independent audits and a fixer. Translate it faithfully for LISTENING (a synthetic voice reads it: ES Dalia es-MX, FR Vivienne, DE Katja). Navigation accuracy first, then facts, then naturalness.
+
+## Files
+- Source (read-only): /home/claude/audioq/campnou_v5/v5/tracks/NNN.perf.txt (001–034). Translate only @title, @where (drop any [O…]/ALT bracket at its end) and the spoken body after `---`.
+- Bridges (read-only): /home/claude/audioq/campnou_v5/v5/bridges/{A,B,C,D}.txt. Lines starting "#" are notes: never translate them. Each other line is `NNN E>MMM: text` or `NNN H>MMM: text`.
+- Context: campnou_v5/v5/PLAN.md (Conventions, §4 NEVER, both lead's-decision sections at the end), campnou_v5/research/FACTS_NOV2026.md §19 names and §21 quotes, FACTS_GAPS_NOV2026.md, v5/notes/*_NOTES.md (the writers' notes list each quote's original language and source).
+- Output: /tmp/claude-0/-home-claude/98e7af58-dd32-56e0-a687-5f082c01b624/scratchpad/cn_i18n/<lang>/NNN.json = {"title": "...", "where": "...", "body": "..."} for all 34, and <lang>/bridges.txt (one line per English bridge, same key). Notes: cn_i18n/notes/<lang>_001-034.md.
+- Self-check (must pass for all 34): python3 /home/claude/audioq/campnou_v5/v5/i18n/assemble.py --check /tmp/claude-0/-home-claude/98e7af58-dd32-56e0-a687-5f082c01b624/scratchpad/cn_i18n <lang>
+  It requires: the same delivery tags in the same order, no fewer [pause]/[long pause], the same number of paragraphs, NOT longer than the English in words (aim ~5% shorter), every year of the English as digits, no ; or ( in speech, no unknown tags.
+
+## Rules
+1. Meaning exactly as the English: every hedge and attribution ("the club says", "the club's history", "the story goes", "as Jordi tells it", "a historian", "Real Madrid's own history"), every "If you're on the full tour…", every number, score and date. Add nothing, drop nothing.
+2. Formal address (ES usted, FR vous, DE Sie). Natural spoken style; short sentences; no symbols the voice may misread (+ & % · ×) except the " · " separator in the spoken cue form `<place> · <title>` at the end of each last paragraph and of each bridge, which stays. Scores spoken as words as the English does ("cuatro a cero", "quatre à zéro", "vier zu null").
+3. Names: the club's own. Catalan names stay Catalan as the English has them (Joan Gamper, Josep Sunyol, Palau Blaugrana, Palau de Gel, Les Corts, Montjuïc, La Masia, Gol Nord, Gol 1957, culers, socis, blaugrana, Més que un club, Cant del Barça, Cant de la Senyera, La Mercè, Carrer de la Indústria, Estadi Johan Cruyff, Estadi del FC Barcelona). Football terms as your language's sports press says them (ES Copa de Europa / Liga de Campeones; FR Coupe d'Europe des clubs champions / Ligue des champions; DE Europapokal der Landesmeister / Champions League; Ballon d'Or stays Ballon d'Or; Clásico). Display names (the wall of trophies, the European Cups, the wall of shirts, Messi's space, the round room, the models, the viewpoint, the old benches, a quiet corner, the way out, the entrance hall, Cruyff's display, the Masia display, the Més que un club display) get ONE fixed translation each, identical in every title, cue and bridge. Keep a glossary in your notes.
+4. Honesty in 001 (this ticket doesn't go into the stadium) and the 360° warning (001, 024): translate exactly, warmly, without softening.
+5. Spoken cue form: `<place> · <title>` exactly as your translated @title of the destination track (place = the part before " · "). Extras keep "Extra".
+6. Bridges: one per English bridge, same key, starting ES "En esta versión corta," FR "Dans cette version courte," DE "In dieser Kurzfassung"; not longer than the English line. 024's bridges stay conditional ("when the show is over").
+7. Numbers: years as digits; other numbers as people say them. Version names: ES recorrido completo / versión esencial / imprescindibles; FR visite complète / version essentielle / incontournables; DE vollständige Tour / Kernversion / Highlights.
+8. Tense: past for the dead (Gamper, Sunyol, Kubala, Cruyff, Maradona, de Carreras, Samitier, Luis Suárez Miramontes, Daučík, John Paul II…), as the English.
+9. NEVER (PLAN §4): "Nou Camp"; "the biggest stadium in the world"; the napkin "here/in this museum"; eight Ballons d'Or won at Barça; "Franco ordered"; "the regime's club"; sums of money; anthem lyrics; 1 October 2017; gate numbers. Keep every "the story goes" and every correction of a popular error.
+10. Quotations. The English translates quotes originally in Spanish, Catalan, English or Dutch. In ES you may use the ORIGINAL Spanish wording of a Spanish-original quote (e.g. "Salid y disfrutad" stays as in the English in every language; Real Madrid's own wording; the 1943 Ya headline; Rexach's words to ESPN if the original is Spanish) only after verifying it on the cited page (WebFetch, one page at a time, never in bursts, never curl/browser, never a CAPTCHA); otherwise translate the English faithfully, keeping the attribution and the "in Catalan/in Spanish" framing adapted (ES: "en catalán"; for Spanish originals in ES you may drop "en español"). FR/DE: translate faithfully from the English. Never invent or tidy a quote. If verification fails, say so in your notes; reported speech is acceptable.
+11. Tags: keep every delivery tag in place. No asterisks.
+
+## Notes file
+List: your glossary; every quote and how handled (verified original / translated); anything ambiguous in the English; anything you think is wrong in the English (do not fix it, report it).
+Final reply ≤150 words.
