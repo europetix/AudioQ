@@ -22,3 +22,9 @@ legacy covered during the guide, like how we did for Santiago (Real Madrid)". So
 audit the old guide claim by claim (`research/AUDIT_OLD_GUIDE_NOV2026.md`), keep every verified rich story, correct or
 drop the wrong ones, and make sure the club's legacy (players, coaches, the women's team, La Masia, the members'
 model, Catalan identity) and fun stories are fully covered. The old guide is a lead for topics, never a source.
+
+## User decision, 14 Nov 2026: reaching 90 minutes
+Asked where the extra stories should go (the Museum rooms honestly fill ≈ 60–70 min), the user chose "More stories
+inside": extra story/legacy tracks played inside the ticketed visit (at benches, quieter corners, the viewpoint), not
+an outside campus walk. Plan them so they don't clog busy rooms: standing/sitting tracks that need no view until their
+last paragraph, placed where there is room to stop. Full ≈ 90 min.
